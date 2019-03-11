@@ -37,6 +37,7 @@ plt.plot(x, att.casual_attack(copy.deepcopy(graphUPA)), label="Grafo UPA")
 plt.xlabel("Nodi rimossi in ordine casuale")
 plt.ylabel("Dimensione componente connessa massima")
 plt.legend()
+plt.title("Attacco casuale (p=" + str(p) + ", m=" + str(m) + ")")
 print("Ended first attack(casual_attack)...")
 
 # Show first plot
@@ -50,6 +51,7 @@ plt.plot(x, att.ordered_attack(graphUPA), label="Grafo UPA")
 plt.xlabel("Nodi rimossi in ordine decrescente di grado")
 plt.ylabel("Dimensione componente connessa massima")
 plt.legend()
+plt.title("Attacco ordinato (p=" + str(p) + ", m=" + str(m) + ")")
 print("Ended second attack(ordered_attack)...")
 
 # Show second plot
