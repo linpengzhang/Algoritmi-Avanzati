@@ -1,26 +1,33 @@
 from Graph import Graph
 import random
-import collections
 
 class AttackGraphs:
     """
     Class that contains the attack functions used against the Graph
     """
 
-    def casual_remove(self, g: Graph):
-        r = random.choice(list(g.graph.keys()))
-        for v in g.graph[r]:
-            g.graph[v].discard(r)
-        del g.graph[r]
+    def remove_node(self, g: Graph, node: int):
+        for v in g.graph[node]:
+            g.graph[v].discard(node)
+        del g.graph[node]
 
     def casual_attack(self, g: Graph):
-        n = len(g.graph)
-        y = collections.deque()
-        y.append(self.calc_resilience(g))
-        for _ in range(n):
-            self.casual_remove(g)
-            y.append(self.calc_resilience(g))
-        return y
+        res_values = []
+        res_values.append(self.calc_resilience(g))
+        for _ in range(g.number_of_nodes()):
+            r = random.choice(list(g.graph.keys()))
+            self.remove_node(g, r)
+            res_values.append(self.calc_resilience(g))
+        return res_values
+
+    def ordered_attack(self, g: Graph):
+        order = [k for k, _ in sorted(g.graph.items(), key=lambda k_v: len(k_v[1]), reverse=True)]
+        res_values = []
+        res_values.append(self.calc_resilience(g))
+        for i in order:
+            self.remove_node(g, i)
+            res_values.append(self.calc_resilience(g))
+        return res_values
 
     def calc_resilience(self, g:Graph):
         return max(list(map(len,g.connected_components())), default=0)
@@ -35,23 +42,10 @@ class AttackGraphs:
     #                 max_res = t_res
     #     return max_res
 
-    # def dfs_visited(g, u, n, visited):
+    # def dfs_visited(self, g, u, n, visited):
     #     visited[u] = True
     #     n = n+1
-    #     for v in g[u]:
+    #     for v in g.graph[u]:
     #         if not visited[v]:
-    #             n = dfs_visited(g, v, n, visited)
+    #             n = self.dfs_visited(g, v, n, visited)
     #     return n
-
-    def ordered_attack(self, g: Graph):
-        order = [k for k, _ in sorted(g.graph.items(), key=lambda k_v: len(k_v[1]), reverse=True)]
-        y = collections.deque()
-        y.append(self.calc_resilience(g))
-
-        for i in order:
-            for v in g.graph[i]:
-                g.graph[v].discard(i)
-            del g.graph[i]
-
-            y.append(self.calc_resilience(g))
-        return y
