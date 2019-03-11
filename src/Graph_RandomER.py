@@ -18,5 +18,5 @@ class GraphRandomER(Graph):
             for v in range(u + 1, number_of_nodes):
                 a = random.random()
                 if a < p:
-                    self.graph[u] |= {v}
-                    self.graph[v] |= {u}
+                    self.graph[u].add(v)
+                    self.graph[v].add(u)
