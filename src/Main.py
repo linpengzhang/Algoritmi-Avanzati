@@ -4,6 +4,8 @@ from Graph_RandomUPA import GraphRandomUPA
 from AttackGraph import AttackGraphs
 import matplotlib.pyplot as plt
 import copy
+import sys
+sys.setrecursionlimit(10000)
 
 # Read file and create main graph
 real_graph = GraphFromFile("networkFiles/teacherNetwork.txt")

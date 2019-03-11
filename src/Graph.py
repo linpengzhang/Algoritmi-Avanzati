@@ -33,10 +33,8 @@ class Graph:
         return sum(len(self.graph.get(i)) for i in self.graph) / 2
 
     def connected_components(self):
-        color = {}
-        for v in self.graph:
-            color[v] = "white"
-        cc = list()
+        color = {v: "white" for v in self.graph}
+        cc = []
         for v in self.graph:
             if color[v] == "white":
                 comp = self.dfs_visited(color, v, set())
@@ -45,7 +43,7 @@ class Graph:
 
     def dfs_visited(self, color, u, visited):
         color[u] = "gray"
-        visited |= {u}
+        visited.add(u)
         for v in self.graph[u]:
             if color[v] == "white":
                 visited = self.dfs_visited(color, v, visited)
