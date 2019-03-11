@@ -1,10 +1,12 @@
+from collections import defaultdict
+
 class Graph:
     """
     Class used to represent a undirected graph using a Python Dictionary
     """
 
     def __init__(self):
-        self.graph = {}
+        self.graph = defaultdict(set)
 
     def sum_all_degrees(self):
         """

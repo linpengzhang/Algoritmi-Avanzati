@@ -29,7 +29,6 @@ att = AttackGraphs()
 
 # First attack
 print("Starting first attack(casual_attack)...")
-plt.subplot(2, 1, 1)
 plt.plot(x, att.casual_attack(copy.deepcopy(real_graph)), label="Grafo reale")
 plt.plot(x, att.casual_attack(copy.deepcopy(graphEr)), label="Grafo ER")
 plt.plot(x, att.casual_attack(copy.deepcopy(graphUPA)), label="Grafo UPA")
@@ -38,9 +37,11 @@ plt.ylabel("Dimensione componente connessa massima")
 plt.legend()
 print("Ended first attack(casual_attack)...")
 
+# Show first plot
+plt.show()
+
 # Second attack
 print("Starting second attack(ordered_attack)...")
-plt.subplot(2, 1, 2)
 plt.plot(x, att.ordered_attack(real_graph), label="Grafo reale")
 plt.plot(x, att.ordered_attack(graphEr), label="Grafo ER")
 plt.plot(x, att.ordered_attack(graphUPA), label="Grafo UPA")
@@ -49,7 +50,7 @@ plt.ylabel("Dimensione componente connessa massima")
 plt.legend()
 print("Ended second attack(ordered_attack)...")
 
-# Show the plot
+# Show second plot
 plt.show()
 
 print("Script end")
