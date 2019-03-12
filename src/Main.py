@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from Graph_FromFile import GraphFromFile
 from Graph_RandomER import GraphRandomER
 from Graph_RandomUPA import GraphRandomUPA
