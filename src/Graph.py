@@ -30,12 +30,12 @@ class Graph:
         """
         :return: Return the number of edges in the graph
         """
-        return sum(len(self.graph.get(i)) for i in self.graph) / 2
+        return sum(len(self.graph.get(i)) for i in self.graph.keys()) / 2
 
     def connected_components(self):
-        color = {v: "white" for v in self.graph}
+        color = {v: "white" for v in self.graph.keys()}
         cc = []
-        for v in self.graph:
+        for v in self.graph.keys():
             if color[v] == "white":
                 comp = self.dfs_visited(color, v, set())
                 cc.append(comp)

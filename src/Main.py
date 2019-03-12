@@ -27,6 +27,7 @@ print("Edges in UPA graph randomly generated:", graphUPA.number_of_edges())
 
 # Prepare the data and plot the data
 x = list(range(0, nodes + 1))
+soglia_grafo_resiliente = [0.75*(nodes-i) for i in x]
 att = AttackGraphs()
 
 # First attack
@@ -34,6 +35,8 @@ print("Starting first attack(casual_attack)...")
 plt.plot(x, att.casual_attack(copy.deepcopy(real_graph)), label="Grafo reale")
 plt.plot(x, att.casual_attack(copy.deepcopy(graphEr)), label="Grafo ER")
 plt.plot(x, att.casual_attack(copy.deepcopy(graphUPA)), label="Grafo UPA")
+plt.plot(x, soglia_grafo_resiliente, color="red", linewidth=1, linestyle="--",label="Soglia grafo resiliente")
+plt.axvline(x=nodes*0.2, color="black", linewidth=1,linestyle="--",label="20% dei nodi eliminati")
 plt.xlabel("Nodi rimossi in ordine casuale")
 plt.ylabel("Dimensione componente connessa massima")
 plt.legend()
@@ -48,6 +51,8 @@ print("Starting second attack(ordered_attack)...")
 plt.plot(x, att.ordered_attack(real_graph), label="Grafo reale")
 plt.plot(x, att.ordered_attack(graphEr), label="Grafo ER")
 plt.plot(x, att.ordered_attack(graphUPA), label="Grafo UPA")
+plt.plot(x, soglia_grafo_resiliente, color="red", linewidth=1, linestyle="--", label="Soglia grafo resiliente")
+plt.axvline(x=nodes*0.2, color="black", linewidth=1, linestyle="--", label="20% dei nodi eliminati")
 plt.xlabel("Nodi rimossi in ordine decrescente di grado")
 plt.ylabel("Dimensione componente connessa massima")
 plt.legend()
