@@ -11,16 +11,11 @@ class GraphFromFile(Graph):
         self.read_graph_from_file(filename)
 
     def read_graph_from_file(self, filename: str):
-        lines = open(filename, 'r').readlines()
-        for row in lines:
+        file = open(filename, 'r')
+        for row in file:
             if not row.startswith('#'):
                 u, v = [int(val) for val in row.split()]
                 if u != v:
-                    if u in self.graph:
-                        self.graph[u] |= {v}
-                    else:
-                        self.graph[u] = {v}
-                    if v in self.graph:
-                        self.graph[v] |= {u}
-                    else:
-                        self.graph[v] = {u}
+                    self.graph[u].add(v)
+                    self.graph[v].add(u)
+        file.close()

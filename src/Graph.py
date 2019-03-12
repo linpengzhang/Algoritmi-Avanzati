@@ -1,10 +1,13 @@
+from collections import defaultdict
+
+
 class Graph:
     """
     Class used to represent a undirected graph using a Python Dictionary
     """
 
     def __init__(self):
-        self.graph = {}
+        self.graph = defaultdict(set)
 
     def sum_all_degrees(self):
         """
@@ -28,14 +31,12 @@ class Graph:
         """
         :return: Return the number of edges in the graph
         """
-        return sum(len(self.graph.get(i)) for i in self.graph) / 2
+        return sum(len(self.graph.get(i)) for i in self.graph.keys()) / 2
 
     def connected_components(self):
-        color = {}
-        for v in self.graph:
-            color[v] = "white"
-        cc = list()
-        for v in self.graph:
+        color = {v: "white" for v in self.graph.keys()}
+        cc = []
+        for v in self.graph.keys():
             if color[v] == "white":
                 comp = self.dfs_visited(color, v, set())
                 cc.append(comp)
@@ -43,7 +44,7 @@ class Graph:
 
     def dfs_visited(self, color, u, visited):
         color[u] = "gray"
-        visited |= {u}
+        visited.add(u)
         for v in self.graph[u]:
             if color[v] == "white":
                 visited = self.dfs_visited(color, v, visited)

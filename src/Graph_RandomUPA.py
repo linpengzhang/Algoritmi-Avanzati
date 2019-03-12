@@ -11,7 +11,7 @@ class GraphRandomUPA(Graph):
         Graph.__init__(self)
         self.generate_random_er(number_of_nodes, m)
 
-    def generate_random_er(self, number_of_nodes: int, m: int):
+    def generate_random_er(self, number_of_nodes: int, er_m: int):
         num_nodes = 0
         node_numbers = []
 
@@ -21,28 +21,24 @@ class GraphRandomUPA(Graph):
             num_nodes = m
             node_numbers = []
             for upa_trial_index in range(m):
-                node_numbers = node_numbers + [upa_trial_index for j in range(m)]
+                node_numbers.extend([upa_trial_index for _ in range(m)])
 
         def run_trial(m: int):
             nonlocal num_nodes
             nonlocal node_numbers
             v1 = set()
-            for i in range(1, m + 1):
+            for _ in range(m):
                 v1.add(random.choice(node_numbers))
             node_numbers.append(num_nodes)
-            node_numbers = node_numbers + [j for j in v1]
+            node_numbers.extend(v1)
             num_nodes += 1
             return v1
 
-        for u in range(0, m):
-            self.graph[u] = set()
-        for u in range(0, m - 1):
-            for v in range(u + 1, m):
-                self.graph[u] |= {v}
-                self.graph[v] |= {u}
-        upa_trial(m)
-        for u in range(m, number_of_nodes):
-            v1 = run_trial(m)
-            self.graph[u] = set(v1)
+        for u in range(0, er_m):
+            self.graph[u] = {v for v in range(0, er_m) if v != u}
+        upa_trial(er_m)
+        for u in range(er_m, number_of_nodes):
+            v1 = run_trial(er_m)
+            self.graph[u] = v1
             for i in v1:
-                self.graph[i] |= {u}
+                self.graph[i].add(u)
