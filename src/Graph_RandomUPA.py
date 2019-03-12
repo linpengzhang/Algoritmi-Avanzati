@@ -11,7 +11,7 @@ class GraphRandomUPA(Graph):
         Graph.__init__(self)
         self.generate_random_er(number_of_nodes, m)
 
-    def generate_random_er(self, number_of_nodes: int, m: int):
+    def generate_random_er(self, number_of_nodes: int, er_m: int):
         num_nodes = 0
         node_numbers = []
 
@@ -34,11 +34,11 @@ class GraphRandomUPA(Graph):
             num_nodes += 1
             return v1
 
-        for u in range(0, m):
-            self.graph[u] = {v for v in range(0, m) if v != u}
-        upa_trial(m)
-        for u in range(m, number_of_nodes):
-            v1 = run_trial(m)
+        for u in range(0, er_m):
+            self.graph[u] = {v for v in range(0, er_m) if v != u}
+        upa_trial(er_m)
+        for u in range(er_m, number_of_nodes):
+            v1 = run_trial(er_m)
             self.graph[u] = v1
             for i in v1:
                 self.graph[i].add(u)

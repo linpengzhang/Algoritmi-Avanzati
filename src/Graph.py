@@ -1,5 +1,6 @@
 from collections import defaultdict
 
+
 class Graph:
     """
     Class used to represent a undirected graph using a Python Dictionary
