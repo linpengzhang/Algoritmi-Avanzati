@@ -39,7 +39,7 @@ class Graph:
         for v in self.graph.keys():
             if color[v] == "white":
                 actual_size = self.dfs_visited(color, v, 0)
-                if(actual_size>max):
+                if actual_size > max:
                     max = actual_size
         return max
 
