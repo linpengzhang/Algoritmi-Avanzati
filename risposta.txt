@@ -1,0 +1,16 @@
+Linpeng Zhang 1162114
+Michele
+Martino Echerle 1206691
+
+Domanda 1.
+Il valore di n corrisponde al numero di nodi (6474).
+Per calcolare il valore di p, si e' osservato che il numero di archi generati dall'algoritmo ER e' una distribuzione binomiale di parametri p e (n*(n-1)/2) e quindi di media p*(n*(n-1)/2). Il grafo reale contiene e=12572 archi (dopo aver escluso gli archi non validi), quindi si ottiene che p=2*e/(n*(n-1)).
+Per calcolare il valore di m, e' stato calcolato il grado medio del grafo come somma del grado di ciascun nodo diviso il numero di nodi, e diviso per due, che arrotondato corrisponde all'intero 2.
+
+Domanda 2.
+Con l'attacco casuale, dopo aver rimosso il 20% dei nodi, tutti e tre i grafi risultano resilienti.
+
+Domanda 4.
+Con l'attacco che disattiva i nodi in ordine decrescente di grado, solamente il grafo generato con l'algoritmo ER risulta resiliente dopo aver rimosso il 20% dei nodi. Questo risultato e' giustificato dal fatto che nel grafo ER gli archi sono equidistribuiti, al contrario del grafo UPA che possiede pochi nodi con molti archi e molti nodi invece con pochi archi.
+
+Nota: le risposte relative alla resilienza dei grafi ER e UPA sono legate all'esecuzione che ha generato i grafici allegati; diverse esecuzioni generano risultati pressoche' simili, tuttavia non si puo' escludere che con una molto bassa probabilita' la resilienza ottenuta abbia andamenti anche significativamente diversi.
