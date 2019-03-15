@@ -33,20 +33,21 @@ class Graph:
         """
         return sum(len(self.graph.get(i)) for i in self.graph.keys()) / 2
 
-    def connected_components(self):
+    def max_size_connected_component(self):
         color = {v: "white" for v in self.graph.keys()}
-        cc = []
+        max = 0
         for v in self.graph.keys():
             if color[v] == "white":
-                comp = self.dfs_visited(color, v, set())
-                cc.append(comp)
-        return cc
+                actual_size = self.dfs_visited(color, v, 0)
+                if(actual_size>max):
+                    max = actual_size
+        return max
 
-    def dfs_visited(self, color, u, visited):
+    def dfs_visited(self, color, u, dim):
         color[u] = "gray"
-        visited.add(u)
+        dim = dim + 1
         for v in self.graph[u]:
             if color[v] == "white":
-                visited = self.dfs_visited(color, v, visited)
+                dim = self.dfs_visited(color, v, dim)
         color[u] = "black"
-        return visited
+        return dim
