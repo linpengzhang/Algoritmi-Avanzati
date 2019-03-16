@@ -35,13 +35,13 @@ class Graph:
 
     def max_size_connected_component(self):
         color = {v: "white" for v in self.graph.keys()}
-        max = 0
+        max_size = 0
         for v in self.graph.keys():
             if color[v] == "white":
                 actual_size = self.dfs_visited(color, v, 0)
-                if actual_size > max:
-                    max = actual_size
-        return max
+                if actual_size > max_size:
+                    max_size = actual_size
+        return max_size
 
     def dfs_visited(self, color, u, dim):
         color[u] = "gray"
