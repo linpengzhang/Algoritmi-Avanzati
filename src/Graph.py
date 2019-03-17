@@ -34,6 +34,9 @@ class Graph:
         return sum(len(self.graph.get(i)) for i in self.graph.keys()) / 2
 
     def max_size_connected_component(self):
+        """
+        :return: Return the maximum size of a connected component
+        """
         color = {v: "white" for v in self.graph.keys()}
         max_size = 0
         for v in self.graph.keys():
@@ -44,6 +47,9 @@ class Graph:
         return max_size
 
     def dfs_visited(self, color, u, dim):
+        """
+        :return: Return the size of the connected component which contains the node u
+        """
         color[u] = "gray"
         dim = dim + 1
         for v in self.graph[u]:

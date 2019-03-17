@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 
 from Graph_FromFile import GraphFromFile
 from Graph_RandomER import GraphRandomER
@@ -29,7 +28,8 @@ graphEr = GraphRandomER(nodes, p)
 graphUPA = GraphRandomUPA(nodes, m)
 
 # Print the generated data to check how similar it is
-print("Edges in graph from text file:", real_graph.number_of_edges())
+print("Nodes in graphs:", nodes)
+print("Edges in graph from text file:", edges)
 print("Edges in ER graph randomly generated:", graphEr.number_of_edges())
 print("Edges in UPA graph randomly generated:", graphUPA.number_of_edges())
 
