@@ -29,7 +29,8 @@ class GraphRandomUPA(Graph):
             v1 = set()
             for _ in range(m):
                 v1.add(random.choice(node_numbers))
-            node_numbers.append(num_nodes)
+            # essendo il grafo non orientato, l'ultimo nodo aggiunto ha grado |v1| e non 0
+            node_numbers.extend([num_nodes for _ in range(len(v1) + 1)])
             node_numbers.extend(v1)
             num_nodes += 1
             return v1
