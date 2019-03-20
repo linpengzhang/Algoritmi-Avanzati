@@ -32,7 +32,7 @@ class AttackGraphs:
         """
         res_values = [g.max_size_connected_component()]
         num_nodes = g.number_of_nodes()
-        deg_sets = [set([]) for _ in range(num_nodes)]
+        deg_sets = [set() for _ in range(num_nodes)]
         # deg_sets è indicizzata per grado: deg_sets[a] contiene i nodi che hanno grado pari ad a
         for v in g.graph.keys():
             deg = len(g.graph[v])
