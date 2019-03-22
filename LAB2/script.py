@@ -4,7 +4,12 @@ from time import sleep
 import heapq
 import glob
 import sys
-
+#suddividerlo e renderlo più carino
+#fare decreasekey in modo decente
+#ricostruire il percorso sfruttando p
+#grafico
+#heap binaria anche sugli archi paralleli anziché set
+#general improvements
 def relax(u,v, edge, d, p):
     d[v] = edge.time_arrival
     p[v] = (u,edge)
@@ -18,38 +23,40 @@ class Graph:
         """
         return len(self.graph)
 
-    def initsssp(self, s, oraArrivo):
+    def initsssp(self, s, inizio):
         d={}
         p={}
         for v in self.graph.keys():
             d[v]=100000
             p[v]=(-1,-1)
-        d[s] = oraArrivo
+        d[s] = inizio
         return d,p
     def nodes(self):
         return self.graph.keys()
-    def dijkstrasssp(self, s, oraArrivo):
-        d, p = self.initsssp(s, oraArrivo)
+    def dijkstrasssp(self, s, inizio):
+        d, p = self.initsssp(s, inizio)
         Q=[]
         for i in self.nodes():
             heapq.heappush(Q, (d[i], i))
         while len(Q)>0:
-            (arrivo,u)=heapq.heappop(Q)
+            u=heapq.heappop(Q)[1] #estraggo nodo con tempo di arrivo minimo
             for v in self.graph[u].keys() :
-                min = 10000
+                min = 100000
                 for edge in self.graph[u][v] :
                     if d[u]<=edge.time_departure:
                         if edge.time_arrival<min:
                             min=edge.time_arrival
                             bestEdge = edge
-                if 'bestEdge' in locals() and bestEdge.time_arrival<d[v]:
-                    relax(u,v,edge,d,p)
-                    for (priority,node) in Q:
-                        if node == v:
-                            priority = d[v]
+                if min<100000 and bestEdge.time_arrival<d[v]:
+                    relax(u,v,bestEdge,d,p)
+
+                    for i in range(len(Q)): #equivalente a decreasekey(Q,v,d[v]) da implementare meglio
+                        if Q[i][1] == v:
+                            Q[i] = (d[v],v)
                     heapq.heapify(Q)
-                    #decreasekey(Q,v,d[v])
-        return d["300000044"]
+
+        print(d["300000044"])
+        return d
         
 class Route: 
   def __init__(self, time_departure=0, time_arrival=0, route_uid=""): 
@@ -74,8 +81,10 @@ for filename in glob.glob(dir):
             if not(lines[i].startswith('*') or lines[i+1].startswith('*')):
                 row = lines[i]
                 nextrow = lines[i+1]
-                g.graph[row[0:9]][nextrow[0:9]].add(Route(int(row[39:44]), int(nextrow[32:37]), corsa_uid))
-
-print(g.dijkstrasssp(500000079, 1300))
-
+                oraPartenza = row[39:44]
+                oraArrivo = nextrow[32:37]
+                g.graph[row[0:9]][nextrow[0:9]].add(Route(int(oraPartenza), int(oraArrivo), corsa_uid))
+                if nextrow[39:44].isspace() and not (nextrow[0:9] in g.graph.keys()):
+                    g.graph[nextrow[0:9]] = defaultdict(set)
+d = g.dijkstrasssp("500000079", 1300)
 # algoritmo cammini minimi
