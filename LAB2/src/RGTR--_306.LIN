@@ -1,0 +1,960 @@
+*F 03 2
+*Z 04362 RGTR--                                             % 04362 RGTR--
+*L 306      221301026 500000083  00808  00939               % 04362 RGTR--
+*A ag 221301026 500000083 000016  00808  00939              % 04362 RGTR--
+*A lo 221301026 500000083 000016  00808  00939              % 04362 RGTR--
+*R 1 500000083 221301026 500000083  00808  00939            % 04362 RGTR--
+*G RGB 221301026 500000083  00808  00939                    % 04362 RGTR--
+*A VE 221301026 500000083 000016  00808  00939              % 04362 RGTR--
+*I FD 221301026 500000083        0002226  00808  00939      % 04362 RGTR--
+221301026 Belvaux, Lycée Bel-V         00808                % 04362 RGTR--
+221301027 Belvaux, Um Bedding   00810  00810                % 04362 RGTR--
+220402077 Esch/Alzette, Porte   00811  00811                % 04362 RGTR--
+220402120 Esch/Alzette, Cité d  00813  00813                % 04362 RGTR--
+220701011 Leudelange, Op der S  00824  00824                % 04362 RGTR--
+220701003 Leudelange, Edeleck   00825  00825                % 04362 RGTR--
+200412018 Gasperich, Scharfen   00835  00835                % 04362 RGTR--
+200412006 Gasperich, Cloche d'  00836  00836                % 04362 RGTR--
+200412021 Gasperich, Gerhard M  00838  00838                % 04362 RGTR--
+200304017 Gasperich/Howald, P&  00839  00839                % 04362 RGTR--
+180703008 Wasserbillig, Meseni  00906  00906                % 04362 RGTR--
+180703002 Wasserbillig, Cimeti  00910  00910                % 04362 RGTR--
+180703005 Wasserbillig, Op der  00911  00911                % 04362 RGTR--
+500000115 Igel, Kirche          00915  00915                % 04362 RGTR--
+500000106 Zewen, Kantstraße     00919  00919                % 04362 RGTR--
+500000107 Zewen, Im Siebenborn  00920  00920                % 04362 RGTR--
+500000081 Trier, P&R Messegelä  00926  00926                % 04362 RGTR--
+500000082 Trier, Pacelliufer    00929  00929                % 04362 RGTR--
+500000077 Trier, Bei der Römer  00931  00931                % 04362 RGTR--
+500000080 Trier, Nordallee      00933  00933                % 04362 RGTR--
+500000078 Trier, Christophstr.  00935  00935                % 04362 RGTR--
+500000083 Trier, Theodor-Heuss  00939                       % 04362 RGTR--
+*Z 04363 RGTR--                                             % 04363 RGTR--
+*L 306      221301026 500000083  01538  01709               % 04363 RGTR--
+*A ag 221301026 500000083 000016  01538  01709              % 04363 RGTR--
+*A lo 221301026 500000083 000016  01538  01709              % 04363 RGTR--
+*R 1 500000083 221301026 500000083  01538  01709            % 04363 RGTR--
+*G RGB 221301026 500000083  01538  01709                    % 04363 RGTR--
+*A VE 221301026 500000083 000016  01538  01709              % 04363 RGTR--
+*I FD 221301026 500000083        0002534  01538  01709      % 04363 RGTR--
+221301026 Belvaux, Lycée Bel-V         01538                % 04363 RGTR--
+221301027 Belvaux, Um Bedding   01540  01540                % 04363 RGTR--
+220402077 Esch/Alzette, Porte   01541  01541                % 04363 RGTR--
+220402120 Esch/Alzette, Cité d  01543  01543                % 04363 RGTR--
+220701011 Leudelange, Op der S  01554  01554                % 04363 RGTR--
+220701003 Leudelange, Edeleck   01555  01555                % 04363 RGTR--
+200412018 Gasperich, Scharfen   01605  01605                % 04363 RGTR--
+200412006 Gasperich, Cloche d'  01606  01606                % 04363 RGTR--
+200412021 Gasperich, Gerhard M  01608  01608                % 04363 RGTR--
+200304017 Gasperich/Howald, P&  01609  01609                % 04363 RGTR--
+180703008 Wasserbillig, Meseni  01636  01636                % 04363 RGTR--
+180703002 Wasserbillig, Cimeti  01640  01640                % 04363 RGTR--
+180703005 Wasserbillig, Op der  01641  01641                % 04363 RGTR--
+500000115 Igel, Kirche          01645  01645                % 04363 RGTR--
+500000106 Zewen, Kantstraße     01649  01649                % 04363 RGTR--
+500000107 Zewen, Im Siebenborn  01650  01650                % 04363 RGTR--
+500000081 Trier, P&R Messegelä  01656  01656                % 04363 RGTR--
+500000082 Trier, Pacelliufer    01659  01659                % 04363 RGTR--
+500000077 Trier, Bei der Römer  01701  01701                % 04363 RGTR--
+500000080 Trier, Nordallee      01703  01703                % 04363 RGTR--
+500000078 Trier, Christophstr.  01705  01705                % 04363 RGTR--
+500000083 Trier, Theodor-Heuss  01709                       % 04363 RGTR--
+*Z 04364 RGTR--                                             % 04364 RGTR--
+*L 306      221301026 500000083  01608  01739               % 04364 RGTR--
+*A ag 221301026 500000083 000016  01608  01739              % 04364 RGTR--
+*A lo 221301026 500000083 000016  01608  01739              % 04364 RGTR--
+*R 1 500000083 221301026 500000083  01608  01739            % 04364 RGTR--
+*G RGB 221301026 500000083  01608  01739                    % 04364 RGTR--
+*A VE 221301026 500000083 000016  01608  01739              % 04364 RGTR--
+*I FD 221301026 500000083        0002230  01608  01739      % 04364 RGTR--
+221301026 Belvaux, Lycée Bel-V         01608                % 04364 RGTR--
+221301027 Belvaux, Um Bedding   01610  01610                % 04364 RGTR--
+220402077 Esch/Alzette, Porte   01611  01611                % 04364 RGTR--
+220402120 Esch/Alzette, Cité d  01613  01613                % 04364 RGTR--
+220701011 Leudelange, Op der S  01624  01624                % 04364 RGTR--
+220701003 Leudelange, Edeleck   01625  01625                % 04364 RGTR--
+200412018 Gasperich, Scharfen   01635  01635                % 04364 RGTR--
+200412006 Gasperich, Cloche d'  01636  01636                % 04364 RGTR--
+200412021 Gasperich, Gerhard M  01638  01638                % 04364 RGTR--
+200304017 Gasperich/Howald, P&  01639  01639                % 04364 RGTR--
+180703008 Wasserbillig, Meseni  01706  01706                % 04364 RGTR--
+180703002 Wasserbillig, Cimeti  01710  01710                % 04364 RGTR--
+180703005 Wasserbillig, Op der  01711  01711                % 04364 RGTR--
+500000115 Igel, Kirche          01715  01715                % 04364 RGTR--
+500000106 Zewen, Kantstraße     01719  01719                % 04364 RGTR--
+500000107 Zewen, Im Siebenborn  01720  01720                % 04364 RGTR--
+500000081 Trier, P&R Messegelä  01726  01726                % 04364 RGTR--
+500000082 Trier, Pacelliufer    01729  01729                % 04364 RGTR--
+500000077 Trier, Bei der Römer  01731  01731                % 04364 RGTR--
+500000080 Trier, Nordallee      01733  01733                % 04364 RGTR--
+500000078 Trier, Christophstr.  01735  01735                % 04364 RGTR--
+500000083 Trier, Theodor-Heuss  01739                       % 04364 RGTR--
+*Z 04365 RGTR--                                             % 04365 RGTR--
+*L 306      221301026 500000083  01638  01809               % 04365 RGTR--
+*A ag 221301026 500000083 000016  01638  01809              % 04365 RGTR--
+*A lo 221301026 500000083 000016  01638  01809              % 04365 RGTR--
+*R 1 500000083 221301026 500000083  01638  01809            % 04365 RGTR--
+*G RGB 221301026 500000083  01638  01809                    % 04365 RGTR--
+*A VE 221301026 500000083 000016  01638  01809              % 04365 RGTR--
+*I FD 221301026 500000083        0002530  01638  01809      % 04365 RGTR--
+221301026 Belvaux, Lycée Bel-V         01638                % 04365 RGTR--
+221301027 Belvaux, Um Bedding   01640  01640                % 04365 RGTR--
+220402077 Esch/Alzette, Porte   01641  01641                % 04365 RGTR--
+220402120 Esch/Alzette, Cité d  01643  01643                % 04365 RGTR--
+220701011 Leudelange, Op der S  01654  01654                % 04365 RGTR--
+220701003 Leudelange, Edeleck   01655  01655                % 04365 RGTR--
+200412018 Gasperich, Scharfen   01705  01705                % 04365 RGTR--
+200412006 Gasperich, Cloche d'  01706  01706                % 04365 RGTR--
+200412021 Gasperich, Gerhard M  01708  01708                % 04365 RGTR--
+200304017 Gasperich/Howald, P&  01709  01709                % 04365 RGTR--
+180703008 Wasserbillig, Meseni  01736  01736                % 04365 RGTR--
+180703002 Wasserbillig, Cimeti  01740  01740                % 04365 RGTR--
+180703005 Wasserbillig, Op der  01741  01741                % 04365 RGTR--
+500000115 Igel, Kirche          01745  01745                % 04365 RGTR--
+500000106 Zewen, Kantstraße     01749  01749                % 04365 RGTR--
+500000107 Zewen, Im Siebenborn  01750  01750                % 04365 RGTR--
+500000081 Trier, P&R Messegelä  01756  01756                % 04365 RGTR--
+500000082 Trier, Pacelliufer    01759  01759                % 04365 RGTR--
+500000077 Trier, Bei der Römer  01801  01801                % 04365 RGTR--
+500000080 Trier, Nordallee      01803  01803                % 04365 RGTR--
+500000078 Trier, Christophstr.  01805  01805                % 04365 RGTR--
+500000083 Trier, Theodor-Heuss  01809                       % 04365 RGTR--
+*Z 04366 RGTR--                                             % 04366 RGTR--
+*L 306      221301026 500000083  01708  01839               % 04366 RGTR--
+*A ag 221301026 500000083 000016  01708  01839              % 04366 RGTR--
+*A lo 221301026 500000083 000016  01708  01839              % 04366 RGTR--
+*R 1 500000083 221301026 500000083  01708  01839            % 04366 RGTR--
+*G RGB 221301026 500000083  01708  01839                    % 04366 RGTR--
+*A VE 221301026 500000083 000016  01708  01839              % 04366 RGTR--
+*I FD 221301026 500000083        0002228  01708  01839      % 04366 RGTR--
+221301026 Belvaux, Lycée Bel-V         01708                % 04366 RGTR--
+221301027 Belvaux, Um Bedding   01710  01710                % 04366 RGTR--
+220402077 Esch/Alzette, Porte   01711  01711                % 04366 RGTR--
+220402120 Esch/Alzette, Cité d  01713  01713                % 04366 RGTR--
+220701011 Leudelange, Op der S  01724  01724                % 04366 RGTR--
+220701003 Leudelange, Edeleck   01725  01725                % 04366 RGTR--
+200412018 Gasperich, Scharfen   01735  01735                % 04366 RGTR--
+200412006 Gasperich, Cloche d'  01736  01736                % 04366 RGTR--
+200412021 Gasperich, Gerhard M  01738  01738                % 04366 RGTR--
+200304017 Gasperich/Howald, P&  01739  01739                % 04366 RGTR--
+180703008 Wasserbillig, Meseni  01806  01806                % 04366 RGTR--
+180703002 Wasserbillig, Cimeti  01810  01810                % 04366 RGTR--
+180703005 Wasserbillig, Op der  01811  01811                % 04366 RGTR--
+500000115 Igel, Kirche          01815  01815                % 04366 RGTR--
+500000106 Zewen, Kantstraße     01819  01819                % 04366 RGTR--
+500000107 Zewen, Im Siebenborn  01820  01820                % 04366 RGTR--
+500000081 Trier, P&R Messegelä  01826  01826                % 04366 RGTR--
+500000082 Trier, Pacelliufer    01829  01829                % 04366 RGTR--
+500000077 Trier, Bei der Römer  01831  01831                % 04366 RGTR--
+500000080 Trier, Nordallee      01833  01833                % 04366 RGTR--
+500000078 Trier, Christophstr.  01835  01835                % 04366 RGTR--
+500000083 Trier, Theodor-Heuss  01839                       % 04366 RGTR--
+*Z 04367 RGTR--                                             % 04367 RGTR--
+*L 306      221301026 500000083  01738  01909               % 04367 RGTR--
+*A ag 221301026 500000083 000016  01738  01909              % 04367 RGTR--
+*A lo 221301026 500000083 000016  01738  01909              % 04367 RGTR--
+*R 1 500000083 221301026 500000083  01738  01909            % 04367 RGTR--
+*G RGB 221301026 500000083  01738  01909                    % 04367 RGTR--
+*A VE 221301026 500000083 000016  01738  01909              % 04367 RGTR--
+*I FD 221301026 500000083        0002531  01738  01909      % 04367 RGTR--
+221301026 Belvaux, Lycée Bel-V         01738                % 04367 RGTR--
+221301027 Belvaux, Um Bedding   01740  01740                % 04367 RGTR--
+220402077 Esch/Alzette, Porte   01741  01741                % 04367 RGTR--
+220402120 Esch/Alzette, Cité d  01743  01743                % 04367 RGTR--
+220701011 Leudelange, Op der S  01754  01754                % 04367 RGTR--
+220701003 Leudelange, Edeleck   01755  01755                % 04367 RGTR--
+200412018 Gasperich, Scharfen   01805  01805                % 04367 RGTR--
+200412006 Gasperich, Cloche d'  01806  01806                % 04367 RGTR--
+200412021 Gasperich, Gerhard M  01808  01808                % 04367 RGTR--
+200304017 Gasperich/Howald, P&  01809  01809                % 04367 RGTR--
+180703008 Wasserbillig, Meseni  01836  01836                % 04367 RGTR--
+180703002 Wasserbillig, Cimeti  01840  01840                % 04367 RGTR--
+180703005 Wasserbillig, Op der  01841  01841                % 04367 RGTR--
+500000115 Igel, Kirche          01845  01845                % 04367 RGTR--
+500000106 Zewen, Kantstraße     01849  01849                % 04367 RGTR--
+500000107 Zewen, Im Siebenborn  01850  01850                % 04367 RGTR--
+500000081 Trier, P&R Messegelä  01856  01856                % 04367 RGTR--
+500000082 Trier, Pacelliufer    01859  01859                % 04367 RGTR--
+500000077 Trier, Bei der Römer  01901  01901                % 04367 RGTR--
+500000080 Trier, Nordallee      01903  01903                % 04367 RGTR--
+500000078 Trier, Christophstr.  01905  01905                % 04367 RGTR--
+500000083 Trier, Theodor-Heuss  01909                       % 04367 RGTR--
+*Z 04368 RGTR--                                             % 04368 RGTR--
+*L 306      221301026 500000083  00908  01027               % 04368 RGTR--
+*A ag 221301026 500000083 000016  00908  01027              % 04368 RGTR--
+*A lo 221301026 500000083 000016  00908  01027              % 04368 RGTR--
+*R 1 500000083 221301026 500000083  00908  01027            % 04368 RGTR--
+*G RGB 221301026 500000083  00908  01027                    % 04368 RGTR--
+*A VE 221301026 500000083 000016  00908  01027              % 04368 RGTR--
+*I FD 221301026 500000083        0002227  00908  01027      % 04368 RGTR--
+221301026 Belvaux, Lycée Bel-V         00908                % 04368 RGTR--
+221301027 Belvaux, Um Bedding   00910  00910                % 04368 RGTR--
+220402077 Esch/Alzette, Porte   00911  00911                % 04368 RGTR--
+220402120 Esch/Alzette, Cité d  00912  00912                % 04368 RGTR--
+220701011 Leudelange, Op der S  00924  00924                % 04368 RGTR--
+220701003 Leudelange, Edeleck   00924  00924                % 04368 RGTR--
+200412018 Gasperich, Scharfen   00928  00928                % 04368 RGTR--
+200412006 Gasperich, Cloche d'  00929  00929                % 04368 RGTR--
+200412021 Gasperich, Gerhard M  00931  00931                % 04368 RGTR--
+200304017 Gasperich/Howald, P&  00931  00931                % 04368 RGTR--
+180703008 Wasserbillig, Meseni  00958  00958                % 04368 RGTR--
+180703002 Wasserbillig, Cimeti  01001  01001                % 04368 RGTR--
+180703005 Wasserbillig, Op der  01002  01002                % 04368 RGTR--
+500000115 Igel, Kirche          01006  01006                % 04368 RGTR--
+500000106 Zewen, Kantstraße     01010  01010                % 04368 RGTR--
+500000107 Zewen, Im Siebenborn  01011  01011                % 04368 RGTR--
+500000081 Trier, P&R Messegelä  01016  01016                % 04368 RGTR--
+500000082 Trier, Pacelliufer    01018  01018                % 04368 RGTR--
+500000077 Trier, Bei der Römer  01019  01019                % 04368 RGTR--
+500000080 Trier, Nordallee      01022  01022                % 04368 RGTR--
+500000078 Trier, Christophstr.  01023  01023                % 04368 RGTR--
+500000083 Trier, Theodor-Heuss  01027                       % 04368 RGTR--
+*Z 04369 RGTR--                                             % 04369 RGTR--
+*L 306      221301026 500000083  01008  01127               % 04369 RGTR--
+*A ag 221301026 500000083 000016  01008  01127              % 04369 RGTR--
+*A lo 221301026 500000083 000016  01008  01127              % 04369 RGTR--
+*R 1 500000083 221301026 500000083  01008  01127            % 04369 RGTR--
+*G RGB 221301026 500000083  01008  01127                    % 04369 RGTR--
+*A VE 221301026 500000083 000016  01008  01127              % 04369 RGTR--
+*I FD 221301026 500000083        0002224  01008  01127      % 04369 RGTR--
+221301026 Belvaux, Lycée Bel-V         01008                % 04369 RGTR--
+221301027 Belvaux, Um Bedding   01010  01010                % 04369 RGTR--
+220402077 Esch/Alzette, Porte   01011  01011                % 04369 RGTR--
+220402120 Esch/Alzette, Cité d  01012  01012                % 04369 RGTR--
+220701011 Leudelange, Op der S  01024  01024                % 04369 RGTR--
+220701003 Leudelange, Edeleck   01024  01024                % 04369 RGTR--
+200412018 Gasperich, Scharfen   01028  01028                % 04369 RGTR--
+200412006 Gasperich, Cloche d'  01029  01029                % 04369 RGTR--
+200412021 Gasperich, Gerhard M  01031  01031                % 04369 RGTR--
+200304017 Gasperich/Howald, P&  01031  01031                % 04369 RGTR--
+180703008 Wasserbillig, Meseni  01058  01058                % 04369 RGTR--
+180703002 Wasserbillig, Cimeti  01101  01101                % 04369 RGTR--
+180703005 Wasserbillig, Op der  01102  01102                % 04369 RGTR--
+500000115 Igel, Kirche          01106  01106                % 04369 RGTR--
+500000106 Zewen, Kantstraße     01110  01110                % 04369 RGTR--
+500000107 Zewen, Im Siebenborn  01111  01111                % 04369 RGTR--
+500000081 Trier, P&R Messegelä  01116  01116                % 04369 RGTR--
+500000082 Trier, Pacelliufer    01118  01118                % 04369 RGTR--
+500000077 Trier, Bei der Römer  01119  01119                % 04369 RGTR--
+500000080 Trier, Nordallee      01122  01122                % 04369 RGTR--
+500000078 Trier, Christophstr.  01123  01123                % 04369 RGTR--
+500000083 Trier, Theodor-Heuss  01127                       % 04369 RGTR--
+*Z 04370 RGTR--                                             % 04370 RGTR--
+*L 306      221301026 500000083  01108  01227               % 04370 RGTR--
+*A ag 221301026 500000083 000016  01108  01227              % 04370 RGTR--
+*A lo 221301026 500000083 000016  01108  01227              % 04370 RGTR--
+*R 1 500000083 221301026 500000083  01108  01227            % 04370 RGTR--
+*G RGB 221301026 500000083  01108  01227                    % 04370 RGTR--
+*A VE 221301026 500000083 000016  01108  01227              % 04370 RGTR--
+*I FD 221301026 500000083        0001215  01108  01227      % 04370 RGTR--
+221301026 Belvaux, Lycée Bel-V         01108                % 04370 RGTR--
+221301027 Belvaux, Um Bedding   01110  01110                % 04370 RGTR--
+220402077 Esch/Alzette, Porte   01111  01111                % 04370 RGTR--
+220402120 Esch/Alzette, Cité d  01112  01112                % 04370 RGTR--
+220701011 Leudelange, Op der S  01124  01124                % 04370 RGTR--
+220701003 Leudelange, Edeleck   01124  01124                % 04370 RGTR--
+200412018 Gasperich, Scharfen   01128  01128                % 04370 RGTR--
+200412006 Gasperich, Cloche d'  01129  01129                % 04370 RGTR--
+200412021 Gasperich, Gerhard M  01131  01131                % 04370 RGTR--
+200304017 Gasperich/Howald, P&  01131  01131                % 04370 RGTR--
+180703008 Wasserbillig, Meseni  01158  01158                % 04370 RGTR--
+180703002 Wasserbillig, Cimeti  01201  01201                % 04370 RGTR--
+180703005 Wasserbillig, Op der  01202  01202                % 04370 RGTR--
+500000115 Igel, Kirche          01206  01206                % 04370 RGTR--
+500000106 Zewen, Kantstraße     01210  01210                % 04370 RGTR--
+500000107 Zewen, Im Siebenborn  01211  01211                % 04370 RGTR--
+500000081 Trier, P&R Messegelä  01216  01216                % 04370 RGTR--
+500000082 Trier, Pacelliufer    01218  01218                % 04370 RGTR--
+500000077 Trier, Bei der Römer  01219  01219                % 04370 RGTR--
+500000080 Trier, Nordallee      01222  01222                % 04370 RGTR--
+500000078 Trier, Christophstr.  01223  01223                % 04370 RGTR--
+500000083 Trier, Theodor-Heuss  01227                       % 04370 RGTR--
+*Z 04371 RGTR--                                             % 04371 RGTR--
+*L 306      221301026 500000083  01208  01327               % 04371 RGTR--
+*A ag 221301026 500000083 000016  01208  01327              % 04371 RGTR--
+*A lo 221301026 500000083 000016  01208  01327              % 04371 RGTR--
+*R 1 500000083 221301026 500000083  01208  01327            % 04371 RGTR--
+*G RGB 221301026 500000083  01208  01327                    % 04371 RGTR--
+*A VE 221301026 500000083 000016  01208  01327              % 04371 RGTR--
+*I FD 221301026 500000083        0002222  01208  01327      % 04371 RGTR--
+221301026 Belvaux, Lycée Bel-V         01208                % 04371 RGTR--
+221301027 Belvaux, Um Bedding   01210  01210                % 04371 RGTR--
+220402077 Esch/Alzette, Porte   01211  01211                % 04371 RGTR--
+220402120 Esch/Alzette, Cité d  01212  01212                % 04371 RGTR--
+220701011 Leudelange, Op der S  01224  01224                % 04371 RGTR--
+220701003 Leudelange, Edeleck   01224  01224                % 04371 RGTR--
+200412018 Gasperich, Scharfen   01228  01228                % 04371 RGTR--
+200412006 Gasperich, Cloche d'  01229  01229                % 04371 RGTR--
+200412021 Gasperich, Gerhard M  01231  01231                % 04371 RGTR--
+200304017 Gasperich/Howald, P&  01231  01231                % 04371 RGTR--
+180703008 Wasserbillig, Meseni  01258  01258                % 04371 RGTR--
+180703002 Wasserbillig, Cimeti  01301  01301                % 04371 RGTR--
+180703005 Wasserbillig, Op der  01302  01302                % 04371 RGTR--
+500000115 Igel, Kirche          01306  01306                % 04371 RGTR--
+500000106 Zewen, Kantstraße     01310  01310                % 04371 RGTR--
+500000107 Zewen, Im Siebenborn  01311  01311                % 04371 RGTR--
+500000081 Trier, P&R Messegelä  01316  01316                % 04371 RGTR--
+500000082 Trier, Pacelliufer    01318  01318                % 04371 RGTR--
+500000077 Trier, Bei der Römer  01319  01319                % 04371 RGTR--
+500000080 Trier, Nordallee      01322  01322                % 04371 RGTR--
+500000078 Trier, Christophstr.  01323  01323                % 04371 RGTR--
+500000083 Trier, Theodor-Heuss  01327                       % 04371 RGTR--
+*Z 04372 RGTR--                                             % 04372 RGTR--
+*L 306      221301026 500000083  01308  01427               % 04372 RGTR--
+*A ag 221301026 500000083 000016  01308  01427              % 04372 RGTR--
+*A lo 221301026 500000083 000016  01308  01427              % 04372 RGTR--
+*R 1 500000083 221301026 500000083  01308  01427            % 04372 RGTR--
+*G RGB 221301026 500000083  01308  01427                    % 04372 RGTR--
+*A VE 221301026 500000083 000016  01308  01427              % 04372 RGTR--
+*I FD 221301026 500000083        0002455  01308  01427      % 04372 RGTR--
+221301026 Belvaux, Lycée Bel-V         01308                % 04372 RGTR--
+221301027 Belvaux, Um Bedding   01310  01310                % 04372 RGTR--
+220402077 Esch/Alzette, Porte   01311  01311                % 04372 RGTR--
+220402120 Esch/Alzette, Cité d  01312  01312                % 04372 RGTR--
+220701011 Leudelange, Op der S  01324  01324                % 04372 RGTR--
+220701003 Leudelange, Edeleck   01324  01324                % 04372 RGTR--
+200412018 Gasperich, Scharfen   01328  01328                % 04372 RGTR--
+200412006 Gasperich, Cloche d'  01329  01329                % 04372 RGTR--
+200412021 Gasperich, Gerhard M  01331  01331                % 04372 RGTR--
+200304017 Gasperich/Howald, P&  01331  01331                % 04372 RGTR--
+180703008 Wasserbillig, Meseni  01358  01358                % 04372 RGTR--
+180703002 Wasserbillig, Cimeti  01401  01401                % 04372 RGTR--
+180703005 Wasserbillig, Op der  01402  01402                % 04372 RGTR--
+500000115 Igel, Kirche          01406  01406                % 04372 RGTR--
+500000106 Zewen, Kantstraße     01410  01410                % 04372 RGTR--
+500000107 Zewen, Im Siebenborn  01411  01411                % 04372 RGTR--
+500000081 Trier, P&R Messegelä  01416  01416                % 04372 RGTR--
+500000082 Trier, Pacelliufer    01418  01418                % 04372 RGTR--
+500000077 Trier, Bei der Römer  01419  01419                % 04372 RGTR--
+500000080 Trier, Nordallee      01422  01422                % 04372 RGTR--
+500000078 Trier, Christophstr.  01423  01423                % 04372 RGTR--
+500000083 Trier, Theodor-Heuss  01427                       % 04372 RGTR--
+*Z 04373 RGTR--                                             % 04373 RGTR--
+*L 306      221301026 500000083  01408  01527               % 04373 RGTR--
+*A ag 221301026 500000083 000016  01408  01527              % 04373 RGTR--
+*A lo 221301026 500000083 000016  01408  01527              % 04373 RGTR--
+*R 1 500000083 221301026 500000083  01408  01527            % 04373 RGTR--
+*G RGB 221301026 500000083  01408  01527                    % 04373 RGTR--
+*A VE 221301026 500000083 000016  01408  01527              % 04373 RGTR--
+*I FD 221301026 500000083        0002225  01408  01527      % 04373 RGTR--
+221301026 Belvaux, Lycée Bel-V         01408                % 04373 RGTR--
+221301027 Belvaux, Um Bedding   01410  01410                % 04373 RGTR--
+220402077 Esch/Alzette, Porte   01411  01411                % 04373 RGTR--
+220402120 Esch/Alzette, Cité d  01412  01412                % 04373 RGTR--
+220701011 Leudelange, Op der S  01424  01424                % 04373 RGTR--
+220701003 Leudelange, Edeleck   01424  01424                % 04373 RGTR--
+200412018 Gasperich, Scharfen   01428  01428                % 04373 RGTR--
+200412006 Gasperich, Cloche d'  01429  01429                % 04373 RGTR--
+200412021 Gasperich, Gerhard M  01431  01431                % 04373 RGTR--
+200304017 Gasperich/Howald, P&  01431  01431                % 04373 RGTR--
+180703008 Wasserbillig, Meseni  01458  01458                % 04373 RGTR--
+180703002 Wasserbillig, Cimeti  01501  01501                % 04373 RGTR--
+180703005 Wasserbillig, Op der  01502  01502                % 04373 RGTR--
+500000115 Igel, Kirche          01506  01506                % 04373 RGTR--
+500000106 Zewen, Kantstraße     01510  01510                % 04373 RGTR--
+500000107 Zewen, Im Siebenborn  01511  01511                % 04373 RGTR--
+500000081 Trier, P&R Messegelä  01516  01516                % 04373 RGTR--
+500000082 Trier, Pacelliufer    01518  01518                % 04373 RGTR--
+500000077 Trier, Bei der Römer  01519  01519                % 04373 RGTR--
+500000080 Trier, Nordallee      01522  01522                % 04373 RGTR--
+500000078 Trier, Christophstr.  01523  01523                % 04373 RGTR--
+500000083 Trier, Theodor-Heuss  01527                       % 04373 RGTR--
+*Z 04374 RGTR--                                             % 04374 RGTR--
+*L 306      221301026 500000083  01508  01627               % 04374 RGTR--
+*A ag 221301026 500000083 000016  01508  01627              % 04374 RGTR--
+*A lo 221301026 500000083 000016  01508  01627              % 04374 RGTR--
+*R 1 500000083 221301026 500000083  01508  01627            % 04374 RGTR--
+*G RGB 221301026 500000083  01508  01627                    % 04374 RGTR--
+*A VE 221301026 500000083 000016  01508  01627              % 04374 RGTR--
+*I FD 221301026 500000083        0002456  01508  01627      % 04374 RGTR--
+221301026 Belvaux, Lycée Bel-V         01508                % 04374 RGTR--
+221301027 Belvaux, Um Bedding   01510  01510                % 04374 RGTR--
+220402077 Esch/Alzette, Porte   01511  01511                % 04374 RGTR--
+220402120 Esch/Alzette, Cité d  01512  01512                % 04374 RGTR--
+220701011 Leudelange, Op der S  01524  01524                % 04374 RGTR--
+220701003 Leudelange, Edeleck   01524  01524                % 04374 RGTR--
+200412018 Gasperich, Scharfen   01528  01528                % 04374 RGTR--
+200412006 Gasperich, Cloche d'  01529  01529                % 04374 RGTR--
+200412021 Gasperich, Gerhard M  01531  01531                % 04374 RGTR--
+200304017 Gasperich/Howald, P&  01531  01531                % 04374 RGTR--
+180703008 Wasserbillig, Meseni  01558  01558                % 04374 RGTR--
+180703002 Wasserbillig, Cimeti  01601  01601                % 04374 RGTR--
+180703005 Wasserbillig, Op der  01602  01602                % 04374 RGTR--
+500000115 Igel, Kirche          01606  01606                % 04374 RGTR--
+500000106 Zewen, Kantstraße     01610  01610                % 04374 RGTR--
+500000107 Zewen, Im Siebenborn  01611  01611                % 04374 RGTR--
+500000081 Trier, P&R Messegelä  01616  01616                % 04374 RGTR--
+500000082 Trier, Pacelliufer    01618  01618                % 04374 RGTR--
+500000077 Trier, Bei der Römer  01619  01619                % 04374 RGTR--
+500000080 Trier, Nordallee      01622  01622                % 04374 RGTR--
+500000078 Trier, Christophstr.  01623  01623                % 04374 RGTR--
+500000083 Trier, Theodor-Heuss  01627                       % 04374 RGTR--
+*Z 04375 RGTR--                                             % 04375 RGTR--
+*L 306      221301026 500000083  01808  01927               % 04375 RGTR--
+*A ag 221301026 500000083 000016  01808  01927              % 04375 RGTR--
+*A lo 221301026 500000083 000016  01808  01927              % 04375 RGTR--
+*R 1 500000083 221301026 500000083  01808  01927            % 04375 RGTR--
+*G RGB 221301026 500000083  01808  01927                    % 04375 RGTR--
+*A VE 221301026 500000083 000016  01808  01927              % 04375 RGTR--
+*I FD 221301026 500000083        0002229  01808  01927      % 04375 RGTR--
+221301026 Belvaux, Lycée Bel-V         01808                % 04375 RGTR--
+221301027 Belvaux, Um Bedding   01810  01810                % 04375 RGTR--
+220402077 Esch/Alzette, Porte   01811  01811                % 04375 RGTR--
+220402120 Esch/Alzette, Cité d  01812  01812                % 04375 RGTR--
+220701011 Leudelange, Op der S  01824  01824                % 04375 RGTR--
+220701003 Leudelange, Edeleck   01824  01824                % 04375 RGTR--
+200412018 Gasperich, Scharfen   01828  01828                % 04375 RGTR--
+200412006 Gasperich, Cloche d'  01829  01829                % 04375 RGTR--
+200412021 Gasperich, Gerhard M  01831  01831                % 04375 RGTR--
+200304017 Gasperich/Howald, P&  01831  01831                % 04375 RGTR--
+180703008 Wasserbillig, Meseni  01858  01858                % 04375 RGTR--
+180703002 Wasserbillig, Cimeti  01901  01901                % 04375 RGTR--
+180703005 Wasserbillig, Op der  01902  01902                % 04375 RGTR--
+500000115 Igel, Kirche          01906  01906                % 04375 RGTR--
+500000106 Zewen, Kantstraße     01910  01910                % 04375 RGTR--
+500000107 Zewen, Im Siebenborn  01911  01911                % 04375 RGTR--
+500000081 Trier, P&R Messegelä  01916  01916                % 04375 RGTR--
+500000082 Trier, Pacelliufer    01918  01918                % 04375 RGTR--
+500000077 Trier, Bei der Römer  01919  01919                % 04375 RGTR--
+500000080 Trier, Nordallee      01922  01922                % 04375 RGTR--
+500000078 Trier, Christophstr.  01923  01923                % 04375 RGTR--
+500000083 Trier, Theodor-Heuss  01927                       % 04375 RGTR--
+*Z 04376 RGTR--                                             % 04376 RGTR--
+*L 306      221301026 500000083  01838  01957               % 04376 RGTR--
+*A ag 221301026 500000083 000016  01838  01957              % 04376 RGTR--
+*A lo 221301026 500000083 000016  01838  01957              % 04376 RGTR--
+*R 1 500000083 221301026 500000083  01838  01957            % 04376 RGTR--
+*G RGB 221301026 500000083  01838  01957                    % 04376 RGTR--
+*A VE 221301026 500000083 000016  01838  01957              % 04376 RGTR--
+*I FD 221301026 500000083        0001429  01838  01957      % 04376 RGTR--
+221301026 Belvaux, Lycée Bel-V         01838                % 04376 RGTR--
+221301027 Belvaux, Um Bedding   01840  01840                % 04376 RGTR--
+220402077 Esch/Alzette, Porte   01841  01841                % 04376 RGTR--
+220402120 Esch/Alzette, Cité d  01842  01842                % 04376 RGTR--
+220701011 Leudelange, Op der S  01854  01854                % 04376 RGTR--
+220701003 Leudelange, Edeleck   01854  01854                % 04376 RGTR--
+200412018 Gasperich, Scharfen   01858  01858                % 04376 RGTR--
+200412006 Gasperich, Cloche d'  01859  01859                % 04376 RGTR--
+200412021 Gasperich, Gerhard M  01901  01901                % 04376 RGTR--
+200304017 Gasperich/Howald, P&  01901  01901                % 04376 RGTR--
+180703008 Wasserbillig, Meseni  01928  01928                % 04376 RGTR--
+180703002 Wasserbillig, Cimeti  01931  01931                % 04376 RGTR--
+180703005 Wasserbillig, Op der  01932  01932                % 04376 RGTR--
+500000115 Igel, Kirche          01936  01936                % 04376 RGTR--
+500000106 Zewen, Kantstraße     01940  01940                % 04376 RGTR--
+500000107 Zewen, Im Siebenborn  01941  01941                % 04376 RGTR--
+500000081 Trier, P&R Messegelä  01946  01946                % 04376 RGTR--
+500000082 Trier, Pacelliufer    01948  01948                % 04376 RGTR--
+500000077 Trier, Bei der Römer  01949  01949                % 04376 RGTR--
+500000080 Trier, Nordallee      01952  01952                % 04376 RGTR--
+500000078 Trier, Christophstr.  01953  01953                % 04376 RGTR--
+500000083 Trier, Theodor-Heuss  01957                       % 04376 RGTR--
+*Z 04377 RGTR--                                             % 04377 RGTR--
+*L 306      221301026 500000083  01908  02027               % 04377 RGTR--
+*A ag 221301026 500000083 000016  01908  02027              % 04377 RGTR--
+*A lo 221301026 500000083 000016  01908  02027              % 04377 RGTR--
+*R 1 500000083 221301026 500000083  01908  02027            % 04377 RGTR--
+*G RGB 221301026 500000083  01908  02027                    % 04377 RGTR--
+*A VE 221301026 500000083 000016  01908  02027              % 04377 RGTR--
+*I FD 221301026 500000083        0002457  01908  02027      % 04377 RGTR--
+221301026 Belvaux, Lycée Bel-V         01908                % 04377 RGTR--
+221301027 Belvaux, Um Bedding   01910  01910                % 04377 RGTR--
+220402077 Esch/Alzette, Porte   01911  01911                % 04377 RGTR--
+220402120 Esch/Alzette, Cité d  01912  01912                % 04377 RGTR--
+220701011 Leudelange, Op der S  01924  01924                % 04377 RGTR--
+220701003 Leudelange, Edeleck   01924  01924                % 04377 RGTR--
+200412018 Gasperich, Scharfen   01928  01928                % 04377 RGTR--
+200412006 Gasperich, Cloche d'  01929  01929                % 04377 RGTR--
+200412021 Gasperich, Gerhard M  01931  01931                % 04377 RGTR--
+200304017 Gasperich/Howald, P&  01931  01931                % 04377 RGTR--
+180703008 Wasserbillig, Meseni  01958  01958                % 04377 RGTR--
+180703002 Wasserbillig, Cimeti  02001  02001                % 04377 RGTR--
+180703005 Wasserbillig, Op der  02002  02002                % 04377 RGTR--
+500000115 Igel, Kirche          02006  02006                % 04377 RGTR--
+500000106 Zewen, Kantstraße     02010  02010                % 04377 RGTR--
+500000107 Zewen, Im Siebenborn  02011  02011                % 04377 RGTR--
+500000081 Trier, P&R Messegelä  02016  02016                % 04377 RGTR--
+500000082 Trier, Pacelliufer    02018  02018                % 04377 RGTR--
+500000077 Trier, Bei der Römer  02019  02019                % 04377 RGTR--
+500000080 Trier, Nordallee      02022  02022                % 04377 RGTR--
+500000078 Trier, Christophstr.  02023  02023                % 04377 RGTR--
+500000083 Trier, Theodor-Heuss  02027                       % 04377 RGTR--
+*Z 04378 RGTR--                                             % 04378 RGTR--
+*L 306      221301026 500000083  02008  02127               % 04378 RGTR--
+*A ag 221301026 500000083 000016  02008  02127              % 04378 RGTR--
+*A lo 221301026 500000083 000016  02008  02127              % 04378 RGTR--
+*R 1 500000083 221301026 500000083  02008  02127            % 04378 RGTR--
+*G RGB 221301026 500000083  02008  02127                    % 04378 RGTR--
+*A VE 221301026 500000083 000016  02008  02127              % 04378 RGTR--
+*I FD 221301026 500000083        0002458  02008  02127      % 04378 RGTR--
+221301026 Belvaux, Lycée Bel-V         02008                % 04378 RGTR--
+221301027 Belvaux, Um Bedding   02010  02010                % 04378 RGTR--
+220402077 Esch/Alzette, Porte   02011  02011                % 04378 RGTR--
+220402120 Esch/Alzette, Cité d  02012  02012                % 04378 RGTR--
+220701011 Leudelange, Op der S  02024  02024                % 04378 RGTR--
+220701003 Leudelange, Edeleck   02024  02024                % 04378 RGTR--
+200412018 Gasperich, Scharfen   02028  02028                % 04378 RGTR--
+200412006 Gasperich, Cloche d'  02029  02029                % 04378 RGTR--
+200412021 Gasperich, Gerhard M  02031  02031                % 04378 RGTR--
+200304017 Gasperich/Howald, P&  02031  02031                % 04378 RGTR--
+180703008 Wasserbillig, Meseni  02058  02058                % 04378 RGTR--
+180703002 Wasserbillig, Cimeti  02101  02101                % 04378 RGTR--
+180703005 Wasserbillig, Op der  02102  02102                % 04378 RGTR--
+500000115 Igel, Kirche          02106  02106                % 04378 RGTR--
+500000106 Zewen, Kantstraße     02110  02110                % 04378 RGTR--
+500000107 Zewen, Im Siebenborn  02111  02111                % 04378 RGTR--
+500000081 Trier, P&R Messegelä  02116  02116                % 04378 RGTR--
+500000082 Trier, Pacelliufer    02118  02118                % 04378 RGTR--
+500000077 Trier, Bei der Römer  02119  02119                % 04378 RGTR--
+500000080 Trier, Nordallee      02122  02122                % 04378 RGTR--
+500000078 Trier, Christophstr.  02123  02123                % 04378 RGTR--
+500000083 Trier, Theodor-Heuss  02127                       % 04378 RGTR--
+*Z 04379 RGTR--                                             % 04379 RGTR--
+*L 306      500000083 221301026  00630  00809               % 04379 RGTR--
+*A ag 500000083 221301026 000016  00630  00809              % 04379 RGTR--
+*A lp 500000083 221301026 000016  00630  00809              % 04379 RGTR--
+*R 2 221301026 500000083 221301026  00630  00809            % 04379 RGTR--
+*G RGB 500000083 221301026  00630  00809                    % 04379 RGTR--
+*A VE 500000083 221301026 000016  00630  00809              % 04379 RGTR--
+*I FD 500000083 221301026        0000990  00630  00809      % 04379 RGTR--
+500000083 Trier, Theodor-Heuss         00630                % 04379 RGTR--
+500000080 Trier, Nordallee      00631  00631                % 04379 RGTR--
+500000077 Trier, Bei der Römer  00635  00635                % 04379 RGTR--
+500000082 Trier, Pacelliufer    00636  00636                % 04379 RGTR--
+500000081 Trier, P&R Messegelä  00638  00638                % 04379 RGTR--
+500000107 Zewen, Im Siebenborn  00645  00645                % 04379 RGTR--
+500000115 Igel, Kirche          00650  00650                % 04379 RGTR--
+180703005 Wasserbillig, Op der  00654  00654                % 04379 RGTR--
+180703002 Wasserbillig, Cimeti  00655  00655                % 04379 RGTR--
+180703008 Wasserbillig, Meseni  00701  00701                % 04379 RGTR--
+200304012 Gasperich/Howald, P&  00740  00740                % 04379 RGTR--
+200412021 Gasperich, Gerhard M  00741  00741                % 04379 RGTR--
+200412006 Gasperich, Cloche d'  00745  00745                % 04379 RGTR--
+200412018 Gasperich, Scharfen   00747  00747                % 04379 RGTR--
+220701003 Leudelange, Edeleck   00751  00751                % 04379 RGTR--
+220701012 Leudelange, Op der S  00752  00752                % 04379 RGTR--
+220402120 Esch/Alzette, Cité d  00804  00804                % 04379 RGTR--
+220402077 Esch/Alzette, Porte   00806  00806                % 04379 RGTR--
+221301027 Belvaux, Um Bedding   00807  00807                % 04379 RGTR--
+221301026 Belvaux, Lycée Bel-V  00809                       % 04379 RGTR--
+*Z 04380 RGTR--                                             % 04380 RGTR--
+*L 306      500000083 221301026  00700  00839               % 04380 RGTR--
+*A ag 500000083 221301026 000016  00700  00839              % 04380 RGTR--
+*A lp 500000083 221301026 000016  00700  00839              % 04380 RGTR--
+*R 2 221301026 500000083 221301026  00700  00839            % 04380 RGTR--
+*G RGB 500000083 221301026  00700  00839                    % 04380 RGTR--
+*A VE 500000083 221301026 000016  00700  00839              % 04380 RGTR--
+*I FD 500000083 221301026        0002152  00700  00839      % 04380 RGTR--
+500000083 Trier, Theodor-Heuss         00700                % 04380 RGTR--
+500000080 Trier, Nordallee      00701  00701                % 04380 RGTR--
+500000077 Trier, Bei der Römer  00705  00705                % 04380 RGTR--
+500000082 Trier, Pacelliufer    00706  00706                % 04380 RGTR--
+500000081 Trier, P&R Messegelä  00708  00708                % 04380 RGTR--
+500000107 Zewen, Im Siebenborn  00715  00715                % 04380 RGTR--
+500000115 Igel, Kirche          00720  00720                % 04380 RGTR--
+180703005 Wasserbillig, Op der  00724  00724                % 04380 RGTR--
+180703002 Wasserbillig, Cimeti  00725  00725                % 04380 RGTR--
+180703008 Wasserbillig, Meseni  00731  00731                % 04380 RGTR--
+200304012 Gasperich/Howald, P&  00810  00810                % 04380 RGTR--
+200412021 Gasperich, Gerhard M  00811  00811                % 04380 RGTR--
+200412006 Gasperich, Cloche d'  00815  00815                % 04380 RGTR--
+200412018 Gasperich, Scharfen   00817  00817                % 04380 RGTR--
+220701003 Leudelange, Edeleck   00821  00821                % 04380 RGTR--
+220701012 Leudelange, Op der S  00822  00822                % 04380 RGTR--
+220402120 Esch/Alzette, Cité d  00834  00834                % 04380 RGTR--
+220402077 Esch/Alzette, Porte   00836  00836                % 04380 RGTR--
+221301027 Belvaux, Um Bedding   00837  00837                % 04380 RGTR--
+221301026 Belvaux, Lycée Bel-V  00839                       % 04380 RGTR--
+*Z 04381 RGTR--                                             % 04381 RGTR--
+*L 306      500000083 221301026  00730  00909               % 04381 RGTR--
+*A ag 500000083 221301026 000016  00730  00909              % 04381 RGTR--
+*A lp 500000083 221301026 000016  00730  00909              % 04381 RGTR--
+*R 2 221301026 500000083 221301026  00730  00909            % 04381 RGTR--
+*G RGB 500000083 221301026  00730  00909                    % 04381 RGTR--
+*A VE 500000083 221301026 000016  00730  00909              % 04381 RGTR--
+*I FD 500000083 221301026        0002405  00730  00909      % 04381 RGTR--
+500000083 Trier, Theodor-Heuss         00730                % 04381 RGTR--
+500000080 Trier, Nordallee      00731  00731                % 04381 RGTR--
+500000077 Trier, Bei der Römer  00735  00735                % 04381 RGTR--
+500000082 Trier, Pacelliufer    00736  00736                % 04381 RGTR--
+500000081 Trier, P&R Messegelä  00738  00738                % 04381 RGTR--
+500000107 Zewen, Im Siebenborn  00745  00745                % 04381 RGTR--
+500000115 Igel, Kirche          00750  00750                % 04381 RGTR--
+180703005 Wasserbillig, Op der  00754  00754                % 04381 RGTR--
+180703002 Wasserbillig, Cimeti  00755  00755                % 04381 RGTR--
+180703008 Wasserbillig, Meseni  00801  00801                % 04381 RGTR--
+200304012 Gasperich/Howald, P&  00840  00840                % 04381 RGTR--
+200412021 Gasperich, Gerhard M  00841  00841                % 04381 RGTR--
+200412006 Gasperich, Cloche d'  00845  00845                % 04381 RGTR--
+200412018 Gasperich, Scharfen   00847  00847                % 04381 RGTR--
+220701003 Leudelange, Edeleck   00851  00851                % 04381 RGTR--
+220701012 Leudelange, Op der S  00852  00852                % 04381 RGTR--
+220402120 Esch/Alzette, Cité d  00904  00904                % 04381 RGTR--
+220402077 Esch/Alzette, Porte   00906  00906                % 04381 RGTR--
+221301027 Belvaux, Um Bedding   00907  00907                % 04381 RGTR--
+221301026 Belvaux, Lycée Bel-V  00909                       % 04381 RGTR--
+*Z 04382 RGTR--                                             % 04382 RGTR--
+*L 306      500000083 221301026  00830  01009               % 04382 RGTR--
+*A ag 500000083 221301026 000016  00830  01009              % 04382 RGTR--
+*A lp 500000083 221301026 000016  00830  01009              % 04382 RGTR--
+*R 2 221301026 500000083 221301026  00830  01009            % 04382 RGTR--
+*G RGB 500000083 221301026  00830  01009                    % 04382 RGTR--
+*A VE 500000083 221301026 000016  00830  01009              % 04382 RGTR--
+*I FD 500000083 221301026        0001038  00830  01009      % 04382 RGTR--
+500000083 Trier, Theodor-Heuss         00830                % 04382 RGTR--
+500000080 Trier, Nordallee      00831  00831                % 04382 RGTR--
+500000077 Trier, Bei der Römer  00835  00835                % 04382 RGTR--
+500000082 Trier, Pacelliufer    00836  00836                % 04382 RGTR--
+500000081 Trier, P&R Messegelä  00838  00838                % 04382 RGTR--
+500000107 Zewen, Im Siebenborn  00845  00845                % 04382 RGTR--
+500000115 Igel, Kirche          00850  00850                % 04382 RGTR--
+180703005 Wasserbillig, Op der  00854  00854                % 04382 RGTR--
+180703002 Wasserbillig, Cimeti  00855  00855                % 04382 RGTR--
+180703008 Wasserbillig, Meseni  00901  00901                % 04382 RGTR--
+200304012 Gasperich/Howald, P&  00940  00940                % 04382 RGTR--
+200412021 Gasperich, Gerhard M  00941  00941                % 04382 RGTR--
+200412006 Gasperich, Cloche d'  00945  00945                % 04382 RGTR--
+200412018 Gasperich, Scharfen   00947  00947                % 04382 RGTR--
+220701003 Leudelange, Edeleck   00951  00951                % 04382 RGTR--
+220701012 Leudelange, Op der S  00952  00952                % 04382 RGTR--
+220402120 Esch/Alzette, Cité d  01004  01004                % 04382 RGTR--
+220402077 Esch/Alzette, Porte   01006  01006                % 04382 RGTR--
+221301027 Belvaux, Um Bedding   01007  01007                % 04382 RGTR--
+221301026 Belvaux, Lycée Bel-V  01009                       % 04382 RGTR--
+*Z 04383 RGTR--                                             % 04383 RGTR--
+*L 306      500000083 221301026  01530  01709               % 04383 RGTR--
+*A ag 500000083 221301026 000016  01530  01709              % 04383 RGTR--
+*A lp 500000083 221301026 000016  01530  01709              % 04383 RGTR--
+*R 2 221301026 500000083 221301026  01530  01709            % 04383 RGTR--
+*G RGB 500000083 221301026  01530  01709                    % 04383 RGTR--
+*A VE 500000083 221301026 000016  01530  01709              % 04383 RGTR--
+*I FD 500000083 221301026        0002764  01530  01709      % 04383 RGTR--
+500000083 Trier, Theodor-Heuss         01530                % 04383 RGTR--
+500000080 Trier, Nordallee      01531  01531                % 04383 RGTR--
+500000077 Trier, Bei der Römer  01535  01535                % 04383 RGTR--
+500000082 Trier, Pacelliufer    01536  01536                % 04383 RGTR--
+500000081 Trier, P&R Messegelä  01538  01538                % 04383 RGTR--
+500000107 Zewen, Im Siebenborn  01545  01545                % 04383 RGTR--
+500000115 Igel, Kirche          01550  01550                % 04383 RGTR--
+180703005 Wasserbillig, Op der  01554  01554                % 04383 RGTR--
+180703002 Wasserbillig, Cimeti  01555  01555                % 04383 RGTR--
+180703008 Wasserbillig, Meseni  01601  01601                % 04383 RGTR--
+200304012 Gasperich/Howald, P&  01640  01640                % 04383 RGTR--
+200412021 Gasperich, Gerhard M  01641  01641                % 04383 RGTR--
+200412006 Gasperich, Cloche d'  01645  01645                % 04383 RGTR--
+200412018 Gasperich, Scharfen   01647  01647                % 04383 RGTR--
+220701003 Leudelange, Edeleck   01651  01651                % 04383 RGTR--
+220701012 Leudelange, Op der S  01652  01652                % 04383 RGTR--
+220402120 Esch/Alzette, Cité d  01704  01704                % 04383 RGTR--
+220402077 Esch/Alzette, Porte   01706  01706                % 04383 RGTR--
+221301027 Belvaux, Um Bedding   01707  01707                % 04383 RGTR--
+221301026 Belvaux, Lycée Bel-V  01709                       % 04383 RGTR--
+*Z 04384 RGTR--                                             % 04384 RGTR--
+*L 306      500000083 221301026  01630  01809               % 04384 RGTR--
+*A ag 500000083 221301026 000016  01630  01809              % 04384 RGTR--
+*A lp 500000083 221301026 000016  01630  01809              % 04384 RGTR--
+*R 2 221301026 500000083 221301026  01630  01809            % 04384 RGTR--
+*G RGB 500000083 221301026  01630  01809                    % 04384 RGTR--
+*A VE 500000083 221301026 000016  01630  01809              % 04384 RGTR--
+*I FD 500000083 221301026        0002082  01630  01809      % 04384 RGTR--
+500000083 Trier, Theodor-Heuss         01630                % 04384 RGTR--
+500000080 Trier, Nordallee      01631  01631                % 04384 RGTR--
+500000077 Trier, Bei der Römer  01635  01635                % 04384 RGTR--
+500000082 Trier, Pacelliufer    01636  01636                % 04384 RGTR--
+500000081 Trier, P&R Messegelä  01638  01638                % 04384 RGTR--
+500000107 Zewen, Im Siebenborn  01645  01645                % 04384 RGTR--
+500000115 Igel, Kirche          01650  01650                % 04384 RGTR--
+180703005 Wasserbillig, Op der  01654  01654                % 04384 RGTR--
+180703002 Wasserbillig, Cimeti  01655  01655                % 04384 RGTR--
+180703008 Wasserbillig, Meseni  01701  01701                % 04384 RGTR--
+200304012 Gasperich/Howald, P&  01740  01740                % 04384 RGTR--
+200412021 Gasperich, Gerhard M  01741  01741                % 04384 RGTR--
+200412006 Gasperich, Cloche d'  01745  01745                % 04384 RGTR--
+200412018 Gasperich, Scharfen   01747  01747                % 04384 RGTR--
+220701003 Leudelange, Edeleck   01751  01751                % 04384 RGTR--
+220701012 Leudelange, Op der S  01752  01752                % 04384 RGTR--
+220402120 Esch/Alzette, Cité d  01804  01804                % 04384 RGTR--
+220402077 Esch/Alzette, Porte   01806  01806                % 04384 RGTR--
+221301027 Belvaux, Um Bedding   01807  01807                % 04384 RGTR--
+221301026 Belvaux, Lycée Bel-V  01809                       % 04384 RGTR--
+*Z 04385 RGTR--                                             % 04385 RGTR--
+*L 306      500000083 221301026  01730  01909               % 04385 RGTR--
+*A ag 500000083 221301026 000016  01730  01909              % 04385 RGTR--
+*A lp 500000083 221301026 000016  01730  01909              % 04385 RGTR--
+*R 2 221301026 500000083 221301026  01730  01909            % 04385 RGTR--
+*G RGB 500000083 221301026  01730  01909                    % 04385 RGTR--
+*A VE 500000083 221301026 000016  01730  01909              % 04385 RGTR--
+*I FD 500000083 221301026        0002083  01730  01909      % 04385 RGTR--
+500000083 Trier, Theodor-Heuss         01730                % 04385 RGTR--
+500000080 Trier, Nordallee      01731  01731                % 04385 RGTR--
+500000077 Trier, Bei der Römer  01735  01735                % 04385 RGTR--
+500000082 Trier, Pacelliufer    01736  01736                % 04385 RGTR--
+500000081 Trier, P&R Messegelä  01738  01738                % 04385 RGTR--
+500000107 Zewen, Im Siebenborn  01745  01745                % 04385 RGTR--
+500000115 Igel, Kirche          01750  01750                % 04385 RGTR--
+180703005 Wasserbillig, Op der  01754  01754                % 04385 RGTR--
+180703002 Wasserbillig, Cimeti  01755  01755                % 04385 RGTR--
+180703008 Wasserbillig, Meseni  01801  01801                % 04385 RGTR--
+200304012 Gasperich/Howald, P&  01840  01840                % 04385 RGTR--
+200412021 Gasperich, Gerhard M  01841  01841                % 04385 RGTR--
+200412006 Gasperich, Cloche d'  01845  01845                % 04385 RGTR--
+200412018 Gasperich, Scharfen   01847  01847                % 04385 RGTR--
+220701003 Leudelange, Edeleck   01851  01851                % 04385 RGTR--
+220701012 Leudelange, Op der S  01852  01852                % 04385 RGTR--
+220402120 Esch/Alzette, Cité d  01904  01904                % 04385 RGTR--
+220402077 Esch/Alzette, Porte   01906  01906                % 04385 RGTR--
+221301027 Belvaux, Um Bedding   01907  01907                % 04385 RGTR--
+221301026 Belvaux, Lycée Bel-V  01909                       % 04385 RGTR--
+*Z 04386 RGTR--                                             % 04386 RGTR--
+*L 306      500000083 221301026  00530  00651               % 04386 RGTR--
+*A ag 500000083 221301026 000016  00530  00651              % 04386 RGTR--
+*A lp 500000083 221301026 000016  00530  00651              % 04386 RGTR--
+*A PG 500000083 221301026 000016  00530  00651              % 04386 RGTR--
+*R 2 221301026 500000083 221301026  00530  00651            % 04386 RGTR--
+*G RGB 500000083 221301026  00530  00651                    % 04386 RGTR--
+*A VE 500000083 221301026 000016  00530  00651              % 04386 RGTR--
+*I FD 500000083 221301026        0002407  00530  00651      % 04386 RGTR--
+500000083 Trier, Theodor-Heuss         00530                % 04386 RGTR--
+500000080 Trier, Nordallee      00531  00531                % 04386 RGTR--
+500000077 Trier, Bei der Römer  00534  00534                % 04386 RGTR--
+500000082 Trier, Pacelliufer    00536  00536                % 04386 RGTR--
+500000081 Trier, P&R Messegelä  00538  00538                % 04386 RGTR--
+500000107 Zewen, Im Siebenborn  00544  00544                % 04386 RGTR--
+500000115 Igel, Kirche          00548  00548                % 04386 RGTR--
+180703005 Wasserbillig, Op der  00551  00551                % 04386 RGTR--
+180703002 Wasserbillig, Cimeti  00553  00553                % 04386 RGTR--
+180703008 Wasserbillig, Meseni  00558  00558                % 04386 RGTR--
+200304012 Gasperich/Howald, P&  00627  00627                % 04386 RGTR--
+200412021 Gasperich, Gerhard M  00628  00628                % 04386 RGTR--
+200412006 Gasperich, Cloche d'  00630  00630                % 04386 RGTR--
+200412018 Gasperich, Scharfen   00631  00631                % 04386 RGTR--
+220701003 Leudelange, Edeleck   00634  00634                % 04386 RGTR--
+220701012 Leudelange, Op der S  00635  00635                % 04386 RGTR--
+220402120 Esch/Alzette, Cité d  00647  00647                % 04386 RGTR--
+220402077 Esch/Alzette, Porte   00648  00648                % 04386 RGTR--
+221301027 Belvaux, Um Bedding   00649  00649                % 04386 RGTR--
+221301026 Belvaux, Lycée Bel-V  00651                       % 04386 RGTR--
+*Z 04387 RGTR--                                             % 04387 RGTR--
+*L 306      500000083 221301026  00600  00721               % 04387 RGTR--
+*A ag 500000083 221301026 000016  00600  00721              % 04387 RGTR--
+*A lp 500000083 221301026 000016  00600  00721              % 04387 RGTR--
+*R 2 221301026 500000083 221301026  00600  00721            % 04387 RGTR--
+*G RGB 500000083 221301026  00600  00721                    % 04387 RGTR--
+*A VE 500000083 221301026 000016  00600  00721              % 04387 RGTR--
+*I FD 500000083 221301026        0002155  00600  00721      % 04387 RGTR--
+500000083 Trier, Theodor-Heuss         00600                % 04387 RGTR--
+500000080 Trier, Nordallee      00601  00601                % 04387 RGTR--
+500000077 Trier, Bei der Römer  00604  00604                % 04387 RGTR--
+500000082 Trier, Pacelliufer    00606  00606                % 04387 RGTR--
+500000081 Trier, P&R Messegelä  00608  00608                % 04387 RGTR--
+500000107 Zewen, Im Siebenborn  00614  00614                % 04387 RGTR--
+500000115 Igel, Kirche          00618  00618                % 04387 RGTR--
+180703005 Wasserbillig, Op der  00621  00621                % 04387 RGTR--
+180703002 Wasserbillig, Cimeti  00623  00623                % 04387 RGTR--
+180703008 Wasserbillig, Meseni  00628  00628                % 04387 RGTR--
+200304012 Gasperich/Howald, P&  00657  00657                % 04387 RGTR--
+200412021 Gasperich, Gerhard M  00658  00658                % 04387 RGTR--
+200412006 Gasperich, Cloche d'  00700  00700                % 04387 RGTR--
+200412018 Gasperich, Scharfen   00701  00701                % 04387 RGTR--
+220701003 Leudelange, Edeleck   00704  00704                % 04387 RGTR--
+220701012 Leudelange, Op der S  00705  00705                % 04387 RGTR--
+220402120 Esch/Alzette, Cité d  00717  00717                % 04387 RGTR--
+220402077 Esch/Alzette, Porte   00718  00718                % 04387 RGTR--
+221301027 Belvaux, Um Bedding   00719  00719                % 04387 RGTR--
+221301026 Belvaux, Lycée Bel-V  00721                       % 04387 RGTR--
+*Z 04388 RGTR--                                             % 04388 RGTR--
+*L 306      500000083 221301026  00930  01051               % 04388 RGTR--
+*A ag 500000083 221301026 000016  00930  01051              % 04388 RGTR--
+*A lp 500000083 221301026 000016  00930  01051              % 04388 RGTR--
+*R 2 221301026 500000083 221301026  00930  01051            % 04388 RGTR--
+*G RGB 500000083 221301026  00930  01051                    % 04388 RGTR--
+*A VE 500000083 221301026 000016  00930  01051              % 04388 RGTR--
+*I FD 500000083 221301026        0001084  00930  01051      % 04388 RGTR--
+500000083 Trier, Theodor-Heuss         00930                % 04388 RGTR--
+500000080 Trier, Nordallee      00931  00931                % 04388 RGTR--
+500000077 Trier, Bei der Römer  00934  00934                % 04388 RGTR--
+500000082 Trier, Pacelliufer    00936  00936                % 04388 RGTR--
+500000081 Trier, P&R Messegelä  00938  00938                % 04388 RGTR--
+500000107 Zewen, Im Siebenborn  00944  00944                % 04388 RGTR--
+500000115 Igel, Kirche          00948  00948                % 04388 RGTR--
+180703005 Wasserbillig, Op der  00951  00951                % 04388 RGTR--
+180703002 Wasserbillig, Cimeti  00953  00953                % 04388 RGTR--
+180703008 Wasserbillig, Meseni  00958  00958                % 04388 RGTR--
+200304012 Gasperich/Howald, P&  01027  01027                % 04388 RGTR--
+200412021 Gasperich, Gerhard M  01028  01028                % 04388 RGTR--
+200412006 Gasperich, Cloche d'  01030  01030                % 04388 RGTR--
+200412018 Gasperich, Scharfen   01031  01031                % 04388 RGTR--
+220701003 Leudelange, Edeleck   01034  01034                % 04388 RGTR--
+220701012 Leudelange, Op der S  01035  01035                % 04388 RGTR--
+220402120 Esch/Alzette, Cité d  01047  01047                % 04388 RGTR--
+220402077 Esch/Alzette, Porte   01048  01048                % 04388 RGTR--
+221301027 Belvaux, Um Bedding   01049  01049                % 04388 RGTR--
+221301026 Belvaux, Lycée Bel-V  01051                       % 04388 RGTR--
+*Z 04389 RGTR--                                             % 04389 RGTR--
+*L 306      500000083 221301026  01030  01151               % 04389 RGTR--
+*A ag 500000083 221301026 000016  01030  01151              % 04389 RGTR--
+*A lp 500000083 221301026 000016  01030  01151              % 04389 RGTR--
+*R 2 221301026 500000083 221301026  01030  01151            % 04389 RGTR--
+*G RGB 500000083 221301026  01030  01151                    % 04389 RGTR--
+*A VE 500000083 221301026 000016  01030  01151              % 04389 RGTR--
+*I FD 500000083 221301026        0002596  01030  01151      % 04389 RGTR--
+500000083 Trier, Theodor-Heuss         01030                % 04389 RGTR--
+500000080 Trier, Nordallee      01031  01031                % 04389 RGTR--
+500000077 Trier, Bei der Römer  01034  01034                % 04389 RGTR--
+500000082 Trier, Pacelliufer    01036  01036                % 04389 RGTR--
+500000081 Trier, P&R Messegelä  01038  01038                % 04389 RGTR--
+500000107 Zewen, Im Siebenborn  01044  01044                % 04389 RGTR--
+500000115 Igel, Kirche          01048  01048                % 04389 RGTR--
+180703005 Wasserbillig, Op der  01051  01051                % 04389 RGTR--
+180703002 Wasserbillig, Cimeti  01053  01053                % 04389 RGTR--
+180703008 Wasserbillig, Meseni  01058  01058                % 04389 RGTR--
+200304012 Gasperich/Howald, P&  01127  01127                % 04389 RGTR--
+200412021 Gasperich, Gerhard M  01128  01128                % 04389 RGTR--
+200412006 Gasperich, Cloche d'  01130  01130                % 04389 RGTR--
+200412018 Gasperich, Scharfen   01131  01131                % 04389 RGTR--
+220701003 Leudelange, Edeleck   01134  01134                % 04389 RGTR--
+220701012 Leudelange, Op der S  01135  01135                % 04389 RGTR--
+220402120 Esch/Alzette, Cité d  01147  01147                % 04389 RGTR--
+220402077 Esch/Alzette, Porte   01148  01148                % 04389 RGTR--
+221301027 Belvaux, Um Bedding   01149  01149                % 04389 RGTR--
+221301026 Belvaux, Lycée Bel-V  01151                       % 04389 RGTR--
+*Z 04390 RGTR--                                             % 04390 RGTR--
+*L 306      500000083 221301026  01130  01251               % 04390 RGTR--
+*A ag 500000083 221301026 000016  01130  01251              % 04390 RGTR--
+*A lp 500000083 221301026 000016  01130  01251              % 04390 RGTR--
+*R 2 221301026 500000083 221301026  01130  01251            % 04390 RGTR--
+*G RGB 500000083 221301026  01130  01251                    % 04390 RGTR--
+*A VE 500000083 221301026 000016  01130  01251              % 04390 RGTR--
+*I FD 500000083 221301026        0002761  01130  01251      % 04390 RGTR--
+500000083 Trier, Theodor-Heuss         01130                % 04390 RGTR--
+500000080 Trier, Nordallee      01131  01131                % 04390 RGTR--
+500000077 Trier, Bei der Römer  01134  01134                % 04390 RGTR--
+500000082 Trier, Pacelliufer    01136  01136                % 04390 RGTR--
+500000081 Trier, P&R Messegelä  01138  01138                % 04390 RGTR--
+500000107 Zewen, Im Siebenborn  01144  01144                % 04390 RGTR--
+500000115 Igel, Kirche          01148  01148                % 04390 RGTR--
+180703005 Wasserbillig, Op der  01151  01151                % 04390 RGTR--
+180703002 Wasserbillig, Cimeti  01153  01153                % 04390 RGTR--
+180703008 Wasserbillig, Meseni  01158  01158                % 04390 RGTR--
+200304012 Gasperich/Howald, P&  01227  01227                % 04390 RGTR--
+200412021 Gasperich, Gerhard M  01228  01228                % 04390 RGTR--
+200412006 Gasperich, Cloche d'  01230  01230                % 04390 RGTR--
+200412018 Gasperich, Scharfen   01231  01231                % 04390 RGTR--
+220701003 Leudelange, Edeleck   01234  01234                % 04390 RGTR--
+220701012 Leudelange, Op der S  01235  01235                % 04390 RGTR--
+220402120 Esch/Alzette, Cité d  01247  01247                % 04390 RGTR--
+220402077 Esch/Alzette, Porte   01248  01248                % 04390 RGTR--
+221301027 Belvaux, Um Bedding   01249  01249                % 04390 RGTR--
+221301026 Belvaux, Lycée Bel-V  01251                       % 04390 RGTR--
+*Z 04391 RGTR--                                             % 04391 RGTR--
+*L 306      500000083 221301026  01230  01351               % 04391 RGTR--
+*A ag 500000083 221301026 000016  01230  01351              % 04391 RGTR--
+*A lp 500000083 221301026 000016  01230  01351              % 04391 RGTR--
+*R 2 221301026 500000083 221301026  01230  01351            % 04391 RGTR--
+*G RGB 500000083 221301026  01230  01351                    % 04391 RGTR--
+*A VE 500000083 221301026 000016  01230  01351              % 04391 RGTR--
+*I FD 500000083 221301026        0001287  01230  01351      % 04391 RGTR--
+500000083 Trier, Theodor-Heuss         01230                % 04391 RGTR--
+500000080 Trier, Nordallee      01231  01231                % 04391 RGTR--
+500000077 Trier, Bei der Römer  01234  01234                % 04391 RGTR--
+500000082 Trier, Pacelliufer    01236  01236                % 04391 RGTR--
+500000081 Trier, P&R Messegelä  01238  01238                % 04391 RGTR--
+500000107 Zewen, Im Siebenborn  01244  01244                % 04391 RGTR--
+500000115 Igel, Kirche          01248  01248                % 04391 RGTR--
+180703005 Wasserbillig, Op der  01251  01251                % 04391 RGTR--
+180703002 Wasserbillig, Cimeti  01253  01253                % 04391 RGTR--
+180703008 Wasserbillig, Meseni  01258  01258                % 04391 RGTR--
+200304012 Gasperich/Howald, P&  01327  01327                % 04391 RGTR--
+200412021 Gasperich, Gerhard M  01328  01328                % 04391 RGTR--
+200412006 Gasperich, Cloche d'  01330  01330                % 04391 RGTR--
+200412018 Gasperich, Scharfen   01331  01331                % 04391 RGTR--
+220701003 Leudelange, Edeleck   01334  01334                % 04391 RGTR--
+220701012 Leudelange, Op der S  01335  01335                % 04391 RGTR--
+220402120 Esch/Alzette, Cité d  01347  01347                % 04391 RGTR--
+220402077 Esch/Alzette, Porte   01348  01348                % 04391 RGTR--
+221301027 Belvaux, Um Bedding   01349  01349                % 04391 RGTR--
+221301026 Belvaux, Lycée Bel-V  01351                       % 04391 RGTR--
+*Z 04392 RGTR--                                             % 04392 RGTR--
+*L 306      500000083 221301026  01330  01451               % 04392 RGTR--
+*A ag 500000083 221301026 000016  01330  01451              % 04392 RGTR--
+*A lp 500000083 221301026 000016  01330  01451              % 04392 RGTR--
+*R 2 221301026 500000083 221301026  01330  01451            % 04392 RGTR--
+*G RGB 500000083 221301026  01330  01451                    % 04392 RGTR--
+*A VE 500000083 221301026 000016  01330  01451              % 04392 RGTR--
+*I FD 500000083 221301026        0002762  01330  01451      % 04392 RGTR--
+500000083 Trier, Theodor-Heuss         01330                % 04392 RGTR--
+500000080 Trier, Nordallee      01331  01331                % 04392 RGTR--
+500000077 Trier, Bei der Römer  01334  01334                % 04392 RGTR--
+500000082 Trier, Pacelliufer    01336  01336                % 04392 RGTR--
+500000081 Trier, P&R Messegelä  01338  01338                % 04392 RGTR--
+500000107 Zewen, Im Siebenborn  01344  01344                % 04392 RGTR--
+500000115 Igel, Kirche          01348  01348                % 04392 RGTR--
+180703005 Wasserbillig, Op der  01351  01351                % 04392 RGTR--
+180703002 Wasserbillig, Cimeti  01353  01353                % 04392 RGTR--
+180703008 Wasserbillig, Meseni  01358  01358                % 04392 RGTR--
+200304012 Gasperich/Howald, P&  01427  01427                % 04392 RGTR--
+200412021 Gasperich, Gerhard M  01428  01428                % 04392 RGTR--
+200412006 Gasperich, Cloche d'  01430  01430                % 04392 RGTR--
+200412018 Gasperich, Scharfen   01431  01431                % 04392 RGTR--
+220701003 Leudelange, Edeleck   01434  01434                % 04392 RGTR--
+220701012 Leudelange, Op der S  01435  01435                % 04392 RGTR--
+220402120 Esch/Alzette, Cité d  01447  01447                % 04392 RGTR--
+220402077 Esch/Alzette, Porte   01448  01448                % 04392 RGTR--
+221301027 Belvaux, Um Bedding   01449  01449                % 04392 RGTR--
+221301026 Belvaux, Lycée Bel-V  01451                       % 04392 RGTR--
+*Z 04393 RGTR--                                             % 04393 RGTR--
+*L 306      500000083 221301026  01430  01551               % 04393 RGTR--
+*A ag 500000083 221301026 000016  01430  01551              % 04393 RGTR--
+*A lp 500000083 221301026 000016  01430  01551              % 04393 RGTR--
+*R 2 221301026 500000083 221301026  01430  01551            % 04393 RGTR--
+*G RGB 500000083 221301026  01430  01551                    % 04393 RGTR--
+*A VE 500000083 221301026 000016  01430  01551              % 04393 RGTR--
+*I FD 500000083 221301026        0002763  01430  01551      % 04393 RGTR--
+500000083 Trier, Theodor-Heuss         01430                % 04393 RGTR--
+500000080 Trier, Nordallee      01431  01431                % 04393 RGTR--
+500000077 Trier, Bei der Römer  01434  01434                % 04393 RGTR--
+500000082 Trier, Pacelliufer    01436  01436                % 04393 RGTR--
+500000081 Trier, P&R Messegelä  01438  01438                % 04393 RGTR--
+500000107 Zewen, Im Siebenborn  01444  01444                % 04393 RGTR--
+500000115 Igel, Kirche          01448  01448                % 04393 RGTR--
+180703005 Wasserbillig, Op der  01451  01451                % 04393 RGTR--
+180703002 Wasserbillig, Cimeti  01453  01453                % 04393 RGTR--
+180703008 Wasserbillig, Meseni  01458  01458                % 04393 RGTR--
+200304012 Gasperich/Howald, P&  01527  01527                % 04393 RGTR--
+200412021 Gasperich, Gerhard M  01528  01528                % 04393 RGTR--
+200412006 Gasperich, Cloche d'  01530  01530                % 04393 RGTR--
+200412018 Gasperich, Scharfen   01531  01531                % 04393 RGTR--
+220701003 Leudelange, Edeleck   01534  01534                % 04393 RGTR--
+220701012 Leudelange, Op der S  01535  01535                % 04393 RGTR--
+220402120 Esch/Alzette, Cité d  01547  01547                % 04393 RGTR--
+220402077 Esch/Alzette, Porte   01548  01548                % 04393 RGTR--
+221301027 Belvaux, Um Bedding   01549  01549                % 04393 RGTR--
+221301026 Belvaux, Lycée Bel-V  01551                       % 04393 RGTR--
+*Z 04394 RGTR--                                             % 04394 RGTR--
+*L 306      500000083 221301026  01830  01951               % 04394 RGTR--
+*A ag 500000083 221301026 000016  01830  01951              % 04394 RGTR--
+*A lp 500000083 221301026 000016  01830  01951              % 04394 RGTR--
+*R 2 221301026 500000083 221301026  01830  01951            % 04394 RGTR--
+*G RGB 500000083 221301026  01830  01951                    % 04394 RGTR--
+*A VE 500000083 221301026 000016  01830  01951              % 04394 RGTR--
+*I FD 500000083 221301026        0002765  01830  01951      % 04394 RGTR--
+500000083 Trier, Theodor-Heuss         01830                % 04394 RGTR--
+500000080 Trier, Nordallee      01831  01831                % 04394 RGTR--
+500000077 Trier, Bei der Römer  01834  01834                % 04394 RGTR--
+500000082 Trier, Pacelliufer    01836  01836                % 04394 RGTR--
+500000081 Trier, P&R Messegelä  01838  01838                % 04394 RGTR--
+500000107 Zewen, Im Siebenborn  01844  01844                % 04394 RGTR--
+500000115 Igel, Kirche          01848  01848                % 04394 RGTR--
+180703005 Wasserbillig, Op der  01851  01851                % 04394 RGTR--
+180703002 Wasserbillig, Cimeti  01853  01853                % 04394 RGTR--
+180703008 Wasserbillig, Meseni  01858  01858                % 04394 RGTR--
+200304012 Gasperich/Howald, P&  01927  01927                % 04394 RGTR--
+200412021 Gasperich, Gerhard M  01928  01928                % 04394 RGTR--
+200412006 Gasperich, Cloche d'  01930  01930                % 04394 RGTR--
+200412018 Gasperich, Scharfen   01931  01931                % 04394 RGTR--
+220701003 Leudelange, Edeleck   01934  01934                % 04394 RGTR--
+220701012 Leudelange, Op der S  01935  01935                % 04394 RGTR--
+220402120 Esch/Alzette, Cité d  01947  01947                % 04394 RGTR--
+220402077 Esch/Alzette, Porte   01948  01948                % 04394 RGTR--
+221301027 Belvaux, Um Bedding   01949  01949                % 04394 RGTR--
+221301026 Belvaux, Lycée Bel-V  01951                       % 04394 RGTR--

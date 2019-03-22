@@ -1,0 +1,326 @@
+*F 03 2
+*Z 00044 CFLBUS                                             % 00044 CFLBUS
+*L 453      210503003 180401003  00625  00710               % 00044 CFLBUS
+*A wk 210503003 180401003 000035  00625  00710              % 00044 CFLBUS
+*A vm 210503003 180401003 000035  00625  00710              % 00044 CFLBUS
+*A ad 210503003 180401003 000035  00625  00710              % 00044 CFLBUS
+*R 1 180401003 210503003 180401003  00625  00710            % 00044 CFLBUS
+*G RGB 210503003 180401003  00625  00710                    % 00044 CFLBUS
+*A VE 210503003 180401003 000035  00625  00710              % 00044 CFLBUS
+*I FD 210503003 180401003        0002424  00625  00710      % 00044 CFLBUS
+210503003 Mondorf, Christophor         00625                % 00044 CFLBUS
+210503002 Mondorf, Casino 2000  00626  00626                % 00044 CFLBUS
+210503009 Mondorf, Vor Howent   00627  00627                % 00044 CFLBUS
+210503011 Mondorf, Rue J. Doli  00628  00628                % 00044 CFLBUS
+210502002 Ellange, Martialis    00632  00632                % 00044 CFLBUS
+211003001 Wellenstein, Centre   00637  00637                % 00044 CFLBUS
+211003003 Wellenstein, Caves c  00637  00637                % 00044 CFLBUS
+211001002 Bech-Kleinmacher, Ce  00639  00639                % 00044 CFLBUS
+210701011 Remich, Piscine       00640  00640                % 00044 CFLBUS
+210701006 Remich, Gare routièr  00641  00641                % 00044 CFLBUS
+210701008 Remich, Maatebierg    00643  00643                % 00044 CFLBUS
+210701003 Remich, Caves St. Ma  00644  00644                % 00044 CFLBUS
+210803006 Stadtbredimus, Wandm  00645  00645                % 00044 CFLBUS
+210803005 Stadtbredimus, Vinsm  00646  00646                % 00044 CFLBUS
+210803003 Stadtbredimus, Schle  00646  00646                % 00044 CFLBUS
+210801004 Greiveldange, Raiffe  00650  00650                % 00044 CFLBUS
+210801003 Greiveldange, Neie W  00651  00651                % 00044 CFLBUS
+210801001 Greiveldange, Keller  00652  00652                % 00044 CFLBUS
+210802001 Hëttermillen          00653  00653                % 00044 CFLBUS
+180802002 Ehnen, Bromelt        00654  00654                % 00044 CFLBUS
+180802007 Ehnen, Puddel         00655  00655                % 00044 CFLBUS
+180804003 Wormeldange, Gewân    00657  00657                % 00044 CFLBUS
+180804002 Wormeldange, Geméen   00658  00658                % 00044 CFLBUS
+180804001 Wormeldange, Erdkaul  00659  00659                % 00044 CFLBUS
+180804004 Wormeldange, Kellere  00659  00659                % 00044 CFLBUS
+180801001 Ahn, Beim Quai        00702  00702                % 00044 CFLBUS
+180803004 Machtum, Ongkaf       00706  00706                % 00044 CFLBUS
+180803003 Machtum, Gellebur     00706  00706                % 00044 CFLBUS
+180803002 Machtum, Deisermille  00707  00707                % 00044 CFLBUS
+180401005 Grevenmacher, rte.de  00708  00708                % 00044 CFLBUS
+180401002 Grevenmacher, Enner   00709  00709                % 00044 CFLBUS
+180401003 Grevenmacher, Gare r  00710                       % 00044 CFLBUS
+*Z 02159 CFLBUS                                             % 02159 CFLBUS
+*L 453      180401003 210503003  01519  01603               % 02159 CFLBUS
+*A vm 180401003 210503003 000035  01519  01603              % 02159 CFLBUS
+*A ad 180401003 210503003 000035  01519  01603              % 02159 CFLBUS
+*R 2 210503003 180401003 210503003  01519  01603            % 02159 CFLBUS
+*G RGB 180401003 210503003  01519  01603                    % 02159 CFLBUS
+*A VE 180401003 210503003 000035  01519  01603              % 02159 CFLBUS
+*I FD 180401003 210503003        0002309  01519  01603      % 02159 CFLBUS
+180401003 Grevenmacher, Gare r         01519                % 02159 CFLBUS
+180401002 Grevenmacher, Enner   01520  01520                % 02159 CFLBUS
+180401005 Grevenmacher, rte.de  01521  01521                % 02159 CFLBUS
+180803002 Machtum, Deisermille  01522  01522                % 02159 CFLBUS
+180803003 Machtum, Gellebur     01523  01523                % 02159 CFLBUS
+180803001 Machtum, Bei Kallek'  01523  01523                % 02159 CFLBUS
+180801001 Ahn, Beim Quai        01528  01528                % 02159 CFLBUS
+180804004 Wormeldange, Kellere  01530  01530                % 02159 CFLBUS
+180804001 Wormeldange, Erdkaul  01530  01530                % 02159 CFLBUS
+180804002 Wormeldange, Geméen   01532  01532                % 02159 CFLBUS
+180804003 Wormeldange, Gewân    01532  01532                % 02159 CFLBUS
+180802003 Ehnen, Ieselsbreck    01534  01534                % 02159 CFLBUS
+180802002 Ehnen, Bromelt        01534  01534                % 02159 CFLBUS
+210802001 Hëttermillen          01536  01536                % 02159 CFLBUS
+210801001 Greiveldange, Keller  01537  01537                % 02159 CFLBUS
+210801003 Greiveldange, Neie W  01537  01537                % 02159 CFLBUS
+210801002 Greiveldange, Gemeng  01537  01537                % 02159 CFLBUS
+210803003 Stadtbredimus, Schle  01541  01541                % 02159 CFLBUS
+210803005 Stadtbredimus, Vinsm  01542  01542                % 02159 CFLBUS
+210803006 Stadtbredimus, Wandm  01543  01543                % 02159 CFLBUS
+210701003 Remich, Caves St. Ma  01544  01544                % 02159 CFLBUS
+210701008 Remich, Maatebierg    01545  01545                % 02159 CFLBUS
+210701006 Remich, Gare routièr  01547  01547                % 02159 CFLBUS
+210701011 Remich, Piscine       01548  01548                % 02159 CFLBUS
+211001002 Bech-Kleinmacher, Ce  01550  01550                % 02159 CFLBUS
+211003003 Wellenstein, Caves c  01551  01551                % 02159 CFLBUS
+211003001 Wellenstein, Centre   01553  01553                % 02159 CFLBUS
+210502002 Ellange, Martialis    01558  01558                % 02159 CFLBUS
+210503011 Mondorf, Rue J. Doli  01559  01559                % 02159 CFLBUS
+210503009 Mondorf, Vor Howent   01600  01600                % 02159 CFLBUS
+210503002 Mondorf, Casino 2000  01602  01602                % 02159 CFLBUS
+210503003 Mondorf, Christophor  01603                       % 02159 CFLBUS
+*Z 00042 CFLBUS                                             % 00042 CFLBUS
+*L 453      210503003 180401003  00625  00710               % 00042 CFLBUS
+*A bi 210503003 180401003 000034  00625  00710              % 00042 CFLBUS
+*A vm 210503003 180401003 000034  00625  00710              % 00042 CFLBUS
+*A ad 210503003 180401003 000034  00625  00710              % 00042 CFLBUS
+*R 1 180401003 210503003 180401003  00625  00710            % 00042 CFLBUS
+*G RGB 210503003 180401003  00625  00710                    % 00042 CFLBUS
+*A VE 210503003 180401003 000034  00625  00710              % 00042 CFLBUS
+*I FD 210503003 180401003        0002424  00625  00710      % 00042 CFLBUS
+210503003 Mondorf, Christophor         00625                % 00042 CFLBUS
+210503002 Mondorf, Casino 2000  00626  00626                % 00042 CFLBUS
+210503009 Mondorf, Vor Howent   00627  00627                % 00042 CFLBUS
+210503011 Mondorf, Rue J. Doli  00628  00628                % 00042 CFLBUS
+210502002 Ellange, Martialis    00632  00632                % 00042 CFLBUS
+211003001 Wellenstein, Centre   00637  00637                % 00042 CFLBUS
+211003003 Wellenstein, Caves c  00637  00637                % 00042 CFLBUS
+211001002 Bech-Kleinmacher, Ce  00639  00639                % 00042 CFLBUS
+210701011 Remich, Piscine       00640  00640                % 00042 CFLBUS
+210701006 Remich, Gare routièr  00641  00641                % 00042 CFLBUS
+210701008 Remich, Maatebierg    00643  00643                % 00042 CFLBUS
+210701003 Remich, Caves St. Ma  00644  00644                % 00042 CFLBUS
+210803006 Stadtbredimus, Wandm  00645  00645                % 00042 CFLBUS
+210803005 Stadtbredimus, Vinsm  00646  00646                % 00042 CFLBUS
+210803003 Stadtbredimus, Schle  00646  00646                % 00042 CFLBUS
+210801004 Greiveldange, Raiffe  00650  00650                % 00042 CFLBUS
+210801003 Greiveldange, Neie W  00651  00651                % 00042 CFLBUS
+210801001 Greiveldange, Keller  00652  00652                % 00042 CFLBUS
+210802001 Hëttermillen          00653  00653                % 00042 CFLBUS
+180802002 Ehnen, Bromelt        00654  00654                % 00042 CFLBUS
+180802007 Ehnen, Puddel         00655  00655                % 00042 CFLBUS
+180804003 Wormeldange, Gewân    00657  00657                % 00042 CFLBUS
+180804002 Wormeldange, Geméen   00658  00658                % 00042 CFLBUS
+180804001 Wormeldange, Erdkaul  00659  00659                % 00042 CFLBUS
+180804004 Wormeldange, Kellere  00659  00659                % 00042 CFLBUS
+180801001 Ahn, Beim Quai        00702  00702                % 00042 CFLBUS
+180803004 Machtum, Ongkaf       00706  00706                % 00042 CFLBUS
+180803003 Machtum, Gellebur     00706  00706                % 00042 CFLBUS
+180803002 Machtum, Deisermille  00707  00707                % 00042 CFLBUS
+180401005 Grevenmacher, rte.de  00708  00708                % 00042 CFLBUS
+180401002 Grevenmacher, Enner   00709  00709                % 00042 CFLBUS
+180401003 Grevenmacher, Gare r  00710                       % 00042 CFLBUS
+*Z 02160 CFLBUS                                             % 02160 CFLBUS
+*L 453      180401003 210503003  01519  01603               % 02160 CFLBUS
+*A bi 180401003 210503003 000034  01519  01603              % 02160 CFLBUS
+*A vm 180401003 210503003 000034  01519  01603              % 02160 CFLBUS
+*A ad 180401003 210503003 000034  01519  01603              % 02160 CFLBUS
+*R 2 210503003 180401003 210503003  01519  01603            % 02160 CFLBUS
+*G RGB 180401003 210503003  01519  01603                    % 02160 CFLBUS
+*A VE 180401003 210503003 000034  01519  01603              % 02160 CFLBUS
+*I FD 180401003 210503003        0002309  01519  01603      % 02160 CFLBUS
+180401003 Grevenmacher, Gare r         01519                % 02160 CFLBUS
+180401002 Grevenmacher, Enner   01520  01520                % 02160 CFLBUS
+180401005 Grevenmacher, rte.de  01521  01521                % 02160 CFLBUS
+180803002 Machtum, Deisermille  01522  01522                % 02160 CFLBUS
+180803003 Machtum, Gellebur     01523  01523                % 02160 CFLBUS
+180803001 Machtum, Bei Kallek'  01523  01523                % 02160 CFLBUS
+180801001 Ahn, Beim Quai        01528  01528                % 02160 CFLBUS
+180804004 Wormeldange, Kellere  01530  01530                % 02160 CFLBUS
+180804001 Wormeldange, Erdkaul  01530  01530                % 02160 CFLBUS
+180804002 Wormeldange, Geméen   01532  01532                % 02160 CFLBUS
+180804003 Wormeldange, Gewân    01532  01532                % 02160 CFLBUS
+180802003 Ehnen, Ieselsbreck    01534  01534                % 02160 CFLBUS
+180802002 Ehnen, Bromelt        01534  01534                % 02160 CFLBUS
+210802001 Hëttermillen          01536  01536                % 02160 CFLBUS
+210801001 Greiveldange, Keller  01537  01537                % 02160 CFLBUS
+210801003 Greiveldange, Neie W  01537  01537                % 02160 CFLBUS
+210801002 Greiveldange, Gemeng  01537  01537                % 02160 CFLBUS
+210803003 Stadtbredimus, Schle  01541  01541                % 02160 CFLBUS
+210803005 Stadtbredimus, Vinsm  01542  01542                % 02160 CFLBUS
+210803006 Stadtbredimus, Wandm  01543  01543                % 02160 CFLBUS
+210701003 Remich, Caves St. Ma  01544  01544                % 02160 CFLBUS
+210701008 Remich, Maatebierg    01545  01545                % 02160 CFLBUS
+210701006 Remich, Gare routièr  01547  01547                % 02160 CFLBUS
+210701011 Remich, Piscine       01548  01548                % 02160 CFLBUS
+211001002 Bech-Kleinmacher, Ce  01550  01550                % 02160 CFLBUS
+211003003 Wellenstein, Caves c  01551  01551                % 02160 CFLBUS
+211003001 Wellenstein, Centre   01553  01553                % 02160 CFLBUS
+210502002 Ellange, Martialis    01558  01558                % 02160 CFLBUS
+210503011 Mondorf, Rue J. Doli  01559  01559                % 02160 CFLBUS
+210503009 Mondorf, Vor Howent   01600  01600                % 02160 CFLBUS
+210503002 Mondorf, Casino 2000  01602  01602                % 02160 CFLBUS
+210503003 Mondorf, Christophor  01603                       % 02160 CFLBUS
+*Z 00040 CFLBUS                                             % 00040 CFLBUS
+*L 453      210503003 180401003  00625  00710               % 00040 CFLBUS
+*A wk 210503003 180401003 000025  00625  00710              % 00040 CFLBUS
+*A vm 210503003 180401003 000025  00625  00710              % 00040 CFLBUS
+*A ad 210503003 180401003 000025  00625  00710              % 00040 CFLBUS
+*R 1 180401003 210503003 180401003  00625  00710            % 00040 CFLBUS
+*G RGB 210503003 180401003  00625  00710                    % 00040 CFLBUS
+*A VE 210503003 180401003 000025  00625  00710              % 00040 CFLBUS
+*I FD 210503003 180401003        0002424  00625  00710      % 00040 CFLBUS
+210503003 Mondorf, Christophor         00625                % 00040 CFLBUS
+210503002 Mondorf, Casino 2000  00626  00626                % 00040 CFLBUS
+210503009 Mondorf, Vor Howent   00627  00627                % 00040 CFLBUS
+210503011 Mondorf, Rue J. Doli  00628  00628                % 00040 CFLBUS
+210502002 Ellange, Martialis    00632  00632                % 00040 CFLBUS
+211003001 Wellenstein, Centre   00637  00637                % 00040 CFLBUS
+211003003 Wellenstein, Caves c  00637  00637                % 00040 CFLBUS
+211001002 Bech-Kleinmacher, Ce  00639  00639                % 00040 CFLBUS
+210701011 Remich, Piscine       00640  00640                % 00040 CFLBUS
+210701006 Remich, Gare routièr  00641  00641                % 00040 CFLBUS
+210701008 Remich, Maatebierg    00643  00643                % 00040 CFLBUS
+210701003 Remich, Caves St. Ma  00644  00644                % 00040 CFLBUS
+210803006 Stadtbredimus, Wandm  00645  00645                % 00040 CFLBUS
+210803005 Stadtbredimus, Vinsm  00646  00646                % 00040 CFLBUS
+210803003 Stadtbredimus, Schle  00646  00646                % 00040 CFLBUS
+210801004 Greiveldange, Raiffe  00650  00650                % 00040 CFLBUS
+210801003 Greiveldange, Neie W  00651  00651                % 00040 CFLBUS
+210801001 Greiveldange, Keller  00652  00652                % 00040 CFLBUS
+210802001 Hëttermillen          00653  00653                % 00040 CFLBUS
+180802002 Ehnen, Bromelt        00654  00654                % 00040 CFLBUS
+180802007 Ehnen, Puddel         00655  00655                % 00040 CFLBUS
+180804003 Wormeldange, Gewân    00657  00657                % 00040 CFLBUS
+180804002 Wormeldange, Geméen   00658  00658                % 00040 CFLBUS
+180804001 Wormeldange, Erdkaul  00659  00659                % 00040 CFLBUS
+180804004 Wormeldange, Kellere  00659  00659                % 00040 CFLBUS
+180801001 Ahn, Beim Quai        00702  00702                % 00040 CFLBUS
+180803004 Machtum, Ongkaf       00706  00706                % 00040 CFLBUS
+180803003 Machtum, Gellebur     00706  00706                % 00040 CFLBUS
+180803002 Machtum, Deisermille  00707  00707                % 00040 CFLBUS
+180401005 Grevenmacher, rte.de  00708  00708                % 00040 CFLBUS
+180401002 Grevenmacher, Enner   00709  00709                % 00040 CFLBUS
+180401003 Grevenmacher, Gare r  00710                       % 00040 CFLBUS
+*Z 02161 CFLBUS                                             % 02161 CFLBUS
+*L 453      180401003 210503003  01519  01603               % 02161 CFLBUS
+*A vm 180401003 210503003 000025  01519  01603              % 02161 CFLBUS
+*A ad 180401003 210503003 000025  01519  01603              % 02161 CFLBUS
+*R 2 210503003 180401003 210503003  01519  01603            % 02161 CFLBUS
+*G RGB 180401003 210503003  01519  01603                    % 02161 CFLBUS
+*A VE 180401003 210503003 000025  01519  01603              % 02161 CFLBUS
+*I FD 180401003 210503003        0002309  01519  01603      % 02161 CFLBUS
+180401003 Grevenmacher, Gare r         01519                % 02161 CFLBUS
+180401002 Grevenmacher, Enner   01520  01520                % 02161 CFLBUS
+180401005 Grevenmacher, rte.de  01521  01521                % 02161 CFLBUS
+180803002 Machtum, Deisermille  01522  01522                % 02161 CFLBUS
+180803003 Machtum, Gellebur     01523  01523                % 02161 CFLBUS
+180803001 Machtum, Bei Kallek'  01523  01523                % 02161 CFLBUS
+180801001 Ahn, Beim Quai        01528  01528                % 02161 CFLBUS
+180804004 Wormeldange, Kellere  01530  01530                % 02161 CFLBUS
+180804001 Wormeldange, Erdkaul  01530  01530                % 02161 CFLBUS
+180804002 Wormeldange, Geméen   01532  01532                % 02161 CFLBUS
+180804003 Wormeldange, Gewân    01532  01532                % 02161 CFLBUS
+180802003 Ehnen, Ieselsbreck    01534  01534                % 02161 CFLBUS
+180802002 Ehnen, Bromelt        01534  01534                % 02161 CFLBUS
+210802001 Hëttermillen          01536  01536                % 02161 CFLBUS
+210801001 Greiveldange, Keller  01537  01537                % 02161 CFLBUS
+210801003 Greiveldange, Neie W  01537  01537                % 02161 CFLBUS
+210801002 Greiveldange, Gemeng  01537  01537                % 02161 CFLBUS
+210803003 Stadtbredimus, Schle  01541  01541                % 02161 CFLBUS
+210803005 Stadtbredimus, Vinsm  01542  01542                % 02161 CFLBUS
+210803006 Stadtbredimus, Wandm  01543  01543                % 02161 CFLBUS
+210701003 Remich, Caves St. Ma  01544  01544                % 02161 CFLBUS
+210701008 Remich, Maatebierg    01545  01545                % 02161 CFLBUS
+210701006 Remich, Gare routièr  01547  01547                % 02161 CFLBUS
+210701011 Remich, Piscine       01548  01548                % 02161 CFLBUS
+211001002 Bech-Kleinmacher, Ce  01550  01550                % 02161 CFLBUS
+211003003 Wellenstein, Caves c  01551  01551                % 02161 CFLBUS
+211003001 Wellenstein, Centre   01553  01553                % 02161 CFLBUS
+210502002 Ellange, Martialis    01558  01558                % 02161 CFLBUS
+210503011 Mondorf, Rue J. Doli  01559  01559                % 02161 CFLBUS
+210503009 Mondorf, Vor Howent   01600  01600                % 02161 CFLBUS
+210503002 Mondorf, Casino 2000  01602  01602                % 02161 CFLBUS
+210503003 Mondorf, Christophor  01603                       % 02161 CFLBUS
+*Z 00038 CFLBUS                                             % 00038 CFLBUS
+*L 453      210503003 180401003  00625  00710               % 00038 CFLBUS
+*A wk 210503003 180401003 000032  00625  00710              % 00038 CFLBUS
+*A vm 210503003 180401003 000032  00625  00710              % 00038 CFLBUS
+*A ad 210503003 180401003 000032  00625  00710              % 00038 CFLBUS
+*R 1 180401003 210503003 180401003  00625  00710            % 00038 CFLBUS
+*G RGB 210503003 180401003  00625  00710                    % 00038 CFLBUS
+*A VE 210503003 180401003 000032  00625  00710              % 00038 CFLBUS
+*I FD 210503003 180401003        0002424  00625  00710      % 00038 CFLBUS
+210503003 Mondorf, Christophor         00625                % 00038 CFLBUS
+210503002 Mondorf, Casino 2000  00626  00626                % 00038 CFLBUS
+210503009 Mondorf, Vor Howent   00627  00627                % 00038 CFLBUS
+210503011 Mondorf, Rue J. Doli  00628  00628                % 00038 CFLBUS
+210502002 Ellange, Martialis    00632  00632                % 00038 CFLBUS
+211003001 Wellenstein, Centre   00636  00636                % 00038 CFLBUS
+211003003 Wellenstein, Caves c  00637  00637                % 00038 CFLBUS
+211001002 Bech-Kleinmacher, Ce  00638  00638                % 00038 CFLBUS
+210701011 Remich, Piscine       00640  00640                % 00038 CFLBUS
+210701006 Remich, Gare routièr  00641  00641                % 00038 CFLBUS
+210701008 Remich, Maatebierg    00642  00642                % 00038 CFLBUS
+210701003 Remich, Caves St. Ma  00643  00643                % 00038 CFLBUS
+210803006 Stadtbredimus, Wandm  00645  00645                % 00038 CFLBUS
+210803005 Stadtbredimus, Vinsm  00645  00645                % 00038 CFLBUS
+210803003 Stadtbredimus, Schle  00646  00646                % 00038 CFLBUS
+210801004 Greiveldange, Raiffe  00650  00650                % 00038 CFLBUS
+210801003 Greiveldange, Neie W  00651  00651                % 00038 CFLBUS
+210801001 Greiveldange, Keller  00651  00651                % 00038 CFLBUS
+210802001 Hëttermillen          00652  00652                % 00038 CFLBUS
+180802002 Ehnen, Bromelt        00653  00653                % 00038 CFLBUS
+180802007 Ehnen, Puddel         00655  00655                % 00038 CFLBUS
+180804003 Wormeldange, Gewân    00656  00656                % 00038 CFLBUS
+180804002 Wormeldange, Geméen   00657  00657                % 00038 CFLBUS
+180804001 Wormeldange, Erdkaul  00658  00658                % 00038 CFLBUS
+180804004 Wormeldange, Kellere  00659  00659                % 00038 CFLBUS
+180801001 Ahn, Beim Quai        00701  00701                % 00038 CFLBUS
+180803004 Machtum, Ongkaf       00705  00705                % 00038 CFLBUS
+180803003 Machtum, Gellebur     00706  00706                % 00038 CFLBUS
+180803002 Machtum, Deisermille  00707  00707                % 00038 CFLBUS
+180401005 Grevenmacher, rte.de  00708  00708                % 00038 CFLBUS
+180401002 Grevenmacher, Enner   00709  00709                % 00038 CFLBUS
+180401003 Grevenmacher, Gare r  00710                       % 00038 CFLBUS
+*Z 02162 CFLBUS                                             % 02162 CFLBUS
+*L 453      180401003 210503003  01519  01603               % 02162 CFLBUS
+*A vm 180401003 210503003 000032  01519  01603              % 02162 CFLBUS
+*A ad 180401003 210503003 000032  01519  01603              % 02162 CFLBUS
+*R 2 210503003 180401003 210503003  01519  01603            % 02162 CFLBUS
+*G RGB 180401003 210503003  01519  01603                    % 02162 CFLBUS
+*A VE 180401003 210503003 000032  01519  01603              % 02162 CFLBUS
+*I FD 180401003 210503003        0002309  01519  01603      % 02162 CFLBUS
+180401003 Grevenmacher, Gare r         01519                % 02162 CFLBUS
+180401002 Grevenmacher, Enner   01520  01520                % 02162 CFLBUS
+180401005 Grevenmacher, rte.de  01521  01521                % 02162 CFLBUS
+180803002 Machtum, Deisermille  01522  01522                % 02162 CFLBUS
+180803003 Machtum, Gellebur     01523  01523                % 02162 CFLBUS
+180803001 Machtum, Bei Kallek'  01523  01523                % 02162 CFLBUS
+180801001 Ahn, Beim Quai        01528  01528                % 02162 CFLBUS
+180804004 Wormeldange, Kellere  01530  01530                % 02162 CFLBUS
+180804001 Wormeldange, Erdkaul  01530  01530                % 02162 CFLBUS
+180804002 Wormeldange, Geméen   01532  01532                % 02162 CFLBUS
+180804003 Wormeldange, Gewân    01532  01532                % 02162 CFLBUS
+180802003 Ehnen, Ieselsbreck    01534  01534                % 02162 CFLBUS
+180802002 Ehnen, Bromelt        01534  01534                % 02162 CFLBUS
+210802001 Hëttermillen          01536  01536                % 02162 CFLBUS
+210801001 Greiveldange, Keller  01537  01537                % 02162 CFLBUS
+210801003 Greiveldange, Neie W  01537  01537                % 02162 CFLBUS
+210801002 Greiveldange, Gemeng  01537  01537                % 02162 CFLBUS
+210803003 Stadtbredimus, Schle  01541  01541                % 02162 CFLBUS
+210803005 Stadtbredimus, Vinsm  01542  01542                % 02162 CFLBUS
+210803006 Stadtbredimus, Wandm  01543  01543                % 02162 CFLBUS
+210701003 Remich, Caves St. Ma  01544  01544                % 02162 CFLBUS
+210701008 Remich, Maatebierg    01545  01545                % 02162 CFLBUS
+210701006 Remich, Gare routièr  01547  01547                % 02162 CFLBUS
+210701011 Remich, Piscine       01548  01548                % 02162 CFLBUS
+211001002 Bech-Kleinmacher, Ce  01550  01550                % 02162 CFLBUS
+211003003 Wellenstein, Caves c  01551  01551                % 02162 CFLBUS
+211003001 Wellenstein, Centre   01553  01553                % 02162 CFLBUS
+210502002 Ellange, Martialis    01558  01558                % 02162 CFLBUS
+210503011 Mondorf, Rue J. Doli  01600  01600                % 02162 CFLBUS
+210503009 Mondorf, Vor Howent   01601  01601                % 02162 CFLBUS
+210503002 Mondorf, Casino 2000  01602  01602                % 02162 CFLBUS
+210503003 Mondorf, Christophor  01603                       % 02162 CFLBUS

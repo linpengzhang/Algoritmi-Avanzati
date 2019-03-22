@@ -1,0 +1,28 @@
+*F 03 2
+*Z 02158 CFLBUS                                             % 02158 CFLBUS
+*L 308      220102005 221301026  00712  00750               % 02158 CFLBUS
+*A BE 220102005 221301026 000149  00712  00750              % 02158 CFLBUS
+*A vm 220102005 221301026 000149  00712  00750              % 02158 CFLBUS
+*R 1 221301026 220102005 221301026  00712  00750            % 02158 CFLBUS
+*G RGB 220102005 221301026  00712  00750                    % 02158 CFLBUS
+*A VE 220102005 221301026 000149  00712  00750              % 02158 CFLBUS
+*I FD 220102005 221301026        0003780  00712  00750      % 02158 CFLBUS
+220102005 Bettembourg, Gare            00712                % 02158 CFLBUS
+220102006 Bettembourg, Kiirche  00714  00714                % 02158 CFLBUS
+220102011 Bettembourg, Rousegä  00715  00715                % 02158 CFLBUS
+220103002 Fennange, Rue des Ch  00716  00716                % 02158 CFLBUS
+220103001 Fennange, Am Duerf    00717  00717                % 02158 CFLBUS
+220104004 Huncherange, Rue d'E  00718  00718                % 02158 CFLBUS
+220104002 Huncherange, Kreizun  00718  00718                % 02158 CFLBUS
+220104001 Huncherange, Kiirch   00719  00719                % 02158 CFLBUS
+220105005 Noertzange, Rue Prin  00721  00721                % 02158 CFLBUS
+220105001 Noertzange, Am Duerf  00722  00722                % 02158 CFLBUS
+220105004 Noertzange, Lohrwies  00723  00723                % 02158 CFLBUS
+221401004 Schifflange, Gringe   00727  00727                % 02158 CFLBUS
+221401009 Schifflange, Stadhau  00728  00728                % 02158 CFLBUS
+221401005 Schifflange, Huele W  00729  00729                % 02158 CFLBUS
+221401006 Schifflange, Millche  00730  00730                % 02158 CFLBUS
+004240102 ESCH-SUR-ALZETTE, De  00732  00732                % 02158 CFLBUS
+220402059 Esch/Alzette, Lycée   00734  00734                % 02158 CFLBUS
+220402057 Esch/Alzette, LT (So  00742  00742                % 02158 CFLBUS
+221301026 Belvaux, Lycée Bel-V  00750                       % 02158 CFLBUS

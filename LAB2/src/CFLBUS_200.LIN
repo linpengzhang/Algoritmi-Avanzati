@@ -1,0 +1,328 @@
+*F 03 2
+*Z 01641 CFLBUS                                             % 01641 CFLBUS
+*L 200      200405036 220102005  00630  00650               % 01641 CFLBUS
+*A BE 200405036 220102005 000221  00630  00650              % 01641 CFLBUS
+*A vm 200405036 220102005 000009  00630  00650              % 01641 CFLBUS
+*R 1 220102005 200405036 220102005  00630  00650            % 01641 CFLBUS
+*G RGB 200405036 220102005  00630  00650                    % 01641 CFLBUS
+*A VE 200405036 220102005 000009  00630  00650              % 01641 CFLBUS
+*I FD 200405036 220102005        0000966  00630  00650      % 01641 CFLBUS
+200405036 Luxembourg, Gare rou         00630                % 01641 CFLBUS
+200415003 Hollerich, Fonderie  -00631  00631                % 01641 CFLBUS
+200415002 Hollerich, Assurance -00633  00633                % 01641 CFLBUS
+200412009 Gasperich, Gaasperec -00635  00635                % 01641 CFLBUS
+200412014 Gasperich, Plantin   -00636  00636                % 01641 CFLBUS
+200412006 Gasperich, Cloche d' -00637  00637                % 01641 CFLBUS
+200412018 Gasperich, Scharfen  -00638  00638                % 01641 CFLBUS
+200418001 Kockelscheuer, Campi  00639  00639                % 01641 CFLBUS
+200418002 Kockelscheuer, Kräiz  00640  00640                % 01641 CFLBUS
+200418004 Kockelscheuer, Plate  00641  00641                % 01641 CFLBUS
+200418005 Kockelscheuer, Poudr  00642  00642                % 01641 CFLBUS
+220102013 Bettembourg, Fankena  00645  00645                % 01641 CFLBUS
+220102001 Bettembourg, 12 Garg  00645  00645                % 01641 CFLBUS
+220102002 Bettembourg, Al Geme  00647  00647                % 01641 CFLBUS
+220102005 Bettembourg, Gare     00650                       % 01641 CFLBUS
+*Z 01642 CFLBUS                                             % 01642 CFLBUS
+*L 200      200412006 220102005  01607  01625               % 01642 CFLBUS
+*A vm 200412006 220102005 000009  01607  01625              % 01642 CFLBUS
+*R 1 220102005 200412006 220102005  01607  01625            % 01642 CFLBUS
+*G RGB 200412006 220102005  01607  01625                    % 01642 CFLBUS
+*A VE 200412006 220102005 000009  01607  01625              % 01642 CFLBUS
+*I FD 200412006 220102005        0002768  01607  01625      % 01642 CFLBUS
+200412006 Gasperich, Cloche d'         01607                % 01642 CFLBUS
+200412018 Gasperich, Scharfen   01609  01609                % 01642 CFLBUS
+220102005 Bettembourg, Gare     01625                       % 01642 CFLBUS
+*Z 01643 CFLBUS                                             % 01643 CFLBUS
+*L 200      200412006 220102005  01707  01725               % 01643 CFLBUS
+*A vm 200412006 220102005 000009  01707  01725              % 01643 CFLBUS
+*R 1 220102005 200412006 220102005  01707  01725            % 01643 CFLBUS
+*G RGB 200412006 220102005  01707  01725                    % 01643 CFLBUS
+*A VE 200412006 220102005 000009  01707  01725              % 01643 CFLBUS
+*I FD 200412006 220102005        0002778  01707  01725      % 01643 CFLBUS
+200412006 Gasperich, Cloche d'         01707                % 01643 CFLBUS
+200412018 Gasperich, Scharfen   01709  01709                % 01643 CFLBUS
+220102005 Bettembourg, Gare     01725                       % 01643 CFLBUS
+*Z 01644 CFLBUS                                             % 01644 CFLBUS
+*L 200      220102005 200405036  00716  00748               % 01644 CFLBUS
+*A BE 220102005 200405036 000222  00716  00748              % 01644 CFLBUS
+*A vm 220102005 200405036 000009  00716  00748              % 01644 CFLBUS
+*R 2 200405036 220102005 200405036  00716  00748            % 01644 CFLBUS
+*G RGB 220102005 200405036  00716  00748                    % 01644 CFLBUS
+*A VE 220102005 200405036 000009  00716  00748              % 01644 CFLBUS
+*I FD 220102005 200405036        0003775  00716  00748      % 01644 CFLBUS
+220102005 Bettembourg, Gare            00716                % 01644 CFLBUS
+220102002 Bettembourg, Al Geme  00720  00720                % 01644 CFLBUS
+220102001 Bettembourg, 12 Garg  00721  00721                % 01644 CFLBUS
+220102013 Bettembourg, Fankena  00722  00722                % 01644 CFLBUS
+200418005 Kockelscheuer, Poudr  00727  00727                % 01644 CFLBUS
+200418004 Kockelscheuer, Plate  00730  00730                % 01644 CFLBUS
+200418001 Kockelscheuer, Campi  00735  00735                % 01644 CFLBUS
+200412018 Gasperich, Scharfen   00738 -00738                % 01644 CFLBUS
+200412006 Gasperich, Cloche d'  00739 -00739                % 01644 CFLBUS
+200412014 Gasperich, Plantin    00741 -00741                % 01644 CFLBUS
+200412009 Gasperich, Gaasperec  00742 -00742                % 01644 CFLBUS
+200415002 Hollerich, Assurance  00743 -00743                % 01644 CFLBUS
+200415010 Hollerich, Pierre &   00744 -00744                % 01644 CFLBUS
+200415003 Hollerich, Fonderie   00745 -00745                % 01644 CFLBUS
+200405036 Luxembourg, Gare rou  00748                       % 01644 CFLBUS
+*Z 01645 CFLBUS                                             % 01645 CFLBUS
+*L 200      220102005 200412006  00718  00734               % 01645 CFLBUS
+*A BE 220102005 200412006 000029  00718  00734              % 01645 CFLBUS
+*A vm 220102005 200412006 000029  00718  00734              % 01645 CFLBUS
+*A wg 220102005 200412006 000029  00718  00734              % 01645 CFLBUS
+*R 2 200412006 220102005 200412006  00718  00734            % 01645 CFLBUS
+*G RGB 220102005 200412006  00718  00734                    % 01645 CFLBUS
+*A VE 220102005 200412006 000029  00718  00734              % 01645 CFLBUS
+*I FD 220102005 200412006        0002899  00718  00734      % 01645 CFLBUS
+220102005 Bettembourg, Gare            00718                % 01645 CFLBUS
+200412018 Gasperich, Scharfen   00734 -00734                % 01645 CFLBUS
+200412006 Gasperich, Cloche d'  00734                       % 01645 CFLBUS
+*Z 01646 CFLBUS                                             % 01646 CFLBUS
+*L 200      220102005 200412006  00725  00741               % 01646 CFLBUS
+*A BE 220102005 200412006 000223  00725  00741              % 01646 CFLBUS
+*A vm 220102005 200412006 000029  00725  00741              % 01646 CFLBUS
+*A wg 220102005 200412006 000029  00725  00741              % 01646 CFLBUS
+*R 2 200412006 220102005 200412006  00725  00741            % 01646 CFLBUS
+*G RGB 220102005 200412006  00725  00741                    % 01646 CFLBUS
+*A VE 220102005 200412006 000029  00725  00741              % 01646 CFLBUS
+*I FD 220102005 200412006        0002064  00725  00741      % 01646 CFLBUS
+220102005 Bettembourg, Gare            00725                % 01646 CFLBUS
+200412018 Gasperich, Scharfen   00741 -00741                % 01646 CFLBUS
+200412006 Gasperich, Cloche d'  00741                       % 01646 CFLBUS
+*Z 01647 CFLBUS                                             % 01647 CFLBUS
+*L 200      200405036 220102005  00630  00650               % 01647 CFLBUS
+*A BE 200405036 220102005 000224  00630  00650              % 01647 CFLBUS
+*A vm 200405036 220102005 000008  00630  00650              % 01647 CFLBUS
+*R 1 220102005 200405036 220102005  00630  00650            % 01647 CFLBUS
+*G RGB 200405036 220102005  00630  00650                    % 01647 CFLBUS
+*A VE 200405036 220102005 000008  00630  00650              % 01647 CFLBUS
+*I FD 200405036 220102005        0000966  00630  00650      % 01647 CFLBUS
+200405036 Luxembourg, Gare rou         00630                % 01647 CFLBUS
+200415003 Hollerich, Fonderie  -00631  00631                % 01647 CFLBUS
+200415002 Hollerich, Assurance -00633  00633                % 01647 CFLBUS
+200412009 Gasperich, Gaasperec -00635  00635                % 01647 CFLBUS
+200412014 Gasperich, Plantin   -00636  00636                % 01647 CFLBUS
+200412006 Gasperich, Cloche d' -00637  00637                % 01647 CFLBUS
+200412018 Gasperich, Scharfen  -00638  00638                % 01647 CFLBUS
+200418001 Kockelscheuer, Campi  00639  00639                % 01647 CFLBUS
+200418002 Kockelscheuer, Kräiz  00640  00640                % 01647 CFLBUS
+200418004 Kockelscheuer, Plate  00641  00641                % 01647 CFLBUS
+200418005 Kockelscheuer, Poudr  00642  00642                % 01647 CFLBUS
+220102013 Bettembourg, Fankena  00645  00645                % 01647 CFLBUS
+220102001 Bettembourg, 12 Garg  00645  00645                % 01647 CFLBUS
+220102002 Bettembourg, Al Geme  00647  00647                % 01647 CFLBUS
+220102005 Bettembourg, Gare     00650                       % 01647 CFLBUS
+*Z 01648 CFLBUS                                             % 01648 CFLBUS
+*L 200      200412006 220102005  01607  01625               % 01648 CFLBUS
+*A vm 200412006 220102005 000008  01607  01625              % 01648 CFLBUS
+*R 1 220102005 200412006 220102005  01607  01625            % 01648 CFLBUS
+*G RGB 200412006 220102005  01607  01625                    % 01648 CFLBUS
+*A VE 200412006 220102005 000008  01607  01625              % 01648 CFLBUS
+*I FD 200412006 220102005        0002768  01607  01625      % 01648 CFLBUS
+200412006 Gasperich, Cloche d'         01607                % 01648 CFLBUS
+200412018 Gasperich, Scharfen   01609  01609                % 01648 CFLBUS
+220102005 Bettembourg, Gare     01625                       % 01648 CFLBUS
+*Z 01649 CFLBUS                                             % 01649 CFLBUS
+*L 200      200412006 220102005  01707  01725               % 01649 CFLBUS
+*A vm 200412006 220102005 000008  01707  01725              % 01649 CFLBUS
+*R 1 220102005 200412006 220102005  01707  01725            % 01649 CFLBUS
+*G RGB 200412006 220102005  01707  01725                    % 01649 CFLBUS
+*A VE 200412006 220102005 000008  01707  01725              % 01649 CFLBUS
+*I FD 200412006 220102005        0002778  01707  01725      % 01649 CFLBUS
+200412006 Gasperich, Cloche d'         01707                % 01649 CFLBUS
+200412018 Gasperich, Scharfen   01709  01709                % 01649 CFLBUS
+220102005 Bettembourg, Gare     01725                       % 01649 CFLBUS
+*Z 01650 CFLBUS                                             % 01650 CFLBUS
+*L 200      220102005 200405036  00716  00748               % 01650 CFLBUS
+*A BE 220102005 200405036 000225  00716  00748              % 01650 CFLBUS
+*A vm 220102005 200405036 000008  00716  00748              % 01650 CFLBUS
+*R 2 200405036 220102005 200405036  00716  00748            % 01650 CFLBUS
+*G RGB 220102005 200405036  00716  00748                    % 01650 CFLBUS
+*A VE 220102005 200405036 000008  00716  00748              % 01650 CFLBUS
+*I FD 220102005 200405036        0003775  00716  00748      % 01650 CFLBUS
+220102005 Bettembourg, Gare            00716                % 01650 CFLBUS
+220102002 Bettembourg, Al Geme  00720  00720                % 01650 CFLBUS
+220102001 Bettembourg, 12 Garg  00721  00721                % 01650 CFLBUS
+220102013 Bettembourg, Fankena  00722  00722                % 01650 CFLBUS
+200418005 Kockelscheuer, Poudr  00727  00727                % 01650 CFLBUS
+200418004 Kockelscheuer, Plate  00730  00730                % 01650 CFLBUS
+200418001 Kockelscheuer, Campi  00735  00735                % 01650 CFLBUS
+200412018 Gasperich, Scharfen   00738 -00738                % 01650 CFLBUS
+200412006 Gasperich, Cloche d'  00739 -00739                % 01650 CFLBUS
+200412014 Gasperich, Plantin    00741 -00741                % 01650 CFLBUS
+200412009 Gasperich, Gaasperec  00742 -00742                % 01650 CFLBUS
+200415002 Hollerich, Assurance  00743 -00743                % 01650 CFLBUS
+200415010 Hollerich, Pierre &   00744 -00744                % 01650 CFLBUS
+200415003 Hollerich, Fonderie   00745 -00745                % 01650 CFLBUS
+200405036 Luxembourg, Gare rou  00748                       % 01650 CFLBUS
+*Z 01651 CFLBUS                                             % 01651 CFLBUS
+*L 200      220102005 200412006  00718  00734               % 01651 CFLBUS
+*A BE 220102005 200412006 000226  00718  00734              % 01651 CFLBUS
+*A vm 220102005 200412006 000027  00718  00734              % 01651 CFLBUS
+*A wg 220102005 200412006 000027  00718  00734              % 01651 CFLBUS
+*R 2 200412006 220102005 200412006  00718  00734            % 01651 CFLBUS
+*G RGB 220102005 200412006  00718  00734                    % 01651 CFLBUS
+*A VE 220102005 200412006 000027  00718  00734              % 01651 CFLBUS
+*I FD 220102005 200412006        0002899  00718  00734      % 01651 CFLBUS
+220102005 Bettembourg, Gare            00718                % 01651 CFLBUS
+200412018 Gasperich, Scharfen   00734 -00734                % 01651 CFLBUS
+200412006 Gasperich, Cloche d'  00734                       % 01651 CFLBUS
+*Z 01652 CFLBUS                                             % 01652 CFLBUS
+*L 200      220102005 200412006  00725  00741               % 01652 CFLBUS
+*A BE 220102005 200412006 000226  00725  00741              % 01652 CFLBUS
+*A vm 220102005 200412006 000027  00725  00741              % 01652 CFLBUS
+*A wg 220102005 200412006 000027  00725  00741              % 01652 CFLBUS
+*R 2 200412006 220102005 200412006  00725  00741            % 01652 CFLBUS
+*G RGB 220102005 200412006  00725  00741                    % 01652 CFLBUS
+*A VE 220102005 200412006 000027  00725  00741              % 01652 CFLBUS
+*I FD 220102005 200412006        0002064  00725  00741      % 01652 CFLBUS
+220102005 Bettembourg, Gare            00725                % 01652 CFLBUS
+200412018 Gasperich, Scharfen   00741 -00741                % 01652 CFLBUS
+200412006 Gasperich, Cloche d'  00741                       % 01652 CFLBUS
+*Z 01653 CFLBUS                                             % 01653 CFLBUS
+*L 200      200412006 220102005  01607  01625               % 01653 CFLBUS
+*A vm 200412006 220102005 000007  01607  01625              % 01653 CFLBUS
+*R 1 220102005 200412006 220102005  01607  01625            % 01653 CFLBUS
+*G RGB 200412006 220102005  01607  01625                    % 01653 CFLBUS
+*A VE 200412006 220102005 000007  01607  01625              % 01653 CFLBUS
+*I FD 200412006 220102005        0002768  01607  01625      % 01653 CFLBUS
+200412006 Gasperich, Cloche d'         01607                % 01653 CFLBUS
+200412018 Gasperich, Scharfen   01609  01609                % 01653 CFLBUS
+220102005 Bettembourg, Gare     01625                       % 01653 CFLBUS
+*Z 01654 CFLBUS                                             % 01654 CFLBUS
+*L 200      200412006 220102005  01707  01725               % 01654 CFLBUS
+*A vm 200412006 220102005 000007  01707  01725              % 01654 CFLBUS
+*R 1 220102005 200412006 220102005  01707  01725            % 01654 CFLBUS
+*G RGB 200412006 220102005  01707  01725                    % 01654 CFLBUS
+*A VE 200412006 220102005 000007  01707  01725              % 01654 CFLBUS
+*I FD 200412006 220102005        0002778  01707  01725      % 01654 CFLBUS
+200412006 Gasperich, Cloche d'         01707                % 01654 CFLBUS
+200412018 Gasperich, Scharfen   01709  01709                % 01654 CFLBUS
+220102005 Bettembourg, Gare     01725                       % 01654 CFLBUS
+*Z 01655 CFLBUS                                             % 01655 CFLBUS
+*L 200      200405036 220102005  00630  00650               % 01655 CFLBUS
+*A BE 200405036 220102005 000227  00630  00650              % 01655 CFLBUS
+*A vm 200405036 220102005 000007  00630  00650              % 01655 CFLBUS
+*R 1 220102005 200405036 220102005  00630  00650            % 01655 CFLBUS
+*G RGB 200405036 220102005  00630  00650                    % 01655 CFLBUS
+*A VE 200405036 220102005 000007  00630  00650              % 01655 CFLBUS
+*I FD 200405036 220102005        0000966  00630  00650      % 01655 CFLBUS
+200405036 Luxembourg, Gare rou         00630                % 01655 CFLBUS
+200415003 Hollerich, Fonderie  -00631  00631                % 01655 CFLBUS
+200415002 Hollerich, Assurance -00633  00633                % 01655 CFLBUS
+200412009 Gasperich, Gaasperec -00635  00635                % 01655 CFLBUS
+200412014 Gasperich, Plantin   -00636  00636                % 01655 CFLBUS
+200412006 Gasperich, Cloche d' -00637  00637                % 01655 CFLBUS
+200412018 Gasperich, Scharfen  -00638  00638                % 01655 CFLBUS
+200418001 Kockelscheuer, Campi  00639  00639                % 01655 CFLBUS
+200418002 Kockelscheuer, Kräiz  00640  00640                % 01655 CFLBUS
+200418004 Kockelscheuer, Plate  00641  00641                % 01655 CFLBUS
+200418005 Kockelscheuer, Poudr  00642  00642                % 01655 CFLBUS
+220102013 Bettembourg, Fankena  00645  00645                % 01655 CFLBUS
+220102001 Bettembourg, 12 Garg  00645  00645                % 01655 CFLBUS
+220102002 Bettembourg, Al Geme  00647  00647                % 01655 CFLBUS
+220102005 Bettembourg, Gare     00650                       % 01655 CFLBUS
+*Z 01656 CFLBUS                                             % 01656 CFLBUS
+*L 200      220102005 200405036  00716  00748               % 01656 CFLBUS
+*A BE 220102005 200405036 000025  00716  00748              % 01656 CFLBUS
+*A vm 220102005 200405036 000007  00716  00748              % 01656 CFLBUS
+*R 2 200405036 220102005 200405036  00716  00748            % 01656 CFLBUS
+*G RGB 220102005 200405036  00716  00748                    % 01656 CFLBUS
+*A VE 220102005 200405036 000007  00716  00748              % 01656 CFLBUS
+*I FD 220102005 200405036        0003775  00716  00748      % 01656 CFLBUS
+220102005 Bettembourg, Gare            00716                % 01656 CFLBUS
+220102002 Bettembourg, Al Geme  00720  00720                % 01656 CFLBUS
+220102001 Bettembourg, 12 Garg  00721  00721                % 01656 CFLBUS
+220102013 Bettembourg, Fankena  00722  00722                % 01656 CFLBUS
+200418005 Kockelscheuer, Poudr  00727  00727                % 01656 CFLBUS
+200418004 Kockelscheuer, Plate  00730  00730                % 01656 CFLBUS
+200418001 Kockelscheuer, Campi  00735  00735                % 01656 CFLBUS
+200412018 Gasperich, Scharfen   00738 -00738                % 01656 CFLBUS
+200412006 Gasperich, Cloche d'  00739 -00739                % 01656 CFLBUS
+200412014 Gasperich, Plantin    00741 -00741                % 01656 CFLBUS
+200412009 Gasperich, Gaasperec  00742 -00742                % 01656 CFLBUS
+200415002 Hollerich, Assurance  00743 -00743                % 01656 CFLBUS
+200415010 Hollerich, Pierre &   00744 -00744                % 01656 CFLBUS
+200415003 Hollerich, Fonderie   00745 -00745                % 01656 CFLBUS
+200405036 Luxembourg, Gare rou  00748                       % 01656 CFLBUS
+*Z 01657 CFLBUS                                             % 01657 CFLBUS
+*L 200      220102005 200412006  00718  00734               % 01657 CFLBUS
+*A BE 220102005 200412006 000219  00718  00734              % 01657 CFLBUS
+*A vm 220102005 200412006 000025  00718  00734              % 01657 CFLBUS
+*A wg 220102005 200412006 000025  00718  00734              % 01657 CFLBUS
+*R 2 200412006 220102005 200412006  00718  00734            % 01657 CFLBUS
+*G RGB 220102005 200412006  00718  00734                    % 01657 CFLBUS
+*A VE 220102005 200412006 000025  00718  00734              % 01657 CFLBUS
+*I FD 220102005 200412006        0002899  00718  00734      % 01657 CFLBUS
+220102005 Bettembourg, Gare            00718                % 01657 CFLBUS
+200412018 Gasperich, Scharfen   00734 -00734                % 01657 CFLBUS
+200412006 Gasperich, Cloche d'  00734                       % 01657 CFLBUS
+*Z 01658 CFLBUS                                             % 01658 CFLBUS
+*L 200      220102005 200412006  00725  00741               % 01658 CFLBUS
+*A BE 220102005 200412006 000227  00725  00741              % 01658 CFLBUS
+*A vm 220102005 200412006 000025  00725  00741              % 01658 CFLBUS
+*A wg 220102005 200412006 000025  00725  00741              % 01658 CFLBUS
+*R 2 200412006 220102005 200412006  00725  00741            % 01658 CFLBUS
+*G RGB 220102005 200412006  00725  00741                    % 01658 CFLBUS
+*A VE 220102005 200412006 000025  00725  00741              % 01658 CFLBUS
+*I FD 220102005 200412006        0002064  00725  00741      % 01658 CFLBUS
+220102005 Bettembourg, Gare            00725                % 01658 CFLBUS
+200412018 Gasperich, Scharfen   00741 -00741                % 01658 CFLBUS
+200412006 Gasperich, Cloche d'  00741                       % 01658 CFLBUS
+*Z 01659 CFLBUS                                             % 01659 CFLBUS
+*L 200      200405036 220102005  00630  00650               % 01659 CFLBUS
+*A vm 200405036 220102005 000039  00630  00650              % 01659 CFLBUS
+*A wh 200405036 220102005 000039  00630  00650              % 01659 CFLBUS
+*R 1 220102005 200405036 220102005  00630  00650            % 01659 CFLBUS
+*G RGB 200405036 220102005  00630  00650                    % 01659 CFLBUS
+*A VE 200405036 220102005 000039  00630  00650              % 01659 CFLBUS
+*I FD 200405036 220102005        0000966  00630  00650      % 01659 CFLBUS
+200405036 Luxembourg, Gare rou         00630                % 01659 CFLBUS
+200415003 Hollerich, Fonderie  -00631  00631                % 01659 CFLBUS
+200415002 Hollerich, Assurance -00633  00633                % 01659 CFLBUS
+200412009 Gasperich, Gaasperec -00635  00635                % 01659 CFLBUS
+200412014 Gasperich, Plantin   -00636  00636                % 01659 CFLBUS
+200412006 Gasperich, Cloche d' -00637  00637                % 01659 CFLBUS
+200412018 Gasperich, Scharfen  -00638  00638                % 01659 CFLBUS
+200418001 Kockelscheuer, Campi  00639  00639                % 01659 CFLBUS
+200418002 Kockelscheuer, Kräiz  00640  00640                % 01659 CFLBUS
+200418004 Kockelscheuer, Plate  00641  00641                % 01659 CFLBUS
+200418005 Kockelscheuer, Poudr  00642  00642                % 01659 CFLBUS
+220102013 Bettembourg, Fankena  00645  00645                % 01659 CFLBUS
+220102001 Bettembourg, 12 Garg  00645  00645                % 01659 CFLBUS
+220102002 Bettembourg, Al Geme  00647  00647                % 01659 CFLBUS
+220102005 Bettembourg, Gare     00650                       % 01659 CFLBUS
+*Z 01660 CFLBUS                                             % 01660 CFLBUS
+*L 200      220102005 200405036  00716  00748               % 01660 CFLBUS
+*A vm 220102005 200405036 000039  00716  00748              % 01660 CFLBUS
+*A wh 220102005 200405036 000039  00716  00748              % 01660 CFLBUS
+*R 2 200405036 220102005 200405036  00716  00748            % 01660 CFLBUS
+*G RGB 220102005 200405036  00716  00748                    % 01660 CFLBUS
+*A VE 220102005 200405036 000039  00716  00748              % 01660 CFLBUS
+*I FD 220102005 200405036        0003775  00716  00748      % 01660 CFLBUS
+220102005 Bettembourg, Gare            00716                % 01660 CFLBUS
+220102002 Bettembourg, Al Geme  00720  00720                % 01660 CFLBUS
+220102001 Bettembourg, 12 Garg  00721  00721                % 01660 CFLBUS
+220102013 Bettembourg, Fankena  00722  00722                % 01660 CFLBUS
+200418005 Kockelscheuer, Poudr  00727  00727                % 01660 CFLBUS
+200418004 Kockelscheuer, Plate  00730  00730                % 01660 CFLBUS
+200418001 Kockelscheuer, Campi  00735  00735                % 01660 CFLBUS
+200412018 Gasperich, Scharfen   00738 -00738                % 01660 CFLBUS
+200412006 Gasperich, Cloche d'  00739 -00739                % 01660 CFLBUS
+200412014 Gasperich, Plantin    00741 -00741                % 01660 CFLBUS
+200412009 Gasperich, Gaasperec  00742 -00742                % 01660 CFLBUS
+200415002 Hollerich, Assurance  00743 -00743                % 01660 CFLBUS
+200415010 Hollerich, Pierre &   00744 -00744                % 01660 CFLBUS
+200415003 Hollerich, Fonderie   00745 -00745                % 01660 CFLBUS
+200405036 Luxembourg, Gare rou  00748                       % 01660 CFLBUS
+*Z 01661 CFLBUS                                             % 01661 CFLBUS
+*L 200      220102005 200412006  00720  00736               % 01661 CFLBUS
+*A vm 220102005 200412006 000031  00720  00736              % 01661 CFLBUS
+*A wh 220102005 200412006 000031  00720  00736              % 01661 CFLBUS
+*R 2 200412006 220102005 200412006  00720  00736            % 01661 CFLBUS
+*G RGB 220102005 200412006  00720  00736                    % 01661 CFLBUS
+*A VE 220102005 200412006 000031  00720  00736              % 01661 CFLBUS
+*I FD 220102005 200412006        0002153  00720  00736      % 01661 CFLBUS
+220102005 Bettembourg, Gare            00720                % 01661 CFLBUS
+200412018 Gasperich, Scharfen   00736 -00736                % 01661 CFLBUS
+200412006 Gasperich, Cloche d'  00736                       % 01661 CFLBUS

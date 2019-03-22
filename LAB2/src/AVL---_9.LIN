@@ -1,0 +1,1513 @@
+*F 03 2
+*Z 03621 AVL---       001 019                               % 03621 AVL---
+*L 9        200405035 200406019  01956  02016               % 03621 AVL---
+*A BE 200405035 200406019 000012  01956  02016              % 03621 AVL---
+*R 1 200406019 200405035 200406019  01956  02016            % 03621 AVL---
+*G AVS 200405035 200406019  01956  02016                    % 03621 AVL---
+*A VE 200405035 200406019 000012  01956  02016              % 03621 AVL---
+200405035 Luxembourg, Gare Cen         01956                % 03621 AVL---
+200405026 Luxembourg/Centre, P  01958  01958                % 03621 AVL---
+200405023 Centre, Martyrs       01959  01959                % 03621 AVL---
+200405020 Hamilius              02002  02002                % 03621 AVL---
+200405005 Centre, Badanstalt    02004  02004                % 03621 AVL---
+200423004 Pfaffenthal, Um Bock  02006  02006                % 03621 AVL---
+200408005 Clausen, Plateau Alt  02006  02006                % 03621 AVL---
+200408001 Clausen, Clausener B  02007  02007                % 03621 AVL---
+200408003 Clausen, Malakoff     02008  02008                % 03621 AVL---
+200422005 Neudorf/Weimershof,   02009  02009                % 03621 AVL---
+200408002 Neudorf, Fixmer       02010  02010                % 03621 AVL---
+200422009 Neudorf, Kierch       02011  02011                % 03621 AVL---
+200422001 Neiduerf, Brasserie   02011  02011                % 03621 AVL---
+200422008 Neiduerf, Kapell      02012  02012                % 03621 AVL---
+200422011 Neudorf, Laangegronn  02013  02013                % 03621 AVL---
+200422003 Neudorf/Weimershof,   02013  02013                % 03621 AVL---
+200422007 Neudorf, Kalchesbruc  02014  02014                % 03621 AVL---
+200406019 Cents, Waassertuerm   02016                       % 03621 AVL---
+*Z 03622 AVL---       006 030                               % 03622 AVL---
+*L 9        200405035 200406019  02045  02105               % 03622 AVL---
+*A BE 200405035 200406019 000012  02045  02105              % 03622 AVL---
+*R 1 200406019 200405035 200406019  02045  02105            % 03622 AVL---
+*G AVS 200405035 200406019  02045  02105                    % 03622 AVL---
+*A VE 200405035 200406019 000012  02045  02105              % 03622 AVL---
+200405035 Luxembourg, Gare Cen         02045                % 03622 AVL---
+200405026 Luxembourg/Centre, P  02047  02047                % 03622 AVL---
+200405023 Centre, Martyrs       02048  02048                % 03622 AVL---
+200405020 Hamilius              02051  02051                % 03622 AVL---
+200405005 Centre, Badanstalt    02053  02053                % 03622 AVL---
+200423004 Pfaffenthal, Um Bock  02055  02055                % 03622 AVL---
+200408005 Clausen, Plateau Alt  02055  02055                % 03622 AVL---
+200408001 Clausen, Clausener B  02056  02056                % 03622 AVL---
+200408003 Clausen, Malakoff     02057  02057                % 03622 AVL---
+200422005 Neudorf/Weimershof,   02058  02058                % 03622 AVL---
+200408002 Neudorf, Fixmer       02059  02059                % 03622 AVL---
+200422009 Neudorf, Kierch       02100  02100                % 03622 AVL---
+200422001 Neiduerf, Brasserie   02100  02100                % 03622 AVL---
+200422008 Neiduerf, Kapell      02101  02101                % 03622 AVL---
+200422011 Neudorf, Laangegronn  02102  02102                % 03622 AVL---
+200422003 Neudorf/Weimershof,   02102  02102                % 03622 AVL---
+200422007 Neudorf, Kalchesbruc  02103  02103                % 03622 AVL---
+200406019 Cents, Waassertuerm   02105                       % 03622 AVL---
+*Z 03623 AVL---       002 020                               % 03623 AVL---
+*L 9        200405035 200406019  00501  00521               % 03623 AVL---
+*A BE 200405035 200406019 000015  00501  00521              % 03623 AVL---
+*R 1 200406019 200405035 200406019  00501  00521            % 03623 AVL---
+*G AVS 200405035 200406019  00501  00521                    % 03623 AVL---
+*A VE 200405035 200406019 000015  00501  00521              % 03623 AVL---
+200405035 Luxembourg, Gare Cen         00501                % 03623 AVL---
+200405026 Luxembourg/Centre, P  00503  00503                % 03623 AVL---
+200405023 Centre, Martyrs       00504  00504                % 03623 AVL---
+200405020 Hamilius              00507  00507                % 03623 AVL---
+200405005 Centre, Badanstalt    00509  00509                % 03623 AVL---
+200423004 Pfaffenthal, Um Bock  00511  00511                % 03623 AVL---
+200408005 Clausen, Plateau Alt  00511  00511                % 03623 AVL---
+200408001 Clausen, Clausener B  00512  00512                % 03623 AVL---
+200408003 Clausen, Malakoff     00513  00513                % 03623 AVL---
+200422005 Neudorf/Weimershof,   00514  00514                % 03623 AVL---
+200408002 Neudorf, Fixmer       00515  00515                % 03623 AVL---
+200422009 Neudorf, Kierch       00516  00516                % 03623 AVL---
+200422001 Neiduerf, Brasserie   00516  00516                % 03623 AVL---
+200422008 Neiduerf, Kapell      00517  00517                % 03623 AVL---
+200422011 Neudorf, Laangegronn  00518  00518                % 03623 AVL---
+200422003 Neudorf/Weimershof,   00518  00518                % 03623 AVL---
+200422007 Neudorf, Kalchesbruc  00519  00519                % 03623 AVL---
+200406019 Cents, Waassertuerm   00521                       % 03623 AVL---
+*Z 03624 AVL---       003 015                               % 03624 AVL---
+*L 9        200405035 200406019  00556  00616               % 03624 AVL---
+*A BE 200405035 200406019 000015  00556  00616              % 03624 AVL---
+*R 1 200406019 200405035 200406019  00556  00616            % 03624 AVL---
+*G AVS 200405035 200406019  00556  00616                    % 03624 AVL---
+*A VE 200405035 200406019 000015  00556  00616              % 03624 AVL---
+200405035 Luxembourg, Gare Cen         00556                % 03624 AVL---
+200405026 Luxembourg/Centre, P  00558  00558                % 03624 AVL---
+200405023 Centre, Martyrs       00559  00559                % 03624 AVL---
+200405020 Hamilius              00602  00602                % 03624 AVL---
+200405005 Centre, Badanstalt    00604  00604                % 03624 AVL---
+200423004 Pfaffenthal, Um Bock  00606  00606                % 03624 AVL---
+200408005 Clausen, Plateau Alt  00606  00606                % 03624 AVL---
+200408001 Clausen, Clausener B  00607  00607                % 03624 AVL---
+200408003 Clausen, Malakoff     00608  00608                % 03624 AVL---
+200422005 Neudorf/Weimershof,   00609  00609                % 03624 AVL---
+200408002 Neudorf, Fixmer       00610  00610                % 03624 AVL---
+200422009 Neudorf, Kierch       00611  00611                % 03624 AVL---
+200422001 Neiduerf, Brasserie   00611  00611                % 03624 AVL---
+200422008 Neiduerf, Kapell      00612  00612                % 03624 AVL---
+200422011 Neudorf, Laangegronn  00613  00613                % 03624 AVL---
+200422003 Neudorf/Weimershof,   00613  00613                % 03624 AVL---
+200422007 Neudorf, Kalchesbruc  00614  00614                % 03624 AVL---
+200406019 Cents, Waassertuerm   00616                       % 03624 AVL---
+*Z 03625 AVL---       005 030                               % 03625 AVL---
+*L 9        200405035 200406019  00515  00535               % 03625 AVL---
+*A BE 200405035 200406019 000021  00515  00535              % 03625 AVL---
+*R 1 200406019 200405035 200406019  00515  00535            % 03625 AVL---
+*G AVS 200405035 200406019  00515  00535                    % 03625 AVL---
+*A VE 200405035 200406019 000021  00515  00535              % 03625 AVL---
+200405035 Luxembourg, Gare Cen         00515                % 03625 AVL---
+200405026 Luxembourg/Centre, P  00517  00517                % 03625 AVL---
+200405023 Centre, Martyrs       00518  00518                % 03625 AVL---
+200405020 Hamilius              00521  00521                % 03625 AVL---
+200405005 Centre, Badanstalt    00523  00523                % 03625 AVL---
+200423004 Pfaffenthal, Um Bock  00525  00525                % 03625 AVL---
+200408005 Clausen, Plateau Alt  00525  00525                % 03625 AVL---
+200408001 Clausen, Clausener B  00526  00526                % 03625 AVL---
+200408003 Clausen, Malakoff     00527  00527                % 03625 AVL---
+200422005 Neudorf/Weimershof,   00528  00528                % 03625 AVL---
+200408002 Neudorf, Fixmer       00529  00529                % 03625 AVL---
+200422009 Neudorf, Kierch       00530  00530                % 03625 AVL---
+200422001 Neiduerf, Brasserie   00530  00530                % 03625 AVL---
+200422008 Neiduerf, Kapell      00531  00531                % 03625 AVL---
+200422011 Neudorf, Laangegronn  00532  00532                % 03625 AVL---
+200422003 Neudorf/Weimershof,   00532  00532                % 03625 AVL---
+200422007 Neudorf, Kalchesbruc  00533  00533                % 03625 AVL---
+200406019 Cents, Waassertuerm   00535                       % 03625 AVL---
+*Z 03626 AVL---       046 015                               % 03626 AVL---
+*L 9        200405035 200406019  00811  00831               % 03626 AVL---
+*A BE 200405035 200406019 000021  00811  00831              % 03626 AVL---
+*R 1 200406019 200405035 200406019  00811  00831            % 03626 AVL---
+*G AVS 200405035 200406019  00811  00831                    % 03626 AVL---
+*A VE 200405035 200406019 000021  00811  00831              % 03626 AVL---
+200405035 Luxembourg, Gare Cen         00811                % 03626 AVL---
+200405026 Luxembourg/Centre, P  00813  00813                % 03626 AVL---
+200405023 Centre, Martyrs       00814  00814                % 03626 AVL---
+200405020 Hamilius              00817  00817                % 03626 AVL---
+200405005 Centre, Badanstalt    00819  00819                % 03626 AVL---
+200423004 Pfaffenthal, Um Bock  00821  00821                % 03626 AVL---
+200408005 Clausen, Plateau Alt  00822  00822                % 03626 AVL---
+200408001 Clausen, Clausener B  00823  00823                % 03626 AVL---
+200408003 Clausen, Malakoff     00823  00823                % 03626 AVL---
+200422005 Neudorf/Weimershof,   00824  00824                % 03626 AVL---
+200408002 Neudorf, Fixmer       00825  00825                % 03626 AVL---
+200422009 Neudorf, Kierch       00826  00826                % 03626 AVL---
+200422001 Neiduerf, Brasserie   00827  00827                % 03626 AVL---
+200422008 Neiduerf, Kapell      00827  00827                % 03626 AVL---
+200422011 Neudorf, Laangegronn  00828  00828                % 03626 AVL---
+200422003 Neudorf/Weimershof,   00829  00829                % 03626 AVL---
+200422007 Neudorf, Kalchesbruc  00830  00830                % 03626 AVL---
+200406019 Cents, Waassertuerm   00831                       % 03626 AVL---
+*Z 03627 AVL---       051 015                               % 03627 AVL---
+*L 9        200405035 200406019  00655  00718               % 03627 AVL---
+*A BE 200405035 200406019 000015  00655  00718              % 03627 AVL---
+*R 1 200406019 200405035 200406019  00655  00718            % 03627 AVL---
+*G AVS 200405035 200406019  00655  00718                    % 03627 AVL---
+*A VE 200405035 200406019 000015  00655  00718              % 03627 AVL---
+200405035 Luxembourg, Gare Cen         00655                % 03627 AVL---
+200405026 Luxembourg/Centre, P  00658  00658                % 03627 AVL---
+200405023 Centre, Martyrs       00659  00659                % 03627 AVL---
+200405020 Hamilius              00702  00702                % 03627 AVL---
+200405005 Centre, Badanstalt    00705  00705                % 03627 AVL---
+200423004 Pfaffenthal, Um Bock  00706  00706                % 03627 AVL---
+200408005 Clausen, Plateau Alt  00707  00707                % 03627 AVL---
+200408001 Clausen, Clausener B  00708  00708                % 03627 AVL---
+200408003 Clausen, Malakoff     00709  00709                % 03627 AVL---
+200422005 Neudorf/Weimershof,   00710  00710                % 03627 AVL---
+200408002 Neudorf, Fixmer       00711  00711                % 03627 AVL---
+200422009 Neudorf, Kierch       00712  00712                % 03627 AVL---
+200422001 Neiduerf, Brasserie   00713  00713                % 03627 AVL---
+200422008 Neiduerf, Kapell      00714  00714                % 03627 AVL---
+200422011 Neudorf, Laangegronn  00714  00714                % 03627 AVL---
+200422003 Neudorf/Weimershof,   00715  00715                % 03627 AVL---
+200422007 Neudorf, Kalchesbruc  00716  00716                % 03627 AVL---
+200406019 Cents, Waassertuerm   00718                       % 03627 AVL---
+*Z 03628 AVL---       051 015                               % 03628 AVL---
+*L 9        200406019 200405035  00654  00719               % 03628 AVL---
+*A BE 200406019 200405035 000015  00654  00719              % 03628 AVL---
+*R 2 200405035 200406019 200405035  00654  00719            % 03628 AVL---
+*G AVS 200406019 200405035  00654  00719                    % 03628 AVL---
+*A VE 200406019 200405035 000015  00654  00719              % 03628 AVL---
+200406019 Cents, Waassertuerm          00654                % 03628 AVL---
+200422007 Neudorf, Kalchesbruc  00656  00656                % 03628 AVL---
+200422003 Neudorf/Weimershof,   00658  00658                % 03628 AVL---
+200422011 Neudorf, Laangegronn  00659  00659                % 03628 AVL---
+200422008 Neiduerf, Kapell      00700  00700                % 03628 AVL---
+200422001 Neiduerf, Brasserie   00701  00701                % 03628 AVL---
+200422009 Neudorf, Kierch       00702  00702                % 03628 AVL---
+200408002 Neudorf, Fixmer       00703  00703                % 03628 AVL---
+200422005 Neudorf/Weimershof,   00704  00704                % 03628 AVL---
+200408003 Clausen, Malakoff     00705  00705                % 03628 AVL---
+200408001 Clausen, Clausener B  00706  00706                % 03628 AVL---
+200408005 Clausen, Plateau Alt  00707  00707                % 03628 AVL---
+200423004 Pfaffenthal, Um Bock  00708  00708                % 03628 AVL---
+200405005 Centre, Badanstalt    00710  00710                % 03628 AVL---
+200405020 Hamilius              00714  00714                % 03628 AVL---
+200405023 Centre, Martyrs       00715  00715                % 03628 AVL---
+200405026 Luxembourg/Centre, P  00717  00717                % 03628 AVL---
+200405035 Luxembourg, Gare Cen  00719                       % 03628 AVL---
+*Z 03629 AVL---       047 015                               % 03629 AVL---
+*L 9        200406019 200405035  00753  00816               % 03629 AVL---
+*A BE 200406019 200405035 000021  00753  00816              % 03629 AVL---
+*R 2 200405035 200406019 200405035  00753  00816            % 03629 AVL---
+*G AVS 200406019 200405035  00753  00816                    % 03629 AVL---
+*A VE 200406019 200405035 000021  00753  00816              % 03629 AVL---
+200406019 Cents, Waassertuerm          00753                % 03629 AVL---
+200422007 Neudorf, Kalchesbruc  00756  00756                % 03629 AVL---
+200422003 Neudorf/Weimershof,   00757  00757                % 03629 AVL---
+200422011 Neudorf, Laangegronn  00758  00758                % 03629 AVL---
+200422008 Neiduerf, Kapell      00759  00759                % 03629 AVL---
+200422001 Neiduerf, Brasserie   00759  00759                % 03629 AVL---
+200422009 Neudorf, Kierch       00800  00800                % 03629 AVL---
+200408002 Neudorf, Fixmer       00801  00801                % 03629 AVL---
+200422005 Neudorf/Weimershof,   00802  00802                % 03629 AVL---
+200408003 Clausen, Malakoff     00803  00803                % 03629 AVL---
+200408001 Clausen, Clausener B  00804  00804                % 03629 AVL---
+200408005 Clausen, Plateau Alt  00805  00805                % 03629 AVL---
+200423004 Pfaffenthal, Um Bock  00806  00806                % 03629 AVL---
+200405005 Centre, Badanstalt    00808  00808                % 03629 AVL---
+200405020 Hamilius              00811  00811                % 03629 AVL---
+200405023 Centre, Martyrs       00812  00812                % 03629 AVL---
+200405026 Luxembourg/Centre, P  00814  00814                % 03629 AVL---
+200405035 Luxembourg, Gare Cen  00816                       % 03629 AVL---
+*Z 03630 AVL---       006 030                               % 03630 AVL---
+*L 9        200406019 200405035  02028  02049               % 03630 AVL---
+*A BE 200406019 200405035 000012  02028  02049              % 03630 AVL---
+*R 2 200405035 200406019 200405035  02028  02049            % 03630 AVL---
+*G AVS 200406019 200405035  02028  02049                    % 03630 AVL---
+*A VE 200406019 200405035 000012  02028  02049              % 03630 AVL---
+200406019 Cents, Waassertuerm          02028                % 03630 AVL---
+200422007 Neudorf, Kalchesbruc  02031  02031                % 03630 AVL---
+200422003 Neudorf/Weimershof,   02032  02032                % 03630 AVL---
+200422011 Neudorf, Laangegronn  02033  02033                % 03630 AVL---
+200422008 Neiduerf, Kapell      02033  02033                % 03630 AVL---
+200422001 Neiduerf, Brasserie   02034  02034                % 03630 AVL---
+200422009 Neudorf, Kierch       02035  02035                % 03630 AVL---
+200408002 Neudorf, Fixmer       02036  02036                % 03630 AVL---
+200422005 Neudorf/Weimershof,   02037  02037                % 03630 AVL---
+200408003 Clausen, Malakoff     02038  02038                % 03630 AVL---
+200408001 Clausen, Clausener B  02039  02039                % 03630 AVL---
+200408005 Clausen, Plateau Alt  02039  02039                % 03630 AVL---
+200423004 Pfaffenthal, Um Bock  02040  02040                % 03630 AVL---
+200405005 Centre, Badanstalt    02042  02042                % 03630 AVL---
+200405020 Hamilius              02045  02045                % 03630 AVL---
+200405023 Centre, Martyrs       02046  02046                % 03630 AVL---
+200405026 Luxembourg/Centre, P  02047  02047                % 03630 AVL---
+200405035 Luxembourg, Gare Cen  02049                       % 03630 AVL---
+*Z 03631 AVL---       001 030                               % 03631 AVL---
+*L 9        200406019 200405035  00454  00515               % 03631 AVL---
+*A BE 200406019 200405035 000015  00454  00515              % 03631 AVL---
+*R 2 200405035 200406019 200405035  00454  00515            % 03631 AVL---
+*G AVS 200406019 200405035  00454  00515                    % 03631 AVL---
+*A VE 200406019 200405035 000015  00454  00515              % 03631 AVL---
+200406019 Cents, Waassertuerm          00454                % 03631 AVL---
+200422007 Neudorf, Kalchesbruc  00457  00457                % 03631 AVL---
+200422003 Neudorf/Weimershof,   00458  00458                % 03631 AVL---
+200422011 Neudorf, Laangegronn  00459  00459                % 03631 AVL---
+200422008 Neiduerf, Kapell      00459  00459                % 03631 AVL---
+200422001 Neiduerf, Brasserie   00500  00500                % 03631 AVL---
+200422009 Neudorf, Kierch       00501  00501                % 03631 AVL---
+200408002 Neudorf, Fixmer       00502  00502                % 03631 AVL---
+200422005 Neudorf/Weimershof,   00503  00503                % 03631 AVL---
+200408003 Clausen, Malakoff     00504  00504                % 03631 AVL---
+200408001 Clausen, Clausener B  00505  00505                % 03631 AVL---
+200408005 Clausen, Plateau Alt  00505  00505                % 03631 AVL---
+200423004 Pfaffenthal, Um Bock  00506  00506                % 03631 AVL---
+200405005 Centre, Badanstalt    00508  00508                % 03631 AVL---
+200405020 Hamilius              00511  00511                % 03631 AVL---
+200405023 Centre, Martyrs       00512  00512                % 03631 AVL---
+200405026 Luxembourg/Centre, P  00513  00513                % 03631 AVL---
+200405035 Luxembourg, Gare Cen  00515                       % 03631 AVL---
+*Z 03632 AVL---       001 017                               % 03632 AVL---
+*L 9        200406019 200405035  00539  00600               % 03632 AVL---
+*A BE 200406019 200405035 000015  00539  00600              % 03632 AVL---
+*R 2 200405035 200406019 200405035  00539  00600            % 03632 AVL---
+*G AVS 200406019 200405035  00539  00600                    % 03632 AVL---
+*A VE 200406019 200405035 000015  00539  00600              % 03632 AVL---
+200406019 Cents, Waassertuerm          00539                % 03632 AVL---
+200422007 Neudorf, Kalchesbruc  00542  00542                % 03632 AVL---
+200422003 Neudorf/Weimershof,   00543  00543                % 03632 AVL---
+200422011 Neudorf, Laangegronn  00544  00544                % 03632 AVL---
+200422008 Neiduerf, Kapell      00544  00544                % 03632 AVL---
+200422001 Neiduerf, Brasserie   00545  00545                % 03632 AVL---
+200422009 Neudorf, Kierch       00546  00546                % 03632 AVL---
+200408002 Neudorf, Fixmer       00547  00547                % 03632 AVL---
+200422005 Neudorf/Weimershof,   00548  00548                % 03632 AVL---
+200408003 Clausen, Malakoff     00549  00549                % 03632 AVL---
+200408001 Clausen, Clausener B  00550  00550                % 03632 AVL---
+200408005 Clausen, Plateau Alt  00550  00550                % 03632 AVL---
+200423004 Pfaffenthal, Um Bock  00551  00551                % 03632 AVL---
+200405005 Centre, Badanstalt    00553  00553                % 03632 AVL---
+200405020 Hamilius              00556  00556                % 03632 AVL---
+200405023 Centre, Martyrs       00557  00557                % 03632 AVL---
+200405026 Luxembourg/Centre, P  00558  00558                % 03632 AVL---
+200405035 Luxembourg, Gare Cen  00600                       % 03632 AVL---
+*Z 03633 AVL---       002 015                               % 03633 AVL---
+*L 9        200406019 200405035  00611  00632               % 03633 AVL---
+*A BE 200406019 200405035 000015  00611  00632              % 03633 AVL---
+*R 2 200405035 200406019 200405035  00611  00632            % 03633 AVL---
+*G AVS 200406019 200405035  00611  00632                    % 03633 AVL---
+*A VE 200406019 200405035 000015  00611  00632              % 03633 AVL---
+200406019 Cents, Waassertuerm          00611                % 03633 AVL---
+200422007 Neudorf, Kalchesbruc  00614  00614                % 03633 AVL---
+200422003 Neudorf/Weimershof,   00615  00615                % 03633 AVL---
+200422011 Neudorf, Laangegronn  00616  00616                % 03633 AVL---
+200422008 Neiduerf, Kapell      00616  00616                % 03633 AVL---
+200422001 Neiduerf, Brasserie   00617  00617                % 03633 AVL---
+200422009 Neudorf, Kierch       00618  00618                % 03633 AVL---
+200408002 Neudorf, Fixmer       00619  00619                % 03633 AVL---
+200422005 Neudorf/Weimershof,   00620  00620                % 03633 AVL---
+200408003 Clausen, Malakoff     00621  00621                % 03633 AVL---
+200408001 Clausen, Clausener B  00622  00622                % 03633 AVL---
+200408005 Clausen, Plateau Alt  00622  00622                % 03633 AVL---
+200423004 Pfaffenthal, Um Bock  00623  00623                % 03633 AVL---
+200405005 Centre, Badanstalt    00625  00625                % 03633 AVL---
+200405020 Hamilius              00628  00628                % 03633 AVL---
+200405023 Centre, Martyrs       00629  00629                % 03633 AVL---
+200405026 Luxembourg/Centre, P  00630  00630                % 03633 AVL---
+200405035 Luxembourg, Gare Cen  00632                       % 03633 AVL---
+*Z 03634 AVL---       001 015                               % 03634 AVL---
+*L 9        200406019 200405035  01957  02018               % 03634 AVL---
+*A BE 200406019 200405035 000015  01957  02018              % 03634 AVL---
+*R 2 200405035 200406019 200405035  01957  02018            % 03634 AVL---
+*G AVS 200406019 200405035  01957  02018                    % 03634 AVL---
+*A VE 200406019 200405035 000015  01957  02018              % 03634 AVL---
+200406019 Cents, Waassertuerm          01957                % 03634 AVL---
+200422007 Neudorf, Kalchesbruc  02000  02000                % 03634 AVL---
+200422003 Neudorf/Weimershof,   02001  02001                % 03634 AVL---
+200422011 Neudorf, Laangegronn  02002  02002                % 03634 AVL---
+200422008 Neiduerf, Kapell      02002  02002                % 03634 AVL---
+200422001 Neiduerf, Brasserie   02003  02003                % 03634 AVL---
+200422009 Neudorf, Kierch       02004  02004                % 03634 AVL---
+200408002 Neudorf, Fixmer       02005  02005                % 03634 AVL---
+200422005 Neudorf/Weimershof,   02006  02006                % 03634 AVL---
+200408003 Clausen, Malakoff     02007  02007                % 03634 AVL---
+200408001 Clausen, Clausener B  02008  02008                % 03634 AVL---
+200408005 Clausen, Plateau Alt  02008  02008                % 03634 AVL---
+200423004 Pfaffenthal, Um Bock  02009  02009                % 03634 AVL---
+200405005 Centre, Badanstalt    02011  02011                % 03634 AVL---
+200405020 Hamilius              02014  02014                % 03634 AVL---
+200405023 Centre, Martyrs       02015  02015                % 03634 AVL---
+200405026 Luxembourg/Centre, P  02016  02016                % 03634 AVL---
+200405035 Luxembourg, Gare Cen  02018                       % 03634 AVL---
+*Z 03635 AVL---       004 030                               % 03635 AVL---
+*L 9        200406019 200405035  00528  00549               % 03635 AVL---
+*A BE 200406019 200405035 000021  00528  00549              % 03635 AVL---
+*R 2 200405035 200406019 200405035  00528  00549            % 03635 AVL---
+*G AVS 200406019 200405035  00528  00549                    % 03635 AVL---
+*A VE 200406019 200405035 000021  00528  00549              % 03635 AVL---
+200406019 Cents, Waassertuerm          00528                % 03635 AVL---
+200422007 Neudorf, Kalchesbruc  00531  00531                % 03635 AVL---
+200422003 Neudorf/Weimershof,   00532  00532                % 03635 AVL---
+200422011 Neudorf, Laangegronn  00533  00533                % 03635 AVL---
+200422008 Neiduerf, Kapell      00533  00533                % 03635 AVL---
+200422001 Neiduerf, Brasserie   00534  00534                % 03635 AVL---
+200422009 Neudorf, Kierch       00535  00535                % 03635 AVL---
+200408002 Neudorf, Fixmer       00536  00536                % 03635 AVL---
+200422005 Neudorf/Weimershof,   00537  00537                % 03635 AVL---
+200408003 Clausen, Malakoff     00538  00538                % 03635 AVL---
+200408001 Clausen, Clausener B  00539  00539                % 03635 AVL---
+200408005 Clausen, Plateau Alt  00539  00539                % 03635 AVL---
+200423004 Pfaffenthal, Um Bock  00540  00540                % 03635 AVL---
+200405005 Centre, Badanstalt    00542  00542                % 03635 AVL---
+200405020 Hamilius              00545  00545                % 03635 AVL---
+200405023 Centre, Martyrs       00546  00546                % 03635 AVL---
+200405026 Luxembourg/Centre, P  00547  00547                % 03635 AVL---
+200405035 Luxembourg, Gare Cen  00549                       % 03635 AVL---
+*Z 03636 AVL---       001 735                               % 03636 AVL---
+*L 9        200406019 200405035  00739  00800               % 03636 AVL---
+*A BE 200406019 200405035 000021  00739  00800              % 03636 AVL---
+*R 2 200405035 200406019 200405035  00739  00800            % 03636 AVL---
+*G AVS 200406019 200405035  00739  00800                    % 03636 AVL---
+*A VE 200406019 200405035 000021  00739  00800              % 03636 AVL---
+200406019 Cents, Waassertuerm          00739                % 03636 AVL---
+200422007 Neudorf, Kalchesbruc  00742  00742                % 03636 AVL---
+200422003 Neudorf/Weimershof,   00743  00743                % 03636 AVL---
+200422011 Neudorf, Laangegronn  00744  00744                % 03636 AVL---
+200422008 Neiduerf, Kapell      00744  00744                % 03636 AVL---
+200422001 Neiduerf, Brasserie   00745  00745                % 03636 AVL---
+200422009 Neudorf, Kierch       00746  00746                % 03636 AVL---
+200408002 Neudorf, Fixmer       00747  00747                % 03636 AVL---
+200422005 Neudorf/Weimershof,   00748  00748                % 03636 AVL---
+200408003 Clausen, Malakoff     00749  00749                % 03636 AVL---
+200408001 Clausen, Clausener B  00750  00750                % 03636 AVL---
+200408005 Clausen, Plateau Alt  00750  00750                % 03636 AVL---
+200423004 Pfaffenthal, Um Bock  00751  00751                % 03636 AVL---
+200405005 Centre, Badanstalt    00753  00753                % 03636 AVL---
+200405020 Hamilius              00756  00756                % 03636 AVL---
+200405023 Centre, Martyrs       00757  00757                % 03636 AVL---
+200405026 Luxembourg/Centre, P  00758  00758                % 03636 AVL---
+200405035 Luxembourg, Gare Cen  00800                       % 03636 AVL---
+*Z 03637 AVL---                                             % 03637 AVL---
+*L 9        200406019 200405035  02009  02030               % 03637 AVL---
+*A BE 200406019 200405035 000021  02009  02030              % 03637 AVL---
+*R 2 200405035 200406019 200405035  02009  02030            % 03637 AVL---
+*G AVS 200406019 200405035  02009  02030                    % 03637 AVL---
+*A VE 200406019 200405035 000021  02009  02030              % 03637 AVL---
+200406019 Cents, Waassertuerm          02009                % 03637 AVL---
+200422007 Neudorf, Kalchesbruc  02012  02012                % 03637 AVL---
+200422003 Neudorf/Weimershof,   02013  02013                % 03637 AVL---
+200422011 Neudorf, Laangegronn  02014  02014                % 03637 AVL---
+200422008 Neiduerf, Kapell      02014  02014                % 03637 AVL---
+200422001 Neiduerf, Brasserie   02015  02015                % 03637 AVL---
+200422009 Neudorf, Kierch       02016  02016                % 03637 AVL---
+200408002 Neudorf, Fixmer       02017  02017                % 03637 AVL---
+200422005 Neudorf/Weimershof,   02018  02018                % 03637 AVL---
+200408003 Clausen, Malakoff     02019  02019                % 03637 AVL---
+200408001 Clausen, Clausener B  02020  02020                % 03637 AVL---
+200408005 Clausen, Plateau Alt  02020  02020                % 03637 AVL---
+200423004 Pfaffenthal, Um Bock  02021  02021                % 03637 AVL---
+200405005 Centre, Badanstalt    02023  02023                % 03637 AVL---
+200405020 Hamilius              02026  02026                % 03637 AVL---
+200405023 Centre, Martyrs       02027  02027                % 03637 AVL---
+200405026 Luxembourg/Centre, P  02028  02028                % 03637 AVL---
+200405035 Luxembourg, Gare Cen  02030                       % 03637 AVL---
+*Z 03638 AVL---                                             % 03638 AVL---
+*L 9        200405035 200406019  00515  00535               % 03638 AVL---
+*A BE 200405035 200406019 000023  00515  00535              % 03638 AVL---
+*R 1 200406019 200405035 200406019  00515  00535            % 03638 AVL---
+*G AVS 200405035 200406019  00515  00535                    % 03638 AVL---
+*A VE 200405035 200406019 000023  00515  00535              % 03638 AVL---
+200405035 Luxembourg, Gare Cen         00515                % 03638 AVL---
+200405026 Luxembourg/Centre, P  00517  00517                % 03638 AVL---
+200405023 Centre, Martyrs       00518  00518                % 03638 AVL---
+200405020 Hamilius              00521  00521                % 03638 AVL---
+200405005 Centre, Badanstalt    00523  00523                % 03638 AVL---
+200423004 Pfaffenthal, Um Bock  00525  00525                % 03638 AVL---
+200408005 Clausen, Plateau Alt  00525  00525                % 03638 AVL---
+200408001 Clausen, Clausener B  00526  00526                % 03638 AVL---
+200408003 Clausen, Malakoff     00527  00527                % 03638 AVL---
+200422005 Neudorf/Weimershof,   00528  00528                % 03638 AVL---
+200408002 Neudorf, Fixmer       00529  00529                % 03638 AVL---
+200422009 Neudorf, Kierch       00530  00530                % 03638 AVL---
+200422001 Neiduerf, Brasserie   00530  00530                % 03638 AVL---
+200422008 Neiduerf, Kapell      00531  00531                % 03638 AVL---
+200422011 Neudorf, Laangegronn  00532  00532                % 03638 AVL---
+200422003 Neudorf/Weimershof,   00532  00532                % 03638 AVL---
+200422007 Neudorf, Kalchesbruc  00533  00533                % 03638 AVL---
+200406019 Cents, Waassertuerm   00535                       % 03638 AVL---
+*Z 03639 AVL---       007 030                               % 03639 AVL---
+*L 9        200405035 200406019  02015  02035               % 03639 AVL---
+*A BE 200405035 200406019 000011  02015  02035              % 03639 AVL---
+*R 1 200406019 200405035 200406019  02015  02035            % 03639 AVL---
+*G AVS 200405035 200406019  02015  02035                    % 03639 AVL---
+*A VE 200405035 200406019 000011  02015  02035              % 03639 AVL---
+200405035 Luxembourg, Gare Cen         02015                % 03639 AVL---
+200405026 Luxembourg/Centre, P  02017  02017                % 03639 AVL---
+200405023 Centre, Martyrs       02018  02018                % 03639 AVL---
+200405020 Hamilius              02021  02021                % 03639 AVL---
+200405005 Centre, Badanstalt    02023  02023                % 03639 AVL---
+200423004 Pfaffenthal, Um Bock  02025  02025                % 03639 AVL---
+200408005 Clausen, Plateau Alt  02025  02025                % 03639 AVL---
+200408001 Clausen, Clausener B  02026  02026                % 03639 AVL---
+200408003 Clausen, Malakoff     02027  02027                % 03639 AVL---
+200422005 Neudorf/Weimershof,   02028  02028                % 03639 AVL---
+200408002 Neudorf, Fixmer       02029  02029                % 03639 AVL---
+200422009 Neudorf, Kierch       02030  02030                % 03639 AVL---
+200422001 Neiduerf, Brasserie   02030  02030                % 03639 AVL---
+200422008 Neiduerf, Kapell      02031  02031                % 03639 AVL---
+200422011 Neudorf, Laangegronn  02032  02032                % 03639 AVL---
+200422003 Neudorf/Weimershof,   02032  02032                % 03639 AVL---
+200422007 Neudorf, Kalchesbruc  02033  02033                % 03639 AVL---
+200406019 Cents, Waassertuerm   02035                       % 03639 AVL---
+*Z 03640 AVL---       002 020                               % 03640 AVL---
+*L 9        200405035 200406019  00501  00521               % 03640 AVL---
+*A BE 200405035 200406019 000014  00501  00521              % 03640 AVL---
+*R 1 200406019 200405035 200406019  00501  00521            % 03640 AVL---
+*G AVS 200405035 200406019  00501  00521                    % 03640 AVL---
+*A VE 200405035 200406019 000014  00501  00521              % 03640 AVL---
+200405035 Luxembourg, Gare Cen         00501                % 03640 AVL---
+200405026 Luxembourg/Centre, P  00503  00503                % 03640 AVL---
+200405023 Centre, Martyrs       00504  00504                % 03640 AVL---
+200405020 Hamilius              00507  00507                % 03640 AVL---
+200405005 Centre, Badanstalt    00509  00509                % 03640 AVL---
+200423004 Pfaffenthal, Um Bock  00511  00511                % 03640 AVL---
+200408005 Clausen, Plateau Alt  00511  00511                % 03640 AVL---
+200408001 Clausen, Clausener B  00512  00512                % 03640 AVL---
+200408003 Clausen, Malakoff     00513  00513                % 03640 AVL---
+200422005 Neudorf/Weimershof,   00514  00514                % 03640 AVL---
+200408002 Neudorf, Fixmer       00515  00515                % 03640 AVL---
+200422009 Neudorf, Kierch       00516  00516                % 03640 AVL---
+200422001 Neiduerf, Brasserie   00516  00516                % 03640 AVL---
+200422008 Neiduerf, Kapell      00517  00517                % 03640 AVL---
+200422011 Neudorf, Laangegronn  00518  00518                % 03640 AVL---
+200422003 Neudorf/Weimershof,   00518  00518                % 03640 AVL---
+200422007 Neudorf, Kalchesbruc  00519  00519                % 03640 AVL---
+200406019 Cents, Waassertuerm   00521                       % 03640 AVL---
+*Z 03641 AVL---       003 015                               % 03641 AVL---
+*L 9        200405035 200406019  00556  00616               % 03641 AVL---
+*A BE 200405035 200406019 000014  00556  00616              % 03641 AVL---
+*R 1 200406019 200405035 200406019  00556  00616            % 03641 AVL---
+*G AVS 200405035 200406019  00556  00616                    % 03641 AVL---
+*A VE 200405035 200406019 000014  00556  00616              % 03641 AVL---
+200405035 Luxembourg, Gare Cen         00556                % 03641 AVL---
+200405026 Luxembourg/Centre, P  00558  00558                % 03641 AVL---
+200405023 Centre, Martyrs       00559  00559                % 03641 AVL---
+200405020 Hamilius              00602  00602                % 03641 AVL---
+200405005 Centre, Badanstalt    00604  00604                % 03641 AVL---
+200423004 Pfaffenthal, Um Bock  00606  00606                % 03641 AVL---
+200408005 Clausen, Plateau Alt  00606  00606                % 03641 AVL---
+200408001 Clausen, Clausener B  00607  00607                % 03641 AVL---
+200408003 Clausen, Malakoff     00608  00608                % 03641 AVL---
+200422005 Neudorf/Weimershof,   00609  00609                % 03641 AVL---
+200408002 Neudorf, Fixmer       00610  00610                % 03641 AVL---
+200422009 Neudorf, Kierch       00611  00611                % 03641 AVL---
+200422001 Neiduerf, Brasserie   00611  00611                % 03641 AVL---
+200422008 Neiduerf, Kapell      00612  00612                % 03641 AVL---
+200422011 Neudorf, Laangegronn  00613  00613                % 03641 AVL---
+200422003 Neudorf/Weimershof,   00613  00613                % 03641 AVL---
+200422007 Neudorf, Kalchesbruc  00614  00614                % 03641 AVL---
+200406019 Cents, Waassertuerm   00616                       % 03641 AVL---
+*Z 03642 AVL---                                             % 03642 AVL---
+*L 9        200405035 200406019  01956  02016               % 03642 AVL---
+*A BE 200405035 200406019 000047  01956  02016              % 03642 AVL---
+*R 1 200406019 200405035 200406019  01956  02016            % 03642 AVL---
+*G AVS 200405035 200406019  01956  02016                    % 03642 AVL---
+*A VE 200405035 200406019 000047  01956  02016              % 03642 AVL---
+200405035 Luxembourg, Gare Cen         01956                % 03642 AVL---
+200405026 Luxembourg/Centre, P  01958  01958                % 03642 AVL---
+200405023 Centre, Martyrs       01959  01959                % 03642 AVL---
+200405020 Hamilius              02002  02002                % 03642 AVL---
+200405005 Centre, Badanstalt    02004  02004                % 03642 AVL---
+200423004 Pfaffenthal, Um Bock  02006  02006                % 03642 AVL---
+200408005 Clausen, Plateau Alt  02006  02006                % 03642 AVL---
+200408001 Clausen, Clausener B  02007  02007                % 03642 AVL---
+200408003 Clausen, Malakoff     02008  02008                % 03642 AVL---
+200422005 Neudorf/Weimershof,   02009  02009                % 03642 AVL---
+200408002 Neudorf, Fixmer       02010  02010                % 03642 AVL---
+200422009 Neudorf, Kierch       02011  02011                % 03642 AVL---
+200422001 Neiduerf, Brasserie   02011  02011                % 03642 AVL---
+200422008 Neiduerf, Kapell      02012  02012                % 03642 AVL---
+200422011 Neudorf, Laangegronn  02013  02013                % 03642 AVL---
+200422003 Neudorf/Weimershof,   02013  02013                % 03642 AVL---
+200422007 Neudorf, Kalchesbruc  02014  02014                % 03642 AVL---
+200406019 Cents, Waassertuerm   02016                       % 03642 AVL---
+*Z 03643 AVL---       006 030                               % 03643 AVL---
+*L 9        200405035 200406019  00815  00835               % 03643 AVL---
+*A BE 200405035 200406019 000018  00815  00835              % 03643 AVL---
+*R 1 200406019 200405035 200406019  00815  00835            % 03643 AVL---
+*G AVS 200405035 200406019  00815  00835                    % 03643 AVL---
+*A VE 200405035 200406019 000018  00815  00835              % 03643 AVL---
+200405035 Luxembourg, Gare Cen         00815                % 03643 AVL---
+200405026 Luxembourg/Centre, P  00817  00817                % 03643 AVL---
+200405023 Centre, Martyrs       00818  00818                % 03643 AVL---
+200405020 Hamilius              00821  00821                % 03643 AVL---
+200405005 Centre, Badanstalt    00823  00823                % 03643 AVL---
+200423004 Pfaffenthal, Um Bock  00825  00825                % 03643 AVL---
+200408005 Clausen, Plateau Alt  00825  00825                % 03643 AVL---
+200408001 Clausen, Clausener B  00826  00826                % 03643 AVL---
+200408003 Clausen, Malakoff     00827  00827                % 03643 AVL---
+200422005 Neudorf/Weimershof,   00828  00828                % 03643 AVL---
+200408002 Neudorf, Fixmer       00829  00829                % 03643 AVL---
+200422009 Neudorf, Kierch       00830  00830                % 03643 AVL---
+200422001 Neiduerf, Brasserie   00830  00830                % 03643 AVL---
+200422008 Neiduerf, Kapell      00831  00831                % 03643 AVL---
+200422011 Neudorf, Laangegronn  00832  00832                % 03643 AVL---
+200422003 Neudorf/Weimershof,   00832  00832                % 03643 AVL---
+200422007 Neudorf, Kalchesbruc  00833  00833                % 03643 AVL---
+200406019 Cents, Waassertuerm   00835                       % 03643 AVL---
+*Z 03644 AVL---       004 030                               % 03644 AVL---
+*L 9        200405035 200406019  00545  00605               % 03644 AVL---
+*A BE 200405035 200406019 000020  00545  00605              % 03644 AVL---
+*R 1 200406019 200405035 200406019  00545  00605            % 03644 AVL---
+*G AVS 200405035 200406019  00545  00605                    % 03644 AVL---
+*A VE 200405035 200406019 000020  00545  00605              % 03644 AVL---
+200405035 Luxembourg, Gare Cen         00545                % 03644 AVL---
+200405026 Luxembourg/Centre, P  00547  00547                % 03644 AVL---
+200405023 Centre, Martyrs       00548  00548                % 03644 AVL---
+200405020 Hamilius              00551  00551                % 03644 AVL---
+200405005 Centre, Badanstalt    00553  00553                % 03644 AVL---
+200423004 Pfaffenthal, Um Bock  00555  00555                % 03644 AVL---
+200408005 Clausen, Plateau Alt  00555  00555                % 03644 AVL---
+200408001 Clausen, Clausener B  00556  00556                % 03644 AVL---
+200408003 Clausen, Malakoff     00557  00557                % 03644 AVL---
+200422005 Neudorf/Weimershof,   00558  00558                % 03644 AVL---
+200408002 Neudorf, Fixmer       00559  00559                % 03644 AVL---
+200422009 Neudorf, Kierch       00600  00600                % 03644 AVL---
+200422001 Neiduerf, Brasserie   00600  00600                % 03644 AVL---
+200422008 Neiduerf, Kapell      00601  00601                % 03644 AVL---
+200422011 Neudorf, Laangegronn  00602  00602                % 03644 AVL---
+200422003 Neudorf/Weimershof,   00602  00602                % 03644 AVL---
+200422007 Neudorf, Kalchesbruc  00603  00603                % 03644 AVL---
+200406019 Cents, Waassertuerm   00605                       % 03644 AVL---
+*Z 03645 AVL---       046 015                               % 03645 AVL---
+*L 9        200405035 200406019  00811  00831               % 03645 AVL---
+*A BE 200405035 200406019 000023  00811  00831              % 03645 AVL---
+*R 1 200406019 200405035 200406019  00811  00831            % 03645 AVL---
+*G AVS 200405035 200406019  00811  00831                    % 03645 AVL---
+*A VE 200405035 200406019 000023  00811  00831              % 03645 AVL---
+200405035 Luxembourg, Gare Cen         00811                % 03645 AVL---
+200405026 Luxembourg/Centre, P  00813  00813                % 03645 AVL---
+200405023 Centre, Martyrs       00814  00814                % 03645 AVL---
+200405020 Hamilius              00817  00817                % 03645 AVL---
+200405005 Centre, Badanstalt    00819  00819                % 03645 AVL---
+200423004 Pfaffenthal, Um Bock  00821  00821                % 03645 AVL---
+200408005 Clausen, Plateau Alt  00822  00822                % 03645 AVL---
+200408001 Clausen, Clausener B  00823  00823                % 03645 AVL---
+200408003 Clausen, Malakoff     00823  00823                % 03645 AVL---
+200422005 Neudorf/Weimershof,   00824  00824                % 03645 AVL---
+200408002 Neudorf, Fixmer       00825  00825                % 03645 AVL---
+200422009 Neudorf, Kierch       00826  00826                % 03645 AVL---
+200422001 Neiduerf, Brasserie   00827  00827                % 03645 AVL---
+200422008 Neiduerf, Kapell      00827  00827                % 03645 AVL---
+200422011 Neudorf, Laangegronn  00828  00828                % 03645 AVL---
+200422003 Neudorf/Weimershof,   00829  00829                % 03645 AVL---
+200422007 Neudorf, Kalchesbruc  00830  00830                % 03645 AVL---
+200406019 Cents, Waassertuerm   00831                       % 03645 AVL---
+*Z 03646 AVL---       016 030                               % 03646 AVL---
+*L 9        200405035 200406019  01145  01205               % 03646 AVL---
+*A BE 200405035 200406019 000018  01145  01205              % 03646 AVL---
+*R 1 200406019 200405035 200406019  01145  01205            % 03646 AVL---
+*G AVS 200405035 200406019  01145  01205                    % 03646 AVL---
+*A VE 200405035 200406019 000018  01145  01205              % 03646 AVL---
+200405035 Luxembourg, Gare Cen         01145                % 03646 AVL---
+200405026 Luxembourg/Centre, P  01147  01147                % 03646 AVL---
+200405023 Centre, Martyrs       01148  01148                % 03646 AVL---
+200405020 Hamilius              01151  01151                % 03646 AVL---
+200405005 Centre, Badanstalt    01153  01153                % 03646 AVL---
+200423004 Pfaffenthal, Um Bock  01155  01155                % 03646 AVL---
+200408005 Clausen, Plateau Alt  01156  01156                % 03646 AVL---
+200408001 Clausen, Clausener B  01157  01157                % 03646 AVL---
+200408003 Clausen, Malakoff     01157  01157                % 03646 AVL---
+200422005 Neudorf/Weimershof,   01158  01158                % 03646 AVL---
+200408002 Neudorf, Fixmer       01159  01159                % 03646 AVL---
+200422009 Neudorf, Kierch       01200  01200                % 03646 AVL---
+200422001 Neiduerf, Brasserie   01201  01201                % 03646 AVL---
+200422008 Neiduerf, Kapell      01201  01201                % 03646 AVL---
+200422011 Neudorf, Laangegronn  01202  01202                % 03646 AVL---
+200422003 Neudorf/Weimershof,   01203  01203                % 03646 AVL---
+200422007 Neudorf, Kalchesbruc  01204  01204                % 03646 AVL---
+200406019 Cents, Waassertuerm   01205                       % 03646 AVL---
+*Z 03647 AVL---       051 015                               % 03647 AVL---
+*L 9        200405035 200406019  00655  00718               % 03647 AVL---
+*A BE 200405035 200406019 000014  00655  00718              % 03647 AVL---
+*R 1 200406019 200405035 200406019  00655  00718            % 03647 AVL---
+*G AVS 200405035 200406019  00655  00718                    % 03647 AVL---
+*A VE 200405035 200406019 000014  00655  00718              % 03647 AVL---
+200405035 Luxembourg, Gare Cen         00655                % 03647 AVL---
+200405026 Luxembourg/Centre, P  00658  00658                % 03647 AVL---
+200405023 Centre, Martyrs       00659  00659                % 03647 AVL---
+200405020 Hamilius              00702  00702                % 03647 AVL---
+200405005 Centre, Badanstalt    00705  00705                % 03647 AVL---
+200423004 Pfaffenthal, Um Bock  00706  00706                % 03647 AVL---
+200408005 Clausen, Plateau Alt  00707  00707                % 03647 AVL---
+200408001 Clausen, Clausener B  00708  00708                % 03647 AVL---
+200408003 Clausen, Malakoff     00709  00709                % 03647 AVL---
+200422005 Neudorf/Weimershof,   00710  00710                % 03647 AVL---
+200408002 Neudorf, Fixmer       00711  00711                % 03647 AVL---
+200422009 Neudorf, Kierch       00712  00712                % 03647 AVL---
+200422001 Neiduerf, Brasserie   00713  00713                % 03647 AVL---
+200422008 Neiduerf, Kapell      00714  00714                % 03647 AVL---
+200422011 Neudorf, Laangegronn  00714  00714                % 03647 AVL---
+200422003 Neudorf/Weimershof,   00715  00715                % 03647 AVL---
+200422007 Neudorf, Kalchesbruc  00716  00716                % 03647 AVL---
+200406019 Cents, Waassertuerm   00718                       % 03647 AVL---
+*Z 03648 AVL---       001 735                               % 03648 AVL---
+*L 9        200406019 200405035  00739  00800               % 03648 AVL---
+*A BE 200406019 200405035 000023  00739  00800              % 03648 AVL---
+*R 2 200405035 200406019 200405035  00739  00800            % 03648 AVL---
+*G AVS 200406019 200405035  00739  00800                    % 03648 AVL---
+*A VE 200406019 200405035 000023  00739  00800              % 03648 AVL---
+200406019 Cents, Waassertuerm          00739                % 03648 AVL---
+200422007 Neudorf, Kalchesbruc  00742  00742                % 03648 AVL---
+200422003 Neudorf/Weimershof,   00743  00743                % 03648 AVL---
+200422011 Neudorf, Laangegronn  00744  00744                % 03648 AVL---
+200422008 Neiduerf, Kapell      00744  00744                % 03648 AVL---
+200422001 Neiduerf, Brasserie   00745  00745                % 03648 AVL---
+200422009 Neudorf, Kierch       00746  00746                % 03648 AVL---
+200408002 Neudorf, Fixmer       00747  00747                % 03648 AVL---
+200422005 Neudorf/Weimershof,   00748  00748                % 03648 AVL---
+200408003 Clausen, Malakoff     00749  00749                % 03648 AVL---
+200408001 Clausen, Clausener B  00750  00750                % 03648 AVL---
+200408005 Clausen, Plateau Alt  00750  00750                % 03648 AVL---
+200423004 Pfaffenthal, Um Bock  00751  00751                % 03648 AVL---
+200405005 Centre, Badanstalt    00753  00753                % 03648 AVL---
+200405020 Hamilius              00756  00756                % 03648 AVL---
+200405023 Centre, Martyrs       00757  00757                % 03648 AVL---
+200405026 Luxembourg/Centre, P  00758  00758                % 03648 AVL---
+200405035 Luxembourg, Gare Cen  00800                       % 03648 AVL---
+*Z 03649 AVL---                                             % 03649 AVL---
+*L 9        200406019 200405035  02009  02030               % 03649 AVL---
+*A BE 200406019 200405035 000023  02009  02030              % 03649 AVL---
+*R 2 200405035 200406019 200405035  02009  02030            % 03649 AVL---
+*G AVS 200406019 200405035  02009  02030                    % 03649 AVL---
+*A VE 200406019 200405035 000023  02009  02030              % 03649 AVL---
+200406019 Cents, Waassertuerm          02009                % 03649 AVL---
+200422007 Neudorf, Kalchesbruc  02012  02012                % 03649 AVL---
+200422003 Neudorf/Weimershof,   02013  02013                % 03649 AVL---
+200422011 Neudorf, Laangegronn  02014  02014                % 03649 AVL---
+200422008 Neiduerf, Kapell      02014  02014                % 03649 AVL---
+200422001 Neiduerf, Brasserie   02015  02015                % 03649 AVL---
+200422009 Neudorf, Kierch       02016  02016                % 03649 AVL---
+200408002 Neudorf, Fixmer       02017  02017                % 03649 AVL---
+200422005 Neudorf/Weimershof,   02018  02018                % 03649 AVL---
+200408003 Clausen, Malakoff     02019  02019                % 03649 AVL---
+200408001 Clausen, Clausener B  02020  02020                % 03649 AVL---
+200408005 Clausen, Plateau Alt  02020  02020                % 03649 AVL---
+200423004 Pfaffenthal, Um Bock  02021  02021                % 03649 AVL---
+200405005 Centre, Badanstalt    02023  02023                % 03649 AVL---
+200405020 Hamilius              02026  02026                % 03649 AVL---
+200405023 Centre, Martyrs       02027  02027                % 03649 AVL---
+200405026 Luxembourg/Centre, P  02028  02028                % 03649 AVL---
+200405035 Luxembourg, Gare Cen  02030                       % 03649 AVL---
+*Z 03650 AVL---       006 030                               % 03650 AVL---
+*L 9        200406019 200405035  02028  02049               % 03650 AVL---
+*A BE 200406019 200405035 000011  02028  02049              % 03650 AVL---
+*R 2 200405035 200406019 200405035  02028  02049            % 03650 AVL---
+*G AVS 200406019 200405035  02028  02049                    % 03650 AVL---
+*A VE 200406019 200405035 000011  02028  02049              % 03650 AVL---
+200406019 Cents, Waassertuerm          02028                % 03650 AVL---
+200422007 Neudorf, Kalchesbruc  02031  02031                % 03650 AVL---
+200422003 Neudorf/Weimershof,   02032  02032                % 03650 AVL---
+200422011 Neudorf, Laangegronn  02033  02033                % 03650 AVL---
+200422008 Neiduerf, Kapell      02033  02033                % 03650 AVL---
+200422001 Neiduerf, Brasserie   02034  02034                % 03650 AVL---
+200422009 Neudorf, Kierch       02035  02035                % 03650 AVL---
+200408002 Neudorf, Fixmer       02036  02036                % 03650 AVL---
+200422005 Neudorf/Weimershof,   02037  02037                % 03650 AVL---
+200408003 Clausen, Malakoff     02038  02038                % 03650 AVL---
+200408001 Clausen, Clausener B  02039  02039                % 03650 AVL---
+200408005 Clausen, Plateau Alt  02039  02039                % 03650 AVL---
+200423004 Pfaffenthal, Um Bock  02040  02040                % 03650 AVL---
+200405005 Centre, Badanstalt    02042  02042                % 03650 AVL---
+200405020 Hamilius              02045  02045                % 03650 AVL---
+200405023 Centre, Martyrs       02046  02046                % 03650 AVL---
+200405026 Luxembourg/Centre, P  02047  02047                % 03650 AVL---
+200405035 Luxembourg, Gare Cen  02049                       % 03650 AVL---
+*Z 03651 AVL---       001 030                               % 03651 AVL---
+*L 9        200406019 200405035  00454  00515               % 03651 AVL---
+*A BE 200406019 200405035 000014  00454  00515              % 03651 AVL---
+*R 2 200405035 200406019 200405035  00454  00515            % 03651 AVL---
+*G AVS 200406019 200405035  00454  00515                    % 03651 AVL---
+*A VE 200406019 200405035 000014  00454  00515              % 03651 AVL---
+200406019 Cents, Waassertuerm          00454                % 03651 AVL---
+200422007 Neudorf, Kalchesbruc  00457  00457                % 03651 AVL---
+200422003 Neudorf/Weimershof,   00458  00458                % 03651 AVL---
+200422011 Neudorf, Laangegronn  00459  00459                % 03651 AVL---
+200422008 Neiduerf, Kapell      00459  00459                % 03651 AVL---
+200422001 Neiduerf, Brasserie   00500  00500                % 03651 AVL---
+200422009 Neudorf, Kierch       00501  00501                % 03651 AVL---
+200408002 Neudorf, Fixmer       00502  00502                % 03651 AVL---
+200422005 Neudorf/Weimershof,   00503  00503                % 03651 AVL---
+200408003 Clausen, Malakoff     00504  00504                % 03651 AVL---
+200408001 Clausen, Clausener B  00505  00505                % 03651 AVL---
+200408005 Clausen, Plateau Alt  00505  00505                % 03651 AVL---
+200423004 Pfaffenthal, Um Bock  00506  00506                % 03651 AVL---
+200405005 Centre, Badanstalt    00508  00508                % 03651 AVL---
+200405020 Hamilius              00511  00511                % 03651 AVL---
+200405023 Centre, Martyrs       00512  00512                % 03651 AVL---
+200405026 Luxembourg/Centre, P  00513  00513                % 03651 AVL---
+200405035 Luxembourg, Gare Cen  00515                       % 03651 AVL---
+*Z 03652 AVL---       001 017                               % 03652 AVL---
+*L 9        200406019 200405035  00539  00600               % 03652 AVL---
+*A BE 200406019 200405035 000014  00539  00600              % 03652 AVL---
+*R 2 200405035 200406019 200405035  00539  00600            % 03652 AVL---
+*G AVS 200406019 200405035  00539  00600                    % 03652 AVL---
+*A VE 200406019 200405035 000014  00539  00600              % 03652 AVL---
+200406019 Cents, Waassertuerm          00539                % 03652 AVL---
+200422007 Neudorf, Kalchesbruc  00542  00542                % 03652 AVL---
+200422003 Neudorf/Weimershof,   00543  00543                % 03652 AVL---
+200422011 Neudorf, Laangegronn  00544  00544                % 03652 AVL---
+200422008 Neiduerf, Kapell      00544  00544                % 03652 AVL---
+200422001 Neiduerf, Brasserie   00545  00545                % 03652 AVL---
+200422009 Neudorf, Kierch       00546  00546                % 03652 AVL---
+200408002 Neudorf, Fixmer       00547  00547                % 03652 AVL---
+200422005 Neudorf/Weimershof,   00548  00548                % 03652 AVL---
+200408003 Clausen, Malakoff     00549  00549                % 03652 AVL---
+200408001 Clausen, Clausener B  00550  00550                % 03652 AVL---
+200408005 Clausen, Plateau Alt  00550  00550                % 03652 AVL---
+200423004 Pfaffenthal, Um Bock  00551  00551                % 03652 AVL---
+200405005 Centre, Badanstalt    00553  00553                % 03652 AVL---
+200405020 Hamilius              00556  00556                % 03652 AVL---
+200405023 Centre, Martyrs       00557  00557                % 03652 AVL---
+200405026 Luxembourg/Centre, P  00558  00558                % 03652 AVL---
+200405035 Luxembourg, Gare Cen  00600                       % 03652 AVL---
+*Z 03653 AVL---       002 015                               % 03653 AVL---
+*L 9        200406019 200405035  00611  00632               % 03653 AVL---
+*A BE 200406019 200405035 000014  00611  00632              % 03653 AVL---
+*R 2 200405035 200406019 200405035  00611  00632            % 03653 AVL---
+*G AVS 200406019 200405035  00611  00632                    % 03653 AVL---
+*A VE 200406019 200405035 000014  00611  00632              % 03653 AVL---
+200406019 Cents, Waassertuerm          00611                % 03653 AVL---
+200422007 Neudorf, Kalchesbruc  00614  00614                % 03653 AVL---
+200422003 Neudorf/Weimershof,   00615  00615                % 03653 AVL---
+200422011 Neudorf, Laangegronn  00616  00616                % 03653 AVL---
+200422008 Neiduerf, Kapell      00616  00616                % 03653 AVL---
+200422001 Neiduerf, Brasserie   00617  00617                % 03653 AVL---
+200422009 Neudorf, Kierch       00618  00618                % 03653 AVL---
+200408002 Neudorf, Fixmer       00619  00619                % 03653 AVL---
+200422005 Neudorf/Weimershof,   00620  00620                % 03653 AVL---
+200408003 Clausen, Malakoff     00621  00621                % 03653 AVL---
+200408001 Clausen, Clausener B  00622  00622                % 03653 AVL---
+200408005 Clausen, Plateau Alt  00622  00622                % 03653 AVL---
+200423004 Pfaffenthal, Um Bock  00623  00623                % 03653 AVL---
+200405005 Centre, Badanstalt    00625  00625                % 03653 AVL---
+200405020 Hamilius              00628  00628                % 03653 AVL---
+200405023 Centre, Martyrs       00629  00629                % 03653 AVL---
+200405026 Luxembourg/Centre, P  00630  00630                % 03653 AVL---
+200405035 Luxembourg, Gare Cen  00632                       % 03653 AVL---
+*Z 03654 AVL---       001 015                               % 03654 AVL---
+*L 9        200406019 200405035  01957  02018               % 03654 AVL---
+*A BE 200406019 200405035 000014  01957  02018              % 03654 AVL---
+*R 2 200405035 200406019 200405035  01957  02018            % 03654 AVL---
+*G AVS 200406019 200405035  01957  02018                    % 03654 AVL---
+*A VE 200406019 200405035 000014  01957  02018              % 03654 AVL---
+200406019 Cents, Waassertuerm          01957                % 03654 AVL---
+200422007 Neudorf, Kalchesbruc  02000  02000                % 03654 AVL---
+200422003 Neudorf/Weimershof,   02001  02001                % 03654 AVL---
+200422011 Neudorf, Laangegronn  02002  02002                % 03654 AVL---
+200422008 Neiduerf, Kapell      02002  02002                % 03654 AVL---
+200422001 Neiduerf, Brasserie   02003  02003                % 03654 AVL---
+200422009 Neudorf, Kierch       02004  02004                % 03654 AVL---
+200408002 Neudorf, Fixmer       02005  02005                % 03654 AVL---
+200422005 Neudorf/Weimershof,   02006  02006                % 03654 AVL---
+200408003 Clausen, Malakoff     02007  02007                % 03654 AVL---
+200408001 Clausen, Clausener B  02008  02008                % 03654 AVL---
+200408005 Clausen, Plateau Alt  02008  02008                % 03654 AVL---
+200423004 Pfaffenthal, Um Bock  02009  02009                % 03654 AVL---
+200405005 Centre, Badanstalt    02011  02011                % 03654 AVL---
+200405020 Hamilius              02014  02014                % 03654 AVL---
+200405023 Centre, Martyrs       02015  02015                % 03654 AVL---
+200405026 Luxembourg/Centre, P  02016  02016                % 03654 AVL---
+200405035 Luxembourg, Gare Cen  02018                       % 03654 AVL---
+*Z 03655 AVL---       006 030                               % 03655 AVL---
+*L 9        200406019 200405035  00758  00819               % 03655 AVL---
+*A BE 200406019 200405035 000018  00758  00819              % 03655 AVL---
+*R 2 200405035 200406019 200405035  00758  00819            % 03655 AVL---
+*G AVS 200406019 200405035  00758  00819                    % 03655 AVL---
+*A VE 200406019 200405035 000018  00758  00819              % 03655 AVL---
+200406019 Cents, Waassertuerm          00758                % 03655 AVL---
+200422007 Neudorf, Kalchesbruc  00801  00801                % 03655 AVL---
+200422003 Neudorf/Weimershof,   00802  00802                % 03655 AVL---
+200422011 Neudorf, Laangegronn  00803  00803                % 03655 AVL---
+200422008 Neiduerf, Kapell      00803  00803                % 03655 AVL---
+200422001 Neiduerf, Brasserie   00804  00804                % 03655 AVL---
+200422009 Neudorf, Kierch       00805  00805                % 03655 AVL---
+200408002 Neudorf, Fixmer       00806  00806                % 03655 AVL---
+200422005 Neudorf/Weimershof,   00807  00807                % 03655 AVL---
+200408003 Clausen, Malakoff     00808  00808                % 03655 AVL---
+200408001 Clausen, Clausener B  00809  00809                % 03655 AVL---
+200408005 Clausen, Plateau Alt  00809  00809                % 03655 AVL---
+200423004 Pfaffenthal, Um Bock  00810  00810                % 03655 AVL---
+200405005 Centre, Badanstalt    00812  00812                % 03655 AVL---
+200405020 Hamilius              00815  00815                % 03655 AVL---
+200405023 Centre, Martyrs       00816  00816                % 03655 AVL---
+200405026 Luxembourg/Centre, P  00817  00817                % 03655 AVL---
+200405035 Luxembourg, Gare Cen  00819                       % 03655 AVL---
+*Z 03656 AVL---                                             % 03656 AVL---
+*L 9        200406019 200405035  01958  02019               % 03656 AVL---
+*A BE 200406019 200405035 000018  01958  02019              % 03656 AVL---
+*R 2 200405035 200406019 200405035  01958  02019            % 03656 AVL---
+*G AVS 200406019 200405035  01958  02019                    % 03656 AVL---
+*A VE 200406019 200405035 000018  01958  02019              % 03656 AVL---
+200406019 Cents, Waassertuerm          01958                % 03656 AVL---
+200422007 Neudorf, Kalchesbruc  02001  02001                % 03656 AVL---
+200422003 Neudorf/Weimershof,   02002  02002                % 03656 AVL---
+200422011 Neudorf, Laangegronn  02003  02003                % 03656 AVL---
+200422008 Neiduerf, Kapell      02003  02003                % 03656 AVL---
+200422001 Neiduerf, Brasserie   02004  02004                % 03656 AVL---
+200422009 Neudorf, Kierch       02005  02005                % 03656 AVL---
+200408002 Neudorf, Fixmer       02006  02006                % 03656 AVL---
+200422005 Neudorf/Weimershof,   02007  02007                % 03656 AVL---
+200408003 Clausen, Malakoff     02008  02008                % 03656 AVL---
+200408001 Clausen, Clausener B  02009  02009                % 03656 AVL---
+200408005 Clausen, Plateau Alt  02009  02009                % 03656 AVL---
+200423004 Pfaffenthal, Um Bock  02010  02010                % 03656 AVL---
+200405005 Centre, Badanstalt    02012  02012                % 03656 AVL---
+200405020 Hamilius              02015  02015                % 03656 AVL---
+200405023 Centre, Martyrs       02016  02016                % 03656 AVL---
+200405026 Luxembourg/Centre, P  02017  02017                % 03656 AVL---
+200405035 Luxembourg, Gare Cen  02019                       % 03656 AVL---
+*Z 03657 AVL---       004 030                               % 03657 AVL---
+*L 9        200406019 200405035  00528  00549               % 03657 AVL---
+*A BE 200406019 200405035 000020  00528  00549              % 03657 AVL---
+*R 2 200405035 200406019 200405035  00528  00549            % 03657 AVL---
+*G AVS 200406019 200405035  00528  00549                    % 03657 AVL---
+*A VE 200406019 200405035 000020  00528  00549              % 03657 AVL---
+200406019 Cents, Waassertuerm          00528                % 03657 AVL---
+200422007 Neudorf, Kalchesbruc  00531  00531                % 03657 AVL---
+200422003 Neudorf/Weimershof,   00532  00532                % 03657 AVL---
+200422011 Neudorf, Laangegronn  00533  00533                % 03657 AVL---
+200422008 Neiduerf, Kapell      00533  00533                % 03657 AVL---
+200422001 Neiduerf, Brasserie   00534  00534                % 03657 AVL---
+200422009 Neudorf, Kierch       00535  00535                % 03657 AVL---
+200408002 Neudorf, Fixmer       00536  00536                % 03657 AVL---
+200422005 Neudorf/Weimershof,   00537  00537                % 03657 AVL---
+200408003 Clausen, Malakoff     00538  00538                % 03657 AVL---
+200408001 Clausen, Clausener B  00539  00539                % 03657 AVL---
+200408005 Clausen, Plateau Alt  00539  00539                % 03657 AVL---
+200423004 Pfaffenthal, Um Bock  00540  00540                % 03657 AVL---
+200405005 Centre, Badanstalt    00542  00542                % 03657 AVL---
+200405020 Hamilius              00545  00545                % 03657 AVL---
+200405023 Centre, Martyrs       00546  00546                % 03657 AVL---
+200405026 Luxembourg/Centre, P  00547  00547                % 03657 AVL---
+200405035 Luxembourg, Gare Cen  00549                       % 03657 AVL---
+*Z 03658 AVL---       047 015                               % 03658 AVL---
+*L 9        200406019 200405035  00753  00816               % 03658 AVL---
+*A BE 200406019 200405035 000023  00753  00816              % 03658 AVL---
+*R 2 200405035 200406019 200405035  00753  00816            % 03658 AVL---
+*G AVS 200406019 200405035  00753  00816                    % 03658 AVL---
+*A VE 200406019 200405035 000023  00753  00816              % 03658 AVL---
+200406019 Cents, Waassertuerm          00753                % 03658 AVL---
+200422007 Neudorf, Kalchesbruc  00756  00756                % 03658 AVL---
+200422003 Neudorf/Weimershof,   00757  00757                % 03658 AVL---
+200422011 Neudorf, Laangegronn  00758  00758                % 03658 AVL---
+200422008 Neiduerf, Kapell      00759  00759                % 03658 AVL---
+200422001 Neiduerf, Brasserie   00759  00759                % 03658 AVL---
+200422009 Neudorf, Kierch       00800  00800                % 03658 AVL---
+200408002 Neudorf, Fixmer       00801  00801                % 03658 AVL---
+200422005 Neudorf/Weimershof,   00802  00802                % 03658 AVL---
+200408003 Clausen, Malakoff     00803  00803                % 03658 AVL---
+200408001 Clausen, Clausener B  00804  00804                % 03658 AVL---
+200408005 Clausen, Plateau Alt  00805  00805                % 03658 AVL---
+200423004 Pfaffenthal, Um Bock  00806  00806                % 03658 AVL---
+200405005 Centre, Badanstalt    00808  00808                % 03658 AVL---
+200405020 Hamilius              00811  00811                % 03658 AVL---
+200405023 Centre, Martyrs       00812  00812                % 03658 AVL---
+200405026 Luxembourg/Centre, P  00814  00814                % 03658 AVL---
+200405035 Luxembourg, Gare Cen  00816                       % 03658 AVL---
+*Z 03659 AVL---       016 030                               % 03659 AVL---
+*L 9        200406019 200405035  01127  01150               % 03659 AVL---
+*A BE 200406019 200405035 000018  01127  01150              % 03659 AVL---
+*R 2 200405035 200406019 200405035  01127  01150            % 03659 AVL---
+*G AVS 200406019 200405035  01127  01150                    % 03659 AVL---
+*A VE 200406019 200405035 000018  01127  01150              % 03659 AVL---
+200406019 Cents, Waassertuerm          01127                % 03659 AVL---
+200422007 Neudorf, Kalchesbruc  01130  01130                % 03659 AVL---
+200422003 Neudorf/Weimershof,   01131  01131                % 03659 AVL---
+200422011 Neudorf, Laangegronn  01132  01132                % 03659 AVL---
+200422008 Neiduerf, Kapell      01133  01133                % 03659 AVL---
+200422001 Neiduerf, Brasserie   01133  01133                % 03659 AVL---
+200422009 Neudorf, Kierch       01134  01134                % 03659 AVL---
+200408002 Neudorf, Fixmer       01135  01135                % 03659 AVL---
+200422005 Neudorf/Weimershof,   01136  01136                % 03659 AVL---
+200408003 Clausen, Malakoff     01137  01137                % 03659 AVL---
+200408001 Clausen, Clausener B  01138  01138                % 03659 AVL---
+200408005 Clausen, Plateau Alt  01139  01139                % 03659 AVL---
+200423004 Pfaffenthal, Um Bock  01140  01140                % 03659 AVL---
+200405005 Centre, Badanstalt    01142  01142                % 03659 AVL---
+200405020 Hamilius              01145  01145                % 03659 AVL---
+200405023 Centre, Martyrs       01146  01146                % 03659 AVL---
+200405026 Luxembourg/Centre, P  01148  01148                % 03659 AVL---
+200405035 Luxembourg, Gare Cen  01150                       % 03659 AVL---
+*Z 03660 AVL---       051 015                               % 03660 AVL---
+*L 9        200406019 200405035  00654  00719               % 03660 AVL---
+*A BE 200406019 200405035 000014  00654  00719              % 03660 AVL---
+*R 2 200405035 200406019 200405035  00654  00719            % 03660 AVL---
+*G AVS 200406019 200405035  00654  00719                    % 03660 AVL---
+*A VE 200406019 200405035 000014  00654  00719              % 03660 AVL---
+200406019 Cents, Waassertuerm          00654                % 03660 AVL---
+200422007 Neudorf, Kalchesbruc  00656  00656                % 03660 AVL---
+200422003 Neudorf/Weimershof,   00658  00658                % 03660 AVL---
+200422011 Neudorf, Laangegronn  00659  00659                % 03660 AVL---
+200422008 Neiduerf, Kapell      00700  00700                % 03660 AVL---
+200422001 Neiduerf, Brasserie   00701  00701                % 03660 AVL---
+200422009 Neudorf, Kierch       00702  00702                % 03660 AVL---
+200408002 Neudorf, Fixmer       00703  00703                % 03660 AVL---
+200422005 Neudorf/Weimershof,   00704  00704                % 03660 AVL---
+200408003 Clausen, Malakoff     00705  00705                % 03660 AVL---
+200408001 Clausen, Clausener B  00706  00706                % 03660 AVL---
+200408005 Clausen, Plateau Alt  00707  00707                % 03660 AVL---
+200423004 Pfaffenthal, Um Bock  00708  00708                % 03660 AVL---
+200405005 Centre, Badanstalt    00710  00710                % 03660 AVL---
+200405020 Hamilius              00714  00714                % 03660 AVL---
+200405023 Centre, Martyrs       00715  00715                % 03660 AVL---
+200405026 Luxembourg/Centre, P  00717  00717                % 03660 AVL---
+200405035 Luxembourg, Gare Cen  00719                       % 03660 AVL---
+*Z 03661 AVL---       007 030                               % 03661 AVL---
+*L 9        200405035 200406019  02015  02035               % 03661 AVL---
+*A BE 200405035 200406019 000010  02015  02035              % 03661 AVL---
+*R 1 200406019 200405035 200406019  02015  02035            % 03661 AVL---
+*G AVS 200405035 200406019  02015  02035                    % 03661 AVL---
+*A VE 200405035 200406019 000010  02015  02035              % 03661 AVL---
+200405035 Luxembourg, Gare Cen         02015                % 03661 AVL---
+200405026 Luxembourg/Centre, P  02017  02017                % 03661 AVL---
+200405023 Centre, Martyrs       02018  02018                % 03661 AVL---
+200405020 Hamilius              02021  02021                % 03661 AVL---
+200405005 Centre, Badanstalt    02023  02023                % 03661 AVL---
+200423004 Pfaffenthal, Um Bock  02025  02025                % 03661 AVL---
+200408005 Clausen, Plateau Alt  02025  02025                % 03661 AVL---
+200408001 Clausen, Clausener B  02026  02026                % 03661 AVL---
+200408003 Clausen, Malakoff     02027  02027                % 03661 AVL---
+200422005 Neudorf/Weimershof,   02028  02028                % 03661 AVL---
+200408002 Neudorf, Fixmer       02029  02029                % 03661 AVL---
+200422009 Neudorf, Kierch       02030  02030                % 03661 AVL---
+200422001 Neiduerf, Brasserie   02030  02030                % 03661 AVL---
+200422008 Neiduerf, Kapell      02031  02031                % 03661 AVL---
+200422011 Neudorf, Laangegronn  02032  02032                % 03661 AVL---
+200422003 Neudorf/Weimershof,   02032  02032                % 03661 AVL---
+200422007 Neudorf, Kalchesbruc  02033  02033                % 03661 AVL---
+200406019 Cents, Waassertuerm   02035                       % 03661 AVL---
+*Z 03662 AVL---                                             % 03662 AVL---
+*L 9        200405035 200406019  00515  00535               % 03662 AVL---
+*A BE 200405035 200406019 000022  00515  00535              % 03662 AVL---
+*R 1 200406019 200405035 200406019  00515  00535            % 03662 AVL---
+*G AVS 200405035 200406019  00515  00535                    % 03662 AVL---
+*A VE 200405035 200406019 000022  00515  00535              % 03662 AVL---
+200405035 Luxembourg, Gare Cen         00515                % 03662 AVL---
+200405026 Luxembourg/Centre, P  00517  00517                % 03662 AVL---
+200405023 Centre, Martyrs       00518  00518                % 03662 AVL---
+200405020 Hamilius              00521  00521                % 03662 AVL---
+200405005 Centre, Badanstalt    00523  00523                % 03662 AVL---
+200423004 Pfaffenthal, Um Bock  00525  00525                % 03662 AVL---
+200408005 Clausen, Plateau Alt  00525  00525                % 03662 AVL---
+200408001 Clausen, Clausener B  00526  00526                % 03662 AVL---
+200408003 Clausen, Malakoff     00527  00527                % 03662 AVL---
+200422005 Neudorf/Weimershof,   00528  00528                % 03662 AVL---
+200408002 Neudorf, Fixmer       00529  00529                % 03662 AVL---
+200422009 Neudorf, Kierch       00530  00530                % 03662 AVL---
+200422001 Neiduerf, Brasserie   00530  00530                % 03662 AVL---
+200422008 Neiduerf, Kapell      00531  00531                % 03662 AVL---
+200422011 Neudorf, Laangegronn  00532  00532                % 03662 AVL---
+200422003 Neudorf/Weimershof,   00532  00532                % 03662 AVL---
+200422007 Neudorf, Kalchesbruc  00533  00533                % 03662 AVL---
+200406019 Cents, Waassertuerm   00535                       % 03662 AVL---
+*Z 03663 AVL---       002 020                               % 03663 AVL---
+*L 9        200405035 200406019  00501  00521               % 03663 AVL---
+*A BE 200405035 200406019 000013  00501  00521              % 03663 AVL---
+*R 1 200406019 200405035 200406019  00501  00521            % 03663 AVL---
+*G AVS 200405035 200406019  00501  00521                    % 03663 AVL---
+*A VE 200405035 200406019 000013  00501  00521              % 03663 AVL---
+200405035 Luxembourg, Gare Cen         00501                % 03663 AVL---
+200405026 Luxembourg/Centre, P  00503  00503                % 03663 AVL---
+200405023 Centre, Martyrs       00504  00504                % 03663 AVL---
+200405020 Hamilius              00507  00507                % 03663 AVL---
+200405005 Centre, Badanstalt    00509  00509                % 03663 AVL---
+200423004 Pfaffenthal, Um Bock  00511  00511                % 03663 AVL---
+200408005 Clausen, Plateau Alt  00511  00511                % 03663 AVL---
+200408001 Clausen, Clausener B  00512  00512                % 03663 AVL---
+200408003 Clausen, Malakoff     00513  00513                % 03663 AVL---
+200422005 Neudorf/Weimershof,   00514  00514                % 03663 AVL---
+200408002 Neudorf, Fixmer       00515  00515                % 03663 AVL---
+200422009 Neudorf, Kierch       00516  00516                % 03663 AVL---
+200422001 Neiduerf, Brasserie   00516  00516                % 03663 AVL---
+200422008 Neiduerf, Kapell      00517  00517                % 03663 AVL---
+200422011 Neudorf, Laangegronn  00518  00518                % 03663 AVL---
+200422003 Neudorf/Weimershof,   00518  00518                % 03663 AVL---
+200422007 Neudorf, Kalchesbruc  00519  00519                % 03663 AVL---
+200406019 Cents, Waassertuerm   00521                       % 03663 AVL---
+*Z 03664 AVL---       003 015                               % 03664 AVL---
+*L 9        200405035 200406019  00556  00616               % 03664 AVL---
+*A BE 200405035 200406019 000013  00556  00616              % 03664 AVL---
+*R 1 200406019 200405035 200406019  00556  00616            % 03664 AVL---
+*G AVS 200405035 200406019  00556  00616                    % 03664 AVL---
+*A VE 200405035 200406019 000013  00556  00616              % 03664 AVL---
+200405035 Luxembourg, Gare Cen         00556                % 03664 AVL---
+200405026 Luxembourg/Centre, P  00558  00558                % 03664 AVL---
+200405023 Centre, Martyrs       00559  00559                % 03664 AVL---
+200405020 Hamilius              00602  00602                % 03664 AVL---
+200405005 Centre, Badanstalt    00604  00604                % 03664 AVL---
+200423004 Pfaffenthal, Um Bock  00606  00606                % 03664 AVL---
+200408005 Clausen, Plateau Alt  00606  00606                % 03664 AVL---
+200408001 Clausen, Clausener B  00607  00607                % 03664 AVL---
+200408003 Clausen, Malakoff     00608  00608                % 03664 AVL---
+200422005 Neudorf/Weimershof,   00609  00609                % 03664 AVL---
+200408002 Neudorf, Fixmer       00610  00610                % 03664 AVL---
+200422009 Neudorf, Kierch       00611  00611                % 03664 AVL---
+200422001 Neiduerf, Brasserie   00611  00611                % 03664 AVL---
+200422008 Neiduerf, Kapell      00612  00612                % 03664 AVL---
+200422011 Neudorf, Laangegronn  00613  00613                % 03664 AVL---
+200422003 Neudorf/Weimershof,   00613  00613                % 03664 AVL---
+200422007 Neudorf, Kalchesbruc  00614  00614                % 03664 AVL---
+200406019 Cents, Waassertuerm   00616                       % 03664 AVL---
+*Z 03665 AVL---       006 030                               % 03665 AVL---
+*L 9        200405035 200406019  00815  00835               % 03665 AVL---
+*A BE 200405035 200406019 000017  00815  00835              % 03665 AVL---
+*R 1 200406019 200405035 200406019  00815  00835            % 03665 AVL---
+*G AVS 200405035 200406019  00815  00835                    % 03665 AVL---
+*A VE 200405035 200406019 000017  00815  00835              % 03665 AVL---
+200405035 Luxembourg, Gare Cen         00815                % 03665 AVL---
+200405026 Luxembourg/Centre, P  00817  00817                % 03665 AVL---
+200405023 Centre, Martyrs       00818  00818                % 03665 AVL---
+200405020 Hamilius              00821  00821                % 03665 AVL---
+200405005 Centre, Badanstalt    00823  00823                % 03665 AVL---
+200423004 Pfaffenthal, Um Bock  00825  00825                % 03665 AVL---
+200408005 Clausen, Plateau Alt  00825  00825                % 03665 AVL---
+200408001 Clausen, Clausener B  00826  00826                % 03665 AVL---
+200408003 Clausen, Malakoff     00827  00827                % 03665 AVL---
+200422005 Neudorf/Weimershof,   00828  00828                % 03665 AVL---
+200408002 Neudorf, Fixmer       00829  00829                % 03665 AVL---
+200422009 Neudorf, Kierch       00830  00830                % 03665 AVL---
+200422001 Neiduerf, Brasserie   00830  00830                % 03665 AVL---
+200422008 Neiduerf, Kapell      00831  00831                % 03665 AVL---
+200422011 Neudorf, Laangegronn  00832  00832                % 03665 AVL---
+200422003 Neudorf/Weimershof,   00832  00832                % 03665 AVL---
+200422007 Neudorf, Kalchesbruc  00833  00833                % 03665 AVL---
+200406019 Cents, Waassertuerm   00835                       % 03665 AVL---
+*Z 03666 AVL---                                             % 03666 AVL---
+*L 9        200405035 200406019  01956  02016               % 03666 AVL---
+*A BE 200405035 200406019 000046  01956  02016              % 03666 AVL---
+*R 1 200406019 200405035 200406019  01956  02016            % 03666 AVL---
+*G AVS 200405035 200406019  01956  02016                    % 03666 AVL---
+*A VE 200405035 200406019 000046  01956  02016              % 03666 AVL---
+200405035 Luxembourg, Gare Cen         01956                % 03666 AVL---
+200405026 Luxembourg/Centre, P  01958  01958                % 03666 AVL---
+200405023 Centre, Martyrs       01959  01959                % 03666 AVL---
+200405020 Hamilius              02002  02002                % 03666 AVL---
+200405005 Centre, Badanstalt    02004  02004                % 03666 AVL---
+200423004 Pfaffenthal, Um Bock  02006  02006                % 03666 AVL---
+200408005 Clausen, Plateau Alt  02006  02006                % 03666 AVL---
+200408001 Clausen, Clausener B  02007  02007                % 03666 AVL---
+200408003 Clausen, Malakoff     02008  02008                % 03666 AVL---
+200422005 Neudorf/Weimershof,   02009  02009                % 03666 AVL---
+200408002 Neudorf, Fixmer       02010  02010                % 03666 AVL---
+200422009 Neudorf, Kierch       02011  02011                % 03666 AVL---
+200422001 Neiduerf, Brasserie   02011  02011                % 03666 AVL---
+200422008 Neiduerf, Kapell      02012  02012                % 03666 AVL---
+200422011 Neudorf, Laangegronn  02013  02013                % 03666 AVL---
+200422003 Neudorf/Weimershof,   02013  02013                % 03666 AVL---
+200422007 Neudorf, Kalchesbruc  02014  02014                % 03666 AVL---
+200406019 Cents, Waassertuerm   02016                       % 03666 AVL---
+*Z 03667 AVL---       004 030                               % 03667 AVL---
+*L 9        200405035 200406019  00545  00605               % 03667 AVL---
+*A BE 200405035 200406019 000019  00545  00605              % 03667 AVL---
+*R 1 200406019 200405035 200406019  00545  00605            % 03667 AVL---
+*G AVS 200405035 200406019  00545  00605                    % 03667 AVL---
+*A VE 200405035 200406019 000019  00545  00605              % 03667 AVL---
+200405035 Luxembourg, Gare Cen         00545                % 03667 AVL---
+200405026 Luxembourg/Centre, P  00547  00547                % 03667 AVL---
+200405023 Centre, Martyrs       00548  00548                % 03667 AVL---
+200405020 Hamilius              00551  00551                % 03667 AVL---
+200405005 Centre, Badanstalt    00553  00553                % 03667 AVL---
+200423004 Pfaffenthal, Um Bock  00555  00555                % 03667 AVL---
+200408005 Clausen, Plateau Alt  00555  00555                % 03667 AVL---
+200408001 Clausen, Clausener B  00556  00556                % 03667 AVL---
+200408003 Clausen, Malakoff     00557  00557                % 03667 AVL---
+200422005 Neudorf/Weimershof,   00558  00558                % 03667 AVL---
+200408002 Neudorf, Fixmer       00559  00559                % 03667 AVL---
+200422009 Neudorf, Kierch       00600  00600                % 03667 AVL---
+200422001 Neiduerf, Brasserie   00600  00600                % 03667 AVL---
+200422008 Neiduerf, Kapell      00601  00601                % 03667 AVL---
+200422011 Neudorf, Laangegronn  00602  00602                % 03667 AVL---
+200422003 Neudorf/Weimershof,   00602  00602                % 03667 AVL---
+200422007 Neudorf, Kalchesbruc  00603  00603                % 03667 AVL---
+200406019 Cents, Waassertuerm   00605                       % 03667 AVL---
+*Z 03668 AVL---       046 015                               % 03668 AVL---
+*L 9        200405035 200406019  00811  00831               % 03668 AVL---
+*A BE 200405035 200406019 000022  00811  00831              % 03668 AVL---
+*R 1 200406019 200405035 200406019  00811  00831            % 03668 AVL---
+*G AVS 200405035 200406019  00811  00831                    % 03668 AVL---
+*A VE 200405035 200406019 000022  00811  00831              % 03668 AVL---
+200405035 Luxembourg, Gare Cen         00811                % 03668 AVL---
+200405026 Luxembourg/Centre, P  00813  00813                % 03668 AVL---
+200405023 Centre, Martyrs       00814  00814                % 03668 AVL---
+200405020 Hamilius              00817  00817                % 03668 AVL---
+200405005 Centre, Badanstalt    00819  00819                % 03668 AVL---
+200423004 Pfaffenthal, Um Bock  00821  00821                % 03668 AVL---
+200408005 Clausen, Plateau Alt  00822  00822                % 03668 AVL---
+200408001 Clausen, Clausener B  00823  00823                % 03668 AVL---
+200408003 Clausen, Malakoff     00823  00823                % 03668 AVL---
+200422005 Neudorf/Weimershof,   00824  00824                % 03668 AVL---
+200408002 Neudorf, Fixmer       00825  00825                % 03668 AVL---
+200422009 Neudorf, Kierch       00826  00826                % 03668 AVL---
+200422001 Neiduerf, Brasserie   00827  00827                % 03668 AVL---
+200422008 Neiduerf, Kapell      00827  00827                % 03668 AVL---
+200422011 Neudorf, Laangegronn  00828  00828                % 03668 AVL---
+200422003 Neudorf/Weimershof,   00829  00829                % 03668 AVL---
+200422007 Neudorf, Kalchesbruc  00830  00830                % 03668 AVL---
+200406019 Cents, Waassertuerm   00831                       % 03668 AVL---
+*Z 03669 AVL---       016 030                               % 03669 AVL---
+*L 9        200405035 200406019  01145  01205               % 03669 AVL---
+*A BE 200405035 200406019 000017  01145  01205              % 03669 AVL---
+*R 1 200406019 200405035 200406019  01145  01205            % 03669 AVL---
+*G AVS 200405035 200406019  01145  01205                    % 03669 AVL---
+*A VE 200405035 200406019 000017  01145  01205              % 03669 AVL---
+200405035 Luxembourg, Gare Cen         01145                % 03669 AVL---
+200405026 Luxembourg/Centre, P  01147  01147                % 03669 AVL---
+200405023 Centre, Martyrs       01148  01148                % 03669 AVL---
+200405020 Hamilius              01151  01151                % 03669 AVL---
+200405005 Centre, Badanstalt    01153  01153                % 03669 AVL---
+200423004 Pfaffenthal, Um Bock  01155  01155                % 03669 AVL---
+200408005 Clausen, Plateau Alt  01156  01156                % 03669 AVL---
+200408001 Clausen, Clausener B  01157  01157                % 03669 AVL---
+200408003 Clausen, Malakoff     01157  01157                % 03669 AVL---
+200422005 Neudorf/Weimershof,   01158  01158                % 03669 AVL---
+200408002 Neudorf, Fixmer       01159  01159                % 03669 AVL---
+200422009 Neudorf, Kierch       01200  01200                % 03669 AVL---
+200422001 Neiduerf, Brasserie   01201  01201                % 03669 AVL---
+200422008 Neiduerf, Kapell      01201  01201                % 03669 AVL---
+200422011 Neudorf, Laangegronn  01202  01202                % 03669 AVL---
+200422003 Neudorf/Weimershof,   01203  01203                % 03669 AVL---
+200422007 Neudorf, Kalchesbruc  01204  01204                % 03669 AVL---
+200406019 Cents, Waassertuerm   01205                       % 03669 AVL---
+*Z 03670 AVL---       051 015                               % 03670 AVL---
+*L 9        200405035 200406019  00655  00718               % 03670 AVL---
+*A BE 200405035 200406019 000013  00655  00718              % 03670 AVL---
+*R 1 200406019 200405035 200406019  00655  00718            % 03670 AVL---
+*G AVS 200405035 200406019  00655  00718                    % 03670 AVL---
+*A VE 200405035 200406019 000013  00655  00718              % 03670 AVL---
+200405035 Luxembourg, Gare Cen         00655                % 03670 AVL---
+200405026 Luxembourg/Centre, P  00658  00658                % 03670 AVL---
+200405023 Centre, Martyrs       00659  00659                % 03670 AVL---
+200405020 Hamilius              00702  00702                % 03670 AVL---
+200405005 Centre, Badanstalt    00705  00705                % 03670 AVL---
+200423004 Pfaffenthal, Um Bock  00706  00706                % 03670 AVL---
+200408005 Clausen, Plateau Alt  00707  00707                % 03670 AVL---
+200408001 Clausen, Clausener B  00708  00708                % 03670 AVL---
+200408003 Clausen, Malakoff     00709  00709                % 03670 AVL---
+200422005 Neudorf/Weimershof,   00710  00710                % 03670 AVL---
+200408002 Neudorf, Fixmer       00711  00711                % 03670 AVL---
+200422009 Neudorf, Kierch       00712  00712                % 03670 AVL---
+200422001 Neiduerf, Brasserie   00713  00713                % 03670 AVL---
+200422008 Neiduerf, Kapell      00714  00714                % 03670 AVL---
+200422011 Neudorf, Laangegronn  00714  00714                % 03670 AVL---
+200422003 Neudorf/Weimershof,   00715  00715                % 03670 AVL---
+200422007 Neudorf, Kalchesbruc  00716  00716                % 03670 AVL---
+200406019 Cents, Waassertuerm   00718                       % 03670 AVL---
+*Z 03671 AVL---       006 030                               % 03671 AVL---
+*L 9        200406019 200405035  02028  02049               % 03671 AVL---
+*A BE 200406019 200405035 000010  02028  02049              % 03671 AVL---
+*R 2 200405035 200406019 200405035  02028  02049            % 03671 AVL---
+*G AVS 200406019 200405035  02028  02049                    % 03671 AVL---
+*A VE 200406019 200405035 000010  02028  02049              % 03671 AVL---
+200406019 Cents, Waassertuerm          02028                % 03671 AVL---
+200422007 Neudorf, Kalchesbruc  02031  02031                % 03671 AVL---
+200422003 Neudorf/Weimershof,   02032  02032                % 03671 AVL---
+200422011 Neudorf, Laangegronn  02033  02033                % 03671 AVL---
+200422008 Neiduerf, Kapell      02033  02033                % 03671 AVL---
+200422001 Neiduerf, Brasserie   02034  02034                % 03671 AVL---
+200422009 Neudorf, Kierch       02035  02035                % 03671 AVL---
+200408002 Neudorf, Fixmer       02036  02036                % 03671 AVL---
+200422005 Neudorf/Weimershof,   02037  02037                % 03671 AVL---
+200408003 Clausen, Malakoff     02038  02038                % 03671 AVL---
+200408001 Clausen, Clausener B  02039  02039                % 03671 AVL---
+200408005 Clausen, Plateau Alt  02039  02039                % 03671 AVL---
+200423004 Pfaffenthal, Um Bock  02040  02040                % 03671 AVL---
+200405005 Centre, Badanstalt    02042  02042                % 03671 AVL---
+200405020 Hamilius              02045  02045                % 03671 AVL---
+200405023 Centre, Martyrs       02046  02046                % 03671 AVL---
+200405026 Luxembourg/Centre, P  02047  02047                % 03671 AVL---
+200405035 Luxembourg, Gare Cen  02049                       % 03671 AVL---
+*Z 03672 AVL---       001 735                               % 03672 AVL---
+*L 9        200406019 200405035  00739  00800               % 03672 AVL---
+*A BE 200406019 200405035 000022  00739  00800              % 03672 AVL---
+*R 2 200405035 200406019 200405035  00739  00800            % 03672 AVL---
+*G AVS 200406019 200405035  00739  00800                    % 03672 AVL---
+*A VE 200406019 200405035 000022  00739  00800              % 03672 AVL---
+200406019 Cents, Waassertuerm          00739                % 03672 AVL---
+200422007 Neudorf, Kalchesbruc  00742  00742                % 03672 AVL---
+200422003 Neudorf/Weimershof,   00743  00743                % 03672 AVL---
+200422011 Neudorf, Laangegronn  00744  00744                % 03672 AVL---
+200422008 Neiduerf, Kapell      00744  00744                % 03672 AVL---
+200422001 Neiduerf, Brasserie   00745  00745                % 03672 AVL---
+200422009 Neudorf, Kierch       00746  00746                % 03672 AVL---
+200408002 Neudorf, Fixmer       00747  00747                % 03672 AVL---
+200422005 Neudorf/Weimershof,   00748  00748                % 03672 AVL---
+200408003 Clausen, Malakoff     00749  00749                % 03672 AVL---
+200408001 Clausen, Clausener B  00750  00750                % 03672 AVL---
+200408005 Clausen, Plateau Alt  00750  00750                % 03672 AVL---
+200423004 Pfaffenthal, Um Bock  00751  00751                % 03672 AVL---
+200405005 Centre, Badanstalt    00753  00753                % 03672 AVL---
+200405020 Hamilius              00756  00756                % 03672 AVL---
+200405023 Centre, Martyrs       00757  00757                % 03672 AVL---
+200405026 Luxembourg/Centre, P  00758  00758                % 03672 AVL---
+200405035 Luxembourg, Gare Cen  00800                       % 03672 AVL---
+*Z 03673 AVL---                                             % 03673 AVL---
+*L 9        200406019 200405035  02009  02030               % 03673 AVL---
+*A BE 200406019 200405035 000022  02009  02030              % 03673 AVL---
+*R 2 200405035 200406019 200405035  02009  02030            % 03673 AVL---
+*G AVS 200406019 200405035  02009  02030                    % 03673 AVL---
+*A VE 200406019 200405035 000022  02009  02030              % 03673 AVL---
+200406019 Cents, Waassertuerm          02009                % 03673 AVL---
+200422007 Neudorf, Kalchesbruc  02012  02012                % 03673 AVL---
+200422003 Neudorf/Weimershof,   02013  02013                % 03673 AVL---
+200422011 Neudorf, Laangegronn  02014  02014                % 03673 AVL---
+200422008 Neiduerf, Kapell      02014  02014                % 03673 AVL---
+200422001 Neiduerf, Brasserie   02015  02015                % 03673 AVL---
+200422009 Neudorf, Kierch       02016  02016                % 03673 AVL---
+200408002 Neudorf, Fixmer       02017  02017                % 03673 AVL---
+200422005 Neudorf/Weimershof,   02018  02018                % 03673 AVL---
+200408003 Clausen, Malakoff     02019  02019                % 03673 AVL---
+200408001 Clausen, Clausener B  02020  02020                % 03673 AVL---
+200408005 Clausen, Plateau Alt  02020  02020                % 03673 AVL---
+200423004 Pfaffenthal, Um Bock  02021  02021                % 03673 AVL---
+200405005 Centre, Badanstalt    02023  02023                % 03673 AVL---
+200405020 Hamilius              02026  02026                % 03673 AVL---
+200405023 Centre, Martyrs       02027  02027                % 03673 AVL---
+200405026 Luxembourg/Centre, P  02028  02028                % 03673 AVL---
+200405035 Luxembourg, Gare Cen  02030                       % 03673 AVL---
+*Z 03674 AVL---       001 030                               % 03674 AVL---
+*L 9        200406019 200405035  00454  00515               % 03674 AVL---
+*A BE 200406019 200405035 000013  00454  00515              % 03674 AVL---
+*R 2 200405035 200406019 200405035  00454  00515            % 03674 AVL---
+*G AVS 200406019 200405035  00454  00515                    % 03674 AVL---
+*A VE 200406019 200405035 000013  00454  00515              % 03674 AVL---
+200406019 Cents, Waassertuerm          00454                % 03674 AVL---
+200422007 Neudorf, Kalchesbruc  00457  00457                % 03674 AVL---
+200422003 Neudorf/Weimershof,   00458  00458                % 03674 AVL---
+200422011 Neudorf, Laangegronn  00459  00459                % 03674 AVL---
+200422008 Neiduerf, Kapell      00459  00459                % 03674 AVL---
+200422001 Neiduerf, Brasserie   00500  00500                % 03674 AVL---
+200422009 Neudorf, Kierch       00501  00501                % 03674 AVL---
+200408002 Neudorf, Fixmer       00502  00502                % 03674 AVL---
+200422005 Neudorf/Weimershof,   00503  00503                % 03674 AVL---
+200408003 Clausen, Malakoff     00504  00504                % 03674 AVL---
+200408001 Clausen, Clausener B  00505  00505                % 03674 AVL---
+200408005 Clausen, Plateau Alt  00505  00505                % 03674 AVL---
+200423004 Pfaffenthal, Um Bock  00506  00506                % 03674 AVL---
+200405005 Centre, Badanstalt    00508  00508                % 03674 AVL---
+200405020 Hamilius              00511  00511                % 03674 AVL---
+200405023 Centre, Martyrs       00512  00512                % 03674 AVL---
+200405026 Luxembourg/Centre, P  00513  00513                % 03674 AVL---
+200405035 Luxembourg, Gare Cen  00515                       % 03674 AVL---
+*Z 03675 AVL---       001 017                               % 03675 AVL---
+*L 9        200406019 200405035  00539  00600               % 03675 AVL---
+*A BE 200406019 200405035 000013  00539  00600              % 03675 AVL---
+*R 2 200405035 200406019 200405035  00539  00600            % 03675 AVL---
+*G AVS 200406019 200405035  00539  00600                    % 03675 AVL---
+*A VE 200406019 200405035 000013  00539  00600              % 03675 AVL---
+200406019 Cents, Waassertuerm          00539                % 03675 AVL---
+200422007 Neudorf, Kalchesbruc  00542  00542                % 03675 AVL---
+200422003 Neudorf/Weimershof,   00543  00543                % 03675 AVL---
+200422011 Neudorf, Laangegronn  00544  00544                % 03675 AVL---
+200422008 Neiduerf, Kapell      00544  00544                % 03675 AVL---
+200422001 Neiduerf, Brasserie   00545  00545                % 03675 AVL---
+200422009 Neudorf, Kierch       00546  00546                % 03675 AVL---
+200408002 Neudorf, Fixmer       00547  00547                % 03675 AVL---
+200422005 Neudorf/Weimershof,   00548  00548                % 03675 AVL---
+200408003 Clausen, Malakoff     00549  00549                % 03675 AVL---
+200408001 Clausen, Clausener B  00550  00550                % 03675 AVL---
+200408005 Clausen, Plateau Alt  00550  00550                % 03675 AVL---
+200423004 Pfaffenthal, Um Bock  00551  00551                % 03675 AVL---
+200405005 Centre, Badanstalt    00553  00553                % 03675 AVL---
+200405020 Hamilius              00556  00556                % 03675 AVL---
+200405023 Centre, Martyrs       00557  00557                % 03675 AVL---
+200405026 Luxembourg/Centre, P  00558  00558                % 03675 AVL---
+200405035 Luxembourg, Gare Cen  00600                       % 03675 AVL---
+*Z 03676 AVL---       002 015                               % 03676 AVL---
+*L 9        200406019 200405035  00611  00632               % 03676 AVL---
+*A BE 200406019 200405035 000013  00611  00632              % 03676 AVL---
+*R 2 200405035 200406019 200405035  00611  00632            % 03676 AVL---
+*G AVS 200406019 200405035  00611  00632                    % 03676 AVL---
+*A VE 200406019 200405035 000013  00611  00632              % 03676 AVL---
+200406019 Cents, Waassertuerm          00611                % 03676 AVL---
+200422007 Neudorf, Kalchesbruc  00614  00614                % 03676 AVL---
+200422003 Neudorf/Weimershof,   00615  00615                % 03676 AVL---
+200422011 Neudorf, Laangegronn  00616  00616                % 03676 AVL---
+200422008 Neiduerf, Kapell      00616  00616                % 03676 AVL---
+200422001 Neiduerf, Brasserie   00617  00617                % 03676 AVL---
+200422009 Neudorf, Kierch       00618  00618                % 03676 AVL---
+200408002 Neudorf, Fixmer       00619  00619                % 03676 AVL---
+200422005 Neudorf/Weimershof,   00620  00620                % 03676 AVL---
+200408003 Clausen, Malakoff     00621  00621                % 03676 AVL---
+200408001 Clausen, Clausener B  00622  00622                % 03676 AVL---
+200408005 Clausen, Plateau Alt  00622  00622                % 03676 AVL---
+200423004 Pfaffenthal, Um Bock  00623  00623                % 03676 AVL---
+200405005 Centre, Badanstalt    00625  00625                % 03676 AVL---
+200405020 Hamilius              00628  00628                % 03676 AVL---
+200405023 Centre, Martyrs       00629  00629                % 03676 AVL---
+200405026 Luxembourg/Centre, P  00630  00630                % 03676 AVL---
+200405035 Luxembourg, Gare Cen  00632                       % 03676 AVL---
+*Z 03677 AVL---       001 015                               % 03677 AVL---
+*L 9        200406019 200405035  01957  02018               % 03677 AVL---
+*A BE 200406019 200405035 000013  01957  02018              % 03677 AVL---
+*R 2 200405035 200406019 200405035  01957  02018            % 03677 AVL---
+*G AVS 200406019 200405035  01957  02018                    % 03677 AVL---
+*A VE 200406019 200405035 000013  01957  02018              % 03677 AVL---
+200406019 Cents, Waassertuerm          01957                % 03677 AVL---
+200422007 Neudorf, Kalchesbruc  02000  02000                % 03677 AVL---
+200422003 Neudorf/Weimershof,   02001  02001                % 03677 AVL---
+200422011 Neudorf, Laangegronn  02002  02002                % 03677 AVL---
+200422008 Neiduerf, Kapell      02002  02002                % 03677 AVL---
+200422001 Neiduerf, Brasserie   02003  02003                % 03677 AVL---
+200422009 Neudorf, Kierch       02004  02004                % 03677 AVL---
+200408002 Neudorf, Fixmer       02005  02005                % 03677 AVL---
+200422005 Neudorf/Weimershof,   02006  02006                % 03677 AVL---
+200408003 Clausen, Malakoff     02007  02007                % 03677 AVL---
+200408001 Clausen, Clausener B  02008  02008                % 03677 AVL---
+200408005 Clausen, Plateau Alt  02008  02008                % 03677 AVL---
+200423004 Pfaffenthal, Um Bock  02009  02009                % 03677 AVL---
+200405005 Centre, Badanstalt    02011  02011                % 03677 AVL---
+200405020 Hamilius              02014  02014                % 03677 AVL---
+200405023 Centre, Martyrs       02015  02015                % 03677 AVL---
+200405026 Luxembourg/Centre, P  02016  02016                % 03677 AVL---
+200405035 Luxembourg, Gare Cen  02018                       % 03677 AVL---
+*Z 03678 AVL---       006 030                               % 03678 AVL---
+*L 9        200406019 200405035  00758  00819               % 03678 AVL---
+*A BE 200406019 200405035 000017  00758  00819              % 03678 AVL---
+*R 2 200405035 200406019 200405035  00758  00819            % 03678 AVL---
+*G AVS 200406019 200405035  00758  00819                    % 03678 AVL---
+*A VE 200406019 200405035 000017  00758  00819              % 03678 AVL---
+200406019 Cents, Waassertuerm          00758                % 03678 AVL---
+200422007 Neudorf, Kalchesbruc  00801  00801                % 03678 AVL---
+200422003 Neudorf/Weimershof,   00802  00802                % 03678 AVL---
+200422011 Neudorf, Laangegronn  00803  00803                % 03678 AVL---
+200422008 Neiduerf, Kapell      00803  00803                % 03678 AVL---
+200422001 Neiduerf, Brasserie   00804  00804                % 03678 AVL---
+200422009 Neudorf, Kierch       00805  00805                % 03678 AVL---
+200408002 Neudorf, Fixmer       00806  00806                % 03678 AVL---
+200422005 Neudorf/Weimershof,   00807  00807                % 03678 AVL---
+200408003 Clausen, Malakoff     00808  00808                % 03678 AVL---
+200408001 Clausen, Clausener B  00809  00809                % 03678 AVL---
+200408005 Clausen, Plateau Alt  00809  00809                % 03678 AVL---
+200423004 Pfaffenthal, Um Bock  00810  00810                % 03678 AVL---
+200405005 Centre, Badanstalt    00812  00812                % 03678 AVL---
+200405020 Hamilius              00815  00815                % 03678 AVL---
+200405023 Centre, Martyrs       00816  00816                % 03678 AVL---
+200405026 Luxembourg/Centre, P  00817  00817                % 03678 AVL---
+200405035 Luxembourg, Gare Cen  00819                       % 03678 AVL---
+*Z 03679 AVL---                                             % 03679 AVL---
+*L 9        200406019 200405035  01958  02019               % 03679 AVL---
+*A BE 200406019 200405035 000017  01958  02019              % 03679 AVL---
+*R 2 200405035 200406019 200405035  01958  02019            % 03679 AVL---
+*G AVS 200406019 200405035  01958  02019                    % 03679 AVL---
+*A VE 200406019 200405035 000017  01958  02019              % 03679 AVL---
+200406019 Cents, Waassertuerm          01958                % 03679 AVL---
+200422007 Neudorf, Kalchesbruc  02001  02001                % 03679 AVL---
+200422003 Neudorf/Weimershof,   02002  02002                % 03679 AVL---
+200422011 Neudorf, Laangegronn  02003  02003                % 03679 AVL---
+200422008 Neiduerf, Kapell      02003  02003                % 03679 AVL---
+200422001 Neiduerf, Brasserie   02004  02004                % 03679 AVL---
+200422009 Neudorf, Kierch       02005  02005                % 03679 AVL---
+200408002 Neudorf, Fixmer       02006  02006                % 03679 AVL---
+200422005 Neudorf/Weimershof,   02007  02007                % 03679 AVL---
+200408003 Clausen, Malakoff     02008  02008                % 03679 AVL---
+200408001 Clausen, Clausener B  02009  02009                % 03679 AVL---
+200408005 Clausen, Plateau Alt  02009  02009                % 03679 AVL---
+200423004 Pfaffenthal, Um Bock  02010  02010                % 03679 AVL---
+200405005 Centre, Badanstalt    02012  02012                % 03679 AVL---
+200405020 Hamilius              02015  02015                % 03679 AVL---
+200405023 Centre, Martyrs       02016  02016                % 03679 AVL---
+200405026 Luxembourg/Centre, P  02017  02017                % 03679 AVL---
+200405035 Luxembourg, Gare Cen  02019                       % 03679 AVL---
+*Z 03680 AVL---       004 030                               % 03680 AVL---
+*L 9        200406019 200405035  00528  00549               % 03680 AVL---
+*A BE 200406019 200405035 000019  00528  00549              % 03680 AVL---
+*R 2 200405035 200406019 200405035  00528  00549            % 03680 AVL---
+*G AVS 200406019 200405035  00528  00549                    % 03680 AVL---
+*A VE 200406019 200405035 000019  00528  00549              % 03680 AVL---
+200406019 Cents, Waassertuerm          00528                % 03680 AVL---
+200422007 Neudorf, Kalchesbruc  00531  00531                % 03680 AVL---
+200422003 Neudorf/Weimershof,   00532  00532                % 03680 AVL---
+200422011 Neudorf, Laangegronn  00533  00533                % 03680 AVL---
+200422008 Neiduerf, Kapell      00533  00533                % 03680 AVL---
+200422001 Neiduerf, Brasserie   00534  00534                % 03680 AVL---
+200422009 Neudorf, Kierch       00535  00535                % 03680 AVL---
+200408002 Neudorf, Fixmer       00536  00536                % 03680 AVL---
+200422005 Neudorf/Weimershof,   00537  00537                % 03680 AVL---
+200408003 Clausen, Malakoff     00538  00538                % 03680 AVL---
+200408001 Clausen, Clausener B  00539  00539                % 03680 AVL---
+200408005 Clausen, Plateau Alt  00539  00539                % 03680 AVL---
+200423004 Pfaffenthal, Um Bock  00540  00540                % 03680 AVL---
+200405005 Centre, Badanstalt    00542  00542                % 03680 AVL---
+200405020 Hamilius              00545  00545                % 03680 AVL---
+200405023 Centre, Martyrs       00546  00546                % 03680 AVL---
+200405026 Luxembourg/Centre, P  00547  00547                % 03680 AVL---
+200405035 Luxembourg, Gare Cen  00549                       % 03680 AVL---
+*Z 03681 AVL---       051 015                               % 03681 AVL---
+*L 9        200406019 200405035  00654  00719               % 03681 AVL---
+*A BE 200406019 200405035 000013  00654  00719              % 03681 AVL---
+*R 2 200405035 200406019 200405035  00654  00719            % 03681 AVL---
+*G AVS 200406019 200405035  00654  00719                    % 03681 AVL---
+*A VE 200406019 200405035 000013  00654  00719              % 03681 AVL---
+200406019 Cents, Waassertuerm          00654                % 03681 AVL---
+200422007 Neudorf, Kalchesbruc  00656  00656                % 03681 AVL---
+200422003 Neudorf/Weimershof,   00658  00658                % 03681 AVL---
+200422011 Neudorf, Laangegronn  00659  00659                % 03681 AVL---
+200422008 Neiduerf, Kapell      00700  00700                % 03681 AVL---
+200422001 Neiduerf, Brasserie   00701  00701                % 03681 AVL---
+200422009 Neudorf, Kierch       00702  00702                % 03681 AVL---
+200408002 Neudorf, Fixmer       00703  00703                % 03681 AVL---
+200422005 Neudorf/Weimershof,   00704  00704                % 03681 AVL---
+200408003 Clausen, Malakoff     00705  00705                % 03681 AVL---
+200408001 Clausen, Clausener B  00706  00706                % 03681 AVL---
+200408005 Clausen, Plateau Alt  00707  00707                % 03681 AVL---
+200423004 Pfaffenthal, Um Bock  00708  00708                % 03681 AVL---
+200405005 Centre, Badanstalt    00710  00710                % 03681 AVL---
+200405020 Hamilius              00714  00714                % 03681 AVL---
+200405023 Centre, Martyrs       00715  00715                % 03681 AVL---
+200405026 Luxembourg/Centre, P  00717  00717                % 03681 AVL---
+200405035 Luxembourg, Gare Cen  00719                       % 03681 AVL---
+*Z 03682 AVL---       047 015                               % 03682 AVL---
+*L 9        200406019 200405035  00753  00816               % 03682 AVL---
+*A BE 200406019 200405035 000022  00753  00816              % 03682 AVL---
+*R 2 200405035 200406019 200405035  00753  00816            % 03682 AVL---
+*G AVS 200406019 200405035  00753  00816                    % 03682 AVL---
+*A VE 200406019 200405035 000022  00753  00816              % 03682 AVL---
+200406019 Cents, Waassertuerm          00753                % 03682 AVL---
+200422007 Neudorf, Kalchesbruc  00756  00756                % 03682 AVL---
+200422003 Neudorf/Weimershof,   00757  00757                % 03682 AVL---
+200422011 Neudorf, Laangegronn  00758  00758                % 03682 AVL---
+200422008 Neiduerf, Kapell      00759  00759                % 03682 AVL---
+200422001 Neiduerf, Brasserie   00759  00759                % 03682 AVL---
+200422009 Neudorf, Kierch       00800  00800                % 03682 AVL---
+200408002 Neudorf, Fixmer       00801  00801                % 03682 AVL---
+200422005 Neudorf/Weimershof,   00802  00802                % 03682 AVL---
+200408003 Clausen, Malakoff     00803  00803                % 03682 AVL---
+200408001 Clausen, Clausener B  00804  00804                % 03682 AVL---
+200408005 Clausen, Plateau Alt  00805  00805                % 03682 AVL---
+200423004 Pfaffenthal, Um Bock  00806  00806                % 03682 AVL---
+200405005 Centre, Badanstalt    00808  00808                % 03682 AVL---
+200405020 Hamilius              00811  00811                % 03682 AVL---
+200405023 Centre, Martyrs       00812  00812                % 03682 AVL---
+200405026 Luxembourg/Centre, P  00814  00814                % 03682 AVL---
+200405035 Luxembourg, Gare Cen  00816                       % 03682 AVL---
+*Z 03683 AVL---       016 030                               % 03683 AVL---
+*L 9        200406019 200405035  01127  01150               % 03683 AVL---
+*A BE 200406019 200405035 000017  01127  01150              % 03683 AVL---
+*R 2 200405035 200406019 200405035  01127  01150            % 03683 AVL---
+*G AVS 200406019 200405035  01127  01150                    % 03683 AVL---
+*A VE 200406019 200405035 000017  01127  01150              % 03683 AVL---
+200406019 Cents, Waassertuerm          01127                % 03683 AVL---
+200422007 Neudorf, Kalchesbruc  01130  01130                % 03683 AVL---
+200422003 Neudorf/Weimershof,   01131  01131                % 03683 AVL---
+200422011 Neudorf, Laangegronn  01132  01132                % 03683 AVL---
+200422008 Neiduerf, Kapell      01133  01133                % 03683 AVL---
+200422001 Neiduerf, Brasserie   01133  01133                % 03683 AVL---
+200422009 Neudorf, Kierch       01134  01134                % 03683 AVL---
+200408002 Neudorf, Fixmer       01135  01135                % 03683 AVL---
+200422005 Neudorf/Weimershof,   01136  01136                % 03683 AVL---
+200408003 Clausen, Malakoff     01137  01137                % 03683 AVL---
+200408001 Clausen, Clausener B  01138  01138                % 03683 AVL---
+200408005 Clausen, Plateau Alt  01139  01139                % 03683 AVL---
+200423004 Pfaffenthal, Um Bock  01140  01140                % 03683 AVL---
+200405005 Centre, Badanstalt    01142  01142                % 03683 AVL---
+200405020 Hamilius              01145  01145                % 03683 AVL---
+200405023 Centre, Martyrs       01146  01146                % 03683 AVL---
+200405026 Luxembourg/Centre, P  01148  01148                % 03683 AVL---
+200405035 Luxembourg, Gare Cen  01150                       % 03683 AVL---

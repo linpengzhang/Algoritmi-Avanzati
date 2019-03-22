@@ -1,0 +1,1831 @@
+*F 03 2
+*Z 02916 AVL---                                             % 02916 AVL---
+*L 23       200404027 200405035  02003  02020               % 02916 AVL---
+*A BE 200404027 200405035 000015  02003  02020              % 02916 AVL---
+*R 1 200405035 200404027 200405035  02003  02020            % 02916 AVL---
+*G AVS 200404027 200405035  02003  02020                    % 02916 AVL---
+*A VE 200404027 200405035 000015  02003  02020              % 02916 AVL---
+200404027 Bonnevoie, Lycée Tec         02003                % 02916 AVL---
+200404028 Bonnevoie, Neufchâte  02004  02004                % 02916 AVL---
+200304010 Howald, Rangwee       02004  02004                % 02916 AVL---
+200412025 Gasperich, Francopho  02007  02007                % 02916 AVL---
+001433004 Charles Darwin        02008  02008                % 02916 AVL---
+002339011 François Hogenberg Q  02008  02008                % 02916 AVL---
+200412013 Gasperich, Louis de   02009  02009                % 02916 AVL---
+200412011 Gasperich, Klensch    02010  02010                % 02916 AVL---
+200412001 Gasperich, Al Gasper  02011  02011                % 02916 AVL---
+200412003 Gasperich, Bei der A  02012  02012                % 02916 AVL---
+200412005 Gasperich, Clemencea  02012  02012                % 02916 AVL---
+200412016 Gasperich, Richard W  02014  02014                % 02916 AVL---
+200412020 Gasperich, Millewee   02015  02015                % 02916 AVL---
+200412007 Gasperich, Déportati  02016  02016                % 02916 AVL---
+200405003 Centre, Alsace        02017  02017                % 02916 AVL---
+200405035 Luxembourg, Gare Cen  02020                       % 02916 AVL---
+*Z 02917 AVL---       001 020                               % 02917 AVL---
+*L 23       200404027 200402004  00613  00653               % 02917 AVL---
+*A BE 200404027 200402004 000015  00613  00653              % 02917 AVL---
+*R 1 200402004 200404027 200402004  00613  00653            % 02917 AVL---
+*G AVS 200404027 200402004  00613  00653                    % 02917 AVL---
+*A VE 200404027 200402004 000015  00613  00653              % 02917 AVL---
+200404027 Bonnevoie, Lycée Tec         00613                % 02917 AVL---
+200404028 Bonnevoie, Neufchâte  00614  00614                % 02917 AVL---
+200304010 Howald, Rangwee       00614  00614                % 02917 AVL---
+200412025 Gasperich, Francopho  00617  00617                % 02917 AVL---
+001433004 Charles Darwin        00618  00618                % 02917 AVL---
+002339011 François Hogenberg Q  00618  00618                % 02917 AVL---
+200412013 Gasperich, Louis de   00619  00619                % 02917 AVL---
+200412011 Gasperich, Klensch    00620  00620                % 02917 AVL---
+200412001 Gasperich, Al Gasper  00621  00621                % 02917 AVL---
+200412003 Gasperich, Bei der A  00622  00622                % 02917 AVL---
+200412005 Gasperich, Clemencea  00622  00622                % 02917 AVL---
+200412016 Gasperich, Richard W  00624  00624                % 02917 AVL---
+200412020 Gasperich, Millewee   00625  00625                % 02917 AVL---
+200412007 Gasperich, Déportati  00626  00626                % 02917 AVL---
+200405003 Centre, Alsace        00627  00627                % 02917 AVL---
+200405035 Luxembourg, Gare Cen  00630  00630                % 02917 AVL---
+200405026 Luxembourg/Centre, P  00632  00632                % 02917 AVL---
+200413001 Grund, Stadgronn-Bré  00635  00635                % 02917 AVL---
+200408006 Clausen, Rumm         00638  00638                % 02917 AVL---
+200408008 Clausen, Tour Jacob   00638  00638                % 02917 AVL---
+200408001 Clausen, Clausener B  00639  00639                % 02917 AVL---
+200408007 Clausen, Ste Cunégon  00640  00640                % 02917 AVL---
+200423005 Pfaffenthal, Vauban   00641  00641                % 02917 AVL---
+200423003 Pfaffenthal, Théiwes  00642  00642                % 02917 AVL---
+200423007 Pfaffenthal, Halte C  00643  00643                % 02917 AVL---
+200423001 Pfaffenthal, Sichenh  00643  00643                % 02917 AVL---
+200423002 Pfaffenthal, Stade G  00644  00644                % 02917 AVL---
+200410003 Eich, Eecher Plaz     00645  00645                % 02917 AVL---
+200409005 Dommeldange, Contour  00647  00647                % 02917 AVL---
+200409011 Dommeldange, Van der  00648  00648                % 02917 AVL---
+200409003 Dommeldange, Château  00649  00649                % 02917 AVL---
+200409014 Luxembourg, Chingiz   00650  00650                % 02917 AVL---
+200402003 Beggen, Cyprien Merj  00652  00652                % 02917 AVL---
+200402004 Beggen, Henri Dunant  00653                       % 02917 AVL---
+*Z 02918 AVL---       001 030                               % 02918 AVL---
+*L 23       200405035 200410003  02221  02236               % 02918 AVL---
+*A BE 200405035 200410003 000012  02221  02236              % 02918 AVL---
+*R 1 200410003 200405035 200410003  02221  02236            % 02918 AVL---
+*G AVM 200405035 200410003  02221  02236                    % 02918 AVL---
+*A VE 200405035 200410003 000012  02221  02236              % 02918 AVL---
+200405035 Luxembourg, Gare Cen         02221                % 02918 AVL---
+200405026 Luxembourg/Centre, P  02223  02223                % 02918 AVL---
+200413001 Grund, Stadgronn-Bré  02226  02226                % 02918 AVL---
+200408006 Clausen, Rumm         02229  02229                % 02918 AVL---
+200408008 Clausen, Tour Jacob   02229  02229                % 02918 AVL---
+200408001 Clausen, Clausener B  02230  02230                % 02918 AVL---
+200408007 Clausen, Ste Cunégon  02231  02231                % 02918 AVL---
+200423005 Pfaffenthal, Vauban   02232  02232                % 02918 AVL---
+200423003 Pfaffenthal, Théiwes  02233  02233                % 02918 AVL---
+200423007 Pfaffenthal, Halte C  02234  02234                % 02918 AVL---
+200423001 Pfaffenthal, Sichenh  02234  02234                % 02918 AVL---
+200423002 Pfaffenthal, Stade G  02235  02235                % 02918 AVL---
+200410003 Eich, Eecher Plaz     02236                       % 02918 AVL---
+*Z 02919 AVL---       003 030                               % 02919 AVL---
+*L 23       200405035 200402004  02021  02044               % 02919 AVL---
+*A BE 200405035 200402004 000012  02021  02044              % 02919 AVL---
+*R 1 200402004 200405035 200402004  02021  02044            % 02919 AVL---
+*G AVM 200405035 200402004  02021  02044                    % 02919 AVL---
+*A VE 200405035 200402004 000012  02021  02044              % 02919 AVL---
+200405035 Luxembourg, Gare Cen         02021                % 02919 AVL---
+200405026 Luxembourg/Centre, P  02023  02023                % 02919 AVL---
+200413001 Grund, Stadgronn-Bré  02026  02026                % 02919 AVL---
+200408006 Clausen, Rumm         02029  02029                % 02919 AVL---
+200408008 Clausen, Tour Jacob   02029  02029                % 02919 AVL---
+200408001 Clausen, Clausener B  02030  02030                % 02919 AVL---
+200408007 Clausen, Ste Cunégon  02031  02031                % 02919 AVL---
+200423005 Pfaffenthal, Vauban   02032  02032                % 02919 AVL---
+200423003 Pfaffenthal, Théiwes  02033  02033                % 02919 AVL---
+200423007 Pfaffenthal, Halte C  02034  02034                % 02919 AVL---
+200423001 Pfaffenthal, Sichenh  02034  02034                % 02919 AVL---
+200423002 Pfaffenthal, Stade G  02035  02035                % 02919 AVL---
+200410003 Eich, Eecher Plaz     02036  02036                % 02919 AVL---
+200409005 Dommeldange, Contour  02038  02038                % 02919 AVL---
+200409011 Dommeldange, Van der  02039  02039                % 02919 AVL---
+200409003 Dommeldange, Château  02040  02040                % 02919 AVL---
+200409014 Luxembourg, Chingiz   02041  02041                % 02919 AVL---
+200402003 Beggen, Cyprien Merj  02043  02043                % 02919 AVL---
+200402004 Beggen, Henri Dunant  02044                       % 02919 AVL---
+*Z 02920 AVL---                                             % 02920 AVL---
+*L 23       200405035 200402004  01949  02012               % 02920 AVL---
+*A BE 200405035 200402004 000015  01949  02012              % 02920 AVL---
+*R 1 200402004 200405035 200402004  01949  02012            % 02920 AVL---
+*G AVM 200405035 200402004  01949  02012                    % 02920 AVL---
+*A VE 200405035 200402004 000015  01949  02012              % 02920 AVL---
+200405035 Luxembourg, Gare Cen         01949                % 02920 AVL---
+200405026 Luxembourg/Centre, P  01951  01951                % 02920 AVL---
+200413001 Grund, Stadgronn-Bré  01954  01954                % 02920 AVL---
+200408006 Clausen, Rumm         01957  01957                % 02920 AVL---
+200408008 Clausen, Tour Jacob   01957  01957                % 02920 AVL---
+200408001 Clausen, Clausener B  01958  01958                % 02920 AVL---
+200408007 Clausen, Ste Cunégon  01959  01959                % 02920 AVL---
+200423005 Pfaffenthal, Vauban   02000  02000                % 02920 AVL---
+200423003 Pfaffenthal, Théiwes  02001  02001                % 02920 AVL---
+200423007 Pfaffenthal, Halte C  02002  02002                % 02920 AVL---
+200423001 Pfaffenthal, Sichenh  02002  02002                % 02920 AVL---
+200423002 Pfaffenthal, Stade G  02003  02003                % 02920 AVL---
+200410003 Eich, Eecher Plaz     02004  02004                % 02920 AVL---
+200409005 Dommeldange, Contour  02006  02006                % 02920 AVL---
+200409011 Dommeldange, Van der  02007  02007                % 02920 AVL---
+200409003 Dommeldange, Château  02008  02008                % 02920 AVL---
+200409014 Luxembourg, Chingiz   02009  02009                % 02920 AVL---
+200402003 Beggen, Cyprien Merj  02011  02011                % 02920 AVL---
+200402004 Beggen, Henri Dunant  02012                       % 02920 AVL---
+*Z 02921 AVL---       001 020                               % 02921 AVL---
+*L 23       200405035 200402004  00551  00614               % 02921 AVL---
+*A BE 200405035 200402004 000015  00551  00614              % 02921 AVL---
+*R 1 200402004 200405035 200402004  00551  00614            % 02921 AVL---
+*G AVS 200405035 200402004  00551  00614                    % 02921 AVL---
+*A VE 200405035 200402004 000015  00551  00614              % 02921 AVL---
+200405035 Luxembourg, Gare Cen         00551                % 02921 AVL---
+200405026 Luxembourg/Centre, P  00553  00553                % 02921 AVL---
+200413001 Grund, Stadgronn-Bré  00556  00556                % 02921 AVL---
+200408006 Clausen, Rumm         00559  00559                % 02921 AVL---
+200408008 Clausen, Tour Jacob   00559  00559                % 02921 AVL---
+200408001 Clausen, Clausener B  00600  00600                % 02921 AVL---
+200408007 Clausen, Ste Cunégon  00601  00601                % 02921 AVL---
+200423005 Pfaffenthal, Vauban   00602  00602                % 02921 AVL---
+200423003 Pfaffenthal, Théiwes  00603  00603                % 02921 AVL---
+200423007 Pfaffenthal, Halte C  00604  00604                % 02921 AVL---
+200423001 Pfaffenthal, Sichenh  00604  00604                % 02921 AVL---
+200423002 Pfaffenthal, Stade G  00605  00605                % 02921 AVL---
+200410003 Eich, Eecher Plaz     00606  00606                % 02921 AVL---
+200409005 Dommeldange, Contour  00608  00608                % 02921 AVL---
+200409011 Dommeldange, Van der  00609  00609                % 02921 AVL---
+200409003 Dommeldange, Château  00610  00610                % 02921 AVL---
+200409014 Luxembourg, Chingiz   00611  00611                % 02921 AVL---
+200402003 Beggen, Cyprien Merj  00613  00613                % 02921 AVL---
+200402004 Beggen, Henri Dunant  00614                       % 02921 AVL---
+*Z 02922 AVL---       004 030                               % 02922 AVL---
+*L 23       200405035 200402004  00551  00614               % 02922 AVL---
+*A BE 200405035 200402004 000021  00551  00614              % 02922 AVL---
+*R 1 200402004 200405035 200402004  00551  00614            % 02922 AVL---
+*G AVM 200405035 200402004  00551  00614                    % 02922 AVL---
+*A VE 200405035 200402004 000021  00551  00614              % 02922 AVL---
+200405035 Luxembourg, Gare Cen         00551                % 02922 AVL---
+200405026 Luxembourg/Centre, P  00553  00553                % 02922 AVL---
+200413001 Grund, Stadgronn-Bré  00556  00556                % 02922 AVL---
+200408006 Clausen, Rumm         00559  00559                % 02922 AVL---
+200408008 Clausen, Tour Jacob   00559  00559                % 02922 AVL---
+200408001 Clausen, Clausener B  00600  00600                % 02922 AVL---
+200408007 Clausen, Ste Cunégon  00601  00601                % 02922 AVL---
+200423005 Pfaffenthal, Vauban   00602  00602                % 02922 AVL---
+200423003 Pfaffenthal, Théiwes  00603  00603                % 02922 AVL---
+200423007 Pfaffenthal, Halte C  00604  00604                % 02922 AVL---
+200423001 Pfaffenthal, Sichenh  00604  00604                % 02922 AVL---
+200423002 Pfaffenthal, Stade G  00605  00605                % 02922 AVL---
+200410003 Eich, Eecher Plaz     00606  00606                % 02922 AVL---
+200409005 Dommeldange, Contour  00608  00608                % 02922 AVL---
+200409011 Dommeldange, Van der  00609  00609                % 02922 AVL---
+200409003 Dommeldange, Château  00610  00610                % 02922 AVL---
+200409014 Luxembourg, Chingiz   00611  00611                % 02922 AVL---
+200402003 Beggen, Cyprien Merj  00613  00613                % 02922 AVL---
+200402004 Beggen, Henri Dunant  00614                       % 02922 AVL---
+*Z 02923 AVL---                                             % 02923 AVL---
+*L 23       200404027 200405035  01927  01948               % 02923 AVL---
+*A BE 200404027 200405035 000015  01927  01948              % 02923 AVL---
+*R 1 200405035 200404027 200405035  01927  01948            % 02923 AVL---
+*G AVS 200404027 200405035  01927  01948                    % 02923 AVL---
+*A VE 200404027 200405035 000015  01927  01948              % 02923 AVL---
+200404027 Bonnevoie, Lycée Tec         01927                % 02923 AVL---
+200404028 Bonnevoie, Neufchâte  01928  01928                % 02923 AVL---
+200304010 Howald, Rangwee       01928  01928                % 02923 AVL---
+200412025 Gasperich, Francopho  01932  01932                % 02923 AVL---
+001433004 Charles Darwin        01934  01934                % 02923 AVL---
+002339011 François Hogenberg Q  01935  01935                % 02923 AVL---
+200412013 Gasperich, Louis de   01936  01936                % 02923 AVL---
+200412011 Gasperich, Klensch    01937  01937                % 02923 AVL---
+200412001 Gasperich, Al Gasper  01938  01938                % 02923 AVL---
+200412003 Gasperich, Bei der A  01939  01939                % 02923 AVL---
+200412005 Gasperich, Clemencea  01940  01940                % 02923 AVL---
+200412016 Gasperich, Richard W  01941  01941                % 02923 AVL---
+200412020 Gasperich, Millewee   01943  01943                % 02923 AVL---
+200412007 Gasperich, Déportati  01944  01944                % 02923 AVL---
+200405003 Centre, Alsace        01945  01945                % 02923 AVL---
+200405035 Luxembourg, Gare Cen  01948                       % 02923 AVL---
+*Z 02924 AVL---       037 020                               % 02924 AVL---
+*L 23       200404027 200402004  00647  00735               % 02924 AVL---
+*A BE 200404027 200402004 000015  00647  00735              % 02924 AVL---
+*R 1 200402004 200404027 200402004  00647  00735            % 02924 AVL---
+*G AVS 200404027 200402004  00647  00735                    % 02924 AVL---
+*A VE 200404027 200402004 000015  00647  00735              % 02924 AVL---
+200404027 Bonnevoie, Lycée Tec         00647                % 02924 AVL---
+200404028 Bonnevoie, Neufchâte  00648  00648                % 02924 AVL---
+200304010 Howald, Rangwee       00648  00648                % 02924 AVL---
+200412025 Gasperich, Francopho  00652  00652                % 02924 AVL---
+001433004 Charles Darwin        00654  00654                % 02924 AVL---
+002339011 François Hogenberg Q  00655  00655                % 02924 AVL---
+200412013 Gasperich, Louis de   00656  00656                % 02924 AVL---
+200412011 Gasperich, Klensch    00657  00657                % 02924 AVL---
+200412001 Gasperich, Al Gasper  00658  00658                % 02924 AVL---
+200412003 Gasperich, Bei der A  00659  00659                % 02924 AVL---
+200412005 Gasperich, Clemencea  00700  00700                % 02924 AVL---
+200412016 Gasperich, Richard W  00701  00701                % 02924 AVL---
+200412020 Gasperich, Millewee   00703  00703                % 02924 AVL---
+200412007 Gasperich, Déportati  00704  00704                % 02924 AVL---
+200405003 Centre, Alsace        00705  00705                % 02924 AVL---
+200405035 Luxembourg, Gare Cen  00708  00708                % 02924 AVL---
+200405026 Luxembourg/Centre, P  00711  00711                % 02924 AVL---
+200413001 Grund, Stadgronn-Bré  00715  00715                % 02924 AVL---
+200408006 Clausen, Rumm         00718  00718                % 02924 AVL---
+200408008 Clausen, Tour Jacob   00718  00718                % 02924 AVL---
+200408001 Clausen, Clausener B  00719  00719                % 02924 AVL---
+200408007 Clausen, Ste Cunégon  00720  00720                % 02924 AVL---
+200423005 Pfaffenthal, Vauban   00721  00721                % 02924 AVL---
+200423003 Pfaffenthal, Théiwes  00722  00722                % 02924 AVL---
+200423007 Pfaffenthal, Halte C  00723  00723                % 02924 AVL---
+200423001 Pfaffenthal, Sichenh  00724  00724                % 02924 AVL---
+200423002 Pfaffenthal, Stade G  00725  00725                % 02924 AVL---
+200410003 Eich, Eecher Plaz     00727  00727                % 02924 AVL---
+200409005 Dommeldange, Contour  00728  00728                % 02924 AVL---
+200409011 Dommeldange, Van der  00730  00730                % 02924 AVL---
+200409003 Dommeldange, Château  00731  00731                % 02924 AVL---
+200409014 Luxembourg, Chingiz   00732  00732                % 02924 AVL---
+200402003 Beggen, Cyprien Merj  00734  00734                % 02924 AVL---
+200402004 Beggen, Henri Dunant  00735                       % 02924 AVL---
+*Z 02925 AVL---       023 030                               % 02925 AVL---
+*L 23       200405035 200402004  00818  00842               % 02925 AVL---
+*A BE 200405035 200402004 000021  00818  00842              % 02925 AVL---
+*R 1 200402004 200405035 200402004  00818  00842            % 02925 AVL---
+*G AVM 200405035 200402004  00818  00842                    % 02925 AVL---
+*A VE 200405035 200402004 000021  00818  00842              % 02925 AVL---
+200405035 Luxembourg, Gare Cen         00818                % 02925 AVL---
+200405026 Luxembourg/Centre, P  00820  00820                % 02925 AVL---
+200413001 Grund, Stadgronn-Bré  00824  00824                % 02925 AVL---
+200408006 Clausen, Rumm         00826  00826                % 02925 AVL---
+200408008 Clausen, Tour Jacob   00827  00827                % 02925 AVL---
+200408001 Clausen, Clausener B  00828  00828                % 02925 AVL---
+200408007 Clausen, Ste Cunégon  00829  00829                % 02925 AVL---
+200423005 Pfaffenthal, Vauban   00830  00830                % 02925 AVL---
+200423003 Pfaffenthal, Théiwes  00831  00831                % 02925 AVL---
+200423007 Pfaffenthal, Halte C  00832  00832                % 02925 AVL---
+200423001 Pfaffenthal, Sichenh  00832  00832                % 02925 AVL---
+200423002 Pfaffenthal, Stade G  00833  00833                % 02925 AVL---
+200410003 Eich, Eecher Plaz     00834  00834                % 02925 AVL---
+200409005 Dommeldange, Contour  00835  00835                % 02925 AVL---
+200409011 Dommeldange, Van der  00837  00837                % 02925 AVL---
+200409003 Dommeldange, Château  00838  00838                % 02925 AVL---
+200409014 Luxembourg, Chingiz   00839  00839                % 02925 AVL---
+200402003 Beggen, Cyprien Merj  00841  00841                % 02925 AVL---
+200402004 Beggen, Henri Dunant  00842                       % 02925 AVL---
+*Z 02926 AVL---       004 030                               % 02926 AVL---
+*L 23       200402004 200405035  02019  02043               % 02926 AVL---
+*A BE 200402004 200405035 000012  02019  02043              % 02926 AVL---
+*R 2 200405035 200402004 200405035  02019  02043            % 02926 AVL---
+*G AVM 200402004 200405035  02019  02043                    % 02926 AVL---
+*A VE 200402004 200405035 000012  02019  02043              % 02926 AVL---
+200402004 Beggen, Henri Dunant         02019                % 02926 AVL---
+200402003 Beggen, Cyprien Merj  02020  02020                % 02926 AVL---
+200409014 Luxembourg, Chingiz   02022  02022                % 02926 AVL---
+200409003 Dommeldange, Château  02023  02023                % 02926 AVL---
+200409011 Dommeldange, Van der  02024  02024                % 02926 AVL---
+200409005 Dommeldange, Contour  02025  02025                % 02926 AVL---
+200410003 Eich, Eecher Plaz     02027  02027                % 02926 AVL---
+200423002 Pfaffenthal, Stade G  02029  02029                % 02926 AVL---
+200423001 Pfaffenthal, Sichenh  02029  02029                % 02926 AVL---
+200423007 Pfaffenthal, Halte C  02029  02029                % 02926 AVL---
+200423003 Pfaffenthal, Théiwes  02031  02031                % 02926 AVL---
+200423005 Pfaffenthal, Vauban   02031  02031                % 02926 AVL---
+200408007 Clausen, Ste Cunégon  02032  02032                % 02926 AVL---
+200408001 Clausen, Clausener B  02033  02033                % 02926 AVL---
+200408008 Clausen, Tour Jacob   02034  02034                % 02926 AVL---
+200408006 Clausen, Rumm         02034  02034                % 02926 AVL---
+200413001 Grund, Stadgronn-Bré  02037  02037                % 02926 AVL---
+200405026 Luxembourg/Centre, P  02041  02041                % 02926 AVL---
+200405035 Luxembourg, Gare Cen  02043                       % 02926 AVL---
+*Z 02927 AVL---                                             % 02927 AVL---
+*L 23       200402004 200405035  00516  00540               % 02927 AVL---
+*A BE 200402004 200405035 000015  00516  00540              % 02927 AVL---
+*R 2 200405035 200402004 200405035  00516  00540            % 02927 AVL---
+*G AVS 200402004 200405035  00516  00540                    % 02927 AVL---
+*A VE 200402004 200405035 000015  00516  00540              % 02927 AVL---
+200402004 Beggen, Henri Dunant         00516                % 02927 AVL---
+200402003 Beggen, Cyprien Merj  00517  00517                % 02927 AVL---
+200409014 Luxembourg, Chingiz   00519  00519                % 02927 AVL---
+200409003 Dommeldange, Château  00520  00520                % 02927 AVL---
+200409011 Dommeldange, Van der  00521  00521                % 02927 AVL---
+200409005 Dommeldange, Contour  00522  00522                % 02927 AVL---
+200410003 Eich, Eecher Plaz     00524  00524                % 02927 AVL---
+200423002 Pfaffenthal, Stade G  00526  00526                % 02927 AVL---
+200423001 Pfaffenthal, Sichenh  00526  00526                % 02927 AVL---
+200423007 Pfaffenthal, Halte C  00526  00526                % 02927 AVL---
+200423003 Pfaffenthal, Théiwes  00528  00528                % 02927 AVL---
+200423005 Pfaffenthal, Vauban   00528  00528                % 02927 AVL---
+200408007 Clausen, Ste Cunégon  00529  00529                % 02927 AVL---
+200408001 Clausen, Clausener B  00530  00530                % 02927 AVL---
+200408008 Clausen, Tour Jacob   00531  00531                % 02927 AVL---
+200408006 Clausen, Rumm         00531  00531                % 02927 AVL---
+200413001 Grund, Stadgronn-Bré  00534  00534                % 02927 AVL---
+200405026 Luxembourg/Centre, P  00538  00538                % 02927 AVL---
+200405035 Luxembourg, Gare Cen  00540                       % 02927 AVL---
+*Z 02928 AVL---       003 030                               % 02928 AVL---
+*L 23       200402004 200405035  00549  00613               % 02928 AVL---
+*A BE 200402004 200405035 000021  00549  00613              % 02928 AVL---
+*R 2 200405035 200402004 200405035  00549  00613            % 02928 AVL---
+*G AVM 200402004 200405035  00549  00613                    % 02928 AVL---
+*A VE 200402004 200405035 000021  00549  00613              % 02928 AVL---
+200402004 Beggen, Henri Dunant         00549                % 02928 AVL---
+200402003 Beggen, Cyprien Merj  00550  00550                % 02928 AVL---
+200409014 Luxembourg, Chingiz   00552  00552                % 02928 AVL---
+200409003 Dommeldange, Château  00553  00553                % 02928 AVL---
+200409011 Dommeldange, Van der  00554  00554                % 02928 AVL---
+200409005 Dommeldange, Contour  00555  00555                % 02928 AVL---
+200410003 Eich, Eecher Plaz     00557  00557                % 02928 AVL---
+200423002 Pfaffenthal, Stade G  00559  00559                % 02928 AVL---
+200423001 Pfaffenthal, Sichenh  00559  00559                % 02928 AVL---
+200423007 Pfaffenthal, Halte C  00559  00559                % 02928 AVL---
+200423003 Pfaffenthal, Théiwes  00601  00601                % 02928 AVL---
+200423005 Pfaffenthal, Vauban   00601  00601                % 02928 AVL---
+200408007 Clausen, Ste Cunégon  00602  00602                % 02928 AVL---
+200408001 Clausen, Clausener B  00603  00603                % 02928 AVL---
+200408008 Clausen, Tour Jacob   00604  00604                % 02928 AVL---
+200408006 Clausen, Rumm         00604  00604                % 02928 AVL---
+200413001 Grund, Stadgronn-Bré  00607  00607                % 02928 AVL---
+200405026 Luxembourg/Centre, P  00611  00611                % 02928 AVL---
+200405035 Luxembourg, Gare Cen  00613                       % 02928 AVL---
+*Z 02929 AVL---       024 030                               % 02929 AVL---
+*L 23       200402004 200405035  00748  00812               % 02929 AVL---
+*A BE 200402004 200405035 000021  00748  00812              % 02929 AVL---
+*R 2 200405035 200402004 200405035  00748  00812            % 02929 AVL---
+*G AVM 200402004 200405035  00748  00812                    % 02929 AVL---
+*A VE 200402004 200405035 000021  00748  00812              % 02929 AVL---
+200402004 Beggen, Henri Dunant         00748                % 02929 AVL---
+200402003 Beggen, Cyprien Merj  00749  00749                % 02929 AVL---
+200409014 Luxembourg, Chingiz   00750  00750                % 02929 AVL---
+200409003 Dommeldange, Château  00752  00752                % 02929 AVL---
+200409011 Dommeldange, Van der  00753  00753                % 02929 AVL---
+200409005 Dommeldange, Contour  00754  00754                % 02929 AVL---
+200410003 Eich, Eecher Plaz     00756  00756                % 02929 AVL---
+200423002 Pfaffenthal, Stade G  00757  00757                % 02929 AVL---
+200423001 Pfaffenthal, Sichenh  00758  00758                % 02929 AVL---
+200423007 Pfaffenthal, Halte C  00758  00758                % 02929 AVL---
+200423003 Pfaffenthal, Théiwes  00759  00759                % 02929 AVL---
+200423005 Pfaffenthal, Vauban   00800  00800                % 02929 AVL---
+200408007 Clausen, Ste Cunégon  00801  00801                % 02929 AVL---
+200408001 Clausen, Clausener B  00802  00802                % 02929 AVL---
+200408008 Clausen, Tour Jacob   00803  00803                % 02929 AVL---
+200408006 Clausen, Rumm         00803  00803                % 02929 AVL---
+200413001 Grund, Stadgronn-Bré  00806  00806                % 02929 AVL---
+200405026 Luxembourg/Centre, P  00810  00810                % 02929 AVL---
+200405035 Luxembourg, Gare Cen  00812                       % 02929 AVL---
+*Z 02930 AVL---       038 020                               % 02930 AVL---
+*L 23       200402004 200404027  00642  00730               % 02930 AVL---
+*A BE 200402004 200404027 000015  00642  00730              % 02930 AVL---
+*R 2 200404027 200402004 200404027  00642  00730            % 02930 AVL---
+*G AVS 200402004 200404027  00642  00730                    % 02930 AVL---
+*A VE 200402004 200404027 000015  00642  00730              % 02930 AVL---
+200402004 Beggen, Henri Dunant         00642                % 02930 AVL---
+200402003 Beggen, Cyprien Merj  00644  00644                % 02930 AVL---
+200409014 Luxembourg, Chingiz   00645  00645                % 02930 AVL---
+200409003 Dommeldange, Château  00647  00647                % 02930 AVL---
+200409011 Dommeldange, Van der  00648  00648                % 02930 AVL---
+200409005 Dommeldange, Contour  00649  00649                % 02930 AVL---
+200410003 Eich, Eecher Plaz     00652  00652                % 02930 AVL---
+200423002 Pfaffenthal, Stade G  00654  00654                % 02930 AVL---
+200423001 Pfaffenthal, Sichenh  00655  00655                % 02930 AVL---
+200423007 Pfaffenthal, Halte C  00655  00655                % 02930 AVL---
+200423003 Pfaffenthal, Théiwes  00656  00656                % 02930 AVL---
+200423005 Pfaffenthal, Vauban   00657  00657                % 02930 AVL---
+200408007 Clausen, Ste Cunégon  00658  00658                % 02930 AVL---
+200408001 Clausen, Clausener B  00659  00659                % 02930 AVL---
+200408008 Clausen, Tour Jacob   00700  00700                % 02930 AVL---
+200408006 Clausen, Rumm         00701  00701                % 02930 AVL---
+200413001 Grund, Stadgronn-Bré  00704  00704                % 02930 AVL---
+200405026 Luxembourg/Centre, P  00708  00708                % 02930 AVL---
+200405002 Luxembourg, Gare Cen  00711  00711                % 02930 AVL---
+200405003 Centre, Alsace        00713  00713                % 02930 AVL---
+200412007 Gasperich, Déportati  00714  00714                % 02930 AVL---
+200412020 Gasperich, Millewee   00715  00715                % 02930 AVL---
+200412005 Gasperich, Clemencea  00717  00717                % 02930 AVL---
+200412016 Gasperich, Richard W  00718  00718                % 02930 AVL---
+200412003 Gasperich, Bei der A  00719  00719                % 02930 AVL---
+200412001 Gasperich, Al Gasper  00720  00720                % 02930 AVL---
+200412011 Gasperich, Klensch    00721  00721                % 02930 AVL---
+200412013 Gasperich, Louis de   00722  00722                % 02930 AVL---
+002339018 François Hogenberg Q  00723  00723                % 02930 AVL---
+001433003 Charles Darwin        00724  00724                % 02930 AVL---
+200412025 Gasperich, Francopho  00726  00726                % 02930 AVL---
+200304010 Howald, Rangwee       00729  00729                % 02930 AVL---
+200404027 Bonnevoie, Lycée Tec  00730                       % 02930 AVL---
+*Z 02931 AVL---                                             % 02931 AVL---
+*L 23       200402004 200404027  01941  02029               % 02931 AVL---
+*A BE 200402004 200404027 000015  01941  02029              % 02931 AVL---
+*R 2 200404027 200402004 200404027  01941  02029            % 02931 AVL---
+*G AVS 200402004 200404027  01941  02029                    % 02931 AVL---
+*A VE 200402004 200404027 000015  01941  02029              % 02931 AVL---
+200402004 Beggen, Henri Dunant         01941                % 02931 AVL---
+200402003 Beggen, Cyprien Merj  01943  01943                % 02931 AVL---
+200409014 Luxembourg, Chingiz   01944  01944                % 02931 AVL---
+200409003 Dommeldange, Château  01946  01946                % 02931 AVL---
+200409011 Dommeldange, Van der  01947  01947                % 02931 AVL---
+200409005 Dommeldange, Contour  01948  01948                % 02931 AVL---
+200410003 Eich, Eecher Plaz     01951  01951                % 02931 AVL---
+200423002 Pfaffenthal, Stade G  01953  01953                % 02931 AVL---
+200423001 Pfaffenthal, Sichenh  01954  01954                % 02931 AVL---
+200423007 Pfaffenthal, Halte C  01954  01954                % 02931 AVL---
+200423003 Pfaffenthal, Théiwes  01955  01955                % 02931 AVL---
+200423005 Pfaffenthal, Vauban   01956  01956                % 02931 AVL---
+200408007 Clausen, Ste Cunégon  01957  01957                % 02931 AVL---
+200408001 Clausen, Clausener B  01958  01958                % 02931 AVL---
+200408008 Clausen, Tour Jacob   01959  01959                % 02931 AVL---
+200408006 Clausen, Rumm         02000  02000                % 02931 AVL---
+200413001 Grund, Stadgronn-Bré  02003  02003                % 02931 AVL---
+200405026 Luxembourg/Centre, P  02007  02007                % 02931 AVL---
+200405002 Luxembourg, Gare Cen  02010  02010                % 02931 AVL---
+200405003 Centre, Alsace        02012  02012                % 02931 AVL---
+200412007 Gasperich, Déportati  02013  02013                % 02931 AVL---
+200412020 Gasperich, Millewee   02014  02014                % 02931 AVL---
+200412005 Gasperich, Clemencea  02016  02016                % 02931 AVL---
+200412016 Gasperich, Richard W  02017  02017                % 02931 AVL---
+200412003 Gasperich, Bei der A  02018  02018                % 02931 AVL---
+200412001 Gasperich, Al Gasper  02019  02019                % 02931 AVL---
+200412011 Gasperich, Klensch    02020  02020                % 02931 AVL---
+200412013 Gasperich, Louis de   02021  02021                % 02931 AVL---
+002339018 François Hogenberg Q  02022  02022                % 02931 AVL---
+001433003 Charles Darwin        02023  02023                % 02931 AVL---
+200412025 Gasperich, Francopho  02025  02025                % 02931 AVL---
+200304010 Howald, Rangwee       02028  02028                % 02931 AVL---
+200404027 Bonnevoie, Lycée Tec  02029                       % 02931 AVL---
+*Z 02932 AVL---                                             % 02932 AVL---
+*L 23       200402004 200405002  02004  02028               % 02932 AVL---
+*A BE 200402004 200405002 000015  02004  02028              % 02932 AVL---
+*R 2 200405002 200402004 200405002  02004  02028            % 02932 AVL---
+*G AVS 200402004 200405002  02004  02028                    % 02932 AVL---
+*A VE 200402004 200405002 000015  02004  02028              % 02932 AVL---
+200402004 Beggen, Henri Dunant         02004                % 02932 AVL---
+200402003 Beggen, Cyprien Merj  02005  02005                % 02932 AVL---
+200409014 Luxembourg, Chingiz   02007  02007                % 02932 AVL---
+200409003 Dommeldange, Château  02008  02008                % 02932 AVL---
+200409011 Dommeldange, Van der  02009  02009                % 02932 AVL---
+200409005 Dommeldange, Contour  02010  02010                % 02932 AVL---
+200410003 Eich, Eecher Plaz     02012  02012                % 02932 AVL---
+200423002 Pfaffenthal, Stade G  02014  02014                % 02932 AVL---
+200423001 Pfaffenthal, Sichenh  02014  02014                % 02932 AVL---
+200423007 Pfaffenthal, Halte C  02014  02014                % 02932 AVL---
+200423003 Pfaffenthal, Théiwes  02016  02016                % 02932 AVL---
+200423005 Pfaffenthal, Vauban   02016  02016                % 02932 AVL---
+200408007 Clausen, Ste Cunégon  02017  02017                % 02932 AVL---
+200408001 Clausen, Clausener B  02018  02018                % 02932 AVL---
+200408008 Clausen, Tour Jacob   02019  02019                % 02932 AVL---
+200408006 Clausen, Rumm         02019  02019                % 02932 AVL---
+200413001 Grund, Stadgronn-Bré  02022  02022                % 02932 AVL---
+200405026 Luxembourg/Centre, P  02026  02026                % 02932 AVL---
+200405002 Luxembourg, Gare Cen  02028                       % 02932 AVL---
+*Z 02933 AVL---       001 030                               % 02933 AVL---
+*L 23       200402004 200404027  00556  00635               % 02933 AVL---
+*A BE 200402004 200404027 000015  00556  00635              % 02933 AVL---
+*R 2 200404027 200402004 200404027  00556  00635            % 02933 AVL---
+*G AVS 200402004 200404027  00556  00635                    % 02933 AVL---
+*A VE 200402004 200404027 000015  00556  00635              % 02933 AVL---
+200402004 Beggen, Henri Dunant         00556                % 02933 AVL---
+200402003 Beggen, Cyprien Merj  00557  00557                % 02933 AVL---
+200409014 Luxembourg, Chingiz   00559  00559                % 02933 AVL---
+200409003 Dommeldange, Château  00600  00600                % 02933 AVL---
+200409011 Dommeldange, Van der  00601  00601                % 02933 AVL---
+200409005 Dommeldange, Contour  00602  00602                % 02933 AVL---
+200410003 Eich, Eecher Plaz     00604  00604                % 02933 AVL---
+200423002 Pfaffenthal, Stade G  00606  00606                % 02933 AVL---
+200423001 Pfaffenthal, Sichenh  00606  00606                % 02933 AVL---
+200423007 Pfaffenthal, Halte C  00606  00606                % 02933 AVL---
+200423003 Pfaffenthal, Théiwes  00608  00608                % 02933 AVL---
+200423005 Pfaffenthal, Vauban   00608  00608                % 02933 AVL---
+200408007 Clausen, Ste Cunégon  00609  00609                % 02933 AVL---
+200408001 Clausen, Clausener B  00610  00610                % 02933 AVL---
+200408008 Clausen, Tour Jacob   00611  00611                % 02933 AVL---
+200408006 Clausen, Rumm         00611  00611                % 02933 AVL---
+200413001 Grund, Stadgronn-Bré  00614  00614                % 02933 AVL---
+200405026 Luxembourg/Centre, P  00618  00618                % 02933 AVL---
+200405002 Luxembourg, Gare Cen  00620  00620                % 02933 AVL---
+200405003 Centre, Alsace        00621  00621                % 02933 AVL---
+200412007 Gasperich, Déportati  00623  00623                % 02933 AVL---
+200412020 Gasperich, Millewee   00624  00624                % 02933 AVL---
+200412005 Gasperich, Clemencea  00625  00625                % 02933 AVL---
+200412016 Gasperich, Richard W  00626  00626                % 02933 AVL---
+200412003 Gasperich, Bei der A  00627  00627                % 02933 AVL---
+200412001 Gasperich, Al Gasper  00628  00628                % 02933 AVL---
+200412011 Gasperich, Klensch    00628  00628                % 02933 AVL---
+200412013 Gasperich, Louis de   00629  00629                % 02933 AVL---
+002339018 François Hogenberg Q  00630  00630                % 02933 AVL---
+001433003 Charles Darwin        00631  00631                % 02933 AVL---
+200412025 Gasperich, Francopho  00632  00632                % 02933 AVL---
+200304010 Howald, Rangwee       00634  00634                % 02933 AVL---
+200404027 Bonnevoie, Lycée Tec  00635                       % 02933 AVL---
+*Z 02934 AVL---       023 030                               % 02934 AVL---
+*L 23       200405035 200402004  00818  00842               % 02934 AVL---
+*A BE 200405035 200402004 000023  00818  00842              % 02934 AVL---
+*R 1 200402004 200405035 200402004  00818  00842            % 02934 AVL---
+*G AVM 200405035 200402004  00818  00842                    % 02934 AVL---
+*A VE 200405035 200402004 000023  00818  00842              % 02934 AVL---
+200405035 Luxembourg, Gare Cen         00818                % 02934 AVL---
+200405026 Luxembourg/Centre, P  00820  00820                % 02934 AVL---
+200413001 Grund, Stadgronn-Bré  00824  00824                % 02934 AVL---
+200408006 Clausen, Rumm         00826  00826                % 02934 AVL---
+200408008 Clausen, Tour Jacob   00827  00827                % 02934 AVL---
+200408001 Clausen, Clausener B  00828  00828                % 02934 AVL---
+200408007 Clausen, Ste Cunégon  00829  00829                % 02934 AVL---
+200423005 Pfaffenthal, Vauban   00830  00830                % 02934 AVL---
+200423003 Pfaffenthal, Théiwes  00831  00831                % 02934 AVL---
+200423007 Pfaffenthal, Halte C  00832  00832                % 02934 AVL---
+200423001 Pfaffenthal, Sichenh  00832  00832                % 02934 AVL---
+200423002 Pfaffenthal, Stade G  00833  00833                % 02934 AVL---
+200410003 Eich, Eecher Plaz     00834  00834                % 02934 AVL---
+200409005 Dommeldange, Contour  00835  00835                % 02934 AVL---
+200409011 Dommeldange, Van der  00837  00837                % 02934 AVL---
+200409003 Dommeldange, Château  00838  00838                % 02934 AVL---
+200409014 Luxembourg, Chingiz   00839  00839                % 02934 AVL---
+200402003 Beggen, Cyprien Merj  00841  00841                % 02934 AVL---
+200402004 Beggen, Henri Dunant  00842                       % 02934 AVL---
+*Z 02935 AVL---       017 030                               % 02935 AVL---
+*L 23       200405035 200402004  01121  01145               % 02935 AVL---
+*A BE 200405035 200402004 000018  01121  01145              % 02935 AVL---
+*R 1 200402004 200405035 200402004  01121  01145            % 02935 AVL---
+*G AVM 200405035 200402004  01121  01145                    % 02935 AVL---
+*A VE 200405035 200402004 000018  01121  01145              % 02935 AVL---
+200405035 Luxembourg, Gare Cen         01121                % 02935 AVL---
+200405026 Luxembourg/Centre, P  01123  01123                % 02935 AVL---
+200413001 Grund, Stadgronn-Bré  01127  01127                % 02935 AVL---
+200408006 Clausen, Rumm         01129  01129                % 02935 AVL---
+200408008 Clausen, Tour Jacob   01130  01130                % 02935 AVL---
+200408001 Clausen, Clausener B  01131  01131                % 02935 AVL---
+200408007 Clausen, Ste Cunégon  01132  01132                % 02935 AVL---
+200423005 Pfaffenthal, Vauban   01133  01133                % 02935 AVL---
+200423003 Pfaffenthal, Théiwes  01134  01134                % 02935 AVL---
+200423007 Pfaffenthal, Halte C  01135  01135                % 02935 AVL---
+200423001 Pfaffenthal, Sichenh  01135  01135                % 02935 AVL---
+200423002 Pfaffenthal, Stade G  01136  01136                % 02935 AVL---
+200410003 Eich, Eecher Plaz     01137  01137                % 02935 AVL---
+200409005 Dommeldange, Contour  01138  01138                % 02935 AVL---
+200409011 Dommeldange, Van der  01140  01140                % 02935 AVL---
+200409003 Dommeldange, Château  01141  01141                % 02935 AVL---
+200409014 Luxembourg, Chingiz   01142  01142                % 02935 AVL---
+200402003 Beggen, Cyprien Merj  01144  01144                % 02935 AVL---
+200402004 Beggen, Henri Dunant  01145                       % 02935 AVL---
+*Z 02936 AVL---                                             % 02936 AVL---
+*L 23       200404027 200405035  01927  01948               % 02936 AVL---
+*A BE 200404027 200405035 000014  01927  01948              % 02936 AVL---
+*R 1 200405035 200404027 200405035  01927  01948            % 02936 AVL---
+*G AVS 200404027 200405035  01927  01948                    % 02936 AVL---
+*A VE 200404027 200405035 000014  01927  01948              % 02936 AVL---
+200404027 Bonnevoie, Lycée Tec         01927                % 02936 AVL---
+200404028 Bonnevoie, Neufchâte  01928  01928                % 02936 AVL---
+200304010 Howald, Rangwee       01928  01928                % 02936 AVL---
+200412025 Gasperich, Francopho  01932  01932                % 02936 AVL---
+001433004 Charles Darwin        01934  01934                % 02936 AVL---
+002339011 François Hogenberg Q  01935  01935                % 02936 AVL---
+200412013 Gasperich, Louis de   01936  01936                % 02936 AVL---
+200412011 Gasperich, Klensch    01937  01937                % 02936 AVL---
+200412001 Gasperich, Al Gasper  01938  01938                % 02936 AVL---
+200412003 Gasperich, Bei der A  01939  01939                % 02936 AVL---
+200412005 Gasperich, Clemencea  01940  01940                % 02936 AVL---
+200412016 Gasperich, Richard W  01941  01941                % 02936 AVL---
+200412020 Gasperich, Millewee   01943  01943                % 02936 AVL---
+200412007 Gasperich, Déportati  01944  01944                % 02936 AVL---
+200405003 Centre, Alsace        01945  01945                % 02936 AVL---
+200405035 Luxembourg, Gare Cen  01948                       % 02936 AVL---
+*Z 02937 AVL---       037 020                               % 02937 AVL---
+*L 23       200404027 200402004  00647  00735               % 02937 AVL---
+*A BE 200404027 200402004 000014  00647  00735              % 02937 AVL---
+*R 1 200402004 200404027 200402004  00647  00735            % 02937 AVL---
+*G AVS 200404027 200402004  00647  00735                    % 02937 AVL---
+*A VE 200404027 200402004 000014  00647  00735              % 02937 AVL---
+200404027 Bonnevoie, Lycée Tec         00647                % 02937 AVL---
+200404028 Bonnevoie, Neufchâte  00648  00648                % 02937 AVL---
+200304010 Howald, Rangwee       00648  00648                % 02937 AVL---
+200412025 Gasperich, Francopho  00652  00652                % 02937 AVL---
+001433004 Charles Darwin        00654  00654                % 02937 AVL---
+002339011 François Hogenberg Q  00655  00655                % 02937 AVL---
+200412013 Gasperich, Louis de   00656  00656                % 02937 AVL---
+200412011 Gasperich, Klensch    00657  00657                % 02937 AVL---
+200412001 Gasperich, Al Gasper  00658  00658                % 02937 AVL---
+200412003 Gasperich, Bei der A  00659  00659                % 02937 AVL---
+200412005 Gasperich, Clemencea  00700  00700                % 02937 AVL---
+200412016 Gasperich, Richard W  00701  00701                % 02937 AVL---
+200412020 Gasperich, Millewee   00703  00703                % 02937 AVL---
+200412007 Gasperich, Déportati  00704  00704                % 02937 AVL---
+200405003 Centre, Alsace        00705  00705                % 02937 AVL---
+200405035 Luxembourg, Gare Cen  00708  00708                % 02937 AVL---
+200405026 Luxembourg/Centre, P  00711  00711                % 02937 AVL---
+200413001 Grund, Stadgronn-Bré  00715  00715                % 02937 AVL---
+200408006 Clausen, Rumm         00718  00718                % 02937 AVL---
+200408008 Clausen, Tour Jacob   00718  00718                % 02937 AVL---
+200408001 Clausen, Clausener B  00719  00719                % 02937 AVL---
+200408007 Clausen, Ste Cunégon  00720  00720                % 02937 AVL---
+200423005 Pfaffenthal, Vauban   00721  00721                % 02937 AVL---
+200423003 Pfaffenthal, Théiwes  00722  00722                % 02937 AVL---
+200423007 Pfaffenthal, Halte C  00723  00723                % 02937 AVL---
+200423001 Pfaffenthal, Sichenh  00724  00724                % 02937 AVL---
+200423002 Pfaffenthal, Stade G  00725  00725                % 02937 AVL---
+200410003 Eich, Eecher Plaz     00727  00727                % 02937 AVL---
+200409005 Dommeldange, Contour  00728  00728                % 02937 AVL---
+200409011 Dommeldange, Van der  00730  00730                % 02937 AVL---
+200409003 Dommeldange, Château  00731  00731                % 02937 AVL---
+200409014 Luxembourg, Chingiz   00732  00732                % 02937 AVL---
+200402003 Beggen, Cyprien Merj  00734  00734                % 02937 AVL---
+200402004 Beggen, Henri Dunant  00735                       % 02937 AVL---
+*Z 02938 AVL---                                             % 02938 AVL---
+*L 23       200404027 200405035  02003  02020               % 02938 AVL---
+*A BE 200404027 200405035 000014  02003  02020              % 02938 AVL---
+*R 1 200405035 200404027 200405035  02003  02020            % 02938 AVL---
+*G AVS 200404027 200405035  02003  02020                    % 02938 AVL---
+*A VE 200404027 200405035 000014  02003  02020              % 02938 AVL---
+200404027 Bonnevoie, Lycée Tec         02003                % 02938 AVL---
+200404028 Bonnevoie, Neufchâte  02004  02004                % 02938 AVL---
+200304010 Howald, Rangwee       02004  02004                % 02938 AVL---
+200412025 Gasperich, Francopho  02007  02007                % 02938 AVL---
+001433004 Charles Darwin        02008  02008                % 02938 AVL---
+002339011 François Hogenberg Q  02008  02008                % 02938 AVL---
+200412013 Gasperich, Louis de   02009  02009                % 02938 AVL---
+200412011 Gasperich, Klensch    02010  02010                % 02938 AVL---
+200412001 Gasperich, Al Gasper  02011  02011                % 02938 AVL---
+200412003 Gasperich, Bei der A  02012  02012                % 02938 AVL---
+200412005 Gasperich, Clemencea  02012  02012                % 02938 AVL---
+200412016 Gasperich, Richard W  02014  02014                % 02938 AVL---
+200412020 Gasperich, Millewee   02015  02015                % 02938 AVL---
+200412007 Gasperich, Déportati  02016  02016                % 02938 AVL---
+200405003 Centre, Alsace        02017  02017                % 02938 AVL---
+200405035 Luxembourg, Gare Cen  02020                       % 02938 AVL---
+*Z 02939 AVL---       001 020                               % 02939 AVL---
+*L 23       200404027 200402004  00613  00653               % 02939 AVL---
+*A BE 200404027 200402004 000014  00613  00653              % 02939 AVL---
+*R 1 200402004 200404027 200402004  00613  00653            % 02939 AVL---
+*G AVS 200404027 200402004  00613  00653                    % 02939 AVL---
+*A VE 200404027 200402004 000014  00613  00653              % 02939 AVL---
+200404027 Bonnevoie, Lycée Tec         00613                % 02939 AVL---
+200404028 Bonnevoie, Neufchâte  00614  00614                % 02939 AVL---
+200304010 Howald, Rangwee       00614  00614                % 02939 AVL---
+200412025 Gasperich, Francopho  00617  00617                % 02939 AVL---
+001433004 Charles Darwin        00618  00618                % 02939 AVL---
+002339011 François Hogenberg Q  00618  00618                % 02939 AVL---
+200412013 Gasperich, Louis de   00619  00619                % 02939 AVL---
+200412011 Gasperich, Klensch    00620  00620                % 02939 AVL---
+200412001 Gasperich, Al Gasper  00621  00621                % 02939 AVL---
+200412003 Gasperich, Bei der A  00622  00622                % 02939 AVL---
+200412005 Gasperich, Clemencea  00622  00622                % 02939 AVL---
+200412016 Gasperich, Richard W  00624  00624                % 02939 AVL---
+200412020 Gasperich, Millewee   00625  00625                % 02939 AVL---
+200412007 Gasperich, Déportati  00626  00626                % 02939 AVL---
+200405003 Centre, Alsace        00627  00627                % 02939 AVL---
+200405035 Luxembourg, Gare Cen  00630  00630                % 02939 AVL---
+200405026 Luxembourg/Centre, P  00632  00632                % 02939 AVL---
+200413001 Grund, Stadgronn-Bré  00635  00635                % 02939 AVL---
+200408006 Clausen, Rumm         00638  00638                % 02939 AVL---
+200408008 Clausen, Tour Jacob   00638  00638                % 02939 AVL---
+200408001 Clausen, Clausener B  00639  00639                % 02939 AVL---
+200408007 Clausen, Ste Cunégon  00640  00640                % 02939 AVL---
+200423005 Pfaffenthal, Vauban   00641  00641                % 02939 AVL---
+200423003 Pfaffenthal, Théiwes  00642  00642                % 02939 AVL---
+200423007 Pfaffenthal, Halte C  00643  00643                % 02939 AVL---
+200423001 Pfaffenthal, Sichenh  00643  00643                % 02939 AVL---
+200423002 Pfaffenthal, Stade G  00644  00644                % 02939 AVL---
+200410003 Eich, Eecher Plaz     00645  00645                % 02939 AVL---
+200409005 Dommeldange, Contour  00647  00647                % 02939 AVL---
+200409011 Dommeldange, Van der  00648  00648                % 02939 AVL---
+200409003 Dommeldange, Château  00649  00649                % 02939 AVL---
+200409014 Luxembourg, Chingiz   00650  00650                % 02939 AVL---
+200402003 Beggen, Cyprien Merj  00652  00652                % 02939 AVL---
+200402004 Beggen, Henri Dunant  00653                       % 02939 AVL---
+*Z 02940 AVL---       001 030                               % 02940 AVL---
+*L 23       200405035 200410003  02221  02236               % 02940 AVL---
+*A BE 200405035 200410003 000047  02221  02236              % 02940 AVL---
+*R 1 200410003 200405035 200410003  02221  02236            % 02940 AVL---
+*G AVM 200405035 200410003  02221  02236                    % 02940 AVL---
+*A VE 200405035 200410003 000047  02221  02236              % 02940 AVL---
+200405035 Luxembourg, Gare Cen         02221                % 02940 AVL---
+200405026 Luxembourg/Centre, P  02223  02223                % 02940 AVL---
+200413001 Grund, Stadgronn-Bré  02226  02226                % 02940 AVL---
+200408006 Clausen, Rumm         02229  02229                % 02940 AVL---
+200408008 Clausen, Tour Jacob   02229  02229                % 02940 AVL---
+200408001 Clausen, Clausener B  02230  02230                % 02940 AVL---
+200408007 Clausen, Ste Cunégon  02231  02231                % 02940 AVL---
+200423005 Pfaffenthal, Vauban   02232  02232                % 02940 AVL---
+200423003 Pfaffenthal, Théiwes  02233  02233                % 02940 AVL---
+200423007 Pfaffenthal, Halte C  02234  02234                % 02940 AVL---
+200423001 Pfaffenthal, Sichenh  02234  02234                % 02940 AVL---
+200423002 Pfaffenthal, Stade G  02235  02235                % 02940 AVL---
+200410003 Eich, Eecher Plaz     02236                       % 02940 AVL---
+*Z 02941 AVL---       004 030                               % 02941 AVL---
+*L 23       200405035 200402004  00551  00614               % 02941 AVL---
+*A BE 200405035 200402004 000023  00551  00614              % 02941 AVL---
+*R 1 200402004 200405035 200402004  00551  00614            % 02941 AVL---
+*G AVM 200405035 200402004  00551  00614                    % 02941 AVL---
+*A VE 200405035 200402004 000023  00551  00614              % 02941 AVL---
+200405035 Luxembourg, Gare Cen         00551                % 02941 AVL---
+200405026 Luxembourg/Centre, P  00553  00553                % 02941 AVL---
+200413001 Grund, Stadgronn-Bré  00556  00556                % 02941 AVL---
+200408006 Clausen, Rumm         00559  00559                % 02941 AVL---
+200408008 Clausen, Tour Jacob   00559  00559                % 02941 AVL---
+200408001 Clausen, Clausener B  00600  00600                % 02941 AVL---
+200408007 Clausen, Ste Cunégon  00601  00601                % 02941 AVL---
+200423005 Pfaffenthal, Vauban   00602  00602                % 02941 AVL---
+200423003 Pfaffenthal, Théiwes  00603  00603                % 02941 AVL---
+200423007 Pfaffenthal, Halte C  00604  00604                % 02941 AVL---
+200423001 Pfaffenthal, Sichenh  00604  00604                % 02941 AVL---
+200423002 Pfaffenthal, Stade G  00605  00605                % 02941 AVL---
+200410003 Eich, Eecher Plaz     00606  00606                % 02941 AVL---
+200409005 Dommeldange, Contour  00608  00608                % 02941 AVL---
+200409011 Dommeldange, Van der  00609  00609                % 02941 AVL---
+200409003 Dommeldange, Château  00610  00610                % 02941 AVL---
+200409014 Luxembourg, Chingiz   00611  00611                % 02941 AVL---
+200402003 Beggen, Cyprien Merj  00613  00613                % 02941 AVL---
+200402004 Beggen, Henri Dunant  00614                       % 02941 AVL---
+*Z 02942 AVL---                                             % 02942 AVL---
+*L 23       200405035 200402004  02021  02044               % 02942 AVL---
+*A BE 200405035 200402004 000011  02021  02044              % 02942 AVL---
+*R 1 200402004 200405035 200402004  02021  02044            % 02942 AVL---
+*G AVM 200405035 200402004  02021  02044                    % 02942 AVL---
+*A VE 200405035 200402004 000011  02021  02044              % 02942 AVL---
+200405035 Luxembourg, Gare Cen         02021                % 02942 AVL---
+200405026 Luxembourg/Centre, P  02023  02023                % 02942 AVL---
+200413001 Grund, Stadgronn-Bré  02026  02026                % 02942 AVL---
+200408006 Clausen, Rumm         02029  02029                % 02942 AVL---
+200408008 Clausen, Tour Jacob   02029  02029                % 02942 AVL---
+200408001 Clausen, Clausener B  02030  02030                % 02942 AVL---
+200408007 Clausen, Ste Cunégon  02031  02031                % 02942 AVL---
+200423005 Pfaffenthal, Vauban   02032  02032                % 02942 AVL---
+200423003 Pfaffenthal, Théiwes  02033  02033                % 02942 AVL---
+200423007 Pfaffenthal, Halte C  02034  02034                % 02942 AVL---
+200423001 Pfaffenthal, Sichenh  02034  02034                % 02942 AVL---
+200423002 Pfaffenthal, Stade G  02035  02035                % 02942 AVL---
+200410003 Eich, Eecher Plaz     02036  02036                % 02942 AVL---
+200409005 Dommeldange, Contour  02038  02038                % 02942 AVL---
+200409011 Dommeldange, Van der  02039  02039                % 02942 AVL---
+200409003 Dommeldange, Château  02040  02040                % 02942 AVL---
+200409014 Luxembourg, Chingiz   02041  02041                % 02942 AVL---
+200402003 Beggen, Cyprien Merj  02043  02043                % 02942 AVL---
+200402004 Beggen, Henri Dunant  02044                       % 02942 AVL---
+*Z 02943 AVL---                                             % 02943 AVL---
+*L 23       200405035 200402004  01949  02012               % 02943 AVL---
+*A BE 200405035 200402004 000014  01949  02012              % 02943 AVL---
+*R 1 200402004 200405035 200402004  01949  02012            % 02943 AVL---
+*G AVM 200405035 200402004  01949  02012                    % 02943 AVL---
+*A VE 200405035 200402004 000014  01949  02012              % 02943 AVL---
+200405035 Luxembourg, Gare Cen         01949                % 02943 AVL---
+200405026 Luxembourg/Centre, P  01951  01951                % 02943 AVL---
+200413001 Grund, Stadgronn-Bré  01954  01954                % 02943 AVL---
+200408006 Clausen, Rumm         01957  01957                % 02943 AVL---
+200408008 Clausen, Tour Jacob   01957  01957                % 02943 AVL---
+200408001 Clausen, Clausener B  01958  01958                % 02943 AVL---
+200408007 Clausen, Ste Cunégon  01959  01959                % 02943 AVL---
+200423005 Pfaffenthal, Vauban   02000  02000                % 02943 AVL---
+200423003 Pfaffenthal, Théiwes  02001  02001                % 02943 AVL---
+200423007 Pfaffenthal, Halte C  02002  02002                % 02943 AVL---
+200423001 Pfaffenthal, Sichenh  02002  02002                % 02943 AVL---
+200423002 Pfaffenthal, Stade G  02003  02003                % 02943 AVL---
+200410003 Eich, Eecher Plaz     02004  02004                % 02943 AVL---
+200409005 Dommeldange, Contour  02006  02006                % 02943 AVL---
+200409011 Dommeldange, Van der  02007  02007                % 02943 AVL---
+200409003 Dommeldange, Château  02008  02008                % 02943 AVL---
+200409014 Luxembourg, Chingiz   02009  02009                % 02943 AVL---
+200402003 Beggen, Cyprien Merj  02011  02011                % 02943 AVL---
+200402004 Beggen, Henri Dunant  02012                       % 02943 AVL---
+*Z 02944 AVL---       001 020                               % 02944 AVL---
+*L 23       200405035 200402004  00551  00614               % 02944 AVL---
+*A BE 200405035 200402004 000014  00551  00614              % 02944 AVL---
+*R 1 200402004 200405035 200402004  00551  00614            % 02944 AVL---
+*G AVS 200405035 200402004  00551  00614                    % 02944 AVL---
+*A VE 200405035 200402004 000014  00551  00614              % 02944 AVL---
+200405035 Luxembourg, Gare Cen         00551                % 02944 AVL---
+200405026 Luxembourg/Centre, P  00553  00553                % 02944 AVL---
+200413001 Grund, Stadgronn-Bré  00556  00556                % 02944 AVL---
+200408006 Clausen, Rumm         00559  00559                % 02944 AVL---
+200408008 Clausen, Tour Jacob   00559  00559                % 02944 AVL---
+200408001 Clausen, Clausener B  00600  00600                % 02944 AVL---
+200408007 Clausen, Ste Cunégon  00601  00601                % 02944 AVL---
+200423005 Pfaffenthal, Vauban   00602  00602                % 02944 AVL---
+200423003 Pfaffenthal, Théiwes  00603  00603                % 02944 AVL---
+200423007 Pfaffenthal, Halte C  00604  00604                % 02944 AVL---
+200423001 Pfaffenthal, Sichenh  00604  00604                % 02944 AVL---
+200423002 Pfaffenthal, Stade G  00605  00605                % 02944 AVL---
+200410003 Eich, Eecher Plaz     00606  00606                % 02944 AVL---
+200409005 Dommeldange, Contour  00608  00608                % 02944 AVL---
+200409011 Dommeldange, Van der  00609  00609                % 02944 AVL---
+200409003 Dommeldange, Château  00610  00610                % 02944 AVL---
+200409014 Luxembourg, Chingiz   00611  00611                % 02944 AVL---
+200402003 Beggen, Cyprien Merj  00613  00613                % 02944 AVL---
+200402004 Beggen, Henri Dunant  00614                       % 02944 AVL---
+*Z 02945 AVL---       002 030                               % 02945 AVL---
+*L 23       200405035 200402004  02051  02114               % 02945 AVL---
+*A BE 200405035 200402004 000047  02051  02114              % 02945 AVL---
+*R 1 200402004 200405035 200402004  02051  02114            % 02945 AVL---
+*G AVM 200405035 200402004  02051  02114                    % 02945 AVL---
+*A VE 200405035 200402004 000047  02051  02114              % 02945 AVL---
+200405035 Luxembourg, Gare Cen         02051                % 02945 AVL---
+200405026 Luxembourg/Centre, P  02053  02053                % 02945 AVL---
+200413001 Grund, Stadgronn-Bré  02056  02056                % 02945 AVL---
+200408006 Clausen, Rumm         02059  02059                % 02945 AVL---
+200408008 Clausen, Tour Jacob   02059  02059                % 02945 AVL---
+200408001 Clausen, Clausener B  02100  02100                % 02945 AVL---
+200408007 Clausen, Ste Cunégon  02101  02101                % 02945 AVL---
+200423005 Pfaffenthal, Vauban   02102  02102                % 02945 AVL---
+200423003 Pfaffenthal, Théiwes  02103  02103                % 02945 AVL---
+200423007 Pfaffenthal, Halte C  02104  02104                % 02945 AVL---
+200423001 Pfaffenthal, Sichenh  02104  02104                % 02945 AVL---
+200423002 Pfaffenthal, Stade G  02105  02105                % 02945 AVL---
+200410003 Eich, Eecher Plaz     02106  02106                % 02945 AVL---
+200409005 Dommeldange, Contour  02108  02108                % 02945 AVL---
+200409011 Dommeldange, Van der  02109  02109                % 02945 AVL---
+200409003 Dommeldange, Château  02110  02110                % 02945 AVL---
+200409014 Luxembourg, Chingiz   02111  02111                % 02945 AVL---
+200402003 Beggen, Cyprien Merj  02113  02113                % 02945 AVL---
+200402004 Beggen, Henri Dunant  02114                       % 02945 AVL---
+*Z 02946 AVL---       004 030                               % 02946 AVL---
+*L 23       200405035 200402004  00851  00914               % 02946 AVL---
+*A BE 200405035 200402004 000018  00851  00914              % 02946 AVL---
+*R 1 200402004 200405035 200402004  00851  00914            % 02946 AVL---
+*G AVM 200405035 200402004  00851  00914                    % 02946 AVL---
+*A VE 200405035 200402004 000018  00851  00914              % 02946 AVL---
+200405035 Luxembourg, Gare Cen         00851                % 02946 AVL---
+200405026 Luxembourg/Centre, P  00853  00853                % 02946 AVL---
+200413001 Grund, Stadgronn-Bré  00856  00856                % 02946 AVL---
+200408006 Clausen, Rumm         00859  00859                % 02946 AVL---
+200408008 Clausen, Tour Jacob   00859  00859                % 02946 AVL---
+200408001 Clausen, Clausener B  00900  00900                % 02946 AVL---
+200408007 Clausen, Ste Cunégon  00901  00901                % 02946 AVL---
+200423005 Pfaffenthal, Vauban   00902  00902                % 02946 AVL---
+200423003 Pfaffenthal, Théiwes  00903  00903                % 02946 AVL---
+200423007 Pfaffenthal, Halte C  00904  00904                % 02946 AVL---
+200423001 Pfaffenthal, Sichenh  00904  00904                % 02946 AVL---
+200423002 Pfaffenthal, Stade G  00905  00905                % 02946 AVL---
+200410003 Eich, Eecher Plaz     00906  00906                % 02946 AVL---
+200409005 Dommeldange, Contour  00908  00908                % 02946 AVL---
+200409011 Dommeldange, Van der  00909  00909                % 02946 AVL---
+200409003 Dommeldange, Château  00910  00910                % 02946 AVL---
+200409014 Luxembourg, Chingiz   00911  00911                % 02946 AVL---
+200402003 Beggen, Cyprien Merj  00913  00913                % 02946 AVL---
+200402004 Beggen, Henri Dunant  00914                       % 02946 AVL---
+*Z 02947 AVL---                                             % 02947 AVL---
+*L 23       200402004 200405002  02004  02028               % 02947 AVL---
+*A BE 200402004 200405002 000014  02004  02028              % 02947 AVL---
+*R 2 200405002 200402004 200405002  02004  02028            % 02947 AVL---
+*G AVS 200402004 200405002  02004  02028                    % 02947 AVL---
+*A VE 200402004 200405002 000014  02004  02028              % 02947 AVL---
+200402004 Beggen, Henri Dunant         02004                % 02947 AVL---
+200402003 Beggen, Cyprien Merj  02005  02005                % 02947 AVL---
+200409014 Luxembourg, Chingiz   02007  02007                % 02947 AVL---
+200409003 Dommeldange, Château  02008  02008                % 02947 AVL---
+200409011 Dommeldange, Van der  02009  02009                % 02947 AVL---
+200409005 Dommeldange, Contour  02010  02010                % 02947 AVL---
+200410003 Eich, Eecher Plaz     02012  02012                % 02947 AVL---
+200423002 Pfaffenthal, Stade G  02014  02014                % 02947 AVL---
+200423001 Pfaffenthal, Sichenh  02014  02014                % 02947 AVL---
+200423007 Pfaffenthal, Halte C  02014  02014                % 02947 AVL---
+200423003 Pfaffenthal, Théiwes  02016  02016                % 02947 AVL---
+200423005 Pfaffenthal, Vauban   02016  02016                % 02947 AVL---
+200408007 Clausen, Ste Cunégon  02017  02017                % 02947 AVL---
+200408001 Clausen, Clausener B  02018  02018                % 02947 AVL---
+200408008 Clausen, Tour Jacob   02019  02019                % 02947 AVL---
+200408006 Clausen, Rumm         02019  02019                % 02947 AVL---
+200413001 Grund, Stadgronn-Bré  02022  02022                % 02947 AVL---
+200405026 Luxembourg/Centre, P  02026  02026                % 02947 AVL---
+200405002 Luxembourg, Gare Cen  02028                       % 02947 AVL---
+*Z 02948 AVL---       001 030                               % 02948 AVL---
+*L 23       200402004 200404027  00556  00635               % 02948 AVL---
+*A BE 200402004 200404027 000014  00556  00635              % 02948 AVL---
+*R 2 200404027 200402004 200404027  00556  00635            % 02948 AVL---
+*G AVS 200402004 200404027  00556  00635                    % 02948 AVL---
+*A VE 200402004 200404027 000014  00556  00635              % 02948 AVL---
+200402004 Beggen, Henri Dunant         00556                % 02948 AVL---
+200402003 Beggen, Cyprien Merj  00557  00557                % 02948 AVL---
+200409014 Luxembourg, Chingiz   00559  00559                % 02948 AVL---
+200409003 Dommeldange, Château  00600  00600                % 02948 AVL---
+200409011 Dommeldange, Van der  00601  00601                % 02948 AVL---
+200409005 Dommeldange, Contour  00602  00602                % 02948 AVL---
+200410003 Eich, Eecher Plaz     00604  00604                % 02948 AVL---
+200423002 Pfaffenthal, Stade G  00606  00606                % 02948 AVL---
+200423001 Pfaffenthal, Sichenh  00606  00606                % 02948 AVL---
+200423007 Pfaffenthal, Halte C  00606  00606                % 02948 AVL---
+200423003 Pfaffenthal, Théiwes  00608  00608                % 02948 AVL---
+200423005 Pfaffenthal, Vauban   00608  00608                % 02948 AVL---
+200408007 Clausen, Ste Cunégon  00609  00609                % 02948 AVL---
+200408001 Clausen, Clausener B  00610  00610                % 02948 AVL---
+200408008 Clausen, Tour Jacob   00611  00611                % 02948 AVL---
+200408006 Clausen, Rumm         00611  00611                % 02948 AVL---
+200413001 Grund, Stadgronn-Bré  00614  00614                % 02948 AVL---
+200405026 Luxembourg/Centre, P  00618  00618                % 02948 AVL---
+200405002 Luxembourg, Gare Cen  00620  00620                % 02948 AVL---
+200405003 Centre, Alsace        00621  00621                % 02948 AVL---
+200412007 Gasperich, Déportati  00623  00623                % 02948 AVL---
+200412020 Gasperich, Millewee   00624  00624                % 02948 AVL---
+200412005 Gasperich, Clemencea  00625  00625                % 02948 AVL---
+200412016 Gasperich, Richard W  00626  00626                % 02948 AVL---
+200412003 Gasperich, Bei der A  00627  00627                % 02948 AVL---
+200412001 Gasperich, Al Gasper  00628  00628                % 02948 AVL---
+200412011 Gasperich, Klensch    00628  00628                % 02948 AVL---
+200412013 Gasperich, Louis de   00629  00629                % 02948 AVL---
+002339018 François Hogenberg Q  00630  00630                % 02948 AVL---
+001433003 Charles Darwin        00631  00631                % 02948 AVL---
+200412025 Gasperich, Francopho  00632  00632                % 02948 AVL---
+200304010 Howald, Rangwee       00634  00634                % 02948 AVL---
+200404027 Bonnevoie, Lycée Tec  00635                       % 02948 AVL---
+*Z 02949 AVL---       038 020                               % 02949 AVL---
+*L 23       200402004 200404027  00642  00730               % 02949 AVL---
+*A BE 200402004 200404027 000014  00642  00730              % 02949 AVL---
+*R 2 200404027 200402004 200404027  00642  00730            % 02949 AVL---
+*G AVS 200402004 200404027  00642  00730                    % 02949 AVL---
+*A VE 200402004 200404027 000014  00642  00730              % 02949 AVL---
+200402004 Beggen, Henri Dunant         00642                % 02949 AVL---
+200402003 Beggen, Cyprien Merj  00644  00644                % 02949 AVL---
+200409014 Luxembourg, Chingiz   00645  00645                % 02949 AVL---
+200409003 Dommeldange, Château  00647  00647                % 02949 AVL---
+200409011 Dommeldange, Van der  00648  00648                % 02949 AVL---
+200409005 Dommeldange, Contour  00649  00649                % 02949 AVL---
+200410003 Eich, Eecher Plaz     00652  00652                % 02949 AVL---
+200423002 Pfaffenthal, Stade G  00654  00654                % 02949 AVL---
+200423001 Pfaffenthal, Sichenh  00655  00655                % 02949 AVL---
+200423007 Pfaffenthal, Halte C  00655  00655                % 02949 AVL---
+200423003 Pfaffenthal, Théiwes  00656  00656                % 02949 AVL---
+200423005 Pfaffenthal, Vauban   00657  00657                % 02949 AVL---
+200408007 Clausen, Ste Cunégon  00658  00658                % 02949 AVL---
+200408001 Clausen, Clausener B  00659  00659                % 02949 AVL---
+200408008 Clausen, Tour Jacob   00700  00700                % 02949 AVL---
+200408006 Clausen, Rumm         00701  00701                % 02949 AVL---
+200413001 Grund, Stadgronn-Bré  00704  00704                % 02949 AVL---
+200405026 Luxembourg/Centre, P  00708  00708                % 02949 AVL---
+200405002 Luxembourg, Gare Cen  00711  00711                % 02949 AVL---
+200405003 Centre, Alsace        00713  00713                % 02949 AVL---
+200412007 Gasperich, Déportati  00714  00714                % 02949 AVL---
+200412020 Gasperich, Millewee   00715  00715                % 02949 AVL---
+200412005 Gasperich, Clemencea  00717  00717                % 02949 AVL---
+200412016 Gasperich, Richard W  00718  00718                % 02949 AVL---
+200412003 Gasperich, Bei der A  00719  00719                % 02949 AVL---
+200412001 Gasperich, Al Gasper  00720  00720                % 02949 AVL---
+200412011 Gasperich, Klensch    00721  00721                % 02949 AVL---
+200412013 Gasperich, Louis de   00722  00722                % 02949 AVL---
+002339018 François Hogenberg Q  00723  00723                % 02949 AVL---
+001433003 Charles Darwin        00724  00724                % 02949 AVL---
+200412025 Gasperich, Francopho  00726  00726                % 02949 AVL---
+200304010 Howald, Rangwee       00729  00729                % 02949 AVL---
+200404027 Bonnevoie, Lycée Tec  00730                       % 02949 AVL---
+*Z 02950 AVL---                                             % 02950 AVL---
+*L 23       200402004 200404027  01941  02029               % 02950 AVL---
+*A BE 200402004 200404027 000014  01941  02029              % 02950 AVL---
+*R 2 200404027 200402004 200404027  01941  02029            % 02950 AVL---
+*G AVS 200402004 200404027  01941  02029                    % 02950 AVL---
+*A VE 200402004 200404027 000014  01941  02029              % 02950 AVL---
+200402004 Beggen, Henri Dunant         01941                % 02950 AVL---
+200402003 Beggen, Cyprien Merj  01943  01943                % 02950 AVL---
+200409014 Luxembourg, Chingiz   01944  01944                % 02950 AVL---
+200409003 Dommeldange, Château  01946  01946                % 02950 AVL---
+200409011 Dommeldange, Van der  01947  01947                % 02950 AVL---
+200409005 Dommeldange, Contour  01948  01948                % 02950 AVL---
+200410003 Eich, Eecher Plaz     01951  01951                % 02950 AVL---
+200423002 Pfaffenthal, Stade G  01953  01953                % 02950 AVL---
+200423001 Pfaffenthal, Sichenh  01954  01954                % 02950 AVL---
+200423007 Pfaffenthal, Halte C  01954  01954                % 02950 AVL---
+200423003 Pfaffenthal, Théiwes  01955  01955                % 02950 AVL---
+200423005 Pfaffenthal, Vauban   01956  01956                % 02950 AVL---
+200408007 Clausen, Ste Cunégon  01957  01957                % 02950 AVL---
+200408001 Clausen, Clausener B  01958  01958                % 02950 AVL---
+200408008 Clausen, Tour Jacob   01959  01959                % 02950 AVL---
+200408006 Clausen, Rumm         02000  02000                % 02950 AVL---
+200413001 Grund, Stadgronn-Bré  02003  02003                % 02950 AVL---
+200405026 Luxembourg/Centre, P  02007  02007                % 02950 AVL---
+200405002 Luxembourg, Gare Cen  02010  02010                % 02950 AVL---
+200405003 Centre, Alsace        02012  02012                % 02950 AVL---
+200412007 Gasperich, Déportati  02013  02013                % 02950 AVL---
+200412020 Gasperich, Millewee   02014  02014                % 02950 AVL---
+200412005 Gasperich, Clemencea  02016  02016                % 02950 AVL---
+200412016 Gasperich, Richard W  02017  02017                % 02950 AVL---
+200412003 Gasperich, Bei der A  02018  02018                % 02950 AVL---
+200412001 Gasperich, Al Gasper  02019  02019                % 02950 AVL---
+200412011 Gasperich, Klensch    02020  02020                % 02950 AVL---
+200412013 Gasperich, Louis de   02021  02021                % 02950 AVL---
+002339018 François Hogenberg Q  02022  02022                % 02950 AVL---
+001433003 Charles Darwin        02023  02023                % 02950 AVL---
+200412025 Gasperich, Francopho  02025  02025                % 02950 AVL---
+200304010 Howald, Rangwee       02028  02028                % 02950 AVL---
+200404027 Bonnevoie, Lycée Tec  02029                       % 02950 AVL---
+*Z 02951 AVL---       003 030                               % 02951 AVL---
+*L 23       200402004 200405035  00549  00613               % 02951 AVL---
+*A BE 200402004 200405035 000023  00549  00613              % 02951 AVL---
+*R 2 200405035 200402004 200405035  00549  00613            % 02951 AVL---
+*G AVM 200402004 200405035  00549  00613                    % 02951 AVL---
+*A VE 200402004 200405035 000023  00549  00613              % 02951 AVL---
+200402004 Beggen, Henri Dunant         00549                % 02951 AVL---
+200402003 Beggen, Cyprien Merj  00550  00550                % 02951 AVL---
+200409014 Luxembourg, Chingiz   00552  00552                % 02951 AVL---
+200409003 Dommeldange, Château  00553  00553                % 02951 AVL---
+200409011 Dommeldange, Van der  00554  00554                % 02951 AVL---
+200409005 Dommeldange, Contour  00555  00555                % 02951 AVL---
+200410003 Eich, Eecher Plaz     00557  00557                % 02951 AVL---
+200423002 Pfaffenthal, Stade G  00559  00559                % 02951 AVL---
+200423001 Pfaffenthal, Sichenh  00559  00559                % 02951 AVL---
+200423007 Pfaffenthal, Halte C  00559  00559                % 02951 AVL---
+200423003 Pfaffenthal, Théiwes  00601  00601                % 02951 AVL---
+200423005 Pfaffenthal, Vauban   00601  00601                % 02951 AVL---
+200408007 Clausen, Ste Cunégon  00602  00602                % 02951 AVL---
+200408001 Clausen, Clausener B  00603  00603                % 02951 AVL---
+200408008 Clausen, Tour Jacob   00604  00604                % 02951 AVL---
+200408006 Clausen, Rumm         00604  00604                % 02951 AVL---
+200413001 Grund, Stadgronn-Bré  00607  00607                % 02951 AVL---
+200405026 Luxembourg/Centre, P  00611  00611                % 02951 AVL---
+200405035 Luxembourg, Gare Cen  00613                       % 02951 AVL---
+*Z 02952 AVL---                                             % 02952 AVL---
+*L 23       200402004 200405035  00516  00540               % 02952 AVL---
+*A BE 200402004 200405035 000014  00516  00540              % 02952 AVL---
+*R 2 200405035 200402004 200405035  00516  00540            % 02952 AVL---
+*G AVS 200402004 200405035  00516  00540                    % 02952 AVL---
+*A VE 200402004 200405035 000014  00516  00540              % 02952 AVL---
+200402004 Beggen, Henri Dunant         00516                % 02952 AVL---
+200402003 Beggen, Cyprien Merj  00517  00517                % 02952 AVL---
+200409014 Luxembourg, Chingiz   00519  00519                % 02952 AVL---
+200409003 Dommeldange, Château  00520  00520                % 02952 AVL---
+200409011 Dommeldange, Van der  00521  00521                % 02952 AVL---
+200409005 Dommeldange, Contour  00522  00522                % 02952 AVL---
+200410003 Eich, Eecher Plaz     00524  00524                % 02952 AVL---
+200423002 Pfaffenthal, Stade G  00526  00526                % 02952 AVL---
+200423001 Pfaffenthal, Sichenh  00526  00526                % 02952 AVL---
+200423007 Pfaffenthal, Halte C  00526  00526                % 02952 AVL---
+200423003 Pfaffenthal, Théiwes  00528  00528                % 02952 AVL---
+200423005 Pfaffenthal, Vauban   00528  00528                % 02952 AVL---
+200408007 Clausen, Ste Cunégon  00529  00529                % 02952 AVL---
+200408001 Clausen, Clausener B  00530  00530                % 02952 AVL---
+200408008 Clausen, Tour Jacob   00531  00531                % 02952 AVL---
+200408006 Clausen, Rumm         00531  00531                % 02952 AVL---
+200413001 Grund, Stadgronn-Bré  00534  00534                % 02952 AVL---
+200405026 Luxembourg/Centre, P  00538  00538                % 02952 AVL---
+200405035 Luxembourg, Gare Cen  00540                       % 02952 AVL---
+*Z 02953 AVL---       004 030                               % 02953 AVL---
+*L 23       200402004 200405035  02019  02043               % 02953 AVL---
+*A BE 200402004 200405035 000047  02019  02043              % 02953 AVL---
+*R 2 200405035 200402004 200405035  02019  02043            % 02953 AVL---
+*G AVM 200402004 200405035  02019  02043                    % 02953 AVL---
+*A VE 200402004 200405035 000047  02019  02043              % 02953 AVL---
+200402004 Beggen, Henri Dunant         02019                % 02953 AVL---
+200402003 Beggen, Cyprien Merj  02020  02020                % 02953 AVL---
+200409014 Luxembourg, Chingiz   02022  02022                % 02953 AVL---
+200409003 Dommeldange, Château  02023  02023                % 02953 AVL---
+200409011 Dommeldange, Van der  02024  02024                % 02953 AVL---
+200409005 Dommeldange, Contour  02025  02025                % 02953 AVL---
+200410003 Eich, Eecher Plaz     02027  02027                % 02953 AVL---
+200423002 Pfaffenthal, Stade G  02029  02029                % 02953 AVL---
+200423001 Pfaffenthal, Sichenh  02029  02029                % 02953 AVL---
+200423007 Pfaffenthal, Halte C  02029  02029                % 02953 AVL---
+200423003 Pfaffenthal, Théiwes  02031  02031                % 02953 AVL---
+200423005 Pfaffenthal, Vauban   02031  02031                % 02953 AVL---
+200408007 Clausen, Ste Cunégon  02032  02032                % 02953 AVL---
+200408001 Clausen, Clausener B  02033  02033                % 02953 AVL---
+200408008 Clausen, Tour Jacob   02034  02034                % 02953 AVL---
+200408006 Clausen, Rumm         02034  02034                % 02953 AVL---
+200413001 Grund, Stadgronn-Bré  02037  02037                % 02953 AVL---
+200405026 Luxembourg/Centre, P  02041  02041                % 02953 AVL---
+200405035 Luxembourg, Gare Cen  02043                       % 02953 AVL---
+*Z 02954 AVL---       004 030                               % 02954 AVL---
+*L 23       200402004 200405035  00849  00913               % 02954 AVL---
+*A BE 200402004 200405035 000018  00849  00913              % 02954 AVL---
+*R 2 200405035 200402004 200405035  00849  00913            % 02954 AVL---
+*G AVM 200402004 200405035  00849  00913                    % 02954 AVL---
+*A VE 200402004 200405035 000018  00849  00913              % 02954 AVL---
+200402004 Beggen, Henri Dunant         00849                % 02954 AVL---
+200402003 Beggen, Cyprien Merj  00850  00850                % 02954 AVL---
+200409014 Luxembourg, Chingiz   00852  00852                % 02954 AVL---
+200409003 Dommeldange, Château  00853  00853                % 02954 AVL---
+200409011 Dommeldange, Van der  00854  00854                % 02954 AVL---
+200409005 Dommeldange, Contour  00855  00855                % 02954 AVL---
+200410003 Eich, Eecher Plaz     00857  00857                % 02954 AVL---
+200423002 Pfaffenthal, Stade G  00859  00859                % 02954 AVL---
+200423001 Pfaffenthal, Sichenh  00859  00859                % 02954 AVL---
+200423007 Pfaffenthal, Halte C  00859  00859                % 02954 AVL---
+200423003 Pfaffenthal, Théiwes  00901  00901                % 02954 AVL---
+200423005 Pfaffenthal, Vauban   00901  00901                % 02954 AVL---
+200408007 Clausen, Ste Cunégon  00902  00902                % 02954 AVL---
+200408001 Clausen, Clausener B  00903  00903                % 02954 AVL---
+200408008 Clausen, Tour Jacob   00904  00904                % 02954 AVL---
+200408006 Clausen, Rumm         00904  00904                % 02954 AVL---
+200413001 Grund, Stadgronn-Bré  00907  00907                % 02954 AVL---
+200405026 Luxembourg/Centre, P  00911  00911                % 02954 AVL---
+200405035 Luxembourg, Gare Cen  00913                       % 02954 AVL---
+*Z 02955 AVL---                                             % 02955 AVL---
+*L 23       200402004 200405035  01949  02013               % 02955 AVL---
+*A BE 200402004 200405035 000018  01949  02013              % 02955 AVL---
+*R 2 200405035 200402004 200405035  01949  02013            % 02955 AVL---
+*G AVM 200402004 200405035  01949  02013                    % 02955 AVL---
+*A VE 200402004 200405035 000018  01949  02013              % 02955 AVL---
+200402004 Beggen, Henri Dunant         01949                % 02955 AVL---
+200402003 Beggen, Cyprien Merj  01950  01950                % 02955 AVL---
+200409014 Luxembourg, Chingiz   01952  01952                % 02955 AVL---
+200409003 Dommeldange, Château  01953  01953                % 02955 AVL---
+200409011 Dommeldange, Van der  01954  01954                % 02955 AVL---
+200409005 Dommeldange, Contour  01955  01955                % 02955 AVL---
+200410003 Eich, Eecher Plaz     01957  01957                % 02955 AVL---
+200423002 Pfaffenthal, Stade G  01959  01959                % 02955 AVL---
+200423001 Pfaffenthal, Sichenh  01959  01959                % 02955 AVL---
+200423007 Pfaffenthal, Halte C  01959  01959                % 02955 AVL---
+200423003 Pfaffenthal, Théiwes  02001  02001                % 02955 AVL---
+200423005 Pfaffenthal, Vauban   02001  02001                % 02955 AVL---
+200408007 Clausen, Ste Cunégon  02002  02002                % 02955 AVL---
+200408001 Clausen, Clausener B  02003  02003                % 02955 AVL---
+200408008 Clausen, Tour Jacob   02004  02004                % 02955 AVL---
+200408006 Clausen, Rumm         02004  02004                % 02955 AVL---
+200413001 Grund, Stadgronn-Bré  02007  02007                % 02955 AVL---
+200405026 Luxembourg/Centre, P  02011  02011                % 02955 AVL---
+200405035 Luxembourg, Gare Cen  02013                       % 02955 AVL---
+*Z 02956 AVL---       024 030                               % 02956 AVL---
+*L 23       200402004 200405035  00748  00812               % 02956 AVL---
+*A BE 200402004 200405035 000023  00748  00812              % 02956 AVL---
+*R 2 200405035 200402004 200405035  00748  00812            % 02956 AVL---
+*G AVM 200402004 200405035  00748  00812                    % 02956 AVL---
+*A VE 200402004 200405035 000023  00748  00812              % 02956 AVL---
+200402004 Beggen, Henri Dunant         00748                % 02956 AVL---
+200402003 Beggen, Cyprien Merj  00749  00749                % 02956 AVL---
+200409014 Luxembourg, Chingiz   00750  00750                % 02956 AVL---
+200409003 Dommeldange, Château  00752  00752                % 02956 AVL---
+200409011 Dommeldange, Van der  00753  00753                % 02956 AVL---
+200409005 Dommeldange, Contour  00754  00754                % 02956 AVL---
+200410003 Eich, Eecher Plaz     00756  00756                % 02956 AVL---
+200423002 Pfaffenthal, Stade G  00757  00757                % 02956 AVL---
+200423001 Pfaffenthal, Sichenh  00758  00758                % 02956 AVL---
+200423007 Pfaffenthal, Halte C  00758  00758                % 02956 AVL---
+200423003 Pfaffenthal, Théiwes  00759  00759                % 02956 AVL---
+200423005 Pfaffenthal, Vauban   00800  00800                % 02956 AVL---
+200408007 Clausen, Ste Cunégon  00801  00801                % 02956 AVL---
+200408001 Clausen, Clausener B  00802  00802                % 02956 AVL---
+200408008 Clausen, Tour Jacob   00803  00803                % 02956 AVL---
+200408006 Clausen, Rumm         00803  00803                % 02956 AVL---
+200413001 Grund, Stadgronn-Bré  00806  00806                % 02956 AVL---
+200405026 Luxembourg/Centre, P  00810  00810                % 02956 AVL---
+200405035 Luxembourg, Gare Cen  00812                       % 02956 AVL---
+*Z 02957 AVL---       016 030                               % 02957 AVL---
+*L 23       200402004 200405035  01119  01143               % 02957 AVL---
+*A BE 200402004 200405035 000018  01119  01143              % 02957 AVL---
+*R 2 200405035 200402004 200405035  01119  01143            % 02957 AVL---
+*G AVM 200402004 200405035  01119  01143                    % 02957 AVL---
+*A VE 200402004 200405035 000018  01119  01143              % 02957 AVL---
+200402004 Beggen, Henri Dunant         01119                % 02957 AVL---
+200402003 Beggen, Cyprien Merj  01120  01120                % 02957 AVL---
+200409014 Luxembourg, Chingiz   01121  01121                % 02957 AVL---
+200409003 Dommeldange, Château  01123  01123                % 02957 AVL---
+200409011 Dommeldange, Van der  01124  01124                % 02957 AVL---
+200409005 Dommeldange, Contour  01125  01125                % 02957 AVL---
+200410003 Eich, Eecher Plaz     01127  01127                % 02957 AVL---
+200423002 Pfaffenthal, Stade G  01128  01128                % 02957 AVL---
+200423001 Pfaffenthal, Sichenh  01129  01129                % 02957 AVL---
+200423007 Pfaffenthal, Halte C  01129  01129                % 02957 AVL---
+200423003 Pfaffenthal, Théiwes  01130  01130                % 02957 AVL---
+200423005 Pfaffenthal, Vauban   01131  01131                % 02957 AVL---
+200408007 Clausen, Ste Cunégon  01132  01132                % 02957 AVL---
+200408001 Clausen, Clausener B  01133  01133                % 02957 AVL---
+200408008 Clausen, Tour Jacob   01134  01134                % 02957 AVL---
+200408006 Clausen, Rumm         01134  01134                % 02957 AVL---
+200413001 Grund, Stadgronn-Bré  01137  01137                % 02957 AVL---
+200405026 Luxembourg/Centre, P  01141  01141                % 02957 AVL---
+200405035 Luxembourg, Gare Cen  01143                       % 02957 AVL---
+*Z 02958 AVL---                                             % 02958 AVL---
+*L 23       200404027 200405035  02003  02020               % 02958 AVL---
+*A BE 200404027 200405035 000013  02003  02020              % 02958 AVL---
+*R 1 200405035 200404027 200405035  02003  02020            % 02958 AVL---
+*G AVS 200404027 200405035  02003  02020                    % 02958 AVL---
+*A VE 200404027 200405035 000013  02003  02020              % 02958 AVL---
+200404027 Bonnevoie, Lycée Tec         02003                % 02958 AVL---
+200404028 Bonnevoie, Neufchâte  02004  02004                % 02958 AVL---
+200304010 Howald, Rangwee       02004  02004                % 02958 AVL---
+200412025 Gasperich, Francopho  02007  02007                % 02958 AVL---
+001433004 Charles Darwin        02008  02008                % 02958 AVL---
+002339011 François Hogenberg Q  02008  02008                % 02958 AVL---
+200412013 Gasperich, Louis de   02009  02009                % 02958 AVL---
+200412011 Gasperich, Klensch    02010  02010                % 02958 AVL---
+200412001 Gasperich, Al Gasper  02011  02011                % 02958 AVL---
+200412003 Gasperich, Bei der A  02012  02012                % 02958 AVL---
+200412005 Gasperich, Clemencea  02012  02012                % 02958 AVL---
+200412016 Gasperich, Richard W  02014  02014                % 02958 AVL---
+200412020 Gasperich, Millewee   02015  02015                % 02958 AVL---
+200412007 Gasperich, Déportati  02016  02016                % 02958 AVL---
+200405003 Centre, Alsace        02017  02017                % 02958 AVL---
+200405035 Luxembourg, Gare Cen  02020                       % 02958 AVL---
+*Z 02959 AVL---       001 020                               % 02959 AVL---
+*L 23       200404027 200402004  00613  00653               % 02959 AVL---
+*A BE 200404027 200402004 000013  00613  00653              % 02959 AVL---
+*R 1 200402004 200404027 200402004  00613  00653            % 02959 AVL---
+*G AVS 200404027 200402004  00613  00653                    % 02959 AVL---
+*A VE 200404027 200402004 000013  00613  00653              % 02959 AVL---
+200404027 Bonnevoie, Lycée Tec         00613                % 02959 AVL---
+200404028 Bonnevoie, Neufchâte  00614  00614                % 02959 AVL---
+200304010 Howald, Rangwee       00614  00614                % 02959 AVL---
+200412025 Gasperich, Francopho  00617  00617                % 02959 AVL---
+001433004 Charles Darwin        00618  00618                % 02959 AVL---
+002339011 François Hogenberg Q  00618  00618                % 02959 AVL---
+200412013 Gasperich, Louis de   00619  00619                % 02959 AVL---
+200412011 Gasperich, Klensch    00620  00620                % 02959 AVL---
+200412001 Gasperich, Al Gasper  00621  00621                % 02959 AVL---
+200412003 Gasperich, Bei der A  00622  00622                % 02959 AVL---
+200412005 Gasperich, Clemencea  00622  00622                % 02959 AVL---
+200412016 Gasperich, Richard W  00624  00624                % 02959 AVL---
+200412020 Gasperich, Millewee   00625  00625                % 02959 AVL---
+200412007 Gasperich, Déportati  00626  00626                % 02959 AVL---
+200405003 Centre, Alsace        00627  00627                % 02959 AVL---
+200405035 Luxembourg, Gare Cen  00630  00630                % 02959 AVL---
+200405026 Luxembourg/Centre, P  00632  00632                % 02959 AVL---
+200413001 Grund, Stadgronn-Bré  00635  00635                % 02959 AVL---
+200408006 Clausen, Rumm         00638  00638                % 02959 AVL---
+200408008 Clausen, Tour Jacob   00638  00638                % 02959 AVL---
+200408001 Clausen, Clausener B  00639  00639                % 02959 AVL---
+200408007 Clausen, Ste Cunégon  00640  00640                % 02959 AVL---
+200423005 Pfaffenthal, Vauban   00641  00641                % 02959 AVL---
+200423003 Pfaffenthal, Théiwes  00642  00642                % 02959 AVL---
+200423007 Pfaffenthal, Halte C  00643  00643                % 02959 AVL---
+200423001 Pfaffenthal, Sichenh  00643  00643                % 02959 AVL---
+200423002 Pfaffenthal, Stade G  00644  00644                % 02959 AVL---
+200410003 Eich, Eecher Plaz     00645  00645                % 02959 AVL---
+200409005 Dommeldange, Contour  00647  00647                % 02959 AVL---
+200409011 Dommeldange, Van der  00648  00648                % 02959 AVL---
+200409003 Dommeldange, Château  00649  00649                % 02959 AVL---
+200409014 Luxembourg, Chingiz   00650  00650                % 02959 AVL---
+200402003 Beggen, Cyprien Merj  00652  00652                % 02959 AVL---
+200402004 Beggen, Henri Dunant  00653                       % 02959 AVL---
+*Z 02960 AVL---       001 030                               % 02960 AVL---
+*L 23       200405035 200410003  02221  02236               % 02960 AVL---
+*A BE 200405035 200410003 000046  02221  02236              % 02960 AVL---
+*R 1 200410003 200405035 200410003  02221  02236            % 02960 AVL---
+*G AVM 200405035 200410003  02221  02236                    % 02960 AVL---
+*A VE 200405035 200410003 000046  02221  02236              % 02960 AVL---
+200405035 Luxembourg, Gare Cen         02221                % 02960 AVL---
+200405026 Luxembourg/Centre, P  02223  02223                % 02960 AVL---
+200413001 Grund, Stadgronn-Bré  02226  02226                % 02960 AVL---
+200408006 Clausen, Rumm         02229  02229                % 02960 AVL---
+200408008 Clausen, Tour Jacob   02229  02229                % 02960 AVL---
+200408001 Clausen, Clausener B  02230  02230                % 02960 AVL---
+200408007 Clausen, Ste Cunégon  02231  02231                % 02960 AVL---
+200423005 Pfaffenthal, Vauban   02232  02232                % 02960 AVL---
+200423003 Pfaffenthal, Théiwes  02233  02233                % 02960 AVL---
+200423007 Pfaffenthal, Halte C  02234  02234                % 02960 AVL---
+200423001 Pfaffenthal, Sichenh  02234  02234                % 02960 AVL---
+200423002 Pfaffenthal, Stade G  02235  02235                % 02960 AVL---
+200410003 Eich, Eecher Plaz     02236                       % 02960 AVL---
+*Z 02961 AVL---                                             % 02961 AVL---
+*L 23       200405035 200402004  02021  02044               % 02961 AVL---
+*A BE 200405035 200402004 000010  02021  02044              % 02961 AVL---
+*R 1 200402004 200405035 200402004  02021  02044            % 02961 AVL---
+*G AVM 200405035 200402004  02021  02044                    % 02961 AVL---
+*A VE 200405035 200402004 000010  02021  02044              % 02961 AVL---
+200405035 Luxembourg, Gare Cen         02021                % 02961 AVL---
+200405026 Luxembourg/Centre, P  02023  02023                % 02961 AVL---
+200413001 Grund, Stadgronn-Bré  02026  02026                % 02961 AVL---
+200408006 Clausen, Rumm         02029  02029                % 02961 AVL---
+200408008 Clausen, Tour Jacob   02029  02029                % 02961 AVL---
+200408001 Clausen, Clausener B  02030  02030                % 02961 AVL---
+200408007 Clausen, Ste Cunégon  02031  02031                % 02961 AVL---
+200423005 Pfaffenthal, Vauban   02032  02032                % 02961 AVL---
+200423003 Pfaffenthal, Théiwes  02033  02033                % 02961 AVL---
+200423007 Pfaffenthal, Halte C  02034  02034                % 02961 AVL---
+200423001 Pfaffenthal, Sichenh  02034  02034                % 02961 AVL---
+200423002 Pfaffenthal, Stade G  02035  02035                % 02961 AVL---
+200410003 Eich, Eecher Plaz     02036  02036                % 02961 AVL---
+200409005 Dommeldange, Contour  02038  02038                % 02961 AVL---
+200409011 Dommeldange, Van der  02039  02039                % 02961 AVL---
+200409003 Dommeldange, Château  02040  02040                % 02961 AVL---
+200409014 Luxembourg, Chingiz   02041  02041                % 02961 AVL---
+200402003 Beggen, Cyprien Merj  02043  02043                % 02961 AVL---
+200402004 Beggen, Henri Dunant  02044                       % 02961 AVL---
+*Z 02962 AVL---       004 030                               % 02962 AVL---
+*L 23       200405035 200402004  00551  00614               % 02962 AVL---
+*A BE 200405035 200402004 000022  00551  00614              % 02962 AVL---
+*R 1 200402004 200405035 200402004  00551  00614            % 02962 AVL---
+*G AVM 200405035 200402004  00551  00614                    % 02962 AVL---
+*A VE 200405035 200402004 000022  00551  00614              % 02962 AVL---
+200405035 Luxembourg, Gare Cen         00551                % 02962 AVL---
+200405026 Luxembourg/Centre, P  00553  00553                % 02962 AVL---
+200413001 Grund, Stadgronn-Bré  00556  00556                % 02962 AVL---
+200408006 Clausen, Rumm         00559  00559                % 02962 AVL---
+200408008 Clausen, Tour Jacob   00559  00559                % 02962 AVL---
+200408001 Clausen, Clausener B  00600  00600                % 02962 AVL---
+200408007 Clausen, Ste Cunégon  00601  00601                % 02962 AVL---
+200423005 Pfaffenthal, Vauban   00602  00602                % 02962 AVL---
+200423003 Pfaffenthal, Théiwes  00603  00603                % 02962 AVL---
+200423007 Pfaffenthal, Halte C  00604  00604                % 02962 AVL---
+200423001 Pfaffenthal, Sichenh  00604  00604                % 02962 AVL---
+200423002 Pfaffenthal, Stade G  00605  00605                % 02962 AVL---
+200410003 Eich, Eecher Plaz     00606  00606                % 02962 AVL---
+200409005 Dommeldange, Contour  00608  00608                % 02962 AVL---
+200409011 Dommeldange, Van der  00609  00609                % 02962 AVL---
+200409003 Dommeldange, Château  00610  00610                % 02962 AVL---
+200409014 Luxembourg, Chingiz   00611  00611                % 02962 AVL---
+200402003 Beggen, Cyprien Merj  00613  00613                % 02962 AVL---
+200402004 Beggen, Henri Dunant  00614                       % 02962 AVL---
+*Z 02963 AVL---                                             % 02963 AVL---
+*L 23       200405035 200402004  01949  02012               % 02963 AVL---
+*A BE 200405035 200402004 000013  01949  02012              % 02963 AVL---
+*R 1 200402004 200405035 200402004  01949  02012            % 02963 AVL---
+*G AVM 200405035 200402004  01949  02012                    % 02963 AVL---
+*A VE 200405035 200402004 000013  01949  02012              % 02963 AVL---
+200405035 Luxembourg, Gare Cen         01949                % 02963 AVL---
+200405026 Luxembourg/Centre, P  01951  01951                % 02963 AVL---
+200413001 Grund, Stadgronn-Bré  01954  01954                % 02963 AVL---
+200408006 Clausen, Rumm         01957  01957                % 02963 AVL---
+200408008 Clausen, Tour Jacob   01957  01957                % 02963 AVL---
+200408001 Clausen, Clausener B  01958  01958                % 02963 AVL---
+200408007 Clausen, Ste Cunégon  01959  01959                % 02963 AVL---
+200423005 Pfaffenthal, Vauban   02000  02000                % 02963 AVL---
+200423003 Pfaffenthal, Théiwes  02001  02001                % 02963 AVL---
+200423007 Pfaffenthal, Halte C  02002  02002                % 02963 AVL---
+200423001 Pfaffenthal, Sichenh  02002  02002                % 02963 AVL---
+200423002 Pfaffenthal, Stade G  02003  02003                % 02963 AVL---
+200410003 Eich, Eecher Plaz     02004  02004                % 02963 AVL---
+200409005 Dommeldange, Contour  02006  02006                % 02963 AVL---
+200409011 Dommeldange, Van der  02007  02007                % 02963 AVL---
+200409003 Dommeldange, Château  02008  02008                % 02963 AVL---
+200409014 Luxembourg, Chingiz   02009  02009                % 02963 AVL---
+200402003 Beggen, Cyprien Merj  02011  02011                % 02963 AVL---
+200402004 Beggen, Henri Dunant  02012                       % 02963 AVL---
+*Z 02964 AVL---       001 020                               % 02964 AVL---
+*L 23       200405035 200402004  00551  00614               % 02964 AVL---
+*A BE 200405035 200402004 000013  00551  00614              % 02964 AVL---
+*R 1 200402004 200405035 200402004  00551  00614            % 02964 AVL---
+*G AVS 200405035 200402004  00551  00614                    % 02964 AVL---
+*A VE 200405035 200402004 000013  00551  00614              % 02964 AVL---
+200405035 Luxembourg, Gare Cen         00551                % 02964 AVL---
+200405026 Luxembourg/Centre, P  00553  00553                % 02964 AVL---
+200413001 Grund, Stadgronn-Bré  00556  00556                % 02964 AVL---
+200408006 Clausen, Rumm         00559  00559                % 02964 AVL---
+200408008 Clausen, Tour Jacob   00559  00559                % 02964 AVL---
+200408001 Clausen, Clausener B  00600  00600                % 02964 AVL---
+200408007 Clausen, Ste Cunégon  00601  00601                % 02964 AVL---
+200423005 Pfaffenthal, Vauban   00602  00602                % 02964 AVL---
+200423003 Pfaffenthal, Théiwes  00603  00603                % 02964 AVL---
+200423007 Pfaffenthal, Halte C  00604  00604                % 02964 AVL---
+200423001 Pfaffenthal, Sichenh  00604  00604                % 02964 AVL---
+200423002 Pfaffenthal, Stade G  00605  00605                % 02964 AVL---
+200410003 Eich, Eecher Plaz     00606  00606                % 02964 AVL---
+200409005 Dommeldange, Contour  00608  00608                % 02964 AVL---
+200409011 Dommeldange, Van der  00609  00609                % 02964 AVL---
+200409003 Dommeldange, Château  00610  00610                % 02964 AVL---
+200409014 Luxembourg, Chingiz   00611  00611                % 02964 AVL---
+200402003 Beggen, Cyprien Merj  00613  00613                % 02964 AVL---
+200402004 Beggen, Henri Dunant  00614                       % 02964 AVL---
+*Z 02965 AVL---       004 030                               % 02965 AVL---
+*L 23       200405035 200402004  00851  00914               % 02965 AVL---
+*A BE 200405035 200402004 000017  00851  00914              % 02965 AVL---
+*R 1 200402004 200405035 200402004  00851  00914            % 02965 AVL---
+*G AVM 200405035 200402004  00851  00914                    % 02965 AVL---
+*A VE 200405035 200402004 000017  00851  00914              % 02965 AVL---
+200405035 Luxembourg, Gare Cen         00851                % 02965 AVL---
+200405026 Luxembourg/Centre, P  00853  00853                % 02965 AVL---
+200413001 Grund, Stadgronn-Bré  00856  00856                % 02965 AVL---
+200408006 Clausen, Rumm         00859  00859                % 02965 AVL---
+200408008 Clausen, Tour Jacob   00859  00859                % 02965 AVL---
+200408001 Clausen, Clausener B  00900  00900                % 02965 AVL---
+200408007 Clausen, Ste Cunégon  00901  00901                % 02965 AVL---
+200423005 Pfaffenthal, Vauban   00902  00902                % 02965 AVL---
+200423003 Pfaffenthal, Théiwes  00903  00903                % 02965 AVL---
+200423007 Pfaffenthal, Halte C  00904  00904                % 02965 AVL---
+200423001 Pfaffenthal, Sichenh  00904  00904                % 02965 AVL---
+200423002 Pfaffenthal, Stade G  00905  00905                % 02965 AVL---
+200410003 Eich, Eecher Plaz     00906  00906                % 02965 AVL---
+200409005 Dommeldange, Contour  00908  00908                % 02965 AVL---
+200409011 Dommeldange, Van der  00909  00909                % 02965 AVL---
+200409003 Dommeldange, Château  00910  00910                % 02965 AVL---
+200409014 Luxembourg, Chingiz   00911  00911                % 02965 AVL---
+200402003 Beggen, Cyprien Merj  00913  00913                % 02965 AVL---
+200402004 Beggen, Henri Dunant  00914                       % 02965 AVL---
+*Z 02966 AVL---       002 030                               % 02966 AVL---
+*L 23       200405035 200402004  02051  02114               % 02966 AVL---
+*A BE 200405035 200402004 000046  02051  02114              % 02966 AVL---
+*R 1 200402004 200405035 200402004  02051  02114            % 02966 AVL---
+*G AVM 200405035 200402004  02051  02114                    % 02966 AVL---
+*A VE 200405035 200402004 000046  02051  02114              % 02966 AVL---
+200405035 Luxembourg, Gare Cen         02051                % 02966 AVL---
+200405026 Luxembourg/Centre, P  02053  02053                % 02966 AVL---
+200413001 Grund, Stadgronn-Bré  02056  02056                % 02966 AVL---
+200408006 Clausen, Rumm         02059  02059                % 02966 AVL---
+200408008 Clausen, Tour Jacob   02059  02059                % 02966 AVL---
+200408001 Clausen, Clausener B  02100  02100                % 02966 AVL---
+200408007 Clausen, Ste Cunégon  02101  02101                % 02966 AVL---
+200423005 Pfaffenthal, Vauban   02102  02102                % 02966 AVL---
+200423003 Pfaffenthal, Théiwes  02103  02103                % 02966 AVL---
+200423007 Pfaffenthal, Halte C  02104  02104                % 02966 AVL---
+200423001 Pfaffenthal, Sichenh  02104  02104                % 02966 AVL---
+200423002 Pfaffenthal, Stade G  02105  02105                % 02966 AVL---
+200410003 Eich, Eecher Plaz     02106  02106                % 02966 AVL---
+200409005 Dommeldange, Contour  02108  02108                % 02966 AVL---
+200409011 Dommeldange, Van der  02109  02109                % 02966 AVL---
+200409003 Dommeldange, Château  02110  02110                % 02966 AVL---
+200409014 Luxembourg, Chingiz   02111  02111                % 02966 AVL---
+200402003 Beggen, Cyprien Merj  02113  02113                % 02966 AVL---
+200402004 Beggen, Henri Dunant  02114                       % 02966 AVL---
+*Z 02967 AVL---                                             % 02967 AVL---
+*L 23       200404027 200405035  01927  01948               % 02967 AVL---
+*A BE 200404027 200405035 000013  01927  01948              % 02967 AVL---
+*R 1 200405035 200404027 200405035  01927  01948            % 02967 AVL---
+*G AVS 200404027 200405035  01927  01948                    % 02967 AVL---
+*A VE 200404027 200405035 000013  01927  01948              % 02967 AVL---
+200404027 Bonnevoie, Lycée Tec         01927                % 02967 AVL---
+200404028 Bonnevoie, Neufchâte  01928  01928                % 02967 AVL---
+200304010 Howald, Rangwee       01928  01928                % 02967 AVL---
+200412025 Gasperich, Francopho  01932  01932                % 02967 AVL---
+001433004 Charles Darwin        01934  01934                % 02967 AVL---
+002339011 François Hogenberg Q  01935  01935                % 02967 AVL---
+200412013 Gasperich, Louis de   01936  01936                % 02967 AVL---
+200412011 Gasperich, Klensch    01937  01937                % 02967 AVL---
+200412001 Gasperich, Al Gasper  01938  01938                % 02967 AVL---
+200412003 Gasperich, Bei der A  01939  01939                % 02967 AVL---
+200412005 Gasperich, Clemencea  01940  01940                % 02967 AVL---
+200412016 Gasperich, Richard W  01941  01941                % 02967 AVL---
+200412020 Gasperich, Millewee   01943  01943                % 02967 AVL---
+200412007 Gasperich, Déportati  01944  01944                % 02967 AVL---
+200405003 Centre, Alsace        01945  01945                % 02967 AVL---
+200405035 Luxembourg, Gare Cen  01948                       % 02967 AVL---
+*Z 02968 AVL---       037 020                               % 02968 AVL---
+*L 23       200404027 200402004  00647  00735               % 02968 AVL---
+*A BE 200404027 200402004 000013  00647  00735              % 02968 AVL---
+*R 1 200402004 200404027 200402004  00647  00735            % 02968 AVL---
+*G AVS 200404027 200402004  00647  00735                    % 02968 AVL---
+*A VE 200404027 200402004 000013  00647  00735              % 02968 AVL---
+200404027 Bonnevoie, Lycée Tec         00647                % 02968 AVL---
+200404028 Bonnevoie, Neufchâte  00648  00648                % 02968 AVL---
+200304010 Howald, Rangwee       00648  00648                % 02968 AVL---
+200412025 Gasperich, Francopho  00652  00652                % 02968 AVL---
+001433004 Charles Darwin        00654  00654                % 02968 AVL---
+002339011 François Hogenberg Q  00655  00655                % 02968 AVL---
+200412013 Gasperich, Louis de   00656  00656                % 02968 AVL---
+200412011 Gasperich, Klensch    00657  00657                % 02968 AVL---
+200412001 Gasperich, Al Gasper  00658  00658                % 02968 AVL---
+200412003 Gasperich, Bei der A  00659  00659                % 02968 AVL---
+200412005 Gasperich, Clemencea  00700  00700                % 02968 AVL---
+200412016 Gasperich, Richard W  00701  00701                % 02968 AVL---
+200412020 Gasperich, Millewee   00703  00703                % 02968 AVL---
+200412007 Gasperich, Déportati  00704  00704                % 02968 AVL---
+200405003 Centre, Alsace        00705  00705                % 02968 AVL---
+200405035 Luxembourg, Gare Cen  00708  00708                % 02968 AVL---
+200405026 Luxembourg/Centre, P  00711  00711                % 02968 AVL---
+200413001 Grund, Stadgronn-Bré  00715  00715                % 02968 AVL---
+200408006 Clausen, Rumm         00718  00718                % 02968 AVL---
+200408008 Clausen, Tour Jacob   00718  00718                % 02968 AVL---
+200408001 Clausen, Clausener B  00719  00719                % 02968 AVL---
+200408007 Clausen, Ste Cunégon  00720  00720                % 02968 AVL---
+200423005 Pfaffenthal, Vauban   00721  00721                % 02968 AVL---
+200423003 Pfaffenthal, Théiwes  00722  00722                % 02968 AVL---
+200423007 Pfaffenthal, Halte C  00723  00723                % 02968 AVL---
+200423001 Pfaffenthal, Sichenh  00724  00724                % 02968 AVL---
+200423002 Pfaffenthal, Stade G  00725  00725                % 02968 AVL---
+200410003 Eich, Eecher Plaz     00727  00727                % 02968 AVL---
+200409005 Dommeldange, Contour  00728  00728                % 02968 AVL---
+200409011 Dommeldange, Van der  00730  00730                % 02968 AVL---
+200409003 Dommeldange, Château  00731  00731                % 02968 AVL---
+200409014 Luxembourg, Chingiz   00732  00732                % 02968 AVL---
+200402003 Beggen, Cyprien Merj  00734  00734                % 02968 AVL---
+200402004 Beggen, Henri Dunant  00735                       % 02968 AVL---
+*Z 02969 AVL---       023 030                               % 02969 AVL---
+*L 23       200405035 200402004  00818  00842               % 02969 AVL---
+*A BE 200405035 200402004 000022  00818  00842              % 02969 AVL---
+*R 1 200402004 200405035 200402004  00818  00842            % 02969 AVL---
+*G AVM 200405035 200402004  00818  00842                    % 02969 AVL---
+*A VE 200405035 200402004 000022  00818  00842              % 02969 AVL---
+200405035 Luxembourg, Gare Cen         00818                % 02969 AVL---
+200405026 Luxembourg/Centre, P  00820  00820                % 02969 AVL---
+200413001 Grund, Stadgronn-Bré  00824  00824                % 02969 AVL---
+200408006 Clausen, Rumm         00826  00826                % 02969 AVL---
+200408008 Clausen, Tour Jacob   00827  00827                % 02969 AVL---
+200408001 Clausen, Clausener B  00828  00828                % 02969 AVL---
+200408007 Clausen, Ste Cunégon  00829  00829                % 02969 AVL---
+200423005 Pfaffenthal, Vauban   00830  00830                % 02969 AVL---
+200423003 Pfaffenthal, Théiwes  00831  00831                % 02969 AVL---
+200423007 Pfaffenthal, Halte C  00832  00832                % 02969 AVL---
+200423001 Pfaffenthal, Sichenh  00832  00832                % 02969 AVL---
+200423002 Pfaffenthal, Stade G  00833  00833                % 02969 AVL---
+200410003 Eich, Eecher Plaz     00834  00834                % 02969 AVL---
+200409005 Dommeldange, Contour  00835  00835                % 02969 AVL---
+200409011 Dommeldange, Van der  00837  00837                % 02969 AVL---
+200409003 Dommeldange, Château  00838  00838                % 02969 AVL---
+200409014 Luxembourg, Chingiz   00839  00839                % 02969 AVL---
+200402003 Beggen, Cyprien Merj  00841  00841                % 02969 AVL---
+200402004 Beggen, Henri Dunant  00842                       % 02969 AVL---
+*Z 02970 AVL---       017 030                               % 02970 AVL---
+*L 23       200405035 200402004  01121  01145               % 02970 AVL---
+*A BE 200405035 200402004 000017  01121  01145              % 02970 AVL---
+*R 1 200402004 200405035 200402004  01121  01145            % 02970 AVL---
+*G AVM 200405035 200402004  01121  01145                    % 02970 AVL---
+*A VE 200405035 200402004 000017  01121  01145              % 02970 AVL---
+200405035 Luxembourg, Gare Cen         01121                % 02970 AVL---
+200405026 Luxembourg/Centre, P  01123  01123                % 02970 AVL---
+200413001 Grund, Stadgronn-Bré  01127  01127                % 02970 AVL---
+200408006 Clausen, Rumm         01129  01129                % 02970 AVL---
+200408008 Clausen, Tour Jacob   01130  01130                % 02970 AVL---
+200408001 Clausen, Clausener B  01131  01131                % 02970 AVL---
+200408007 Clausen, Ste Cunégon  01132  01132                % 02970 AVL---
+200423005 Pfaffenthal, Vauban   01133  01133                % 02970 AVL---
+200423003 Pfaffenthal, Théiwes  01134  01134                % 02970 AVL---
+200423007 Pfaffenthal, Halte C  01135  01135                % 02970 AVL---
+200423001 Pfaffenthal, Sichenh  01135  01135                % 02970 AVL---
+200423002 Pfaffenthal, Stade G  01136  01136                % 02970 AVL---
+200410003 Eich, Eecher Plaz     01137  01137                % 02970 AVL---
+200409005 Dommeldange, Contour  01138  01138                % 02970 AVL---
+200409011 Dommeldange, Van der  01140  01140                % 02970 AVL---
+200409003 Dommeldange, Château  01141  01141                % 02970 AVL---
+200409014 Luxembourg, Chingiz   01142  01142                % 02970 AVL---
+200402003 Beggen, Cyprien Merj  01144  01144                % 02970 AVL---
+200402004 Beggen, Henri Dunant  01145                       % 02970 AVL---
+*Z 02971 AVL---       003 030                               % 02971 AVL---
+*L 23       200402004 200405035  00549  00613               % 02971 AVL---
+*A BE 200402004 200405035 000022  00549  00613              % 02971 AVL---
+*R 2 200405035 200402004 200405035  00549  00613            % 02971 AVL---
+*G AVM 200402004 200405035  00549  00613                    % 02971 AVL---
+*A VE 200402004 200405035 000022  00549  00613              % 02971 AVL---
+200402004 Beggen, Henri Dunant         00549                % 02971 AVL---
+200402003 Beggen, Cyprien Merj  00550  00550                % 02971 AVL---
+200409014 Luxembourg, Chingiz   00552  00552                % 02971 AVL---
+200409003 Dommeldange, Château  00553  00553                % 02971 AVL---
+200409011 Dommeldange, Van der  00554  00554                % 02971 AVL---
+200409005 Dommeldange, Contour  00555  00555                % 02971 AVL---
+200410003 Eich, Eecher Plaz     00557  00557                % 02971 AVL---
+200423002 Pfaffenthal, Stade G  00559  00559                % 02971 AVL---
+200423001 Pfaffenthal, Sichenh  00559  00559                % 02971 AVL---
+200423007 Pfaffenthal, Halte C  00559  00559                % 02971 AVL---
+200423003 Pfaffenthal, Théiwes  00601  00601                % 02971 AVL---
+200423005 Pfaffenthal, Vauban   00601  00601                % 02971 AVL---
+200408007 Clausen, Ste Cunégon  00602  00602                % 02971 AVL---
+200408001 Clausen, Clausener B  00603  00603                % 02971 AVL---
+200408008 Clausen, Tour Jacob   00604  00604                % 02971 AVL---
+200408006 Clausen, Rumm         00604  00604                % 02971 AVL---
+200413001 Grund, Stadgronn-Bré  00607  00607                % 02971 AVL---
+200405026 Luxembourg/Centre, P  00611  00611                % 02971 AVL---
+200405035 Luxembourg, Gare Cen  00613                       % 02971 AVL---
+*Z 02972 AVL---                                             % 02972 AVL---
+*L 23       200402004 200405035  00516  00540               % 02972 AVL---
+*A BE 200402004 200405035 000013  00516  00540              % 02972 AVL---
+*R 2 200405035 200402004 200405035  00516  00540            % 02972 AVL---
+*G AVS 200402004 200405035  00516  00540                    % 02972 AVL---
+*A VE 200402004 200405035 000013  00516  00540              % 02972 AVL---
+200402004 Beggen, Henri Dunant         00516                % 02972 AVL---
+200402003 Beggen, Cyprien Merj  00517  00517                % 02972 AVL---
+200409014 Luxembourg, Chingiz   00519  00519                % 02972 AVL---
+200409003 Dommeldange, Château  00520  00520                % 02972 AVL---
+200409011 Dommeldange, Van der  00521  00521                % 02972 AVL---
+200409005 Dommeldange, Contour  00522  00522                % 02972 AVL---
+200410003 Eich, Eecher Plaz     00524  00524                % 02972 AVL---
+200423002 Pfaffenthal, Stade G  00526  00526                % 02972 AVL---
+200423001 Pfaffenthal, Sichenh  00526  00526                % 02972 AVL---
+200423007 Pfaffenthal, Halte C  00526  00526                % 02972 AVL---
+200423003 Pfaffenthal, Théiwes  00528  00528                % 02972 AVL---
+200423005 Pfaffenthal, Vauban   00528  00528                % 02972 AVL---
+200408007 Clausen, Ste Cunégon  00529  00529                % 02972 AVL---
+200408001 Clausen, Clausener B  00530  00530                % 02972 AVL---
+200408008 Clausen, Tour Jacob   00531  00531                % 02972 AVL---
+200408006 Clausen, Rumm         00531  00531                % 02972 AVL---
+200413001 Grund, Stadgronn-Bré  00534  00534                % 02972 AVL---
+200405026 Luxembourg/Centre, P  00538  00538                % 02972 AVL---
+200405035 Luxembourg, Gare Cen  00540                       % 02972 AVL---
+*Z 02973 AVL---       004 030                               % 02973 AVL---
+*L 23       200402004 200405035  00849  00913               % 02973 AVL---
+*A BE 200402004 200405035 000017  00849  00913              % 02973 AVL---
+*R 2 200405035 200402004 200405035  00849  00913            % 02973 AVL---
+*G AVM 200402004 200405035  00849  00913                    % 02973 AVL---
+*A VE 200402004 200405035 000017  00849  00913              % 02973 AVL---
+200402004 Beggen, Henri Dunant         00849                % 02973 AVL---
+200402003 Beggen, Cyprien Merj  00850  00850                % 02973 AVL---
+200409014 Luxembourg, Chingiz   00852  00852                % 02973 AVL---
+200409003 Dommeldange, Château  00853  00853                % 02973 AVL---
+200409011 Dommeldange, Van der  00854  00854                % 02973 AVL---
+200409005 Dommeldange, Contour  00855  00855                % 02973 AVL---
+200410003 Eich, Eecher Plaz     00857  00857                % 02973 AVL---
+200423002 Pfaffenthal, Stade G  00859  00859                % 02973 AVL---
+200423001 Pfaffenthal, Sichenh  00859  00859                % 02973 AVL---
+200423007 Pfaffenthal, Halte C  00859  00859                % 02973 AVL---
+200423003 Pfaffenthal, Théiwes  00901  00901                % 02973 AVL---
+200423005 Pfaffenthal, Vauban   00901  00901                % 02973 AVL---
+200408007 Clausen, Ste Cunégon  00902  00902                % 02973 AVL---
+200408001 Clausen, Clausener B  00903  00903                % 02973 AVL---
+200408008 Clausen, Tour Jacob   00904  00904                % 02973 AVL---
+200408006 Clausen, Rumm         00904  00904                % 02973 AVL---
+200413001 Grund, Stadgronn-Bré  00907  00907                % 02973 AVL---
+200405026 Luxembourg/Centre, P  00911  00911                % 02973 AVL---
+200405035 Luxembourg, Gare Cen  00913                       % 02973 AVL---
+*Z 02974 AVL---                                             % 02974 AVL---
+*L 23       200402004 200405035  01949  02013               % 02974 AVL---
+*A BE 200402004 200405035 000017  01949  02013              % 02974 AVL---
+*R 2 200405035 200402004 200405035  01949  02013            % 02974 AVL---
+*G AVM 200402004 200405035  01949  02013                    % 02974 AVL---
+*A VE 200402004 200405035 000017  01949  02013              % 02974 AVL---
+200402004 Beggen, Henri Dunant         01949                % 02974 AVL---
+200402003 Beggen, Cyprien Merj  01950  01950                % 02974 AVL---
+200409014 Luxembourg, Chingiz   01952  01952                % 02974 AVL---
+200409003 Dommeldange, Château  01953  01953                % 02974 AVL---
+200409011 Dommeldange, Van der  01954  01954                % 02974 AVL---
+200409005 Dommeldange, Contour  01955  01955                % 02974 AVL---
+200410003 Eich, Eecher Plaz     01957  01957                % 02974 AVL---
+200423002 Pfaffenthal, Stade G  01959  01959                % 02974 AVL---
+200423001 Pfaffenthal, Sichenh  01959  01959                % 02974 AVL---
+200423007 Pfaffenthal, Halte C  01959  01959                % 02974 AVL---
+200423003 Pfaffenthal, Théiwes  02001  02001                % 02974 AVL---
+200423005 Pfaffenthal, Vauban   02001  02001                % 02974 AVL---
+200408007 Clausen, Ste Cunégon  02002  02002                % 02974 AVL---
+200408001 Clausen, Clausener B  02003  02003                % 02974 AVL---
+200408008 Clausen, Tour Jacob   02004  02004                % 02974 AVL---
+200408006 Clausen, Rumm         02004  02004                % 02974 AVL---
+200413001 Grund, Stadgronn-Bré  02007  02007                % 02974 AVL---
+200405026 Luxembourg/Centre, P  02011  02011                % 02974 AVL---
+200405035 Luxembourg, Gare Cen  02013                       % 02974 AVL---
+*Z 02975 AVL---       004 030                               % 02975 AVL---
+*L 23       200402004 200405035  02019  02043               % 02975 AVL---
+*A BE 200402004 200405035 000046  02019  02043              % 02975 AVL---
+*R 2 200405035 200402004 200405035  02019  02043            % 02975 AVL---
+*G AVM 200402004 200405035  02019  02043                    % 02975 AVL---
+*A VE 200402004 200405035 000046  02019  02043              % 02975 AVL---
+200402004 Beggen, Henri Dunant         02019                % 02975 AVL---
+200402003 Beggen, Cyprien Merj  02020  02020                % 02975 AVL---
+200409014 Luxembourg, Chingiz   02022  02022                % 02975 AVL---
+200409003 Dommeldange, Château  02023  02023                % 02975 AVL---
+200409011 Dommeldange, Van der  02024  02024                % 02975 AVL---
+200409005 Dommeldange, Contour  02025  02025                % 02975 AVL---
+200410003 Eich, Eecher Plaz     02027  02027                % 02975 AVL---
+200423002 Pfaffenthal, Stade G  02029  02029                % 02975 AVL---
+200423001 Pfaffenthal, Sichenh  02029  02029                % 02975 AVL---
+200423007 Pfaffenthal, Halte C  02029  02029                % 02975 AVL---
+200423003 Pfaffenthal, Théiwes  02031  02031                % 02975 AVL---
+200423005 Pfaffenthal, Vauban   02031  02031                % 02975 AVL---
+200408007 Clausen, Ste Cunégon  02032  02032                % 02975 AVL---
+200408001 Clausen, Clausener B  02033  02033                % 02975 AVL---
+200408008 Clausen, Tour Jacob   02034  02034                % 02975 AVL---
+200408006 Clausen, Rumm         02034  02034                % 02975 AVL---
+200413001 Grund, Stadgronn-Bré  02037  02037                % 02975 AVL---
+200405026 Luxembourg/Centre, P  02041  02041                % 02975 AVL---
+200405035 Luxembourg, Gare Cen  02043                       % 02975 AVL---
+*Z 02976 AVL---       024 030                               % 02976 AVL---
+*L 23       200402004 200405035  00748  00812               % 02976 AVL---
+*A BE 200402004 200405035 000022  00748  00812              % 02976 AVL---
+*R 2 200405035 200402004 200405035  00748  00812            % 02976 AVL---
+*G AVM 200402004 200405035  00748  00812                    % 02976 AVL---
+*A VE 200402004 200405035 000022  00748  00812              % 02976 AVL---
+200402004 Beggen, Henri Dunant         00748                % 02976 AVL---
+200402003 Beggen, Cyprien Merj  00749  00749                % 02976 AVL---
+200409014 Luxembourg, Chingiz   00750  00750                % 02976 AVL---
+200409003 Dommeldange, Château  00752  00752                % 02976 AVL---
+200409011 Dommeldange, Van der  00753  00753                % 02976 AVL---
+200409005 Dommeldange, Contour  00754  00754                % 02976 AVL---
+200410003 Eich, Eecher Plaz     00756  00756                % 02976 AVL---
+200423002 Pfaffenthal, Stade G  00757  00757                % 02976 AVL---
+200423001 Pfaffenthal, Sichenh  00758  00758                % 02976 AVL---
+200423007 Pfaffenthal, Halte C  00758  00758                % 02976 AVL---
+200423003 Pfaffenthal, Théiwes  00759  00759                % 02976 AVL---
+200423005 Pfaffenthal, Vauban   00800  00800                % 02976 AVL---
+200408007 Clausen, Ste Cunégon  00801  00801                % 02976 AVL---
+200408001 Clausen, Clausener B  00802  00802                % 02976 AVL---
+200408008 Clausen, Tour Jacob   00803  00803                % 02976 AVL---
+200408006 Clausen, Rumm         00803  00803                % 02976 AVL---
+200413001 Grund, Stadgronn-Bré  00806  00806                % 02976 AVL---
+200405026 Luxembourg/Centre, P  00810  00810                % 02976 AVL---
+200405035 Luxembourg, Gare Cen  00812                       % 02976 AVL---
+*Z 02977 AVL---       016 030                               % 02977 AVL---
+*L 23       200402004 200405035  01119  01143               % 02977 AVL---
+*A BE 200402004 200405035 000017  01119  01143              % 02977 AVL---
+*R 2 200405035 200402004 200405035  01119  01143            % 02977 AVL---
+*G AVM 200402004 200405035  01119  01143                    % 02977 AVL---
+*A VE 200402004 200405035 000017  01119  01143              % 02977 AVL---
+200402004 Beggen, Henri Dunant         01119                % 02977 AVL---
+200402003 Beggen, Cyprien Merj  01120  01120                % 02977 AVL---
+200409014 Luxembourg, Chingiz   01121  01121                % 02977 AVL---
+200409003 Dommeldange, Château  01123  01123                % 02977 AVL---
+200409011 Dommeldange, Van der  01124  01124                % 02977 AVL---
+200409005 Dommeldange, Contour  01125  01125                % 02977 AVL---
+200410003 Eich, Eecher Plaz     01127  01127                % 02977 AVL---
+200423002 Pfaffenthal, Stade G  01128  01128                % 02977 AVL---
+200423001 Pfaffenthal, Sichenh  01129  01129                % 02977 AVL---
+200423007 Pfaffenthal, Halte C  01129  01129                % 02977 AVL---
+200423003 Pfaffenthal, Théiwes  01130  01130                % 02977 AVL---
+200423005 Pfaffenthal, Vauban   01131  01131                % 02977 AVL---
+200408007 Clausen, Ste Cunégon  01132  01132                % 02977 AVL---
+200408001 Clausen, Clausener B  01133  01133                % 02977 AVL---
+200408008 Clausen, Tour Jacob   01134  01134                % 02977 AVL---
+200408006 Clausen, Rumm         01134  01134                % 02977 AVL---
+200413001 Grund, Stadgronn-Bré  01137  01137                % 02977 AVL---
+200405026 Luxembourg/Centre, P  01141  01141                % 02977 AVL---
+200405035 Luxembourg, Gare Cen  01143                       % 02977 AVL---
+*Z 02978 AVL---                                             % 02978 AVL---
+*L 23       200402004 200405002  02004  02028               % 02978 AVL---
+*A BE 200402004 200405002 000013  02004  02028              % 02978 AVL---
+*R 2 200405002 200402004 200405002  02004  02028            % 02978 AVL---
+*G AVS 200402004 200405002  02004  02028                    % 02978 AVL---
+*A VE 200402004 200405002 000013  02004  02028              % 02978 AVL---
+200402004 Beggen, Henri Dunant         02004                % 02978 AVL---
+200402003 Beggen, Cyprien Merj  02005  02005                % 02978 AVL---
+200409014 Luxembourg, Chingiz   02007  02007                % 02978 AVL---
+200409003 Dommeldange, Château  02008  02008                % 02978 AVL---
+200409011 Dommeldange, Van der  02009  02009                % 02978 AVL---
+200409005 Dommeldange, Contour  02010  02010                % 02978 AVL---
+200410003 Eich, Eecher Plaz     02012  02012                % 02978 AVL---
+200423002 Pfaffenthal, Stade G  02014  02014                % 02978 AVL---
+200423001 Pfaffenthal, Sichenh  02014  02014                % 02978 AVL---
+200423007 Pfaffenthal, Halte C  02014  02014                % 02978 AVL---
+200423003 Pfaffenthal, Théiwes  02016  02016                % 02978 AVL---
+200423005 Pfaffenthal, Vauban   02016  02016                % 02978 AVL---
+200408007 Clausen, Ste Cunégon  02017  02017                % 02978 AVL---
+200408001 Clausen, Clausener B  02018  02018                % 02978 AVL---
+200408008 Clausen, Tour Jacob   02019  02019                % 02978 AVL---
+200408006 Clausen, Rumm         02019  02019                % 02978 AVL---
+200413001 Grund, Stadgronn-Bré  02022  02022                % 02978 AVL---
+200405026 Luxembourg/Centre, P  02026  02026                % 02978 AVL---
+200405002 Luxembourg, Gare Cen  02028                       % 02978 AVL---
+*Z 02979 AVL---       001 030                               % 02979 AVL---
+*L 23       200402004 200404027  00556  00635               % 02979 AVL---
+*A BE 200402004 200404027 000013  00556  00635              % 02979 AVL---
+*R 2 200404027 200402004 200404027  00556  00635            % 02979 AVL---
+*G AVS 200402004 200404027  00556  00635                    % 02979 AVL---
+*A VE 200402004 200404027 000013  00556  00635              % 02979 AVL---
+200402004 Beggen, Henri Dunant         00556                % 02979 AVL---
+200402003 Beggen, Cyprien Merj  00557  00557                % 02979 AVL---
+200409014 Luxembourg, Chingiz   00559  00559                % 02979 AVL---
+200409003 Dommeldange, Château  00600  00600                % 02979 AVL---
+200409011 Dommeldange, Van der  00601  00601                % 02979 AVL---
+200409005 Dommeldange, Contour  00602  00602                % 02979 AVL---
+200410003 Eich, Eecher Plaz     00604  00604                % 02979 AVL---
+200423002 Pfaffenthal, Stade G  00606  00606                % 02979 AVL---
+200423001 Pfaffenthal, Sichenh  00606  00606                % 02979 AVL---
+200423007 Pfaffenthal, Halte C  00606  00606                % 02979 AVL---
+200423003 Pfaffenthal, Théiwes  00608  00608                % 02979 AVL---
+200423005 Pfaffenthal, Vauban   00608  00608                % 02979 AVL---
+200408007 Clausen, Ste Cunégon  00609  00609                % 02979 AVL---
+200408001 Clausen, Clausener B  00610  00610                % 02979 AVL---
+200408008 Clausen, Tour Jacob   00611  00611                % 02979 AVL---
+200408006 Clausen, Rumm         00611  00611                % 02979 AVL---
+200413001 Grund, Stadgronn-Bré  00614  00614                % 02979 AVL---
+200405026 Luxembourg/Centre, P  00618  00618                % 02979 AVL---
+200405002 Luxembourg, Gare Cen  00620  00620                % 02979 AVL---
+200405003 Centre, Alsace        00621  00621                % 02979 AVL---
+200412007 Gasperich, Déportati  00623  00623                % 02979 AVL---
+200412020 Gasperich, Millewee   00624  00624                % 02979 AVL---
+200412005 Gasperich, Clemencea  00625  00625                % 02979 AVL---
+200412016 Gasperich, Richard W  00626  00626                % 02979 AVL---
+200412003 Gasperich, Bei der A  00627  00627                % 02979 AVL---
+200412001 Gasperich, Al Gasper  00628  00628                % 02979 AVL---
+200412011 Gasperich, Klensch    00628  00628                % 02979 AVL---
+200412013 Gasperich, Louis de   00629  00629                % 02979 AVL---
+002339018 François Hogenberg Q  00630  00630                % 02979 AVL---
+001433003 Charles Darwin        00631  00631                % 02979 AVL---
+200412025 Gasperich, Francopho  00632  00632                % 02979 AVL---
+200304010 Howald, Rangwee       00634  00634                % 02979 AVL---
+200404027 Bonnevoie, Lycée Tec  00635                       % 02979 AVL---
+*Z 02980 AVL---       038 020                               % 02980 AVL---
+*L 23       200402004 200404027  00642  00730               % 02980 AVL---
+*A BE 200402004 200404027 000013  00642  00730              % 02980 AVL---
+*R 2 200404027 200402004 200404027  00642  00730            % 02980 AVL---
+*G AVS 200402004 200404027  00642  00730                    % 02980 AVL---
+*A VE 200402004 200404027 000013  00642  00730              % 02980 AVL---
+200402004 Beggen, Henri Dunant         00642                % 02980 AVL---
+200402003 Beggen, Cyprien Merj  00644  00644                % 02980 AVL---
+200409014 Luxembourg, Chingiz   00645  00645                % 02980 AVL---
+200409003 Dommeldange, Château  00647  00647                % 02980 AVL---
+200409011 Dommeldange, Van der  00648  00648                % 02980 AVL---
+200409005 Dommeldange, Contour  00649  00649                % 02980 AVL---
+200410003 Eich, Eecher Plaz     00652  00652                % 02980 AVL---
+200423002 Pfaffenthal, Stade G  00654  00654                % 02980 AVL---
+200423001 Pfaffenthal, Sichenh  00655  00655                % 02980 AVL---
+200423007 Pfaffenthal, Halte C  00655  00655                % 02980 AVL---
+200423003 Pfaffenthal, Théiwes  00656  00656                % 02980 AVL---
+200423005 Pfaffenthal, Vauban   00657  00657                % 02980 AVL---
+200408007 Clausen, Ste Cunégon  00658  00658                % 02980 AVL---
+200408001 Clausen, Clausener B  00659  00659                % 02980 AVL---
+200408008 Clausen, Tour Jacob   00700  00700                % 02980 AVL---
+200408006 Clausen, Rumm         00701  00701                % 02980 AVL---
+200413001 Grund, Stadgronn-Bré  00704  00704                % 02980 AVL---
+200405026 Luxembourg/Centre, P  00708  00708                % 02980 AVL---
+200405002 Luxembourg, Gare Cen  00711  00711                % 02980 AVL---
+200405003 Centre, Alsace        00713  00713                % 02980 AVL---
+200412007 Gasperich, Déportati  00714  00714                % 02980 AVL---
+200412020 Gasperich, Millewee   00715  00715                % 02980 AVL---
+200412005 Gasperich, Clemencea  00717  00717                % 02980 AVL---
+200412016 Gasperich, Richard W  00718  00718                % 02980 AVL---
+200412003 Gasperich, Bei der A  00719  00719                % 02980 AVL---
+200412001 Gasperich, Al Gasper  00720  00720                % 02980 AVL---
+200412011 Gasperich, Klensch    00721  00721                % 02980 AVL---
+200412013 Gasperich, Louis de   00722  00722                % 02980 AVL---
+002339018 François Hogenberg Q  00723  00723                % 02980 AVL---
+001433003 Charles Darwin        00724  00724                % 02980 AVL---
+200412025 Gasperich, Francopho  00726  00726                % 02980 AVL---
+200304010 Howald, Rangwee       00729  00729                % 02980 AVL---
+200404027 Bonnevoie, Lycée Tec  00730                       % 02980 AVL---
+*Z 02981 AVL---                                             % 02981 AVL---
+*L 23       200402004 200404027  01941  02029               % 02981 AVL---
+*A BE 200402004 200404027 000013  01941  02029              % 02981 AVL---
+*R 2 200404027 200402004 200404027  01941  02029            % 02981 AVL---
+*G AVS 200402004 200404027  01941  02029                    % 02981 AVL---
+*A VE 200402004 200404027 000013  01941  02029              % 02981 AVL---
+200402004 Beggen, Henri Dunant         01941                % 02981 AVL---
+200402003 Beggen, Cyprien Merj  01943  01943                % 02981 AVL---
+200409014 Luxembourg, Chingiz   01944  01944                % 02981 AVL---
+200409003 Dommeldange, Château  01946  01946                % 02981 AVL---
+200409011 Dommeldange, Van der  01947  01947                % 02981 AVL---
+200409005 Dommeldange, Contour  01948  01948                % 02981 AVL---
+200410003 Eich, Eecher Plaz     01951  01951                % 02981 AVL---
+200423002 Pfaffenthal, Stade G  01953  01953                % 02981 AVL---
+200423001 Pfaffenthal, Sichenh  01954  01954                % 02981 AVL---
+200423007 Pfaffenthal, Halte C  01954  01954                % 02981 AVL---
+200423003 Pfaffenthal, Théiwes  01955  01955                % 02981 AVL---
+200423005 Pfaffenthal, Vauban   01956  01956                % 02981 AVL---
+200408007 Clausen, Ste Cunégon  01957  01957                % 02981 AVL---
+200408001 Clausen, Clausener B  01958  01958                % 02981 AVL---
+200408008 Clausen, Tour Jacob   01959  01959                % 02981 AVL---
+200408006 Clausen, Rumm         02000  02000                % 02981 AVL---
+200413001 Grund, Stadgronn-Bré  02003  02003                % 02981 AVL---
+200405026 Luxembourg/Centre, P  02007  02007                % 02981 AVL---
+200405002 Luxembourg, Gare Cen  02010  02010                % 02981 AVL---
+200405003 Centre, Alsace        02012  02012                % 02981 AVL---
+200412007 Gasperich, Déportati  02013  02013                % 02981 AVL---
+200412020 Gasperich, Millewee   02014  02014                % 02981 AVL---
+200412005 Gasperich, Clemencea  02016  02016                % 02981 AVL---
+200412016 Gasperich, Richard W  02017  02017                % 02981 AVL---
+200412003 Gasperich, Bei der A  02018  02018                % 02981 AVL---
+200412001 Gasperich, Al Gasper  02019  02019                % 02981 AVL---
+200412011 Gasperich, Klensch    02020  02020                % 02981 AVL---
+200412013 Gasperich, Louis de   02021  02021                % 02981 AVL---
+002339018 François Hogenberg Q  02022  02022                % 02981 AVL---
+001433003 Charles Darwin        02023  02023                % 02981 AVL---
+200412025 Gasperich, Francopho  02025  02025                % 02981 AVL---
+200304010 Howald, Rangwee       02028  02028                % 02981 AVL---
+200404027 Bonnevoie, Lycée Tec  02029                       % 02981 AVL---

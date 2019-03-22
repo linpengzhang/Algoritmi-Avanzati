@@ -1,0 +1,715 @@
+*F 03 2
+*Z 07357 RGTR--                                             % 07357 RGTR--
+*L 330      220902006 400000054  00750  00813               % 07357 RGTR--
+*A pl 220902006 400000054 000006  00750  00813              % 07357 RGTR--
+*A pm 220902006 400000054 000006  00750  00813              % 07357 RGTR--
+*R 1 400000054 220902006 400000054  00750  00813            % 07357 RGTR--
+*G RGB 220902006 400000054  00750  00813                    % 07357 RGTR--
+*A VE 220902006 400000054 000006  00750  00813              % 07357 RGTR--
+*I FD 220902006 400000054        0001873  00750  00813      % 07357 RGTR--
+220902006 Pétange, Gare                00750                % 07357 RGTR--
+220902003 Pétange, Gemeng       00750  00750                % 07357 RGTR--
+220902014 Pétange, Maison des   00753  00753                % 07357 RGTR--
+220902016 Pétange, Op der Mill  00754  00754                % 07357 RGTR--
+220902002 Pétange, Athuserstro  00754  00754                % 07357 RGTR--
+220902010 Pétange, Kräizheck    00755  00755                % 07357 RGTR--
+300000009 Athus, Douane         00757  00757                % 07357 RGTR--
+300000014 Athus, rue du Commer  00758  00758                % 07357 RGTR--
+300000010 Athus, Garage Peugeo  00759  00759                % 07357 RGTR--
+300000007 Athus, Centre (Grand  00800  00800                % 07357 RGTR--
+300000008 Athus, Croisement Ga  00801  00801                % 07357 RGTR--
+300000097 Athus, Clinique       00802  00802                % 07357 RGTR--
+300000098 Aubange, rue d'Athus  00803  00803                % 07357 RGTR--
+300000019 Aubange, Village      00804  00804                % 07357 RGTR--
+300000018 Aubange, Mairie       00805  00805                % 07357 RGTR--
+300000099 Aubange, Ecole        00805  00805                % 07357 RGTR--
+300000017 Aubange, Gare         00806  00806                % 07357 RGTR--
+300000100 Aubange, Zoning       00807  00807                % 07357 RGTR--
+300000016 Aubange, Nizette      00808  00808                % 07357 RGTR--
+400000058 Mt.St.Martin, Douane  00808  00808                % 07357 RGTR--
+400000141 Mt.St.Martin, Jean J  00810  00810                % 07357 RGTR--
+400000142 Mt.St.Martin, Centre  00810  00810                % 07357 RGTR--
+400000059 Mt.St.Martin, Eglant  00811  00811                % 07357 RGTR--
+400000054 Mt.St.Martin, Auchan  00813                       % 07357 RGTR--
+*Z 07358 RGTR--                                             % 07358 RGTR--
+*L 330      220902006 400000054  00919  00942               % 07358 RGTR--
+*A pl 220902006 400000054 000006  00919  00942              % 07358 RGTR--
+*A pm 220902006 400000054 000006  00919  00942              % 07358 RGTR--
+*R 1 400000054 220902006 400000054  00919  00942            % 07358 RGTR--
+*G RGB 220902006 400000054  00919  00942                    % 07358 RGTR--
+*A VE 220902006 400000054 000006  00919  00942              % 07358 RGTR--
+*I FD 220902006 400000054        0001828  00919  00942      % 07358 RGTR--
+220902006 Pétange, Gare                00919                % 07358 RGTR--
+220902003 Pétange, Gemeng       00919  00919                % 07358 RGTR--
+220902014 Pétange, Maison des   00922  00922                % 07358 RGTR--
+220902016 Pétange, Op der Mill  00923  00923                % 07358 RGTR--
+220902002 Pétange, Athuserstro  00923  00923                % 07358 RGTR--
+220902010 Pétange, Kräizheck    00924  00924                % 07358 RGTR--
+300000009 Athus, Douane         00926  00926                % 07358 RGTR--
+300000014 Athus, rue du Commer  00927  00927                % 07358 RGTR--
+300000010 Athus, Garage Peugeo  00928  00928                % 07358 RGTR--
+300000007 Athus, Centre (Grand  00929  00929                % 07358 RGTR--
+300000008 Athus, Croisement Ga  00930  00930                % 07358 RGTR--
+300000097 Athus, Clinique       00931  00931                % 07358 RGTR--
+300000098 Aubange, rue d'Athus  00932  00932                % 07358 RGTR--
+300000019 Aubange, Village      00933  00933                % 07358 RGTR--
+300000018 Aubange, Mairie       00934  00934                % 07358 RGTR--
+300000099 Aubange, Ecole        00934  00934                % 07358 RGTR--
+300000017 Aubange, Gare         00935  00935                % 07358 RGTR--
+300000100 Aubange, Zoning       00936  00936                % 07358 RGTR--
+300000016 Aubange, Nizette      00937  00937                % 07358 RGTR--
+400000058 Mt.St.Martin, Douane  00937  00937                % 07358 RGTR--
+400000141 Mt.St.Martin, Jean J  00939  00939                % 07358 RGTR--
+400000142 Mt.St.Martin, Centre  00939  00939                % 07358 RGTR--
+400000059 Mt.St.Martin, Eglant  00940  00940                % 07358 RGTR--
+400000054 Mt.St.Martin, Auchan  00942                       % 07358 RGTR--
+*Z 07359 RGTR--                                             % 07359 RGTR--
+*L 330      220902006 400000054  01638  01701               % 07359 RGTR--
+*A pl 220902006 400000054 000006  01638  01701              % 07359 RGTR--
+*A pm 220902006 400000054 000006  01638  01701              % 07359 RGTR--
+*R 1 400000054 220902006 400000054  01638  01701            % 07359 RGTR--
+*G RGB 220902006 400000054  01638  01701                    % 07359 RGTR--
+*A VE 220902006 400000054 000006  01638  01701              % 07359 RGTR--
+*I FD 220902006 400000054        0002530  01638  01701      % 07359 RGTR--
+220902006 Pétange, Gare                01638                % 07359 RGTR--
+220902003 Pétange, Gemeng       01638  01638                % 07359 RGTR--
+220902014 Pétange, Maison des   01641  01641                % 07359 RGTR--
+220902016 Pétange, Op der Mill  01642  01642                % 07359 RGTR--
+220902002 Pétange, Athuserstro  01642  01642                % 07359 RGTR--
+220902010 Pétange, Kräizheck    01643  01643                % 07359 RGTR--
+300000009 Athus, Douane         01645  01645                % 07359 RGTR--
+300000014 Athus, rue du Commer  01646  01646                % 07359 RGTR--
+300000010 Athus, Garage Peugeo  01647  01647                % 07359 RGTR--
+300000007 Athus, Centre (Grand  01648  01648                % 07359 RGTR--
+300000008 Athus, Croisement Ga  01649  01649                % 07359 RGTR--
+300000097 Athus, Clinique       01650  01650                % 07359 RGTR--
+300000098 Aubange, rue d'Athus  01651  01651                % 07359 RGTR--
+300000019 Aubange, Village      01652  01652                % 07359 RGTR--
+300000018 Aubange, Mairie       01653  01653                % 07359 RGTR--
+300000099 Aubange, Ecole        01653  01653                % 07359 RGTR--
+300000017 Aubange, Gare         01654  01654                % 07359 RGTR--
+300000100 Aubange, Zoning       01655  01655                % 07359 RGTR--
+300000016 Aubange, Nizette      01656  01656                % 07359 RGTR--
+400000058 Mt.St.Martin, Douane  01656  01656                % 07359 RGTR--
+400000141 Mt.St.Martin, Jean J  01658  01658                % 07359 RGTR--
+400000142 Mt.St.Martin, Centre  01658  01658                % 07359 RGTR--
+400000059 Mt.St.Martin, Eglant  01659  01659                % 07359 RGTR--
+400000054 Mt.St.Martin, Auchan  01701                       % 07359 RGTR--
+*Z 07360 RGTR--                                             % 07360 RGTR--
+*L 330      220902006 400000054  01738  01801               % 07360 RGTR--
+*A pl 220902006 400000054 000006  01738  01801              % 07360 RGTR--
+*A pm 220902006 400000054 000006  01738  01801              % 07360 RGTR--
+*R 1 400000054 220902006 400000054  01738  01801            % 07360 RGTR--
+*G RGB 220902006 400000054  01738  01801                    % 07360 RGTR--
+*A VE 220902006 400000054 000006  01738  01801              % 07360 RGTR--
+*I FD 220902006 400000054        0002531  01738  01801      % 07360 RGTR--
+220902006 Pétange, Gare                01738                % 07360 RGTR--
+220902003 Pétange, Gemeng       01738  01738                % 07360 RGTR--
+220902014 Pétange, Maison des   01741  01741                % 07360 RGTR--
+220902016 Pétange, Op der Mill  01742  01742                % 07360 RGTR--
+220902002 Pétange, Athuserstro  01742  01742                % 07360 RGTR--
+220902010 Pétange, Kräizheck    01743  01743                % 07360 RGTR--
+300000009 Athus, Douane         01745  01745                % 07360 RGTR--
+300000014 Athus, rue du Commer  01746  01746                % 07360 RGTR--
+300000010 Athus, Garage Peugeo  01747  01747                % 07360 RGTR--
+300000007 Athus, Centre (Grand  01748  01748                % 07360 RGTR--
+300000008 Athus, Croisement Ga  01749  01749                % 07360 RGTR--
+300000097 Athus, Clinique       01750  01750                % 07360 RGTR--
+300000098 Aubange, rue d'Athus  01751  01751                % 07360 RGTR--
+300000019 Aubange, Village      01752  01752                % 07360 RGTR--
+300000018 Aubange, Mairie       01753  01753                % 07360 RGTR--
+300000099 Aubange, Ecole        01753  01753                % 07360 RGTR--
+300000017 Aubange, Gare         01754  01754                % 07360 RGTR--
+300000100 Aubange, Zoning       01755  01755                % 07360 RGTR--
+300000016 Aubange, Nizette      01756  01756                % 07360 RGTR--
+400000058 Mt.St.Martin, Douane  01756  01756                % 07360 RGTR--
+400000141 Mt.St.Martin, Jean J  01758  01758                % 07360 RGTR--
+400000142 Mt.St.Martin, Centre  01758  01758                % 07360 RGTR--
+400000059 Mt.St.Martin, Eglant  01759  01759                % 07360 RGTR--
+400000054 Mt.St.Martin, Auchan  01801                       % 07360 RGTR--
+*Z 07361 RGTR--                                             % 07361 RGTR--
+*L 330      220902006 400000054  01019  01038               % 07361 RGTR--
+*A pl 220902006 400000054 000006  01019  01038              % 07361 RGTR--
+*A pm 220902006 400000054 000006  01019  01038              % 07361 RGTR--
+*R 1 400000054 220902006 400000054  01019  01038            % 07361 RGTR--
+*G RGB 220902006 400000054  01019  01038                    % 07361 RGTR--
+*A VE 220902006 400000054 000006  01019  01038              % 07361 RGTR--
+*I FD 220902006 400000054        0002604  01019  01038      % 07361 RGTR--
+220902006 Pétange, Gare                01019                % 07361 RGTR--
+220902003 Pétange, Gemeng       01019  01019                % 07361 RGTR--
+220902014 Pétange, Maison des   01021  01021                % 07361 RGTR--
+220902016 Pétange, Op der Mill  01022  01022                % 07361 RGTR--
+220902002 Pétange, Athuserstro  01023  01023                % 07361 RGTR--
+220902010 Pétange, Kräizheck    01023  01023                % 07361 RGTR--
+300000009 Athus, Douane         01025  01025                % 07361 RGTR--
+300000014 Athus, rue du Commer  01026  01026                % 07361 RGTR--
+300000010 Athus, Garage Peugeo  01027  01027                % 07361 RGTR--
+300000007 Athus, Centre (Grand  01028  01028                % 07361 RGTR--
+300000008 Athus, Croisement Ga  01029  01029                % 07361 RGTR--
+300000097 Athus, Clinique       01029  01029                % 07361 RGTR--
+300000098 Aubange, rue d'Athus  01030  01030                % 07361 RGTR--
+300000019 Aubange, Village      01030  01030                % 07361 RGTR--
+300000018 Aubange, Mairie       01031  01031                % 07361 RGTR--
+300000099 Aubange, Ecole        01032  01032                % 07361 RGTR--
+300000017 Aubange, Gare         01032  01032                % 07361 RGTR--
+300000100 Aubange, Zoning       01033  01033                % 07361 RGTR--
+300000016 Aubange, Nizette      01033  01033                % 07361 RGTR--
+400000058 Mt.St.Martin, Douane  01034  01034                % 07361 RGTR--
+400000141 Mt.St.Martin, Jean J  01035  01035                % 07361 RGTR--
+400000142 Mt.St.Martin, Centre  01036  01036                % 07361 RGTR--
+400000059 Mt.St.Martin, Eglant  01036  01036                % 07361 RGTR--
+400000054 Mt.St.Martin, Auchan  01038                       % 07361 RGTR--
+*Z 07362 RGTR--                                             % 07362 RGTR--
+*L 330      220902006 400000054  01119  01138               % 07362 RGTR--
+*A pl 220902006 400000054 000006  01119  01138              % 07362 RGTR--
+*A pm 220902006 400000054 000006  01119  01138              % 07362 RGTR--
+*R 1 400000054 220902006 400000054  01119  01138            % 07362 RGTR--
+*G RGB 220902006 400000054  01119  01138                    % 07362 RGTR--
+*A VE 220902006 400000054 000006  01119  01138              % 07362 RGTR--
+*I FD 220902006 400000054        0001232  01119  01138      % 07362 RGTR--
+220902006 Pétange, Gare                01119                % 07362 RGTR--
+220902003 Pétange, Gemeng       01119  01119                % 07362 RGTR--
+220902014 Pétange, Maison des   01121  01121                % 07362 RGTR--
+220902016 Pétange, Op der Mill  01122  01122                % 07362 RGTR--
+220902002 Pétange, Athuserstro  01123  01123                % 07362 RGTR--
+220902010 Pétange, Kräizheck    01123  01123                % 07362 RGTR--
+300000009 Athus, Douane         01125  01125                % 07362 RGTR--
+300000014 Athus, rue du Commer  01126  01126                % 07362 RGTR--
+300000010 Athus, Garage Peugeo  01127  01127                % 07362 RGTR--
+300000007 Athus, Centre (Grand  01128  01128                % 07362 RGTR--
+300000008 Athus, Croisement Ga  01129  01129                % 07362 RGTR--
+300000097 Athus, Clinique       01129  01129                % 07362 RGTR--
+300000098 Aubange, rue d'Athus  01130  01130                % 07362 RGTR--
+300000019 Aubange, Village      01130  01130                % 07362 RGTR--
+300000018 Aubange, Mairie       01131  01131                % 07362 RGTR--
+300000099 Aubange, Ecole        01132  01132                % 07362 RGTR--
+300000017 Aubange, Gare         01132  01132                % 07362 RGTR--
+300000100 Aubange, Zoning       01133  01133                % 07362 RGTR--
+300000016 Aubange, Nizette      01133  01133                % 07362 RGTR--
+400000058 Mt.St.Martin, Douane  01134  01134                % 07362 RGTR--
+400000141 Mt.St.Martin, Jean J  01135  01135                % 07362 RGTR--
+400000142 Mt.St.Martin, Centre  01136  01136                % 07362 RGTR--
+400000059 Mt.St.Martin, Eglant  01136  01136                % 07362 RGTR--
+400000054 Mt.St.Martin, Auchan  01138                       % 07362 RGTR--
+*Z 07363 RGTR--                                             % 07363 RGTR--
+*L 330      220902006 400000054  01236  01255               % 07363 RGTR--
+*A pl 220902006 400000054 000006  01236  01255              % 07363 RGTR--
+*A pm 220902006 400000054 000006  01236  01255              % 07363 RGTR--
+*R 1 400000054 220902006 400000054  01236  01255            % 07363 RGTR--
+*G RGB 220902006 400000054  01236  01255                    % 07363 RGTR--
+*A VE 220902006 400000054 000006  01236  01255              % 07363 RGTR--
+*I FD 220902006 400000054        0001258  01236  01255      % 07363 RGTR--
+220902006 Pétange, Gare                01236                % 07363 RGTR--
+220902003 Pétange, Gemeng       01236  01236                % 07363 RGTR--
+220902014 Pétange, Maison des   01238  01238                % 07363 RGTR--
+220902016 Pétange, Op der Mill  01239  01239                % 07363 RGTR--
+220902002 Pétange, Athuserstro  01240  01240                % 07363 RGTR--
+220902010 Pétange, Kräizheck    01240  01240                % 07363 RGTR--
+300000009 Athus, Douane         01242  01242                % 07363 RGTR--
+300000014 Athus, rue du Commer  01243  01243                % 07363 RGTR--
+300000010 Athus, Garage Peugeo  01244  01244                % 07363 RGTR--
+300000007 Athus, Centre (Grand  01245  01245                % 07363 RGTR--
+300000008 Athus, Croisement Ga  01246  01246                % 07363 RGTR--
+300000097 Athus, Clinique       01246  01246                % 07363 RGTR--
+300000098 Aubange, rue d'Athus  01247  01247                % 07363 RGTR--
+300000019 Aubange, Village      01247  01247                % 07363 RGTR--
+300000018 Aubange, Mairie       01248  01248                % 07363 RGTR--
+300000099 Aubange, Ecole        01249  01249                % 07363 RGTR--
+300000017 Aubange, Gare         01249  01249                % 07363 RGTR--
+300000100 Aubange, Zoning       01250  01250                % 07363 RGTR--
+300000016 Aubange, Nizette      01250  01250                % 07363 RGTR--
+400000058 Mt.St.Martin, Douane  01251  01251                % 07363 RGTR--
+400000141 Mt.St.Martin, Jean J  01252  01252                % 07363 RGTR--
+400000142 Mt.St.Martin, Centre  01253  01253                % 07363 RGTR--
+400000059 Mt.St.Martin, Eglant  01253  01253                % 07363 RGTR--
+400000054 Mt.St.Martin, Auchan  01255                       % 07363 RGTR--
+*Z 07364 RGTR--                                             % 07364 RGTR--
+*L 330      220902006 400000054  01419  01438               % 07364 RGTR--
+*A pl 220902006 400000054 000006  01419  01438              % 07364 RGTR--
+*A pm 220902006 400000054 000006  01419  01438              % 07364 RGTR--
+*R 1 400000054 220902006 400000054  01419  01438            % 07364 RGTR--
+*G RGB 220902006 400000054  01419  01438                    % 07364 RGTR--
+*A VE 220902006 400000054 000006  01419  01438              % 07364 RGTR--
+*I FD 220902006 400000054        0003146  01419  01438      % 07364 RGTR--
+220902006 Pétange, Gare                01419                % 07364 RGTR--
+220902003 Pétange, Gemeng       01419  01419                % 07364 RGTR--
+220902014 Pétange, Maison des   01421  01421                % 07364 RGTR--
+220902016 Pétange, Op der Mill  01422  01422                % 07364 RGTR--
+220902002 Pétange, Athuserstro  01423  01423                % 07364 RGTR--
+220902010 Pétange, Kräizheck    01423  01423                % 07364 RGTR--
+300000009 Athus, Douane         01425  01425                % 07364 RGTR--
+300000014 Athus, rue du Commer  01426  01426                % 07364 RGTR--
+300000010 Athus, Garage Peugeo  01427  01427                % 07364 RGTR--
+300000007 Athus, Centre (Grand  01428  01428                % 07364 RGTR--
+300000008 Athus, Croisement Ga  01429  01429                % 07364 RGTR--
+300000097 Athus, Clinique       01429  01429                % 07364 RGTR--
+300000098 Aubange, rue d'Athus  01430  01430                % 07364 RGTR--
+300000019 Aubange, Village      01430  01430                % 07364 RGTR--
+300000018 Aubange, Mairie       01431  01431                % 07364 RGTR--
+300000099 Aubange, Ecole        01432  01432                % 07364 RGTR--
+300000017 Aubange, Gare         01432  01432                % 07364 RGTR--
+300000100 Aubange, Zoning       01433  01433                % 07364 RGTR--
+300000016 Aubange, Nizette      01433  01433                % 07364 RGTR--
+400000058 Mt.St.Martin, Douane  01434  01434                % 07364 RGTR--
+400000141 Mt.St.Martin, Jean J  01435  01435                % 07364 RGTR--
+400000142 Mt.St.Martin, Centre  01436  01436                % 07364 RGTR--
+400000059 Mt.St.Martin, Eglant  01436  01436                % 07364 RGTR--
+400000054 Mt.St.Martin, Auchan  01438                       % 07364 RGTR--
+*Z 07365 RGTR--                                             % 07365 RGTR--
+*L 330      220902006 400000054  01519  01538               % 07365 RGTR--
+*A pl 220902006 400000054 000006  01519  01538              % 07365 RGTR--
+*A pm 220902006 400000054 000006  01519  01538              % 07365 RGTR--
+*R 1 400000054 220902006 400000054  01519  01538            % 07365 RGTR--
+*G RGB 220902006 400000054  01519  01538                    % 07365 RGTR--
+*A VE 220902006 400000054 000006  01519  01538              % 07365 RGTR--
+*I FD 220902006 400000054        0003150  01519  01538      % 07365 RGTR--
+220902006 Pétange, Gare                01519                % 07365 RGTR--
+220902003 Pétange, Gemeng       01519  01519                % 07365 RGTR--
+220902014 Pétange, Maison des   01521  01521                % 07365 RGTR--
+220902016 Pétange, Op der Mill  01522  01522                % 07365 RGTR--
+220902002 Pétange, Athuserstro  01523  01523                % 07365 RGTR--
+220902010 Pétange, Kräizheck    01523  01523                % 07365 RGTR--
+300000009 Athus, Douane         01525  01525                % 07365 RGTR--
+300000014 Athus, rue du Commer  01526  01526                % 07365 RGTR--
+300000010 Athus, Garage Peugeo  01527  01527                % 07365 RGTR--
+300000007 Athus, Centre (Grand  01528  01528                % 07365 RGTR--
+300000008 Athus, Croisement Ga  01529  01529                % 07365 RGTR--
+300000097 Athus, Clinique       01529  01529                % 07365 RGTR--
+300000098 Aubange, rue d'Athus  01530  01530                % 07365 RGTR--
+300000019 Aubange, Village      01530  01530                % 07365 RGTR--
+300000018 Aubange, Mairie       01531  01531                % 07365 RGTR--
+300000099 Aubange, Ecole        01532  01532                % 07365 RGTR--
+300000017 Aubange, Gare         01532  01532                % 07365 RGTR--
+300000100 Aubange, Zoning       01533  01533                % 07365 RGTR--
+300000016 Aubange, Nizette      01533  01533                % 07365 RGTR--
+400000058 Mt.St.Martin, Douane  01534  01534                % 07365 RGTR--
+400000141 Mt.St.Martin, Jean J  01535  01535                % 07365 RGTR--
+400000142 Mt.St.Martin, Centre  01536  01536                % 07365 RGTR--
+400000059 Mt.St.Martin, Eglant  01536  01536                % 07365 RGTR--
+400000054 Mt.St.Martin, Auchan  01538                       % 07365 RGTR--
+*Z 07366 RGTR--                                             % 07366 RGTR--
+*L 330      220902006 400000054  01838  01857               % 07366 RGTR--
+*A pl 220902006 400000054 000006  01838  01857              % 07366 RGTR--
+*A pm 220902006 400000054 000006  01838  01857              % 07366 RGTR--
+*R 1 400000054 220902006 400000054  01838  01857            % 07366 RGTR--
+*G RGB 220902006 400000054  01838  01857                    % 07366 RGTR--
+*A VE 220902006 400000054 000006  01838  01857              % 07366 RGTR--
+*I FD 220902006 400000054        0001429  01838  01857      % 07366 RGTR--
+220902006 Pétange, Gare                01838                % 07366 RGTR--
+220902003 Pétange, Gemeng       01838  01838                % 07366 RGTR--
+220902014 Pétange, Maison des   01840  01840                % 07366 RGTR--
+220902016 Pétange, Op der Mill  01841  01841                % 07366 RGTR--
+220902002 Pétange, Athuserstro  01842  01842                % 07366 RGTR--
+220902010 Pétange, Kräizheck    01842  01842                % 07366 RGTR--
+300000009 Athus, Douane         01844  01844                % 07366 RGTR--
+300000014 Athus, rue du Commer  01845  01845                % 07366 RGTR--
+300000010 Athus, Garage Peugeo  01846  01846                % 07366 RGTR--
+300000007 Athus, Centre (Grand  01847  01847                % 07366 RGTR--
+300000008 Athus, Croisement Ga  01848  01848                % 07366 RGTR--
+300000097 Athus, Clinique       01848  01848                % 07366 RGTR--
+300000098 Aubange, rue d'Athus  01849  01849                % 07366 RGTR--
+300000019 Aubange, Village      01849  01849                % 07366 RGTR--
+300000018 Aubange, Mairie       01850  01850                % 07366 RGTR--
+300000099 Aubange, Ecole        01851  01851                % 07366 RGTR--
+300000017 Aubange, Gare         01851  01851                % 07366 RGTR--
+300000100 Aubange, Zoning       01852  01852                % 07366 RGTR--
+300000016 Aubange, Nizette      01852  01852                % 07366 RGTR--
+400000058 Mt.St.Martin, Douane  01853  01853                % 07366 RGTR--
+400000141 Mt.St.Martin, Jean J  01854  01854                % 07366 RGTR--
+400000142 Mt.St.Martin, Centre  01855  01855                % 07366 RGTR--
+400000059 Mt.St.Martin, Eglant  01855  01855                % 07366 RGTR--
+400000054 Mt.St.Martin, Auchan  01857                       % 07366 RGTR--
+*Z 07367 RGTR--                                             % 07367 RGTR--
+*L 330      400000058 220902006  00606  00622               % 07367 RGTR--
+*A pl 400000058 220902006 000006  00606  00622              % 07367 RGTR--
+*A pn 400000058 220902006 000006  00606  00622              % 07367 RGTR--
+*R 2 220902006 400000058 220902006  00606  00622            % 07367 RGTR--
+*G RGB 400000058 220902006  00606  00622                    % 07367 RGTR--
+*A VE 400000058 220902006 000006  00606  00622              % 07367 RGTR--
+*I FD 400000058 220902006        0002248  00606  00622      % 07367 RGTR--
+400000058 Mt.St.Martin, Douane         00606                % 07367 RGTR--
+300000016 Aubange, Nizette      00606  00606                % 07367 RGTR--
+300000100 Aubange, Zoning       00607  00607                % 07367 RGTR--
+300000017 Aubange, Gare         00608  00608                % 07367 RGTR--
+300000099 Aubange, Ecole        00608  00608                % 07367 RGTR--
+300000018 Aubange, Mairie       00609  00609                % 07367 RGTR--
+300000019 Aubange, Village      00609  00609                % 07367 RGTR--
+300000098 Aubange, rue d'Athus  00610  00610                % 07367 RGTR--
+300000097 Athus, Clinique       00611  00611                % 07367 RGTR--
+300000008 Athus, Croisement Ga  00611  00611                % 07367 RGTR--
+300000007 Athus, Centre (Grand  00613  00613                % 07367 RGTR--
+300000010 Athus, Garage Peugeo  00613  00613                % 07367 RGTR--
+300000014 Athus, rue du Commer  00614  00614                % 07367 RGTR--
+300000009 Athus, Douane         00614  00614                % 07367 RGTR--
+220902010 Pétange, Kräizheck    00617  00617                % 07367 RGTR--
+220902002 Pétange, Athuserstro  00618  00618                % 07367 RGTR--
+220902016 Pétange, Op der Mill  00619  00619                % 07367 RGTR--
+220902008 Pétange, Rue Gillard  00619  00619                % 07367 RGTR--
+220902017 Pétange, Paschtouesc  00620  00620                % 07367 RGTR--
+220902006 Pétange, Gare         00622                       % 07367 RGTR--
+*Z 07368 RGTR--                                             % 07368 RGTR--
+*L 330      400000058 220902006  00650  00708               % 07368 RGTR--
+*A pl 400000058 220902006 000006  00650  00708              % 07368 RGTR--
+*A pn 400000058 220902006 000006  00650  00708              % 07368 RGTR--
+*R 2 220902006 400000058 220902006  00650  00708            % 07368 RGTR--
+*G RGB 400000058 220902006  00650  00708                    % 07368 RGTR--
+*A VE 400000058 220902006 000006  00650  00708              % 07368 RGTR--
+*I FD 400000058 220902006        0002154  00650  00708      % 07368 RGTR--
+400000058 Mt.St.Martin, Douane         00650                % 07368 RGTR--
+300000016 Aubange, Nizette      00650  00650                % 07368 RGTR--
+300000100 Aubange, Zoning       00651  00651                % 07368 RGTR--
+300000017 Aubange, Gare         00652  00652                % 07368 RGTR--
+300000099 Aubange, Ecole        00653  00653                % 07368 RGTR--
+300000018 Aubange, Mairie       00654  00654                % 07368 RGTR--
+300000019 Aubange, Village      00654  00654                % 07368 RGTR--
+300000098 Aubange, rue d'Athus  00655  00655                % 07368 RGTR--
+300000097 Athus, Clinique       00656  00656                % 07368 RGTR--
+300000008 Athus, Croisement Ga  00657  00657                % 07368 RGTR--
+300000007 Athus, Centre (Grand  00658  00658                % 07368 RGTR--
+300000010 Athus, Garage Peugeo  00659  00659                % 07368 RGTR--
+300000014 Athus, rue du Commer  00700  00700                % 07368 RGTR--
+300000009 Athus, Douane         00700  00700                % 07368 RGTR--
+220902010 Pétange, Kräizheck    00703  00703                % 07368 RGTR--
+220902002 Pétange, Athuserstro  00704  00704                % 07368 RGTR--
+220902016 Pétange, Op der Mill  00705  00705                % 07368 RGTR--
+220902008 Pétange, Rue Gillard  00706  00706                % 07368 RGTR--
+220902017 Pétange, Paschtouesc  00706  00706                % 07368 RGTR--
+220902006 Pétange, Gare         00708                       % 07368 RGTR--
+*Z 07369 RGTR--                                             % 07369 RGTR--
+*L 330      400000058 220902006  00721  00739               % 07369 RGTR--
+*A pl 400000058 220902006 000006  00721  00739              % 07369 RGTR--
+*A pn 400000058 220902006 000006  00721  00739              % 07369 RGTR--
+*R 2 220902006 400000058 220902006  00721  00739            % 07369 RGTR--
+*G RGB 400000058 220902006  00721  00739                    % 07369 RGTR--
+*A VE 400000058 220902006 000006  00721  00739              % 07369 RGTR--
+*I FD 400000058 220902006        0002575  00721  00739      % 07369 RGTR--
+400000058 Mt.St.Martin, Douane         00721                % 07369 RGTR--
+300000016 Aubange, Nizette      00721  00721                % 07369 RGTR--
+300000100 Aubange, Zoning       00722  00722                % 07369 RGTR--
+300000017 Aubange, Gare         00723  00723                % 07369 RGTR--
+300000099 Aubange, Ecole        00724  00724                % 07369 RGTR--
+300000018 Aubange, Mairie       00725  00725                % 07369 RGTR--
+300000019 Aubange, Village      00725  00725                % 07369 RGTR--
+300000098 Aubange, rue d'Athus  00726  00726                % 07369 RGTR--
+300000097 Athus, Clinique       00727  00727                % 07369 RGTR--
+300000008 Athus, Croisement Ga  00728  00728                % 07369 RGTR--
+300000007 Athus, Centre (Grand  00729  00729                % 07369 RGTR--
+300000010 Athus, Garage Peugeo  00730  00730                % 07369 RGTR--
+300000014 Athus, rue du Commer  00731  00731                % 07369 RGTR--
+300000009 Athus, Douane         00731  00731                % 07369 RGTR--
+220902010 Pétange, Kräizheck    00734  00734                % 07369 RGTR--
+220902002 Pétange, Athuserstro  00735  00735                % 07369 RGTR--
+220902016 Pétange, Op der Mill  00736  00736                % 07369 RGTR--
+220902008 Pétange, Rue Gillard  00737  00737                % 07369 RGTR--
+220902017 Pétange, Paschtouesc  00737  00737                % 07369 RGTR--
+220902006 Pétange, Gare         00739                       % 07369 RGTR--
+*Z 07370 RGTR--                                             % 07370 RGTR--
+*L 330      400000054 220902006  00944  01004               % 07370 RGTR--
+*A pl 400000054 220902006 000006  00944  01004              % 07370 RGTR--
+*A pn 400000054 220902006 000006  00944  01004              % 07370 RGTR--
+*R 2 220902006 400000054 220902006  00944  01004            % 07370 RGTR--
+*G RGB 400000054 220902006  00944  01004                    % 07370 RGTR--
+*A VE 400000054 220902006 000006  00944  01004              % 07370 RGTR--
+*I FD 400000054 220902006        0003623  00944  01004      % 07370 RGTR--
+400000054 Mt.St.Martin, Auchan         00944                % 07370 RGTR--
+400000142 Mt.St.Martin, Centre  00946  00946                % 07370 RGTR--
+400000141 Mt.St.Martin, Jean J  00947  00947                % 07370 RGTR--
+400000058 Mt.St.Martin, Douane  00948  00948                % 07370 RGTR--
+300000016 Aubange, Nizette      00948  00948                % 07370 RGTR--
+300000100 Aubange, Zoning       00949  00949                % 07370 RGTR--
+300000017 Aubange, Gare         00950  00950                % 07370 RGTR--
+300000099 Aubange, Ecole        00950  00950                % 07370 RGTR--
+300000018 Aubange, Mairie       00951  00951                % 07370 RGTR--
+300000019 Aubange, Village      00951  00951                % 07370 RGTR--
+300000098 Aubange, rue d'Athus  00952  00952                % 07370 RGTR--
+300000097 Athus, Clinique       00953  00953                % 07370 RGTR--
+300000008 Athus, Croisement Ga  00953  00953                % 07370 RGTR--
+300000007 Athus, Centre (Grand  00955  00955                % 07370 RGTR--
+300000010 Athus, Garage Peugeo  00955  00955                % 07370 RGTR--
+300000014 Athus, rue du Commer  00956  00956                % 07370 RGTR--
+300000009 Athus, Douane         00956  00956                % 07370 RGTR--
+220902010 Pétange, Kräizheck    00959  00959                % 07370 RGTR--
+220902002 Pétange, Athuserstro  01000  01000                % 07370 RGTR--
+220902016 Pétange, Op der Mill  01001  01001                % 07370 RGTR--
+220902008 Pétange, Rue Gillard  01001  01001                % 07370 RGTR--
+220902017 Pétange, Paschtouesc  01002  01002                % 07370 RGTR--
+220902006 Pétange, Gare         01004                       % 07370 RGTR--
+*Z 07371 RGTR--                                             % 07371 RGTR--
+*L 330      400000054 220902006  01044  01104               % 07371 RGTR--
+*A pl 400000054 220902006 000006  01044  01104              % 07371 RGTR--
+*A pn 400000054 220902006 000006  01044  01104              % 07371 RGTR--
+*R 2 220902006 400000054 220902006  01044  01104            % 07371 RGTR--
+*G RGB 400000054 220902006  01044  01104                    % 07371 RGTR--
+*A VE 400000054 220902006 000006  01044  01104              % 07371 RGTR--
+*I FD 400000054 220902006        0003624  01044  01104      % 07371 RGTR--
+400000054 Mt.St.Martin, Auchan         01044                % 07371 RGTR--
+400000142 Mt.St.Martin, Centre  01046  01046                % 07371 RGTR--
+400000141 Mt.St.Martin, Jean J  01047  01047                % 07371 RGTR--
+400000058 Mt.St.Martin, Douane  01048  01048                % 07371 RGTR--
+300000016 Aubange, Nizette      01048  01048                % 07371 RGTR--
+300000100 Aubange, Zoning       01049  01049                % 07371 RGTR--
+300000017 Aubange, Gare         01050  01050                % 07371 RGTR--
+300000099 Aubange, Ecole        01050  01050                % 07371 RGTR--
+300000018 Aubange, Mairie       01051  01051                % 07371 RGTR--
+300000019 Aubange, Village      01051  01051                % 07371 RGTR--
+300000098 Aubange, rue d'Athus  01052  01052                % 07371 RGTR--
+300000097 Athus, Clinique       01053  01053                % 07371 RGTR--
+300000008 Athus, Croisement Ga  01053  01053                % 07371 RGTR--
+300000007 Athus, Centre (Grand  01055  01055                % 07371 RGTR--
+300000010 Athus, Garage Peugeo  01055  01055                % 07371 RGTR--
+300000014 Athus, rue du Commer  01056  01056                % 07371 RGTR--
+300000009 Athus, Douane         01056  01056                % 07371 RGTR--
+220902010 Pétange, Kräizheck    01059  01059                % 07371 RGTR--
+220902002 Pétange, Athuserstro  01100  01100                % 07371 RGTR--
+220902016 Pétange, Op der Mill  01101  01101                % 07371 RGTR--
+220902008 Pétange, Rue Gillard  01101  01101                % 07371 RGTR--
+220902017 Pétange, Paschtouesc  01102  01102                % 07371 RGTR--
+220902006 Pétange, Gare         01104                       % 07371 RGTR--
+*Z 07372 RGTR--                                             % 07372 RGTR--
+*L 330      400000054 220902006  01144  01204               % 07372 RGTR--
+*A pl 400000054 220902006 000006  01144  01204              % 07372 RGTR--
+*A pn 400000054 220902006 000006  01144  01204              % 07372 RGTR--
+*R 2 220902006 400000054 220902006  01144  01204            % 07372 RGTR--
+*G RGB 400000054 220902006  01144  01204                    % 07372 RGTR--
+*A VE 400000054 220902006 000006  01144  01204              % 07372 RGTR--
+*I FD 400000054 220902006        0002823  01144  01204      % 07372 RGTR--
+400000054 Mt.St.Martin, Auchan         01144                % 07372 RGTR--
+400000142 Mt.St.Martin, Centre  01146  01146                % 07372 RGTR--
+400000141 Mt.St.Martin, Jean J  01147  01147                % 07372 RGTR--
+400000058 Mt.St.Martin, Douane  01148  01148                % 07372 RGTR--
+300000016 Aubange, Nizette      01148  01148                % 07372 RGTR--
+300000100 Aubange, Zoning       01149  01149                % 07372 RGTR--
+300000017 Aubange, Gare         01150  01150                % 07372 RGTR--
+300000099 Aubange, Ecole        01150  01150                % 07372 RGTR--
+300000018 Aubange, Mairie       01151  01151                % 07372 RGTR--
+300000019 Aubange, Village      01151  01151                % 07372 RGTR--
+300000098 Aubange, rue d'Athus  01152  01152                % 07372 RGTR--
+300000097 Athus, Clinique       01153  01153                % 07372 RGTR--
+300000008 Athus, Croisement Ga  01153  01153                % 07372 RGTR--
+300000007 Athus, Centre (Grand  01155  01155                % 07372 RGTR--
+300000010 Athus, Garage Peugeo  01155  01155                % 07372 RGTR--
+300000014 Athus, rue du Commer  01156  01156                % 07372 RGTR--
+300000009 Athus, Douane         01156  01156                % 07372 RGTR--
+220902010 Pétange, Kräizheck    01159  01159                % 07372 RGTR--
+220902002 Pétange, Athuserstro  01200  01200                % 07372 RGTR--
+220902016 Pétange, Op der Mill  01201  01201                % 07372 RGTR--
+220902008 Pétange, Rue Gillard  01201  01201                % 07372 RGTR--
+220902017 Pétange, Paschtouesc  01202  01202                % 07372 RGTR--
+220902006 Pétange, Gare         01204                       % 07372 RGTR--
+*Z 07373 RGTR--                                             % 07373 RGTR--
+*L 330      400000054 220902006  01244  01304               % 07373 RGTR--
+*A pl 400000054 220902006 000006  01244  01304              % 07373 RGTR--
+*A pn 400000054 220902006 000006  01244  01304              % 07373 RGTR--
+*R 2 220902006 400000054 220902006  01244  01304            % 07373 RGTR--
+*G RGB 400000054 220902006  01244  01304                    % 07373 RGTR--
+*A VE 400000054 220902006 000006  01244  01304              % 07373 RGTR--
+*I FD 400000054 220902006        0003118  01244  01304      % 07373 RGTR--
+400000054 Mt.St.Martin, Auchan         01244                % 07373 RGTR--
+400000142 Mt.St.Martin, Centre  01246  01246                % 07373 RGTR--
+400000141 Mt.St.Martin, Jean J  01247  01247                % 07373 RGTR--
+400000058 Mt.St.Martin, Douane  01248  01248                % 07373 RGTR--
+300000016 Aubange, Nizette      01248  01248                % 07373 RGTR--
+300000100 Aubange, Zoning       01249  01249                % 07373 RGTR--
+300000017 Aubange, Gare         01250  01250                % 07373 RGTR--
+300000099 Aubange, Ecole        01250  01250                % 07373 RGTR--
+300000018 Aubange, Mairie       01251  01251                % 07373 RGTR--
+300000019 Aubange, Village      01251  01251                % 07373 RGTR--
+300000098 Aubange, rue d'Athus  01252  01252                % 07373 RGTR--
+300000097 Athus, Clinique       01253  01253                % 07373 RGTR--
+300000008 Athus, Croisement Ga  01253  01253                % 07373 RGTR--
+300000007 Athus, Centre (Grand  01255  01255                % 07373 RGTR--
+300000010 Athus, Garage Peugeo  01255  01255                % 07373 RGTR--
+300000014 Athus, rue du Commer  01256  01256                % 07373 RGTR--
+300000009 Athus, Douane         01256  01256                % 07373 RGTR--
+220902010 Pétange, Kräizheck    01259  01259                % 07373 RGTR--
+220902002 Pétange, Athuserstro  01300  01300                % 07373 RGTR--
+220902016 Pétange, Op der Mill  01301  01301                % 07373 RGTR--
+220902008 Pétange, Rue Gillard  01301  01301                % 07373 RGTR--
+220902017 Pétange, Paschtouesc  01302  01302                % 07373 RGTR--
+220902006 Pétange, Gare         01304                       % 07373 RGTR--
+*Z 07374 RGTR--                                             % 07374 RGTR--
+*L 330      400000054 220902006  01344  01404               % 07374 RGTR--
+*A pl 400000054 220902006 000006  01344  01404              % 07374 RGTR--
+*A pn 400000054 220902006 000006  01344  01404              % 07374 RGTR--
+*R 2 220902006 400000054 220902006  01344  01404            % 07374 RGTR--
+*G RGB 400000054 220902006  01344  01404                    % 07374 RGTR--
+*A VE 400000054 220902006 000006  01344  01404              % 07374 RGTR--
+*I FD 400000054 220902006        0003625  01344  01404      % 07374 RGTR--
+400000054 Mt.St.Martin, Auchan         01344                % 07374 RGTR--
+400000142 Mt.St.Martin, Centre  01346  01346                % 07374 RGTR--
+400000141 Mt.St.Martin, Jean J  01347  01347                % 07374 RGTR--
+400000058 Mt.St.Martin, Douane  01348  01348                % 07374 RGTR--
+300000016 Aubange, Nizette      01348  01348                % 07374 RGTR--
+300000100 Aubange, Zoning       01349  01349                % 07374 RGTR--
+300000017 Aubange, Gare         01350  01350                % 07374 RGTR--
+300000099 Aubange, Ecole        01350  01350                % 07374 RGTR--
+300000018 Aubange, Mairie       01351  01351                % 07374 RGTR--
+300000019 Aubange, Village      01351  01351                % 07374 RGTR--
+300000098 Aubange, rue d'Athus  01352  01352                % 07374 RGTR--
+300000097 Athus, Clinique       01353  01353                % 07374 RGTR--
+300000008 Athus, Croisement Ga  01353  01353                % 07374 RGTR--
+300000007 Athus, Centre (Grand  01355  01355                % 07374 RGTR--
+300000010 Athus, Garage Peugeo  01355  01355                % 07374 RGTR--
+300000014 Athus, rue du Commer  01356  01356                % 07374 RGTR--
+300000009 Athus, Douane         01356  01356                % 07374 RGTR--
+220902010 Pétange, Kräizheck    01359  01359                % 07374 RGTR--
+220902002 Pétange, Athuserstro  01400  01400                % 07374 RGTR--
+220902016 Pétange, Op der Mill  01401  01401                % 07374 RGTR--
+220902008 Pétange, Rue Gillard  01401  01401                % 07374 RGTR--
+220902017 Pétange, Paschtouesc  01402  01402                % 07374 RGTR--
+220902006 Pétange, Gare         01404                       % 07374 RGTR--
+*Z 07375 RGTR--                                             % 07375 RGTR--
+*L 330      400000054 220902006  01444  01504               % 07375 RGTR--
+*A pl 400000054 220902006 000006  01444  01504              % 07375 RGTR--
+*A pn 400000054 220902006 000006  01444  01504              % 07375 RGTR--
+*R 2 220902006 400000054 220902006  01444  01504            % 07375 RGTR--
+*G RGB 400000054 220902006  01444  01504                    % 07375 RGTR--
+*A VE 400000054 220902006 000006  01444  01504              % 07375 RGTR--
+*I FD 400000054 220902006        0003276  01444  01504      % 07375 RGTR--
+400000054 Mt.St.Martin, Auchan         01444                % 07375 RGTR--
+400000142 Mt.St.Martin, Centre  01446  01446                % 07375 RGTR--
+400000141 Mt.St.Martin, Jean J  01447  01447                % 07375 RGTR--
+400000058 Mt.St.Martin, Douane  01448  01448                % 07375 RGTR--
+300000016 Aubange, Nizette      01448  01448                % 07375 RGTR--
+300000100 Aubange, Zoning       01449  01449                % 07375 RGTR--
+300000017 Aubange, Gare         01450  01450                % 07375 RGTR--
+300000099 Aubange, Ecole        01450  01450                % 07375 RGTR--
+300000018 Aubange, Mairie       01451  01451                % 07375 RGTR--
+300000019 Aubange, Village      01451  01451                % 07375 RGTR--
+300000098 Aubange, rue d'Athus  01452  01452                % 07375 RGTR--
+300000097 Athus, Clinique       01453  01453                % 07375 RGTR--
+300000008 Athus, Croisement Ga  01453  01453                % 07375 RGTR--
+300000007 Athus, Centre (Grand  01455  01455                % 07375 RGTR--
+300000010 Athus, Garage Peugeo  01455  01455                % 07375 RGTR--
+300000014 Athus, rue du Commer  01456  01456                % 07375 RGTR--
+300000009 Athus, Douane         01456  01456                % 07375 RGTR--
+220902010 Pétange, Kräizheck    01459  01459                % 07375 RGTR--
+220902002 Pétange, Athuserstro  01500  01500                % 07375 RGTR--
+220902016 Pétange, Op der Mill  01501  01501                % 07375 RGTR--
+220902008 Pétange, Rue Gillard  01501  01501                % 07375 RGTR--
+220902017 Pétange, Paschtouesc  01502  01502                % 07375 RGTR--
+220902006 Pétange, Gare         01504                       % 07375 RGTR--
+*Z 07376 RGTR--                                             % 07376 RGTR--
+*L 330      400000054 220902006  01544  01604               % 07376 RGTR--
+*A pl 400000054 220902006 000006  01544  01604              % 07376 RGTR--
+*A pn 400000054 220902006 000006  01544  01604              % 07376 RGTR--
+*R 2 220902006 400000054 220902006  01544  01604            % 07376 RGTR--
+*G RGB 400000054 220902006  01544  01604                    % 07376 RGTR--
+*A VE 400000054 220902006 000006  01544  01604              % 07376 RGTR--
+*I FD 400000054 220902006        0003626  01544  01604      % 07376 RGTR--
+400000054 Mt.St.Martin, Auchan         01544                % 07376 RGTR--
+400000142 Mt.St.Martin, Centre  01546  01546                % 07376 RGTR--
+400000141 Mt.St.Martin, Jean J  01547  01547                % 07376 RGTR--
+400000058 Mt.St.Martin, Douane  01548  01548                % 07376 RGTR--
+300000016 Aubange, Nizette      01548  01548                % 07376 RGTR--
+300000100 Aubange, Zoning       01549  01549                % 07376 RGTR--
+300000017 Aubange, Gare         01550  01550                % 07376 RGTR--
+300000099 Aubange, Ecole        01550  01550                % 07376 RGTR--
+300000018 Aubange, Mairie       01551  01551                % 07376 RGTR--
+300000019 Aubange, Village      01551  01551                % 07376 RGTR--
+300000098 Aubange, rue d'Athus  01552  01552                % 07376 RGTR--
+300000097 Athus, Clinique       01553  01553                % 07376 RGTR--
+300000008 Athus, Croisement Ga  01553  01553                % 07376 RGTR--
+300000007 Athus, Centre (Grand  01555  01555                % 07376 RGTR--
+300000010 Athus, Garage Peugeo  01555  01555                % 07376 RGTR--
+300000014 Athus, rue du Commer  01556  01556                % 07376 RGTR--
+300000009 Athus, Douane         01556  01556                % 07376 RGTR--
+220902010 Pétange, Kräizheck    01559  01559                % 07376 RGTR--
+220902002 Pétange, Athuserstro  01600  01600                % 07376 RGTR--
+220902016 Pétange, Op der Mill  01601  01601                % 07376 RGTR--
+220902008 Pétange, Rue Gillard  01601  01601                % 07376 RGTR--
+220902017 Pétange, Paschtouesc  01602  01602                % 07376 RGTR--
+220902006 Pétange, Gare         01604                       % 07376 RGTR--
+*Z 07377 RGTR--                                             % 07377 RGTR--
+*L 330      400000054 220902006  00844  00907               % 07377 RGTR--
+*A pl 400000054 220902006 000006  00844  00907              % 07377 RGTR--
+*A pn 400000054 220902006 000006  00844  00907              % 07377 RGTR--
+*R 2 220902006 400000054 220902006  00844  00907            % 07377 RGTR--
+*G RGB 400000054 220902006  00844  00907                    % 07377 RGTR--
+*A VE 400000054 220902006 000006  00844  00907              % 07377 RGTR--
+*I FD 400000054 220902006        0003274  00844  00907      % 07377 RGTR--
+400000054 Mt.St.Martin, Auchan         00844                % 07377 RGTR--
+400000142 Mt.St.Martin, Centre  00847  00847                % 07377 RGTR--
+400000141 Mt.St.Martin, Jean J  00847  00847                % 07377 RGTR--
+400000058 Mt.St.Martin, Douane  00848  00848                % 07377 RGTR--
+300000016 Aubange, Nizette      00849  00849                % 07377 RGTR--
+300000100 Aubange, Zoning       00850  00850                % 07377 RGTR--
+300000017 Aubange, Gare         00851  00851                % 07377 RGTR--
+300000099 Aubange, Ecole        00852  00852                % 07377 RGTR--
+300000018 Aubange, Mairie       00852  00852                % 07377 RGTR--
+300000019 Aubange, Village      00853  00853                % 07377 RGTR--
+300000098 Aubange, rue d'Athus  00854  00854                % 07377 RGTR--
+300000097 Athus, Clinique       00855  00855                % 07377 RGTR--
+300000008 Athus, Croisement Ga  00855  00855                % 07377 RGTR--
+300000007 Athus, Centre (Grand  00857  00857                % 07377 RGTR--
+300000010 Athus, Garage Peugeo  00858  00858                % 07377 RGTR--
+300000014 Athus, rue du Commer  00858  00858                % 07377 RGTR--
+300000009 Athus, Douane         00859  00859                % 07377 RGTR--
+220902010 Pétange, Kräizheck    00902  00902                % 07377 RGTR--
+220902002 Pétange, Athuserstro  00903  00903                % 07377 RGTR--
+220902016 Pétange, Op der Mill  00904  00904                % 07377 RGTR--
+220902008 Pétange, Rue Gillard  00904  00904                % 07377 RGTR--
+220902017 Pétange, Paschtouesc  00905  00905                % 07377 RGTR--
+220902006 Pétange, Gare         00907                       % 07377 RGTR--
+*Z 07378 RGTR--                                             % 07378 RGTR--
+*L 330      400000054 220902006  01702  01725               % 07378 RGTR--
+*A pl 400000054 220902006 000006  01702  01725              % 07378 RGTR--
+*A pn 400000054 220902006 000006  01702  01725              % 07378 RGTR--
+*R 2 220902006 400000054 220902006  01702  01725            % 07378 RGTR--
+*G RGB 400000054 220902006  01702  01725                    % 07378 RGTR--
+*A VE 400000054 220902006 000006  01702  01725              % 07378 RGTR--
+*I FD 400000054 220902006        0002511  01702  01725      % 07378 RGTR--
+400000054 Mt.St.Martin, Auchan         01702                % 07378 RGTR--
+400000142 Mt.St.Martin, Centre  01705  01705                % 07378 RGTR--
+400000141 Mt.St.Martin, Jean J  01705  01705                % 07378 RGTR--
+400000058 Mt.St.Martin, Douane  01706  01706                % 07378 RGTR--
+300000016 Aubange, Nizette      01707  01707                % 07378 RGTR--
+300000100 Aubange, Zoning       01708  01708                % 07378 RGTR--
+300000017 Aubange, Gare         01709  01709                % 07378 RGTR--
+300000099 Aubange, Ecole        01710  01710                % 07378 RGTR--
+300000018 Aubange, Mairie       01710  01710                % 07378 RGTR--
+300000019 Aubange, Village      01711  01711                % 07378 RGTR--
+300000098 Aubange, rue d'Athus  01712  01712                % 07378 RGTR--
+300000097 Athus, Clinique       01713  01713                % 07378 RGTR--
+300000008 Athus, Croisement Ga  01713  01713                % 07378 RGTR--
+300000007 Athus, Centre (Grand  01715  01715                % 07378 RGTR--
+300000010 Athus, Garage Peugeo  01716  01716                % 07378 RGTR--
+300000014 Athus, rue du Commer  01716  01716                % 07378 RGTR--
+300000009 Athus, Douane         01717  01717                % 07378 RGTR--
+220902010 Pétange, Kräizheck    01720  01720                % 07378 RGTR--
+220902002 Pétange, Athuserstro  01721  01721                % 07378 RGTR--
+220902016 Pétange, Op der Mill  01722  01722                % 07378 RGTR--
+220902008 Pétange, Rue Gillard  01722  01722                % 07378 RGTR--
+220902017 Pétange, Paschtouesc  01723  01723                % 07378 RGTR--
+220902006 Pétange, Gare         01725                       % 07378 RGTR--
+*Z 07379 RGTR--                                             % 07379 RGTR--
+*L 330      400000054 220902006  01802  01825               % 07379 RGTR--
+*A pl 400000054 220902006 000006  01802  01825              % 07379 RGTR--
+*A pn 400000054 220902006 000006  01802  01825              % 07379 RGTR--
+*R 2 220902006 400000054 220902006  01802  01825            % 07379 RGTR--
+*G RGB 400000054 220902006  01802  01825                    % 07379 RGTR--
+*A VE 400000054 220902006 000006  01802  01825              % 07379 RGTR--
+*I FD 400000054 220902006        0002512  01802  01825      % 07379 RGTR--
+400000054 Mt.St.Martin, Auchan         01802                % 07379 RGTR--
+400000142 Mt.St.Martin, Centre  01805  01805                % 07379 RGTR--
+400000141 Mt.St.Martin, Jean J  01805  01805                % 07379 RGTR--
+400000058 Mt.St.Martin, Douane  01806  01806                % 07379 RGTR--
+300000016 Aubange, Nizette      01807  01807                % 07379 RGTR--
+300000100 Aubange, Zoning       01808  01808                % 07379 RGTR--
+300000017 Aubange, Gare         01809  01809                % 07379 RGTR--
+300000099 Aubange, Ecole        01810  01810                % 07379 RGTR--
+300000018 Aubange, Mairie       01810  01810                % 07379 RGTR--
+300000019 Aubange, Village      01811  01811                % 07379 RGTR--
+300000098 Aubange, rue d'Athus  01812  01812                % 07379 RGTR--
+300000097 Athus, Clinique       01813  01813                % 07379 RGTR--
+300000008 Athus, Croisement Ga  01813  01813                % 07379 RGTR--
+300000007 Athus, Centre (Grand  01815  01815                % 07379 RGTR--
+300000010 Athus, Garage Peugeo  01816  01816                % 07379 RGTR--
+300000014 Athus, rue du Commer  01816  01816                % 07379 RGTR--
+300000009 Athus, Douane         01817  01817                % 07379 RGTR--
+220902010 Pétange, Kräizheck    01820  01820                % 07379 RGTR--
+220902002 Pétange, Athuserstro  01821  01821                % 07379 RGTR--
+220902016 Pétange, Op der Mill  01822  01822                % 07379 RGTR--
+220902008 Pétange, Rue Gillard  01822  01822                % 07379 RGTR--
+220902017 Pétange, Paschtouesc  01823  01823                % 07379 RGTR--
+220902006 Pétange, Gare         01825                       % 07379 RGTR--

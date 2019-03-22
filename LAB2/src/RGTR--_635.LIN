@@ -1,0 +1,596 @@
+*F 03 2
+*Z 00836 RGTR--                                             % 00836 RGTR--
+*L 635      120903023 110606004  01008  01057               % 00836 RGTR--
+*A BE 120903023 110606004 000006  01008  01057              % 00836 RGTR--
+*A bj 120903023 110606004 000006  01008  01057              % 00836 RGTR--
+*A bm 120903023 110606004 000006  01008  01057              % 00836 RGTR--
+*R 1 110606004 120903023 110606004  01008  01057            % 00836 RGTR--
+*G RGB 120903023 110606004  01008  01057                    % 00836 RGTR--
+*A VE 120903023 110606004 000006  01008  01057              % 00836 RGTR--
+*I FD 120903023 110606004        0002224  01008  01057      % 00836 RGTR--
+120903023 Wiltz, Lycée du Nord         01008                % 00836 RGTR--
+120903038 Wiltz, Schumann       01012  01012                % 00836 RGTR--
+121006001 Pommerlach, Theis     01014  01014                % 00836 RGTR--
+121006003 Pommerlach (Knauf)    01015  01015                % 00836 RGTR--
+121007001 Schleef               01019  01019                % 00836 RGTR--
+110810001 Hamiville, Maison 3   01026  01026                % 00836 RGTR--
+110810002 Hamiville, Maison 31  01027  01027                % 00836 RGTR--
+110821001 Wincrange, Eglise     01029  01029                % 00836 RGTR--
+110824001 Boevange              01030  01030                % 00836 RGTR--
+110813001 Lullange              01032  01032                % 00836 RGTR--
+110808001 Doennange             01034  01034                % 00836 RGTR--
+110806001 Deiffelt              01035  01035                % 00836 RGTR--
+110812001 Lentzweiler           01036  01036                % 00836 RGTR--
+110819001 Stockem (LUX)         01039  01039                % 00836 RGTR--
+110816001 Rumlange              01041  01041                % 00836 RGTR--
+110803003 Boxhorn, Schemer      01043  01043                % 00836 RGTR--
+110803001 Boxhorn, Eglise       01044  01044                % 00836 RGTR--
+110802001 Asselborn, Centre     01048  01048                % 00836 RGTR--
+110802003 Asselborn, Scierie    01048  01048                % 00836 RGTR--
+110606005 Troisvierges, Police  01051  01051                % 00836 RGTR--
+110606001 Troisvierges, Gare    01053  01053                % 00836 RGTR--
+110606003 Troisvierges, Milleb  01054  01054                % 00836 RGTR--
+110606002 Troisvierges, Mairie  01055  01055                % 00836 RGTR--
+110606006 Troisvierges, Tomm    01056  01056                % 00836 RGTR--
+110606004 Troisvierges, Paster  01057                       % 00836 RGTR--
+*Z 00837 RGTR--                                             % 00837 RGTR--
+*L 635      120903023 110606004  01408  01457               % 00837 RGTR--
+*A BE 120903023 110606004 000006  01408  01457              % 00837 RGTR--
+*A bj 120903023 110606004 000006  01408  01457              % 00837 RGTR--
+*A bm 120903023 110606004 000006  01408  01457              % 00837 RGTR--
+*R 1 110606004 120903023 110606004  01408  01457            % 00837 RGTR--
+*G RGB 120903023 110606004  01408  01457                    % 00837 RGTR--
+*A VE 120903023 110606004 000006  01408  01457              % 00837 RGTR--
+*I FD 120903023 110606004        0002225  01408  01457      % 00837 RGTR--
+120903023 Wiltz, Lycée du Nord         01408                % 00837 RGTR--
+120903038 Wiltz, Schumann       01412  01412                % 00837 RGTR--
+121006001 Pommerlach, Theis     01414  01414                % 00837 RGTR--
+121006003 Pommerlach (Knauf)    01415  01415                % 00837 RGTR--
+121007001 Schleef               01419  01419                % 00837 RGTR--
+110810001 Hamiville, Maison 3   01426  01426                % 00837 RGTR--
+110810002 Hamiville, Maison 31  01427  01427                % 00837 RGTR--
+110821001 Wincrange, Eglise     01429  01429                % 00837 RGTR--
+110824001 Boevange              01430  01430                % 00837 RGTR--
+110813001 Lullange              01432  01432                % 00837 RGTR--
+110808001 Doennange             01434  01434                % 00837 RGTR--
+110806001 Deiffelt              01435  01435                % 00837 RGTR--
+110812001 Lentzweiler           01436  01436                % 00837 RGTR--
+110819001 Stockem (LUX)         01439  01439                % 00837 RGTR--
+110816001 Rumlange              01441  01441                % 00837 RGTR--
+110803003 Boxhorn, Schemer      01443  01443                % 00837 RGTR--
+110803001 Boxhorn, Eglise       01444  01444                % 00837 RGTR--
+110802001 Asselborn, Centre     01448  01448                % 00837 RGTR--
+110802003 Asselborn, Scierie    01448  01448                % 00837 RGTR--
+110606005 Troisvierges, Police  01451  01451                % 00837 RGTR--
+110606001 Troisvierges, Gare    01453  01453                % 00837 RGTR--
+110606003 Troisvierges, Milleb  01454  01454                % 00837 RGTR--
+110606002 Troisvierges, Mairie  01455  01455                % 00837 RGTR--
+110606006 Troisvierges, Tomm    01456  01456                % 00837 RGTR--
+110606004 Troisvierges, Paster  01457                       % 00837 RGTR--
+*Z 00838 RGTR--                                             % 00838 RGTR--
+*L 635      120903023 110606004  01208  01257               % 00838 RGTR--
+*A BE 120903023 110606004 000158  01208  01257              % 00838 RGTR--
+*A bj 120903023 110606004 000158  01208  01257              % 00838 RGTR--
+*A bm 120903023 110606004 000158  01208  01257              % 00838 RGTR--
+*R 1 110606004 120903023 110606004  01208  01257            % 00838 RGTR--
+*G RGB 120903023 110606004  01208  01257                    % 00838 RGTR--
+*A VE 120903023 110606004 000158  01208  01257              % 00838 RGTR--
+*I FD 120903023 110606004        0002222  01208  01257      % 00838 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 00838 RGTR--
+120903038 Wiltz, Schumann       01212  01212                % 00838 RGTR--
+121006001 Pommerlach, Theis     01214  01214                % 00838 RGTR--
+121006003 Pommerlach (Knauf)    01215  01215                % 00838 RGTR--
+121007001 Schleef               01219  01219                % 00838 RGTR--
+110810001 Hamiville, Maison 3   01226  01226                % 00838 RGTR--
+110810002 Hamiville, Maison 31  01227  01227                % 00838 RGTR--
+110821001 Wincrange, Eglise     01229  01229                % 00838 RGTR--
+110824001 Boevange              01230  01230                % 00838 RGTR--
+110813001 Lullange              01232  01232                % 00838 RGTR--
+110808001 Doennange             01234  01234                % 00838 RGTR--
+110806001 Deiffelt              01235  01235                % 00838 RGTR--
+110812001 Lentzweiler           01236  01236                % 00838 RGTR--
+110819001 Stockem (LUX)         01239  01239                % 00838 RGTR--
+110816001 Rumlange              01241  01241                % 00838 RGTR--
+110803003 Boxhorn, Schemer      01243  01243                % 00838 RGTR--
+110803001 Boxhorn, Eglise       01244  01244                % 00838 RGTR--
+110802001 Asselborn, Centre     01248  01248                % 00838 RGTR--
+110802003 Asselborn, Scierie    01248  01248                % 00838 RGTR--
+110606005 Troisvierges, Police  01251  01251                % 00838 RGTR--
+110606001 Troisvierges, Gare    01253  01253                % 00838 RGTR--
+110606003 Troisvierges, Milleb  01254  01254                % 00838 RGTR--
+110606002 Troisvierges, Mairie  01255  01255                % 00838 RGTR--
+110606006 Troisvierges, Tomm    01256  01256                % 00838 RGTR--
+110606004 Troisvierges, Paster  01257                       % 00838 RGTR--
+*Z 00839 RGTR--                                             % 00839 RGTR--
+*L 635      120903023 110606004  00808  00858               % 00839 RGTR--
+*A BE 120903023 110606004 000006  00808  00858              % 00839 RGTR--
+*A bj 120903023 110606004 000006  00808  00858              % 00839 RGTR--
+*A bm 120903023 110606004 000006  00808  00858              % 00839 RGTR--
+*R 1 110606004 120903023 110606004  00808  00858            % 00839 RGTR--
+*G RGB 120903023 110606004  00808  00858                    % 00839 RGTR--
+*A VE 120903023 110606004 000006  00808  00858              % 00839 RGTR--
+*I FD 120903023 110606004        0002226  00808  00858      % 00839 RGTR--
+120903023 Wiltz, Lycée du Nord         00808                % 00839 RGTR--
+120903038 Wiltz, Schumann       00812  00812                % 00839 RGTR--
+121006001 Pommerlach, Theis     00815  00815                % 00839 RGTR--
+121006003 Pommerlach (Knauf)    00815  00815                % 00839 RGTR--
+121007001 Schleef               00819  00819                % 00839 RGTR--
+110810001 Hamiville, Maison 3   00827  00827                % 00839 RGTR--
+110810002 Hamiville, Maison 31  00827  00827                % 00839 RGTR--
+110821001 Wincrange, Eglise     00830  00830                % 00839 RGTR--
+110824001 Boevange              00831  00831                % 00839 RGTR--
+110813001 Lullange              00833  00833                % 00839 RGTR--
+110808001 Doennange             00835  00835                % 00839 RGTR--
+110806001 Deiffelt              00836  00836                % 00839 RGTR--
+110812001 Lentzweiler           00837  00837                % 00839 RGTR--
+110819001 Stockem (LUX)         00840  00840                % 00839 RGTR--
+110816001 Rumlange              00842  00842                % 00839 RGTR--
+110803003 Boxhorn, Schemer      00844  00844                % 00839 RGTR--
+110803001 Boxhorn, Eglise       00845  00845                % 00839 RGTR--
+110802001 Asselborn, Centre     00849  00849                % 00839 RGTR--
+110802003 Asselborn, Scierie    00849  00849                % 00839 RGTR--
+110606005 Troisvierges, Police  00852  00852                % 00839 RGTR--
+110606001 Troisvierges, Gare    00854  00854                % 00839 RGTR--
+110606003 Troisvierges, Milleb  00855  00855                % 00839 RGTR--
+110606002 Troisvierges, Mairie  00856  00856                % 00839 RGTR--
+110606006 Troisvierges, Tomm    00858  00858                % 00839 RGTR--
+110606004 Troisvierges, Paster  00858                       % 00839 RGTR--
+*Z 00840 RGTR--                                             % 00840 RGTR--
+*L 635      120903023 110606004  00908  00958               % 00840 RGTR--
+*A BE 120903023 110606004 000006  00908  00958              % 00840 RGTR--
+*A bj 120903023 110606004 000006  00908  00958              % 00840 RGTR--
+*A bm 120903023 110606004 000006  00908  00958              % 00840 RGTR--
+*R 1 110606004 120903023 110606004  00908  00958            % 00840 RGTR--
+*G RGB 120903023 110606004  00908  00958                    % 00840 RGTR--
+*A VE 120903023 110606004 000006  00908  00958              % 00840 RGTR--
+*I FD 120903023 110606004        0002227  00908  00958      % 00840 RGTR--
+120903023 Wiltz, Lycée du Nord         00908                % 00840 RGTR--
+120903038 Wiltz, Schumann       00912  00912                % 00840 RGTR--
+121006001 Pommerlach, Theis     00915  00915                % 00840 RGTR--
+121006003 Pommerlach (Knauf)    00915  00915                % 00840 RGTR--
+121007001 Schleef               00919  00919                % 00840 RGTR--
+110810001 Hamiville, Maison 3   00927  00927                % 00840 RGTR--
+110810002 Hamiville, Maison 31  00927  00927                % 00840 RGTR--
+110821001 Wincrange, Eglise     00930  00930                % 00840 RGTR--
+110824001 Boevange              00931  00931                % 00840 RGTR--
+110813001 Lullange              00933  00933                % 00840 RGTR--
+110808001 Doennange             00935  00935                % 00840 RGTR--
+110806001 Deiffelt              00936  00936                % 00840 RGTR--
+110812001 Lentzweiler           00937  00937                % 00840 RGTR--
+110819001 Stockem (LUX)         00940  00940                % 00840 RGTR--
+110816001 Rumlange              00942  00942                % 00840 RGTR--
+110803003 Boxhorn, Schemer      00944  00944                % 00840 RGTR--
+110803001 Boxhorn, Eglise       00945  00945                % 00840 RGTR--
+110802001 Asselborn, Centre     00949  00949                % 00840 RGTR--
+110802003 Asselborn, Scierie    00949  00949                % 00840 RGTR--
+110606005 Troisvierges, Police  00952  00952                % 00840 RGTR--
+110606001 Troisvierges, Gare    00954  00954                % 00840 RGTR--
+110606003 Troisvierges, Milleb  00955  00955                % 00840 RGTR--
+110606002 Troisvierges, Mairie  00956  00956                % 00840 RGTR--
+110606006 Troisvierges, Tomm    00958  00958                % 00840 RGTR--
+110606004 Troisvierges, Paster  00958                       % 00840 RGTR--
+*Z 00841 RGTR--                                             % 00841 RGTR--
+*L 635      120903023 110606004  01708  01758               % 00841 RGTR--
+*A BE 120903023 110606004 000006  01708  01758              % 00841 RGTR--
+*A bj 120903023 110606004 000006  01708  01758              % 00841 RGTR--
+*A bm 120903023 110606004 000006  01708  01758              % 00841 RGTR--
+*R 1 110606004 120903023 110606004  01708  01758            % 00841 RGTR--
+*G RGB 120903023 110606004  01708  01758                    % 00841 RGTR--
+*A VE 120903023 110606004 000006  01708  01758              % 00841 RGTR--
+*I FD 120903023 110606004        0002228  01708  01758      % 00841 RGTR--
+120903023 Wiltz, Lycée du Nord         01708                % 00841 RGTR--
+120903038 Wiltz, Schumann       01712  01712                % 00841 RGTR--
+121006001 Pommerlach, Theis     01715  01715                % 00841 RGTR--
+121006003 Pommerlach (Knauf)    01715  01715                % 00841 RGTR--
+121007001 Schleef               01719  01719                % 00841 RGTR--
+110810001 Hamiville, Maison 3   01727  01727                % 00841 RGTR--
+110810002 Hamiville, Maison 31  01727  01727                % 00841 RGTR--
+110821001 Wincrange, Eglise     01730  01730                % 00841 RGTR--
+110824001 Boevange              01731  01731                % 00841 RGTR--
+110813001 Lullange              01733  01733                % 00841 RGTR--
+110808001 Doennange             01735  01735                % 00841 RGTR--
+110806001 Deiffelt              01736  01736                % 00841 RGTR--
+110812001 Lentzweiler           01737  01737                % 00841 RGTR--
+110819001 Stockem (LUX)         01740  01740                % 00841 RGTR--
+110816001 Rumlange              01742  01742                % 00841 RGTR--
+110803003 Boxhorn, Schemer      01744  01744                % 00841 RGTR--
+110803001 Boxhorn, Eglise       01745  01745                % 00841 RGTR--
+110802001 Asselborn, Centre     01749  01749                % 00841 RGTR--
+110802003 Asselborn, Scierie    01749  01749                % 00841 RGTR--
+110606005 Troisvierges, Police  01752  01752                % 00841 RGTR--
+110606001 Troisvierges, Gare    01754  01754                % 00841 RGTR--
+110606003 Troisvierges, Milleb  01755  01755                % 00841 RGTR--
+110606002 Troisvierges, Mairie  01756  01756                % 00841 RGTR--
+110606006 Troisvierges, Tomm    01758  01758                % 00841 RGTR--
+110606004 Troisvierges, Paster  01758                       % 00841 RGTR--
+*Z 00842 RGTR--                                             % 00842 RGTR--
+*L 635      120903023 110606004  01808  01858               % 00842 RGTR--
+*A BE 120903023 110606004 000006  01808  01858              % 00842 RGTR--
+*A bj 120903023 110606004 000006  01808  01858              % 00842 RGTR--
+*A bm 120903023 110606004 000006  01808  01858              % 00842 RGTR--
+*R 1 110606004 120903023 110606004  01808  01858            % 00842 RGTR--
+*G RGB 120903023 110606004  01808  01858                    % 00842 RGTR--
+*A VE 120903023 110606004 000006  01808  01858              % 00842 RGTR--
+*I FD 120903023 110606004        0002229  01808  01858      % 00842 RGTR--
+120903023 Wiltz, Lycée du Nord         01808                % 00842 RGTR--
+120903038 Wiltz, Schumann       01812  01812                % 00842 RGTR--
+121006001 Pommerlach, Theis     01815  01815                % 00842 RGTR--
+121006003 Pommerlach (Knauf)    01815  01815                % 00842 RGTR--
+121007001 Schleef               01819  01819                % 00842 RGTR--
+110810001 Hamiville, Maison 3   01827  01827                % 00842 RGTR--
+110810002 Hamiville, Maison 31  01827  01827                % 00842 RGTR--
+110821001 Wincrange, Eglise     01830  01830                % 00842 RGTR--
+110824001 Boevange              01831  01831                % 00842 RGTR--
+110813001 Lullange              01833  01833                % 00842 RGTR--
+110808001 Doennange             01835  01835                % 00842 RGTR--
+110806001 Deiffelt              01836  01836                % 00842 RGTR--
+110812001 Lentzweiler           01837  01837                % 00842 RGTR--
+110819001 Stockem (LUX)         01840  01840                % 00842 RGTR--
+110816001 Rumlange              01842  01842                % 00842 RGTR--
+110803003 Boxhorn, Schemer      01844  01844                % 00842 RGTR--
+110803001 Boxhorn, Eglise       01845  01845                % 00842 RGTR--
+110802001 Asselborn, Centre     01849  01849                % 00842 RGTR--
+110802003 Asselborn, Scierie    01849  01849                % 00842 RGTR--
+110606005 Troisvierges, Police  01852  01852                % 00842 RGTR--
+110606001 Troisvierges, Gare    01854  01854                % 00842 RGTR--
+110606003 Troisvierges, Milleb  01855  01855                % 00842 RGTR--
+110606002 Troisvierges, Mairie  01856  01856                % 00842 RGTR--
+110606006 Troisvierges, Tomm    01858  01858                % 00842 RGTR--
+110606004 Troisvierges, Paster  01858                       % 00842 RGTR--
+*Z 00843 RGTR--                                             % 00843 RGTR--
+*L 635      120903023 110606004  01608  01658               % 00843 RGTR--
+*A BE 120903023 110606004 000159  01608  01658              % 00843 RGTR--
+*A bj 120903023 110606004 000159  01608  01658              % 00843 RGTR--
+*A bm 120903023 110606004 000159  01608  01658              % 00843 RGTR--
+*R 1 110606004 120903023 110606004  01608  01658            % 00843 RGTR--
+*G RGB 120903023 110606004  01608  01658                    % 00843 RGTR--
+*A VE 120903023 110606004 000159  01608  01658              % 00843 RGTR--
+*I FD 120903023 110606004        0002230  01608  01658      % 00843 RGTR--
+120903023 Wiltz, Lycée du Nord         01608                % 00843 RGTR--
+120903038 Wiltz, Schumann       01612  01612                % 00843 RGTR--
+121006001 Pommerlach, Theis     01615  01615                % 00843 RGTR--
+121006003 Pommerlach (Knauf)    01615  01615                % 00843 RGTR--
+121007001 Schleef               01619  01619                % 00843 RGTR--
+110810001 Hamiville, Maison 3   01627  01627                % 00843 RGTR--
+110810002 Hamiville, Maison 31  01627  01627                % 00843 RGTR--
+110821001 Wincrange, Eglise     01630  01630                % 00843 RGTR--
+110824001 Boevange              01631  01631                % 00843 RGTR--
+110813001 Lullange              01633  01633                % 00843 RGTR--
+110808001 Doennange             01635  01635                % 00843 RGTR--
+110806001 Deiffelt              01636  01636                % 00843 RGTR--
+110812001 Lentzweiler           01637  01637                % 00843 RGTR--
+110819001 Stockem (LUX)         01640  01640                % 00843 RGTR--
+110816001 Rumlange              01642  01642                % 00843 RGTR--
+110803003 Boxhorn, Schemer      01644  01644                % 00843 RGTR--
+110803001 Boxhorn, Eglise       01645  01645                % 00843 RGTR--
+110802001 Asselborn, Centre     01649  01649                % 00843 RGTR--
+110802003 Asselborn, Scierie    01649  01649                % 00843 RGTR--
+110606005 Troisvierges, Police  01652  01652                % 00843 RGTR--
+110606001 Troisvierges, Gare    01654  01654                % 00843 RGTR--
+110606003 Troisvierges, Milleb  01655  01655                % 00843 RGTR--
+110606002 Troisvierges, Mairie  01656  01656                % 00843 RGTR--
+110606006 Troisvierges, Tomm    01658  01658                % 00843 RGTR--
+110606004 Troisvierges, Paster  01658                       % 00843 RGTR--
+*Z 00844 RGTR--                                             % 00844 RGTR--
+*L 635      120903023 110821001  01108  01129               % 00844 RGTR--
+*A BE 120903023 110821001 000006  01108  01129              % 00844 RGTR--
+*A bj 120903023 110821001 000006  01108  01129              % 00844 RGTR--
+*A bn 120903023 110821001 000006  01108  01129              % 00844 RGTR--
+*R 1 110821001 120903023 110821001  01108  01129            % 00844 RGTR--
+*G RGB 120903023 110821001  01108  01129                    % 00844 RGTR--
+*A VE 120903023 110821001 000006  01108  01129              % 00844 RGTR--
+*I FD 120903023 110821001        0001215  01108  01129      % 00844 RGTR--
+120903023 Wiltz, Lycée du Nord         01108                % 00844 RGTR--
+120903038 Wiltz, Schumann       01112  01112                % 00844 RGTR--
+121006001 Pommerlach, Theis     01114  01114                % 00844 RGTR--
+121006003 Pommerlach (Knauf)    01115  01115                % 00844 RGTR--
+121007001 Schleef               01119  01119                % 00844 RGTR--
+110810001 Hamiville, Maison 3   01126  01126                % 00844 RGTR--
+110810002 Hamiville, Maison 31  01127  01127                % 00844 RGTR--
+110821001 Wincrange, Eglise     01129                       % 00844 RGTR--
+*Z 00845 RGTR--                                             % 00845 RGTR--
+*L 635      110606004 120903023  00800  00849               % 00845 RGTR--
+*A BE 110606004 120903023 000006  00800  00849              % 00845 RGTR--
+*A bj 110606004 120903023 000006  00800  00849              % 00845 RGTR--
+*A bl 110606004 120903023 000006  00800  00849              % 00845 RGTR--
+*R 2 120903023 110606004 120903023  00800  00849            % 00845 RGTR--
+*G RGB 110606004 120903023  00800  00849                    % 00845 RGTR--
+*A VE 110606004 120903023 000006  00800  00849              % 00845 RGTR--
+*I FD 110606004 120903023        0001953  00800  00849      % 00845 RGTR--
+110606004 Troisvierges, Paster         00800                % 00845 RGTR--
+110606006 Troisvierges, Tomm    00800  00800                % 00845 RGTR--
+110606002 Troisvierges, Mairie  00801  00801                % 00845 RGTR--
+110606003 Troisvierges, Milleb  00803  00803                % 00845 RGTR--
+110606001 Troisvierges, Gare    00804  00804                % 00845 RGTR--
+110606005 Troisvierges, Police  00806  00806                % 00845 RGTR--
+110802003 Asselborn, Scierie    00808  00808                % 00845 RGTR--
+110802001 Asselborn, Centre     00809  00809                % 00845 RGTR--
+110803001 Boxhorn, Eglise       00813  00813                % 00845 RGTR--
+110803003 Boxhorn, Schemer      00813  00813                % 00845 RGTR--
+110816001 Rumlange              00815  00815                % 00845 RGTR--
+110819001 Stockem (LUX)         00818  00818                % 00845 RGTR--
+110812001 Lentzweiler           00820  00820                % 00845 RGTR--
+110806001 Deiffelt              00822  00822                % 00845 RGTR--
+110808001 Doennange             00823  00823                % 00845 RGTR--
+110813001 Lullange              00825  00825                % 00845 RGTR--
+110824001 Boevange              00826  00826                % 00845 RGTR--
+110821001 Wincrange, Eglise     00828  00828                % 00845 RGTR--
+110810002 Hamiville, Maison 31  00830  00830                % 00845 RGTR--
+110810001 Hamiville, Maison 3   00830  00830                % 00845 RGTR--
+121007001 Schleef               00837  00837                % 00845 RGTR--
+121006003 Pommerlach (Knauf)    00842  00842                % 00845 RGTR--
+121006001 Pommerlach, Theis     00842  00842                % 00845 RGTR--
+120903038 Wiltz, Schumann       00845  00845                % 00845 RGTR--
+120903023 Wiltz, Lycée du Nord  00849                       % 00845 RGTR--
+*Z 00846 RGTR--                                             % 00846 RGTR--
+*L 635      110606004 120903023  00901  00950               % 00846 RGTR--
+*A BE 110606004 120903023 000006  00901  00950              % 00846 RGTR--
+*A bj 110606004 120903023 000006  00901  00950              % 00846 RGTR--
+*A bl 110606004 120903023 000006  00901  00950              % 00846 RGTR--
+*R 2 120903023 110606004 120903023  00901  00950            % 00846 RGTR--
+*G RGB 110606004 120903023  00901  00950                    % 00846 RGTR--
+*A VE 110606004 120903023 000006  00901  00950              % 00846 RGTR--
+*I FD 110606004 120903023        0002231  00901  00950      % 00846 RGTR--
+110606004 Troisvierges, Paster         00901                % 00846 RGTR--
+110606006 Troisvierges, Tomm    00901  00901                % 00846 RGTR--
+110606002 Troisvierges, Mairie  00902  00902                % 00846 RGTR--
+110606003 Troisvierges, Milleb  00904  00904                % 00846 RGTR--
+110606001 Troisvierges, Gare    00905  00905                % 00846 RGTR--
+110606005 Troisvierges, Police  00907  00907                % 00846 RGTR--
+110802003 Asselborn, Scierie    00909  00909                % 00846 RGTR--
+110802001 Asselborn, Centre     00910  00910                % 00846 RGTR--
+110803001 Boxhorn, Eglise       00914  00914                % 00846 RGTR--
+110803003 Boxhorn, Schemer      00914  00914                % 00846 RGTR--
+110816001 Rumlange              00916  00916                % 00846 RGTR--
+110819001 Stockem (LUX)         00919  00919                % 00846 RGTR--
+110812001 Lentzweiler           00921  00921                % 00846 RGTR--
+110806001 Deiffelt              00923  00923                % 00846 RGTR--
+110808001 Doennange             00924  00924                % 00846 RGTR--
+110813001 Lullange              00926  00926                % 00846 RGTR--
+110824001 Boevange              00927  00927                % 00846 RGTR--
+110821001 Wincrange, Eglise     00929  00929                % 00846 RGTR--
+110810002 Hamiville, Maison 31  00931  00931                % 00846 RGTR--
+110810001 Hamiville, Maison 3   00931  00931                % 00846 RGTR--
+121007001 Schleef               00938  00938                % 00846 RGTR--
+121006003 Pommerlach (Knauf)    00943  00943                % 00846 RGTR--
+121006001 Pommerlach, Theis     00943  00943                % 00846 RGTR--
+120903038 Wiltz, Schumann       00946  00946                % 00846 RGTR--
+120903023 Wiltz, Lycée du Nord  00950                       % 00846 RGTR--
+*Z 00847 RGTR--                                             % 00847 RGTR--
+*L 635      110606004 120903023  01700  01749               % 00847 RGTR--
+*A BE 110606004 120903023 000006  01700  01749              % 00847 RGTR--
+*A bj 110606004 120903023 000006  01700  01749              % 00847 RGTR--
+*A bl 110606004 120903023 000006  01700  01749              % 00847 RGTR--
+*R 2 120903023 110606004 120903023  01700  01749            % 00847 RGTR--
+*G RGB 110606004 120903023  01700  01749                    % 00847 RGTR--
+*A VE 110606004 120903023 000006  01700  01749              % 00847 RGTR--
+*I FD 110606004 120903023        0001977  01700  01749      % 00847 RGTR--
+110606004 Troisvierges, Paster         01700                % 00847 RGTR--
+110606006 Troisvierges, Tomm    01700  01700                % 00847 RGTR--
+110606002 Troisvierges, Mairie  01701  01701                % 00847 RGTR--
+110606003 Troisvierges, Milleb  01703  01703                % 00847 RGTR--
+110606001 Troisvierges, Gare    01704  01704                % 00847 RGTR--
+110606005 Troisvierges, Police  01706  01706                % 00847 RGTR--
+110802003 Asselborn, Scierie    01708  01708                % 00847 RGTR--
+110802001 Asselborn, Centre     01709  01709                % 00847 RGTR--
+110803001 Boxhorn, Eglise       01713  01713                % 00847 RGTR--
+110803003 Boxhorn, Schemer      01713  01713                % 00847 RGTR--
+110816001 Rumlange              01715  01715                % 00847 RGTR--
+110819001 Stockem (LUX)         01718  01718                % 00847 RGTR--
+110812001 Lentzweiler           01720  01720                % 00847 RGTR--
+110806001 Deiffelt              01722  01722                % 00847 RGTR--
+110808001 Doennange             01723  01723                % 00847 RGTR--
+110813001 Lullange              01725  01725                % 00847 RGTR--
+110824001 Boevange              01726  01726                % 00847 RGTR--
+110821001 Wincrange, Eglise     01728  01728                % 00847 RGTR--
+110810002 Hamiville, Maison 31  01730  01730                % 00847 RGTR--
+110810001 Hamiville, Maison 3   01730  01730                % 00847 RGTR--
+121007001 Schleef               01737  01737                % 00847 RGTR--
+121006003 Pommerlach (Knauf)    01742  01742                % 00847 RGTR--
+121006001 Pommerlach, Theis     01742  01742                % 00847 RGTR--
+120903038 Wiltz, Schumann       01745  01745                % 00847 RGTR--
+120903023 Wiltz, Lycée du Nord  01749                       % 00847 RGTR--
+*Z 00848 RGTR--                                             % 00848 RGTR--
+*L 635      110606004 120903023  00700  00749               % 00848 RGTR--
+*A BE 110606004 120903023 000033  00700  00749              % 00848 RGTR--
+*A bj 110606004 120903023 000033  00700  00749              % 00848 RGTR--
+*A bl 110606004 120903023 000033  00700  00749              % 00848 RGTR--
+*R 2 120903023 110606004 120903023  00700  00749            % 00848 RGTR--
+*G RGB 110606004 120903023  00700  00749                    % 00848 RGTR--
+*A VE 110606004 120903023 000033  00700  00749              % 00848 RGTR--
+*I FD 110606004 120903023        0002152  00700  00749      % 00848 RGTR--
+110606004 Troisvierges, Paster         00700                % 00848 RGTR--
+110606006 Troisvierges, Tomm    00700  00700                % 00848 RGTR--
+110606002 Troisvierges, Mairie  00701  00701                % 00848 RGTR--
+110606003 Troisvierges, Milleb  00703  00703                % 00848 RGTR--
+110606001 Troisvierges, Gare    00704  00704                % 00848 RGTR--
+110606005 Troisvierges, Police  00706  00706                % 00848 RGTR--
+110802003 Asselborn, Scierie    00708  00708                % 00848 RGTR--
+110802001 Asselborn, Centre     00709  00709                % 00848 RGTR--
+110803001 Boxhorn, Eglise       00713  00713                % 00848 RGTR--
+110803003 Boxhorn, Schemer      00713  00713                % 00848 RGTR--
+110816001 Rumlange              00715  00715                % 00848 RGTR--
+110819001 Stockem (LUX)         00718  00718                % 00848 RGTR--
+110812001 Lentzweiler           00720  00720                % 00848 RGTR--
+110806001 Deiffelt              00722  00722                % 00848 RGTR--
+110808001 Doennange             00723  00723                % 00848 RGTR--
+110813001 Lullange              00725  00725                % 00848 RGTR--
+110824001 Boevange              00726  00726                % 00848 RGTR--
+110821001 Wincrange, Eglise     00728  00728                % 00848 RGTR--
+110810002 Hamiville, Maison 31  00730  00730                % 00848 RGTR--
+110810001 Hamiville, Maison 3   00730  00730                % 00848 RGTR--
+121007001 Schleef               00737  00737                % 00848 RGTR--
+121006003 Pommerlach (Knauf)    00742  00742                % 00848 RGTR--
+121006001 Pommerlach, Theis     00742  00742                % 00848 RGTR--
+120903038 Wiltz, Schumann       00745  00745                % 00848 RGTR--
+120903023 Wiltz, Lycée du Nord  00749                       % 00848 RGTR--
+*Z 00849 RGTR--                                             % 00849 RGTR--
+*L 635      110606004 120903023  01000  01048               % 00849 RGTR--
+*A BE 110606004 120903023 000006  01000  01048              % 00849 RGTR--
+*A bj 110606004 120903023 000006  01000  01048              % 00849 RGTR--
+*A bl 110606004 120903023 000006  01000  01048              % 00849 RGTR--
+*R 2 120903023 110606004 120903023  01000  01048            % 00849 RGTR--
+*G RGB 110606004 120903023  01000  01048                    % 00849 RGTR--
+*A VE 110606004 120903023 000006  01000  01048              % 00849 RGTR--
+*I FD 110606004 120903023        0001958  01000  01048      % 00849 RGTR--
+110606004 Troisvierges, Paster         01000                % 00849 RGTR--
+110606006 Troisvierges, Tomm    01000  01000                % 00849 RGTR--
+110606002 Troisvierges, Mairie  01001  01001                % 00849 RGTR--
+110606003 Troisvierges, Milleb  01002  01002                % 00849 RGTR--
+110606001 Troisvierges, Gare    01003  01003                % 00849 RGTR--
+110606005 Troisvierges, Police  01005  01005                % 00849 RGTR--
+110802003 Asselborn, Scierie    01008  01008                % 00849 RGTR--
+110802001 Asselborn, Centre     01008  01008                % 00849 RGTR--
+110803001 Boxhorn, Eglise       01012  01012                % 00849 RGTR--
+110803003 Boxhorn, Schemer      01012  01012                % 00849 RGTR--
+110816001 Rumlange              01014  01014                % 00849 RGTR--
+110819001 Stockem (LUX)         01017  01017                % 00849 RGTR--
+110812001 Lentzweiler           01019  01019                % 00849 RGTR--
+110806001 Deiffelt              01021  01021                % 00849 RGTR--
+110808001 Doennange             01022  01022                % 00849 RGTR--
+110813001 Lullange              01024  01024                % 00849 RGTR--
+110824001 Boevange              01025  01025                % 00849 RGTR--
+110821001 Wincrange, Eglise     01027  01027                % 00849 RGTR--
+110810002 Hamiville, Maison 31  01029  01029                % 00849 RGTR--
+110810001 Hamiville, Maison 3   01029  01029                % 00849 RGTR--
+121007001 Schleef               01036  01036                % 00849 RGTR--
+121006003 Pommerlach (Knauf)    01040  01040                % 00849 RGTR--
+121006001 Pommerlach, Theis     01041  01041                % 00849 RGTR--
+120903038 Wiltz, Schumann       01044  01044                % 00849 RGTR--
+120903023 Wiltz, Lycée du Nord  01048                       % 00849 RGTR--
+*Z 00850 RGTR--                                             % 00850 RGTR--
+*L 635      110606004 120903023  01100  01148               % 00850 RGTR--
+*A BE 110606004 120903023 000006  01100  01148              % 00850 RGTR--
+*A bj 110606004 120903023 000006  01100  01148              % 00850 RGTR--
+*A bl 110606004 120903023 000006  01100  01148              % 00850 RGTR--
+*R 2 120903023 110606004 120903023  01100  01148            % 00850 RGTR--
+*G RGB 110606004 120903023  01100  01148                    % 00850 RGTR--
+*A VE 110606004 120903023 000006  01100  01148              % 00850 RGTR--
+*I FD 110606004 120903023        0001961  01100  01148      % 00850 RGTR--
+110606004 Troisvierges, Paster         01100                % 00850 RGTR--
+110606006 Troisvierges, Tomm    01100  01100                % 00850 RGTR--
+110606002 Troisvierges, Mairie  01101  01101                % 00850 RGTR--
+110606003 Troisvierges, Milleb  01102  01102                % 00850 RGTR--
+110606001 Troisvierges, Gare    01103  01103                % 00850 RGTR--
+110606005 Troisvierges, Police  01105  01105                % 00850 RGTR--
+110802003 Asselborn, Scierie    01108  01108                % 00850 RGTR--
+110802001 Asselborn, Centre     01108  01108                % 00850 RGTR--
+110803001 Boxhorn, Eglise       01112  01112                % 00850 RGTR--
+110803003 Boxhorn, Schemer      01112  01112                % 00850 RGTR--
+110816001 Rumlange              01114  01114                % 00850 RGTR--
+110819001 Stockem (LUX)         01117  01117                % 00850 RGTR--
+110812001 Lentzweiler           01119  01119                % 00850 RGTR--
+110806001 Deiffelt              01121  01121                % 00850 RGTR--
+110808001 Doennange             01122  01122                % 00850 RGTR--
+110813001 Lullange              01124  01124                % 00850 RGTR--
+110824001 Boevange              01125  01125                % 00850 RGTR--
+110821001 Wincrange, Eglise     01127  01127                % 00850 RGTR--
+110810002 Hamiville, Maison 31  01129  01129                % 00850 RGTR--
+110810001 Hamiville, Maison 3   01129  01129                % 00850 RGTR--
+121007001 Schleef               01136  01136                % 00850 RGTR--
+121006003 Pommerlach (Knauf)    01140  01140                % 00850 RGTR--
+121006001 Pommerlach, Theis     01141  01141                % 00850 RGTR--
+120903038 Wiltz, Schumann       01144  01144                % 00850 RGTR--
+120903023 Wiltz, Lycée du Nord  01148                       % 00850 RGTR--
+*Z 00851 RGTR--                                             % 00851 RGTR--
+*L 635      110606004 120903023  01300  01348               % 00851 RGTR--
+*A BE 110606004 120903023 000006  01300  01348              % 00851 RGTR--
+*A bj 110606004 120903023 000006  01300  01348              % 00851 RGTR--
+*A bl 110606004 120903023 000006  01300  01348              % 00851 RGTR--
+*R 2 120903023 110606004 120903023  01300  01348            % 00851 RGTR--
+*G RGB 110606004 120903023  01300  01348                    % 00851 RGTR--
+*A VE 110606004 120903023 000006  01300  01348              % 00851 RGTR--
+*I FD 110606004 120903023        0001966  01300  01348      % 00851 RGTR--
+110606004 Troisvierges, Paster         01300                % 00851 RGTR--
+110606006 Troisvierges, Tomm    01300  01300                % 00851 RGTR--
+110606002 Troisvierges, Mairie  01301  01301                % 00851 RGTR--
+110606003 Troisvierges, Milleb  01302  01302                % 00851 RGTR--
+110606001 Troisvierges, Gare    01303  01303                % 00851 RGTR--
+110606005 Troisvierges, Police  01305  01305                % 00851 RGTR--
+110802003 Asselborn, Scierie    01308  01308                % 00851 RGTR--
+110802001 Asselborn, Centre     01308  01308                % 00851 RGTR--
+110803001 Boxhorn, Eglise       01312  01312                % 00851 RGTR--
+110803003 Boxhorn, Schemer      01312  01312                % 00851 RGTR--
+110816001 Rumlange              01314  01314                % 00851 RGTR--
+110819001 Stockem (LUX)         01317  01317                % 00851 RGTR--
+110812001 Lentzweiler           01319  01319                % 00851 RGTR--
+110806001 Deiffelt              01321  01321                % 00851 RGTR--
+110808001 Doennange             01322  01322                % 00851 RGTR--
+110813001 Lullange              01324  01324                % 00851 RGTR--
+110824001 Boevange              01325  01325                % 00851 RGTR--
+110821001 Wincrange, Eglise     01327  01327                % 00851 RGTR--
+110810002 Hamiville, Maison 31  01329  01329                % 00851 RGTR--
+110810001 Hamiville, Maison 3   01329  01329                % 00851 RGTR--
+121007001 Schleef               01336  01336                % 00851 RGTR--
+121006003 Pommerlach (Knauf)    01340  01340                % 00851 RGTR--
+121006001 Pommerlach, Theis     01341  01341                % 00851 RGTR--
+120903038 Wiltz, Schumann       01344  01344                % 00851 RGTR--
+120903023 Wiltz, Lycée du Nord  01348                       % 00851 RGTR--
+*Z 00852 RGTR--                                             % 00852 RGTR--
+*L 635      110606004 120903023  01400  01448               % 00852 RGTR--
+*A BE 110606004 120903023 000006  01400  01448              % 00852 RGTR--
+*A bj 110606004 120903023 000006  01400  01448              % 00852 RGTR--
+*A bl 110606004 120903023 000006  01400  01448              % 00852 RGTR--
+*R 2 120903023 110606004 120903023  01400  01448            % 00852 RGTR--
+*G RGB 110606004 120903023  01400  01448                    % 00852 RGTR--
+*A VE 110606004 120903023 000006  01400  01448              % 00852 RGTR--
+*I FD 110606004 120903023        0001969  01400  01448      % 00852 RGTR--
+110606004 Troisvierges, Paster         01400                % 00852 RGTR--
+110606006 Troisvierges, Tomm    01400  01400                % 00852 RGTR--
+110606002 Troisvierges, Mairie  01401  01401                % 00852 RGTR--
+110606003 Troisvierges, Milleb  01402  01402                % 00852 RGTR--
+110606001 Troisvierges, Gare    01403  01403                % 00852 RGTR--
+110606005 Troisvierges, Police  01405  01405                % 00852 RGTR--
+110802003 Asselborn, Scierie    01408  01408                % 00852 RGTR--
+110802001 Asselborn, Centre     01408  01408                % 00852 RGTR--
+110803001 Boxhorn, Eglise       01412  01412                % 00852 RGTR--
+110803003 Boxhorn, Schemer      01412  01412                % 00852 RGTR--
+110816001 Rumlange              01414  01414                % 00852 RGTR--
+110819001 Stockem (LUX)         01417  01417                % 00852 RGTR--
+110812001 Lentzweiler           01419  01419                % 00852 RGTR--
+110806001 Deiffelt              01421  01421                % 00852 RGTR--
+110808001 Doennange             01422  01422                % 00852 RGTR--
+110813001 Lullange              01424  01424                % 00852 RGTR--
+110824001 Boevange              01425  01425                % 00852 RGTR--
+110821001 Wincrange, Eglise     01427  01427                % 00852 RGTR--
+110810002 Hamiville, Maison 31  01429  01429                % 00852 RGTR--
+110810001 Hamiville, Maison 3   01429  01429                % 00852 RGTR--
+121007001 Schleef               01436  01436                % 00852 RGTR--
+121006003 Pommerlach (Knauf)    01440  01440                % 00852 RGTR--
+121006001 Pommerlach, Theis     01441  01441                % 00852 RGTR--
+120903038 Wiltz, Schumann       01444  01444                % 00852 RGTR--
+120903023 Wiltz, Lycée du Nord  01448                       % 00852 RGTR--
+*Z 00853 RGTR--                                             % 00853 RGTR--
+*L 635      110606004 120903023  01500  01548               % 00853 RGTR--
+*A BE 110606004 120903023 000006  01500  01548              % 00853 RGTR--
+*A bj 110606004 120903023 000006  01500  01548              % 00853 RGTR--
+*A bl 110606004 120903023 000006  01500  01548              % 00853 RGTR--
+*R 2 120903023 110606004 120903023  01500  01548            % 00853 RGTR--
+*G RGB 110606004 120903023  01500  01548                    % 00853 RGTR--
+*A VE 110606004 120903023 000006  01500  01548              % 00853 RGTR--
+*I FD 110606004 120903023        0001972  01500  01548      % 00853 RGTR--
+110606004 Troisvierges, Paster         01500                % 00853 RGTR--
+110606006 Troisvierges, Tomm    01500  01500                % 00853 RGTR--
+110606002 Troisvierges, Mairie  01501  01501                % 00853 RGTR--
+110606003 Troisvierges, Milleb  01502  01502                % 00853 RGTR--
+110606001 Troisvierges, Gare    01503  01503                % 00853 RGTR--
+110606005 Troisvierges, Police  01505  01505                % 00853 RGTR--
+110802003 Asselborn, Scierie    01508  01508                % 00853 RGTR--
+110802001 Asselborn, Centre     01508  01508                % 00853 RGTR--
+110803001 Boxhorn, Eglise       01512  01512                % 00853 RGTR--
+110803003 Boxhorn, Schemer      01512  01512                % 00853 RGTR--
+110816001 Rumlange              01514  01514                % 00853 RGTR--
+110819001 Stockem (LUX)         01517  01517                % 00853 RGTR--
+110812001 Lentzweiler           01519  01519                % 00853 RGTR--
+110806001 Deiffelt              01521  01521                % 00853 RGTR--
+110808001 Doennange             01522  01522                % 00853 RGTR--
+110813001 Lullange              01524  01524                % 00853 RGTR--
+110824001 Boevange              01525  01525                % 00853 RGTR--
+110821001 Wincrange, Eglise     01527  01527                % 00853 RGTR--
+110810002 Hamiville, Maison 31  01529  01529                % 00853 RGTR--
+110810001 Hamiville, Maison 3   01529  01529                % 00853 RGTR--
+121007001 Schleef               01536  01536                % 00853 RGTR--
+121006003 Pommerlach (Knauf)    01540  01540                % 00853 RGTR--
+121006001 Pommerlach, Theis     01541  01541                % 00853 RGTR--
+120903038 Wiltz, Schumann       01544  01544                % 00853 RGTR--
+120903023 Wiltz, Lycée du Nord  01548                       % 00853 RGTR--

@@ -1,0 +1,101 @@
+*F 03 2
+*Z 00059 CFLBUS                                             % 00059 CFLBUS
+*L 808      140401004 160301008  00732  00754               % 00059 CFLBUS
+*A vm 140401004 160301008 000029  00732  00754              % 00059 CFLBUS
+*A xf 140401004 160301008 000029  00732  00754              % 00059 CFLBUS
+*A xg 140401004 160301008 000029  00732  00754              % 00059 CFLBUS
+*R 1 160301008 140401004 160301008  00732  00754            % 00059 CFLBUS
+*G RGB 140401004 160301008  00732  00754                    % 00059 CFLBUS
+*A VE 140401004 160301008 000029  00732  00754              % 00059 CFLBUS
+*I FD 140401004 160301008        0002879  00732  00754      % 00059 CFLBUS
+140401004 Diekirch, Gare               00732                % 00059 CFLBUS
+140401008 Diekirch, Lorentzwue  00733  00733                % 00059 CFLBUS
+140603002 Ingeldorf, Café de l  00735  00735                % 00059 CFLBUS
+140602008 Erpeldange/Sûre, Um   00737  00737                % 00059 CFLBUS
+140701024 Ettelbruck, Pensionn  00740  00740                % 00059 CFLBUS
+140701026 Ettelbruck, Rond Poi  00742  00742                % 00059 CFLBUS
+140701018 Ettelbruck, H.v.Land  00743  00743                % 00059 CFLBUS
+141301002 Schieren, Faubourg    00744  00744                % 00059 CFLBUS
+141301005 Schieren, Uewerschie  00745  00745                % 00059 CFLBUS
+141301007 Schieren, Porte de S  00746  00746                % 00059 CFLBUS
+160301002 Colmar, Centre        00747  00747                % 00059 CFLBUS
+160301007 Colmar, Usines        00749  00749                % 00059 CFLBUS
+160301001 Colmar, C. Administr  00750  00750                % 00059 CFLBUS
+160301006 Colmar, Raedelsboesc  00751  00751                % 00059 CFLBUS
+160301009 Colmar, Z.I. Jean Pi  00753  00753                % 00059 CFLBUS
+160301008 Colmar, Usine Hyosun  00754                       % 00059 CFLBUS
+*Z 00057 CFLBUS                                             % 00057 CFLBUS
+*L 808      140401004 160301008  00732  00754               % 00057 CFLBUS
+*A vm 140401004 160301008 000027  00732  00754              % 00057 CFLBUS
+*A xf 140401004 160301008 000027  00732  00754              % 00057 CFLBUS
+*A xg 140401004 160301008 000027  00732  00754              % 00057 CFLBUS
+*R 1 160301008 140401004 160301008  00732  00754            % 00057 CFLBUS
+*G RGB 140401004 160301008  00732  00754                    % 00057 CFLBUS
+*A VE 140401004 160301008 000027  00732  00754              % 00057 CFLBUS
+*I FD 140401004 160301008        0002879  00732  00754      % 00057 CFLBUS
+140401004 Diekirch, Gare               00732                % 00057 CFLBUS
+140401008 Diekirch, Lorentzwue  00733  00733                % 00057 CFLBUS
+140603002 Ingeldorf, Café de l  00735  00735                % 00057 CFLBUS
+140602008 Erpeldange/Sûre, Um   00737  00737                % 00057 CFLBUS
+140701024 Ettelbruck, Pensionn  00740  00740                % 00057 CFLBUS
+140701026 Ettelbruck, Rond Poi  00742  00742                % 00057 CFLBUS
+140701018 Ettelbruck, H.v.Land  00743  00743                % 00057 CFLBUS
+141301002 Schieren, Faubourg    00744  00744                % 00057 CFLBUS
+141301005 Schieren, Uewerschie  00745  00745                % 00057 CFLBUS
+141301007 Schieren, Porte de S  00746  00746                % 00057 CFLBUS
+160301002 Colmar, Centre        00747  00747                % 00057 CFLBUS
+160301007 Colmar, Usines        00749  00749                % 00057 CFLBUS
+160301001 Colmar, C. Administr  00750  00750                % 00057 CFLBUS
+160301006 Colmar, Raedelsboesc  00751  00751                % 00057 CFLBUS
+160301009 Colmar, Z.I. Jean Pi  00753  00753                % 00057 CFLBUS
+160301008 Colmar, Usine Hyosun  00754                       % 00057 CFLBUS
+*Z 00055 CFLBUS                                             % 00055 CFLBUS
+*L 808      140401004 160301008  00732  00754               % 00055 CFLBUS
+*A vm 140401004 160301008 000025  00732  00754              % 00055 CFLBUS
+*A xf 140401004 160301008 000025  00732  00754              % 00055 CFLBUS
+*A xg 140401004 160301008 000025  00732  00754              % 00055 CFLBUS
+*R 1 160301008 140401004 160301008  00732  00754            % 00055 CFLBUS
+*G RGB 140401004 160301008  00732  00754                    % 00055 CFLBUS
+*A VE 140401004 160301008 000025  00732  00754              % 00055 CFLBUS
+*I FD 140401004 160301008        0002879  00732  00754      % 00055 CFLBUS
+140401004 Diekirch, Gare               00732                % 00055 CFLBUS
+140401008 Diekirch, Lorentzwue  00733  00733                % 00055 CFLBUS
+140603002 Ingeldorf, Café de l  00735  00735                % 00055 CFLBUS
+140602008 Erpeldange/Sûre, Um   00737  00737                % 00055 CFLBUS
+140701024 Ettelbruck, Pensionn  00740  00740                % 00055 CFLBUS
+140701026 Ettelbruck, Rond Poi  00742  00742                % 00055 CFLBUS
+140701018 Ettelbruck, H.v.Land  00743  00743                % 00055 CFLBUS
+141301002 Schieren, Faubourg    00744  00744                % 00055 CFLBUS
+141301005 Schieren, Uewerschie  00745  00745                % 00055 CFLBUS
+141301007 Schieren, Porte de S  00746  00746                % 00055 CFLBUS
+160301002 Colmar, Centre        00747  00747                % 00055 CFLBUS
+160301007 Colmar, Usines        00749  00749                % 00055 CFLBUS
+160301001 Colmar, C. Administr  00750  00750                % 00055 CFLBUS
+160301006 Colmar, Raedelsboesc  00751  00751                % 00055 CFLBUS
+160301009 Colmar, Z.I. Jean Pi  00753  00753                % 00055 CFLBUS
+160301008 Colmar, Usine Hyosun  00754                       % 00055 CFLBUS
+*Z 00061 CFLBUS                                             % 00061 CFLBUS
+*L 808      140401004 160301008  00732  00754               % 00061 CFLBUS
+*A vm 140401004 160301008 000031  00732  00754              % 00061 CFLBUS
+*A xf 140401004 160301008 000031  00732  00754              % 00061 CFLBUS
+*A xg 140401004 160301008 000031  00732  00754              % 00061 CFLBUS
+*R 1 160301008 140401004 160301008  00732  00754            % 00061 CFLBUS
+*G RGB 140401004 160301008  00732  00754                    % 00061 CFLBUS
+*A VE 140401004 160301008 000031  00732  00754              % 00061 CFLBUS
+*I FD 140401004 160301008        0002879  00732  00754      % 00061 CFLBUS
+140401004 Diekirch, Gare               00732                % 00061 CFLBUS
+140401008 Diekirch, Lorentzwue  00734  00734                % 00061 CFLBUS
+140603002 Ingeldorf, Café de l  00735  00735                % 00061 CFLBUS
+140602008 Erpeldange/Sûre, Um   00737  00737                % 00061 CFLBUS
+140701024 Ettelbruck, Pensionn  00740  00740                % 00061 CFLBUS
+140701026 Ettelbruck, Rond Poi  00742  00742                % 00061 CFLBUS
+140701018 Ettelbruck, H.v.Land  00743  00743                % 00061 CFLBUS
+141301002 Schieren, Faubourg    00744  00744                % 00061 CFLBUS
+141301005 Schieren, Uewerschie  00745  00745                % 00061 CFLBUS
+141301007 Schieren, Porte de S  00746  00746                % 00061 CFLBUS
+160301002 Colmar, Centre        00748  00748                % 00061 CFLBUS
+160301007 Colmar, Usines        00750  00750                % 00061 CFLBUS
+160301001 Colmar, C. Administr  00750  00750                % 00061 CFLBUS
+160301006 Colmar, Raedelsboesc  00752  00752                % 00061 CFLBUS
+160301009 Colmar, Z.I. Jean Pi  00753  00753                % 00061 CFLBUS
+160301008 Colmar, Usine Hyosun  00754                       % 00061 CFLBUS

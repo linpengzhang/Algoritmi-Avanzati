@@ -1,0 +1,331 @@
+*F 03 2
+*Z 02841 CFLBUS                                             % 02841 CFLBUS
+*L 950      200405036 200419021  00738  00755               % 02841 CFLBUS
+*A vm 200405036 200419021 000035  00738  00755              % 02841 CFLBUS
+*A ad 200405036 200419021 000035  00738  00755              % 02841 CFLBUS
+*R 1 200419021 200405036 200419021  00738  00755            % 02841 CFLBUS
+*G RGB 200405036 200419021  00738  00755                    % 02841 CFLBUS
+*A VE 200405036 200419021 000035  00738  00755              % 02841 CFLBUS
+*I FD 200405036 200419021        0002544  00738  00755      % 02841 CFLBUS
+200405036 Luxembourg, Gare rou         00738                % 02841 CFLBUS
+200405020 Hamilius              00745  00745                % 02841 CFLBUS
+200419026 Limpertsberg, Theate  00749  00749                % 02841 CFLBUS
+200419025 Limpertsberg, Lycée   00751  00751                % 02841 CFLBUS
+200419021 Limpertsberg, L.T.C.  00755                       % 02841 CFLBUS
+*Z 02842 CFLBUS                                             % 02842 CFLBUS
+*L 950      200405036 200419021  00739  00756               % 02842 CFLBUS
+*A vm 200405036 200419021 000035  00739  00756              % 02842 CFLBUS
+*A ad 200405036 200419021 000035  00739  00756              % 02842 CFLBUS
+*R 1 200419021 200405036 200419021  00739  00756            % 02842 CFLBUS
+*G RGB 200405036 200419021  00739  00756                    % 02842 CFLBUS
+*A VE 200405036 200419021 000035  00739  00756              % 02842 CFLBUS
+*I FD 200405036 200419021        0003788  00739  00756      % 02842 CFLBUS
+200405036 Luxembourg, Gare rou         00739                % 02842 CFLBUS
+200405020 Hamilius              00746  00746                % 02842 CFLBUS
+200419026 Limpertsberg, Theate  00750  00750                % 02842 CFLBUS
+200419025 Limpertsberg, Lycée   00752  00752                % 02842 CFLBUS
+200419021 Limpertsberg, L.T.C.  00756                       % 02842 CFLBUS
+*Z 02843 CFLBUS                                             % 02843 CFLBUS
+*L 950      200405036 200419021  00740  00757               % 02843 CFLBUS
+*A vm 200405036 200419021 000035  00740  00757              % 02843 CFLBUS
+*A ad 200405036 200419021 000035  00740  00757              % 02843 CFLBUS
+*R 1 200419021 200405036 200419021  00740  00757            % 02843 CFLBUS
+*G RGB 200405036 200419021  00740  00757                    % 02843 CFLBUS
+*A VE 200405036 200419021 000035  00740  00757              % 02843 CFLBUS
+*I FD 200405036 200419021        0002847  00740  00757      % 02843 CFLBUS
+200405036 Luxembourg, Gare rou         00740                % 02843 CFLBUS
+200405020 Hamilius              00747  00747                % 02843 CFLBUS
+200419026 Limpertsberg, Theate  00751  00751                % 02843 CFLBUS
+200419025 Limpertsberg, Lycée   00753  00753                % 02843 CFLBUS
+200419021 Limpertsberg, L.T.C.  00757                       % 02843 CFLBUS
+*Z 02844 CFLBUS                                             % 02844 CFLBUS
+*L 950      200419021 200405036  01145  01202               % 02844 CFLBUS
+*A ad 200419021 200405036 000035  01145  01202              % 02844 CFLBUS
+*R 2 200405036 200419021 200405036  01145  01202            % 02844 CFLBUS
+*G RGB 200419021 200405036  01145  01202                    % 02844 CFLBUS
+*A VE 200419021 200405036 000035  01145  01202              % 02844 CFLBUS
+*I FD 200419021 200405036        0002818  01145  01202      % 02844 CFLBUS
+200419021 Limpertsberg, L.T.C.         01145                % 02844 CFLBUS
+200419025 Limpertsberg, Lycée   01149  01149                % 02844 CFLBUS
+200419026 Limpertsberg, Theate  01152  01152                % 02844 CFLBUS
+200405014 Centre, Fondation Pe  01154  01154                % 02844 CFLBUS
+200405029 Luxembourg/Centre, R  01155  01155                % 02844 CFLBUS
+200405028 Centre, Rousegaertch  01158  01158                % 02844 CFLBUS
+200405036 Luxembourg, Gare rou  01202                       % 02844 CFLBUS
+*Z 02845 CFLBUS                                             % 02845 CFLBUS
+*L 950      200419021 200405036  01145  01202               % 02845 CFLBUS
+*A ad 200419021 200405036 000035  01145  01202              % 02845 CFLBUS
+*R 2 200405036 200419021 200405036  01145  01202            % 02845 CFLBUS
+*G RGB 200419021 200405036  01145  01202                    % 02845 CFLBUS
+*A VE 200419021 200405036 000035  01145  01202              % 02845 CFLBUS
+*I FD 200419021 200405036        0002827  01145  01202      % 02845 CFLBUS
+200419021 Limpertsberg, L.T.C.         01145                % 02845 CFLBUS
+200419025 Limpertsberg, Lycée   01149  01149                % 02845 CFLBUS
+200419026 Limpertsberg, Theate  01152  01152                % 02845 CFLBUS
+200405014 Centre, Fondation Pe  01154  01154                % 02845 CFLBUS
+200405029 Luxembourg/Centre, R  01155  01155                % 02845 CFLBUS
+200405028 Centre, Rousegaertch  01158  01158                % 02845 CFLBUS
+200405036 Luxembourg, Gare rou  01202                       % 02845 CFLBUS
+*Z 02846 CFLBUS                                             % 02846 CFLBUS
+*L 950      200419021 200405036  01535  01552               % 02846 CFLBUS
+*A ad 200419021 200405036 000215  01535  01552              % 02846 CFLBUS
+*R 2 200405036 200419021 200405036  01535  01552            % 02846 CFLBUS
+*G RGB 200419021 200405036  01535  01552                    % 02846 CFLBUS
+*A VE 200419021 200405036 000215  01535  01552              % 02846 CFLBUS
+*I FD 200419021 200405036        0001337  01535  01552      % 02846 CFLBUS
+200419021 Limpertsberg, L.T.C.         01535                % 02846 CFLBUS
+200419025 Limpertsberg, Lycée   01539  01539                % 02846 CFLBUS
+200419026 Limpertsberg, Theate  01542  01542                % 02846 CFLBUS
+200405014 Centre, Fondation Pe  01544  01544                % 02846 CFLBUS
+200405029 Luxembourg/Centre, R  01545  01545                % 02846 CFLBUS
+200405028 Centre, Rousegaertch  01548  01548                % 02846 CFLBUS
+200405036 Luxembourg, Gare rou  01552                       % 02846 CFLBUS
+*Z 02847 CFLBUS                                             % 02847 CFLBUS
+*L 950      200405036 200419021  00738  00755               % 02847 CFLBUS
+*A bi 200405036 200419021 000034  00738  00755              % 02847 CFLBUS
+*A vm 200405036 200419021 000034  00738  00755              % 02847 CFLBUS
+*A ad 200405036 200419021 000034  00738  00755              % 02847 CFLBUS
+*R 1 200419021 200405036 200419021  00738  00755            % 02847 CFLBUS
+*G RGB 200405036 200419021  00738  00755                    % 02847 CFLBUS
+*A VE 200405036 200419021 000034  00738  00755              % 02847 CFLBUS
+*I FD 200405036 200419021        0002544  00738  00755      % 02847 CFLBUS
+200405036 Luxembourg, Gare rou         00738                % 02847 CFLBUS
+200405020 Hamilius              00745  00745                % 02847 CFLBUS
+200419026 Limpertsberg, Theate  00749  00749                % 02847 CFLBUS
+200419025 Limpertsberg, Lycée   00751  00751                % 02847 CFLBUS
+200419021 Limpertsberg, L.T.C.  00755                       % 02847 CFLBUS
+*Z 02848 CFLBUS                                             % 02848 CFLBUS
+*L 950      200405036 200419021  00739  00756               % 02848 CFLBUS
+*A bi 200405036 200419021 000034  00739  00756              % 02848 CFLBUS
+*A vm 200405036 200419021 000034  00739  00756              % 02848 CFLBUS
+*A ad 200405036 200419021 000034  00739  00756              % 02848 CFLBUS
+*R 1 200419021 200405036 200419021  00739  00756            % 02848 CFLBUS
+*G RGB 200405036 200419021  00739  00756                    % 02848 CFLBUS
+*A VE 200405036 200419021 000034  00739  00756              % 02848 CFLBUS
+*I FD 200405036 200419021        0003788  00739  00756      % 02848 CFLBUS
+200405036 Luxembourg, Gare rou         00739                % 02848 CFLBUS
+200405020 Hamilius              00746  00746                % 02848 CFLBUS
+200419026 Limpertsberg, Theate  00750  00750                % 02848 CFLBUS
+200419025 Limpertsberg, Lycée   00752  00752                % 02848 CFLBUS
+200419021 Limpertsberg, L.T.C.  00756                       % 02848 CFLBUS
+*Z 02849 CFLBUS                                             % 02849 CFLBUS
+*L 950      200405036 200419021  00740  00757               % 02849 CFLBUS
+*A bi 200405036 200419021 000034  00740  00757              % 02849 CFLBUS
+*A vm 200405036 200419021 000034  00740  00757              % 02849 CFLBUS
+*A ad 200405036 200419021 000034  00740  00757              % 02849 CFLBUS
+*R 1 200419021 200405036 200419021  00740  00757            % 02849 CFLBUS
+*G RGB 200405036 200419021  00740  00757                    % 02849 CFLBUS
+*A VE 200405036 200419021 000034  00740  00757              % 02849 CFLBUS
+*I FD 200405036 200419021        0002847  00740  00757      % 02849 CFLBUS
+200405036 Luxembourg, Gare rou         00740                % 02849 CFLBUS
+200405020 Hamilius              00747  00747                % 02849 CFLBUS
+200419026 Limpertsberg, Theate  00751  00751                % 02849 CFLBUS
+200419025 Limpertsberg, Lycée   00753  00753                % 02849 CFLBUS
+200419021 Limpertsberg, L.T.C.  00757                       % 02849 CFLBUS
+*Z 02850 CFLBUS                                             % 02850 CFLBUS
+*L 950      200419021 200405036  01145  01202               % 02850 CFLBUS
+*A bi 200419021 200405036 000034  01145  01202              % 02850 CFLBUS
+*A ad 200419021 200405036 000034  01145  01202              % 02850 CFLBUS
+*R 2 200405036 200419021 200405036  01145  01202            % 02850 CFLBUS
+*G RGB 200419021 200405036  01145  01202                    % 02850 CFLBUS
+*A VE 200419021 200405036 000034  01145  01202              % 02850 CFLBUS
+*I FD 200419021 200405036        0002818  01145  01202      % 02850 CFLBUS
+200419021 Limpertsberg, L.T.C.         01145                % 02850 CFLBUS
+200419025 Limpertsberg, Lycée   01149  01149                % 02850 CFLBUS
+200419026 Limpertsberg, Theate  01152  01152                % 02850 CFLBUS
+200405014 Centre, Fondation Pe  01154  01154                % 02850 CFLBUS
+200405029 Luxembourg/Centre, R  01155  01155                % 02850 CFLBUS
+200405028 Centre, Rousegaertch  01158  01158                % 02850 CFLBUS
+200405036 Luxembourg, Gare rou  01202                       % 02850 CFLBUS
+*Z 02851 CFLBUS                                             % 02851 CFLBUS
+*L 950      200419021 200405036  01145  01202               % 02851 CFLBUS
+*A bi 200419021 200405036 000034  01145  01202              % 02851 CFLBUS
+*A ad 200419021 200405036 000034  01145  01202              % 02851 CFLBUS
+*R 2 200405036 200419021 200405036  01145  01202            % 02851 CFLBUS
+*G RGB 200419021 200405036  01145  01202                    % 02851 CFLBUS
+*A VE 200419021 200405036 000034  01145  01202              % 02851 CFLBUS
+*I FD 200419021 200405036        0002827  01145  01202      % 02851 CFLBUS
+200419021 Limpertsberg, L.T.C.         01145                % 02851 CFLBUS
+200419025 Limpertsberg, Lycée   01149  01149                % 02851 CFLBUS
+200419026 Limpertsberg, Theate  01152  01152                % 02851 CFLBUS
+200405014 Centre, Fondation Pe  01154  01154                % 02851 CFLBUS
+200405029 Luxembourg/Centre, R  01155  01155                % 02851 CFLBUS
+200405028 Centre, Rousegaertch  01158  01158                % 02851 CFLBUS
+200405036 Luxembourg, Gare rou  01202                       % 02851 CFLBUS
+*Z 02852 CFLBUS                                             % 02852 CFLBUS
+*L 950      200419021 200405036  01535  01552               % 02852 CFLBUS
+*A bi 200419021 200405036 000216  01535  01552              % 02852 CFLBUS
+*A ad 200419021 200405036 000216  01535  01552              % 02852 CFLBUS
+*R 2 200405036 200419021 200405036  01535  01552            % 02852 CFLBUS
+*G RGB 200419021 200405036  01535  01552                    % 02852 CFLBUS
+*A VE 200419021 200405036 000216  01535  01552              % 02852 CFLBUS
+*I FD 200419021 200405036        0001337  01535  01552      % 02852 CFLBUS
+200419021 Limpertsberg, L.T.C.         01535                % 02852 CFLBUS
+200419025 Limpertsberg, Lycée   01539  01539                % 02852 CFLBUS
+200419026 Limpertsberg, Theate  01542  01542                % 02852 CFLBUS
+200405014 Centre, Fondation Pe  01544  01544                % 02852 CFLBUS
+200405029 Luxembourg/Centre, R  01545  01545                % 02852 CFLBUS
+200405028 Centre, Rousegaertch  01548  01548                % 02852 CFLBUS
+200405036 Luxembourg, Gare rou  01552                       % 02852 CFLBUS
+*Z 02853 CFLBUS                                             % 02853 CFLBUS
+*L 950      200405036 200419021  00738  00755               % 02853 CFLBUS
+*A vm 200405036 200419021 000025  00738  00755              % 02853 CFLBUS
+*A ad 200405036 200419021 000025  00738  00755              % 02853 CFLBUS
+*R 1 200419021 200405036 200419021  00738  00755            % 02853 CFLBUS
+*G RGB 200405036 200419021  00738  00755                    % 02853 CFLBUS
+*A VE 200405036 200419021 000025  00738  00755              % 02853 CFLBUS
+*I FD 200405036 200419021        0002544  00738  00755      % 02853 CFLBUS
+200405036 Luxembourg, Gare rou         00738                % 02853 CFLBUS
+200405020 Hamilius              00745  00745                % 02853 CFLBUS
+200419026 Limpertsberg, Theate  00749  00749                % 02853 CFLBUS
+200419025 Limpertsberg, Lycée   00751  00751                % 02853 CFLBUS
+200419021 Limpertsberg, L.T.C.  00755                       % 02853 CFLBUS
+*Z 02854 CFLBUS                                             % 02854 CFLBUS
+*L 950      200405036 200419021  00739  00756               % 02854 CFLBUS
+*A vm 200405036 200419021 000025  00739  00756              % 02854 CFLBUS
+*A ad 200405036 200419021 000025  00739  00756              % 02854 CFLBUS
+*R 1 200419021 200405036 200419021  00739  00756            % 02854 CFLBUS
+*G RGB 200405036 200419021  00739  00756                    % 02854 CFLBUS
+*A VE 200405036 200419021 000025  00739  00756              % 02854 CFLBUS
+*I FD 200405036 200419021        0003788  00739  00756      % 02854 CFLBUS
+200405036 Luxembourg, Gare rou         00739                % 02854 CFLBUS
+200405020 Hamilius              00746  00746                % 02854 CFLBUS
+200419026 Limpertsberg, Theate  00750  00750                % 02854 CFLBUS
+200419025 Limpertsberg, Lycée   00752  00752                % 02854 CFLBUS
+200419021 Limpertsberg, L.T.C.  00756                       % 02854 CFLBUS
+*Z 02855 CFLBUS                                             % 02855 CFLBUS
+*L 950      200405036 200419021  00740  00757               % 02855 CFLBUS
+*A vm 200405036 200419021 000025  00740  00757              % 02855 CFLBUS
+*A ad 200405036 200419021 000025  00740  00757              % 02855 CFLBUS
+*R 1 200419021 200405036 200419021  00740  00757            % 02855 CFLBUS
+*G RGB 200405036 200419021  00740  00757                    % 02855 CFLBUS
+*A VE 200405036 200419021 000025  00740  00757              % 02855 CFLBUS
+*I FD 200405036 200419021        0002847  00740  00757      % 02855 CFLBUS
+200405036 Luxembourg, Gare rou         00740                % 02855 CFLBUS
+200405020 Hamilius              00747  00747                % 02855 CFLBUS
+200419026 Limpertsberg, Theate  00751  00751                % 02855 CFLBUS
+200419025 Limpertsberg, Lycée   00753  00753                % 02855 CFLBUS
+200419021 Limpertsberg, L.T.C.  00757                       % 02855 CFLBUS
+*Z 02856 CFLBUS                                             % 02856 CFLBUS
+*L 950      200419021 200405036  01145  01202               % 02856 CFLBUS
+*A ad 200419021 200405036 000025  01145  01202              % 02856 CFLBUS
+*R 2 200405036 200419021 200405036  01145  01202            % 02856 CFLBUS
+*G RGB 200419021 200405036  01145  01202                    % 02856 CFLBUS
+*A VE 200419021 200405036 000025  01145  01202              % 02856 CFLBUS
+*I FD 200419021 200405036        0002818  01145  01202      % 02856 CFLBUS
+200419021 Limpertsberg, L.T.C.         01145                % 02856 CFLBUS
+200419025 Limpertsberg, Lycée   01149  01149                % 02856 CFLBUS
+200419026 Limpertsberg, Theate  01152  01152                % 02856 CFLBUS
+200405014 Centre, Fondation Pe  01154  01154                % 02856 CFLBUS
+200405029 Luxembourg/Centre, R  01155  01155                % 02856 CFLBUS
+200405028 Centre, Rousegaertch  01158  01158                % 02856 CFLBUS
+200405036 Luxembourg, Gare rou  01202                       % 02856 CFLBUS
+*Z 02857 CFLBUS                                             % 02857 CFLBUS
+*L 950      200419021 200405036  01145  01202               % 02857 CFLBUS
+*A ad 200419021 200405036 000025  01145  01202              % 02857 CFLBUS
+*R 2 200405036 200419021 200405036  01145  01202            % 02857 CFLBUS
+*G RGB 200419021 200405036  01145  01202                    % 02857 CFLBUS
+*A VE 200419021 200405036 000025  01145  01202              % 02857 CFLBUS
+*I FD 200419021 200405036        0002827  01145  01202      % 02857 CFLBUS
+200419021 Limpertsberg, L.T.C.         01145                % 02857 CFLBUS
+200419025 Limpertsberg, Lycée   01149  01149                % 02857 CFLBUS
+200419026 Limpertsberg, Theate  01152  01152                % 02857 CFLBUS
+200405014 Centre, Fondation Pe  01154  01154                % 02857 CFLBUS
+200405029 Luxembourg/Centre, R  01155  01155                % 02857 CFLBUS
+200405028 Centre, Rousegaertch  01158  01158                % 02857 CFLBUS
+200405036 Luxembourg, Gare rou  01202                       % 02857 CFLBUS
+*Z 02858 CFLBUS                                             % 02858 CFLBUS
+*L 950      200419021 200405036  01535  01552               % 02858 CFLBUS
+*A ad 200419021 200405036 000218  01535  01552              % 02858 CFLBUS
+*R 2 200405036 200419021 200405036  01535  01552            % 02858 CFLBUS
+*G RGB 200419021 200405036  01535  01552                    % 02858 CFLBUS
+*A VE 200419021 200405036 000218  01535  01552              % 02858 CFLBUS
+*I FD 200419021 200405036        0001337  01535  01552      % 02858 CFLBUS
+200419021 Limpertsberg, L.T.C.         01535                % 02858 CFLBUS
+200419025 Limpertsberg, Lycée   01539  01539                % 02858 CFLBUS
+200419026 Limpertsberg, Theate  01542  01542                % 02858 CFLBUS
+200405014 Centre, Fondation Pe  01544  01544                % 02858 CFLBUS
+200405029 Luxembourg/Centre, R  01545  01545                % 02858 CFLBUS
+200405028 Centre, Rousegaertch  01548  01548                % 02858 CFLBUS
+200405036 Luxembourg, Gare rou  01552                       % 02858 CFLBUS
+*Z 02859 CFLBUS                                             % 02859 CFLBUS
+*L 950      200405036 200419021  00738  00755               % 02859 CFLBUS
+*A vm 200405036 200419021 000032  00738  00755              % 02859 CFLBUS
+*A ad 200405036 200419021 000032  00738  00755              % 02859 CFLBUS
+*R 1 200419021 200405036 200419021  00738  00755            % 02859 CFLBUS
+*G RGB 200405036 200419021  00738  00755                    % 02859 CFLBUS
+*A VE 200405036 200419021 000032  00738  00755              % 02859 CFLBUS
+*I FD 200405036 200419021        0002544  00738  00755      % 02859 CFLBUS
+200405036 Luxembourg, Gare rou         00738                % 02859 CFLBUS
+200405020 Hamilius              00745  00745                % 02859 CFLBUS
+200419026 Limpertsberg, Theate  00748  00748                % 02859 CFLBUS
+200419025 Limpertsberg, Lycée   00751  00751                % 02859 CFLBUS
+200419021 Limpertsberg, L.T.C.  00755                       % 02859 CFLBUS
+*Z 02860 CFLBUS                                             % 02860 CFLBUS
+*L 950      200405036 200419021  00739  00756               % 02860 CFLBUS
+*A vm 200405036 200419021 000032  00739  00756              % 02860 CFLBUS
+*A ad 200405036 200419021 000032  00739  00756              % 02860 CFLBUS
+*R 1 200419021 200405036 200419021  00739  00756            % 02860 CFLBUS
+*G RGB 200405036 200419021  00739  00756                    % 02860 CFLBUS
+*A VE 200405036 200419021 000032  00739  00756              % 02860 CFLBUS
+*I FD 200405036 200419021        0003788  00739  00756      % 02860 CFLBUS
+200405036 Luxembourg, Gare rou         00739                % 02860 CFLBUS
+200405020 Hamilius              00746  00746                % 02860 CFLBUS
+200419026 Limpertsberg, Theate  00749  00749                % 02860 CFLBUS
+200419025 Limpertsberg, Lycée   00752  00752                % 02860 CFLBUS
+200419021 Limpertsberg, L.T.C.  00756                       % 02860 CFLBUS
+*Z 02861 CFLBUS                                             % 02861 CFLBUS
+*L 950      200405036 200419021  00740  00757               % 02861 CFLBUS
+*A vm 200405036 200419021 000032  00740  00757              % 02861 CFLBUS
+*A ad 200405036 200419021 000032  00740  00757              % 02861 CFLBUS
+*R 1 200419021 200405036 200419021  00740  00757            % 02861 CFLBUS
+*G RGB 200405036 200419021  00740  00757                    % 02861 CFLBUS
+*A VE 200405036 200419021 000032  00740  00757              % 02861 CFLBUS
+*I FD 200405036 200419021        0002847  00740  00757      % 02861 CFLBUS
+200405036 Luxembourg, Gare rou         00740                % 02861 CFLBUS
+200405020 Hamilius              00747  00747                % 02861 CFLBUS
+200419026 Limpertsberg, Theate  00750  00750                % 02861 CFLBUS
+200419025 Limpertsberg, Lycée   00753  00753                % 02861 CFLBUS
+200419021 Limpertsberg, L.T.C.  00757                       % 02861 CFLBUS
+*Z 02862 CFLBUS                                             % 02862 CFLBUS
+*L 950      200419021 200405036  01144  01202               % 02862 CFLBUS
+*A ad 200419021 200405036 000032  01144  01202              % 02862 CFLBUS
+*R 2 200405036 200419021 200405036  01144  01202            % 02862 CFLBUS
+*G RGB 200419021 200405036  01144  01202                    % 02862 CFLBUS
+*A VE 200419021 200405036 000032  01144  01202              % 02862 CFLBUS
+*I FD 200419021 200405036        0002818  01144  01202      % 02862 CFLBUS
+200419021 Limpertsberg, L.T.C.         01144                % 02862 CFLBUS
+200419025 Limpertsberg, Lycée   01148  01148                % 02862 CFLBUS
+200419026 Limpertsberg, Theate  01151  01151                % 02862 CFLBUS
+200405014 Centre, Fondation Pe  01153  01153                % 02862 CFLBUS
+200405029 Luxembourg/Centre, R  01155  01155                % 02862 CFLBUS
+200405028 Centre, Rousegaertch  01158  01158                % 02862 CFLBUS
+200405036 Luxembourg, Gare rou  01202                       % 02862 CFLBUS
+*Z 02863 CFLBUS                                             % 02863 CFLBUS
+*L 950      200419021 200405036  01144  01202               % 02863 CFLBUS
+*A ad 200419021 200405036 000032  01144  01202              % 02863 CFLBUS
+*R 2 200405036 200419021 200405036  01144  01202            % 02863 CFLBUS
+*G RGB 200419021 200405036  01144  01202                    % 02863 CFLBUS
+*A VE 200419021 200405036 000032  01144  01202              % 02863 CFLBUS
+*I FD 200419021 200405036        0002827  01144  01202      % 02863 CFLBUS
+200419021 Limpertsberg, L.T.C.         01144                % 02863 CFLBUS
+200419025 Limpertsberg, Lycée   01148  01148                % 02863 CFLBUS
+200419026 Limpertsberg, Theate  01151  01151                % 02863 CFLBUS
+200405014 Centre, Fondation Pe  01153  01153                % 02863 CFLBUS
+200405029 Luxembourg/Centre, R  01155  01155                % 02863 CFLBUS
+200405028 Centre, Rousegaertch  01158  01158                % 02863 CFLBUS
+200405036 Luxembourg, Gare rou  01202                       % 02863 CFLBUS
+*Z 02864 CFLBUS                                             % 02864 CFLBUS
+*L 950      200419021 200405036  01534  01552               % 02864 CFLBUS
+*A ad 200419021 200405036 000197  01534  01552              % 02864 CFLBUS
+*R 2 200405036 200419021 200405036  01534  01552            % 02864 CFLBUS
+*G RGB 200419021 200405036  01534  01552                    % 02864 CFLBUS
+*A VE 200419021 200405036 000197  01534  01552              % 02864 CFLBUS
+*I FD 200419021 200405036        0001337  01534  01552      % 02864 CFLBUS
+200419021 Limpertsberg, L.T.C.         01534                % 02864 CFLBUS
+200419025 Limpertsberg, Lycée   01538  01538                % 02864 CFLBUS
+200419026 Limpertsberg, Theate  01541  01541                % 02864 CFLBUS
+200405014 Centre, Fondation Pe  01543  01543                % 02864 CFLBUS
+200405029 Luxembourg/Centre, R  01545  01545                % 02864 CFLBUS
+200405028 Centre, Rousegaertch  01548  01548                % 02864 CFLBUS
+200405036 Luxembourg, Gare rou  01552                       % 02864 CFLBUS

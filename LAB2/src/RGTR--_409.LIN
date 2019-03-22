@@ -1,0 +1,639 @@
+*F 03 2
+*Z 01450 RGTR--                                             % 01450 RGTR--
+*L 409      160904001 140503002  00738  00803               % 01450 RGTR--
+*A bz 160904001 140503002 000006  00738  00803              % 01450 RGTR--
+*A ds 160904001 140503002 000006  00738  00803              % 01450 RGTR--
+*A dt 160904001 140503002 000006  00738  00803              % 01450 RGTR--
+*R 1 140503002 160904001 140503002  00738  00803            % 01450 RGTR--
+*G RGB 160904001 140503002  00738  00803                    % 01450 RGTR--
+*A VE 160904001 140503002 000006  00738  00803              % 01450 RGTR--
+*I FD 160904001 140503002        0002544  00738  00803      % 01450 RGTR--
+160904001 Mersch, Gare                 00738                % 01450 RGTR--
+160902002 Rollingen, Fielserst  00740  00740                % 01450 RGTR--
+160910001 Mersch, Bënzert       00742  00742                % 01450 RGTR--
+160401001 Angelsberg, Paafenda  00744  00744                % 01450 RGTR--
+160601009 Larochette, Goudelt   00746  00746                % 01450 RGTR--
+160601002 Larochette, Boltgest  00750  00750                % 01450 RGTR--
+160601008 Larochette, Spuerkee  00751  00751                % 01450 RGTR--
+160601005 Larochette, Leedebac  00752  00752                % 01450 RGTR--
+141001001 Medernach, Fondation  00754  00754                % 01450 RGTR--
+141001003 Medernach, Op der Ga  00754  00754                % 01450 RGTR--
+141001004 Medernach, Op der La  00756  00756                % 01450 RGTR--
+140503001 Stegen, Bloen Eck     00801  00801                % 01450 RGTR--
+140503002 Stegen, Eglise        00803                       % 01450 RGTR--
+*Z 01451 RGTR--                                             % 01451 RGTR--
+*L 409      160904001 140503002  00838  00903               % 01451 RGTR--
+*A bz 160904001 140503002 000006  00838  00903              % 01451 RGTR--
+*A ds 160904001 140503002 000006  00838  00903              % 01451 RGTR--
+*A dt 160904001 140503002 000006  00838  00903              % 01451 RGTR--
+*R 1 140503002 160904001 140503002  00838  00903            % 01451 RGTR--
+*G RGB 160904001 140503002  00838  00903                    % 01451 RGTR--
+*A VE 160904001 140503002 000006  00838  00903              % 01451 RGTR--
+*I FD 160904001 140503002        0002439  00838  00903      % 01451 RGTR--
+160904001 Mersch, Gare                 00838                % 01451 RGTR--
+160902002 Rollingen, Fielserst  00840  00840                % 01451 RGTR--
+160910001 Mersch, Bënzert       00842  00842                % 01451 RGTR--
+160401001 Angelsberg, Paafenda  00844  00844                % 01451 RGTR--
+160601009 Larochette, Goudelt   00846  00846                % 01451 RGTR--
+160601002 Larochette, Boltgest  00850  00850                % 01451 RGTR--
+160601008 Larochette, Spuerkee  00851  00851                % 01451 RGTR--
+160601005 Larochette, Leedebac  00852  00852                % 01451 RGTR--
+141001001 Medernach, Fondation  00854  00854                % 01451 RGTR--
+141001003 Medernach, Op der Ga  00854  00854                % 01451 RGTR--
+141001004 Medernach, Op der La  00856  00856                % 01451 RGTR--
+140503001 Stegen, Bloen Eck     00901  00901                % 01451 RGTR--
+140503002 Stegen, Eglise        00903                       % 01451 RGTR--
+*Z 01452 RGTR--                                             % 01452 RGTR--
+*L 409      160904001 140503002  01638  01703               % 01452 RGTR--
+*A bz 160904001 140503002 000006  01638  01703              % 01452 RGTR--
+*A ds 160904001 140503002 000006  01638  01703              % 01452 RGTR--
+*A dt 160904001 140503002 000006  01638  01703              % 01452 RGTR--
+*R 1 140503002 160904001 140503002  01638  01703            % 01452 RGTR--
+*G RGB 160904001 140503002  01638  01703                    % 01452 RGTR--
+*A VE 160904001 140503002 000006  01638  01703              % 01452 RGTR--
+*I FD 160904001 140503002        0002530  01638  01703      % 01452 RGTR--
+160904001 Mersch, Gare                 01638                % 01452 RGTR--
+160902002 Rollingen, Fielserst  01640  01640                % 01452 RGTR--
+160910001 Mersch, Bënzert       01642  01642                % 01452 RGTR--
+160401001 Angelsberg, Paafenda  01644  01644                % 01452 RGTR--
+160601009 Larochette, Goudelt   01646  01646                % 01452 RGTR--
+160601002 Larochette, Boltgest  01650  01650                % 01452 RGTR--
+160601008 Larochette, Spuerkee  01651  01651                % 01452 RGTR--
+160601005 Larochette, Leedebac  01652  01652                % 01452 RGTR--
+141001001 Medernach, Fondation  01654  01654                % 01452 RGTR--
+141001003 Medernach, Op der Ga  01654  01654                % 01452 RGTR--
+141001004 Medernach, Op der La  01656  01656                % 01452 RGTR--
+140503001 Stegen, Bloen Eck     01701  01701                % 01452 RGTR--
+140503002 Stegen, Eglise        01703                       % 01452 RGTR--
+*Z 01453 RGTR--                                             % 01453 RGTR--
+*L 409      160904001 140503002  01738  01803               % 01453 RGTR--
+*A bz 160904001 140503002 000006  01738  01803              % 01453 RGTR--
+*A ds 160904001 140503002 000006  01738  01803              % 01453 RGTR--
+*A dt 160904001 140503002 000006  01738  01803              % 01453 RGTR--
+*R 1 140503002 160904001 140503002  01738  01803            % 01453 RGTR--
+*G RGB 160904001 140503002  01738  01803                    % 01453 RGTR--
+*A VE 160904001 140503002 000006  01738  01803              % 01453 RGTR--
+*I FD 160904001 140503002        0002531  01738  01803      % 01453 RGTR--
+160904001 Mersch, Gare                 01738                % 01453 RGTR--
+160902002 Rollingen, Fielserst  01740  01740                % 01453 RGTR--
+160910001 Mersch, Bënzert       01742  01742                % 01453 RGTR--
+160401001 Angelsberg, Paafenda  01744  01744                % 01453 RGTR--
+160601009 Larochette, Goudelt   01746  01746                % 01453 RGTR--
+160601002 Larochette, Boltgest  01750  01750                % 01453 RGTR--
+160601008 Larochette, Spuerkee  01751  01751                % 01453 RGTR--
+160601005 Larochette, Leedebac  01752  01752                % 01453 RGTR--
+141001001 Medernach, Fondation  01754  01754                % 01453 RGTR--
+141001003 Medernach, Op der Ga  01754  01754                % 01453 RGTR--
+141001004 Medernach, Op der La  01756  01756                % 01453 RGTR--
+140503001 Stegen, Bloen Eck     01801  01801                % 01453 RGTR--
+140503002 Stegen, Eglise        01803                       % 01453 RGTR--
+*Z 01454 RGTR--                                             % 01454 RGTR--
+*L 409      160904001 140503002  00938  01002               % 01454 RGTR--
+*A bz 160904001 140503002 000006  00938  01002              % 01454 RGTR--
+*A ds 160904001 140503002 000006  00938  01002              % 01454 RGTR--
+*A dt 160904001 140503002 000006  00938  01002              % 01454 RGTR--
+*R 1 140503002 160904001 140503002  00938  01002            % 01454 RGTR--
+*G RGB 160904001 140503002  00938  01002                    % 01454 RGTR--
+*A VE 160904001 140503002 000006  00938  01002              % 01454 RGTR--
+*I FD 160904001 140503002        0001122  00938  01002      % 01454 RGTR--
+160904001 Mersch, Gare                 00938                % 01454 RGTR--
+160902002 Rollingen, Fielserst  00940  00940                % 01454 RGTR--
+160910001 Mersch, Bënzert       00942  00942                % 01454 RGTR--
+160401001 Angelsberg, Paafenda  00943  00943                % 01454 RGTR--
+160601009 Larochette, Goudelt   00946  00946                % 01454 RGTR--
+160601002 Larochette, Boltgest  00949  00949                % 01454 RGTR--
+160601008 Larochette, Spuerkee  00951  00951                % 01454 RGTR--
+160601005 Larochette, Leedebac  00952  00952                % 01454 RGTR--
+141001001 Medernach, Fondation  00954  00954                % 01454 RGTR--
+141001003 Medernach, Op der Ga  00954  00954                % 01454 RGTR--
+141001004 Medernach, Op der La  00955  00955                % 01454 RGTR--
+140503001 Stegen, Bloen Eck     01000  01000                % 01454 RGTR--
+140503002 Stegen, Eglise        01002                       % 01454 RGTR--
+*Z 01455 RGTR--                                             % 01455 RGTR--
+*L 409      160904001 140503002  01038  01102               % 01455 RGTR--
+*A bz 160904001 140503002 000006  01038  01102              % 01455 RGTR--
+*A ds 160904001 140503002 000006  01038  01102              % 01455 RGTR--
+*A dt 160904001 140503002 000006  01038  01102              % 01455 RGTR--
+*R 1 140503002 160904001 140503002  01038  01102            % 01455 RGTR--
+*G RGB 160904001 140503002  01038  01102                    % 01455 RGTR--
+*A VE 160904001 140503002 000006  01038  01102              % 01455 RGTR--
+*I FD 160904001 140503002        0002440  01038  01102      % 01455 RGTR--
+160904001 Mersch, Gare                 01038                % 01455 RGTR--
+160902002 Rollingen, Fielserst  01040  01040                % 01455 RGTR--
+160910001 Mersch, Bënzert       01042  01042                % 01455 RGTR--
+160401001 Angelsberg, Paafenda  01043  01043                % 01455 RGTR--
+160601009 Larochette, Goudelt   01046  01046                % 01455 RGTR--
+160601002 Larochette, Boltgest  01049  01049                % 01455 RGTR--
+160601008 Larochette, Spuerkee  01051  01051                % 01455 RGTR--
+160601005 Larochette, Leedebac  01052  01052                % 01455 RGTR--
+141001001 Medernach, Fondation  01054  01054                % 01455 RGTR--
+141001003 Medernach, Op der Ga  01054  01054                % 01455 RGTR--
+141001004 Medernach, Op der La  01055  01055                % 01455 RGTR--
+140503001 Stegen, Bloen Eck     01100  01100                % 01455 RGTR--
+140503002 Stegen, Eglise        01102                       % 01455 RGTR--
+*Z 01456 RGTR--                                             % 01456 RGTR--
+*L 409      160904001 140503002  01138  01202               % 01456 RGTR--
+*A bz 160904001 140503002 000006  01138  01202              % 01456 RGTR--
+*A ds 160904001 140503002 000006  01138  01202              % 01456 RGTR--
+*A dt 160904001 140503002 000006  01138  01202              % 01456 RGTR--
+*R 1 140503002 160904001 140503002  01138  01202            % 01456 RGTR--
+*G RGB 160904001 140503002  01138  01202                    % 01456 RGTR--
+*A VE 160904001 140503002 000006  01138  01202              % 01456 RGTR--
+*I FD 160904001 140503002        0002545  01138  01202      % 01456 RGTR--
+160904001 Mersch, Gare                 01138                % 01456 RGTR--
+160902002 Rollingen, Fielserst  01140  01140                % 01456 RGTR--
+160910001 Mersch, Bënzert       01142  01142                % 01456 RGTR--
+160401001 Angelsberg, Paafenda  01143  01143                % 01456 RGTR--
+160601009 Larochette, Goudelt   01146  01146                % 01456 RGTR--
+160601002 Larochette, Boltgest  01149  01149                % 01456 RGTR--
+160601008 Larochette, Spuerkee  01151  01151                % 01456 RGTR--
+160601005 Larochette, Leedebac  01152  01152                % 01456 RGTR--
+141001001 Medernach, Fondation  01154  01154                % 01456 RGTR--
+141001003 Medernach, Op der Ga  01154  01154                % 01456 RGTR--
+141001004 Medernach, Op der La  01155  01155                % 01456 RGTR--
+140503001 Stegen, Bloen Eck     01200  01200                % 01456 RGTR--
+140503002 Stegen, Eglise        01202                       % 01456 RGTR--
+*Z 01457 RGTR--                                             % 01457 RGTR--
+*L 409      160904001 140503002  01238  01302               % 01457 RGTR--
+*A bz 160904001 140503002 000006  01238  01302              % 01457 RGTR--
+*A ds 160904001 140503002 000006  01238  01302              % 01457 RGTR--
+*A dt 160904001 140503002 000006  01238  01302              % 01457 RGTR--
+*R 1 140503002 160904001 140503002  01238  01302            % 01457 RGTR--
+*G RGB 160904001 140503002  01238  01302                    % 01457 RGTR--
+*A VE 160904001 140503002 000006  01238  01302              % 01457 RGTR--
+*I FD 160904001 140503002        0001267  01238  01302      % 01457 RGTR--
+160904001 Mersch, Gare                 01238                % 01457 RGTR--
+160902002 Rollingen, Fielserst  01240  01240                % 01457 RGTR--
+160910001 Mersch, Bënzert       01242  01242                % 01457 RGTR--
+160401001 Angelsberg, Paafenda  01243  01243                % 01457 RGTR--
+160601009 Larochette, Goudelt   01246  01246                % 01457 RGTR--
+160601002 Larochette, Boltgest  01249  01249                % 01457 RGTR--
+160601008 Larochette, Spuerkee  01251  01251                % 01457 RGTR--
+160601005 Larochette, Leedebac  01252  01252                % 01457 RGTR--
+141001001 Medernach, Fondation  01254  01254                % 01457 RGTR--
+141001003 Medernach, Op der Ga  01254  01254                % 01457 RGTR--
+141001004 Medernach, Op der La  01255  01255                % 01457 RGTR--
+140503001 Stegen, Bloen Eck     01300  01300                % 01457 RGTR--
+140503002 Stegen, Eglise        01302                       % 01457 RGTR--
+*Z 01458 RGTR--                                             % 01458 RGTR--
+*L 409      160904001 140503002  01338  01402               % 01458 RGTR--
+*A bz 160904001 140503002 000006  01338  01402              % 01458 RGTR--
+*A ds 160904001 140503002 000006  01338  01402              % 01458 RGTR--
+*A dt 160904001 140503002 000006  01338  01402              % 01458 RGTR--
+*R 1 140503002 160904001 140503002  01338  01402            % 01458 RGTR--
+*G RGB 160904001 140503002  01338  01402                    % 01458 RGTR--
+*A VE 160904001 140503002 000006  01338  01402              % 01458 RGTR--
+*I FD 160904001 140503002        0002546  01338  01402      % 01458 RGTR--
+160904001 Mersch, Gare                 01338                % 01458 RGTR--
+160902002 Rollingen, Fielserst  01340  01340                % 01458 RGTR--
+160910001 Mersch, Bënzert       01342  01342                % 01458 RGTR--
+160401001 Angelsberg, Paafenda  01343  01343                % 01458 RGTR--
+160601009 Larochette, Goudelt   01346  01346                % 01458 RGTR--
+160601002 Larochette, Boltgest  01349  01349                % 01458 RGTR--
+160601008 Larochette, Spuerkee  01351  01351                % 01458 RGTR--
+160601005 Larochette, Leedebac  01352  01352                % 01458 RGTR--
+141001001 Medernach, Fondation  01354  01354                % 01458 RGTR--
+141001003 Medernach, Op der Ga  01354  01354                % 01458 RGTR--
+141001004 Medernach, Op der La  01355  01355                % 01458 RGTR--
+140503001 Stegen, Bloen Eck     01400  01400                % 01458 RGTR--
+140503002 Stegen, Eglise        01402                       % 01458 RGTR--
+*Z 01459 RGTR--                                             % 01459 RGTR--
+*L 409      160904001 140503002  01438  01502               % 01459 RGTR--
+*A bz 160904001 140503002 000006  01438  01502              % 01459 RGTR--
+*A ds 160904001 140503002 000006  01438  01502              % 01459 RGTR--
+*A dt 160904001 140503002 000006  01438  01502              % 01459 RGTR--
+*R 1 140503002 160904001 140503002  01438  01502            % 01459 RGTR--
+*G RGB 160904001 140503002  01438  01502                    % 01459 RGTR--
+*A VE 160904001 140503002 000006  01438  01502              % 01459 RGTR--
+*I FD 160904001 140503002        0002529  01438  01502      % 01459 RGTR--
+160904001 Mersch, Gare                 01438                % 01459 RGTR--
+160902002 Rollingen, Fielserst  01440  01440                % 01459 RGTR--
+160910001 Mersch, Bënzert       01442  01442                % 01459 RGTR--
+160401001 Angelsberg, Paafenda  01443  01443                % 01459 RGTR--
+160601009 Larochette, Goudelt   01446  01446                % 01459 RGTR--
+160601002 Larochette, Boltgest  01449  01449                % 01459 RGTR--
+160601008 Larochette, Spuerkee  01451  01451                % 01459 RGTR--
+160601005 Larochette, Leedebac  01452  01452                % 01459 RGTR--
+141001001 Medernach, Fondation  01454  01454                % 01459 RGTR--
+141001003 Medernach, Op der Ga  01454  01454                % 01459 RGTR--
+141001004 Medernach, Op der La  01455  01455                % 01459 RGTR--
+140503001 Stegen, Bloen Eck     01500  01500                % 01459 RGTR--
+140503002 Stegen, Eglise        01502                       % 01459 RGTR--
+*Z 01460 RGTR--                                             % 01460 RGTR--
+*L 409      160904001 140503002  01538  01602               % 01460 RGTR--
+*A bz 160904001 140503002 000006  01538  01602              % 01460 RGTR--
+*A ds 160904001 140503002 000006  01538  01602              % 01460 RGTR--
+*A dt 160904001 140503002 000006  01538  01602              % 01460 RGTR--
+*R 1 140503002 160904001 140503002  01538  01602            % 01460 RGTR--
+*G RGB 160904001 140503002  01538  01602                    % 01460 RGTR--
+*A VE 160904001 140503002 000006  01538  01602              % 01460 RGTR--
+*I FD 160904001 140503002        0002534  01538  01602      % 01460 RGTR--
+160904001 Mersch, Gare                 01538                % 01460 RGTR--
+160902002 Rollingen, Fielserst  01540  01540                % 01460 RGTR--
+160910001 Mersch, Bënzert       01542  01542                % 01460 RGTR--
+160401001 Angelsberg, Paafenda  01543  01543                % 01460 RGTR--
+160601009 Larochette, Goudelt   01546  01546                % 01460 RGTR--
+160601002 Larochette, Boltgest  01549  01549                % 01460 RGTR--
+160601008 Larochette, Spuerkee  01551  01551                % 01460 RGTR--
+160601005 Larochette, Leedebac  01552  01552                % 01460 RGTR--
+141001001 Medernach, Fondation  01554  01554                % 01460 RGTR--
+141001003 Medernach, Op der Ga  01554  01554                % 01460 RGTR--
+141001004 Medernach, Op der La  01555  01555                % 01460 RGTR--
+140503001 Stegen, Bloen Eck     01600  01600                % 01460 RGTR--
+140503002 Stegen, Eglise        01602                       % 01460 RGTR--
+*Z 01461 RGTR--                                             % 01461 RGTR--
+*L 409      160904001 140503002  01838  01902               % 01461 RGTR--
+*A bz 160904001 140503002 000006  01838  01902              % 01461 RGTR--
+*A ds 160904001 140503002 000006  01838  01902              % 01461 RGTR--
+*A dt 160904001 140503002 000006  01838  01902              % 01461 RGTR--
+*R 1 140503002 160904001 140503002  01838  01902            % 01461 RGTR--
+*G RGB 160904001 140503002  01838  01902                    % 01461 RGTR--
+*A VE 160904001 140503002 000006  01838  01902              % 01461 RGTR--
+*I FD 160904001 140503002        0001429  01838  01902      % 01461 RGTR--
+160904001 Mersch, Gare                 01838                % 01461 RGTR--
+160902002 Rollingen, Fielserst  01840  01840                % 01461 RGTR--
+160910001 Mersch, Bënzert       01842  01842                % 01461 RGTR--
+160401001 Angelsberg, Paafenda  01843  01843                % 01461 RGTR--
+160601009 Larochette, Goudelt   01846  01846                % 01461 RGTR--
+160601002 Larochette, Boltgest  01849  01849                % 01461 RGTR--
+160601008 Larochette, Spuerkee  01851  01851                % 01461 RGTR--
+160601005 Larochette, Leedebac  01852  01852                % 01461 RGTR--
+141001001 Medernach, Fondation  01854  01854                % 01461 RGTR--
+141001003 Medernach, Op der Ga  01854  01854                % 01461 RGTR--
+141001004 Medernach, Op der La  01855  01855                % 01461 RGTR--
+140503001 Stegen, Bloen Eck     01900  01900                % 01461 RGTR--
+140503002 Stegen, Eglise        01902                       % 01461 RGTR--
+*Z 01462 RGTR--                                             % 01462 RGTR--
+*L 409      160904001 140503002  01938  02002               % 01462 RGTR--
+*A bz 160904001 140503002 000006  01938  02002              % 01462 RGTR--
+*A ds 160904001 140503002 000006  01938  02002              % 01462 RGTR--
+*A dt 160904001 140503002 000006  01938  02002              % 01462 RGTR--
+*R 1 140503002 160904001 140503002  01938  02002            % 01462 RGTR--
+*G RGB 160904001 140503002  01938  02002                    % 01462 RGTR--
+*A VE 160904001 140503002 000006  01938  02002              % 01462 RGTR--
+*I FD 160904001 140503002        0002547  01938  02002      % 01462 RGTR--
+160904001 Mersch, Gare                 01938                % 01462 RGTR--
+160902002 Rollingen, Fielserst  01940  01940                % 01462 RGTR--
+160910001 Mersch, Bënzert       01942  01942                % 01462 RGTR--
+160401001 Angelsberg, Paafenda  01943  01943                % 01462 RGTR--
+160601009 Larochette, Goudelt   01946  01946                % 01462 RGTR--
+160601002 Larochette, Boltgest  01949  01949                % 01462 RGTR--
+160601008 Larochette, Spuerkee  01951  01951                % 01462 RGTR--
+160601005 Larochette, Leedebac  01952  01952                % 01462 RGTR--
+141001001 Medernach, Fondation  01954  01954                % 01462 RGTR--
+141001003 Medernach, Op der Ga  01954  01954                % 01462 RGTR--
+141001004 Medernach, Op der La  01955  01955                % 01462 RGTR--
+140503001 Stegen, Bloen Eck     02000  02000                % 01462 RGTR--
+140503002 Stegen, Eglise        02002                       % 01462 RGTR--
+*Z 01463 RGTR--                                             % 01463 RGTR--
+*L 409      140503002 160904001  00632  00657               % 01463 RGTR--
+*A bz 140503002 160904001 000006  00632  00657              % 01463 RGTR--
+*A dr 140503002 160904001 000006  00632  00657              % 01463 RGTR--
+*A LX 140503002 160904001 000006  00632  00657              % 01463 RGTR--
+*R 2 160904001 140503002 160904001  00632  00657            % 01463 RGTR--
+*G RGB 140503002 160904001  00632  00657                    % 01463 RGTR--
+*A VE 140503002 160904001 000006  00632  00657              % 01463 RGTR--
+*I FD 140503002 160904001        0000955  00632  00657      % 01463 RGTR--
+140503002 Stegen, Eglise               00632                % 01463 RGTR--
+140503001 Stegen, Bloen Eck     00634  00634                % 01463 RGTR--
+141001004 Medernach, Op der La  00639  00639                % 01463 RGTR--
+141001003 Medernach, Op der Ga  00640  00640                % 01463 RGTR--
+141001001 Medernach, Fondation  00641  00641                % 01463 RGTR--
+160601005 Larochette, Leedebac  00643  00643                % 01463 RGTR--
+160601008 Larochette, Spuerkee  00644  00644                % 01463 RGTR--
+160601002 Larochette, Boltgest  00645  00645                % 01463 RGTR--
+160601009 Larochette, Goudelt   00648  00648                % 01463 RGTR--
+160401001 Angelsberg, Paafenda  00651  00651                % 01463 RGTR--
+160910001 Mersch, Bënzert       00653  00653                % 01463 RGTR--
+160902002 Rollingen, Fielserst  00655  00655                % 01463 RGTR--
+160904001 Mersch, Gare          00657                       % 01463 RGTR--
+*Z 01464 RGTR--                                             % 01464 RGTR--
+*L 409      140503002 160904001  00756  00821               % 01464 RGTR--
+*A bz 140503002 160904001 000006  00756  00821              % 01464 RGTR--
+*A dr 140503002 160904001 000006  00756  00821              % 01464 RGTR--
+*A LX 140503002 160904001 000006  00756  00821              % 01464 RGTR--
+*R 2 160904001 140503002 160904001  00756  00821            % 01464 RGTR--
+*G RGB 140503002 160904001  00756  00821                    % 01464 RGTR--
+*A VE 140503002 160904001 000006  00756  00821              % 01464 RGTR--
+*I FD 140503002 160904001        0002548  00756  00821      % 01464 RGTR--
+140503002 Stegen, Eglise               00756                % 01464 RGTR--
+140503001 Stegen, Bloen Eck     00758  00758                % 01464 RGTR--
+141001004 Medernach, Op der La  00803  00803                % 01464 RGTR--
+141001003 Medernach, Op der Ga  00804  00804                % 01464 RGTR--
+141001001 Medernach, Fondation  00805  00805                % 01464 RGTR--
+160601005 Larochette, Leedebac  00807  00807                % 01464 RGTR--
+160601008 Larochette, Spuerkee  00808  00808                % 01464 RGTR--
+160601002 Larochette, Boltgest  00809  00809                % 01464 RGTR--
+160601009 Larochette, Goudelt   00812  00812                % 01464 RGTR--
+160401001 Angelsberg, Paafenda  00815  00815                % 01464 RGTR--
+160910001 Mersch, Bënzert       00817  00817                % 01464 RGTR--
+160902002 Rollingen, Fielserst  00819  00819                % 01464 RGTR--
+160904001 Mersch, Gare          00821                       % 01464 RGTR--
+*Z 01465 RGTR--                                             % 01465 RGTR--
+*L 409      140503002 160904001  00856  00921               % 01465 RGTR--
+*A bz 140503002 160904001 000006  00856  00921              % 01465 RGTR--
+*A dr 140503002 160904001 000006  00856  00921              % 01465 RGTR--
+*A LX 140503002 160904001 000006  00856  00921              % 01465 RGTR--
+*R 2 160904001 140503002 160904001  00856  00921            % 01465 RGTR--
+*G RGB 140503002 160904001  00856  00921                    % 01465 RGTR--
+*A VE 140503002 160904001 000006  00856  00921              % 01465 RGTR--
+*I FD 140503002 160904001        0002549  00856  00921      % 01465 RGTR--
+140503002 Stegen, Eglise               00856                % 01465 RGTR--
+140503001 Stegen, Bloen Eck     00858  00858                % 01465 RGTR--
+141001004 Medernach, Op der La  00903  00903                % 01465 RGTR--
+141001003 Medernach, Op der Ga  00904  00904                % 01465 RGTR--
+141001001 Medernach, Fondation  00905  00905                % 01465 RGTR--
+160601005 Larochette, Leedebac  00907  00907                % 01465 RGTR--
+160601008 Larochette, Spuerkee  00908  00908                % 01465 RGTR--
+160601002 Larochette, Boltgest  00909  00909                % 01465 RGTR--
+160601009 Larochette, Goudelt   00912  00912                % 01465 RGTR--
+160401001 Angelsberg, Paafenda  00915  00915                % 01465 RGTR--
+160910001 Mersch, Bënzert       00917  00917                % 01465 RGTR--
+160902002 Rollingen, Fielserst  00919  00919                % 01465 RGTR--
+160904001 Mersch, Gare          00921                       % 01465 RGTR--
+*Z 01466 RGTR--                                             % 01466 RGTR--
+*L 409      140503002 160904001  01656  01721               % 01466 RGTR--
+*A bz 140503002 160904001 000006  01656  01721              % 01466 RGTR--
+*A dr 140503002 160904001 000006  01656  01721              % 01466 RGTR--
+*A LX 140503002 160904001 000006  01656  01721              % 01466 RGTR--
+*R 2 160904001 140503002 160904001  01656  01721            % 01466 RGTR--
+*G RGB 140503002 160904001  01656  01721                    % 01466 RGTR--
+*A VE 140503002 160904001 000006  01656  01721              % 01466 RGTR--
+*I FD 140503002 160904001        0002550  01656  01721      % 01466 RGTR--
+140503002 Stegen, Eglise               01656                % 01466 RGTR--
+140503001 Stegen, Bloen Eck     01658  01658                % 01466 RGTR--
+141001004 Medernach, Op der La  01703  01703                % 01466 RGTR--
+141001003 Medernach, Op der Ga  01704  01704                % 01466 RGTR--
+141001001 Medernach, Fondation  01705  01705                % 01466 RGTR--
+160601005 Larochette, Leedebac  01707  01707                % 01466 RGTR--
+160601008 Larochette, Spuerkee  01708  01708                % 01466 RGTR--
+160601002 Larochette, Boltgest  01709  01709                % 01466 RGTR--
+160601009 Larochette, Goudelt   01712  01712                % 01466 RGTR--
+160401001 Angelsberg, Paafenda  01715  01715                % 01466 RGTR--
+160910001 Mersch, Bënzert       01717  01717                % 01466 RGTR--
+160902002 Rollingen, Fielserst  01719  01719                % 01466 RGTR--
+160904001 Mersch, Gare          01721                       % 01466 RGTR--
+*Z 01467 RGTR--                                             % 01467 RGTR--
+*L 409      140503002 160904001  01756  01821               % 01467 RGTR--
+*A bz 140503002 160904001 000006  01756  01821              % 01467 RGTR--
+*A dr 140503002 160904001 000006  01756  01821              % 01467 RGTR--
+*A LX 140503002 160904001 000006  01756  01821              % 01467 RGTR--
+*R 2 160904001 140503002 160904001  01756  01821            % 01467 RGTR--
+*G RGB 140503002 160904001  01756  01821                    % 01467 RGTR--
+*A VE 140503002 160904001 000006  01756  01821              % 01467 RGTR--
+*I FD 140503002 160904001        0002551  01756  01821      % 01467 RGTR--
+140503002 Stegen, Eglise               01756                % 01467 RGTR--
+140503001 Stegen, Bloen Eck     01758  01758                % 01467 RGTR--
+141001004 Medernach, Op der La  01803  01803                % 01467 RGTR--
+141001003 Medernach, Op der Ga  01804  01804                % 01467 RGTR--
+141001001 Medernach, Fondation  01805  01805                % 01467 RGTR--
+160601005 Larochette, Leedebac  01807  01807                % 01467 RGTR--
+160601008 Larochette, Spuerkee  01808  01808                % 01467 RGTR--
+160601002 Larochette, Boltgest  01809  01809                % 01467 RGTR--
+160601009 Larochette, Goudelt   01812  01812                % 01467 RGTR--
+160401001 Angelsberg, Paafenda  01815  01815                % 01467 RGTR--
+160910001 Mersch, Bënzert       01817  01817                % 01467 RGTR--
+160902002 Rollingen, Fielserst  01819  01819                % 01467 RGTR--
+160904001 Mersch, Gare          01821                       % 01467 RGTR--
+*Z 01468 RGTR--                                             % 01468 RGTR--
+*L 409      140503002 160904001  00543  00606               % 01468 RGTR--
+*A bz 140503002 160904001 000006  00543  00606              % 01468 RGTR--
+*A dr 140503002 160904001 000006  00543  00606              % 01468 RGTR--
+*A LX 140503002 160904001 000006  00543  00606              % 01468 RGTR--
+*R 2 160904001 140503002 160904001  00543  00606            % 01468 RGTR--
+*G RGB 140503002 160904001  00543  00606                    % 01468 RGTR--
+*A VE 140503002 160904001 000006  00543  00606              % 01468 RGTR--
+*I FD 140503002 160904001        0002552  00543  00606      % 01468 RGTR--
+140503002 Stegen, Eglise               00543                % 01468 RGTR--
+140503001 Stegen, Bloen Eck     00544  00544                % 01468 RGTR--
+141001004 Medernach, Op der La  00549  00549                % 01468 RGTR--
+141001003 Medernach, Op der Ga  00550  00550                % 01468 RGTR--
+141001001 Medernach, Fondation  00550  00550                % 01468 RGTR--
+160601005 Larochette, Leedebac  00552  00552                % 01468 RGTR--
+160601008 Larochette, Spuerkee  00553  00553                % 01468 RGTR--
+160601002 Larochette, Boltgest  00554  00554                % 01468 RGTR--
+160601009 Larochette, Goudelt   00557  00557                % 01468 RGTR--
+160401001 Angelsberg, Paafenda  00600  00600                % 01468 RGTR--
+160910001 Mersch, Bënzert       00602  00602                % 01468 RGTR--
+160902002 Rollingen, Fielserst  00604  00604                % 01468 RGTR--
+160904001 Mersch, Gare          00606                       % 01468 RGTR--
+*Z 01469 RGTR--                                             % 01469 RGTR--
+*L 409      140503002 160904001  00613  00636               % 01469 RGTR--
+*A bz 140503002 160904001 000006  00613  00636              % 01469 RGTR--
+*A dr 140503002 160904001 000006  00613  00636              % 01469 RGTR--
+*A LX 140503002 160904001 000006  00613  00636              % 01469 RGTR--
+*R 2 160904001 140503002 160904001  00613  00636            % 01469 RGTR--
+*G RGB 140503002 160904001  00613  00636                    % 01469 RGTR--
+*A VE 140503002 160904001 000006  00613  00636              % 01469 RGTR--
+*I FD 140503002 160904001        0002553  00613  00636      % 01469 RGTR--
+140503002 Stegen, Eglise               00613                % 01469 RGTR--
+140503001 Stegen, Bloen Eck     00614  00614                % 01469 RGTR--
+141001004 Medernach, Op der La  00619  00619                % 01469 RGTR--
+141001003 Medernach, Op der Ga  00620  00620                % 01469 RGTR--
+141001001 Medernach, Fondation  00620  00620                % 01469 RGTR--
+160601005 Larochette, Leedebac  00622  00622                % 01469 RGTR--
+160601008 Larochette, Spuerkee  00623  00623                % 01469 RGTR--
+160601002 Larochette, Boltgest  00624  00624                % 01469 RGTR--
+160601009 Larochette, Goudelt   00627  00627                % 01469 RGTR--
+160401001 Angelsberg, Paafenda  00630  00630                % 01469 RGTR--
+160910001 Mersch, Bënzert       00632  00632                % 01469 RGTR--
+160902002 Rollingen, Fielserst  00634  00634                % 01469 RGTR--
+160904001 Mersch, Gare          00636                       % 01469 RGTR--
+*Z 01470 RGTR--                                             % 01470 RGTR--
+*L 409      140503002 160904001  00958  01021               % 01470 RGTR--
+*A bz 140503002 160904001 000006  00958  01021              % 01470 RGTR--
+*A dr 140503002 160904001 000006  00958  01021              % 01470 RGTR--
+*A LX 140503002 160904001 000006  00958  01021              % 01470 RGTR--
+*R 2 160904001 140503002 160904001  00958  01021            % 01470 RGTR--
+*G RGB 140503002 160904001  00958  01021                    % 01470 RGTR--
+*A VE 140503002 160904001 000006  00958  01021              % 01470 RGTR--
+*I FD 140503002 160904001        0002554  00958  01021      % 01470 RGTR--
+140503002 Stegen, Eglise               00958                % 01470 RGTR--
+140503001 Stegen, Bloen Eck     00959  00959                % 01470 RGTR--
+141001004 Medernach, Op der La  01004  01004                % 01470 RGTR--
+141001003 Medernach, Op der Ga  01005  01005                % 01470 RGTR--
+141001001 Medernach, Fondation  01005  01005                % 01470 RGTR--
+160601005 Larochette, Leedebac  01007  01007                % 01470 RGTR--
+160601008 Larochette, Spuerkee  01008  01008                % 01470 RGTR--
+160601002 Larochette, Boltgest  01009  01009                % 01470 RGTR--
+160601009 Larochette, Goudelt   01012  01012                % 01470 RGTR--
+160401001 Angelsberg, Paafenda  01015  01015                % 01470 RGTR--
+160910001 Mersch, Bënzert       01017  01017                % 01470 RGTR--
+160902002 Rollingen, Fielserst  01019  01019                % 01470 RGTR--
+160904001 Mersch, Gare          01021                       % 01470 RGTR--
+*Z 01471 RGTR--                                             % 01471 RGTR--
+*L 409      140503002 160904001  01058  01121               % 01471 RGTR--
+*A bz 140503002 160904001 000006  01058  01121              % 01471 RGTR--
+*A dr 140503002 160904001 000006  01058  01121              % 01471 RGTR--
+*A LX 140503002 160904001 000006  01058  01121              % 01471 RGTR--
+*R 2 160904001 140503002 160904001  01058  01121            % 01471 RGTR--
+*G RGB 140503002 160904001  01058  01121                    % 01471 RGTR--
+*A VE 140503002 160904001 000006  01058  01121              % 01471 RGTR--
+*I FD 140503002 160904001        0002555  01058  01121      % 01471 RGTR--
+140503002 Stegen, Eglise               01058                % 01471 RGTR--
+140503001 Stegen, Bloen Eck     01059  01059                % 01471 RGTR--
+141001004 Medernach, Op der La  01104  01104                % 01471 RGTR--
+141001003 Medernach, Op der Ga  01105  01105                % 01471 RGTR--
+141001001 Medernach, Fondation  01105  01105                % 01471 RGTR--
+160601005 Larochette, Leedebac  01107  01107                % 01471 RGTR--
+160601008 Larochette, Spuerkee  01108  01108                % 01471 RGTR--
+160601002 Larochette, Boltgest  01109  01109                % 01471 RGTR--
+160601009 Larochette, Goudelt   01112  01112                % 01471 RGTR--
+160401001 Angelsberg, Paafenda  01115  01115                % 01471 RGTR--
+160910001 Mersch, Bënzert       01117  01117                % 01471 RGTR--
+160902002 Rollingen, Fielserst  01119  01119                % 01471 RGTR--
+160904001 Mersch, Gare          01121                       % 01471 RGTR--
+*Z 01472 RGTR--                                             % 01472 RGTR--
+*L 409      140503002 160904001  01158  01221               % 01472 RGTR--
+*A bz 140503002 160904001 000006  01158  01221              % 01472 RGTR--
+*A dr 140503002 160904001 000006  01158  01221              % 01472 RGTR--
+*A LX 140503002 160904001 000006  01158  01221              % 01472 RGTR--
+*R 2 160904001 140503002 160904001  01158  01221            % 01472 RGTR--
+*G RGB 140503002 160904001  01158  01221                    % 01472 RGTR--
+*A VE 140503002 160904001 000006  01158  01221              % 01472 RGTR--
+*I FD 140503002 160904001        0002556  01158  01221      % 01472 RGTR--
+140503002 Stegen, Eglise               01158                % 01472 RGTR--
+140503001 Stegen, Bloen Eck     01159  01159                % 01472 RGTR--
+141001004 Medernach, Op der La  01204  01204                % 01472 RGTR--
+141001003 Medernach, Op der Ga  01205  01205                % 01472 RGTR--
+141001001 Medernach, Fondation  01205  01205                % 01472 RGTR--
+160601005 Larochette, Leedebac  01207  01207                % 01472 RGTR--
+160601008 Larochette, Spuerkee  01208  01208                % 01472 RGTR--
+160601002 Larochette, Boltgest  01209  01209                % 01472 RGTR--
+160601009 Larochette, Goudelt   01212  01212                % 01472 RGTR--
+160401001 Angelsberg, Paafenda  01215  01215                % 01472 RGTR--
+160910001 Mersch, Bënzert       01217  01217                % 01472 RGTR--
+160902002 Rollingen, Fielserst  01219  01219                % 01472 RGTR--
+160904001 Mersch, Gare          01221                       % 01472 RGTR--
+*Z 01473 RGTR--                                             % 01473 RGTR--
+*L 409      140503002 160904001  01258  01321               % 01473 RGTR--
+*A bz 140503002 160904001 000006  01258  01321              % 01473 RGTR--
+*A dr 140503002 160904001 000006  01258  01321              % 01473 RGTR--
+*A LX 140503002 160904001 000006  01258  01321              % 01473 RGTR--
+*R 2 160904001 140503002 160904001  01258  01321            % 01473 RGTR--
+*G RGB 140503002 160904001  01258  01321                    % 01473 RGTR--
+*A VE 140503002 160904001 000006  01258  01321              % 01473 RGTR--
+*I FD 140503002 160904001        0002557  01258  01321      % 01473 RGTR--
+140503002 Stegen, Eglise               01258                % 01473 RGTR--
+140503001 Stegen, Bloen Eck     01259  01259                % 01473 RGTR--
+141001004 Medernach, Op der La  01304  01304                % 01473 RGTR--
+141001003 Medernach, Op der Ga  01305  01305                % 01473 RGTR--
+141001001 Medernach, Fondation  01305  01305                % 01473 RGTR--
+160601005 Larochette, Leedebac  01307  01307                % 01473 RGTR--
+160601008 Larochette, Spuerkee  01308  01308                % 01473 RGTR--
+160601002 Larochette, Boltgest  01309  01309                % 01473 RGTR--
+160601009 Larochette, Goudelt   01312  01312                % 01473 RGTR--
+160401001 Angelsberg, Paafenda  01315  01315                % 01473 RGTR--
+160910001 Mersch, Bënzert       01317  01317                % 01473 RGTR--
+160902002 Rollingen, Fielserst  01319  01319                % 01473 RGTR--
+160904001 Mersch, Gare          01321                       % 01473 RGTR--
+*Z 01474 RGTR--                                             % 01474 RGTR--
+*L 409      140503002 160904001  01358  01421               % 01474 RGTR--
+*A bz 140503002 160904001 000006  01358  01421              % 01474 RGTR--
+*A dr 140503002 160904001 000006  01358  01421              % 01474 RGTR--
+*A LX 140503002 160904001 000006  01358  01421              % 01474 RGTR--
+*R 2 160904001 140503002 160904001  01358  01421            % 01474 RGTR--
+*G RGB 140503002 160904001  01358  01421                    % 01474 RGTR--
+*A VE 140503002 160904001 000006  01358  01421              % 01474 RGTR--
+*I FD 140503002 160904001        0002558  01358  01421      % 01474 RGTR--
+140503002 Stegen, Eglise               01358                % 01474 RGTR--
+140503001 Stegen, Bloen Eck     01359  01359                % 01474 RGTR--
+141001004 Medernach, Op der La  01404  01404                % 01474 RGTR--
+141001003 Medernach, Op der Ga  01405  01405                % 01474 RGTR--
+141001001 Medernach, Fondation  01405  01405                % 01474 RGTR--
+160601005 Larochette, Leedebac  01407  01407                % 01474 RGTR--
+160601008 Larochette, Spuerkee  01408  01408                % 01474 RGTR--
+160601002 Larochette, Boltgest  01409  01409                % 01474 RGTR--
+160601009 Larochette, Goudelt   01412  01412                % 01474 RGTR--
+160401001 Angelsberg, Paafenda  01415  01415                % 01474 RGTR--
+160910001 Mersch, Bënzert       01417  01417                % 01474 RGTR--
+160902002 Rollingen, Fielserst  01419  01419                % 01474 RGTR--
+160904001 Mersch, Gare          01421                       % 01474 RGTR--
+*Z 01475 RGTR--                                             % 01475 RGTR--
+*L 409      140503002 160904001  01458  01521               % 01475 RGTR--
+*A bz 140503002 160904001 000006  01458  01521              % 01475 RGTR--
+*A dr 140503002 160904001 000006  01458  01521              % 01475 RGTR--
+*A LX 140503002 160904001 000006  01458  01521              % 01475 RGTR--
+*R 2 160904001 140503002 160904001  01458  01521            % 01475 RGTR--
+*G RGB 140503002 160904001  01458  01521                    % 01475 RGTR--
+*A VE 140503002 160904001 000006  01458  01521              % 01475 RGTR--
+*I FD 140503002 160904001        0002539  01458  01521      % 01475 RGTR--
+140503002 Stegen, Eglise               01458                % 01475 RGTR--
+140503001 Stegen, Bloen Eck     01459  01459                % 01475 RGTR--
+141001004 Medernach, Op der La  01504  01504                % 01475 RGTR--
+141001003 Medernach, Op der Ga  01505  01505                % 01475 RGTR--
+141001001 Medernach, Fondation  01505  01505                % 01475 RGTR--
+160601005 Larochette, Leedebac  01507  01507                % 01475 RGTR--
+160601008 Larochette, Spuerkee  01508  01508                % 01475 RGTR--
+160601002 Larochette, Boltgest  01509  01509                % 01475 RGTR--
+160601009 Larochette, Goudelt   01512  01512                % 01475 RGTR--
+160401001 Angelsberg, Paafenda  01515  01515                % 01475 RGTR--
+160910001 Mersch, Bënzert       01517  01517                % 01475 RGTR--
+160902002 Rollingen, Fielserst  01519  01519                % 01475 RGTR--
+160904001 Mersch, Gare          01521                       % 01475 RGTR--
+*Z 01476 RGTR--                                             % 01476 RGTR--
+*L 409      140503002 160904001  01558  01621               % 01476 RGTR--
+*A bz 140503002 160904001 000006  01558  01621              % 01476 RGTR--
+*A dr 140503002 160904001 000006  01558  01621              % 01476 RGTR--
+*A LX 140503002 160904001 000006  01558  01621              % 01476 RGTR--
+*R 2 160904001 140503002 160904001  01558  01621            % 01476 RGTR--
+*G RGB 140503002 160904001  01558  01621                    % 01476 RGTR--
+*A VE 140503002 160904001 000006  01558  01621              % 01476 RGTR--
+*I FD 140503002 160904001        0002559  01558  01621      % 01476 RGTR--
+140503002 Stegen, Eglise               01558                % 01476 RGTR--
+140503001 Stegen, Bloen Eck     01559  01559                % 01476 RGTR--
+141001004 Medernach, Op der La  01604  01604                % 01476 RGTR--
+141001003 Medernach, Op der Ga  01605  01605                % 01476 RGTR--
+141001001 Medernach, Fondation  01605  01605                % 01476 RGTR--
+160601005 Larochette, Leedebac  01607  01607                % 01476 RGTR--
+160601008 Larochette, Spuerkee  01608  01608                % 01476 RGTR--
+160601002 Larochette, Boltgest  01609  01609                % 01476 RGTR--
+160601009 Larochette, Goudelt   01612  01612                % 01476 RGTR--
+160401001 Angelsberg, Paafenda  01615  01615                % 01476 RGTR--
+160910001 Mersch, Bënzert       01617  01617                % 01476 RGTR--
+160902002 Rollingen, Fielserst  01619  01619                % 01476 RGTR--
+160904001 Mersch, Gare          01621                       % 01476 RGTR--
+*Z 01477 RGTR--                                             % 01477 RGTR--
+*L 409      140503002 160904001  01858  01921               % 01477 RGTR--
+*A bz 140503002 160904001 000006  01858  01921              % 01477 RGTR--
+*A dr 140503002 160904001 000006  01858  01921              % 01477 RGTR--
+*A LX 140503002 160904001 000006  01858  01921              % 01477 RGTR--
+*R 2 160904001 140503002 160904001  01858  01921            % 01477 RGTR--
+*G RGB 140503002 160904001  01858  01921                    % 01477 RGTR--
+*A VE 140503002 160904001 000006  01858  01921              % 01477 RGTR--
+*I FD 140503002 160904001        0002560  01858  01921      % 01477 RGTR--
+140503002 Stegen, Eglise               01858                % 01477 RGTR--
+140503001 Stegen, Bloen Eck     01859  01859                % 01477 RGTR--
+141001004 Medernach, Op der La  01904  01904                % 01477 RGTR--
+141001003 Medernach, Op der Ga  01905  01905                % 01477 RGTR--
+141001001 Medernach, Fondation  01905  01905                % 01477 RGTR--
+160601005 Larochette, Leedebac  01907  01907                % 01477 RGTR--
+160601008 Larochette, Spuerkee  01908  01908                % 01477 RGTR--
+160601002 Larochette, Boltgest  01909  01909                % 01477 RGTR--
+160601009 Larochette, Goudelt   01912  01912                % 01477 RGTR--
+160401001 Angelsberg, Paafenda  01915  01915                % 01477 RGTR--
+160910001 Mersch, Bënzert       01917  01917                % 01477 RGTR--
+160902002 Rollingen, Fielserst  01919  01919                % 01477 RGTR--
+160904001 Mersch, Gare          01921                       % 01477 RGTR--
+*Z 01478 RGTR--                                             % 01478 RGTR--
+*L 409      140503002 160904001  01958  02021               % 01478 RGTR--
+*A bz 140503002 160904001 000006  01958  02021              % 01478 RGTR--
+*A dr 140503002 160904001 000006  01958  02021              % 01478 RGTR--
+*A LX 140503002 160904001 000006  01958  02021              % 01478 RGTR--
+*R 2 160904001 140503002 160904001  01958  02021            % 01478 RGTR--
+*G RGB 140503002 160904001  01958  02021                    % 01478 RGTR--
+*A VE 140503002 160904001 000006  01958  02021              % 01478 RGTR--
+*I FD 140503002 160904001        0002561  01958  02021      % 01478 RGTR--
+140503002 Stegen, Eglise               01958                % 01478 RGTR--
+140503001 Stegen, Bloen Eck     01959  01959                % 01478 RGTR--
+141001004 Medernach, Op der La  02004  02004                % 01478 RGTR--
+141001003 Medernach, Op der Ga  02005  02005                % 01478 RGTR--
+141001001 Medernach, Fondation  02005  02005                % 01478 RGTR--
+160601005 Larochette, Leedebac  02007  02007                % 01478 RGTR--
+160601008 Larochette, Spuerkee  02008  02008                % 01478 RGTR--
+160601002 Larochette, Boltgest  02009  02009                % 01478 RGTR--
+160601009 Larochette, Goudelt   02012  02012                % 01478 RGTR--
+160401001 Angelsberg, Paafenda  02015  02015                % 01478 RGTR--
+160910001 Mersch, Bënzert       02017  02017                % 01478 RGTR--
+160902002 Rollingen, Fielserst  02019  02019                % 01478 RGTR--
+160904001 Mersch, Gare          02021                       % 01478 RGTR--

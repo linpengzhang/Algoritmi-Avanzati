@@ -1,0 +1,1180 @@
+*F 03 2
+*Z 06277 CFLBUS                                             % 06277 CFLBUS
+*L L50      200405036 191103002  00545  00621               % 06277 CFLBUS
+*R 1 191103002 200405036 191103002  00545  00621            % 06277 CFLBUS
+*G RGB 200405036 191103002  00545  00621                    % 06277 CFLBUS
+*A VE 200405036 191103002 000284  00545  00621              % 06277 CFLBUS
+*I FD 200405036 191103002        0005073  00545  00621      % 06277 CFLBUS
+200405036 Luxembourg, Gare rou         00545                % 06277 CFLBUS
+200101007 Bertrange-Strassen,   00559  00559                % 06277 CFLBUS
+190903013 Mamer, Tossebierg     00604  00604                % 06277 CFLBUS
+190903007 Mamer, Gaaschtbierg   00606  00606                % 06277 CFLBUS
+190903002 Mamer, Baerendall     00607  00607                % 06277 CFLBUS
+190903012 Mamer, Mambra         00608  00608                % 06277 CFLBUS
+190901003 Capellen, Klouschter  00612  00612                % 06277 CFLBUS
+190901005 Capellen, Ponts & Ch  00613  00613                % 06277 CFLBUS
+191103002 Kleinbettingen, Gare  00621                       % 06277 CFLBUS
+*Z 06278 CFLBUS                                             % 06278 CFLBUS
+*L L50      200405036 191103002  00645  00721               % 06278 CFLBUS
+*R 1 191103002 200405036 191103002  00645  00721            % 06278 CFLBUS
+*G RGB 200405036 191103002  00645  00721                    % 06278 CFLBUS
+*A VE 200405036 191103002 000284  00645  00721              % 06278 CFLBUS
+*I FD 200405036 191103002        0005074  00645  00721      % 06278 CFLBUS
+200405036 Luxembourg, Gare rou         00645                % 06278 CFLBUS
+200101007 Bertrange-Strassen,   00659  00659                % 06278 CFLBUS
+190903013 Mamer, Tossebierg     00704  00704                % 06278 CFLBUS
+190903007 Mamer, Gaaschtbierg   00706  00706                % 06278 CFLBUS
+190903002 Mamer, Baerendall     00707  00707                % 06278 CFLBUS
+190903012 Mamer, Mambra         00708  00708                % 06278 CFLBUS
+190901003 Capellen, Klouschter  00712  00712                % 06278 CFLBUS
+190901005 Capellen, Ponts & Ch  00713  00713                % 06278 CFLBUS
+191103002 Kleinbettingen, Gare  00721                       % 06278 CFLBUS
+*Z 06279 CFLBUS                                             % 06279 CFLBUS
+*L L50      200405036 191103002  00745  00821               % 06279 CFLBUS
+*R 1 191103002 200405036 191103002  00745  00821            % 06279 CFLBUS
+*G RGB 200405036 191103002  00745  00821                    % 06279 CFLBUS
+*A VE 200405036 191103002 000284  00745  00821              % 06279 CFLBUS
+*I FD 200405036 191103002        0005075  00745  00821      % 06279 CFLBUS
+200405036 Luxembourg, Gare rou         00745                % 06279 CFLBUS
+200101007 Bertrange-Strassen,   00759  00759                % 06279 CFLBUS
+190903013 Mamer, Tossebierg     00804  00804                % 06279 CFLBUS
+190903007 Mamer, Gaaschtbierg   00806  00806                % 06279 CFLBUS
+190903002 Mamer, Baerendall     00807  00807                % 06279 CFLBUS
+190903012 Mamer, Mambra         00808  00808                % 06279 CFLBUS
+190901003 Capellen, Klouschter  00812  00812                % 06279 CFLBUS
+190901005 Capellen, Ponts & Ch  00813  00813                % 06279 CFLBUS
+191103002 Kleinbettingen, Gare  00821                       % 06279 CFLBUS
+*Z 06280 CFLBUS                                             % 06280 CFLBUS
+*L L50      200405036 191103002  00845  00921               % 06280 CFLBUS
+*R 1 191103002 200405036 191103002  00845  00921            % 06280 CFLBUS
+*G RGB 200405036 191103002  00845  00921                    % 06280 CFLBUS
+*A VE 200405036 191103002 000284  00845  00921              % 06280 CFLBUS
+*I FD 200405036 191103002        0005076  00845  00921      % 06280 CFLBUS
+200405036 Luxembourg, Gare rou         00845                % 06280 CFLBUS
+200101007 Bertrange-Strassen,   00859  00859                % 06280 CFLBUS
+190903013 Mamer, Tossebierg     00904  00904                % 06280 CFLBUS
+190903007 Mamer, Gaaschtbierg   00906  00906                % 06280 CFLBUS
+190903002 Mamer, Baerendall     00907  00907                % 06280 CFLBUS
+190903012 Mamer, Mambra         00908  00908                % 06280 CFLBUS
+190901003 Capellen, Klouschter  00912  00912                % 06280 CFLBUS
+190901005 Capellen, Ponts & Ch  00913  00913                % 06280 CFLBUS
+191103002 Kleinbettingen, Gare  00921                       % 06280 CFLBUS
+*Z 06281 CFLBUS                                             % 06281 CFLBUS
+*L L50      200405036 191103002  00945  01021               % 06281 CFLBUS
+*R 1 191103002 200405036 191103002  00945  01021            % 06281 CFLBUS
+*G RGB 200405036 191103002  00945  01021                    % 06281 CFLBUS
+*A VE 200405036 191103002 000284  00945  01021              % 06281 CFLBUS
+*I FD 200405036 191103002        0005077  00945  01021      % 06281 CFLBUS
+200405036 Luxembourg, Gare rou         00945                % 06281 CFLBUS
+200101007 Bertrange-Strassen,   00959  00959                % 06281 CFLBUS
+190903013 Mamer, Tossebierg     01004  01004                % 06281 CFLBUS
+190903007 Mamer, Gaaschtbierg   01006  01006                % 06281 CFLBUS
+190903002 Mamer, Baerendall     01007  01007                % 06281 CFLBUS
+190903012 Mamer, Mambra         01008  01008                % 06281 CFLBUS
+190901003 Capellen, Klouschter  01012  01012                % 06281 CFLBUS
+190901005 Capellen, Ponts & Ch  01013  01013                % 06281 CFLBUS
+191103002 Kleinbettingen, Gare  01021                       % 06281 CFLBUS
+*Z 06282 CFLBUS                                             % 06282 CFLBUS
+*L L50      200405036 191103002  01045  01121               % 06282 CFLBUS
+*R 1 191103002 200405036 191103002  01045  01121            % 06282 CFLBUS
+*G RGB 200405036 191103002  01045  01121                    % 06282 CFLBUS
+*A VE 200405036 191103002 000284  01045  01121              % 06282 CFLBUS
+*I FD 200405036 191103002        0005078  01045  01121      % 06282 CFLBUS
+200405036 Luxembourg, Gare rou         01045                % 06282 CFLBUS
+200101007 Bertrange-Strassen,   01059  01059                % 06282 CFLBUS
+190903013 Mamer, Tossebierg     01104  01104                % 06282 CFLBUS
+190903007 Mamer, Gaaschtbierg   01106  01106                % 06282 CFLBUS
+190903002 Mamer, Baerendall     01107  01107                % 06282 CFLBUS
+190903012 Mamer, Mambra         01108  01108                % 06282 CFLBUS
+190901003 Capellen, Klouschter  01112  01112                % 06282 CFLBUS
+190901005 Capellen, Ponts & Ch  01113  01113                % 06282 CFLBUS
+191103002 Kleinbettingen, Gare  01121                       % 06282 CFLBUS
+*Z 06283 CFLBUS                                             % 06283 CFLBUS
+*L L50      200405036 191103002  01145  01221               % 06283 CFLBUS
+*R 1 191103002 200405036 191103002  01145  01221            % 06283 CFLBUS
+*G RGB 200405036 191103002  01145  01221                    % 06283 CFLBUS
+*A VE 200405036 191103002 000284  01145  01221              % 06283 CFLBUS
+*I FD 200405036 191103002        0005079  01145  01221      % 06283 CFLBUS
+200405036 Luxembourg, Gare rou         01145                % 06283 CFLBUS
+200101007 Bertrange-Strassen,   01159  01159                % 06283 CFLBUS
+190903013 Mamer, Tossebierg     01204  01204                % 06283 CFLBUS
+190903007 Mamer, Gaaschtbierg   01206  01206                % 06283 CFLBUS
+190903002 Mamer, Baerendall     01207  01207                % 06283 CFLBUS
+190903012 Mamer, Mambra         01208  01208                % 06283 CFLBUS
+190901003 Capellen, Klouschter  01212  01212                % 06283 CFLBUS
+190901005 Capellen, Ponts & Ch  01213  01213                % 06283 CFLBUS
+191103002 Kleinbettingen, Gare  01221                       % 06283 CFLBUS
+*Z 06284 CFLBUS                                             % 06284 CFLBUS
+*L L50      200405036 191103002  01245  01321               % 06284 CFLBUS
+*R 1 191103002 200405036 191103002  01245  01321            % 06284 CFLBUS
+*G RGB 200405036 191103002  01245  01321                    % 06284 CFLBUS
+*A VE 200405036 191103002 000284  01245  01321              % 06284 CFLBUS
+*I FD 200405036 191103002        0005080  01245  01321      % 06284 CFLBUS
+200405036 Luxembourg, Gare rou         01245                % 06284 CFLBUS
+200101007 Bertrange-Strassen,   01259  01259                % 06284 CFLBUS
+190903013 Mamer, Tossebierg     01304  01304                % 06284 CFLBUS
+190903007 Mamer, Gaaschtbierg   01306  01306                % 06284 CFLBUS
+190903002 Mamer, Baerendall     01307  01307                % 06284 CFLBUS
+190903012 Mamer, Mambra         01308  01308                % 06284 CFLBUS
+190901003 Capellen, Klouschter  01312  01312                % 06284 CFLBUS
+190901005 Capellen, Ponts & Ch  01313  01313                % 06284 CFLBUS
+191103002 Kleinbettingen, Gare  01321                       % 06284 CFLBUS
+*Z 06285 CFLBUS                                             % 06285 CFLBUS
+*L L50      200405036 191103002  01345  01421               % 06285 CFLBUS
+*R 1 191103002 200405036 191103002  01345  01421            % 06285 CFLBUS
+*G RGB 200405036 191103002  01345  01421                    % 06285 CFLBUS
+*A VE 200405036 191103002 000284  01345  01421              % 06285 CFLBUS
+*I FD 200405036 191103002        0005081  01345  01421      % 06285 CFLBUS
+200405036 Luxembourg, Gare rou         01345                % 06285 CFLBUS
+200101007 Bertrange-Strassen,   01359  01359                % 06285 CFLBUS
+190903013 Mamer, Tossebierg     01404  01404                % 06285 CFLBUS
+190903007 Mamer, Gaaschtbierg   01406  01406                % 06285 CFLBUS
+190903002 Mamer, Baerendall     01407  01407                % 06285 CFLBUS
+190903012 Mamer, Mambra         01408  01408                % 06285 CFLBUS
+190901003 Capellen, Klouschter  01412  01412                % 06285 CFLBUS
+190901005 Capellen, Ponts & Ch  01413  01413                % 06285 CFLBUS
+191103002 Kleinbettingen, Gare  01421                       % 06285 CFLBUS
+*Z 06286 CFLBUS                                             % 06286 CFLBUS
+*L L50      200405036 191103002  01445  01521               % 06286 CFLBUS
+*R 1 191103002 200405036 191103002  01445  01521            % 06286 CFLBUS
+*G RGB 200405036 191103002  01445  01521                    % 06286 CFLBUS
+*A VE 200405036 191103002 000284  01445  01521              % 06286 CFLBUS
+*I FD 200405036 191103002        0005082  01445  01521      % 06286 CFLBUS
+200405036 Luxembourg, Gare rou         01445                % 06286 CFLBUS
+200101007 Bertrange-Strassen,   01459  01459                % 06286 CFLBUS
+190903013 Mamer, Tossebierg     01504  01504                % 06286 CFLBUS
+190903007 Mamer, Gaaschtbierg   01506  01506                % 06286 CFLBUS
+190903002 Mamer, Baerendall     01507  01507                % 06286 CFLBUS
+190903012 Mamer, Mambra         01508  01508                % 06286 CFLBUS
+190901003 Capellen, Klouschter  01512  01512                % 06286 CFLBUS
+190901005 Capellen, Ponts & Ch  01513  01513                % 06286 CFLBUS
+191103002 Kleinbettingen, Gare  01521                       % 06286 CFLBUS
+*Z 06287 CFLBUS                                             % 06287 CFLBUS
+*L L50      200405036 191103002  01545  01621               % 06287 CFLBUS
+*R 1 191103002 200405036 191103002  01545  01621            % 06287 CFLBUS
+*G RGB 200405036 191103002  01545  01621                    % 06287 CFLBUS
+*A VE 200405036 191103002 000284  01545  01621              % 06287 CFLBUS
+*I FD 200405036 191103002        0005083  01545  01621      % 06287 CFLBUS
+200405036 Luxembourg, Gare rou         01545                % 06287 CFLBUS
+200101007 Bertrange-Strassen,   01559  01559                % 06287 CFLBUS
+190903013 Mamer, Tossebierg     01604  01604                % 06287 CFLBUS
+190903007 Mamer, Gaaschtbierg   01606  01606                % 06287 CFLBUS
+190903002 Mamer, Baerendall     01607  01607                % 06287 CFLBUS
+190903012 Mamer, Mambra         01608  01608                % 06287 CFLBUS
+190901003 Capellen, Klouschter  01612  01612                % 06287 CFLBUS
+190901005 Capellen, Ponts & Ch  01613  01613                % 06287 CFLBUS
+191103002 Kleinbettingen, Gare  01621                       % 06287 CFLBUS
+*Z 06288 CFLBUS                                             % 06288 CFLBUS
+*L L50      200405036 191103002  01645  01721               % 06288 CFLBUS
+*R 1 191103002 200405036 191103002  01645  01721            % 06288 CFLBUS
+*G RGB 200405036 191103002  01645  01721                    % 06288 CFLBUS
+*A VE 200405036 191103002 000284  01645  01721              % 06288 CFLBUS
+*I FD 200405036 191103002        0005084  01645  01721      % 06288 CFLBUS
+200405036 Luxembourg, Gare rou         01645                % 06288 CFLBUS
+200101007 Bertrange-Strassen,   01659  01659                % 06288 CFLBUS
+190903013 Mamer, Tossebierg     01704  01704                % 06288 CFLBUS
+190903007 Mamer, Gaaschtbierg   01706  01706                % 06288 CFLBUS
+190903002 Mamer, Baerendall     01707  01707                % 06288 CFLBUS
+190903012 Mamer, Mambra         01708  01708                % 06288 CFLBUS
+190901003 Capellen, Klouschter  01712  01712                % 06288 CFLBUS
+190901005 Capellen, Ponts & Ch  01713  01713                % 06288 CFLBUS
+191103002 Kleinbettingen, Gare  01721                       % 06288 CFLBUS
+*Z 06289 CFLBUS                                             % 06289 CFLBUS
+*L L50      200405036 191103002  01745  01821               % 06289 CFLBUS
+*R 1 191103002 200405036 191103002  01745  01821            % 06289 CFLBUS
+*G RGB 200405036 191103002  01745  01821                    % 06289 CFLBUS
+*A VE 200405036 191103002 000284  01745  01821              % 06289 CFLBUS
+*I FD 200405036 191103002        0005085  01745  01821      % 06289 CFLBUS
+200405036 Luxembourg, Gare rou         01745                % 06289 CFLBUS
+200101007 Bertrange-Strassen,   01759  01759                % 06289 CFLBUS
+190903013 Mamer, Tossebierg     01804  01804                % 06289 CFLBUS
+190903007 Mamer, Gaaschtbierg   01806  01806                % 06289 CFLBUS
+190903002 Mamer, Baerendall     01807  01807                % 06289 CFLBUS
+190903012 Mamer, Mambra         01808  01808                % 06289 CFLBUS
+190901003 Capellen, Klouschter  01812  01812                % 06289 CFLBUS
+190901005 Capellen, Ponts & Ch  01813  01813                % 06289 CFLBUS
+191103002 Kleinbettingen, Gare  01821                       % 06289 CFLBUS
+*Z 06290 CFLBUS                                             % 06290 CFLBUS
+*L L50      200405036 191103002  01845  01921               % 06290 CFLBUS
+*R 1 191103002 200405036 191103002  01845  01921            % 06290 CFLBUS
+*G RGB 200405036 191103002  01845  01921                    % 06290 CFLBUS
+*A VE 200405036 191103002 000284  01845  01921              % 06290 CFLBUS
+*I FD 200405036 191103002        0005086  01845  01921      % 06290 CFLBUS
+200405036 Luxembourg, Gare rou         01845                % 06290 CFLBUS
+200101007 Bertrange-Strassen,   01859  01859                % 06290 CFLBUS
+190903013 Mamer, Tossebierg     01904  01904                % 06290 CFLBUS
+190903007 Mamer, Gaaschtbierg   01906  01906                % 06290 CFLBUS
+190903002 Mamer, Baerendall     01907  01907                % 06290 CFLBUS
+190903012 Mamer, Mambra         01908  01908                % 06290 CFLBUS
+190901003 Capellen, Klouschter  01912  01912                % 06290 CFLBUS
+190901005 Capellen, Ponts & Ch  01913  01913                % 06290 CFLBUS
+191103002 Kleinbettingen, Gare  01921                       % 06290 CFLBUS
+*Z 06291 CFLBUS                                             % 06291 CFLBUS
+*L L50      200405036 191103002  01945  02021               % 06291 CFLBUS
+*R 1 191103002 200405036 191103002  01945  02021            % 06291 CFLBUS
+*G RGB 200405036 191103002  01945  02021                    % 06291 CFLBUS
+*A VE 200405036 191103002 000284  01945  02021              % 06291 CFLBUS
+*I FD 200405036 191103002        0005087  01945  02021      % 06291 CFLBUS
+200405036 Luxembourg, Gare rou         01945                % 06291 CFLBUS
+200101007 Bertrange-Strassen,   01959  01959                % 06291 CFLBUS
+190903013 Mamer, Tossebierg     02004  02004                % 06291 CFLBUS
+190903007 Mamer, Gaaschtbierg   02006  02006                % 06291 CFLBUS
+190903002 Mamer, Baerendall     02007  02007                % 06291 CFLBUS
+190903012 Mamer, Mambra         02008  02008                % 06291 CFLBUS
+190901003 Capellen, Klouschter  02012  02012                % 06291 CFLBUS
+190901005 Capellen, Ponts & Ch  02013  02013                % 06291 CFLBUS
+191103002 Kleinbettingen, Gare  02021                       % 06291 CFLBUS
+*Z 06292 CFLBUS                                             % 06292 CFLBUS
+*L L50      200405036 191103002  02045  02121               % 06292 CFLBUS
+*R 1 191103002 200405036 191103002  02045  02121            % 06292 CFLBUS
+*G RGB 200405036 191103002  02045  02121                    % 06292 CFLBUS
+*A VE 200405036 191103002 000284  02045  02121              % 06292 CFLBUS
+*I FD 200405036 191103002        0005088  02045  02121      % 06292 CFLBUS
+200405036 Luxembourg, Gare rou         02045                % 06292 CFLBUS
+200101007 Bertrange-Strassen,   02059  02059                % 06292 CFLBUS
+190903013 Mamer, Tossebierg     02104  02104                % 06292 CFLBUS
+190903007 Mamer, Gaaschtbierg   02106  02106                % 06292 CFLBUS
+190903002 Mamer, Baerendall     02107  02107                % 06292 CFLBUS
+190903012 Mamer, Mambra         02108  02108                % 06292 CFLBUS
+190901003 Capellen, Klouschter  02112  02112                % 06292 CFLBUS
+190901005 Capellen, Ponts & Ch  02113  02113                % 06292 CFLBUS
+191103002 Kleinbettingen, Gare  02121                       % 06292 CFLBUS
+*Z 06293 CFLBUS                                             % 06293 CFLBUS
+*L L50      200405036 191103002  02145  02221               % 06293 CFLBUS
+*R 1 191103002 200405036 191103002  02145  02221            % 06293 CFLBUS
+*G RGB 200405036 191103002  02145  02221                    % 06293 CFLBUS
+*A VE 200405036 191103002 000284  02145  02221              % 06293 CFLBUS
+*I FD 200405036 191103002        0005089  02145  02221      % 06293 CFLBUS
+200405036 Luxembourg, Gare rou         02145                % 06293 CFLBUS
+200101007 Bertrange-Strassen,   02159  02159                % 06293 CFLBUS
+190903013 Mamer, Tossebierg     02204  02204                % 06293 CFLBUS
+190903007 Mamer, Gaaschtbierg   02206  02206                % 06293 CFLBUS
+190903002 Mamer, Baerendall     02207  02207                % 06293 CFLBUS
+190903012 Mamer, Mambra         02208  02208                % 06293 CFLBUS
+190901003 Capellen, Klouschter  02212  02212                % 06293 CFLBUS
+190901005 Capellen, Ponts & Ch  02213  02213                % 06293 CFLBUS
+191103002 Kleinbettingen, Gare  02221                       % 06293 CFLBUS
+*Z 06294 CFLBUS                                             % 06294 CFLBUS
+*L L50      200405036 191103002  02245  02321               % 06294 CFLBUS
+*R 1 191103002 200405036 191103002  02245  02321            % 06294 CFLBUS
+*G RGB 200405036 191103002  02245  02321                    % 06294 CFLBUS
+*A VE 200405036 191103002 000284  02245  02321              % 06294 CFLBUS
+*I FD 200405036 191103002        0005090  02245  02321      % 06294 CFLBUS
+200405036 Luxembourg, Gare rou         02245                % 06294 CFLBUS
+200101007 Bertrange-Strassen,   02259  02259                % 06294 CFLBUS
+190903013 Mamer, Tossebierg     02304  02304                % 06294 CFLBUS
+190903007 Mamer, Gaaschtbierg   02306  02306                % 06294 CFLBUS
+190903002 Mamer, Baerendall     02307  02307                % 06294 CFLBUS
+190903012 Mamer, Mambra         02308  02308                % 06294 CFLBUS
+190901003 Capellen, Klouschter  02312  02312                % 06294 CFLBUS
+190901005 Capellen, Ponts & Ch  02313  02313                % 06294 CFLBUS
+191103002 Kleinbettingen, Gare  02321                       % 06294 CFLBUS
+*Z 06295 CFLBUS                                             % 06295 CFLBUS
+*L L50      200405036 300000003  02355  02451               % 06295 CFLBUS
+*R 1 300000003 200405036 300000003  02355  02451            % 06295 CFLBUS
+*G RGB 200405036 300000003  02355  02451                    % 06295 CFLBUS
+*A VE 200405036 300000003 000284  02355  02451              % 06295 CFLBUS
+*I FD 200405036 300000003        0005091  02355  02451      % 06295 CFLBUS
+200405036 Luxembourg, Gare rou         02355                % 06295 CFLBUS
+200101007 Bertrange-Strassen,   02409  02409                % 06295 CFLBUS
+190903013 Mamer, Tossebierg     02414  02414                % 06295 CFLBUS
+190903007 Mamer, Gaaschtbierg   02416  02416                % 06295 CFLBUS
+190903002 Mamer, Baerendall     02417  02417                % 06295 CFLBUS
+190903012 Mamer, Mambra         02418  02418                % 06295 CFLBUS
+190901003 Capellen, Klouschter  02422  02422                % 06295 CFLBUS
+190901005 Capellen, Ponts & Ch  02423  02423                % 06295 CFLBUS
+191103002 Kleinbettingen, Gare  02431  02431                % 06295 CFLBUS
+300000003 Arlon, Gare           02451                       % 06295 CFLBUS
+*Z 06296 CFLBUS                                             % 06296 CFLBUS
+*L L50      200405036 300000003  00547  00627               % 06296 CFLBUS
+*R 1 300000003 200405036 300000003  00547  00627            % 06296 CFLBUS
+*G RGB 200405036 300000003  00547  00627                    % 06296 CFLBUS
+*A VE 200405036 300000003 000284  00547  00627              % 06296 CFLBUS
+*I FD 200405036 300000003        0005092  00547  00627      % 06296 CFLBUS
+200405036 Luxembourg, Gare rou         00547                % 06296 CFLBUS
+300000003 Arlon, Gare           00627                       % 06296 CFLBUS
+*Z 06297 CFLBUS                                             % 06297 CFLBUS
+*L L50      200405036 300000003  00647  00727               % 06297 CFLBUS
+*R 1 300000003 200405036 300000003  00647  00727            % 06297 CFLBUS
+*G RGB 200405036 300000003  00647  00727                    % 06297 CFLBUS
+*A VE 200405036 300000003 000284  00647  00727              % 06297 CFLBUS
+*I FD 200405036 300000003        0005093  00647  00727      % 06297 CFLBUS
+200405036 Luxembourg, Gare rou         00647                % 06297 CFLBUS
+300000003 Arlon, Gare           00727                       % 06297 CFLBUS
+*Z 06298 CFLBUS                                             % 06298 CFLBUS
+*L L50      200405036 300000003  00747  00827               % 06298 CFLBUS
+*R 1 300000003 200405036 300000003  00747  00827            % 06298 CFLBUS
+*G RGB 200405036 300000003  00747  00827                    % 06298 CFLBUS
+*A VE 200405036 300000003 000284  00747  00827              % 06298 CFLBUS
+*I FD 200405036 300000003        0005094  00747  00827      % 06298 CFLBUS
+200405036 Luxembourg, Gare rou         00747                % 06298 CFLBUS
+300000003 Arlon, Gare           00827                       % 06298 CFLBUS
+*Z 06299 CFLBUS                                             % 06299 CFLBUS
+*L L50      200405036 300000003  00847  00927               % 06299 CFLBUS
+*R 1 300000003 200405036 300000003  00847  00927            % 06299 CFLBUS
+*G RGB 200405036 300000003  00847  00927                    % 06299 CFLBUS
+*A VE 200405036 300000003 000284  00847  00927              % 06299 CFLBUS
+*I FD 200405036 300000003        0005095  00847  00927      % 06299 CFLBUS
+200405036 Luxembourg, Gare rou         00847                % 06299 CFLBUS
+300000003 Arlon, Gare           00927                       % 06299 CFLBUS
+*Z 06300 CFLBUS                                             % 06300 CFLBUS
+*L L50      200405036 300000003  00847  00927               % 06300 CFLBUS
+*R 1 300000003 200405036 300000003  00847  00927            % 06300 CFLBUS
+*G RGB 200405036 300000003  00847  00927                    % 06300 CFLBUS
+*A VE 200405036 300000003 000284  00847  00927              % 06300 CFLBUS
+*I FD 200405036 300000003        0005096  00847  00927      % 06300 CFLBUS
+200405036 Luxembourg, Gare rou         00847                % 06300 CFLBUS
+300000003 Arlon, Gare           00927                       % 06300 CFLBUS
+*Z 06301 CFLBUS                                             % 06301 CFLBUS
+*L L50      200405036 300000003  00947  01027               % 06301 CFLBUS
+*R 1 300000003 200405036 300000003  00947  01027            % 06301 CFLBUS
+*G RGB 200405036 300000003  00947  01027                    % 06301 CFLBUS
+*A VE 200405036 300000003 000284  00947  01027              % 06301 CFLBUS
+*I FD 200405036 300000003        0005097  00947  01027      % 06301 CFLBUS
+200405036 Luxembourg, Gare rou         00947                % 06301 CFLBUS
+300000003 Arlon, Gare           01027                       % 06301 CFLBUS
+*Z 06302 CFLBUS                                             % 06302 CFLBUS
+*L L50      200405036 300000003  00947  01027               % 06302 CFLBUS
+*R 1 300000003 200405036 300000003  00947  01027            % 06302 CFLBUS
+*G RGB 200405036 300000003  00947  01027                    % 06302 CFLBUS
+*A VE 200405036 300000003 000284  00947  01027              % 06302 CFLBUS
+*I FD 200405036 300000003        0005098  00947  01027      % 06302 CFLBUS
+200405036 Luxembourg, Gare rou         00947                % 06302 CFLBUS
+300000003 Arlon, Gare           01027                       % 06302 CFLBUS
+*Z 06303 CFLBUS                                             % 06303 CFLBUS
+*L L50      200405036 300000003  01047  01127               % 06303 CFLBUS
+*R 1 300000003 200405036 300000003  01047  01127            % 06303 CFLBUS
+*G RGB 200405036 300000003  01047  01127                    % 06303 CFLBUS
+*A VE 200405036 300000003 000284  01047  01127              % 06303 CFLBUS
+*I FD 200405036 300000003        0005099  01047  01127      % 06303 CFLBUS
+200405036 Luxembourg, Gare rou         01047                % 06303 CFLBUS
+300000003 Arlon, Gare           01127                       % 06303 CFLBUS
+*Z 06304 CFLBUS                                             % 06304 CFLBUS
+*L L50      200405036 300000003  01047  01127               % 06304 CFLBUS
+*R 1 300000003 200405036 300000003  01047  01127            % 06304 CFLBUS
+*G RGB 200405036 300000003  01047  01127                    % 06304 CFLBUS
+*A VE 200405036 300000003 000284  01047  01127              % 06304 CFLBUS
+*I FD 200405036 300000003        0005100  01047  01127      % 06304 CFLBUS
+200405036 Luxembourg, Gare rou         01047                % 06304 CFLBUS
+300000003 Arlon, Gare           01127                       % 06304 CFLBUS
+*Z 06305 CFLBUS                                             % 06305 CFLBUS
+*L L50      200405036 300000003  01147  01227               % 06305 CFLBUS
+*R 1 300000003 200405036 300000003  01147  01227            % 06305 CFLBUS
+*G RGB 200405036 300000003  01147  01227                    % 06305 CFLBUS
+*A VE 200405036 300000003 000284  01147  01227              % 06305 CFLBUS
+*I FD 200405036 300000003        0005101  01147  01227      % 06305 CFLBUS
+200405036 Luxembourg, Gare rou         01147                % 06305 CFLBUS
+300000003 Arlon, Gare           01227                       % 06305 CFLBUS
+*Z 06306 CFLBUS                                             % 06306 CFLBUS
+*L L50      200405036 300000003  01147  01227               % 06306 CFLBUS
+*R 1 300000003 200405036 300000003  01147  01227            % 06306 CFLBUS
+*G RGB 200405036 300000003  01147  01227                    % 06306 CFLBUS
+*A VE 200405036 300000003 000284  01147  01227              % 06306 CFLBUS
+*I FD 200405036 300000003        0005102  01147  01227      % 06306 CFLBUS
+200405036 Luxembourg, Gare rou         01147                % 06306 CFLBUS
+300000003 Arlon, Gare           01227                       % 06306 CFLBUS
+*Z 06307 CFLBUS                                             % 06307 CFLBUS
+*L L50      200405036 300000003  01247  01327               % 06307 CFLBUS
+*R 1 300000003 200405036 300000003  01247  01327            % 06307 CFLBUS
+*G RGB 200405036 300000003  01247  01327                    % 06307 CFLBUS
+*A VE 200405036 300000003 000284  01247  01327              % 06307 CFLBUS
+*I FD 200405036 300000003        0005103  01247  01327      % 06307 CFLBUS
+200405036 Luxembourg, Gare rou         01247                % 06307 CFLBUS
+300000003 Arlon, Gare           01327                       % 06307 CFLBUS
+*Z 06308 CFLBUS                                             % 06308 CFLBUS
+*L L50      200405036 300000003  01247  01327               % 06308 CFLBUS
+*R 1 300000003 200405036 300000003  01247  01327            % 06308 CFLBUS
+*G RGB 200405036 300000003  01247  01327                    % 06308 CFLBUS
+*A VE 200405036 300000003 000284  01247  01327              % 06308 CFLBUS
+*I FD 200405036 300000003        0005104  01247  01327      % 06308 CFLBUS
+200405036 Luxembourg, Gare rou         01247                % 06308 CFLBUS
+300000003 Arlon, Gare           01327                       % 06308 CFLBUS
+*Z 06309 CFLBUS                                             % 06309 CFLBUS
+*L L50      200405036 300000003  01347  01427               % 06309 CFLBUS
+*R 1 300000003 200405036 300000003  01347  01427            % 06309 CFLBUS
+*G RGB 200405036 300000003  01347  01427                    % 06309 CFLBUS
+*A VE 200405036 300000003 000284  01347  01427              % 06309 CFLBUS
+*I FD 200405036 300000003        0005105  01347  01427      % 06309 CFLBUS
+200405036 Luxembourg, Gare rou         01347                % 06309 CFLBUS
+300000003 Arlon, Gare           01427                       % 06309 CFLBUS
+*Z 06310 CFLBUS                                             % 06310 CFLBUS
+*L L50      200405036 300000003  01347  01427               % 06310 CFLBUS
+*R 1 300000003 200405036 300000003  01347  01427            % 06310 CFLBUS
+*G RGB 200405036 300000003  01347  01427                    % 06310 CFLBUS
+*A VE 200405036 300000003 000284  01347  01427              % 06310 CFLBUS
+*I FD 200405036 300000003        0005106  01347  01427      % 06310 CFLBUS
+200405036 Luxembourg, Gare rou         01347                % 06310 CFLBUS
+300000003 Arlon, Gare           01427                       % 06310 CFLBUS
+*Z 06311 CFLBUS                                             % 06311 CFLBUS
+*L L50      200405036 300000003  01447  01527               % 06311 CFLBUS
+*R 1 300000003 200405036 300000003  01447  01527            % 06311 CFLBUS
+*G RGB 200405036 300000003  01447  01527                    % 06311 CFLBUS
+*A VE 200405036 300000003 000284  01447  01527              % 06311 CFLBUS
+*I FD 200405036 300000003        0005107  01447  01527      % 06311 CFLBUS
+200405036 Luxembourg, Gare rou         01447                % 06311 CFLBUS
+300000003 Arlon, Gare           01527                       % 06311 CFLBUS
+*Z 06312 CFLBUS                                             % 06312 CFLBUS
+*L L50      200405036 300000003  01447  01527               % 06312 CFLBUS
+*R 1 300000003 200405036 300000003  01447  01527            % 06312 CFLBUS
+*G RGB 200405036 300000003  01447  01527                    % 06312 CFLBUS
+*A VE 200405036 300000003 000284  01447  01527              % 06312 CFLBUS
+*I FD 200405036 300000003        0005108  01447  01527      % 06312 CFLBUS
+200405036 Luxembourg, Gare rou         01447                % 06312 CFLBUS
+300000003 Arlon, Gare           01527                       % 06312 CFLBUS
+*Z 06313 CFLBUS                                             % 06313 CFLBUS
+*L L50      200405036 300000003  01547  01627               % 06313 CFLBUS
+*R 1 300000003 200405036 300000003  01547  01627            % 06313 CFLBUS
+*G RGB 200405036 300000003  01547  01627                    % 06313 CFLBUS
+*A VE 200405036 300000003 000284  01547  01627              % 06313 CFLBUS
+*I FD 200405036 300000003        0005109  01547  01627      % 06313 CFLBUS
+200405036 Luxembourg, Gare rou         01547                % 06313 CFLBUS
+300000003 Arlon, Gare           01627                       % 06313 CFLBUS
+*Z 06314 CFLBUS                                             % 06314 CFLBUS
+*L L50      200405036 300000003  01547  01627               % 06314 CFLBUS
+*R 1 300000003 200405036 300000003  01547  01627            % 06314 CFLBUS
+*G RGB 200405036 300000003  01547  01627                    % 06314 CFLBUS
+*A VE 200405036 300000003 000284  01547  01627              % 06314 CFLBUS
+*I FD 200405036 300000003        0005110  01547  01627      % 06314 CFLBUS
+200405036 Luxembourg, Gare rou         01547                % 06314 CFLBUS
+300000003 Arlon, Gare           01627                       % 06314 CFLBUS
+*Z 06315 CFLBUS                                             % 06315 CFLBUS
+*L L50      200405036 300000003  01647  01727               % 06315 CFLBUS
+*R 1 300000003 200405036 300000003  01647  01727            % 06315 CFLBUS
+*G RGB 200405036 300000003  01647  01727                    % 06315 CFLBUS
+*A VE 200405036 300000003 000284  01647  01727              % 06315 CFLBUS
+*I FD 200405036 300000003        0005111  01647  01727      % 06315 CFLBUS
+200405036 Luxembourg, Gare rou         01647                % 06315 CFLBUS
+300000003 Arlon, Gare           01727                       % 06315 CFLBUS
+*Z 06316 CFLBUS                                             % 06316 CFLBUS
+*L L50      200405036 300000003  01647  01727               % 06316 CFLBUS
+*R 1 300000003 200405036 300000003  01647  01727            % 06316 CFLBUS
+*G RGB 200405036 300000003  01647  01727                    % 06316 CFLBUS
+*A VE 200405036 300000003 000284  01647  01727              % 06316 CFLBUS
+*I FD 200405036 300000003        0005112  01647  01727      % 06316 CFLBUS
+200405036 Luxembourg, Gare rou         01647                % 06316 CFLBUS
+300000003 Arlon, Gare           01727                       % 06316 CFLBUS
+*Z 06317 CFLBUS                                             % 06317 CFLBUS
+*L L50      200405036 300000003  01747  01827               % 06317 CFLBUS
+*R 1 300000003 200405036 300000003  01747  01827            % 06317 CFLBUS
+*G RGB 200405036 300000003  01747  01827                    % 06317 CFLBUS
+*A VE 200405036 300000003 000284  01747  01827              % 06317 CFLBUS
+*I FD 200405036 300000003        0005113  01747  01827      % 06317 CFLBUS
+200405036 Luxembourg, Gare rou         01747                % 06317 CFLBUS
+300000003 Arlon, Gare           01827                       % 06317 CFLBUS
+*Z 06318 CFLBUS                                             % 06318 CFLBUS
+*L L50      200405036 300000003  01747  01827               % 06318 CFLBUS
+*R 1 300000003 200405036 300000003  01747  01827            % 06318 CFLBUS
+*G RGB 200405036 300000003  01747  01827                    % 06318 CFLBUS
+*A VE 200405036 300000003 000284  01747  01827              % 06318 CFLBUS
+*I FD 200405036 300000003        0005114  01747  01827      % 06318 CFLBUS
+200405036 Luxembourg, Gare rou         01747                % 06318 CFLBUS
+300000003 Arlon, Gare           01827                       % 06318 CFLBUS
+*Z 06319 CFLBUS                                             % 06319 CFLBUS
+*L L50      200405036 300000003  01847  01927               % 06319 CFLBUS
+*R 1 300000003 200405036 300000003  01847  01927            % 06319 CFLBUS
+*G RGB 200405036 300000003  01847  01927                    % 06319 CFLBUS
+*A VE 200405036 300000003 000284  01847  01927              % 06319 CFLBUS
+*I FD 200405036 300000003        0005115  01847  01927      % 06319 CFLBUS
+200405036 Luxembourg, Gare rou         01847                % 06319 CFLBUS
+300000003 Arlon, Gare           01927                       % 06319 CFLBUS
+*Z 06320 CFLBUS                                             % 06320 CFLBUS
+*L L50      200405036 300000003  01847  01927               % 06320 CFLBUS
+*R 1 300000003 200405036 300000003  01847  01927            % 06320 CFLBUS
+*G RGB 200405036 300000003  01847  01927                    % 06320 CFLBUS
+*A VE 200405036 300000003 000284  01847  01927              % 06320 CFLBUS
+*I FD 200405036 300000003        0005116  01847  01927      % 06320 CFLBUS
+200405036 Luxembourg, Gare rou         01847                % 06320 CFLBUS
+300000003 Arlon, Gare           01927                       % 06320 CFLBUS
+*Z 06321 CFLBUS                                             % 06321 CFLBUS
+*L L50      200405036 300000003  01947  02027               % 06321 CFLBUS
+*R 1 300000003 200405036 300000003  01947  02027            % 06321 CFLBUS
+*G RGB 200405036 300000003  01947  02027                    % 06321 CFLBUS
+*A VE 200405036 300000003 000284  01947  02027              % 06321 CFLBUS
+*I FD 200405036 300000003        0005117  01947  02027      % 06321 CFLBUS
+200405036 Luxembourg, Gare rou         01947                % 06321 CFLBUS
+300000003 Arlon, Gare           02027                       % 06321 CFLBUS
+*Z 06322 CFLBUS                                             % 06322 CFLBUS
+*L L50      200405036 300000003  02047  02127               % 06322 CFLBUS
+*R 1 300000003 200405036 300000003  02047  02127            % 06322 CFLBUS
+*G RGB 200405036 300000003  02047  02127                    % 06322 CFLBUS
+*A VE 200405036 300000003 000284  02047  02127              % 06322 CFLBUS
+*I FD 200405036 300000003        0005118  02047  02127      % 06322 CFLBUS
+200405036 Luxembourg, Gare rou         02047                % 06322 CFLBUS
+300000003 Arlon, Gare           02127                       % 06322 CFLBUS
+*Z 06323 CFLBUS                                             % 06323 CFLBUS
+*L L50      200405036 300000003  02110  02150               % 06323 CFLBUS
+*R 1 300000003 200405036 300000003  02110  02150            % 06323 CFLBUS
+*G RGB 200405036 300000003  02110  02150                    % 06323 CFLBUS
+*A VE 200405036 300000003 000284  02110  02150              % 06323 CFLBUS
+*I FD 200405036 300000003        0005119  02110  02150      % 06323 CFLBUS
+200405036 Luxembourg, Gare rou         02110                % 06323 CFLBUS
+300000003 Arlon, Gare           02150                       % 06323 CFLBUS
+*Z 06324 CFLBUS                                             % 06324 CFLBUS
+*L L50      200405036 191103002  02145  02221               % 06324 CFLBUS
+*R 1 191103002 200405036 191103002  02145  02221            % 06324 CFLBUS
+*G RGB 200405036 191103002  02145  02221                    % 06324 CFLBUS
+*A VE 200405036 191103002 000285  02145  02221              % 06324 CFLBUS
+*I FD 200405036 191103002        0005120  02145  02221      % 06324 CFLBUS
+200405036 Luxembourg, Gare rou         02145                % 06324 CFLBUS
+200101007 Bertrange-Strassen,   02159  02159                % 06324 CFLBUS
+190903013 Mamer, Tossebierg     02204  02204                % 06324 CFLBUS
+190903007 Mamer, Gaaschtbierg   02206  02206                % 06324 CFLBUS
+190903012 Mamer, Mambra         02208  02208                % 06324 CFLBUS
+190901003 Capellen, Klouschter  02212  02212                % 06324 CFLBUS
+190901005 Capellen, Ponts & Ch  02213  02213                % 06324 CFLBUS
+191103002 Kleinbettingen, Gare  02221                       % 06324 CFLBUS
+*Z 06325 CFLBUS                                             % 06325 CFLBUS
+*L L50      200405036 191103002  02245  02321               % 06325 CFLBUS
+*R 1 191103002 200405036 191103002  02245  02321            % 06325 CFLBUS
+*G RGB 200405036 191103002  02245  02321                    % 06325 CFLBUS
+*A VE 200405036 191103002 000285  02245  02321              % 06325 CFLBUS
+*I FD 200405036 191103002        0005073  02245  02321      % 06325 CFLBUS
+200405036 Luxembourg, Gare rou         02245                % 06325 CFLBUS
+200101007 Bertrange-Strassen,   02259  02259                % 06325 CFLBUS
+190903013 Mamer, Tossebierg     02304  02304                % 06325 CFLBUS
+190903007 Mamer, Gaaschtbierg   02306  02306                % 06325 CFLBUS
+190903012 Mamer, Mambra         02308  02308                % 06325 CFLBUS
+190901003 Capellen, Klouschter  02312  02312                % 06325 CFLBUS
+190901005 Capellen, Ponts & Ch  02313  02313                % 06325 CFLBUS
+191103002 Kleinbettingen, Gare  02321                       % 06325 CFLBUS
+*Z 06326 CFLBUS                                             % 06326 CFLBUS
+*L L50      200405036 300000003  02355  02451               % 06326 CFLBUS
+*R 1 300000003 200405036 300000003  02355  02451            % 06326 CFLBUS
+*G RGB 200405036 300000003  02355  02451                    % 06326 CFLBUS
+*A VE 200405036 300000003 000285  02355  02451              % 06326 CFLBUS
+*I FD 200405036 300000003        0005092  02355  02451      % 06326 CFLBUS
+200405036 Luxembourg, Gare rou         02355                % 06326 CFLBUS
+200101007 Bertrange-Strassen,   02409  02409                % 06326 CFLBUS
+190903013 Mamer, Tossebierg     02414  02414                % 06326 CFLBUS
+190903007 Mamer, Gaaschtbierg   02416  02416                % 06326 CFLBUS
+190903012 Mamer, Mambra         02418  02418                % 06326 CFLBUS
+190901003 Capellen, Klouschter  02422  02422                % 06326 CFLBUS
+190901005 Capellen, Ponts & Ch  02423  02423                % 06326 CFLBUS
+191103002 Kleinbettingen, Gare  02431  02431                % 06326 CFLBUS
+300000003 Arlon, Gare           02451                       % 06326 CFLBUS
+*Z 06327 CFLBUS                                             % 06327 CFLBUS
+*L L50      191103002 200405036  00615  00653               % 06327 CFLBUS
+*R 2 200405036 191103002 200405036  00615  00653            % 06327 CFLBUS
+*G RGB 191103002 200405036  00615  00653                    % 06327 CFLBUS
+*A VE 191103002 200405036 000284  00615  00653              % 06327 CFLBUS
+*I FD 191103002 200405036        0005121  00615  00653      % 06327 CFLBUS
+191103002 Kleinbettingen, Gare         00615                % 06327 CFLBUS
+190901005 Capellen, Ponts & Ch  00623  00623                % 06327 CFLBUS
+190901003 Capellen, Klouschter  00624  00624                % 06327 CFLBUS
+190903012 Mamer, Mambra         00628  00628                % 06327 CFLBUS
+190903002 Mamer, Baerendall     00629  00629                % 06327 CFLBUS
+190903007 Mamer, Gaaschtbierg   00630  00630                % 06327 CFLBUS
+190903013 Mamer, Tossebierg     00632  00632                % 06327 CFLBUS
+200101007 Bertrange-Strassen,   00637  00637                % 06327 CFLBUS
+200405036 Luxembourg, Gare rou  00653                       % 06327 CFLBUS
+*Z 06328 CFLBUS                                             % 06328 CFLBUS
+*L L50      191103002 200405036  00715  00753               % 06328 CFLBUS
+*R 2 200405036 191103002 200405036  00715  00753            % 06328 CFLBUS
+*G RGB 191103002 200405036  00715  00753                    % 06328 CFLBUS
+*A VE 191103002 200405036 000284  00715  00753              % 06328 CFLBUS
+*I FD 191103002 200405036        0005122  00715  00753      % 06328 CFLBUS
+191103002 Kleinbettingen, Gare         00715                % 06328 CFLBUS
+190901005 Capellen, Ponts & Ch  00723  00723                % 06328 CFLBUS
+190901003 Capellen, Klouschter  00724  00724                % 06328 CFLBUS
+190903012 Mamer, Mambra         00728  00728                % 06328 CFLBUS
+190903002 Mamer, Baerendall     00729  00729                % 06328 CFLBUS
+190903007 Mamer, Gaaschtbierg   00730  00730                % 06328 CFLBUS
+190903013 Mamer, Tossebierg     00732  00732                % 06328 CFLBUS
+200101007 Bertrange-Strassen,   00737  00737                % 06328 CFLBUS
+200405036 Luxembourg, Gare rou  00753                       % 06328 CFLBUS
+*Z 06329 CFLBUS                                             % 06329 CFLBUS
+*L L50      191103002 200405036  00815  00853               % 06329 CFLBUS
+*R 2 200405036 191103002 200405036  00815  00853            % 06329 CFLBUS
+*G RGB 191103002 200405036  00815  00853                    % 06329 CFLBUS
+*A VE 191103002 200405036 000284  00815  00853              % 06329 CFLBUS
+*I FD 191103002 200405036        0005123  00815  00853      % 06329 CFLBUS
+191103002 Kleinbettingen, Gare         00815                % 06329 CFLBUS
+190901005 Capellen, Ponts & Ch  00823  00823                % 06329 CFLBUS
+190901003 Capellen, Klouschter  00824  00824                % 06329 CFLBUS
+190903012 Mamer, Mambra         00828  00828                % 06329 CFLBUS
+190903002 Mamer, Baerendall     00829  00829                % 06329 CFLBUS
+190903007 Mamer, Gaaschtbierg   00830  00830                % 06329 CFLBUS
+190903013 Mamer, Tossebierg     00832  00832                % 06329 CFLBUS
+200101007 Bertrange-Strassen,   00837  00837                % 06329 CFLBUS
+200405036 Luxembourg, Gare rou  00853                       % 06329 CFLBUS
+*Z 06330 CFLBUS                                             % 06330 CFLBUS
+*L L50      191103002 200405036  00915  00953               % 06330 CFLBUS
+*R 2 200405036 191103002 200405036  00915  00953            % 06330 CFLBUS
+*G RGB 191103002 200405036  00915  00953                    % 06330 CFLBUS
+*A VE 191103002 200405036 000284  00915  00953              % 06330 CFLBUS
+*I FD 191103002 200405036        0005124  00915  00953      % 06330 CFLBUS
+191103002 Kleinbettingen, Gare         00915                % 06330 CFLBUS
+190901005 Capellen, Ponts & Ch  00923  00923                % 06330 CFLBUS
+190901003 Capellen, Klouschter  00924  00924                % 06330 CFLBUS
+190903012 Mamer, Mambra         00928  00928                % 06330 CFLBUS
+190903002 Mamer, Baerendall     00929  00929                % 06330 CFLBUS
+190903007 Mamer, Gaaschtbierg   00930  00930                % 06330 CFLBUS
+190903013 Mamer, Tossebierg     00932  00932                % 06330 CFLBUS
+200101007 Bertrange-Strassen,   00937  00937                % 06330 CFLBUS
+200405036 Luxembourg, Gare rou  00953                       % 06330 CFLBUS
+*Z 06331 CFLBUS                                             % 06331 CFLBUS
+*L L50      191103002 200405036  01015  01053               % 06331 CFLBUS
+*R 2 200405036 191103002 200405036  01015  01053            % 06331 CFLBUS
+*G RGB 191103002 200405036  01015  01053                    % 06331 CFLBUS
+*A VE 191103002 200405036 000284  01015  01053              % 06331 CFLBUS
+*I FD 191103002 200405036        0005125  01015  01053      % 06331 CFLBUS
+191103002 Kleinbettingen, Gare         01015                % 06331 CFLBUS
+190901005 Capellen, Ponts & Ch  01023  01023                % 06331 CFLBUS
+190901003 Capellen, Klouschter  01024  01024                % 06331 CFLBUS
+190903012 Mamer, Mambra         01028  01028                % 06331 CFLBUS
+190903002 Mamer, Baerendall     01029  01029                % 06331 CFLBUS
+190903007 Mamer, Gaaschtbierg   01030  01030                % 06331 CFLBUS
+190903013 Mamer, Tossebierg     01032  01032                % 06331 CFLBUS
+200101007 Bertrange-Strassen,   01037  01037                % 06331 CFLBUS
+200405036 Luxembourg, Gare rou  01053                       % 06331 CFLBUS
+*Z 06332 CFLBUS                                             % 06332 CFLBUS
+*L L50      191103002 200405036  01115  01153               % 06332 CFLBUS
+*R 2 200405036 191103002 200405036  01115  01153            % 06332 CFLBUS
+*G RGB 191103002 200405036  01115  01153                    % 06332 CFLBUS
+*A VE 191103002 200405036 000284  01115  01153              % 06332 CFLBUS
+*I FD 191103002 200405036        0005126  01115  01153      % 06332 CFLBUS
+191103002 Kleinbettingen, Gare         01115                % 06332 CFLBUS
+190901005 Capellen, Ponts & Ch  01123  01123                % 06332 CFLBUS
+190901003 Capellen, Klouschter  01124  01124                % 06332 CFLBUS
+190903012 Mamer, Mambra         01128  01128                % 06332 CFLBUS
+190903002 Mamer, Baerendall     01129  01129                % 06332 CFLBUS
+190903007 Mamer, Gaaschtbierg   01130  01130                % 06332 CFLBUS
+190903013 Mamer, Tossebierg     01132  01132                % 06332 CFLBUS
+200101007 Bertrange-Strassen,   01137  01137                % 06332 CFLBUS
+200405036 Luxembourg, Gare rou  01153                       % 06332 CFLBUS
+*Z 06333 CFLBUS                                             % 06333 CFLBUS
+*L L50      191103002 200405036  01215  01253               % 06333 CFLBUS
+*R 2 200405036 191103002 200405036  01215  01253            % 06333 CFLBUS
+*G RGB 191103002 200405036  01215  01253                    % 06333 CFLBUS
+*A VE 191103002 200405036 000284  01215  01253              % 06333 CFLBUS
+*I FD 191103002 200405036        0005127  01215  01253      % 06333 CFLBUS
+191103002 Kleinbettingen, Gare         01215                % 06333 CFLBUS
+190901005 Capellen, Ponts & Ch  01223  01223                % 06333 CFLBUS
+190901003 Capellen, Klouschter  01224  01224                % 06333 CFLBUS
+190903012 Mamer, Mambra         01228  01228                % 06333 CFLBUS
+190903002 Mamer, Baerendall     01229  01229                % 06333 CFLBUS
+190903007 Mamer, Gaaschtbierg   01230  01230                % 06333 CFLBUS
+190903013 Mamer, Tossebierg     01232  01232                % 06333 CFLBUS
+200101007 Bertrange-Strassen,   01237  01237                % 06333 CFLBUS
+200405036 Luxembourg, Gare rou  01253                       % 06333 CFLBUS
+*Z 06334 CFLBUS                                             % 06334 CFLBUS
+*L L50      191103002 200405036  01315  01353               % 06334 CFLBUS
+*R 2 200405036 191103002 200405036  01315  01353            % 06334 CFLBUS
+*G RGB 191103002 200405036  01315  01353                    % 06334 CFLBUS
+*A VE 191103002 200405036 000284  01315  01353              % 06334 CFLBUS
+*I FD 191103002 200405036        0005128  01315  01353      % 06334 CFLBUS
+191103002 Kleinbettingen, Gare         01315                % 06334 CFLBUS
+190901005 Capellen, Ponts & Ch  01323  01323                % 06334 CFLBUS
+190901003 Capellen, Klouschter  01324  01324                % 06334 CFLBUS
+190903012 Mamer, Mambra         01328  01328                % 06334 CFLBUS
+190903002 Mamer, Baerendall     01329  01329                % 06334 CFLBUS
+190903007 Mamer, Gaaschtbierg   01330  01330                % 06334 CFLBUS
+190903013 Mamer, Tossebierg     01332  01332                % 06334 CFLBUS
+200101007 Bertrange-Strassen,   01337  01337                % 06334 CFLBUS
+200405036 Luxembourg, Gare rou  01353                       % 06334 CFLBUS
+*Z 06335 CFLBUS                                             % 06335 CFLBUS
+*L L50      191103002 200405036  01415  01453               % 06335 CFLBUS
+*R 2 200405036 191103002 200405036  01415  01453            % 06335 CFLBUS
+*G RGB 191103002 200405036  01415  01453                    % 06335 CFLBUS
+*A VE 191103002 200405036 000284  01415  01453              % 06335 CFLBUS
+*I FD 191103002 200405036        0005129  01415  01453      % 06335 CFLBUS
+191103002 Kleinbettingen, Gare         01415                % 06335 CFLBUS
+190901005 Capellen, Ponts & Ch  01423  01423                % 06335 CFLBUS
+190901003 Capellen, Klouschter  01424  01424                % 06335 CFLBUS
+190903012 Mamer, Mambra         01428  01428                % 06335 CFLBUS
+190903002 Mamer, Baerendall     01429  01429                % 06335 CFLBUS
+190903007 Mamer, Gaaschtbierg   01430  01430                % 06335 CFLBUS
+190903013 Mamer, Tossebierg     01432  01432                % 06335 CFLBUS
+200101007 Bertrange-Strassen,   01437  01437                % 06335 CFLBUS
+200405036 Luxembourg, Gare rou  01453                       % 06335 CFLBUS
+*Z 06336 CFLBUS                                             % 06336 CFLBUS
+*L L50      191103002 200405036  01515  01553               % 06336 CFLBUS
+*R 2 200405036 191103002 200405036  01515  01553            % 06336 CFLBUS
+*G RGB 191103002 200405036  01515  01553                    % 06336 CFLBUS
+*A VE 191103002 200405036 000284  01515  01553              % 06336 CFLBUS
+*I FD 191103002 200405036        0005130  01515  01553      % 06336 CFLBUS
+191103002 Kleinbettingen, Gare         01515                % 06336 CFLBUS
+190901005 Capellen, Ponts & Ch  01523  01523                % 06336 CFLBUS
+190901003 Capellen, Klouschter  01524  01524                % 06336 CFLBUS
+190903012 Mamer, Mambra         01528  01528                % 06336 CFLBUS
+190903002 Mamer, Baerendall     01529  01529                % 06336 CFLBUS
+190903007 Mamer, Gaaschtbierg   01530  01530                % 06336 CFLBUS
+190903013 Mamer, Tossebierg     01532  01532                % 06336 CFLBUS
+200101007 Bertrange-Strassen,   01537  01537                % 06336 CFLBUS
+200405036 Luxembourg, Gare rou  01553                       % 06336 CFLBUS
+*Z 06337 CFLBUS                                             % 06337 CFLBUS
+*L L50      191103002 200405036  01615  01653               % 06337 CFLBUS
+*R 2 200405036 191103002 200405036  01615  01653            % 06337 CFLBUS
+*G RGB 191103002 200405036  01615  01653                    % 06337 CFLBUS
+*A VE 191103002 200405036 000284  01615  01653              % 06337 CFLBUS
+*I FD 191103002 200405036        0005131  01615  01653      % 06337 CFLBUS
+191103002 Kleinbettingen, Gare         01615                % 06337 CFLBUS
+190901005 Capellen, Ponts & Ch  01623  01623                % 06337 CFLBUS
+190901003 Capellen, Klouschter  01624  01624                % 06337 CFLBUS
+190903012 Mamer, Mambra         01628  01628                % 06337 CFLBUS
+190903002 Mamer, Baerendall     01629  01629                % 06337 CFLBUS
+190903007 Mamer, Gaaschtbierg   01630  01630                % 06337 CFLBUS
+190903013 Mamer, Tossebierg     01632  01632                % 06337 CFLBUS
+200101007 Bertrange-Strassen,   01637  01637                % 06337 CFLBUS
+200405036 Luxembourg, Gare rou  01653                       % 06337 CFLBUS
+*Z 06338 CFLBUS                                             % 06338 CFLBUS
+*L L50      191103002 200405036  01715  01753               % 06338 CFLBUS
+*R 2 200405036 191103002 200405036  01715  01753            % 06338 CFLBUS
+*G RGB 191103002 200405036  01715  01753                    % 06338 CFLBUS
+*A VE 191103002 200405036 000284  01715  01753              % 06338 CFLBUS
+*I FD 191103002 200405036        0005132  01715  01753      % 06338 CFLBUS
+191103002 Kleinbettingen, Gare         01715                % 06338 CFLBUS
+190901005 Capellen, Ponts & Ch  01723  01723                % 06338 CFLBUS
+190901003 Capellen, Klouschter  01724  01724                % 06338 CFLBUS
+190903012 Mamer, Mambra         01728  01728                % 06338 CFLBUS
+190903002 Mamer, Baerendall     01729  01729                % 06338 CFLBUS
+190903007 Mamer, Gaaschtbierg   01730  01730                % 06338 CFLBUS
+190903013 Mamer, Tossebierg     01732  01732                % 06338 CFLBUS
+200101007 Bertrange-Strassen,   01737  01737                % 06338 CFLBUS
+200405036 Luxembourg, Gare rou  01753                       % 06338 CFLBUS
+*Z 06339 CFLBUS                                             % 06339 CFLBUS
+*L L50      191103002 200405036  01815  01853               % 06339 CFLBUS
+*R 2 200405036 191103002 200405036  01815  01853            % 06339 CFLBUS
+*G RGB 191103002 200405036  01815  01853                    % 06339 CFLBUS
+*A VE 191103002 200405036 000284  01815  01853              % 06339 CFLBUS
+*I FD 191103002 200405036        0005133  01815  01853      % 06339 CFLBUS
+191103002 Kleinbettingen, Gare         01815                % 06339 CFLBUS
+190901005 Capellen, Ponts & Ch  01823  01823                % 06339 CFLBUS
+190901003 Capellen, Klouschter  01824  01824                % 06339 CFLBUS
+190903012 Mamer, Mambra         01828  01828                % 06339 CFLBUS
+190903002 Mamer, Baerendall     01829  01829                % 06339 CFLBUS
+190903007 Mamer, Gaaschtbierg   01830  01830                % 06339 CFLBUS
+190903013 Mamer, Tossebierg     01832  01832                % 06339 CFLBUS
+200101007 Bertrange-Strassen,   01837  01837                % 06339 CFLBUS
+200405036 Luxembourg, Gare rou  01853                       % 06339 CFLBUS
+*Z 06340 CFLBUS                                             % 06340 CFLBUS
+*L L50      191103002 200405036  01915  01953               % 06340 CFLBUS
+*R 2 200405036 191103002 200405036  01915  01953            % 06340 CFLBUS
+*G RGB 191103002 200405036  01915  01953                    % 06340 CFLBUS
+*A VE 191103002 200405036 000284  01915  01953              % 06340 CFLBUS
+*I FD 191103002 200405036        0005134  01915  01953      % 06340 CFLBUS
+191103002 Kleinbettingen, Gare         01915                % 06340 CFLBUS
+190901005 Capellen, Ponts & Ch  01923  01923                % 06340 CFLBUS
+190901003 Capellen, Klouschter  01924  01924                % 06340 CFLBUS
+190903012 Mamer, Mambra         01928  01928                % 06340 CFLBUS
+190903002 Mamer, Baerendall     01929  01929                % 06340 CFLBUS
+190903007 Mamer, Gaaschtbierg   01930  01930                % 06340 CFLBUS
+190903013 Mamer, Tossebierg     01932  01932                % 06340 CFLBUS
+200101007 Bertrange-Strassen,   01937  01937                % 06340 CFLBUS
+200405036 Luxembourg, Gare rou  01953                       % 06340 CFLBUS
+*Z 06341 CFLBUS                                             % 06341 CFLBUS
+*L L50      191103002 200405036  02015  02053               % 06341 CFLBUS
+*R 2 200405036 191103002 200405036  02015  02053            % 06341 CFLBUS
+*G RGB 191103002 200405036  02015  02053                    % 06341 CFLBUS
+*A VE 191103002 200405036 000284  02015  02053              % 06341 CFLBUS
+*I FD 191103002 200405036        0005135  02015  02053      % 06341 CFLBUS
+191103002 Kleinbettingen, Gare         02015                % 06341 CFLBUS
+190901005 Capellen, Ponts & Ch  02023  02023                % 06341 CFLBUS
+190901003 Capellen, Klouschter  02024  02024                % 06341 CFLBUS
+190903012 Mamer, Mambra         02028  02028                % 06341 CFLBUS
+190903002 Mamer, Baerendall     02029  02029                % 06341 CFLBUS
+190903007 Mamer, Gaaschtbierg   02030  02030                % 06341 CFLBUS
+190903013 Mamer, Tossebierg     02032  02032                % 06341 CFLBUS
+200101007 Bertrange-Strassen,   02037  02037                % 06341 CFLBUS
+200405036 Luxembourg, Gare rou  02053                       % 06341 CFLBUS
+*Z 06342 CFLBUS                                             % 06342 CFLBUS
+*L L50      191103002 200405036  02115  02153               % 06342 CFLBUS
+*R 2 200405036 191103002 200405036  02115  02153            % 06342 CFLBUS
+*G RGB 191103002 200405036  02115  02153                    % 06342 CFLBUS
+*A VE 191103002 200405036 000284  02115  02153              % 06342 CFLBUS
+*I FD 191103002 200405036        0005136  02115  02153      % 06342 CFLBUS
+191103002 Kleinbettingen, Gare         02115                % 06342 CFLBUS
+190901005 Capellen, Ponts & Ch  02123  02123                % 06342 CFLBUS
+190901003 Capellen, Klouschter  02124  02124                % 06342 CFLBUS
+190903012 Mamer, Mambra         02128  02128                % 06342 CFLBUS
+190903002 Mamer, Baerendall     02129  02129                % 06342 CFLBUS
+190903007 Mamer, Gaaschtbierg   02130  02130                % 06342 CFLBUS
+190903013 Mamer, Tossebierg     02132  02132                % 06342 CFLBUS
+200101007 Bertrange-Strassen,   02137  02137                % 06342 CFLBUS
+200405036 Luxembourg, Gare rou  02153                       % 06342 CFLBUS
+*Z 06343 CFLBUS                                             % 06343 CFLBUS
+*L L50      191103002 200405036  02215  02253               % 06343 CFLBUS
+*R 2 200405036 191103002 200405036  02215  02253            % 06343 CFLBUS
+*G RGB 191103002 200405036  02215  02253                    % 06343 CFLBUS
+*A VE 191103002 200405036 000284  02215  02253              % 06343 CFLBUS
+*I FD 191103002 200405036        0005137  02215  02253      % 06343 CFLBUS
+191103002 Kleinbettingen, Gare         02215                % 06343 CFLBUS
+190901005 Capellen, Ponts & Ch  02223  02223                % 06343 CFLBUS
+190901003 Capellen, Klouschter  02224  02224                % 06343 CFLBUS
+190903012 Mamer, Mambra         02228  02228                % 06343 CFLBUS
+190903002 Mamer, Baerendall     02229  02229                % 06343 CFLBUS
+190903007 Mamer, Gaaschtbierg   02230  02230                % 06343 CFLBUS
+190903013 Mamer, Tossebierg     02232  02232                % 06343 CFLBUS
+200101007 Bertrange-Strassen,   02237  02237                % 06343 CFLBUS
+200405036 Luxembourg, Gare rou  02253                       % 06343 CFLBUS
+*Z 06344 CFLBUS                                             % 06344 CFLBUS
+*L L50      191103002 200405036  02315  02353               % 06344 CFLBUS
+*R 2 200405036 191103002 200405036  02315  02353            % 06344 CFLBUS
+*G RGB 191103002 200405036  02315  02353                    % 06344 CFLBUS
+*A VE 191103002 200405036 000284  02315  02353              % 06344 CFLBUS
+*I FD 191103002 200405036        0005138  02315  02353      % 06344 CFLBUS
+191103002 Kleinbettingen, Gare         02315                % 06344 CFLBUS
+190901005 Capellen, Ponts & Ch  02323  02323                % 06344 CFLBUS
+190901003 Capellen, Klouschter  02324  02324                % 06344 CFLBUS
+190903012 Mamer, Mambra         02328  02328                % 06344 CFLBUS
+190903002 Mamer, Baerendall     02329  02329                % 06344 CFLBUS
+190903007 Mamer, Gaaschtbierg   02330  02330                % 06344 CFLBUS
+190903013 Mamer, Tossebierg     02332  02332                % 06344 CFLBUS
+200101007 Bertrange-Strassen,   02337  02337                % 06344 CFLBUS
+200405036 Luxembourg, Gare rou  02353                       % 06344 CFLBUS
+*Z 06345 CFLBUS                                             % 06345 CFLBUS
+*L L50      191103002 200405036  02215  02253               % 06345 CFLBUS
+*R 2 200405036 191103002 200405036  02215  02253            % 06345 CFLBUS
+*G RGB 191103002 200405036  02215  02253                    % 06345 CFLBUS
+*A VE 191103002 200405036 000285  02215  02253              % 06345 CFLBUS
+*I FD 191103002 200405036        0005139  02215  02253      % 06345 CFLBUS
+191103002 Kleinbettingen, Gare         02215                % 06345 CFLBUS
+190901005 Capellen, Ponts & Ch  02223  02223                % 06345 CFLBUS
+190901003 Capellen, Klouschter  02224  02224                % 06345 CFLBUS
+190903012 Mamer, Mambra         02228  02228                % 06345 CFLBUS
+190903002 Mamer, Baerendall     02229  02229                % 06345 CFLBUS
+190903007 Mamer, Gaaschtbierg   02230  02230                % 06345 CFLBUS
+190903013 Mamer, Tossebierg     02232  02232                % 06345 CFLBUS
+200101007 Bertrange-Strassen,   02237  02237                % 06345 CFLBUS
+200405036 Luxembourg, Gare rou  02253                       % 06345 CFLBUS
+*Z 06346 CFLBUS                                             % 06346 CFLBUS
+*L L50      191103002 200405036  02315  02353               % 06346 CFLBUS
+*R 2 200405036 191103002 200405036  02315  02353            % 06346 CFLBUS
+*G RGB 191103002 200405036  02315  02353                    % 06346 CFLBUS
+*A VE 191103002 200405036 000285  02315  02353              % 06346 CFLBUS
+*I FD 191103002 200405036        0005121  02315  02353      % 06346 CFLBUS
+191103002 Kleinbettingen, Gare         02315                % 06346 CFLBUS
+190901005 Capellen, Ponts & Ch  02323  02323                % 06346 CFLBUS
+190901003 Capellen, Klouschter  02324  02324                % 06346 CFLBUS
+190903012 Mamer, Mambra         02328  02328                % 06346 CFLBUS
+190903002 Mamer, Baerendall     02329  02329                % 06346 CFLBUS
+190903007 Mamer, Gaaschtbierg   02330  02330                % 06346 CFLBUS
+190903013 Mamer, Tossebierg     02332  02332                % 06346 CFLBUS
+200101007 Bertrange-Strassen,   02337  02337                % 06346 CFLBUS
+200405036 Luxembourg, Gare rou  02353                       % 06346 CFLBUS
+*Z 06347 CFLBUS                                             % 06347 CFLBUS
+*L L50      300000003 200405036  02233  02313               % 06347 CFLBUS
+*R 2 200405036 300000003 200405036  02233  02313            % 06347 CFLBUS
+*G RGB 300000003 200405036  02233  02313                    % 06347 CFLBUS
+*A VE 300000003 200405036 000285  02233  02313              % 06347 CFLBUS
+*I FD 300000003 200405036        0005140  02233  02313      % 06347 CFLBUS
+300000003 Arlon, Gare                  02233                % 06347 CFLBUS
+200405036 Luxembourg, Gare rou  02313                       % 06347 CFLBUS
+*Z 06348 CFLBUS                                             % 06348 CFLBUS
+*L L50      300000003 200405036  02333  02413               % 06348 CFLBUS
+*R 2 200405036 300000003 200405036  02333  02413            % 06348 CFLBUS
+*G RGB 300000003 200405036  02333  02413                    % 06348 CFLBUS
+*A VE 300000003 200405036 000285  02333  02413              % 06348 CFLBUS
+*I FD 300000003 200405036        0005141  02333  02413      % 06348 CFLBUS
+300000003 Arlon, Gare                  02333                % 06348 CFLBUS
+200405036 Luxembourg, Gare rou  02413                       % 06348 CFLBUS
+*Z 06349 CFLBUS                                             % 06349 CFLBUS
+*L L50      300000003 200405036  00629  00709               % 06349 CFLBUS
+*R 2 200405036 300000003 200405036  00629  00709            % 06349 CFLBUS
+*G RGB 300000003 200405036  00629  00709                    % 06349 CFLBUS
+*A VE 300000003 200405036 000284  00629  00709              % 06349 CFLBUS
+*I FD 300000003 200405036        0005142  00629  00709      % 06349 CFLBUS
+300000003 Arlon, Gare                  00629                % 06349 CFLBUS
+200405036 Luxembourg, Gare rou  00709                       % 06349 CFLBUS
+*Z 06350 CFLBUS                                             % 06350 CFLBUS
+*L L50      300000003 200405036  00729  00809               % 06350 CFLBUS
+*R 2 200405036 300000003 200405036  00729  00809            % 06350 CFLBUS
+*G RGB 300000003 200405036  00729  00809                    % 06350 CFLBUS
+*A VE 300000003 200405036 000284  00729  00809              % 06350 CFLBUS
+*I FD 300000003 200405036        0005143  00729  00809      % 06350 CFLBUS
+300000003 Arlon, Gare                  00729                % 06350 CFLBUS
+200405036 Luxembourg, Gare rou  00809                       % 06350 CFLBUS
+*Z 06351 CFLBUS                                             % 06351 CFLBUS
+*L L50      300000003 200405036  00829  00909               % 06351 CFLBUS
+*R 2 200405036 300000003 200405036  00829  00909            % 06351 CFLBUS
+*G RGB 300000003 200405036  00829  00909                    % 06351 CFLBUS
+*A VE 300000003 200405036 000284  00829  00909              % 06351 CFLBUS
+*I FD 300000003 200405036        0005144  00829  00909      % 06351 CFLBUS
+300000003 Arlon, Gare                  00829                % 06351 CFLBUS
+200405036 Luxembourg, Gare rou  00909                       % 06351 CFLBUS
+*Z 06352 CFLBUS                                             % 06352 CFLBUS
+*L L50      300000003 200405036  00933  01013               % 06352 CFLBUS
+*R 2 200405036 300000003 200405036  00933  01013            % 06352 CFLBUS
+*G RGB 300000003 200405036  00933  01013                    % 06352 CFLBUS
+*A VE 300000003 200405036 000284  00933  01013              % 06352 CFLBUS
+*I FD 300000003 200405036        0005145  00933  01013      % 06352 CFLBUS
+300000003 Arlon, Gare                  00933                % 06352 CFLBUS
+200405036 Luxembourg, Gare rou  01013                       % 06352 CFLBUS
+*Z 06353 CFLBUS                                             % 06353 CFLBUS
+*L L50      300000003 200405036  00933  01013               % 06353 CFLBUS
+*R 2 200405036 300000003 200405036  00933  01013            % 06353 CFLBUS
+*G RGB 300000003 200405036  00933  01013                    % 06353 CFLBUS
+*A VE 300000003 200405036 000284  00933  01013              % 06353 CFLBUS
+*I FD 300000003 200405036        0005146  00933  01013      % 06353 CFLBUS
+300000003 Arlon, Gare                  00933                % 06353 CFLBUS
+200405036 Luxembourg, Gare rou  01013                       % 06353 CFLBUS
+*Z 06354 CFLBUS                                             % 06354 CFLBUS
+*L L50      300000003 200405036  01033  01113               % 06354 CFLBUS
+*R 2 200405036 300000003 200405036  01033  01113            % 06354 CFLBUS
+*G RGB 300000003 200405036  01033  01113                    % 06354 CFLBUS
+*A VE 300000003 200405036 000284  01033  01113              % 06354 CFLBUS
+*I FD 300000003 200405036        0005147  01033  01113      % 06354 CFLBUS
+300000003 Arlon, Gare                  01033                % 06354 CFLBUS
+200405036 Luxembourg, Gare rou  01113                       % 06354 CFLBUS
+*Z 06355 CFLBUS                                             % 06355 CFLBUS
+*L L50      300000003 200405036  01033  01113               % 06355 CFLBUS
+*R 2 200405036 300000003 200405036  01033  01113            % 06355 CFLBUS
+*G RGB 300000003 200405036  01033  01113                    % 06355 CFLBUS
+*A VE 300000003 200405036 000284  01033  01113              % 06355 CFLBUS
+*I FD 300000003 200405036        0005148  01033  01113      % 06355 CFLBUS
+300000003 Arlon, Gare                  01033                % 06355 CFLBUS
+200405036 Luxembourg, Gare rou  01113                       % 06355 CFLBUS
+*Z 06356 CFLBUS                                             % 06356 CFLBUS
+*L L50      300000003 200405036  01133  01213               % 06356 CFLBUS
+*R 2 200405036 300000003 200405036  01133  01213            % 06356 CFLBUS
+*G RGB 300000003 200405036  01133  01213                    % 06356 CFLBUS
+*A VE 300000003 200405036 000284  01133  01213              % 06356 CFLBUS
+*I FD 300000003 200405036        0005149  01133  01213      % 06356 CFLBUS
+300000003 Arlon, Gare                  01133                % 06356 CFLBUS
+200405036 Luxembourg, Gare rou  01213                       % 06356 CFLBUS
+*Z 06357 CFLBUS                                             % 06357 CFLBUS
+*L L50      300000003 200405036  01133  01213               % 06357 CFLBUS
+*R 2 200405036 300000003 200405036  01133  01213            % 06357 CFLBUS
+*G RGB 300000003 200405036  01133  01213                    % 06357 CFLBUS
+*A VE 300000003 200405036 000284  01133  01213              % 06357 CFLBUS
+*I FD 300000003 200405036        0005150  01133  01213      % 06357 CFLBUS
+300000003 Arlon, Gare                  01133                % 06357 CFLBUS
+200405036 Luxembourg, Gare rou  01213                       % 06357 CFLBUS
+*Z 06358 CFLBUS                                             % 06358 CFLBUS
+*L L50      300000003 200405036  01233  01313               % 06358 CFLBUS
+*R 2 200405036 300000003 200405036  01233  01313            % 06358 CFLBUS
+*G RGB 300000003 200405036  01233  01313                    % 06358 CFLBUS
+*A VE 300000003 200405036 000284  01233  01313              % 06358 CFLBUS
+*I FD 300000003 200405036        0005151  01233  01313      % 06358 CFLBUS
+300000003 Arlon, Gare                  01233                % 06358 CFLBUS
+200405036 Luxembourg, Gare rou  01313                       % 06358 CFLBUS
+*Z 06359 CFLBUS                                             % 06359 CFLBUS
+*L L50      300000003 200405036  01233  01313               % 06359 CFLBUS
+*R 2 200405036 300000003 200405036  01233  01313            % 06359 CFLBUS
+*G RGB 300000003 200405036  01233  01313                    % 06359 CFLBUS
+*A VE 300000003 200405036 000284  01233  01313              % 06359 CFLBUS
+*I FD 300000003 200405036        0005152  01233  01313      % 06359 CFLBUS
+300000003 Arlon, Gare                  01233                % 06359 CFLBUS
+200405036 Luxembourg, Gare rou  01313                       % 06359 CFLBUS
+*Z 06360 CFLBUS                                             % 06360 CFLBUS
+*L L50      300000003 200405036  01333  01413               % 06360 CFLBUS
+*R 2 200405036 300000003 200405036  01333  01413            % 06360 CFLBUS
+*G RGB 300000003 200405036  01333  01413                    % 06360 CFLBUS
+*A VE 300000003 200405036 000284  01333  01413              % 06360 CFLBUS
+*I FD 300000003 200405036        0005153  01333  01413      % 06360 CFLBUS
+300000003 Arlon, Gare                  01333                % 06360 CFLBUS
+200405036 Luxembourg, Gare rou  01413                       % 06360 CFLBUS
+*Z 06361 CFLBUS                                             % 06361 CFLBUS
+*L L50      300000003 200405036  01333  01413               % 06361 CFLBUS
+*R 2 200405036 300000003 200405036  01333  01413            % 06361 CFLBUS
+*G RGB 300000003 200405036  01333  01413                    % 06361 CFLBUS
+*A VE 300000003 200405036 000284  01333  01413              % 06361 CFLBUS
+*I FD 300000003 200405036        0005154  01333  01413      % 06361 CFLBUS
+300000003 Arlon, Gare                  01333                % 06361 CFLBUS
+200405036 Luxembourg, Gare rou  01413                       % 06361 CFLBUS
+*Z 06362 CFLBUS                                             % 06362 CFLBUS
+*L L50      300000003 200405036  01433  01513               % 06362 CFLBUS
+*R 2 200405036 300000003 200405036  01433  01513            % 06362 CFLBUS
+*G RGB 300000003 200405036  01433  01513                    % 06362 CFLBUS
+*A VE 300000003 200405036 000284  01433  01513              % 06362 CFLBUS
+*I FD 300000003 200405036        0005155  01433  01513      % 06362 CFLBUS
+300000003 Arlon, Gare                  01433                % 06362 CFLBUS
+200405036 Luxembourg, Gare rou  01513                       % 06362 CFLBUS
+*Z 06363 CFLBUS                                             % 06363 CFLBUS
+*L L50      300000003 200405036  01433  01513               % 06363 CFLBUS
+*R 2 200405036 300000003 200405036  01433  01513            % 06363 CFLBUS
+*G RGB 300000003 200405036  01433  01513                    % 06363 CFLBUS
+*A VE 300000003 200405036 000284  01433  01513              % 06363 CFLBUS
+*I FD 300000003 200405036        0005156  01433  01513      % 06363 CFLBUS
+300000003 Arlon, Gare                  01433                % 06363 CFLBUS
+200405036 Luxembourg, Gare rou  01513                       % 06363 CFLBUS
+*Z 06364 CFLBUS                                             % 06364 CFLBUS
+*L L50      300000003 200405036  01533  01613               % 06364 CFLBUS
+*R 2 200405036 300000003 200405036  01533  01613            % 06364 CFLBUS
+*G RGB 300000003 200405036  01533  01613                    % 06364 CFLBUS
+*A VE 300000003 200405036 000284  01533  01613              % 06364 CFLBUS
+*I FD 300000003 200405036        0005157  01533  01613      % 06364 CFLBUS
+300000003 Arlon, Gare                  01533                % 06364 CFLBUS
+200405036 Luxembourg, Gare rou  01613                       % 06364 CFLBUS
+*Z 06365 CFLBUS                                             % 06365 CFLBUS
+*L L50      300000003 200405036  01533  01613               % 06365 CFLBUS
+*R 2 200405036 300000003 200405036  01533  01613            % 06365 CFLBUS
+*G RGB 300000003 200405036  01533  01613                    % 06365 CFLBUS
+*A VE 300000003 200405036 000284  01533  01613              % 06365 CFLBUS
+*I FD 300000003 200405036        0005158  01533  01613      % 06365 CFLBUS
+300000003 Arlon, Gare                  01533                % 06365 CFLBUS
+200405036 Luxembourg, Gare rou  01613                       % 06365 CFLBUS
+*Z 06366 CFLBUS                                             % 06366 CFLBUS
+*L L50      300000003 200405036  01633  01713               % 06366 CFLBUS
+*R 2 200405036 300000003 200405036  01633  01713            % 06366 CFLBUS
+*G RGB 300000003 200405036  01633  01713                    % 06366 CFLBUS
+*A VE 300000003 200405036 000284  01633  01713              % 06366 CFLBUS
+*I FD 300000003 200405036        0005159  01633  01713      % 06366 CFLBUS
+300000003 Arlon, Gare                  01633                % 06366 CFLBUS
+200405036 Luxembourg, Gare rou  01713                       % 06366 CFLBUS
+*Z 06367 CFLBUS                                             % 06367 CFLBUS
+*L L50      300000003 200405036  01733  01813               % 06367 CFLBUS
+*R 2 200405036 300000003 200405036  01733  01813            % 06367 CFLBUS
+*G RGB 300000003 200405036  01733  01813                    % 06367 CFLBUS
+*A VE 300000003 200405036 000284  01733  01813              % 06367 CFLBUS
+*I FD 300000003 200405036        0005160  01733  01813      % 06367 CFLBUS
+300000003 Arlon, Gare                  01733                % 06367 CFLBUS
+200405036 Luxembourg, Gare rou  01813                       % 06367 CFLBUS
+*Z 06368 CFLBUS                                             % 06368 CFLBUS
+*L L50      300000003 200405036  01833  01913               % 06368 CFLBUS
+*R 2 200405036 300000003 200405036  01833  01913            % 06368 CFLBUS
+*G RGB 300000003 200405036  01833  01913                    % 06368 CFLBUS
+*A VE 300000003 200405036 000284  01833  01913              % 06368 CFLBUS
+*I FD 300000003 200405036        0005161  01833  01913      % 06368 CFLBUS
+300000003 Arlon, Gare                  01833                % 06368 CFLBUS
+200405036 Luxembourg, Gare rou  01913                       % 06368 CFLBUS
+*Z 06369 CFLBUS                                             % 06369 CFLBUS
+*L L50      300000003 200405036  01933  02013               % 06369 CFLBUS
+*R 2 200405036 300000003 200405036  01933  02013            % 06369 CFLBUS
+*G RGB 300000003 200405036  01933  02013                    % 06369 CFLBUS
+*A VE 300000003 200405036 000284  01933  02013              % 06369 CFLBUS
+*I FD 300000003 200405036        0005162  01933  02013      % 06369 CFLBUS
+300000003 Arlon, Gare                  01933                % 06369 CFLBUS
+200405036 Luxembourg, Gare rou  02013                       % 06369 CFLBUS
+*Z 06370 CFLBUS                                             % 06370 CFLBUS
+*L L50      300000003 200405036  01933  02013               % 06370 CFLBUS
+*R 2 200405036 300000003 200405036  01933  02013            % 06370 CFLBUS
+*G RGB 300000003 200405036  01933  02013                    % 06370 CFLBUS
+*A VE 300000003 200405036 000284  01933  02013              % 06370 CFLBUS
+*I FD 300000003 200405036        0005163  01933  02013      % 06370 CFLBUS
+300000003 Arlon, Gare                  01933                % 06370 CFLBUS
+200405036 Luxembourg, Gare rou  02013                       % 06370 CFLBUS
+*Z 06371 CFLBUS                                             % 06371 CFLBUS
+*L L50      300000003 200405036  02033  02113               % 06371 CFLBUS
+*R 2 200405036 300000003 200405036  02033  02113            % 06371 CFLBUS
+*G RGB 300000003 200405036  02033  02113                    % 06371 CFLBUS
+*A VE 300000003 200405036 000284  02033  02113              % 06371 CFLBUS
+*I FD 300000003 200405036        0005164  02033  02113      % 06371 CFLBUS
+300000003 Arlon, Gare                  02033                % 06371 CFLBUS
+200405036 Luxembourg, Gare rou  02113                       % 06371 CFLBUS
+*Z 06372 CFLBUS                                             % 06372 CFLBUS
+*L L50      300000003 200405036  02033  02113               % 06372 CFLBUS
+*R 2 200405036 300000003 200405036  02033  02113            % 06372 CFLBUS
+*G RGB 300000003 200405036  02033  02113                    % 06372 CFLBUS
+*A VE 300000003 200405036 000284  02033  02113              % 06372 CFLBUS
+*I FD 300000003 200405036        0005165  02033  02113      % 06372 CFLBUS
+300000003 Arlon, Gare                  02033                % 06372 CFLBUS
+200405036 Luxembourg, Gare rou  02113                       % 06372 CFLBUS
+*Z 06373 CFLBUS                                             % 06373 CFLBUS
+*L L50      300000003 200405036  02133  02213               % 06373 CFLBUS
+*R 2 200405036 300000003 200405036  02133  02213            % 06373 CFLBUS
+*G RGB 300000003 200405036  02133  02213                    % 06373 CFLBUS
+*A VE 300000003 200405036 000284  02133  02213              % 06373 CFLBUS
+*I FD 300000003 200405036        0005166  02133  02213      % 06373 CFLBUS
+300000003 Arlon, Gare                  02133                % 06373 CFLBUS
+200405036 Luxembourg, Gare rou  02213                       % 06373 CFLBUS
+*Z 06374 CFLBUS                                             % 06374 CFLBUS
+*L L50      300000003 200405036  02233  02313               % 06374 CFLBUS
+*R 2 200405036 300000003 200405036  02233  02313            % 06374 CFLBUS
+*G RGB 300000003 200405036  02233  02313                    % 06374 CFLBUS
+*A VE 300000003 200405036 000284  02233  02313              % 06374 CFLBUS
+*I FD 300000003 200405036        0005167  02233  02313      % 06374 CFLBUS
+300000003 Arlon, Gare                  02233                % 06374 CFLBUS
+200405036 Luxembourg, Gare rou  02313                       % 06374 CFLBUS
+*Z 06375 CFLBUS                                             % 06375 CFLBUS
+*L L50      300000003 200405036  02333  02413               % 06375 CFLBUS
+*R 2 200405036 300000003 200405036  02333  02413            % 06375 CFLBUS
+*G RGB 300000003 200405036  02333  02413                    % 06375 CFLBUS
+*A VE 300000003 200405036 000284  02333  02413              % 06375 CFLBUS
+*I FD 300000003 200405036        0005168  02333  02413      % 06375 CFLBUS
+300000003 Arlon, Gare                  02333                % 06375 CFLBUS
+200405036 Luxembourg, Gare rou  02413                       % 06375 CFLBUS
+*Z 06376 CFLBUS       015 060                               % 06376 CFLBUS
+*L L50      200405036 300000003  00547  00627               % 06376 CFLBUS
+*R 1 300000003 200405036 300000003  00547  00627            % 06376 CFLBUS
+*G RGB 200405036 300000003  00547  00627                    % 06376 CFLBUS
+*A VE 200405036 300000003 000286  00547  00627              % 06376 CFLBUS
+*I FD 200405036 300000003        0003923  00547  00627      % 06376 CFLBUS
+200405036 Luxembourg, Gare rou         00547                % 06376 CFLBUS
+300000003 Arlon, Gare           00627                       % 06376 CFLBUS
+*Z 06377 CFLBUS                                             % 06377 CFLBUS
+*L L50      200405036 300000003  02110  02150               % 06377 CFLBUS
+*R 1 300000003 200405036 300000003  02110  02150            % 06377 CFLBUS
+*G RGB 200405036 300000003  02110  02150                    % 06377 CFLBUS
+*A VE 200405036 300000003 000286  02110  02150              % 06377 CFLBUS
+*I FD 200405036 300000003        0003923  02110  02150      % 06377 CFLBUS
+200405036 Luxembourg, Gare rou         02110                % 06377 CFLBUS
+300000003 Arlon, Gare           02150                       % 06377 CFLBUS
+*Z 06378 CFLBUS       017 060                               % 06378 CFLBUS
+*L L50      200405036 191103002  00545  00621               % 06378 CFLBUS
+*R 1 191103002 200405036 191103002  00545  00621            % 06378 CFLBUS
+*G RGB 200405036 191103002  00545  00621                    % 06378 CFLBUS
+*A VE 200405036 191103002 000286  00545  00621              % 06378 CFLBUS
+*I FD 200405036 191103002        0003923  00545  00621      % 06378 CFLBUS
+200405036 Luxembourg, Gare rou         00545                % 06378 CFLBUS
+200101007 Bertrange-Strassen,   00559  00559                % 06378 CFLBUS
+190903013 Mamer, Tossebierg     00604  00604                % 06378 CFLBUS
+190903007 Mamer, Gaaschtbierg   00606  00606                % 06378 CFLBUS
+190903002 Mamer, Baerendall     00607  00607                % 06378 CFLBUS
+190903012 Mamer, Mambra         00608  00608                % 06378 CFLBUS
+190901003 Capellen, Klouschter  00612  00612                % 06378 CFLBUS
+190901005 Capellen, Ponts & Ch  00613  00613                % 06378 CFLBUS
+191103002 Kleinbettingen, Gare  00621                       % 06378 CFLBUS
+*Z 06379 CFLBUS                                             % 06379 CFLBUS
+*L L50      200405036 191103002  00439  00515               % 06379 CFLBUS
+*R 1 191103002 200405036 191103002  00439  00515            % 06379 CFLBUS
+*G RGB 200405036 191103002  00439  00515                    % 06379 CFLBUS
+*A VE 200405036 191103002 000077  00439  00515              % 06379 CFLBUS
+*I FD 200405036 191103002        0003923  00439  00515      % 06379 CFLBUS
+200405036 Luxembourg, Gare rou         00439                % 06379 CFLBUS
+200101007 Bertrange-Strassen,   00453  00453                % 06379 CFLBUS
+190903013 Mamer, Tossebierg     00458  00458                % 06379 CFLBUS
+190903007 Mamer, Gaaschtbierg   00500  00500                % 06379 CFLBUS
+190903002 Mamer, Baerendall     00501  00501                % 06379 CFLBUS
+190903012 Mamer, Mambra         00502  00502                % 06379 CFLBUS
+190901003 Capellen, Klouschter  00506  00506                % 06379 CFLBUS
+190901005 Capellen, Ponts & Ch  00507  00507                % 06379 CFLBUS
+191103002 Kleinbettingen, Gare  00515                       % 06379 CFLBUS
+*Z 06380 CFLBUS                                             % 06380 CFLBUS
+*L L50      200405036 300000003  02355  02451               % 06380 CFLBUS
+*R 1 300000003 200405036 300000003  02355  02451            % 06380 CFLBUS
+*G RGB 200405036 300000003  02355  02451                    % 06380 CFLBUS
+*A VE 200405036 300000003 000286  02355  02451              % 06380 CFLBUS
+*I FD 200405036 300000003        0003923  02355  02451      % 06380 CFLBUS
+200405036 Luxembourg, Gare rou         02355                % 06380 CFLBUS
+200101007 Bertrange-Strassen,   02409  02409                % 06380 CFLBUS
+190903013 Mamer, Tossebierg     02414  02414                % 06380 CFLBUS
+190903007 Mamer, Gaaschtbierg   02416  02416                % 06380 CFLBUS
+190903002 Mamer, Baerendall     02417  02417                % 06380 CFLBUS
+190903012 Mamer, Mambra         02418  02418                % 06380 CFLBUS
+190901003 Capellen, Klouschter  02422  02422                % 06380 CFLBUS
+190901005 Capellen, Ponts & Ch  02423  02423                % 06380 CFLBUS
+191103002 Kleinbettingen, Gare  02431  02431                % 06380 CFLBUS
+300000003 Arlon, Gare           02451                       % 06380 CFLBUS
+*Z 06381 CFLBUS       017 060                               % 06381 CFLBUS
+*L L50      300000003 200405036  00615  00720               % 06381 CFLBUS
+*R 2 200405036 300000003 200405036  00615  00720            % 06381 CFLBUS
+*G RGB 300000003 200405036  00615  00720                    % 06381 CFLBUS
+*A VE 300000003 200405036 000286  00615  00720              % 06381 CFLBUS
+*I FD 300000003 200405036        0003923  00615  00720      % 06381 CFLBUS
+300000003 Arlon, Gare                  00615                % 06381 CFLBUS
+191103002 Kleinbettingen, Gare  00636  00636                % 06381 CFLBUS
+190901005 Capellen, Ponts & Ch  00646  00646                % 06381 CFLBUS
+190901003 Capellen, Klouschter  00647  00647                % 06381 CFLBUS
+190903012 Mamer, Mambra         00651  00651                % 06381 CFLBUS
+190903002 Mamer, Baerendall     00652  00652                % 06381 CFLBUS
+190903007 Mamer, Gaaschtbierg   00653  00653                % 06381 CFLBUS
+190903013 Mamer, Tossebierg     00655  00655                % 06381 CFLBUS
+200101007 Bertrange-Strassen,   00700  00700                % 06381 CFLBUS
+200405036 Luxembourg, Gare rou  00720                       % 06381 CFLBUS
+*Z 06382 CFLBUS       002 060                               % 06382 CFLBUS
+*L L50      300000003 200405036  00629  00709               % 06382 CFLBUS
+*R 2 200405036 300000003 200405036  00629  00709            % 06382 CFLBUS
+*G RGB 300000003 200405036  00629  00709                    % 06382 CFLBUS
+*A VE 300000003 200405036 000286  00629  00709              % 06382 CFLBUS
+*I FD 300000003 200405036        0003923  00629  00709      % 06382 CFLBUS
+300000003 Arlon, Gare                  00629                % 06382 CFLBUS
+200405036 Luxembourg, Gare rou  00709                       % 06382 CFLBUS
+*Z 06383 CFLBUS       014 060                               % 06383 CFLBUS
+*L L50      300000003 200405036  00933  01013               % 06383 CFLBUS
+*R 2 200405036 300000003 200405036  00933  01013            % 06383 CFLBUS
+*G RGB 300000003 200405036  00933  01013                    % 06383 CFLBUS
+*A VE 300000003 200405036 000286  00933  01013              % 06383 CFLBUS
+*I FD 300000003 200405036        0003923  00933  01013      % 06383 CFLBUS
+300000003 Arlon, Gare                  00933                % 06383 CFLBUS
+200405036 Luxembourg, Gare rou  01013                       % 06383 CFLBUS

@@ -1,0 +1,37 @@
+*F 03 2
+*Z 01630 TIC---                                             % 01630 TIC---
+*L 862      220402039 220301022  01426  01507               % 01630 TIC---
+*A ad 220402039 220301022 000150  01426  01507              % 01630 TIC---
+*R 1 220301022 220402039 220301022  01426  01507            % 01630 TIC---
+*G TIB 220402039 220301022  01426  01507                    % 01630 TIC---
+*A VE 220402039 220301022 000150  01426  01507              % 01630 TIC---
+*I FD 220402039 220301022        0001782  01426  01507      % 01630 TIC---
+220402039 Esch/Alzette, L.H.C.         01426                % 01630 TIC---
+220402027 Esch/Alzette, Dellhé  01429  01429                % 01630 TIC---
+220601005 Kayl, Barrière        01440 -01440                % 01630 TIC---
+220601010 Kayl, Bréck           01441 -01441                % 01630 TIC---
+220601007 Kayl, Post            01442 -01442                % 01630 TIC---
+220601021 Kayl, Brill           01446 -01446                % 01630 TIC---
+220601013 Kayl, Diddelengerstr  01447 -01447                % 01630 TIC---
+220301048 Dudelange, Scherr     01448 -01448                % 01630 TIC---
+220301013 Dudelange, Butschebu  01450 -01450                % 01630 TIC---
+220301002 Dudelange, Rue Angel  01450 -01450                % 01630 TIC---
+220301019 Dudelange, Route de   01450 -01450                % 01630 TIC---
+220301031 Dudelange, rue Aloys  01451 -01451                % 01630 TIC---
+220301030 Dudelange, Kierfecht  01453 -01453                % 01630 TIC---
+220301022 Dudelange, Gare       01454 -01454                % 01630 TIC---
+220301036 Dudelange, Niddeschg  01455 -01455                % 01630 TIC---
+220301024 Dudelange, Gemeng     01456 -01456                % 01630 TIC---
+220301085 Dudelange, Strutzbie  01456 -01456                % 01630 TIC---
+220301033 Dudelange, Rue Antoi  01457 -01457                % 01630 TIC---
+220301004 Dudelange, Rue Belai  01458 -01458                % 01630 TIC---
+220301032 Dudelange, Kräizbier  01459 -01459                % 01630 TIC---
+220301072 Dudelange, Mayrisch   01500 -01500                % 01630 TIC---
+220301063 Dudelange, Lenkeschl  01500 -01500                % 01630 TIC---
+220301057 Dudelange, Waldschou  01501 -01501                % 01630 TIC---
+220301088 Dudelange, Rue Nic B  01502 -01502                % 01630 TIC---
+220301083 Dudelange, Rue Léon   01503 -01503                % 01630 TIC---
+220301034 Dudelange, Lycée Nic  01504 -01504                % 01630 TIC---
+220301009 Dudelange, Breininge  01505 -01505                % 01630 TIC---
+220301078 Dudelange, Square Ma  01506 -01506                % 01630 TIC---
+220301022 Dudelange, Gare       01507                       % 01630 TIC---

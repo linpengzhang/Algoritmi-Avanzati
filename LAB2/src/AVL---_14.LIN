@@ -1,0 +1,1891 @@
+*F 03 2
+*Z 01417 AVL---                                             % 01417 AVL---
+*L 14       200405035 200406019  02004  02027               % 01417 AVL---
+*A BE 200405035 200406019 000021  02004  02027              % 01417 AVL---
+*R 1 200406019 200405035 200406019  02004  02027            % 01417 AVL---
+*G AVS 200405035 200406019  02004  02027                    % 01417 AVL---
+*A VE 200405035 200406019 000021  02004  02027              % 01417 AVL---
+200405035 Luxembourg, Gare Cen         02004                % 01417 AVL---
+200405026 Luxembourg/Centre, P  02006  02006                % 01417 AVL---
+200405023 Centre, Martyrs       02007  02007                % 01417 AVL---
+200405020 Hamilius              02010  02010                % 01417 AVL---
+200405005 Centre, Badanstalt    02012  02012                % 01417 AVL---
+200423004 Pfaffenthal, Um Bock  02014  02014                % 01417 AVL---
+200408005 Clausen, Plateau Alt  02014  02014                % 01417 AVL---
+200408001 Clausen, Clausener B  02015  02015                % 01417 AVL---
+200408008 Clausen, Tour Jacob   02016  02016                % 01417 AVL---
+200408006 Clausen, Rumm         02017  02017                % 01417 AVL---
+200406006 Cents, Dinselpuert    02017  02017                % 01417 AVL---
+200406011 Cents, Kéibierg-I.N.  02018  02018                % 01417 AVL---
+200406007 Cents, Fort Dumoulin  02019  02019                % 01417 AVL---
+200406017 Cents, Tawioun        02019  02019                % 01417 AVL---
+200406012 Cents, Kierch         02020  02020                % 01417 AVL---
+200406010 Cents, Jules Salenti  02021  02021                % 01417 AVL---
+200406002 Cents, Arthur Knaff   02021  02021                % 01417 AVL---
+200406005 Cents, Charles de To  02022  02022                % 01417 AVL---
+200406008 Cents, Gabriel de Ma  02023  02023                % 01417 AVL---
+200406018 Cents, Trèves         02024  02024                % 01417 AVL---
+200406004 Cents, Carmel         02024  02024                % 01417 AVL---
+200406014 Cents, Paul Albrecht  02025  02025                % 01417 AVL---
+200406003 Cents, Camille Polfe  02026  02026                % 01417 AVL---
+200406019 Cents, Waassertuerm   02027                       % 01417 AVL---
+*Z 01418 AVL---       048 015                               % 01418 AVL---
+*L 14       200405035 200406019  00749  00813               % 01418 AVL---
+*A BE 200405035 200406019 000021  00749  00813              % 01418 AVL---
+*R 1 200406019 200405035 200406019  00749  00813            % 01418 AVL---
+*G AVS 200405035 200406019  00749  00813                    % 01418 AVL---
+*A VE 200405035 200406019 000021  00749  00813              % 01418 AVL---
+200405035 Luxembourg, Gare Cen         00749                % 01418 AVL---
+200405026 Luxembourg/Centre, P  00751  00751                % 01418 AVL---
+200405023 Centre, Martyrs       00752  00752                % 01418 AVL---
+200405020 Hamilius              00755  00755                % 01418 AVL---
+200405005 Centre, Badanstalt    00757  00757                % 01418 AVL---
+200423004 Pfaffenthal, Um Bock  00759  00759                % 01418 AVL---
+200408005 Clausen, Plateau Alt  00800  00800                % 01418 AVL---
+200408001 Clausen, Clausener B  00801  00801                % 01418 AVL---
+200408008 Clausen, Tour Jacob   00801  00801                % 01418 AVL---
+200408006 Clausen, Rumm         00802  00802                % 01418 AVL---
+200406006 Cents, Dinselpuert    00803  00803                % 01418 AVL---
+200406011 Cents, Kéibierg-I.N.  00803  00803                % 01418 AVL---
+200406007 Cents, Fort Dumoulin  00804  00804                % 01418 AVL---
+200406017 Cents, Tawioun        00805  00805                % 01418 AVL---
+200406012 Cents, Kierch         00806  00806                % 01418 AVL---
+200406010 Cents, Jules Salenti  00806  00806                % 01418 AVL---
+200406002 Cents, Arthur Knaff   00807  00807                % 01418 AVL---
+200406005 Cents, Charles de To  00807  00807                % 01418 AVL---
+200406008 Cents, Gabriel de Ma  00808  00808                % 01418 AVL---
+200406018 Cents, Trèves         00809  00809                % 01418 AVL---
+200406004 Cents, Carmel         00810  00810                % 01418 AVL---
+200406014 Cents, Paul Albrecht  00811  00811                % 01418 AVL---
+200406003 Cents, Camille Polfe  00811  00811                % 01418 AVL---
+200406019 Cents, Waassertuerm   00813                       % 01418 AVL---
+*Z 01419 AVL---       051 015                               % 01419 AVL---
+*L 14       200405035 200406019  00703  00730               % 01419 AVL---
+*A BE 200405035 200406019 000015  00703  00730              % 01419 AVL---
+*R 1 200406019 200405035 200406019  00703  00730            % 01419 AVL---
+*G AVS 200405035 200406019  00703  00730                    % 01419 AVL---
+*A VE 200405035 200406019 000015  00703  00730              % 01419 AVL---
+200405035 Luxembourg, Gare Cen         00703                % 01419 AVL---
+200405026 Luxembourg/Centre, P  00706  00706                % 01419 AVL---
+200405023 Centre, Martyrs       00707  00707                % 01419 AVL---
+200405020 Hamilius              00710  00710                % 01419 AVL---
+200405005 Centre, Badanstalt    00713  00713                % 01419 AVL---
+200423004 Pfaffenthal, Um Bock  00714  00714                % 01419 AVL---
+200408005 Clausen, Plateau Alt  00715  00715                % 01419 AVL---
+200408001 Clausen, Clausener B  00716  00716                % 01419 AVL---
+200408008 Clausen, Tour Jacob   00717  00717                % 01419 AVL---
+200408006 Clausen, Rumm         00718  00718                % 01419 AVL---
+200406006 Cents, Dinselpuert    00718  00718                % 01419 AVL---
+200406011 Cents, Kéibierg-I.N.  00719  00719                % 01419 AVL---
+200406007 Cents, Fort Dumoulin  00719  00719                % 01419 AVL---
+200406017 Cents, Tawioun        00720  00720                % 01419 AVL---
+200406012 Cents, Kierch         00722  00722                % 01419 AVL---
+200406010 Cents, Jules Salenti  00722  00722                % 01419 AVL---
+200406002 Cents, Arthur Knaff   00723  00723                % 01419 AVL---
+200406005 Cents, Charles de To  00724  00724                % 01419 AVL---
+200406008 Cents, Gabriel de Ma  00725  00725                % 01419 AVL---
+200406018 Cents, Trèves         00726  00726                % 01419 AVL---
+200406004 Cents, Carmel         00726  00726                % 01419 AVL---
+200406014 Cents, Paul Albrecht  00728  00728                % 01419 AVL---
+200406003 Cents, Camille Polfe  00728  00728                % 01419 AVL---
+200406019 Cents, Waassertuerm   00730                       % 01419 AVL---
+*Z 01420 AVL---       007 030                               % 01420 AVL---
+*L 14       200405035 200406019  02030  02053               % 01420 AVL---
+*A BE 200405035 200406019 000012  02030  02053              % 01420 AVL---
+*R 1 200406019 200405035 200406019  02030  02053            % 01420 AVL---
+*G AVS 200405035 200406019  02030  02053                    % 01420 AVL---
+*A VE 200405035 200406019 000012  02030  02053              % 01420 AVL---
+200405035 Luxembourg, Gare Cen         02030                % 01420 AVL---
+200405026 Luxembourg/Centre, P  02032  02032                % 01420 AVL---
+200405023 Centre, Martyrs       02033  02033                % 01420 AVL---
+200405020 Hamilius              02036  02036                % 01420 AVL---
+200405005 Centre, Badanstalt    02038  02038                % 01420 AVL---
+200423004 Pfaffenthal, Um Bock  02040  02040                % 01420 AVL---
+200408005 Clausen, Plateau Alt  02040  02040                % 01420 AVL---
+200408001 Clausen, Clausener B  02041  02041                % 01420 AVL---
+200408008 Clausen, Tour Jacob   02042  02042                % 01420 AVL---
+200408006 Clausen, Rumm         02043  02043                % 01420 AVL---
+200406006 Cents, Dinselpuert    02043  02043                % 01420 AVL---
+200406011 Cents, Kéibierg-I.N.  02044  02044                % 01420 AVL---
+200406007 Cents, Fort Dumoulin  02045  02045                % 01420 AVL---
+200406017 Cents, Tawioun        02045  02045                % 01420 AVL---
+200406012 Cents, Kierch         02046  02046                % 01420 AVL---
+200406010 Cents, Jules Salenti  02047  02047                % 01420 AVL---
+200406002 Cents, Arthur Knaff   02047  02047                % 01420 AVL---
+200406005 Cents, Charles de To  02048  02048                % 01420 AVL---
+200406008 Cents, Gabriel de Ma  02049  02049                % 01420 AVL---
+200406018 Cents, Trèves         02050  02050                % 01420 AVL---
+200406004 Cents, Carmel         02050  02050                % 01420 AVL---
+200406014 Cents, Paul Albrecht  02051  02051                % 01420 AVL---
+200406003 Cents, Camille Polfe  02052  02052                % 01420 AVL---
+200406019 Cents, Waassertuerm   02053                       % 01420 AVL---
+*Z 01421 AVL---       001 030                               % 01421 AVL---
+*L 14       200405035 200406019  00535  00558               % 01421 AVL---
+*A BE 200405035 200406019 000015  00535  00558              % 01421 AVL---
+*R 1 200406019 200405035 200406019  00535  00558            % 01421 AVL---
+*G AVS 200405035 200406019  00535  00558                    % 01421 AVL---
+*A VE 200405035 200406019 000015  00535  00558              % 01421 AVL---
+200405035 Luxembourg, Gare Cen         00535                % 01421 AVL---
+200405026 Luxembourg/Centre, P  00537  00537                % 01421 AVL---
+200405023 Centre, Martyrs       00538  00538                % 01421 AVL---
+200405020 Hamilius              00541  00541                % 01421 AVL---
+200405005 Centre, Badanstalt    00543  00543                % 01421 AVL---
+200423004 Pfaffenthal, Um Bock  00545  00545                % 01421 AVL---
+200408005 Clausen, Plateau Alt  00545  00545                % 01421 AVL---
+200408001 Clausen, Clausener B  00546  00546                % 01421 AVL---
+200408008 Clausen, Tour Jacob   00547  00547                % 01421 AVL---
+200408006 Clausen, Rumm         00548  00548                % 01421 AVL---
+200406006 Cents, Dinselpuert    00548  00548                % 01421 AVL---
+200406011 Cents, Kéibierg-I.N.  00549  00549                % 01421 AVL---
+200406007 Cents, Fort Dumoulin  00550  00550                % 01421 AVL---
+200406017 Cents, Tawioun        00550  00550                % 01421 AVL---
+200406012 Cents, Kierch         00551  00551                % 01421 AVL---
+200406010 Cents, Jules Salenti  00552  00552                % 01421 AVL---
+200406002 Cents, Arthur Knaff   00552  00552                % 01421 AVL---
+200406005 Cents, Charles de To  00553  00553                % 01421 AVL---
+200406008 Cents, Gabriel de Ma  00554  00554                % 01421 AVL---
+200406018 Cents, Trèves         00555  00555                % 01421 AVL---
+200406004 Cents, Carmel         00555  00555                % 01421 AVL---
+200406014 Cents, Paul Albrecht  00556  00556                % 01421 AVL---
+200406003 Cents, Camille Polfe  00557  00557                % 01421 AVL---
+200406019 Cents, Waassertuerm   00558                       % 01421 AVL---
+*Z 01422 AVL---       002 015                               % 01422 AVL---
+*L 14       200405035 200406019  00620  00643               % 01422 AVL---
+*A BE 200405035 200406019 000015  00620  00643              % 01422 AVL---
+*R 1 200406019 200405035 200406019  00620  00643            % 01422 AVL---
+*G AVS 200405035 200406019  00620  00643                    % 01422 AVL---
+*A VE 200405035 200406019 000015  00620  00643              % 01422 AVL---
+200405035 Luxembourg, Gare Cen         00620                % 01422 AVL---
+200405026 Luxembourg/Centre, P  00622  00622                % 01422 AVL---
+200405023 Centre, Martyrs       00623  00623                % 01422 AVL---
+200405020 Hamilius              00626  00626                % 01422 AVL---
+200405005 Centre, Badanstalt    00628  00628                % 01422 AVL---
+200423004 Pfaffenthal, Um Bock  00630  00630                % 01422 AVL---
+200408005 Clausen, Plateau Alt  00630  00630                % 01422 AVL---
+200408001 Clausen, Clausener B  00631  00631                % 01422 AVL---
+200408008 Clausen, Tour Jacob   00632  00632                % 01422 AVL---
+200408006 Clausen, Rumm         00633  00633                % 01422 AVL---
+200406006 Cents, Dinselpuert    00633  00633                % 01422 AVL---
+200406011 Cents, Kéibierg-I.N.  00634  00634                % 01422 AVL---
+200406007 Cents, Fort Dumoulin  00635  00635                % 01422 AVL---
+200406017 Cents, Tawioun        00635  00635                % 01422 AVL---
+200406012 Cents, Kierch         00636  00636                % 01422 AVL---
+200406010 Cents, Jules Salenti  00637  00637                % 01422 AVL---
+200406002 Cents, Arthur Knaff   00637  00637                % 01422 AVL---
+200406005 Cents, Charles de To  00638  00638                % 01422 AVL---
+200406008 Cents, Gabriel de Ma  00639  00639                % 01422 AVL---
+200406018 Cents, Trèves         00640  00640                % 01422 AVL---
+200406004 Cents, Carmel         00640  00640                % 01422 AVL---
+200406014 Cents, Paul Albrecht  00641  00641                % 01422 AVL---
+200406003 Cents, Camille Polfe  00642  00642                % 01422 AVL---
+200406019 Cents, Waassertuerm   00643                       % 01422 AVL---
+*Z 01423 AVL---       001 015                               % 01423 AVL---
+*L 14       200405035 200406019  02004  02027               % 01423 AVL---
+*A BE 200405035 200406019 000015  02004  02027              % 01423 AVL---
+*R 1 200406019 200405035 200406019  02004  02027            % 01423 AVL---
+*G AVS 200405035 200406019  02004  02027                    % 01423 AVL---
+*A VE 200405035 200406019 000015  02004  02027              % 01423 AVL---
+200405035 Luxembourg, Gare Cen         02004                % 01423 AVL---
+200405026 Luxembourg/Centre, P  02006  02006                % 01423 AVL---
+200405023 Centre, Martyrs       02007  02007                % 01423 AVL---
+200405020 Hamilius              02010  02010                % 01423 AVL---
+200405005 Centre, Badanstalt    02012  02012                % 01423 AVL---
+200423004 Pfaffenthal, Um Bock  02014  02014                % 01423 AVL---
+200408005 Clausen, Plateau Alt  02014  02014                % 01423 AVL---
+200408001 Clausen, Clausener B  02015  02015                % 01423 AVL---
+200408008 Clausen, Tour Jacob   02016  02016                % 01423 AVL---
+200408006 Clausen, Rumm         02017  02017                % 01423 AVL---
+200406006 Cents, Dinselpuert    02017  02017                % 01423 AVL---
+200406011 Cents, Kéibierg-I.N.  02018  02018                % 01423 AVL---
+200406007 Cents, Fort Dumoulin  02019  02019                % 01423 AVL---
+200406017 Cents, Tawioun        02019  02019                % 01423 AVL---
+200406012 Cents, Kierch         02020  02020                % 01423 AVL---
+200406010 Cents, Jules Salenti  02021  02021                % 01423 AVL---
+200406002 Cents, Arthur Knaff   02021  02021                % 01423 AVL---
+200406005 Cents, Charles de To  02022  02022                % 01423 AVL---
+200406008 Cents, Gabriel de Ma  02023  02023                % 01423 AVL---
+200406018 Cents, Trèves         02024  02024                % 01423 AVL---
+200406004 Cents, Carmel         02024  02024                % 01423 AVL---
+200406014 Cents, Paul Albrecht  02025  02025                % 01423 AVL---
+200406003 Cents, Camille Polfe  02026  02026                % 01423 AVL---
+200406019 Cents, Waassertuerm   02027                       % 01423 AVL---
+*Z 01424 AVL---       004 030                               % 01424 AVL---
+*L 14       200405035 200406019  00530  00553               % 01424 AVL---
+*A BE 200405035 200406019 000021  00530  00553              % 01424 AVL---
+*R 1 200406019 200405035 200406019  00530  00553            % 01424 AVL---
+*G AVS 200405035 200406019  00530  00553                    % 01424 AVL---
+*A VE 200405035 200406019 000021  00530  00553              % 01424 AVL---
+200405035 Luxembourg, Gare Cen         00530                % 01424 AVL---
+200405026 Luxembourg/Centre, P  00532  00532                % 01424 AVL---
+200405023 Centre, Martyrs       00533  00533                % 01424 AVL---
+200405020 Hamilius              00536  00536                % 01424 AVL---
+200405005 Centre, Badanstalt    00538  00538                % 01424 AVL---
+200423004 Pfaffenthal, Um Bock  00540  00540                % 01424 AVL---
+200408005 Clausen, Plateau Alt  00540  00540                % 01424 AVL---
+200408001 Clausen, Clausener B  00541  00541                % 01424 AVL---
+200408008 Clausen, Tour Jacob   00542  00542                % 01424 AVL---
+200408006 Clausen, Rumm         00543  00543                % 01424 AVL---
+200406006 Cents, Dinselpuert    00543  00543                % 01424 AVL---
+200406011 Cents, Kéibierg-I.N.  00544  00544                % 01424 AVL---
+200406007 Cents, Fort Dumoulin  00545  00545                % 01424 AVL---
+200406017 Cents, Tawioun        00545  00545                % 01424 AVL---
+200406012 Cents, Kierch         00546  00546                % 01424 AVL---
+200406010 Cents, Jules Salenti  00547  00547                % 01424 AVL---
+200406002 Cents, Arthur Knaff   00547  00547                % 01424 AVL---
+200406005 Cents, Charles de To  00548  00548                % 01424 AVL---
+200406008 Cents, Gabriel de Ma  00549  00549                % 01424 AVL---
+200406018 Cents, Trèves         00550  00550                % 01424 AVL---
+200406004 Cents, Carmel         00550  00550                % 01424 AVL---
+200406014 Cents, Paul Albrecht  00551  00551                % 01424 AVL---
+200406003 Cents, Camille Polfe  00552  00552                % 01424 AVL---
+200406019 Cents, Waassertuerm   00553                       % 01424 AVL---
+*Z 01425 AVL---       001 021                               % 01425 AVL---
+*L 14       200406019 200405035  01951  02013               % 01425 AVL---
+*A BE 200406019 200405035 000012  01951  02013              % 01425 AVL---
+*R 2 200405035 200406019 200405035  01951  02013            % 01425 AVL---
+*G AVS 200406019 200405035  01951  02013                    % 01425 AVL---
+*A VE 200406019 200405035 000012  01951  02013              % 01425 AVL---
+200406019 Cents, Waassertuerm          01951                % 01425 AVL---
+200406003 Cents, Camille Polfe  01952  01952                % 01425 AVL---
+200406014 Cents, Paul Albrecht  01953  01953                % 01425 AVL---
+200406004 Cents, Carmel         01954  01954                % 01425 AVL---
+200406018 Cents, Trèves         01954  01954                % 01425 AVL---
+200406016 Cents, Robert Bruch   01955  01955                % 01425 AVL---
+200406008 Cents, Gabriel de Ma  01955  01955                % 01425 AVL---
+200406005 Cents, Charles de To  01956  01956                % 01425 AVL---
+200406002 Cents, Arthur Knaff   01957  01957                % 01425 AVL---
+200406010 Cents, Jules Salenti  01957  01957                % 01425 AVL---
+200406012 Cents, Kierch         01957  01957                % 01425 AVL---
+200406017 Cents, Tawioun        01958  01958                % 01425 AVL---
+200406007 Cents, Fort Dumoulin  01959  01959                % 01425 AVL---
+200406011 Cents, Kéibierg-I.N.  02000  02000                % 01425 AVL---
+200408006 Clausen, Rumm         02001  02001                % 01425 AVL---
+200408008 Clausen, Tour Jacob   02001  02001                % 01425 AVL---
+200408001 Clausen, Clausener B  02002  02002                % 01425 AVL---
+200408005 Clausen, Plateau Alt  02003  02003                % 01425 AVL---
+200423004 Pfaffenthal, Um Bock  02004  02004                % 01425 AVL---
+200405005 Centre, Badanstalt    02006  02006                % 01425 AVL---
+200405020 Hamilius              02009  02009                % 01425 AVL---
+200405023 Centre, Martyrs       02010  02010                % 01425 AVL---
+200405026 Luxembourg/Centre, P  02011  02011                % 01425 AVL---
+200405035 Luxembourg, Gare Cen  02013                       % 01425 AVL---
+*Z 01426 AVL---       006 030                               % 01426 AVL---
+*L 14       200406019 200405035  02042  02104               % 01426 AVL---
+*A BE 200406019 200405035 000012  02042  02104              % 01426 AVL---
+*R 2 200405035 200406019 200405035  02042  02104            % 01426 AVL---
+*G AVS 200406019 200405035  02042  02104                    % 01426 AVL---
+*A VE 200406019 200405035 000012  02042  02104              % 01426 AVL---
+200406019 Cents, Waassertuerm          02042                % 01426 AVL---
+200406003 Cents, Camille Polfe  02043  02043                % 01426 AVL---
+200406014 Cents, Paul Albrecht  02044  02044                % 01426 AVL---
+200406004 Cents, Carmel         02045  02045                % 01426 AVL---
+200406018 Cents, Trèves         02045  02045                % 01426 AVL---
+200406016 Cents, Robert Bruch   02046  02046                % 01426 AVL---
+200406008 Cents, Gabriel de Ma  02046  02046                % 01426 AVL---
+200406005 Cents, Charles de To  02047  02047                % 01426 AVL---
+200406002 Cents, Arthur Knaff   02048  02048                % 01426 AVL---
+200406010 Cents, Jules Salenti  02048  02048                % 01426 AVL---
+200406012 Cents, Kierch         02048  02048                % 01426 AVL---
+200406017 Cents, Tawioun        02049  02049                % 01426 AVL---
+200406007 Cents, Fort Dumoulin  02050  02050                % 01426 AVL---
+200406011 Cents, Kéibierg-I.N.  02051  02051                % 01426 AVL---
+200408006 Clausen, Rumm         02052  02052                % 01426 AVL---
+200408008 Clausen, Tour Jacob   02052  02052                % 01426 AVL---
+200408001 Clausen, Clausener B  02053  02053                % 01426 AVL---
+200408005 Clausen, Plateau Alt  02054  02054                % 01426 AVL---
+200423004 Pfaffenthal, Um Bock  02055  02055                % 01426 AVL---
+200405005 Centre, Badanstalt    02057  02057                % 01426 AVL---
+200405020 Hamilius              02100  02100                % 01426 AVL---
+200405023 Centre, Martyrs       02101  02101                % 01426 AVL---
+200405026 Luxembourg/Centre, P  02102  02102                % 01426 AVL---
+200405035 Luxembourg, Gare Cen  02104                       % 01426 AVL---
+*Z 01427 AVL---       001 030                               % 01427 AVL---
+*L 14       200406019 200405035  00508  00530               % 01427 AVL---
+*A BE 200406019 200405035 000015  00508  00530              % 01427 AVL---
+*R 2 200405035 200406019 200405035  00508  00530            % 01427 AVL---
+*G AVS 200406019 200405035  00508  00530                    % 01427 AVL---
+*A VE 200406019 200405035 000015  00508  00530              % 01427 AVL---
+200406019 Cents, Waassertuerm          00508                % 01427 AVL---
+200406003 Cents, Camille Polfe  00509  00509                % 01427 AVL---
+200406014 Cents, Paul Albrecht  00510  00510                % 01427 AVL---
+200406004 Cents, Carmel         00511  00511                % 01427 AVL---
+200406018 Cents, Trèves         00511  00511                % 01427 AVL---
+200406016 Cents, Robert Bruch   00512  00512                % 01427 AVL---
+200406008 Cents, Gabriel de Ma  00512  00512                % 01427 AVL---
+200406005 Cents, Charles de To  00513  00513                % 01427 AVL---
+200406002 Cents, Arthur Knaff   00514  00514                % 01427 AVL---
+200406010 Cents, Jules Salenti  00514  00514                % 01427 AVL---
+200406012 Cents, Kierch         00514  00514                % 01427 AVL---
+200406017 Cents, Tawioun        00515  00515                % 01427 AVL---
+200406007 Cents, Fort Dumoulin  00516  00516                % 01427 AVL---
+200406011 Cents, Kéibierg-I.N.  00517  00517                % 01427 AVL---
+200408006 Clausen, Rumm         00518  00518                % 01427 AVL---
+200408008 Clausen, Tour Jacob   00518  00518                % 01427 AVL---
+200408001 Clausen, Clausener B  00519  00519                % 01427 AVL---
+200408005 Clausen, Plateau Alt  00520  00520                % 01427 AVL---
+200423004 Pfaffenthal, Um Bock  00521  00521                % 01427 AVL---
+200405005 Centre, Badanstalt    00523  00523                % 01427 AVL---
+200405020 Hamilius              00526  00526                % 01427 AVL---
+200405023 Centre, Martyrs       00527  00527                % 01427 AVL---
+200405026 Luxembourg/Centre, P  00528  00528                % 01427 AVL---
+200405035 Luxembourg, Gare Cen  00530                       % 01427 AVL---
+*Z 01428 AVL---       002 015                               % 01428 AVL---
+*L 14       200406019 200405035  00603  00625               % 01428 AVL---
+*A BE 200406019 200405035 000015  00603  00625              % 01428 AVL---
+*R 2 200405035 200406019 200405035  00603  00625            % 01428 AVL---
+*G AVS 200406019 200405035  00603  00625                    % 01428 AVL---
+*A VE 200406019 200405035 000015  00603  00625              % 01428 AVL---
+200406019 Cents, Waassertuerm          00603                % 01428 AVL---
+200406003 Cents, Camille Polfe  00604  00604                % 01428 AVL---
+200406014 Cents, Paul Albrecht  00605  00605                % 01428 AVL---
+200406004 Cents, Carmel         00606  00606                % 01428 AVL---
+200406018 Cents, Trèves         00606  00606                % 01428 AVL---
+200406016 Cents, Robert Bruch   00607  00607                % 01428 AVL---
+200406008 Cents, Gabriel de Ma  00607  00607                % 01428 AVL---
+200406005 Cents, Charles de To  00608  00608                % 01428 AVL---
+200406002 Cents, Arthur Knaff   00609  00609                % 01428 AVL---
+200406010 Cents, Jules Salenti  00609  00609                % 01428 AVL---
+200406012 Cents, Kierch         00609  00609                % 01428 AVL---
+200406017 Cents, Tawioun        00610  00610                % 01428 AVL---
+200406007 Cents, Fort Dumoulin  00611  00611                % 01428 AVL---
+200406011 Cents, Kéibierg-I.N.  00612  00612                % 01428 AVL---
+200408006 Clausen, Rumm         00613  00613                % 01428 AVL---
+200408008 Clausen, Tour Jacob   00613  00613                % 01428 AVL---
+200408001 Clausen, Clausener B  00614  00614                % 01428 AVL---
+200408005 Clausen, Plateau Alt  00615  00615                % 01428 AVL---
+200423004 Pfaffenthal, Um Bock  00616  00616                % 01428 AVL---
+200405005 Centre, Badanstalt    00618  00618                % 01428 AVL---
+200405020 Hamilius              00621  00621                % 01428 AVL---
+200405023 Centre, Martyrs       00622  00622                % 01428 AVL---
+200405026 Luxembourg/Centre, P  00623  00623                % 01428 AVL---
+200405035 Luxembourg, Gare Cen  00625                       % 01428 AVL---
+*Z 01429 AVL---       005 030                               % 01429 AVL---
+*L 14       200406019 200405035  00512  00534               % 01429 AVL---
+*A BE 200406019 200405035 000021  00512  00534              % 01429 AVL---
+*R 2 200405035 200406019 200405035  00512  00534            % 01429 AVL---
+*G AVS 200406019 200405035  00512  00534                    % 01429 AVL---
+*A VE 200406019 200405035 000021  00512  00534              % 01429 AVL---
+200406019 Cents, Waassertuerm          00512                % 01429 AVL---
+200406003 Cents, Camille Polfe  00513  00513                % 01429 AVL---
+200406014 Cents, Paul Albrecht  00514  00514                % 01429 AVL---
+200406004 Cents, Carmel         00515  00515                % 01429 AVL---
+200406018 Cents, Trèves         00515  00515                % 01429 AVL---
+200406016 Cents, Robert Bruch   00516  00516                % 01429 AVL---
+200406008 Cents, Gabriel de Ma  00516  00516                % 01429 AVL---
+200406005 Cents, Charles de To  00517  00517                % 01429 AVL---
+200406002 Cents, Arthur Knaff   00518  00518                % 01429 AVL---
+200406010 Cents, Jules Salenti  00518  00518                % 01429 AVL---
+200406012 Cents, Kierch         00518  00518                % 01429 AVL---
+200406017 Cents, Tawioun        00519  00519                % 01429 AVL---
+200406007 Cents, Fort Dumoulin  00520  00520                % 01429 AVL---
+200406011 Cents, Kéibierg-I.N.  00521  00521                % 01429 AVL---
+200408006 Clausen, Rumm         00522  00522                % 01429 AVL---
+200408008 Clausen, Tour Jacob   00522  00522                % 01429 AVL---
+200408001 Clausen, Clausener B  00523  00523                % 01429 AVL---
+200408005 Clausen, Plateau Alt  00524  00524                % 01429 AVL---
+200423004 Pfaffenthal, Um Bock  00525  00525                % 01429 AVL---
+200405005 Centre, Badanstalt    00527  00527                % 01429 AVL---
+200405020 Hamilius              00530  00530                % 01429 AVL---
+200405023 Centre, Martyrs       00531  00531                % 01429 AVL---
+200405026 Luxembourg/Centre, P  00532  00532                % 01429 AVL---
+200405035 Luxembourg, Gare Cen  00534                       % 01429 AVL---
+*Z 01430 AVL---       046 015                               % 01430 AVL---
+*L 14       200406019 200405035  00800  00824               % 01430 AVL---
+*A BE 200406019 200405035 000021  00800  00824              % 01430 AVL---
+*R 2 200405035 200406019 200405035  00800  00824            % 01430 AVL---
+*G AVS 200406019 200405035  00800  00824                    % 01430 AVL---
+*A VE 200406019 200405035 000021  00800  00824              % 01430 AVL---
+200406019 Cents, Waassertuerm          00800                % 01430 AVL---
+200406003 Cents, Camille Polfe  00801  00801                % 01430 AVL---
+200406014 Cents, Paul Albrecht  00801  00801                % 01430 AVL---
+200406004 Cents, Carmel         00803  00803                % 01430 AVL---
+200406018 Cents, Trèves         00803  00803                % 01430 AVL---
+200406016 Cents, Robert Bruch   00804  00804                % 01430 AVL---
+200406008 Cents, Gabriel de Ma  00805  00805                % 01430 AVL---
+200406005 Cents, Charles de To  00805  00805                % 01430 AVL---
+200406002 Cents, Arthur Knaff   00806  00806                % 01430 AVL---
+200406010 Cents, Jules Salenti  00806  00806                % 01430 AVL---
+200406012 Cents, Kierch         00807  00807                % 01430 AVL---
+200406017 Cents, Tawioun        00808  00808                % 01430 AVL---
+200406007 Cents, Fort Dumoulin  00809  00809                % 01430 AVL---
+200406011 Cents, Kéibierg-I.N.  00809  00809                % 01430 AVL---
+200408006 Clausen, Rumm         00810  00810                % 01430 AVL---
+200408008 Clausen, Tour Jacob   00811  00811                % 01430 AVL---
+200408001 Clausen, Clausener B  00812  00812                % 01430 AVL---
+200408005 Clausen, Plateau Alt  00813  00813                % 01430 AVL---
+200423004 Pfaffenthal, Um Bock  00814  00814                % 01430 AVL---
+200405005 Centre, Badanstalt    00816  00816                % 01430 AVL---
+200405020 Hamilius              00819  00819                % 01430 AVL---
+200405023 Centre, Martyrs       00820  00820                % 01430 AVL---
+200405026 Luxembourg/Centre, P  00822  00822                % 01430 AVL---
+200405035 Luxembourg, Gare Cen  00824                       % 01430 AVL---
+*Z 01431 AVL---       051 015                               % 01431 AVL---
+*L 14       200406019 200405035  00644  00711               % 01431 AVL---
+*A BE 200406019 200405035 000015  00644  00711              % 01431 AVL---
+*R 2 200405035 200406019 200405035  00644  00711            % 01431 AVL---
+*G AVS 200406019 200405035  00644  00711                    % 01431 AVL---
+*A VE 200406019 200405035 000015  00644  00711              % 01431 AVL---
+200406019 Cents, Waassertuerm          00644                % 01431 AVL---
+200406003 Cents, Camille Polfe  00645  00645                % 01431 AVL---
+200406014 Cents, Paul Albrecht  00646  00646                % 01431 AVL---
+200406004 Cents, Carmel         00648  00648                % 01431 AVL---
+200406018 Cents, Trèves         00648  00648                % 01431 AVL---
+200406016 Cents, Robert Bruch   00649  00649                % 01431 AVL---
+200406008 Cents, Gabriel de Ma  00650  00650                % 01431 AVL---
+200406005 Cents, Charles de To  00651  00651                % 01431 AVL---
+200406002 Cents, Arthur Knaff   00651  00651                % 01431 AVL---
+200406010 Cents, Jules Salenti  00652  00652                % 01431 AVL---
+200406012 Cents, Kierch         00653  00653                % 01431 AVL---
+200406017 Cents, Tawioun        00654  00654                % 01431 AVL---
+200406007 Cents, Fort Dumoulin  00655  00655                % 01431 AVL---
+200406011 Cents, Kéibierg-I.N.  00656  00656                % 01431 AVL---
+200408006 Clausen, Rumm         00657  00657                % 01431 AVL---
+200408008 Clausen, Tour Jacob   00657  00657                % 01431 AVL---
+200408001 Clausen, Clausener B  00658  00658                % 01431 AVL---
+200408005 Clausen, Plateau Alt  00659  00659                % 01431 AVL---
+200423004 Pfaffenthal, Um Bock  00700  00700                % 01431 AVL---
+200405005 Centre, Badanstalt    00702  00702                % 01431 AVL---
+200405020 Hamilius              00706  00706                % 01431 AVL---
+200405023 Centre, Martyrs       00707  00707                % 01431 AVL---
+200405026 Luxembourg/Centre, P  00709  00709                % 01431 AVL---
+200405035 Luxembourg, Gare Cen  00711                       % 01431 AVL---
+*Z 01432 AVL---                                             % 01432 AVL---
+*L 14       200405035 200406019  02004  02027               % 01432 AVL---
+*A BE 200405035 200406019 000023  02004  02027              % 01432 AVL---
+*R 1 200406019 200405035 200406019  02004  02027            % 01432 AVL---
+*G AVS 200405035 200406019  02004  02027                    % 01432 AVL---
+*A VE 200405035 200406019 000023  02004  02027              % 01432 AVL---
+200405035 Luxembourg, Gare Cen         02004                % 01432 AVL---
+200405026 Luxembourg/Centre, P  02006  02006                % 01432 AVL---
+200405023 Centre, Martyrs       02007  02007                % 01432 AVL---
+200405020 Hamilius              02010  02010                % 01432 AVL---
+200405005 Centre, Badanstalt    02012  02012                % 01432 AVL---
+200423004 Pfaffenthal, Um Bock  02014  02014                % 01432 AVL---
+200408005 Clausen, Plateau Alt  02014  02014                % 01432 AVL---
+200408001 Clausen, Clausener B  02015  02015                % 01432 AVL---
+200408008 Clausen, Tour Jacob   02016  02016                % 01432 AVL---
+200408006 Clausen, Rumm         02017  02017                % 01432 AVL---
+200406006 Cents, Dinselpuert    02017  02017                % 01432 AVL---
+200406011 Cents, Kéibierg-I.N.  02018  02018                % 01432 AVL---
+200406007 Cents, Fort Dumoulin  02019  02019                % 01432 AVL---
+200406017 Cents, Tawioun        02019  02019                % 01432 AVL---
+200406012 Cents, Kierch         02020  02020                % 01432 AVL---
+200406010 Cents, Jules Salenti  02021  02021                % 01432 AVL---
+200406002 Cents, Arthur Knaff   02021  02021                % 01432 AVL---
+200406005 Cents, Charles de To  02022  02022                % 01432 AVL---
+200406008 Cents, Gabriel de Ma  02023  02023                % 01432 AVL---
+200406018 Cents, Trèves         02024  02024                % 01432 AVL---
+200406004 Cents, Carmel         02024  02024                % 01432 AVL---
+200406014 Cents, Paul Albrecht  02025  02025                % 01432 AVL---
+200406003 Cents, Camille Polfe  02026  02026                % 01432 AVL---
+200406019 Cents, Waassertuerm   02027                       % 01432 AVL---
+*Z 01433 AVL---                                             % 01433 AVL---
+*L 14       200405035 200406019  01100  01123               % 01433 AVL---
+*A BE 200405035 200406019 000018  01100  01123              % 01433 AVL---
+*R 1 200406019 200405035 200406019  01100  01123            % 01433 AVL---
+*G AVS 200405035 200406019  01100  01123                    % 01433 AVL---
+*A VE 200405035 200406019 000018  01100  01123              % 01433 AVL---
+200405035 Luxembourg, Gare Cen         01100                % 01433 AVL---
+200405026 Luxembourg/Centre, P  01102  01102                % 01433 AVL---
+200405023 Centre, Martyrs       01103  01103                % 01433 AVL---
+200405020 Hamilius              01106  01106                % 01433 AVL---
+200405005 Centre, Badanstalt    01108  01108                % 01433 AVL---
+200423004 Pfaffenthal, Um Bock  01110  01110                % 01433 AVL---
+200408005 Clausen, Plateau Alt  01110  01110                % 01433 AVL---
+200408001 Clausen, Clausener B  01111  01111                % 01433 AVL---
+200408008 Clausen, Tour Jacob   01112  01112                % 01433 AVL---
+200408006 Clausen, Rumm         01113  01113                % 01433 AVL---
+200406006 Cents, Dinselpuert    01113  01113                % 01433 AVL---
+200406011 Cents, Kéibierg-I.N.  01114  01114                % 01433 AVL---
+200406007 Cents, Fort Dumoulin  01115  01115                % 01433 AVL---
+200406017 Cents, Tawioun        01115  01115                % 01433 AVL---
+200406012 Cents, Kierch         01116  01116                % 01433 AVL---
+200406010 Cents, Jules Salenti  01117  01117                % 01433 AVL---
+200406002 Cents, Arthur Knaff   01117  01117                % 01433 AVL---
+200406005 Cents, Charles de To  01118  01118                % 01433 AVL---
+200406008 Cents, Gabriel de Ma  01119  01119                % 01433 AVL---
+200406018 Cents, Trèves         01120  01120                % 01433 AVL---
+200406004 Cents, Carmel         01120  01120                % 01433 AVL---
+200406014 Cents, Paul Albrecht  01121  01121                % 01433 AVL---
+200406003 Cents, Camille Polfe  01122  01122                % 01433 AVL---
+200406019 Cents, Waassertuerm   01123                       % 01433 AVL---
+*Z 01434 AVL---       016 030                               % 01434 AVL---
+*L 14       200405035 200406019  01130  01154               % 01434 AVL---
+*A BE 200405035 200406019 000018  01130  01154              % 01434 AVL---
+*R 1 200406019 200405035 200406019  01130  01154            % 01434 AVL---
+*G AVS 200405035 200406019  01130  01154                    % 01434 AVL---
+*A VE 200405035 200406019 000018  01130  01154              % 01434 AVL---
+200405035 Luxembourg, Gare Cen         01130                % 01434 AVL---
+200405026 Luxembourg/Centre, P  01132  01132                % 01434 AVL---
+200405023 Centre, Martyrs       01133  01133                % 01434 AVL---
+200405020 Hamilius              01136  01136                % 01434 AVL---
+200405005 Centre, Badanstalt    01138  01138                % 01434 AVL---
+200423004 Pfaffenthal, Um Bock  01140  01140                % 01434 AVL---
+200408005 Clausen, Plateau Alt  01141  01141                % 01434 AVL---
+200408001 Clausen, Clausener B  01142  01142                % 01434 AVL---
+200408008 Clausen, Tour Jacob   01142  01142                % 01434 AVL---
+200408006 Clausen, Rumm         01143  01143                % 01434 AVL---
+200406006 Cents, Dinselpuert    01144  01144                % 01434 AVL---
+200406011 Cents, Kéibierg-I.N.  01144  01144                % 01434 AVL---
+200406007 Cents, Fort Dumoulin  01145  01145                % 01434 AVL---
+200406017 Cents, Tawioun        01146  01146                % 01434 AVL---
+200406012 Cents, Kierch         01147  01147                % 01434 AVL---
+200406010 Cents, Jules Salenti  01147  01147                % 01434 AVL---
+200406002 Cents, Arthur Knaff   01148  01148                % 01434 AVL---
+200406005 Cents, Charles de To  01148  01148                % 01434 AVL---
+200406008 Cents, Gabriel de Ma  01149  01149                % 01434 AVL---
+200406018 Cents, Trèves         01150  01150                % 01434 AVL---
+200406004 Cents, Carmel         01151  01151                % 01434 AVL---
+200406014 Cents, Paul Albrecht  01152  01152                % 01434 AVL---
+200406003 Cents, Camille Polfe  01152  01152                % 01434 AVL---
+200406019 Cents, Waassertuerm   01154                       % 01434 AVL---
+*Z 01435 AVL---       006 030                               % 01435 AVL---
+*L 14       200405035 200406019  02030  02053               % 01435 AVL---
+*A BE 200405035 200406019 000011  02030  02053              % 01435 AVL---
+*R 1 200406019 200405035 200406019  02030  02053            % 01435 AVL---
+*G AVS 200405035 200406019  02030  02053                    % 01435 AVL---
+*A VE 200405035 200406019 000011  02030  02053              % 01435 AVL---
+200405035 Luxembourg, Gare Cen         02030                % 01435 AVL---
+200405026 Luxembourg/Centre, P  02032  02032                % 01435 AVL---
+200405023 Centre, Martyrs       02033  02033                % 01435 AVL---
+200405020 Hamilius              02036  02036                % 01435 AVL---
+200405005 Centre, Badanstalt    02038  02038                % 01435 AVL---
+200423004 Pfaffenthal, Um Bock  02040  02040                % 01435 AVL---
+200408005 Clausen, Plateau Alt  02040  02040                % 01435 AVL---
+200408001 Clausen, Clausener B  02041  02041                % 01435 AVL---
+200408008 Clausen, Tour Jacob   02042  02042                % 01435 AVL---
+200408006 Clausen, Rumm         02043  02043                % 01435 AVL---
+200406006 Cents, Dinselpuert    02043  02043                % 01435 AVL---
+200406011 Cents, Kéibierg-I.N.  02044  02044                % 01435 AVL---
+200406007 Cents, Fort Dumoulin  02045  02045                % 01435 AVL---
+200406017 Cents, Tawioun        02045  02045                % 01435 AVL---
+200406012 Cents, Kierch         02046  02046                % 01435 AVL---
+200406010 Cents, Jules Salenti  02047  02047                % 01435 AVL---
+200406002 Cents, Arthur Knaff   02047  02047                % 01435 AVL---
+200406005 Cents, Charles de To  02048  02048                % 01435 AVL---
+200406008 Cents, Gabriel de Ma  02049  02049                % 01435 AVL---
+200406018 Cents, Trèves         02050  02050                % 01435 AVL---
+200406004 Cents, Carmel         02050  02050                % 01435 AVL---
+200406014 Cents, Paul Albrecht  02051  02051                % 01435 AVL---
+200406003 Cents, Camille Polfe  02052  02052                % 01435 AVL---
+200406019 Cents, Waassertuerm   02053                       % 01435 AVL---
+*Z 01436 AVL---       001 030                               % 01436 AVL---
+*L 14       200405035 200406019  00535  00558               % 01436 AVL---
+*A BE 200405035 200406019 000014  00535  00558              % 01436 AVL---
+*R 1 200406019 200405035 200406019  00535  00558            % 01436 AVL---
+*G AVS 200405035 200406019  00535  00558                    % 01436 AVL---
+*A VE 200405035 200406019 000014  00535  00558              % 01436 AVL---
+200405035 Luxembourg, Gare Cen         00535                % 01436 AVL---
+200405026 Luxembourg/Centre, P  00537  00537                % 01436 AVL---
+200405023 Centre, Martyrs       00538  00538                % 01436 AVL---
+200405020 Hamilius              00541  00541                % 01436 AVL---
+200405005 Centre, Badanstalt    00543  00543                % 01436 AVL---
+200423004 Pfaffenthal, Um Bock  00545  00545                % 01436 AVL---
+200408005 Clausen, Plateau Alt  00545  00545                % 01436 AVL---
+200408001 Clausen, Clausener B  00546  00546                % 01436 AVL---
+200408008 Clausen, Tour Jacob   00547  00547                % 01436 AVL---
+200408006 Clausen, Rumm         00548  00548                % 01436 AVL---
+200406006 Cents, Dinselpuert    00548  00548                % 01436 AVL---
+200406011 Cents, Kéibierg-I.N.  00549  00549                % 01436 AVL---
+200406007 Cents, Fort Dumoulin  00550  00550                % 01436 AVL---
+200406017 Cents, Tawioun        00550  00550                % 01436 AVL---
+200406012 Cents, Kierch         00551  00551                % 01436 AVL---
+200406010 Cents, Jules Salenti  00552  00552                % 01436 AVL---
+200406002 Cents, Arthur Knaff   00552  00552                % 01436 AVL---
+200406005 Cents, Charles de To  00553  00553                % 01436 AVL---
+200406008 Cents, Gabriel de Ma  00554  00554                % 01436 AVL---
+200406018 Cents, Trèves         00555  00555                % 01436 AVL---
+200406004 Cents, Carmel         00555  00555                % 01436 AVL---
+200406014 Cents, Paul Albrecht  00556  00556                % 01436 AVL---
+200406003 Cents, Camille Polfe  00557  00557                % 01436 AVL---
+200406019 Cents, Waassertuerm   00558                       % 01436 AVL---
+*Z 01437 AVL---       002 015                               % 01437 AVL---
+*L 14       200405035 200406019  00620  00643               % 01437 AVL---
+*A BE 200405035 200406019 000014  00620  00643              % 01437 AVL---
+*R 1 200406019 200405035 200406019  00620  00643            % 01437 AVL---
+*G AVS 200405035 200406019  00620  00643                    % 01437 AVL---
+*A VE 200405035 200406019 000014  00620  00643              % 01437 AVL---
+200405035 Luxembourg, Gare Cen         00620                % 01437 AVL---
+200405026 Luxembourg/Centre, P  00622  00622                % 01437 AVL---
+200405023 Centre, Martyrs       00623  00623                % 01437 AVL---
+200405020 Hamilius              00626  00626                % 01437 AVL---
+200405005 Centre, Badanstalt    00628  00628                % 01437 AVL---
+200423004 Pfaffenthal, Um Bock  00630  00630                % 01437 AVL---
+200408005 Clausen, Plateau Alt  00630  00630                % 01437 AVL---
+200408001 Clausen, Clausener B  00631  00631                % 01437 AVL---
+200408008 Clausen, Tour Jacob   00632  00632                % 01437 AVL---
+200408006 Clausen, Rumm         00633  00633                % 01437 AVL---
+200406006 Cents, Dinselpuert    00633  00633                % 01437 AVL---
+200406011 Cents, Kéibierg-I.N.  00634  00634                % 01437 AVL---
+200406007 Cents, Fort Dumoulin  00635  00635                % 01437 AVL---
+200406017 Cents, Tawioun        00635  00635                % 01437 AVL---
+200406012 Cents, Kierch         00636  00636                % 01437 AVL---
+200406010 Cents, Jules Salenti  00637  00637                % 01437 AVL---
+200406002 Cents, Arthur Knaff   00637  00637                % 01437 AVL---
+200406005 Cents, Charles de To  00638  00638                % 01437 AVL---
+200406008 Cents, Gabriel de Ma  00639  00639                % 01437 AVL---
+200406018 Cents, Trèves         00640  00640                % 01437 AVL---
+200406004 Cents, Carmel         00640  00640                % 01437 AVL---
+200406014 Cents, Paul Albrecht  00641  00641                % 01437 AVL---
+200406003 Cents, Camille Polfe  00642  00642                % 01437 AVL---
+200406019 Cents, Waassertuerm   00643                       % 01437 AVL---
+*Z 01438 AVL---       001 015                               % 01438 AVL---
+*L 14       200405035 200406019  02004  02027               % 01438 AVL---
+*A BE 200405035 200406019 000014  02004  02027              % 01438 AVL---
+*R 1 200406019 200405035 200406019  02004  02027            % 01438 AVL---
+*G AVS 200405035 200406019  02004  02027                    % 01438 AVL---
+*A VE 200405035 200406019 000014  02004  02027              % 01438 AVL---
+200405035 Luxembourg, Gare Cen         02004                % 01438 AVL---
+200405026 Luxembourg/Centre, P  02006  02006                % 01438 AVL---
+200405023 Centre, Martyrs       02007  02007                % 01438 AVL---
+200405020 Hamilius              02010  02010                % 01438 AVL---
+200405005 Centre, Badanstalt    02012  02012                % 01438 AVL---
+200423004 Pfaffenthal, Um Bock  02014  02014                % 01438 AVL---
+200408005 Clausen, Plateau Alt  02014  02014                % 01438 AVL---
+200408001 Clausen, Clausener B  02015  02015                % 01438 AVL---
+200408008 Clausen, Tour Jacob   02016  02016                % 01438 AVL---
+200408006 Clausen, Rumm         02017  02017                % 01438 AVL---
+200406006 Cents, Dinselpuert    02017  02017                % 01438 AVL---
+200406011 Cents, Kéibierg-I.N.  02018  02018                % 01438 AVL---
+200406007 Cents, Fort Dumoulin  02019  02019                % 01438 AVL---
+200406017 Cents, Tawioun        02019  02019                % 01438 AVL---
+200406012 Cents, Kierch         02020  02020                % 01438 AVL---
+200406010 Cents, Jules Salenti  02021  02021                % 01438 AVL---
+200406002 Cents, Arthur Knaff   02021  02021                % 01438 AVL---
+200406005 Cents, Charles de To  02022  02022                % 01438 AVL---
+200406008 Cents, Gabriel de Ma  02023  02023                % 01438 AVL---
+200406018 Cents, Trèves         02024  02024                % 01438 AVL---
+200406004 Cents, Carmel         02024  02024                % 01438 AVL---
+200406014 Cents, Paul Albrecht  02025  02025                % 01438 AVL---
+200406003 Cents, Camille Polfe  02026  02026                % 01438 AVL---
+200406019 Cents, Waassertuerm   02027                       % 01438 AVL---
+*Z 01439 AVL---                                             % 01439 AVL---
+*L 14       200405035 200406019  02400  02423               % 01439 AVL---
+*A BE 200405035 200406019 000047  02400  02423              % 01439 AVL---
+*R 1 200406019 200405035 200406019  02400  02423            % 01439 AVL---
+*G AVS 200405035 200406019  02400  02423                    % 01439 AVL---
+*A VE 200405035 200406019 000047  02400  02423              % 01439 AVL---
+200405035 Luxembourg, Gare Cen         02400                % 01439 AVL---
+200405026 Luxembourg/Centre, P  02402  02402                % 01439 AVL---
+200405023 Centre, Martyrs       02403  02403                % 01439 AVL---
+200405020 Hamilius              02406  02406                % 01439 AVL---
+200405005 Centre, Badanstalt    02408  02408                % 01439 AVL---
+200423004 Pfaffenthal, Um Bock  02410  02410                % 01439 AVL---
+200408005 Clausen, Plateau Alt  02410  02410                % 01439 AVL---
+200408001 Clausen, Clausener B  02411  02411                % 01439 AVL---
+200408008 Clausen, Tour Jacob   02412  02412                % 01439 AVL---
+200408006 Clausen, Rumm         02413  02413                % 01439 AVL---
+200406006 Cents, Dinselpuert    02413  02413                % 01439 AVL---
+200406011 Cents, Kéibierg-I.N.  02414  02414                % 01439 AVL---
+200406007 Cents, Fort Dumoulin  02415  02415                % 01439 AVL---
+200406017 Cents, Tawioun        02415  02415                % 01439 AVL---
+200406012 Cents, Kierch         02416  02416                % 01439 AVL---
+200406010 Cents, Jules Salenti  02417  02417                % 01439 AVL---
+200406002 Cents, Arthur Knaff   02417  02417                % 01439 AVL---
+200406005 Cents, Charles de To  02418  02418                % 01439 AVL---
+200406008 Cents, Gabriel de Ma  02419  02419                % 01439 AVL---
+200406018 Cents, Trèves         02420  02420                % 01439 AVL---
+200406004 Cents, Carmel         02420  02420                % 01439 AVL---
+200406014 Cents, Paul Albrecht  02421  02421                % 01439 AVL---
+200406003 Cents, Camille Polfe  02422  02422                % 01439 AVL---
+200406019 Cents, Waassertuerm   02423                       % 01439 AVL---
+*Z 01440 AVL---       005 030                               % 01440 AVL---
+*L 14       200405035 200406019  00800  00823               % 01440 AVL---
+*A BE 200405035 200406019 000018  00800  00823              % 01440 AVL---
+*R 1 200406019 200405035 200406019  00800  00823            % 01440 AVL---
+*G AVS 200405035 200406019  00800  00823                    % 01440 AVL---
+*A VE 200405035 200406019 000018  00800  00823              % 01440 AVL---
+200405035 Luxembourg, Gare Cen         00800                % 01440 AVL---
+200405026 Luxembourg/Centre, P  00802  00802                % 01440 AVL---
+200405023 Centre, Martyrs       00803  00803                % 01440 AVL---
+200405020 Hamilius              00806  00806                % 01440 AVL---
+200405005 Centre, Badanstalt    00808  00808                % 01440 AVL---
+200423004 Pfaffenthal, Um Bock  00810  00810                % 01440 AVL---
+200408005 Clausen, Plateau Alt  00810  00810                % 01440 AVL---
+200408001 Clausen, Clausener B  00811  00811                % 01440 AVL---
+200408008 Clausen, Tour Jacob   00812  00812                % 01440 AVL---
+200408006 Clausen, Rumm         00813  00813                % 01440 AVL---
+200406006 Cents, Dinselpuert    00813  00813                % 01440 AVL---
+200406011 Cents, Kéibierg-I.N.  00814  00814                % 01440 AVL---
+200406007 Cents, Fort Dumoulin  00815  00815                % 01440 AVL---
+200406017 Cents, Tawioun        00815  00815                % 01440 AVL---
+200406012 Cents, Kierch         00816  00816                % 01440 AVL---
+200406010 Cents, Jules Salenti  00817  00817                % 01440 AVL---
+200406002 Cents, Arthur Knaff   00817  00817                % 01440 AVL---
+200406005 Cents, Charles de To  00818  00818                % 01440 AVL---
+200406008 Cents, Gabriel de Ma  00819  00819                % 01440 AVL---
+200406018 Cents, Trèves         00820  00820                % 01440 AVL---
+200406004 Cents, Carmel         00820  00820                % 01440 AVL---
+200406014 Cents, Paul Albrecht  00821  00821                % 01440 AVL---
+200406003 Cents, Camille Polfe  00822  00822                % 01440 AVL---
+200406019 Cents, Waassertuerm   00823                       % 01440 AVL---
+*Z 01441 AVL---                                             % 01441 AVL---
+*L 14       200405035 200406019  02000  02023               % 01441 AVL---
+*A BE 200405035 200406019 000018  02000  02023              % 01441 AVL---
+*R 1 200406019 200405035 200406019  02000  02023            % 01441 AVL---
+*G AVS 200405035 200406019  02000  02023                    % 01441 AVL---
+*A VE 200405035 200406019 000018  02000  02023              % 01441 AVL---
+200405035 Luxembourg, Gare Cen         02000                % 01441 AVL---
+200405026 Luxembourg/Centre, P  02002  02002                % 01441 AVL---
+200405023 Centre, Martyrs       02003  02003                % 01441 AVL---
+200405020 Hamilius              02006  02006                % 01441 AVL---
+200405005 Centre, Badanstalt    02008  02008                % 01441 AVL---
+200423004 Pfaffenthal, Um Bock  02010  02010                % 01441 AVL---
+200408005 Clausen, Plateau Alt  02010  02010                % 01441 AVL---
+200408001 Clausen, Clausener B  02011  02011                % 01441 AVL---
+200408008 Clausen, Tour Jacob   02012  02012                % 01441 AVL---
+200408006 Clausen, Rumm         02013  02013                % 01441 AVL---
+200406006 Cents, Dinselpuert    02013  02013                % 01441 AVL---
+200406011 Cents, Kéibierg-I.N.  02014  02014                % 01441 AVL---
+200406007 Cents, Fort Dumoulin  02015  02015                % 01441 AVL---
+200406017 Cents, Tawioun        02015  02015                % 01441 AVL---
+200406012 Cents, Kierch         02016  02016                % 01441 AVL---
+200406010 Cents, Jules Salenti  02017  02017                % 01441 AVL---
+200406002 Cents, Arthur Knaff   02017  02017                % 01441 AVL---
+200406005 Cents, Charles de To  02018  02018                % 01441 AVL---
+200406008 Cents, Gabriel de Ma  02019  02019                % 01441 AVL---
+200406018 Cents, Trèves         02020  02020                % 01441 AVL---
+200406004 Cents, Carmel         02020  02020                % 01441 AVL---
+200406014 Cents, Paul Albrecht  02021  02021                % 01441 AVL---
+200406003 Cents, Camille Polfe  02022  02022                % 01441 AVL---
+200406019 Cents, Waassertuerm   02023                       % 01441 AVL---
+*Z 01442 AVL---       004 030                               % 01442 AVL---
+*L 14       200405035 200406019  00530  00553               % 01442 AVL---
+*A BE 200405035 200406019 000020  00530  00553              % 01442 AVL---
+*R 1 200406019 200405035 200406019  00530  00553            % 01442 AVL---
+*G AVS 200405035 200406019  00530  00553                    % 01442 AVL---
+*A VE 200405035 200406019 000020  00530  00553              % 01442 AVL---
+200405035 Luxembourg, Gare Cen         00530                % 01442 AVL---
+200405026 Luxembourg/Centre, P  00532  00532                % 01442 AVL---
+200405023 Centre, Martyrs       00533  00533                % 01442 AVL---
+200405020 Hamilius              00536  00536                % 01442 AVL---
+200405005 Centre, Badanstalt    00538  00538                % 01442 AVL---
+200423004 Pfaffenthal, Um Bock  00540  00540                % 01442 AVL---
+200408005 Clausen, Plateau Alt  00540  00540                % 01442 AVL---
+200408001 Clausen, Clausener B  00541  00541                % 01442 AVL---
+200408008 Clausen, Tour Jacob   00542  00542                % 01442 AVL---
+200408006 Clausen, Rumm         00543  00543                % 01442 AVL---
+200406006 Cents, Dinselpuert    00543  00543                % 01442 AVL---
+200406011 Cents, Kéibierg-I.N.  00544  00544                % 01442 AVL---
+200406007 Cents, Fort Dumoulin  00545  00545                % 01442 AVL---
+200406017 Cents, Tawioun        00545  00545                % 01442 AVL---
+200406012 Cents, Kierch         00546  00546                % 01442 AVL---
+200406010 Cents, Jules Salenti  00547  00547                % 01442 AVL---
+200406002 Cents, Arthur Knaff   00547  00547                % 01442 AVL---
+200406005 Cents, Charles de To  00548  00548                % 01442 AVL---
+200406008 Cents, Gabriel de Ma  00549  00549                % 01442 AVL---
+200406018 Cents, Trèves         00550  00550                % 01442 AVL---
+200406004 Cents, Carmel         00550  00550                % 01442 AVL---
+200406014 Cents, Paul Albrecht  00551  00551                % 01442 AVL---
+200406003 Cents, Camille Polfe  00552  00552                % 01442 AVL---
+200406019 Cents, Waassertuerm   00553                       % 01442 AVL---
+*Z 01443 AVL---       051 015                               % 01443 AVL---
+*L 14       200405035 200406019  00703  00730               % 01443 AVL---
+*A BE 200405035 200406019 000014  00703  00730              % 01443 AVL---
+*R 1 200406019 200405035 200406019  00703  00730            % 01443 AVL---
+*G AVS 200405035 200406019  00703  00730                    % 01443 AVL---
+*A VE 200405035 200406019 000014  00703  00730              % 01443 AVL---
+200405035 Luxembourg, Gare Cen         00703                % 01443 AVL---
+200405026 Luxembourg/Centre, P  00706  00706                % 01443 AVL---
+200405023 Centre, Martyrs       00707  00707                % 01443 AVL---
+200405020 Hamilius              00710  00710                % 01443 AVL---
+200405005 Centre, Badanstalt    00713  00713                % 01443 AVL---
+200423004 Pfaffenthal, Um Bock  00714  00714                % 01443 AVL---
+200408005 Clausen, Plateau Alt  00715  00715                % 01443 AVL---
+200408001 Clausen, Clausener B  00716  00716                % 01443 AVL---
+200408008 Clausen, Tour Jacob   00717  00717                % 01443 AVL---
+200408006 Clausen, Rumm         00718  00718                % 01443 AVL---
+200406006 Cents, Dinselpuert    00718  00718                % 01443 AVL---
+200406011 Cents, Kéibierg-I.N.  00719  00719                % 01443 AVL---
+200406007 Cents, Fort Dumoulin  00719  00719                % 01443 AVL---
+200406017 Cents, Tawioun        00720  00720                % 01443 AVL---
+200406012 Cents, Kierch         00722  00722                % 01443 AVL---
+200406010 Cents, Jules Salenti  00722  00722                % 01443 AVL---
+200406002 Cents, Arthur Knaff   00723  00723                % 01443 AVL---
+200406005 Cents, Charles de To  00724  00724                % 01443 AVL---
+200406008 Cents, Gabriel de Ma  00725  00725                % 01443 AVL---
+200406018 Cents, Trèves         00726  00726                % 01443 AVL---
+200406004 Cents, Carmel         00726  00726                % 01443 AVL---
+200406014 Cents, Paul Albrecht  00728  00728                % 01443 AVL---
+200406003 Cents, Camille Polfe  00728  00728                % 01443 AVL---
+200406019 Cents, Waassertuerm   00730                       % 01443 AVL---
+*Z 01444 AVL---       048 015                               % 01444 AVL---
+*L 14       200405035 200406019  00749  00813               % 01444 AVL---
+*A BE 200405035 200406019 000023  00749  00813              % 01444 AVL---
+*R 1 200406019 200405035 200406019  00749  00813            % 01444 AVL---
+*G AVS 200405035 200406019  00749  00813                    % 01444 AVL---
+*A VE 200405035 200406019 000023  00749  00813              % 01444 AVL---
+200405035 Luxembourg, Gare Cen         00749                % 01444 AVL---
+200405026 Luxembourg/Centre, P  00751  00751                % 01444 AVL---
+200405023 Centre, Martyrs       00752  00752                % 01444 AVL---
+200405020 Hamilius              00755  00755                % 01444 AVL---
+200405005 Centre, Badanstalt    00757  00757                % 01444 AVL---
+200423004 Pfaffenthal, Um Bock  00759  00759                % 01444 AVL---
+200408005 Clausen, Plateau Alt  00800  00800                % 01444 AVL---
+200408001 Clausen, Clausener B  00801  00801                % 01444 AVL---
+200408008 Clausen, Tour Jacob   00801  00801                % 01444 AVL---
+200408006 Clausen, Rumm         00802  00802                % 01444 AVL---
+200406006 Cents, Dinselpuert    00803  00803                % 01444 AVL---
+200406011 Cents, Kéibierg-I.N.  00803  00803                % 01444 AVL---
+200406007 Cents, Fort Dumoulin  00804  00804                % 01444 AVL---
+200406017 Cents, Tawioun        00805  00805                % 01444 AVL---
+200406012 Cents, Kierch         00806  00806                % 01444 AVL---
+200406010 Cents, Jules Salenti  00806  00806                % 01444 AVL---
+200406002 Cents, Arthur Knaff   00807  00807                % 01444 AVL---
+200406005 Cents, Charles de To  00807  00807                % 01444 AVL---
+200406008 Cents, Gabriel de Ma  00808  00808                % 01444 AVL---
+200406018 Cents, Trèves         00809  00809                % 01444 AVL---
+200406004 Cents, Carmel         00810  00810                % 01444 AVL---
+200406014 Cents, Paul Albrecht  00811  00811                % 01444 AVL---
+200406003 Cents, Camille Polfe  00811  00811                % 01444 AVL---
+200406019 Cents, Waassertuerm   00813                       % 01444 AVL---
+*Z 01445 AVL---                                             % 01445 AVL---
+*L 14       200406019 200405035  00512  00534               % 01445 AVL---
+*A BE 200406019 200405035 000023  00512  00534              % 01445 AVL---
+*R 2 200405035 200406019 200405035  00512  00534            % 01445 AVL---
+*G AVS 200406019 200405035  00512  00534                    % 01445 AVL---
+*A VE 200406019 200405035 000023  00512  00534              % 01445 AVL---
+200406019 Cents, Waassertuerm          00512                % 01445 AVL---
+200406003 Cents, Camille Polfe  00513  00513                % 01445 AVL---
+200406014 Cents, Paul Albrecht  00514  00514                % 01445 AVL---
+200406004 Cents, Carmel         00515  00515                % 01445 AVL---
+200406018 Cents, Trèves         00515  00515                % 01445 AVL---
+200406016 Cents, Robert Bruch   00516  00516                % 01445 AVL---
+200406008 Cents, Gabriel de Ma  00516  00516                % 01445 AVL---
+200406005 Cents, Charles de To  00517  00517                % 01445 AVL---
+200406002 Cents, Arthur Knaff   00518  00518                % 01445 AVL---
+200406010 Cents, Jules Salenti  00518  00518                % 01445 AVL---
+200406012 Cents, Kierch         00518  00518                % 01445 AVL---
+200406017 Cents, Tawioun        00519  00519                % 01445 AVL---
+200406007 Cents, Fort Dumoulin  00520  00520                % 01445 AVL---
+200406011 Cents, Kéibierg-I.N.  00521  00521                % 01445 AVL---
+200408006 Clausen, Rumm         00522  00522                % 01445 AVL---
+200408008 Clausen, Tour Jacob   00522  00522                % 01445 AVL---
+200408001 Clausen, Clausener B  00523  00523                % 01445 AVL---
+200408005 Clausen, Plateau Alt  00524  00524                % 01445 AVL---
+200423004 Pfaffenthal, Um Bock  00525  00525                % 01445 AVL---
+200405005 Centre, Badanstalt    00527  00527                % 01445 AVL---
+200405020 Hamilius              00530  00530                % 01445 AVL---
+200405023 Centre, Martyrs       00531  00531                % 01445 AVL---
+200405026 Luxembourg/Centre, P  00532  00532                % 01445 AVL---
+200405035 Luxembourg, Gare Cen  00534                       % 01445 AVL---
+*Z 01446 AVL---       007 030                               % 01446 AVL---
+*L 14       200406019 200405035  02012  02034               % 01446 AVL---
+*A BE 200406019 200405035 000011  02012  02034              % 01446 AVL---
+*R 2 200405035 200406019 200405035  02012  02034            % 01446 AVL---
+*G AVS 200406019 200405035  02012  02034                    % 01446 AVL---
+*A VE 200406019 200405035 000011  02012  02034              % 01446 AVL---
+200406019 Cents, Waassertuerm          02012                % 01446 AVL---
+200406003 Cents, Camille Polfe  02013  02013                % 01446 AVL---
+200406014 Cents, Paul Albrecht  02014  02014                % 01446 AVL---
+200406004 Cents, Carmel         02015  02015                % 01446 AVL---
+200406018 Cents, Trèves         02015  02015                % 01446 AVL---
+200406016 Cents, Robert Bruch   02016  02016                % 01446 AVL---
+200406008 Cents, Gabriel de Ma  02016  02016                % 01446 AVL---
+200406005 Cents, Charles de To  02017  02017                % 01446 AVL---
+200406002 Cents, Arthur Knaff   02018  02018                % 01446 AVL---
+200406010 Cents, Jules Salenti  02018  02018                % 01446 AVL---
+200406012 Cents, Kierch         02018  02018                % 01446 AVL---
+200406017 Cents, Tawioun        02019  02019                % 01446 AVL---
+200406007 Cents, Fort Dumoulin  02020  02020                % 01446 AVL---
+200406011 Cents, Kéibierg-I.N.  02021  02021                % 01446 AVL---
+200408006 Clausen, Rumm         02022  02022                % 01446 AVL---
+200408008 Clausen, Tour Jacob   02022  02022                % 01446 AVL---
+200408001 Clausen, Clausener B  02023  02023                % 01446 AVL---
+200408005 Clausen, Plateau Alt  02024  02024                % 01446 AVL---
+200423004 Pfaffenthal, Um Bock  02025  02025                % 01446 AVL---
+200405005 Centre, Badanstalt    02027  02027                % 01446 AVL---
+200405020 Hamilius              02030  02030                % 01446 AVL---
+200405023 Centre, Martyrs       02031  02031                % 01446 AVL---
+200405026 Luxembourg/Centre, P  02032  02032                % 01446 AVL---
+200405035 Luxembourg, Gare Cen  02034                       % 01446 AVL---
+*Z 01447 AVL---       001 030                               % 01447 AVL---
+*L 14       200406019 200405035  00508  00530               % 01447 AVL---
+*A BE 200406019 200405035 000014  00508  00530              % 01447 AVL---
+*R 2 200405035 200406019 200405035  00508  00530            % 01447 AVL---
+*G AVS 200406019 200405035  00508  00530                    % 01447 AVL---
+*A VE 200406019 200405035 000014  00508  00530              % 01447 AVL---
+200406019 Cents, Waassertuerm          00508                % 01447 AVL---
+200406003 Cents, Camille Polfe  00509  00509                % 01447 AVL---
+200406014 Cents, Paul Albrecht  00510  00510                % 01447 AVL---
+200406004 Cents, Carmel         00511  00511                % 01447 AVL---
+200406018 Cents, Trèves         00511  00511                % 01447 AVL---
+200406016 Cents, Robert Bruch   00512  00512                % 01447 AVL---
+200406008 Cents, Gabriel de Ma  00512  00512                % 01447 AVL---
+200406005 Cents, Charles de To  00513  00513                % 01447 AVL---
+200406002 Cents, Arthur Knaff   00514  00514                % 01447 AVL---
+200406010 Cents, Jules Salenti  00514  00514                % 01447 AVL---
+200406012 Cents, Kierch         00514  00514                % 01447 AVL---
+200406017 Cents, Tawioun        00515  00515                % 01447 AVL---
+200406007 Cents, Fort Dumoulin  00516  00516                % 01447 AVL---
+200406011 Cents, Kéibierg-I.N.  00517  00517                % 01447 AVL---
+200408006 Clausen, Rumm         00518  00518                % 01447 AVL---
+200408008 Clausen, Tour Jacob   00518  00518                % 01447 AVL---
+200408001 Clausen, Clausener B  00519  00519                % 01447 AVL---
+200408005 Clausen, Plateau Alt  00520  00520                % 01447 AVL---
+200423004 Pfaffenthal, Um Bock  00521  00521                % 01447 AVL---
+200405005 Centre, Badanstalt    00523  00523                % 01447 AVL---
+200405020 Hamilius              00526  00526                % 01447 AVL---
+200405023 Centre, Martyrs       00527  00527                % 01447 AVL---
+200405026 Luxembourg/Centre, P  00528  00528                % 01447 AVL---
+200405035 Luxembourg, Gare Cen  00530                       % 01447 AVL---
+*Z 01448 AVL---       002 015                               % 01448 AVL---
+*L 14       200406019 200405035  00603  00625               % 01448 AVL---
+*A BE 200406019 200405035 000014  00603  00625              % 01448 AVL---
+*R 2 200405035 200406019 200405035  00603  00625            % 01448 AVL---
+*G AVS 200406019 200405035  00603  00625                    % 01448 AVL---
+*A VE 200406019 200405035 000014  00603  00625              % 01448 AVL---
+200406019 Cents, Waassertuerm          00603                % 01448 AVL---
+200406003 Cents, Camille Polfe  00604  00604                % 01448 AVL---
+200406014 Cents, Paul Albrecht  00605  00605                % 01448 AVL---
+200406004 Cents, Carmel         00606  00606                % 01448 AVL---
+200406018 Cents, Trèves         00606  00606                % 01448 AVL---
+200406016 Cents, Robert Bruch   00607  00607                % 01448 AVL---
+200406008 Cents, Gabriel de Ma  00607  00607                % 01448 AVL---
+200406005 Cents, Charles de To  00608  00608                % 01448 AVL---
+200406002 Cents, Arthur Knaff   00609  00609                % 01448 AVL---
+200406010 Cents, Jules Salenti  00609  00609                % 01448 AVL---
+200406012 Cents, Kierch         00609  00609                % 01448 AVL---
+200406017 Cents, Tawioun        00610  00610                % 01448 AVL---
+200406007 Cents, Fort Dumoulin  00611  00611                % 01448 AVL---
+200406011 Cents, Kéibierg-I.N.  00612  00612                % 01448 AVL---
+200408006 Clausen, Rumm         00613  00613                % 01448 AVL---
+200408008 Clausen, Tour Jacob   00613  00613                % 01448 AVL---
+200408001 Clausen, Clausener B  00614  00614                % 01448 AVL---
+200408005 Clausen, Plateau Alt  00615  00615                % 01448 AVL---
+200423004 Pfaffenthal, Um Bock  00616  00616                % 01448 AVL---
+200405005 Centre, Badanstalt    00618  00618                % 01448 AVL---
+200405020 Hamilius              00621  00621                % 01448 AVL---
+200405023 Centre, Martyrs       00622  00622                % 01448 AVL---
+200405026 Luxembourg/Centre, P  00623  00623                % 01448 AVL---
+200405035 Luxembourg, Gare Cen  00625                       % 01448 AVL---
+*Z 01449 AVL---                                             % 01449 AVL---
+*L 14       200406019 200405035  01951  02013               % 01449 AVL---
+*A BE 200406019 200405035 000047  01951  02013              % 01449 AVL---
+*R 2 200405035 200406019 200405035  01951  02013            % 01449 AVL---
+*G AVS 200406019 200405035  01951  02013                    % 01449 AVL---
+*A VE 200406019 200405035 000047  01951  02013              % 01449 AVL---
+200406019 Cents, Waassertuerm          01951                % 01449 AVL---
+200406003 Cents, Camille Polfe  01952  01952                % 01449 AVL---
+200406014 Cents, Paul Albrecht  01953  01953                % 01449 AVL---
+200406004 Cents, Carmel         01954  01954                % 01449 AVL---
+200406018 Cents, Trèves         01954  01954                % 01449 AVL---
+200406016 Cents, Robert Bruch   01955  01955                % 01449 AVL---
+200406008 Cents, Gabriel de Ma  01955  01955                % 01449 AVL---
+200406005 Cents, Charles de To  01956  01956                % 01449 AVL---
+200406002 Cents, Arthur Knaff   01957  01957                % 01449 AVL---
+200406010 Cents, Jules Salenti  01957  01957                % 01449 AVL---
+200406012 Cents, Kierch         01957  01957                % 01449 AVL---
+200406017 Cents, Tawioun        01958  01958                % 01449 AVL---
+200406007 Cents, Fort Dumoulin  01959  01959                % 01449 AVL---
+200406011 Cents, Kéibierg-I.N.  02000  02000                % 01449 AVL---
+200408006 Clausen, Rumm         02001  02001                % 01449 AVL---
+200408008 Clausen, Tour Jacob   02001  02001                % 01449 AVL---
+200408001 Clausen, Clausener B  02002  02002                % 01449 AVL---
+200408005 Clausen, Plateau Alt  02003  02003                % 01449 AVL---
+200423004 Pfaffenthal, Um Bock  02004  02004                % 01449 AVL---
+200405005 Centre, Badanstalt    02006  02006                % 01449 AVL---
+200405020 Hamilius              02009  02009                % 01449 AVL---
+200405023 Centre, Martyrs       02010  02010                % 01449 AVL---
+200405026 Luxembourg/Centre, P  02011  02011                % 01449 AVL---
+200405035 Luxembourg, Gare Cen  02013                       % 01449 AVL---
+*Z 01450 AVL---       006 030                               % 01450 AVL---
+*L 14       200406019 200405035  00812  00834               % 01450 AVL---
+*A BE 200406019 200405035 000018  00812  00834              % 01450 AVL---
+*R 2 200405035 200406019 200405035  00812  00834            % 01450 AVL---
+*G AVS 200406019 200405035  00812  00834                    % 01450 AVL---
+*A VE 200406019 200405035 000018  00812  00834              % 01450 AVL---
+200406019 Cents, Waassertuerm          00812                % 01450 AVL---
+200406003 Cents, Camille Polfe  00813  00813                % 01450 AVL---
+200406014 Cents, Paul Albrecht  00814  00814                % 01450 AVL---
+200406004 Cents, Carmel         00815  00815                % 01450 AVL---
+200406018 Cents, Trèves         00815  00815                % 01450 AVL---
+200406016 Cents, Robert Bruch   00816  00816                % 01450 AVL---
+200406008 Cents, Gabriel de Ma  00816  00816                % 01450 AVL---
+200406005 Cents, Charles de To  00817  00817                % 01450 AVL---
+200406002 Cents, Arthur Knaff   00818  00818                % 01450 AVL---
+200406010 Cents, Jules Salenti  00818  00818                % 01450 AVL---
+200406012 Cents, Kierch         00818  00818                % 01450 AVL---
+200406017 Cents, Tawioun        00819  00819                % 01450 AVL---
+200406007 Cents, Fort Dumoulin  00820  00820                % 01450 AVL---
+200406011 Cents, Kéibierg-I.N.  00821  00821                % 01450 AVL---
+200408006 Clausen, Rumm         00822  00822                % 01450 AVL---
+200408008 Clausen, Tour Jacob   00822  00822                % 01450 AVL---
+200408001 Clausen, Clausener B  00823  00823                % 01450 AVL---
+200408005 Clausen, Plateau Alt  00824  00824                % 01450 AVL---
+200423004 Pfaffenthal, Um Bock  00825  00825                % 01450 AVL---
+200405005 Centre, Badanstalt    00827  00827                % 01450 AVL---
+200405020 Hamilius              00830  00830                % 01450 AVL---
+200405023 Centre, Martyrs       00831  00831                % 01450 AVL---
+200405026 Luxembourg/Centre, P  00832  00832                % 01450 AVL---
+200405035 Luxembourg, Gare Cen  00834                       % 01450 AVL---
+*Z 01451 AVL---                                             % 01451 AVL---
+*L 14       200406019 200405035  00742  00804               % 01451 AVL---
+*A BE 200406019 200405035 000020  00742  00804              % 01451 AVL---
+*R 2 200405035 200406019 200405035  00742  00804            % 01451 AVL---
+*G AVS 200406019 200405035  00742  00804                    % 01451 AVL---
+*A VE 200406019 200405035 000020  00742  00804              % 01451 AVL---
+200406019 Cents, Waassertuerm          00742                % 01451 AVL---
+200406003 Cents, Camille Polfe  00743  00743                % 01451 AVL---
+200406014 Cents, Paul Albrecht  00744  00744                % 01451 AVL---
+200406004 Cents, Carmel         00745  00745                % 01451 AVL---
+200406018 Cents, Trèves         00745  00745                % 01451 AVL---
+200406016 Cents, Robert Bruch   00746  00746                % 01451 AVL---
+200406008 Cents, Gabriel de Ma  00746  00746                % 01451 AVL---
+200406005 Cents, Charles de To  00747  00747                % 01451 AVL---
+200406002 Cents, Arthur Knaff   00748  00748                % 01451 AVL---
+200406010 Cents, Jules Salenti  00748  00748                % 01451 AVL---
+200406012 Cents, Kierch         00748  00748                % 01451 AVL---
+200406017 Cents, Tawioun        00749  00749                % 01451 AVL---
+200406007 Cents, Fort Dumoulin  00750  00750                % 01451 AVL---
+200406011 Cents, Kéibierg-I.N.  00751  00751                % 01451 AVL---
+200408006 Clausen, Rumm         00752  00752                % 01451 AVL---
+200408008 Clausen, Tour Jacob   00752  00752                % 01451 AVL---
+200408001 Clausen, Clausener B  00753  00753                % 01451 AVL---
+200408005 Clausen, Plateau Alt  00754  00754                % 01451 AVL---
+200423004 Pfaffenthal, Um Bock  00755  00755                % 01451 AVL---
+200405005 Centre, Badanstalt    00757  00757                % 01451 AVL---
+200405020 Hamilius              00800  00800                % 01451 AVL---
+200405023 Centre, Martyrs       00801  00801                % 01451 AVL---
+200405026 Luxembourg/Centre, P  00802  00802                % 01451 AVL---
+200405035 Luxembourg, Gare Cen  00804                       % 01451 AVL---
+*Z 01452 AVL---       003 030                               % 01452 AVL---
+*L 14       200406019 200405035  00542  00604               % 01452 AVL---
+*A BE 200406019 200405035 000020  00542  00604              % 01452 AVL---
+*R 2 200405035 200406019 200405035  00542  00604            % 01452 AVL---
+*G AVS 200406019 200405035  00542  00604                    % 01452 AVL---
+*A VE 200406019 200405035 000020  00542  00604              % 01452 AVL---
+200406019 Cents, Waassertuerm          00542                % 01452 AVL---
+200406003 Cents, Camille Polfe  00543  00543                % 01452 AVL---
+200406014 Cents, Paul Albrecht  00544  00544                % 01452 AVL---
+200406004 Cents, Carmel         00545  00545                % 01452 AVL---
+200406018 Cents, Trèves         00545  00545                % 01452 AVL---
+200406016 Cents, Robert Bruch   00546  00546                % 01452 AVL---
+200406008 Cents, Gabriel de Ma  00546  00546                % 01452 AVL---
+200406005 Cents, Charles de To  00547  00547                % 01452 AVL---
+200406002 Cents, Arthur Knaff   00548  00548                % 01452 AVL---
+200406010 Cents, Jules Salenti  00548  00548                % 01452 AVL---
+200406012 Cents, Kierch         00548  00548                % 01452 AVL---
+200406017 Cents, Tawioun        00549  00549                % 01452 AVL---
+200406007 Cents, Fort Dumoulin  00550  00550                % 01452 AVL---
+200406011 Cents, Kéibierg-I.N.  00551  00551                % 01452 AVL---
+200408006 Clausen, Rumm         00552  00552                % 01452 AVL---
+200408008 Clausen, Tour Jacob   00552  00552                % 01452 AVL---
+200408001 Clausen, Clausener B  00553  00553                % 01452 AVL---
+200408005 Clausen, Plateau Alt  00554  00554                % 01452 AVL---
+200423004 Pfaffenthal, Um Bock  00555  00555                % 01452 AVL---
+200405005 Centre, Badanstalt    00557  00557                % 01452 AVL---
+200405020 Hamilius              00600  00600                % 01452 AVL---
+200405023 Centre, Martyrs       00601  00601                % 01452 AVL---
+200405026 Luxembourg/Centre, P  00602  00602                % 01452 AVL---
+200405035 Luxembourg, Gare Cen  00604                       % 01452 AVL---
+*Z 01453 AVL---       046 015                               % 01453 AVL---
+*L 14       200406019 200405035  00800  00824               % 01453 AVL---
+*A BE 200406019 200405035 000023  00800  00824              % 01453 AVL---
+*R 2 200405035 200406019 200405035  00800  00824            % 01453 AVL---
+*G AVS 200406019 200405035  00800  00824                    % 01453 AVL---
+*A VE 200406019 200405035 000023  00800  00824              % 01453 AVL---
+200406019 Cents, Waassertuerm          00800                % 01453 AVL---
+200406003 Cents, Camille Polfe  00801  00801                % 01453 AVL---
+200406014 Cents, Paul Albrecht  00801  00801                % 01453 AVL---
+200406004 Cents, Carmel         00803  00803                % 01453 AVL---
+200406018 Cents, Trèves         00803  00803                % 01453 AVL---
+200406016 Cents, Robert Bruch   00804  00804                % 01453 AVL---
+200406008 Cents, Gabriel de Ma  00805  00805                % 01453 AVL---
+200406005 Cents, Charles de To  00805  00805                % 01453 AVL---
+200406002 Cents, Arthur Knaff   00806  00806                % 01453 AVL---
+200406010 Cents, Jules Salenti  00806  00806                % 01453 AVL---
+200406012 Cents, Kierch         00807  00807                % 01453 AVL---
+200406017 Cents, Tawioun        00808  00808                % 01453 AVL---
+200406007 Cents, Fort Dumoulin  00809  00809                % 01453 AVL---
+200406011 Cents, Kéibierg-I.N.  00809  00809                % 01453 AVL---
+200408006 Clausen, Rumm         00810  00810                % 01453 AVL---
+200408008 Clausen, Tour Jacob   00811  00811                % 01453 AVL---
+200408001 Clausen, Clausener B  00812  00812                % 01453 AVL---
+200408005 Clausen, Plateau Alt  00813  00813                % 01453 AVL---
+200423004 Pfaffenthal, Um Bock  00814  00814                % 01453 AVL---
+200405005 Centre, Badanstalt    00816  00816                % 01453 AVL---
+200405020 Hamilius              00819  00819                % 01453 AVL---
+200405023 Centre, Martyrs       00820  00820                % 01453 AVL---
+200405026 Luxembourg/Centre, P  00822  00822                % 01453 AVL---
+200405035 Luxembourg, Gare Cen  00824                       % 01453 AVL---
+*Z 01454 AVL---       016 030                               % 01454 AVL---
+*L 14       200406019 200405035  01141  01205               % 01454 AVL---
+*A BE 200406019 200405035 000018  01141  01205              % 01454 AVL---
+*R 2 200405035 200406019 200405035  01141  01205            % 01454 AVL---
+*G AVS 200406019 200405035  01141  01205                    % 01454 AVL---
+*A VE 200406019 200405035 000018  01141  01205              % 01454 AVL---
+200406019 Cents, Waassertuerm          01141                % 01454 AVL---
+200406003 Cents, Camille Polfe  01142  01142                % 01454 AVL---
+200406014 Cents, Paul Albrecht  01142  01142                % 01454 AVL---
+200406004 Cents, Carmel         01144  01144                % 01454 AVL---
+200406018 Cents, Trèves         01144  01144                % 01454 AVL---
+200406016 Cents, Robert Bruch   01145  01145                % 01454 AVL---
+200406008 Cents, Gabriel de Ma  01146  01146                % 01454 AVL---
+200406005 Cents, Charles de To  01146  01146                % 01454 AVL---
+200406002 Cents, Arthur Knaff   01147  01147                % 01454 AVL---
+200406010 Cents, Jules Salenti  01147  01147                % 01454 AVL---
+200406012 Cents, Kierch         01148  01148                % 01454 AVL---
+200406017 Cents, Tawioun        01149  01149                % 01454 AVL---
+200406007 Cents, Fort Dumoulin  01150  01150                % 01454 AVL---
+200406011 Cents, Kéibierg-I.N.  01150  01150                % 01454 AVL---
+200408006 Clausen, Rumm         01151  01151                % 01454 AVL---
+200408008 Clausen, Tour Jacob   01152  01152                % 01454 AVL---
+200408001 Clausen, Clausener B  01153  01153                % 01454 AVL---
+200408005 Clausen, Plateau Alt  01154  01154                % 01454 AVL---
+200423004 Pfaffenthal, Um Bock  01155  01155                % 01454 AVL---
+200405005 Centre, Badanstalt    01157  01157                % 01454 AVL---
+200405020 Hamilius              01200  01200                % 01454 AVL---
+200405023 Centre, Martyrs       01201  01201                % 01454 AVL---
+200405026 Luxembourg/Centre, P  01203  01203                % 01454 AVL---
+200405035 Luxembourg, Gare Cen  01205                       % 01454 AVL---
+*Z 01455 AVL---       051 015                               % 01455 AVL---
+*L 14       200406019 200405035  00644  00711               % 01455 AVL---
+*A BE 200406019 200405035 000014  00644  00711              % 01455 AVL---
+*R 2 200405035 200406019 200405035  00644  00711            % 01455 AVL---
+*G AVS 200406019 200405035  00644  00711                    % 01455 AVL---
+*A VE 200406019 200405035 000014  00644  00711              % 01455 AVL---
+200406019 Cents, Waassertuerm          00644                % 01455 AVL---
+200406003 Cents, Camille Polfe  00645  00645                % 01455 AVL---
+200406014 Cents, Paul Albrecht  00646  00646                % 01455 AVL---
+200406004 Cents, Carmel         00648  00648                % 01455 AVL---
+200406018 Cents, Trèves         00648  00648                % 01455 AVL---
+200406016 Cents, Robert Bruch   00649  00649                % 01455 AVL---
+200406008 Cents, Gabriel de Ma  00650  00650                % 01455 AVL---
+200406005 Cents, Charles de To  00651  00651                % 01455 AVL---
+200406002 Cents, Arthur Knaff   00651  00651                % 01455 AVL---
+200406010 Cents, Jules Salenti  00652  00652                % 01455 AVL---
+200406012 Cents, Kierch         00653  00653                % 01455 AVL---
+200406017 Cents, Tawioun        00654  00654                % 01455 AVL---
+200406007 Cents, Fort Dumoulin  00655  00655                % 01455 AVL---
+200406011 Cents, Kéibierg-I.N.  00656  00656                % 01455 AVL---
+200408006 Clausen, Rumm         00657  00657                % 01455 AVL---
+200408008 Clausen, Tour Jacob   00657  00657                % 01455 AVL---
+200408001 Clausen, Clausener B  00658  00658                % 01455 AVL---
+200408005 Clausen, Plateau Alt  00659  00659                % 01455 AVL---
+200423004 Pfaffenthal, Um Bock  00700  00700                % 01455 AVL---
+200405005 Centre, Badanstalt    00702  00702                % 01455 AVL---
+200405020 Hamilius              00706  00706                % 01455 AVL---
+200405023 Centre, Martyrs       00707  00707                % 01455 AVL---
+200405026 Luxembourg/Centre, P  00709  00709                % 01455 AVL---
+200405035 Luxembourg, Gare Cen  00711                       % 01455 AVL---
+*Z 01456 AVL---       006 030                               % 01456 AVL---
+*L 14       200405035 200406019  02030  02053               % 01456 AVL---
+*A BE 200405035 200406019 000010  02030  02053              % 01456 AVL---
+*R 1 200406019 200405035 200406019  02030  02053            % 01456 AVL---
+*G AVS 200405035 200406019  02030  02053                    % 01456 AVL---
+*A VE 200405035 200406019 000010  02030  02053              % 01456 AVL---
+200405035 Luxembourg, Gare Cen         02030                % 01456 AVL---
+200405026 Luxembourg/Centre, P  02032  02032                % 01456 AVL---
+200405023 Centre, Martyrs       02033  02033                % 01456 AVL---
+200405020 Hamilius              02036  02036                % 01456 AVL---
+200405005 Centre, Badanstalt    02038  02038                % 01456 AVL---
+200423004 Pfaffenthal, Um Bock  02040  02040                % 01456 AVL---
+200408005 Clausen, Plateau Alt  02040  02040                % 01456 AVL---
+200408001 Clausen, Clausener B  02041  02041                % 01456 AVL---
+200408008 Clausen, Tour Jacob   02042  02042                % 01456 AVL---
+200408006 Clausen, Rumm         02043  02043                % 01456 AVL---
+200406006 Cents, Dinselpuert    02043  02043                % 01456 AVL---
+200406011 Cents, Kéibierg-I.N.  02044  02044                % 01456 AVL---
+200406007 Cents, Fort Dumoulin  02045  02045                % 01456 AVL---
+200406017 Cents, Tawioun        02045  02045                % 01456 AVL---
+200406012 Cents, Kierch         02046  02046                % 01456 AVL---
+200406010 Cents, Jules Salenti  02047  02047                % 01456 AVL---
+200406002 Cents, Arthur Knaff   02047  02047                % 01456 AVL---
+200406005 Cents, Charles de To  02048  02048                % 01456 AVL---
+200406008 Cents, Gabriel de Ma  02049  02049                % 01456 AVL---
+200406018 Cents, Trèves         02050  02050                % 01456 AVL---
+200406004 Cents, Carmel         02050  02050                % 01456 AVL---
+200406014 Cents, Paul Albrecht  02051  02051                % 01456 AVL---
+200406003 Cents, Camille Polfe  02052  02052                % 01456 AVL---
+200406019 Cents, Waassertuerm   02053                       % 01456 AVL---
+*Z 01457 AVL---       001 030                               % 01457 AVL---
+*L 14       200405035 200406019  00535  00558               % 01457 AVL---
+*A BE 200405035 200406019 000013  00535  00558              % 01457 AVL---
+*R 1 200406019 200405035 200406019  00535  00558            % 01457 AVL---
+*G AVS 200405035 200406019  00535  00558                    % 01457 AVL---
+*A VE 200405035 200406019 000013  00535  00558              % 01457 AVL---
+200405035 Luxembourg, Gare Cen         00535                % 01457 AVL---
+200405026 Luxembourg/Centre, P  00537  00537                % 01457 AVL---
+200405023 Centre, Martyrs       00538  00538                % 01457 AVL---
+200405020 Hamilius              00541  00541                % 01457 AVL---
+200405005 Centre, Badanstalt    00543  00543                % 01457 AVL---
+200423004 Pfaffenthal, Um Bock  00545  00545                % 01457 AVL---
+200408005 Clausen, Plateau Alt  00545  00545                % 01457 AVL---
+200408001 Clausen, Clausener B  00546  00546                % 01457 AVL---
+200408008 Clausen, Tour Jacob   00547  00547                % 01457 AVL---
+200408006 Clausen, Rumm         00548  00548                % 01457 AVL---
+200406006 Cents, Dinselpuert    00548  00548                % 01457 AVL---
+200406011 Cents, Kéibierg-I.N.  00549  00549                % 01457 AVL---
+200406007 Cents, Fort Dumoulin  00550  00550                % 01457 AVL---
+200406017 Cents, Tawioun        00550  00550                % 01457 AVL---
+200406012 Cents, Kierch         00551  00551                % 01457 AVL---
+200406010 Cents, Jules Salenti  00552  00552                % 01457 AVL---
+200406002 Cents, Arthur Knaff   00552  00552                % 01457 AVL---
+200406005 Cents, Charles de To  00553  00553                % 01457 AVL---
+200406008 Cents, Gabriel de Ma  00554  00554                % 01457 AVL---
+200406018 Cents, Trèves         00555  00555                % 01457 AVL---
+200406004 Cents, Carmel         00555  00555                % 01457 AVL---
+200406014 Cents, Paul Albrecht  00556  00556                % 01457 AVL---
+200406003 Cents, Camille Polfe  00557  00557                % 01457 AVL---
+200406019 Cents, Waassertuerm   00558                       % 01457 AVL---
+*Z 01458 AVL---       002 015                               % 01458 AVL---
+*L 14       200405035 200406019  00620  00643               % 01458 AVL---
+*A BE 200405035 200406019 000013  00620  00643              % 01458 AVL---
+*R 1 200406019 200405035 200406019  00620  00643            % 01458 AVL---
+*G AVS 200405035 200406019  00620  00643                    % 01458 AVL---
+*A VE 200405035 200406019 000013  00620  00643              % 01458 AVL---
+200405035 Luxembourg, Gare Cen         00620                % 01458 AVL---
+200405026 Luxembourg/Centre, P  00622  00622                % 01458 AVL---
+200405023 Centre, Martyrs       00623  00623                % 01458 AVL---
+200405020 Hamilius              00626  00626                % 01458 AVL---
+200405005 Centre, Badanstalt    00628  00628                % 01458 AVL---
+200423004 Pfaffenthal, Um Bock  00630  00630                % 01458 AVL---
+200408005 Clausen, Plateau Alt  00630  00630                % 01458 AVL---
+200408001 Clausen, Clausener B  00631  00631                % 01458 AVL---
+200408008 Clausen, Tour Jacob   00632  00632                % 01458 AVL---
+200408006 Clausen, Rumm         00633  00633                % 01458 AVL---
+200406006 Cents, Dinselpuert    00633  00633                % 01458 AVL---
+200406011 Cents, Kéibierg-I.N.  00634  00634                % 01458 AVL---
+200406007 Cents, Fort Dumoulin  00635  00635                % 01458 AVL---
+200406017 Cents, Tawioun        00635  00635                % 01458 AVL---
+200406012 Cents, Kierch         00636  00636                % 01458 AVL---
+200406010 Cents, Jules Salenti  00637  00637                % 01458 AVL---
+200406002 Cents, Arthur Knaff   00637  00637                % 01458 AVL---
+200406005 Cents, Charles de To  00638  00638                % 01458 AVL---
+200406008 Cents, Gabriel de Ma  00639  00639                % 01458 AVL---
+200406018 Cents, Trèves         00640  00640                % 01458 AVL---
+200406004 Cents, Carmel         00640  00640                % 01458 AVL---
+200406014 Cents, Paul Albrecht  00641  00641                % 01458 AVL---
+200406003 Cents, Camille Polfe  00642  00642                % 01458 AVL---
+200406019 Cents, Waassertuerm   00643                       % 01458 AVL---
+*Z 01459 AVL---       001 015                               % 01459 AVL---
+*L 14       200405035 200406019  02004  02027               % 01459 AVL---
+*A BE 200405035 200406019 000013  02004  02027              % 01459 AVL---
+*R 1 200406019 200405035 200406019  02004  02027            % 01459 AVL---
+*G AVS 200405035 200406019  02004  02027                    % 01459 AVL---
+*A VE 200405035 200406019 000013  02004  02027              % 01459 AVL---
+200405035 Luxembourg, Gare Cen         02004                % 01459 AVL---
+200405026 Luxembourg/Centre, P  02006  02006                % 01459 AVL---
+200405023 Centre, Martyrs       02007  02007                % 01459 AVL---
+200405020 Hamilius              02010  02010                % 01459 AVL---
+200405005 Centre, Badanstalt    02012  02012                % 01459 AVL---
+200423004 Pfaffenthal, Um Bock  02014  02014                % 01459 AVL---
+200408005 Clausen, Plateau Alt  02014  02014                % 01459 AVL---
+200408001 Clausen, Clausener B  02015  02015                % 01459 AVL---
+200408008 Clausen, Tour Jacob   02016  02016                % 01459 AVL---
+200408006 Clausen, Rumm         02017  02017                % 01459 AVL---
+200406006 Cents, Dinselpuert    02017  02017                % 01459 AVL---
+200406011 Cents, Kéibierg-I.N.  02018  02018                % 01459 AVL---
+200406007 Cents, Fort Dumoulin  02019  02019                % 01459 AVL---
+200406017 Cents, Tawioun        02019  02019                % 01459 AVL---
+200406012 Cents, Kierch         02020  02020                % 01459 AVL---
+200406010 Cents, Jules Salenti  02021  02021                % 01459 AVL---
+200406002 Cents, Arthur Knaff   02021  02021                % 01459 AVL---
+200406005 Cents, Charles de To  02022  02022                % 01459 AVL---
+200406008 Cents, Gabriel de Ma  02023  02023                % 01459 AVL---
+200406018 Cents, Trèves         02024  02024                % 01459 AVL---
+200406004 Cents, Carmel         02024  02024                % 01459 AVL---
+200406014 Cents, Paul Albrecht  02025  02025                % 01459 AVL---
+200406003 Cents, Camille Polfe  02026  02026                % 01459 AVL---
+200406019 Cents, Waassertuerm   02027                       % 01459 AVL---
+*Z 01460 AVL---       005 030                               % 01460 AVL---
+*L 14       200405035 200406019  00800  00823               % 01460 AVL---
+*A BE 200405035 200406019 000017  00800  00823              % 01460 AVL---
+*R 1 200406019 200405035 200406019  00800  00823            % 01460 AVL---
+*G AVS 200405035 200406019  00800  00823                    % 01460 AVL---
+*A VE 200405035 200406019 000017  00800  00823              % 01460 AVL---
+200405035 Luxembourg, Gare Cen         00800                % 01460 AVL---
+200405026 Luxembourg/Centre, P  00802  00802                % 01460 AVL---
+200405023 Centre, Martyrs       00803  00803                % 01460 AVL---
+200405020 Hamilius              00806  00806                % 01460 AVL---
+200405005 Centre, Badanstalt    00808  00808                % 01460 AVL---
+200423004 Pfaffenthal, Um Bock  00810  00810                % 01460 AVL---
+200408005 Clausen, Plateau Alt  00810  00810                % 01460 AVL---
+200408001 Clausen, Clausener B  00811  00811                % 01460 AVL---
+200408008 Clausen, Tour Jacob   00812  00812                % 01460 AVL---
+200408006 Clausen, Rumm         00813  00813                % 01460 AVL---
+200406006 Cents, Dinselpuert    00813  00813                % 01460 AVL---
+200406011 Cents, Kéibierg-I.N.  00814  00814                % 01460 AVL---
+200406007 Cents, Fort Dumoulin  00815  00815                % 01460 AVL---
+200406017 Cents, Tawioun        00815  00815                % 01460 AVL---
+200406012 Cents, Kierch         00816  00816                % 01460 AVL---
+200406010 Cents, Jules Salenti  00817  00817                % 01460 AVL---
+200406002 Cents, Arthur Knaff   00817  00817                % 01460 AVL---
+200406005 Cents, Charles de To  00818  00818                % 01460 AVL---
+200406008 Cents, Gabriel de Ma  00819  00819                % 01460 AVL---
+200406018 Cents, Trèves         00820  00820                % 01460 AVL---
+200406004 Cents, Carmel         00820  00820                % 01460 AVL---
+200406014 Cents, Paul Albrecht  00821  00821                % 01460 AVL---
+200406003 Cents, Camille Polfe  00822  00822                % 01460 AVL---
+200406019 Cents, Waassertuerm   00823                       % 01460 AVL---
+*Z 01461 AVL---                                             % 01461 AVL---
+*L 14       200405035 200406019  02000  02023               % 01461 AVL---
+*A BE 200405035 200406019 000017  02000  02023              % 01461 AVL---
+*R 1 200406019 200405035 200406019  02000  02023            % 01461 AVL---
+*G AVS 200405035 200406019  02000  02023                    % 01461 AVL---
+*A VE 200405035 200406019 000017  02000  02023              % 01461 AVL---
+200405035 Luxembourg, Gare Cen         02000                % 01461 AVL---
+200405026 Luxembourg/Centre, P  02002  02002                % 01461 AVL---
+200405023 Centre, Martyrs       02003  02003                % 01461 AVL---
+200405020 Hamilius              02006  02006                % 01461 AVL---
+200405005 Centre, Badanstalt    02008  02008                % 01461 AVL---
+200423004 Pfaffenthal, Um Bock  02010  02010                % 01461 AVL---
+200408005 Clausen, Plateau Alt  02010  02010                % 01461 AVL---
+200408001 Clausen, Clausener B  02011  02011                % 01461 AVL---
+200408008 Clausen, Tour Jacob   02012  02012                % 01461 AVL---
+200408006 Clausen, Rumm         02013  02013                % 01461 AVL---
+200406006 Cents, Dinselpuert    02013  02013                % 01461 AVL---
+200406011 Cents, Kéibierg-I.N.  02014  02014                % 01461 AVL---
+200406007 Cents, Fort Dumoulin  02015  02015                % 01461 AVL---
+200406017 Cents, Tawioun        02015  02015                % 01461 AVL---
+200406012 Cents, Kierch         02016  02016                % 01461 AVL---
+200406010 Cents, Jules Salenti  02017  02017                % 01461 AVL---
+200406002 Cents, Arthur Knaff   02017  02017                % 01461 AVL---
+200406005 Cents, Charles de To  02018  02018                % 01461 AVL---
+200406008 Cents, Gabriel de Ma  02019  02019                % 01461 AVL---
+200406018 Cents, Trèves         02020  02020                % 01461 AVL---
+200406004 Cents, Carmel         02020  02020                % 01461 AVL---
+200406014 Cents, Paul Albrecht  02021  02021                % 01461 AVL---
+200406003 Cents, Camille Polfe  02022  02022                % 01461 AVL---
+200406019 Cents, Waassertuerm   02023                       % 01461 AVL---
+*Z 01462 AVL---                                             % 01462 AVL---
+*L 14       200405035 200406019  02400  02423               % 01462 AVL---
+*A BE 200405035 200406019 000046  02400  02423              % 01462 AVL---
+*R 1 200406019 200405035 200406019  02400  02423            % 01462 AVL---
+*G AVS 200405035 200406019  02400  02423                    % 01462 AVL---
+*A VE 200405035 200406019 000046  02400  02423              % 01462 AVL---
+200405035 Luxembourg, Gare Cen         02400                % 01462 AVL---
+200405026 Luxembourg/Centre, P  02402  02402                % 01462 AVL---
+200405023 Centre, Martyrs       02403  02403                % 01462 AVL---
+200405020 Hamilius              02406  02406                % 01462 AVL---
+200405005 Centre, Badanstalt    02408  02408                % 01462 AVL---
+200423004 Pfaffenthal, Um Bock  02410  02410                % 01462 AVL---
+200408005 Clausen, Plateau Alt  02410  02410                % 01462 AVL---
+200408001 Clausen, Clausener B  02411  02411                % 01462 AVL---
+200408008 Clausen, Tour Jacob   02412  02412                % 01462 AVL---
+200408006 Clausen, Rumm         02413  02413                % 01462 AVL---
+200406006 Cents, Dinselpuert    02413  02413                % 01462 AVL---
+200406011 Cents, Kéibierg-I.N.  02414  02414                % 01462 AVL---
+200406007 Cents, Fort Dumoulin  02415  02415                % 01462 AVL---
+200406017 Cents, Tawioun        02415  02415                % 01462 AVL---
+200406012 Cents, Kierch         02416  02416                % 01462 AVL---
+200406010 Cents, Jules Salenti  02417  02417                % 01462 AVL---
+200406002 Cents, Arthur Knaff   02417  02417                % 01462 AVL---
+200406005 Cents, Charles de To  02418  02418                % 01462 AVL---
+200406008 Cents, Gabriel de Ma  02419  02419                % 01462 AVL---
+200406018 Cents, Trèves         02420  02420                % 01462 AVL---
+200406004 Cents, Carmel         02420  02420                % 01462 AVL---
+200406014 Cents, Paul Albrecht  02421  02421                % 01462 AVL---
+200406003 Cents, Camille Polfe  02422  02422                % 01462 AVL---
+200406019 Cents, Waassertuerm   02423                       % 01462 AVL---
+*Z 01463 AVL---       004 030                               % 01463 AVL---
+*L 14       200405035 200406019  00530  00553               % 01463 AVL---
+*A BE 200405035 200406019 000019  00530  00553              % 01463 AVL---
+*R 1 200406019 200405035 200406019  00530  00553            % 01463 AVL---
+*G AVS 200405035 200406019  00530  00553                    % 01463 AVL---
+*A VE 200405035 200406019 000019  00530  00553              % 01463 AVL---
+200405035 Luxembourg, Gare Cen         00530                % 01463 AVL---
+200405026 Luxembourg/Centre, P  00532  00532                % 01463 AVL---
+200405023 Centre, Martyrs       00533  00533                % 01463 AVL---
+200405020 Hamilius              00536  00536                % 01463 AVL---
+200405005 Centre, Badanstalt    00538  00538                % 01463 AVL---
+200423004 Pfaffenthal, Um Bock  00540  00540                % 01463 AVL---
+200408005 Clausen, Plateau Alt  00540  00540                % 01463 AVL---
+200408001 Clausen, Clausener B  00541  00541                % 01463 AVL---
+200408008 Clausen, Tour Jacob   00542  00542                % 01463 AVL---
+200408006 Clausen, Rumm         00543  00543                % 01463 AVL---
+200406006 Cents, Dinselpuert    00543  00543                % 01463 AVL---
+200406011 Cents, Kéibierg-I.N.  00544  00544                % 01463 AVL---
+200406007 Cents, Fort Dumoulin  00545  00545                % 01463 AVL---
+200406017 Cents, Tawioun        00545  00545                % 01463 AVL---
+200406012 Cents, Kierch         00546  00546                % 01463 AVL---
+200406010 Cents, Jules Salenti  00547  00547                % 01463 AVL---
+200406002 Cents, Arthur Knaff   00547  00547                % 01463 AVL---
+200406005 Cents, Charles de To  00548  00548                % 01463 AVL---
+200406008 Cents, Gabriel de Ma  00549  00549                % 01463 AVL---
+200406018 Cents, Trèves         00550  00550                % 01463 AVL---
+200406004 Cents, Carmel         00550  00550                % 01463 AVL---
+200406014 Cents, Paul Albrecht  00551  00551                % 01463 AVL---
+200406003 Cents, Camille Polfe  00552  00552                % 01463 AVL---
+200406019 Cents, Waassertuerm   00553                       % 01463 AVL---
+*Z 01464 AVL---       051 015                               % 01464 AVL---
+*L 14       200405035 200406019  00703  00730               % 01464 AVL---
+*A BE 200405035 200406019 000013  00703  00730              % 01464 AVL---
+*R 1 200406019 200405035 200406019  00703  00730            % 01464 AVL---
+*G AVS 200405035 200406019  00703  00730                    % 01464 AVL---
+*A VE 200405035 200406019 000013  00703  00730              % 01464 AVL---
+200405035 Luxembourg, Gare Cen         00703                % 01464 AVL---
+200405026 Luxembourg/Centre, P  00706  00706                % 01464 AVL---
+200405023 Centre, Martyrs       00707  00707                % 01464 AVL---
+200405020 Hamilius              00710  00710                % 01464 AVL---
+200405005 Centre, Badanstalt    00713  00713                % 01464 AVL---
+200423004 Pfaffenthal, Um Bock  00714  00714                % 01464 AVL---
+200408005 Clausen, Plateau Alt  00715  00715                % 01464 AVL---
+200408001 Clausen, Clausener B  00716  00716                % 01464 AVL---
+200408008 Clausen, Tour Jacob   00717  00717                % 01464 AVL---
+200408006 Clausen, Rumm         00718  00718                % 01464 AVL---
+200406006 Cents, Dinselpuert    00718  00718                % 01464 AVL---
+200406011 Cents, Kéibierg-I.N.  00719  00719                % 01464 AVL---
+200406007 Cents, Fort Dumoulin  00719  00719                % 01464 AVL---
+200406017 Cents, Tawioun        00720  00720                % 01464 AVL---
+200406012 Cents, Kierch         00722  00722                % 01464 AVL---
+200406010 Cents, Jules Salenti  00722  00722                % 01464 AVL---
+200406002 Cents, Arthur Knaff   00723  00723                % 01464 AVL---
+200406005 Cents, Charles de To  00724  00724                % 01464 AVL---
+200406008 Cents, Gabriel de Ma  00725  00725                % 01464 AVL---
+200406018 Cents, Trèves         00726  00726                % 01464 AVL---
+200406004 Cents, Carmel         00726  00726                % 01464 AVL---
+200406014 Cents, Paul Albrecht  00728  00728                % 01464 AVL---
+200406003 Cents, Camille Polfe  00728  00728                % 01464 AVL---
+200406019 Cents, Waassertuerm   00730                       % 01464 AVL---
+*Z 01465 AVL---       048 015                               % 01465 AVL---
+*L 14       200405035 200406019  00749  00813               % 01465 AVL---
+*A BE 200405035 200406019 000022  00749  00813              % 01465 AVL---
+*R 1 200406019 200405035 200406019  00749  00813            % 01465 AVL---
+*G AVS 200405035 200406019  00749  00813                    % 01465 AVL---
+*A VE 200405035 200406019 000022  00749  00813              % 01465 AVL---
+200405035 Luxembourg, Gare Cen         00749                % 01465 AVL---
+200405026 Luxembourg/Centre, P  00751  00751                % 01465 AVL---
+200405023 Centre, Martyrs       00752  00752                % 01465 AVL---
+200405020 Hamilius              00755  00755                % 01465 AVL---
+200405005 Centre, Badanstalt    00757  00757                % 01465 AVL---
+200423004 Pfaffenthal, Um Bock  00759  00759                % 01465 AVL---
+200408005 Clausen, Plateau Alt  00800  00800                % 01465 AVL---
+200408001 Clausen, Clausener B  00801  00801                % 01465 AVL---
+200408008 Clausen, Tour Jacob   00801  00801                % 01465 AVL---
+200408006 Clausen, Rumm         00802  00802                % 01465 AVL---
+200406006 Cents, Dinselpuert    00803  00803                % 01465 AVL---
+200406011 Cents, Kéibierg-I.N.  00803  00803                % 01465 AVL---
+200406007 Cents, Fort Dumoulin  00804  00804                % 01465 AVL---
+200406017 Cents, Tawioun        00805  00805                % 01465 AVL---
+200406012 Cents, Kierch         00806  00806                % 01465 AVL---
+200406010 Cents, Jules Salenti  00806  00806                % 01465 AVL---
+200406002 Cents, Arthur Knaff   00807  00807                % 01465 AVL---
+200406005 Cents, Charles de To  00807  00807                % 01465 AVL---
+200406008 Cents, Gabriel de Ma  00808  00808                % 01465 AVL---
+200406018 Cents, Trèves         00809  00809                % 01465 AVL---
+200406004 Cents, Carmel         00810  00810                % 01465 AVL---
+200406014 Cents, Paul Albrecht  00811  00811                % 01465 AVL---
+200406003 Cents, Camille Polfe  00811  00811                % 01465 AVL---
+200406019 Cents, Waassertuerm   00813                       % 01465 AVL---
+*Z 01466 AVL---                                             % 01466 AVL---
+*L 14       200405035 200406019  02004  02027               % 01466 AVL---
+*A BE 200405035 200406019 000022  02004  02027              % 01466 AVL---
+*R 1 200406019 200405035 200406019  02004  02027            % 01466 AVL---
+*G AVS 200405035 200406019  02004  02027                    % 01466 AVL---
+*A VE 200405035 200406019 000022  02004  02027              % 01466 AVL---
+200405035 Luxembourg, Gare Cen         02004                % 01466 AVL---
+200405026 Luxembourg/Centre, P  02006  02006                % 01466 AVL---
+200405023 Centre, Martyrs       02007  02007                % 01466 AVL---
+200405020 Hamilius              02010  02010                % 01466 AVL---
+200405005 Centre, Badanstalt    02012  02012                % 01466 AVL---
+200423004 Pfaffenthal, Um Bock  02014  02014                % 01466 AVL---
+200408005 Clausen, Plateau Alt  02014  02014                % 01466 AVL---
+200408001 Clausen, Clausener B  02015  02015                % 01466 AVL---
+200408008 Clausen, Tour Jacob   02016  02016                % 01466 AVL---
+200408006 Clausen, Rumm         02017  02017                % 01466 AVL---
+200406006 Cents, Dinselpuert    02017  02017                % 01466 AVL---
+200406011 Cents, Kéibierg-I.N.  02018  02018                % 01466 AVL---
+200406007 Cents, Fort Dumoulin  02019  02019                % 01466 AVL---
+200406017 Cents, Tawioun        02019  02019                % 01466 AVL---
+200406012 Cents, Kierch         02020  02020                % 01466 AVL---
+200406010 Cents, Jules Salenti  02021  02021                % 01466 AVL---
+200406002 Cents, Arthur Knaff   02021  02021                % 01466 AVL---
+200406005 Cents, Charles de To  02022  02022                % 01466 AVL---
+200406008 Cents, Gabriel de Ma  02023  02023                % 01466 AVL---
+200406018 Cents, Trèves         02024  02024                % 01466 AVL---
+200406004 Cents, Carmel         02024  02024                % 01466 AVL---
+200406014 Cents, Paul Albrecht  02025  02025                % 01466 AVL---
+200406003 Cents, Camille Polfe  02026  02026                % 01466 AVL---
+200406019 Cents, Waassertuerm   02027                       % 01466 AVL---
+*Z 01467 AVL---                                             % 01467 AVL---
+*L 14       200405035 200406019  01100  01123               % 01467 AVL---
+*A BE 200405035 200406019 000017  01100  01123              % 01467 AVL---
+*R 1 200406019 200405035 200406019  01100  01123            % 01467 AVL---
+*G AVS 200405035 200406019  01100  01123                    % 01467 AVL---
+*A VE 200405035 200406019 000017  01100  01123              % 01467 AVL---
+200405035 Luxembourg, Gare Cen         01100                % 01467 AVL---
+200405026 Luxembourg/Centre, P  01102  01102                % 01467 AVL---
+200405023 Centre, Martyrs       01103  01103                % 01467 AVL---
+200405020 Hamilius              01106  01106                % 01467 AVL---
+200405005 Centre, Badanstalt    01108  01108                % 01467 AVL---
+200423004 Pfaffenthal, Um Bock  01110  01110                % 01467 AVL---
+200408005 Clausen, Plateau Alt  01110  01110                % 01467 AVL---
+200408001 Clausen, Clausener B  01111  01111                % 01467 AVL---
+200408008 Clausen, Tour Jacob   01112  01112                % 01467 AVL---
+200408006 Clausen, Rumm         01113  01113                % 01467 AVL---
+200406006 Cents, Dinselpuert    01113  01113                % 01467 AVL---
+200406011 Cents, Kéibierg-I.N.  01114  01114                % 01467 AVL---
+200406007 Cents, Fort Dumoulin  01115  01115                % 01467 AVL---
+200406017 Cents, Tawioun        01115  01115                % 01467 AVL---
+200406012 Cents, Kierch         01116  01116                % 01467 AVL---
+200406010 Cents, Jules Salenti  01117  01117                % 01467 AVL---
+200406002 Cents, Arthur Knaff   01117  01117                % 01467 AVL---
+200406005 Cents, Charles de To  01118  01118                % 01467 AVL---
+200406008 Cents, Gabriel de Ma  01119  01119                % 01467 AVL---
+200406018 Cents, Trèves         01120  01120                % 01467 AVL---
+200406004 Cents, Carmel         01120  01120                % 01467 AVL---
+200406014 Cents, Paul Albrecht  01121  01121                % 01467 AVL---
+200406003 Cents, Camille Polfe  01122  01122                % 01467 AVL---
+200406019 Cents, Waassertuerm   01123                       % 01467 AVL---
+*Z 01468 AVL---       016 030                               % 01468 AVL---
+*L 14       200405035 200406019  01130  01154               % 01468 AVL---
+*A BE 200405035 200406019 000017  01130  01154              % 01468 AVL---
+*R 1 200406019 200405035 200406019  01130  01154            % 01468 AVL---
+*G AVS 200405035 200406019  01130  01154                    % 01468 AVL---
+*A VE 200405035 200406019 000017  01130  01154              % 01468 AVL---
+200405035 Luxembourg, Gare Cen         01130                % 01468 AVL---
+200405026 Luxembourg/Centre, P  01132  01132                % 01468 AVL---
+200405023 Centre, Martyrs       01133  01133                % 01468 AVL---
+200405020 Hamilius              01136  01136                % 01468 AVL---
+200405005 Centre, Badanstalt    01138  01138                % 01468 AVL---
+200423004 Pfaffenthal, Um Bock  01140  01140                % 01468 AVL---
+200408005 Clausen, Plateau Alt  01141  01141                % 01468 AVL---
+200408001 Clausen, Clausener B  01142  01142                % 01468 AVL---
+200408008 Clausen, Tour Jacob   01142  01142                % 01468 AVL---
+200408006 Clausen, Rumm         01143  01143                % 01468 AVL---
+200406006 Cents, Dinselpuert    01144  01144                % 01468 AVL---
+200406011 Cents, Kéibierg-I.N.  01144  01144                % 01468 AVL---
+200406007 Cents, Fort Dumoulin  01145  01145                % 01468 AVL---
+200406017 Cents, Tawioun        01146  01146                % 01468 AVL---
+200406012 Cents, Kierch         01147  01147                % 01468 AVL---
+200406010 Cents, Jules Salenti  01147  01147                % 01468 AVL---
+200406002 Cents, Arthur Knaff   01148  01148                % 01468 AVL---
+200406005 Cents, Charles de To  01148  01148                % 01468 AVL---
+200406008 Cents, Gabriel de Ma  01149  01149                % 01468 AVL---
+200406018 Cents, Trèves         01150  01150                % 01468 AVL---
+200406004 Cents, Carmel         01151  01151                % 01468 AVL---
+200406014 Cents, Paul Albrecht  01152  01152                % 01468 AVL---
+200406003 Cents, Camille Polfe  01152  01152                % 01468 AVL---
+200406019 Cents, Waassertuerm   01154                       % 01468 AVL---
+*Z 01469 AVL---       007 030                               % 01469 AVL---
+*L 14       200406019 200405035  02012  02034               % 01469 AVL---
+*A BE 200406019 200405035 000010  02012  02034              % 01469 AVL---
+*R 2 200405035 200406019 200405035  02012  02034            % 01469 AVL---
+*G AVS 200406019 200405035  02012  02034                    % 01469 AVL---
+*A VE 200406019 200405035 000010  02012  02034              % 01469 AVL---
+200406019 Cents, Waassertuerm          02012                % 01469 AVL---
+200406003 Cents, Camille Polfe  02013  02013                % 01469 AVL---
+200406014 Cents, Paul Albrecht  02014  02014                % 01469 AVL---
+200406004 Cents, Carmel         02015  02015                % 01469 AVL---
+200406018 Cents, Trèves         02015  02015                % 01469 AVL---
+200406016 Cents, Robert Bruch   02016  02016                % 01469 AVL---
+200406008 Cents, Gabriel de Ma  02016  02016                % 01469 AVL---
+200406005 Cents, Charles de To  02017  02017                % 01469 AVL---
+200406002 Cents, Arthur Knaff   02018  02018                % 01469 AVL---
+200406010 Cents, Jules Salenti  02018  02018                % 01469 AVL---
+200406012 Cents, Kierch         02018  02018                % 01469 AVL---
+200406017 Cents, Tawioun        02019  02019                % 01469 AVL---
+200406007 Cents, Fort Dumoulin  02020  02020                % 01469 AVL---
+200406011 Cents, Kéibierg-I.N.  02021  02021                % 01469 AVL---
+200408006 Clausen, Rumm         02022  02022                % 01469 AVL---
+200408008 Clausen, Tour Jacob   02022  02022                % 01469 AVL---
+200408001 Clausen, Clausener B  02023  02023                % 01469 AVL---
+200408005 Clausen, Plateau Alt  02024  02024                % 01469 AVL---
+200423004 Pfaffenthal, Um Bock  02025  02025                % 01469 AVL---
+200405005 Centre, Badanstalt    02027  02027                % 01469 AVL---
+200405020 Hamilius              02030  02030                % 01469 AVL---
+200405023 Centre, Martyrs       02031  02031                % 01469 AVL---
+200405026 Luxembourg/Centre, P  02032  02032                % 01469 AVL---
+200405035 Luxembourg, Gare Cen  02034                       % 01469 AVL---
+*Z 01470 AVL---                                             % 01470 AVL---
+*L 14       200406019 200405035  00512  00534               % 01470 AVL---
+*A BE 200406019 200405035 000022  00512  00534              % 01470 AVL---
+*R 2 200405035 200406019 200405035  00512  00534            % 01470 AVL---
+*G AVS 200406019 200405035  00512  00534                    % 01470 AVL---
+*A VE 200406019 200405035 000022  00512  00534              % 01470 AVL---
+200406019 Cents, Waassertuerm          00512                % 01470 AVL---
+200406003 Cents, Camille Polfe  00513  00513                % 01470 AVL---
+200406014 Cents, Paul Albrecht  00514  00514                % 01470 AVL---
+200406004 Cents, Carmel         00515  00515                % 01470 AVL---
+200406018 Cents, Trèves         00515  00515                % 01470 AVL---
+200406016 Cents, Robert Bruch   00516  00516                % 01470 AVL---
+200406008 Cents, Gabriel de Ma  00516  00516                % 01470 AVL---
+200406005 Cents, Charles de To  00517  00517                % 01470 AVL---
+200406002 Cents, Arthur Knaff   00518  00518                % 01470 AVL---
+200406010 Cents, Jules Salenti  00518  00518                % 01470 AVL---
+200406012 Cents, Kierch         00518  00518                % 01470 AVL---
+200406017 Cents, Tawioun        00519  00519                % 01470 AVL---
+200406007 Cents, Fort Dumoulin  00520  00520                % 01470 AVL---
+200406011 Cents, Kéibierg-I.N.  00521  00521                % 01470 AVL---
+200408006 Clausen, Rumm         00522  00522                % 01470 AVL---
+200408008 Clausen, Tour Jacob   00522  00522                % 01470 AVL---
+200408001 Clausen, Clausener B  00523  00523                % 01470 AVL---
+200408005 Clausen, Plateau Alt  00524  00524                % 01470 AVL---
+200423004 Pfaffenthal, Um Bock  00525  00525                % 01470 AVL---
+200405005 Centre, Badanstalt    00527  00527                % 01470 AVL---
+200405020 Hamilius              00530  00530                % 01470 AVL---
+200405023 Centre, Martyrs       00531  00531                % 01470 AVL---
+200405026 Luxembourg/Centre, P  00532  00532                % 01470 AVL---
+200405035 Luxembourg, Gare Cen  00534                       % 01470 AVL---
+*Z 01471 AVL---       001 030                               % 01471 AVL---
+*L 14       200406019 200405035  00508  00530               % 01471 AVL---
+*A BE 200406019 200405035 000013  00508  00530              % 01471 AVL---
+*R 2 200405035 200406019 200405035  00508  00530            % 01471 AVL---
+*G AVS 200406019 200405035  00508  00530                    % 01471 AVL---
+*A VE 200406019 200405035 000013  00508  00530              % 01471 AVL---
+200406019 Cents, Waassertuerm          00508                % 01471 AVL---
+200406003 Cents, Camille Polfe  00509  00509                % 01471 AVL---
+200406014 Cents, Paul Albrecht  00510  00510                % 01471 AVL---
+200406004 Cents, Carmel         00511  00511                % 01471 AVL---
+200406018 Cents, Trèves         00511  00511                % 01471 AVL---
+200406016 Cents, Robert Bruch   00512  00512                % 01471 AVL---
+200406008 Cents, Gabriel de Ma  00512  00512                % 01471 AVL---
+200406005 Cents, Charles de To  00513  00513                % 01471 AVL---
+200406002 Cents, Arthur Knaff   00514  00514                % 01471 AVL---
+200406010 Cents, Jules Salenti  00514  00514                % 01471 AVL---
+200406012 Cents, Kierch         00514  00514                % 01471 AVL---
+200406017 Cents, Tawioun        00515  00515                % 01471 AVL---
+200406007 Cents, Fort Dumoulin  00516  00516                % 01471 AVL---
+200406011 Cents, Kéibierg-I.N.  00517  00517                % 01471 AVL---
+200408006 Clausen, Rumm         00518  00518                % 01471 AVL---
+200408008 Clausen, Tour Jacob   00518  00518                % 01471 AVL---
+200408001 Clausen, Clausener B  00519  00519                % 01471 AVL---
+200408005 Clausen, Plateau Alt  00520  00520                % 01471 AVL---
+200423004 Pfaffenthal, Um Bock  00521  00521                % 01471 AVL---
+200405005 Centre, Badanstalt    00523  00523                % 01471 AVL---
+200405020 Hamilius              00526  00526                % 01471 AVL---
+200405023 Centre, Martyrs       00527  00527                % 01471 AVL---
+200405026 Luxembourg/Centre, P  00528  00528                % 01471 AVL---
+200405035 Luxembourg, Gare Cen  00530                       % 01471 AVL---
+*Z 01472 AVL---       002 015                               % 01472 AVL---
+*L 14       200406019 200405035  00603  00625               % 01472 AVL---
+*A BE 200406019 200405035 000013  00603  00625              % 01472 AVL---
+*R 2 200405035 200406019 200405035  00603  00625            % 01472 AVL---
+*G AVS 200406019 200405035  00603  00625                    % 01472 AVL---
+*A VE 200406019 200405035 000013  00603  00625              % 01472 AVL---
+200406019 Cents, Waassertuerm          00603                % 01472 AVL---
+200406003 Cents, Camille Polfe  00604  00604                % 01472 AVL---
+200406014 Cents, Paul Albrecht  00605  00605                % 01472 AVL---
+200406004 Cents, Carmel         00606  00606                % 01472 AVL---
+200406018 Cents, Trèves         00606  00606                % 01472 AVL---
+200406016 Cents, Robert Bruch   00607  00607                % 01472 AVL---
+200406008 Cents, Gabriel de Ma  00607  00607                % 01472 AVL---
+200406005 Cents, Charles de To  00608  00608                % 01472 AVL---
+200406002 Cents, Arthur Knaff   00609  00609                % 01472 AVL---
+200406010 Cents, Jules Salenti  00609  00609                % 01472 AVL---
+200406012 Cents, Kierch         00609  00609                % 01472 AVL---
+200406017 Cents, Tawioun        00610  00610                % 01472 AVL---
+200406007 Cents, Fort Dumoulin  00611  00611                % 01472 AVL---
+200406011 Cents, Kéibierg-I.N.  00612  00612                % 01472 AVL---
+200408006 Clausen, Rumm         00613  00613                % 01472 AVL---
+200408008 Clausen, Tour Jacob   00613  00613                % 01472 AVL---
+200408001 Clausen, Clausener B  00614  00614                % 01472 AVL---
+200408005 Clausen, Plateau Alt  00615  00615                % 01472 AVL---
+200423004 Pfaffenthal, Um Bock  00616  00616                % 01472 AVL---
+200405005 Centre, Badanstalt    00618  00618                % 01472 AVL---
+200405020 Hamilius              00621  00621                % 01472 AVL---
+200405023 Centre, Martyrs       00622  00622                % 01472 AVL---
+200405026 Luxembourg/Centre, P  00623  00623                % 01472 AVL---
+200405035 Luxembourg, Gare Cen  00625                       % 01472 AVL---
+*Z 01473 AVL---       006 030                               % 01473 AVL---
+*L 14       200406019 200405035  00812  00834               % 01473 AVL---
+*A BE 200406019 200405035 000017  00812  00834              % 01473 AVL---
+*R 2 200405035 200406019 200405035  00812  00834            % 01473 AVL---
+*G AVS 200406019 200405035  00812  00834                    % 01473 AVL---
+*A VE 200406019 200405035 000017  00812  00834              % 01473 AVL---
+200406019 Cents, Waassertuerm          00812                % 01473 AVL---
+200406003 Cents, Camille Polfe  00813  00813                % 01473 AVL---
+200406014 Cents, Paul Albrecht  00814  00814                % 01473 AVL---
+200406004 Cents, Carmel         00815  00815                % 01473 AVL---
+200406018 Cents, Trèves         00815  00815                % 01473 AVL---
+200406016 Cents, Robert Bruch   00816  00816                % 01473 AVL---
+200406008 Cents, Gabriel de Ma  00816  00816                % 01473 AVL---
+200406005 Cents, Charles de To  00817  00817                % 01473 AVL---
+200406002 Cents, Arthur Knaff   00818  00818                % 01473 AVL---
+200406010 Cents, Jules Salenti  00818  00818                % 01473 AVL---
+200406012 Cents, Kierch         00818  00818                % 01473 AVL---
+200406017 Cents, Tawioun        00819  00819                % 01473 AVL---
+200406007 Cents, Fort Dumoulin  00820  00820                % 01473 AVL---
+200406011 Cents, Kéibierg-I.N.  00821  00821                % 01473 AVL---
+200408006 Clausen, Rumm         00822  00822                % 01473 AVL---
+200408008 Clausen, Tour Jacob   00822  00822                % 01473 AVL---
+200408001 Clausen, Clausener B  00823  00823                % 01473 AVL---
+200408005 Clausen, Plateau Alt  00824  00824                % 01473 AVL---
+200423004 Pfaffenthal, Um Bock  00825  00825                % 01473 AVL---
+200405005 Centre, Badanstalt    00827  00827                % 01473 AVL---
+200405020 Hamilius              00830  00830                % 01473 AVL---
+200405023 Centre, Martyrs       00831  00831                % 01473 AVL---
+200405026 Luxembourg/Centre, P  00832  00832                % 01473 AVL---
+200405035 Luxembourg, Gare Cen  00834                       % 01473 AVL---
+*Z 01474 AVL---                                             % 01474 AVL---
+*L 14       200406019 200405035  01951  02013               % 01474 AVL---
+*A BE 200406019 200405035 000046  01951  02013              % 01474 AVL---
+*R 2 200405035 200406019 200405035  01951  02013            % 01474 AVL---
+*G AVS 200406019 200405035  01951  02013                    % 01474 AVL---
+*A VE 200406019 200405035 000046  01951  02013              % 01474 AVL---
+200406019 Cents, Waassertuerm          01951                % 01474 AVL---
+200406003 Cents, Camille Polfe  01952  01952                % 01474 AVL---
+200406014 Cents, Paul Albrecht  01953  01953                % 01474 AVL---
+200406004 Cents, Carmel         01954  01954                % 01474 AVL---
+200406018 Cents, Trèves         01954  01954                % 01474 AVL---
+200406016 Cents, Robert Bruch   01955  01955                % 01474 AVL---
+200406008 Cents, Gabriel de Ma  01955  01955                % 01474 AVL---
+200406005 Cents, Charles de To  01956  01956                % 01474 AVL---
+200406002 Cents, Arthur Knaff   01957  01957                % 01474 AVL---
+200406010 Cents, Jules Salenti  01957  01957                % 01474 AVL---
+200406012 Cents, Kierch         01957  01957                % 01474 AVL---
+200406017 Cents, Tawioun        01958  01958                % 01474 AVL---
+200406007 Cents, Fort Dumoulin  01959  01959                % 01474 AVL---
+200406011 Cents, Kéibierg-I.N.  02000  02000                % 01474 AVL---
+200408006 Clausen, Rumm         02001  02001                % 01474 AVL---
+200408008 Clausen, Tour Jacob   02001  02001                % 01474 AVL---
+200408001 Clausen, Clausener B  02002  02002                % 01474 AVL---
+200408005 Clausen, Plateau Alt  02003  02003                % 01474 AVL---
+200423004 Pfaffenthal, Um Bock  02004  02004                % 01474 AVL---
+200405005 Centre, Badanstalt    02006  02006                % 01474 AVL---
+200405020 Hamilius              02009  02009                % 01474 AVL---
+200405023 Centre, Martyrs       02010  02010                % 01474 AVL---
+200405026 Luxembourg/Centre, P  02011  02011                % 01474 AVL---
+200405035 Luxembourg, Gare Cen  02013                       % 01474 AVL---
+*Z 01475 AVL---                                             % 01475 AVL---
+*L 14       200406019 200405035  00742  00804               % 01475 AVL---
+*A BE 200406019 200405035 000019  00742  00804              % 01475 AVL---
+*R 2 200405035 200406019 200405035  00742  00804            % 01475 AVL---
+*G AVS 200406019 200405035  00742  00804                    % 01475 AVL---
+*A VE 200406019 200405035 000019  00742  00804              % 01475 AVL---
+200406019 Cents, Waassertuerm          00742                % 01475 AVL---
+200406003 Cents, Camille Polfe  00743  00743                % 01475 AVL---
+200406014 Cents, Paul Albrecht  00744  00744                % 01475 AVL---
+200406004 Cents, Carmel         00745  00745                % 01475 AVL---
+200406018 Cents, Trèves         00745  00745                % 01475 AVL---
+200406016 Cents, Robert Bruch   00746  00746                % 01475 AVL---
+200406008 Cents, Gabriel de Ma  00746  00746                % 01475 AVL---
+200406005 Cents, Charles de To  00747  00747                % 01475 AVL---
+200406002 Cents, Arthur Knaff   00748  00748                % 01475 AVL---
+200406010 Cents, Jules Salenti  00748  00748                % 01475 AVL---
+200406012 Cents, Kierch         00748  00748                % 01475 AVL---
+200406017 Cents, Tawioun        00749  00749                % 01475 AVL---
+200406007 Cents, Fort Dumoulin  00750  00750                % 01475 AVL---
+200406011 Cents, Kéibierg-I.N.  00751  00751                % 01475 AVL---
+200408006 Clausen, Rumm         00752  00752                % 01475 AVL---
+200408008 Clausen, Tour Jacob   00752  00752                % 01475 AVL---
+200408001 Clausen, Clausener B  00753  00753                % 01475 AVL---
+200408005 Clausen, Plateau Alt  00754  00754                % 01475 AVL---
+200423004 Pfaffenthal, Um Bock  00755  00755                % 01475 AVL---
+200405005 Centre, Badanstalt    00757  00757                % 01475 AVL---
+200405020 Hamilius              00800  00800                % 01475 AVL---
+200405023 Centre, Martyrs       00801  00801                % 01475 AVL---
+200405026 Luxembourg/Centre, P  00802  00802                % 01475 AVL---
+200405035 Luxembourg, Gare Cen  00804                       % 01475 AVL---
+*Z 01476 AVL---       003 030                               % 01476 AVL---
+*L 14       200406019 200405035  00542  00604               % 01476 AVL---
+*A BE 200406019 200405035 000019  00542  00604              % 01476 AVL---
+*R 2 200405035 200406019 200405035  00542  00604            % 01476 AVL---
+*G AVS 200406019 200405035  00542  00604                    % 01476 AVL---
+*A VE 200406019 200405035 000019  00542  00604              % 01476 AVL---
+200406019 Cents, Waassertuerm          00542                % 01476 AVL---
+200406003 Cents, Camille Polfe  00543  00543                % 01476 AVL---
+200406014 Cents, Paul Albrecht  00544  00544                % 01476 AVL---
+200406004 Cents, Carmel         00545  00545                % 01476 AVL---
+200406018 Cents, Trèves         00545  00545                % 01476 AVL---
+200406016 Cents, Robert Bruch   00546  00546                % 01476 AVL---
+200406008 Cents, Gabriel de Ma  00546  00546                % 01476 AVL---
+200406005 Cents, Charles de To  00547  00547                % 01476 AVL---
+200406002 Cents, Arthur Knaff   00548  00548                % 01476 AVL---
+200406010 Cents, Jules Salenti  00548  00548                % 01476 AVL---
+200406012 Cents, Kierch         00548  00548                % 01476 AVL---
+200406017 Cents, Tawioun        00549  00549                % 01476 AVL---
+200406007 Cents, Fort Dumoulin  00550  00550                % 01476 AVL---
+200406011 Cents, Kéibierg-I.N.  00551  00551                % 01476 AVL---
+200408006 Clausen, Rumm         00552  00552                % 01476 AVL---
+200408008 Clausen, Tour Jacob   00552  00552                % 01476 AVL---
+200408001 Clausen, Clausener B  00553  00553                % 01476 AVL---
+200408005 Clausen, Plateau Alt  00554  00554                % 01476 AVL---
+200423004 Pfaffenthal, Um Bock  00555  00555                % 01476 AVL---
+200405005 Centre, Badanstalt    00557  00557                % 01476 AVL---
+200405020 Hamilius              00600  00600                % 01476 AVL---
+200405023 Centre, Martyrs       00601  00601                % 01476 AVL---
+200405026 Luxembourg/Centre, P  00602  00602                % 01476 AVL---
+200405035 Luxembourg, Gare Cen  00604                       % 01476 AVL---
+*Z 01477 AVL---       051 015                               % 01477 AVL---
+*L 14       200406019 200405035  00644  00711               % 01477 AVL---
+*A BE 200406019 200405035 000013  00644  00711              % 01477 AVL---
+*R 2 200405035 200406019 200405035  00644  00711            % 01477 AVL---
+*G AVS 200406019 200405035  00644  00711                    % 01477 AVL---
+*A VE 200406019 200405035 000013  00644  00711              % 01477 AVL---
+200406019 Cents, Waassertuerm          00644                % 01477 AVL---
+200406003 Cents, Camille Polfe  00645  00645                % 01477 AVL---
+200406014 Cents, Paul Albrecht  00646  00646                % 01477 AVL---
+200406004 Cents, Carmel         00648  00648                % 01477 AVL---
+200406018 Cents, Trèves         00648  00648                % 01477 AVL---
+200406016 Cents, Robert Bruch   00649  00649                % 01477 AVL---
+200406008 Cents, Gabriel de Ma  00650  00650                % 01477 AVL---
+200406005 Cents, Charles de To  00651  00651                % 01477 AVL---
+200406002 Cents, Arthur Knaff   00651  00651                % 01477 AVL---
+200406010 Cents, Jules Salenti  00652  00652                % 01477 AVL---
+200406012 Cents, Kierch         00653  00653                % 01477 AVL---
+200406017 Cents, Tawioun        00654  00654                % 01477 AVL---
+200406007 Cents, Fort Dumoulin  00655  00655                % 01477 AVL---
+200406011 Cents, Kéibierg-I.N.  00656  00656                % 01477 AVL---
+200408006 Clausen, Rumm         00657  00657                % 01477 AVL---
+200408008 Clausen, Tour Jacob   00657  00657                % 01477 AVL---
+200408001 Clausen, Clausener B  00658  00658                % 01477 AVL---
+200408005 Clausen, Plateau Alt  00659  00659                % 01477 AVL---
+200423004 Pfaffenthal, Um Bock  00700  00700                % 01477 AVL---
+200405005 Centre, Badanstalt    00702  00702                % 01477 AVL---
+200405020 Hamilius              00706  00706                % 01477 AVL---
+200405023 Centre, Martyrs       00707  00707                % 01477 AVL---
+200405026 Luxembourg/Centre, P  00709  00709                % 01477 AVL---
+200405035 Luxembourg, Gare Cen  00711                       % 01477 AVL---
+*Z 01478 AVL---       046 015                               % 01478 AVL---
+*L 14       200406019 200405035  00800  00824               % 01478 AVL---
+*A BE 200406019 200405035 000022  00800  00824              % 01478 AVL---
+*R 2 200405035 200406019 200405035  00800  00824            % 01478 AVL---
+*G AVS 200406019 200405035  00800  00824                    % 01478 AVL---
+*A VE 200406019 200405035 000022  00800  00824              % 01478 AVL---
+200406019 Cents, Waassertuerm          00800                % 01478 AVL---
+200406003 Cents, Camille Polfe  00801  00801                % 01478 AVL---
+200406014 Cents, Paul Albrecht  00801  00801                % 01478 AVL---
+200406004 Cents, Carmel         00803  00803                % 01478 AVL---
+200406018 Cents, Trèves         00803  00803                % 01478 AVL---
+200406016 Cents, Robert Bruch   00804  00804                % 01478 AVL---
+200406008 Cents, Gabriel de Ma  00805  00805                % 01478 AVL---
+200406005 Cents, Charles de To  00805  00805                % 01478 AVL---
+200406002 Cents, Arthur Knaff   00806  00806                % 01478 AVL---
+200406010 Cents, Jules Salenti  00806  00806                % 01478 AVL---
+200406012 Cents, Kierch         00807  00807                % 01478 AVL---
+200406017 Cents, Tawioun        00808  00808                % 01478 AVL---
+200406007 Cents, Fort Dumoulin  00809  00809                % 01478 AVL---
+200406011 Cents, Kéibierg-I.N.  00809  00809                % 01478 AVL---
+200408006 Clausen, Rumm         00810  00810                % 01478 AVL---
+200408008 Clausen, Tour Jacob   00811  00811                % 01478 AVL---
+200408001 Clausen, Clausener B  00812  00812                % 01478 AVL---
+200408005 Clausen, Plateau Alt  00813  00813                % 01478 AVL---
+200423004 Pfaffenthal, Um Bock  00814  00814                % 01478 AVL---
+200405005 Centre, Badanstalt    00816  00816                % 01478 AVL---
+200405020 Hamilius              00819  00819                % 01478 AVL---
+200405023 Centre, Martyrs       00820  00820                % 01478 AVL---
+200405026 Luxembourg/Centre, P  00822  00822                % 01478 AVL---
+200405035 Luxembourg, Gare Cen  00824                       % 01478 AVL---
+*Z 01479 AVL---       016 030                               % 01479 AVL---
+*L 14       200406019 200405035  01141  01205               % 01479 AVL---
+*A BE 200406019 200405035 000017  01141  01205              % 01479 AVL---
+*R 2 200405035 200406019 200405035  01141  01205            % 01479 AVL---
+*G AVS 200406019 200405035  01141  01205                    % 01479 AVL---
+*A VE 200406019 200405035 000017  01141  01205              % 01479 AVL---
+200406019 Cents, Waassertuerm          01141                % 01479 AVL---
+200406003 Cents, Camille Polfe  01142  01142                % 01479 AVL---
+200406014 Cents, Paul Albrecht  01142  01142                % 01479 AVL---
+200406004 Cents, Carmel         01144  01144                % 01479 AVL---
+200406018 Cents, Trèves         01144  01144                % 01479 AVL---
+200406016 Cents, Robert Bruch   01145  01145                % 01479 AVL---
+200406008 Cents, Gabriel de Ma  01146  01146                % 01479 AVL---
+200406005 Cents, Charles de To  01146  01146                % 01479 AVL---
+200406002 Cents, Arthur Knaff   01147  01147                % 01479 AVL---
+200406010 Cents, Jules Salenti  01147  01147                % 01479 AVL---
+200406012 Cents, Kierch         01148  01148                % 01479 AVL---
+200406017 Cents, Tawioun        01149  01149                % 01479 AVL---
+200406007 Cents, Fort Dumoulin  01150  01150                % 01479 AVL---
+200406011 Cents, Kéibierg-I.N.  01150  01150                % 01479 AVL---
+200408006 Clausen, Rumm         01151  01151                % 01479 AVL---
+200408008 Clausen, Tour Jacob   01152  01152                % 01479 AVL---
+200408001 Clausen, Clausener B  01153  01153                % 01479 AVL---
+200408005 Clausen, Plateau Alt  01154  01154                % 01479 AVL---
+200423004 Pfaffenthal, Um Bock  01155  01155                % 01479 AVL---
+200405005 Centre, Badanstalt    01157  01157                % 01479 AVL---
+200405020 Hamilius              01200  01200                % 01479 AVL---
+200405023 Centre, Martyrs       01201  01201                % 01479 AVL---
+200405026 Luxembourg/Centre, P  01203  01203                % 01479 AVL---
+200405035 Luxembourg, Gare Cen  01205                       % 01479 AVL---

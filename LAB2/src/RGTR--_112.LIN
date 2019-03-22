@@ -1,0 +1,144 @@
+*F 03 2
+*Z 01066 RGTR--                                             % 01066 RGTR--
+*L 112      180511002 170501016  01900  01942               % 01066 RGTR--
+*A cp 180511002 170501016 000006  01900  01942              % 01066 RGTR--
+*A cn 180511002 170501016 000006  01900  01942              % 01066 RGTR--
+*R 1 170501016 180511002 170501016  01900  01942            % 01066 RGTR--
+*G RGB 180511002 170501016  01900  01942                    % 01066 RGTR--
+*A VE 180511002 170501016 000006  01900  01942              % 01066 RGTR--
+*I FD 180511002 170501016        0002355  01900  01942      % 01066 RGTR--
+180511002 Junglinster, Op der          01900                % 01066 RGTR--
+180506001 Eschweiler/Junglinst  01907  01907                % 01066 RGTR--
+180502001 Beidweiler, Am Duerf  01911  01911                % 01066 RGTR--
+180502002 Beidweiler, Op der G  01912  01912                % 01066 RGTR--
+170205002 Rippig                01914  01914                % 01066 RGTR--
+170203002 Hemstal, Kiirch       01915  01915                % 01066 RGTR--
+170203001 Hemstal, Am Iewescht  01916  01916                % 01066 RGTR--
+170206001 Zittig, Kapell        01918  01918                % 01066 RGTR--
+170206002 Zittig, Moulin        01920  01920                % 01066 RGTR--
+180205002 Brouch/Wecker, Gaerl  01921  01921                % 01066 RGTR--
+170202003 Bech, Béiwerwiss      01924  01924                % 01066 RGTR--
+170202002 Bech, Beim Weiher     01925  01925                % 01066 RGTR--
+170202005 Bech, Um Faubourg     01926  01926                % 01066 RGTR--
+170402001 Consdorf, Gare        01930  01930                % 01066 RGTR--
+170402005 Consdorf, Post        01931  01931                % 01066 RGTR--
+170402002 Consdorf, Haenricht   01933  01933                % 01066 RGTR--
+170402003 Consdorf, Kraizstroo  01933  01933                % 01066 RGTR--
+170403002 Scheidgen, Hotschent  01934  01934                % 01066 RGTR--
+170403003 Scheidgen, Veräinsba  01935  01935                % 01066 RGTR--
+170403001 Scheidgen, Biweschla  01936  01936                % 01066 RGTR--
+170502001 Lauterborn            01939  01939                % 01066 RGTR--
+170503001 Specksmillen          01940  01940                % 01066 RGTR--
+170501012 Echternach, Nonnenmi  01940  01940                % 01066 RGTR--
+170501004 Echternach, Centre d  01941  01941                % 01066 RGTR--
+170501006 Echternach, Charly's  01942  01942                % 01066 RGTR--
+170501016 Echternach, Gare Cen  01942                       % 01066 RGTR--
+*Z 01067 RGTR--                                             % 01067 RGTR--
+*L 112      180511002 170501016  01240  01322               % 01067 RGTR--
+*A FR 180511002 170501016 000042  01240  01322              % 01067 RGTR--
+*A cn 180511002 170501016 000042  01240  01322              % 01067 RGTR--
+*R 1 170501016 180511002 170501016  01240  01322            % 01067 RGTR--
+*G RGB 180511002 170501016  01240  01322                    % 01067 RGTR--
+*A VE 180511002 170501016 000042  01240  01322              % 01067 RGTR--
+*I FD 180511002 170501016        0001277  01240  01322      % 01067 RGTR--
+180511002 Junglinster, Op der          01240                % 01067 RGTR--
+180506001 Eschweiler/Junglinst  01247  01247                % 01067 RGTR--
+180502001 Beidweiler, Am Duerf  01251  01251                % 01067 RGTR--
+180502002 Beidweiler, Op der G  01252  01252                % 01067 RGTR--
+170205002 Rippig                01254  01254                % 01067 RGTR--
+170203002 Hemstal, Kiirch       01255  01255                % 01067 RGTR--
+170203001 Hemstal, Am Iewescht  01256  01256                % 01067 RGTR--
+170206001 Zittig, Kapell        01258  01258                % 01067 RGTR--
+170206002 Zittig, Moulin        01300  01300                % 01067 RGTR--
+180205002 Brouch/Wecker, Gaerl  01301  01301                % 01067 RGTR--
+170202003 Bech, Béiwerwiss      01304  01304                % 01067 RGTR--
+170202002 Bech, Beim Weiher     01305  01305                % 01067 RGTR--
+170202005 Bech, Um Faubourg     01306  01306                % 01067 RGTR--
+170402001 Consdorf, Gare        01310  01310                % 01067 RGTR--
+170402005 Consdorf, Post        01311  01311                % 01067 RGTR--
+170402002 Consdorf, Haenricht   01313  01313                % 01067 RGTR--
+170402003 Consdorf, Kraizstroo  01313  01313                % 01067 RGTR--
+170403002 Scheidgen, Hotschent  01314  01314                % 01067 RGTR--
+170403003 Scheidgen, Veräinsba  01315  01315                % 01067 RGTR--
+170403001 Scheidgen, Biweschla  01316  01316                % 01067 RGTR--
+170502001 Lauterborn            01319  01319                % 01067 RGTR--
+170503001 Specksmillen          01320  01320                % 01067 RGTR--
+170501012 Echternach, Nonnenmi  01320  01320                % 01067 RGTR--
+170501004 Echternach, Centre d  01321  01321                % 01067 RGTR--
+170501006 Echternach, Charly's  01322  01322                % 01067 RGTR--
+170501016 Echternach, Gare Cen  01322                       % 01067 RGTR--
+*Z 01068 RGTR--                                             % 01068 RGTR--
+*L 112      170402005 170403001  01655  01659               % 01068 RGTR--
+*A FR 170402005 170403001 000045  01655  01659              % 01068 RGTR--
+*A BU 170402005 170403001 000045  01655  01659              % 01068 RGTR--
+*A cq 170402005 170403001 000045  01655  01659              % 01068 RGTR--
+*R 1 170403001 170402005 170403001  01655  01659            % 01068 RGTR--
+*G RGB 170402005 170403001  01655  01659                    % 01068 RGTR--
+*A VE 170402005 170403001 000045  01655  01659              % 01068 RGTR--
+*I FD 170402005 170403001        0002347  01655  01659      % 01068 RGTR--
+170402005 Consdorf, Post               01655                % 01068 RGTR--
+170402003 Consdorf, Kraizstroo  01657  01657                % 01068 RGTR--
+170403002 Scheidgen, Hotschent  01658  01658                % 01068 RGTR--
+170403003 Scheidgen, Veräinsba  01658  01658                % 01068 RGTR--
+170403001 Scheidgen, Biweschla  01659                       % 01068 RGTR--
+*Z 01069 RGTR--                                             % 01069 RGTR--
+*L 112      170402006 170403001  01215  01218               % 01069 RGTR--
+*A FR 170402006 170403001 000030  01215  01218              % 01069 RGTR--
+*A cq 170402006 170403001 000030  01215  01218              % 01069 RGTR--
+*R 1 170403001 170402006 170403001  01215  01218            % 01069 RGTR--
+*G RGB 170402006 170403001  01215  01218                    % 01069 RGTR--
+*A VE 170402006 170403001 000030  01215  01218              % 01069 RGTR--
+*I FD 170402006 170403001        0001803  01215  01218      % 01069 RGTR--
+170402006 Consdorf, Schoul             01215                % 01069 RGTR--
+170402003 Consdorf, Kraizstroo  01216  01216                % 01069 RGTR--
+170403002 Scheidgen, Hotschent  01217  01217                % 01069 RGTR--
+170403003 Scheidgen, Veräinsba  01217  01217                % 01069 RGTR--
+170403001 Scheidgen, Biweschla  01218                       % 01069 RGTR--
+*Z 01070 RGTR--                                             % 01070 RGTR--
+*L 112      170402006 170403001  01610  01614               % 01070 RGTR--
+*A FR 170402006 170403001 000045  01610  01614              % 01070 RGTR--
+*A cq 170402006 170403001 000045  01610  01614              % 01070 RGTR--
+*R 1 170403001 170402006 170403001  01610  01614            % 01070 RGTR--
+*G RGB 170402006 170403001  01610  01614                    % 01070 RGTR--
+*A VE 170402006 170403001 000045  01610  01614              % 01070 RGTR--
+*I FD 170402006 170403001        0001895  01610  01614      % 01070 RGTR--
+170402006 Consdorf, Schoul             01610                % 01070 RGTR--
+170402003 Consdorf, Kraizstroo  01611  01611                % 01070 RGTR--
+170403002 Scheidgen, Hotschent  01612  01612                % 01070 RGTR--
+170403003 Scheidgen, Veräinsba  01612  01612                % 01070 RGTR--
+170403001 Scheidgen, Biweschla  01614                       % 01070 RGTR--
+*Z 01071 RGTR--                                             % 01071 RGTR--
+*L 112      170501016 180511002  01810  01849               % 01071 RGTR--
+*A cp 170501016 180511002 000006  01810  01849              % 01071 RGTR--
+*A cr 170501016 180511002 000006  01810  01849              % 01071 RGTR--
+*A GU 170501016 180511002 000006  01810  01849              % 01071 RGTR--
+*R 2 180511002 170501016 180511002  01810  01849            % 01071 RGTR--
+*G RGB 170501016 180511002  01810  01849                    % 01071 RGTR--
+*A VE 170501016 180511002 000006  01810  01849              % 01071 RGTR--
+*I FD 170501016 180511002        0002049  01810  01849      % 01071 RGTR--
+170501016 Echternach, Gare Cen         01810                % 01071 RGTR--
+170501003 Echternach, Belle Vu  01811  01811                % 01071 RGTR--
+170501004 Echternach, Centre d  01812  01812                % 01071 RGTR--
+170501012 Echternach, Nonnenmi  01813  01813                % 01071 RGTR--
+170503001 Specksmillen          01813  01813                % 01071 RGTR--
+170502001 Lauterborn            01814  01814                % 01071 RGTR--
+170403001 Scheidgen, Biweschla  01816  01816                % 01071 RGTR--
+170403003 Scheidgen, Veräinsba  01817  01817                % 01071 RGTR--
+170403002 Scheidgen, Hotschent  01818  01818                % 01071 RGTR--
+170402003 Consdorf, Kraizstroo  01819  01819                % 01071 RGTR--
+170402002 Consdorf, Haenricht   01820  01820                % 01071 RGTR--
+170402005 Consdorf, Post        01821  01821                % 01071 RGTR--
+170402001 Consdorf, Gare        01822  01822                % 01071 RGTR--
+170202005 Bech, Um Faubourg     01826  01826                % 01071 RGTR--
+170202002 Bech, Beim Weiher     01827  01827                % 01071 RGTR--
+170202003 Bech, Béiwerwiss      01827  01827                % 01071 RGTR--
+180205002 Brouch/Wecker, Gaerl  01830  01830                % 01071 RGTR--
+170206002 Zittig, Moulin        01831  01831                % 01071 RGTR--
+170206001 Zittig, Kapell        01833  01833                % 01071 RGTR--
+170203001 Hemstal, Am Iewescht  01834  01834                % 01071 RGTR--
+170203002 Hemstal, Kiirch       01834  01834                % 01071 RGTR--
+170205002 Rippig                01835  01835                % 01071 RGTR--
+180502002 Beidweiler, Op der G  01837  01837                % 01071 RGTR--
+180502001 Beidweiler, Am Duerf  01838  01838                % 01071 RGTR--
+180506001 Eschweiler/Junglinst  01841  01841                % 01071 RGTR--
+180511002 Junglinster, Op der   01849                       % 01071 RGTR--

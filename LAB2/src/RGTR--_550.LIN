@@ -1,0 +1,801 @@
+*F 03 2
+*Z 08558 RGTR--                                             % 08558 RGTR--
+*L 550      140701016 110202002  00630  00709               % 08558 RGTR--
+*A jc 140701016 110202002 000006  00630  00709              % 08558 RGTR--
+*A KG 140701016 110202002 000006  00630  00709              % 08558 RGTR--
+*A ra 140701016 110202002 000006  00630  00709              % 08558 RGTR--
+*R 1 110202002 140701016 110202002  00630  00709            % 08558 RGTR--
+*G RGB 140701016 110202002  00630  00709                    % 08558 RGTR--
+*A VE 140701016 110202002 000006  00630  00709              % 08558 RGTR--
+*I FD 140701016 110202002        0000966  00630  00709      % 08558 RGTR--
+140701016 Ettelbruck, Gare             00630                % 08558 RGTR--
+140602002 Erpeldange/Sûre, Bei  00632  00632                % 08558 RGTR--
+140602007 Erpeldange/Sûre, Bei  00633  00633                % 08558 RGTR--
+140602005 Erpeldange/Ettelbruc  00633  00633                % 08558 RGTR--
+140602004 Erpeldange/Ettelbruc  00634  00634                % 08558 RGTR--
+140307004 Michelau, Willspull   00641  00641                % 08558 RGTR--
+140307003 Michelau, Op der Sau  00642  00642                % 08558 RGTR--
+140307002 Michelau, Kiirch      00643  00643                % 08558 RGTR--
+140307005 Michelau, Bei Schrei  00644  00644                % 08558 RGTR--
+140301003 Bourscheid, Millen    00646  00646                % 08558 RGTR--
+140306001 Lipperscheid, Ale Ki  00648  00648                % 08558 RGTR--
+140301004 Bourscheid, An der S  00651  00651                % 08558 RGTR--
+140304003 Goebelsmühle, Op der  00654  00654                % 08558 RGTR--
+140309001 Schlindermand., Bei   00657  00657                % 08558 RGTR--
+140309002 Schlindermanderschei  00658  00658                % 08558 RGTR--
+140309003 Schlindermanderschei  00659  00659                % 08558 RGTR--
+140303001 Friedbësch            00702  00702                % 08558 RGTR--
+110201002 Consthum, Kémel       00705  00705                % 08558 RGTR--
+110201003 Consthum, Knupp       00706  00706                % 08558 RGTR--
+110202001 Holzthum, Op der Hoe  00708  00708                % 08558 RGTR--
+110202002 Holzthum, Bei der Ki  00709                       % 08558 RGTR--
+*Z 08559 RGTR--                                             % 08559 RGTR--
+*L 550      140701016 110202002  01418  01455               % 08559 RGTR--
+*A jc 140701016 110202002 000006  01418  01455              % 08559 RGTR--
+*A ra 140701016 110202002 000006  01418  01455              % 08559 RGTR--
+*R 1 110202002 140701016 110202002  01418  01455            % 08559 RGTR--
+*G RGB 140701016 110202002  01418  01455                    % 08559 RGTR--
+*A VE 140701016 110202002 000006  01418  01455              % 08559 RGTR--
+*I FD 140701016 110202002        0002651  01418  01455      % 08559 RGTR--
+140701016 Ettelbruck, Gare             01418                % 08559 RGTR--
+140602002 Erpeldange/Sûre, Bei  01420  01420                % 08559 RGTR--
+140602007 Erpeldange/Sûre, Bei  01421  01421                % 08559 RGTR--
+140602005 Erpeldange/Ettelbruc  01421  01421                % 08559 RGTR--
+140602004 Erpeldange/Ettelbruc  01422  01422                % 08559 RGTR--
+140307004 Michelau, Willspull   01429  01429                % 08559 RGTR--
+140307003 Michelau, Op der Sau  01430  01430                % 08559 RGTR--
+140307002 Michelau, Kiirch      01431  01431                % 08559 RGTR--
+140307005 Michelau, Bei Schrei  01431  01431                % 08559 RGTR--
+140301003 Bourscheid, Millen    01433  01433                % 08559 RGTR--
+140306001 Lipperscheid, Ale Ki  01435  01435                % 08559 RGTR--
+140301004 Bourscheid, An der S  01439  01439                % 08559 RGTR--
+140304003 Goebelsmühle, Op der  01441  01441                % 08559 RGTR--
+140309001 Schlindermand., Bei   01444  01444                % 08559 RGTR--
+140309002 Schlindermanderschei  01444  01444                % 08559 RGTR--
+140309003 Schlindermanderschei  01446  01446                % 08559 RGTR--
+140303001 Friedbësch            01448  01448                % 08559 RGTR--
+110201002 Consthum, Kémel       01451  01451                % 08559 RGTR--
+110201003 Consthum, Knupp       01453  01453                % 08559 RGTR--
+110202001 Holzthum, Op der Hoe  01455  01455                % 08559 RGTR--
+110202002 Holzthum, Bei der Ki  01455                       % 08559 RGTR--
+*Z 08560 RGTR--                                             % 08560 RGTR--
+*L 550      140701016 110202002  01429  01506               % 08560 RGTR--
+*A jc 140701016 110202002 000006  01429  01506              % 08560 RGTR--
+*A rb 140701016 110202002 000006  01429  01506              % 08560 RGTR--
+*A ra 140701016 110202002 000006  01429  01506              % 08560 RGTR--
+*R 1 110202002 140701016 110202002  01429  01506            % 08560 RGTR--
+*G RGB 140701016 110202002  01429  01506                    % 08560 RGTR--
+*A VE 140701016 110202002 000006  01429  01506              % 08560 RGTR--
+*I FD 140701016 110202002        0002871  01429  01506      % 08560 RGTR--
+140701016 Ettelbruck, Gare             01429                % 08560 RGTR--
+140602002 Erpeldange/Sûre, Bei  01431  01431                % 08560 RGTR--
+140602007 Erpeldange/Sûre, Bei  01432  01432                % 08560 RGTR--
+140602005 Erpeldange/Ettelbruc  01432  01432                % 08560 RGTR--
+140602004 Erpeldange/Ettelbruc  01433  01433                % 08560 RGTR--
+140307004 Michelau, Willspull   01440  01440                % 08560 RGTR--
+140307003 Michelau, Op der Sau  01441  01441                % 08560 RGTR--
+140307002 Michelau, Kiirch      01442  01442                % 08560 RGTR--
+140307005 Michelau, Bei Schrei  01442  01442                % 08560 RGTR--
+140301003 Bourscheid, Millen    01444  01444                % 08560 RGTR--
+140306001 Lipperscheid, Ale Ki  01446  01446                % 08560 RGTR--
+140301004 Bourscheid, An der S  01450  01450                % 08560 RGTR--
+140304003 Goebelsmühle, Op der  01452  01452                % 08560 RGTR--
+140309001 Schlindermand., Bei   01455  01455                % 08560 RGTR--
+140309002 Schlindermanderschei  01455  01455                % 08560 RGTR--
+140309003 Schlindermanderschei  01457  01457                % 08560 RGTR--
+140303001 Friedbësch            01459  01459                % 08560 RGTR--
+110201002 Consthum, Kémel       01502  01502                % 08560 RGTR--
+110201003 Consthum, Knupp       01504  01504                % 08560 RGTR--
+110202001 Holzthum, Op der Hoe  01506  01506                % 08560 RGTR--
+110202002 Holzthum, Bei der Ki  01506                       % 08560 RGTR--
+*Z 08561 RGTR--                                             % 08561 RGTR--
+*L 550      140701016 110202002  02230  02307               % 08561 RGTR--
+*A jc 140701016 110202002 000006  02230  02307              % 08561 RGTR--
+*A KH 140701016 110202002 000006  02230  02307              % 08561 RGTR--
+*A ra 140701016 110202002 000006  02230  02307              % 08561 RGTR--
+*R 1 110202002 140701016 110202002  02230  02307            % 08561 RGTR--
+*G RGB 140701016 110202002  02230  02307                    % 08561 RGTR--
+*A VE 140701016 110202002 000006  02230  02307              % 08561 RGTR--
+*I FD 140701016 110202002        0002640  02230  02307      % 08561 RGTR--
+140701016 Ettelbruck, Gare             02230                % 08561 RGTR--
+140602002 Erpeldange/Sûre, Bei  02232  02232                % 08561 RGTR--
+140602007 Erpeldange/Sûre, Bei  02233  02233                % 08561 RGTR--
+140602005 Erpeldange/Ettelbruc  02233  02233                % 08561 RGTR--
+140602004 Erpeldange/Ettelbruc  02234  02234                % 08561 RGTR--
+140307004 Michelau, Willspull   02241  02241                % 08561 RGTR--
+140307003 Michelau, Op der Sau  02242  02242                % 08561 RGTR--
+140307002 Michelau, Kiirch      02243  02243                % 08561 RGTR--
+140307005 Michelau, Bei Schrei  02243  02243                % 08561 RGTR--
+140301003 Bourscheid, Millen    02245  02245                % 08561 RGTR--
+140306001 Lipperscheid, Ale Ki  02247  02247                % 08561 RGTR--
+140301004 Bourscheid, An der S  02251  02251                % 08561 RGTR--
+140304003 Goebelsmühle, Op der  02253  02253                % 08561 RGTR--
+140309001 Schlindermand., Bei   02256  02256                % 08561 RGTR--
+140309002 Schlindermanderschei  02256  02256                % 08561 RGTR--
+140309003 Schlindermanderschei  02258  02258                % 08561 RGTR--
+140303001 Friedbësch            02300  02300                % 08561 RGTR--
+110201002 Consthum, Kémel       02303  02303                % 08561 RGTR--
+110201003 Consthum, Knupp       02305  02305                % 08561 RGTR--
+110202001 Holzthum, Op der Hoe  02307  02307                % 08561 RGTR--
+110202002 Holzthum, Bei der Ki  02307                       % 08561 RGTR--
+*Z 08562 RGTR--                                             % 08562 RGTR--
+*L 550      140701016 140309002  01018  01044               % 08562 RGTR--
+*A jc 140701016 140309002 000006  01018  01044              % 08562 RGTR--
+*A rc 140701016 140309002 000006  01018  01044              % 08562 RGTR--
+*R 1 140309002 140701016 140309002  01018  01044            % 08562 RGTR--
+*G RGB 140701016 140309002  01018  01044                    % 08562 RGTR--
+*A VE 140701016 140309002 000006  01018  01044              % 08562 RGTR--
+*I FD 140701016 140309002        0001829  01018  01044      % 08562 RGTR--
+140701016 Ettelbruck, Gare             01018                % 08562 RGTR--
+140602002 Erpeldange/Sûre, Bei  01020  01020                % 08562 RGTR--
+140602007 Erpeldange/Sûre, Bei  01021  01021                % 08562 RGTR--
+140602005 Erpeldange/Ettelbruc  01021  01021                % 08562 RGTR--
+140602004 Erpeldange/Ettelbruc  01022  01022                % 08562 RGTR--
+140307004 Michelau, Willspull   01029  01029                % 08562 RGTR--
+140307003 Michelau, Op der Sau  01030  01030                % 08562 RGTR--
+140307002 Michelau, Kiirch      01031  01031                % 08562 RGTR--
+140307005 Michelau, Bei Schrei  01031  01031                % 08562 RGTR--
+140301003 Bourscheid, Millen    01033  01033                % 08562 RGTR--
+140306001 Lipperscheid, Ale Ki  01035  01035                % 08562 RGTR--
+140301004 Bourscheid, An der S  01039  01039                % 08562 RGTR--
+140304003 Goebelsmühle, Op der  01041  01041                % 08562 RGTR--
+140309001 Schlindermand., Bei   01044  01044                % 08562 RGTR--
+140309002 Schlindermanderschei  01044                       % 08562 RGTR--
+*Z 08563 RGTR--                                             % 08563 RGTR--
+*L 550      140701016 140309002  01118  01144               % 08563 RGTR--
+*A jc 140701016 140309002 000006  01118  01144              % 08563 RGTR--
+*A rc 140701016 140309002 000006  01118  01144              % 08563 RGTR--
+*R 1 140309002 140701016 140309002  01118  01144            % 08563 RGTR--
+*G RGB 140701016 140309002  01118  01144                    % 08563 RGTR--
+*A VE 140701016 140309002 000006  01118  01144              % 08563 RGTR--
+*I FD 140701016 140309002        0001227  01118  01144      % 08563 RGTR--
+140701016 Ettelbruck, Gare             01118                % 08563 RGTR--
+140602002 Erpeldange/Sûre, Bei  01120  01120                % 08563 RGTR--
+140602007 Erpeldange/Sûre, Bei  01121  01121                % 08563 RGTR--
+140602005 Erpeldange/Ettelbruc  01121  01121                % 08563 RGTR--
+140602004 Erpeldange/Ettelbruc  01122  01122                % 08563 RGTR--
+140307004 Michelau, Willspull   01129  01129                % 08563 RGTR--
+140307003 Michelau, Op der Sau  01130  01130                % 08563 RGTR--
+140307002 Michelau, Kiirch      01131  01131                % 08563 RGTR--
+140307005 Michelau, Bei Schrei  01131  01131                % 08563 RGTR--
+140301003 Bourscheid, Millen    01133  01133                % 08563 RGTR--
+140306001 Lipperscheid, Ale Ki  01135  01135                % 08563 RGTR--
+140301004 Bourscheid, An der S  01139  01139                % 08563 RGTR--
+140304003 Goebelsmühle, Op der  01141  01141                % 08563 RGTR--
+140309001 Schlindermand., Bei   01144  01144                % 08563 RGTR--
+140309002 Schlindermanderschei  01144                       % 08563 RGTR--
+*Z 08564 RGTR--                                             % 08564 RGTR--
+*L 550      140701016 140309002  01208  01234               % 08564 RGTR--
+*A jc 140701016 140309002 000006  01208  01234              % 08564 RGTR--
+*A KH 140701016 140309002 000006  01208  01234              % 08564 RGTR--
+*A rc 140701016 140309002 000006  01208  01234              % 08564 RGTR--
+*R 1 140309002 140701016 140309002  01208  01234            % 08564 RGTR--
+*G RGB 140701016 140309002  01208  01234                    % 08564 RGTR--
+*A VE 140701016 140309002 000006  01208  01234              % 08564 RGTR--
+*I FD 140701016 140309002        0002222  01208  01234      % 08564 RGTR--
+140701016 Ettelbruck, Gare             01208                % 08564 RGTR--
+140602002 Erpeldange/Sûre, Bei  01210  01210                % 08564 RGTR--
+140602007 Erpeldange/Sûre, Bei  01211  01211                % 08564 RGTR--
+140602005 Erpeldange/Ettelbruc  01211  01211                % 08564 RGTR--
+140602004 Erpeldange/Ettelbruc  01212  01212                % 08564 RGTR--
+140307004 Michelau, Willspull   01219  01219                % 08564 RGTR--
+140307003 Michelau, Op der Sau  01220  01220                % 08564 RGTR--
+140307002 Michelau, Kiirch      01221  01221                % 08564 RGTR--
+140307005 Michelau, Bei Schrei  01221  01221                % 08564 RGTR--
+140301003 Bourscheid, Millen    01223  01223                % 08564 RGTR--
+140306001 Lipperscheid, Ale Ki  01225  01225                % 08564 RGTR--
+140301004 Bourscheid, An der S  01229  01229                % 08564 RGTR--
+140304003 Goebelsmühle, Op der  01231  01231                % 08564 RGTR--
+140309001 Schlindermand., Bei   01234  01234                % 08564 RGTR--
+140309002 Schlindermanderschei  01234                       % 08564 RGTR--
+*Z 08565 RGTR--                                             % 08565 RGTR--
+*L 550      140701016 140309002  01318  01344               % 08565 RGTR--
+*A jc 140701016 140309002 000006  01318  01344              % 08565 RGTR--
+*A rc 140701016 140309002 000006  01318  01344              % 08565 RGTR--
+*R 1 140309002 140701016 140309002  01318  01344            % 08565 RGTR--
+*G RGB 140701016 140309002  01318  01344                    % 08565 RGTR--
+*A VE 140701016 140309002 000006  01318  01344              % 08565 RGTR--
+*I FD 140701016 140309002        0002710  01318  01344      % 08565 RGTR--
+140701016 Ettelbruck, Gare             01318                % 08565 RGTR--
+140602002 Erpeldange/Sûre, Bei  01320  01320                % 08565 RGTR--
+140602007 Erpeldange/Sûre, Bei  01321  01321                % 08565 RGTR--
+140602005 Erpeldange/Ettelbruc  01321  01321                % 08565 RGTR--
+140602004 Erpeldange/Ettelbruc  01322  01322                % 08565 RGTR--
+140307004 Michelau, Willspull   01329  01329                % 08565 RGTR--
+140307003 Michelau, Op der Sau  01330  01330                % 08565 RGTR--
+140307002 Michelau, Kiirch      01331  01331                % 08565 RGTR--
+140307005 Michelau, Bei Schrei  01331  01331                % 08565 RGTR--
+140301003 Bourscheid, Millen    01333  01333                % 08565 RGTR--
+140306001 Lipperscheid, Ale Ki  01335  01335                % 08565 RGTR--
+140301004 Bourscheid, An der S  01339  01339                % 08565 RGTR--
+140304003 Goebelsmühle, Op der  01341  01341                % 08565 RGTR--
+140309001 Schlindermand., Bei   01344  01344                % 08565 RGTR--
+140309002 Schlindermanderschei  01344                       % 08565 RGTR--
+*Z 08566 RGTR--                                             % 08566 RGTR--
+*L 550      140701016 140309002  01518  01544               % 08566 RGTR--
+*A jc 140701016 140309002 000006  01518  01544              % 08566 RGTR--
+*A rc 140701016 140309002 000006  01518  01544              % 08566 RGTR--
+*R 1 140309002 140701016 140309002  01518  01544            % 08566 RGTR--
+*G RGB 140701016 140309002  01518  01544                    % 08566 RGTR--
+*A VE 140701016 140309002 000006  01518  01544              % 08566 RGTR--
+*I FD 140701016 140309002        0002659  01518  01544      % 08566 RGTR--
+140701016 Ettelbruck, Gare             01518                % 08566 RGTR--
+140602002 Erpeldange/Sûre, Bei  01520  01520                % 08566 RGTR--
+140602007 Erpeldange/Sûre, Bei  01521  01521                % 08566 RGTR--
+140602005 Erpeldange/Ettelbruc  01521  01521                % 08566 RGTR--
+140602004 Erpeldange/Ettelbruc  01522  01522                % 08566 RGTR--
+140307004 Michelau, Willspull   01529  01529                % 08566 RGTR--
+140307003 Michelau, Op der Sau  01530  01530                % 08566 RGTR--
+140307002 Michelau, Kiirch      01531  01531                % 08566 RGTR--
+140307005 Michelau, Bei Schrei  01531  01531                % 08566 RGTR--
+140301003 Bourscheid, Millen    01533  01533                % 08566 RGTR--
+140306001 Lipperscheid, Ale Ki  01535  01535                % 08566 RGTR--
+140301004 Bourscheid, An der S  01539  01539                % 08566 RGTR--
+140304003 Goebelsmühle, Op der  01541  01541                % 08566 RGTR--
+140309001 Schlindermand., Bei   01544  01544                % 08566 RGTR--
+140309002 Schlindermanderschei  01544                       % 08566 RGTR--
+*Z 08567 RGTR--                                             % 08567 RGTR--
+*L 550      140701016 140309002  01918  01944               % 08567 RGTR--
+*A jc 140701016 140309002 000006  01918  01944              % 08567 RGTR--
+*A rc 140701016 140309002 000006  01918  01944              % 08567 RGTR--
+*R 1 140309002 140701016 140309002  01918  01944            % 08567 RGTR--
+*G RGB 140701016 140309002  01918  01944                    % 08567 RGTR--
+*A VE 140701016 140309002 000006  01918  01944              % 08567 RGTR--
+*I FD 140701016 140309002        0002711  01918  01944      % 08567 RGTR--
+140701016 Ettelbruck, Gare             01918                % 08567 RGTR--
+140602002 Erpeldange/Sûre, Bei  01920  01920                % 08567 RGTR--
+140602007 Erpeldange/Sûre, Bei  01921  01921                % 08567 RGTR--
+140602005 Erpeldange/Ettelbruc  01921  01921                % 08567 RGTR--
+140602004 Erpeldange/Ettelbruc  01922  01922                % 08567 RGTR--
+140307004 Michelau, Willspull   01929  01929                % 08567 RGTR--
+140307003 Michelau, Op der Sau  01930  01930                % 08567 RGTR--
+140307002 Michelau, Kiirch      01931  01931                % 08567 RGTR--
+140307005 Michelau, Bei Schrei  01931  01931                % 08567 RGTR--
+140301003 Bourscheid, Millen    01933  01933                % 08567 RGTR--
+140306001 Lipperscheid, Ale Ki  01935  01935                % 08567 RGTR--
+140301004 Bourscheid, An der S  01939  01939                % 08567 RGTR--
+140304003 Goebelsmühle, Op der  01941  01941                % 08567 RGTR--
+140309001 Schlindermand., Bei   01944  01944                % 08567 RGTR--
+140309002 Schlindermanderschei  01944                       % 08567 RGTR--
+*Z 08568 RGTR--                                             % 08568 RGTR--
+*L 550      140701016 140309002  00818  00846               % 08568 RGTR--
+*A jc 140701016 140309002 000006  00818  00846              % 08568 RGTR--
+*A rc 140701016 140309002 000006  00818  00846              % 08568 RGTR--
+*R 1 140309002 140701016 140309002  00818  00846            % 08568 RGTR--
+*G RGB 140701016 140309002  00818  00846                    % 08568 RGTR--
+*A VE 140701016 140309002 000006  00818  00846              % 08568 RGTR--
+*I FD 140701016 140309002        0002690  00818  00846      % 08568 RGTR--
+140701016 Ettelbruck, Gare             00818                % 08568 RGTR--
+140602002 Erpeldange/Sûre, Bei  00820  00820                % 08568 RGTR--
+140602007 Erpeldange/Sûre, Bei  00821  00821                % 08568 RGTR--
+140602005 Erpeldange/Ettelbruc  00821  00821                % 08568 RGTR--
+140602004 Erpeldange/Ettelbruc  00822  00822                % 08568 RGTR--
+140307004 Michelau, Willspull   00829  00829                % 08568 RGTR--
+140307003 Michelau, Op der Sau  00830  00830                % 08568 RGTR--
+140307002 Michelau, Kiirch      00831  00831                % 08568 RGTR--
+140307005 Michelau, Bei Schrei  00832  00832                % 08568 RGTR--
+140301003 Bourscheid, Millen    00834  00834                % 08568 RGTR--
+140306001 Lipperscheid, Ale Ki  00836  00836                % 08568 RGTR--
+140301004 Bourscheid, An der S  00839  00839                % 08568 RGTR--
+140304003 Goebelsmühle, Op der  00842  00842                % 08568 RGTR--
+140309001 Schlindermand., Bei   00845  00845                % 08568 RGTR--
+140309002 Schlindermanderschei  00846                       % 08568 RGTR--
+*Z 08569 RGTR--                                             % 08569 RGTR--
+*L 550      140701016 140309002  00918  00946               % 08569 RGTR--
+*A jc 140701016 140309002 000006  00918  00946              % 08569 RGTR--
+*A rc 140701016 140309002 000006  00918  00946              % 08569 RGTR--
+*R 1 140309002 140701016 140309002  00918  00946            % 08569 RGTR--
+*G RGB 140701016 140309002  00918  00946                    % 08569 RGTR--
+*A VE 140701016 140309002 000006  00918  00946              % 08569 RGTR--
+*I FD 140701016 140309002        0002670  00918  00946      % 08569 RGTR--
+140701016 Ettelbruck, Gare             00918                % 08569 RGTR--
+140602002 Erpeldange/Sûre, Bei  00920  00920                % 08569 RGTR--
+140602007 Erpeldange/Sûre, Bei  00921  00921                % 08569 RGTR--
+140602005 Erpeldange/Ettelbruc  00921  00921                % 08569 RGTR--
+140602004 Erpeldange/Ettelbruc  00922  00922                % 08569 RGTR--
+140307004 Michelau, Willspull   00929  00929                % 08569 RGTR--
+140307003 Michelau, Op der Sau  00930  00930                % 08569 RGTR--
+140307002 Michelau, Kiirch      00931  00931                % 08569 RGTR--
+140307005 Michelau, Bei Schrei  00932  00932                % 08569 RGTR--
+140301003 Bourscheid, Millen    00934  00934                % 08569 RGTR--
+140306001 Lipperscheid, Ale Ki  00936  00936                % 08569 RGTR--
+140301004 Bourscheid, An der S  00939  00939                % 08569 RGTR--
+140304003 Goebelsmühle, Op der  00942  00942                % 08569 RGTR--
+140309001 Schlindermand., Bei   00945  00945                % 08569 RGTR--
+140309002 Schlindermanderschei  00946                       % 08569 RGTR--
+*Z 08570 RGTR--                                             % 08570 RGTR--
+*L 550      140701016 140309002  01608  01636               % 08570 RGTR--
+*A jc 140701016 140309002 000006  01608  01636              % 08570 RGTR--
+*A KH 140701016 140309002 000006  01608  01636              % 08570 RGTR--
+*A rc 140701016 140309002 000006  01608  01636              % 08570 RGTR--
+*R 1 140309002 140701016 140309002  01608  01636            % 08570 RGTR--
+*G RGB 140701016 140309002  01608  01636                    % 08570 RGTR--
+*A VE 140701016 140309002 000006  01608  01636              % 08570 RGTR--
+*I FD 140701016 140309002        0002230  01608  01636      % 08570 RGTR--
+140701016 Ettelbruck, Gare             01608                % 08570 RGTR--
+140602002 Erpeldange/Sûre, Bei  01610  01610                % 08570 RGTR--
+140602007 Erpeldange/Sûre, Bei  01611  01611                % 08570 RGTR--
+140602005 Erpeldange/Ettelbruc  01612  01612                % 08570 RGTR--
+140602004 Erpeldange/Ettelbruc  01613  01613                % 08570 RGTR--
+140307004 Michelau, Willspull   01619  01619                % 08570 RGTR--
+140307003 Michelau, Op der Sau  01621  01621                % 08570 RGTR--
+140307002 Michelau, Kiirch      01622  01622                % 08570 RGTR--
+140307005 Michelau, Bei Schrei  01622  01622                % 08570 RGTR--
+140301003 Bourscheid, Millen    01624  01624                % 08570 RGTR--
+140306001 Lipperscheid, Ale Ki  01626  01626                % 08570 RGTR--
+140301004 Bourscheid, An der S  01630  01630                % 08570 RGTR--
+140304003 Goebelsmühle, Op der  01633  01633                % 08570 RGTR--
+140309001 Schlindermand., Bei   01635  01635                % 08570 RGTR--
+140309002 Schlindermanderschei  01636                       % 08570 RGTR--
+*Z 08571 RGTR--                                             % 08571 RGTR--
+*L 550      140701016 140309002  01718  01746               % 08571 RGTR--
+*A jc 140701016 140309002 000006  01718  01746              % 08571 RGTR--
+*A rc 140701016 140309002 000006  01718  01746              % 08571 RGTR--
+*R 1 140309002 140701016 140309002  01718  01746            % 08571 RGTR--
+*G RGB 140701016 140309002  01718  01746                    % 08571 RGTR--
+*A VE 140701016 140309002 000006  01718  01746              % 08571 RGTR--
+*I FD 140701016 140309002        0002478  01718  01746      % 08571 RGTR--
+140701016 Ettelbruck, Gare             01718                % 08571 RGTR--
+140602002 Erpeldange/Sûre, Bei  01720  01720                % 08571 RGTR--
+140602007 Erpeldange/Sûre, Bei  01721  01721                % 08571 RGTR--
+140602005 Erpeldange/Ettelbruc  01721  01721                % 08571 RGTR--
+140602004 Erpeldange/Ettelbruc  01722  01722                % 08571 RGTR--
+140307004 Michelau, Willspull   01729  01729                % 08571 RGTR--
+140307003 Michelau, Op der Sau  01730  01730                % 08571 RGTR--
+140307002 Michelau, Kiirch      01731  01731                % 08571 RGTR--
+140307005 Michelau, Bei Schrei  01732  01732                % 08571 RGTR--
+140301003 Bourscheid, Millen    01734  01734                % 08571 RGTR--
+140306001 Lipperscheid, Ale Ki  01736  01736                % 08571 RGTR--
+140301004 Bourscheid, An der S  01739  01739                % 08571 RGTR--
+140304003 Goebelsmühle, Op der  01742  01742                % 08571 RGTR--
+140309001 Schlindermand., Bei   01745  01745                % 08571 RGTR--
+140309002 Schlindermanderschei  01746                       % 08571 RGTR--
+*Z 08572 RGTR--                                             % 08572 RGTR--
+*L 550      140701016 140309002  01818  01846               % 08572 RGTR--
+*A jc 140701016 140309002 000006  01818  01846              % 08572 RGTR--
+*A rc 140701016 140309002 000006  01818  01846              % 08572 RGTR--
+*R 1 140309002 140701016 140309002  01818  01846            % 08572 RGTR--
+*G RGB 140701016 140309002  01818  01846                    % 08572 RGTR--
+*A VE 140701016 140309002 000006  01818  01846              % 08572 RGTR--
+*I FD 140701016 140309002        0002480  01818  01846      % 08572 RGTR--
+140701016 Ettelbruck, Gare             01818                % 08572 RGTR--
+140602002 Erpeldange/Sûre, Bei  01820  01820                % 08572 RGTR--
+140602007 Erpeldange/Sûre, Bei  01821  01821                % 08572 RGTR--
+140602005 Erpeldange/Ettelbruc  01821  01821                % 08572 RGTR--
+140602004 Erpeldange/Ettelbruc  01822  01822                % 08572 RGTR--
+140307004 Michelau, Willspull   01829  01829                % 08572 RGTR--
+140307003 Michelau, Op der Sau  01830  01830                % 08572 RGTR--
+140307002 Michelau, Kiirch      01831  01831                % 08572 RGTR--
+140307005 Michelau, Bei Schrei  01832  01832                % 08572 RGTR--
+140301003 Bourscheid, Millen    01834  01834                % 08572 RGTR--
+140306001 Lipperscheid, Ale Ki  01836  01836                % 08572 RGTR--
+140301004 Bourscheid, An der S  01839  01839                % 08572 RGTR--
+140304003 Goebelsmühle, Op der  01842  01842                % 08572 RGTR--
+140309001 Schlindermand., Bei   01845  01845                % 08572 RGTR--
+140309002 Schlindermanderschei  01846                       % 08572 RGTR--
+*Z 08573 RGTR--                                             % 08573 RGTR--
+*L 550      140401009 110203002  01442  01532               % 08573 RGTR--
+*A jc 140401009 110203002 000030  01442  01532              % 08573 RGTR--
+*A qc 140401009 110203002 000030  01442  01532              % 08573 RGTR--
+*R 1 110203002 140401009 110203002  01442  01532            % 08573 RGTR--
+*G RGB 140401009 110203002  01442  01532                    % 08573 RGTR--
+*A VE 140401009 110203002 000030  01442  01532              % 08573 RGTR--
+*I FD 140401009 110203002        0002643  01442  01532      % 08573 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 08573 RGTR--
+140401006 Diekirch, Kluuster    01446  01446                % 08573 RGTR--
+140401004 Diekirch, Gare        01448  01448                % 08573 RGTR--
+140401008 Diekirch, Lorentzwue  01450  01450                % 08573 RGTR--
+140602002 Erpeldange/Sûre, Bei  01455  01455                % 08573 RGTR--
+140602007 Erpeldange/Sûre, Bei  01456  01456                % 08573 RGTR--
+140602005 Erpeldange/Ettelbruc  01457  01457                % 08573 RGTR--
+140602004 Erpeldange/Ettelbruc  01458  01458                % 08573 RGTR--
+140307004 Michelau, Willspull   01504  01504                % 08573 RGTR--
+140307003 Michelau, Op der Sau  01505  01505                % 08573 RGTR--
+140307002 Michelau, Kiirch      01506  01506                % 08573 RGTR--
+140307005 Michelau, Bei Schrei  01507  01507                % 08573 RGTR--
+140301003 Bourscheid, Millen    01508  01508                % 08573 RGTR--
+140306001 Lipperscheid, Ale Ki  01511  01511                % 08573 RGTR--
+140301004 Bourscheid, An der S  01514  01514                % 08573 RGTR--
+140304003 Goebelsmühle, Op der  01517  01517                % 08573 RGTR--
+140309001 Schlindermand., Bei   01519  01519                % 08573 RGTR--
+140309002 Schlindermanderschei  01520  01520                % 08573 RGTR--
+140309003 Schlindermanderschei  01521  01521                % 08573 RGTR--
+140303001 Friedbësch            01524  01524                % 08573 RGTR--
+110201002 Consthum, Kémel       01527  01527                % 08573 RGTR--
+110201003 Consthum, Knupp       01528  01528                % 08573 RGTR--
+110202001 Holzthum, Op der Hoe  01530  01530                % 08573 RGTR--
+110202002 Holzthum, Bei der Ki  01530  01530                % 08573 RGTR--
+110202003 Holzthum, Kiirfecht   01531  01531                % 08573 RGTR--
+110202004 Holzthum, Ferme Thev  01532  01532                % 08573 RGTR--
+110203002 Schinker, Um Rank     01532                       % 08573 RGTR--
+*Z 08574 RGTR--                                             % 08574 RGTR--
+*L 550      140304001 140309002  01827  01830               % 08574 RGTR--
+*A jc 140304001 140309002 000016  01827  01830              % 08574 RGTR--
+*A rc 140304001 140309002 000016  01827  01830              % 08574 RGTR--
+*R 1 140309002 140304001 140309002  01827  01830            % 08574 RGTR--
+*G RGB 140304001 140309002  01827  01830                    % 08574 RGTR--
+*A VE 140304001 140309002 000016  01827  01830              % 08574 RGTR--
+*I FD 140304001 140309002        0001809  01827  01830      % 08574 RGTR--
+140304001 Goebelsmühle, Gare           01827                % 08574 RGTR--
+140309001 Schlindermand., Bei   01830  01830                % 08574 RGTR--
+140309002 Schlindermanderschei  01830                       % 08574 RGTR--
+*Z 08575 RGTR--                                             % 08575 RGTR--
+*L 550      140304001 140309002  01927  01930               % 08575 RGTR--
+*A jc 140304001 140309002 000016  01927  01930              % 08575 RGTR--
+*A rc 140304001 140309002 000016  01927  01930              % 08575 RGTR--
+*R 1 140309002 140304001 140309002  01927  01930            % 08575 RGTR--
+*G RGB 140304001 140309002  01927  01930                    % 08575 RGTR--
+*A VE 140304001 140309002 000016  01927  01930              % 08575 RGTR--
+*I FD 140304001 140309002        0001517  01927  01930      % 08575 RGTR--
+140304001 Goebelsmühle, Gare           01927                % 08575 RGTR--
+140309001 Schlindermand., Bei   01930  01930                % 08575 RGTR--
+140309002 Schlindermanderschei  01930                       % 08575 RGTR--
+*Z 08576 RGTR--                                             % 08576 RGTR--
+*L 550      110202002 140701016  00432  00513               % 08576 RGTR--
+*A jc 110202002 140701016 000006  00432  00513              % 08576 RGTR--
+*A KI 110202002 140701016 000006  00432  00513              % 08576 RGTR--
+*A hq 110202002 140701016 000006  00432  00513              % 08576 RGTR--
+*R 2 140701016 110202002 140701016  00432  00513            % 08576 RGTR--
+*G RGB 110202002 140701016  00432  00513                    % 08576 RGTR--
+*A VE 110202002 140701016 000006  00432  00513              % 08576 RGTR--
+*I FD 110202002 140701016        0003700  00432  00513      % 08576 RGTR--
+110202002 Holzthum, Bei der Ki         00432                % 08576 RGTR--
+110202001 Holzthum, Op der Hoe  00432  00432                % 08576 RGTR--
+110201003 Consthum, Knupp       00434  00434                % 08576 RGTR--
+110201002 Consthum, Kémel       00435  00435                % 08576 RGTR--
+140303001 Friedbësch            00439  00439                % 08576 RGTR--
+140309003 Schlindermanderschei  00442  00442                % 08576 RGTR--
+140309002 Schlindermanderschei  00443  00443                % 08576 RGTR--
+140309001 Schlindermand., Bei   00444  00444                % 08576 RGTR--
+140304003 Goebelsmühle, Op der  00446  00446                % 08576 RGTR--
+140301004 Bourscheid, An der S  00449  00449                % 08576 RGTR--
+140306001 Lipperscheid, Ale Ki  00453  00453                % 08576 RGTR--
+140301003 Bourscheid, Millen    00455  00455                % 08576 RGTR--
+140307005 Michelau, Bei Schrei  00457  00457                % 08576 RGTR--
+140307002 Michelau, Kiirch      00457  00457                % 08576 RGTR--
+140307003 Michelau, Op der Sau  00458  00458                % 08576 RGTR--
+140307004 Michelau, Willspull   00459  00459                % 08576 RGTR--
+140602004 Erpeldange/Ettelbruc  00506  00506                % 08576 RGTR--
+140602005 Erpeldange/Ettelbruc  00507  00507                % 08576 RGTR--
+140602007 Erpeldange/Sûre, Bei  00508  00508                % 08576 RGTR--
+140602002 Erpeldange/Sûre, Bei  00509  00509                % 08576 RGTR--
+140701024 Ettelbruck, Pensionn  00511  00511                % 08576 RGTR--
+140701016 Ettelbruck, Gare      00513                       % 08576 RGTR--
+*Z 08577 RGTR--                                             % 08577 RGTR--
+*L 550      110202002 140701016  01232  01313               % 08577 RGTR--
+*A jc 110202002 140701016 000006  01232  01313              % 08577 RGTR--
+*A KI 110202002 140701016 000006  01232  01313              % 08577 RGTR--
+*A hq 110202002 140701016 000006  01232  01313              % 08577 RGTR--
+*R 2 140701016 110202002 140701016  01232  01313            % 08577 RGTR--
+*G RGB 110202002 140701016  01232  01313                    % 08577 RGTR--
+*A VE 110202002 140701016 000006  01232  01313              % 08577 RGTR--
+*I FD 110202002 140701016        0001239  01232  01313      % 08577 RGTR--
+110202002 Holzthum, Bei der Ki         01232                % 08577 RGTR--
+110202001 Holzthum, Op der Hoe  01232  01232                % 08577 RGTR--
+110201003 Consthum, Knupp       01234  01234                % 08577 RGTR--
+110201002 Consthum, Kémel       01235  01235                % 08577 RGTR--
+140303001 Friedbësch            01239  01239                % 08577 RGTR--
+140309003 Schlindermanderschei  01242  01242                % 08577 RGTR--
+140309002 Schlindermanderschei  01243  01243                % 08577 RGTR--
+140309001 Schlindermand., Bei   01244  01244                % 08577 RGTR--
+140304003 Goebelsmühle, Op der  01246  01246                % 08577 RGTR--
+140301004 Bourscheid, An der S  01249  01249                % 08577 RGTR--
+140306001 Lipperscheid, Ale Ki  01253  01253                % 08577 RGTR--
+140301003 Bourscheid, Millen    01255  01255                % 08577 RGTR--
+140307005 Michelau, Bei Schrei  01257  01257                % 08577 RGTR--
+140307002 Michelau, Kiirch      01257  01257                % 08577 RGTR--
+140307003 Michelau, Op der Sau  01258  01258                % 08577 RGTR--
+140307004 Michelau, Willspull   01259  01259                % 08577 RGTR--
+140602004 Erpeldange/Ettelbruc  01306  01306                % 08577 RGTR--
+140602005 Erpeldange/Ettelbruc  01307  01307                % 08577 RGTR--
+140602007 Erpeldange/Sûre, Bei  01308  01308                % 08577 RGTR--
+140602002 Erpeldange/Sûre, Bei  01309  01309                % 08577 RGTR--
+140701024 Ettelbruck, Pensionn  01311  01311                % 08577 RGTR--
+140701016 Ettelbruck, Gare      01313                       % 08577 RGTR--
+*Z 08578 RGTR--                                             % 08578 RGTR--
+*L 550      110202002 140701016  02032  02113               % 08578 RGTR--
+*A jc 110202002 140701016 000006  02032  02113              % 08578 RGTR--
+*A KI 110202002 140701016 000006  02032  02113              % 08578 RGTR--
+*A hq 110202002 140701016 000006  02032  02113              % 08578 RGTR--
+*R 2 140701016 110202002 140701016  02032  02113            % 08578 RGTR--
+*G RGB 110202002 140701016  02032  02113                    % 08578 RGTR--
+*A VE 110202002 140701016 000006  02032  02113              % 08578 RGTR--
+*I FD 110202002 140701016        0003701  02032  02113      % 08578 RGTR--
+110202002 Holzthum, Bei der Ki         02032                % 08578 RGTR--
+110202001 Holzthum, Op der Hoe  02032  02032                % 08578 RGTR--
+110201003 Consthum, Knupp       02034  02034                % 08578 RGTR--
+110201002 Consthum, Kémel       02035  02035                % 08578 RGTR--
+140303001 Friedbësch            02039  02039                % 08578 RGTR--
+140309003 Schlindermanderschei  02042  02042                % 08578 RGTR--
+140309002 Schlindermanderschei  02043  02043                % 08578 RGTR--
+140309001 Schlindermand., Bei   02044  02044                % 08578 RGTR--
+140304003 Goebelsmühle, Op der  02046  02046                % 08578 RGTR--
+140301004 Bourscheid, An der S  02049  02049                % 08578 RGTR--
+140306001 Lipperscheid, Ale Ki  02053  02053                % 08578 RGTR--
+140301003 Bourscheid, Millen    02055  02055                % 08578 RGTR--
+140307005 Michelau, Bei Schrei  02057  02057                % 08578 RGTR--
+140307002 Michelau, Kiirch      02057  02057                % 08578 RGTR--
+140307003 Michelau, Op der Sau  02058  02058                % 08578 RGTR--
+140307004 Michelau, Willspull   02059  02059                % 08578 RGTR--
+140602004 Erpeldange/Ettelbruc  02106  02106                % 08578 RGTR--
+140602005 Erpeldange/Ettelbruc  02107  02107                % 08578 RGTR--
+140602007 Erpeldange/Sûre, Bei  02108  02108                % 08578 RGTR--
+140602002 Erpeldange/Sûre, Bei  02109  02109                % 08578 RGTR--
+140701024 Ettelbruck, Pensionn  02111  02111                % 08578 RGTR--
+140701016 Ettelbruck, Gare      02113                       % 08578 RGTR--
+*Z 08579 RGTR--                                             % 08579 RGTR--
+*L 550      140309002 140701016  01013  01043               % 08579 RGTR--
+*A jc 140309002 140701016 000006  01013  01043              % 08579 RGTR--
+*A hq 140309002 140701016 000006  01013  01043              % 08579 RGTR--
+*R 2 140701016 140309002 140701016  01013  01043            % 08579 RGTR--
+*G RGB 140309002 140701016  01013  01043                    % 08579 RGTR--
+*A VE 140309002 140701016 000006  01013  01043              % 08579 RGTR--
+*I FD 140309002 140701016        0001924  01013  01043      % 08579 RGTR--
+140309002 Schlindermanderschei         01013                % 08579 RGTR--
+140309001 Schlindermand., Bei   01014  01014                % 08579 RGTR--
+140304003 Goebelsmühle, Op der  01016  01016                % 08579 RGTR--
+140301004 Bourscheid, An der S  01019  01019                % 08579 RGTR--
+140306001 Lipperscheid, Ale Ki  01023  01023                % 08579 RGTR--
+140301003 Bourscheid, Millen    01025  01025                % 08579 RGTR--
+140307005 Michelau, Bei Schrei  01026  01026                % 08579 RGTR--
+140307002 Michelau, Kiirch      01027  01027                % 08579 RGTR--
+140307003 Michelau, Op der Sau  01028  01028                % 08579 RGTR--
+140307004 Michelau, Willspull   01029  01029                % 08579 RGTR--
+140602004 Erpeldange/Ettelbruc  01036  01036                % 08579 RGTR--
+140602005 Erpeldange/Ettelbruc  01037  01037                % 08579 RGTR--
+140602007 Erpeldange/Sûre, Bei  01037  01037                % 08579 RGTR--
+140602002 Erpeldange/Sûre, Bei  01039  01039                % 08579 RGTR--
+140701024 Ettelbruck, Pensionn  01041  01041                % 08579 RGTR--
+140701016 Ettelbruck, Gare      01043                       % 08579 RGTR--
+*Z 08580 RGTR--                                             % 08580 RGTR--
+*L 550      140309002 140701016  01113  01143               % 08580 RGTR--
+*A jc 140309002 140701016 000006  01113  01143              % 08580 RGTR--
+*A hq 140309002 140701016 000006  01113  01143              % 08580 RGTR--
+*R 2 140701016 140309002 140701016  01113  01143            % 08580 RGTR--
+*G RGB 140309002 140701016  01113  01143                    % 08580 RGTR--
+*A VE 140309002 140701016 000006  01113  01143              % 08580 RGTR--
+*I FD 140309002 140701016        0001182  01113  01143      % 08580 RGTR--
+140309002 Schlindermanderschei         01113                % 08580 RGTR--
+140309001 Schlindermand., Bei   01114  01114                % 08580 RGTR--
+140304003 Goebelsmühle, Op der  01116  01116                % 08580 RGTR--
+140301004 Bourscheid, An der S  01119  01119                % 08580 RGTR--
+140306001 Lipperscheid, Ale Ki  01123  01123                % 08580 RGTR--
+140301003 Bourscheid, Millen    01125  01125                % 08580 RGTR--
+140307005 Michelau, Bei Schrei  01126  01126                % 08580 RGTR--
+140307002 Michelau, Kiirch      01127  01127                % 08580 RGTR--
+140307003 Michelau, Op der Sau  01128  01128                % 08580 RGTR--
+140307004 Michelau, Willspull   01129  01129                % 08580 RGTR--
+140602004 Erpeldange/Ettelbruc  01136  01136                % 08580 RGTR--
+140602005 Erpeldange/Ettelbruc  01137  01137                % 08580 RGTR--
+140602007 Erpeldange/Sûre, Bei  01137  01137                % 08580 RGTR--
+140602002 Erpeldange/Sûre, Bei  01139  01139                % 08580 RGTR--
+140701024 Ettelbruck, Pensionn  01141  01141                % 08580 RGTR--
+140701016 Ettelbruck, Gare      01143                       % 08580 RGTR--
+*Z 08581 RGTR--                                             % 08581 RGTR--
+*L 550      140309002 140701016  01313  01343               % 08581 RGTR--
+*A jc 140309002 140701016 000006  01313  01343              % 08581 RGTR--
+*A hq 140309002 140701016 000006  01313  01343              % 08581 RGTR--
+*R 2 140701016 140309002 140701016  01313  01343            % 08581 RGTR--
+*G RGB 140309002 140701016  01313  01343                    % 08581 RGTR--
+*A VE 140309002 140701016 000006  01313  01343              % 08581 RGTR--
+*I FD 140309002 140701016        0001931  01313  01343      % 08581 RGTR--
+140309002 Schlindermanderschei         01313                % 08581 RGTR--
+140309001 Schlindermand., Bei   01314  01314                % 08581 RGTR--
+140304003 Goebelsmühle, Op der  01316  01316                % 08581 RGTR--
+140301004 Bourscheid, An der S  01319  01319                % 08581 RGTR--
+140306001 Lipperscheid, Ale Ki  01323  01323                % 08581 RGTR--
+140301003 Bourscheid, Millen    01325  01325                % 08581 RGTR--
+140307005 Michelau, Bei Schrei  01326  01326                % 08581 RGTR--
+140307002 Michelau, Kiirch      01327  01327                % 08581 RGTR--
+140307003 Michelau, Op der Sau  01328  01328                % 08581 RGTR--
+140307004 Michelau, Willspull   01329  01329                % 08581 RGTR--
+140602004 Erpeldange/Ettelbruc  01336  01336                % 08581 RGTR--
+140602005 Erpeldange/Ettelbruc  01337  01337                % 08581 RGTR--
+140602007 Erpeldange/Sûre, Bei  01337  01337                % 08581 RGTR--
+140602002 Erpeldange/Sûre, Bei  01339  01339                % 08581 RGTR--
+140701024 Ettelbruck, Pensionn  01341  01341                % 08581 RGTR--
+140701016 Ettelbruck, Gare      01343                       % 08581 RGTR--
+*Z 08582 RGTR--                                             % 08582 RGTR--
+*L 550      140309002 140701016  01513  01543               % 08582 RGTR--
+*A jc 140309002 140701016 000006  01513  01543              % 08582 RGTR--
+*A hq 140309002 140701016 000006  01513  01543              % 08582 RGTR--
+*R 2 140701016 140309002 140701016  01513  01543            % 08582 RGTR--
+*G RGB 140309002 140701016  01513  01543                    % 08582 RGTR--
+*A VE 140309002 140701016 000006  01513  01543              % 08582 RGTR--
+*I FD 140309002 140701016        0001937  01513  01543      % 08582 RGTR--
+140309002 Schlindermanderschei         01513                % 08582 RGTR--
+140309001 Schlindermand., Bei   01514  01514                % 08582 RGTR--
+140304003 Goebelsmühle, Op der  01516  01516                % 08582 RGTR--
+140301004 Bourscheid, An der S  01519  01519                % 08582 RGTR--
+140306001 Lipperscheid, Ale Ki  01523  01523                % 08582 RGTR--
+140301003 Bourscheid, Millen    01525  01525                % 08582 RGTR--
+140307005 Michelau, Bei Schrei  01526  01526                % 08582 RGTR--
+140307002 Michelau, Kiirch      01527  01527                % 08582 RGTR--
+140307003 Michelau, Op der Sau  01528  01528                % 08582 RGTR--
+140307004 Michelau, Willspull   01529  01529                % 08582 RGTR--
+140602004 Erpeldange/Ettelbruc  01536  01536                % 08582 RGTR--
+140602005 Erpeldange/Ettelbruc  01537  01537                % 08582 RGTR--
+140602007 Erpeldange/Sûre, Bei  01537  01537                % 08582 RGTR--
+140602002 Erpeldange/Sûre, Bei  01539  01539                % 08582 RGTR--
+140701024 Ettelbruck, Pensionn  01541  01541                % 08582 RGTR--
+140701016 Ettelbruck, Gare      01543                       % 08582 RGTR--
+*Z 08583 RGTR--                                             % 08583 RGTR--
+*L 550      140309002 140701016  00619  00651               % 08583 RGTR--
+*A jc 140309002 140701016 000006  00619  00651              % 08583 RGTR--
+*A hq 140309002 140701016 000006  00619  00651              % 08583 RGTR--
+*R 2 140701016 140309002 140701016  00619  00651            % 08583 RGTR--
+*G RGB 140309002 140701016  00619  00651                    % 08583 RGTR--
+*A VE 140309002 140701016 000006  00619  00651              % 08583 RGTR--
+*I FD 140309002 140701016        0001987  00619  00651      % 08583 RGTR--
+140309002 Schlindermanderschei         00619                % 08583 RGTR--
+140309001 Schlindermand., Bei   00620  00620                % 08583 RGTR--
+140304003 Goebelsmühle, Op der  00622  00622                % 08583 RGTR--
+140301004 Bourscheid, An der S  00625  00625                % 08583 RGTR--
+140306001 Lipperscheid, Ale Ki  00629  00629                % 08583 RGTR--
+140301003 Bourscheid, Millen    00631  00631                % 08583 RGTR--
+140307005 Michelau, Bei Schrei  00633  00633                % 08583 RGTR--
+140307002 Michelau, Kiirch      00633  00633                % 08583 RGTR--
+140307003 Michelau, Op der Sau  00634  00634                % 08583 RGTR--
+140307004 Michelau, Willspull   00635  00635                % 08583 RGTR--
+140602004 Erpeldange/Ettelbruc  00642  00642                % 08583 RGTR--
+140602005 Erpeldange/Ettelbruc  00643  00643                % 08583 RGTR--
+140602007 Erpeldange/Sûre, Bei  00644  00644                % 08583 RGTR--
+140602002 Erpeldange/Sûre, Bei  00645  00645                % 08583 RGTR--
+140701024 Ettelbruck, Pensionn  00649  00649                % 08583 RGTR--
+140701016 Ettelbruck, Gare      00651                       % 08583 RGTR--
+*Z 08584 RGTR--                                             % 08584 RGTR--
+*L 550      140309002 140701016  00708  00740               % 08584 RGTR--
+*A jc 140309002 140701016 000006  00708  00740              % 08584 RGTR--
+*A KJ 140309002 140701016 000006  00708  00740              % 08584 RGTR--
+*A hq 140309002 140701016 000006  00708  00740              % 08584 RGTR--
+*R 2 140701016 140309002 140701016  00708  00740            % 08584 RGTR--
+*G RGB 140309002 140701016  00708  00740                    % 08584 RGTR--
+*A VE 140309002 140701016 000006  00708  00740              % 08584 RGTR--
+*I FD 140309002 140701016        0002692  00708  00740      % 08584 RGTR--
+140309002 Schlindermanderschei         00708                % 08584 RGTR--
+140309001 Schlindermand., Bei   00709  00709                % 08584 RGTR--
+140304003 Goebelsmühle, Op der  00712  00712                % 08584 RGTR--
+140301004 Bourscheid, An der S  00714  00714                % 08584 RGTR--
+140306001 Lipperscheid, Ale Ki  00718  00718                % 08584 RGTR--
+140301003 Bourscheid, Millen    00720  00720                % 08584 RGTR--
+140307005 Michelau, Bei Schrei  00722  00722                % 08584 RGTR--
+140307002 Michelau, Kiirch      00723  00723                % 08584 RGTR--
+140307003 Michelau, Op der Sau  00723  00723                % 08584 RGTR--
+140307004 Michelau, Willspull   00725  00725                % 08584 RGTR--
+140602004 Erpeldange/Ettelbruc  00732  00732                % 08584 RGTR--
+140602005 Erpeldange/Ettelbruc  00733  00733                % 08584 RGTR--
+140602007 Erpeldange/Sûre, Bei  00733  00733                % 08584 RGTR--
+140602002 Erpeldange/Sûre, Bei  00735  00735                % 08584 RGTR--
+140701024 Ettelbruck, Pensionn  00738  00738                % 08584 RGTR--
+140701016 Ettelbruck, Gare      00740                       % 08584 RGTR--
+*Z 08585 RGTR--                                             % 08585 RGTR--
+*L 550      140309002 140701016  00813  00844               % 08585 RGTR--
+*A jc 140309002 140701016 000006  00813  00844              % 08585 RGTR--
+*A hq 140309002 140701016 000006  00813  00844              % 08585 RGTR--
+*R 2 140701016 140309002 140701016  00813  00844            % 08585 RGTR--
+*G RGB 140309002 140701016  00813  00844                    % 08585 RGTR--
+*A VE 140309002 140701016 000006  00813  00844              % 08585 RGTR--
+*I FD 140309002 140701016        0001919  00813  00844      % 08585 RGTR--
+140309002 Schlindermanderschei         00813                % 08585 RGTR--
+140309001 Schlindermand., Bei   00814  00814                % 08585 RGTR--
+140304003 Goebelsmühle, Op der  00816  00816                % 08585 RGTR--
+140301004 Bourscheid, An der S  00819  00819                % 08585 RGTR--
+140306001 Lipperscheid, Ale Ki  00823  00823                % 08585 RGTR--
+140301003 Bourscheid, Millen    00825  00825                % 08585 RGTR--
+140307005 Michelau, Bei Schrei  00826  00826                % 08585 RGTR--
+140307002 Michelau, Kiirch      00827  00827                % 08585 RGTR--
+140307003 Michelau, Op der Sau  00828  00828                % 08585 RGTR--
+140307004 Michelau, Willspull   00829  00829                % 08585 RGTR--
+140602004 Erpeldange/Ettelbruc  00836  00836                % 08585 RGTR--
+140602005 Erpeldange/Ettelbruc  00837  00837                % 08585 RGTR--
+140602007 Erpeldange/Sûre, Bei  00838  00838                % 08585 RGTR--
+140602002 Erpeldange/Sûre, Bei  00839  00839                % 08585 RGTR--
+140701024 Ettelbruck, Pensionn  00843  00843                % 08585 RGTR--
+140701016 Ettelbruck, Gare      00844                       % 08585 RGTR--
+*Z 08586 RGTR--                                             % 08586 RGTR--
+*L 550      140309002 140701016  00913  00944               % 08586 RGTR--
+*A jc 140309002 140701016 000006  00913  00944              % 08586 RGTR--
+*A hq 140309002 140701016 000006  00913  00944              % 08586 RGTR--
+*R 2 140701016 140309002 140701016  00913  00944            % 08586 RGTR--
+*G RGB 140309002 140701016  00913  00944                    % 08586 RGTR--
+*A VE 140309002 140701016 000006  00913  00944              % 08586 RGTR--
+*I FD 140309002 140701016        0001922  00913  00944      % 08586 RGTR--
+140309002 Schlindermanderschei         00913                % 08586 RGTR--
+140309001 Schlindermand., Bei   00914  00914                % 08586 RGTR--
+140304003 Goebelsmühle, Op der  00916  00916                % 08586 RGTR--
+140301004 Bourscheid, An der S  00919  00919                % 08586 RGTR--
+140306001 Lipperscheid, Ale Ki  00923  00923                % 08586 RGTR--
+140301003 Bourscheid, Millen    00925  00925                % 08586 RGTR--
+140307005 Michelau, Bei Schrei  00926  00926                % 08586 RGTR--
+140307002 Michelau, Kiirch      00927  00927                % 08586 RGTR--
+140307003 Michelau, Op der Sau  00928  00928                % 08586 RGTR--
+140307004 Michelau, Willspull   00929  00929                % 08586 RGTR--
+140602004 Erpeldange/Ettelbruc  00936  00936                % 08586 RGTR--
+140602005 Erpeldange/Ettelbruc  00937  00937                % 08586 RGTR--
+140602007 Erpeldange/Sûre, Bei  00938  00938                % 08586 RGTR--
+140602002 Erpeldange/Sûre, Bei  00939  00939                % 08586 RGTR--
+140701024 Ettelbruck, Pensionn  00943  00943                % 08586 RGTR--
+140701016 Ettelbruck, Gare      00944                       % 08586 RGTR--
+*Z 08587 RGTR--                                             % 08587 RGTR--
+*L 550      140309002 140701016  01613  01644               % 08587 RGTR--
+*A jc 140309002 140701016 000006  01613  01644              % 08587 RGTR--
+*A hq 140309002 140701016 000006  01613  01644              % 08587 RGTR--
+*R 2 140701016 140309002 140701016  01613  01644            % 08587 RGTR--
+*G RGB 140309002 140701016  01613  01644                    % 08587 RGTR--
+*A VE 140309002 140701016 000006  01613  01644              % 08587 RGTR--
+*I FD 140309002 140701016        0001940  01613  01644      % 08587 RGTR--
+140309002 Schlindermanderschei         01613                % 08587 RGTR--
+140309001 Schlindermand., Bei   01614  01614                % 08587 RGTR--
+140304003 Goebelsmühle, Op der  01616  01616                % 08587 RGTR--
+140301004 Bourscheid, An der S  01619  01619                % 08587 RGTR--
+140306001 Lipperscheid, Ale Ki  01623  01623                % 08587 RGTR--
+140301003 Bourscheid, Millen    01625  01625                % 08587 RGTR--
+140307005 Michelau, Bei Schrei  01626  01626                % 08587 RGTR--
+140307002 Michelau, Kiirch      01627  01627                % 08587 RGTR--
+140307003 Michelau, Op der Sau  01628  01628                % 08587 RGTR--
+140307004 Michelau, Willspull   01629  01629                % 08587 RGTR--
+140602004 Erpeldange/Ettelbruc  01636  01636                % 08587 RGTR--
+140602005 Erpeldange/Ettelbruc  01637  01637                % 08587 RGTR--
+140602007 Erpeldange/Sûre, Bei  01638  01638                % 08587 RGTR--
+140602002 Erpeldange/Sûre, Bei  01639  01639                % 08587 RGTR--
+140701024 Ettelbruck, Pensionn  01643  01643                % 08587 RGTR--
+140701016 Ettelbruck, Gare      01644                       % 08587 RGTR--
+*Z 08588 RGTR--                                             % 08588 RGTR--
+*L 550      140309002 140701016  01713  01744               % 08588 RGTR--
+*A jc 140309002 140701016 000006  01713  01744              % 08588 RGTR--
+*A hq 140309002 140701016 000006  01713  01744              % 08588 RGTR--
+*R 2 140701016 140309002 140701016  01713  01744            % 08588 RGTR--
+*G RGB 140309002 140701016  01713  01744                    % 08588 RGTR--
+*A VE 140309002 140701016 000006  01713  01744              % 08588 RGTR--
+*I FD 140309002 140701016        0001943  01713  01744      % 08588 RGTR--
+140309002 Schlindermanderschei         01713                % 08588 RGTR--
+140309001 Schlindermand., Bei   01714  01714                % 08588 RGTR--
+140304003 Goebelsmühle, Op der  01716  01716                % 08588 RGTR--
+140301004 Bourscheid, An der S  01719  01719                % 08588 RGTR--
+140306001 Lipperscheid, Ale Ki  01723  01723                % 08588 RGTR--
+140301003 Bourscheid, Millen    01725  01725                % 08588 RGTR--
+140307005 Michelau, Bei Schrei  01726  01726                % 08588 RGTR--
+140307002 Michelau, Kiirch      01727  01727                % 08588 RGTR--
+140307003 Michelau, Op der Sau  01728  01728                % 08588 RGTR--
+140307004 Michelau, Willspull   01729  01729                % 08588 RGTR--
+140602004 Erpeldange/Ettelbruc  01736  01736                % 08588 RGTR--
+140602005 Erpeldange/Ettelbruc  01737  01737                % 08588 RGTR--
+140602007 Erpeldange/Sûre, Bei  01738  01738                % 08588 RGTR--
+140602002 Erpeldange/Sûre, Bei  01739  01739                % 08588 RGTR--
+140701024 Ettelbruck, Pensionn  01743  01743                % 08588 RGTR--
+140701016 Ettelbruck, Gare      01744                       % 08588 RGTR--
+*Z 08589 RGTR--                                             % 08589 RGTR--
+*L 550      140309002 140701016  01813  01844               % 08589 RGTR--
+*A jc 140309002 140701016 000006  01813  01844              % 08589 RGTR--
+*A hq 140309002 140701016 000006  01813  01844              % 08589 RGTR--
+*R 2 140701016 140309002 140701016  01813  01844            % 08589 RGTR--
+*G RGB 140309002 140701016  01813  01844                    % 08589 RGTR--
+*A VE 140309002 140701016 000006  01813  01844              % 08589 RGTR--
+*I FD 140309002 140701016        0001946  01813  01844      % 08589 RGTR--
+140309002 Schlindermanderschei         01813                % 08589 RGTR--
+140309001 Schlindermand., Bei   01814  01814                % 08589 RGTR--
+140304003 Goebelsmühle, Op der  01816  01816                % 08589 RGTR--
+140301004 Bourscheid, An der S  01819  01819                % 08589 RGTR--
+140306001 Lipperscheid, Ale Ki  01823  01823                % 08589 RGTR--
+140301003 Bourscheid, Millen    01825  01825                % 08589 RGTR--
+140307005 Michelau, Bei Schrei  01826  01826                % 08589 RGTR--
+140307002 Michelau, Kiirch      01827  01827                % 08589 RGTR--
+140307003 Michelau, Op der Sau  01828  01828                % 08589 RGTR--
+140307004 Michelau, Willspull   01829  01829                % 08589 RGTR--
+140602004 Erpeldange/Ettelbruc  01836  01836                % 08589 RGTR--
+140602005 Erpeldange/Ettelbruc  01837  01837                % 08589 RGTR--
+140602007 Erpeldange/Sûre, Bei  01838  01838                % 08589 RGTR--
+140602002 Erpeldange/Sûre, Bei  01839  01839                % 08589 RGTR--
+140701024 Ettelbruck, Pensionn  01843  01843                % 08589 RGTR--
+140701016 Ettelbruck, Gare      01844                       % 08589 RGTR--
+*Z 08590 RGTR--                                             % 08590 RGTR--
+*L 550      140309002 140304001  00656  00700               % 08590 RGTR--
+*A jc 140309002 140304001 000016  00656  00700              % 08590 RGTR--
+*A gp 140309002 140304001 000016  00656  00700              % 08590 RGTR--
+*R 2 140304001 140309002 140304001  00656  00700            % 08590 RGTR--
+*G RGB 140309002 140304001  00656  00700                    % 08590 RGTR--
+*A VE 140309002 140304001 000016  00656  00700              % 08590 RGTR--
+*I FD 140309002 140304001        0002574  00656  00700      % 08590 RGTR--
+140309002 Schlindermanderschei         00656                % 08590 RGTR--
+140309001 Schlindermand., Bei   00657  00657                % 08590 RGTR--
+140304001 Goebelsmühle, Gare    00700                       % 08590 RGTR--

@@ -1,0 +1,2461 @@
+*F 03 2
+*Z 06657 CFLBUS                                             % 06657 CFLBUS
+*L 109      170402005 170301002  00729  00737               % 06657 CFLBUS
+*A vo 170402005 170301002 000002  00729  00737              % 06657 CFLBUS
+*R 1 170301002 170402005 170301002  00729  00737            % 06657 CFLBUS
+*G RGB 170402005 170301002  00729  00737                    % 06657 CFLBUS
+*A VE 170402005 170301002 000002  00729  00737              % 06657 CFLBUS
+*I FD 170402005 170301002        0003130  00729  00737      % 06657 CFLBUS
+170402005 Consdorf, Post               00729                % 06657 CFLBUS
+170402002 Consdorf, Haenricht   00730  00730                % 06657 CFLBUS
+170402003 Consdorf, Kraizstroo  00731  00731                % 06657 CFLBUS
+170402004 Consdorf, Melickshec  00732  00732                % 06657 CFLBUS
+170305001 Bif. Kalkesbach       00734  00734                % 06657 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00736  00736                % 06657 CFLBUS
+170301004 Berdorf, Duerfplaz    00737  00737                % 06657 CFLBUS
+170301002 Berdorf, Hotel Herbe  00737                       % 06657 CFLBUS
+*Z 06658 CFLBUS                                             % 06658 CFLBUS
+*L 109      170402005 170301002  00909  00917               % 06658 CFLBUS
+*A vo 170402005 170301002 000002  00909  00917              % 06658 CFLBUS
+*R 1 170301002 170402005 170301002  00909  00917            % 06658 CFLBUS
+*G RGB 170402005 170301002  00909  00917                    % 06658 CFLBUS
+*A VE 170402005 170301002 000002  00909  00917              % 06658 CFLBUS
+*I FD 170402005 170301002        0003134  00909  00917      % 06658 CFLBUS
+170402005 Consdorf, Post               00909                % 06658 CFLBUS
+170402002 Consdorf, Haenricht   00910  00910                % 06658 CFLBUS
+170402003 Consdorf, Kraizstroo  00911  00911                % 06658 CFLBUS
+170402004 Consdorf, Melickshec  00912  00912                % 06658 CFLBUS
+170305001 Bif. Kalkesbach       00914  00914                % 06658 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00916  00916                % 06658 CFLBUS
+170301004 Berdorf, Duerfplaz    00917  00917                % 06658 CFLBUS
+170301002 Berdorf, Hotel Herbe  00917                       % 06658 CFLBUS
+*Z 06659 CFLBUS                                             % 06659 CFLBUS
+*L 109      170402005 170301002  01605  01613               % 06659 CFLBUS
+*A vo 170402005 170301002 000002  01605  01613              % 06659 CFLBUS
+*R 1 170301002 170402005 170301002  01605  01613            % 06659 CFLBUS
+*G RGB 170402005 170301002  01605  01613                    % 06659 CFLBUS
+*A VE 170402005 170301002 000002  01605  01613              % 06659 CFLBUS
+*I FD 170402005 170301002        0002097  01605  01613      % 06659 CFLBUS
+170402005 Consdorf, Post               01605                % 06659 CFLBUS
+170402002 Consdorf, Haenricht   01606  01606                % 06659 CFLBUS
+170402003 Consdorf, Kraizstroo  01607  01607                % 06659 CFLBUS
+170402004 Consdorf, Melickshec  01608  01608                % 06659 CFLBUS
+170305001 Bif. Kalkesbach       01610  01610                % 06659 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01612  01612                % 06659 CFLBUS
+170301004 Berdorf, Duerfplaz    01613  01613                % 06659 CFLBUS
+170301002 Berdorf, Hotel Herbe  01613                       % 06659 CFLBUS
+*Z 06660 CFLBUS                                             % 06660 CFLBUS
+*L 109      170402005 170301002  01615  01623               % 06660 CFLBUS
+*A vo 170402005 170301002 000002  01615  01623              % 06660 CFLBUS
+*R 1 170301002 170402005 170301002  01615  01623            % 06660 CFLBUS
+*G RGB 170402005 170301002  01615  01623                    % 06660 CFLBUS
+*A VE 170402005 170301002 000002  01615  01623              % 06660 CFLBUS
+*I FD 170402005 170301002        0001811  01615  01623      % 06660 CFLBUS
+170402005 Consdorf, Post               01615                % 06660 CFLBUS
+170402002 Consdorf, Haenricht   01616  01616                % 06660 CFLBUS
+170402003 Consdorf, Kraizstroo  01617  01617                % 06660 CFLBUS
+170402004 Consdorf, Melickshec  01618  01618                % 06660 CFLBUS
+170305001 Bif. Kalkesbach       01620  01620                % 06660 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01622  01622                % 06660 CFLBUS
+170301004 Berdorf, Duerfplaz    01623  01623                % 06660 CFLBUS
+170301002 Berdorf, Hotel Herbe  01623                       % 06660 CFLBUS
+*Z 06661 CFLBUS                                             % 06661 CFLBUS
+*L 109      170402005 170301002  01709  01717               % 06661 CFLBUS
+*A vo 170402005 170301002 000002  01709  01717              % 06661 CFLBUS
+*R 1 170301002 170402005 170301002  01709  01717            % 06661 CFLBUS
+*G RGB 170402005 170301002  01709  01717                    % 06661 CFLBUS
+*A VE 170402005 170301002 000002  01709  01717              % 06661 CFLBUS
+*I FD 170402005 170301002        0003081  01709  01717      % 06661 CFLBUS
+170402005 Consdorf, Post               01709                % 06661 CFLBUS
+170402002 Consdorf, Haenricht   01710  01710                % 06661 CFLBUS
+170402003 Consdorf, Kraizstroo  01711  01711                % 06661 CFLBUS
+170402004 Consdorf, Melickshec  01712  01712                % 06661 CFLBUS
+170305001 Bif. Kalkesbach       01714  01714                % 06661 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01716  01716                % 06661 CFLBUS
+170301004 Berdorf, Duerfplaz    01717  01717                % 06661 CFLBUS
+170301002 Berdorf, Hotel Herbe  01717                       % 06661 CFLBUS
+*Z 06662 CFLBUS                                             % 06662 CFLBUS
+*L 109      170402005 170301002  01809  01817               % 06662 CFLBUS
+*A vo 170402005 170301002 000002  01809  01817              % 06662 CFLBUS
+*R 1 170301002 170402005 170301002  01809  01817            % 06662 CFLBUS
+*G RGB 170402005 170301002  01809  01817                    % 06662 CFLBUS
+*A VE 170402005 170301002 000002  01809  01817              % 06662 CFLBUS
+*I FD 170402005 170301002        0003082  01809  01817      % 06662 CFLBUS
+170402005 Consdorf, Post               01809                % 06662 CFLBUS
+170402002 Consdorf, Haenricht   01810  01810                % 06662 CFLBUS
+170402003 Consdorf, Kraizstroo  01811  01811                % 06662 CFLBUS
+170402004 Consdorf, Melickshec  01812  01812                % 06662 CFLBUS
+170305001 Bif. Kalkesbach       01814  01814                % 06662 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01816  01816                % 06662 CFLBUS
+170301004 Berdorf, Duerfplaz    01817  01817                % 06662 CFLBUS
+170301002 Berdorf, Hotel Herbe  01817                       % 06662 CFLBUS
+*Z 06663 CFLBUS                                             % 06663 CFLBUS
+*L 109      170402005 170301002  01830  01838               % 06663 CFLBUS
+*A vo 170402005 170301002 000002  01830  01838              % 06663 CFLBUS
+*R 1 170301002 170402005 170301002  01830  01838            % 06663 CFLBUS
+*G RGB 170402005 170301002  01830  01838                    % 06663 CFLBUS
+*A VE 170402005 170301002 000002  01830  01838              % 06663 CFLBUS
+*I FD 170402005 170301002        0001901  01830  01838      % 06663 CFLBUS
+170402005 Consdorf, Post               01830                % 06663 CFLBUS
+170402002 Consdorf, Haenricht   01831  01831                % 06663 CFLBUS
+170402003 Consdorf, Kraizstroo  01832  01832                % 06663 CFLBUS
+170402004 Consdorf, Melickshec  01833  01833                % 06663 CFLBUS
+170305001 Bif. Kalkesbach       01835  01835                % 06663 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01837  01837                % 06663 CFLBUS
+170301004 Berdorf, Duerfplaz    01838  01838                % 06663 CFLBUS
+170301002 Berdorf, Hotel Herbe  01838                       % 06663 CFLBUS
+*Z 06664 CFLBUS                                             % 06664 CFLBUS
+*L 109      170402005 170301002  00810  00818               % 06664 CFLBUS
+*A vo 170402005 170301002 000009  00810  00818              % 06664 CFLBUS
+*R 1 170301002 170402005 170301002  00810  00818            % 06664 CFLBUS
+*G RGB 170402005 170301002  00810  00818                    % 06664 CFLBUS
+*A VE 170402005 170301002 000009  00810  00818              % 06664 CFLBUS
+*I FD 170402005 170301002        0001874  00810  00818      % 06664 CFLBUS
+170402005 Consdorf, Post               00810                % 06664 CFLBUS
+170402002 Consdorf, Haenricht   00811  00811                % 06664 CFLBUS
+170402003 Consdorf, Kraizstroo  00812  00812                % 06664 CFLBUS
+170402004 Consdorf, Melickshec  00813  00813                % 06664 CFLBUS
+170305001 Bif. Kalkesbach       00815  00815                % 06664 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00817  00817                % 06664 CFLBUS
+170301004 Berdorf, Duerfplaz    00818  00818                % 06664 CFLBUS
+170301002 Berdorf, Hotel Herbe  00818                       % 06664 CFLBUS
+*Z 06665 CFLBUS                                             % 06665 CFLBUS
+*L 109      170402005 170301002  01651  01659               % 06665 CFLBUS
+*A vo 170402005 170301002 000009  01651  01659              % 06665 CFLBUS
+*R 1 170301002 170402005 170301002  01651  01659            % 06665 CFLBUS
+*G RGB 170402005 170301002  01651  01659                    % 06665 CFLBUS
+*A VE 170402005 170301002 000009  01651  01659              % 06665 CFLBUS
+*I FD 170402005 170301002        0001403  01651  01659      % 06665 CFLBUS
+170402005 Consdorf, Post               01651                % 06665 CFLBUS
+170402002 Consdorf, Haenricht   01652  01652                % 06665 CFLBUS
+170402003 Consdorf, Kraizstroo  01653  01653                % 06665 CFLBUS
+170402004 Consdorf, Melickshec  01654  01654                % 06665 CFLBUS
+170305001 Bif. Kalkesbach       01656  01656                % 06665 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01658  01658                % 06665 CFLBUS
+170301004 Berdorf, Duerfplaz    01659  01659                % 06665 CFLBUS
+170301002 Berdorf, Hotel Herbe  01659                       % 06665 CFLBUS
+*Z 06666 CFLBUS                                             % 06666 CFLBUS
+*L 109      170402005 170301002  00709  00717               % 06666 CFLBUS
+*A vo 170402005 170301002 000187  00709  00717              % 06666 CFLBUS
+*R 1 170301002 170402005 170301002  00709  00717            % 06666 CFLBUS
+*G RGB 170402005 170301002  00709  00717                    % 06666 CFLBUS
+*A VE 170402005 170301002 000187  00709  00717              % 06666 CFLBUS
+*I FD 170402005 170301002        0003128  00709  00717      % 06666 CFLBUS
+170402005 Consdorf, Post               00709                % 06666 CFLBUS
+170402002 Consdorf, Haenricht   00710  00710                % 06666 CFLBUS
+170402003 Consdorf, Kraizstroo  00711  00711                % 06666 CFLBUS
+170402004 Consdorf, Melickshec  00712  00712                % 06666 CFLBUS
+170305001 Bif. Kalkesbach       00714  00714                % 06666 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00716  00716                % 06666 CFLBUS
+170301004 Berdorf, Duerfplaz    00717  00717                % 06666 CFLBUS
+170301002 Berdorf, Hotel Herbe  00717                       % 06666 CFLBUS
+*Z 06667 CFLBUS                                             % 06667 CFLBUS
+*L 109      170402005 170301002  01009  01017               % 06667 CFLBUS
+*A vo 170402005 170301002 000002  01009  01017              % 06667 CFLBUS
+*R 1 170301002 170402005 170301002  01009  01017            % 06667 CFLBUS
+*G RGB 170402005 170301002  01009  01017                    % 06667 CFLBUS
+*A VE 170402005 170301002 000002  01009  01017              % 06667 CFLBUS
+*I FD 170402005 170301002        0003136  01009  01017      % 06667 CFLBUS
+170402005 Consdorf, Post               01009                % 06667 CFLBUS
+170402002 Consdorf, Haenricht   01010  01010                % 06667 CFLBUS
+170402003 Consdorf, Kraizstroo  01011  01011                % 06667 CFLBUS
+170402004 Consdorf, Melickshec  01011  01011                % 06667 CFLBUS
+170305001 Bif. Kalkesbach       01013  01013                % 06667 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01015  01015                % 06667 CFLBUS
+170301004 Berdorf, Duerfplaz    01016  01016                % 06667 CFLBUS
+170301002 Berdorf, Hotel Herbe  01017                       % 06667 CFLBUS
+*Z 06668 CFLBUS                                             % 06668 CFLBUS
+*L 109      170402005 170301002  01250  01258               % 06668 CFLBUS
+*A vo 170402005 170301002 000002  01250  01258              % 06668 CFLBUS
+*R 1 170301002 170402005 170301002  01250  01258            % 06668 CFLBUS
+*G RGB 170402005 170301002  01250  01258                    % 06668 CFLBUS
+*A VE 170402005 170301002 000002  01250  01258              % 06668 CFLBUS
+*I FD 170402005 170301002        0003137  01250  01258      % 06668 CFLBUS
+170402005 Consdorf, Post               01250                % 06668 CFLBUS
+170402002 Consdorf, Haenricht   01251  01251                % 06668 CFLBUS
+170402003 Consdorf, Kraizstroo  01252  01252                % 06668 CFLBUS
+170402004 Consdorf, Melickshec  01252  01252                % 06668 CFLBUS
+170305001 Bif. Kalkesbach       01254  01254                % 06668 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01256  01256                % 06668 CFLBUS
+170301004 Berdorf, Duerfplaz    01257  01257                % 06668 CFLBUS
+170301002 Berdorf, Hotel Herbe  01258                       % 06668 CFLBUS
+*Z 06669 CFLBUS                                             % 06669 CFLBUS
+*L 109      170402005 170301002  01105  01113               % 06669 CFLBUS
+*A vo 170402005 170301002 000002  01105  01113              % 06669 CFLBUS
+*R 1 170301002 170402005 170301002  01105  01113            % 06669 CFLBUS
+*G RGB 170402005 170301002  01105  01113                    % 06669 CFLBUS
+*A VE 170402005 170301002 000002  01105  01113              % 06669 CFLBUS
+*I FD 170402005 170301002        0002106  01105  01113      % 06669 CFLBUS
+170402005 Consdorf, Post               01105                % 06669 CFLBUS
+170402002 Consdorf, Haenricht   01106  01106                % 06669 CFLBUS
+170402003 Consdorf, Kraizstroo  01107  01107                % 06669 CFLBUS
+170402004 Consdorf, Melickshec  01107  01107                % 06669 CFLBUS
+170305001 Bif. Kalkesbach       01109  01109                % 06669 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01111  01111                % 06669 CFLBUS
+170301004 Berdorf, Duerfplaz    01112  01112                % 06669 CFLBUS
+170301002 Berdorf, Hotel Herbe  01113                       % 06669 CFLBUS
+*Z 06670 CFLBUS                                             % 06670 CFLBUS
+*L 109      170402005 170301002  01205  01213               % 06670 CFLBUS
+*A vo 170402005 170301002 000002  01205  01213              % 06670 CFLBUS
+*R 1 170301002 170402005 170301002  01205  01213            % 06670 CFLBUS
+*G RGB 170402005 170301002  01205  01213                    % 06670 CFLBUS
+*A VE 170402005 170301002 000002  01205  01213              % 06670 CFLBUS
+*I FD 170402005 170301002        0002102  01205  01213      % 06670 CFLBUS
+170402005 Consdorf, Post               01205                % 06670 CFLBUS
+170402002 Consdorf, Haenricht   01206  01206                % 06670 CFLBUS
+170402003 Consdorf, Kraizstroo  01207  01207                % 06670 CFLBUS
+170402004 Consdorf, Melickshec  01207  01207                % 06670 CFLBUS
+170305001 Bif. Kalkesbach       01209  01209                % 06670 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01211  01211                % 06670 CFLBUS
+170301004 Berdorf, Duerfplaz    01212  01212                % 06670 CFLBUS
+170301002 Berdorf, Hotel Herbe  01213                       % 06670 CFLBUS
+*Z 06671 CFLBUS                                             % 06671 CFLBUS
+*L 109      170402005 170301002  01405  01413               % 06671 CFLBUS
+*A vo 170402005 170301002 000002  01405  01413              % 06671 CFLBUS
+*R 1 170301002 170402005 170301002  01405  01413            % 06671 CFLBUS
+*G RGB 170402005 170301002  01405  01413                    % 06671 CFLBUS
+*A VE 170402005 170301002 000002  01405  01413              % 06671 CFLBUS
+*I FD 170402005 170301002        0002103  01405  01413      % 06671 CFLBUS
+170402005 Consdorf, Post               01405                % 06671 CFLBUS
+170402002 Consdorf, Haenricht   01406  01406                % 06671 CFLBUS
+170402003 Consdorf, Kraizstroo  01407  01407                % 06671 CFLBUS
+170402004 Consdorf, Melickshec  01407  01407                % 06671 CFLBUS
+170305001 Bif. Kalkesbach       01409  01409                % 06671 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01411  01411                % 06671 CFLBUS
+170301004 Berdorf, Duerfplaz    01412  01412                % 06671 CFLBUS
+170301002 Berdorf, Hotel Herbe  01413                       % 06671 CFLBUS
+*Z 06672 CFLBUS                                             % 06672 CFLBUS
+*L 109      170402005 170301002  01505  01513               % 06672 CFLBUS
+*A vo 170402005 170301002 000002  01505  01513              % 06672 CFLBUS
+*R 1 170301002 170402005 170301002  01505  01513            % 06672 CFLBUS
+*G RGB 170402005 170301002  01505  01513                    % 06672 CFLBUS
+*A VE 170402005 170301002 000002  01505  01513              % 06672 CFLBUS
+*I FD 170402005 170301002        0002111  01505  01513      % 06672 CFLBUS
+170402005 Consdorf, Post               01505                % 06672 CFLBUS
+170402002 Consdorf, Haenricht   01506  01506                % 06672 CFLBUS
+170402003 Consdorf, Kraizstroo  01507  01507                % 06672 CFLBUS
+170402004 Consdorf, Melickshec  01507  01507                % 06672 CFLBUS
+170305001 Bif. Kalkesbach       01509  01509                % 06672 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01511  01511                % 06672 CFLBUS
+170301004 Berdorf, Duerfplaz    01512  01512                % 06672 CFLBUS
+170301002 Berdorf, Hotel Herbe  01513                       % 06672 CFLBUS
+*Z 06673 CFLBUS                                             % 06673 CFLBUS
+*L 109      170402005 170301002  01856  01904               % 06673 CFLBUS
+*A vo 170402005 170301002 000002  01856  01904              % 06673 CFLBUS
+*R 1 170301002 170402005 170301002  01856  01904            % 06673 CFLBUS
+*G RGB 170402005 170301002  01856  01904                    % 06673 CFLBUS
+*A VE 170402005 170301002 000002  01856  01904              % 06673 CFLBUS
+*I FD 170402005 170301002        0003014  01856  01904      % 06673 CFLBUS
+170402005 Consdorf, Post               01856                % 06673 CFLBUS
+170402002 Consdorf, Haenricht   01857  01857                % 06673 CFLBUS
+170402003 Consdorf, Kraizstroo  01858  01858                % 06673 CFLBUS
+170402004 Consdorf, Melickshec  01858  01858                % 06673 CFLBUS
+170305001 Bif. Kalkesbach       01900  01900                % 06673 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01902  01902                % 06673 CFLBUS
+170301004 Berdorf, Duerfplaz    01903  01903                % 06673 CFLBUS
+170301002 Berdorf, Hotel Herbe  01904                       % 06673 CFLBUS
+*Z 06674 CFLBUS                                             % 06674 CFLBUS
+*L 109      170402005 170301002  01904  01912               % 06674 CFLBUS
+*A vo 170402005 170301002 000002  01904  01912              % 06674 CFLBUS
+*R 1 170301002 170402005 170301002  01904  01912            % 06674 CFLBUS
+*G RGB 170402005 170301002  01904  01912                    % 06674 CFLBUS
+*A VE 170402005 170301002 000002  01904  01912              % 06674 CFLBUS
+*I FD 170402005 170301002        0002173  01904  01912      % 06674 CFLBUS
+170402005 Consdorf, Post               01904                % 06674 CFLBUS
+170402002 Consdorf, Haenricht   01905  01905                % 06674 CFLBUS
+170402003 Consdorf, Kraizstroo  01906  01906                % 06674 CFLBUS
+170402004 Consdorf, Melickshec  01906  01906                % 06674 CFLBUS
+170305001 Bif. Kalkesbach       01908  01908                % 06674 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01910  01910                % 06674 CFLBUS
+170301004 Berdorf, Duerfplaz    01911  01911                % 06674 CFLBUS
+170301002 Berdorf, Hotel Herbe  01912                       % 06674 CFLBUS
+*Z 06675 CFLBUS                                             % 06675 CFLBUS
+*L 109      170402005 170301002  02005  02013               % 06675 CFLBUS
+*A vo 170402005 170301002 000002  02005  02013              % 06675 CFLBUS
+*R 1 170301002 170402005 170301002  02005  02013            % 06675 CFLBUS
+*G RGB 170402005 170301002  02005  02013                    % 06675 CFLBUS
+*A VE 170402005 170301002 000002  02005  02013              % 06675 CFLBUS
+*I FD 170402005 170301002        0002070  02005  02013      % 06675 CFLBUS
+170402005 Consdorf, Post               02005                % 06675 CFLBUS
+170402002 Consdorf, Haenricht   02006  02006                % 06675 CFLBUS
+170402003 Consdorf, Kraizstroo  02007  02007                % 06675 CFLBUS
+170402004 Consdorf, Melickshec  02007  02007                % 06675 CFLBUS
+170305001 Bif. Kalkesbach       02009  02009                % 06675 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02011  02011                % 06675 CFLBUS
+170301004 Berdorf, Duerfplaz    02012  02012                % 06675 CFLBUS
+170301002 Berdorf, Hotel Herbe  02013                       % 06675 CFLBUS
+*Z 06676 CFLBUS                                             % 06676 CFLBUS
+*L 109      170402005 170301002  02105  02113               % 06676 CFLBUS
+*A vo 170402005 170301002 000002  02105  02113              % 06676 CFLBUS
+*R 1 170301002 170402005 170301002  02105  02113            % 06676 CFLBUS
+*G RGB 170402005 170301002  02105  02113                    % 06676 CFLBUS
+*A VE 170402005 170301002 000002  02105  02113              % 06676 CFLBUS
+*I FD 170402005 170301002        0002114  02105  02113      % 06676 CFLBUS
+170402005 Consdorf, Post               02105                % 06676 CFLBUS
+170402002 Consdorf, Haenricht   02106  02106                % 06676 CFLBUS
+170402003 Consdorf, Kraizstroo  02107  02107                % 06676 CFLBUS
+170402004 Consdorf, Melickshec  02107  02107                % 06676 CFLBUS
+170305001 Bif. Kalkesbach       02109  02109                % 06676 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02111  02111                % 06676 CFLBUS
+170301004 Berdorf, Duerfplaz    02112  02112                % 06676 CFLBUS
+170301002 Berdorf, Hotel Herbe  02113                       % 06676 CFLBUS
+*Z 06677 CFLBUS                                             % 06677 CFLBUS
+*L 109      170402005 170301002  02205  02213               % 06677 CFLBUS
+*A vo 170402005 170301002 000002  02205  02213              % 06677 CFLBUS
+*R 1 170301002 170402005 170301002  02205  02213            % 06677 CFLBUS
+*G RGB 170402005 170301002  02205  02213                    % 06677 CFLBUS
+*A VE 170402005 170301002 000002  02205  02213              % 06677 CFLBUS
+*I FD 170402005 170301002        0002115  02205  02213      % 06677 CFLBUS
+170402005 Consdorf, Post               02205                % 06677 CFLBUS
+170402002 Consdorf, Haenricht   02206  02206                % 06677 CFLBUS
+170402003 Consdorf, Kraizstroo  02207  02207                % 06677 CFLBUS
+170402004 Consdorf, Melickshec  02207  02207                % 06677 CFLBUS
+170305001 Bif. Kalkesbach       02209  02209                % 06677 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02211  02211                % 06677 CFLBUS
+170301004 Berdorf, Duerfplaz    02212  02212                % 06677 CFLBUS
+170301002 Berdorf, Hotel Herbe  02213                       % 06677 CFLBUS
+*Z 06678 CFLBUS                                             % 06678 CFLBUS
+*L 109      170402005 170301002  00639  00647               % 06678 CFLBUS
+*A vo 170402005 170301002 000009  00639  00647              % 06678 CFLBUS
+*R 1 170301002 170402005 170301002  00639  00647            % 06678 CFLBUS
+*G RGB 170402005 170301002  00639  00647                    % 06678 CFLBUS
+*A VE 170402005 170301002 000009  00639  00647              % 06678 CFLBUS
+*I FD 170402005 170301002        0003227  00639  00647      % 06678 CFLBUS
+170402005 Consdorf, Post               00639                % 06678 CFLBUS
+170402002 Consdorf, Haenricht   00640  00640                % 06678 CFLBUS
+170402003 Consdorf, Kraizstroo  00641  00641                % 06678 CFLBUS
+170402004 Consdorf, Melickshec  00641  00641                % 06678 CFLBUS
+170305001 Bif. Kalkesbach       00643  00643                % 06678 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00645  00645                % 06678 CFLBUS
+170301004 Berdorf, Duerfplaz    00646  00646                % 06678 CFLBUS
+170301002 Berdorf, Hotel Herbe  00647                       % 06678 CFLBUS
+*Z 06679 CFLBUS                                             % 06679 CFLBUS
+*L 109      170402005 170301002  01220  01228               % 06679 CFLBUS
+*A vo 170402005 170301002 000009  01220  01228              % 06679 CFLBUS
+*R 1 170301002 170402005 170301002  01220  01228            % 06679 CFLBUS
+*G RGB 170402005 170301002  01220  01228                    % 06679 CFLBUS
+*A VE 170402005 170301002 000009  01220  01228              % 06679 CFLBUS
+*I FD 170402005 170301002        0003136  01220  01228      % 06679 CFLBUS
+170402005 Consdorf, Post               01220                % 06679 CFLBUS
+170402002 Consdorf, Haenricht   01221  01221                % 06679 CFLBUS
+170402003 Consdorf, Kraizstroo  01222  01222                % 06679 CFLBUS
+170402004 Consdorf, Melickshec  01222  01222                % 06679 CFLBUS
+170305001 Bif. Kalkesbach       01224  01224                % 06679 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01226  01226                % 06679 CFLBUS
+170301004 Berdorf, Duerfplaz    01227  01227                % 06679 CFLBUS
+170301002 Berdorf, Hotel Herbe  01228                       % 06679 CFLBUS
+*Z 06680 CFLBUS                                             % 06680 CFLBUS
+*L 109      170402005 170301002  01305  01313               % 06680 CFLBUS
+*A vo 170402005 170301002 000009  01305  01313              % 06680 CFLBUS
+*R 1 170301002 170402005 170301002  01305  01313            % 06680 CFLBUS
+*G RGB 170402005 170301002  01305  01313                    % 06680 CFLBUS
+*A VE 170402005 170301002 000009  01305  01313              % 06680 CFLBUS
+*I FD 170402005 170301002        0002108  01305  01313      % 06680 CFLBUS
+170402005 Consdorf, Post               01305                % 06680 CFLBUS
+170402002 Consdorf, Haenricht   01306  01306                % 06680 CFLBUS
+170402003 Consdorf, Kraizstroo  01307  01307                % 06680 CFLBUS
+170402004 Consdorf, Melickshec  01307  01307                % 06680 CFLBUS
+170305001 Bif. Kalkesbach       01309  01309                % 06680 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01311  01311                % 06680 CFLBUS
+170301004 Berdorf, Duerfplaz    01312  01312                % 06680 CFLBUS
+170301002 Berdorf, Hotel Herbe  01313                       % 06680 CFLBUS
+*Z 06681 CFLBUS                                             % 06681 CFLBUS
+*L 109      170402005 170301002  01335  01343               % 06681 CFLBUS
+*A vo 170402005 170301002 000009  01335  01343              % 06681 CFLBUS
+*R 1 170301002 170402005 170301002  01335  01343            % 06681 CFLBUS
+*G RGB 170402005 170301002  01335  01343                    % 06681 CFLBUS
+*A VE 170402005 170301002 000009  01335  01343              % 06681 CFLBUS
+*I FD 170402005 170301002        0002109  01335  01343      % 06681 CFLBUS
+170402005 Consdorf, Post               01335                % 06681 CFLBUS
+170402002 Consdorf, Haenricht   01336  01336                % 06681 CFLBUS
+170402003 Consdorf, Kraizstroo  01337  01337                % 06681 CFLBUS
+170402004 Consdorf, Melickshec  01337  01337                % 06681 CFLBUS
+170305001 Bif. Kalkesbach       01339  01339                % 06681 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01341  01341                % 06681 CFLBUS
+170301004 Berdorf, Duerfplaz    01342  01342                % 06681 CFLBUS
+170301002 Berdorf, Hotel Herbe  01343                       % 06681 CFLBUS
+*Z 06682 CFLBUS                                             % 06682 CFLBUS
+*L 109      170402005 170301002  02305  02313               % 06682 CFLBUS
+*A vo 170402005 170301002 000009  02305  02313              % 06682 CFLBUS
+*R 1 170301002 170402005 170301002  02305  02313            % 06682 CFLBUS
+*G RGB 170402005 170301002  02305  02313                    % 06682 CFLBUS
+*A VE 170402005 170301002 000009  02305  02313              % 06682 CFLBUS
+*I FD 170402005 170301002        0002116  02305  02313      % 06682 CFLBUS
+170402005 Consdorf, Post               02305                % 06682 CFLBUS
+170402002 Consdorf, Haenricht   02306  02306                % 06682 CFLBUS
+170402003 Consdorf, Kraizstroo  02307  02307                % 06682 CFLBUS
+170402004 Consdorf, Melickshec  02307  02307                % 06682 CFLBUS
+170305001 Bif. Kalkesbach       02309  02309                % 06682 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02311  02311                % 06682 CFLBUS
+170301004 Berdorf, Duerfplaz    02312  02312                % 06682 CFLBUS
+170301002 Berdorf, Hotel Herbe  02313                       % 06682 CFLBUS
+*Z 06683 CFLBUS                                             % 06683 CFLBUS
+*L 109      170402005 170301002  02322  02330               % 06683 CFLBUS
+*A vo 170402005 170301002 000187  02322  02330              % 06683 CFLBUS
+*R 1 170301002 170402005 170301002  02322  02330            % 06683 CFLBUS
+*G RGB 170402005 170301002  02322  02330                    % 06683 CFLBUS
+*A VE 170402005 170301002 000187  02322  02330              % 06683 CFLBUS
+*I FD 170402005 170301002        0005284  02322  02330      % 06683 CFLBUS
+170402005 Consdorf, Post               02322                % 06683 CFLBUS
+170402002 Consdorf, Haenricht   02323  02323                % 06683 CFLBUS
+170402003 Consdorf, Kraizstroo  02324  02324                % 06683 CFLBUS
+170402004 Consdorf, Melickshec  02324  02324                % 06683 CFLBUS
+170305001 Bif. Kalkesbach       02326  02326                % 06683 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02328  02328                % 06683 CFLBUS
+170301004 Berdorf, Duerfplaz    02329  02329                % 06683 CFLBUS
+170301002 Berdorf, Hotel Herbe  02330                       % 06683 CFLBUS
+*Z 06684 CFLBUS                                             % 06684 CFLBUS
+*L 109      170501016 170301004  01440  01503               % 06684 CFLBUS
+*A vm 170501016 170301004 000035  01440  01503              % 06684 CFLBUS
+*R 1 170301004 170501016 170301004  01440  01503            % 06684 CFLBUS
+*G RGB 170501016 170301004  01440  01503                    % 06684 CFLBUS
+*A VE 170501016 170301004 000035  01440  01503              % 06684 CFLBUS
+*I FD 170501016 170301004        0003785  01440  01503      % 06684 CFLBUS
+170501016 Echternach, Gare Cen         01440                % 06684 CFLBUS
+170402005 Consdorf, Post        01455  01455                % 06684 CFLBUS
+170402002 Consdorf, Haenricht   01456  01456                % 06684 CFLBUS
+170402003 Consdorf, Kraizstroo  01457  01457                % 06684 CFLBUS
+170402004 Consdorf, Melickshec  01458  01458                % 06684 CFLBUS
+170305001 Bif. Kalkesbach       01500  01500                % 06684 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01502  01502                % 06684 CFLBUS
+170301004 Berdorf, Duerfplaz    01503                       % 06684 CFLBUS
+*Z 06685 CFLBUS                                             % 06685 CFLBUS
+*L 109      170301004 170501016  00714  00736               % 06685 CFLBUS
+*A vm 170301004 170501016 000035  00714  00736              % 06685 CFLBUS
+*R 2 170501016 170301004 170501016  00714  00736            % 06685 CFLBUS
+*G RGB 170301004 170501016  00714  00736                    % 06685 CFLBUS
+*A VE 170301004 170501016 000035  00714  00736              % 06685 CFLBUS
+*I FD 170301004 170501016        0005285  00714  00736      % 06685 CFLBUS
+170301004 Berdorf, Duerfplaz           00714                % 06685 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00715  00715                % 06685 CFLBUS
+170305001 Bif. Kalkesbach       00717  00717                % 06685 CFLBUS
+170402004 Consdorf, Melickshec  00718  00718                % 06685 CFLBUS
+170402003 Consdorf, Kraizstroo  00719  00719                % 06685 CFLBUS
+170402002 Consdorf, Haenricht   00720  00720                % 06685 CFLBUS
+170402005 Consdorf, Post        00722  00722                % 06685 CFLBUS
+170501016 Echternach, Gare Cen  00736                       % 06685 CFLBUS
+*Z 06686 CFLBUS                                             % 06686 CFLBUS
+*L 109      170301002 170402005  00947  00955               % 06686 CFLBUS
+*A vo 170301002 170402005 000002  00947  00955              % 06686 CFLBUS
+*R 2 170402005 170301002 170402005  00947  00955            % 06686 CFLBUS
+*G RGB 170301002 170402005  00947  00955                    % 06686 CFLBUS
+*A VE 170301002 170402005 000002  00947  00955              % 06686 CFLBUS
+*I FD 170301002 170402005        0001134  00947  00955      % 06686 CFLBUS
+170301002 Berdorf, Hotel Herbe         00947                % 06686 CFLBUS
+170301004 Berdorf, Duerfplaz    00947  00947                % 06686 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00948  00948                % 06686 CFLBUS
+170305001 Bif. Kalkesbach       00950  00950                % 06686 CFLBUS
+170402004 Consdorf, Melickshec  00952  00952                % 06686 CFLBUS
+170402003 Consdorf, Kraizstroo  00953  00953                % 06686 CFLBUS
+170402002 Consdorf, Haenricht   00954  00954                % 06686 CFLBUS
+170402005 Consdorf, Post        00955                       % 06686 CFLBUS
+*Z 06687 CFLBUS                                             % 06687 CFLBUS
+*L 109      170301002 170402005  01047  01055               % 06687 CFLBUS
+*A vo 170301002 170402005 000002  01047  01055              % 06687 CFLBUS
+*R 2 170402005 170301002 170402005  01047  01055            % 06687 CFLBUS
+*G RGB 170301002 170402005  01047  01055                    % 06687 CFLBUS
+*A VE 170301002 170402005 000002  01047  01055              % 06687 CFLBUS
+*I FD 170301002 170402005        0002369  01047  01055      % 06687 CFLBUS
+170301002 Berdorf, Hotel Herbe         01047                % 06687 CFLBUS
+170301004 Berdorf, Duerfplaz    01047  01047                % 06687 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01048  01048                % 06687 CFLBUS
+170305001 Bif. Kalkesbach       01050  01050                % 06687 CFLBUS
+170402004 Consdorf, Melickshec  01052  01052                % 06687 CFLBUS
+170402003 Consdorf, Kraizstroo  01053  01053                % 06687 CFLBUS
+170402002 Consdorf, Haenricht   01054  01054                % 06687 CFLBUS
+170402005 Consdorf, Post        01055                       % 06687 CFLBUS
+*Z 06688 CFLBUS                                             % 06688 CFLBUS
+*L 109      170301002 170402005  01147  01155               % 06688 CFLBUS
+*A vo 170301002 170402005 000002  01147  01155              % 06688 CFLBUS
+*R 2 170402005 170301002 170402005  01147  01155            % 06688 CFLBUS
+*G RGB 170301002 170402005  01147  01155                    % 06688 CFLBUS
+*A VE 170301002 170402005 000002  01147  01155              % 06688 CFLBUS
+*I FD 170301002 170402005        0002370  01147  01155      % 06688 CFLBUS
+170301002 Berdorf, Hotel Herbe         01147                % 06688 CFLBUS
+170301004 Berdorf, Duerfplaz    01147  01147                % 06688 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01148  01148                % 06688 CFLBUS
+170305001 Bif. Kalkesbach       01150  01150                % 06688 CFLBUS
+170402004 Consdorf, Melickshec  01152  01152                % 06688 CFLBUS
+170402003 Consdorf, Kraizstroo  01153  01153                % 06688 CFLBUS
+170402002 Consdorf, Haenricht   01154  01154                % 06688 CFLBUS
+170402005 Consdorf, Post        01155                       % 06688 CFLBUS
+*Z 06689 CFLBUS                                             % 06689 CFLBUS
+*L 109      170301002 170402005  01238  01246               % 06689 CFLBUS
+*A vo 170301002 170402005 000002  01238  01246              % 06689 CFLBUS
+*R 2 170402005 170301002 170402005  01238  01246            % 06689 CFLBUS
+*G RGB 170301002 170402005  01238  01246                    % 06689 CFLBUS
+*A VE 170301002 170402005 000002  01238  01246              % 06689 CFLBUS
+*I FD 170301002 170402005        0001268  01238  01246      % 06689 CFLBUS
+170301002 Berdorf, Hotel Herbe         01238                % 06689 CFLBUS
+170301004 Berdorf, Duerfplaz    01238  01238                % 06689 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01239  01239                % 06689 CFLBUS
+170305001 Bif. Kalkesbach       01241  01241                % 06689 CFLBUS
+170402004 Consdorf, Melickshec  01243  01243                % 06689 CFLBUS
+170402003 Consdorf, Kraizstroo  01244  01244                % 06689 CFLBUS
+170402002 Consdorf, Haenricht   01245  01245                % 06689 CFLBUS
+170402005 Consdorf, Post        01246                       % 06689 CFLBUS
+*Z 06690 CFLBUS                                             % 06690 CFLBUS
+*L 109      170301002 170402005  01247  01255               % 06690 CFLBUS
+*A vo 170301002 170402005 000002  01247  01255              % 06690 CFLBUS
+*R 2 170402005 170301002 170402005  01247  01255            % 06690 CFLBUS
+*G RGB 170301002 170402005  01247  01255                    % 06690 CFLBUS
+*A VE 170301002 170402005 000002  01247  01255              % 06690 CFLBUS
+*I FD 170301002 170402005        0001212  01247  01255      % 06690 CFLBUS
+170301002 Berdorf, Hotel Herbe         01247                % 06690 CFLBUS
+170301004 Berdorf, Duerfplaz    01247  01247                % 06690 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01248  01248                % 06690 CFLBUS
+170305001 Bif. Kalkesbach       01250  01250                % 06690 CFLBUS
+170402004 Consdorf, Melickshec  01252  01252                % 06690 CFLBUS
+170402003 Consdorf, Kraizstroo  01253  01253                % 06690 CFLBUS
+170402002 Consdorf, Haenricht   01254  01254                % 06690 CFLBUS
+170402005 Consdorf, Post        01255                       % 06690 CFLBUS
+*Z 06691 CFLBUS                                             % 06691 CFLBUS
+*L 109      170301002 170402005  01347  01355               % 06691 CFLBUS
+*A vo 170301002 170402005 000002  01347  01355              % 06691 CFLBUS
+*R 2 170402005 170301002 170402005  01347  01355            % 06691 CFLBUS
+*G RGB 170301002 170402005  01347  01355                    % 06691 CFLBUS
+*A VE 170301002 170402005 000002  01347  01355              % 06691 CFLBUS
+*I FD 170301002 170402005        0002365  01347  01355      % 06691 CFLBUS
+170301002 Berdorf, Hotel Herbe         01347                % 06691 CFLBUS
+170301004 Berdorf, Duerfplaz    01347  01347                % 06691 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01348  01348                % 06691 CFLBUS
+170305001 Bif. Kalkesbach       01350  01350                % 06691 CFLBUS
+170402004 Consdorf, Melickshec  01352  01352                % 06691 CFLBUS
+170402003 Consdorf, Kraizstroo  01353  01353                % 06691 CFLBUS
+170402002 Consdorf, Haenricht   01354  01354                % 06691 CFLBUS
+170402005 Consdorf, Post        01355                       % 06691 CFLBUS
+*Z 06692 CFLBUS                                             % 06692 CFLBUS
+*L 109      170301002 170402005  01447  01455               % 06692 CFLBUS
+*A vo 170301002 170402005 000002  01447  01455              % 06692 CFLBUS
+*R 2 170402005 170301002 170402005  01447  01455            % 06692 CFLBUS
+*G RGB 170301002 170402005  01447  01455                    % 06692 CFLBUS
+*A VE 170301002 170402005 000002  01447  01455              % 06692 CFLBUS
+*I FD 170301002 170402005        0002374  01447  01455      % 06692 CFLBUS
+170301002 Berdorf, Hotel Herbe         01447                % 06692 CFLBUS
+170301004 Berdorf, Duerfplaz    01447  01447                % 06692 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01448  01448                % 06692 CFLBUS
+170305001 Bif. Kalkesbach       01450  01450                % 06692 CFLBUS
+170402004 Consdorf, Melickshec  01452  01452                % 06692 CFLBUS
+170402003 Consdorf, Kraizstroo  01453  01453                % 06692 CFLBUS
+170402002 Consdorf, Haenricht   01454  01454                % 06692 CFLBUS
+170402005 Consdorf, Post        01455                       % 06692 CFLBUS
+*Z 06693 CFLBUS                                             % 06693 CFLBUS
+*L 109      170301002 170402005  01547  01555               % 06693 CFLBUS
+*A vo 170301002 170402005 000002  01547  01555              % 06693 CFLBUS
+*R 2 170402005 170301002 170402005  01547  01555            % 06693 CFLBUS
+*G RGB 170301002 170402005  01547  01555                    % 06693 CFLBUS
+*A VE 170301002 170402005 000002  01547  01555              % 06693 CFLBUS
+*I FD 170301002 170402005        0002061  01547  01555      % 06693 CFLBUS
+170301002 Berdorf, Hotel Herbe         01547                % 06693 CFLBUS
+170301004 Berdorf, Duerfplaz    01547  01547                % 06693 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01548  01548                % 06693 CFLBUS
+170305001 Bif. Kalkesbach       01550  01550                % 06693 CFLBUS
+170402004 Consdorf, Melickshec  01552  01552                % 06693 CFLBUS
+170402003 Consdorf, Kraizstroo  01553  01553                % 06693 CFLBUS
+170402002 Consdorf, Haenricht   01554  01554                % 06693 CFLBUS
+170402005 Consdorf, Post        01555                       % 06693 CFLBUS
+*Z 06694 CFLBUS                                             % 06694 CFLBUS
+*L 109      170301002 170402005  01557  01605               % 06694 CFLBUS
+*A vo 170301002 170402005 000002  01557  01605              % 06694 CFLBUS
+*R 2 170402005 170301002 170402005  01557  01605            % 06694 CFLBUS
+*G RGB 170301002 170402005  01557  01605                    % 06694 CFLBUS
+*A VE 170301002 170402005 000002  01557  01605              % 06694 CFLBUS
+*I FD 170301002 170402005        0003271  01557  01605      % 06694 CFLBUS
+170301002 Berdorf, Hotel Herbe         01557                % 06694 CFLBUS
+170301004 Berdorf, Duerfplaz    01557  01557                % 06694 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01558  01558                % 06694 CFLBUS
+170305001 Bif. Kalkesbach       01600  01600                % 06694 CFLBUS
+170402004 Consdorf, Melickshec  01602  01602                % 06694 CFLBUS
+170402003 Consdorf, Kraizstroo  01603  01603                % 06694 CFLBUS
+170402002 Consdorf, Haenricht   01604  01604                % 06694 CFLBUS
+170402005 Consdorf, Post        01605                       % 06694 CFLBUS
+*Z 06695 CFLBUS                                             % 06695 CFLBUS
+*L 109      170301002 170402005  01842  01850               % 06695 CFLBUS
+*A vo 170301002 170402005 000002  01842  01850              % 06695 CFLBUS
+*R 2 170402005 170301002 170402005  01842  01850            % 06695 CFLBUS
+*G RGB 170301002 170402005  01842  01850                    % 06695 CFLBUS
+*A VE 170301002 170402005 000002  01842  01850              % 06695 CFLBUS
+*I FD 170301002 170402005        0001450  01842  01850      % 06695 CFLBUS
+170301002 Berdorf, Hotel Herbe         01842                % 06695 CFLBUS
+170301004 Berdorf, Duerfplaz    01842  01842                % 06695 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01843  01843                % 06695 CFLBUS
+170305001 Bif. Kalkesbach       01845  01845                % 06695 CFLBUS
+170402004 Consdorf, Melickshec  01847  01847                % 06695 CFLBUS
+170402003 Consdorf, Kraizstroo  01848  01848                % 06695 CFLBUS
+170402002 Consdorf, Haenricht   01849  01849                % 06695 CFLBUS
+170402005 Consdorf, Post        01850                       % 06695 CFLBUS
+*Z 06696 CFLBUS                                             % 06696 CFLBUS
+*L 109      170301002 170402005  01847  01855               % 06696 CFLBUS
+*A vo 170301002 170402005 000002  01847  01855              % 06696 CFLBUS
+*R 2 170402005 170301002 170402005  01847  01855            % 06696 CFLBUS
+*G RGB 170301002 170402005  01847  01855                    % 06696 CFLBUS
+*A VE 170301002 170402005 000002  01847  01855              % 06696 CFLBUS
+*I FD 170301002 170402005        0001474  01847  01855      % 06696 CFLBUS
+170301002 Berdorf, Hotel Herbe         01847                % 06696 CFLBUS
+170301004 Berdorf, Duerfplaz    01847  01847                % 06696 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01848  01848                % 06696 CFLBUS
+170305001 Bif. Kalkesbach       01850  01850                % 06696 CFLBUS
+170402004 Consdorf, Melickshec  01852  01852                % 06696 CFLBUS
+170402003 Consdorf, Kraizstroo  01853  01853                % 06696 CFLBUS
+170402002 Consdorf, Haenricht   01854  01854                % 06696 CFLBUS
+170402005 Consdorf, Post        01855                       % 06696 CFLBUS
+*Z 06697 CFLBUS                                             % 06697 CFLBUS
+*L 109      170301002 170402005  01947  01955               % 06697 CFLBUS
+*A vo 170301002 170402005 000002  01947  01955              % 06697 CFLBUS
+*R 2 170402005 170301002 170402005  01947  01955            % 06697 CFLBUS
+*G RGB 170301002 170402005  01947  01955                    % 06697 CFLBUS
+*A VE 170301002 170402005 000002  01947  01955              % 06697 CFLBUS
+*I FD 170301002 170402005        0002377  01947  01955      % 06697 CFLBUS
+170301002 Berdorf, Hotel Herbe         01947                % 06697 CFLBUS
+170301004 Berdorf, Duerfplaz    01947  01947                % 06697 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01948  01948                % 06697 CFLBUS
+170305001 Bif. Kalkesbach       01950  01950                % 06697 CFLBUS
+170402004 Consdorf, Melickshec  01952  01952                % 06697 CFLBUS
+170402003 Consdorf, Kraizstroo  01953  01953                % 06697 CFLBUS
+170402002 Consdorf, Haenricht   01954  01954                % 06697 CFLBUS
+170402005 Consdorf, Post        01955                       % 06697 CFLBUS
+*Z 06698 CFLBUS                                             % 06698 CFLBUS
+*L 109      170301002 170402005  02047  02055               % 06698 CFLBUS
+*A vo 170301002 170402005 000002  02047  02055              % 06698 CFLBUS
+*R 2 170402005 170301002 170402005  02047  02055            % 06698 CFLBUS
+*G RGB 170301002 170402005  02047  02055                    % 06698 CFLBUS
+*A VE 170301002 170402005 000002  02047  02055              % 06698 CFLBUS
+*I FD 170301002 170402005        0002379  02047  02055      % 06698 CFLBUS
+170301002 Berdorf, Hotel Herbe         02047                % 06698 CFLBUS
+170301004 Berdorf, Duerfplaz    02047  02047                % 06698 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02048  02048                % 06698 CFLBUS
+170305001 Bif. Kalkesbach       02050  02050                % 06698 CFLBUS
+170402004 Consdorf, Melickshec  02052  02052                % 06698 CFLBUS
+170402003 Consdorf, Kraizstroo  02053  02053                % 06698 CFLBUS
+170402002 Consdorf, Haenricht   02054  02054                % 06698 CFLBUS
+170402005 Consdorf, Post        02055                       % 06698 CFLBUS
+*Z 06699 CFLBUS                                             % 06699 CFLBUS
+*L 109      170301002 170402005  02147  02155               % 06699 CFLBUS
+*A vo 170301002 170402005 000002  02147  02155              % 06699 CFLBUS
+*R 2 170402005 170301002 170402005  02147  02155            % 06699 CFLBUS
+*G RGB 170301002 170402005  02147  02155                    % 06699 CFLBUS
+*A VE 170301002 170402005 000002  02147  02155              % 06699 CFLBUS
+*I FD 170301002 170402005        0002381  02147  02155      % 06699 CFLBUS
+170301002 Berdorf, Hotel Herbe         02147                % 06699 CFLBUS
+170301004 Berdorf, Duerfplaz    02147  02147                % 06699 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02148  02148                % 06699 CFLBUS
+170305001 Bif. Kalkesbach       02150  02150                % 06699 CFLBUS
+170402004 Consdorf, Melickshec  02152  02152                % 06699 CFLBUS
+170402003 Consdorf, Kraizstroo  02153  02153                % 06699 CFLBUS
+170402002 Consdorf, Haenricht   02154  02154                % 06699 CFLBUS
+170402005 Consdorf, Post        02155                       % 06699 CFLBUS
+*Z 06700 CFLBUS                                             % 06700 CFLBUS
+*L 109      170301002 170402005  02247  02255               % 06700 CFLBUS
+*A vo 170301002 170402005 000002  02247  02255              % 06700 CFLBUS
+*R 2 170402005 170301002 170402005  02247  02255            % 06700 CFLBUS
+*G RGB 170301002 170402005  02247  02255                    % 06700 CFLBUS
+*A VE 170301002 170402005 000002  02247  02255              % 06700 CFLBUS
+*I FD 170301002 170402005        0002382  02247  02255      % 06700 CFLBUS
+170301002 Berdorf, Hotel Herbe         02247                % 06700 CFLBUS
+170301004 Berdorf, Duerfplaz    02247  02247                % 06700 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02248  02248                % 06700 CFLBUS
+170305001 Bif. Kalkesbach       02250  02250                % 06700 CFLBUS
+170402004 Consdorf, Melickshec  02252  02252                % 06700 CFLBUS
+170402003 Consdorf, Kraizstroo  02253  02253                % 06700 CFLBUS
+170402002 Consdorf, Haenricht   02254  02254                % 06700 CFLBUS
+170402005 Consdorf, Post        02255                       % 06700 CFLBUS
+*Z 06701 CFLBUS                                             % 06701 CFLBUS
+*L 109      170301002 170402005  00622  00630               % 06701 CFLBUS
+*A vo 170301002 170402005 000009  00622  00630              % 06701 CFLBUS
+*R 2 170402005 170301002 170402005  00622  00630            % 06701 CFLBUS
+*G RGB 170301002 170402005  00622  00630                    % 06701 CFLBUS
+*A VE 170301002 170402005 000009  00622  00630              % 06701 CFLBUS
+*I FD 170301002 170402005        0002858  00622  00630      % 06701 CFLBUS
+170301002 Berdorf, Hotel Herbe         00622                % 06701 CFLBUS
+170301004 Berdorf, Duerfplaz    00622  00622                % 06701 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00623  00623                % 06701 CFLBUS
+170305001 Bif. Kalkesbach       00625  00625                % 06701 CFLBUS
+170402004 Consdorf, Melickshec  00627  00627                % 06701 CFLBUS
+170402003 Consdorf, Kraizstroo  00628  00628                % 06701 CFLBUS
+170402002 Consdorf, Haenricht   00629  00629                % 06701 CFLBUS
+170402005 Consdorf, Post        00630                       % 06701 CFLBUS
+*Z 06702 CFLBUS                                             % 06702 CFLBUS
+*L 109      170301002 170402005  01208  01216               % 06702 CFLBUS
+*A vo 170301002 170402005 000009  01208  01216              % 06702 CFLBUS
+*R 2 170402005 170301002 170402005  01208  01216            % 06702 CFLBUS
+*G RGB 170301002 170402005  01208  01216                    % 06702 CFLBUS
+*A VE 170301002 170402005 000009  01208  01216              % 06702 CFLBUS
+*I FD 170301002 170402005        0003176  01208  01216      % 06702 CFLBUS
+170301002 Berdorf, Hotel Herbe         01208                % 06702 CFLBUS
+170301004 Berdorf, Duerfplaz    01208  01208                % 06702 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01209  01209                % 06702 CFLBUS
+170305001 Bif. Kalkesbach       01211  01211                % 06702 CFLBUS
+170402004 Consdorf, Melickshec  01213  01213                % 06702 CFLBUS
+170402003 Consdorf, Kraizstroo  01214  01214                % 06702 CFLBUS
+170402002 Consdorf, Haenricht   01215  01215                % 06702 CFLBUS
+170402005 Consdorf, Post        01216                       % 06702 CFLBUS
+*Z 06703 CFLBUS                                             % 06703 CFLBUS
+*L 109      170301002 170402005  01324  01332               % 06703 CFLBUS
+*A vo 170301002 170402005 000009  01324  01332              % 06703 CFLBUS
+*R 2 170402005 170301002 170402005  01324  01332            % 06703 CFLBUS
+*G RGB 170301002 170402005  01324  01332                    % 06703 CFLBUS
+*A VE 170301002 170402005 000009  01324  01332              % 06703 CFLBUS
+*I FD 170301002 170402005        0003680  01324  01332      % 06703 CFLBUS
+170301002 Berdorf, Hotel Herbe         01324                % 06703 CFLBUS
+170301004 Berdorf, Duerfplaz    01324  01324                % 06703 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01325  01325                % 06703 CFLBUS
+170305001 Bif. Kalkesbach       01327  01327                % 06703 CFLBUS
+170402004 Consdorf, Melickshec  01329  01329                % 06703 CFLBUS
+170402003 Consdorf, Kraizstroo  01330  01330                % 06703 CFLBUS
+170402002 Consdorf, Haenricht   01331  01331                % 06703 CFLBUS
+170402005 Consdorf, Post        01332                       % 06703 CFLBUS
+*Z 06704 CFLBUS                                             % 06704 CFLBUS
+*L 109      170301002 170402005  02309  02317               % 06704 CFLBUS
+*A vo 170301002 170402005 000187  02309  02317              % 06704 CFLBUS
+*R 2 170402005 170301002 170402005  02309  02317            % 06704 CFLBUS
+*G RGB 170301002 170402005  02309  02317                    % 06704 CFLBUS
+*A VE 170301002 170402005 000187  02309  02317              % 06704 CFLBUS
+*I FD 170301002 170402005        0005286  02309  02317      % 06704 CFLBUS
+170301002 Berdorf, Hotel Herbe         02309                % 06704 CFLBUS
+170301004 Berdorf, Duerfplaz    02309  02309                % 06704 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02310  02310                % 06704 CFLBUS
+170305001 Bif. Kalkesbach       02312  02312                % 06704 CFLBUS
+170402004 Consdorf, Melickshec  02314  02314                % 06704 CFLBUS
+170402003 Consdorf, Kraizstroo  02315  02315                % 06704 CFLBUS
+170402002 Consdorf, Haenricht   02316  02316                % 06704 CFLBUS
+170402005 Consdorf, Post        02317                       % 06704 CFLBUS
+*Z 06705 CFLBUS                                             % 06705 CFLBUS
+*L 109      170301002 170402005  00714  00722               % 06705 CFLBUS
+*A vo 170301002 170402005 000002  00714  00722              % 06705 CFLBUS
+*R 2 170402005 170301002 170402005  00714  00722            % 06705 CFLBUS
+*G RGB 170301002 170402005  00714  00722                    % 06705 CFLBUS
+*A VE 170301002 170402005 000002  00714  00722              % 06705 CFLBUS
+*I FD 170301002 170402005        0003540  00714  00722      % 06705 CFLBUS
+170301002 Berdorf, Hotel Herbe         00714                % 06705 CFLBUS
+170301004 Berdorf, Duerfplaz    00714  00714                % 06705 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00715  00715                % 06705 CFLBUS
+170305001 Bif. Kalkesbach       00717  00717                % 06705 CFLBUS
+170402004 Consdorf, Melickshec  00719  00719                % 06705 CFLBUS
+170402003 Consdorf, Kraizstroo  00720  00720                % 06705 CFLBUS
+170402002 Consdorf, Haenricht   00721  00721                % 06705 CFLBUS
+170402005 Consdorf, Post        00722                       % 06705 CFLBUS
+*Z 06706 CFLBUS                                             % 06706 CFLBUS
+*L 109      170301002 170402005  00847  00855               % 06706 CFLBUS
+*A vo 170301002 170402005 000002  00847  00855              % 06706 CFLBUS
+*R 2 170402005 170301002 170402005  00847  00855            % 06706 CFLBUS
+*G RGB 170301002 170402005  00847  00855                    % 06706 CFLBUS
+*A VE 170301002 170402005 000002  00847  00855              % 06706 CFLBUS
+*I FD 170301002 170402005        0002389  00847  00855      % 06706 CFLBUS
+170301002 Berdorf, Hotel Herbe         00847                % 06706 CFLBUS
+170301004 Berdorf, Duerfplaz    00847  00847                % 06706 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00848  00848                % 06706 CFLBUS
+170305001 Bif. Kalkesbach       00850  00850                % 06706 CFLBUS
+170402004 Consdorf, Melickshec  00852  00852                % 06706 CFLBUS
+170402003 Consdorf, Kraizstroo  00853  00853                % 06706 CFLBUS
+170402002 Consdorf, Haenricht   00854  00854                % 06706 CFLBUS
+170402005 Consdorf, Post        00855                       % 06706 CFLBUS
+*Z 06707 CFLBUS                                             % 06707 CFLBUS
+*L 109      170301002 170402005  01647  01655               % 06707 CFLBUS
+*A vo 170301002 170402005 000002  01647  01655              % 06707 CFLBUS
+*R 2 170402005 170301002 170402005  01647  01655            % 06707 CFLBUS
+*G RGB 170301002 170402005  01647  01655                    % 06707 CFLBUS
+*A VE 170301002 170402005 000002  01647  01655              % 06707 CFLBUS
+*I FD 170301002 170402005        0001377  01647  01655      % 06707 CFLBUS
+170301002 Berdorf, Hotel Herbe         01647                % 06707 CFLBUS
+170301004 Berdorf, Duerfplaz    01647  01647                % 06707 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01648  01648                % 06707 CFLBUS
+170305001 Bif. Kalkesbach       01650  01650                % 06707 CFLBUS
+170402004 Consdorf, Melickshec  01652  01652                % 06707 CFLBUS
+170402003 Consdorf, Kraizstroo  01653  01653                % 06707 CFLBUS
+170402002 Consdorf, Haenricht   01654  01654                % 06707 CFLBUS
+170402005 Consdorf, Post        01655                       % 06707 CFLBUS
+*Z 06708 CFLBUS                                             % 06708 CFLBUS
+*L 109      170301002 170402005  01747  01755               % 06708 CFLBUS
+*A vo 170301002 170402005 000002  01747  01755              % 06708 CFLBUS
+*R 2 170402005 170301002 170402005  01747  01755            % 06708 CFLBUS
+*G RGB 170301002 170402005  01747  01755                    % 06708 CFLBUS
+*A VE 170301002 170402005 000002  01747  01755              % 06708 CFLBUS
+*I FD 170301002 170402005        0002392  01747  01755      % 06708 CFLBUS
+170301002 Berdorf, Hotel Herbe         01747                % 06708 CFLBUS
+170301004 Berdorf, Duerfplaz    01747  01747                % 06708 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01748  01748                % 06708 CFLBUS
+170305001 Bif. Kalkesbach       01750  01750                % 06708 CFLBUS
+170402004 Consdorf, Melickshec  01752  01752                % 06708 CFLBUS
+170402003 Consdorf, Kraizstroo  01753  01753                % 06708 CFLBUS
+170402002 Consdorf, Haenricht   01754  01754                % 06708 CFLBUS
+170402005 Consdorf, Post        01755                       % 06708 CFLBUS
+*Z 06709 CFLBUS                                             % 06709 CFLBUS
+*L 109      170301002 170402005  01812  01820               % 06709 CFLBUS
+*A vo 170301002 170402005 000002  01812  01820              % 06709 CFLBUS
+*R 2 170402005 170301002 170402005  01812  01820            % 06709 CFLBUS
+*G RGB 170301002 170402005  01812  01820                    % 06709 CFLBUS
+*A VE 170301002 170402005 000002  01812  01820              % 06709 CFLBUS
+*I FD 170301002 170402005        0003740  01812  01820      % 06709 CFLBUS
+170301002 Berdorf, Hotel Herbe         01812                % 06709 CFLBUS
+170301004 Berdorf, Duerfplaz    01812  01812                % 06709 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01813  01813                % 06709 CFLBUS
+170305001 Bif. Kalkesbach       01815  01815                % 06709 CFLBUS
+170402004 Consdorf, Melickshec  01817  01817                % 06709 CFLBUS
+170402003 Consdorf, Kraizstroo  01818  01818                % 06709 CFLBUS
+170402002 Consdorf, Haenricht   01819  01819                % 06709 CFLBUS
+170402005 Consdorf, Post        01820                       % 06709 CFLBUS
+*Z 06710 CFLBUS                                             % 06710 CFLBUS
+*L 109      170301002 170402005  00752  00800               % 06710 CFLBUS
+*A vo 170301002 170402005 000009  00752  00800              % 06710 CFLBUS
+*R 2 170402005 170301002 170402005  00752  00800            % 06710 CFLBUS
+*G RGB 170301002 170402005  00752  00800                    % 06710 CFLBUS
+*A VE 170301002 170402005 000009  00752  00800              % 06710 CFLBUS
+*I FD 170301002 170402005        0003496  00752  00800      % 06710 CFLBUS
+170301002 Berdorf, Hotel Herbe         00752                % 06710 CFLBUS
+170301004 Berdorf, Duerfplaz    00752  00752                % 06710 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00753  00753                % 06710 CFLBUS
+170305001 Bif. Kalkesbach       00755  00755                % 06710 CFLBUS
+170402004 Consdorf, Melickshec  00757  00757                % 06710 CFLBUS
+170402003 Consdorf, Kraizstroo  00758  00758                % 06710 CFLBUS
+170402002 Consdorf, Haenricht   00759  00759                % 06710 CFLBUS
+170402005 Consdorf, Post        00800                       % 06710 CFLBUS
+*Z 06711 CFLBUS                                             % 06711 CFLBUS
+*L 109      170301002 170402005  01638  01646               % 06711 CFLBUS
+*A vo 170301002 170402005 000009  01638  01646              % 06711 CFLBUS
+*R 2 170402005 170301002 170402005  01638  01646            % 06711 CFLBUS
+*G RGB 170301002 170402005  01638  01646                    % 06711 CFLBUS
+*A VE 170301002 170402005 000009  01638  01646              % 06711 CFLBUS
+*I FD 170301002 170402005        0002779  01638  01646      % 06711 CFLBUS
+170301002 Berdorf, Hotel Herbe         01638                % 06711 CFLBUS
+170301004 Berdorf, Duerfplaz    01638  01638                % 06711 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01639  01639                % 06711 CFLBUS
+170305001 Bif. Kalkesbach       01641  01641                % 06711 CFLBUS
+170402004 Consdorf, Melickshec  01643  01643                % 06711 CFLBUS
+170402003 Consdorf, Kraizstroo  01644  01644                % 06711 CFLBUS
+170402002 Consdorf, Haenricht   01645  01645                % 06711 CFLBUS
+170402005 Consdorf, Post        01646                       % 06711 CFLBUS
+*Z 06712 CFLBUS                                             % 06712 CFLBUS
+*L 109      170301002 170402005  00652  00700               % 06712 CFLBUS
+*A vo 170301002 170402005 000187  00652  00700              % 06712 CFLBUS
+*R 2 170402005 170301002 170402005  00652  00700            % 06712 CFLBUS
+*G RGB 170301002 170402005  00652  00700                    % 06712 CFLBUS
+*A VE 170301002 170402005 000187  00652  00700              % 06712 CFLBUS
+*I FD 170301002 170402005        0003350  00652  00700      % 06712 CFLBUS
+170301002 Berdorf, Hotel Herbe         00652                % 06712 CFLBUS
+170301004 Berdorf, Duerfplaz    00652  00652                % 06712 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00653  00653                % 06712 CFLBUS
+170305001 Bif. Kalkesbach       00655  00655                % 06712 CFLBUS
+170402004 Consdorf, Melickshec  00657  00657                % 06712 CFLBUS
+170402003 Consdorf, Kraizstroo  00658  00658                % 06712 CFLBUS
+170402002 Consdorf, Haenricht   00659  00659                % 06712 CFLBUS
+170402005 Consdorf, Post        00700                       % 06712 CFLBUS
+*Z 06713 CFLBUS                                             % 06713 CFLBUS
+*L 109      170501016 170301004  01440  01503               % 06713 CFLBUS
+*A vm 170501016 170301004 000034  01440  01503              % 06713 CFLBUS
+*R 1 170301004 170501016 170301004  01440  01503            % 06713 CFLBUS
+*G RGB 170501016 170301004  01440  01503                    % 06713 CFLBUS
+*A VE 170501016 170301004 000034  01440  01503              % 06713 CFLBUS
+*I FD 170501016 170301004        0003785  01440  01503      % 06713 CFLBUS
+170501016 Echternach, Gare Cen         01440                % 06713 CFLBUS
+170402005 Consdorf, Post        01455  01455                % 06713 CFLBUS
+170402002 Consdorf, Haenricht   01456  01456                % 06713 CFLBUS
+170402003 Consdorf, Kraizstroo  01457  01457                % 06713 CFLBUS
+170402004 Consdorf, Melickshec  01458  01458                % 06713 CFLBUS
+170305001 Bif. Kalkesbach       01500  01500                % 06713 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01502  01502                % 06713 CFLBUS
+170301004 Berdorf, Duerfplaz    01503                       % 06713 CFLBUS
+*Z 06714 CFLBUS                                             % 06714 CFLBUS
+*L 109      170402005 170301002  02322  02330               % 06714 CFLBUS
+*A vo 170402005 170301002 000188  02322  02330              % 06714 CFLBUS
+*R 1 170301002 170402005 170301002  02322  02330            % 06714 CFLBUS
+*G RGB 170402005 170301002  02322  02330                    % 06714 CFLBUS
+*A VE 170402005 170301002 000188  02322  02330              % 06714 CFLBUS
+*I FD 170402005 170301002        0005284  02322  02330      % 06714 CFLBUS
+170402005 Consdorf, Post               02322                % 06714 CFLBUS
+170402002 Consdorf, Haenricht   02323  02323                % 06714 CFLBUS
+170402003 Consdorf, Kraizstroo  02324  02324                % 06714 CFLBUS
+170402004 Consdorf, Melickshec  02324  02324                % 06714 CFLBUS
+170305001 Bif. Kalkesbach       02326  02326                % 06714 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02328  02328                % 06714 CFLBUS
+170301004 Berdorf, Duerfplaz    02329  02329                % 06714 CFLBUS
+170301002 Berdorf, Hotel Herbe  02330                       % 06714 CFLBUS
+*Z 06715 CFLBUS                                             % 06715 CFLBUS
+*L 109      170402005 170301002  01009  01017               % 06715 CFLBUS
+*A vo 170402005 170301002 000003  01009  01017              % 06715 CFLBUS
+*R 1 170301002 170402005 170301002  01009  01017            % 06715 CFLBUS
+*G RGB 170402005 170301002  01009  01017                    % 06715 CFLBUS
+*A VE 170402005 170301002 000003  01009  01017              % 06715 CFLBUS
+*I FD 170402005 170301002        0003136  01009  01017      % 06715 CFLBUS
+170402005 Consdorf, Post               01009                % 06715 CFLBUS
+170402002 Consdorf, Haenricht   01010  01010                % 06715 CFLBUS
+170402003 Consdorf, Kraizstroo  01011  01011                % 06715 CFLBUS
+170402004 Consdorf, Melickshec  01011  01011                % 06715 CFLBUS
+170305001 Bif. Kalkesbach       01013  01013                % 06715 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01015  01015                % 06715 CFLBUS
+170301004 Berdorf, Duerfplaz    01016  01016                % 06715 CFLBUS
+170301002 Berdorf, Hotel Herbe  01017                       % 06715 CFLBUS
+*Z 06716 CFLBUS                                             % 06716 CFLBUS
+*L 109      170402005 170301002  01250  01258               % 06716 CFLBUS
+*A vo 170402005 170301002 000003  01250  01258              % 06716 CFLBUS
+*R 1 170301002 170402005 170301002  01250  01258            % 06716 CFLBUS
+*G RGB 170402005 170301002  01250  01258                    % 06716 CFLBUS
+*A VE 170402005 170301002 000003  01250  01258              % 06716 CFLBUS
+*I FD 170402005 170301002        0003137  01250  01258      % 06716 CFLBUS
+170402005 Consdorf, Post               01250                % 06716 CFLBUS
+170402002 Consdorf, Haenricht   01251  01251                % 06716 CFLBUS
+170402003 Consdorf, Kraizstroo  01252  01252                % 06716 CFLBUS
+170402004 Consdorf, Melickshec  01252  01252                % 06716 CFLBUS
+170305001 Bif. Kalkesbach       01254  01254                % 06716 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01256  01256                % 06716 CFLBUS
+170301004 Berdorf, Duerfplaz    01257  01257                % 06716 CFLBUS
+170301002 Berdorf, Hotel Herbe  01258                       % 06716 CFLBUS
+*Z 06717 CFLBUS                                             % 06717 CFLBUS
+*L 109      170402005 170301002  01105  01113               % 06717 CFLBUS
+*A vo 170402005 170301002 000003  01105  01113              % 06717 CFLBUS
+*R 1 170301002 170402005 170301002  01105  01113            % 06717 CFLBUS
+*G RGB 170402005 170301002  01105  01113                    % 06717 CFLBUS
+*A VE 170402005 170301002 000003  01105  01113              % 06717 CFLBUS
+*I FD 170402005 170301002        0002106  01105  01113      % 06717 CFLBUS
+170402005 Consdorf, Post               01105                % 06717 CFLBUS
+170402002 Consdorf, Haenricht   01106  01106                % 06717 CFLBUS
+170402003 Consdorf, Kraizstroo  01107  01107                % 06717 CFLBUS
+170402004 Consdorf, Melickshec  01107  01107                % 06717 CFLBUS
+170305001 Bif. Kalkesbach       01109  01109                % 06717 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01111  01111                % 06717 CFLBUS
+170301004 Berdorf, Duerfplaz    01112  01112                % 06717 CFLBUS
+170301002 Berdorf, Hotel Herbe  01113                       % 06717 CFLBUS
+*Z 06718 CFLBUS                                             % 06718 CFLBUS
+*L 109      170402005 170301002  01205  01213               % 06718 CFLBUS
+*A vo 170402005 170301002 000003  01205  01213              % 06718 CFLBUS
+*R 1 170301002 170402005 170301002  01205  01213            % 06718 CFLBUS
+*G RGB 170402005 170301002  01205  01213                    % 06718 CFLBUS
+*A VE 170402005 170301002 000003  01205  01213              % 06718 CFLBUS
+*I FD 170402005 170301002        0002102  01205  01213      % 06718 CFLBUS
+170402005 Consdorf, Post               01205                % 06718 CFLBUS
+170402002 Consdorf, Haenricht   01206  01206                % 06718 CFLBUS
+170402003 Consdorf, Kraizstroo  01207  01207                % 06718 CFLBUS
+170402004 Consdorf, Melickshec  01207  01207                % 06718 CFLBUS
+170305001 Bif. Kalkesbach       01209  01209                % 06718 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01211  01211                % 06718 CFLBUS
+170301004 Berdorf, Duerfplaz    01212  01212                % 06718 CFLBUS
+170301002 Berdorf, Hotel Herbe  01213                       % 06718 CFLBUS
+*Z 06719 CFLBUS                                             % 06719 CFLBUS
+*L 109      170402005 170301002  01405  01413               % 06719 CFLBUS
+*A vo 170402005 170301002 000003  01405  01413              % 06719 CFLBUS
+*R 1 170301002 170402005 170301002  01405  01413            % 06719 CFLBUS
+*G RGB 170402005 170301002  01405  01413                    % 06719 CFLBUS
+*A VE 170402005 170301002 000003  01405  01413              % 06719 CFLBUS
+*I FD 170402005 170301002        0002103  01405  01413      % 06719 CFLBUS
+170402005 Consdorf, Post               01405                % 06719 CFLBUS
+170402002 Consdorf, Haenricht   01406  01406                % 06719 CFLBUS
+170402003 Consdorf, Kraizstroo  01407  01407                % 06719 CFLBUS
+170402004 Consdorf, Melickshec  01407  01407                % 06719 CFLBUS
+170305001 Bif. Kalkesbach       01409  01409                % 06719 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01411  01411                % 06719 CFLBUS
+170301004 Berdorf, Duerfplaz    01412  01412                % 06719 CFLBUS
+170301002 Berdorf, Hotel Herbe  01413                       % 06719 CFLBUS
+*Z 06720 CFLBUS                                             % 06720 CFLBUS
+*L 109      170402005 170301002  01505  01513               % 06720 CFLBUS
+*A vo 170402005 170301002 000003  01505  01513              % 06720 CFLBUS
+*R 1 170301002 170402005 170301002  01505  01513            % 06720 CFLBUS
+*G RGB 170402005 170301002  01505  01513                    % 06720 CFLBUS
+*A VE 170402005 170301002 000003  01505  01513              % 06720 CFLBUS
+*I FD 170402005 170301002        0002111  01505  01513      % 06720 CFLBUS
+170402005 Consdorf, Post               01505                % 06720 CFLBUS
+170402002 Consdorf, Haenricht   01506  01506                % 06720 CFLBUS
+170402003 Consdorf, Kraizstroo  01507  01507                % 06720 CFLBUS
+170402004 Consdorf, Melickshec  01507  01507                % 06720 CFLBUS
+170305001 Bif. Kalkesbach       01509  01509                % 06720 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01511  01511                % 06720 CFLBUS
+170301004 Berdorf, Duerfplaz    01512  01512                % 06720 CFLBUS
+170301002 Berdorf, Hotel Herbe  01513                       % 06720 CFLBUS
+*Z 06721 CFLBUS                                             % 06721 CFLBUS
+*L 109      170402005 170301002  01856  01904               % 06721 CFLBUS
+*A vo 170402005 170301002 000003  01856  01904              % 06721 CFLBUS
+*R 1 170301002 170402005 170301002  01856  01904            % 06721 CFLBUS
+*G RGB 170402005 170301002  01856  01904                    % 06721 CFLBUS
+*A VE 170402005 170301002 000003  01856  01904              % 06721 CFLBUS
+*I FD 170402005 170301002        0003014  01856  01904      % 06721 CFLBUS
+170402005 Consdorf, Post               01856                % 06721 CFLBUS
+170402002 Consdorf, Haenricht   01857  01857                % 06721 CFLBUS
+170402003 Consdorf, Kraizstroo  01858  01858                % 06721 CFLBUS
+170402004 Consdorf, Melickshec  01858  01858                % 06721 CFLBUS
+170305001 Bif. Kalkesbach       01900  01900                % 06721 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01902  01902                % 06721 CFLBUS
+170301004 Berdorf, Duerfplaz    01903  01903                % 06721 CFLBUS
+170301002 Berdorf, Hotel Herbe  01904                       % 06721 CFLBUS
+*Z 06722 CFLBUS                                             % 06722 CFLBUS
+*L 109      170402005 170301002  01904  01912               % 06722 CFLBUS
+*A vo 170402005 170301002 000003  01904  01912              % 06722 CFLBUS
+*R 1 170301002 170402005 170301002  01904  01912            % 06722 CFLBUS
+*G RGB 170402005 170301002  01904  01912                    % 06722 CFLBUS
+*A VE 170402005 170301002 000003  01904  01912              % 06722 CFLBUS
+*I FD 170402005 170301002        0002173  01904  01912      % 06722 CFLBUS
+170402005 Consdorf, Post               01904                % 06722 CFLBUS
+170402002 Consdorf, Haenricht   01905  01905                % 06722 CFLBUS
+170402003 Consdorf, Kraizstroo  01906  01906                % 06722 CFLBUS
+170402004 Consdorf, Melickshec  01906  01906                % 06722 CFLBUS
+170305001 Bif. Kalkesbach       01908  01908                % 06722 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01910  01910                % 06722 CFLBUS
+170301004 Berdorf, Duerfplaz    01911  01911                % 06722 CFLBUS
+170301002 Berdorf, Hotel Herbe  01912                       % 06722 CFLBUS
+*Z 06723 CFLBUS                                             % 06723 CFLBUS
+*L 109      170402005 170301002  02005  02013               % 06723 CFLBUS
+*A vo 170402005 170301002 000003  02005  02013              % 06723 CFLBUS
+*R 1 170301002 170402005 170301002  02005  02013            % 06723 CFLBUS
+*G RGB 170402005 170301002  02005  02013                    % 06723 CFLBUS
+*A VE 170402005 170301002 000003  02005  02013              % 06723 CFLBUS
+*I FD 170402005 170301002        0002070  02005  02013      % 06723 CFLBUS
+170402005 Consdorf, Post               02005                % 06723 CFLBUS
+170402002 Consdorf, Haenricht   02006  02006                % 06723 CFLBUS
+170402003 Consdorf, Kraizstroo  02007  02007                % 06723 CFLBUS
+170402004 Consdorf, Melickshec  02007  02007                % 06723 CFLBUS
+170305001 Bif. Kalkesbach       02009  02009                % 06723 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02011  02011                % 06723 CFLBUS
+170301004 Berdorf, Duerfplaz    02012  02012                % 06723 CFLBUS
+170301002 Berdorf, Hotel Herbe  02013                       % 06723 CFLBUS
+*Z 06724 CFLBUS                                             % 06724 CFLBUS
+*L 109      170402005 170301002  02105  02113               % 06724 CFLBUS
+*A vo 170402005 170301002 000003  02105  02113              % 06724 CFLBUS
+*R 1 170301002 170402005 170301002  02105  02113            % 06724 CFLBUS
+*G RGB 170402005 170301002  02105  02113                    % 06724 CFLBUS
+*A VE 170402005 170301002 000003  02105  02113              % 06724 CFLBUS
+*I FD 170402005 170301002        0002114  02105  02113      % 06724 CFLBUS
+170402005 Consdorf, Post               02105                % 06724 CFLBUS
+170402002 Consdorf, Haenricht   02106  02106                % 06724 CFLBUS
+170402003 Consdorf, Kraizstroo  02107  02107                % 06724 CFLBUS
+170402004 Consdorf, Melickshec  02107  02107                % 06724 CFLBUS
+170305001 Bif. Kalkesbach       02109  02109                % 06724 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02111  02111                % 06724 CFLBUS
+170301004 Berdorf, Duerfplaz    02112  02112                % 06724 CFLBUS
+170301002 Berdorf, Hotel Herbe  02113                       % 06724 CFLBUS
+*Z 06725 CFLBUS                                             % 06725 CFLBUS
+*L 109      170402005 170301002  02205  02213               % 06725 CFLBUS
+*A vo 170402005 170301002 000003  02205  02213              % 06725 CFLBUS
+*R 1 170301002 170402005 170301002  02205  02213            % 06725 CFLBUS
+*G RGB 170402005 170301002  02205  02213                    % 06725 CFLBUS
+*A VE 170402005 170301002 000003  02205  02213              % 06725 CFLBUS
+*I FD 170402005 170301002        0002115  02205  02213      % 06725 CFLBUS
+170402005 Consdorf, Post               02205                % 06725 CFLBUS
+170402002 Consdorf, Haenricht   02206  02206                % 06725 CFLBUS
+170402003 Consdorf, Kraizstroo  02207  02207                % 06725 CFLBUS
+170402004 Consdorf, Melickshec  02207  02207                % 06725 CFLBUS
+170305001 Bif. Kalkesbach       02209  02209                % 06725 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02211  02211                % 06725 CFLBUS
+170301004 Berdorf, Duerfplaz    02212  02212                % 06725 CFLBUS
+170301002 Berdorf, Hotel Herbe  02213                       % 06725 CFLBUS
+*Z 06726 CFLBUS                                             % 06726 CFLBUS
+*L 109      170402005 170301002  00639  00647               % 06726 CFLBUS
+*A vo 170402005 170301002 000008  00639  00647              % 06726 CFLBUS
+*R 1 170301002 170402005 170301002  00639  00647            % 06726 CFLBUS
+*G RGB 170402005 170301002  00639  00647                    % 06726 CFLBUS
+*A VE 170402005 170301002 000008  00639  00647              % 06726 CFLBUS
+*I FD 170402005 170301002        0003227  00639  00647      % 06726 CFLBUS
+170402005 Consdorf, Post               00639                % 06726 CFLBUS
+170402002 Consdorf, Haenricht   00640  00640                % 06726 CFLBUS
+170402003 Consdorf, Kraizstroo  00641  00641                % 06726 CFLBUS
+170402004 Consdorf, Melickshec  00641  00641                % 06726 CFLBUS
+170305001 Bif. Kalkesbach       00643  00643                % 06726 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00645  00645                % 06726 CFLBUS
+170301004 Berdorf, Duerfplaz    00646  00646                % 06726 CFLBUS
+170301002 Berdorf, Hotel Herbe  00647                       % 06726 CFLBUS
+*Z 06727 CFLBUS                                             % 06727 CFLBUS
+*L 109      170402005 170301002  01220  01228               % 06727 CFLBUS
+*A vo 170402005 170301002 000008  01220  01228              % 06727 CFLBUS
+*R 1 170301002 170402005 170301002  01220  01228            % 06727 CFLBUS
+*G RGB 170402005 170301002  01220  01228                    % 06727 CFLBUS
+*A VE 170402005 170301002 000008  01220  01228              % 06727 CFLBUS
+*I FD 170402005 170301002        0003136  01220  01228      % 06727 CFLBUS
+170402005 Consdorf, Post               01220                % 06727 CFLBUS
+170402002 Consdorf, Haenricht   01221  01221                % 06727 CFLBUS
+170402003 Consdorf, Kraizstroo  01222  01222                % 06727 CFLBUS
+170402004 Consdorf, Melickshec  01222  01222                % 06727 CFLBUS
+170305001 Bif. Kalkesbach       01224  01224                % 06727 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01226  01226                % 06727 CFLBUS
+170301004 Berdorf, Duerfplaz    01227  01227                % 06727 CFLBUS
+170301002 Berdorf, Hotel Herbe  01228                       % 06727 CFLBUS
+*Z 06728 CFLBUS                                             % 06728 CFLBUS
+*L 109      170402005 170301002  01305  01313               % 06728 CFLBUS
+*A vo 170402005 170301002 000008  01305  01313              % 06728 CFLBUS
+*R 1 170301002 170402005 170301002  01305  01313            % 06728 CFLBUS
+*G RGB 170402005 170301002  01305  01313                    % 06728 CFLBUS
+*A VE 170402005 170301002 000008  01305  01313              % 06728 CFLBUS
+*I FD 170402005 170301002        0002108  01305  01313      % 06728 CFLBUS
+170402005 Consdorf, Post               01305                % 06728 CFLBUS
+170402002 Consdorf, Haenricht   01306  01306                % 06728 CFLBUS
+170402003 Consdorf, Kraizstroo  01307  01307                % 06728 CFLBUS
+170402004 Consdorf, Melickshec  01307  01307                % 06728 CFLBUS
+170305001 Bif. Kalkesbach       01309  01309                % 06728 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01311  01311                % 06728 CFLBUS
+170301004 Berdorf, Duerfplaz    01312  01312                % 06728 CFLBUS
+170301002 Berdorf, Hotel Herbe  01313                       % 06728 CFLBUS
+*Z 06729 CFLBUS                                             % 06729 CFLBUS
+*L 109      170402005 170301002  01335  01343               % 06729 CFLBUS
+*A vo 170402005 170301002 000008  01335  01343              % 06729 CFLBUS
+*R 1 170301002 170402005 170301002  01335  01343            % 06729 CFLBUS
+*G RGB 170402005 170301002  01335  01343                    % 06729 CFLBUS
+*A VE 170402005 170301002 000008  01335  01343              % 06729 CFLBUS
+*I FD 170402005 170301002        0002109  01335  01343      % 06729 CFLBUS
+170402005 Consdorf, Post               01335                % 06729 CFLBUS
+170402002 Consdorf, Haenricht   01336  01336                % 06729 CFLBUS
+170402003 Consdorf, Kraizstroo  01337  01337                % 06729 CFLBUS
+170402004 Consdorf, Melickshec  01337  01337                % 06729 CFLBUS
+170305001 Bif. Kalkesbach       01339  01339                % 06729 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01341  01341                % 06729 CFLBUS
+170301004 Berdorf, Duerfplaz    01342  01342                % 06729 CFLBUS
+170301002 Berdorf, Hotel Herbe  01343                       % 06729 CFLBUS
+*Z 06730 CFLBUS                                             % 06730 CFLBUS
+*L 109      170402005 170301002  02305  02313               % 06730 CFLBUS
+*A vo 170402005 170301002 000008  02305  02313              % 06730 CFLBUS
+*R 1 170301002 170402005 170301002  02305  02313            % 06730 CFLBUS
+*G RGB 170402005 170301002  02305  02313                    % 06730 CFLBUS
+*A VE 170402005 170301002 000008  02305  02313              % 06730 CFLBUS
+*I FD 170402005 170301002        0002116  02305  02313      % 06730 CFLBUS
+170402005 Consdorf, Post               02305                % 06730 CFLBUS
+170402002 Consdorf, Haenricht   02306  02306                % 06730 CFLBUS
+170402003 Consdorf, Kraizstroo  02307  02307                % 06730 CFLBUS
+170402004 Consdorf, Melickshec  02307  02307                % 06730 CFLBUS
+170305001 Bif. Kalkesbach       02309  02309                % 06730 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02311  02311                % 06730 CFLBUS
+170301004 Berdorf, Duerfplaz    02312  02312                % 06730 CFLBUS
+170301002 Berdorf, Hotel Herbe  02313                       % 06730 CFLBUS
+*Z 06731 CFLBUS                                             % 06731 CFLBUS
+*L 109      170402005 170301002  00709  00717               % 06731 CFLBUS
+*A vo 170402005 170301002 000188  00709  00717              % 06731 CFLBUS
+*R 1 170301002 170402005 170301002  00709  00717            % 06731 CFLBUS
+*G RGB 170402005 170301002  00709  00717                    % 06731 CFLBUS
+*A VE 170402005 170301002 000188  00709  00717              % 06731 CFLBUS
+*I FD 170402005 170301002        0003128  00709  00717      % 06731 CFLBUS
+170402005 Consdorf, Post               00709                % 06731 CFLBUS
+170402002 Consdorf, Haenricht   00710  00710                % 06731 CFLBUS
+170402003 Consdorf, Kraizstroo  00711  00711                % 06731 CFLBUS
+170402004 Consdorf, Melickshec  00712  00712                % 06731 CFLBUS
+170305001 Bif. Kalkesbach       00714  00714                % 06731 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00716  00716                % 06731 CFLBUS
+170301004 Berdorf, Duerfplaz    00717  00717                % 06731 CFLBUS
+170301002 Berdorf, Hotel Herbe  00717                       % 06731 CFLBUS
+*Z 06732 CFLBUS                                             % 06732 CFLBUS
+*L 109      170402005 170301002  00729  00737               % 06732 CFLBUS
+*A vo 170402005 170301002 000003  00729  00737              % 06732 CFLBUS
+*R 1 170301002 170402005 170301002  00729  00737            % 06732 CFLBUS
+*G RGB 170402005 170301002  00729  00737                    % 06732 CFLBUS
+*A VE 170402005 170301002 000003  00729  00737              % 06732 CFLBUS
+*I FD 170402005 170301002        0003130  00729  00737      % 06732 CFLBUS
+170402005 Consdorf, Post               00729                % 06732 CFLBUS
+170402002 Consdorf, Haenricht   00730  00730                % 06732 CFLBUS
+170402003 Consdorf, Kraizstroo  00731  00731                % 06732 CFLBUS
+170402004 Consdorf, Melickshec  00732  00732                % 06732 CFLBUS
+170305001 Bif. Kalkesbach       00734  00734                % 06732 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00736  00736                % 06732 CFLBUS
+170301004 Berdorf, Duerfplaz    00737  00737                % 06732 CFLBUS
+170301002 Berdorf, Hotel Herbe  00737                       % 06732 CFLBUS
+*Z 06733 CFLBUS                                             % 06733 CFLBUS
+*L 109      170402005 170301002  00909  00917               % 06733 CFLBUS
+*A vo 170402005 170301002 000003  00909  00917              % 06733 CFLBUS
+*R 1 170301002 170402005 170301002  00909  00917            % 06733 CFLBUS
+*G RGB 170402005 170301002  00909  00917                    % 06733 CFLBUS
+*A VE 170402005 170301002 000003  00909  00917              % 06733 CFLBUS
+*I FD 170402005 170301002        0003134  00909  00917      % 06733 CFLBUS
+170402005 Consdorf, Post               00909                % 06733 CFLBUS
+170402002 Consdorf, Haenricht   00910  00910                % 06733 CFLBUS
+170402003 Consdorf, Kraizstroo  00911  00911                % 06733 CFLBUS
+170402004 Consdorf, Melickshec  00912  00912                % 06733 CFLBUS
+170305001 Bif. Kalkesbach       00914  00914                % 06733 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00916  00916                % 06733 CFLBUS
+170301004 Berdorf, Duerfplaz    00917  00917                % 06733 CFLBUS
+170301002 Berdorf, Hotel Herbe  00917                       % 06733 CFLBUS
+*Z 06734 CFLBUS                                             % 06734 CFLBUS
+*L 109      170402005 170301002  01605  01613               % 06734 CFLBUS
+*A vo 170402005 170301002 000003  01605  01613              % 06734 CFLBUS
+*R 1 170301002 170402005 170301002  01605  01613            % 06734 CFLBUS
+*G RGB 170402005 170301002  01605  01613                    % 06734 CFLBUS
+*A VE 170402005 170301002 000003  01605  01613              % 06734 CFLBUS
+*I FD 170402005 170301002        0002097  01605  01613      % 06734 CFLBUS
+170402005 Consdorf, Post               01605                % 06734 CFLBUS
+170402002 Consdorf, Haenricht   01606  01606                % 06734 CFLBUS
+170402003 Consdorf, Kraizstroo  01607  01607                % 06734 CFLBUS
+170402004 Consdorf, Melickshec  01608  01608                % 06734 CFLBUS
+170305001 Bif. Kalkesbach       01610  01610                % 06734 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01612  01612                % 06734 CFLBUS
+170301004 Berdorf, Duerfplaz    01613  01613                % 06734 CFLBUS
+170301002 Berdorf, Hotel Herbe  01613                       % 06734 CFLBUS
+*Z 06735 CFLBUS                                             % 06735 CFLBUS
+*L 109      170402005 170301002  01615  01623               % 06735 CFLBUS
+*A vo 170402005 170301002 000003  01615  01623              % 06735 CFLBUS
+*R 1 170301002 170402005 170301002  01615  01623            % 06735 CFLBUS
+*G RGB 170402005 170301002  01615  01623                    % 06735 CFLBUS
+*A VE 170402005 170301002 000003  01615  01623              % 06735 CFLBUS
+*I FD 170402005 170301002        0001811  01615  01623      % 06735 CFLBUS
+170402005 Consdorf, Post               01615                % 06735 CFLBUS
+170402002 Consdorf, Haenricht   01616  01616                % 06735 CFLBUS
+170402003 Consdorf, Kraizstroo  01617  01617                % 06735 CFLBUS
+170402004 Consdorf, Melickshec  01618  01618                % 06735 CFLBUS
+170305001 Bif. Kalkesbach       01620  01620                % 06735 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01622  01622                % 06735 CFLBUS
+170301004 Berdorf, Duerfplaz    01623  01623                % 06735 CFLBUS
+170301002 Berdorf, Hotel Herbe  01623                       % 06735 CFLBUS
+*Z 06736 CFLBUS                                             % 06736 CFLBUS
+*L 109      170402005 170301002  01709  01717               % 06736 CFLBUS
+*A vo 170402005 170301002 000003  01709  01717              % 06736 CFLBUS
+*R 1 170301002 170402005 170301002  01709  01717            % 06736 CFLBUS
+*G RGB 170402005 170301002  01709  01717                    % 06736 CFLBUS
+*A VE 170402005 170301002 000003  01709  01717              % 06736 CFLBUS
+*I FD 170402005 170301002        0003081  01709  01717      % 06736 CFLBUS
+170402005 Consdorf, Post               01709                % 06736 CFLBUS
+170402002 Consdorf, Haenricht   01710  01710                % 06736 CFLBUS
+170402003 Consdorf, Kraizstroo  01711  01711                % 06736 CFLBUS
+170402004 Consdorf, Melickshec  01712  01712                % 06736 CFLBUS
+170305001 Bif. Kalkesbach       01714  01714                % 06736 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01716  01716                % 06736 CFLBUS
+170301004 Berdorf, Duerfplaz    01717  01717                % 06736 CFLBUS
+170301002 Berdorf, Hotel Herbe  01717                       % 06736 CFLBUS
+*Z 06737 CFLBUS                                             % 06737 CFLBUS
+*L 109      170402005 170301002  01809  01817               % 06737 CFLBUS
+*A vo 170402005 170301002 000003  01809  01817              % 06737 CFLBUS
+*R 1 170301002 170402005 170301002  01809  01817            % 06737 CFLBUS
+*G RGB 170402005 170301002  01809  01817                    % 06737 CFLBUS
+*A VE 170402005 170301002 000003  01809  01817              % 06737 CFLBUS
+*I FD 170402005 170301002        0003082  01809  01817      % 06737 CFLBUS
+170402005 Consdorf, Post               01809                % 06737 CFLBUS
+170402002 Consdorf, Haenricht   01810  01810                % 06737 CFLBUS
+170402003 Consdorf, Kraizstroo  01811  01811                % 06737 CFLBUS
+170402004 Consdorf, Melickshec  01812  01812                % 06737 CFLBUS
+170305001 Bif. Kalkesbach       01814  01814                % 06737 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01816  01816                % 06737 CFLBUS
+170301004 Berdorf, Duerfplaz    01817  01817                % 06737 CFLBUS
+170301002 Berdorf, Hotel Herbe  01817                       % 06737 CFLBUS
+*Z 06738 CFLBUS                                             % 06738 CFLBUS
+*L 109      170402005 170301002  01830  01838               % 06738 CFLBUS
+*A vo 170402005 170301002 000003  01830  01838              % 06738 CFLBUS
+*R 1 170301002 170402005 170301002  01830  01838            % 06738 CFLBUS
+*G RGB 170402005 170301002  01830  01838                    % 06738 CFLBUS
+*A VE 170402005 170301002 000003  01830  01838              % 06738 CFLBUS
+*I FD 170402005 170301002        0001901  01830  01838      % 06738 CFLBUS
+170402005 Consdorf, Post               01830                % 06738 CFLBUS
+170402002 Consdorf, Haenricht   01831  01831                % 06738 CFLBUS
+170402003 Consdorf, Kraizstroo  01832  01832                % 06738 CFLBUS
+170402004 Consdorf, Melickshec  01833  01833                % 06738 CFLBUS
+170305001 Bif. Kalkesbach       01835  01835                % 06738 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01837  01837                % 06738 CFLBUS
+170301004 Berdorf, Duerfplaz    01838  01838                % 06738 CFLBUS
+170301002 Berdorf, Hotel Herbe  01838                       % 06738 CFLBUS
+*Z 06739 CFLBUS                                             % 06739 CFLBUS
+*L 109      170402005 170301002  00810  00818               % 06739 CFLBUS
+*A vo 170402005 170301002 000008  00810  00818              % 06739 CFLBUS
+*R 1 170301002 170402005 170301002  00810  00818            % 06739 CFLBUS
+*G RGB 170402005 170301002  00810  00818                    % 06739 CFLBUS
+*A VE 170402005 170301002 000008  00810  00818              % 06739 CFLBUS
+*I FD 170402005 170301002        0001874  00810  00818      % 06739 CFLBUS
+170402005 Consdorf, Post               00810                % 06739 CFLBUS
+170402002 Consdorf, Haenricht   00811  00811                % 06739 CFLBUS
+170402003 Consdorf, Kraizstroo  00812  00812                % 06739 CFLBUS
+170402004 Consdorf, Melickshec  00813  00813                % 06739 CFLBUS
+170305001 Bif. Kalkesbach       00815  00815                % 06739 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00817  00817                % 06739 CFLBUS
+170301004 Berdorf, Duerfplaz    00818  00818                % 06739 CFLBUS
+170301002 Berdorf, Hotel Herbe  00818                       % 06739 CFLBUS
+*Z 06740 CFLBUS                                             % 06740 CFLBUS
+*L 109      170402005 170301002  01651  01659               % 06740 CFLBUS
+*A vo 170402005 170301002 000008  01651  01659              % 06740 CFLBUS
+*R 1 170301002 170402005 170301002  01651  01659            % 06740 CFLBUS
+*G RGB 170402005 170301002  01651  01659                    % 06740 CFLBUS
+*A VE 170402005 170301002 000008  01651  01659              % 06740 CFLBUS
+*I FD 170402005 170301002        0001403  01651  01659      % 06740 CFLBUS
+170402005 Consdorf, Post               01651                % 06740 CFLBUS
+170402002 Consdorf, Haenricht   01652  01652                % 06740 CFLBUS
+170402003 Consdorf, Kraizstroo  01653  01653                % 06740 CFLBUS
+170402004 Consdorf, Melickshec  01654  01654                % 06740 CFLBUS
+170305001 Bif. Kalkesbach       01656  01656                % 06740 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01658  01658                % 06740 CFLBUS
+170301004 Berdorf, Duerfplaz    01659  01659                % 06740 CFLBUS
+170301002 Berdorf, Hotel Herbe  01659                       % 06740 CFLBUS
+*Z 06741 CFLBUS                                             % 06741 CFLBUS
+*L 109      170301002 170402005  02309  02317               % 06741 CFLBUS
+*A vo 170301002 170402005 000188  02309  02317              % 06741 CFLBUS
+*R 2 170402005 170301002 170402005  02309  02317            % 06741 CFLBUS
+*G RGB 170301002 170402005  02309  02317                    % 06741 CFLBUS
+*A VE 170301002 170402005 000188  02309  02317              % 06741 CFLBUS
+*I FD 170301002 170402005        0005286  02309  02317      % 06741 CFLBUS
+170301002 Berdorf, Hotel Herbe         02309                % 06741 CFLBUS
+170301004 Berdorf, Duerfplaz    02309  02309                % 06741 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02310  02310                % 06741 CFLBUS
+170305001 Bif. Kalkesbach       02312  02312                % 06741 CFLBUS
+170402004 Consdorf, Melickshec  02314  02314                % 06741 CFLBUS
+170402003 Consdorf, Kraizstroo  02315  02315                % 06741 CFLBUS
+170402002 Consdorf, Haenricht   02316  02316                % 06741 CFLBUS
+170402005 Consdorf, Post        02317                       % 06741 CFLBUS
+*Z 06742 CFLBUS                                             % 06742 CFLBUS
+*L 109      170301002 170402005  00947  00955               % 06742 CFLBUS
+*A vo 170301002 170402005 000003  00947  00955              % 06742 CFLBUS
+*R 2 170402005 170301002 170402005  00947  00955            % 06742 CFLBUS
+*G RGB 170301002 170402005  00947  00955                    % 06742 CFLBUS
+*A VE 170301002 170402005 000003  00947  00955              % 06742 CFLBUS
+*I FD 170301002 170402005        0001134  00947  00955      % 06742 CFLBUS
+170301002 Berdorf, Hotel Herbe         00947                % 06742 CFLBUS
+170301004 Berdorf, Duerfplaz    00947  00947                % 06742 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00948  00948                % 06742 CFLBUS
+170305001 Bif. Kalkesbach       00950  00950                % 06742 CFLBUS
+170402004 Consdorf, Melickshec  00952  00952                % 06742 CFLBUS
+170402003 Consdorf, Kraizstroo  00953  00953                % 06742 CFLBUS
+170402002 Consdorf, Haenricht   00954  00954                % 06742 CFLBUS
+170402005 Consdorf, Post        00955                       % 06742 CFLBUS
+*Z 06743 CFLBUS                                             % 06743 CFLBUS
+*L 109      170301002 170402005  01047  01055               % 06743 CFLBUS
+*A vo 170301002 170402005 000003  01047  01055              % 06743 CFLBUS
+*R 2 170402005 170301002 170402005  01047  01055            % 06743 CFLBUS
+*G RGB 170301002 170402005  01047  01055                    % 06743 CFLBUS
+*A VE 170301002 170402005 000003  01047  01055              % 06743 CFLBUS
+*I FD 170301002 170402005        0002369  01047  01055      % 06743 CFLBUS
+170301002 Berdorf, Hotel Herbe         01047                % 06743 CFLBUS
+170301004 Berdorf, Duerfplaz    01047  01047                % 06743 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01048  01048                % 06743 CFLBUS
+170305001 Bif. Kalkesbach       01050  01050                % 06743 CFLBUS
+170402004 Consdorf, Melickshec  01052  01052                % 06743 CFLBUS
+170402003 Consdorf, Kraizstroo  01053  01053                % 06743 CFLBUS
+170402002 Consdorf, Haenricht   01054  01054                % 06743 CFLBUS
+170402005 Consdorf, Post        01055                       % 06743 CFLBUS
+*Z 06744 CFLBUS                                             % 06744 CFLBUS
+*L 109      170301002 170402005  01147  01155               % 06744 CFLBUS
+*A vo 170301002 170402005 000003  01147  01155              % 06744 CFLBUS
+*R 2 170402005 170301002 170402005  01147  01155            % 06744 CFLBUS
+*G RGB 170301002 170402005  01147  01155                    % 06744 CFLBUS
+*A VE 170301002 170402005 000003  01147  01155              % 06744 CFLBUS
+*I FD 170301002 170402005        0002370  01147  01155      % 06744 CFLBUS
+170301002 Berdorf, Hotel Herbe         01147                % 06744 CFLBUS
+170301004 Berdorf, Duerfplaz    01147  01147                % 06744 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01148  01148                % 06744 CFLBUS
+170305001 Bif. Kalkesbach       01150  01150                % 06744 CFLBUS
+170402004 Consdorf, Melickshec  01152  01152                % 06744 CFLBUS
+170402003 Consdorf, Kraizstroo  01153  01153                % 06744 CFLBUS
+170402002 Consdorf, Haenricht   01154  01154                % 06744 CFLBUS
+170402005 Consdorf, Post        01155                       % 06744 CFLBUS
+*Z 06745 CFLBUS                                             % 06745 CFLBUS
+*L 109      170301002 170402005  01238  01246               % 06745 CFLBUS
+*A vo 170301002 170402005 000003  01238  01246              % 06745 CFLBUS
+*R 2 170402005 170301002 170402005  01238  01246            % 06745 CFLBUS
+*G RGB 170301002 170402005  01238  01246                    % 06745 CFLBUS
+*A VE 170301002 170402005 000003  01238  01246              % 06745 CFLBUS
+*I FD 170301002 170402005        0001268  01238  01246      % 06745 CFLBUS
+170301002 Berdorf, Hotel Herbe         01238                % 06745 CFLBUS
+170301004 Berdorf, Duerfplaz    01238  01238                % 06745 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01239  01239                % 06745 CFLBUS
+170305001 Bif. Kalkesbach       01241  01241                % 06745 CFLBUS
+170402004 Consdorf, Melickshec  01243  01243                % 06745 CFLBUS
+170402003 Consdorf, Kraizstroo  01244  01244                % 06745 CFLBUS
+170402002 Consdorf, Haenricht   01245  01245                % 06745 CFLBUS
+170402005 Consdorf, Post        01246                       % 06745 CFLBUS
+*Z 06746 CFLBUS                                             % 06746 CFLBUS
+*L 109      170301002 170402005  01247  01255               % 06746 CFLBUS
+*A vo 170301002 170402005 000003  01247  01255              % 06746 CFLBUS
+*R 2 170402005 170301002 170402005  01247  01255            % 06746 CFLBUS
+*G RGB 170301002 170402005  01247  01255                    % 06746 CFLBUS
+*A VE 170301002 170402005 000003  01247  01255              % 06746 CFLBUS
+*I FD 170301002 170402005        0001212  01247  01255      % 06746 CFLBUS
+170301002 Berdorf, Hotel Herbe         01247                % 06746 CFLBUS
+170301004 Berdorf, Duerfplaz    01247  01247                % 06746 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01248  01248                % 06746 CFLBUS
+170305001 Bif. Kalkesbach       01250  01250                % 06746 CFLBUS
+170402004 Consdorf, Melickshec  01252  01252                % 06746 CFLBUS
+170402003 Consdorf, Kraizstroo  01253  01253                % 06746 CFLBUS
+170402002 Consdorf, Haenricht   01254  01254                % 06746 CFLBUS
+170402005 Consdorf, Post        01255                       % 06746 CFLBUS
+*Z 06747 CFLBUS                                             % 06747 CFLBUS
+*L 109      170301002 170402005  01347  01355               % 06747 CFLBUS
+*A vo 170301002 170402005 000003  01347  01355              % 06747 CFLBUS
+*R 2 170402005 170301002 170402005  01347  01355            % 06747 CFLBUS
+*G RGB 170301002 170402005  01347  01355                    % 06747 CFLBUS
+*A VE 170301002 170402005 000003  01347  01355              % 06747 CFLBUS
+*I FD 170301002 170402005        0002365  01347  01355      % 06747 CFLBUS
+170301002 Berdorf, Hotel Herbe         01347                % 06747 CFLBUS
+170301004 Berdorf, Duerfplaz    01347  01347                % 06747 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01348  01348                % 06747 CFLBUS
+170305001 Bif. Kalkesbach       01350  01350                % 06747 CFLBUS
+170402004 Consdorf, Melickshec  01352  01352                % 06747 CFLBUS
+170402003 Consdorf, Kraizstroo  01353  01353                % 06747 CFLBUS
+170402002 Consdorf, Haenricht   01354  01354                % 06747 CFLBUS
+170402005 Consdorf, Post        01355                       % 06747 CFLBUS
+*Z 06748 CFLBUS                                             % 06748 CFLBUS
+*L 109      170301002 170402005  01447  01455               % 06748 CFLBUS
+*A vo 170301002 170402005 000003  01447  01455              % 06748 CFLBUS
+*R 2 170402005 170301002 170402005  01447  01455            % 06748 CFLBUS
+*G RGB 170301002 170402005  01447  01455                    % 06748 CFLBUS
+*A VE 170301002 170402005 000003  01447  01455              % 06748 CFLBUS
+*I FD 170301002 170402005        0002374  01447  01455      % 06748 CFLBUS
+170301002 Berdorf, Hotel Herbe         01447                % 06748 CFLBUS
+170301004 Berdorf, Duerfplaz    01447  01447                % 06748 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01448  01448                % 06748 CFLBUS
+170305001 Bif. Kalkesbach       01450  01450                % 06748 CFLBUS
+170402004 Consdorf, Melickshec  01452  01452                % 06748 CFLBUS
+170402003 Consdorf, Kraizstroo  01453  01453                % 06748 CFLBUS
+170402002 Consdorf, Haenricht   01454  01454                % 06748 CFLBUS
+170402005 Consdorf, Post        01455                       % 06748 CFLBUS
+*Z 06749 CFLBUS                                             % 06749 CFLBUS
+*L 109      170301002 170402005  01547  01555               % 06749 CFLBUS
+*A vo 170301002 170402005 000003  01547  01555              % 06749 CFLBUS
+*R 2 170402005 170301002 170402005  01547  01555            % 06749 CFLBUS
+*G RGB 170301002 170402005  01547  01555                    % 06749 CFLBUS
+*A VE 170301002 170402005 000003  01547  01555              % 06749 CFLBUS
+*I FD 170301002 170402005        0002061  01547  01555      % 06749 CFLBUS
+170301002 Berdorf, Hotel Herbe         01547                % 06749 CFLBUS
+170301004 Berdorf, Duerfplaz    01547  01547                % 06749 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01548  01548                % 06749 CFLBUS
+170305001 Bif. Kalkesbach       01550  01550                % 06749 CFLBUS
+170402004 Consdorf, Melickshec  01552  01552                % 06749 CFLBUS
+170402003 Consdorf, Kraizstroo  01553  01553                % 06749 CFLBUS
+170402002 Consdorf, Haenricht   01554  01554                % 06749 CFLBUS
+170402005 Consdorf, Post        01555                       % 06749 CFLBUS
+*Z 06750 CFLBUS                                             % 06750 CFLBUS
+*L 109      170301002 170402005  01557  01605               % 06750 CFLBUS
+*A vo 170301002 170402005 000003  01557  01605              % 06750 CFLBUS
+*R 2 170402005 170301002 170402005  01557  01605            % 06750 CFLBUS
+*G RGB 170301002 170402005  01557  01605                    % 06750 CFLBUS
+*A VE 170301002 170402005 000003  01557  01605              % 06750 CFLBUS
+*I FD 170301002 170402005        0003271  01557  01605      % 06750 CFLBUS
+170301002 Berdorf, Hotel Herbe         01557                % 06750 CFLBUS
+170301004 Berdorf, Duerfplaz    01557  01557                % 06750 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01558  01558                % 06750 CFLBUS
+170305001 Bif. Kalkesbach       01600  01600                % 06750 CFLBUS
+170402004 Consdorf, Melickshec  01602  01602                % 06750 CFLBUS
+170402003 Consdorf, Kraizstroo  01603  01603                % 06750 CFLBUS
+170402002 Consdorf, Haenricht   01604  01604                % 06750 CFLBUS
+170402005 Consdorf, Post        01605                       % 06750 CFLBUS
+*Z 06751 CFLBUS                                             % 06751 CFLBUS
+*L 109      170301002 170402005  01842  01850               % 06751 CFLBUS
+*A vo 170301002 170402005 000003  01842  01850              % 06751 CFLBUS
+*R 2 170402005 170301002 170402005  01842  01850            % 06751 CFLBUS
+*G RGB 170301002 170402005  01842  01850                    % 06751 CFLBUS
+*A VE 170301002 170402005 000003  01842  01850              % 06751 CFLBUS
+*I FD 170301002 170402005        0001450  01842  01850      % 06751 CFLBUS
+170301002 Berdorf, Hotel Herbe         01842                % 06751 CFLBUS
+170301004 Berdorf, Duerfplaz    01842  01842                % 06751 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01843  01843                % 06751 CFLBUS
+170305001 Bif. Kalkesbach       01845  01845                % 06751 CFLBUS
+170402004 Consdorf, Melickshec  01847  01847                % 06751 CFLBUS
+170402003 Consdorf, Kraizstroo  01848  01848                % 06751 CFLBUS
+170402002 Consdorf, Haenricht   01849  01849                % 06751 CFLBUS
+170402005 Consdorf, Post        01850                       % 06751 CFLBUS
+*Z 06752 CFLBUS                                             % 06752 CFLBUS
+*L 109      170301002 170402005  01847  01855               % 06752 CFLBUS
+*A vo 170301002 170402005 000003  01847  01855              % 06752 CFLBUS
+*R 2 170402005 170301002 170402005  01847  01855            % 06752 CFLBUS
+*G RGB 170301002 170402005  01847  01855                    % 06752 CFLBUS
+*A VE 170301002 170402005 000003  01847  01855              % 06752 CFLBUS
+*I FD 170301002 170402005        0001474  01847  01855      % 06752 CFLBUS
+170301002 Berdorf, Hotel Herbe         01847                % 06752 CFLBUS
+170301004 Berdorf, Duerfplaz    01847  01847                % 06752 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01848  01848                % 06752 CFLBUS
+170305001 Bif. Kalkesbach       01850  01850                % 06752 CFLBUS
+170402004 Consdorf, Melickshec  01852  01852                % 06752 CFLBUS
+170402003 Consdorf, Kraizstroo  01853  01853                % 06752 CFLBUS
+170402002 Consdorf, Haenricht   01854  01854                % 06752 CFLBUS
+170402005 Consdorf, Post        01855                       % 06752 CFLBUS
+*Z 06753 CFLBUS                                             % 06753 CFLBUS
+*L 109      170301002 170402005  01947  01955               % 06753 CFLBUS
+*A vo 170301002 170402005 000003  01947  01955              % 06753 CFLBUS
+*R 2 170402005 170301002 170402005  01947  01955            % 06753 CFLBUS
+*G RGB 170301002 170402005  01947  01955                    % 06753 CFLBUS
+*A VE 170301002 170402005 000003  01947  01955              % 06753 CFLBUS
+*I FD 170301002 170402005        0002377  01947  01955      % 06753 CFLBUS
+170301002 Berdorf, Hotel Herbe         01947                % 06753 CFLBUS
+170301004 Berdorf, Duerfplaz    01947  01947                % 06753 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01948  01948                % 06753 CFLBUS
+170305001 Bif. Kalkesbach       01950  01950                % 06753 CFLBUS
+170402004 Consdorf, Melickshec  01952  01952                % 06753 CFLBUS
+170402003 Consdorf, Kraizstroo  01953  01953                % 06753 CFLBUS
+170402002 Consdorf, Haenricht   01954  01954                % 06753 CFLBUS
+170402005 Consdorf, Post        01955                       % 06753 CFLBUS
+*Z 06754 CFLBUS                                             % 06754 CFLBUS
+*L 109      170301002 170402005  02047  02055               % 06754 CFLBUS
+*A vo 170301002 170402005 000003  02047  02055              % 06754 CFLBUS
+*R 2 170402005 170301002 170402005  02047  02055            % 06754 CFLBUS
+*G RGB 170301002 170402005  02047  02055                    % 06754 CFLBUS
+*A VE 170301002 170402005 000003  02047  02055              % 06754 CFLBUS
+*I FD 170301002 170402005        0002379  02047  02055      % 06754 CFLBUS
+170301002 Berdorf, Hotel Herbe         02047                % 06754 CFLBUS
+170301004 Berdorf, Duerfplaz    02047  02047                % 06754 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02048  02048                % 06754 CFLBUS
+170305001 Bif. Kalkesbach       02050  02050                % 06754 CFLBUS
+170402004 Consdorf, Melickshec  02052  02052                % 06754 CFLBUS
+170402003 Consdorf, Kraizstroo  02053  02053                % 06754 CFLBUS
+170402002 Consdorf, Haenricht   02054  02054                % 06754 CFLBUS
+170402005 Consdorf, Post        02055                       % 06754 CFLBUS
+*Z 06755 CFLBUS                                             % 06755 CFLBUS
+*L 109      170301002 170402005  02147  02155               % 06755 CFLBUS
+*A vo 170301002 170402005 000003  02147  02155              % 06755 CFLBUS
+*R 2 170402005 170301002 170402005  02147  02155            % 06755 CFLBUS
+*G RGB 170301002 170402005  02147  02155                    % 06755 CFLBUS
+*A VE 170301002 170402005 000003  02147  02155              % 06755 CFLBUS
+*I FD 170301002 170402005        0002381  02147  02155      % 06755 CFLBUS
+170301002 Berdorf, Hotel Herbe         02147                % 06755 CFLBUS
+170301004 Berdorf, Duerfplaz    02147  02147                % 06755 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02148  02148                % 06755 CFLBUS
+170305001 Bif. Kalkesbach       02150  02150                % 06755 CFLBUS
+170402004 Consdorf, Melickshec  02152  02152                % 06755 CFLBUS
+170402003 Consdorf, Kraizstroo  02153  02153                % 06755 CFLBUS
+170402002 Consdorf, Haenricht   02154  02154                % 06755 CFLBUS
+170402005 Consdorf, Post        02155                       % 06755 CFLBUS
+*Z 06756 CFLBUS                                             % 06756 CFLBUS
+*L 109      170301002 170402005  02247  02255               % 06756 CFLBUS
+*A vo 170301002 170402005 000003  02247  02255              % 06756 CFLBUS
+*R 2 170402005 170301002 170402005  02247  02255            % 06756 CFLBUS
+*G RGB 170301002 170402005  02247  02255                    % 06756 CFLBUS
+*A VE 170301002 170402005 000003  02247  02255              % 06756 CFLBUS
+*I FD 170301002 170402005        0002382  02247  02255      % 06756 CFLBUS
+170301002 Berdorf, Hotel Herbe         02247                % 06756 CFLBUS
+170301004 Berdorf, Duerfplaz    02247  02247                % 06756 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02248  02248                % 06756 CFLBUS
+170305001 Bif. Kalkesbach       02250  02250                % 06756 CFLBUS
+170402004 Consdorf, Melickshec  02252  02252                % 06756 CFLBUS
+170402003 Consdorf, Kraizstroo  02253  02253                % 06756 CFLBUS
+170402002 Consdorf, Haenricht   02254  02254                % 06756 CFLBUS
+170402005 Consdorf, Post        02255                       % 06756 CFLBUS
+*Z 06757 CFLBUS                                             % 06757 CFLBUS
+*L 109      170301002 170402005  00622  00630               % 06757 CFLBUS
+*A vo 170301002 170402005 000008  00622  00630              % 06757 CFLBUS
+*R 2 170402005 170301002 170402005  00622  00630            % 06757 CFLBUS
+*G RGB 170301002 170402005  00622  00630                    % 06757 CFLBUS
+*A VE 170301002 170402005 000008  00622  00630              % 06757 CFLBUS
+*I FD 170301002 170402005        0002858  00622  00630      % 06757 CFLBUS
+170301002 Berdorf, Hotel Herbe         00622                % 06757 CFLBUS
+170301004 Berdorf, Duerfplaz    00622  00622                % 06757 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00623  00623                % 06757 CFLBUS
+170305001 Bif. Kalkesbach       00625  00625                % 06757 CFLBUS
+170402004 Consdorf, Melickshec  00627  00627                % 06757 CFLBUS
+170402003 Consdorf, Kraizstroo  00628  00628                % 06757 CFLBUS
+170402002 Consdorf, Haenricht   00629  00629                % 06757 CFLBUS
+170402005 Consdorf, Post        00630                       % 06757 CFLBUS
+*Z 06758 CFLBUS                                             % 06758 CFLBUS
+*L 109      170301002 170402005  01208  01216               % 06758 CFLBUS
+*A vo 170301002 170402005 000008  01208  01216              % 06758 CFLBUS
+*R 2 170402005 170301002 170402005  01208  01216            % 06758 CFLBUS
+*G RGB 170301002 170402005  01208  01216                    % 06758 CFLBUS
+*A VE 170301002 170402005 000008  01208  01216              % 06758 CFLBUS
+*I FD 170301002 170402005        0003176  01208  01216      % 06758 CFLBUS
+170301002 Berdorf, Hotel Herbe         01208                % 06758 CFLBUS
+170301004 Berdorf, Duerfplaz    01208  01208                % 06758 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01209  01209                % 06758 CFLBUS
+170305001 Bif. Kalkesbach       01211  01211                % 06758 CFLBUS
+170402004 Consdorf, Melickshec  01213  01213                % 06758 CFLBUS
+170402003 Consdorf, Kraizstroo  01214  01214                % 06758 CFLBUS
+170402002 Consdorf, Haenricht   01215  01215                % 06758 CFLBUS
+170402005 Consdorf, Post        01216                       % 06758 CFLBUS
+*Z 06759 CFLBUS                                             % 06759 CFLBUS
+*L 109      170301002 170402005  01324  01332               % 06759 CFLBUS
+*A vo 170301002 170402005 000008  01324  01332              % 06759 CFLBUS
+*R 2 170402005 170301002 170402005  01324  01332            % 06759 CFLBUS
+*G RGB 170301002 170402005  01324  01332                    % 06759 CFLBUS
+*A VE 170301002 170402005 000008  01324  01332              % 06759 CFLBUS
+*I FD 170301002 170402005        0003680  01324  01332      % 06759 CFLBUS
+170301002 Berdorf, Hotel Herbe         01324                % 06759 CFLBUS
+170301004 Berdorf, Duerfplaz    01324  01324                % 06759 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01325  01325                % 06759 CFLBUS
+170305001 Bif. Kalkesbach       01327  01327                % 06759 CFLBUS
+170402004 Consdorf, Melickshec  01329  01329                % 06759 CFLBUS
+170402003 Consdorf, Kraizstroo  01330  01330                % 06759 CFLBUS
+170402002 Consdorf, Haenricht   01331  01331                % 06759 CFLBUS
+170402005 Consdorf, Post        01332                       % 06759 CFLBUS
+*Z 06760 CFLBUS                                             % 06760 CFLBUS
+*L 109      170301002 170402005  00652  00700               % 06760 CFLBUS
+*A vo 170301002 170402005 000188  00652  00700              % 06760 CFLBUS
+*R 2 170402005 170301002 170402005  00652  00700            % 06760 CFLBUS
+*G RGB 170301002 170402005  00652  00700                    % 06760 CFLBUS
+*A VE 170301002 170402005 000188  00652  00700              % 06760 CFLBUS
+*I FD 170301002 170402005        0003350  00652  00700      % 06760 CFLBUS
+170301002 Berdorf, Hotel Herbe         00652                % 06760 CFLBUS
+170301004 Berdorf, Duerfplaz    00652  00652                % 06760 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00653  00653                % 06760 CFLBUS
+170305001 Bif. Kalkesbach       00655  00655                % 06760 CFLBUS
+170402004 Consdorf, Melickshec  00657  00657                % 06760 CFLBUS
+170402003 Consdorf, Kraizstroo  00658  00658                % 06760 CFLBUS
+170402002 Consdorf, Haenricht   00659  00659                % 06760 CFLBUS
+170402005 Consdorf, Post        00700                       % 06760 CFLBUS
+*Z 06761 CFLBUS                                             % 06761 CFLBUS
+*L 109      170301002 170402005  00714  00722               % 06761 CFLBUS
+*A vo 170301002 170402005 000003  00714  00722              % 06761 CFLBUS
+*R 2 170402005 170301002 170402005  00714  00722            % 06761 CFLBUS
+*G RGB 170301002 170402005  00714  00722                    % 06761 CFLBUS
+*A VE 170301002 170402005 000003  00714  00722              % 06761 CFLBUS
+*I FD 170301002 170402005        0003540  00714  00722      % 06761 CFLBUS
+170301002 Berdorf, Hotel Herbe         00714                % 06761 CFLBUS
+170301004 Berdorf, Duerfplaz    00714  00714                % 06761 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00715  00715                % 06761 CFLBUS
+170305001 Bif. Kalkesbach       00717  00717                % 06761 CFLBUS
+170402004 Consdorf, Melickshec  00719  00719                % 06761 CFLBUS
+170402003 Consdorf, Kraizstroo  00720  00720                % 06761 CFLBUS
+170402002 Consdorf, Haenricht   00721  00721                % 06761 CFLBUS
+170402005 Consdorf, Post        00722                       % 06761 CFLBUS
+*Z 06762 CFLBUS                                             % 06762 CFLBUS
+*L 109      170301002 170402005  00847  00855               % 06762 CFLBUS
+*A vo 170301002 170402005 000003  00847  00855              % 06762 CFLBUS
+*R 2 170402005 170301002 170402005  00847  00855            % 06762 CFLBUS
+*G RGB 170301002 170402005  00847  00855                    % 06762 CFLBUS
+*A VE 170301002 170402005 000003  00847  00855              % 06762 CFLBUS
+*I FD 170301002 170402005        0002389  00847  00855      % 06762 CFLBUS
+170301002 Berdorf, Hotel Herbe         00847                % 06762 CFLBUS
+170301004 Berdorf, Duerfplaz    00847  00847                % 06762 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00848  00848                % 06762 CFLBUS
+170305001 Bif. Kalkesbach       00850  00850                % 06762 CFLBUS
+170402004 Consdorf, Melickshec  00852  00852                % 06762 CFLBUS
+170402003 Consdorf, Kraizstroo  00853  00853                % 06762 CFLBUS
+170402002 Consdorf, Haenricht   00854  00854                % 06762 CFLBUS
+170402005 Consdorf, Post        00855                       % 06762 CFLBUS
+*Z 06763 CFLBUS                                             % 06763 CFLBUS
+*L 109      170301002 170402005  01647  01655               % 06763 CFLBUS
+*A vo 170301002 170402005 000003  01647  01655              % 06763 CFLBUS
+*R 2 170402005 170301002 170402005  01647  01655            % 06763 CFLBUS
+*G RGB 170301002 170402005  01647  01655                    % 06763 CFLBUS
+*A VE 170301002 170402005 000003  01647  01655              % 06763 CFLBUS
+*I FD 170301002 170402005        0001377  01647  01655      % 06763 CFLBUS
+170301002 Berdorf, Hotel Herbe         01647                % 06763 CFLBUS
+170301004 Berdorf, Duerfplaz    01647  01647                % 06763 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01648  01648                % 06763 CFLBUS
+170305001 Bif. Kalkesbach       01650  01650                % 06763 CFLBUS
+170402004 Consdorf, Melickshec  01652  01652                % 06763 CFLBUS
+170402003 Consdorf, Kraizstroo  01653  01653                % 06763 CFLBUS
+170402002 Consdorf, Haenricht   01654  01654                % 06763 CFLBUS
+170402005 Consdorf, Post        01655                       % 06763 CFLBUS
+*Z 06764 CFLBUS                                             % 06764 CFLBUS
+*L 109      170301002 170402005  01747  01755               % 06764 CFLBUS
+*A vo 170301002 170402005 000003  01747  01755              % 06764 CFLBUS
+*R 2 170402005 170301002 170402005  01747  01755            % 06764 CFLBUS
+*G RGB 170301002 170402005  01747  01755                    % 06764 CFLBUS
+*A VE 170301002 170402005 000003  01747  01755              % 06764 CFLBUS
+*I FD 170301002 170402005        0002392  01747  01755      % 06764 CFLBUS
+170301002 Berdorf, Hotel Herbe         01747                % 06764 CFLBUS
+170301004 Berdorf, Duerfplaz    01747  01747                % 06764 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01748  01748                % 06764 CFLBUS
+170305001 Bif. Kalkesbach       01750  01750                % 06764 CFLBUS
+170402004 Consdorf, Melickshec  01752  01752                % 06764 CFLBUS
+170402003 Consdorf, Kraizstroo  01753  01753                % 06764 CFLBUS
+170402002 Consdorf, Haenricht   01754  01754                % 06764 CFLBUS
+170402005 Consdorf, Post        01755                       % 06764 CFLBUS
+*Z 06765 CFLBUS                                             % 06765 CFLBUS
+*L 109      170301002 170402005  01812  01820               % 06765 CFLBUS
+*A vo 170301002 170402005 000003  01812  01820              % 06765 CFLBUS
+*R 2 170402005 170301002 170402005  01812  01820            % 06765 CFLBUS
+*G RGB 170301002 170402005  01812  01820                    % 06765 CFLBUS
+*A VE 170301002 170402005 000003  01812  01820              % 06765 CFLBUS
+*I FD 170301002 170402005        0003740  01812  01820      % 06765 CFLBUS
+170301002 Berdorf, Hotel Herbe         01812                % 06765 CFLBUS
+170301004 Berdorf, Duerfplaz    01812  01812                % 06765 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01813  01813                % 06765 CFLBUS
+170305001 Bif. Kalkesbach       01815  01815                % 06765 CFLBUS
+170402004 Consdorf, Melickshec  01817  01817                % 06765 CFLBUS
+170402003 Consdorf, Kraizstroo  01818  01818                % 06765 CFLBUS
+170402002 Consdorf, Haenricht   01819  01819                % 06765 CFLBUS
+170402005 Consdorf, Post        01820                       % 06765 CFLBUS
+*Z 06766 CFLBUS                                             % 06766 CFLBUS
+*L 109      170301002 170402005  00752  00800               % 06766 CFLBUS
+*A vo 170301002 170402005 000008  00752  00800              % 06766 CFLBUS
+*R 2 170402005 170301002 170402005  00752  00800            % 06766 CFLBUS
+*G RGB 170301002 170402005  00752  00800                    % 06766 CFLBUS
+*A VE 170301002 170402005 000008  00752  00800              % 06766 CFLBUS
+*I FD 170301002 170402005        0003496  00752  00800      % 06766 CFLBUS
+170301002 Berdorf, Hotel Herbe         00752                % 06766 CFLBUS
+170301004 Berdorf, Duerfplaz    00752  00752                % 06766 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00753  00753                % 06766 CFLBUS
+170305001 Bif. Kalkesbach       00755  00755                % 06766 CFLBUS
+170402004 Consdorf, Melickshec  00757  00757                % 06766 CFLBUS
+170402003 Consdorf, Kraizstroo  00758  00758                % 06766 CFLBUS
+170402002 Consdorf, Haenricht   00759  00759                % 06766 CFLBUS
+170402005 Consdorf, Post        00800                       % 06766 CFLBUS
+*Z 06767 CFLBUS                                             % 06767 CFLBUS
+*L 109      170301002 170402005  01638  01646               % 06767 CFLBUS
+*A vo 170301002 170402005 000008  01638  01646              % 06767 CFLBUS
+*R 2 170402005 170301002 170402005  01638  01646            % 06767 CFLBUS
+*G RGB 170301002 170402005  01638  01646                    % 06767 CFLBUS
+*A VE 170301002 170402005 000008  01638  01646              % 06767 CFLBUS
+*I FD 170301002 170402005        0002779  01638  01646      % 06767 CFLBUS
+170301002 Berdorf, Hotel Herbe         01638                % 06767 CFLBUS
+170301004 Berdorf, Duerfplaz    01638  01638                % 06767 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01639  01639                % 06767 CFLBUS
+170305001 Bif. Kalkesbach       01641  01641                % 06767 CFLBUS
+170402004 Consdorf, Melickshec  01643  01643                % 06767 CFLBUS
+170402003 Consdorf, Kraizstroo  01644  01644                % 06767 CFLBUS
+170402002 Consdorf, Haenricht   01645  01645                % 06767 CFLBUS
+170402005 Consdorf, Post        01646                       % 06767 CFLBUS
+*Z 06768 CFLBUS                                             % 06768 CFLBUS
+*L 109      170301004 170501016  00714  00736               % 06768 CFLBUS
+*A vm 170301004 170501016 000034  00714  00736              % 06768 CFLBUS
+*R 2 170501016 170301004 170501016  00714  00736            % 06768 CFLBUS
+*G RGB 170301004 170501016  00714  00736                    % 06768 CFLBUS
+*A VE 170301004 170501016 000034  00714  00736              % 06768 CFLBUS
+*I FD 170301004 170501016        0005285  00714  00736      % 06768 CFLBUS
+170301004 Berdorf, Duerfplaz           00714                % 06768 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00715  00715                % 06768 CFLBUS
+170305001 Bif. Kalkesbach       00717  00717                % 06768 CFLBUS
+170402004 Consdorf, Melickshec  00718  00718                % 06768 CFLBUS
+170402003 Consdorf, Kraizstroo  00719  00719                % 06768 CFLBUS
+170402002 Consdorf, Haenricht   00720  00720                % 06768 CFLBUS
+170402005 Consdorf, Post        00722  00722                % 06768 CFLBUS
+170501016 Echternach, Gare Cen  00736                       % 06768 CFLBUS
+*Z 06769 CFLBUS                                             % 06769 CFLBUS
+*L 109      170402005 170301002  01009  01017               % 06769 CFLBUS
+*A vo 170402005 170301002 000025  01009  01017              % 06769 CFLBUS
+*R 1 170301002 170402005 170301002  01009  01017            % 06769 CFLBUS
+*G RGB 170402005 170301002  01009  01017                    % 06769 CFLBUS
+*A VE 170402005 170301002 000025  01009  01017              % 06769 CFLBUS
+*I FD 170402005 170301002        0003136  01009  01017      % 06769 CFLBUS
+170402005 Consdorf, Post               01009                % 06769 CFLBUS
+170402002 Consdorf, Haenricht   01010  01010                % 06769 CFLBUS
+170402003 Consdorf, Kraizstroo  01011  01011                % 06769 CFLBUS
+170402004 Consdorf, Melickshec  01011  01011                % 06769 CFLBUS
+170305001 Bif. Kalkesbach       01013  01013                % 06769 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01015  01015                % 06769 CFLBUS
+170301004 Berdorf, Duerfplaz    01016  01016                % 06769 CFLBUS
+170301002 Berdorf, Hotel Herbe  01017                       % 06769 CFLBUS
+*Z 06770 CFLBUS                                             % 06770 CFLBUS
+*L 109      170402005 170301002  01250  01258               % 06770 CFLBUS
+*A vo 170402005 170301002 000025  01250  01258              % 06770 CFLBUS
+*R 1 170301002 170402005 170301002  01250  01258            % 06770 CFLBUS
+*G RGB 170402005 170301002  01250  01258                    % 06770 CFLBUS
+*A VE 170402005 170301002 000025  01250  01258              % 06770 CFLBUS
+*I FD 170402005 170301002        0003137  01250  01258      % 06770 CFLBUS
+170402005 Consdorf, Post               01250                % 06770 CFLBUS
+170402002 Consdorf, Haenricht   01251  01251                % 06770 CFLBUS
+170402003 Consdorf, Kraizstroo  01252  01252                % 06770 CFLBUS
+170402004 Consdorf, Melickshec  01252  01252                % 06770 CFLBUS
+170305001 Bif. Kalkesbach       01254  01254                % 06770 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01256  01256                % 06770 CFLBUS
+170301004 Berdorf, Duerfplaz    01257  01257                % 06770 CFLBUS
+170301002 Berdorf, Hotel Herbe  01258                       % 06770 CFLBUS
+*Z 06771 CFLBUS                                             % 06771 CFLBUS
+*L 109      170402005 170301002  01105  01113               % 06771 CFLBUS
+*A vo 170402005 170301002 000025  01105  01113              % 06771 CFLBUS
+*R 1 170301002 170402005 170301002  01105  01113            % 06771 CFLBUS
+*G RGB 170402005 170301002  01105  01113                    % 06771 CFLBUS
+*A VE 170402005 170301002 000025  01105  01113              % 06771 CFLBUS
+*I FD 170402005 170301002        0002106  01105  01113      % 06771 CFLBUS
+170402005 Consdorf, Post               01105                % 06771 CFLBUS
+170402002 Consdorf, Haenricht   01106  01106                % 06771 CFLBUS
+170402003 Consdorf, Kraizstroo  01107  01107                % 06771 CFLBUS
+170402004 Consdorf, Melickshec  01107  01107                % 06771 CFLBUS
+170305001 Bif. Kalkesbach       01109  01109                % 06771 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01111  01111                % 06771 CFLBUS
+170301004 Berdorf, Duerfplaz    01112  01112                % 06771 CFLBUS
+170301002 Berdorf, Hotel Herbe  01113                       % 06771 CFLBUS
+*Z 06772 CFLBUS                                             % 06772 CFLBUS
+*L 109      170402005 170301002  01205  01213               % 06772 CFLBUS
+*A vo 170402005 170301002 000025  01205  01213              % 06772 CFLBUS
+*R 1 170301002 170402005 170301002  01205  01213            % 06772 CFLBUS
+*G RGB 170402005 170301002  01205  01213                    % 06772 CFLBUS
+*A VE 170402005 170301002 000025  01205  01213              % 06772 CFLBUS
+*I FD 170402005 170301002        0002102  01205  01213      % 06772 CFLBUS
+170402005 Consdorf, Post               01205                % 06772 CFLBUS
+170402002 Consdorf, Haenricht   01206  01206                % 06772 CFLBUS
+170402003 Consdorf, Kraizstroo  01207  01207                % 06772 CFLBUS
+170402004 Consdorf, Melickshec  01207  01207                % 06772 CFLBUS
+170305001 Bif. Kalkesbach       01209  01209                % 06772 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01211  01211                % 06772 CFLBUS
+170301004 Berdorf, Duerfplaz    01212  01212                % 06772 CFLBUS
+170301002 Berdorf, Hotel Herbe  01213                       % 06772 CFLBUS
+*Z 06773 CFLBUS                                             % 06773 CFLBUS
+*L 109      170402005 170301002  01405  01413               % 06773 CFLBUS
+*A vo 170402005 170301002 000025  01405  01413              % 06773 CFLBUS
+*R 1 170301002 170402005 170301002  01405  01413            % 06773 CFLBUS
+*G RGB 170402005 170301002  01405  01413                    % 06773 CFLBUS
+*A VE 170402005 170301002 000025  01405  01413              % 06773 CFLBUS
+*I FD 170402005 170301002        0002103  01405  01413      % 06773 CFLBUS
+170402005 Consdorf, Post               01405                % 06773 CFLBUS
+170402002 Consdorf, Haenricht   01406  01406                % 06773 CFLBUS
+170402003 Consdorf, Kraizstroo  01407  01407                % 06773 CFLBUS
+170402004 Consdorf, Melickshec  01407  01407                % 06773 CFLBUS
+170305001 Bif. Kalkesbach       01409  01409                % 06773 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01411  01411                % 06773 CFLBUS
+170301004 Berdorf, Duerfplaz    01412  01412                % 06773 CFLBUS
+170301002 Berdorf, Hotel Herbe  01413                       % 06773 CFLBUS
+*Z 06774 CFLBUS                                             % 06774 CFLBUS
+*L 109      170402005 170301002  01505  01513               % 06774 CFLBUS
+*A vo 170402005 170301002 000025  01505  01513              % 06774 CFLBUS
+*R 1 170301002 170402005 170301002  01505  01513            % 06774 CFLBUS
+*G RGB 170402005 170301002  01505  01513                    % 06774 CFLBUS
+*A VE 170402005 170301002 000025  01505  01513              % 06774 CFLBUS
+*I FD 170402005 170301002        0002111  01505  01513      % 06774 CFLBUS
+170402005 Consdorf, Post               01505                % 06774 CFLBUS
+170402002 Consdorf, Haenricht   01506  01506                % 06774 CFLBUS
+170402003 Consdorf, Kraizstroo  01507  01507                % 06774 CFLBUS
+170402004 Consdorf, Melickshec  01507  01507                % 06774 CFLBUS
+170305001 Bif. Kalkesbach       01509  01509                % 06774 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01511  01511                % 06774 CFLBUS
+170301004 Berdorf, Duerfplaz    01512  01512                % 06774 CFLBUS
+170301002 Berdorf, Hotel Herbe  01513                       % 06774 CFLBUS
+*Z 06775 CFLBUS                                             % 06775 CFLBUS
+*L 109      170402005 170301002  01856  01904               % 06775 CFLBUS
+*A vo 170402005 170301002 000025  01856  01904              % 06775 CFLBUS
+*R 1 170301002 170402005 170301002  01856  01904            % 06775 CFLBUS
+*G RGB 170402005 170301002  01856  01904                    % 06775 CFLBUS
+*A VE 170402005 170301002 000025  01856  01904              % 06775 CFLBUS
+*I FD 170402005 170301002        0003014  01856  01904      % 06775 CFLBUS
+170402005 Consdorf, Post               01856                % 06775 CFLBUS
+170402002 Consdorf, Haenricht   01857  01857                % 06775 CFLBUS
+170402003 Consdorf, Kraizstroo  01858  01858                % 06775 CFLBUS
+170402004 Consdorf, Melickshec  01858  01858                % 06775 CFLBUS
+170305001 Bif. Kalkesbach       01900  01900                % 06775 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01902  01902                % 06775 CFLBUS
+170301004 Berdorf, Duerfplaz    01903  01903                % 06775 CFLBUS
+170301002 Berdorf, Hotel Herbe  01904                       % 06775 CFLBUS
+*Z 06776 CFLBUS                                             % 06776 CFLBUS
+*L 109      170402005 170301002  01904  01912               % 06776 CFLBUS
+*A vo 170402005 170301002 000025  01904  01912              % 06776 CFLBUS
+*R 1 170301002 170402005 170301002  01904  01912            % 06776 CFLBUS
+*G RGB 170402005 170301002  01904  01912                    % 06776 CFLBUS
+*A VE 170402005 170301002 000025  01904  01912              % 06776 CFLBUS
+*I FD 170402005 170301002        0002173  01904  01912      % 06776 CFLBUS
+170402005 Consdorf, Post               01904                % 06776 CFLBUS
+170402002 Consdorf, Haenricht   01905  01905                % 06776 CFLBUS
+170402003 Consdorf, Kraizstroo  01906  01906                % 06776 CFLBUS
+170402004 Consdorf, Melickshec  01906  01906                % 06776 CFLBUS
+170305001 Bif. Kalkesbach       01908  01908                % 06776 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01910  01910                % 06776 CFLBUS
+170301004 Berdorf, Duerfplaz    01911  01911                % 06776 CFLBUS
+170301002 Berdorf, Hotel Herbe  01912                       % 06776 CFLBUS
+*Z 06777 CFLBUS                                             % 06777 CFLBUS
+*L 109      170402005 170301002  02005  02013               % 06777 CFLBUS
+*A vo 170402005 170301002 000025  02005  02013              % 06777 CFLBUS
+*R 1 170301002 170402005 170301002  02005  02013            % 06777 CFLBUS
+*G RGB 170402005 170301002  02005  02013                    % 06777 CFLBUS
+*A VE 170402005 170301002 000025  02005  02013              % 06777 CFLBUS
+*I FD 170402005 170301002        0002070  02005  02013      % 06777 CFLBUS
+170402005 Consdorf, Post               02005                % 06777 CFLBUS
+170402002 Consdorf, Haenricht   02006  02006                % 06777 CFLBUS
+170402003 Consdorf, Kraizstroo  02007  02007                % 06777 CFLBUS
+170402004 Consdorf, Melickshec  02007  02007                % 06777 CFLBUS
+170305001 Bif. Kalkesbach       02009  02009                % 06777 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02011  02011                % 06777 CFLBUS
+170301004 Berdorf, Duerfplaz    02012  02012                % 06777 CFLBUS
+170301002 Berdorf, Hotel Herbe  02013                       % 06777 CFLBUS
+*Z 06778 CFLBUS                                             % 06778 CFLBUS
+*L 109      170402005 170301002  02105  02113               % 06778 CFLBUS
+*A vo 170402005 170301002 000025  02105  02113              % 06778 CFLBUS
+*R 1 170301002 170402005 170301002  02105  02113            % 06778 CFLBUS
+*G RGB 170402005 170301002  02105  02113                    % 06778 CFLBUS
+*A VE 170402005 170301002 000025  02105  02113              % 06778 CFLBUS
+*I FD 170402005 170301002        0002114  02105  02113      % 06778 CFLBUS
+170402005 Consdorf, Post               02105                % 06778 CFLBUS
+170402002 Consdorf, Haenricht   02106  02106                % 06778 CFLBUS
+170402003 Consdorf, Kraizstroo  02107  02107                % 06778 CFLBUS
+170402004 Consdorf, Melickshec  02107  02107                % 06778 CFLBUS
+170305001 Bif. Kalkesbach       02109  02109                % 06778 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02111  02111                % 06778 CFLBUS
+170301004 Berdorf, Duerfplaz    02112  02112                % 06778 CFLBUS
+170301002 Berdorf, Hotel Herbe  02113                       % 06778 CFLBUS
+*Z 06779 CFLBUS                                             % 06779 CFLBUS
+*L 109      170402005 170301002  02205  02213               % 06779 CFLBUS
+*A vo 170402005 170301002 000025  02205  02213              % 06779 CFLBUS
+*R 1 170301002 170402005 170301002  02205  02213            % 06779 CFLBUS
+*G RGB 170402005 170301002  02205  02213                    % 06779 CFLBUS
+*A VE 170402005 170301002 000025  02205  02213              % 06779 CFLBUS
+*I FD 170402005 170301002        0002115  02205  02213      % 06779 CFLBUS
+170402005 Consdorf, Post               02205                % 06779 CFLBUS
+170402002 Consdorf, Haenricht   02206  02206                % 06779 CFLBUS
+170402003 Consdorf, Kraizstroo  02207  02207                % 06779 CFLBUS
+170402004 Consdorf, Melickshec  02207  02207                % 06779 CFLBUS
+170305001 Bif. Kalkesbach       02209  02209                % 06779 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02211  02211                % 06779 CFLBUS
+170301004 Berdorf, Duerfplaz    02212  02212                % 06779 CFLBUS
+170301002 Berdorf, Hotel Herbe  02213                       % 06779 CFLBUS
+*Z 06780 CFLBUS                                             % 06780 CFLBUS
+*L 109      170402005 170301002  00639  00647               % 06780 CFLBUS
+*A vo 170402005 170301002 000025  00639  00647              % 06780 CFLBUS
+*R 1 170301002 170402005 170301002  00639  00647            % 06780 CFLBUS
+*G RGB 170402005 170301002  00639  00647                    % 06780 CFLBUS
+*A VE 170402005 170301002 000025  00639  00647              % 06780 CFLBUS
+*I FD 170402005 170301002        0003227  00639  00647      % 06780 CFLBUS
+170402005 Consdorf, Post               00639                % 06780 CFLBUS
+170402002 Consdorf, Haenricht   00640  00640                % 06780 CFLBUS
+170402003 Consdorf, Kraizstroo  00641  00641                % 06780 CFLBUS
+170402004 Consdorf, Melickshec  00641  00641                % 06780 CFLBUS
+170305001 Bif. Kalkesbach       00643  00643                % 06780 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00645  00645                % 06780 CFLBUS
+170301004 Berdorf, Duerfplaz    00646  00646                % 06780 CFLBUS
+170301002 Berdorf, Hotel Herbe  00647                       % 06780 CFLBUS
+*Z 06781 CFLBUS                                             % 06781 CFLBUS
+*L 109      170402005 170301002  01220  01228               % 06781 CFLBUS
+*A vo 170402005 170301002 000025  01220  01228              % 06781 CFLBUS
+*R 1 170301002 170402005 170301002  01220  01228            % 06781 CFLBUS
+*G RGB 170402005 170301002  01220  01228                    % 06781 CFLBUS
+*A VE 170402005 170301002 000025  01220  01228              % 06781 CFLBUS
+*I FD 170402005 170301002        0003136  01220  01228      % 06781 CFLBUS
+170402005 Consdorf, Post               01220                % 06781 CFLBUS
+170402002 Consdorf, Haenricht   01221  01221                % 06781 CFLBUS
+170402003 Consdorf, Kraizstroo  01222  01222                % 06781 CFLBUS
+170402004 Consdorf, Melickshec  01222  01222                % 06781 CFLBUS
+170305001 Bif. Kalkesbach       01224  01224                % 06781 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01226  01226                % 06781 CFLBUS
+170301004 Berdorf, Duerfplaz    01227  01227                % 06781 CFLBUS
+170301002 Berdorf, Hotel Herbe  01228                       % 06781 CFLBUS
+*Z 06782 CFLBUS                                             % 06782 CFLBUS
+*L 109      170402005 170301002  01305  01313               % 06782 CFLBUS
+*A vo 170402005 170301002 000025  01305  01313              % 06782 CFLBUS
+*R 1 170301002 170402005 170301002  01305  01313            % 06782 CFLBUS
+*G RGB 170402005 170301002  01305  01313                    % 06782 CFLBUS
+*A VE 170402005 170301002 000025  01305  01313              % 06782 CFLBUS
+*I FD 170402005 170301002        0002108  01305  01313      % 06782 CFLBUS
+170402005 Consdorf, Post               01305                % 06782 CFLBUS
+170402002 Consdorf, Haenricht   01306  01306                % 06782 CFLBUS
+170402003 Consdorf, Kraizstroo  01307  01307                % 06782 CFLBUS
+170402004 Consdorf, Melickshec  01307  01307                % 06782 CFLBUS
+170305001 Bif. Kalkesbach       01309  01309                % 06782 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01311  01311                % 06782 CFLBUS
+170301004 Berdorf, Duerfplaz    01312  01312                % 06782 CFLBUS
+170301002 Berdorf, Hotel Herbe  01313                       % 06782 CFLBUS
+*Z 06783 CFLBUS                                             % 06783 CFLBUS
+*L 109      170402005 170301002  01335  01343               % 06783 CFLBUS
+*A vo 170402005 170301002 000025  01335  01343              % 06783 CFLBUS
+*R 1 170301002 170402005 170301002  01335  01343            % 06783 CFLBUS
+*G RGB 170402005 170301002  01335  01343                    % 06783 CFLBUS
+*A VE 170402005 170301002 000025  01335  01343              % 06783 CFLBUS
+*I FD 170402005 170301002        0002109  01335  01343      % 06783 CFLBUS
+170402005 Consdorf, Post               01335                % 06783 CFLBUS
+170402002 Consdorf, Haenricht   01336  01336                % 06783 CFLBUS
+170402003 Consdorf, Kraizstroo  01337  01337                % 06783 CFLBUS
+170402004 Consdorf, Melickshec  01337  01337                % 06783 CFLBUS
+170305001 Bif. Kalkesbach       01339  01339                % 06783 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01341  01341                % 06783 CFLBUS
+170301004 Berdorf, Duerfplaz    01342  01342                % 06783 CFLBUS
+170301002 Berdorf, Hotel Herbe  01343                       % 06783 CFLBUS
+*Z 06784 CFLBUS                                             % 06784 CFLBUS
+*L 109      170402005 170301002  02305  02313               % 06784 CFLBUS
+*A vo 170402005 170301002 000025  02305  02313              % 06784 CFLBUS
+*R 1 170301002 170402005 170301002  02305  02313            % 06784 CFLBUS
+*G RGB 170402005 170301002  02305  02313                    % 06784 CFLBUS
+*A VE 170402005 170301002 000025  02305  02313              % 06784 CFLBUS
+*I FD 170402005 170301002        0002116  02305  02313      % 06784 CFLBUS
+170402005 Consdorf, Post               02305                % 06784 CFLBUS
+170402002 Consdorf, Haenricht   02306  02306                % 06784 CFLBUS
+170402003 Consdorf, Kraizstroo  02307  02307                % 06784 CFLBUS
+170402004 Consdorf, Melickshec  02307  02307                % 06784 CFLBUS
+170305001 Bif. Kalkesbach       02309  02309                % 06784 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02311  02311                % 06784 CFLBUS
+170301004 Berdorf, Duerfplaz    02312  02312                % 06784 CFLBUS
+170301002 Berdorf, Hotel Herbe  02313                       % 06784 CFLBUS
+*Z 06785 CFLBUS                                             % 06785 CFLBUS
+*L 109      170402005 170301002  00729  00737               % 06785 CFLBUS
+*A vo 170402005 170301002 000025  00729  00737              % 06785 CFLBUS
+*R 1 170301002 170402005 170301002  00729  00737            % 06785 CFLBUS
+*G RGB 170402005 170301002  00729  00737                    % 06785 CFLBUS
+*A VE 170402005 170301002 000025  00729  00737              % 06785 CFLBUS
+*I FD 170402005 170301002        0003130  00729  00737      % 06785 CFLBUS
+170402005 Consdorf, Post               00729                % 06785 CFLBUS
+170402002 Consdorf, Haenricht   00730  00730                % 06785 CFLBUS
+170402003 Consdorf, Kraizstroo  00731  00731                % 06785 CFLBUS
+170402004 Consdorf, Melickshec  00732  00732                % 06785 CFLBUS
+170305001 Bif. Kalkesbach       00734  00734                % 06785 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00736  00736                % 06785 CFLBUS
+170301004 Berdorf, Duerfplaz    00737  00737                % 06785 CFLBUS
+170301002 Berdorf, Hotel Herbe  00737                       % 06785 CFLBUS
+*Z 06786 CFLBUS                                             % 06786 CFLBUS
+*L 109      170402005 170301002  00909  00917               % 06786 CFLBUS
+*A vo 170402005 170301002 000025  00909  00917              % 06786 CFLBUS
+*R 1 170301002 170402005 170301002  00909  00917            % 06786 CFLBUS
+*G RGB 170402005 170301002  00909  00917                    % 06786 CFLBUS
+*A VE 170402005 170301002 000025  00909  00917              % 06786 CFLBUS
+*I FD 170402005 170301002        0003134  00909  00917      % 06786 CFLBUS
+170402005 Consdorf, Post               00909                % 06786 CFLBUS
+170402002 Consdorf, Haenricht   00910  00910                % 06786 CFLBUS
+170402003 Consdorf, Kraizstroo  00911  00911                % 06786 CFLBUS
+170402004 Consdorf, Melickshec  00912  00912                % 06786 CFLBUS
+170305001 Bif. Kalkesbach       00914  00914                % 06786 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00916  00916                % 06786 CFLBUS
+170301004 Berdorf, Duerfplaz    00917  00917                % 06786 CFLBUS
+170301002 Berdorf, Hotel Herbe  00917                       % 06786 CFLBUS
+*Z 06787 CFLBUS                                             % 06787 CFLBUS
+*L 109      170402005 170301002  01605  01613               % 06787 CFLBUS
+*A vo 170402005 170301002 000025  01605  01613              % 06787 CFLBUS
+*R 1 170301002 170402005 170301002  01605  01613            % 06787 CFLBUS
+*G RGB 170402005 170301002  01605  01613                    % 06787 CFLBUS
+*A VE 170402005 170301002 000025  01605  01613              % 06787 CFLBUS
+*I FD 170402005 170301002        0002097  01605  01613      % 06787 CFLBUS
+170402005 Consdorf, Post               01605                % 06787 CFLBUS
+170402002 Consdorf, Haenricht   01606  01606                % 06787 CFLBUS
+170402003 Consdorf, Kraizstroo  01607  01607                % 06787 CFLBUS
+170402004 Consdorf, Melickshec  01608  01608                % 06787 CFLBUS
+170305001 Bif. Kalkesbach       01610  01610                % 06787 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01612  01612                % 06787 CFLBUS
+170301004 Berdorf, Duerfplaz    01613  01613                % 06787 CFLBUS
+170301002 Berdorf, Hotel Herbe  01613                       % 06787 CFLBUS
+*Z 06788 CFLBUS                                             % 06788 CFLBUS
+*L 109      170402005 170301002  01615  01623               % 06788 CFLBUS
+*A vo 170402005 170301002 000025  01615  01623              % 06788 CFLBUS
+*R 1 170301002 170402005 170301002  01615  01623            % 06788 CFLBUS
+*G RGB 170402005 170301002  01615  01623                    % 06788 CFLBUS
+*A VE 170402005 170301002 000025  01615  01623              % 06788 CFLBUS
+*I FD 170402005 170301002        0001811  01615  01623      % 06788 CFLBUS
+170402005 Consdorf, Post               01615                % 06788 CFLBUS
+170402002 Consdorf, Haenricht   01616  01616                % 06788 CFLBUS
+170402003 Consdorf, Kraizstroo  01617  01617                % 06788 CFLBUS
+170402004 Consdorf, Melickshec  01618  01618                % 06788 CFLBUS
+170305001 Bif. Kalkesbach       01620  01620                % 06788 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01622  01622                % 06788 CFLBUS
+170301004 Berdorf, Duerfplaz    01623  01623                % 06788 CFLBUS
+170301002 Berdorf, Hotel Herbe  01623                       % 06788 CFLBUS
+*Z 06789 CFLBUS                                             % 06789 CFLBUS
+*L 109      170402005 170301002  01709  01717               % 06789 CFLBUS
+*A vo 170402005 170301002 000025  01709  01717              % 06789 CFLBUS
+*R 1 170301002 170402005 170301002  01709  01717            % 06789 CFLBUS
+*G RGB 170402005 170301002  01709  01717                    % 06789 CFLBUS
+*A VE 170402005 170301002 000025  01709  01717              % 06789 CFLBUS
+*I FD 170402005 170301002        0003081  01709  01717      % 06789 CFLBUS
+170402005 Consdorf, Post               01709                % 06789 CFLBUS
+170402002 Consdorf, Haenricht   01710  01710                % 06789 CFLBUS
+170402003 Consdorf, Kraizstroo  01711  01711                % 06789 CFLBUS
+170402004 Consdorf, Melickshec  01712  01712                % 06789 CFLBUS
+170305001 Bif. Kalkesbach       01714  01714                % 06789 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01716  01716                % 06789 CFLBUS
+170301004 Berdorf, Duerfplaz    01717  01717                % 06789 CFLBUS
+170301002 Berdorf, Hotel Herbe  01717                       % 06789 CFLBUS
+*Z 06790 CFLBUS                                             % 06790 CFLBUS
+*L 109      170402005 170301002  01809  01817               % 06790 CFLBUS
+*A vo 170402005 170301002 000025  01809  01817              % 06790 CFLBUS
+*R 1 170301002 170402005 170301002  01809  01817            % 06790 CFLBUS
+*G RGB 170402005 170301002  01809  01817                    % 06790 CFLBUS
+*A VE 170402005 170301002 000025  01809  01817              % 06790 CFLBUS
+*I FD 170402005 170301002        0003082  01809  01817      % 06790 CFLBUS
+170402005 Consdorf, Post               01809                % 06790 CFLBUS
+170402002 Consdorf, Haenricht   01810  01810                % 06790 CFLBUS
+170402003 Consdorf, Kraizstroo  01811  01811                % 06790 CFLBUS
+170402004 Consdorf, Melickshec  01812  01812                % 06790 CFLBUS
+170305001 Bif. Kalkesbach       01814  01814                % 06790 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01816  01816                % 06790 CFLBUS
+170301004 Berdorf, Duerfplaz    01817  01817                % 06790 CFLBUS
+170301002 Berdorf, Hotel Herbe  01817                       % 06790 CFLBUS
+*Z 06791 CFLBUS                                             % 06791 CFLBUS
+*L 109      170402005 170301002  01830  01838               % 06791 CFLBUS
+*A vo 170402005 170301002 000025  01830  01838              % 06791 CFLBUS
+*R 1 170301002 170402005 170301002  01830  01838            % 06791 CFLBUS
+*G RGB 170402005 170301002  01830  01838                    % 06791 CFLBUS
+*A VE 170402005 170301002 000025  01830  01838              % 06791 CFLBUS
+*I FD 170402005 170301002        0001901  01830  01838      % 06791 CFLBUS
+170402005 Consdorf, Post               01830                % 06791 CFLBUS
+170402002 Consdorf, Haenricht   01831  01831                % 06791 CFLBUS
+170402003 Consdorf, Kraizstroo  01832  01832                % 06791 CFLBUS
+170402004 Consdorf, Melickshec  01833  01833                % 06791 CFLBUS
+170305001 Bif. Kalkesbach       01835  01835                % 06791 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01837  01837                % 06791 CFLBUS
+170301004 Berdorf, Duerfplaz    01838  01838                % 06791 CFLBUS
+170301002 Berdorf, Hotel Herbe  01838                       % 06791 CFLBUS
+*Z 06792 CFLBUS                                             % 06792 CFLBUS
+*L 109      170402005 170301002  00810  00818               % 06792 CFLBUS
+*A vo 170402005 170301002 000025  00810  00818              % 06792 CFLBUS
+*R 1 170301002 170402005 170301002  00810  00818            % 06792 CFLBUS
+*G RGB 170402005 170301002  00810  00818                    % 06792 CFLBUS
+*A VE 170402005 170301002 000025  00810  00818              % 06792 CFLBUS
+*I FD 170402005 170301002        0001874  00810  00818      % 06792 CFLBUS
+170402005 Consdorf, Post               00810                % 06792 CFLBUS
+170402002 Consdorf, Haenricht   00811  00811                % 06792 CFLBUS
+170402003 Consdorf, Kraizstroo  00812  00812                % 06792 CFLBUS
+170402004 Consdorf, Melickshec  00813  00813                % 06792 CFLBUS
+170305001 Bif. Kalkesbach       00815  00815                % 06792 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00817  00817                % 06792 CFLBUS
+170301004 Berdorf, Duerfplaz    00818  00818                % 06792 CFLBUS
+170301002 Berdorf, Hotel Herbe  00818                       % 06792 CFLBUS
+*Z 06793 CFLBUS                                             % 06793 CFLBUS
+*L 109      170402005 170301002  01651  01659               % 06793 CFLBUS
+*A vo 170402005 170301002 000025  01651  01659              % 06793 CFLBUS
+*R 1 170301002 170402005 170301002  01651  01659            % 06793 CFLBUS
+*G RGB 170402005 170301002  01651  01659                    % 06793 CFLBUS
+*A VE 170402005 170301002 000025  01651  01659              % 06793 CFLBUS
+*I FD 170402005 170301002        0001403  01651  01659      % 06793 CFLBUS
+170402005 Consdorf, Post               01651                % 06793 CFLBUS
+170402002 Consdorf, Haenricht   01652  01652                % 06793 CFLBUS
+170402003 Consdorf, Kraizstroo  01653  01653                % 06793 CFLBUS
+170402004 Consdorf, Melickshec  01654  01654                % 06793 CFLBUS
+170305001 Bif. Kalkesbach       01656  01656                % 06793 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01658  01658                % 06793 CFLBUS
+170301004 Berdorf, Duerfplaz    01659  01659                % 06793 CFLBUS
+170301002 Berdorf, Hotel Herbe  01659                       % 06793 CFLBUS
+*Z 06794 CFLBUS                                             % 06794 CFLBUS
+*L 109      170501016 170301004  01440  01503               % 06794 CFLBUS
+*A vm 170501016 170301004 000025  01440  01503              % 06794 CFLBUS
+*R 1 170301004 170501016 170301004  01440  01503            % 06794 CFLBUS
+*G RGB 170501016 170301004  01440  01503                    % 06794 CFLBUS
+*A VE 170501016 170301004 000025  01440  01503              % 06794 CFLBUS
+*I FD 170501016 170301004        0003785  01440  01503      % 06794 CFLBUS
+170501016 Echternach, Gare Cen         01440                % 06794 CFLBUS
+170402005 Consdorf, Post        01455  01455                % 06794 CFLBUS
+170402002 Consdorf, Haenricht   01456  01456                % 06794 CFLBUS
+170402003 Consdorf, Kraizstroo  01457  01457                % 06794 CFLBUS
+170402004 Consdorf, Melickshec  01458  01458                % 06794 CFLBUS
+170305001 Bif. Kalkesbach       01500  01500                % 06794 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01502  01502                % 06794 CFLBUS
+170301004 Berdorf, Duerfplaz    01503                       % 06794 CFLBUS
+*Z 06795 CFLBUS                                             % 06795 CFLBUS
+*L 109      170301004 170501016  00714  00736               % 06795 CFLBUS
+*A vm 170301004 170501016 000025  00714  00736              % 06795 CFLBUS
+*R 2 170501016 170301004 170501016  00714  00736            % 06795 CFLBUS
+*G RGB 170301004 170501016  00714  00736                    % 06795 CFLBUS
+*A VE 170301004 170501016 000025  00714  00736              % 06795 CFLBUS
+*I FD 170301004 170501016        0005285  00714  00736      % 06795 CFLBUS
+170301004 Berdorf, Duerfplaz           00714                % 06795 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00715  00715                % 06795 CFLBUS
+170305001 Bif. Kalkesbach       00717  00717                % 06795 CFLBUS
+170402004 Consdorf, Melickshec  00718  00718                % 06795 CFLBUS
+170402003 Consdorf, Kraizstroo  00719  00719                % 06795 CFLBUS
+170402002 Consdorf, Haenricht   00720  00720                % 06795 CFLBUS
+170402005 Consdorf, Post        00722  00722                % 06795 CFLBUS
+170501016 Echternach, Gare Cen  00736                       % 06795 CFLBUS
+*Z 06796 CFLBUS                                             % 06796 CFLBUS
+*L 109      170301002 170402005  00947  00955               % 06796 CFLBUS
+*A vo 170301002 170402005 000025  00947  00955              % 06796 CFLBUS
+*R 2 170402005 170301002 170402005  00947  00955            % 06796 CFLBUS
+*G RGB 170301002 170402005  00947  00955                    % 06796 CFLBUS
+*A VE 170301002 170402005 000025  00947  00955              % 06796 CFLBUS
+*I FD 170301002 170402005        0001134  00947  00955      % 06796 CFLBUS
+170301002 Berdorf, Hotel Herbe         00947                % 06796 CFLBUS
+170301004 Berdorf, Duerfplaz    00947  00947                % 06796 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00948  00948                % 06796 CFLBUS
+170305001 Bif. Kalkesbach       00950  00950                % 06796 CFLBUS
+170402004 Consdorf, Melickshec  00952  00952                % 06796 CFLBUS
+170402003 Consdorf, Kraizstroo  00953  00953                % 06796 CFLBUS
+170402002 Consdorf, Haenricht   00954  00954                % 06796 CFLBUS
+170402005 Consdorf, Post        00955                       % 06796 CFLBUS
+*Z 06797 CFLBUS                                             % 06797 CFLBUS
+*L 109      170301002 170402005  01047  01055               % 06797 CFLBUS
+*A vo 170301002 170402005 000025  01047  01055              % 06797 CFLBUS
+*R 2 170402005 170301002 170402005  01047  01055            % 06797 CFLBUS
+*G RGB 170301002 170402005  01047  01055                    % 06797 CFLBUS
+*A VE 170301002 170402005 000025  01047  01055              % 06797 CFLBUS
+*I FD 170301002 170402005        0002369  01047  01055      % 06797 CFLBUS
+170301002 Berdorf, Hotel Herbe         01047                % 06797 CFLBUS
+170301004 Berdorf, Duerfplaz    01047  01047                % 06797 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01048  01048                % 06797 CFLBUS
+170305001 Bif. Kalkesbach       01050  01050                % 06797 CFLBUS
+170402004 Consdorf, Melickshec  01052  01052                % 06797 CFLBUS
+170402003 Consdorf, Kraizstroo  01053  01053                % 06797 CFLBUS
+170402002 Consdorf, Haenricht   01054  01054                % 06797 CFLBUS
+170402005 Consdorf, Post        01055                       % 06797 CFLBUS
+*Z 06798 CFLBUS                                             % 06798 CFLBUS
+*L 109      170301002 170402005  01147  01155               % 06798 CFLBUS
+*A vo 170301002 170402005 000025  01147  01155              % 06798 CFLBUS
+*R 2 170402005 170301002 170402005  01147  01155            % 06798 CFLBUS
+*G RGB 170301002 170402005  01147  01155                    % 06798 CFLBUS
+*A VE 170301002 170402005 000025  01147  01155              % 06798 CFLBUS
+*I FD 170301002 170402005        0002370  01147  01155      % 06798 CFLBUS
+170301002 Berdorf, Hotel Herbe         01147                % 06798 CFLBUS
+170301004 Berdorf, Duerfplaz    01147  01147                % 06798 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01148  01148                % 06798 CFLBUS
+170305001 Bif. Kalkesbach       01150  01150                % 06798 CFLBUS
+170402004 Consdorf, Melickshec  01152  01152                % 06798 CFLBUS
+170402003 Consdorf, Kraizstroo  01153  01153                % 06798 CFLBUS
+170402002 Consdorf, Haenricht   01154  01154                % 06798 CFLBUS
+170402005 Consdorf, Post        01155                       % 06798 CFLBUS
+*Z 06799 CFLBUS                                             % 06799 CFLBUS
+*L 109      170301002 170402005  01238  01246               % 06799 CFLBUS
+*A vo 170301002 170402005 000025  01238  01246              % 06799 CFLBUS
+*R 2 170402005 170301002 170402005  01238  01246            % 06799 CFLBUS
+*G RGB 170301002 170402005  01238  01246                    % 06799 CFLBUS
+*A VE 170301002 170402005 000025  01238  01246              % 06799 CFLBUS
+*I FD 170301002 170402005        0001268  01238  01246      % 06799 CFLBUS
+170301002 Berdorf, Hotel Herbe         01238                % 06799 CFLBUS
+170301004 Berdorf, Duerfplaz    01238  01238                % 06799 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01239  01239                % 06799 CFLBUS
+170305001 Bif. Kalkesbach       01241  01241                % 06799 CFLBUS
+170402004 Consdorf, Melickshec  01243  01243                % 06799 CFLBUS
+170402003 Consdorf, Kraizstroo  01244  01244                % 06799 CFLBUS
+170402002 Consdorf, Haenricht   01245  01245                % 06799 CFLBUS
+170402005 Consdorf, Post        01246                       % 06799 CFLBUS
+*Z 06800 CFLBUS                                             % 06800 CFLBUS
+*L 109      170301002 170402005  01247  01255               % 06800 CFLBUS
+*A vo 170301002 170402005 000025  01247  01255              % 06800 CFLBUS
+*R 2 170402005 170301002 170402005  01247  01255            % 06800 CFLBUS
+*G RGB 170301002 170402005  01247  01255                    % 06800 CFLBUS
+*A VE 170301002 170402005 000025  01247  01255              % 06800 CFLBUS
+*I FD 170301002 170402005        0001212  01247  01255      % 06800 CFLBUS
+170301002 Berdorf, Hotel Herbe         01247                % 06800 CFLBUS
+170301004 Berdorf, Duerfplaz    01247  01247                % 06800 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01248  01248                % 06800 CFLBUS
+170305001 Bif. Kalkesbach       01250  01250                % 06800 CFLBUS
+170402004 Consdorf, Melickshec  01252  01252                % 06800 CFLBUS
+170402003 Consdorf, Kraizstroo  01253  01253                % 06800 CFLBUS
+170402002 Consdorf, Haenricht   01254  01254                % 06800 CFLBUS
+170402005 Consdorf, Post        01255                       % 06800 CFLBUS
+*Z 06801 CFLBUS                                             % 06801 CFLBUS
+*L 109      170301002 170402005  01347  01355               % 06801 CFLBUS
+*A vo 170301002 170402005 000025  01347  01355              % 06801 CFLBUS
+*R 2 170402005 170301002 170402005  01347  01355            % 06801 CFLBUS
+*G RGB 170301002 170402005  01347  01355                    % 06801 CFLBUS
+*A VE 170301002 170402005 000025  01347  01355              % 06801 CFLBUS
+*I FD 170301002 170402005        0002365  01347  01355      % 06801 CFLBUS
+170301002 Berdorf, Hotel Herbe         01347                % 06801 CFLBUS
+170301004 Berdorf, Duerfplaz    01347  01347                % 06801 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01348  01348                % 06801 CFLBUS
+170305001 Bif. Kalkesbach       01350  01350                % 06801 CFLBUS
+170402004 Consdorf, Melickshec  01352  01352                % 06801 CFLBUS
+170402003 Consdorf, Kraizstroo  01353  01353                % 06801 CFLBUS
+170402002 Consdorf, Haenricht   01354  01354                % 06801 CFLBUS
+170402005 Consdorf, Post        01355                       % 06801 CFLBUS
+*Z 06802 CFLBUS                                             % 06802 CFLBUS
+*L 109      170301002 170402005  01447  01455               % 06802 CFLBUS
+*A vo 170301002 170402005 000025  01447  01455              % 06802 CFLBUS
+*R 2 170402005 170301002 170402005  01447  01455            % 06802 CFLBUS
+*G RGB 170301002 170402005  01447  01455                    % 06802 CFLBUS
+*A VE 170301002 170402005 000025  01447  01455              % 06802 CFLBUS
+*I FD 170301002 170402005        0002374  01447  01455      % 06802 CFLBUS
+170301002 Berdorf, Hotel Herbe         01447                % 06802 CFLBUS
+170301004 Berdorf, Duerfplaz    01447  01447                % 06802 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01448  01448                % 06802 CFLBUS
+170305001 Bif. Kalkesbach       01450  01450                % 06802 CFLBUS
+170402004 Consdorf, Melickshec  01452  01452                % 06802 CFLBUS
+170402003 Consdorf, Kraizstroo  01453  01453                % 06802 CFLBUS
+170402002 Consdorf, Haenricht   01454  01454                % 06802 CFLBUS
+170402005 Consdorf, Post        01455                       % 06802 CFLBUS
+*Z 06803 CFLBUS                                             % 06803 CFLBUS
+*L 109      170301002 170402005  01547  01555               % 06803 CFLBUS
+*A vo 170301002 170402005 000025  01547  01555              % 06803 CFLBUS
+*R 2 170402005 170301002 170402005  01547  01555            % 06803 CFLBUS
+*G RGB 170301002 170402005  01547  01555                    % 06803 CFLBUS
+*A VE 170301002 170402005 000025  01547  01555              % 06803 CFLBUS
+*I FD 170301002 170402005        0002061  01547  01555      % 06803 CFLBUS
+170301002 Berdorf, Hotel Herbe         01547                % 06803 CFLBUS
+170301004 Berdorf, Duerfplaz    01547  01547                % 06803 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01548  01548                % 06803 CFLBUS
+170305001 Bif. Kalkesbach       01550  01550                % 06803 CFLBUS
+170402004 Consdorf, Melickshec  01552  01552                % 06803 CFLBUS
+170402003 Consdorf, Kraizstroo  01553  01553                % 06803 CFLBUS
+170402002 Consdorf, Haenricht   01554  01554                % 06803 CFLBUS
+170402005 Consdorf, Post        01555                       % 06803 CFLBUS
+*Z 06804 CFLBUS                                             % 06804 CFLBUS
+*L 109      170301002 170402005  01557  01605               % 06804 CFLBUS
+*A vo 170301002 170402005 000025  01557  01605              % 06804 CFLBUS
+*R 2 170402005 170301002 170402005  01557  01605            % 06804 CFLBUS
+*G RGB 170301002 170402005  01557  01605                    % 06804 CFLBUS
+*A VE 170301002 170402005 000025  01557  01605              % 06804 CFLBUS
+*I FD 170301002 170402005        0003271  01557  01605      % 06804 CFLBUS
+170301002 Berdorf, Hotel Herbe         01557                % 06804 CFLBUS
+170301004 Berdorf, Duerfplaz    01557  01557                % 06804 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01558  01558                % 06804 CFLBUS
+170305001 Bif. Kalkesbach       01600  01600                % 06804 CFLBUS
+170402004 Consdorf, Melickshec  01602  01602                % 06804 CFLBUS
+170402003 Consdorf, Kraizstroo  01603  01603                % 06804 CFLBUS
+170402002 Consdorf, Haenricht   01604  01604                % 06804 CFLBUS
+170402005 Consdorf, Post        01605                       % 06804 CFLBUS
+*Z 06805 CFLBUS                                             % 06805 CFLBUS
+*L 109      170301002 170402005  01842  01850               % 06805 CFLBUS
+*A vo 170301002 170402005 000025  01842  01850              % 06805 CFLBUS
+*R 2 170402005 170301002 170402005  01842  01850            % 06805 CFLBUS
+*G RGB 170301002 170402005  01842  01850                    % 06805 CFLBUS
+*A VE 170301002 170402005 000025  01842  01850              % 06805 CFLBUS
+*I FD 170301002 170402005        0001450  01842  01850      % 06805 CFLBUS
+170301002 Berdorf, Hotel Herbe         01842                % 06805 CFLBUS
+170301004 Berdorf, Duerfplaz    01842  01842                % 06805 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01843  01843                % 06805 CFLBUS
+170305001 Bif. Kalkesbach       01845  01845                % 06805 CFLBUS
+170402004 Consdorf, Melickshec  01847  01847                % 06805 CFLBUS
+170402003 Consdorf, Kraizstroo  01848  01848                % 06805 CFLBUS
+170402002 Consdorf, Haenricht   01849  01849                % 06805 CFLBUS
+170402005 Consdorf, Post        01850                       % 06805 CFLBUS
+*Z 06806 CFLBUS                                             % 06806 CFLBUS
+*L 109      170301002 170402005  01847  01855               % 06806 CFLBUS
+*A vo 170301002 170402005 000025  01847  01855              % 06806 CFLBUS
+*R 2 170402005 170301002 170402005  01847  01855            % 06806 CFLBUS
+*G RGB 170301002 170402005  01847  01855                    % 06806 CFLBUS
+*A VE 170301002 170402005 000025  01847  01855              % 06806 CFLBUS
+*I FD 170301002 170402005        0001474  01847  01855      % 06806 CFLBUS
+170301002 Berdorf, Hotel Herbe         01847                % 06806 CFLBUS
+170301004 Berdorf, Duerfplaz    01847  01847                % 06806 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01848  01848                % 06806 CFLBUS
+170305001 Bif. Kalkesbach       01850  01850                % 06806 CFLBUS
+170402004 Consdorf, Melickshec  01852  01852                % 06806 CFLBUS
+170402003 Consdorf, Kraizstroo  01853  01853                % 06806 CFLBUS
+170402002 Consdorf, Haenricht   01854  01854                % 06806 CFLBUS
+170402005 Consdorf, Post        01855                       % 06806 CFLBUS
+*Z 06807 CFLBUS                                             % 06807 CFLBUS
+*L 109      170301002 170402005  01947  01955               % 06807 CFLBUS
+*A vo 170301002 170402005 000025  01947  01955              % 06807 CFLBUS
+*R 2 170402005 170301002 170402005  01947  01955            % 06807 CFLBUS
+*G RGB 170301002 170402005  01947  01955                    % 06807 CFLBUS
+*A VE 170301002 170402005 000025  01947  01955              % 06807 CFLBUS
+*I FD 170301002 170402005        0002377  01947  01955      % 06807 CFLBUS
+170301002 Berdorf, Hotel Herbe         01947                % 06807 CFLBUS
+170301004 Berdorf, Duerfplaz    01947  01947                % 06807 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01948  01948                % 06807 CFLBUS
+170305001 Bif. Kalkesbach       01950  01950                % 06807 CFLBUS
+170402004 Consdorf, Melickshec  01952  01952                % 06807 CFLBUS
+170402003 Consdorf, Kraizstroo  01953  01953                % 06807 CFLBUS
+170402002 Consdorf, Haenricht   01954  01954                % 06807 CFLBUS
+170402005 Consdorf, Post        01955                       % 06807 CFLBUS
+*Z 06808 CFLBUS                                             % 06808 CFLBUS
+*L 109      170301002 170402005  02047  02055               % 06808 CFLBUS
+*A vo 170301002 170402005 000025  02047  02055              % 06808 CFLBUS
+*R 2 170402005 170301002 170402005  02047  02055            % 06808 CFLBUS
+*G RGB 170301002 170402005  02047  02055                    % 06808 CFLBUS
+*A VE 170301002 170402005 000025  02047  02055              % 06808 CFLBUS
+*I FD 170301002 170402005        0002379  02047  02055      % 06808 CFLBUS
+170301002 Berdorf, Hotel Herbe         02047                % 06808 CFLBUS
+170301004 Berdorf, Duerfplaz    02047  02047                % 06808 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02048  02048                % 06808 CFLBUS
+170305001 Bif. Kalkesbach       02050  02050                % 06808 CFLBUS
+170402004 Consdorf, Melickshec  02052  02052                % 06808 CFLBUS
+170402003 Consdorf, Kraizstroo  02053  02053                % 06808 CFLBUS
+170402002 Consdorf, Haenricht   02054  02054                % 06808 CFLBUS
+170402005 Consdorf, Post        02055                       % 06808 CFLBUS
+*Z 06809 CFLBUS                                             % 06809 CFLBUS
+*L 109      170301002 170402005  02147  02155               % 06809 CFLBUS
+*A vo 170301002 170402005 000025  02147  02155              % 06809 CFLBUS
+*R 2 170402005 170301002 170402005  02147  02155            % 06809 CFLBUS
+*G RGB 170301002 170402005  02147  02155                    % 06809 CFLBUS
+*A VE 170301002 170402005 000025  02147  02155              % 06809 CFLBUS
+*I FD 170301002 170402005        0002381  02147  02155      % 06809 CFLBUS
+170301002 Berdorf, Hotel Herbe         02147                % 06809 CFLBUS
+170301004 Berdorf, Duerfplaz    02147  02147                % 06809 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02148  02148                % 06809 CFLBUS
+170305001 Bif. Kalkesbach       02150  02150                % 06809 CFLBUS
+170402004 Consdorf, Melickshec  02152  02152                % 06809 CFLBUS
+170402003 Consdorf, Kraizstroo  02153  02153                % 06809 CFLBUS
+170402002 Consdorf, Haenricht   02154  02154                % 06809 CFLBUS
+170402005 Consdorf, Post        02155                       % 06809 CFLBUS
+*Z 06810 CFLBUS                                             % 06810 CFLBUS
+*L 109      170301002 170402005  02247  02255               % 06810 CFLBUS
+*A vo 170301002 170402005 000025  02247  02255              % 06810 CFLBUS
+*R 2 170402005 170301002 170402005  02247  02255            % 06810 CFLBUS
+*G RGB 170301002 170402005  02247  02255                    % 06810 CFLBUS
+*A VE 170301002 170402005 000025  02247  02255              % 06810 CFLBUS
+*I FD 170301002 170402005        0002382  02247  02255      % 06810 CFLBUS
+170301002 Berdorf, Hotel Herbe         02247                % 06810 CFLBUS
+170301004 Berdorf, Duerfplaz    02247  02247                % 06810 CFLBUS
+170301001 Berdorf, Bif. Heisbi  02248  02248                % 06810 CFLBUS
+170305001 Bif. Kalkesbach       02250  02250                % 06810 CFLBUS
+170402004 Consdorf, Melickshec  02252  02252                % 06810 CFLBUS
+170402003 Consdorf, Kraizstroo  02253  02253                % 06810 CFLBUS
+170402002 Consdorf, Haenricht   02254  02254                % 06810 CFLBUS
+170402005 Consdorf, Post        02255                       % 06810 CFLBUS
+*Z 06811 CFLBUS                                             % 06811 CFLBUS
+*L 109      170301002 170402005  00622  00630               % 06811 CFLBUS
+*A vo 170301002 170402005 000025  00622  00630              % 06811 CFLBUS
+*R 2 170402005 170301002 170402005  00622  00630            % 06811 CFLBUS
+*G RGB 170301002 170402005  00622  00630                    % 06811 CFLBUS
+*A VE 170301002 170402005 000025  00622  00630              % 06811 CFLBUS
+*I FD 170301002 170402005        0002858  00622  00630      % 06811 CFLBUS
+170301002 Berdorf, Hotel Herbe         00622                % 06811 CFLBUS
+170301004 Berdorf, Duerfplaz    00622  00622                % 06811 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00623  00623                % 06811 CFLBUS
+170305001 Bif. Kalkesbach       00625  00625                % 06811 CFLBUS
+170402004 Consdorf, Melickshec  00627  00627                % 06811 CFLBUS
+170402003 Consdorf, Kraizstroo  00628  00628                % 06811 CFLBUS
+170402002 Consdorf, Haenricht   00629  00629                % 06811 CFLBUS
+170402005 Consdorf, Post        00630                       % 06811 CFLBUS
+*Z 06812 CFLBUS                                             % 06812 CFLBUS
+*L 109      170301002 170402005  01208  01216               % 06812 CFLBUS
+*A vo 170301002 170402005 000025  01208  01216              % 06812 CFLBUS
+*R 2 170402005 170301002 170402005  01208  01216            % 06812 CFLBUS
+*G RGB 170301002 170402005  01208  01216                    % 06812 CFLBUS
+*A VE 170301002 170402005 000025  01208  01216              % 06812 CFLBUS
+*I FD 170301002 170402005        0003176  01208  01216      % 06812 CFLBUS
+170301002 Berdorf, Hotel Herbe         01208                % 06812 CFLBUS
+170301004 Berdorf, Duerfplaz    01208  01208                % 06812 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01209  01209                % 06812 CFLBUS
+170305001 Bif. Kalkesbach       01211  01211                % 06812 CFLBUS
+170402004 Consdorf, Melickshec  01213  01213                % 06812 CFLBUS
+170402003 Consdorf, Kraizstroo  01214  01214                % 06812 CFLBUS
+170402002 Consdorf, Haenricht   01215  01215                % 06812 CFLBUS
+170402005 Consdorf, Post        01216                       % 06812 CFLBUS
+*Z 06813 CFLBUS                                             % 06813 CFLBUS
+*L 109      170301002 170402005  01324  01332               % 06813 CFLBUS
+*A vo 170301002 170402005 000025  01324  01332              % 06813 CFLBUS
+*R 2 170402005 170301002 170402005  01324  01332            % 06813 CFLBUS
+*G RGB 170301002 170402005  01324  01332                    % 06813 CFLBUS
+*A VE 170301002 170402005 000025  01324  01332              % 06813 CFLBUS
+*I FD 170301002 170402005        0003680  01324  01332      % 06813 CFLBUS
+170301002 Berdorf, Hotel Herbe         01324                % 06813 CFLBUS
+170301004 Berdorf, Duerfplaz    01324  01324                % 06813 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01325  01325                % 06813 CFLBUS
+170305001 Bif. Kalkesbach       01327  01327                % 06813 CFLBUS
+170402004 Consdorf, Melickshec  01329  01329                % 06813 CFLBUS
+170402003 Consdorf, Kraizstroo  01330  01330                % 06813 CFLBUS
+170402002 Consdorf, Haenricht   01331  01331                % 06813 CFLBUS
+170402005 Consdorf, Post        01332                       % 06813 CFLBUS
+*Z 06814 CFLBUS                                             % 06814 CFLBUS
+*L 109      170301002 170402005  00714  00722               % 06814 CFLBUS
+*A vo 170301002 170402005 000025  00714  00722              % 06814 CFLBUS
+*R 2 170402005 170301002 170402005  00714  00722            % 06814 CFLBUS
+*G RGB 170301002 170402005  00714  00722                    % 06814 CFLBUS
+*A VE 170301002 170402005 000025  00714  00722              % 06814 CFLBUS
+*I FD 170301002 170402005        0003540  00714  00722      % 06814 CFLBUS
+170301002 Berdorf, Hotel Herbe         00714                % 06814 CFLBUS
+170301004 Berdorf, Duerfplaz    00714  00714                % 06814 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00715  00715                % 06814 CFLBUS
+170305001 Bif. Kalkesbach       00717  00717                % 06814 CFLBUS
+170402004 Consdorf, Melickshec  00719  00719                % 06814 CFLBUS
+170402003 Consdorf, Kraizstroo  00720  00720                % 06814 CFLBUS
+170402002 Consdorf, Haenricht   00721  00721                % 06814 CFLBUS
+170402005 Consdorf, Post        00722                       % 06814 CFLBUS
+*Z 06815 CFLBUS                                             % 06815 CFLBUS
+*L 109      170301002 170402005  00847  00855               % 06815 CFLBUS
+*A vo 170301002 170402005 000025  00847  00855              % 06815 CFLBUS
+*R 2 170402005 170301002 170402005  00847  00855            % 06815 CFLBUS
+*G RGB 170301002 170402005  00847  00855                    % 06815 CFLBUS
+*A VE 170301002 170402005 000025  00847  00855              % 06815 CFLBUS
+*I FD 170301002 170402005        0002389  00847  00855      % 06815 CFLBUS
+170301002 Berdorf, Hotel Herbe         00847                % 06815 CFLBUS
+170301004 Berdorf, Duerfplaz    00847  00847                % 06815 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00848  00848                % 06815 CFLBUS
+170305001 Bif. Kalkesbach       00850  00850                % 06815 CFLBUS
+170402004 Consdorf, Melickshec  00852  00852                % 06815 CFLBUS
+170402003 Consdorf, Kraizstroo  00853  00853                % 06815 CFLBUS
+170402002 Consdorf, Haenricht   00854  00854                % 06815 CFLBUS
+170402005 Consdorf, Post        00855                       % 06815 CFLBUS
+*Z 06816 CFLBUS                                             % 06816 CFLBUS
+*L 109      170301002 170402005  01647  01655               % 06816 CFLBUS
+*A vo 170301002 170402005 000025  01647  01655              % 06816 CFLBUS
+*R 2 170402005 170301002 170402005  01647  01655            % 06816 CFLBUS
+*G RGB 170301002 170402005  01647  01655                    % 06816 CFLBUS
+*A VE 170301002 170402005 000025  01647  01655              % 06816 CFLBUS
+*I FD 170301002 170402005        0001377  01647  01655      % 06816 CFLBUS
+170301002 Berdorf, Hotel Herbe         01647                % 06816 CFLBUS
+170301004 Berdorf, Duerfplaz    01647  01647                % 06816 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01648  01648                % 06816 CFLBUS
+170305001 Bif. Kalkesbach       01650  01650                % 06816 CFLBUS
+170402004 Consdorf, Melickshec  01652  01652                % 06816 CFLBUS
+170402003 Consdorf, Kraizstroo  01653  01653                % 06816 CFLBUS
+170402002 Consdorf, Haenricht   01654  01654                % 06816 CFLBUS
+170402005 Consdorf, Post        01655                       % 06816 CFLBUS
+*Z 06817 CFLBUS                                             % 06817 CFLBUS
+*L 109      170301002 170402005  01747  01755               % 06817 CFLBUS
+*A vo 170301002 170402005 000025  01747  01755              % 06817 CFLBUS
+*R 2 170402005 170301002 170402005  01747  01755            % 06817 CFLBUS
+*G RGB 170301002 170402005  01747  01755                    % 06817 CFLBUS
+*A VE 170301002 170402005 000025  01747  01755              % 06817 CFLBUS
+*I FD 170301002 170402005        0002392  01747  01755      % 06817 CFLBUS
+170301002 Berdorf, Hotel Herbe         01747                % 06817 CFLBUS
+170301004 Berdorf, Duerfplaz    01747  01747                % 06817 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01748  01748                % 06817 CFLBUS
+170305001 Bif. Kalkesbach       01750  01750                % 06817 CFLBUS
+170402004 Consdorf, Melickshec  01752  01752                % 06817 CFLBUS
+170402003 Consdorf, Kraizstroo  01753  01753                % 06817 CFLBUS
+170402002 Consdorf, Haenricht   01754  01754                % 06817 CFLBUS
+170402005 Consdorf, Post        01755                       % 06817 CFLBUS
+*Z 06818 CFLBUS                                             % 06818 CFLBUS
+*L 109      170301002 170402005  01812  01820               % 06818 CFLBUS
+*A vo 170301002 170402005 000025  01812  01820              % 06818 CFLBUS
+*R 2 170402005 170301002 170402005  01812  01820            % 06818 CFLBUS
+*G RGB 170301002 170402005  01812  01820                    % 06818 CFLBUS
+*A VE 170301002 170402005 000025  01812  01820              % 06818 CFLBUS
+*I FD 170301002 170402005        0003740  01812  01820      % 06818 CFLBUS
+170301002 Berdorf, Hotel Herbe         01812                % 06818 CFLBUS
+170301004 Berdorf, Duerfplaz    01812  01812                % 06818 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01813  01813                % 06818 CFLBUS
+170305001 Bif. Kalkesbach       01815  01815                % 06818 CFLBUS
+170402004 Consdorf, Melickshec  01817  01817                % 06818 CFLBUS
+170402003 Consdorf, Kraizstroo  01818  01818                % 06818 CFLBUS
+170402002 Consdorf, Haenricht   01819  01819                % 06818 CFLBUS
+170402005 Consdorf, Post        01820                       % 06818 CFLBUS
+*Z 06819 CFLBUS                                             % 06819 CFLBUS
+*L 109      170301002 170402005  00752  00800               % 06819 CFLBUS
+*A vo 170301002 170402005 000025  00752  00800              % 06819 CFLBUS
+*R 2 170402005 170301002 170402005  00752  00800            % 06819 CFLBUS
+*G RGB 170301002 170402005  00752  00800                    % 06819 CFLBUS
+*A VE 170301002 170402005 000025  00752  00800              % 06819 CFLBUS
+*I FD 170301002 170402005        0003496  00752  00800      % 06819 CFLBUS
+170301002 Berdorf, Hotel Herbe         00752                % 06819 CFLBUS
+170301004 Berdorf, Duerfplaz    00752  00752                % 06819 CFLBUS
+170301001 Berdorf, Bif. Heisbi  00753  00753                % 06819 CFLBUS
+170305001 Bif. Kalkesbach       00755  00755                % 06819 CFLBUS
+170402004 Consdorf, Melickshec  00757  00757                % 06819 CFLBUS
+170402003 Consdorf, Kraizstroo  00758  00758                % 06819 CFLBUS
+170402002 Consdorf, Haenricht   00759  00759                % 06819 CFLBUS
+170402005 Consdorf, Post        00800                       % 06819 CFLBUS
+*Z 06820 CFLBUS                                             % 06820 CFLBUS
+*L 109      170301002 170402005  01638  01646               % 06820 CFLBUS
+*A vo 170301002 170402005 000025  01638  01646              % 06820 CFLBUS
+*R 2 170402005 170301002 170402005  01638  01646            % 06820 CFLBUS
+*G RGB 170301002 170402005  01638  01646                    % 06820 CFLBUS
+*A VE 170301002 170402005 000025  01638  01646              % 06820 CFLBUS
+*I FD 170301002 170402005        0002779  01638  01646      % 06820 CFLBUS
+170301002 Berdorf, Hotel Herbe         01638                % 06820 CFLBUS
+170301004 Berdorf, Duerfplaz    01638  01638                % 06820 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01639  01639                % 06820 CFLBUS
+170305001 Bif. Kalkesbach       01641  01641                % 06820 CFLBUS
+170402004 Consdorf, Melickshec  01643  01643                % 06820 CFLBUS
+170402003 Consdorf, Kraizstroo  01644  01644                % 06820 CFLBUS
+170402002 Consdorf, Haenricht   01645  01645                % 06820 CFLBUS
+170402005 Consdorf, Post        01646                       % 06820 CFLBUS

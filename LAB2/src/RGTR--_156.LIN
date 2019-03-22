@@ -1,0 +1,88 @@
+*F 03 2
+*Z 06347 RGTR--                                             % 06347 RGTR--
+*L 156      200405045 500000062  01636  01731               % 06347 RGTR--
+*A oo 200405045 500000062 000016  01636  01731              % 06347 RGTR--
+*A lm 200405045 500000062 000016  01636  01731              % 06347 RGTR--
+*R 1 500000062 200405045 500000062  01636  01731            % 06347 RGTR--
+*G RGB 200405045 500000062  01636  01731                    % 06347 RGTR--
+*A VE 200405045 500000062 000016  01636  01731              % 06347 RGTR--
+*I FD 200405045 500000062        0002915  01636  01731      % 06347 RGTR--
+200405045 Centre, Stäreplaz /          01636                % 06347 RGTR--
+200405037 Luxembourg, rue Hein -01640  01640                % 06347 RGTR--
+200404001 Verlorenkost, Al Mol -01643  01643                % 06347 RGTR--
+200406024 Cents, Cents-Hamm    -01650  01650                % 06347 RGTR--
+200414009 Hamm, Ronndréisch    -01652  01652                % 06347 RGTR--
+200601009 Sandweiler, Schaedha -01656  01656                % 06347 RGTR--
+200601003 Sandweiler, Du Pont  -01657  01657                % 06347 RGTR--
+200201007 Contern, Weiergewan  -01658  01658                % 06347 RGTR--
+200201008 Contern, Rond Point  -01658  01658                % 06347 RGTR--
+200203003 Moutfort, Kapell     -01703  01703                % 06347 RGTR--
+210701017 Remich, Op der Kopp   01713  01713                % 06347 RGTR--
+500000046 Nennig, Zoll          01717  01717                % 06347 RGTR--
+500000043 Nennig, Bahnhof       01718  01718                % 06347 RGTR--
+500000045 Nennig, Sparkasse     01720  01720                % 06347 RGTR--
+500000044 Nennig, Römische Vil  01721  01721                % 06347 RGTR--
+500000067 Besch (D), Chemiewer  01723  01723                % 06347 RGTR--
+500000059 Besch, Ortsmitte B41  01724  01724                % 06347 RGTR--
+500000063 Perl, Maimühle        01728  01728                % 06347 RGTR--
+500000061 Perl, Bahnhofstrasse  01729  01729                % 06347 RGTR--
+500000064 Perl, Schampaul       01730  01730                % 06347 RGTR--
+500000062 Perl, Central-Hotel   01731                       % 06347 RGTR--
+*Z 06348 RGTR--                                             % 06348 RGTR--
+*L 156      500000062 200403009  00642  00750               % 06348 RGTR--
+*A oo 500000062 200403009 000016  00642  00750              % 06348 RGTR--
+*A os 500000062 200403009 000016  00642  00750              % 06348 RGTR--
+*R 2 200403009 500000062 200403009  00642  00750            % 06348 RGTR--
+*G RGB 500000062 200403009  00642  00750                    % 06348 RGTR--
+*A VE 500000062 200403009 000016  00642  00750              % 06348 RGTR--
+*I FD 500000062 200403009        0002416  00642  00750      % 06348 RGTR--
+500000062 Perl, Central-Hotel          00642                % 06348 RGTR--
+500000064 Perl, Schampaul       00643  00643                % 06348 RGTR--
+500000063 Perl, Maimühle        00644  00644                % 06348 RGTR--
+500000059 Besch, Ortsmitte B41  00647  00647                % 06348 RGTR--
+500000067 Besch (D), Chemiewer  00649  00649                % 06348 RGTR--
+500000044 Nennig, Römische Vil  00651  00651                % 06348 RGTR--
+500000045 Nennig, Sparkasse     00651  00651                % 06348 RGTR--
+500000043 Nennig, Bahnhof       00653  00653                % 06348 RGTR--
+500000046 Nennig, Zoll          00655  00655                % 06348 RGTR--
+210701017 Remich, Op der Kopp   00659  00659                % 06348 RGTR--
+210102004 Bous, Kierch          00703 -00703                % 06348 RGTR--
+200203003 Moutfort, Kapell      00709 -00709                % 06348 RGTR--
+200201008 Contern, Rond Point   00717 -00717                % 06348 RGTR--
+200201007 Contern, Weiergewan   00717 -00717                % 06348 RGTR--
+200601003 Sandweiler, Du Pont   00718 -00718                % 06348 RGTR--
+200601009 Sandweiler, Schaedha  00722 -00722                % 06348 RGTR--
+200414009 Hamm, Ronndréisch     00730 -00730                % 06348 RGTR--
+200406024 Cents, Cents-Hamm     00731 -00731                % 06348 RGTR--
+200404001 Verlorenkost, Al Mol  00736 -00736                % 06348 RGTR--
+200405013 Centre, F.D. Rooseve  00739 -00739                % 06348 RGTR--
+200405045 Centre, Stäreplaz /   00743 -00743                % 06348 RGTR--
+200403017 Belair, Service Ince  00746 -00746                % 06348 RGTR--
+200403021 Belair, Wandmillen    00748 -00748                % 06348 RGTR--
+200403009 Belair, Kannerklinik  00750                       % 06348 RGTR--
+*Z 06349 RGTR--                                             % 06349 RGTR--
+*L 156      500000062 200417048  00540  00623               % 06349 RGTR--
+*A oo 500000062 200417048 000016  00540  00623              % 06349 RGTR--
+*A bg 500000062 200417048 000016  00540  00623              % 06349 RGTR--
+*R 2 200417048 500000062 200417048  00540  00623            % 06349 RGTR--
+*G RGB 500000062 200417048  00540  00623                    % 06349 RGTR--
+*A VE 500000062 200417048 000016  00540  00623              % 06349 RGTR--
+*I FD 500000062 200417048        0000936  00540  00623      % 06349 RGTR--
+500000062 Perl, Central-Hotel          00540                % 06349 RGTR--
+500000064 Perl, Schampaul       00541  00541                % 06349 RGTR--
+500000063 Perl, Maimühle        00542  00542                % 06349 RGTR--
+500000059 Besch, Ortsmitte B41  00545  00545                % 06349 RGTR--
+500000067 Besch (D), Chemiewer  00546  00546                % 06349 RGTR--
+500000044 Nennig, Römische Vil  00548  00548                % 06349 RGTR--
+500000045 Nennig, Sparkasse     00549  00549                % 06349 RGTR--
+500000043 Nennig, Bahnhof       00550  00550                % 06349 RGTR--
+500000046 Nennig, Zoll          00552  00552                % 06349 RGTR--
+210701017 Remich, Op der Kopp   00555  00555                % 06349 RGTR--
+210102004 Bous, Kierch          00558 -00558                % 06349 RGTR--
+200203003 Moutfort, Kapell      00605 -00605                % 06349 RGTR--
+200601005 Sandweiler, Kiirch    00609 -00609                % 06349 RGTR--
+200417040 Kirchberg, Hugo Gern  00619 -00619                % 06349 RGTR--
+200417039 Kirchberg, Avalon     00621 -00621                % 06349 RGTR--
+200417019 Kirchberg, Konrad Ad  00622 -00622                % 06349 RGTR--
+200417005 Kirchberg, Antoine d  00622 -00622                % 06349 RGTR--
+200417048 Kirchberg, Europe Ga  00623                       % 06349 RGTR--

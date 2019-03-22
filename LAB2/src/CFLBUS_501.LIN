@@ -1,0 +1,1677 @@
+*F 03 2
+*Z 02701 CFLBUS                                             % 02701 CFLBUS
+*L 501      170501016 140701016  01440  01527               % 02701 CFLBUS
+*A vm 170501016 140701016 000035  01440  01527              % 02701 CFLBUS
+*A wz 170501016 140701016 000035  01440  01527              % 02701 CFLBUS
+*A ad 170501016 140701016 000035  01440  01527              % 02701 CFLBUS
+*R 1 140701016 170501016 140701016  01440  01527            % 02701 CFLBUS
+*G RGB 170501016 140701016  01440  01527                    % 02701 CFLBUS
+*A VE 170501016 140701016 000035  01440  01527              % 02701 CFLBUS
+*I FD 170501016 140701016        0001971  01440  01527      % 02701 CFLBUS
+170501016 Echternach, Gare Cen         01440                % 02701 CFLBUS
+170501007 Echternach, Fielsmil  01443  01443                % 02701 CFLBUS
+170304002 Weilerbach            01445  01445                % 02701 CFLBUS
+170304001 Weilerbach, Laufenwe  01446  01446                % 02701 CFLBUS
+170302002 Bollendorf-Pont, Ham  01446  01446                % 02701 CFLBUS
+170302003 Bollendorf, Pont      01447  01447                % 02701 CFLBUS
+170302001 Bollendorf, Gare      01448  01448                % 02701 CFLBUS
+170303001 Grundhof, Grondhaff   01450  01450                % 02701 CFLBUS
+170103001 Cloosbierg            01452  01452                % 02701 CFLBUS
+170102001 Dillingen Déiljen     01453  01453                % 02701 CFLBUS
+141205001 Hermeswis             01454  01454                % 02701 CFLBUS
+141204001 Wallendorf, Bei der   01456  01456                % 02701 CFLBUS
+141204002 Wallendorf, Cité      01458  01458                % 02701 CFLBUS
+141203001 Reisdorf, An der Ee   01459  01459                % 02701 CFLBUS
+141203002 Reisdorf, Bei der Ga  01500  01500                % 02701 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01500  01500                % 02701 CFLBUS
+140204001 Moestroff, An der Ga  01502  01502                % 02701 CFLBUS
+140204002 Moestroff, Bréck      01503  01503                % 02701 CFLBUS
+140204003 Moestroff, Wangerten  01503  01503                % 02701 CFLBUS
+140201003 Bettendorf, Schlass   01505  01505                % 02701 CFLBUS
+140201002 Bettendorf, Gemeng    01506  01506                % 02701 CFLBUS
+140201001 Bettendorf, Elick     01506  01506                % 02701 CFLBUS
+140202001 Bleesbréck            01509  01509                % 02701 CFLBUS
+140203001 Gilsdorf, An der Klé  01509  01509                % 02701 CFLBUS
+140203002 Gilsdorf, Schoul      01510  01510                % 02701 CFLBUS
+140401007 Diekirch, rue Merten  01512  01512                % 02701 CFLBUS
+140401011 Diekirch, Alexis Hec  01514  01514                % 02701 CFLBUS
+140401006 Diekirch, Kluuster    01515  01515                % 02701 CFLBUS
+140401004 Diekirch, Gare        01517  01517                % 02701 CFLBUS
+140401008 Diekirch, Lorentzwue  01518  01518                % 02701 CFLBUS
+140603003 Ingeldorf, Cité Long  01519  01519                % 02701 CFLBUS
+140603001 Ingeldorf, Bei der B  01521  01521                % 02701 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01521  01521                % 02701 CFLBUS
+140602008 Erpeldange/Sûre, Um   01523  01523                % 02701 CFLBUS
+140701024 Ettelbruck, Pensionn  01526  01526                % 02701 CFLBUS
+140701016 Ettelbruck, Gare      01527                       % 02701 CFLBUS
+*Z 02702 CFLBUS                                             % 02702 CFLBUS
+*L 501      170501016 140701016  01530  01617               % 02702 CFLBUS
+*A vm 170501016 140701016 000035  01530  01617              % 02702 CFLBUS
+*A ad 170501016 140701016 000035  01530  01617              % 02702 CFLBUS
+*R 1 140701016 170501016 140701016  01530  01617            % 02702 CFLBUS
+*G RGB 170501016 140701016  01530  01617                    % 02702 CFLBUS
+*A VE 170501016 140701016 000035  01530  01617              % 02702 CFLBUS
+*I FD 170501016 140701016        0002764  01530  01617      % 02702 CFLBUS
+170501016 Echternach, Gare Cen         01530                % 02702 CFLBUS
+170501007 Echternach, Fielsmil  01533  01533                % 02702 CFLBUS
+170304002 Weilerbach            01535  01535                % 02702 CFLBUS
+170304001 Weilerbach, Laufenwe  01536  01536                % 02702 CFLBUS
+170302002 Bollendorf-Pont, Ham  01536  01536                % 02702 CFLBUS
+170302003 Bollendorf, Pont      01537  01537                % 02702 CFLBUS
+170302001 Bollendorf, Gare      01538  01538                % 02702 CFLBUS
+170303001 Grundhof, Grondhaff   01540  01540                % 02702 CFLBUS
+170103001 Cloosbierg            01542  01542                % 02702 CFLBUS
+170102001 Dillingen Déiljen     01543  01543                % 02702 CFLBUS
+141205001 Hermeswis             01544  01544                % 02702 CFLBUS
+141204001 Wallendorf, Bei der   01546  01546                % 02702 CFLBUS
+141204002 Wallendorf, Cité      01548  01548                % 02702 CFLBUS
+141203001 Reisdorf, An der Ee   01549  01549                % 02702 CFLBUS
+141203002 Reisdorf, Bei der Ga  01550  01550                % 02702 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01550  01550                % 02702 CFLBUS
+140204001 Moestroff, An der Ga  01552  01552                % 02702 CFLBUS
+140204002 Moestroff, Bréck      01553  01553                % 02702 CFLBUS
+140204003 Moestroff, Wangerten  01553  01553                % 02702 CFLBUS
+140201003 Bettendorf, Schlass   01555  01555                % 02702 CFLBUS
+140201002 Bettendorf, Gemeng    01556  01556                % 02702 CFLBUS
+140201001 Bettendorf, Elick     01556  01556                % 02702 CFLBUS
+140202001 Bleesbréck            01559  01559                % 02702 CFLBUS
+140203001 Gilsdorf, An der Klé  01559  01559                % 02702 CFLBUS
+140203002 Gilsdorf, Schoul      01600  01600                % 02702 CFLBUS
+140401007 Diekirch, rue Merten  01602  01602                % 02702 CFLBUS
+140401011 Diekirch, Alexis Hec  01604  01604                % 02702 CFLBUS
+140401006 Diekirch, Kluuster    01605  01605                % 02702 CFLBUS
+140401004 Diekirch, Gare        01607  01607                % 02702 CFLBUS
+140401008 Diekirch, Lorentzwue  01608  01608                % 02702 CFLBUS
+140603003 Ingeldorf, Cité Long  01609  01609                % 02702 CFLBUS
+140603001 Ingeldorf, Bei der B  01611  01611                % 02702 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01611  01611                % 02702 CFLBUS
+140602008 Erpeldange/Sûre, Um   01613  01613                % 02702 CFLBUS
+140701024 Ettelbruck, Pensionn  01616  01616                % 02702 CFLBUS
+140701016 Ettelbruck, Gare      01617                       % 02702 CFLBUS
+*Z 02703 CFLBUS                                             % 02703 CFLBUS
+*L 501      170501016 140701023  00705  00756               % 02703 CFLBUS
+*A vm 170501016 140701023 000035  00705  00756              % 02703 CFLBUS
+*A xa 170501016 140701023 000035  00705  00756              % 02703 CFLBUS
+*A xb 170501016 140701023 000035  00705  00756              % 02703 CFLBUS
+*A ad 170501016 140701023 000035  00705  00756              % 02703 CFLBUS
+*R 1 140701023 170501016 140701023  00705  00756            % 02703 CFLBUS
+*G RGB 170501016 140701023  00705  00756                    % 02703 CFLBUS
+*A VE 170501016 140701023 000035  00705  00756              % 02703 CFLBUS
+*I FD 170501016 140701023        0002223  00705  00756      % 02703 CFLBUS
+170501016 Echternach, Gare Cen         00705                % 02703 CFLBUS
+170501007 Echternach, Fielsmil  00708  00708                % 02703 CFLBUS
+170304002 Weilerbach            00710  00710                % 02703 CFLBUS
+170304001 Weilerbach, Laufenwe  00711  00711                % 02703 CFLBUS
+170302002 Bollendorf-Pont, Ham  00712  00712                % 02703 CFLBUS
+170302003 Bollendorf, Pont      00713  00713                % 02703 CFLBUS
+170302001 Bollendorf, Gare      00714  00714                % 02703 CFLBUS
+170303001 Grundhof, Grondhaff   00716  00716                % 02703 CFLBUS
+170103001 Cloosbierg            00717  00717                % 02703 CFLBUS
+170102001 Dillingen Déiljen     00719  00719                % 02703 CFLBUS
+141205001 Hermeswis             00720  00720                % 02703 CFLBUS
+141204001 Wallendorf, Bei der   00723  00723                % 02703 CFLBUS
+141204002 Wallendorf, Cité      00724  00724                % 02703 CFLBUS
+141203001 Reisdorf, An der Ee   00725  00725                % 02703 CFLBUS
+141203002 Reisdorf, Bei der Ga  00726  00726                % 02703 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00726  00726                % 02703 CFLBUS
+140204001 Moestroff, An der Ga  00728  00728                % 02703 CFLBUS
+140204002 Moestroff, Bréck      00729  00729                % 02703 CFLBUS
+140204003 Moestroff, Wangerten  00730  00730                % 02703 CFLBUS
+140201003 Bettendorf, Schlass   00732  00732                % 02703 CFLBUS
+140201002 Bettendorf, Gemeng    00732  00732                % 02703 CFLBUS
+140201001 Bettendorf, Elick     00733  00733                % 02703 CFLBUS
+140202001 Bleesbréck            00735  00735                % 02703 CFLBUS
+140203001 Gilsdorf, An der Klé  00736  00736                % 02703 CFLBUS
+140203002 Gilsdorf, Schoul      00737  00737                % 02703 CFLBUS
+140401007 Diekirch, rue Merten  00739  00739                % 02703 CFLBUS
+140401011 Diekirch, Alexis Hec  00741  00741                % 02703 CFLBUS
+140401006 Diekirch, Kluuster    00742  00742                % 02703 CFLBUS
+140401004 Diekirch, Gare        00744  00744                % 02703 CFLBUS
+140401008 Diekirch, Lorentzwue  00746  00746                % 02703 CFLBUS
+140603003 Ingeldorf, Cité Long  00747  00747                % 02703 CFLBUS
+140603001 Ingeldorf, Bei der B  00749  00749                % 02703 CFLBUS
+140603004 Ingeldorf, Kiirchpla  00749  00749                % 02703 CFLBUS
+140602008 Erpeldange/Sûre, Um   00752  00752                % 02703 CFLBUS
+140701001 Ettelbruck, Anc. Cli  00755  00755                % 02703 CFLBUS
+140701023 Ettelbruck, Lycée Te  00756                       % 02703 CFLBUS
+*Z 02704 CFLBUS                                             % 02704 CFLBUS
+*L 501      141204001 140701023  01319  01350               % 02704 CFLBUS
+*A vm 141204001 140701023 000035  01319  01350              % 02704 CFLBUS
+*A ad 141204001 140701023 000035  01319  01350              % 02704 CFLBUS
+*R 1 140701023 141204001 140701023  01319  01350            % 02704 CFLBUS
+*G RGB 141204001 140701023  01319  01350                    % 02704 CFLBUS
+*A VE 141204001 140701023 000035  01319  01350              % 02704 CFLBUS
+*I FD 141204001 140701023        0001967  01319  01350      % 02704 CFLBUS
+141204001 Wallendorf, Bei der          01319                % 02704 CFLBUS
+141204002 Wallendorf, Cité      01320  01320                % 02704 CFLBUS
+141203001 Reisdorf, An der Ee   01321  01321                % 02704 CFLBUS
+141203002 Reisdorf, Bei der Ga  01322  01322                % 02704 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01322  01322                % 02704 CFLBUS
+140204001 Moestroff, An der Ga  01324  01324                % 02704 CFLBUS
+140204002 Moestroff, Bréck      01325  01325                % 02704 CFLBUS
+140204003 Moestroff, Wangerten  01326  01326                % 02704 CFLBUS
+140201003 Bettendorf, Schlass   01327  01327                % 02704 CFLBUS
+140201002 Bettendorf, Gemeng    01328  01328                % 02704 CFLBUS
+140201001 Bettendorf, Elick     01329  01329                % 02704 CFLBUS
+140202001 Bleesbréck            01331  01331                % 02704 CFLBUS
+140203001 Gilsdorf, An der Klé  01332  01332                % 02704 CFLBUS
+140203002 Gilsdorf, Schoul      01333  01333                % 02704 CFLBUS
+140401007 Diekirch, rue Merten  01334  01334                % 02704 CFLBUS
+140401011 Diekirch, Alexis Hec  01336  01336                % 02704 CFLBUS
+140401006 Diekirch, Kluuster    01337  01337                % 02704 CFLBUS
+140401004 Diekirch, Gare        01339  01339                % 02704 CFLBUS
+140401008 Diekirch, Lorentzwue  01340  01340                % 02704 CFLBUS
+140603003 Ingeldorf, Cité Long  01341  01341                % 02704 CFLBUS
+140603001 Ingeldorf, Bei der B  01343  01343                % 02704 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01343  01343                % 02704 CFLBUS
+140602008 Erpeldange/Sûre, Um   01345  01345                % 02704 CFLBUS
+140701001 Ettelbruck, Anc. Cli  01348  01348                % 02704 CFLBUS
+140701023 Ettelbruck, Lycée Te  01350                       % 02704 CFLBUS
+*Z 02705 CFLBUS                                             % 02705 CFLBUS
+*L 501      140701023 170501016  01155  01241               % 02705 CFLBUS
+*A vm 140701023 170501016 000035  01155  01241              % 02705 CFLBUS
+*A xc 140701023 170501016 000035  01155  01241              % 02705 CFLBUS
+*A ad 140701023 170501016 000035  01155  01241              % 02705 CFLBUS
+*R 2 170501016 140701023 170501016  01155  01241            % 02705 CFLBUS
+*G RGB 140701023 170501016  01155  01241                    % 02705 CFLBUS
+*A VE 140701023 170501016 000035  01155  01241              % 02705 CFLBUS
+*I FD 140701023 170501016        0002603  01155  01241      % 02705 CFLBUS
+140701023 Ettelbruck, Lycée Te         01155                % 02705 CFLBUS
+140701024 Ettelbruck, Pensionn  01156  01156                % 02705 CFLBUS
+140701016 Ettelbruck, Gare      01158  01158                % 02705 CFLBUS
+140602008 Erpeldange/Sûre, Um   01200  01200                % 02705 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01201  01201                % 02705 CFLBUS
+140603001 Ingeldorf, Bei der B  01202  01202                % 02705 CFLBUS
+140603003 Ingeldorf, Cité Long  01203  01203                % 02705 CFLBUS
+140401008 Diekirch, Lorentzwue  01204  01204                % 02705 CFLBUS
+140401004 Diekirch, Gare        01205  01205                % 02705 CFLBUS
+140401001 Diekirch, Altersheem  01207  01207                % 02705 CFLBUS
+140401007 Diekirch, rue Merten  01208  01208                % 02705 CFLBUS
+140203002 Gilsdorf, Schoul      01210  01210                % 02705 CFLBUS
+140203001 Gilsdorf, An der Klé  01211  01211                % 02705 CFLBUS
+140202001 Bleesbréck            01212  01212                % 02705 CFLBUS
+140201001 Bettendorf, Elick     01214  01214                % 02705 CFLBUS
+140201002 Bettendorf, Gemeng    01214  01214                % 02705 CFLBUS
+140201003 Bettendorf, Schlass   01215  01215                % 02705 CFLBUS
+140204003 Moestroff, Wangerten  01217  01217                % 02705 CFLBUS
+140204002 Moestroff, Bréck      01217  01217                % 02705 CFLBUS
+140204001 Moestroff, An der Ga  01218  01218                % 02705 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01219  01219                % 02705 CFLBUS
+141203002 Reisdorf, Bei der Ga  01220  01220                % 02705 CFLBUS
+141203001 Reisdorf, An der Ee   01221  01221                % 02705 CFLBUS
+141204002 Wallendorf, Cité      01222  01222                % 02705 CFLBUS
+141204001 Wallendorf, Bei der   01223  01223                % 02705 CFLBUS
+141205001 Hermeswis             01226  01226                % 02705 CFLBUS
+170102001 Dillingen Déiljen     01227  01227                % 02705 CFLBUS
+170103001 Cloosbierg            01228  01228                % 02705 CFLBUS
+170303001 Grundhof, Grondhaff   01230  01230                % 02705 CFLBUS
+170302001 Bollendorf, Gare      01232  01232                % 02705 CFLBUS
+170302003 Bollendorf, Pont      01233  01233                % 02705 CFLBUS
+170302002 Bollendorf-Pont, Ham  01234  01234                % 02705 CFLBUS
+170304001 Weilerbach, Laufenwe  01235  01235                % 02705 CFLBUS
+170304002 Weilerbach            01236  01236                % 02705 CFLBUS
+170501007 Echternach, Fielsmil  01238  01238                % 02705 CFLBUS
+170501016 Echternach, Gare Cen  01241                       % 02705 CFLBUS
+*Z 02706 CFLBUS                                             % 02706 CFLBUS
+*L 501      140701023 170501016  01410  01456               % 02706 CFLBUS
+*A vm 140701023 170501016 000035  01410  01456              % 02706 CFLBUS
+*A vn 140701023 170501016 000035  01410  01456              % 02706 CFLBUS
+*A xc 140701023 170501016 000035  01410  01456              % 02706 CFLBUS
+*A ad 140701023 170501016 000035  01410  01456              % 02706 CFLBUS
+*R 2 170501016 140701023 170501016  01410  01456            % 02706 CFLBUS
+*G RGB 140701023 170501016  01410  01456                    % 02706 CFLBUS
+*A VE 140701023 170501016 000035  01410  01456              % 02706 CFLBUS
+*I FD 140701023 170501016        0001889  01410  01456      % 02706 CFLBUS
+140701023 Ettelbruck, Lycée Te         01410                % 02706 CFLBUS
+140701024 Ettelbruck, Pensionn  01411  01411                % 02706 CFLBUS
+140701016 Ettelbruck, Gare      01413  01413                % 02706 CFLBUS
+140602008 Erpeldange/Sûre, Um   01415  01415                % 02706 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01416  01416                % 02706 CFLBUS
+140603001 Ingeldorf, Bei der B  01417  01417                % 02706 CFLBUS
+140603003 Ingeldorf, Cité Long  01418  01418                % 02706 CFLBUS
+140401008 Diekirch, Lorentzwue  01419  01419                % 02706 CFLBUS
+140401004 Diekirch, Gare        01420  01420                % 02706 CFLBUS
+140401001 Diekirch, Altersheem  01422  01422                % 02706 CFLBUS
+140401007 Diekirch, rue Merten  01423  01423                % 02706 CFLBUS
+140203002 Gilsdorf, Schoul      01425  01425                % 02706 CFLBUS
+140203001 Gilsdorf, An der Klé  01426  01426                % 02706 CFLBUS
+140202001 Bleesbréck            01427  01427                % 02706 CFLBUS
+140201001 Bettendorf, Elick     01429  01429                % 02706 CFLBUS
+140201002 Bettendorf, Gemeng    01429  01429                % 02706 CFLBUS
+140201003 Bettendorf, Schlass   01430  01430                % 02706 CFLBUS
+140204003 Moestroff, Wangerten  01432  01432                % 02706 CFLBUS
+140204002 Moestroff, Bréck      01432  01432                % 02706 CFLBUS
+140204001 Moestroff, An der Ga  01433  01433                % 02706 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01434  01434                % 02706 CFLBUS
+141203002 Reisdorf, Bei der Ga  01435  01435                % 02706 CFLBUS
+141203001 Reisdorf, An der Ee   01436  01436                % 02706 CFLBUS
+141204002 Wallendorf, Cité      01437  01437                % 02706 CFLBUS
+141204001 Wallendorf, Bei der   01438  01438                % 02706 CFLBUS
+141205001 Hermeswis             01441  01441                % 02706 CFLBUS
+170102001 Dillingen Déiljen     01442  01442                % 02706 CFLBUS
+170103001 Cloosbierg            01443  01443                % 02706 CFLBUS
+170303001 Grundhof, Grondhaff   01445  01445                % 02706 CFLBUS
+170302001 Bollendorf, Gare      01447  01447                % 02706 CFLBUS
+170302003 Bollendorf, Pont      01448  01448                % 02706 CFLBUS
+170302002 Bollendorf-Pont, Ham  01449  01449                % 02706 CFLBUS
+170304001 Weilerbach, Laufenwe  01450  01450                % 02706 CFLBUS
+170304002 Weilerbach            01451  01451                % 02706 CFLBUS
+170501007 Echternach, Fielsmil  01453  01453                % 02706 CFLBUS
+170501016 Echternach, Gare Cen  01456                       % 02706 CFLBUS
+*Z 02707 CFLBUS                                             % 02707 CFLBUS
+*L 501      140701023 170501016  01505  01551               % 02707 CFLBUS
+*A vm 140701023 170501016 000035  01505  01551              % 02707 CFLBUS
+*A ad 140701023 170501016 000035  01505  01551              % 02707 CFLBUS
+*R 2 170501016 140701023 170501016  01505  01551            % 02707 CFLBUS
+*G RGB 140701023 170501016  01505  01551                    % 02707 CFLBUS
+*A VE 140701023 170501016 000035  01505  01551              % 02707 CFLBUS
+*I FD 140701023 170501016        0002111  01505  01551      % 02707 CFLBUS
+140701023 Ettelbruck, Lycée Te         01505                % 02707 CFLBUS
+140701024 Ettelbruck, Pensionn  01506  01506                % 02707 CFLBUS
+140701016 Ettelbruck, Gare      01508  01508                % 02707 CFLBUS
+140602008 Erpeldange/Sûre, Um   01510  01510                % 02707 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01511  01511                % 02707 CFLBUS
+140603001 Ingeldorf, Bei der B  01512  01512                % 02707 CFLBUS
+140603003 Ingeldorf, Cité Long  01513  01513                % 02707 CFLBUS
+140401008 Diekirch, Lorentzwue  01514  01514                % 02707 CFLBUS
+140401004 Diekirch, Gare        01515  01515                % 02707 CFLBUS
+140401001 Diekirch, Altersheem  01517  01517                % 02707 CFLBUS
+140401007 Diekirch, rue Merten  01518  01518                % 02707 CFLBUS
+140203002 Gilsdorf, Schoul      01520  01520                % 02707 CFLBUS
+140203001 Gilsdorf, An der Klé  01521  01521                % 02707 CFLBUS
+140202001 Bleesbréck            01522  01522                % 02707 CFLBUS
+140201001 Bettendorf, Elick     01524  01524                % 02707 CFLBUS
+140201002 Bettendorf, Gemeng    01524  01524                % 02707 CFLBUS
+140201003 Bettendorf, Schlass   01525  01525                % 02707 CFLBUS
+140204003 Moestroff, Wangerten  01527  01527                % 02707 CFLBUS
+140204002 Moestroff, Bréck      01527  01527                % 02707 CFLBUS
+140204001 Moestroff, An der Ga  01528  01528                % 02707 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01529  01529                % 02707 CFLBUS
+141203002 Reisdorf, Bei der Ga  01530  01530                % 02707 CFLBUS
+141203001 Reisdorf, An der Ee   01531  01531                % 02707 CFLBUS
+141204002 Wallendorf, Cité      01532  01532                % 02707 CFLBUS
+141204001 Wallendorf, Bei der   01533  01533                % 02707 CFLBUS
+141205001 Hermeswis             01536  01536                % 02707 CFLBUS
+170102001 Dillingen Déiljen     01537  01537                % 02707 CFLBUS
+170103001 Cloosbierg            01538  01538                % 02707 CFLBUS
+170303001 Grundhof, Grondhaff   01540  01540                % 02707 CFLBUS
+170302001 Bollendorf, Gare      01542  01542                % 02707 CFLBUS
+170302003 Bollendorf, Pont      01543  01543                % 02707 CFLBUS
+170302002 Bollendorf-Pont, Ham  01544  01544                % 02707 CFLBUS
+170304001 Weilerbach, Laufenwe  01545  01545                % 02707 CFLBUS
+170304002 Weilerbach            01546  01546                % 02707 CFLBUS
+170501007 Echternach, Fielsmil  01548  01548                % 02707 CFLBUS
+170501016 Echternach, Gare Cen  01551                       % 02707 CFLBUS
+*Z 02708 CFLBUS                                             % 02708 CFLBUS
+*L 501      140401004 170501016  01445  01520               % 02708 CFLBUS
+*A vm 140401004 170501016 000035  01445  01520              % 02708 CFLBUS
+*A xd 140401004 170501016 000035  01445  01520              % 02708 CFLBUS
+*A ad 140401004 170501016 000035  01445  01520              % 02708 CFLBUS
+*R 2 170501016 140401004 170501016  01445  01520            % 02708 CFLBUS
+*G RGB 140401004 170501016  01445  01520                    % 02708 CFLBUS
+*A VE 140401004 170501016 000035  01445  01520              % 02708 CFLBUS
+*I FD 140401004 170501016        0002586  01445  01520      % 02708 CFLBUS
+140401004 Diekirch, Gare               01445                % 02708 CFLBUS
+140401001 Diekirch, Altersheem  01446  01446                % 02708 CFLBUS
+140401007 Diekirch, rue Merten  01448  01448                % 02708 CFLBUS
+140203002 Gilsdorf, Schoul      01449  01449                % 02708 CFLBUS
+140203001 Gilsdorf, An der Klé  01451  01451                % 02708 CFLBUS
+140202001 Bleesbréck            01451  01451                % 02708 CFLBUS
+140201001 Bettendorf, Elick     01453  01453                % 02708 CFLBUS
+140201002 Bettendorf, Gemeng    01454  01454                % 02708 CFLBUS
+140201003 Bettendorf, Schlass   01454  01454                % 02708 CFLBUS
+140204003 Moestroff, Wangerten  01456  01456                % 02708 CFLBUS
+140204002 Moestroff, Bréck      01456  01456                % 02708 CFLBUS
+140204001 Moestroff, An der Ga  01457  01457                % 02708 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01459  01459                % 02708 CFLBUS
+141203002 Reisdorf, Bei der Ga  01459  01459                % 02708 CFLBUS
+141203001 Reisdorf, An der Ee   01500  01500                % 02708 CFLBUS
+141204002 Wallendorf, Cité      01502  01502                % 02708 CFLBUS
+141204001 Wallendorf, Bei der   01503  01503                % 02708 CFLBUS
+141205001 Hermeswis             01505  01505                % 02708 CFLBUS
+170102001 Dillingen Déiljen     01507  01507                % 02708 CFLBUS
+170103001 Cloosbierg            01508  01508                % 02708 CFLBUS
+170303001 Grundhof, Grondhaff   01509  01509                % 02708 CFLBUS
+170302001 Bollendorf, Gare      01511  01511                % 02708 CFLBUS
+170302003 Bollendorf, Pont      01512  01512                % 02708 CFLBUS
+170302002 Bollendorf-Pont, Ham  01513  01513                % 02708 CFLBUS
+170304001 Weilerbach, Laufenwe  01514  01514                % 02708 CFLBUS
+170304002 Weilerbach            01515  01515                % 02708 CFLBUS
+170501007 Echternach, Fielsmil  01517  01517                % 02708 CFLBUS
+170501016 Echternach, Gare Cen  01520                       % 02708 CFLBUS
+*Z 02709 CFLBUS                                             % 02709 CFLBUS
+*L 501      140701023 170501016  01600  01649               % 02709 CFLBUS
+*A vm 140701023 170501016 000215  01600  01649              % 02709 CFLBUS
+*A xc 140701023 170501016 000215  01600  01649              % 02709 CFLBUS
+*A ad 140701023 170501016 000215  01600  01649              % 02709 CFLBUS
+*R 2 170501016 140701023 170501016  01600  01649            % 02709 CFLBUS
+*G RGB 140701023 170501016  01600  01649                    % 02709 CFLBUS
+*A VE 140701023 170501016 000215  01600  01649              % 02709 CFLBUS
+*I FD 140701023 170501016        0002236  01600  01649      % 02709 CFLBUS
+140701023 Ettelbruck, Lycée Te         01600                % 02709 CFLBUS
+140701024 Ettelbruck, Pensionn  01601  01601                % 02709 CFLBUS
+140701016 Ettelbruck, Gare      01603  01603                % 02709 CFLBUS
+140602008 Erpeldange/Sûre, Um   01605  01605                % 02709 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01607  01607                % 02709 CFLBUS
+140603001 Ingeldorf, Bei der B  01607  01607                % 02709 CFLBUS
+140603003 Ingeldorf, Cité Long  01609  01609                % 02709 CFLBUS
+140401008 Diekirch, Lorentzwue  01610  01610                % 02709 CFLBUS
+140401004 Diekirch, Gare        01611  01611                % 02709 CFLBUS
+140401001 Diekirch, Altersheem  01613  01613                % 02709 CFLBUS
+140401007 Diekirch, rue Merten  01615  01615                % 02709 CFLBUS
+140203002 Gilsdorf, Schoul      01616  01616                % 02709 CFLBUS
+140203001 Gilsdorf, An der Klé  01618  01618                % 02709 CFLBUS
+140202001 Bleesbréck            01619  01619                % 02709 CFLBUS
+140201001 Bettendorf, Elick     01620  01620                % 02709 CFLBUS
+140201002 Bettendorf, Gemeng    01621  01621                % 02709 CFLBUS
+140201003 Bettendorf, Schlass   01621  01621                % 02709 CFLBUS
+140204003 Moestroff, Wangerten  01623  01623                % 02709 CFLBUS
+140204002 Moestroff, Bréck      01623  01623                % 02709 CFLBUS
+140204001 Moestroff, An der Ga  01624  01624                % 02709 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01626  01626                % 02709 CFLBUS
+141203002 Reisdorf, Bei der Ga  01627  01627                % 02709 CFLBUS
+141203001 Reisdorf, An der Ee   01627  01627                % 02709 CFLBUS
+141204002 Wallendorf, Cité      01629  01629                % 02709 CFLBUS
+141204001 Wallendorf, Bei der   01630  01630                % 02709 CFLBUS
+141205001 Hermeswis             01633  01633                % 02709 CFLBUS
+170102001 Dillingen Déiljen     01634  01634                % 02709 CFLBUS
+170103001 Cloosbierg            01635  01635                % 02709 CFLBUS
+170303001 Grundhof, Grondhaff   01636  01636                % 02709 CFLBUS
+170302001 Bollendorf, Gare      01639  01639                % 02709 CFLBUS
+170302003 Bollendorf, Pont      01640  01640                % 02709 CFLBUS
+170302002 Bollendorf-Pont, Ham  01641  01641                % 02709 CFLBUS
+170304001 Weilerbach, Laufenwe  01642  01642                % 02709 CFLBUS
+170304002 Weilerbach            01643  01643                % 02709 CFLBUS
+170501007 Echternach, Fielsmil  01645  01645                % 02709 CFLBUS
+170501016 Echternach, Gare Cen  01649                       % 02709 CFLBUS
+*Z 02710 CFLBUS                                             % 02710 CFLBUS
+*L 501      140202001 170501016  00714  00744               % 02710 CFLBUS
+*A vm 140202001 170501016 000035  00714  00744              % 02710 CFLBUS
+*A xe 140202001 170501016 000035  00714  00744              % 02710 CFLBUS
+*A ad 140202001 170501016 000035  00714  00744              % 02710 CFLBUS
+*R 2 170501016 140202001 170501016  00714  00744            % 02710 CFLBUS
+*G RGB 140202001 170501016  00714  00744                    % 02710 CFLBUS
+*A VE 140202001 170501016 000035  00714  00744              % 02710 CFLBUS
+*I FD 140202001 170501016        0003769  00714  00744      % 02710 CFLBUS
+140202001 Bleesbréck                   00714                % 02710 CFLBUS
+140201001 Bettendorf, Elick     00715  00715                % 02710 CFLBUS
+140201002 Bettendorf, Gemeng    00716  00716                % 02710 CFLBUS
+140201003 Bettendorf, Schlass   00716  00716                % 02710 CFLBUS
+140204003 Moestroff, Wangerten  00718  00718                % 02710 CFLBUS
+140204002 Moestroff, Bréck      00718  00718                % 02710 CFLBUS
+140204001 Moestroff, An der Ga  00719  00719                % 02710 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00721  00721                % 02710 CFLBUS
+141203002 Reisdorf, Bei der Ga  00722  00722                % 02710 CFLBUS
+141203001 Reisdorf, An der Ee   00722  00722                % 02710 CFLBUS
+141204002 Wallendorf, Cité      00724  00724                % 02710 CFLBUS
+141204001 Wallendorf, Bei der   00725  00725                % 02710 CFLBUS
+141205001 Hermeswis             00728  00728                % 02710 CFLBUS
+170102001 Dillingen Déiljen     00729  00729                % 02710 CFLBUS
+170103001 Cloosbierg            00730  00730                % 02710 CFLBUS
+170303001 Grundhof, Grondhaff   00731  00731                % 02710 CFLBUS
+170302001 Bollendorf, Gare      00734  00734                % 02710 CFLBUS
+170302003 Bollendorf, Pont      00735  00735                % 02710 CFLBUS
+170302002 Bollendorf-Pont, Ham  00736  00736                % 02710 CFLBUS
+170304001 Weilerbach, Laufenwe  00737  00737                % 02710 CFLBUS
+170304002 Weilerbach            00738  00738                % 02710 CFLBUS
+170501007 Echternach, Fielsmil  00740  00740                % 02710 CFLBUS
+170501016 Echternach, Gare Cen  00744                       % 02710 CFLBUS
+*Z 02711 CFLBUS                                             % 02711 CFLBUS
+*L 501      141204001 140701023  01319  01350               % 02711 CFLBUS
+*A bi 141204001 140701023 000034  01319  01350              % 02711 CFLBUS
+*A vm 141204001 140701023 000034  01319  01350              % 02711 CFLBUS
+*A ad 141204001 140701023 000034  01319  01350              % 02711 CFLBUS
+*R 1 140701023 141204001 140701023  01319  01350            % 02711 CFLBUS
+*G RGB 141204001 140701023  01319  01350                    % 02711 CFLBUS
+*A VE 141204001 140701023 000034  01319  01350              % 02711 CFLBUS
+*I FD 141204001 140701023        0001967  01319  01350      % 02711 CFLBUS
+141204001 Wallendorf, Bei der          01319                % 02711 CFLBUS
+141204002 Wallendorf, Cité      01320  01320                % 02711 CFLBUS
+141203001 Reisdorf, An der Ee   01321  01321                % 02711 CFLBUS
+141203002 Reisdorf, Bei der Ga  01322  01322                % 02711 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01322  01322                % 02711 CFLBUS
+140204001 Moestroff, An der Ga  01324  01324                % 02711 CFLBUS
+140204002 Moestroff, Bréck      01325  01325                % 02711 CFLBUS
+140204003 Moestroff, Wangerten  01326  01326                % 02711 CFLBUS
+140201003 Bettendorf, Schlass   01327  01327                % 02711 CFLBUS
+140201002 Bettendorf, Gemeng    01328  01328                % 02711 CFLBUS
+140201001 Bettendorf, Elick     01329  01329                % 02711 CFLBUS
+140202001 Bleesbréck            01331  01331                % 02711 CFLBUS
+140203001 Gilsdorf, An der Klé  01332  01332                % 02711 CFLBUS
+140203002 Gilsdorf, Schoul      01333  01333                % 02711 CFLBUS
+140401007 Diekirch, rue Merten  01334  01334                % 02711 CFLBUS
+140401011 Diekirch, Alexis Hec  01336  01336                % 02711 CFLBUS
+140401006 Diekirch, Kluuster    01337  01337                % 02711 CFLBUS
+140401004 Diekirch, Gare        01339  01339                % 02711 CFLBUS
+140401008 Diekirch, Lorentzwue  01340  01340                % 02711 CFLBUS
+140603003 Ingeldorf, Cité Long  01341  01341                % 02711 CFLBUS
+140603001 Ingeldorf, Bei der B  01343  01343                % 02711 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01343  01343                % 02711 CFLBUS
+140602008 Erpeldange/Sûre, Um   01345  01345                % 02711 CFLBUS
+140701001 Ettelbruck, Anc. Cli  01348  01348                % 02711 CFLBUS
+140701023 Ettelbruck, Lycée Te  01350                       % 02711 CFLBUS
+*Z 02712 CFLBUS                                             % 02712 CFLBUS
+*L 501      170501016 140701023  00705  00756               % 02712 CFLBUS
+*A bi 170501016 140701023 000034  00705  00756              % 02712 CFLBUS
+*A vm 170501016 140701023 000034  00705  00756              % 02712 CFLBUS
+*A xa 170501016 140701023 000034  00705  00756              % 02712 CFLBUS
+*A xb 170501016 140701023 000034  00705  00756              % 02712 CFLBUS
+*A ad 170501016 140701023 000034  00705  00756              % 02712 CFLBUS
+*R 1 140701023 170501016 140701023  00705  00756            % 02712 CFLBUS
+*G RGB 170501016 140701023  00705  00756                    % 02712 CFLBUS
+*A VE 170501016 140701023 000034  00705  00756              % 02712 CFLBUS
+*I FD 170501016 140701023        0002223  00705  00756      % 02712 CFLBUS
+170501016 Echternach, Gare Cen         00705                % 02712 CFLBUS
+170501007 Echternach, Fielsmil  00708  00708                % 02712 CFLBUS
+170304002 Weilerbach            00710  00710                % 02712 CFLBUS
+170304001 Weilerbach, Laufenwe  00711  00711                % 02712 CFLBUS
+170302002 Bollendorf-Pont, Ham  00712  00712                % 02712 CFLBUS
+170302003 Bollendorf, Pont      00713  00713                % 02712 CFLBUS
+170302001 Bollendorf, Gare      00714  00714                % 02712 CFLBUS
+170303001 Grundhof, Grondhaff   00716  00716                % 02712 CFLBUS
+170103001 Cloosbierg            00717  00717                % 02712 CFLBUS
+170102001 Dillingen Déiljen     00719  00719                % 02712 CFLBUS
+141205001 Hermeswis             00720  00720                % 02712 CFLBUS
+141204001 Wallendorf, Bei der   00723  00723                % 02712 CFLBUS
+141204002 Wallendorf, Cité      00724  00724                % 02712 CFLBUS
+141203001 Reisdorf, An der Ee   00725  00725                % 02712 CFLBUS
+141203002 Reisdorf, Bei der Ga  00726  00726                % 02712 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00726  00726                % 02712 CFLBUS
+140204001 Moestroff, An der Ga  00728  00728                % 02712 CFLBUS
+140204002 Moestroff, Bréck      00729  00729                % 02712 CFLBUS
+140204003 Moestroff, Wangerten  00730  00730                % 02712 CFLBUS
+140201003 Bettendorf, Schlass   00732  00732                % 02712 CFLBUS
+140201002 Bettendorf, Gemeng    00732  00732                % 02712 CFLBUS
+140201001 Bettendorf, Elick     00733  00733                % 02712 CFLBUS
+140202001 Bleesbréck            00735  00735                % 02712 CFLBUS
+140203001 Gilsdorf, An der Klé  00736  00736                % 02712 CFLBUS
+140203002 Gilsdorf, Schoul      00737  00737                % 02712 CFLBUS
+140401007 Diekirch, rue Merten  00739  00739                % 02712 CFLBUS
+140401011 Diekirch, Alexis Hec  00741  00741                % 02712 CFLBUS
+140401006 Diekirch, Kluuster    00742  00742                % 02712 CFLBUS
+140401004 Diekirch, Gare        00744  00744                % 02712 CFLBUS
+140401008 Diekirch, Lorentzwue  00746  00746                % 02712 CFLBUS
+140603003 Ingeldorf, Cité Long  00747  00747                % 02712 CFLBUS
+140603001 Ingeldorf, Bei der B  00749  00749                % 02712 CFLBUS
+140603004 Ingeldorf, Kiirchpla  00749  00749                % 02712 CFLBUS
+140602008 Erpeldange/Sûre, Um   00752  00752                % 02712 CFLBUS
+140701001 Ettelbruck, Anc. Cli  00755  00755                % 02712 CFLBUS
+140701023 Ettelbruck, Lycée Te  00756                       % 02712 CFLBUS
+*Z 02713 CFLBUS                                             % 02713 CFLBUS
+*L 501      170501016 140701016  01440  01527               % 02713 CFLBUS
+*A vm 170501016 140701016 000034  01440  01527              % 02713 CFLBUS
+*A wz 170501016 140701016 000034  01440  01527              % 02713 CFLBUS
+*A ad 170501016 140701016 000034  01440  01527              % 02713 CFLBUS
+*R 1 140701016 170501016 140701016  01440  01527            % 02713 CFLBUS
+*G RGB 170501016 140701016  01440  01527                    % 02713 CFLBUS
+*A VE 170501016 140701016 000034  01440  01527              % 02713 CFLBUS
+*I FD 170501016 140701016        0001971  01440  01527      % 02713 CFLBUS
+170501016 Echternach, Gare Cen         01440                % 02713 CFLBUS
+170501007 Echternach, Fielsmil  01443  01443                % 02713 CFLBUS
+170304002 Weilerbach            01445  01445                % 02713 CFLBUS
+170304001 Weilerbach, Laufenwe  01446  01446                % 02713 CFLBUS
+170302002 Bollendorf-Pont, Ham  01446  01446                % 02713 CFLBUS
+170302003 Bollendorf, Pont      01447  01447                % 02713 CFLBUS
+170302001 Bollendorf, Gare      01448  01448                % 02713 CFLBUS
+170303001 Grundhof, Grondhaff   01450  01450                % 02713 CFLBUS
+170103001 Cloosbierg            01452  01452                % 02713 CFLBUS
+170102001 Dillingen Déiljen     01453  01453                % 02713 CFLBUS
+141205001 Hermeswis             01454  01454                % 02713 CFLBUS
+141204001 Wallendorf, Bei der   01456  01456                % 02713 CFLBUS
+141204002 Wallendorf, Cité      01458  01458                % 02713 CFLBUS
+141203001 Reisdorf, An der Ee   01459  01459                % 02713 CFLBUS
+141203002 Reisdorf, Bei der Ga  01500  01500                % 02713 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01500  01500                % 02713 CFLBUS
+140204001 Moestroff, An der Ga  01502  01502                % 02713 CFLBUS
+140204002 Moestroff, Bréck      01503  01503                % 02713 CFLBUS
+140204003 Moestroff, Wangerten  01503  01503                % 02713 CFLBUS
+140201003 Bettendorf, Schlass   01505  01505                % 02713 CFLBUS
+140201002 Bettendorf, Gemeng    01506  01506                % 02713 CFLBUS
+140201001 Bettendorf, Elick     01506  01506                % 02713 CFLBUS
+140202001 Bleesbréck            01509  01509                % 02713 CFLBUS
+140203001 Gilsdorf, An der Klé  01509  01509                % 02713 CFLBUS
+140203002 Gilsdorf, Schoul      01510  01510                % 02713 CFLBUS
+140401007 Diekirch, rue Merten  01512  01512                % 02713 CFLBUS
+140401011 Diekirch, Alexis Hec  01514  01514                % 02713 CFLBUS
+140401006 Diekirch, Kluuster    01515  01515                % 02713 CFLBUS
+140401004 Diekirch, Gare        01517  01517                % 02713 CFLBUS
+140401008 Diekirch, Lorentzwue  01518  01518                % 02713 CFLBUS
+140603003 Ingeldorf, Cité Long  01519  01519                % 02713 CFLBUS
+140603001 Ingeldorf, Bei der B  01521  01521                % 02713 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01521  01521                % 02713 CFLBUS
+140602008 Erpeldange/Sûre, Um   01523  01523                % 02713 CFLBUS
+140701024 Ettelbruck, Pensionn  01526  01526                % 02713 CFLBUS
+140701016 Ettelbruck, Gare      01527                       % 02713 CFLBUS
+*Z 02714 CFLBUS                                             % 02714 CFLBUS
+*L 501      170501016 140701016  01530  01617               % 02714 CFLBUS
+*A vm 170501016 140701016 000034  01530  01617              % 02714 CFLBUS
+*A ad 170501016 140701016 000034  01530  01617              % 02714 CFLBUS
+*R 1 140701016 170501016 140701016  01530  01617            % 02714 CFLBUS
+*G RGB 170501016 140701016  01530  01617                    % 02714 CFLBUS
+*A VE 170501016 140701016 000034  01530  01617              % 02714 CFLBUS
+*I FD 170501016 140701016        0002764  01530  01617      % 02714 CFLBUS
+170501016 Echternach, Gare Cen         01530                % 02714 CFLBUS
+170501007 Echternach, Fielsmil  01533  01533                % 02714 CFLBUS
+170304002 Weilerbach            01535  01535                % 02714 CFLBUS
+170304001 Weilerbach, Laufenwe  01536  01536                % 02714 CFLBUS
+170302002 Bollendorf-Pont, Ham  01536  01536                % 02714 CFLBUS
+170302003 Bollendorf, Pont      01537  01537                % 02714 CFLBUS
+170302001 Bollendorf, Gare      01538  01538                % 02714 CFLBUS
+170303001 Grundhof, Grondhaff   01540  01540                % 02714 CFLBUS
+170103001 Cloosbierg            01542  01542                % 02714 CFLBUS
+170102001 Dillingen Déiljen     01543  01543                % 02714 CFLBUS
+141205001 Hermeswis             01544  01544                % 02714 CFLBUS
+141204001 Wallendorf, Bei der   01546  01546                % 02714 CFLBUS
+141204002 Wallendorf, Cité      01548  01548                % 02714 CFLBUS
+141203001 Reisdorf, An der Ee   01549  01549                % 02714 CFLBUS
+141203002 Reisdorf, Bei der Ga  01550  01550                % 02714 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01550  01550                % 02714 CFLBUS
+140204001 Moestroff, An der Ga  01552  01552                % 02714 CFLBUS
+140204002 Moestroff, Bréck      01553  01553                % 02714 CFLBUS
+140204003 Moestroff, Wangerten  01553  01553                % 02714 CFLBUS
+140201003 Bettendorf, Schlass   01555  01555                % 02714 CFLBUS
+140201002 Bettendorf, Gemeng    01556  01556                % 02714 CFLBUS
+140201001 Bettendorf, Elick     01556  01556                % 02714 CFLBUS
+140202001 Bleesbréck            01559  01559                % 02714 CFLBUS
+140203001 Gilsdorf, An der Klé  01559  01559                % 02714 CFLBUS
+140203002 Gilsdorf, Schoul      01600  01600                % 02714 CFLBUS
+140401007 Diekirch, rue Merten  01602  01602                % 02714 CFLBUS
+140401011 Diekirch, Alexis Hec  01604  01604                % 02714 CFLBUS
+140401006 Diekirch, Kluuster    01605  01605                % 02714 CFLBUS
+140401004 Diekirch, Gare        01607  01607                % 02714 CFLBUS
+140401008 Diekirch, Lorentzwue  01608  01608                % 02714 CFLBUS
+140603003 Ingeldorf, Cité Long  01609  01609                % 02714 CFLBUS
+140603001 Ingeldorf, Bei der B  01611  01611                % 02714 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01611  01611                % 02714 CFLBUS
+140602008 Erpeldange/Sûre, Um   01613  01613                % 02714 CFLBUS
+140701024 Ettelbruck, Pensionn  01616  01616                % 02714 CFLBUS
+140701016 Ettelbruck, Gare      01617                       % 02714 CFLBUS
+*Z 02715 CFLBUS                                             % 02715 CFLBUS
+*L 501      140701023 170501016  01600  01649               % 02715 CFLBUS
+*A bi 140701023 170501016 000216  01600  01649              % 02715 CFLBUS
+*A vm 140701023 170501016 000216  01600  01649              % 02715 CFLBUS
+*A xc 140701023 170501016 000216  01600  01649              % 02715 CFLBUS
+*A ad 140701023 170501016 000216  01600  01649              % 02715 CFLBUS
+*R 2 170501016 140701023 170501016  01600  01649            % 02715 CFLBUS
+*G RGB 140701023 170501016  01600  01649                    % 02715 CFLBUS
+*A VE 140701023 170501016 000216  01600  01649              % 02715 CFLBUS
+*I FD 140701023 170501016        0002236  01600  01649      % 02715 CFLBUS
+140701023 Ettelbruck, Lycée Te         01600                % 02715 CFLBUS
+140701024 Ettelbruck, Pensionn  01601  01601                % 02715 CFLBUS
+140701016 Ettelbruck, Gare      01603  01603                % 02715 CFLBUS
+140602008 Erpeldange/Sûre, Um   01605  01605                % 02715 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01607  01607                % 02715 CFLBUS
+140603001 Ingeldorf, Bei der B  01607  01607                % 02715 CFLBUS
+140603003 Ingeldorf, Cité Long  01609  01609                % 02715 CFLBUS
+140401008 Diekirch, Lorentzwue  01610  01610                % 02715 CFLBUS
+140401004 Diekirch, Gare        01611  01611                % 02715 CFLBUS
+140401001 Diekirch, Altersheem  01613  01613                % 02715 CFLBUS
+140401007 Diekirch, rue Merten  01615  01615                % 02715 CFLBUS
+140203002 Gilsdorf, Schoul      01616  01616                % 02715 CFLBUS
+140203001 Gilsdorf, An der Klé  01618  01618                % 02715 CFLBUS
+140202001 Bleesbréck            01619  01619                % 02715 CFLBUS
+140201001 Bettendorf, Elick     01620  01620                % 02715 CFLBUS
+140201002 Bettendorf, Gemeng    01621  01621                % 02715 CFLBUS
+140201003 Bettendorf, Schlass   01621  01621                % 02715 CFLBUS
+140204003 Moestroff, Wangerten  01623  01623                % 02715 CFLBUS
+140204002 Moestroff, Bréck      01623  01623                % 02715 CFLBUS
+140204001 Moestroff, An der Ga  01624  01624                % 02715 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01626  01626                % 02715 CFLBUS
+141203002 Reisdorf, Bei der Ga  01627  01627                % 02715 CFLBUS
+141203001 Reisdorf, An der Ee   01627  01627                % 02715 CFLBUS
+141204002 Wallendorf, Cité      01629  01629                % 02715 CFLBUS
+141204001 Wallendorf, Bei der   01630  01630                % 02715 CFLBUS
+141205001 Hermeswis             01633  01633                % 02715 CFLBUS
+170102001 Dillingen Déiljen     01634  01634                % 02715 CFLBUS
+170103001 Cloosbierg            01635  01635                % 02715 CFLBUS
+170303001 Grundhof, Grondhaff   01636  01636                % 02715 CFLBUS
+170302001 Bollendorf, Gare      01639  01639                % 02715 CFLBUS
+170302003 Bollendorf, Pont      01640  01640                % 02715 CFLBUS
+170302002 Bollendorf-Pont, Ham  01641  01641                % 02715 CFLBUS
+170304001 Weilerbach, Laufenwe  01642  01642                % 02715 CFLBUS
+170304002 Weilerbach            01643  01643                % 02715 CFLBUS
+170501007 Echternach, Fielsmil  01645  01645                % 02715 CFLBUS
+170501016 Echternach, Gare Cen  01649                       % 02715 CFLBUS
+*Z 02716 CFLBUS                                             % 02716 CFLBUS
+*L 501      140202001 170501016  00714  00744               % 02716 CFLBUS
+*A bi 140202001 170501016 000034  00714  00744              % 02716 CFLBUS
+*A vm 140202001 170501016 000034  00714  00744              % 02716 CFLBUS
+*A xe 140202001 170501016 000034  00714  00744              % 02716 CFLBUS
+*A ad 140202001 170501016 000034  00714  00744              % 02716 CFLBUS
+*R 2 170501016 140202001 170501016  00714  00744            % 02716 CFLBUS
+*G RGB 140202001 170501016  00714  00744                    % 02716 CFLBUS
+*A VE 140202001 170501016 000034  00714  00744              % 02716 CFLBUS
+*I FD 140202001 170501016        0003769  00714  00744      % 02716 CFLBUS
+140202001 Bleesbréck                   00714                % 02716 CFLBUS
+140201001 Bettendorf, Elick     00715  00715                % 02716 CFLBUS
+140201002 Bettendorf, Gemeng    00716  00716                % 02716 CFLBUS
+140201003 Bettendorf, Schlass   00716  00716                % 02716 CFLBUS
+140204003 Moestroff, Wangerten  00718  00718                % 02716 CFLBUS
+140204002 Moestroff, Bréck      00718  00718                % 02716 CFLBUS
+140204001 Moestroff, An der Ga  00719  00719                % 02716 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00721  00721                % 02716 CFLBUS
+141203002 Reisdorf, Bei der Ga  00722  00722                % 02716 CFLBUS
+141203001 Reisdorf, An der Ee   00722  00722                % 02716 CFLBUS
+141204002 Wallendorf, Cité      00724  00724                % 02716 CFLBUS
+141204001 Wallendorf, Bei der   00725  00725                % 02716 CFLBUS
+141205001 Hermeswis             00728  00728                % 02716 CFLBUS
+170102001 Dillingen Déiljen     00729  00729                % 02716 CFLBUS
+170103001 Cloosbierg            00730  00730                % 02716 CFLBUS
+170303001 Grundhof, Grondhaff   00731  00731                % 02716 CFLBUS
+170302001 Bollendorf, Gare      00734  00734                % 02716 CFLBUS
+170302003 Bollendorf, Pont      00735  00735                % 02716 CFLBUS
+170302002 Bollendorf-Pont, Ham  00736  00736                % 02716 CFLBUS
+170304001 Weilerbach, Laufenwe  00737  00737                % 02716 CFLBUS
+170304002 Weilerbach            00738  00738                % 02716 CFLBUS
+170501007 Echternach, Fielsmil  00740  00740                % 02716 CFLBUS
+170501016 Echternach, Gare Cen  00744                       % 02716 CFLBUS
+*Z 02717 CFLBUS                                             % 02717 CFLBUS
+*L 501      140701023 170501016  01155  01241               % 02717 CFLBUS
+*A bi 140701023 170501016 000034  01155  01241              % 02717 CFLBUS
+*A vm 140701023 170501016 000034  01155  01241              % 02717 CFLBUS
+*A xc 140701023 170501016 000034  01155  01241              % 02717 CFLBUS
+*A ad 140701023 170501016 000034  01155  01241              % 02717 CFLBUS
+*R 2 170501016 140701023 170501016  01155  01241            % 02717 CFLBUS
+*G RGB 140701023 170501016  01155  01241                    % 02717 CFLBUS
+*A VE 140701023 170501016 000034  01155  01241              % 02717 CFLBUS
+*I FD 140701023 170501016        0002603  01155  01241      % 02717 CFLBUS
+140701023 Ettelbruck, Lycée Te         01155                % 02717 CFLBUS
+140701024 Ettelbruck, Pensionn  01156  01156                % 02717 CFLBUS
+140701016 Ettelbruck, Gare      01158  01158                % 02717 CFLBUS
+140602008 Erpeldange/Sûre, Um   01200  01200                % 02717 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01201  01201                % 02717 CFLBUS
+140603001 Ingeldorf, Bei der B  01202  01202                % 02717 CFLBUS
+140603003 Ingeldorf, Cité Long  01203  01203                % 02717 CFLBUS
+140401008 Diekirch, Lorentzwue  01204  01204                % 02717 CFLBUS
+140401004 Diekirch, Gare        01205  01205                % 02717 CFLBUS
+140401001 Diekirch, Altersheem  01207  01207                % 02717 CFLBUS
+140401007 Diekirch, rue Merten  01208  01208                % 02717 CFLBUS
+140203002 Gilsdorf, Schoul      01210  01210                % 02717 CFLBUS
+140203001 Gilsdorf, An der Klé  01211  01211                % 02717 CFLBUS
+140202001 Bleesbréck            01212  01212                % 02717 CFLBUS
+140201001 Bettendorf, Elick     01214  01214                % 02717 CFLBUS
+140201002 Bettendorf, Gemeng    01214  01214                % 02717 CFLBUS
+140201003 Bettendorf, Schlass   01215  01215                % 02717 CFLBUS
+140204003 Moestroff, Wangerten  01217  01217                % 02717 CFLBUS
+140204002 Moestroff, Bréck      01217  01217                % 02717 CFLBUS
+140204001 Moestroff, An der Ga  01218  01218                % 02717 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01219  01219                % 02717 CFLBUS
+141203002 Reisdorf, Bei der Ga  01220  01220                % 02717 CFLBUS
+141203001 Reisdorf, An der Ee   01221  01221                % 02717 CFLBUS
+141204002 Wallendorf, Cité      01222  01222                % 02717 CFLBUS
+141204001 Wallendorf, Bei der   01223  01223                % 02717 CFLBUS
+141205001 Hermeswis             01226  01226                % 02717 CFLBUS
+170102001 Dillingen Déiljen     01227  01227                % 02717 CFLBUS
+170103001 Cloosbierg            01228  01228                % 02717 CFLBUS
+170303001 Grundhof, Grondhaff   01230  01230                % 02717 CFLBUS
+170302001 Bollendorf, Gare      01232  01232                % 02717 CFLBUS
+170302003 Bollendorf, Pont      01233  01233                % 02717 CFLBUS
+170302002 Bollendorf-Pont, Ham  01234  01234                % 02717 CFLBUS
+170304001 Weilerbach, Laufenwe  01235  01235                % 02717 CFLBUS
+170304002 Weilerbach            01236  01236                % 02717 CFLBUS
+170501007 Echternach, Fielsmil  01238  01238                % 02717 CFLBUS
+170501016 Echternach, Gare Cen  01241                       % 02717 CFLBUS
+*Z 02718 CFLBUS                                             % 02718 CFLBUS
+*L 501      140701023 170501016  01410  01456               % 02718 CFLBUS
+*A bi 140701023 170501016 000034  01410  01456              % 02718 CFLBUS
+*A vm 140701023 170501016 000034  01410  01456              % 02718 CFLBUS
+*A vn 140701023 170501016 000034  01410  01456              % 02718 CFLBUS
+*A xc 140701023 170501016 000034  01410  01456              % 02718 CFLBUS
+*A ad 140701023 170501016 000034  01410  01456              % 02718 CFLBUS
+*R 2 170501016 140701023 170501016  01410  01456            % 02718 CFLBUS
+*G RGB 140701023 170501016  01410  01456                    % 02718 CFLBUS
+*A VE 140701023 170501016 000034  01410  01456              % 02718 CFLBUS
+*I FD 140701023 170501016        0001889  01410  01456      % 02718 CFLBUS
+140701023 Ettelbruck, Lycée Te         01410                % 02718 CFLBUS
+140701024 Ettelbruck, Pensionn  01411  01411                % 02718 CFLBUS
+140701016 Ettelbruck, Gare      01413  01413                % 02718 CFLBUS
+140602008 Erpeldange/Sûre, Um   01415  01415                % 02718 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01416  01416                % 02718 CFLBUS
+140603001 Ingeldorf, Bei der B  01417  01417                % 02718 CFLBUS
+140603003 Ingeldorf, Cité Long  01418  01418                % 02718 CFLBUS
+140401008 Diekirch, Lorentzwue  01419  01419                % 02718 CFLBUS
+140401004 Diekirch, Gare        01420  01420                % 02718 CFLBUS
+140401001 Diekirch, Altersheem  01422  01422                % 02718 CFLBUS
+140401007 Diekirch, rue Merten  01423  01423                % 02718 CFLBUS
+140203002 Gilsdorf, Schoul      01425  01425                % 02718 CFLBUS
+140203001 Gilsdorf, An der Klé  01426  01426                % 02718 CFLBUS
+140202001 Bleesbréck            01427  01427                % 02718 CFLBUS
+140201001 Bettendorf, Elick     01429  01429                % 02718 CFLBUS
+140201002 Bettendorf, Gemeng    01429  01429                % 02718 CFLBUS
+140201003 Bettendorf, Schlass   01430  01430                % 02718 CFLBUS
+140204003 Moestroff, Wangerten  01432  01432                % 02718 CFLBUS
+140204002 Moestroff, Bréck      01432  01432                % 02718 CFLBUS
+140204001 Moestroff, An der Ga  01433  01433                % 02718 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01434  01434                % 02718 CFLBUS
+141203002 Reisdorf, Bei der Ga  01435  01435                % 02718 CFLBUS
+141203001 Reisdorf, An der Ee   01436  01436                % 02718 CFLBUS
+141204002 Wallendorf, Cité      01437  01437                % 02718 CFLBUS
+141204001 Wallendorf, Bei der   01438  01438                % 02718 CFLBUS
+141205001 Hermeswis             01441  01441                % 02718 CFLBUS
+170102001 Dillingen Déiljen     01442  01442                % 02718 CFLBUS
+170103001 Cloosbierg            01443  01443                % 02718 CFLBUS
+170303001 Grundhof, Grondhaff   01445  01445                % 02718 CFLBUS
+170302001 Bollendorf, Gare      01447  01447                % 02718 CFLBUS
+170302003 Bollendorf, Pont      01448  01448                % 02718 CFLBUS
+170302002 Bollendorf-Pont, Ham  01449  01449                % 02718 CFLBUS
+170304001 Weilerbach, Laufenwe  01450  01450                % 02718 CFLBUS
+170304002 Weilerbach            01451  01451                % 02718 CFLBUS
+170501007 Echternach, Fielsmil  01453  01453                % 02718 CFLBUS
+170501016 Echternach, Gare Cen  01456                       % 02718 CFLBUS
+*Z 02719 CFLBUS                                             % 02719 CFLBUS
+*L 501      140701023 170501016  01505  01551               % 02719 CFLBUS
+*A bi 140701023 170501016 000034  01505  01551              % 02719 CFLBUS
+*A vm 140701023 170501016 000034  01505  01551              % 02719 CFLBUS
+*A ad 140701023 170501016 000034  01505  01551              % 02719 CFLBUS
+*R 2 170501016 140701023 170501016  01505  01551            % 02719 CFLBUS
+*G RGB 140701023 170501016  01505  01551                    % 02719 CFLBUS
+*A VE 140701023 170501016 000034  01505  01551              % 02719 CFLBUS
+*I FD 140701023 170501016        0002111  01505  01551      % 02719 CFLBUS
+140701023 Ettelbruck, Lycée Te         01505                % 02719 CFLBUS
+140701024 Ettelbruck, Pensionn  01506  01506                % 02719 CFLBUS
+140701016 Ettelbruck, Gare      01508  01508                % 02719 CFLBUS
+140602008 Erpeldange/Sûre, Um   01510  01510                % 02719 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01511  01511                % 02719 CFLBUS
+140603001 Ingeldorf, Bei der B  01512  01512                % 02719 CFLBUS
+140603003 Ingeldorf, Cité Long  01513  01513                % 02719 CFLBUS
+140401008 Diekirch, Lorentzwue  01514  01514                % 02719 CFLBUS
+140401004 Diekirch, Gare        01515  01515                % 02719 CFLBUS
+140401001 Diekirch, Altersheem  01517  01517                % 02719 CFLBUS
+140401007 Diekirch, rue Merten  01518  01518                % 02719 CFLBUS
+140203002 Gilsdorf, Schoul      01520  01520                % 02719 CFLBUS
+140203001 Gilsdorf, An der Klé  01521  01521                % 02719 CFLBUS
+140202001 Bleesbréck            01522  01522                % 02719 CFLBUS
+140201001 Bettendorf, Elick     01524  01524                % 02719 CFLBUS
+140201002 Bettendorf, Gemeng    01524  01524                % 02719 CFLBUS
+140201003 Bettendorf, Schlass   01525  01525                % 02719 CFLBUS
+140204003 Moestroff, Wangerten  01527  01527                % 02719 CFLBUS
+140204002 Moestroff, Bréck      01527  01527                % 02719 CFLBUS
+140204001 Moestroff, An der Ga  01528  01528                % 02719 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01529  01529                % 02719 CFLBUS
+141203002 Reisdorf, Bei der Ga  01530  01530                % 02719 CFLBUS
+141203001 Reisdorf, An der Ee   01531  01531                % 02719 CFLBUS
+141204002 Wallendorf, Cité      01532  01532                % 02719 CFLBUS
+141204001 Wallendorf, Bei der   01533  01533                % 02719 CFLBUS
+141205001 Hermeswis             01536  01536                % 02719 CFLBUS
+170102001 Dillingen Déiljen     01537  01537                % 02719 CFLBUS
+170103001 Cloosbierg            01538  01538                % 02719 CFLBUS
+170303001 Grundhof, Grondhaff   01540  01540                % 02719 CFLBUS
+170302001 Bollendorf, Gare      01542  01542                % 02719 CFLBUS
+170302003 Bollendorf, Pont      01543  01543                % 02719 CFLBUS
+170302002 Bollendorf-Pont, Ham  01544  01544                % 02719 CFLBUS
+170304001 Weilerbach, Laufenwe  01545  01545                % 02719 CFLBUS
+170304002 Weilerbach            01546  01546                % 02719 CFLBUS
+170501007 Echternach, Fielsmil  01548  01548                % 02719 CFLBUS
+170501016 Echternach, Gare Cen  01551                       % 02719 CFLBUS
+*Z 02720 CFLBUS                                             % 02720 CFLBUS
+*L 501      140401004 170501016  01445  01520               % 02720 CFLBUS
+*A bi 140401004 170501016 000034  01445  01520              % 02720 CFLBUS
+*A vm 140401004 170501016 000034  01445  01520              % 02720 CFLBUS
+*A xd 140401004 170501016 000034  01445  01520              % 02720 CFLBUS
+*A ad 140401004 170501016 000034  01445  01520              % 02720 CFLBUS
+*R 2 170501016 140401004 170501016  01445  01520            % 02720 CFLBUS
+*G RGB 140401004 170501016  01445  01520                    % 02720 CFLBUS
+*A VE 140401004 170501016 000034  01445  01520              % 02720 CFLBUS
+*I FD 140401004 170501016        0002586  01445  01520      % 02720 CFLBUS
+140401004 Diekirch, Gare               01445                % 02720 CFLBUS
+140401001 Diekirch, Altersheem  01446  01446                % 02720 CFLBUS
+140401007 Diekirch, rue Merten  01448  01448                % 02720 CFLBUS
+140203002 Gilsdorf, Schoul      01449  01449                % 02720 CFLBUS
+140203001 Gilsdorf, An der Klé  01451  01451                % 02720 CFLBUS
+140202001 Bleesbréck            01451  01451                % 02720 CFLBUS
+140201001 Bettendorf, Elick     01453  01453                % 02720 CFLBUS
+140201002 Bettendorf, Gemeng    01454  01454                % 02720 CFLBUS
+140201003 Bettendorf, Schlass   01454  01454                % 02720 CFLBUS
+140204003 Moestroff, Wangerten  01456  01456                % 02720 CFLBUS
+140204002 Moestroff, Bréck      01456  01456                % 02720 CFLBUS
+140204001 Moestroff, An der Ga  01457  01457                % 02720 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01459  01459                % 02720 CFLBUS
+141203002 Reisdorf, Bei der Ga  01459  01459                % 02720 CFLBUS
+141203001 Reisdorf, An der Ee   01500  01500                % 02720 CFLBUS
+141204002 Wallendorf, Cité      01502  01502                % 02720 CFLBUS
+141204001 Wallendorf, Bei der   01503  01503                % 02720 CFLBUS
+141205001 Hermeswis             01505  01505                % 02720 CFLBUS
+170102001 Dillingen Déiljen     01507  01507                % 02720 CFLBUS
+170103001 Cloosbierg            01508  01508                % 02720 CFLBUS
+170303001 Grundhof, Grondhaff   01509  01509                % 02720 CFLBUS
+170302001 Bollendorf, Gare      01511  01511                % 02720 CFLBUS
+170302003 Bollendorf, Pont      01512  01512                % 02720 CFLBUS
+170302002 Bollendorf-Pont, Ham  01513  01513                % 02720 CFLBUS
+170304001 Weilerbach, Laufenwe  01514  01514                % 02720 CFLBUS
+170304002 Weilerbach            01515  01515                % 02720 CFLBUS
+170501007 Echternach, Fielsmil  01517  01517                % 02720 CFLBUS
+170501016 Echternach, Gare Cen  01520                       % 02720 CFLBUS
+*Z 02721 CFLBUS                                             % 02721 CFLBUS
+*L 501      170501016 140701023  00705  00756               % 02721 CFLBUS
+*A vm 170501016 140701023 000025  00705  00756              % 02721 CFLBUS
+*A xa 170501016 140701023 000025  00705  00756              % 02721 CFLBUS
+*A xb 170501016 140701023 000025  00705  00756              % 02721 CFLBUS
+*A ad 170501016 140701023 000025  00705  00756              % 02721 CFLBUS
+*R 1 140701023 170501016 140701023  00705  00756            % 02721 CFLBUS
+*G RGB 170501016 140701023  00705  00756                    % 02721 CFLBUS
+*A VE 170501016 140701023 000025  00705  00756              % 02721 CFLBUS
+*I FD 170501016 140701023        0002223  00705  00756      % 02721 CFLBUS
+170501016 Echternach, Gare Cen         00705                % 02721 CFLBUS
+170501007 Echternach, Fielsmil  00708  00708                % 02721 CFLBUS
+170304002 Weilerbach            00710  00710                % 02721 CFLBUS
+170304001 Weilerbach, Laufenwe  00711  00711                % 02721 CFLBUS
+170302002 Bollendorf-Pont, Ham  00712  00712                % 02721 CFLBUS
+170302003 Bollendorf, Pont      00713  00713                % 02721 CFLBUS
+170302001 Bollendorf, Gare      00714  00714                % 02721 CFLBUS
+170303001 Grundhof, Grondhaff   00716  00716                % 02721 CFLBUS
+170103001 Cloosbierg            00717  00717                % 02721 CFLBUS
+170102001 Dillingen Déiljen     00719  00719                % 02721 CFLBUS
+141205001 Hermeswis             00720  00720                % 02721 CFLBUS
+141204001 Wallendorf, Bei der   00723  00723                % 02721 CFLBUS
+141204002 Wallendorf, Cité      00724  00724                % 02721 CFLBUS
+141203001 Reisdorf, An der Ee   00725  00725                % 02721 CFLBUS
+141203002 Reisdorf, Bei der Ga  00726  00726                % 02721 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00726  00726                % 02721 CFLBUS
+140204001 Moestroff, An der Ga  00728  00728                % 02721 CFLBUS
+140204002 Moestroff, Bréck      00729  00729                % 02721 CFLBUS
+140204003 Moestroff, Wangerten  00730  00730                % 02721 CFLBUS
+140201003 Bettendorf, Schlass   00732  00732                % 02721 CFLBUS
+140201002 Bettendorf, Gemeng    00732  00732                % 02721 CFLBUS
+140201001 Bettendorf, Elick     00733  00733                % 02721 CFLBUS
+140202001 Bleesbréck            00735  00735                % 02721 CFLBUS
+140203001 Gilsdorf, An der Klé  00736  00736                % 02721 CFLBUS
+140203002 Gilsdorf, Schoul      00737  00737                % 02721 CFLBUS
+140401007 Diekirch, rue Merten  00739  00739                % 02721 CFLBUS
+140401011 Diekirch, Alexis Hec  00741  00741                % 02721 CFLBUS
+140401006 Diekirch, Kluuster    00742  00742                % 02721 CFLBUS
+140401004 Diekirch, Gare        00744  00744                % 02721 CFLBUS
+140401008 Diekirch, Lorentzwue  00746  00746                % 02721 CFLBUS
+140603003 Ingeldorf, Cité Long  00747  00747                % 02721 CFLBUS
+140603001 Ingeldorf, Bei der B  00749  00749                % 02721 CFLBUS
+140603004 Ingeldorf, Kiirchpla  00749  00749                % 02721 CFLBUS
+140602008 Erpeldange/Sûre, Um   00752  00752                % 02721 CFLBUS
+140701001 Ettelbruck, Anc. Cli  00755  00755                % 02721 CFLBUS
+140701023 Ettelbruck, Lycée Te  00756                       % 02721 CFLBUS
+*Z 02722 CFLBUS                                             % 02722 CFLBUS
+*L 501      141204001 140701023  01319  01350               % 02722 CFLBUS
+*A vm 141204001 140701023 000025  01319  01350              % 02722 CFLBUS
+*A ad 141204001 140701023 000025  01319  01350              % 02722 CFLBUS
+*R 1 140701023 141204001 140701023  01319  01350            % 02722 CFLBUS
+*G RGB 141204001 140701023  01319  01350                    % 02722 CFLBUS
+*A VE 141204001 140701023 000025  01319  01350              % 02722 CFLBUS
+*I FD 141204001 140701023        0001967  01319  01350      % 02722 CFLBUS
+141204001 Wallendorf, Bei der          01319                % 02722 CFLBUS
+141204002 Wallendorf, Cité      01320  01320                % 02722 CFLBUS
+141203001 Reisdorf, An der Ee   01321  01321                % 02722 CFLBUS
+141203002 Reisdorf, Bei der Ga  01322  01322                % 02722 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01322  01322                % 02722 CFLBUS
+140204001 Moestroff, An der Ga  01324  01324                % 02722 CFLBUS
+140204002 Moestroff, Bréck      01325  01325                % 02722 CFLBUS
+140204003 Moestroff, Wangerten  01326  01326                % 02722 CFLBUS
+140201003 Bettendorf, Schlass   01327  01327                % 02722 CFLBUS
+140201002 Bettendorf, Gemeng    01328  01328                % 02722 CFLBUS
+140201001 Bettendorf, Elick     01329  01329                % 02722 CFLBUS
+140202001 Bleesbréck            01331  01331                % 02722 CFLBUS
+140203001 Gilsdorf, An der Klé  01332  01332                % 02722 CFLBUS
+140203002 Gilsdorf, Schoul      01333  01333                % 02722 CFLBUS
+140401007 Diekirch, rue Merten  01334  01334                % 02722 CFLBUS
+140401011 Diekirch, Alexis Hec  01336  01336                % 02722 CFLBUS
+140401006 Diekirch, Kluuster    01337  01337                % 02722 CFLBUS
+140401004 Diekirch, Gare        01339  01339                % 02722 CFLBUS
+140401008 Diekirch, Lorentzwue  01340  01340                % 02722 CFLBUS
+140603003 Ingeldorf, Cité Long  01341  01341                % 02722 CFLBUS
+140603001 Ingeldorf, Bei der B  01343  01343                % 02722 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01343  01343                % 02722 CFLBUS
+140602008 Erpeldange/Sûre, Um   01345  01345                % 02722 CFLBUS
+140701001 Ettelbruck, Anc. Cli  01348  01348                % 02722 CFLBUS
+140701023 Ettelbruck, Lycée Te  01350                       % 02722 CFLBUS
+*Z 02723 CFLBUS                                             % 02723 CFLBUS
+*L 501      170501016 140701016  01440  01527               % 02723 CFLBUS
+*A vm 170501016 140701016 000025  01440  01527              % 02723 CFLBUS
+*A wz 170501016 140701016 000025  01440  01527              % 02723 CFLBUS
+*A ad 170501016 140701016 000025  01440  01527              % 02723 CFLBUS
+*R 1 140701016 170501016 140701016  01440  01527            % 02723 CFLBUS
+*G RGB 170501016 140701016  01440  01527                    % 02723 CFLBUS
+*A VE 170501016 140701016 000025  01440  01527              % 02723 CFLBUS
+*I FD 170501016 140701016        0001971  01440  01527      % 02723 CFLBUS
+170501016 Echternach, Gare Cen         01440                % 02723 CFLBUS
+170501007 Echternach, Fielsmil  01443  01443                % 02723 CFLBUS
+170304002 Weilerbach            01445  01445                % 02723 CFLBUS
+170304001 Weilerbach, Laufenwe  01446  01446                % 02723 CFLBUS
+170302002 Bollendorf-Pont, Ham  01446  01446                % 02723 CFLBUS
+170302003 Bollendorf, Pont      01447  01447                % 02723 CFLBUS
+170302001 Bollendorf, Gare      01448  01448                % 02723 CFLBUS
+170303001 Grundhof, Grondhaff   01450  01450                % 02723 CFLBUS
+170103001 Cloosbierg            01452  01452                % 02723 CFLBUS
+170102001 Dillingen Déiljen     01453  01453                % 02723 CFLBUS
+141205001 Hermeswis             01454  01454                % 02723 CFLBUS
+141204001 Wallendorf, Bei der   01456  01456                % 02723 CFLBUS
+141204002 Wallendorf, Cité      01458  01458                % 02723 CFLBUS
+141203001 Reisdorf, An der Ee   01459  01459                % 02723 CFLBUS
+141203002 Reisdorf, Bei der Ga  01500  01500                % 02723 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01500  01500                % 02723 CFLBUS
+140204001 Moestroff, An der Ga  01502  01502                % 02723 CFLBUS
+140204002 Moestroff, Bréck      01503  01503                % 02723 CFLBUS
+140204003 Moestroff, Wangerten  01503  01503                % 02723 CFLBUS
+140201003 Bettendorf, Schlass   01505  01505                % 02723 CFLBUS
+140201002 Bettendorf, Gemeng    01506  01506                % 02723 CFLBUS
+140201001 Bettendorf, Elick     01506  01506                % 02723 CFLBUS
+140202001 Bleesbréck            01509  01509                % 02723 CFLBUS
+140203001 Gilsdorf, An der Klé  01509  01509                % 02723 CFLBUS
+140203002 Gilsdorf, Schoul      01510  01510                % 02723 CFLBUS
+140401007 Diekirch, rue Merten  01512  01512                % 02723 CFLBUS
+140401011 Diekirch, Alexis Hec  01514  01514                % 02723 CFLBUS
+140401006 Diekirch, Kluuster    01515  01515                % 02723 CFLBUS
+140401004 Diekirch, Gare        01517  01517                % 02723 CFLBUS
+140401008 Diekirch, Lorentzwue  01518  01518                % 02723 CFLBUS
+140603003 Ingeldorf, Cité Long  01519  01519                % 02723 CFLBUS
+140603001 Ingeldorf, Bei der B  01521  01521                % 02723 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01521  01521                % 02723 CFLBUS
+140602008 Erpeldange/Sûre, Um   01523  01523                % 02723 CFLBUS
+140701024 Ettelbruck, Pensionn  01526  01526                % 02723 CFLBUS
+140701016 Ettelbruck, Gare      01527                       % 02723 CFLBUS
+*Z 02724 CFLBUS                                             % 02724 CFLBUS
+*L 501      170501016 140701016  01530  01617               % 02724 CFLBUS
+*A vm 170501016 140701016 000025  01530  01617              % 02724 CFLBUS
+*A ad 170501016 140701016 000025  01530  01617              % 02724 CFLBUS
+*R 1 140701016 170501016 140701016  01530  01617            % 02724 CFLBUS
+*G RGB 170501016 140701016  01530  01617                    % 02724 CFLBUS
+*A VE 170501016 140701016 000025  01530  01617              % 02724 CFLBUS
+*I FD 170501016 140701016        0002764  01530  01617      % 02724 CFLBUS
+170501016 Echternach, Gare Cen         01530                % 02724 CFLBUS
+170501007 Echternach, Fielsmil  01533  01533                % 02724 CFLBUS
+170304002 Weilerbach            01535  01535                % 02724 CFLBUS
+170304001 Weilerbach, Laufenwe  01536  01536                % 02724 CFLBUS
+170302002 Bollendorf-Pont, Ham  01536  01536                % 02724 CFLBUS
+170302003 Bollendorf, Pont      01537  01537                % 02724 CFLBUS
+170302001 Bollendorf, Gare      01538  01538                % 02724 CFLBUS
+170303001 Grundhof, Grondhaff   01540  01540                % 02724 CFLBUS
+170103001 Cloosbierg            01542  01542                % 02724 CFLBUS
+170102001 Dillingen Déiljen     01543  01543                % 02724 CFLBUS
+141205001 Hermeswis             01544  01544                % 02724 CFLBUS
+141204001 Wallendorf, Bei der   01546  01546                % 02724 CFLBUS
+141204002 Wallendorf, Cité      01548  01548                % 02724 CFLBUS
+141203001 Reisdorf, An der Ee   01549  01549                % 02724 CFLBUS
+141203002 Reisdorf, Bei der Ga  01550  01550                % 02724 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01550  01550                % 02724 CFLBUS
+140204001 Moestroff, An der Ga  01552  01552                % 02724 CFLBUS
+140204002 Moestroff, Bréck      01553  01553                % 02724 CFLBUS
+140204003 Moestroff, Wangerten  01553  01553                % 02724 CFLBUS
+140201003 Bettendorf, Schlass   01555  01555                % 02724 CFLBUS
+140201002 Bettendorf, Gemeng    01556  01556                % 02724 CFLBUS
+140201001 Bettendorf, Elick     01556  01556                % 02724 CFLBUS
+140202001 Bleesbréck            01559  01559                % 02724 CFLBUS
+140203001 Gilsdorf, An der Klé  01559  01559                % 02724 CFLBUS
+140203002 Gilsdorf, Schoul      01600  01600                % 02724 CFLBUS
+140401007 Diekirch, rue Merten  01602  01602                % 02724 CFLBUS
+140401011 Diekirch, Alexis Hec  01604  01604                % 02724 CFLBUS
+140401006 Diekirch, Kluuster    01605  01605                % 02724 CFLBUS
+140401004 Diekirch, Gare        01607  01607                % 02724 CFLBUS
+140401008 Diekirch, Lorentzwue  01608  01608                % 02724 CFLBUS
+140603003 Ingeldorf, Cité Long  01609  01609                % 02724 CFLBUS
+140603001 Ingeldorf, Bei der B  01611  01611                % 02724 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01611  01611                % 02724 CFLBUS
+140602008 Erpeldange/Sûre, Um   01613  01613                % 02724 CFLBUS
+140701024 Ettelbruck, Pensionn  01616  01616                % 02724 CFLBUS
+140701016 Ettelbruck, Gare      01617                       % 02724 CFLBUS
+*Z 02725 CFLBUS                                             % 02725 CFLBUS
+*L 501      140701023 170501016  01600  01649               % 02725 CFLBUS
+*A vm 140701023 170501016 000218  01600  01649              % 02725 CFLBUS
+*A xc 140701023 170501016 000218  01600  01649              % 02725 CFLBUS
+*A ad 140701023 170501016 000218  01600  01649              % 02725 CFLBUS
+*R 2 170501016 140701023 170501016  01600  01649            % 02725 CFLBUS
+*G RGB 140701023 170501016  01600  01649                    % 02725 CFLBUS
+*A VE 140701023 170501016 000218  01600  01649              % 02725 CFLBUS
+*I FD 140701023 170501016        0002236  01600  01649      % 02725 CFLBUS
+140701023 Ettelbruck, Lycée Te         01600                % 02725 CFLBUS
+140701024 Ettelbruck, Pensionn  01601  01601                % 02725 CFLBUS
+140701016 Ettelbruck, Gare      01603  01603                % 02725 CFLBUS
+140602008 Erpeldange/Sûre, Um   01605  01605                % 02725 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01607  01607                % 02725 CFLBUS
+140603001 Ingeldorf, Bei der B  01607  01607                % 02725 CFLBUS
+140603003 Ingeldorf, Cité Long  01609  01609                % 02725 CFLBUS
+140401008 Diekirch, Lorentzwue  01610  01610                % 02725 CFLBUS
+140401004 Diekirch, Gare        01611  01611                % 02725 CFLBUS
+140401001 Diekirch, Altersheem  01613  01613                % 02725 CFLBUS
+140401007 Diekirch, rue Merten  01615  01615                % 02725 CFLBUS
+140203002 Gilsdorf, Schoul      01616  01616                % 02725 CFLBUS
+140203001 Gilsdorf, An der Klé  01618  01618                % 02725 CFLBUS
+140202001 Bleesbréck            01619  01619                % 02725 CFLBUS
+140201001 Bettendorf, Elick     01620  01620                % 02725 CFLBUS
+140201002 Bettendorf, Gemeng    01621  01621                % 02725 CFLBUS
+140201003 Bettendorf, Schlass   01621  01621                % 02725 CFLBUS
+140204003 Moestroff, Wangerten  01623  01623                % 02725 CFLBUS
+140204002 Moestroff, Bréck      01623  01623                % 02725 CFLBUS
+140204001 Moestroff, An der Ga  01624  01624                % 02725 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01626  01626                % 02725 CFLBUS
+141203002 Reisdorf, Bei der Ga  01627  01627                % 02725 CFLBUS
+141203001 Reisdorf, An der Ee   01627  01627                % 02725 CFLBUS
+141204002 Wallendorf, Cité      01629  01629                % 02725 CFLBUS
+141204001 Wallendorf, Bei der   01630  01630                % 02725 CFLBUS
+141205001 Hermeswis             01633  01633                % 02725 CFLBUS
+170102001 Dillingen Déiljen     01634  01634                % 02725 CFLBUS
+170103001 Cloosbierg            01635  01635                % 02725 CFLBUS
+170303001 Grundhof, Grondhaff   01636  01636                % 02725 CFLBUS
+170302001 Bollendorf, Gare      01639  01639                % 02725 CFLBUS
+170302003 Bollendorf, Pont      01640  01640                % 02725 CFLBUS
+170302002 Bollendorf-Pont, Ham  01641  01641                % 02725 CFLBUS
+170304001 Weilerbach, Laufenwe  01642  01642                % 02725 CFLBUS
+170304002 Weilerbach            01643  01643                % 02725 CFLBUS
+170501007 Echternach, Fielsmil  01645  01645                % 02725 CFLBUS
+170501016 Echternach, Gare Cen  01649                       % 02725 CFLBUS
+*Z 02726 CFLBUS                                             % 02726 CFLBUS
+*L 501      140202001 170501016  00714  00744               % 02726 CFLBUS
+*A vm 140202001 170501016 000025  00714  00744              % 02726 CFLBUS
+*A xe 140202001 170501016 000025  00714  00744              % 02726 CFLBUS
+*A ad 140202001 170501016 000025  00714  00744              % 02726 CFLBUS
+*R 2 170501016 140202001 170501016  00714  00744            % 02726 CFLBUS
+*G RGB 140202001 170501016  00714  00744                    % 02726 CFLBUS
+*A VE 140202001 170501016 000025  00714  00744              % 02726 CFLBUS
+*I FD 140202001 170501016        0003769  00714  00744      % 02726 CFLBUS
+140202001 Bleesbréck                   00714                % 02726 CFLBUS
+140201001 Bettendorf, Elick     00715  00715                % 02726 CFLBUS
+140201002 Bettendorf, Gemeng    00716  00716                % 02726 CFLBUS
+140201003 Bettendorf, Schlass   00716  00716                % 02726 CFLBUS
+140204003 Moestroff, Wangerten  00718  00718                % 02726 CFLBUS
+140204002 Moestroff, Bréck      00718  00718                % 02726 CFLBUS
+140204001 Moestroff, An der Ga  00719  00719                % 02726 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00721  00721                % 02726 CFLBUS
+141203002 Reisdorf, Bei der Ga  00722  00722                % 02726 CFLBUS
+141203001 Reisdorf, An der Ee   00722  00722                % 02726 CFLBUS
+141204002 Wallendorf, Cité      00724  00724                % 02726 CFLBUS
+141204001 Wallendorf, Bei der   00725  00725                % 02726 CFLBUS
+141205001 Hermeswis             00728  00728                % 02726 CFLBUS
+170102001 Dillingen Déiljen     00729  00729                % 02726 CFLBUS
+170103001 Cloosbierg            00730  00730                % 02726 CFLBUS
+170303001 Grundhof, Grondhaff   00731  00731                % 02726 CFLBUS
+170302001 Bollendorf, Gare      00734  00734                % 02726 CFLBUS
+170302003 Bollendorf, Pont      00735  00735                % 02726 CFLBUS
+170302002 Bollendorf-Pont, Ham  00736  00736                % 02726 CFLBUS
+170304001 Weilerbach, Laufenwe  00737  00737                % 02726 CFLBUS
+170304002 Weilerbach            00738  00738                % 02726 CFLBUS
+170501007 Echternach, Fielsmil  00740  00740                % 02726 CFLBUS
+170501016 Echternach, Gare Cen  00744                       % 02726 CFLBUS
+*Z 02727 CFLBUS                                             % 02727 CFLBUS
+*L 501      140701023 170501016  01155  01241               % 02727 CFLBUS
+*A vm 140701023 170501016 000025  01155  01241              % 02727 CFLBUS
+*A xc 140701023 170501016 000025  01155  01241              % 02727 CFLBUS
+*A ad 140701023 170501016 000025  01155  01241              % 02727 CFLBUS
+*R 2 170501016 140701023 170501016  01155  01241            % 02727 CFLBUS
+*G RGB 140701023 170501016  01155  01241                    % 02727 CFLBUS
+*A VE 140701023 170501016 000025  01155  01241              % 02727 CFLBUS
+*I FD 140701023 170501016        0002603  01155  01241      % 02727 CFLBUS
+140701023 Ettelbruck, Lycée Te         01155                % 02727 CFLBUS
+140701024 Ettelbruck, Pensionn  01156  01156                % 02727 CFLBUS
+140701016 Ettelbruck, Gare      01158  01158                % 02727 CFLBUS
+140602008 Erpeldange/Sûre, Um   01200  01200                % 02727 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01201  01201                % 02727 CFLBUS
+140603001 Ingeldorf, Bei der B  01202  01202                % 02727 CFLBUS
+140603003 Ingeldorf, Cité Long  01203  01203                % 02727 CFLBUS
+140401008 Diekirch, Lorentzwue  01204  01204                % 02727 CFLBUS
+140401004 Diekirch, Gare        01205  01205                % 02727 CFLBUS
+140401001 Diekirch, Altersheem  01207  01207                % 02727 CFLBUS
+140401007 Diekirch, rue Merten  01208  01208                % 02727 CFLBUS
+140203002 Gilsdorf, Schoul      01210  01210                % 02727 CFLBUS
+140203001 Gilsdorf, An der Klé  01211  01211                % 02727 CFLBUS
+140202001 Bleesbréck            01212  01212                % 02727 CFLBUS
+140201001 Bettendorf, Elick     01214  01214                % 02727 CFLBUS
+140201002 Bettendorf, Gemeng    01214  01214                % 02727 CFLBUS
+140201003 Bettendorf, Schlass   01215  01215                % 02727 CFLBUS
+140204003 Moestroff, Wangerten  01217  01217                % 02727 CFLBUS
+140204002 Moestroff, Bréck      01217  01217                % 02727 CFLBUS
+140204001 Moestroff, An der Ga  01218  01218                % 02727 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01219  01219                % 02727 CFLBUS
+141203002 Reisdorf, Bei der Ga  01220  01220                % 02727 CFLBUS
+141203001 Reisdorf, An der Ee   01221  01221                % 02727 CFLBUS
+141204002 Wallendorf, Cité      01222  01222                % 02727 CFLBUS
+141204001 Wallendorf, Bei der   01223  01223                % 02727 CFLBUS
+141205001 Hermeswis             01226  01226                % 02727 CFLBUS
+170102001 Dillingen Déiljen     01227  01227                % 02727 CFLBUS
+170103001 Cloosbierg            01228  01228                % 02727 CFLBUS
+170303001 Grundhof, Grondhaff   01230  01230                % 02727 CFLBUS
+170302001 Bollendorf, Gare      01232  01232                % 02727 CFLBUS
+170302003 Bollendorf, Pont      01233  01233                % 02727 CFLBUS
+170302002 Bollendorf-Pont, Ham  01234  01234                % 02727 CFLBUS
+170304001 Weilerbach, Laufenwe  01235  01235                % 02727 CFLBUS
+170304002 Weilerbach            01236  01236                % 02727 CFLBUS
+170501007 Echternach, Fielsmil  01238  01238                % 02727 CFLBUS
+170501016 Echternach, Gare Cen  01241                       % 02727 CFLBUS
+*Z 02728 CFLBUS                                             % 02728 CFLBUS
+*L 501      140701023 170501016  01410  01456               % 02728 CFLBUS
+*A vm 140701023 170501016 000025  01410  01456              % 02728 CFLBUS
+*A vn 140701023 170501016 000025  01410  01456              % 02728 CFLBUS
+*A xc 140701023 170501016 000025  01410  01456              % 02728 CFLBUS
+*A ad 140701023 170501016 000025  01410  01456              % 02728 CFLBUS
+*R 2 170501016 140701023 170501016  01410  01456            % 02728 CFLBUS
+*G RGB 140701023 170501016  01410  01456                    % 02728 CFLBUS
+*A VE 140701023 170501016 000025  01410  01456              % 02728 CFLBUS
+*I FD 140701023 170501016        0001889  01410  01456      % 02728 CFLBUS
+140701023 Ettelbruck, Lycée Te         01410                % 02728 CFLBUS
+140701024 Ettelbruck, Pensionn  01411  01411                % 02728 CFLBUS
+140701016 Ettelbruck, Gare      01413  01413                % 02728 CFLBUS
+140602008 Erpeldange/Sûre, Um   01415  01415                % 02728 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01416  01416                % 02728 CFLBUS
+140603001 Ingeldorf, Bei der B  01417  01417                % 02728 CFLBUS
+140603003 Ingeldorf, Cité Long  01418  01418                % 02728 CFLBUS
+140401008 Diekirch, Lorentzwue  01419  01419                % 02728 CFLBUS
+140401004 Diekirch, Gare        01420  01420                % 02728 CFLBUS
+140401001 Diekirch, Altersheem  01422  01422                % 02728 CFLBUS
+140401007 Diekirch, rue Merten  01423  01423                % 02728 CFLBUS
+140203002 Gilsdorf, Schoul      01425  01425                % 02728 CFLBUS
+140203001 Gilsdorf, An der Klé  01426  01426                % 02728 CFLBUS
+140202001 Bleesbréck            01427  01427                % 02728 CFLBUS
+140201001 Bettendorf, Elick     01429  01429                % 02728 CFLBUS
+140201002 Bettendorf, Gemeng    01429  01429                % 02728 CFLBUS
+140201003 Bettendorf, Schlass   01430  01430                % 02728 CFLBUS
+140204003 Moestroff, Wangerten  01432  01432                % 02728 CFLBUS
+140204002 Moestroff, Bréck      01432  01432                % 02728 CFLBUS
+140204001 Moestroff, An der Ga  01433  01433                % 02728 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01434  01434                % 02728 CFLBUS
+141203002 Reisdorf, Bei der Ga  01435  01435                % 02728 CFLBUS
+141203001 Reisdorf, An der Ee   01436  01436                % 02728 CFLBUS
+141204002 Wallendorf, Cité      01437  01437                % 02728 CFLBUS
+141204001 Wallendorf, Bei der   01438  01438                % 02728 CFLBUS
+141205001 Hermeswis             01441  01441                % 02728 CFLBUS
+170102001 Dillingen Déiljen     01442  01442                % 02728 CFLBUS
+170103001 Cloosbierg            01443  01443                % 02728 CFLBUS
+170303001 Grundhof, Grondhaff   01445  01445                % 02728 CFLBUS
+170302001 Bollendorf, Gare      01447  01447                % 02728 CFLBUS
+170302003 Bollendorf, Pont      01448  01448                % 02728 CFLBUS
+170302002 Bollendorf-Pont, Ham  01449  01449                % 02728 CFLBUS
+170304001 Weilerbach, Laufenwe  01450  01450                % 02728 CFLBUS
+170304002 Weilerbach            01451  01451                % 02728 CFLBUS
+170501007 Echternach, Fielsmil  01453  01453                % 02728 CFLBUS
+170501016 Echternach, Gare Cen  01456                       % 02728 CFLBUS
+*Z 02729 CFLBUS                                             % 02729 CFLBUS
+*L 501      140701023 170501016  01505  01551               % 02729 CFLBUS
+*A vm 140701023 170501016 000025  01505  01551              % 02729 CFLBUS
+*A ad 140701023 170501016 000025  01505  01551              % 02729 CFLBUS
+*R 2 170501016 140701023 170501016  01505  01551            % 02729 CFLBUS
+*G RGB 140701023 170501016  01505  01551                    % 02729 CFLBUS
+*A VE 140701023 170501016 000025  01505  01551              % 02729 CFLBUS
+*I FD 140701023 170501016        0002111  01505  01551      % 02729 CFLBUS
+140701023 Ettelbruck, Lycée Te         01505                % 02729 CFLBUS
+140701024 Ettelbruck, Pensionn  01506  01506                % 02729 CFLBUS
+140701016 Ettelbruck, Gare      01508  01508                % 02729 CFLBUS
+140602008 Erpeldange/Sûre, Um   01510  01510                % 02729 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01511  01511                % 02729 CFLBUS
+140603001 Ingeldorf, Bei der B  01512  01512                % 02729 CFLBUS
+140603003 Ingeldorf, Cité Long  01513  01513                % 02729 CFLBUS
+140401008 Diekirch, Lorentzwue  01514  01514                % 02729 CFLBUS
+140401004 Diekirch, Gare        01515  01515                % 02729 CFLBUS
+140401001 Diekirch, Altersheem  01517  01517                % 02729 CFLBUS
+140401007 Diekirch, rue Merten  01518  01518                % 02729 CFLBUS
+140203002 Gilsdorf, Schoul      01520  01520                % 02729 CFLBUS
+140203001 Gilsdorf, An der Klé  01521  01521                % 02729 CFLBUS
+140202001 Bleesbréck            01522  01522                % 02729 CFLBUS
+140201001 Bettendorf, Elick     01524  01524                % 02729 CFLBUS
+140201002 Bettendorf, Gemeng    01524  01524                % 02729 CFLBUS
+140201003 Bettendorf, Schlass   01525  01525                % 02729 CFLBUS
+140204003 Moestroff, Wangerten  01527  01527                % 02729 CFLBUS
+140204002 Moestroff, Bréck      01527  01527                % 02729 CFLBUS
+140204001 Moestroff, An der Ga  01528  01528                % 02729 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01529  01529                % 02729 CFLBUS
+141203002 Reisdorf, Bei der Ga  01530  01530                % 02729 CFLBUS
+141203001 Reisdorf, An der Ee   01531  01531                % 02729 CFLBUS
+141204002 Wallendorf, Cité      01532  01532                % 02729 CFLBUS
+141204001 Wallendorf, Bei der   01533  01533                % 02729 CFLBUS
+141205001 Hermeswis             01536  01536                % 02729 CFLBUS
+170102001 Dillingen Déiljen     01537  01537                % 02729 CFLBUS
+170103001 Cloosbierg            01538  01538                % 02729 CFLBUS
+170303001 Grundhof, Grondhaff   01540  01540                % 02729 CFLBUS
+170302001 Bollendorf, Gare      01542  01542                % 02729 CFLBUS
+170302003 Bollendorf, Pont      01543  01543                % 02729 CFLBUS
+170302002 Bollendorf-Pont, Ham  01544  01544                % 02729 CFLBUS
+170304001 Weilerbach, Laufenwe  01545  01545                % 02729 CFLBUS
+170304002 Weilerbach            01546  01546                % 02729 CFLBUS
+170501007 Echternach, Fielsmil  01548  01548                % 02729 CFLBUS
+170501016 Echternach, Gare Cen  01551                       % 02729 CFLBUS
+*Z 02730 CFLBUS                                             % 02730 CFLBUS
+*L 501      140401004 170501016  01445  01520               % 02730 CFLBUS
+*A vm 140401004 170501016 000025  01445  01520              % 02730 CFLBUS
+*A xd 140401004 170501016 000025  01445  01520              % 02730 CFLBUS
+*A ad 140401004 170501016 000025  01445  01520              % 02730 CFLBUS
+*R 2 170501016 140401004 170501016  01445  01520            % 02730 CFLBUS
+*G RGB 140401004 170501016  01445  01520                    % 02730 CFLBUS
+*A VE 140401004 170501016 000025  01445  01520              % 02730 CFLBUS
+*I FD 140401004 170501016        0002586  01445  01520      % 02730 CFLBUS
+140401004 Diekirch, Gare               01445                % 02730 CFLBUS
+140401001 Diekirch, Altersheem  01446  01446                % 02730 CFLBUS
+140401007 Diekirch, rue Merten  01448  01448                % 02730 CFLBUS
+140203002 Gilsdorf, Schoul      01449  01449                % 02730 CFLBUS
+140203001 Gilsdorf, An der Klé  01451  01451                % 02730 CFLBUS
+140202001 Bleesbréck            01451  01451                % 02730 CFLBUS
+140201001 Bettendorf, Elick     01453  01453                % 02730 CFLBUS
+140201002 Bettendorf, Gemeng    01454  01454                % 02730 CFLBUS
+140201003 Bettendorf, Schlass   01454  01454                % 02730 CFLBUS
+140204003 Moestroff, Wangerten  01456  01456                % 02730 CFLBUS
+140204002 Moestroff, Bréck      01456  01456                % 02730 CFLBUS
+140204001 Moestroff, An der Ga  01457  01457                % 02730 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01459  01459                % 02730 CFLBUS
+141203002 Reisdorf, Bei der Ga  01459  01459                % 02730 CFLBUS
+141203001 Reisdorf, An der Ee   01500  01500                % 02730 CFLBUS
+141204002 Wallendorf, Cité      01502  01502                % 02730 CFLBUS
+141204001 Wallendorf, Bei der   01503  01503                % 02730 CFLBUS
+141205001 Hermeswis             01505  01505                % 02730 CFLBUS
+170102001 Dillingen Déiljen     01507  01507                % 02730 CFLBUS
+170103001 Cloosbierg            01508  01508                % 02730 CFLBUS
+170303001 Grundhof, Grondhaff   01509  01509                % 02730 CFLBUS
+170302001 Bollendorf, Gare      01511  01511                % 02730 CFLBUS
+170302003 Bollendorf, Pont      01512  01512                % 02730 CFLBUS
+170302002 Bollendorf-Pont, Ham  01513  01513                % 02730 CFLBUS
+170304001 Weilerbach, Laufenwe  01514  01514                % 02730 CFLBUS
+170304002 Weilerbach            01515  01515                % 02730 CFLBUS
+170501007 Echternach, Fielsmil  01517  01517                % 02730 CFLBUS
+170501016 Echternach, Gare Cen  01520                       % 02730 CFLBUS
+*Z 02731 CFLBUS                                             % 02731 CFLBUS
+*L 501      141204001 140701023  01319  01350               % 02731 CFLBUS
+*A vm 141204001 140701023 000032  01319  01350              % 02731 CFLBUS
+*A ad 141204001 140701023 000032  01319  01350              % 02731 CFLBUS
+*R 1 140701023 141204001 140701023  01319  01350            % 02731 CFLBUS
+*G RGB 141204001 140701023  01319  01350                    % 02731 CFLBUS
+*A VE 141204001 140701023 000032  01319  01350              % 02731 CFLBUS
+*I FD 141204001 140701023        0001967  01319  01350      % 02731 CFLBUS
+141204001 Wallendorf, Bei der          01319                % 02731 CFLBUS
+141204002 Wallendorf, Cité      01320  01320                % 02731 CFLBUS
+141203001 Reisdorf, An der Ee   01321  01321                % 02731 CFLBUS
+141203002 Reisdorf, Bei der Ga  01322  01322                % 02731 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01322  01322                % 02731 CFLBUS
+140204001 Moestroff, An der Ga  01324  01324                % 02731 CFLBUS
+140204002 Moestroff, Bréck      01325  01325                % 02731 CFLBUS
+140204003 Moestroff, Wangerten  01326  01326                % 02731 CFLBUS
+140201003 Bettendorf, Schlass   01327  01327                % 02731 CFLBUS
+140201002 Bettendorf, Gemeng    01328  01328                % 02731 CFLBUS
+140201001 Bettendorf, Elick     01329  01329                % 02731 CFLBUS
+140202001 Bleesbréck            01331  01331                % 02731 CFLBUS
+140203001 Gilsdorf, An der Klé  01332  01332                % 02731 CFLBUS
+140203002 Gilsdorf, Schoul      01333  01333                % 02731 CFLBUS
+140401007 Diekirch, rue Merten  01334  01334                % 02731 CFLBUS
+140401011 Diekirch, Alexis Hec  01336  01336                % 02731 CFLBUS
+140401006 Diekirch, Kluuster    01337  01337                % 02731 CFLBUS
+140401004 Diekirch, Gare        01339  01339                % 02731 CFLBUS
+140401008 Diekirch, Lorentzwue  01340  01340                % 02731 CFLBUS
+140603003 Ingeldorf, Cité Long  01341  01341                % 02731 CFLBUS
+140603001 Ingeldorf, Bei der B  01343  01343                % 02731 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01343  01343                % 02731 CFLBUS
+140602008 Erpeldange/Sûre, Um   01345  01345                % 02731 CFLBUS
+140701001 Ettelbruck, Anc. Cli  01348  01348                % 02731 CFLBUS
+140701023 Ettelbruck, Lycée Te  01350                       % 02731 CFLBUS
+*Z 02732 CFLBUS                                             % 02732 CFLBUS
+*L 501      170501016 140701023  00704  00756               % 02732 CFLBUS
+*A vm 170501016 140701023 000032  00704  00756              % 02732 CFLBUS
+*A xa 170501016 140701023 000032  00704  00756              % 02732 CFLBUS
+*A xb 170501016 140701023 000032  00704  00756              % 02732 CFLBUS
+*A ad 170501016 140701023 000032  00704  00756              % 02732 CFLBUS
+*R 1 140701023 170501016 140701023  00704  00756            % 02732 CFLBUS
+*G RGB 170501016 140701023  00704  00756                    % 02732 CFLBUS
+*A VE 170501016 140701023 000032  00704  00756              % 02732 CFLBUS
+*I FD 170501016 140701023        0002223  00704  00756      % 02732 CFLBUS
+170501016 Echternach, Gare Cen         00704                % 02732 CFLBUS
+170501007 Echternach, Fielsmil  00707  00707                % 02732 CFLBUS
+170304002 Weilerbach            00710  00710                % 02732 CFLBUS
+170304001 Weilerbach, Laufenwe  00711  00711                % 02732 CFLBUS
+170302002 Bollendorf-Pont, Ham  00712  00712                % 02732 CFLBUS
+170302003 Bollendorf, Pont      00713  00713                % 02732 CFLBUS
+170302001 Bollendorf, Gare      00713  00713                % 02732 CFLBUS
+170303001 Grundhof, Grondhaff   00716  00716                % 02732 CFLBUS
+170103001 Cloosbierg            00717  00717                % 02732 CFLBUS
+170102001 Dillingen Déiljen     00718  00718                % 02732 CFLBUS
+141205001 Hermeswis             00720  00720                % 02732 CFLBUS
+141204001 Wallendorf, Bei der   00722  00722                % 02732 CFLBUS
+141204002 Wallendorf, Cité      00723  00723                % 02732 CFLBUS
+141203001 Reisdorf, An der Ee   00725  00725                % 02732 CFLBUS
+141203002 Reisdorf, Bei der Ga  00726  00726                % 02732 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00726  00726                % 02732 CFLBUS
+140204001 Moestroff, An der Ga  00728  00728                % 02732 CFLBUS
+140204002 Moestroff, Bréck      00729  00729                % 02732 CFLBUS
+140204003 Moestroff, Wangerten  00729  00729                % 02732 CFLBUS
+140201003 Bettendorf, Schlass   00731  00731                % 02732 CFLBUS
+140201002 Bettendorf, Gemeng    00732  00732                % 02732 CFLBUS
+140201001 Bettendorf, Elick     00733  00733                % 02732 CFLBUS
+140202001 Bleesbréck            00735  00735                % 02732 CFLBUS
+140203001 Gilsdorf, An der Klé  00736  00736                % 02732 CFLBUS
+140203002 Gilsdorf, Schoul      00737  00737                % 02732 CFLBUS
+140401007 Diekirch, rue Merten  00739  00739                % 02732 CFLBUS
+140401011 Diekirch, Alexis Hec  00741  00741                % 02732 CFLBUS
+140401006 Diekirch, Kluuster    00742  00742                % 02732 CFLBUS
+140401004 Diekirch, Gare        00744  00744                % 02732 CFLBUS
+140401008 Diekirch, Lorentzwue  00746  00746                % 02732 CFLBUS
+140603003 Ingeldorf, Cité Long  00747  00747                % 02732 CFLBUS
+140603001 Ingeldorf, Bei der B  00748  00748                % 02732 CFLBUS
+140603004 Ingeldorf, Kiirchpla  00749  00749                % 02732 CFLBUS
+140602008 Erpeldange/Sûre, Um   00751  00751                % 02732 CFLBUS
+140701001 Ettelbruck, Anc. Cli  00754  00754                % 02732 CFLBUS
+140701023 Ettelbruck, Lycée Te  00756                       % 02732 CFLBUS
+*Z 02733 CFLBUS                                             % 02733 CFLBUS
+*L 501      170501016 140701016  01439  01527               % 02733 CFLBUS
+*A vm 170501016 140701016 000032  01439  01527              % 02733 CFLBUS
+*A wz 170501016 140701016 000032  01439  01527              % 02733 CFLBUS
+*A ad 170501016 140701016 000032  01439  01527              % 02733 CFLBUS
+*R 1 140701016 170501016 140701016  01439  01527            % 02733 CFLBUS
+*G RGB 170501016 140701016  01439  01527                    % 02733 CFLBUS
+*A VE 170501016 140701016 000032  01439  01527              % 02733 CFLBUS
+*I FD 170501016 140701016        0001971  01439  01527      % 02733 CFLBUS
+170501016 Echternach, Gare Cen         01439                % 02733 CFLBUS
+170501007 Echternach, Fielsmil  01442  01442                % 02733 CFLBUS
+170304002 Weilerbach            01444  01444                % 02733 CFLBUS
+170304001 Weilerbach, Laufenwe  01445  01445                % 02733 CFLBUS
+170302002 Bollendorf-Pont, Ham  01446  01446                % 02733 CFLBUS
+170302003 Bollendorf, Pont      01447  01447                % 02733 CFLBUS
+170302001 Bollendorf, Gare      01448  01448                % 02733 CFLBUS
+170303001 Grundhof, Grondhaff   01450  01450                % 02733 CFLBUS
+170103001 Cloosbierg            01451  01451                % 02733 CFLBUS
+170102001 Dillingen Déiljen     01452  01452                % 02733 CFLBUS
+141205001 Hermeswis             01454  01454                % 02733 CFLBUS
+141204001 Wallendorf, Bei der   01456  01456                % 02733 CFLBUS
+141204002 Wallendorf, Cité      01457  01457                % 02733 CFLBUS
+141203001 Reisdorf, An der Ee   01459  01459                % 02733 CFLBUS
+141203002 Reisdorf, Bei der Ga  01459  01459                % 02733 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01500  01500                % 02733 CFLBUS
+140204001 Moestroff, An der Ga  01502  01502                % 02733 CFLBUS
+140204002 Moestroff, Bréck      01503  01503                % 02733 CFLBUS
+140204003 Moestroff, Wangerten  01503  01503                % 02733 CFLBUS
+140201003 Bettendorf, Schlass   01505  01505                % 02733 CFLBUS
+140201002 Bettendorf, Gemeng    01506  01506                % 02733 CFLBUS
+140201001 Bettendorf, Elick     01506  01506                % 02733 CFLBUS
+140202001 Bleesbréck            01508  01508                % 02733 CFLBUS
+140203001 Gilsdorf, An der Klé  01509  01509                % 02733 CFLBUS
+140203002 Gilsdorf, Schoul      01510  01510                % 02733 CFLBUS
+140401007 Diekirch, rue Merten  01512  01512                % 02733 CFLBUS
+140401011 Diekirch, Alexis Hec  01513  01513                % 02733 CFLBUS
+140401006 Diekirch, Kluuster    01514  01514                % 02733 CFLBUS
+140401004 Diekirch, Gare        01516  01516                % 02733 CFLBUS
+140401008 Diekirch, Lorentzwue  01518  01518                % 02733 CFLBUS
+140603003 Ingeldorf, Cité Long  01519  01519                % 02733 CFLBUS
+140603001 Ingeldorf, Bei der B  01520  01520                % 02733 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01521  01521                % 02733 CFLBUS
+140602008 Erpeldange/Sûre, Um   01523  01523                % 02733 CFLBUS
+140701024 Ettelbruck, Pensionn  01526  01526                % 02733 CFLBUS
+140701016 Ettelbruck, Gare      01527                       % 02733 CFLBUS
+*Z 02734 CFLBUS                                             % 02734 CFLBUS
+*L 501      170501016 140701016  01529  01617               % 02734 CFLBUS
+*A vm 170501016 140701016 000032  01529  01617              % 02734 CFLBUS
+*A ad 170501016 140701016 000032  01529  01617              % 02734 CFLBUS
+*R 1 140701016 170501016 140701016  01529  01617            % 02734 CFLBUS
+*G RGB 170501016 140701016  01529  01617                    % 02734 CFLBUS
+*A VE 170501016 140701016 000032  01529  01617              % 02734 CFLBUS
+*I FD 170501016 140701016        0002764  01529  01617      % 02734 CFLBUS
+170501016 Echternach, Gare Cen         01529                % 02734 CFLBUS
+170501007 Echternach, Fielsmil  01532  01532                % 02734 CFLBUS
+170304002 Weilerbach            01534  01534                % 02734 CFLBUS
+170304001 Weilerbach, Laufenwe  01535  01535                % 02734 CFLBUS
+170302002 Bollendorf-Pont, Ham  01536  01536                % 02734 CFLBUS
+170302003 Bollendorf, Pont      01537  01537                % 02734 CFLBUS
+170302001 Bollendorf, Gare      01538  01538                % 02734 CFLBUS
+170303001 Grundhof, Grondhaff   01540  01540                % 02734 CFLBUS
+170103001 Cloosbierg            01541  01541                % 02734 CFLBUS
+170102001 Dillingen Déiljen     01542  01542                % 02734 CFLBUS
+141205001 Hermeswis             01544  01544                % 02734 CFLBUS
+141204001 Wallendorf, Bei der   01546  01546                % 02734 CFLBUS
+141204002 Wallendorf, Cité      01547  01547                % 02734 CFLBUS
+141203001 Reisdorf, An der Ee   01549  01549                % 02734 CFLBUS
+141203002 Reisdorf, Bei der Ga  01549  01549                % 02734 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01550  01550                % 02734 CFLBUS
+140204001 Moestroff, An der Ga  01552  01552                % 02734 CFLBUS
+140204002 Moestroff, Bréck      01553  01553                % 02734 CFLBUS
+140204003 Moestroff, Wangerten  01553  01553                % 02734 CFLBUS
+140201003 Bettendorf, Schlass   01555  01555                % 02734 CFLBUS
+140201002 Bettendorf, Gemeng    01556  01556                % 02734 CFLBUS
+140201001 Bettendorf, Elick     01556  01556                % 02734 CFLBUS
+140202001 Bleesbréck            01558  01558                % 02734 CFLBUS
+140203001 Gilsdorf, An der Klé  01559  01559                % 02734 CFLBUS
+140203002 Gilsdorf, Schoul      01600  01600                % 02734 CFLBUS
+140401007 Diekirch, rue Merten  01602  01602                % 02734 CFLBUS
+140401011 Diekirch, Alexis Hec  01603  01603                % 02734 CFLBUS
+140401006 Diekirch, Kluuster    01604  01604                % 02734 CFLBUS
+140401004 Diekirch, Gare        01606  01606                % 02734 CFLBUS
+140401008 Diekirch, Lorentzwue  01608  01608                % 02734 CFLBUS
+140603003 Ingeldorf, Cité Long  01609  01609                % 02734 CFLBUS
+140603001 Ingeldorf, Bei der B  01610  01610                % 02734 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01611  01611                % 02734 CFLBUS
+140602008 Erpeldange/Sûre, Um   01613  01613                % 02734 CFLBUS
+140701024 Ettelbruck, Pensionn  01616  01616                % 02734 CFLBUS
+140701016 Ettelbruck, Gare      01617                       % 02734 CFLBUS
+*Z 02735 CFLBUS                                             % 02735 CFLBUS
+*L 501      140701023 170501016  01600  01649               % 02735 CFLBUS
+*A vm 140701023 170501016 000197  01600  01649              % 02735 CFLBUS
+*A xc 140701023 170501016 000197  01600  01649              % 02735 CFLBUS
+*A ad 140701023 170501016 000197  01600  01649              % 02735 CFLBUS
+*R 2 170501016 140701023 170501016  01600  01649            % 02735 CFLBUS
+*G RGB 140701023 170501016  01600  01649                    % 02735 CFLBUS
+*A VE 140701023 170501016 000197  01600  01649              % 02735 CFLBUS
+*I FD 140701023 170501016        0002236  01600  01649      % 02735 CFLBUS
+140701023 Ettelbruck, Lycée Te         01600                % 02735 CFLBUS
+140701024 Ettelbruck, Pensionn  01601  01601                % 02735 CFLBUS
+140701016 Ettelbruck, Gare      01603  01603                % 02735 CFLBUS
+140602008 Erpeldange/Sûre, Um   01605  01605                % 02735 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01607  01607                % 02735 CFLBUS
+140603001 Ingeldorf, Bei der B  01607  01607                % 02735 CFLBUS
+140603003 Ingeldorf, Cité Long  01609  01609                % 02735 CFLBUS
+140401008 Diekirch, Lorentzwue  01610  01610                % 02735 CFLBUS
+140401004 Diekirch, Gare        01611  01611                % 02735 CFLBUS
+140401001 Diekirch, Altersheem  01613  01613                % 02735 CFLBUS
+140401007 Diekirch, rue Merten  01615  01615                % 02735 CFLBUS
+140203002 Gilsdorf, Schoul      01616  01616                % 02735 CFLBUS
+140203001 Gilsdorf, An der Klé  01618  01618                % 02735 CFLBUS
+140202001 Bleesbréck            01619  01619                % 02735 CFLBUS
+140201001 Bettendorf, Elick     01620  01620                % 02735 CFLBUS
+140201002 Bettendorf, Gemeng    01621  01621                % 02735 CFLBUS
+140201003 Bettendorf, Schlass   01621  01621                % 02735 CFLBUS
+140204003 Moestroff, Wangerten  01623  01623                % 02735 CFLBUS
+140204002 Moestroff, Bréck      01623  01623                % 02735 CFLBUS
+140204001 Moestroff, An der Ga  01624  01624                % 02735 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01626  01626                % 02735 CFLBUS
+141203002 Reisdorf, Bei der Ga  01627  01627                % 02735 CFLBUS
+141203001 Reisdorf, An der Ee   01627  01627                % 02735 CFLBUS
+141204002 Wallendorf, Cité      01629  01629                % 02735 CFLBUS
+141204001 Wallendorf, Bei der   01630  01630                % 02735 CFLBUS
+141205001 Hermeswis             01633  01633                % 02735 CFLBUS
+170102001 Dillingen Déiljen     01634  01634                % 02735 CFLBUS
+170103001 Cloosbierg            01635  01635                % 02735 CFLBUS
+170303001 Grundhof, Grondhaff   01636  01636                % 02735 CFLBUS
+170302001 Bollendorf, Gare      01639  01639                % 02735 CFLBUS
+170302003 Bollendorf, Pont      01640  01640                % 02735 CFLBUS
+170302002 Bollendorf-Pont, Ham  01641  01641                % 02735 CFLBUS
+170304001 Weilerbach, Laufenwe  01642  01642                % 02735 CFLBUS
+170304002 Weilerbach            01643  01643                % 02735 CFLBUS
+170501007 Echternach, Fielsmil  01645  01645                % 02735 CFLBUS
+170501016 Echternach, Gare Cen  01649                       % 02735 CFLBUS
+*Z 02736 CFLBUS                                             % 02736 CFLBUS
+*L 501      140202001 170501016  00714  00744               % 02736 CFLBUS
+*A vm 140202001 170501016 000032  00714  00744              % 02736 CFLBUS
+*A xe 140202001 170501016 000032  00714  00744              % 02736 CFLBUS
+*A ad 140202001 170501016 000032  00714  00744              % 02736 CFLBUS
+*R 2 170501016 140202001 170501016  00714  00744            % 02736 CFLBUS
+*G RGB 140202001 170501016  00714  00744                    % 02736 CFLBUS
+*A VE 140202001 170501016 000032  00714  00744              % 02736 CFLBUS
+*I FD 140202001 170501016        0003769  00714  00744      % 02736 CFLBUS
+140202001 Bleesbréck                   00714                % 02736 CFLBUS
+140201001 Bettendorf, Elick     00715  00715                % 02736 CFLBUS
+140201002 Bettendorf, Gemeng    00716  00716                % 02736 CFLBUS
+140201003 Bettendorf, Schlass   00716  00716                % 02736 CFLBUS
+140204003 Moestroff, Wangerten  00718  00718                % 02736 CFLBUS
+140204002 Moestroff, Bréck      00718  00718                % 02736 CFLBUS
+140204001 Moestroff, An der Ga  00719  00719                % 02736 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00721  00721                % 02736 CFLBUS
+141203002 Reisdorf, Bei der Ga  00722  00722                % 02736 CFLBUS
+141203001 Reisdorf, An der Ee   00722  00722                % 02736 CFLBUS
+141204002 Wallendorf, Cité      00724  00724                % 02736 CFLBUS
+141204001 Wallendorf, Bei der   00725  00725                % 02736 CFLBUS
+141205001 Hermeswis             00728  00728                % 02736 CFLBUS
+170102001 Dillingen Déiljen     00729  00729                % 02736 CFLBUS
+170103001 Cloosbierg            00730  00730                % 02736 CFLBUS
+170303001 Grundhof, Grondhaff   00731  00731                % 02736 CFLBUS
+170302001 Bollendorf, Gare      00734  00734                % 02736 CFLBUS
+170302003 Bollendorf, Pont      00735  00735                % 02736 CFLBUS
+170302002 Bollendorf-Pont, Ham  00736  00736                % 02736 CFLBUS
+170304001 Weilerbach, Laufenwe  00737  00737                % 02736 CFLBUS
+170304002 Weilerbach            00738  00738                % 02736 CFLBUS
+170501007 Echternach, Fielsmil  00740  00740                % 02736 CFLBUS
+170501016 Echternach, Gare Cen  00744                       % 02736 CFLBUS
+*Z 02737 CFLBUS                                             % 02737 CFLBUS
+*L 501      140701023 170501016  01154  01241               % 02737 CFLBUS
+*A vm 140701023 170501016 000032  01154  01241              % 02737 CFLBUS
+*A xc 140701023 170501016 000032  01154  01241              % 02737 CFLBUS
+*A ad 140701023 170501016 000032  01154  01241              % 02737 CFLBUS
+*R 2 170501016 140701023 170501016  01154  01241            % 02737 CFLBUS
+*G RGB 140701023 170501016  01154  01241                    % 02737 CFLBUS
+*A VE 140701023 170501016 000032  01154  01241              % 02737 CFLBUS
+*I FD 140701023 170501016        0002603  01154  01241      % 02737 CFLBUS
+140701023 Ettelbruck, Lycée Te         01154                % 02737 CFLBUS
+140701024 Ettelbruck, Pensionn  01156  01156                % 02737 CFLBUS
+140701016 Ettelbruck, Gare      01157  01157                % 02737 CFLBUS
+140602008 Erpeldange/Sûre, Um   01159  01159                % 02737 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01201  01201                % 02737 CFLBUS
+140603001 Ingeldorf, Bei der B  01202  01202                % 02737 CFLBUS
+140603003 Ingeldorf, Cité Long  01203  01203                % 02737 CFLBUS
+140401008 Diekirch, Lorentzwue  01204  01204                % 02737 CFLBUS
+140401004 Diekirch, Gare        01205  01205                % 02737 CFLBUS
+140401001 Diekirch, Altersheem  01207  01207                % 02737 CFLBUS
+140401007 Diekirch, rue Merten  01208  01208                % 02737 CFLBUS
+140203002 Gilsdorf, Schoul      01210  01210                % 02737 CFLBUS
+140203001 Gilsdorf, An der Klé  01211  01211                % 02737 CFLBUS
+140202001 Bleesbréck            01212  01212                % 02737 CFLBUS
+140201001 Bettendorf, Elick     01214  01214                % 02737 CFLBUS
+140201002 Bettendorf, Gemeng    01214  01214                % 02737 CFLBUS
+140201003 Bettendorf, Schlass   01215  01215                % 02737 CFLBUS
+140204003 Moestroff, Wangerten  01216  01216                % 02737 CFLBUS
+140204002 Moestroff, Bréck      01217  01217                % 02737 CFLBUS
+140204001 Moestroff, An der Ga  01218  01218                % 02737 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01219  01219                % 02737 CFLBUS
+141203002 Reisdorf, Bei der Ga  01220  01220                % 02737 CFLBUS
+141203001 Reisdorf, An der Ee   01221  01221                % 02737 CFLBUS
+141204002 Wallendorf, Cité      01222  01222                % 02737 CFLBUS
+141204001 Wallendorf, Bei der   01223  01223                % 02737 CFLBUS
+141205001 Hermeswis             01226  01226                % 02737 CFLBUS
+170102001 Dillingen Déiljen     01227  01227                % 02737 CFLBUS
+170103001 Cloosbierg            01228  01228                % 02737 CFLBUS
+170303001 Grundhof, Grondhaff   01229  01229                % 02737 CFLBUS
+170302001 Bollendorf, Gare      01232  01232                % 02737 CFLBUS
+170302003 Bollendorf, Pont      01232  01232                % 02737 CFLBUS
+170302002 Bollendorf-Pont, Ham  01233  01233                % 02737 CFLBUS
+170304001 Weilerbach, Laufenwe  01234  01234                % 02737 CFLBUS
+170304002 Weilerbach            01235  01235                % 02737 CFLBUS
+170501007 Echternach, Fielsmil  01237  01237                % 02737 CFLBUS
+170501016 Echternach, Gare Cen  01241                       % 02737 CFLBUS
+*Z 02738 CFLBUS                                             % 02738 CFLBUS
+*L 501      140701023 170501016  01409  01456               % 02738 CFLBUS
+*A vm 140701023 170501016 000032  01409  01456              % 02738 CFLBUS
+*A vn 140701023 170501016 000032  01409  01456              % 02738 CFLBUS
+*A xc 140701023 170501016 000032  01409  01456              % 02738 CFLBUS
+*A ad 140701023 170501016 000032  01409  01456              % 02738 CFLBUS
+*R 2 170501016 140701023 170501016  01409  01456            % 02738 CFLBUS
+*G RGB 140701023 170501016  01409  01456                    % 02738 CFLBUS
+*A VE 140701023 170501016 000032  01409  01456              % 02738 CFLBUS
+*I FD 140701023 170501016        0002038  01409  01456      % 02738 CFLBUS
+140701023 Ettelbruck, Lycée Te         01409                % 02738 CFLBUS
+140701024 Ettelbruck, Pensionn  01411  01411                % 02738 CFLBUS
+140701016 Ettelbruck, Gare      01412  01412                % 02738 CFLBUS
+140602008 Erpeldange/Sûre, Um   01414  01414                % 02738 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01416  01416                % 02738 CFLBUS
+140603001 Ingeldorf, Bei der B  01417  01417                % 02738 CFLBUS
+140603003 Ingeldorf, Cité Long  01418  01418                % 02738 CFLBUS
+140401008 Diekirch, Lorentzwue  01419  01419                % 02738 CFLBUS
+140401004 Diekirch, Gare        01420  01420                % 02738 CFLBUS
+140401001 Diekirch, Altersheem  01422  01422                % 02738 CFLBUS
+140401007 Diekirch, rue Merten  01423  01423                % 02738 CFLBUS
+140203002 Gilsdorf, Schoul      01425  01425                % 02738 CFLBUS
+140203001 Gilsdorf, An der Klé  01426  01426                % 02738 CFLBUS
+140202001 Bleesbréck            01427  01427                % 02738 CFLBUS
+140201001 Bettendorf, Elick     01429  01429                % 02738 CFLBUS
+140201002 Bettendorf, Gemeng    01429  01429                % 02738 CFLBUS
+140201003 Bettendorf, Schlass   01430  01430                % 02738 CFLBUS
+140204003 Moestroff, Wangerten  01431  01431                % 02738 CFLBUS
+140204002 Moestroff, Bréck      01432  01432                % 02738 CFLBUS
+140204001 Moestroff, An der Ga  01433  01433                % 02738 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01434  01434                % 02738 CFLBUS
+141203002 Reisdorf, Bei der Ga  01435  01435                % 02738 CFLBUS
+141203001 Reisdorf, An der Ee   01436  01436                % 02738 CFLBUS
+141204002 Wallendorf, Cité      01437  01437                % 02738 CFLBUS
+141204001 Wallendorf, Bei der   01438  01438                % 02738 CFLBUS
+141205001 Hermeswis             01441  01441                % 02738 CFLBUS
+170102001 Dillingen Déiljen     01442  01442                % 02738 CFLBUS
+170103001 Cloosbierg            01443  01443                % 02738 CFLBUS
+170303001 Grundhof, Grondhaff   01444  01444                % 02738 CFLBUS
+170302001 Bollendorf, Gare      01447  01447                % 02738 CFLBUS
+170302003 Bollendorf, Pont      01447  01447                % 02738 CFLBUS
+170302002 Bollendorf-Pont, Ham  01448  01448                % 02738 CFLBUS
+170304001 Weilerbach, Laufenwe  01449  01449                % 02738 CFLBUS
+170304002 Weilerbach            01450  01450                % 02738 CFLBUS
+170501007 Echternach, Fielsmil  01452  01452                % 02738 CFLBUS
+170501016 Echternach, Gare Cen  01456                       % 02738 CFLBUS
+*Z 02739 CFLBUS                                             % 02739 CFLBUS
+*L 501      140701023 170501016  01504  01551               % 02739 CFLBUS
+*A vm 140701023 170501016 000032  01504  01551              % 02739 CFLBUS
+*A ad 140701023 170501016 000032  01504  01551              % 02739 CFLBUS
+*R 2 170501016 140701023 170501016  01504  01551            % 02739 CFLBUS
+*G RGB 140701023 170501016  01504  01551                    % 02739 CFLBUS
+*A VE 140701023 170501016 000032  01504  01551              % 02739 CFLBUS
+*I FD 140701023 170501016        0002111  01504  01551      % 02739 CFLBUS
+140701023 Ettelbruck, Lycée Te         01504                % 02739 CFLBUS
+140701024 Ettelbruck, Pensionn  01506  01506                % 02739 CFLBUS
+140701016 Ettelbruck, Gare      01507  01507                % 02739 CFLBUS
+140602008 Erpeldange/Sûre, Um   01509  01509                % 02739 CFLBUS
+140603004 Ingeldorf, Kiirchpla  01511  01511                % 02739 CFLBUS
+140603001 Ingeldorf, Bei der B  01512  01512                % 02739 CFLBUS
+140603003 Ingeldorf, Cité Long  01513  01513                % 02739 CFLBUS
+140401008 Diekirch, Lorentzwue  01514  01514                % 02739 CFLBUS
+140401004 Diekirch, Gare        01515  01515                % 02739 CFLBUS
+140401001 Diekirch, Altersheem  01517  01517                % 02739 CFLBUS
+140401007 Diekirch, rue Merten  01518  01518                % 02739 CFLBUS
+140203002 Gilsdorf, Schoul      01520  01520                % 02739 CFLBUS
+140203001 Gilsdorf, An der Klé  01521  01521                % 02739 CFLBUS
+140202001 Bleesbréck            01522  01522                % 02739 CFLBUS
+140201001 Bettendorf, Elick     01524  01524                % 02739 CFLBUS
+140201002 Bettendorf, Gemeng    01524  01524                % 02739 CFLBUS
+140201003 Bettendorf, Schlass   01525  01525                % 02739 CFLBUS
+140204003 Moestroff, Wangerten  01526  01526                % 02739 CFLBUS
+140204002 Moestroff, Bréck      01527  01527                % 02739 CFLBUS
+140204001 Moestroff, An der Ga  01528  01528                % 02739 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01529  01529                % 02739 CFLBUS
+141203002 Reisdorf, Bei der Ga  01530  01530                % 02739 CFLBUS
+141203001 Reisdorf, An der Ee   01531  01531                % 02739 CFLBUS
+141204002 Wallendorf, Cité      01532  01532                % 02739 CFLBUS
+141204001 Wallendorf, Bei der   01533  01533                % 02739 CFLBUS
+141205001 Hermeswis             01536  01536                % 02739 CFLBUS
+170102001 Dillingen Déiljen     01537  01537                % 02739 CFLBUS
+170103001 Cloosbierg            01538  01538                % 02739 CFLBUS
+170303001 Grundhof, Grondhaff   01539  01539                % 02739 CFLBUS
+170302001 Bollendorf, Gare      01542  01542                % 02739 CFLBUS
+170302003 Bollendorf, Pont      01542  01542                % 02739 CFLBUS
+170302002 Bollendorf-Pont, Ham  01543  01543                % 02739 CFLBUS
+170304001 Weilerbach, Laufenwe  01544  01544                % 02739 CFLBUS
+170304002 Weilerbach            01545  01545                % 02739 CFLBUS
+170501007 Echternach, Fielsmil  01547  01547                % 02739 CFLBUS
+170501016 Echternach, Gare Cen  01551                       % 02739 CFLBUS
+*Z 02740 CFLBUS                                             % 02740 CFLBUS
+*L 501      140401004 170501016  01444  01519               % 02740 CFLBUS
+*A vm 140401004 170501016 000032  01444  01519              % 02740 CFLBUS
+*A xd 140401004 170501016 000032  01444  01519              % 02740 CFLBUS
+*A ad 140401004 170501016 000032  01444  01519              % 02740 CFLBUS
+*R 2 170501016 140401004 170501016  01444  01519            % 02740 CFLBUS
+*G RGB 140401004 170501016  01444  01519                    % 02740 CFLBUS
+*A VE 140401004 170501016 000032  01444  01519              % 02740 CFLBUS
+*I FD 140401004 170501016        0002586  01444  01519      % 02740 CFLBUS
+140401004 Diekirch, Gare               01444                % 02740 CFLBUS
+140401001 Diekirch, Altersheem  01445  01445                % 02740 CFLBUS
+140401007 Diekirch, rue Merten  01447  01447                % 02740 CFLBUS
+140203002 Gilsdorf, Schoul      01448  01448                % 02740 CFLBUS
+140203001 Gilsdorf, An der Klé  01450  01450                % 02740 CFLBUS
+140202001 Bleesbréck            01450  01450                % 02740 CFLBUS
+140201001 Bettendorf, Elick     01452  01452                % 02740 CFLBUS
+140201002 Bettendorf, Gemeng    01453  01453                % 02740 CFLBUS
+140201003 Bettendorf, Schlass   01453  01453                % 02740 CFLBUS
+140204003 Moestroff, Wangerten  01455  01455                % 02740 CFLBUS
+140204002 Moestroff, Bréck      01455  01455                % 02740 CFLBUS
+140204001 Moestroff, An der Ga  01456  01456                % 02740 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01458  01458                % 02740 CFLBUS
+141203002 Reisdorf, Bei der Ga  01458  01458                % 02740 CFLBUS
+141203001 Reisdorf, An der Ee   01459  01459                % 02740 CFLBUS
+141204002 Wallendorf, Cité      01501  01501                % 02740 CFLBUS
+141204001 Wallendorf, Bei der   01502  01502                % 02740 CFLBUS
+141205001 Hermeswis             01504  01504                % 02740 CFLBUS
+170102001 Dillingen Déiljen     01506  01506                % 02740 CFLBUS
+170103001 Cloosbierg            01507  01507                % 02740 CFLBUS
+170303001 Grundhof, Grondhaff   01508  01508                % 02740 CFLBUS
+170302001 Bollendorf, Gare      01510  01510                % 02740 CFLBUS
+170302003 Bollendorf, Pont      01511  01511                % 02740 CFLBUS
+170302002 Bollendorf-Pont, Ham  01512  01512                % 02740 CFLBUS
+170304001 Weilerbach, Laufenwe  01513  01513                % 02740 CFLBUS
+170304002 Weilerbach            01514  01514                % 02740 CFLBUS
+170501007 Echternach, Fielsmil  01516  01516                % 02740 CFLBUS
+170501016 Echternach, Gare Cen  01519                       % 02740 CFLBUS

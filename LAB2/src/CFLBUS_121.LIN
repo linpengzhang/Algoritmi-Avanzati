@@ -1,0 +1,208 @@
+*F 03 2
+*Z 00909 CFLBUS                                             % 00909 CFLBUS
+*L 121      180511002 200405036  00700  00740               % 00909 CFLBUS
+*A BE 180511002 200405036 000211  00700  00740              % 00909 CFLBUS
+*A vm 180511002 200405036 000035  00700  00740              % 00909 CFLBUS
+*A ad 180511002 200405036 000035  00700  00740              % 00909 CFLBUS
+*R 1 200405036 180511002 200405036  00700  00740            % 00909 CFLBUS
+*G RGB 180511002 200405036  00700  00740                    % 00909 CFLBUS
+*A VE 180511002 200405036 000035  00700  00740              % 00909 CFLBUS
+*I FD 180511002 200405036        0002152  00700  00740      % 00909 CFLBUS
+180511002 Junglinster, Op der          00700                % 00909 CFLBUS
+180508002 Gonderange, Eeschële  00703  00703                % 00909 CFLBUS
+180508005 Gonderange, Schoul    00705  00705                % 00909 CFLBUS
+200502003 Ernster, Naasswiss    00706  00706                % 00909 CFLBUS
+200502001 Ernster, Duerfplaz    00707  00707                % 00909 CFLBUS
+200502002 Ernster, Engelshaff   00708  00708                % 00909 CFLBUS
+200506003 Rameldange, Beiebier  00709  00709                % 00909 CFLBUS
+200506004 Rameldange, Beim Bës  00710  00710                % 00909 CFLBUS
+200506001 Rameldange, Am Duerf  00711  00711                % 00909 CFLBUS
+200506006 Rameldange, Op der B  00712  00712                % 00909 CFLBUS
+200503001 Hostert, Charlys Gar  00713  00713                % 00909 CFLBUS
+200409005 Dommeldange, Contour  00723  00723                % 00909 CFLBUS
+200419026 Limpertsberg, Theate  00728  00728                % 00909 CFLBUS
+200405014 Centre, Fondation Pe  00730  00730                % 00909 CFLBUS
+200405029 Luxembourg/Centre, R  00733  00733                % 00909 CFLBUS
+200405028 Centre, Rousegaertch  00736  00736                % 00909 CFLBUS
+200405036 Luxembourg, Gare rou  00740                       % 00909 CFLBUS
+*Z 00910 CFLBUS                                             % 00910 CFLBUS
+*L 121      200405036 180511002  01205  01243               % 00910 CFLBUS
+*A BE 200405036 180511002 000035  01205  01243              % 00910 CFLBUS
+*A vm 200405036 180511002 000035  01205  01243              % 00910 CFLBUS
+*A ad 200405036 180511002 000035  01205  01243              % 00910 CFLBUS
+*R 2 180511002 200405036 180511002  01205  01243            % 00910 CFLBUS
+*G RGB 200405036 180511002  01205  01243                    % 00910 CFLBUS
+*A VE 200405036 180511002 000035  01205  01243              % 00910 CFLBUS
+*I FD 200405036 180511002        0002102  01205  01243      % 00910 CFLBUS
+200405036 Luxembourg, Gare rou         01205                % 00910 CFLBUS
+200405028 Centre, Rousegaertch  01209  01209                % 00910 CFLBUS
+200405020 Hamilius              01212  01212                % 00910 CFLBUS
+200405014 Centre, Fondation Pe  01213  01213                % 00910 CFLBUS
+200419026 Limpertsberg, Theate  01215  01215                % 00910 CFLBUS
+200409005 Dommeldange, Contour  01220  01220                % 00910 CFLBUS
+200503001 Hostert, Charlys Gar  01230  01230                % 00910 CFLBUS
+200506006 Rameldange, Op der B  01231  01231                % 00910 CFLBUS
+200506001 Rameldange, Am Duerf  01231  01231                % 00910 CFLBUS
+200506004 Rameldange, Beim Bës  01233  01233                % 00910 CFLBUS
+200506003 Rameldange, Beiebier  01233  01233                % 00910 CFLBUS
+200502002 Ernster, Engelshaff   01234  01234                % 00910 CFLBUS
+200502001 Ernster, Duerfplaz    01236  01236                % 00910 CFLBUS
+200502003 Ernster, Naasswiss    01238  01238                % 00910 CFLBUS
+180508005 Gonderange, Schoul    01239  01239                % 00910 CFLBUS
+180508002 Gonderange, Eeschële  01240  01240                % 00910 CFLBUS
+180511002 Junglinster, Op der   01243                       % 00910 CFLBUS
+*Z 00911 CFLBUS                                             % 00911 CFLBUS
+*L 121      180511002 200405036  00700  00740               % 00911 CFLBUS
+*A bi 180511002 200405036 000034  00700  00740              % 00911 CFLBUS
+*A BE 180511002 200405036 000212  00700  00740              % 00911 CFLBUS
+*A vm 180511002 200405036 000034  00700  00740              % 00911 CFLBUS
+*A ad 180511002 200405036 000034  00700  00740              % 00911 CFLBUS
+*R 1 200405036 180511002 200405036  00700  00740            % 00911 CFLBUS
+*G RGB 180511002 200405036  00700  00740                    % 00911 CFLBUS
+*A VE 180511002 200405036 000034  00700  00740              % 00911 CFLBUS
+*I FD 180511002 200405036        0002152  00700  00740      % 00911 CFLBUS
+180511002 Junglinster, Op der          00700                % 00911 CFLBUS
+180508002 Gonderange, Eeschële  00703  00703                % 00911 CFLBUS
+180508005 Gonderange, Schoul    00705  00705                % 00911 CFLBUS
+200502003 Ernster, Naasswiss    00706  00706                % 00911 CFLBUS
+200502001 Ernster, Duerfplaz    00707  00707                % 00911 CFLBUS
+200502002 Ernster, Engelshaff   00708  00708                % 00911 CFLBUS
+200506003 Rameldange, Beiebier  00709  00709                % 00911 CFLBUS
+200506004 Rameldange, Beim Bës  00710  00710                % 00911 CFLBUS
+200506001 Rameldange, Am Duerf  00711  00711                % 00911 CFLBUS
+200506006 Rameldange, Op der B  00712  00712                % 00911 CFLBUS
+200503001 Hostert, Charlys Gar  00713  00713                % 00911 CFLBUS
+200409005 Dommeldange, Contour  00723  00723                % 00911 CFLBUS
+200419026 Limpertsberg, Theate  00728  00728                % 00911 CFLBUS
+200405014 Centre, Fondation Pe  00730  00730                % 00911 CFLBUS
+200405029 Luxembourg/Centre, R  00733  00733                % 00911 CFLBUS
+200405028 Centre, Rousegaertch  00736  00736                % 00911 CFLBUS
+200405036 Luxembourg, Gare rou  00740                       % 00911 CFLBUS
+*Z 00912 CFLBUS                                             % 00912 CFLBUS
+*L 121      200405036 180511002  01205  01243               % 00912 CFLBUS
+*A BE 200405036 180511002 000034  01205  01243              % 00912 CFLBUS
+*A vm 200405036 180511002 000034  01205  01243              % 00912 CFLBUS
+*A ad 200405036 180511002 000034  01205  01243              % 00912 CFLBUS
+*R 2 180511002 200405036 180511002  01205  01243            % 00912 CFLBUS
+*G RGB 200405036 180511002  01205  01243                    % 00912 CFLBUS
+*A VE 200405036 180511002 000034  01205  01243              % 00912 CFLBUS
+*I FD 200405036 180511002        0002102  01205  01243      % 00912 CFLBUS
+200405036 Luxembourg, Gare rou         01205                % 00912 CFLBUS
+200405028 Centre, Rousegaertch  01209  01209                % 00912 CFLBUS
+200405020 Hamilius              01212  01212                % 00912 CFLBUS
+200405014 Centre, Fondation Pe  01213  01213                % 00912 CFLBUS
+200419026 Limpertsberg, Theate  01215  01215                % 00912 CFLBUS
+200409005 Dommeldange, Contour  01220  01220                % 00912 CFLBUS
+200503001 Hostert, Charlys Gar  01230  01230                % 00912 CFLBUS
+200506006 Rameldange, Op der B  01231  01231                % 00912 CFLBUS
+200506001 Rameldange, Am Duerf  01231  01231                % 00912 CFLBUS
+200506004 Rameldange, Beim Bës  01233  01233                % 00912 CFLBUS
+200506003 Rameldange, Beiebier  01233  01233                % 00912 CFLBUS
+200502002 Ernster, Engelshaff   01234  01234                % 00912 CFLBUS
+200502001 Ernster, Duerfplaz    01236  01236                % 00912 CFLBUS
+200502003 Ernster, Naasswiss    01238  01238                % 00912 CFLBUS
+180508005 Gonderange, Schoul    01239  01239                % 00912 CFLBUS
+180508002 Gonderange, Eeschële  01240  01240                % 00912 CFLBUS
+180511002 Junglinster, Op der   01243                       % 00912 CFLBUS
+*Z 00913 CFLBUS                                             % 00913 CFLBUS
+*L 121      180511002 200405036  00700  00740               % 00913 CFLBUS
+*A BE 180511002 200405036 000025  00700  00740              % 00913 CFLBUS
+*A vm 180511002 200405036 000025  00700  00740              % 00913 CFLBUS
+*A ad 180511002 200405036 000025  00700  00740              % 00913 CFLBUS
+*R 1 200405036 180511002 200405036  00700  00740            % 00913 CFLBUS
+*G RGB 180511002 200405036  00700  00740                    % 00913 CFLBUS
+*A VE 180511002 200405036 000025  00700  00740              % 00913 CFLBUS
+*I FD 180511002 200405036        0002152  00700  00740      % 00913 CFLBUS
+180511002 Junglinster, Op der          00700                % 00913 CFLBUS
+180508002 Gonderange, Eeschële  00703  00703                % 00913 CFLBUS
+180508005 Gonderange, Schoul    00705  00705                % 00913 CFLBUS
+200502003 Ernster, Naasswiss    00706  00706                % 00913 CFLBUS
+200502001 Ernster, Duerfplaz    00707  00707                % 00913 CFLBUS
+200502002 Ernster, Engelshaff   00708  00708                % 00913 CFLBUS
+200506003 Rameldange, Beiebier  00709  00709                % 00913 CFLBUS
+200506004 Rameldange, Beim Bës  00710  00710                % 00913 CFLBUS
+200506001 Rameldange, Am Duerf  00711  00711                % 00913 CFLBUS
+200506006 Rameldange, Op der B  00712  00712                % 00913 CFLBUS
+200503001 Hostert, Charlys Gar  00713  00713                % 00913 CFLBUS
+200409005 Dommeldange, Contour  00723  00723                % 00913 CFLBUS
+200419026 Limpertsberg, Theate  00728  00728                % 00913 CFLBUS
+200405014 Centre, Fondation Pe  00730  00730                % 00913 CFLBUS
+200405029 Luxembourg/Centre, R  00733  00733                % 00913 CFLBUS
+200405028 Centre, Rousegaertch  00736  00736                % 00913 CFLBUS
+200405036 Luxembourg, Gare rou  00740                       % 00913 CFLBUS
+*Z 00914 CFLBUS                                             % 00914 CFLBUS
+*L 121      200405036 180511002  01205  01243               % 00914 CFLBUS
+*A BE 200405036 180511002 000213  01205  01243              % 00914 CFLBUS
+*A vm 200405036 180511002 000025  01205  01243              % 00914 CFLBUS
+*A ad 200405036 180511002 000025  01205  01243              % 00914 CFLBUS
+*R 2 180511002 200405036 180511002  01205  01243            % 00914 CFLBUS
+*G RGB 200405036 180511002  01205  01243                    % 00914 CFLBUS
+*A VE 200405036 180511002 000025  01205  01243              % 00914 CFLBUS
+*I FD 200405036 180511002        0002102  01205  01243      % 00914 CFLBUS
+200405036 Luxembourg, Gare rou         01205                % 00914 CFLBUS
+200405028 Centre, Rousegaertch  01209  01209                % 00914 CFLBUS
+200405020 Hamilius              01212  01212                % 00914 CFLBUS
+200405014 Centre, Fondation Pe  01213  01213                % 00914 CFLBUS
+200419026 Limpertsberg, Theate  01215  01215                % 00914 CFLBUS
+200409005 Dommeldange, Contour  01220  01220                % 00914 CFLBUS
+200503001 Hostert, Charlys Gar  01230  01230                % 00914 CFLBUS
+200506006 Rameldange, Op der B  01231  01231                % 00914 CFLBUS
+200506001 Rameldange, Am Duerf  01231  01231                % 00914 CFLBUS
+200506004 Rameldange, Beim Bës  01233  01233                % 00914 CFLBUS
+200506003 Rameldange, Beiebier  01233  01233                % 00914 CFLBUS
+200502002 Ernster, Engelshaff   01234  01234                % 00914 CFLBUS
+200502001 Ernster, Duerfplaz    01236  01236                % 00914 CFLBUS
+200502003 Ernster, Naasswiss    01238  01238                % 00914 CFLBUS
+180508005 Gonderange, Schoul    01239  01239                % 00914 CFLBUS
+180508002 Gonderange, Eeschële  01240  01240                % 00914 CFLBUS
+180511002 Junglinster, Op der   01243                       % 00914 CFLBUS
+*Z 00915 CFLBUS                                             % 00915 CFLBUS
+*L 121      180511002 200405036  00700  00740               % 00915 CFLBUS
+*A vm 180511002 200405036 000032  00700  00740              % 00915 CFLBUS
+*A ad 180511002 200405036 000032  00700  00740              % 00915 CFLBUS
+*R 1 200405036 180511002 200405036  00700  00740            % 00915 CFLBUS
+*G RGB 180511002 200405036  00700  00740                    % 00915 CFLBUS
+*A VE 180511002 200405036 000032  00700  00740              % 00915 CFLBUS
+*I FD 180511002 200405036        0002152  00700  00740      % 00915 CFLBUS
+180511002 Junglinster, Op der          00700                % 00915 CFLBUS
+180508002 Gonderange, Eeschële  00703  00703                % 00915 CFLBUS
+180508005 Gonderange, Schoul    00705  00705                % 00915 CFLBUS
+200502003 Ernster, Naasswiss    00706  00706                % 00915 CFLBUS
+200502001 Ernster, Duerfplaz    00707  00707                % 00915 CFLBUS
+200502002 Ernster, Engelshaff   00708  00708                % 00915 CFLBUS
+200506003 Rameldange, Beiebier  00709  00709                % 00915 CFLBUS
+200506004 Rameldange, Beim Bës  00710  00710                % 00915 CFLBUS
+200506001 Rameldange, Am Duerf  00711  00711                % 00915 CFLBUS
+200506006 Rameldange, Op der B  00712  00712                % 00915 CFLBUS
+200503001 Hostert, Charlys Gar  00713  00713                % 00915 CFLBUS
+200409005 Dommeldange, Contour  00723  00723                % 00915 CFLBUS
+200419026 Limpertsberg, Theate  00728  00728                % 00915 CFLBUS
+200405014 Centre, Fondation Pe  00730  00730                % 00915 CFLBUS
+200405029 Luxembourg/Centre, R  00733  00733                % 00915 CFLBUS
+200405028 Centre, Rousegaertch  00736  00736                % 00915 CFLBUS
+200405036 Luxembourg, Gare rou  00740                       % 00915 CFLBUS
+*Z 00916 CFLBUS                                             % 00916 CFLBUS
+*L 121      200405036 180511002  01204  01243               % 00916 CFLBUS
+*A vm 200405036 180511002 000032  01204  01243              % 00916 CFLBUS
+*A ad 200405036 180511002 000032  01204  01243              % 00916 CFLBUS
+*R 2 180511002 200405036 180511002  01204  01243            % 00916 CFLBUS
+*G RGB 200405036 180511002  01204  01243                    % 00916 CFLBUS
+*A VE 200405036 180511002 000032  01204  01243              % 00916 CFLBUS
+*I FD 200405036 180511002        0002102  01204  01243      % 00916 CFLBUS
+200405036 Luxembourg, Gare rou         01204                % 00916 CFLBUS
+200405028 Centre, Rousegaertch  01208  01208                % 00916 CFLBUS
+200405020 Hamilius              01211  01211                % 00916 CFLBUS
+200405014 Centre, Fondation Pe  01213  01213                % 00916 CFLBUS
+200419026 Limpertsberg, Theate  01215  01215                % 00916 CFLBUS
+200409005 Dommeldange, Contour  01220  01220                % 00916 CFLBUS
+200503001 Hostert, Charlys Gar  01230  01230                % 00916 CFLBUS
+200506006 Rameldange, Op der B  01231  01231                % 00916 CFLBUS
+200506001 Rameldange, Am Duerf  01231  01231                % 00916 CFLBUS
+200506004 Rameldange, Beim Bës  01232  01232                % 00916 CFLBUS
+200506003 Rameldange, Beiebier  01233  01233                % 00916 CFLBUS
+200502002 Ernster, Engelshaff   01234  01234                % 00916 CFLBUS
+200502001 Ernster, Duerfplaz    01235  01235                % 00916 CFLBUS
+200502003 Ernster, Naasswiss    01237  01237                % 00916 CFLBUS
+180508005 Gonderange, Schoul    01238  01238                % 00916 CFLBUS
+180508002 Gonderange, Eeschële  01239  01239                % 00916 CFLBUS
+180511002 Junglinster, Op der   01243                       % 00916 CFLBUS

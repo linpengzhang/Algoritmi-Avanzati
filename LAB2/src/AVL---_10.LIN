@@ -1,0 +1,1292 @@
+*F 03 2
+*Z 01187 AVL---       001 020                               % 01187 AVL---
+*L 10       200405035 200801005  00723  00754               % 01187 AVL---
+*A BE 200405035 200801005 000015  00723  00754              % 01187 AVL---
+*R 1 200801005 200405035 200801005  00723  00754            % 01187 AVL---
+*G AVG 200405035 200801005  00723  00754                    % 01187 AVL---
+*A VE 200405035 200801005 000015  00723  00754              % 01187 AVL---
+200405035 Luxembourg, Gare Cen         00723                % 01187 AVL---
+200405026 Luxembourg/Centre, P  00726  00726                % 01187 AVL---
+200405023 Centre, Martyrs       00727  00727                % 01187 AVL---
+200405020 Hamilius              00730  00730                % 01187 AVL---
+200405005 Centre, Badanstalt    00733  00733                % 01187 AVL---
+200419013 Limpertsberg, Crispi  00735  00735                % 01187 AVL---
+200410005 Eich, Octroi          00735  00735                % 01187 AVL---
+200410003 Eich, Eecher Plaz     00737  00737                % 01187 AVL---
+200410004 Eich, Klinik          00739  00739                % 01187 AVL---
+200409007 Dommeldange, Emile M  00740  00740                % 01187 AVL---
+200402005 Beggen, Henri Heyman  00741  00741                % 01187 AVL---
+200402002 Beggen, Binnchen      00742  00742                % 01187 AVL---
+200402006 Beggen, Kierch        00743  00743                % 01187 AVL---
+200402001 Beggen, Bastogne      00744  00744                % 01187 AVL---
+200402007 Beggen, Rue du Pont   00745  00745                % 01187 AVL---
+201001003 Bereldange, Schoul    00746  00746                % 01187 AVL---
+201001002 Bereldange, Police    00748  00748                % 01187 AVL---
+201001001 Bereldange, Elterstr  00749  00749                % 01187 AVL---
+200801004 Steinsel, Laval       00751  00751                % 01187 AVL---
+200801003 Steinsel, Gonneschha  00752  00752                % 01187 AVL---
+200801008 Steinsel, Um Gruef    00753  00753                % 01187 AVL---
+200801005 Steinsel, Michel Rod  00754                       % 01187 AVL---
+*Z 01188 AVL---       001 020                               % 01188 AVL---
+*L 10       200405035 200801005  01023  01054               % 01188 AVL---
+*A BE 200405035 200801005 000015  01023  01054              % 01188 AVL---
+*R 1 200801005 200405035 200801005  01023  01054            % 01188 AVL---
+*G AVG 200405035 200801005  01023  01054                    % 01188 AVL---
+*A VE 200405035 200801005 000015  01023  01054              % 01188 AVL---
+200405035 Luxembourg, Gare Cen         01023                % 01188 AVL---
+200405026 Luxembourg/Centre, P  01026  01026                % 01188 AVL---
+200405023 Centre, Martyrs       01027  01027                % 01188 AVL---
+200405020 Hamilius              01030  01030                % 01188 AVL---
+200405005 Centre, Badanstalt    01033  01033                % 01188 AVL---
+200419013 Limpertsberg, Crispi  01035  01035                % 01188 AVL---
+200410005 Eich, Octroi          01035  01035                % 01188 AVL---
+200410003 Eich, Eecher Plaz     01037  01037                % 01188 AVL---
+200410004 Eich, Klinik          01039  01039                % 01188 AVL---
+200409007 Dommeldange, Emile M  01040  01040                % 01188 AVL---
+200402005 Beggen, Henri Heyman  01041  01041                % 01188 AVL---
+200402002 Beggen, Binnchen      01042  01042                % 01188 AVL---
+200402006 Beggen, Kierch        01043  01043                % 01188 AVL---
+200402001 Beggen, Bastogne      01044  01044                % 01188 AVL---
+200402007 Beggen, Rue du Pont   01045  01045                % 01188 AVL---
+201001003 Bereldange, Schoul    01046  01046                % 01188 AVL---
+201001002 Bereldange, Police    01048  01048                % 01188 AVL---
+201001001 Bereldange, Elterstr  01049  01049                % 01188 AVL---
+200801004 Steinsel, Laval       01051  01051                % 01188 AVL---
+200801003 Steinsel, Gonneschha  01052  01052                % 01188 AVL---
+200801008 Steinsel, Um Gruef    01053  01053                % 01188 AVL---
+200801005 Steinsel, Michel Rod  01054                       % 01188 AVL---
+*Z 01189 AVL---       001 020                               % 01189 AVL---
+*L 10       200405035 200801005  01323  01354               % 01189 AVL---
+*A BE 200405035 200801005 000015  01323  01354              % 01189 AVL---
+*R 1 200801005 200405035 200801005  01323  01354            % 01189 AVL---
+*G AVG 200405035 200801005  01323  01354                    % 01189 AVL---
+*A VE 200405035 200801005 000015  01323  01354              % 01189 AVL---
+200405035 Luxembourg, Gare Cen         01323                % 01189 AVL---
+200405026 Luxembourg/Centre, P  01326  01326                % 01189 AVL---
+200405023 Centre, Martyrs       01327  01327                % 01189 AVL---
+200405020 Hamilius              01330  01330                % 01189 AVL---
+200405005 Centre, Badanstalt    01333  01333                % 01189 AVL---
+200419013 Limpertsberg, Crispi  01335  01335                % 01189 AVL---
+200410005 Eich, Octroi          01335  01335                % 01189 AVL---
+200410003 Eich, Eecher Plaz     01337  01337                % 01189 AVL---
+200410004 Eich, Klinik          01339  01339                % 01189 AVL---
+200409007 Dommeldange, Emile M  01340  01340                % 01189 AVL---
+200402005 Beggen, Henri Heyman  01341  01341                % 01189 AVL---
+200402002 Beggen, Binnchen      01342  01342                % 01189 AVL---
+200402006 Beggen, Kierch        01343  01343                % 01189 AVL---
+200402001 Beggen, Bastogne      01344  01344                % 01189 AVL---
+200402007 Beggen, Rue du Pont   01345  01345                % 01189 AVL---
+201001003 Bereldange, Schoul    01346  01346                % 01189 AVL---
+201001002 Bereldange, Police    01348  01348                % 01189 AVL---
+201001001 Bereldange, Elterstr  01349  01349                % 01189 AVL---
+200801004 Steinsel, Laval       01351  01351                % 01189 AVL---
+200801003 Steinsel, Gonneschha  01352  01352                % 01189 AVL---
+200801008 Steinsel, Um Gruef    01353  01353                % 01189 AVL---
+200801005 Steinsel, Michel Rod  01354                       % 01189 AVL---
+*Z 01190 AVL---       001 020                               % 01190 AVL---
+*L 10       200405035 200801005  01623  01654               % 01190 AVL---
+*A BE 200405035 200801005 000015  01623  01654              % 01190 AVL---
+*R 1 200801005 200405035 200801005  01623  01654            % 01190 AVL---
+*G AVG 200405035 200801005  01623  01654                    % 01190 AVL---
+*A VE 200405035 200801005 000015  01623  01654              % 01190 AVL---
+200405035 Luxembourg, Gare Cen         01623                % 01190 AVL---
+200405026 Luxembourg/Centre, P  01626  01626                % 01190 AVL---
+200405023 Centre, Martyrs       01627  01627                % 01190 AVL---
+200405020 Hamilius              01630  01630                % 01190 AVL---
+200405005 Centre, Badanstalt    01633  01633                % 01190 AVL---
+200419013 Limpertsberg, Crispi  01635  01635                % 01190 AVL---
+200410005 Eich, Octroi          01635  01635                % 01190 AVL---
+200410003 Eich, Eecher Plaz     01637  01637                % 01190 AVL---
+200410004 Eich, Klinik          01639  01639                % 01190 AVL---
+200409007 Dommeldange, Emile M  01640  01640                % 01190 AVL---
+200402005 Beggen, Henri Heyman  01641  01641                % 01190 AVL---
+200402002 Beggen, Binnchen      01642  01642                % 01190 AVL---
+200402006 Beggen, Kierch        01643  01643                % 01190 AVL---
+200402001 Beggen, Bastogne      01644  01644                % 01190 AVL---
+200402007 Beggen, Rue du Pont   01645  01645                % 01190 AVL---
+201001003 Bereldange, Schoul    01646  01646                % 01190 AVL---
+201001002 Bereldange, Police    01648  01648                % 01190 AVL---
+201001001 Bereldange, Elterstr  01649  01649                % 01190 AVL---
+200801004 Steinsel, Laval       01651  01651                % 01190 AVL---
+200801003 Steinsel, Gonneschha  01652  01652                % 01190 AVL---
+200801008 Steinsel, Um Gruef    01653  01653                % 01190 AVL---
+200801005 Steinsel, Michel Rod  01654                       % 01190 AVL---
+*Z 01191 AVL---       001 020                               % 01191 AVL---
+*L 10       200405035 200801005  01923  01954               % 01191 AVL---
+*A BE 200405035 200801005 000015  01923  01954              % 01191 AVL---
+*R 1 200801005 200405035 200801005  01923  01954            % 01191 AVL---
+*G AVG 200405035 200801005  01923  01954                    % 01191 AVL---
+*A VE 200405035 200801005 000015  01923  01954              % 01191 AVL---
+200405035 Luxembourg, Gare Cen         01923                % 01191 AVL---
+200405026 Luxembourg/Centre, P  01926  01926                % 01191 AVL---
+200405023 Centre, Martyrs       01927  01927                % 01191 AVL---
+200405020 Hamilius              01930  01930                % 01191 AVL---
+200405005 Centre, Badanstalt    01933  01933                % 01191 AVL---
+200419013 Limpertsberg, Crispi  01935  01935                % 01191 AVL---
+200410005 Eich, Octroi          01935  01935                % 01191 AVL---
+200410003 Eich, Eecher Plaz     01937  01937                % 01191 AVL---
+200410004 Eich, Klinik          01939  01939                % 01191 AVL---
+200409007 Dommeldange, Emile M  01940  01940                % 01191 AVL---
+200402005 Beggen, Henri Heyman  01941  01941                % 01191 AVL---
+200402002 Beggen, Binnchen      01942  01942                % 01191 AVL---
+200402006 Beggen, Kierch        01943  01943                % 01191 AVL---
+200402001 Beggen, Bastogne      01944  01944                % 01191 AVL---
+200402007 Beggen, Rue du Pont   01945  01945                % 01191 AVL---
+201001003 Bereldange, Schoul    01946  01946                % 01191 AVL---
+201001002 Bereldange, Police    01948  01948                % 01191 AVL---
+201001001 Bereldange, Elterstr  01949  01949                % 01191 AVL---
+200801004 Steinsel, Laval       01951  01951                % 01191 AVL---
+200801003 Steinsel, Gonneschha  01952  01952                % 01191 AVL---
+200801008 Steinsel, Um Gruef    01953  01953                % 01191 AVL---
+200801005 Steinsel, Michel Rod  01954                       % 01191 AVL---
+*Z 01192 AVL---                                             % 01192 AVL---
+*L 10       200405035 200801005  00522  00546               % 01192 AVL---
+*A BE 200405035 200801005 000015  00522  00546              % 01192 AVL---
+*R 1 200801005 200405035 200801005  00522  00546            % 01192 AVL---
+*G AVG 200405035 200801005  00522  00546                    % 01192 AVL---
+*A VE 200405035 200801005 000015  00522  00546              % 01192 AVL---
+200405035 Luxembourg, Gare Cen         00522                % 01192 AVL---
+200405026 Luxembourg/Centre, P  00524  00524                % 01192 AVL---
+200405023 Centre, Martyrs       00525  00525                % 01192 AVL---
+200405020 Hamilius              00528  00528                % 01192 AVL---
+200405005 Centre, Badanstalt    00530  00530                % 01192 AVL---
+200419013 Limpertsberg, Crispi  00532  00532                % 01192 AVL---
+200410005 Eich, Octroi          00532  00532                % 01192 AVL---
+200410003 Eich, Eecher Plaz     00533  00533                % 01192 AVL---
+200410004 Eich, Klinik          00535  00535                % 01192 AVL---
+200409007 Dommeldange, Emile M  00536  00536                % 01192 AVL---
+200402005 Beggen, Henri Heyman  00536  00536                % 01192 AVL---
+200402002 Beggen, Binnchen      00537  00537                % 01192 AVL---
+200402006 Beggen, Kierch        00537  00537                % 01192 AVL---
+200402001 Beggen, Bastogne      00538  00538                % 01192 AVL---
+200402007 Beggen, Rue du Pont   00539  00539                % 01192 AVL---
+201001003 Bereldange, Schoul    00540  00540                % 01192 AVL---
+201001002 Bereldange, Police    00541  00541                % 01192 AVL---
+201001001 Bereldange, Elterstr  00542  00542                % 01192 AVL---
+200801004 Steinsel, Laval       00544  00544                % 01192 AVL---
+200801003 Steinsel, Gonneschha  00545  00545                % 01192 AVL---
+200801008 Steinsel, Um Gruef    00545  00545                % 01192 AVL---
+200801005 Steinsel, Michel Rod  00546                       % 01192 AVL---
+*Z 01193 AVL---       001 020                               % 01193 AVL---
+*L 10       200801005 200405035  00645  00715               % 01193 AVL---
+*A BE 200801005 200405035 000015  00645  00715              % 01193 AVL---
+*R 2 200405035 200801005 200405035  00645  00715            % 01193 AVL---
+*G AVG 200801005 200405035  00645  00715                    % 01193 AVL---
+*A VE 200801005 200405035 000015  00645  00715              % 01193 AVL---
+200801005 Steinsel, Michel Rod         00645                % 01193 AVL---
+200801003 Steinsel, Gonneschha  00646  00646                % 01193 AVL---
+200801004 Steinsel, Laval       00647  00647                % 01193 AVL---
+201001001 Bereldange, Elterstr  00649  00649                % 01193 AVL---
+201001002 Bereldange, Police    00651  00651                % 01193 AVL---
+201001003 Bereldange, Schoul    00652  00652                % 01193 AVL---
+200402007 Beggen, Rue du Pont   00654  00654                % 01193 AVL---
+200402001 Beggen, Bastogne      00655  00655                % 01193 AVL---
+200402006 Beggen, Kierch        00656  00656                % 01193 AVL---
+200402002 Beggen, Binnchen      00657  00657                % 01193 AVL---
+200402005 Beggen, Henri Heyman  00658  00658                % 01193 AVL---
+200409007 Dommeldange, Emile M  00659  00659                % 01193 AVL---
+200410004 Eich, Klinik          00700  00700                % 01193 AVL---
+200410003 Eich, Eecher Plaz     00702  00702                % 01193 AVL---
+200410005 Eich, Octroi          00703  00703                % 01193 AVL---
+200419013 Limpertsberg, Crispi  00704  00704                % 01193 AVL---
+200405005 Centre, Badanstalt    00706  00706                % 01193 AVL---
+200405020 Hamilius              00710  00710                % 01193 AVL---
+200405023 Centre, Martyrs       00711  00711                % 01193 AVL---
+200405026 Luxembourg/Centre, P  00713  00713                % 01193 AVL---
+200405035 Luxembourg, Gare Cen  00715                       % 01193 AVL---
+*Z 01194 AVL---       001 020                               % 01194 AVL---
+*L 10       200801005 200405035  00945  01015               % 01194 AVL---
+*A BE 200801005 200405035 000015  00945  01015              % 01194 AVL---
+*R 2 200405035 200801005 200405035  00945  01015            % 01194 AVL---
+*G AVG 200801005 200405035  00945  01015                    % 01194 AVL---
+*A VE 200801005 200405035 000015  00945  01015              % 01194 AVL---
+200801005 Steinsel, Michel Rod         00945                % 01194 AVL---
+200801003 Steinsel, Gonneschha  00946  00946                % 01194 AVL---
+200801004 Steinsel, Laval       00947  00947                % 01194 AVL---
+201001001 Bereldange, Elterstr  00949  00949                % 01194 AVL---
+201001002 Bereldange, Police    00951  00951                % 01194 AVL---
+201001003 Bereldange, Schoul    00952  00952                % 01194 AVL---
+200402007 Beggen, Rue du Pont   00954  00954                % 01194 AVL---
+200402001 Beggen, Bastogne      00955  00955                % 01194 AVL---
+200402006 Beggen, Kierch        00956  00956                % 01194 AVL---
+200402002 Beggen, Binnchen      00957  00957                % 01194 AVL---
+200402005 Beggen, Henri Heyman  00958  00958                % 01194 AVL---
+200409007 Dommeldange, Emile M  00959  00959                % 01194 AVL---
+200410004 Eich, Klinik          01000  01000                % 01194 AVL---
+200410003 Eich, Eecher Plaz     01002  01002                % 01194 AVL---
+200410005 Eich, Octroi          01003  01003                % 01194 AVL---
+200419013 Limpertsberg, Crispi  01004  01004                % 01194 AVL---
+200405005 Centre, Badanstalt    01006  01006                % 01194 AVL---
+200405020 Hamilius              01010  01010                % 01194 AVL---
+200405023 Centre, Martyrs       01011  01011                % 01194 AVL---
+200405026 Luxembourg/Centre, P  01013  01013                % 01194 AVL---
+200405035 Luxembourg, Gare Cen  01015                       % 01194 AVL---
+*Z 01195 AVL---       001 020                               % 01195 AVL---
+*L 10       200801005 200405035  01245  01315               % 01195 AVL---
+*A BE 200801005 200405035 000015  01245  01315              % 01195 AVL---
+*R 2 200405035 200801005 200405035  01245  01315            % 01195 AVL---
+*G AVG 200801005 200405035  01245  01315                    % 01195 AVL---
+*A VE 200801005 200405035 000015  01245  01315              % 01195 AVL---
+200801005 Steinsel, Michel Rod         01245                % 01195 AVL---
+200801003 Steinsel, Gonneschha  01246  01246                % 01195 AVL---
+200801004 Steinsel, Laval       01247  01247                % 01195 AVL---
+201001001 Bereldange, Elterstr  01249  01249                % 01195 AVL---
+201001002 Bereldange, Police    01251  01251                % 01195 AVL---
+201001003 Bereldange, Schoul    01252  01252                % 01195 AVL---
+200402007 Beggen, Rue du Pont   01254  01254                % 01195 AVL---
+200402001 Beggen, Bastogne      01255  01255                % 01195 AVL---
+200402006 Beggen, Kierch        01256  01256                % 01195 AVL---
+200402002 Beggen, Binnchen      01257  01257                % 01195 AVL---
+200402005 Beggen, Henri Heyman  01258  01258                % 01195 AVL---
+200409007 Dommeldange, Emile M  01259  01259                % 01195 AVL---
+200410004 Eich, Klinik          01300  01300                % 01195 AVL---
+200410003 Eich, Eecher Plaz     01302  01302                % 01195 AVL---
+200410005 Eich, Octroi          01303  01303                % 01195 AVL---
+200419013 Limpertsberg, Crispi  01304  01304                % 01195 AVL---
+200405005 Centre, Badanstalt    01306  01306                % 01195 AVL---
+200405020 Hamilius              01310  01310                % 01195 AVL---
+200405023 Centre, Martyrs       01311  01311                % 01195 AVL---
+200405026 Luxembourg/Centre, P  01313  01313                % 01195 AVL---
+200405035 Luxembourg, Gare Cen  01315                       % 01195 AVL---
+*Z 01196 AVL---       001 020                               % 01196 AVL---
+*L 10       200801005 200405035  01545  01615               % 01196 AVL---
+*A BE 200801005 200405035 000015  01545  01615              % 01196 AVL---
+*R 2 200405035 200801005 200405035  01545  01615            % 01196 AVL---
+*G AVG 200801005 200405035  01545  01615                    % 01196 AVL---
+*A VE 200801005 200405035 000015  01545  01615              % 01196 AVL---
+200801005 Steinsel, Michel Rod         01545                % 01196 AVL---
+200801003 Steinsel, Gonneschha  01546  01546                % 01196 AVL---
+200801004 Steinsel, Laval       01547  01547                % 01196 AVL---
+201001001 Bereldange, Elterstr  01549  01549                % 01196 AVL---
+201001002 Bereldange, Police    01551  01551                % 01196 AVL---
+201001003 Bereldange, Schoul    01552  01552                % 01196 AVL---
+200402007 Beggen, Rue du Pont   01554  01554                % 01196 AVL---
+200402001 Beggen, Bastogne      01555  01555                % 01196 AVL---
+200402006 Beggen, Kierch        01556  01556                % 01196 AVL---
+200402002 Beggen, Binnchen      01557  01557                % 01196 AVL---
+200402005 Beggen, Henri Heyman  01558  01558                % 01196 AVL---
+200409007 Dommeldange, Emile M  01559  01559                % 01196 AVL---
+200410004 Eich, Klinik          01600  01600                % 01196 AVL---
+200410003 Eich, Eecher Plaz     01602  01602                % 01196 AVL---
+200410005 Eich, Octroi          01603  01603                % 01196 AVL---
+200419013 Limpertsberg, Crispi  01604  01604                % 01196 AVL---
+200405005 Centre, Badanstalt    01606  01606                % 01196 AVL---
+200405020 Hamilius              01610  01610                % 01196 AVL---
+200405023 Centre, Martyrs       01611  01611                % 01196 AVL---
+200405026 Luxembourg/Centre, P  01613  01613                % 01196 AVL---
+200405035 Luxembourg, Gare Cen  01615                       % 01196 AVL---
+*Z 01197 AVL---       001 020                               % 01197 AVL---
+*L 10       200801005 200405035  01845  01915               % 01197 AVL---
+*A BE 200801005 200405035 000015  01845  01915              % 01197 AVL---
+*R 2 200405035 200801005 200405035  01845  01915            % 01197 AVL---
+*G AVG 200801005 200405035  01845  01915                    % 01197 AVL---
+*A VE 200801005 200405035 000015  01845  01915              % 01197 AVL---
+200801005 Steinsel, Michel Rod         01845                % 01197 AVL---
+200801003 Steinsel, Gonneschha  01846  01846                % 01197 AVL---
+200801004 Steinsel, Laval       01847  01847                % 01197 AVL---
+201001001 Bereldange, Elterstr  01849  01849                % 01197 AVL---
+201001002 Bereldange, Police    01851  01851                % 01197 AVL---
+201001003 Bereldange, Schoul    01852  01852                % 01197 AVL---
+200402007 Beggen, Rue du Pont   01854  01854                % 01197 AVL---
+200402001 Beggen, Bastogne      01855  01855                % 01197 AVL---
+200402006 Beggen, Kierch        01856  01856                % 01197 AVL---
+200402002 Beggen, Binnchen      01857  01857                % 01197 AVL---
+200402005 Beggen, Henri Heyman  01858  01858                % 01197 AVL---
+200409007 Dommeldange, Emile M  01859  01859                % 01197 AVL---
+200410004 Eich, Klinik          01900  01900                % 01197 AVL---
+200410003 Eich, Eecher Plaz     01902  01902                % 01197 AVL---
+200410005 Eich, Octroi          01903  01903                % 01197 AVL---
+200419013 Limpertsberg, Crispi  01904  01904                % 01197 AVL---
+200405005 Centre, Badanstalt    01906  01906                % 01197 AVL---
+200405020 Hamilius              01910  01910                % 01197 AVL---
+200405023 Centre, Martyrs       01911  01911                % 01197 AVL---
+200405026 Luxembourg/Centre, P  01913  01913                % 01197 AVL---
+200405035 Luxembourg, Gare Cen  01915                       % 01197 AVL---
+*Z 01198 AVL---       017 040                               % 01198 AVL---
+*L 10       200801005 200405035  00757  00825               % 01198 AVL---
+*A BE 200801005 200405035 000021  00757  00825              % 01198 AVL---
+*R 2 200405035 200801005 200405035  00757  00825            % 01198 AVL---
+*G AVG 200801005 200405035  00757  00825                    % 01198 AVL---
+*A VE 200801005 200405035 000021  00757  00825              % 01198 AVL---
+200801005 Steinsel, Michel Rod         00757                % 01198 AVL---
+200801003 Steinsel, Gonneschha  00759  00759                % 01198 AVL---
+200801004 Steinsel, Laval       00800  00800                % 01198 AVL---
+201001001 Bereldange, Elterstr  00801  00801                % 01198 AVL---
+201001002 Bereldange, Police    00803  00803                % 01198 AVL---
+201001003 Bereldange, Schoul    00804  00804                % 01198 AVL---
+200402007 Beggen, Rue du Pont   00806  00806                % 01198 AVL---
+200402001 Beggen, Bastogne      00807  00807                % 01198 AVL---
+200402006 Beggen, Kierch        00808  00808                % 01198 AVL---
+200402002 Beggen, Binnchen      00808  00808                % 01198 AVL---
+200402005 Beggen, Henri Heyman  00809  00809                % 01198 AVL---
+200409007 Dommeldange, Emile M  00810  00810                % 01198 AVL---
+200410004 Eich, Klinik          00811  00811                % 01198 AVL---
+200410003 Eich, Eecher Plaz     00813  00813                % 01198 AVL---
+200410005 Eich, Octroi          00814  00814                % 01198 AVL---
+200419013 Limpertsberg, Crispi  00814  00814                % 01198 AVL---
+200405005 Centre, Badanstalt    00817  00817                % 01198 AVL---
+200405020 Hamilius              00820  00820                % 01198 AVL---
+200405023 Centre, Martyrs       00821  00821                % 01198 AVL---
+200405026 Luxembourg/Centre, P  00823  00823                % 01198 AVL---
+200405035 Luxembourg, Gare Cen  00825                       % 01198 AVL---
+*Z 01199 AVL---                                             % 01199 AVL---
+*L 10       200801005 200405035  01959  02024               % 01199 AVL---
+*A BE 200801005 200405035 000021  01959  02024              % 01199 AVL---
+*R 2 200405035 200801005 200405035  01959  02024            % 01199 AVL---
+*G AVG 200801005 200405035  01959  02024                    % 01199 AVL---
+*A VE 200801005 200405035 000021  01959  02024              % 01199 AVL---
+200801005 Steinsel, Michel Rod         01959                % 01199 AVL---
+200801003 Steinsel, Gonneschha  02000  02000                % 01199 AVL---
+200801004 Steinsel, Laval       02001  02001                % 01199 AVL---
+201001001 Bereldange, Elterstr  02003  02003                % 01199 AVL---
+201001002 Bereldange, Police    02004  02004                % 01199 AVL---
+201001003 Bereldange, Schoul    02005  02005                % 01199 AVL---
+200402007 Beggen, Rue du Pont   02007  02007                % 01199 AVL---
+200402001 Beggen, Bastogne      02008  02008                % 01199 AVL---
+200402006 Beggen, Kierch        02009  02009                % 01199 AVL---
+200402002 Beggen, Binnchen      02009  02009                % 01199 AVL---
+200402005 Beggen, Henri Heyman  02010  02010                % 01199 AVL---
+200409007 Dommeldange, Emile M  02011  02011                % 01199 AVL---
+200410004 Eich, Klinik          02012  02012                % 01199 AVL---
+200410003 Eich, Eecher Plaz     02013  02013                % 01199 AVL---
+200410005 Eich, Octroi          02014  02014                % 01199 AVL---
+200419013 Limpertsberg, Crispi  02015  02015                % 01199 AVL---
+200405005 Centre, Badanstalt    02017  02017                % 01199 AVL---
+200405020 Hamilius              02020  02020                % 01199 AVL---
+200405023 Centre, Martyrs       02021  02021                % 01199 AVL---
+200405026 Luxembourg/Centre, P  02022  02022                % 01199 AVL---
+200405035 Luxembourg, Gare Cen  02024                       % 01199 AVL---
+*Z 01200 AVL---                                             % 01200 AVL---
+*L 10       200405035 200801005  00522  00546               % 01200 AVL---
+*A BE 200405035 200801005 000014  00522  00546              % 01200 AVL---
+*R 1 200801005 200405035 200801005  00522  00546            % 01200 AVL---
+*G AVG 200405035 200801005  00522  00546                    % 01200 AVL---
+*A VE 200405035 200801005 000014  00522  00546              % 01200 AVL---
+200405035 Luxembourg, Gare Cen         00522                % 01200 AVL---
+200405026 Luxembourg/Centre, P  00524  00524                % 01200 AVL---
+200405023 Centre, Martyrs       00525  00525                % 01200 AVL---
+200405020 Hamilius              00528  00528                % 01200 AVL---
+200405005 Centre, Badanstalt    00530  00530                % 01200 AVL---
+200419013 Limpertsberg, Crispi  00532  00532                % 01200 AVL---
+200410005 Eich, Octroi          00532  00532                % 01200 AVL---
+200410003 Eich, Eecher Plaz     00533  00533                % 01200 AVL---
+200410004 Eich, Klinik          00535  00535                % 01200 AVL---
+200409007 Dommeldange, Emile M  00536  00536                % 01200 AVL---
+200402005 Beggen, Henri Heyman  00536  00536                % 01200 AVL---
+200402002 Beggen, Binnchen      00537  00537                % 01200 AVL---
+200402006 Beggen, Kierch        00537  00537                % 01200 AVL---
+200402001 Beggen, Bastogne      00538  00538                % 01200 AVL---
+200402007 Beggen, Rue du Pont   00539  00539                % 01200 AVL---
+201001003 Bereldange, Schoul    00540  00540                % 01200 AVL---
+201001002 Bereldange, Police    00541  00541                % 01200 AVL---
+201001001 Bereldange, Elterstr  00542  00542                % 01200 AVL---
+200801004 Steinsel, Laval       00544  00544                % 01200 AVL---
+200801003 Steinsel, Gonneschha  00545  00545                % 01200 AVL---
+200801008 Steinsel, Um Gruef    00545  00545                % 01200 AVL---
+200801005 Steinsel, Michel Rod  00546                       % 01200 AVL---
+*Z 01201 AVL---       001 150                               % 01201 AVL---
+*L 10       200405035 200801005  00822  00846               % 01201 AVL---
+*A BE 200405035 200801005 000018  00822  00846              % 01201 AVL---
+*R 1 200801005 200405035 200801005  00822  00846            % 01201 AVL---
+*G AVS 200405035 200801005  00822  00846                    % 01201 AVL---
+*A VE 200405035 200801005 000018  00822  00846              % 01201 AVL---
+200405035 Luxembourg, Gare Cen         00822                % 01201 AVL---
+200405026 Luxembourg/Centre, P  00824  00824                % 01201 AVL---
+200405023 Centre, Martyrs       00825  00825                % 01201 AVL---
+200405020 Hamilius              00828  00828                % 01201 AVL---
+200405005 Centre, Badanstalt    00830  00830                % 01201 AVL---
+200419013 Limpertsberg, Crispi  00832  00832                % 01201 AVL---
+200410005 Eich, Octroi          00832  00832                % 01201 AVL---
+200410003 Eich, Eecher Plaz     00833  00833                % 01201 AVL---
+200410004 Eich, Klinik          00835  00835                % 01201 AVL---
+200409007 Dommeldange, Emile M  00836  00836                % 01201 AVL---
+200402005 Beggen, Henri Heyman  00836  00836                % 01201 AVL---
+200402002 Beggen, Binnchen      00837  00837                % 01201 AVL---
+200402006 Beggen, Kierch        00837  00837                % 01201 AVL---
+200402001 Beggen, Bastogne      00838  00838                % 01201 AVL---
+200402007 Beggen, Rue du Pont   00839  00839                % 01201 AVL---
+201001003 Bereldange, Schoul    00840  00840                % 01201 AVL---
+201001002 Bereldange, Police    00841  00841                % 01201 AVL---
+201001001 Bereldange, Elterstr  00842  00842                % 01201 AVL---
+200801004 Steinsel, Laval       00844  00844                % 01201 AVL---
+200801003 Steinsel, Gonneschha  00845  00845                % 01201 AVL---
+200801008 Steinsel, Um Gruef    00845  00845                % 01201 AVL---
+200801005 Steinsel, Michel Rod  00846                       % 01201 AVL---
+*Z 01202 AVL---       002 150                               % 01202 AVL---
+*L 10       200405035 200801005  01322  01348               % 01202 AVL---
+*A BE 200405035 200801005 000018  01322  01348              % 01202 AVL---
+*R 1 200801005 200405035 200801005  01322  01348            % 01202 AVL---
+*G AVS 200405035 200801005  01322  01348                    % 01202 AVL---
+*A VE 200405035 200801005 000018  01322  01348              % 01202 AVL---
+200405035 Luxembourg, Gare Cen         01322                % 01202 AVL---
+200405026 Luxembourg/Centre, P  01324  01324                % 01202 AVL---
+200405023 Centre, Martyrs       01325  01325                % 01202 AVL---
+200405020 Hamilius              01328  01328                % 01202 AVL---
+200405005 Centre, Badanstalt    01330  01330                % 01202 AVL---
+200419013 Limpertsberg, Crispi  01332  01332                % 01202 AVL---
+200410005 Eich, Octroi          01332  01332                % 01202 AVL---
+200410003 Eich, Eecher Plaz     01334  01334                % 01202 AVL---
+200410004 Eich, Klinik          01335  01335                % 01202 AVL---
+200409007 Dommeldange, Emile M  01336  01336                % 01202 AVL---
+200402005 Beggen, Henri Heyman  01337  01337                % 01202 AVL---
+200402002 Beggen, Binnchen      01338  01338                % 01202 AVL---
+200402006 Beggen, Kierch        01338  01338                % 01202 AVL---
+200402001 Beggen, Bastogne      01339  01339                % 01202 AVL---
+200402007 Beggen, Rue du Pont   01340  01340                % 01202 AVL---
+201001003 Bereldange, Schoul    01341  01341                % 01202 AVL---
+201001002 Bereldange, Police    01343  01343                % 01202 AVL---
+201001001 Bereldange, Elterstr  01344  01344                % 01202 AVL---
+200801004 Steinsel, Laval       01346  01346                % 01202 AVL---
+200801003 Steinsel, Gonneschha  01346  01346                % 01202 AVL---
+200801008 Steinsel, Um Gruef    01347  01347                % 01202 AVL---
+200801005 Steinsel, Michel Rod  01348                       % 01202 AVL---
+*Z 01203 AVL---       001 020                               % 01203 AVL---
+*L 10       200405035 200801005  00723  00754               % 01203 AVL---
+*A BE 200405035 200801005 000014  00723  00754              % 01203 AVL---
+*R 1 200801005 200405035 200801005  00723  00754            % 01203 AVL---
+*G AVG 200405035 200801005  00723  00754                    % 01203 AVL---
+*A VE 200405035 200801005 000014  00723  00754              % 01203 AVL---
+200405035 Luxembourg, Gare Cen         00723                % 01203 AVL---
+200405026 Luxembourg/Centre, P  00726  00726                % 01203 AVL---
+200405023 Centre, Martyrs       00727  00727                % 01203 AVL---
+200405020 Hamilius              00730  00730                % 01203 AVL---
+200405005 Centre, Badanstalt    00733  00733                % 01203 AVL---
+200419013 Limpertsberg, Crispi  00735  00735                % 01203 AVL---
+200410005 Eich, Octroi          00735  00735                % 01203 AVL---
+200410003 Eich, Eecher Plaz     00737  00737                % 01203 AVL---
+200410004 Eich, Klinik          00739  00739                % 01203 AVL---
+200409007 Dommeldange, Emile M  00740  00740                % 01203 AVL---
+200402005 Beggen, Henri Heyman  00741  00741                % 01203 AVL---
+200402002 Beggen, Binnchen      00742  00742                % 01203 AVL---
+200402006 Beggen, Kierch        00743  00743                % 01203 AVL---
+200402001 Beggen, Bastogne      00744  00744                % 01203 AVL---
+200402007 Beggen, Rue du Pont   00745  00745                % 01203 AVL---
+201001003 Bereldange, Schoul    00746  00746                % 01203 AVL---
+201001002 Bereldange, Police    00748  00748                % 01203 AVL---
+201001001 Bereldange, Elterstr  00749  00749                % 01203 AVL---
+200801004 Steinsel, Laval       00751  00751                % 01203 AVL---
+200801003 Steinsel, Gonneschha  00752  00752                % 01203 AVL---
+200801008 Steinsel, Um Gruef    00753  00753                % 01203 AVL---
+200801005 Steinsel, Michel Rod  00754                       % 01203 AVL---
+*Z 01204 AVL---       001 020                               % 01204 AVL---
+*L 10       200405035 200801005  01023  01054               % 01204 AVL---
+*A BE 200405035 200801005 000014  01023  01054              % 01204 AVL---
+*R 1 200801005 200405035 200801005  01023  01054            % 01204 AVL---
+*G AVG 200405035 200801005  01023  01054                    % 01204 AVL---
+*A VE 200405035 200801005 000014  01023  01054              % 01204 AVL---
+200405035 Luxembourg, Gare Cen         01023                % 01204 AVL---
+200405026 Luxembourg/Centre, P  01026  01026                % 01204 AVL---
+200405023 Centre, Martyrs       01027  01027                % 01204 AVL---
+200405020 Hamilius              01030  01030                % 01204 AVL---
+200405005 Centre, Badanstalt    01033  01033                % 01204 AVL---
+200419013 Limpertsberg, Crispi  01035  01035                % 01204 AVL---
+200410005 Eich, Octroi          01035  01035                % 01204 AVL---
+200410003 Eich, Eecher Plaz     01037  01037                % 01204 AVL---
+200410004 Eich, Klinik          01039  01039                % 01204 AVL---
+200409007 Dommeldange, Emile M  01040  01040                % 01204 AVL---
+200402005 Beggen, Henri Heyman  01041  01041                % 01204 AVL---
+200402002 Beggen, Binnchen      01042  01042                % 01204 AVL---
+200402006 Beggen, Kierch        01043  01043                % 01204 AVL---
+200402001 Beggen, Bastogne      01044  01044                % 01204 AVL---
+200402007 Beggen, Rue du Pont   01045  01045                % 01204 AVL---
+201001003 Bereldange, Schoul    01046  01046                % 01204 AVL---
+201001002 Bereldange, Police    01048  01048                % 01204 AVL---
+201001001 Bereldange, Elterstr  01049  01049                % 01204 AVL---
+200801004 Steinsel, Laval       01051  01051                % 01204 AVL---
+200801003 Steinsel, Gonneschha  01052  01052                % 01204 AVL---
+200801008 Steinsel, Um Gruef    01053  01053                % 01204 AVL---
+200801005 Steinsel, Michel Rod  01054                       % 01204 AVL---
+*Z 01205 AVL---       001 020                               % 01205 AVL---
+*L 10       200405035 200801005  01323  01354               % 01205 AVL---
+*A BE 200405035 200801005 000014  01323  01354              % 01205 AVL---
+*R 1 200801005 200405035 200801005  01323  01354            % 01205 AVL---
+*G AVG 200405035 200801005  01323  01354                    % 01205 AVL---
+*A VE 200405035 200801005 000014  01323  01354              % 01205 AVL---
+200405035 Luxembourg, Gare Cen         01323                % 01205 AVL---
+200405026 Luxembourg/Centre, P  01326  01326                % 01205 AVL---
+200405023 Centre, Martyrs       01327  01327                % 01205 AVL---
+200405020 Hamilius              01330  01330                % 01205 AVL---
+200405005 Centre, Badanstalt    01333  01333                % 01205 AVL---
+200419013 Limpertsberg, Crispi  01335  01335                % 01205 AVL---
+200410005 Eich, Octroi          01335  01335                % 01205 AVL---
+200410003 Eich, Eecher Plaz     01337  01337                % 01205 AVL---
+200410004 Eich, Klinik          01339  01339                % 01205 AVL---
+200409007 Dommeldange, Emile M  01340  01340                % 01205 AVL---
+200402005 Beggen, Henri Heyman  01341  01341                % 01205 AVL---
+200402002 Beggen, Binnchen      01342  01342                % 01205 AVL---
+200402006 Beggen, Kierch        01343  01343                % 01205 AVL---
+200402001 Beggen, Bastogne      01344  01344                % 01205 AVL---
+200402007 Beggen, Rue du Pont   01345  01345                % 01205 AVL---
+201001003 Bereldange, Schoul    01346  01346                % 01205 AVL---
+201001002 Bereldange, Police    01348  01348                % 01205 AVL---
+201001001 Bereldange, Elterstr  01349  01349                % 01205 AVL---
+200801004 Steinsel, Laval       01351  01351                % 01205 AVL---
+200801003 Steinsel, Gonneschha  01352  01352                % 01205 AVL---
+200801008 Steinsel, Um Gruef    01353  01353                % 01205 AVL---
+200801005 Steinsel, Michel Rod  01354                       % 01205 AVL---
+*Z 01206 AVL---       001 020                               % 01206 AVL---
+*L 10       200405035 200801005  01623  01654               % 01206 AVL---
+*A BE 200405035 200801005 000014  01623  01654              % 01206 AVL---
+*R 1 200801005 200405035 200801005  01623  01654            % 01206 AVL---
+*G AVG 200405035 200801005  01623  01654                    % 01206 AVL---
+*A VE 200405035 200801005 000014  01623  01654              % 01206 AVL---
+200405035 Luxembourg, Gare Cen         01623                % 01206 AVL---
+200405026 Luxembourg/Centre, P  01626  01626                % 01206 AVL---
+200405023 Centre, Martyrs       01627  01627                % 01206 AVL---
+200405020 Hamilius              01630  01630                % 01206 AVL---
+200405005 Centre, Badanstalt    01633  01633                % 01206 AVL---
+200419013 Limpertsberg, Crispi  01635  01635                % 01206 AVL---
+200410005 Eich, Octroi          01635  01635                % 01206 AVL---
+200410003 Eich, Eecher Plaz     01637  01637                % 01206 AVL---
+200410004 Eich, Klinik          01639  01639                % 01206 AVL---
+200409007 Dommeldange, Emile M  01640  01640                % 01206 AVL---
+200402005 Beggen, Henri Heyman  01641  01641                % 01206 AVL---
+200402002 Beggen, Binnchen      01642  01642                % 01206 AVL---
+200402006 Beggen, Kierch        01643  01643                % 01206 AVL---
+200402001 Beggen, Bastogne      01644  01644                % 01206 AVL---
+200402007 Beggen, Rue du Pont   01645  01645                % 01206 AVL---
+201001003 Bereldange, Schoul    01646  01646                % 01206 AVL---
+201001002 Bereldange, Police    01648  01648                % 01206 AVL---
+201001001 Bereldange, Elterstr  01649  01649                % 01206 AVL---
+200801004 Steinsel, Laval       01651  01651                % 01206 AVL---
+200801003 Steinsel, Gonneschha  01652  01652                % 01206 AVL---
+200801008 Steinsel, Um Gruef    01653  01653                % 01206 AVL---
+200801005 Steinsel, Michel Rod  01654                       % 01206 AVL---
+*Z 01207 AVL---       001 020                               % 01207 AVL---
+*L 10       200405035 200801005  01923  01954               % 01207 AVL---
+*A BE 200405035 200801005 000014  01923  01954              % 01207 AVL---
+*R 1 200801005 200405035 200801005  01923  01954            % 01207 AVL---
+*G AVG 200405035 200801005  01923  01954                    % 01207 AVL---
+*A VE 200405035 200801005 000014  01923  01954              % 01207 AVL---
+200405035 Luxembourg, Gare Cen         01923                % 01207 AVL---
+200405026 Luxembourg/Centre, P  01926  01926                % 01207 AVL---
+200405023 Centre, Martyrs       01927  01927                % 01207 AVL---
+200405020 Hamilius              01930  01930                % 01207 AVL---
+200405005 Centre, Badanstalt    01933  01933                % 01207 AVL---
+200419013 Limpertsberg, Crispi  01935  01935                % 01207 AVL---
+200410005 Eich, Octroi          01935  01935                % 01207 AVL---
+200410003 Eich, Eecher Plaz     01937  01937                % 01207 AVL---
+200410004 Eich, Klinik          01939  01939                % 01207 AVL---
+200409007 Dommeldange, Emile M  01940  01940                % 01207 AVL---
+200402005 Beggen, Henri Heyman  01941  01941                % 01207 AVL---
+200402002 Beggen, Binnchen      01942  01942                % 01207 AVL---
+200402006 Beggen, Kierch        01943  01943                % 01207 AVL---
+200402001 Beggen, Bastogne      01944  01944                % 01207 AVL---
+200402007 Beggen, Rue du Pont   01945  01945                % 01207 AVL---
+201001003 Bereldange, Schoul    01946  01946                % 01207 AVL---
+201001002 Bereldange, Police    01948  01948                % 01207 AVL---
+201001001 Bereldange, Elterstr  01949  01949                % 01207 AVL---
+200801004 Steinsel, Laval       01951  01951                % 01207 AVL---
+200801003 Steinsel, Gonneschha  01952  01952                % 01207 AVL---
+200801008 Steinsel, Um Gruef    01953  01953                % 01207 AVL---
+200801005 Steinsel, Michel Rod  01954                       % 01207 AVL---
+*Z 01208 AVL---       017 040                               % 01208 AVL---
+*L 10       200801005 200405035  00757  00825               % 01208 AVL---
+*A BE 200801005 200405035 000023  00757  00825              % 01208 AVL---
+*R 2 200405035 200801005 200405035  00757  00825            % 01208 AVL---
+*G AVG 200801005 200405035  00757  00825                    % 01208 AVL---
+*A VE 200801005 200405035 000023  00757  00825              % 01208 AVL---
+200801005 Steinsel, Michel Rod         00757                % 01208 AVL---
+200801003 Steinsel, Gonneschha  00759  00759                % 01208 AVL---
+200801004 Steinsel, Laval       00800  00800                % 01208 AVL---
+201001001 Bereldange, Elterstr  00801  00801                % 01208 AVL---
+201001002 Bereldange, Police    00803  00803                % 01208 AVL---
+201001003 Bereldange, Schoul    00804  00804                % 01208 AVL---
+200402007 Beggen, Rue du Pont   00806  00806                % 01208 AVL---
+200402001 Beggen, Bastogne      00807  00807                % 01208 AVL---
+200402006 Beggen, Kierch        00808  00808                % 01208 AVL---
+200402002 Beggen, Binnchen      00808  00808                % 01208 AVL---
+200402005 Beggen, Henri Heyman  00809  00809                % 01208 AVL---
+200409007 Dommeldange, Emile M  00810  00810                % 01208 AVL---
+200410004 Eich, Klinik          00811  00811                % 01208 AVL---
+200410003 Eich, Eecher Plaz     00813  00813                % 01208 AVL---
+200410005 Eich, Octroi          00814  00814                % 01208 AVL---
+200419013 Limpertsberg, Crispi  00814  00814                % 01208 AVL---
+200405005 Centre, Badanstalt    00817  00817                % 01208 AVL---
+200405020 Hamilius              00820  00820                % 01208 AVL---
+200405023 Centre, Martyrs       00821  00821                % 01208 AVL---
+200405026 Luxembourg/Centre, P  00823  00823                % 01208 AVL---
+200405035 Luxembourg, Gare Cen  00825                       % 01208 AVL---
+*Z 01209 AVL---       002 150                               % 01209 AVL---
+*L 10       200801005 200405035  01243  01311               % 01209 AVL---
+*A BE 200801005 200405035 000018  01243  01311              % 01209 AVL---
+*R 2 200405035 200801005 200405035  01243  01311            % 01209 AVL---
+*G AVS 200801005 200405035  01243  01311                    % 01209 AVL---
+*A VE 200801005 200405035 000018  01243  01311              % 01209 AVL---
+200801005 Steinsel, Michel Rod         01243                % 01209 AVL---
+200801003 Steinsel, Gonneschha  01245  01245                % 01209 AVL---
+200801004 Steinsel, Laval       01246  01246                % 01209 AVL---
+201001001 Bereldange, Elterstr  01247  01247                % 01209 AVL---
+201001002 Bereldange, Police    01249  01249                % 01209 AVL---
+201001003 Bereldange, Schoul    01250  01250                % 01209 AVL---
+200402007 Beggen, Rue du Pont   01252  01252                % 01209 AVL---
+200402001 Beggen, Bastogne      01253  01253                % 01209 AVL---
+200402006 Beggen, Kierch        01254  01254                % 01209 AVL---
+200402002 Beggen, Binnchen      01254  01254                % 01209 AVL---
+200402005 Beggen, Henri Heyman  01255  01255                % 01209 AVL---
+200409007 Dommeldange, Emile M  01256  01256                % 01209 AVL---
+200410004 Eich, Klinik          01257  01257                % 01209 AVL---
+200410003 Eich, Eecher Plaz     01259  01259                % 01209 AVL---
+200410005 Eich, Octroi          01300  01300                % 01209 AVL---
+200419013 Limpertsberg, Crispi  01300  01300                % 01209 AVL---
+200405005 Centre, Badanstalt    01303  01303                % 01209 AVL---
+200405020 Hamilius              01306  01306                % 01209 AVL---
+200405023 Centre, Martyrs       01307  01307                % 01209 AVL---
+200405026 Luxembourg/Centre, P  01309  01309                % 01209 AVL---
+200405035 Luxembourg, Gare Cen  01311                       % 01209 AVL---
+*Z 01210 AVL---                                             % 01210 AVL---
+*L 10       200801005 200405035  01959  02024               % 01210 AVL---
+*A BE 200801005 200405035 000023  01959  02024              % 01210 AVL---
+*R 2 200405035 200801005 200405035  01959  02024            % 01210 AVL---
+*G AVG 200801005 200405035  01959  02024                    % 01210 AVL---
+*A VE 200801005 200405035 000023  01959  02024              % 01210 AVL---
+200801005 Steinsel, Michel Rod         01959                % 01210 AVL---
+200801003 Steinsel, Gonneschha  02000  02000                % 01210 AVL---
+200801004 Steinsel, Laval       02001  02001                % 01210 AVL---
+201001001 Bereldange, Elterstr  02003  02003                % 01210 AVL---
+201001002 Bereldange, Police    02004  02004                % 01210 AVL---
+201001003 Bereldange, Schoul    02005  02005                % 01210 AVL---
+200402007 Beggen, Rue du Pont   02007  02007                % 01210 AVL---
+200402001 Beggen, Bastogne      02008  02008                % 01210 AVL---
+200402006 Beggen, Kierch        02009  02009                % 01210 AVL---
+200402002 Beggen, Binnchen      02009  02009                % 01210 AVL---
+200402005 Beggen, Henri Heyman  02010  02010                % 01210 AVL---
+200409007 Dommeldange, Emile M  02011  02011                % 01210 AVL---
+200410004 Eich, Klinik          02012  02012                % 01210 AVL---
+200410003 Eich, Eecher Plaz     02013  02013                % 01210 AVL---
+200410005 Eich, Octroi          02014  02014                % 01210 AVL---
+200419013 Limpertsberg, Crispi  02015  02015                % 01210 AVL---
+200405005 Centre, Badanstalt    02017  02017                % 01210 AVL---
+200405020 Hamilius              02020  02020                % 01210 AVL---
+200405023 Centre, Martyrs       02021  02021                % 01210 AVL---
+200405026 Luxembourg/Centre, P  02022  02022                % 01210 AVL---
+200405035 Luxembourg, Gare Cen  02024                       % 01210 AVL---
+*Z 01211 AVL---       001 600                               % 01211 AVL---
+*L 10       200801005 200405035  01015  01040               % 01211 AVL---
+*A BE 200801005 200405035 000018  01015  01040              % 01211 AVL---
+*R 2 200405035 200801005 200405035  01015  01040            % 01211 AVL---
+*G AVS 200801005 200405035  01015  01040                    % 01211 AVL---
+*A VE 200801005 200405035 000018  01015  01040              % 01211 AVL---
+200801005 Steinsel, Michel Rod         01015                % 01211 AVL---
+200801003 Steinsel, Gonneschha  01016  01016                % 01211 AVL---
+200801004 Steinsel, Laval       01017  01017                % 01211 AVL---
+201001001 Bereldange, Elterstr  01019  01019                % 01211 AVL---
+201001002 Bereldange, Police    01020  01020                % 01211 AVL---
+201001003 Bereldange, Schoul    01021  01021                % 01211 AVL---
+200402007 Beggen, Rue du Pont   01023  01023                % 01211 AVL---
+200402001 Beggen, Bastogne      01024  01024                % 01211 AVL---
+200402006 Beggen, Kierch        01025  01025                % 01211 AVL---
+200402002 Beggen, Binnchen      01025  01025                % 01211 AVL---
+200402005 Beggen, Henri Heyman  01026  01026                % 01211 AVL---
+200409007 Dommeldange, Emile M  01027  01027                % 01211 AVL---
+200410004 Eich, Klinik          01028  01028                % 01211 AVL---
+200410003 Eich, Eecher Plaz     01029  01029                % 01211 AVL---
+200410005 Eich, Octroi          01030  01030                % 01211 AVL---
+200419013 Limpertsberg, Crispi  01031  01031                % 01211 AVL---
+200405005 Centre, Badanstalt    01033  01033                % 01211 AVL---
+200405020 Hamilius              01036  01036                % 01211 AVL---
+200405023 Centre, Martyrs       01037  01037                % 01211 AVL---
+200405026 Luxembourg/Centre, P  01038  01038                % 01211 AVL---
+200405035 Luxembourg, Gare Cen  01040                       % 01211 AVL---
+*Z 01212 AVL---       001 020                               % 01212 AVL---
+*L 10       200801005 200405035  00645  00715               % 01212 AVL---
+*A BE 200801005 200405035 000014  00645  00715              % 01212 AVL---
+*R 2 200405035 200801005 200405035  00645  00715            % 01212 AVL---
+*G AVG 200801005 200405035  00645  00715                    % 01212 AVL---
+*A VE 200801005 200405035 000014  00645  00715              % 01212 AVL---
+200801005 Steinsel, Michel Rod         00645                % 01212 AVL---
+200801003 Steinsel, Gonneschha  00646  00646                % 01212 AVL---
+200801004 Steinsel, Laval       00647  00647                % 01212 AVL---
+201001001 Bereldange, Elterstr  00649  00649                % 01212 AVL---
+201001002 Bereldange, Police    00651  00651                % 01212 AVL---
+201001003 Bereldange, Schoul    00652  00652                % 01212 AVL---
+200402007 Beggen, Rue du Pont   00654  00654                % 01212 AVL---
+200402001 Beggen, Bastogne      00655  00655                % 01212 AVL---
+200402006 Beggen, Kierch        00656  00656                % 01212 AVL---
+200402002 Beggen, Binnchen      00657  00657                % 01212 AVL---
+200402005 Beggen, Henri Heyman  00658  00658                % 01212 AVL---
+200409007 Dommeldange, Emile M  00659  00659                % 01212 AVL---
+200410004 Eich, Klinik          00700  00700                % 01212 AVL---
+200410003 Eich, Eecher Plaz     00702  00702                % 01212 AVL---
+200410005 Eich, Octroi          00703  00703                % 01212 AVL---
+200419013 Limpertsberg, Crispi  00704  00704                % 01212 AVL---
+200405005 Centre, Badanstalt    00706  00706                % 01212 AVL---
+200405020 Hamilius              00710  00710                % 01212 AVL---
+200405023 Centre, Martyrs       00711  00711                % 01212 AVL---
+200405026 Luxembourg/Centre, P  00713  00713                % 01212 AVL---
+200405035 Luxembourg, Gare Cen  00715                       % 01212 AVL---
+*Z 01213 AVL---       001 020                               % 01213 AVL---
+*L 10       200801005 200405035  00945  01015               % 01213 AVL---
+*A BE 200801005 200405035 000014  00945  01015              % 01213 AVL---
+*R 2 200405035 200801005 200405035  00945  01015            % 01213 AVL---
+*G AVG 200801005 200405035  00945  01015                    % 01213 AVL---
+*A VE 200801005 200405035 000014  00945  01015              % 01213 AVL---
+200801005 Steinsel, Michel Rod         00945                % 01213 AVL---
+200801003 Steinsel, Gonneschha  00946  00946                % 01213 AVL---
+200801004 Steinsel, Laval       00947  00947                % 01213 AVL---
+201001001 Bereldange, Elterstr  00949  00949                % 01213 AVL---
+201001002 Bereldange, Police    00951  00951                % 01213 AVL---
+201001003 Bereldange, Schoul    00952  00952                % 01213 AVL---
+200402007 Beggen, Rue du Pont   00954  00954                % 01213 AVL---
+200402001 Beggen, Bastogne      00955  00955                % 01213 AVL---
+200402006 Beggen, Kierch        00956  00956                % 01213 AVL---
+200402002 Beggen, Binnchen      00957  00957                % 01213 AVL---
+200402005 Beggen, Henri Heyman  00958  00958                % 01213 AVL---
+200409007 Dommeldange, Emile M  00959  00959                % 01213 AVL---
+200410004 Eich, Klinik          01000  01000                % 01213 AVL---
+200410003 Eich, Eecher Plaz     01002  01002                % 01213 AVL---
+200410005 Eich, Octroi          01003  01003                % 01213 AVL---
+200419013 Limpertsberg, Crispi  01004  01004                % 01213 AVL---
+200405005 Centre, Badanstalt    01006  01006                % 01213 AVL---
+200405020 Hamilius              01010  01010                % 01213 AVL---
+200405023 Centre, Martyrs       01011  01011                % 01213 AVL---
+200405026 Luxembourg/Centre, P  01013  01013                % 01213 AVL---
+200405035 Luxembourg, Gare Cen  01015                       % 01213 AVL---
+*Z 01214 AVL---       001 020                               % 01214 AVL---
+*L 10       200801005 200405035  01245  01315               % 01214 AVL---
+*A BE 200801005 200405035 000014  01245  01315              % 01214 AVL---
+*R 2 200405035 200801005 200405035  01245  01315            % 01214 AVL---
+*G AVG 200801005 200405035  01245  01315                    % 01214 AVL---
+*A VE 200801005 200405035 000014  01245  01315              % 01214 AVL---
+200801005 Steinsel, Michel Rod         01245                % 01214 AVL---
+200801003 Steinsel, Gonneschha  01246  01246                % 01214 AVL---
+200801004 Steinsel, Laval       01247  01247                % 01214 AVL---
+201001001 Bereldange, Elterstr  01249  01249                % 01214 AVL---
+201001002 Bereldange, Police    01251  01251                % 01214 AVL---
+201001003 Bereldange, Schoul    01252  01252                % 01214 AVL---
+200402007 Beggen, Rue du Pont   01254  01254                % 01214 AVL---
+200402001 Beggen, Bastogne      01255  01255                % 01214 AVL---
+200402006 Beggen, Kierch        01256  01256                % 01214 AVL---
+200402002 Beggen, Binnchen      01257  01257                % 01214 AVL---
+200402005 Beggen, Henri Heyman  01258  01258                % 01214 AVL---
+200409007 Dommeldange, Emile M  01259  01259                % 01214 AVL---
+200410004 Eich, Klinik          01300  01300                % 01214 AVL---
+200410003 Eich, Eecher Plaz     01302  01302                % 01214 AVL---
+200410005 Eich, Octroi          01303  01303                % 01214 AVL---
+200419013 Limpertsberg, Crispi  01304  01304                % 01214 AVL---
+200405005 Centre, Badanstalt    01306  01306                % 01214 AVL---
+200405020 Hamilius              01310  01310                % 01214 AVL---
+200405023 Centre, Martyrs       01311  01311                % 01214 AVL---
+200405026 Luxembourg/Centre, P  01313  01313                % 01214 AVL---
+200405035 Luxembourg, Gare Cen  01315                       % 01214 AVL---
+*Z 01215 AVL---       001 020                               % 01215 AVL---
+*L 10       200801005 200405035  01545  01615               % 01215 AVL---
+*A BE 200801005 200405035 000014  01545  01615              % 01215 AVL---
+*R 2 200405035 200801005 200405035  01545  01615            % 01215 AVL---
+*G AVG 200801005 200405035  01545  01615                    % 01215 AVL---
+*A VE 200801005 200405035 000014  01545  01615              % 01215 AVL---
+200801005 Steinsel, Michel Rod         01545                % 01215 AVL---
+200801003 Steinsel, Gonneschha  01546  01546                % 01215 AVL---
+200801004 Steinsel, Laval       01547  01547                % 01215 AVL---
+201001001 Bereldange, Elterstr  01549  01549                % 01215 AVL---
+201001002 Bereldange, Police    01551  01551                % 01215 AVL---
+201001003 Bereldange, Schoul    01552  01552                % 01215 AVL---
+200402007 Beggen, Rue du Pont   01554  01554                % 01215 AVL---
+200402001 Beggen, Bastogne      01555  01555                % 01215 AVL---
+200402006 Beggen, Kierch        01556  01556                % 01215 AVL---
+200402002 Beggen, Binnchen      01557  01557                % 01215 AVL---
+200402005 Beggen, Henri Heyman  01558  01558                % 01215 AVL---
+200409007 Dommeldange, Emile M  01559  01559                % 01215 AVL---
+200410004 Eich, Klinik          01600  01600                % 01215 AVL---
+200410003 Eich, Eecher Plaz     01602  01602                % 01215 AVL---
+200410005 Eich, Octroi          01603  01603                % 01215 AVL---
+200419013 Limpertsberg, Crispi  01604  01604                % 01215 AVL---
+200405005 Centre, Badanstalt    01606  01606                % 01215 AVL---
+200405020 Hamilius              01610  01610                % 01215 AVL---
+200405023 Centre, Martyrs       01611  01611                % 01215 AVL---
+200405026 Luxembourg/Centre, P  01613  01613                % 01215 AVL---
+200405035 Luxembourg, Gare Cen  01615                       % 01215 AVL---
+*Z 01216 AVL---       001 020                               % 01216 AVL---
+*L 10       200801005 200405035  01845  01915               % 01216 AVL---
+*A BE 200801005 200405035 000014  01845  01915              % 01216 AVL---
+*R 2 200405035 200801005 200405035  01845  01915            % 01216 AVL---
+*G AVG 200801005 200405035  01845  01915                    % 01216 AVL---
+*A VE 200801005 200405035 000014  01845  01915              % 01216 AVL---
+200801005 Steinsel, Michel Rod         01845                % 01216 AVL---
+200801003 Steinsel, Gonneschha  01846  01846                % 01216 AVL---
+200801004 Steinsel, Laval       01847  01847                % 01216 AVL---
+201001001 Bereldange, Elterstr  01849  01849                % 01216 AVL---
+201001002 Bereldange, Police    01851  01851                % 01216 AVL---
+201001003 Bereldange, Schoul    01852  01852                % 01216 AVL---
+200402007 Beggen, Rue du Pont   01854  01854                % 01216 AVL---
+200402001 Beggen, Bastogne      01855  01855                % 01216 AVL---
+200402006 Beggen, Kierch        01856  01856                % 01216 AVL---
+200402002 Beggen, Binnchen      01857  01857                % 01216 AVL---
+200402005 Beggen, Henri Heyman  01858  01858                % 01216 AVL---
+200409007 Dommeldange, Emile M  01859  01859                % 01216 AVL---
+200410004 Eich, Klinik          01900  01900                % 01216 AVL---
+200410003 Eich, Eecher Plaz     01902  01902                % 01216 AVL---
+200410005 Eich, Octroi          01903  01903                % 01216 AVL---
+200419013 Limpertsberg, Crispi  01904  01904                % 01216 AVL---
+200405005 Centre, Badanstalt    01906  01906                % 01216 AVL---
+200405020 Hamilius              01910  01910                % 01216 AVL---
+200405023 Centre, Martyrs       01911  01911                % 01216 AVL---
+200405026 Luxembourg/Centre, P  01913  01913                % 01216 AVL---
+200405035 Luxembourg, Gare Cen  01915                       % 01216 AVL---
+*Z 01217 AVL---                                             % 01217 AVL---
+*L 10       200405035 200801005  00522  00546               % 01217 AVL---
+*A BE 200405035 200801005 000013  00522  00546              % 01217 AVL---
+*R 1 200801005 200405035 200801005  00522  00546            % 01217 AVL---
+*G AVG 200405035 200801005  00522  00546                    % 01217 AVL---
+*A VE 200405035 200801005 000013  00522  00546              % 01217 AVL---
+200405035 Luxembourg, Gare Cen         00522                % 01217 AVL---
+200405026 Luxembourg/Centre, P  00524  00524                % 01217 AVL---
+200405023 Centre, Martyrs       00525  00525                % 01217 AVL---
+200405020 Hamilius              00528  00528                % 01217 AVL---
+200405005 Centre, Badanstalt    00530  00530                % 01217 AVL---
+200419013 Limpertsberg, Crispi  00532  00532                % 01217 AVL---
+200410005 Eich, Octroi          00532  00532                % 01217 AVL---
+200410003 Eich, Eecher Plaz     00533  00533                % 01217 AVL---
+200410004 Eich, Klinik          00535  00535                % 01217 AVL---
+200409007 Dommeldange, Emile M  00536  00536                % 01217 AVL---
+200402005 Beggen, Henri Heyman  00536  00536                % 01217 AVL---
+200402002 Beggen, Binnchen      00537  00537                % 01217 AVL---
+200402006 Beggen, Kierch        00537  00537                % 01217 AVL---
+200402001 Beggen, Bastogne      00538  00538                % 01217 AVL---
+200402007 Beggen, Rue du Pont   00539  00539                % 01217 AVL---
+201001003 Bereldange, Schoul    00540  00540                % 01217 AVL---
+201001002 Bereldange, Police    00541  00541                % 01217 AVL---
+201001001 Bereldange, Elterstr  00542  00542                % 01217 AVL---
+200801004 Steinsel, Laval       00544  00544                % 01217 AVL---
+200801003 Steinsel, Gonneschha  00545  00545                % 01217 AVL---
+200801008 Steinsel, Um Gruef    00545  00545                % 01217 AVL---
+200801005 Steinsel, Michel Rod  00546                       % 01217 AVL---
+*Z 01218 AVL---       001 150                               % 01218 AVL---
+*L 10       200405035 200801005  00822  00846               % 01218 AVL---
+*A BE 200405035 200801005 000017  00822  00846              % 01218 AVL---
+*R 1 200801005 200405035 200801005  00822  00846            % 01218 AVL---
+*G AVS 200405035 200801005  00822  00846                    % 01218 AVL---
+*A VE 200405035 200801005 000017  00822  00846              % 01218 AVL---
+200405035 Luxembourg, Gare Cen         00822                % 01218 AVL---
+200405026 Luxembourg/Centre, P  00824  00824                % 01218 AVL---
+200405023 Centre, Martyrs       00825  00825                % 01218 AVL---
+200405020 Hamilius              00828  00828                % 01218 AVL---
+200405005 Centre, Badanstalt    00830  00830                % 01218 AVL---
+200419013 Limpertsberg, Crispi  00832  00832                % 01218 AVL---
+200410005 Eich, Octroi          00832  00832                % 01218 AVL---
+200410003 Eich, Eecher Plaz     00833  00833                % 01218 AVL---
+200410004 Eich, Klinik          00835  00835                % 01218 AVL---
+200409007 Dommeldange, Emile M  00836  00836                % 01218 AVL---
+200402005 Beggen, Henri Heyman  00836  00836                % 01218 AVL---
+200402002 Beggen, Binnchen      00837  00837                % 01218 AVL---
+200402006 Beggen, Kierch        00837  00837                % 01218 AVL---
+200402001 Beggen, Bastogne      00838  00838                % 01218 AVL---
+200402007 Beggen, Rue du Pont   00839  00839                % 01218 AVL---
+201001003 Bereldange, Schoul    00840  00840                % 01218 AVL---
+201001002 Bereldange, Police    00841  00841                % 01218 AVL---
+201001001 Bereldange, Elterstr  00842  00842                % 01218 AVL---
+200801004 Steinsel, Laval       00844  00844                % 01218 AVL---
+200801003 Steinsel, Gonneschha  00845  00845                % 01218 AVL---
+200801008 Steinsel, Um Gruef    00845  00845                % 01218 AVL---
+200801005 Steinsel, Michel Rod  00846                       % 01218 AVL---
+*Z 01219 AVL---       002 150                               % 01219 AVL---
+*L 10       200405035 200801005  01322  01348               % 01219 AVL---
+*A BE 200405035 200801005 000017  01322  01348              % 01219 AVL---
+*R 1 200801005 200405035 200801005  01322  01348            % 01219 AVL---
+*G AVS 200405035 200801005  01322  01348                    % 01219 AVL---
+*A VE 200405035 200801005 000017  01322  01348              % 01219 AVL---
+200405035 Luxembourg, Gare Cen         01322                % 01219 AVL---
+200405026 Luxembourg/Centre, P  01324  01324                % 01219 AVL---
+200405023 Centre, Martyrs       01325  01325                % 01219 AVL---
+200405020 Hamilius              01328  01328                % 01219 AVL---
+200405005 Centre, Badanstalt    01330  01330                % 01219 AVL---
+200419013 Limpertsberg, Crispi  01332  01332                % 01219 AVL---
+200410005 Eich, Octroi          01332  01332                % 01219 AVL---
+200410003 Eich, Eecher Plaz     01334  01334                % 01219 AVL---
+200410004 Eich, Klinik          01335  01335                % 01219 AVL---
+200409007 Dommeldange, Emile M  01336  01336                % 01219 AVL---
+200402005 Beggen, Henri Heyman  01337  01337                % 01219 AVL---
+200402002 Beggen, Binnchen      01338  01338                % 01219 AVL---
+200402006 Beggen, Kierch        01338  01338                % 01219 AVL---
+200402001 Beggen, Bastogne      01339  01339                % 01219 AVL---
+200402007 Beggen, Rue du Pont   01340  01340                % 01219 AVL---
+201001003 Bereldange, Schoul    01341  01341                % 01219 AVL---
+201001002 Bereldange, Police    01343  01343                % 01219 AVL---
+201001001 Bereldange, Elterstr  01344  01344                % 01219 AVL---
+200801004 Steinsel, Laval       01346  01346                % 01219 AVL---
+200801003 Steinsel, Gonneschha  01346  01346                % 01219 AVL---
+200801008 Steinsel, Um Gruef    01347  01347                % 01219 AVL---
+200801005 Steinsel, Michel Rod  01348                       % 01219 AVL---
+*Z 01220 AVL---       001 020                               % 01220 AVL---
+*L 10       200405035 200801005  00723  00754               % 01220 AVL---
+*A BE 200405035 200801005 000013  00723  00754              % 01220 AVL---
+*R 1 200801005 200405035 200801005  00723  00754            % 01220 AVL---
+*G AVG 200405035 200801005  00723  00754                    % 01220 AVL---
+*A VE 200405035 200801005 000013  00723  00754              % 01220 AVL---
+200405035 Luxembourg, Gare Cen         00723                % 01220 AVL---
+200405026 Luxembourg/Centre, P  00726  00726                % 01220 AVL---
+200405023 Centre, Martyrs       00727  00727                % 01220 AVL---
+200405020 Hamilius              00730  00730                % 01220 AVL---
+200405005 Centre, Badanstalt    00733  00733                % 01220 AVL---
+200419013 Limpertsberg, Crispi  00735  00735                % 01220 AVL---
+200410005 Eich, Octroi          00735  00735                % 01220 AVL---
+200410003 Eich, Eecher Plaz     00737  00737                % 01220 AVL---
+200410004 Eich, Klinik          00739  00739                % 01220 AVL---
+200409007 Dommeldange, Emile M  00740  00740                % 01220 AVL---
+200402005 Beggen, Henri Heyman  00741  00741                % 01220 AVL---
+200402002 Beggen, Binnchen      00742  00742                % 01220 AVL---
+200402006 Beggen, Kierch        00743  00743                % 01220 AVL---
+200402001 Beggen, Bastogne      00744  00744                % 01220 AVL---
+200402007 Beggen, Rue du Pont   00745  00745                % 01220 AVL---
+201001003 Bereldange, Schoul    00746  00746                % 01220 AVL---
+201001002 Bereldange, Police    00748  00748                % 01220 AVL---
+201001001 Bereldange, Elterstr  00749  00749                % 01220 AVL---
+200801004 Steinsel, Laval       00751  00751                % 01220 AVL---
+200801003 Steinsel, Gonneschha  00752  00752                % 01220 AVL---
+200801008 Steinsel, Um Gruef    00753  00753                % 01220 AVL---
+200801005 Steinsel, Michel Rod  00754                       % 01220 AVL---
+*Z 01221 AVL---       001 020                               % 01221 AVL---
+*L 10       200405035 200801005  01023  01054               % 01221 AVL---
+*A BE 200405035 200801005 000013  01023  01054              % 01221 AVL---
+*R 1 200801005 200405035 200801005  01023  01054            % 01221 AVL---
+*G AVG 200405035 200801005  01023  01054                    % 01221 AVL---
+*A VE 200405035 200801005 000013  01023  01054              % 01221 AVL---
+200405035 Luxembourg, Gare Cen         01023                % 01221 AVL---
+200405026 Luxembourg/Centre, P  01026  01026                % 01221 AVL---
+200405023 Centre, Martyrs       01027  01027                % 01221 AVL---
+200405020 Hamilius              01030  01030                % 01221 AVL---
+200405005 Centre, Badanstalt    01033  01033                % 01221 AVL---
+200419013 Limpertsberg, Crispi  01035  01035                % 01221 AVL---
+200410005 Eich, Octroi          01035  01035                % 01221 AVL---
+200410003 Eich, Eecher Plaz     01037  01037                % 01221 AVL---
+200410004 Eich, Klinik          01039  01039                % 01221 AVL---
+200409007 Dommeldange, Emile M  01040  01040                % 01221 AVL---
+200402005 Beggen, Henri Heyman  01041  01041                % 01221 AVL---
+200402002 Beggen, Binnchen      01042  01042                % 01221 AVL---
+200402006 Beggen, Kierch        01043  01043                % 01221 AVL---
+200402001 Beggen, Bastogne      01044  01044                % 01221 AVL---
+200402007 Beggen, Rue du Pont   01045  01045                % 01221 AVL---
+201001003 Bereldange, Schoul    01046  01046                % 01221 AVL---
+201001002 Bereldange, Police    01048  01048                % 01221 AVL---
+201001001 Bereldange, Elterstr  01049  01049                % 01221 AVL---
+200801004 Steinsel, Laval       01051  01051                % 01221 AVL---
+200801003 Steinsel, Gonneschha  01052  01052                % 01221 AVL---
+200801008 Steinsel, Um Gruef    01053  01053                % 01221 AVL---
+200801005 Steinsel, Michel Rod  01054                       % 01221 AVL---
+*Z 01222 AVL---       001 020                               % 01222 AVL---
+*L 10       200405035 200801005  01323  01354               % 01222 AVL---
+*A BE 200405035 200801005 000013  01323  01354              % 01222 AVL---
+*R 1 200801005 200405035 200801005  01323  01354            % 01222 AVL---
+*G AVG 200405035 200801005  01323  01354                    % 01222 AVL---
+*A VE 200405035 200801005 000013  01323  01354              % 01222 AVL---
+200405035 Luxembourg, Gare Cen         01323                % 01222 AVL---
+200405026 Luxembourg/Centre, P  01326  01326                % 01222 AVL---
+200405023 Centre, Martyrs       01327  01327                % 01222 AVL---
+200405020 Hamilius              01330  01330                % 01222 AVL---
+200405005 Centre, Badanstalt    01333  01333                % 01222 AVL---
+200419013 Limpertsberg, Crispi  01335  01335                % 01222 AVL---
+200410005 Eich, Octroi          01335  01335                % 01222 AVL---
+200410003 Eich, Eecher Plaz     01337  01337                % 01222 AVL---
+200410004 Eich, Klinik          01339  01339                % 01222 AVL---
+200409007 Dommeldange, Emile M  01340  01340                % 01222 AVL---
+200402005 Beggen, Henri Heyman  01341  01341                % 01222 AVL---
+200402002 Beggen, Binnchen      01342  01342                % 01222 AVL---
+200402006 Beggen, Kierch        01343  01343                % 01222 AVL---
+200402001 Beggen, Bastogne      01344  01344                % 01222 AVL---
+200402007 Beggen, Rue du Pont   01345  01345                % 01222 AVL---
+201001003 Bereldange, Schoul    01346  01346                % 01222 AVL---
+201001002 Bereldange, Police    01348  01348                % 01222 AVL---
+201001001 Bereldange, Elterstr  01349  01349                % 01222 AVL---
+200801004 Steinsel, Laval       01351  01351                % 01222 AVL---
+200801003 Steinsel, Gonneschha  01352  01352                % 01222 AVL---
+200801008 Steinsel, Um Gruef    01353  01353                % 01222 AVL---
+200801005 Steinsel, Michel Rod  01354                       % 01222 AVL---
+*Z 01223 AVL---       001 020                               % 01223 AVL---
+*L 10       200405035 200801005  01623  01654               % 01223 AVL---
+*A BE 200405035 200801005 000013  01623  01654              % 01223 AVL---
+*R 1 200801005 200405035 200801005  01623  01654            % 01223 AVL---
+*G AVG 200405035 200801005  01623  01654                    % 01223 AVL---
+*A VE 200405035 200801005 000013  01623  01654              % 01223 AVL---
+200405035 Luxembourg, Gare Cen         01623                % 01223 AVL---
+200405026 Luxembourg/Centre, P  01626  01626                % 01223 AVL---
+200405023 Centre, Martyrs       01627  01627                % 01223 AVL---
+200405020 Hamilius              01630  01630                % 01223 AVL---
+200405005 Centre, Badanstalt    01633  01633                % 01223 AVL---
+200419013 Limpertsberg, Crispi  01635  01635                % 01223 AVL---
+200410005 Eich, Octroi          01635  01635                % 01223 AVL---
+200410003 Eich, Eecher Plaz     01637  01637                % 01223 AVL---
+200410004 Eich, Klinik          01639  01639                % 01223 AVL---
+200409007 Dommeldange, Emile M  01640  01640                % 01223 AVL---
+200402005 Beggen, Henri Heyman  01641  01641                % 01223 AVL---
+200402002 Beggen, Binnchen      01642  01642                % 01223 AVL---
+200402006 Beggen, Kierch        01643  01643                % 01223 AVL---
+200402001 Beggen, Bastogne      01644  01644                % 01223 AVL---
+200402007 Beggen, Rue du Pont   01645  01645                % 01223 AVL---
+201001003 Bereldange, Schoul    01646  01646                % 01223 AVL---
+201001002 Bereldange, Police    01648  01648                % 01223 AVL---
+201001001 Bereldange, Elterstr  01649  01649                % 01223 AVL---
+200801004 Steinsel, Laval       01651  01651                % 01223 AVL---
+200801003 Steinsel, Gonneschha  01652  01652                % 01223 AVL---
+200801008 Steinsel, Um Gruef    01653  01653                % 01223 AVL---
+200801005 Steinsel, Michel Rod  01654                       % 01223 AVL---
+*Z 01224 AVL---       001 020                               % 01224 AVL---
+*L 10       200405035 200801005  01923  01954               % 01224 AVL---
+*A BE 200405035 200801005 000013  01923  01954              % 01224 AVL---
+*R 1 200801005 200405035 200801005  01923  01954            % 01224 AVL---
+*G AVG 200405035 200801005  01923  01954                    % 01224 AVL---
+*A VE 200405035 200801005 000013  01923  01954              % 01224 AVL---
+200405035 Luxembourg, Gare Cen         01923                % 01224 AVL---
+200405026 Luxembourg/Centre, P  01926  01926                % 01224 AVL---
+200405023 Centre, Martyrs       01927  01927                % 01224 AVL---
+200405020 Hamilius              01930  01930                % 01224 AVL---
+200405005 Centre, Badanstalt    01933  01933                % 01224 AVL---
+200419013 Limpertsberg, Crispi  01935  01935                % 01224 AVL---
+200410005 Eich, Octroi          01935  01935                % 01224 AVL---
+200410003 Eich, Eecher Plaz     01937  01937                % 01224 AVL---
+200410004 Eich, Klinik          01939  01939                % 01224 AVL---
+200409007 Dommeldange, Emile M  01940  01940                % 01224 AVL---
+200402005 Beggen, Henri Heyman  01941  01941                % 01224 AVL---
+200402002 Beggen, Binnchen      01942  01942                % 01224 AVL---
+200402006 Beggen, Kierch        01943  01943                % 01224 AVL---
+200402001 Beggen, Bastogne      01944  01944                % 01224 AVL---
+200402007 Beggen, Rue du Pont   01945  01945                % 01224 AVL---
+201001003 Bereldange, Schoul    01946  01946                % 01224 AVL---
+201001002 Bereldange, Police    01948  01948                % 01224 AVL---
+201001001 Bereldange, Elterstr  01949  01949                % 01224 AVL---
+200801004 Steinsel, Laval       01951  01951                % 01224 AVL---
+200801003 Steinsel, Gonneschha  01952  01952                % 01224 AVL---
+200801008 Steinsel, Um Gruef    01953  01953                % 01224 AVL---
+200801005 Steinsel, Michel Rod  01954                       % 01224 AVL---
+*Z 01225 AVL---       001 020                               % 01225 AVL---
+*L 10       200801005 200405035  00645  00715               % 01225 AVL---
+*A BE 200801005 200405035 000013  00645  00715              % 01225 AVL---
+*R 2 200405035 200801005 200405035  00645  00715            % 01225 AVL---
+*G AVG 200801005 200405035  00645  00715                    % 01225 AVL---
+*A VE 200801005 200405035 000013  00645  00715              % 01225 AVL---
+200801005 Steinsel, Michel Rod         00645                % 01225 AVL---
+200801003 Steinsel, Gonneschha  00646  00646                % 01225 AVL---
+200801004 Steinsel, Laval       00647  00647                % 01225 AVL---
+201001001 Bereldange, Elterstr  00649  00649                % 01225 AVL---
+201001002 Bereldange, Police    00651  00651                % 01225 AVL---
+201001003 Bereldange, Schoul    00652  00652                % 01225 AVL---
+200402007 Beggen, Rue du Pont   00654  00654                % 01225 AVL---
+200402001 Beggen, Bastogne      00655  00655                % 01225 AVL---
+200402006 Beggen, Kierch        00656  00656                % 01225 AVL---
+200402002 Beggen, Binnchen      00657  00657                % 01225 AVL---
+200402005 Beggen, Henri Heyman  00658  00658                % 01225 AVL---
+200409007 Dommeldange, Emile M  00659  00659                % 01225 AVL---
+200410004 Eich, Klinik          00700  00700                % 01225 AVL---
+200410003 Eich, Eecher Plaz     00702  00702                % 01225 AVL---
+200410005 Eich, Octroi          00703  00703                % 01225 AVL---
+200419013 Limpertsberg, Crispi  00704  00704                % 01225 AVL---
+200405005 Centre, Badanstalt    00706  00706                % 01225 AVL---
+200405020 Hamilius              00710  00710                % 01225 AVL---
+200405023 Centre, Martyrs       00711  00711                % 01225 AVL---
+200405026 Luxembourg/Centre, P  00713  00713                % 01225 AVL---
+200405035 Luxembourg, Gare Cen  00715                       % 01225 AVL---
+*Z 01226 AVL---       001 020                               % 01226 AVL---
+*L 10       200801005 200405035  00945  01015               % 01226 AVL---
+*A BE 200801005 200405035 000013  00945  01015              % 01226 AVL---
+*R 2 200405035 200801005 200405035  00945  01015            % 01226 AVL---
+*G AVG 200801005 200405035  00945  01015                    % 01226 AVL---
+*A VE 200801005 200405035 000013  00945  01015              % 01226 AVL---
+200801005 Steinsel, Michel Rod         00945                % 01226 AVL---
+200801003 Steinsel, Gonneschha  00946  00946                % 01226 AVL---
+200801004 Steinsel, Laval       00947  00947                % 01226 AVL---
+201001001 Bereldange, Elterstr  00949  00949                % 01226 AVL---
+201001002 Bereldange, Police    00951  00951                % 01226 AVL---
+201001003 Bereldange, Schoul    00952  00952                % 01226 AVL---
+200402007 Beggen, Rue du Pont   00954  00954                % 01226 AVL---
+200402001 Beggen, Bastogne      00955  00955                % 01226 AVL---
+200402006 Beggen, Kierch        00956  00956                % 01226 AVL---
+200402002 Beggen, Binnchen      00957  00957                % 01226 AVL---
+200402005 Beggen, Henri Heyman  00958  00958                % 01226 AVL---
+200409007 Dommeldange, Emile M  00959  00959                % 01226 AVL---
+200410004 Eich, Klinik          01000  01000                % 01226 AVL---
+200410003 Eich, Eecher Plaz     01002  01002                % 01226 AVL---
+200410005 Eich, Octroi          01003  01003                % 01226 AVL---
+200419013 Limpertsberg, Crispi  01004  01004                % 01226 AVL---
+200405005 Centre, Badanstalt    01006  01006                % 01226 AVL---
+200405020 Hamilius              01010  01010                % 01226 AVL---
+200405023 Centre, Martyrs       01011  01011                % 01226 AVL---
+200405026 Luxembourg/Centre, P  01013  01013                % 01226 AVL---
+200405035 Luxembourg, Gare Cen  01015                       % 01226 AVL---
+*Z 01227 AVL---       001 020                               % 01227 AVL---
+*L 10       200801005 200405035  01245  01315               % 01227 AVL---
+*A BE 200801005 200405035 000013  01245  01315              % 01227 AVL---
+*R 2 200405035 200801005 200405035  01245  01315            % 01227 AVL---
+*G AVG 200801005 200405035  01245  01315                    % 01227 AVL---
+*A VE 200801005 200405035 000013  01245  01315              % 01227 AVL---
+200801005 Steinsel, Michel Rod         01245                % 01227 AVL---
+200801003 Steinsel, Gonneschha  01246  01246                % 01227 AVL---
+200801004 Steinsel, Laval       01247  01247                % 01227 AVL---
+201001001 Bereldange, Elterstr  01249  01249                % 01227 AVL---
+201001002 Bereldange, Police    01251  01251                % 01227 AVL---
+201001003 Bereldange, Schoul    01252  01252                % 01227 AVL---
+200402007 Beggen, Rue du Pont   01254  01254                % 01227 AVL---
+200402001 Beggen, Bastogne      01255  01255                % 01227 AVL---
+200402006 Beggen, Kierch        01256  01256                % 01227 AVL---
+200402002 Beggen, Binnchen      01257  01257                % 01227 AVL---
+200402005 Beggen, Henri Heyman  01258  01258                % 01227 AVL---
+200409007 Dommeldange, Emile M  01259  01259                % 01227 AVL---
+200410004 Eich, Klinik          01300  01300                % 01227 AVL---
+200410003 Eich, Eecher Plaz     01302  01302                % 01227 AVL---
+200410005 Eich, Octroi          01303  01303                % 01227 AVL---
+200419013 Limpertsberg, Crispi  01304  01304                % 01227 AVL---
+200405005 Centre, Badanstalt    01306  01306                % 01227 AVL---
+200405020 Hamilius              01310  01310                % 01227 AVL---
+200405023 Centre, Martyrs       01311  01311                % 01227 AVL---
+200405026 Luxembourg/Centre, P  01313  01313                % 01227 AVL---
+200405035 Luxembourg, Gare Cen  01315                       % 01227 AVL---
+*Z 01228 AVL---       001 020                               % 01228 AVL---
+*L 10       200801005 200405035  01545  01615               % 01228 AVL---
+*A BE 200801005 200405035 000013  01545  01615              % 01228 AVL---
+*R 2 200405035 200801005 200405035  01545  01615            % 01228 AVL---
+*G AVG 200801005 200405035  01545  01615                    % 01228 AVL---
+*A VE 200801005 200405035 000013  01545  01615              % 01228 AVL---
+200801005 Steinsel, Michel Rod         01545                % 01228 AVL---
+200801003 Steinsel, Gonneschha  01546  01546                % 01228 AVL---
+200801004 Steinsel, Laval       01547  01547                % 01228 AVL---
+201001001 Bereldange, Elterstr  01549  01549                % 01228 AVL---
+201001002 Bereldange, Police    01551  01551                % 01228 AVL---
+201001003 Bereldange, Schoul    01552  01552                % 01228 AVL---
+200402007 Beggen, Rue du Pont   01554  01554                % 01228 AVL---
+200402001 Beggen, Bastogne      01555  01555                % 01228 AVL---
+200402006 Beggen, Kierch        01556  01556                % 01228 AVL---
+200402002 Beggen, Binnchen      01557  01557                % 01228 AVL---
+200402005 Beggen, Henri Heyman  01558  01558                % 01228 AVL---
+200409007 Dommeldange, Emile M  01559  01559                % 01228 AVL---
+200410004 Eich, Klinik          01600  01600                % 01228 AVL---
+200410003 Eich, Eecher Plaz     01602  01602                % 01228 AVL---
+200410005 Eich, Octroi          01603  01603                % 01228 AVL---
+200419013 Limpertsberg, Crispi  01604  01604                % 01228 AVL---
+200405005 Centre, Badanstalt    01606  01606                % 01228 AVL---
+200405020 Hamilius              01610  01610                % 01228 AVL---
+200405023 Centre, Martyrs       01611  01611                % 01228 AVL---
+200405026 Luxembourg/Centre, P  01613  01613                % 01228 AVL---
+200405035 Luxembourg, Gare Cen  01615                       % 01228 AVL---
+*Z 01229 AVL---       001 020                               % 01229 AVL---
+*L 10       200801005 200405035  01845  01915               % 01229 AVL---
+*A BE 200801005 200405035 000013  01845  01915              % 01229 AVL---
+*R 2 200405035 200801005 200405035  01845  01915            % 01229 AVL---
+*G AVG 200801005 200405035  01845  01915                    % 01229 AVL---
+*A VE 200801005 200405035 000013  01845  01915              % 01229 AVL---
+200801005 Steinsel, Michel Rod         01845                % 01229 AVL---
+200801003 Steinsel, Gonneschha  01846  01846                % 01229 AVL---
+200801004 Steinsel, Laval       01847  01847                % 01229 AVL---
+201001001 Bereldange, Elterstr  01849  01849                % 01229 AVL---
+201001002 Bereldange, Police    01851  01851                % 01229 AVL---
+201001003 Bereldange, Schoul    01852  01852                % 01229 AVL---
+200402007 Beggen, Rue du Pont   01854  01854                % 01229 AVL---
+200402001 Beggen, Bastogne      01855  01855                % 01229 AVL---
+200402006 Beggen, Kierch        01856  01856                % 01229 AVL---
+200402002 Beggen, Binnchen      01857  01857                % 01229 AVL---
+200402005 Beggen, Henri Heyman  01858  01858                % 01229 AVL---
+200409007 Dommeldange, Emile M  01859  01859                % 01229 AVL---
+200410004 Eich, Klinik          01900  01900                % 01229 AVL---
+200410003 Eich, Eecher Plaz     01902  01902                % 01229 AVL---
+200410005 Eich, Octroi          01903  01903                % 01229 AVL---
+200419013 Limpertsberg, Crispi  01904  01904                % 01229 AVL---
+200405005 Centre, Badanstalt    01906  01906                % 01229 AVL---
+200405020 Hamilius              01910  01910                % 01229 AVL---
+200405023 Centre, Martyrs       01911  01911                % 01229 AVL---
+200405026 Luxembourg/Centre, P  01913  01913                % 01229 AVL---
+200405035 Luxembourg, Gare Cen  01915                       % 01229 AVL---
+*Z 01230 AVL---                                             % 01230 AVL---
+*L 10       200801005 200405035  01959  02024               % 01230 AVL---
+*A BE 200801005 200405035 000022  01959  02024              % 01230 AVL---
+*R 2 200405035 200801005 200405035  01959  02024            % 01230 AVL---
+*G AVG 200801005 200405035  01959  02024                    % 01230 AVL---
+*A VE 200801005 200405035 000022  01959  02024              % 01230 AVL---
+200801005 Steinsel, Michel Rod         01959                % 01230 AVL---
+200801003 Steinsel, Gonneschha  02000  02000                % 01230 AVL---
+200801004 Steinsel, Laval       02001  02001                % 01230 AVL---
+201001001 Bereldange, Elterstr  02003  02003                % 01230 AVL---
+201001002 Bereldange, Police    02004  02004                % 01230 AVL---
+201001003 Bereldange, Schoul    02005  02005                % 01230 AVL---
+200402007 Beggen, Rue du Pont   02007  02007                % 01230 AVL---
+200402001 Beggen, Bastogne      02008  02008                % 01230 AVL---
+200402006 Beggen, Kierch        02009  02009                % 01230 AVL---
+200402002 Beggen, Binnchen      02009  02009                % 01230 AVL---
+200402005 Beggen, Henri Heyman  02010  02010                % 01230 AVL---
+200409007 Dommeldange, Emile M  02011  02011                % 01230 AVL---
+200410004 Eich, Klinik          02012  02012                % 01230 AVL---
+200410003 Eich, Eecher Plaz     02013  02013                % 01230 AVL---
+200410005 Eich, Octroi          02014  02014                % 01230 AVL---
+200419013 Limpertsberg, Crispi  02015  02015                % 01230 AVL---
+200405005 Centre, Badanstalt    02017  02017                % 01230 AVL---
+200405020 Hamilius              02020  02020                % 01230 AVL---
+200405023 Centre, Martyrs       02021  02021                % 01230 AVL---
+200405026 Luxembourg/Centre, P  02022  02022                % 01230 AVL---
+200405035 Luxembourg, Gare Cen  02024                       % 01230 AVL---
+*Z 01231 AVL---       001 600                               % 01231 AVL---
+*L 10       200801005 200405035  01015  01040               % 01231 AVL---
+*A BE 200801005 200405035 000017  01015  01040              % 01231 AVL---
+*R 2 200405035 200801005 200405035  01015  01040            % 01231 AVL---
+*G AVS 200801005 200405035  01015  01040                    % 01231 AVL---
+*A VE 200801005 200405035 000017  01015  01040              % 01231 AVL---
+200801005 Steinsel, Michel Rod         01015                % 01231 AVL---
+200801003 Steinsel, Gonneschha  01016  01016                % 01231 AVL---
+200801004 Steinsel, Laval       01017  01017                % 01231 AVL---
+201001001 Bereldange, Elterstr  01019  01019                % 01231 AVL---
+201001002 Bereldange, Police    01020  01020                % 01231 AVL---
+201001003 Bereldange, Schoul    01021  01021                % 01231 AVL---
+200402007 Beggen, Rue du Pont   01023  01023                % 01231 AVL---
+200402001 Beggen, Bastogne      01024  01024                % 01231 AVL---
+200402006 Beggen, Kierch        01025  01025                % 01231 AVL---
+200402002 Beggen, Binnchen      01025  01025                % 01231 AVL---
+200402005 Beggen, Henri Heyman  01026  01026                % 01231 AVL---
+200409007 Dommeldange, Emile M  01027  01027                % 01231 AVL---
+200410004 Eich, Klinik          01028  01028                % 01231 AVL---
+200410003 Eich, Eecher Plaz     01029  01029                % 01231 AVL---
+200410005 Eich, Octroi          01030  01030                % 01231 AVL---
+200419013 Limpertsberg, Crispi  01031  01031                % 01231 AVL---
+200405005 Centre, Badanstalt    01033  01033                % 01231 AVL---
+200405020 Hamilius              01036  01036                % 01231 AVL---
+200405023 Centre, Martyrs       01037  01037                % 01231 AVL---
+200405026 Luxembourg/Centre, P  01038  01038                % 01231 AVL---
+200405035 Luxembourg, Gare Cen  01040                       % 01231 AVL---
+*Z 01232 AVL---       017 040                               % 01232 AVL---
+*L 10       200801005 200405035  00757  00825               % 01232 AVL---
+*A BE 200801005 200405035 000022  00757  00825              % 01232 AVL---
+*R 2 200405035 200801005 200405035  00757  00825            % 01232 AVL---
+*G AVG 200801005 200405035  00757  00825                    % 01232 AVL---
+*A VE 200801005 200405035 000022  00757  00825              % 01232 AVL---
+200801005 Steinsel, Michel Rod         00757                % 01232 AVL---
+200801003 Steinsel, Gonneschha  00759  00759                % 01232 AVL---
+200801004 Steinsel, Laval       00800  00800                % 01232 AVL---
+201001001 Bereldange, Elterstr  00801  00801                % 01232 AVL---
+201001002 Bereldange, Police    00803  00803                % 01232 AVL---
+201001003 Bereldange, Schoul    00804  00804                % 01232 AVL---
+200402007 Beggen, Rue du Pont   00806  00806                % 01232 AVL---
+200402001 Beggen, Bastogne      00807  00807                % 01232 AVL---
+200402006 Beggen, Kierch        00808  00808                % 01232 AVL---
+200402002 Beggen, Binnchen      00808  00808                % 01232 AVL---
+200402005 Beggen, Henri Heyman  00809  00809                % 01232 AVL---
+200409007 Dommeldange, Emile M  00810  00810                % 01232 AVL---
+200410004 Eich, Klinik          00811  00811                % 01232 AVL---
+200410003 Eich, Eecher Plaz     00813  00813                % 01232 AVL---
+200410005 Eich, Octroi          00814  00814                % 01232 AVL---
+200419013 Limpertsberg, Crispi  00814  00814                % 01232 AVL---
+200405005 Centre, Badanstalt    00817  00817                % 01232 AVL---
+200405020 Hamilius              00820  00820                % 01232 AVL---
+200405023 Centre, Martyrs       00821  00821                % 01232 AVL---
+200405026 Luxembourg/Centre, P  00823  00823                % 01232 AVL---
+200405035 Luxembourg, Gare Cen  00825                       % 01232 AVL---
+*Z 01233 AVL---       002 150                               % 01233 AVL---
+*L 10       200801005 200405035  01243  01311               % 01233 AVL---
+*A BE 200801005 200405035 000017  01243  01311              % 01233 AVL---
+*R 2 200405035 200801005 200405035  01243  01311            % 01233 AVL---
+*G AVS 200801005 200405035  01243  01311                    % 01233 AVL---
+*A VE 200801005 200405035 000017  01243  01311              % 01233 AVL---
+200801005 Steinsel, Michel Rod         01243                % 01233 AVL---
+200801003 Steinsel, Gonneschha  01245  01245                % 01233 AVL---
+200801004 Steinsel, Laval       01246  01246                % 01233 AVL---
+201001001 Bereldange, Elterstr  01247  01247                % 01233 AVL---
+201001002 Bereldange, Police    01249  01249                % 01233 AVL---
+201001003 Bereldange, Schoul    01250  01250                % 01233 AVL---
+200402007 Beggen, Rue du Pont   01252  01252                % 01233 AVL---
+200402001 Beggen, Bastogne      01253  01253                % 01233 AVL---
+200402006 Beggen, Kierch        01254  01254                % 01233 AVL---
+200402002 Beggen, Binnchen      01254  01254                % 01233 AVL---
+200402005 Beggen, Henri Heyman  01255  01255                % 01233 AVL---
+200409007 Dommeldange, Emile M  01256  01256                % 01233 AVL---
+200410004 Eich, Klinik          01257  01257                % 01233 AVL---
+200410003 Eich, Eecher Plaz     01259  01259                % 01233 AVL---
+200410005 Eich, Octroi          01300  01300                % 01233 AVL---
+200419013 Limpertsberg, Crispi  01300  01300                % 01233 AVL---
+200405005 Centre, Badanstalt    01303  01303                % 01233 AVL---
+200405020 Hamilius              01306  01306                % 01233 AVL---
+200405023 Centre, Martyrs       01307  01307                % 01233 AVL---
+200405026 Luxembourg/Centre, P  01309  01309                % 01233 AVL---
+200405035 Luxembourg, Gare Cen  01311                       % 01233 AVL---

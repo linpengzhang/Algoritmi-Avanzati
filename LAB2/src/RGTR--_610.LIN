@@ -1,0 +1,884 @@
+*F 03 2
+*Z 01948 RGTR--                                             % 01948 RGTR--
+*L 610      120903018 140304001  00800  00834               % 01948 RGTR--
+*A da 120903018 140304001 000006  00800  00834              % 01948 RGTR--
+*A gp 120903018 140304001 000006  00800  00834              % 01948 RGTR--
+*R 1 140304001 120903018 140304001  00800  00834            % 01948 RGTR--
+*G RGB 120903018 140304001  00800  00834                    % 01948 RGTR--
+*A VE 120903018 140304001 000006  00800  00834              % 01948 RGTR--
+*I FD 120903018 140304001        0002014  00800  00834      % 01948 RGTR--
+120903018 Wiltz, Gare                  00800                % 01948 RGTR--
+120903021 Wiltz, Lann           00801  00801                % 01948 RGTR--
+120903039 Wiltz, Schwemm        00803  00803                % 01948 RGTR--
+120903011 Wiltz, Clinique       00806  00806                % 01948 RGTR--
+120903006 Wiltz, Brandbau       00807  00807                % 01948 RGTR--
+120903005 Wiltz, Belle Vue      00808  00808                % 01948 RGTR--
+120903019 Wiltz, Bastnacherstr  00809  00809                % 01948 RGTR--
+120406002 Nocher, Route N°20    00813  00813                % 01948 RGTR--
+120406003 Nocher, Route N°40    00813  00813                % 01948 RGTR--
+120406001 Nocher, Route         00814  00814                % 01948 RGTR--
+120406005 Nocher, Um Knupp      00815  00815                % 01948 RGTR--
+120406004 Nocher, Schoul        00816  00816                % 01948 RGTR--
+120406006 Nocher, Welscheedgen  00816  00816                % 01948 RGTR--
+120403001 Dahl, Ale Wee         00818  00818                % 01948 RGTR--
+120403002 Dahl, Masselerstroos  00818  00818                % 01948 RGTR--
+120403003 Dahl, Al Molkerei     00819  00819                % 01948 RGTR--
+120403004 Dahl, Waassertuurm    00820  00820                % 01948 RGTR--
+120404002 Goesdorf, Maeschgaar  00822  00822                % 01948 RGTR--
+120404003 Goesdorf, Pompjeën    00822  00822                % 01948 RGTR--
+120404001 Goesdorf, Gemeng      00823  00823                % 01948 RGTR--
+120401001 Bockholtz/Wiltz       00827  00827                % 01948 RGTR--
+120401002 Bockholtz/Wiltz, Op   00828  00828                % 01948 RGTR--
+140302001 Dirbach, Bifurcation  00831  00831                % 01948 RGTR--
+140304001 Goebelsmühle, Gare    00834                       % 01948 RGTR--
+*Z 01949 RGTR--                                             % 01949 RGTR--
+*L 610      120903018 140304001  00900  00934               % 01949 RGTR--
+*A da 120903018 140304001 000006  00900  00934              % 01949 RGTR--
+*A gp 120903018 140304001 000006  00900  00934              % 01949 RGTR--
+*R 1 140304001 120903018 140304001  00900  00934            % 01949 RGTR--
+*G RGB 120903018 140304001  00900  00934                    % 01949 RGTR--
+*A VE 120903018 140304001 000006  00900  00934              % 01949 RGTR--
+*I FD 120903018 140304001        0002015  00900  00934      % 01949 RGTR--
+120903018 Wiltz, Gare                  00900                % 01949 RGTR--
+120903021 Wiltz, Lann           00901  00901                % 01949 RGTR--
+120903039 Wiltz, Schwemm        00903  00903                % 01949 RGTR--
+120903011 Wiltz, Clinique       00906  00906                % 01949 RGTR--
+120903006 Wiltz, Brandbau       00907  00907                % 01949 RGTR--
+120903005 Wiltz, Belle Vue      00908  00908                % 01949 RGTR--
+120903019 Wiltz, Bastnacherstr  00909  00909                % 01949 RGTR--
+120406002 Nocher, Route N°20    00913  00913                % 01949 RGTR--
+120406003 Nocher, Route N°40    00913  00913                % 01949 RGTR--
+120406001 Nocher, Route         00914  00914                % 01949 RGTR--
+120406005 Nocher, Um Knupp      00915  00915                % 01949 RGTR--
+120406004 Nocher, Schoul        00916  00916                % 01949 RGTR--
+120406006 Nocher, Welscheedgen  00916  00916                % 01949 RGTR--
+120403001 Dahl, Ale Wee         00918  00918                % 01949 RGTR--
+120403002 Dahl, Masselerstroos  00918  00918                % 01949 RGTR--
+120403003 Dahl, Al Molkerei     00919  00919                % 01949 RGTR--
+120403004 Dahl, Waassertuurm    00920  00920                % 01949 RGTR--
+120404002 Goesdorf, Maeschgaar  00922  00922                % 01949 RGTR--
+120404003 Goesdorf, Pompjeën    00922  00922                % 01949 RGTR--
+120404001 Goesdorf, Gemeng      00923  00923                % 01949 RGTR--
+120401001 Bockholtz/Wiltz       00927  00927                % 01949 RGTR--
+120401002 Bockholtz/Wiltz, Op   00928  00928                % 01949 RGTR--
+140302001 Dirbach, Bifurcation  00931  00931                % 01949 RGTR--
+140304001 Goebelsmühle, Gare    00934                       % 01949 RGTR--
+*Z 01950 RGTR--                                             % 01950 RGTR--
+*L 610      120903018 140304001  01655  01729               % 01950 RGTR--
+*A da 120903018 140304001 000006  01655  01729              % 01950 RGTR--
+*A gp 120903018 140304001 000006  01655  01729              % 01950 RGTR--
+*R 1 140304001 120903018 140304001  01655  01729            % 01950 RGTR--
+*G RGB 120903018 140304001  01655  01729                    % 01950 RGTR--
+*A VE 120903018 140304001 000006  01655  01729              % 01950 RGTR--
+*I FD 120903018 140304001        0002347  01655  01729      % 01950 RGTR--
+120903018 Wiltz, Gare                  01655                % 01950 RGTR--
+120903021 Wiltz, Lann           01656  01656                % 01950 RGTR--
+120903039 Wiltz, Schwemm        01658  01658                % 01950 RGTR--
+120903011 Wiltz, Clinique       01701  01701                % 01950 RGTR--
+120903006 Wiltz, Brandbau       01702  01702                % 01950 RGTR--
+120903005 Wiltz, Belle Vue      01703  01703                % 01950 RGTR--
+120903019 Wiltz, Bastnacherstr  01704  01704                % 01950 RGTR--
+120406002 Nocher, Route N°20    01708  01708                % 01950 RGTR--
+120406003 Nocher, Route N°40    01708  01708                % 01950 RGTR--
+120406001 Nocher, Route         01709  01709                % 01950 RGTR--
+120406005 Nocher, Um Knupp      01710  01710                % 01950 RGTR--
+120406004 Nocher, Schoul        01711  01711                % 01950 RGTR--
+120406006 Nocher, Welscheedgen  01711  01711                % 01950 RGTR--
+120403001 Dahl, Ale Wee         01713  01713                % 01950 RGTR--
+120403002 Dahl, Masselerstroos  01713  01713                % 01950 RGTR--
+120403003 Dahl, Al Molkerei     01714  01714                % 01950 RGTR--
+120403004 Dahl, Waassertuurm    01715  01715                % 01950 RGTR--
+120404002 Goesdorf, Maeschgaar  01717  01717                % 01950 RGTR--
+120404003 Goesdorf, Pompjeën    01717  01717                % 01950 RGTR--
+120404001 Goesdorf, Gemeng      01718  01718                % 01950 RGTR--
+120401001 Bockholtz/Wiltz       01722  01722                % 01950 RGTR--
+120401002 Bockholtz/Wiltz, Op   01723  01723                % 01950 RGTR--
+140302001 Dirbach, Bifurcation  01726  01726                % 01950 RGTR--
+140304001 Goebelsmühle, Gare    01729                       % 01950 RGTR--
+*Z 01951 RGTR--                                             % 01951 RGTR--
+*L 610      120903018 140304001  01755  01829               % 01951 RGTR--
+*A da 120903018 140304001 000006  01755  01829              % 01951 RGTR--
+*A gp 120903018 140304001 000006  01755  01829              % 01951 RGTR--
+*R 1 140304001 120903018 140304001  01755  01829            % 01951 RGTR--
+*G RGB 120903018 140304001  01755  01829                    % 01951 RGTR--
+*A VE 120903018 140304001 000006  01755  01829              % 01951 RGTR--
+*I FD 120903018 140304001        0002728  01755  01829      % 01951 RGTR--
+120903018 Wiltz, Gare                  01755                % 01951 RGTR--
+120903021 Wiltz, Lann           01756  01756                % 01951 RGTR--
+120903039 Wiltz, Schwemm        01758  01758                % 01951 RGTR--
+120903011 Wiltz, Clinique       01801  01801                % 01951 RGTR--
+120903006 Wiltz, Brandbau       01802  01802                % 01951 RGTR--
+120903005 Wiltz, Belle Vue      01803  01803                % 01951 RGTR--
+120903019 Wiltz, Bastnacherstr  01804  01804                % 01951 RGTR--
+120406002 Nocher, Route N°20    01808  01808                % 01951 RGTR--
+120406003 Nocher, Route N°40    01808  01808                % 01951 RGTR--
+120406001 Nocher, Route         01809  01809                % 01951 RGTR--
+120406005 Nocher, Um Knupp      01810  01810                % 01951 RGTR--
+120406004 Nocher, Schoul        01811  01811                % 01951 RGTR--
+120406006 Nocher, Welscheedgen  01811  01811                % 01951 RGTR--
+120403001 Dahl, Ale Wee         01813  01813                % 01951 RGTR--
+120403002 Dahl, Masselerstroos  01813  01813                % 01951 RGTR--
+120403003 Dahl, Al Molkerei     01814  01814                % 01951 RGTR--
+120403004 Dahl, Waassertuurm    01815  01815                % 01951 RGTR--
+120404002 Goesdorf, Maeschgaar  01817  01817                % 01951 RGTR--
+120404003 Goesdorf, Pompjeën    01817  01817                % 01951 RGTR--
+120404001 Goesdorf, Gemeng      01818  01818                % 01951 RGTR--
+120401001 Bockholtz/Wiltz       01822  01822                % 01951 RGTR--
+120401002 Bockholtz/Wiltz, Op   01823  01823                % 01951 RGTR--
+140302001 Dirbach, Bifurcation  01826  01826                % 01951 RGTR--
+140304001 Goebelsmühle, Gare    01829                       % 01951 RGTR--
+*Z 01952 RGTR--                                             % 01952 RGTR--
+*L 610      120903018 140304001  01602  01636               % 01952 RGTR--
+*A da 120903018 140304001 000159  01602  01636              % 01952 RGTR--
+*A gp 120903018 140304001 000159  01602  01636              % 01952 RGTR--
+*R 1 140304001 120903018 140304001  01602  01636            % 01952 RGTR--
+*G RGB 120903018 140304001  01602  01636                    % 01952 RGTR--
+*A VE 120903018 140304001 000159  01602  01636              % 01952 RGTR--
+*I FD 120903018 140304001        0002729  01602  01636      % 01952 RGTR--
+120903018 Wiltz, Gare                  01602                % 01952 RGTR--
+120903021 Wiltz, Lann           01603  01603                % 01952 RGTR--
+120903039 Wiltz, Schwemm        01605  01605                % 01952 RGTR--
+120903011 Wiltz, Clinique       01608  01608                % 01952 RGTR--
+120903006 Wiltz, Brandbau       01609  01609                % 01952 RGTR--
+120903005 Wiltz, Belle Vue      01610  01610                % 01952 RGTR--
+120903019 Wiltz, Bastnacherstr  01611  01611                % 01952 RGTR--
+120406002 Nocher, Route N°20    01615  01615                % 01952 RGTR--
+120406003 Nocher, Route N°40    01615  01615                % 01952 RGTR--
+120406001 Nocher, Route         01616  01616                % 01952 RGTR--
+120406005 Nocher, Um Knupp      01617  01617                % 01952 RGTR--
+120406004 Nocher, Schoul        01618  01618                % 01952 RGTR--
+120406006 Nocher, Welscheedgen  01618  01618                % 01952 RGTR--
+120403001 Dahl, Ale Wee         01620  01620                % 01952 RGTR--
+120403002 Dahl, Masselerstroos  01620  01620                % 01952 RGTR--
+120403003 Dahl, Al Molkerei     01621  01621                % 01952 RGTR--
+120403004 Dahl, Waassertuurm    01622  01622                % 01952 RGTR--
+120404002 Goesdorf, Maeschgaar  01624  01624                % 01952 RGTR--
+120404003 Goesdorf, Pompjeën    01624  01624                % 01952 RGTR--
+120404001 Goesdorf, Gemeng      01625  01625                % 01952 RGTR--
+120401001 Bockholtz/Wiltz       01629  01629                % 01952 RGTR--
+120401002 Bockholtz/Wiltz, Op   01630  01630                % 01952 RGTR--
+140302001 Dirbach, Bifurcation  01633  01633                % 01952 RGTR--
+140304001 Goebelsmühle, Gare    01636                       % 01952 RGTR--
+*Z 01953 RGTR--                                             % 01953 RGTR--
+*L 610      120903018 140304001  00627  00701               % 01953 RGTR--
+*A da 120903018 140304001 000006  00627  00701              % 01953 RGTR--
+*A gp 120903018 140304001 000006  00627  00701              % 01953 RGTR--
+*A OT 120903018 140304001 000006  00627  00701              % 01953 RGTR--
+*R 1 140304001 120903018 140304001  00627  00701            % 01953 RGTR--
+*G RGB 120903018 140304001  00627  00701                    % 01953 RGTR--
+*A VE 120903018 140304001 000006  00627  00701              % 01953 RGTR--
+*I FD 120903018 140304001        0000954  00627  00701      % 01953 RGTR--
+120903018 Wiltz, Gare                  00627                % 01953 RGTR--
+120903021 Wiltz, Lann           00628  00628                % 01953 RGTR--
+120903039 Wiltz, Schwemm        00630  00630                % 01953 RGTR--
+120903011 Wiltz, Clinique       00633  00633                % 01953 RGTR--
+120903006 Wiltz, Brandbau       00634  00634                % 01953 RGTR--
+120903005 Wiltz, Belle Vue      00635  00635                % 01953 RGTR--
+120903019 Wiltz, Bastnacherstr  00636  00636                % 01953 RGTR--
+120406002 Nocher, Route N°20    00639  00639                % 01953 RGTR--
+120406003 Nocher, Route N°40    00640  00640                % 01953 RGTR--
+120406001 Nocher, Route         00640  00640                % 01953 RGTR--
+120406005 Nocher, Um Knupp      00641  00641                % 01953 RGTR--
+120406004 Nocher, Schoul        00642  00642                % 01953 RGTR--
+120406006 Nocher, Welscheedgen  00642  00642                % 01953 RGTR--
+120403001 Dahl, Ale Wee         00644  00644                % 01953 RGTR--
+120403002 Dahl, Masselerstroos  00645  00645                % 01953 RGTR--
+120403003 Dahl, Al Molkerei     00645  00645                % 01953 RGTR--
+120403004 Dahl, Waassertuurm    00646  00646                % 01953 RGTR--
+120404002 Goesdorf, Maeschgaar  00648  00648                % 01953 RGTR--
+120404003 Goesdorf, Pompjeën    00649  00649                % 01953 RGTR--
+120404001 Goesdorf, Gemeng      00649  00649                % 01953 RGTR--
+120401001 Bockholtz/Wiltz       00653  00653                % 01953 RGTR--
+120401002 Bockholtz/Wiltz, Op   00655  00655                % 01953 RGTR--
+140302001 Dirbach, Bifurcation  00657  00657                % 01953 RGTR--
+140304001 Goebelsmühle, Gare    00701                       % 01953 RGTR--
+*Z 01954 RGTR--                                             % 01954 RGTR--
+*L 610      120903018 140304001  01000  01033               % 01954 RGTR--
+*A da 120903018 140304001 000006  01000  01033              % 01954 RGTR--
+*A gp 120903018 140304001 000006  01000  01033              % 01954 RGTR--
+*R 1 140304001 120903018 140304001  01000  01033            % 01954 RGTR--
+*G RGB 120903018 140304001  01000  01033                    % 01954 RGTR--
+*A VE 120903018 140304001 000006  01000  01033              % 01954 RGTR--
+*I FD 120903018 140304001        0002730  01000  01033      % 01954 RGTR--
+120903018 Wiltz, Gare                  01000                % 01954 RGTR--
+120903021 Wiltz, Lann           01001  01001                % 01954 RGTR--
+120903039 Wiltz, Schwemm        01003  01003                % 01954 RGTR--
+120903011 Wiltz, Clinique       01005  01005                % 01954 RGTR--
+120903006 Wiltz, Brandbau       01007  01007                % 01954 RGTR--
+120903005 Wiltz, Belle Vue      01007  01007                % 01954 RGTR--
+120903019 Wiltz, Bastnacherstr  01008  01008                % 01954 RGTR--
+120406002 Nocher, Route N°20    01012  01012                % 01954 RGTR--
+120406003 Nocher, Route N°40    01012  01012                % 01954 RGTR--
+120406001 Nocher, Route         01013  01013                % 01954 RGTR--
+120406005 Nocher, Um Knupp      01014  01014                % 01954 RGTR--
+120406004 Nocher, Schoul        01015  01015                % 01954 RGTR--
+120406006 Nocher, Welscheedgen  01015  01015                % 01954 RGTR--
+120403001 Dahl, Ale Wee         01017  01017                % 01954 RGTR--
+120403002 Dahl, Masselerstroos  01017  01017                % 01954 RGTR--
+120403003 Dahl, Al Molkerei     01018  01018                % 01954 RGTR--
+120403004 Dahl, Waassertuurm    01019  01019                % 01954 RGTR--
+120404002 Goesdorf, Maeschgaar  01021  01021                % 01954 RGTR--
+120404003 Goesdorf, Pompjeën    01021  01021                % 01954 RGTR--
+120404001 Goesdorf, Gemeng      01022  01022                % 01954 RGTR--
+120401001 Bockholtz/Wiltz       01026  01026                % 01954 RGTR--
+120401002 Bockholtz/Wiltz, Op   01027  01027                % 01954 RGTR--
+140302001 Dirbach, Bifurcation  01030  01030                % 01954 RGTR--
+140304001 Goebelsmühle, Gare    01033                       % 01954 RGTR--
+*Z 01955 RGTR--                                             % 01955 RGTR--
+*L 610      120903018 140304001  01100  01133               % 01955 RGTR--
+*A da 120903018 140304001 000006  01100  01133              % 01955 RGTR--
+*A gp 120903018 140304001 000006  01100  01133              % 01955 RGTR--
+*R 1 140304001 120903018 140304001  01100  01133            % 01955 RGTR--
+*G RGB 120903018 140304001  01100  01133                    % 01955 RGTR--
+*A VE 120903018 140304001 000006  01100  01133              % 01955 RGTR--
+*I FD 120903018 140304001        0002681  01100  01133      % 01955 RGTR--
+120903018 Wiltz, Gare                  01100                % 01955 RGTR--
+120903021 Wiltz, Lann           01101  01101                % 01955 RGTR--
+120903039 Wiltz, Schwemm        01103  01103                % 01955 RGTR--
+120903011 Wiltz, Clinique       01105  01105                % 01955 RGTR--
+120903006 Wiltz, Brandbau       01107  01107                % 01955 RGTR--
+120903005 Wiltz, Belle Vue      01107  01107                % 01955 RGTR--
+120903019 Wiltz, Bastnacherstr  01108  01108                % 01955 RGTR--
+120406002 Nocher, Route N°20    01112  01112                % 01955 RGTR--
+120406003 Nocher, Route N°40    01112  01112                % 01955 RGTR--
+120406001 Nocher, Route         01113  01113                % 01955 RGTR--
+120406005 Nocher, Um Knupp      01114  01114                % 01955 RGTR--
+120406004 Nocher, Schoul        01115  01115                % 01955 RGTR--
+120406006 Nocher, Welscheedgen  01115  01115                % 01955 RGTR--
+120403001 Dahl, Ale Wee         01117  01117                % 01955 RGTR--
+120403002 Dahl, Masselerstroos  01117  01117                % 01955 RGTR--
+120403003 Dahl, Al Molkerei     01118  01118                % 01955 RGTR--
+120403004 Dahl, Waassertuurm    01119  01119                % 01955 RGTR--
+120404002 Goesdorf, Maeschgaar  01121  01121                % 01955 RGTR--
+120404003 Goesdorf, Pompjeën    01121  01121                % 01955 RGTR--
+120404001 Goesdorf, Gemeng      01122  01122                % 01955 RGTR--
+120401001 Bockholtz/Wiltz       01126  01126                % 01955 RGTR--
+120401002 Bockholtz/Wiltz, Op   01127  01127                % 01955 RGTR--
+140302001 Dirbach, Bifurcation  01130  01130                % 01955 RGTR--
+140304001 Goebelsmühle, Gare    01133                       % 01955 RGTR--
+*Z 01956 RGTR--                                             % 01956 RGTR--
+*L 610      120903018 140304001  01400  01433               % 01956 RGTR--
+*A da 120903018 140304001 000006  01400  01433              % 01956 RGTR--
+*A gp 120903018 140304001 000006  01400  01433              % 01956 RGTR--
+*R 1 140304001 120903018 140304001  01400  01433            % 01956 RGTR--
+*G RGB 120903018 140304001  01400  01433                    % 01956 RGTR--
+*A VE 120903018 140304001 000006  01400  01433              % 01956 RGTR--
+*I FD 120903018 140304001        0002731  01400  01433      % 01956 RGTR--
+120903018 Wiltz, Gare                  01400                % 01956 RGTR--
+120903021 Wiltz, Lann           01401  01401                % 01956 RGTR--
+120903039 Wiltz, Schwemm        01403  01403                % 01956 RGTR--
+120903011 Wiltz, Clinique       01405  01405                % 01956 RGTR--
+120903006 Wiltz, Brandbau       01407  01407                % 01956 RGTR--
+120903005 Wiltz, Belle Vue      01407  01407                % 01956 RGTR--
+120903019 Wiltz, Bastnacherstr  01408  01408                % 01956 RGTR--
+120406002 Nocher, Route N°20    01412  01412                % 01956 RGTR--
+120406003 Nocher, Route N°40    01412  01412                % 01956 RGTR--
+120406001 Nocher, Route         01413  01413                % 01956 RGTR--
+120406005 Nocher, Um Knupp      01414  01414                % 01956 RGTR--
+120406004 Nocher, Schoul        01415  01415                % 01956 RGTR--
+120406006 Nocher, Welscheedgen  01415  01415                % 01956 RGTR--
+120403001 Dahl, Ale Wee         01417  01417                % 01956 RGTR--
+120403002 Dahl, Masselerstroos  01417  01417                % 01956 RGTR--
+120403003 Dahl, Al Molkerei     01418  01418                % 01956 RGTR--
+120403004 Dahl, Waassertuurm    01419  01419                % 01956 RGTR--
+120404002 Goesdorf, Maeschgaar  01421  01421                % 01956 RGTR--
+120404003 Goesdorf, Pompjeën    01421  01421                % 01956 RGTR--
+120404001 Goesdorf, Gemeng      01422  01422                % 01956 RGTR--
+120401001 Bockholtz/Wiltz       01426  01426                % 01956 RGTR--
+120401002 Bockholtz/Wiltz, Op   01427  01427                % 01956 RGTR--
+140302001 Dirbach, Bifurcation  01430  01430                % 01956 RGTR--
+140304001 Goebelsmühle, Gare    01433                       % 01956 RGTR--
+*Z 01957 RGTR--                                             % 01957 RGTR--
+*L 610      120903018 140304001  01500  01533               % 01957 RGTR--
+*A da 120903018 140304001 000006  01500  01533              % 01957 RGTR--
+*A gp 120903018 140304001 000006  01500  01533              % 01957 RGTR--
+*R 1 140304001 120903018 140304001  01500  01533            % 01957 RGTR--
+*G RGB 120903018 140304001  01500  01533                    % 01957 RGTR--
+*A VE 120903018 140304001 000006  01500  01533              % 01957 RGTR--
+*I FD 120903018 140304001        0002587  01500  01533      % 01957 RGTR--
+120903018 Wiltz, Gare                  01500                % 01957 RGTR--
+120903021 Wiltz, Lann           01501  01501                % 01957 RGTR--
+120903039 Wiltz, Schwemm        01503  01503                % 01957 RGTR--
+120903011 Wiltz, Clinique       01505  01505                % 01957 RGTR--
+120903006 Wiltz, Brandbau       01507  01507                % 01957 RGTR--
+120903005 Wiltz, Belle Vue      01507  01507                % 01957 RGTR--
+120903019 Wiltz, Bastnacherstr  01508  01508                % 01957 RGTR--
+120406002 Nocher, Route N°20    01512  01512                % 01957 RGTR--
+120406003 Nocher, Route N°40    01512  01512                % 01957 RGTR--
+120406001 Nocher, Route         01513  01513                % 01957 RGTR--
+120406005 Nocher, Um Knupp      01514  01514                % 01957 RGTR--
+120406004 Nocher, Schoul        01515  01515                % 01957 RGTR--
+120406006 Nocher, Welscheedgen  01515  01515                % 01957 RGTR--
+120403001 Dahl, Ale Wee         01517  01517                % 01957 RGTR--
+120403002 Dahl, Masselerstroos  01517  01517                % 01957 RGTR--
+120403003 Dahl, Al Molkerei     01518  01518                % 01957 RGTR--
+120403004 Dahl, Waassertuurm    01519  01519                % 01957 RGTR--
+120404002 Goesdorf, Maeschgaar  01521  01521                % 01957 RGTR--
+120404003 Goesdorf, Pompjeën    01521  01521                % 01957 RGTR--
+120404001 Goesdorf, Gemeng      01522  01522                % 01957 RGTR--
+120401001 Bockholtz/Wiltz       01526  01526                % 01957 RGTR--
+120401002 Bockholtz/Wiltz, Op   01527  01527                % 01957 RGTR--
+140302001 Dirbach, Bifurcation  01530  01530                % 01957 RGTR--
+140304001 Goebelsmühle, Gare    01533                       % 01957 RGTR--
+*Z 01958 RGTR--                                             % 01958 RGTR--
+*L 610      120903018 140304001  01200  01233               % 01958 RGTR--
+*A da 120903018 140304001 000033  01200  01233              % 01958 RGTR--
+*A gp 120903018 140304001 000033  01200  01233              % 01958 RGTR--
+*R 1 140304001 120903018 140304001  01200  01233            % 01958 RGTR--
+*G RGB 120903018 140304001  01200  01233                    % 01958 RGTR--
+*A VE 120903018 140304001 000033  01200  01233              % 01958 RGTR--
+*I FD 120903018 140304001        0002686  01200  01233      % 01958 RGTR--
+120903018 Wiltz, Gare                  01200                % 01958 RGTR--
+120903021 Wiltz, Lann           01201  01201                % 01958 RGTR--
+120903039 Wiltz, Schwemm        01203  01203                % 01958 RGTR--
+120903011 Wiltz, Clinique       01205  01205                % 01958 RGTR--
+120903006 Wiltz, Brandbau       01207  01207                % 01958 RGTR--
+120903005 Wiltz, Belle Vue      01207  01207                % 01958 RGTR--
+120903019 Wiltz, Bastnacherstr  01208  01208                % 01958 RGTR--
+120406002 Nocher, Route N°20    01212  01212                % 01958 RGTR--
+120406003 Nocher, Route N°40    01212  01212                % 01958 RGTR--
+120406001 Nocher, Route         01213  01213                % 01958 RGTR--
+120406005 Nocher, Um Knupp      01214  01214                % 01958 RGTR--
+120406004 Nocher, Schoul        01215  01215                % 01958 RGTR--
+120406006 Nocher, Welscheedgen  01215  01215                % 01958 RGTR--
+120403001 Dahl, Ale Wee         01217  01217                % 01958 RGTR--
+120403002 Dahl, Masselerstroos  01217  01217                % 01958 RGTR--
+120403003 Dahl, Al Molkerei     01218  01218                % 01958 RGTR--
+120403004 Dahl, Waassertuurm    01219  01219                % 01958 RGTR--
+120404002 Goesdorf, Maeschgaar  01221  01221                % 01958 RGTR--
+120404003 Goesdorf, Pompjeën    01221  01221                % 01958 RGTR--
+120404001 Goesdorf, Gemeng      01222  01222                % 01958 RGTR--
+120401001 Bockholtz/Wiltz       01226  01226                % 01958 RGTR--
+120401002 Bockholtz/Wiltz, Op   01227  01227                % 01958 RGTR--
+140302001 Dirbach, Bifurcation  01230  01230                % 01958 RGTR--
+140304001 Goebelsmühle, Gare    01233                       % 01958 RGTR--
+*Z 01959 RGTR--                                             % 01959 RGTR--
+*L 610      120903029 140304001  01610  01646               % 01959 RGTR--
+*A da 120903029 140304001 000045  01610  01646              % 01959 RGTR--
+*A gp 120903029 140304001 000045  01610  01646              % 01959 RGTR--
+*R 1 140304001 120903029 140304001  01610  01646            % 01959 RGTR--
+*G RGB 120903029 140304001  01610  01646                    % 01959 RGTR--
+*A VE 120903029 140304001 000045  01610  01646              % 01959 RGTR--
+*I FD 120903029 140304001        0001895  01610  01646      % 01959 RGTR--
+120903029 Wiltz, Schoulbierg           01610                % 01959 RGTR--
+120903023 Wiltz, Lycée du Nord  01615  01615                % 01959 RGTR--
+120903011 Wiltz, Clinique       01618  01618                % 01959 RGTR--
+120903006 Wiltz, Brandbau       01619  01619                % 01959 RGTR--
+120903005 Wiltz, Belle Vue      01620  01620                % 01959 RGTR--
+120903019 Wiltz, Bastnacherstr  01621  01621                % 01959 RGTR--
+120406002 Nocher, Route N°20    01625  01625                % 01959 RGTR--
+120406003 Nocher, Route N°40    01625  01625                % 01959 RGTR--
+120406001 Nocher, Route         01626  01626                % 01959 RGTR--
+120406005 Nocher, Um Knupp      01627  01627                % 01959 RGTR--
+120406004 Nocher, Schoul        01628  01628                % 01959 RGTR--
+120406006 Nocher, Welscheedgen  01628  01628                % 01959 RGTR--
+120403001 Dahl, Ale Wee         01630  01630                % 01959 RGTR--
+120403002 Dahl, Masselerstroos  01630  01630                % 01959 RGTR--
+120403003 Dahl, Al Molkerei     01631  01631                % 01959 RGTR--
+120403004 Dahl, Waassertuurm    01632  01632                % 01959 RGTR--
+120404002 Goesdorf, Maeschgaar  01634  01634                % 01959 RGTR--
+120404003 Goesdorf, Pompjeën    01634  01634                % 01959 RGTR--
+120404001 Goesdorf, Gemeng      01635  01635                % 01959 RGTR--
+120401001 Bockholtz/Wiltz       01639  01639                % 01959 RGTR--
+120401002 Bockholtz/Wiltz, Op   01640  01640                % 01959 RGTR--
+140302001 Dirbach, Bifurcation  01643  01643                % 01959 RGTR--
+140304001 Goebelsmühle, Gare    01646                       % 01959 RGTR--
+*Z 01960 RGTR--                                             % 01960 RGTR--
+*L 610      120903029 140304001  01155  01230               % 01960 RGTR--
+*A da 120903029 140304001 000045  01155  01230              % 01960 RGTR--
+*A gp 120903029 140304001 000045  01155  01230              % 01960 RGTR--
+*R 1 140304001 120903029 140304001  01155  01230            % 01960 RGTR--
+*G RGB 120903029 140304001  01155  01230                    % 01960 RGTR--
+*A VE 120903029 140304001 000045  01155  01230              % 01960 RGTR--
+*I FD 120903029 140304001        0002603  01155  01230      % 01960 RGTR--
+120903029 Wiltz, Schoulbierg           01155                % 01960 RGTR--
+120903023 Wiltz, Lycée du Nord  01159  01159                % 01960 RGTR--
+120903011 Wiltz, Clinique       01202  01202                % 01960 RGTR--
+120903006 Wiltz, Brandbau       01203  01203                % 01960 RGTR--
+120903005 Wiltz, Belle Vue      01204  01204                % 01960 RGTR--
+120903019 Wiltz, Bastnacherstr  01205  01205                % 01960 RGTR--
+120406002 Nocher, Route N°20    01209  01209                % 01960 RGTR--
+120406003 Nocher, Route N°40    01209  01209                % 01960 RGTR--
+120406001 Nocher, Route         01210  01210                % 01960 RGTR--
+120406005 Nocher, Um Knupp      01211  01211                % 01960 RGTR--
+120406004 Nocher, Schoul        01211  01211                % 01960 RGTR--
+120406006 Nocher, Welscheedgen  01212  01212                % 01960 RGTR--
+120403001 Dahl, Ale Wee         01213  01213                % 01960 RGTR--
+120403002 Dahl, Masselerstroos  01214  01214                % 01960 RGTR--
+120403003 Dahl, Al Molkerei     01214  01214                % 01960 RGTR--
+120403004 Dahl, Waassertuurm    01215  01215                % 01960 RGTR--
+120404002 Goesdorf, Maeschgaar  01217  01217                % 01960 RGTR--
+120404003 Goesdorf, Pompjeën    01218  01218                % 01960 RGTR--
+120404001 Goesdorf, Gemeng      01219  01219                % 01960 RGTR--
+120401001 Bockholtz/Wiltz       01223  01223                % 01960 RGTR--
+120401002 Bockholtz/Wiltz, Op   01224  01224                % 01960 RGTR--
+140302001 Dirbach, Bifurcation  01227  01227                % 01960 RGTR--
+140304001 Goebelsmühle, Gare    01230                       % 01960 RGTR--
+*Z 01961 RGTR--                                             % 01961 RGTR--
+*L 610      120903023 120406004  01208  01220               % 01961 RGTR--
+*A da 120903023 120406004 000042  01208  01220              % 01961 RGTR--
+*A gq 120903023 120406004 000042  01208  01220              % 01961 RGTR--
+*R 1 120406004 120903023 120406004  01208  01220            % 01961 RGTR--
+*G RGB 120903023 120406004  01208  01220                    % 01961 RGTR--
+*A VE 120903023 120406004 000042  01208  01220              % 01961 RGTR--
+*I FD 120903023 120406004        0002732  01208  01220      % 01961 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 01961 RGTR--
+120903011 Wiltz, Clinique       01211  01211                % 01961 RGTR--
+120903006 Wiltz, Brandbau       01212  01212                % 01961 RGTR--
+120903005 Wiltz, Belle Vue      01213  01213                % 01961 RGTR--
+120903019 Wiltz, Bastnacherstr  01214  01214                % 01961 RGTR--
+120406002 Nocher, Route N°20    01218  01218                % 01961 RGTR--
+120406003 Nocher, Route N°40    01218  01218                % 01961 RGTR--
+120406001 Nocher, Route         01219  01219                % 01961 RGTR--
+120406005 Nocher, Um Knupp      01220  01220                % 01961 RGTR--
+120406004 Nocher, Schoul        01220                       % 01961 RGTR--
+*Z 01962 RGTR--                                             % 01962 RGTR--
+*L 610      120903023 120406004  01200  01213               % 01962 RGTR--
+*A da 120903023 120406004 000045  01200  01213              % 01962 RGTR--
+*A gq 120903023 120406004 000045  01200  01213              % 01962 RGTR--
+*R 1 120406004 120903023 120406004  01200  01213            % 01962 RGTR--
+*G RGB 120903023 120406004  01200  01213                    % 01962 RGTR--
+*A VE 120903023 120406004 000045  01200  01213              % 01962 RGTR--
+*I FD 120903023 120406004        0002686  01200  01213      % 01962 RGTR--
+120903023 Wiltz, Lycée du Nord         01200                % 01962 RGTR--
+120903011 Wiltz, Clinique       01203  01203                % 01962 RGTR--
+120903006 Wiltz, Brandbau       01204  01204                % 01962 RGTR--
+120903005 Wiltz, Belle Vue      01205  01205                % 01962 RGTR--
+120903019 Wiltz, Bastnacherstr  01206  01206                % 01962 RGTR--
+120406002 Nocher, Route N°20    01209  01209                % 01962 RGTR--
+120406003 Nocher, Route N°40    01210  01210                % 01962 RGTR--
+120406001 Nocher, Route         01211  01211                % 01962 RGTR--
+120406005 Nocher, Um Knupp      01212  01212                % 01962 RGTR--
+120406004 Nocher, Schoul        01213                       % 01962 RGTR--
+*Z 01963 RGTR--                                             % 01963 RGTR--
+*L 610      120903023 140304001  01208  01239               % 01963 RGTR--
+*A da 120903023 140304001 000042  01208  01239              % 01963 RGTR--
+*A gp 120903023 140304001 000042  01208  01239              % 01963 RGTR--
+*R 1 140304001 120903023 140304001  01208  01239            % 01963 RGTR--
+*G RGB 120903023 140304001  01208  01239                    % 01963 RGTR--
+*A VE 120903023 140304001 000042  01208  01239              % 01963 RGTR--
+*I FD 120903023 140304001        0002222  01208  01239      % 01963 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 01963 RGTR--
+120903011 Wiltz, Clinique       01211  01211                % 01963 RGTR--
+120903006 Wiltz, Brandbau       01212  01212                % 01963 RGTR--
+120903005 Wiltz, Belle Vue      01213  01213                % 01963 RGTR--
+120903019 Wiltz, Bastnacherstr  01214  01214                % 01963 RGTR--
+120406002 Nocher, Route N°20    01218  01218                % 01963 RGTR--
+120406003 Nocher, Route N°40    01218  01218                % 01963 RGTR--
+120406001 Nocher, Route         01219  01219                % 01963 RGTR--
+120406005 Nocher, Um Knupp      01220  01220                % 01963 RGTR--
+120406004 Nocher, Schoul        01220  01220                % 01963 RGTR--
+120406006 Nocher, Welscheedgen  01221  01221                % 01963 RGTR--
+120403001 Dahl, Ale Wee         01222  01222                % 01963 RGTR--
+120403002 Dahl, Masselerstroos  01223  01223                % 01963 RGTR--
+120403003 Dahl, Al Molkerei     01223  01223                % 01963 RGTR--
+120403004 Dahl, Waassertuurm    01224  01224                % 01963 RGTR--
+120404002 Goesdorf, Maeschgaar  01226  01226                % 01963 RGTR--
+120404003 Goesdorf, Pompjeën    01227  01227                % 01963 RGTR--
+120404001 Goesdorf, Gemeng      01228  01228                % 01963 RGTR--
+120401001 Bockholtz/Wiltz       01232  01232                % 01963 RGTR--
+120401002 Bockholtz/Wiltz, Op   01233  01233                % 01963 RGTR--
+140302001 Dirbach, Bifurcation  01236  01236                % 01963 RGTR--
+140304001 Goebelsmühle, Gare    01239                       % 01963 RGTR--
+*Z 01964 RGTR--                                             % 01964 RGTR--
+*L 610      120406004 120903023  00724  00738               % 01964 RGTR--
+*A da 120406004 120903023 000030  00724  00738              % 01964 RGTR--
+*A bl 120406004 120903023 000030  00724  00738              % 01964 RGTR--
+*R 2 120903023 120406004 120903023  00724  00738            % 01964 RGTR--
+*G RGB 120406004 120903023  00724  00738                    % 01964 RGTR--
+*A VE 120406004 120903023 000030  00724  00738              % 01964 RGTR--
+*I FD 120406004 120903023        0002733  00724  00738      % 01964 RGTR--
+120406004 Nocher, Schoul               00724                % 01964 RGTR--
+120406005 Nocher, Um Knupp      00725  00725                % 01964 RGTR--
+120406001 Nocher, Route         00725  00725                % 01964 RGTR--
+120406003 Nocher, Route N°40    00726  00726                % 01964 RGTR--
+120406002 Nocher, Route N°20    00727  00727                % 01964 RGTR--
+120903019 Wiltz, Bastnacherstr  00730  00730                % 01964 RGTR--
+120903005 Wiltz, Belle Vue      00732  00732                % 01964 RGTR--
+120903006 Wiltz, Brandbau       00733  00733                % 01964 RGTR--
+120903011 Wiltz, Clinique       00734  00734                % 01964 RGTR--
+120903023 Wiltz, Lycée du Nord  00738                       % 01964 RGTR--
+*Z 01965 RGTR--                                             % 01965 RGTR--
+*L 610      140304001 120903018  01009  01042               % 01965 RGTR--
+*A da 140304001 120903018 000006  01009  01042              % 01965 RGTR--
+*A gr 140304001 120903018 000006  01009  01042              % 01965 RGTR--
+*R 2 120903018 140304001 120903018  01009  01042            % 01965 RGTR--
+*G RGB 140304001 120903018  01009  01042                    % 01965 RGTR--
+*A VE 140304001 120903018 000006  01009  01042              % 01965 RGTR--
+*I FD 140304001 120903018        0002734  01009  01042      % 01965 RGTR--
+140304001 Goebelsmühle, Gare           01009                % 01965 RGTR--
+140302001 Dirbach, Bifurcation  01012  01012                % 01965 RGTR--
+120401002 Bockholtz/Wiltz, Op   01014  01014                % 01965 RGTR--
+120401001 Bockholtz/Wiltz       01015  01015                % 01965 RGTR--
+120404001 Goesdorf, Gemeng      01019  01019                % 01965 RGTR--
+120404003 Goesdorf, Pompjeën    01020  01020                % 01965 RGTR--
+120404002 Goesdorf, Maeschgaar  01020  01020                % 01965 RGTR--
+120403004 Dahl, Waassertuurm    01022  01022                % 01965 RGTR--
+120403003 Dahl, Al Molkerei     01023  01023                % 01965 RGTR--
+120403002 Dahl, Masselerstroos  01024  01024                % 01965 RGTR--
+120403001 Dahl, Ale Wee         01024  01024                % 01965 RGTR--
+120406006 Nocher, Welscheedgen  01026  01026                % 01965 RGTR--
+120406004 Nocher, Schoul        01026  01026                % 01965 RGTR--
+120406005 Nocher, Um Knupp      01027  01027                % 01965 RGTR--
+120406001 Nocher, Route         01028  01028                % 01965 RGTR--
+120406003 Nocher, Route N°40    01029  01029                % 01965 RGTR--
+120406002 Nocher, Route N°20    01029  01029                % 01965 RGTR--
+120903019 Wiltz, Bastnacherstr  01033  01033                % 01965 RGTR--
+120903005 Wiltz, Belle Vue      01034  01034                % 01965 RGTR--
+120903006 Wiltz, Brandbau       01035  01035                % 01965 RGTR--
+120903011 Wiltz, Clinique       01036  01036                % 01965 RGTR--
+120903039 Wiltz, Schwemm        01039  01039                % 01965 RGTR--
+120903021 Wiltz, Lann           01040  01040                % 01965 RGTR--
+120903018 Wiltz, Gare           01042                       % 01965 RGTR--
+*Z 01966 RGTR--                                             % 01966 RGTR--
+*L 610      140304001 120903018  01109  01142               % 01966 RGTR--
+*A da 140304001 120903018 000006  01109  01142              % 01966 RGTR--
+*A gr 140304001 120903018 000006  01109  01142              % 01966 RGTR--
+*R 2 120903018 140304001 120903018  01109  01142            % 01966 RGTR--
+*G RGB 140304001 120903018  01109  01142                    % 01966 RGTR--
+*A VE 140304001 120903018 000006  01109  01142              % 01966 RGTR--
+*I FD 140304001 120903018        0001163  01109  01142      % 01966 RGTR--
+140304001 Goebelsmühle, Gare           01109                % 01966 RGTR--
+140302001 Dirbach, Bifurcation  01112  01112                % 01966 RGTR--
+120401002 Bockholtz/Wiltz, Op   01114  01114                % 01966 RGTR--
+120401001 Bockholtz/Wiltz       01115  01115                % 01966 RGTR--
+120404001 Goesdorf, Gemeng      01119  01119                % 01966 RGTR--
+120404003 Goesdorf, Pompjeën    01120  01120                % 01966 RGTR--
+120404002 Goesdorf, Maeschgaar  01120  01120                % 01966 RGTR--
+120403004 Dahl, Waassertuurm    01122  01122                % 01966 RGTR--
+120403003 Dahl, Al Molkerei     01123  01123                % 01966 RGTR--
+120403002 Dahl, Masselerstroos  01124  01124                % 01966 RGTR--
+120403001 Dahl, Ale Wee         01124  01124                % 01966 RGTR--
+120406006 Nocher, Welscheedgen  01126  01126                % 01966 RGTR--
+120406004 Nocher, Schoul        01126  01126                % 01966 RGTR--
+120406005 Nocher, Um Knupp      01127  01127                % 01966 RGTR--
+120406001 Nocher, Route         01128  01128                % 01966 RGTR--
+120406003 Nocher, Route N°40    01129  01129                % 01966 RGTR--
+120406002 Nocher, Route N°20    01129  01129                % 01966 RGTR--
+120903019 Wiltz, Bastnacherstr  01133  01133                % 01966 RGTR--
+120903005 Wiltz, Belle Vue      01134  01134                % 01966 RGTR--
+120903006 Wiltz, Brandbau       01135  01135                % 01966 RGTR--
+120903011 Wiltz, Clinique       01136  01136                % 01966 RGTR--
+120903039 Wiltz, Schwemm        01139  01139                % 01966 RGTR--
+120903021 Wiltz, Lann           01140  01140                % 01966 RGTR--
+120903018 Wiltz, Gare           01142                       % 01966 RGTR--
+*Z 01967 RGTR--                                             % 01967 RGTR--
+*L 610      140304001 120903018  01409  01442               % 01967 RGTR--
+*A da 140304001 120903018 000006  01409  01442              % 01967 RGTR--
+*A gr 140304001 120903018 000006  01409  01442              % 01967 RGTR--
+*R 2 120903018 140304001 120903018  01409  01442            % 01967 RGTR--
+*G RGB 140304001 120903018  01409  01442                    % 01967 RGTR--
+*A VE 140304001 120903018 000006  01409  01442              % 01967 RGTR--
+*I FD 140304001 120903018        0002735  01409  01442      % 01967 RGTR--
+140304001 Goebelsmühle, Gare           01409                % 01967 RGTR--
+140302001 Dirbach, Bifurcation  01412  01412                % 01967 RGTR--
+120401002 Bockholtz/Wiltz, Op   01414  01414                % 01967 RGTR--
+120401001 Bockholtz/Wiltz       01415  01415                % 01967 RGTR--
+120404001 Goesdorf, Gemeng      01419  01419                % 01967 RGTR--
+120404003 Goesdorf, Pompjeën    01420  01420                % 01967 RGTR--
+120404002 Goesdorf, Maeschgaar  01420  01420                % 01967 RGTR--
+120403004 Dahl, Waassertuurm    01422  01422                % 01967 RGTR--
+120403003 Dahl, Al Molkerei     01423  01423                % 01967 RGTR--
+120403002 Dahl, Masselerstroos  01424  01424                % 01967 RGTR--
+120403001 Dahl, Ale Wee         01424  01424                % 01967 RGTR--
+120406006 Nocher, Welscheedgen  01426  01426                % 01967 RGTR--
+120406004 Nocher, Schoul        01426  01426                % 01967 RGTR--
+120406005 Nocher, Um Knupp      01427  01427                % 01967 RGTR--
+120406001 Nocher, Route         01428  01428                % 01967 RGTR--
+120406003 Nocher, Route N°40    01429  01429                % 01967 RGTR--
+120406002 Nocher, Route N°20    01429  01429                % 01967 RGTR--
+120903019 Wiltz, Bastnacherstr  01433  01433                % 01967 RGTR--
+120903005 Wiltz, Belle Vue      01434  01434                % 01967 RGTR--
+120903006 Wiltz, Brandbau       01435  01435                % 01967 RGTR--
+120903011 Wiltz, Clinique       01436  01436                % 01967 RGTR--
+120903039 Wiltz, Schwemm        01439  01439                % 01967 RGTR--
+120903021 Wiltz, Lann           01440  01440                % 01967 RGTR--
+120903018 Wiltz, Gare           01442                       % 01967 RGTR--
+*Z 01968 RGTR--                                             % 01968 RGTR--
+*L 610      140304001 120903018  01509  01542               % 01968 RGTR--
+*A da 140304001 120903018 000006  01509  01542              % 01968 RGTR--
+*A gr 140304001 120903018 000006  01509  01542              % 01968 RGTR--
+*R 2 120903018 140304001 120903018  01509  01542            % 01968 RGTR--
+*G RGB 140304001 120903018  01509  01542                    % 01968 RGTR--
+*A VE 140304001 120903018 000006  01509  01542              % 01968 RGTR--
+*I FD 140304001 120903018        0002736  01509  01542      % 01968 RGTR--
+140304001 Goebelsmühle, Gare           01509                % 01968 RGTR--
+140302001 Dirbach, Bifurcation  01512  01512                % 01968 RGTR--
+120401002 Bockholtz/Wiltz, Op   01514  01514                % 01968 RGTR--
+120401001 Bockholtz/Wiltz       01515  01515                % 01968 RGTR--
+120404001 Goesdorf, Gemeng      01519  01519                % 01968 RGTR--
+120404003 Goesdorf, Pompjeën    01520  01520                % 01968 RGTR--
+120404002 Goesdorf, Maeschgaar  01520  01520                % 01968 RGTR--
+120403004 Dahl, Waassertuurm    01522  01522                % 01968 RGTR--
+120403003 Dahl, Al Molkerei     01523  01523                % 01968 RGTR--
+120403002 Dahl, Masselerstroos  01524  01524                % 01968 RGTR--
+120403001 Dahl, Ale Wee         01524  01524                % 01968 RGTR--
+120406006 Nocher, Welscheedgen  01526  01526                % 01968 RGTR--
+120406004 Nocher, Schoul        01526  01526                % 01968 RGTR--
+120406005 Nocher, Um Knupp      01527  01527                % 01968 RGTR--
+120406001 Nocher, Route         01528  01528                % 01968 RGTR--
+120406003 Nocher, Route N°40    01529  01529                % 01968 RGTR--
+120406002 Nocher, Route N°20    01529  01529                % 01968 RGTR--
+120903019 Wiltz, Bastnacherstr  01533  01533                % 01968 RGTR--
+120903005 Wiltz, Belle Vue      01534  01534                % 01968 RGTR--
+120903006 Wiltz, Brandbau       01535  01535                % 01968 RGTR--
+120903011 Wiltz, Clinique       01536  01536                % 01968 RGTR--
+120903039 Wiltz, Schwemm        01539  01539                % 01968 RGTR--
+120903021 Wiltz, Lann           01540  01540                % 01968 RGTR--
+120903018 Wiltz, Gare           01542                       % 01968 RGTR--
+*Z 01969 RGTR--                                             % 01969 RGTR--
+*L 610      140304001 120903018  00809  00844               % 01969 RGTR--
+*A da 140304001 120903018 000006  00809  00844              % 01969 RGTR--
+*A gr 140304001 120903018 000006  00809  00844              % 01969 RGTR--
+*R 2 120903018 140304001 120903018  00809  00844            % 01969 RGTR--
+*G RGB 140304001 120903018  00809  00844                    % 01969 RGTR--
+*A VE 140304001 120903018 000006  00809  00844              % 01969 RGTR--
+*I FD 140304001 120903018        0002737  00809  00844      % 01969 RGTR--
+140304001 Goebelsmühle, Gare           00809                % 01969 RGTR--
+140302001 Dirbach, Bifurcation  00812  00812                % 01969 RGTR--
+120401002 Bockholtz/Wiltz, Op   00814  00814                % 01969 RGTR--
+120401001 Bockholtz/Wiltz       00816  00816                % 01969 RGTR--
+120404001 Goesdorf, Gemeng      00819  00819                % 01969 RGTR--
+120404003 Goesdorf, Pompjeën    00820  00820                % 01969 RGTR--
+120404002 Goesdorf, Maeschgaar  00821  00821                % 01969 RGTR--
+120403004 Dahl, Waassertuurm    00823  00823                % 01969 RGTR--
+120403003 Dahl, Al Molkerei     00824  00824                % 01969 RGTR--
+120403002 Dahl, Masselerstroos  00824  00824                % 01969 RGTR--
+120403001 Dahl, Ale Wee         00825  00825                % 01969 RGTR--
+120406006 Nocher, Welscheedgen  00827  00827                % 01969 RGTR--
+120406004 Nocher, Schoul        00827  00827                % 01969 RGTR--
+120406005 Nocher, Um Knupp      00828  00828                % 01969 RGTR--
+120406001 Nocher, Route         00829  00829                % 01969 RGTR--
+120406003 Nocher, Route N°40    00830  00830                % 01969 RGTR--
+120406002 Nocher, Route N°20    00830  00830                % 01969 RGTR--
+120903019 Wiltz, Bastnacherstr  00834  00834                % 01969 RGTR--
+120903005 Wiltz, Belle Vue      00836  00836                % 01969 RGTR--
+120903006 Wiltz, Brandbau       00837  00837                % 01969 RGTR--
+120903011 Wiltz, Clinique       00838  00838                % 01969 RGTR--
+120903039 Wiltz, Schwemm        00841  00841                % 01969 RGTR--
+120903021 Wiltz, Lann           00843  00843                % 01969 RGTR--
+120903018 Wiltz, Gare           00844                       % 01969 RGTR--
+*Z 01970 RGTR--                                             % 01970 RGTR--
+*L 610      140304001 120903018  00909  00944               % 01970 RGTR--
+*A da 140304001 120903018 000006  00909  00944              % 01970 RGTR--
+*A gr 140304001 120903018 000006  00909  00944              % 01970 RGTR--
+*R 2 120903018 140304001 120903018  00909  00944            % 01970 RGTR--
+*G RGB 140304001 120903018  00909  00944                    % 01970 RGTR--
+*A VE 140304001 120903018 000006  00909  00944              % 01970 RGTR--
+*I FD 140304001 120903018        0002738  00909  00944      % 01970 RGTR--
+140304001 Goebelsmühle, Gare           00909                % 01970 RGTR--
+140302001 Dirbach, Bifurcation  00912  00912                % 01970 RGTR--
+120401002 Bockholtz/Wiltz, Op   00914  00914                % 01970 RGTR--
+120401001 Bockholtz/Wiltz       00916  00916                % 01970 RGTR--
+120404001 Goesdorf, Gemeng      00919  00919                % 01970 RGTR--
+120404003 Goesdorf, Pompjeën    00920  00920                % 01970 RGTR--
+120404002 Goesdorf, Maeschgaar  00921  00921                % 01970 RGTR--
+120403004 Dahl, Waassertuurm    00923  00923                % 01970 RGTR--
+120403003 Dahl, Al Molkerei     00924  00924                % 01970 RGTR--
+120403002 Dahl, Masselerstroos  00924  00924                % 01970 RGTR--
+120403001 Dahl, Ale Wee         00925  00925                % 01970 RGTR--
+120406006 Nocher, Welscheedgen  00927  00927                % 01970 RGTR--
+120406004 Nocher, Schoul        00927  00927                % 01970 RGTR--
+120406005 Nocher, Um Knupp      00928  00928                % 01970 RGTR--
+120406001 Nocher, Route         00929  00929                % 01970 RGTR--
+120406003 Nocher, Route N°40    00930  00930                % 01970 RGTR--
+120406002 Nocher, Route N°20    00930  00930                % 01970 RGTR--
+120903019 Wiltz, Bastnacherstr  00934  00934                % 01970 RGTR--
+120903005 Wiltz, Belle Vue      00936  00936                % 01970 RGTR--
+120903006 Wiltz, Brandbau       00937  00937                % 01970 RGTR--
+120903011 Wiltz, Clinique       00938  00938                % 01970 RGTR--
+120903039 Wiltz, Schwemm        00941  00941                % 01970 RGTR--
+120903021 Wiltz, Lann           00943  00943                % 01970 RGTR--
+120903018 Wiltz, Gare           00944                       % 01970 RGTR--
+*Z 01971 RGTR--                                             % 01971 RGTR--
+*L 610      140304001 120903018  01650  01725               % 01971 RGTR--
+*A da 140304001 120903018 000006  01650  01725              % 01971 RGTR--
+*A gr 140304001 120903018 000006  01650  01725              % 01971 RGTR--
+*R 2 120903018 140304001 120903018  01650  01725            % 01971 RGTR--
+*G RGB 140304001 120903018  01650  01725                    % 01971 RGTR--
+*A VE 140304001 120903018 000006  01650  01725              % 01971 RGTR--
+*I FD 140304001 120903018        0001368  01650  01725      % 01971 RGTR--
+140304001 Goebelsmühle, Gare           01650                % 01971 RGTR--
+140302001 Dirbach, Bifurcation  01653  01653                % 01971 RGTR--
+120401002 Bockholtz/Wiltz, Op   01655  01655                % 01971 RGTR--
+120401001 Bockholtz/Wiltz       01657  01657                % 01971 RGTR--
+120404001 Goesdorf, Gemeng      01700  01700                % 01971 RGTR--
+120404003 Goesdorf, Pompjeën    01701  01701                % 01971 RGTR--
+120404002 Goesdorf, Maeschgaar  01702  01702                % 01971 RGTR--
+120403004 Dahl, Waassertuurm    01704  01704                % 01971 RGTR--
+120403003 Dahl, Al Molkerei     01705  01705                % 01971 RGTR--
+120403002 Dahl, Masselerstroos  01705  01705                % 01971 RGTR--
+120403001 Dahl, Ale Wee         01706  01706                % 01971 RGTR--
+120406006 Nocher, Welscheedgen  01708  01708                % 01971 RGTR--
+120406004 Nocher, Schoul        01708  01708                % 01971 RGTR--
+120406005 Nocher, Um Knupp      01709  01709                % 01971 RGTR--
+120406001 Nocher, Route         01710  01710                % 01971 RGTR--
+120406003 Nocher, Route N°40    01711  01711                % 01971 RGTR--
+120406002 Nocher, Route N°20    01711  01711                % 01971 RGTR--
+120903019 Wiltz, Bastnacherstr  01715  01715                % 01971 RGTR--
+120903005 Wiltz, Belle Vue      01717  01717                % 01971 RGTR--
+120903006 Wiltz, Brandbau       01718  01718                % 01971 RGTR--
+120903011 Wiltz, Clinique       01719  01719                % 01971 RGTR--
+120903039 Wiltz, Schwemm        01722  01722                % 01971 RGTR--
+120903021 Wiltz, Lann           01724  01724                % 01971 RGTR--
+120903018 Wiltz, Gare           01725                       % 01971 RGTR--
+*Z 01972 RGTR--                                             % 01972 RGTR--
+*L 610      140304001 120903018  01709  01744               % 01972 RGTR--
+*A da 140304001 120903018 000006  01709  01744              % 01972 RGTR--
+*A gr 140304001 120903018 000006  01709  01744              % 01972 RGTR--
+*R 2 120903018 140304001 120903018  01709  01744            % 01972 RGTR--
+*G RGB 140304001 120903018  01709  01744                    % 01972 RGTR--
+*A VE 140304001 120903018 000006  01709  01744              % 01972 RGTR--
+*I FD 140304001 120903018        0002739  01709  01744      % 01972 RGTR--
+140304001 Goebelsmühle, Gare           01709                % 01972 RGTR--
+140302001 Dirbach, Bifurcation  01712  01712                % 01972 RGTR--
+120401002 Bockholtz/Wiltz, Op   01714  01714                % 01972 RGTR--
+120401001 Bockholtz/Wiltz       01716  01716                % 01972 RGTR--
+120404001 Goesdorf, Gemeng      01719  01719                % 01972 RGTR--
+120404003 Goesdorf, Pompjeën    01720  01720                % 01972 RGTR--
+120404002 Goesdorf, Maeschgaar  01721  01721                % 01972 RGTR--
+120403004 Dahl, Waassertuurm    01723  01723                % 01972 RGTR--
+120403003 Dahl, Al Molkerei     01724  01724                % 01972 RGTR--
+120403002 Dahl, Masselerstroos  01724  01724                % 01972 RGTR--
+120403001 Dahl, Ale Wee         01725  01725                % 01972 RGTR--
+120406006 Nocher, Welscheedgen  01727  01727                % 01972 RGTR--
+120406004 Nocher, Schoul        01727  01727                % 01972 RGTR--
+120406005 Nocher, Um Knupp      01728  01728                % 01972 RGTR--
+120406001 Nocher, Route         01729  01729                % 01972 RGTR--
+120406003 Nocher, Route N°40    01730  01730                % 01972 RGTR--
+120406002 Nocher, Route N°20    01730  01730                % 01972 RGTR--
+120903019 Wiltz, Bastnacherstr  01734  01734                % 01972 RGTR--
+120903005 Wiltz, Belle Vue      01736  01736                % 01972 RGTR--
+120903006 Wiltz, Brandbau       01737  01737                % 01972 RGTR--
+120903011 Wiltz, Clinique       01738  01738                % 01972 RGTR--
+120903039 Wiltz, Schwemm        01741  01741                % 01972 RGTR--
+120903021 Wiltz, Lann           01743  01743                % 01972 RGTR--
+120903018 Wiltz, Gare           01744                       % 01972 RGTR--
+*Z 01973 RGTR--                                             % 01973 RGTR--
+*L 610      140304001 120903018  01809  01844               % 01973 RGTR--
+*A da 140304001 120903018 000006  01809  01844              % 01973 RGTR--
+*A gr 140304001 120903018 000006  01809  01844              % 01973 RGTR--
+*R 2 120903018 140304001 120903018  01809  01844            % 01973 RGTR--
+*G RGB 140304001 120903018  01809  01844                    % 01973 RGTR--
+*A VE 140304001 120903018 000006  01809  01844              % 01973 RGTR--
+*I FD 140304001 120903018        0002740  01809  01844      % 01973 RGTR--
+140304001 Goebelsmühle, Gare           01809                % 01973 RGTR--
+140302001 Dirbach, Bifurcation  01812  01812                % 01973 RGTR--
+120401002 Bockholtz/Wiltz, Op   01814  01814                % 01973 RGTR--
+120401001 Bockholtz/Wiltz       01816  01816                % 01973 RGTR--
+120404001 Goesdorf, Gemeng      01819  01819                % 01973 RGTR--
+120404003 Goesdorf, Pompjeën    01820  01820                % 01973 RGTR--
+120404002 Goesdorf, Maeschgaar  01821  01821                % 01973 RGTR--
+120403004 Dahl, Waassertuurm    01823  01823                % 01973 RGTR--
+120403003 Dahl, Al Molkerei     01824  01824                % 01973 RGTR--
+120403002 Dahl, Masselerstroos  01824  01824                % 01973 RGTR--
+120403001 Dahl, Ale Wee         01825  01825                % 01973 RGTR--
+120406006 Nocher, Welscheedgen  01827  01827                % 01973 RGTR--
+120406004 Nocher, Schoul        01827  01827                % 01973 RGTR--
+120406005 Nocher, Um Knupp      01828  01828                % 01973 RGTR--
+120406001 Nocher, Route         01829  01829                % 01973 RGTR--
+120406003 Nocher, Route N°40    01830  01830                % 01973 RGTR--
+120406002 Nocher, Route N°20    01830  01830                % 01973 RGTR--
+120903019 Wiltz, Bastnacherstr  01834  01834                % 01973 RGTR--
+120903005 Wiltz, Belle Vue      01836  01836                % 01973 RGTR--
+120903006 Wiltz, Brandbau       01837  01837                % 01973 RGTR--
+120903011 Wiltz, Clinique       01838  01838                % 01973 RGTR--
+120903039 Wiltz, Schwemm        01841  01841                % 01973 RGTR--
+120903021 Wiltz, Lann           01843  01843                % 01973 RGTR--
+120903018 Wiltz, Gare           01844                       % 01973 RGTR--
+*Z 01974 RGTR--                                             % 01974 RGTR--
+*L 610      140304001 120903018  00709  00744               % 01974 RGTR--
+*A da 140304001 120903018 000033  00709  00744              % 01974 RGTR--
+*A gr 140304001 120903018 000033  00709  00744              % 01974 RGTR--
+*R 2 120903018 140304001 120903018  00709  00744            % 01974 RGTR--
+*G RGB 140304001 120903018  00709  00744                    % 01974 RGTR--
+*A VE 140304001 120903018 000033  00709  00744              % 01974 RGTR--
+*I FD 140304001 120903018        0002741  00709  00744      % 01974 RGTR--
+140304001 Goebelsmühle, Gare           00709                % 01974 RGTR--
+140302001 Dirbach, Bifurcation  00712  00712                % 01974 RGTR--
+120401002 Bockholtz/Wiltz, Op   00714  00714                % 01974 RGTR--
+120401001 Bockholtz/Wiltz       00716  00716                % 01974 RGTR--
+120404001 Goesdorf, Gemeng      00719  00719                % 01974 RGTR--
+120404003 Goesdorf, Pompjeën    00720  00720                % 01974 RGTR--
+120404002 Goesdorf, Maeschgaar  00721  00721                % 01974 RGTR--
+120403004 Dahl, Waassertuurm    00723  00723                % 01974 RGTR--
+120403003 Dahl, Al Molkerei     00724  00724                % 01974 RGTR--
+120403002 Dahl, Masselerstroos  00724  00724                % 01974 RGTR--
+120403001 Dahl, Ale Wee         00725  00725                % 01974 RGTR--
+120406006 Nocher, Welscheedgen  00727  00727                % 01974 RGTR--
+120406004 Nocher, Schoul        00727  00727                % 01974 RGTR--
+120406005 Nocher, Um Knupp      00728  00728                % 01974 RGTR--
+120406001 Nocher, Route         00729  00729                % 01974 RGTR--
+120406003 Nocher, Route N°40    00730  00730                % 01974 RGTR--
+120406002 Nocher, Route N°20    00730  00730                % 01974 RGTR--
+120903019 Wiltz, Bastnacherstr  00734  00734                % 01974 RGTR--
+120903005 Wiltz, Belle Vue      00736  00736                % 01974 RGTR--
+120903006 Wiltz, Brandbau       00737  00737                % 01974 RGTR--
+120903011 Wiltz, Clinique       00738  00738                % 01974 RGTR--
+120903039 Wiltz, Schwemm        00741  00741                % 01974 RGTR--
+120903021 Wiltz, Lann           00743  00743                % 01974 RGTR--
+120903018 Wiltz, Gare           00744                       % 01974 RGTR--
+*Z 01975 RGTR--                                             % 01975 RGTR--
+*L 610      140304001 120903018  00709  00747               % 01975 RGTR--
+*A da 140304001 120903018 000030  00709  00747              % 01975 RGTR--
+*A gr 140304001 120903018 000030  00709  00747              % 01975 RGTR--
+*R 2 120903018 140304001 120903018  00709  00747            % 01975 RGTR--
+*G RGB 140304001 120903018  00709  00747                    % 01975 RGTR--
+*A VE 140304001 120903018 000030  00709  00747              % 01975 RGTR--
+*I FD 140304001 120903018        0002741  00709  00747      % 01975 RGTR--
+140304001 Goebelsmühle, Gare           00709                % 01975 RGTR--
+140302001 Dirbach, Bifurcation  00712  00712                % 01975 RGTR--
+120401002 Bockholtz/Wiltz, Op   00714  00714                % 01975 RGTR--
+120401001 Bockholtz/Wiltz       00716  00716                % 01975 RGTR--
+120404001 Goesdorf, Gemeng      00719  00719                % 01975 RGTR--
+120404003 Goesdorf, Pompjeën    00720  00720                % 01975 RGTR--
+120404002 Goesdorf, Maeschgaar  00721  00721                % 01975 RGTR--
+120403004 Dahl, Waassertuurm    00723  00723                % 01975 RGTR--
+120403003 Dahl, Al Molkerei     00724  00724                % 01975 RGTR--
+120403002 Dahl, Masselerstroos  00724  00724                % 01975 RGTR--
+120403001 Dahl, Ale Wee         00725  00725                % 01975 RGTR--
+120406006 Nocher, Welscheedgen  00727  00727                % 01975 RGTR--
+120406004 Nocher, Schoul        00727  00727                % 01975 RGTR--
+120406005 Nocher, Um Knupp      00728  00728                % 01975 RGTR--
+120406001 Nocher, Route         00729  00729                % 01975 RGTR--
+120406003 Nocher, Route N°40    00730  00730                % 01975 RGTR--
+120406002 Nocher, Route N°20    00730  00730                % 01975 RGTR--
+120903019 Wiltz, Bastnacherstr  00734  00734                % 01975 RGTR--
+120903005 Wiltz, Belle Vue      00736  00736                % 01975 RGTR--
+120903006 Wiltz, Brandbau       00737  00737                % 01975 RGTR--
+120903011 Wiltz, Clinique       00738  00738                % 01975 RGTR--
+120903023 Wiltz, Lycée du Nord  00742  00742                % 01975 RGTR--
+120903021 Wiltz, Lann           00745  00745                % 01975 RGTR--
+120903018 Wiltz, Gare           00747                       % 01975 RGTR--
+*Z 01976 RGTR--                                             % 01976 RGTR--
+*L 610      140304001 120903018  01244  01318               % 01976 RGTR--
+*A da 140304001 120903018 000006  01244  01318              % 01976 RGTR--
+*A gr 140304001 120903018 000006  01244  01318              % 01976 RGTR--
+*R 2 120903018 140304001 120903018  01244  01318            % 01976 RGTR--
+*G RGB 140304001 120903018  01244  01318                    % 01976 RGTR--
+*A VE 140304001 120903018 000006  01244  01318              % 01976 RGTR--
+*I FD 140304001 120903018        0001309  01244  01318      % 01976 RGTR--
+140304001 Goebelsmühle, Gare           01244                % 01976 RGTR--
+140302001 Dirbach, Bifurcation  01247  01247                % 01976 RGTR--
+120401002 Bockholtz/Wiltz, Op   01249  01249                % 01976 RGTR--
+120401001 Bockholtz/Wiltz       01250  01250                % 01976 RGTR--
+120404001 Goesdorf, Gemeng      01254  01254                % 01976 RGTR--
+120404003 Goesdorf, Pompjeën    01255  01255                % 01976 RGTR--
+120404002 Goesdorf, Maeschgaar  01255  01255                % 01976 RGTR--
+120403004 Dahl, Waassertuurm    01257  01257                % 01976 RGTR--
+120403003 Dahl, Al Molkerei     01258  01258                % 01976 RGTR--
+120403002 Dahl, Masselerstroos  01259  01259                % 01976 RGTR--
+120403001 Dahl, Ale Wee         01259  01259                % 01976 RGTR--
+120406006 Nocher, Welscheedgen  01301  01301                % 01976 RGTR--
+120406004 Nocher, Schoul        01301  01301                % 01976 RGTR--
+120406005 Nocher, Um Knupp      01302  01302                % 01976 RGTR--
+120406001 Nocher, Route         01303  01303                % 01976 RGTR--
+120406003 Nocher, Route N°40    01304  01304                % 01976 RGTR--
+120406002 Nocher, Route N°20    01304  01304                % 01976 RGTR--
+120903019 Wiltz, Bastnacherstr  01308  01308                % 01976 RGTR--
+120903005 Wiltz, Belle Vue      01309  01309                % 01976 RGTR--
+120903006 Wiltz, Brandbau       01310  01310                % 01976 RGTR--
+120903011 Wiltz, Clinique       01311  01311                % 01976 RGTR--
+120903023 Wiltz, Lycée du Nord  01315  01315                % 01976 RGTR--
+120903021 Wiltz, Lann           01317  01317                % 01976 RGTR--
+120903018 Wiltz, Gare           01318                       % 01976 RGTR--

@@ -1,0 +1,256 @@
+*F 03 2
+*Z 09138 RGTR--                                             % 09138 RGTR--
+*L 201      200420006 220102004  01425  01444               % 09138 RGTR--
+*A bi 200420006 220102004 000030  01425  01444              % 09138 RGTR--
+*A BE 200420006 220102004 000030  01425  01444              % 09138 RGTR--
+*A ax 200420006 220102004 000030  01425  01444              % 09138 RGTR--
+*A pb 200420006 220102004 000030  01425  01444              % 09138 RGTR--
+*A ad 200420006 220102004 000030  01425  01444              % 09138 RGTR--
+*R 1 220102004 200420006 220102004  01425  01444            % 09138 RGTR--
+*G RGB 200420006 220102004  01425  01444                    % 09138 RGTR--
+*A VE 200420006 220102004 000030  01425  01444              % 09138 RGTR--
+*I FD 200420006 220102004        0002861  01425  01444      % 09138 RGTR--
+200420006 Merl, Geesseknäppche         01425                % 09138 RGTR--
+200418001 Kockelscheuer, Campi  01434  01434                % 09138 RGTR--
+200418002 Kockelscheuer, Kräiz  01435  01435                % 09138 RGTR--
+200418004 Kockelscheuer, Plate  01435  01435                % 09138 RGTR--
+200418005 Kockelscheuer, Poudr  01436  01436                % 09138 RGTR--
+220102013 Bettembourg, Fankena  01440  01440                % 09138 RGTR--
+220102001 Bettembourg, 12 Garg  01440  01440                % 09138 RGTR--
+220102002 Bettembourg, Al Geme  01442  01442                % 09138 RGTR--
+220102004 Bettembourg, Café du  01444                       % 09138 RGTR--
+*Z 09139 RGTR--                                             % 09139 RGTR--
+*L 201      200420006 220102004  01550  01609               % 09139 RGTR--
+*A bi 200420006 220102004 000045  01550  01609              % 09139 RGTR--
+*A BE 200420006 220102004 000045  01550  01609              % 09139 RGTR--
+*A ax 200420006 220102004 000045  01550  01609              % 09139 RGTR--
+*A pb 200420006 220102004 000045  01550  01609              % 09139 RGTR--
+*A ad 200420006 220102004 000045  01550  01609              % 09139 RGTR--
+*R 1 220102004 200420006 220102004  01550  01609            % 09139 RGTR--
+*G RGB 200420006 220102004  01550  01609                    % 09139 RGTR--
+*A VE 200420006 220102004 000045  01550  01609              % 09139 RGTR--
+*I FD 200420006 220102004        0001323  01550  01609      % 09139 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 09139 RGTR--
+200418001 Kockelscheuer, Campi  01559  01559                % 09139 RGTR--
+200418002 Kockelscheuer, Kräiz  01600  01600                % 09139 RGTR--
+200418004 Kockelscheuer, Plate  01600  01600                % 09139 RGTR--
+200418005 Kockelscheuer, Poudr  01601  01601                % 09139 RGTR--
+220102013 Bettembourg, Fankena  01605  01605                % 09139 RGTR--
+220102001 Bettembourg, 12 Garg  01605  01605                % 09139 RGTR--
+220102002 Bettembourg, Al Geme  01607  01607                % 09139 RGTR--
+220102004 Bettembourg, Café du  01609                       % 09139 RGTR--
+*Z 09140 RGTR--                                             % 09140 RGTR--
+*L 201      200420006 220102004  01250  01307               % 09140 RGTR--
+*A bi 200420006 220102004 000042  01250  01307              % 09140 RGTR--
+*A BE 200420006 220102004 000042  01250  01307              % 09140 RGTR--
+*A ax 200420006 220102004 000042  01250  01307              % 09140 RGTR--
+*A pb 200420006 220102004 000042  01250  01307              % 09140 RGTR--
+*A ad 200420006 220102004 000042  01250  01307              % 09140 RGTR--
+*R 1 220102004 200420006 220102004  01250  01307            % 09140 RGTR--
+*G RGB 200420006 220102004  01250  01307                    % 09140 RGTR--
+*A VE 200420006 220102004 000042  01250  01307              % 09140 RGTR--
+*I FD 200420006 220102004        0001291  01250  01307      % 09140 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 09140 RGTR--
+200418001 Kockelscheuer, Campi  01258  01258                % 09140 RGTR--
+200418002 Kockelscheuer, Kräiz  01259  01259                % 09140 RGTR--
+200418004 Kockelscheuer, Plate  01259  01259                % 09140 RGTR--
+200418005 Kockelscheuer, Poudr  01300  01300                % 09140 RGTR--
+220102013 Bettembourg, Fankena  01303  01303                % 09140 RGTR--
+220102001 Bettembourg, 12 Garg  01304  01304                % 09140 RGTR--
+220102002 Bettembourg, Al Geme  01305  01305                % 09140 RGTR--
+220102004 Bettembourg, Café du  01307                       % 09140 RGTR--
+*Z 09141 RGTR--                                             % 09141 RGTR--
+*L 201      200420006 220301026  01425  01515               % 09141 RGTR--
+*A BE 200420006 220301026 000030  01425  01515              % 09141 RGTR--
+*A ax 200420006 220301026 000030  01425  01515              % 09141 RGTR--
+*A su 200420006 220301026 000030  01425  01515              % 09141 RGTR--
+*A ad 200420006 220301026 000030  01425  01515              % 09141 RGTR--
+*R 1 220301026 200420006 220301026  01425  01515            % 09141 RGTR--
+*G RGB 200420006 220301026  01425  01515                    % 09141 RGTR--
+*A VE 200420006 220301026 000030  01425  01515              % 09141 RGTR--
+*I FD 200420006 220301026        0002030  01425  01515      % 09141 RGTR--
+200420006 Merl, Geesseknäppche         01425                % 09141 RGTR--
+200418001 Kockelscheuer, Campi  01434  01434                % 09141 RGTR--
+200418002 Kockelscheuer, Kräiz  01435  01435                % 09141 RGTR--
+200418004 Kockelscheuer, Plate  01435  01435                % 09141 RGTR--
+200418005 Kockelscheuer, Poudr  01436  01436                % 09141 RGTR--
+220102013 Bettembourg, Fankena  01440  01440                % 09141 RGTR--
+220102001 Bettembourg, 12 Garg  01440  01440                % 09141 RGTR--
+220102002 Bettembourg, Al Geme  01442  01442                % 09141 RGTR--
+220102006 Bettembourg, Kiirche  01443  01443                % 09141 RGTR--
+220301054 Dudelange, Soibelkau  01449  01449                % 09141 RGTR--
+220301013 Dudelange, Butschebu  01452  01452                % 09141 RGTR--
+220301002 Dudelange, Rue Angel  01453  01453                % 09141 RGTR--
+220301019 Dudelange, Route de   01454  01454                % 09141 RGTR--
+220301031 Dudelange, rue Aloys  01456  01456                % 09141 RGTR--
+220301030 Dudelange, Kierfecht  01457  01457                % 09141 RGTR--
+220301022 Dudelange, Gare       01458  01458                % 09141 RGTR--
+220301024 Dudelange, Gemeng     01459  01459                % 09141 RGTR--
+220301033 Dudelange, Rue Antoi  01501  01501                % 09141 RGTR--
+220301004 Dudelange, Rue Belai  01502  01502                % 09141 RGTR--
+220301032 Dudelange, Kräizbier  01503  01503                % 09141 RGTR--
+220301057 Dudelange, Waldschou  01505  01505                % 09141 RGTR--
+220301035 Dudelange, Rue de la  01506  01506                % 09141 RGTR--
+220301089 Dudelange, Rue Léon   01507  01507                % 09141 RGTR--
+220301040 Dudelange, Pullewee   01508  01508                % 09141 RGTR--
+220301052 Dudelange, Centre Sp  01509  01509                % 09141 RGTR--
+220301022 Dudelange, Gare       01510  01510                % 09141 RGTR--
+220301037 Dudelange, Nudelsfab  01511  01511                % 09141 RGTR--
+220301042 Dudelange, Route de   01512  01512                % 09141 RGTR--
+220301026 Dudelange, rue Ribes  01515                       % 09141 RGTR--
+*Z 09142 RGTR--                                             % 09142 RGTR--
+*L 201      200420006 220301026  01550  01640               % 09142 RGTR--
+*A BE 200420006 220301026 000045  01550  01640              % 09142 RGTR--
+*A ax 200420006 220301026 000045  01550  01640              % 09142 RGTR--
+*A su 200420006 220301026 000045  01550  01640              % 09142 RGTR--
+*A ad 200420006 220301026 000045  01550  01640              % 09142 RGTR--
+*R 1 220301026 200420006 220301026  01550  01640            % 09142 RGTR--
+*G RGB 200420006 220301026  01550  01640                    % 09142 RGTR--
+*A VE 200420006 220301026 000045  01550  01640              % 09142 RGTR--
+*I FD 200420006 220301026        0001894  01550  01640      % 09142 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 09142 RGTR--
+200418001 Kockelscheuer, Campi  01559  01559                % 09142 RGTR--
+200418002 Kockelscheuer, Kräiz  01600  01600                % 09142 RGTR--
+200418004 Kockelscheuer, Plate  01600  01600                % 09142 RGTR--
+200418005 Kockelscheuer, Poudr  01601  01601                % 09142 RGTR--
+220102013 Bettembourg, Fankena  01605  01605                % 09142 RGTR--
+220102001 Bettembourg, 12 Garg  01605  01605                % 09142 RGTR--
+220102002 Bettembourg, Al Geme  01607  01607                % 09142 RGTR--
+220102006 Bettembourg, Kiirche  01608  01608                % 09142 RGTR--
+220301054 Dudelange, Soibelkau  01614  01614                % 09142 RGTR--
+220301013 Dudelange, Butschebu  01617  01617                % 09142 RGTR--
+220301002 Dudelange, Rue Angel  01618  01618                % 09142 RGTR--
+220301019 Dudelange, Route de   01619  01619                % 09142 RGTR--
+220301031 Dudelange, rue Aloys  01621  01621                % 09142 RGTR--
+220301030 Dudelange, Kierfecht  01622  01622                % 09142 RGTR--
+220301022 Dudelange, Gare       01623  01623                % 09142 RGTR--
+220301024 Dudelange, Gemeng     01624  01624                % 09142 RGTR--
+220301033 Dudelange, Rue Antoi  01626  01626                % 09142 RGTR--
+220301004 Dudelange, Rue Belai  01627  01627                % 09142 RGTR--
+220301032 Dudelange, Kräizbier  01628  01628                % 09142 RGTR--
+220301057 Dudelange, Waldschou  01630  01630                % 09142 RGTR--
+220301035 Dudelange, Rue de la  01631  01631                % 09142 RGTR--
+220301089 Dudelange, Rue Léon   01632  01632                % 09142 RGTR--
+220301040 Dudelange, Pullewee   01633  01633                % 09142 RGTR--
+220301052 Dudelange, Centre Sp  01634  01634                % 09142 RGTR--
+220301022 Dudelange, Gare       01635  01635                % 09142 RGTR--
+220301037 Dudelange, Nudelsfab  01636  01636                % 09142 RGTR--
+220301042 Dudelange, Route de   01637  01637                % 09142 RGTR--
+220301026 Dudelange, rue Ribes  01640                       % 09142 RGTR--
+*Z 09143 RGTR--                                             % 09143 RGTR--
+*L 201      200420006 220301026  01250  01330               % 09143 RGTR--
+*A BE 200420006 220301026 000042  01250  01330              % 09143 RGTR--
+*A ax 200420006 220301026 000042  01250  01330              % 09143 RGTR--
+*A su 200420006 220301026 000042  01250  01330              % 09143 RGTR--
+*A ad 200420006 220301026 000042  01250  01330              % 09143 RGTR--
+*R 1 220301026 200420006 220301026  01250  01330            % 09143 RGTR--
+*G RGB 200420006 220301026  01250  01330                    % 09143 RGTR--
+*A VE 200420006 220301026 000042  01250  01330              % 09143 RGTR--
+*I FD 200420006 220301026        0001885  01250  01330      % 09143 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 09143 RGTR--
+200418001 Kockelscheuer, Campi  01258  01258                % 09143 RGTR--
+200418002 Kockelscheuer, Kräiz  01259  01259                % 09143 RGTR--
+200418004 Kockelscheuer, Plate  01259  01259                % 09143 RGTR--
+200418005 Kockelscheuer, Poudr  01300  01300                % 09143 RGTR--
+220102013 Bettembourg, Fankena  01303  01303                % 09143 RGTR--
+220102001 Bettembourg, 12 Garg  01304  01304                % 09143 RGTR--
+220102002 Bettembourg, Al Geme  01305  01305                % 09143 RGTR--
+220102006 Bettembourg, Kiirche  01306  01306                % 09143 RGTR--
+220301054 Dudelange, Soibelkau  01311  01311                % 09143 RGTR--
+220301013 Dudelange, Butschebu  01313  01313                % 09143 RGTR--
+220301002 Dudelange, Rue Angel  01314  01314                % 09143 RGTR--
+220301019 Dudelange, Route de   01315  01315                % 09143 RGTR--
+220301031 Dudelange, rue Aloys  01316  01316                % 09143 RGTR--
+220301030 Dudelange, Kierfecht  01317  01317                % 09143 RGTR--
+220301022 Dudelange, Gare       01317  01317                % 09143 RGTR--
+220301024 Dudelange, Gemeng     01318  01318                % 09143 RGTR--
+220301033 Dudelange, Rue Antoi  01320  01320                % 09143 RGTR--
+220301004 Dudelange, Rue Belai  01321  01321                % 09143 RGTR--
+220301032 Dudelange, Kräizbier  01322  01322                % 09143 RGTR--
+220301057 Dudelange, Waldschou  01323  01323                % 09143 RGTR--
+220301035 Dudelange, Rue de la  01324  01324                % 09143 RGTR--
+220301089 Dudelange, Rue Léon   01324  01324                % 09143 RGTR--
+220301040 Dudelange, Pullewee   01325  01325                % 09143 RGTR--
+220301052 Dudelange, Centre Sp  01326  01326                % 09143 RGTR--
+220301022 Dudelange, Gare       01327  01327                % 09143 RGTR--
+220301037 Dudelange, Nudelsfab  01328  01328                % 09143 RGTR--
+220301042 Dudelange, Route de   01329  01329                % 09143 RGTR--
+220301026 Dudelange, rue Ribes  01330                       % 09143 RGTR--
+*Z 09144 RGTR--                                             % 09144 RGTR--
+*L 201      220301054 200420006  00655  00743               % 09144 RGTR--
+*A bi 220301054 200420006 000030  00655  00743              % 09144 RGTR--
+*A BE 220301054 200420006 000030  00655  00743              % 09144 RGTR--
+*A ag 220301054 200420006 000030  00655  00743              % 09144 RGTR--
+*A hs 220301054 200420006 000030  00655  00743              % 09144 RGTR--
+*A ad 220301054 200420006 000030  00655  00743              % 09144 RGTR--
+*R 2 200420006 220301054 200420006  00655  00743            % 09144 RGTR--
+*G RGB 220301054 200420006  00655  00743                    % 09144 RGTR--
+*A VE 220301054 200420006 000030  00655  00743              % 09144 RGTR--
+*I FD 220301054 200420006        0002063  00655  00743      % 09144 RGTR--
+220301054 Dudelange, Soibelkau         00655                % 09144 RGTR--
+220301013 Dudelange, Butschebu  00658  00658                % 09144 RGTR--
+220301002 Dudelange, Rue Angel  00659  00659                % 09144 RGTR--
+220301019 Dudelange, Route de   00700  00700                % 09144 RGTR--
+220301031 Dudelange, rue Aloys  00701  00701                % 09144 RGTR--
+220301030 Dudelange, Kierfecht  00702  00702                % 09144 RGTR--
+220301037 Dudelange, Nudelsfab  00703  00703                % 09144 RGTR--
+220301042 Dudelange, Route de   00704  00704                % 09144 RGTR--
+220301026 Dudelange, rue Ribes  00707  00707                % 09144 RGTR--
+220102006 Bettembourg, Kiirche  00713  00713                % 09144 RGTR--
+220102002 Bettembourg, Al Geme  00716  00716                % 09144 RGTR--
+220102001 Bettembourg, 12 Garg  00717  00717                % 09144 RGTR--
+220102013 Bettembourg, Fankena  00718  00718                % 09144 RGTR--
+200418005 Kockelscheuer, Poudr  00723  00723                % 09144 RGTR--
+200418004 Kockelscheuer, Plate  00726  00726                % 09144 RGTR--
+200418001 Kockelscheuer, Campi  00731  00731                % 09144 RGTR--
+200420006 Merl, Geesseknäppche  00743                       % 09144 RGTR--
+*Z 09145 RGTR--                                             % 09145 RGTR--
+*L 201      220102004 200420006  00710  00739               % 09145 RGTR--
+*A BE 220102004 200420006 000030  00710  00739              % 09145 RGTR--
+*A ax 220102004 200420006 000030  00710  00739              % 09145 RGTR--
+*A hs 220102004 200420006 000030  00710  00739              % 09145 RGTR--
+*A ad 220102004 200420006 000030  00710  00739              % 09145 RGTR--
+*R 2 200420006 220102004 200420006  00710  00739            % 09145 RGTR--
+*G RGB 220102004 200420006  00710  00739                    % 09145 RGTR--
+*A VE 220102004 200420006 000030  00710  00739              % 09145 RGTR--
+*I FD 220102004 200420006        0002035  00710  00739      % 09145 RGTR--
+220102004 Bettembourg, Café du         00710                % 09145 RGTR--
+220102002 Bettembourg, Al Geme  00712  00712                % 09145 RGTR--
+220102001 Bettembourg, 12 Garg  00713  00713                % 09145 RGTR--
+220102013 Bettembourg, Fankena  00714  00714                % 09145 RGTR--
+200418005 Kockelscheuer, Poudr  00719  00719                % 09145 RGTR--
+200418004 Kockelscheuer, Plate  00722  00722                % 09145 RGTR--
+200418001 Kockelscheuer, Campi  00726  00726                % 09145 RGTR--
+200420006 Merl, Geesseknäppche  00739                       % 09145 RGTR--
+*Z 09146 RGTR--                                             % 09146 RGTR--
+*L 201      220301022 200420006  00645  00738               % 09146 RGTR--
+*A BE 220301022 200420006 000030  00645  00738              % 09146 RGTR--
+*A ax 220301022 200420006 000030  00645  00738              % 09146 RGTR--
+*A hs 220301022 200420006 000030  00645  00738              % 09146 RGTR--
+*A ad 220301022 200420006 000030  00645  00738              % 09146 RGTR--
+*R 2 200420006 220301022 200420006  00645  00738            % 09146 RGTR--
+*G RGB 220301022 200420006  00645  00738                    % 09146 RGTR--
+*A VE 220301022 200420006 000030  00645  00738              % 09146 RGTR--
+*I FD 220301022 200420006        0002290  00645  00738      % 09146 RGTR--
+220301022 Dudelange, Gare              00645                % 09146 RGTR--
+220301024 Dudelange, Gemeng     00646  00646                % 09146 RGTR--
+220301033 Dudelange, Rue Antoi  00648  00648                % 09146 RGTR--
+220301004 Dudelange, Rue Belai  00649  00649                % 09146 RGTR--
+220301032 Dudelange, Kräizbier  00650  00650                % 09146 RGTR--
+220301057 Dudelange, Waldschou  00652  00652                % 09146 RGTR--
+220301035 Dudelange, Rue de la  00653  00653                % 09146 RGTR--
+220301089 Dudelange, Rue Léon   00654  00654                % 09146 RGTR--
+220301040 Dudelange, Pullewee   00655  00655                % 09146 RGTR--
+220301052 Dudelange, Centre Sp  00656  00656                % 09146 RGTR--
+220301022 Dudelange, Gare       00657  00657                % 09146 RGTR--
+220301037 Dudelange, Nudelsfab  00658  00658                % 09146 RGTR--
+220301042 Dudelange, Route de   00659  00659                % 09146 RGTR--
+220301026 Dudelange, rue Ribes  00702  00702                % 09146 RGTR--
+220102006 Bettembourg, Kiirche  00708  00708                % 09146 RGTR--
+220102002 Bettembourg, Al Geme  00710  00710                % 09146 RGTR--
+220102001 Bettembourg, 12 Garg  00712  00712                % 09146 RGTR--
+220102013 Bettembourg, Fankena  00713  00713                % 09146 RGTR--
+200418005 Kockelscheuer, Poudr  00717  00717                % 09146 RGTR--
+200418004 Kockelscheuer, Plate  00720  00720                % 09146 RGTR--
+200418001 Kockelscheuer, Campi  00725  00725                % 09146 RGTR--
+200420006 Merl, Geesseknäppche  00738                       % 09146 RGTR--

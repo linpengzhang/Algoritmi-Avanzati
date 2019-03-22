@@ -1,0 +1,1620 @@
+*F 03 2
+*Z 06007 RGTR--                                             % 06007 RGTR--
+*L 510      140401009 150102002  00802  00859               % 06007 RGTR--
+*A lc 140401009 150102002 000006  00802  00859              % 06007 RGTR--
+*A io 140401009 150102002 000006  00802  00859              % 06007 RGTR--
+*R 1 150102002 140401009 150102002  00802  00859            % 06007 RGTR--
+*G RGB 140401009 150102002  00802  00859                    % 06007 RGTR--
+*A VE 140401009 150102002 000006  00802  00859              % 06007 RGTR--
+*I FD 140401009 150102002        0002461  00802  00859      % 06007 RGTR--
+140401009 Diekirch, Neie Kolle         00802                % 06007 RGTR--
+140401011 Diekirch, Alexis Hec  00806  00806                % 06007 RGTR--
+140401006 Diekirch, Kluuster    00807  00807                % 06007 RGTR--
+140401004 Diekirch, Gare        00809  00809                % 06007 RGTR--
+140401008 Diekirch, Lorentzwue  00811  00811                % 06007 RGTR--
+140603002 Ingeldorf, Café de l  00813  00813                % 06007 RGTR--
+140602008 Erpeldange/Sûre, Um   00814  00814                % 06007 RGTR--
+140701016 Ettelbruck, Gare      00816  00817                % 06007 RGTR--
+140701024 Ettelbruck, Pensionn  00819  00819                % 06007 RGTR--
+140701026 Ettelbruck, Rond Poi  00822  00822                % 06007 RGTR--
+140701018 Ettelbruck, H.v.Land  00822  00822                % 06007 RGTR--
+141301002 Schieren, Faubourg    00824  00824                % 06007 RGTR--
+141301005 Schieren, Uewerschie  00825  00825                % 06007 RGTR--
+141301007 Schieren, Porte de S  00825  00825                % 06007 RGTR--
+160301002 Colmar, Centre        00827  00827                % 06007 RGTR--
+160301007 Colmar, Usines        00829  00829                % 06007 RGTR--
+160101005 Bissen, Op der Mille  00831  00831                % 06007 RGTR--
+160101003 Bissen, Geiwels       00833  00833                % 06007 RGTR--
+160101002 Bissen, Kräizung      00834  00834                % 06007 RGTR--
+160201002 Boevange/Attert, Mil  00838  00838                % 06007 RGTR--
+160201003 Boevange, Gare        00839  00839                % 06007 RGTR--
+150804002 Useldange, Raiffeise  00842  00842                % 06007 RGTR--
+150804003 Useldange, Spuerkees  00843  00843                % 06007 RGTR--
+150804001 Useldange, Beim Gärd  00844  00844                % 06007 RGTR--
+150802001 Rippweiler, Beim Nös  00847  00847                % 06007 RGTR--
+150106001 Noerdange, Ale Pompj  00850  00850                % 06007 RGTR--
+150106004 Noerdange, Bei der P  00851  00851                % 06007 RGTR--
+150104001 Huttange (Hitten)     00852  00852                % 06007 RGTR--
+150101003 Beckerich, Kiirchepl  00854  00854                % 06007 RGTR--
+150101001 Beckerich, Bei Schma  00854  00854                % 06007 RGTR--
+150101002 Beckerich, Fraiheets  00855  00855                % 06007 RGTR--
+150103002 Hovelange, Halt       00856  00856                % 06007 RGTR--
+150103001 Hovelange, Bei Bitze  00858  00858                % 06007 RGTR--
+150102002 Elvange/Beckerich, S  00859                       % 06007 RGTR--
+*Z 06008 RGTR--                                             % 06008 RGTR--
+*L 510      140401009 150102002  00902  00959               % 06008 RGTR--
+*A lc 140401009 150102002 000006  00902  00959              % 06008 RGTR--
+*A io 140401009 150102002 000006  00902  00959              % 06008 RGTR--
+*R 1 150102002 140401009 150102002  00902  00959            % 06008 RGTR--
+*G RGB 140401009 150102002  00902  00959                    % 06008 RGTR--
+*A VE 140401009 150102002 000006  00902  00959              % 06008 RGTR--
+*I FD 140401009 150102002        0002462  00902  00959      % 06008 RGTR--
+140401009 Diekirch, Neie Kolle         00902                % 06008 RGTR--
+140401011 Diekirch, Alexis Hec  00906  00906                % 06008 RGTR--
+140401006 Diekirch, Kluuster    00907  00907                % 06008 RGTR--
+140401004 Diekirch, Gare        00909  00909                % 06008 RGTR--
+140401008 Diekirch, Lorentzwue  00911  00911                % 06008 RGTR--
+140603002 Ingeldorf, Café de l  00913  00913                % 06008 RGTR--
+140602008 Erpeldange/Sûre, Um   00914  00914                % 06008 RGTR--
+140701016 Ettelbruck, Gare      00916  00917                % 06008 RGTR--
+140701024 Ettelbruck, Pensionn  00919  00919                % 06008 RGTR--
+140701026 Ettelbruck, Rond Poi  00922  00922                % 06008 RGTR--
+140701018 Ettelbruck, H.v.Land  00922  00922                % 06008 RGTR--
+141301002 Schieren, Faubourg    00924  00924                % 06008 RGTR--
+141301005 Schieren, Uewerschie  00925  00925                % 06008 RGTR--
+141301007 Schieren, Porte de S  00925  00925                % 06008 RGTR--
+160301002 Colmar, Centre        00927  00927                % 06008 RGTR--
+160301007 Colmar, Usines        00929  00929                % 06008 RGTR--
+160101005 Bissen, Op der Mille  00931  00931                % 06008 RGTR--
+160101003 Bissen, Geiwels       00933  00933                % 06008 RGTR--
+160101002 Bissen, Kräizung      00934  00934                % 06008 RGTR--
+160201002 Boevange/Attert, Mil  00938  00938                % 06008 RGTR--
+160201003 Boevange, Gare        00939  00939                % 06008 RGTR--
+150804002 Useldange, Raiffeise  00942  00942                % 06008 RGTR--
+150804003 Useldange, Spuerkees  00943  00943                % 06008 RGTR--
+150804001 Useldange, Beim Gärd  00944  00944                % 06008 RGTR--
+150802001 Rippweiler, Beim Nös  00947  00947                % 06008 RGTR--
+150106001 Noerdange, Ale Pompj  00950  00950                % 06008 RGTR--
+150106004 Noerdange, Bei der P  00951  00951                % 06008 RGTR--
+150104001 Huttange (Hitten)     00952  00952                % 06008 RGTR--
+150101003 Beckerich, Kiirchepl  00954  00954                % 06008 RGTR--
+150101001 Beckerich, Bei Schma  00954  00954                % 06008 RGTR--
+150101002 Beckerich, Fraiheets  00955  00955                % 06008 RGTR--
+150103002 Hovelange, Halt       00956  00956                % 06008 RGTR--
+150103001 Hovelange, Bei Bitze  00958  00958                % 06008 RGTR--
+150102002 Elvange/Beckerich, S  00959                       % 06008 RGTR--
+*Z 06009 RGTR--                                             % 06009 RGTR--
+*L 510      140401009 150102002  01702  01759               % 06009 RGTR--
+*A lc 140401009 150102002 000006  01702  01759              % 06009 RGTR--
+*A EG 140401009 150102002 000006  01702  01759              % 06009 RGTR--
+*A io 140401009 150102002 000006  01702  01759              % 06009 RGTR--
+*R 1 150102002 140401009 150102002  01702  01759            % 06009 RGTR--
+*G RGB 140401009 150102002  01702  01759                    % 06009 RGTR--
+*A VE 140401009 150102002 000006  01702  01759              % 06009 RGTR--
+*I FD 140401009 150102002        0002880  01702  01759      % 06009 RGTR--
+140401009 Diekirch, Neie Kolle         01702                % 06009 RGTR--
+140401011 Diekirch, Alexis Hec  01706  01706                % 06009 RGTR--
+140401006 Diekirch, Kluuster    01707  01707                % 06009 RGTR--
+140401004 Diekirch, Gare        01709  01709                % 06009 RGTR--
+140401008 Diekirch, Lorentzwue  01711  01711                % 06009 RGTR--
+140603002 Ingeldorf, Café de l  01713  01713                % 06009 RGTR--
+140602008 Erpeldange/Sûre, Um   01714  01714                % 06009 RGTR--
+140701016 Ettelbruck, Gare      01716  01717                % 06009 RGTR--
+140701024 Ettelbruck, Pensionn  01719  01719                % 06009 RGTR--
+140701026 Ettelbruck, Rond Poi  01722  01722                % 06009 RGTR--
+140701018 Ettelbruck, H.v.Land  01722  01722                % 06009 RGTR--
+141301002 Schieren, Faubourg    01724  01724                % 06009 RGTR--
+141301005 Schieren, Uewerschie  01725  01725                % 06009 RGTR--
+141301007 Schieren, Porte de S  01725  01725                % 06009 RGTR--
+160301002 Colmar, Centre        01727  01727                % 06009 RGTR--
+160301007 Colmar, Usines        01729  01729                % 06009 RGTR--
+160101005 Bissen, Op der Mille  01731  01731                % 06009 RGTR--
+160101003 Bissen, Geiwels       01733  01733                % 06009 RGTR--
+160101002 Bissen, Kräizung      01734  01734                % 06009 RGTR--
+160201002 Boevange/Attert, Mil  01738  01738                % 06009 RGTR--
+160201003 Boevange, Gare        01739  01739                % 06009 RGTR--
+150804002 Useldange, Raiffeise  01742  01742                % 06009 RGTR--
+150804003 Useldange, Spuerkees  01743  01743                % 06009 RGTR--
+150804001 Useldange, Beim Gärd  01744  01744                % 06009 RGTR--
+150802001 Rippweiler, Beim Nös  01747  01747                % 06009 RGTR--
+150106001 Noerdange, Ale Pompj  01750  01750                % 06009 RGTR--
+150106004 Noerdange, Bei der P  01751  01751                % 06009 RGTR--
+150104001 Huttange (Hitten)     01752  01752                % 06009 RGTR--
+150101003 Beckerich, Kiirchepl  01754  01754                % 06009 RGTR--
+150101001 Beckerich, Bei Schma  01754  01754                % 06009 RGTR--
+150101002 Beckerich, Fraiheets  01755  01755                % 06009 RGTR--
+150103002 Hovelange, Halt       01756  01756                % 06009 RGTR--
+150103001 Hovelange, Bei Bitze  01758  01758                % 06009 RGTR--
+150102002 Elvange/Beckerich, S  01759                       % 06009 RGTR--
+*Z 06010 RGTR--                                             % 06010 RGTR--
+*L 510      140401009 150102002  01558  01659               % 06010 RGTR--
+*A lc 140401009 150102002 000006  01558  01659              % 06010 RGTR--
+*A EG 140401009 150102002 000006  01558  01659              % 06010 RGTR--
+*A io 140401009 150102002 000006  01558  01659              % 06010 RGTR--
+*R 1 150102002 140401009 150102002  01558  01659            % 06010 RGTR--
+*G RGB 140401009 150102002  01558  01659                    % 06010 RGTR--
+*A VE 140401009 150102002 000006  01558  01659              % 06010 RGTR--
+*I FD 140401009 150102002        0002011  01558  01659      % 06010 RGTR--
+140401009 Diekirch, Neie Kolle         01558                % 06010 RGTR--
+140401011 Diekirch, Alexis Hec  01602  01602                % 06010 RGTR--
+140401006 Diekirch, Kluuster    01603  01603                % 06010 RGTR--
+140401004 Diekirch, Gare        01605  01605                % 06010 RGTR--
+140401008 Diekirch, Lorentzwue  01607  01607                % 06010 RGTR--
+140603002 Ingeldorf, Café de l  01609  01609                % 06010 RGTR--
+140602008 Erpeldange/Sûre, Um   01610  01610                % 06010 RGTR--
+140701016 Ettelbruck, Gare      01612  01617                % 06010 RGTR--
+140701024 Ettelbruck, Pensionn  01619  01619                % 06010 RGTR--
+140701026 Ettelbruck, Rond Poi  01622  01622                % 06010 RGTR--
+140701018 Ettelbruck, H.v.Land  01622  01622                % 06010 RGTR--
+141301002 Schieren, Faubourg    01624  01624                % 06010 RGTR--
+141301005 Schieren, Uewerschie  01625  01625                % 06010 RGTR--
+141301007 Schieren, Porte de S  01625  01625                % 06010 RGTR--
+160301002 Colmar, Centre        01627  01627                % 06010 RGTR--
+160301007 Colmar, Usines        01629  01629                % 06010 RGTR--
+160101005 Bissen, Op der Mille  01631  01631                % 06010 RGTR--
+160101003 Bissen, Geiwels       01633  01633                % 06010 RGTR--
+160101002 Bissen, Kräizung      01634  01634                % 06010 RGTR--
+160201002 Boevange/Attert, Mil  01638  01638                % 06010 RGTR--
+160201003 Boevange, Gare        01639  01639                % 06010 RGTR--
+150804002 Useldange, Raiffeise  01642  01642                % 06010 RGTR--
+150804003 Useldange, Spuerkees  01643  01643                % 06010 RGTR--
+150804001 Useldange, Beim Gärd  01644  01644                % 06010 RGTR--
+150802001 Rippweiler, Beim Nös  01647  01647                % 06010 RGTR--
+150106001 Noerdange, Ale Pompj  01650  01650                % 06010 RGTR--
+150106004 Noerdange, Bei der P  01651  01651                % 06010 RGTR--
+150104001 Huttange (Hitten)     01652  01652                % 06010 RGTR--
+150101003 Beckerich, Kiirchepl  01654  01654                % 06010 RGTR--
+150101001 Beckerich, Bei Schma  01654  01654                % 06010 RGTR--
+150101002 Beckerich, Fraiheets  01655  01655                % 06010 RGTR--
+150103002 Hovelange, Halt       01656  01656                % 06010 RGTR--
+150103001 Hovelange, Bei Bitze  01658  01658                % 06010 RGTR--
+150102002 Elvange/Beckerich, S  01659                       % 06010 RGTR--
+*Z 06011 RGTR--                                             % 06011 RGTR--
+*L 510      140401009 150102002  01104  01157               % 06011 RGTR--
+*A lc 140401009 150102002 000006  01104  01157              % 06011 RGTR--
+*A io 140401009 150102002 000006  01104  01157              % 06011 RGTR--
+*R 1 150102002 140401009 150102002  01104  01157            % 06011 RGTR--
+*G RGB 140401009 150102002  01104  01157                    % 06011 RGTR--
+*A VE 140401009 150102002 000006  01104  01157              % 06011 RGTR--
+*I FD 140401009 150102002        0002166  01104  01157      % 06011 RGTR--
+140401009 Diekirch, Neie Kolle         01104                % 06011 RGTR--
+140401011 Diekirch, Alexis Hec  01107  01107                % 06011 RGTR--
+140401006 Diekirch, Kluuster    01108  01108                % 06011 RGTR--
+140401004 Diekirch, Gare        01110  01110                % 06011 RGTR--
+140401008 Diekirch, Lorentzwue  01112  01112                % 06011 RGTR--
+140603002 Ingeldorf, Café de l  01113  01113                % 06011 RGTR--
+140602008 Erpeldange/Sûre, Um   01115  01115                % 06011 RGTR--
+140701016 Ettelbruck, Gare      01117  01118                % 06011 RGTR--
+140701024 Ettelbruck, Pensionn  01119  01119                % 06011 RGTR--
+140701026 Ettelbruck, Rond Poi  01121  01121                % 06011 RGTR--
+140701018 Ettelbruck, H.v.Land  01122  01122                % 06011 RGTR--
+141301002 Schieren, Faubourg    01123  01123                % 06011 RGTR--
+141301005 Schieren, Uewerschie  01124  01124                % 06011 RGTR--
+141301007 Schieren, Porte de S  01125  01125                % 06011 RGTR--
+160301002 Colmar, Centre        01127  01127                % 06011 RGTR--
+160301007 Colmar, Usines        01129  01129                % 06011 RGTR--
+160101005 Bissen, Op der Mille  01131  01131                % 06011 RGTR--
+160101003 Bissen, Geiwels       01132  01132                % 06011 RGTR--
+160101002 Bissen, Kräizung      01133  01133                % 06011 RGTR--
+160201002 Boevange/Attert, Mil  01137  01137                % 06011 RGTR--
+160201003 Boevange, Gare        01138  01138                % 06011 RGTR--
+150804002 Useldange, Raiffeise  01142  01142                % 06011 RGTR--
+150804003 Useldange, Spuerkees  01142  01142                % 06011 RGTR--
+150804001 Useldange, Beim Gärd  01143  01143                % 06011 RGTR--
+150802001 Rippweiler, Beim Nös  01146  01146                % 06011 RGTR--
+150106001 Noerdange, Ale Pompj  01148  01148                % 06011 RGTR--
+150106004 Noerdange, Bei der P  01149  01149                % 06011 RGTR--
+150104001 Huttange (Hitten)     01151  01151                % 06011 RGTR--
+150101003 Beckerich, Kiirchepl  01152  01152                % 06011 RGTR--
+150101001 Beckerich, Bei Schma  01153  01153                % 06011 RGTR--
+150101002 Beckerich, Fraiheets  01154  01154                % 06011 RGTR--
+150103002 Hovelange, Halt       01155  01155                % 06011 RGTR--
+150103001 Hovelange, Bei Bitze  01156  01156                % 06011 RGTR--
+150102002 Elvange/Beckerich, S  01157                       % 06011 RGTR--
+*Z 06012 RGTR--                                             % 06012 RGTR--
+*L 510      140401009 150102002  01200  01257               % 06012 RGTR--
+*A lc 140401009 150102002 000006  01200  01257              % 06012 RGTR--
+*A io 140401009 150102002 000006  01200  01257              % 06012 RGTR--
+*R 1 150102002 140401009 150102002  01200  01257            % 06012 RGTR--
+*G RGB 140401009 150102002  01200  01257                    % 06012 RGTR--
+*A VE 140401009 150102002 000006  01200  01257              % 06012 RGTR--
+*I FD 140401009 150102002        0002686  01200  01257      % 06012 RGTR--
+140401009 Diekirch, Neie Kolle         01200                % 06012 RGTR--
+140401011 Diekirch, Alexis Hec  01203  01203                % 06012 RGTR--
+140401006 Diekirch, Kluuster    01204  01204                % 06012 RGTR--
+140401004 Diekirch, Gare        01206  01206                % 06012 RGTR--
+140401008 Diekirch, Lorentzwue  01208  01208                % 06012 RGTR--
+140603002 Ingeldorf, Café de l  01209  01209                % 06012 RGTR--
+140602008 Erpeldange/Sûre, Um   01211  01211                % 06012 RGTR--
+140701016 Ettelbruck, Gare      01213  01218                % 06012 RGTR--
+140701024 Ettelbruck, Pensionn  01219  01219                % 06012 RGTR--
+140701026 Ettelbruck, Rond Poi  01221  01221                % 06012 RGTR--
+140701018 Ettelbruck, H.v.Land  01222  01222                % 06012 RGTR--
+141301002 Schieren, Faubourg    01223  01223                % 06012 RGTR--
+141301005 Schieren, Uewerschie  01224  01224                % 06012 RGTR--
+141301007 Schieren, Porte de S  01225  01225                % 06012 RGTR--
+160301002 Colmar, Centre        01227  01227                % 06012 RGTR--
+160301007 Colmar, Usines        01229  01229                % 06012 RGTR--
+160101005 Bissen, Op der Mille  01231  01231                % 06012 RGTR--
+160101003 Bissen, Geiwels       01232  01232                % 06012 RGTR--
+160101002 Bissen, Kräizung      01233  01233                % 06012 RGTR--
+160201002 Boevange/Attert, Mil  01237  01237                % 06012 RGTR--
+160201003 Boevange, Gare        01238  01238                % 06012 RGTR--
+150804002 Useldange, Raiffeise  01242  01242                % 06012 RGTR--
+150804003 Useldange, Spuerkees  01242  01242                % 06012 RGTR--
+150804001 Useldange, Beim Gärd  01243  01243                % 06012 RGTR--
+150802001 Rippweiler, Beim Nös  01246  01246                % 06012 RGTR--
+150106001 Noerdange, Ale Pompj  01248  01248                % 06012 RGTR--
+150106004 Noerdange, Bei der P  01249  01249                % 06012 RGTR--
+150104001 Huttange (Hitten)     01251  01251                % 06012 RGTR--
+150101003 Beckerich, Kiirchepl  01252  01252                % 06012 RGTR--
+150101001 Beckerich, Bei Schma  01253  01253                % 06012 RGTR--
+150101002 Beckerich, Fraiheets  01254  01254                % 06012 RGTR--
+150103002 Hovelange, Halt       01255  01255                % 06012 RGTR--
+150103001 Hovelange, Bei Bitze  01256  01256                % 06012 RGTR--
+150102002 Elvange/Beckerich, S  01257                       % 06012 RGTR--
+*Z 06013 RGTR--                                             % 06013 RGTR--
+*L 510      140401009 150102002  01500  01555               % 06013 RGTR--
+*A lc 140401009 150102002 000006  01500  01555              % 06013 RGTR--
+*A EG 140401009 150102002 000006  01500  01555              % 06013 RGTR--
+*A io 140401009 150102002 000006  01500  01555              % 06013 RGTR--
+*R 1 150102002 140401009 150102002  01500  01555            % 06013 RGTR--
+*G RGB 140401009 150102002  01500  01555                    % 06013 RGTR--
+*A VE 140401009 150102002 000006  01500  01555              % 06013 RGTR--
+*I FD 140401009 150102002        0002587  01500  01555      % 06013 RGTR--
+140401009 Diekirch, Neie Kolle         01500                % 06013 RGTR--
+140401011 Diekirch, Alexis Hec  01503  01503                % 06013 RGTR--
+140401006 Diekirch, Kluuster    01504  01504                % 06013 RGTR--
+140401004 Diekirch, Gare        01506  01506                % 06013 RGTR--
+140401008 Diekirch, Lorentzwue  01508  01508                % 06013 RGTR--
+140603002 Ingeldorf, Café de l  01509  01509                % 06013 RGTR--
+140602008 Erpeldange/Sûre, Um   01511  01511                % 06013 RGTR--
+140701016 Ettelbruck, Gare      01513  01516                % 06013 RGTR--
+140701024 Ettelbruck, Pensionn  01517  01517                % 06013 RGTR--
+140701026 Ettelbruck, Rond Poi  01519  01519                % 06013 RGTR--
+140701018 Ettelbruck, H.v.Land  01520  01520                % 06013 RGTR--
+141301002 Schieren, Faubourg    01521  01521                % 06013 RGTR--
+141301005 Schieren, Uewerschie  01522  01522                % 06013 RGTR--
+141301007 Schieren, Porte de S  01523  01523                % 06013 RGTR--
+160301002 Colmar, Centre        01525  01525                % 06013 RGTR--
+160301007 Colmar, Usines        01527  01527                % 06013 RGTR--
+160101005 Bissen, Op der Mille  01529  01529                % 06013 RGTR--
+160101003 Bissen, Geiwels       01530  01530                % 06013 RGTR--
+160101002 Bissen, Kräizung      01531  01531                % 06013 RGTR--
+160201002 Boevange/Attert, Mil  01535  01535                % 06013 RGTR--
+160201003 Boevange, Gare        01536  01536                % 06013 RGTR--
+150804002 Useldange, Raiffeise  01540  01540                % 06013 RGTR--
+150804003 Useldange, Spuerkees  01540  01540                % 06013 RGTR--
+150804001 Useldange, Beim Gärd  01541  01541                % 06013 RGTR--
+150802001 Rippweiler, Beim Nös  01544  01544                % 06013 RGTR--
+150106001 Noerdange, Ale Pompj  01546  01546                % 06013 RGTR--
+150106004 Noerdange, Bei der P  01547  01547                % 06013 RGTR--
+150104001 Huttange (Hitten)     01549  01549                % 06013 RGTR--
+150101003 Beckerich, Kiirchepl  01550  01550                % 06013 RGTR--
+150101001 Beckerich, Bei Schma  01551  01551                % 06013 RGTR--
+150101002 Beckerich, Fraiheets  01552  01552                % 06013 RGTR--
+150103002 Hovelange, Halt       01553  01553                % 06013 RGTR--
+150103001 Hovelange, Bei Bitze  01554  01554                % 06013 RGTR--
+150102002 Elvange/Beckerich, S  01555                       % 06013 RGTR--
+*Z 06014 RGTR--                                             % 06014 RGTR--
+*L 510      140701016 150102002  00718  00759               % 06014 RGTR--
+*A lc 140701016 150102002 000006  00718  00759              % 06014 RGTR--
+*A io 140701016 150102002 000006  00718  00759              % 06014 RGTR--
+*R 1 150102002 140701016 150102002  00718  00759            % 06014 RGTR--
+*G RGB 140701016 150102002  00718  00759                    % 06014 RGTR--
+*A VE 140701016 150102002 000006  00718  00759              % 06014 RGTR--
+*I FD 140701016 150102002        0002345  00718  00759      % 06014 RGTR--
+140701016 Ettelbruck, Gare             00718                % 06014 RGTR--
+140701024 Ettelbruck, Pensionn  00719  00719                % 06014 RGTR--
+140701026 Ettelbruck, Rond Poi  00722  00722                % 06014 RGTR--
+140701018 Ettelbruck, H.v.Land  00723  00723                % 06014 RGTR--
+141301002 Schieren, Faubourg    00724  00724                % 06014 RGTR--
+141301005 Schieren, Uewerschie  00725  00725                % 06014 RGTR--
+141301007 Schieren, Porte de S  00725  00725                % 06014 RGTR--
+160301002 Colmar, Centre        00727  00727                % 06014 RGTR--
+160301007 Colmar, Usines        00729  00729                % 06014 RGTR--
+160101005 Bissen, Op der Mille  00732  00732                % 06014 RGTR--
+160101003 Bissen, Geiwels       00733  00733                % 06014 RGTR--
+160101002 Bissen, Kräizung      00734  00734                % 06014 RGTR--
+160201002 Boevange/Attert, Mil  00738  00738                % 06014 RGTR--
+160201003 Boevange, Gare        00739  00739                % 06014 RGTR--
+150804002 Useldange, Raiffeise  00743  00743                % 06014 RGTR--
+150804003 Useldange, Spuerkees  00743  00743                % 06014 RGTR--
+150804001 Useldange, Beim Gärd  00744  00744                % 06014 RGTR--
+150802001 Rippweiler, Beim Nös  00747  00747                % 06014 RGTR--
+150106001 Noerdange, Ale Pompj  00750  00750                % 06014 RGTR--
+150106004 Noerdange, Bei der P  00751  00751                % 06014 RGTR--
+150104001 Huttange (Hitten)     00753  00753                % 06014 RGTR--
+150101003 Beckerich, Kiirchepl  00754  00754                % 06014 RGTR--
+150101001 Beckerich, Bei Schma  00755  00755                % 06014 RGTR--
+150101002 Beckerich, Fraiheets  00756  00756                % 06014 RGTR--
+150103002 Hovelange, Halt       00757  00757                % 06014 RGTR--
+150103001 Hovelange, Bei Bitze  00758  00758                % 06014 RGTR--
+150102002 Elvange/Beckerich, S  00759                       % 06014 RGTR--
+*Z 06015 RGTR--                                             % 06015 RGTR--
+*L 510      140701016 150102002  01818  01859               % 06015 RGTR--
+*A lc 140701016 150102002 000006  01818  01859              % 06015 RGTR--
+*A io 140701016 150102002 000006  01818  01859              % 06015 RGTR--
+*R 1 150102002 140701016 150102002  01818  01859            % 06015 RGTR--
+*G RGB 140701016 150102002  01818  01859                    % 06015 RGTR--
+*A VE 140701016 150102002 000006  01818  01859              % 06015 RGTR--
+*I FD 140701016 150102002        0002480  01818  01859      % 06015 RGTR--
+140701016 Ettelbruck, Gare             01818                % 06015 RGTR--
+140701024 Ettelbruck, Pensionn  01819  01819                % 06015 RGTR--
+140701026 Ettelbruck, Rond Poi  01822  01822                % 06015 RGTR--
+140701018 Ettelbruck, H.v.Land  01823  01823                % 06015 RGTR--
+141301002 Schieren, Faubourg    01824  01824                % 06015 RGTR--
+141301005 Schieren, Uewerschie  01825  01825                % 06015 RGTR--
+141301007 Schieren, Porte de S  01825  01825                % 06015 RGTR--
+160301002 Colmar, Centre        01827  01827                % 06015 RGTR--
+160301007 Colmar, Usines        01829  01829                % 06015 RGTR--
+160101005 Bissen, Op der Mille  01832  01832                % 06015 RGTR--
+160101003 Bissen, Geiwels       01833  01833                % 06015 RGTR--
+160101002 Bissen, Kräizung      01834  01834                % 06015 RGTR--
+160201002 Boevange/Attert, Mil  01838  01838                % 06015 RGTR--
+160201003 Boevange, Gare        01839  01839                % 06015 RGTR--
+150804002 Useldange, Raiffeise  01843  01843                % 06015 RGTR--
+150804003 Useldange, Spuerkees  01843  01843                % 06015 RGTR--
+150804001 Useldange, Beim Gärd  01844  01844                % 06015 RGTR--
+150802001 Rippweiler, Beim Nös  01847  01847                % 06015 RGTR--
+150106001 Noerdange, Ale Pompj  01850  01850                % 06015 RGTR--
+150106004 Noerdange, Bei der P  01851  01851                % 06015 RGTR--
+150104001 Huttange (Hitten)     01853  01853                % 06015 RGTR--
+150101003 Beckerich, Kiirchepl  01854  01854                % 06015 RGTR--
+150101001 Beckerich, Bei Schma  01855  01855                % 06015 RGTR--
+150101002 Beckerich, Fraiheets  01856  01856                % 06015 RGTR--
+150103002 Hovelange, Halt       01857  01857                % 06015 RGTR--
+150103001 Hovelange, Bei Bitze  01858  01858                % 06015 RGTR--
+150102002 Elvange/Beckerich, S  01859                       % 06015 RGTR--
+*Z 06016 RGTR--                                             % 06016 RGTR--
+*L 510      140701016 150102002  00618  00657               % 06016 RGTR--
+*A lc 140701016 150102002 000006  00618  00657              % 06016 RGTR--
+*A io 140701016 150102002 000006  00618  00657              % 06016 RGTR--
+*R 1 150102002 140701016 150102002  00618  00657            % 06016 RGTR--
+*G RGB 140701016 150102002  00618  00657                    % 06016 RGTR--
+*A VE 140701016 150102002 000006  00618  00657              % 06016 RGTR--
+*I FD 140701016 150102002        0002003  00618  00657      % 06016 RGTR--
+140701016 Ettelbruck, Gare             00618                % 06016 RGTR--
+140701024 Ettelbruck, Pensionn  00619  00619                % 06016 RGTR--
+140701026 Ettelbruck, Rond Poi  00621  00621                % 06016 RGTR--
+140701018 Ettelbruck, H.v.Land  00622  00622                % 06016 RGTR--
+141301002 Schieren, Faubourg    00623  00623                % 06016 RGTR--
+141301005 Schieren, Uewerschie  00624  00624                % 06016 RGTR--
+141301007 Schieren, Porte de S  00625  00625                % 06016 RGTR--
+160301002 Colmar, Centre        00627  00627                % 06016 RGTR--
+160301007 Colmar, Usines        00629  00629                % 06016 RGTR--
+160101005 Bissen, Op der Mille  00631  00631                % 06016 RGTR--
+160101003 Bissen, Geiwels       00632  00632                % 06016 RGTR--
+160101002 Bissen, Kräizung      00633  00633                % 06016 RGTR--
+160201002 Boevange/Attert, Mil  00637  00637                % 06016 RGTR--
+160201003 Boevange, Gare        00638  00638                % 06016 RGTR--
+150804002 Useldange, Raiffeise  00641  00641                % 06016 RGTR--
+150804003 Useldange, Spuerkees  00642  00642                % 06016 RGTR--
+150804001 Useldange, Beim Gärd  00643  00643                % 06016 RGTR--
+150802001 Rippweiler, Beim Nös  00645  00645                % 06016 RGTR--
+150106001 Noerdange, Ale Pompj  00648  00648                % 06016 RGTR--
+150106004 Noerdange, Bei der P  00649  00649                % 06016 RGTR--
+150104001 Huttange (Hitten)     00651  00651                % 06016 RGTR--
+150101003 Beckerich, Kiirchepl  00652  00652                % 06016 RGTR--
+150101001 Beckerich, Bei Schma  00653  00653                % 06016 RGTR--
+150101002 Beckerich, Fraiheets  00654  00654                % 06016 RGTR--
+150103002 Hovelange, Halt       00655  00655                % 06016 RGTR--
+150103001 Hovelange, Bei Bitze  00656  00656                % 06016 RGTR--
+150102002 Elvange/Beckerich, S  00657                       % 06016 RGTR--
+*Z 06017 RGTR--                                             % 06017 RGTR--
+*L 510      140701016 150102002  01018  01057               % 06017 RGTR--
+*A lc 140701016 150102002 000006  01018  01057              % 06017 RGTR--
+*A io 140701016 150102002 000006  01018  01057              % 06017 RGTR--
+*R 1 150102002 140701016 150102002  01018  01057            % 06017 RGTR--
+*G RGB 140701016 150102002  01018  01057                    % 06017 RGTR--
+*A VE 140701016 150102002 000006  01018  01057              % 06017 RGTR--
+*I FD 140701016 150102002        0001829  01018  01057      % 06017 RGTR--
+140701016 Ettelbruck, Gare             01018                % 06017 RGTR--
+140701024 Ettelbruck, Pensionn  01019  01019                % 06017 RGTR--
+140701026 Ettelbruck, Rond Poi  01021  01021                % 06017 RGTR--
+140701018 Ettelbruck, H.v.Land  01022  01022                % 06017 RGTR--
+141301002 Schieren, Faubourg    01023  01023                % 06017 RGTR--
+141301005 Schieren, Uewerschie  01024  01024                % 06017 RGTR--
+141301007 Schieren, Porte de S  01025  01025                % 06017 RGTR--
+160301002 Colmar, Centre        01027  01027                % 06017 RGTR--
+160301007 Colmar, Usines        01029  01029                % 06017 RGTR--
+160101005 Bissen, Op der Mille  01031  01031                % 06017 RGTR--
+160101003 Bissen, Geiwels       01032  01032                % 06017 RGTR--
+160101002 Bissen, Kräizung      01033  01033                % 06017 RGTR--
+160201002 Boevange/Attert, Mil  01037  01037                % 06017 RGTR--
+160201003 Boevange, Gare        01038  01038                % 06017 RGTR--
+150804002 Useldange, Raiffeise  01041  01041                % 06017 RGTR--
+150804003 Useldange, Spuerkees  01042  01042                % 06017 RGTR--
+150804001 Useldange, Beim Gärd  01043  01043                % 06017 RGTR--
+150802001 Rippweiler, Beim Nös  01045  01045                % 06017 RGTR--
+150106001 Noerdange, Ale Pompj  01048  01048                % 06017 RGTR--
+150106004 Noerdange, Bei der P  01049  01049                % 06017 RGTR--
+150104001 Huttange (Hitten)     01051  01051                % 06017 RGTR--
+150101003 Beckerich, Kiirchepl  01052  01052                % 06017 RGTR--
+150101001 Beckerich, Bei Schma  01053  01053                % 06017 RGTR--
+150101002 Beckerich, Fraiheets  01054  01054                % 06017 RGTR--
+150103002 Hovelange, Halt       01055  01055                % 06017 RGTR--
+150103001 Hovelange, Bei Bitze  01056  01056                % 06017 RGTR--
+150102002 Elvange/Beckerich, S  01057                       % 06017 RGTR--
+*Z 06018 RGTR--                                             % 06018 RGTR--
+*L 510      140701016 150102002  01318  01357               % 06018 RGTR--
+*A lc 140701016 150102002 000006  01318  01357              % 06018 RGTR--
+*A io 140701016 150102002 000006  01318  01357              % 06018 RGTR--
+*R 1 150102002 140701016 150102002  01318  01357            % 06018 RGTR--
+*G RGB 140701016 150102002  01318  01357                    % 06018 RGTR--
+*A VE 140701016 150102002 000006  01318  01357              % 06018 RGTR--
+*I FD 140701016 150102002        0002710  01318  01357      % 06018 RGTR--
+140701016 Ettelbruck, Gare             01318                % 06018 RGTR--
+140701024 Ettelbruck, Pensionn  01319  01319                % 06018 RGTR--
+140701026 Ettelbruck, Rond Poi  01321  01321                % 06018 RGTR--
+140701018 Ettelbruck, H.v.Land  01322  01322                % 06018 RGTR--
+141301002 Schieren, Faubourg    01323  01323                % 06018 RGTR--
+141301005 Schieren, Uewerschie  01324  01324                % 06018 RGTR--
+141301007 Schieren, Porte de S  01325  01325                % 06018 RGTR--
+160301002 Colmar, Centre        01327  01327                % 06018 RGTR--
+160301007 Colmar, Usines        01329  01329                % 06018 RGTR--
+160101005 Bissen, Op der Mille  01331  01331                % 06018 RGTR--
+160101003 Bissen, Geiwels       01332  01332                % 06018 RGTR--
+160101002 Bissen, Kräizung      01333  01333                % 06018 RGTR--
+160201002 Boevange/Attert, Mil  01337  01337                % 06018 RGTR--
+160201003 Boevange, Gare        01338  01338                % 06018 RGTR--
+150804002 Useldange, Raiffeise  01341  01341                % 06018 RGTR--
+150804003 Useldange, Spuerkees  01342  01342                % 06018 RGTR--
+150804001 Useldange, Beim Gärd  01343  01343                % 06018 RGTR--
+150802001 Rippweiler, Beim Nös  01345  01345                % 06018 RGTR--
+150106001 Noerdange, Ale Pompj  01348  01348                % 06018 RGTR--
+150106004 Noerdange, Bei der P  01349  01349                % 06018 RGTR--
+150104001 Huttange (Hitten)     01351  01351                % 06018 RGTR--
+150101003 Beckerich, Kiirchepl  01352  01352                % 06018 RGTR--
+150101001 Beckerich, Bei Schma  01353  01353                % 06018 RGTR--
+150101002 Beckerich, Fraiheets  01354  01354                % 06018 RGTR--
+150103002 Hovelange, Halt       01355  01355                % 06018 RGTR--
+150103001 Hovelange, Bei Bitze  01356  01356                % 06018 RGTR--
+150102002 Elvange/Beckerich, S  01357                       % 06018 RGTR--
+*Z 06019 RGTR--                                             % 06019 RGTR--
+*L 510      140701016 150102002  01418  01457               % 06019 RGTR--
+*A lc 140701016 150102002 000006  01418  01457              % 06019 RGTR--
+*A io 140701016 150102002 000006  01418  01457              % 06019 RGTR--
+*R 1 150102002 140701016 150102002  01418  01457            % 06019 RGTR--
+*G RGB 140701016 150102002  01418  01457                    % 06019 RGTR--
+*A VE 140701016 150102002 000006  01418  01457              % 06019 RGTR--
+*I FD 140701016 150102002        0002651  01418  01457      % 06019 RGTR--
+140701016 Ettelbruck, Gare             01418                % 06019 RGTR--
+140701024 Ettelbruck, Pensionn  01419  01419                % 06019 RGTR--
+140701026 Ettelbruck, Rond Poi  01421  01421                % 06019 RGTR--
+140701018 Ettelbruck, H.v.Land  01422  01422                % 06019 RGTR--
+141301002 Schieren, Faubourg    01423  01423                % 06019 RGTR--
+141301005 Schieren, Uewerschie  01424  01424                % 06019 RGTR--
+141301007 Schieren, Porte de S  01425  01425                % 06019 RGTR--
+160301002 Colmar, Centre        01427  01427                % 06019 RGTR--
+160301007 Colmar, Usines        01429  01429                % 06019 RGTR--
+160101005 Bissen, Op der Mille  01431  01431                % 06019 RGTR--
+160101003 Bissen, Geiwels       01432  01432                % 06019 RGTR--
+160101002 Bissen, Kräizung      01433  01433                % 06019 RGTR--
+160201002 Boevange/Attert, Mil  01437  01437                % 06019 RGTR--
+160201003 Boevange, Gare        01438  01438                % 06019 RGTR--
+150804002 Useldange, Raiffeise  01441  01441                % 06019 RGTR--
+150804003 Useldange, Spuerkees  01442  01442                % 06019 RGTR--
+150804001 Useldange, Beim Gärd  01443  01443                % 06019 RGTR--
+150802001 Rippweiler, Beim Nös  01445  01445                % 06019 RGTR--
+150106001 Noerdange, Ale Pompj  01448  01448                % 06019 RGTR--
+150106004 Noerdange, Bei der P  01449  01449                % 06019 RGTR--
+150104001 Huttange (Hitten)     01451  01451                % 06019 RGTR--
+150101003 Beckerich, Kiirchepl  01452  01452                % 06019 RGTR--
+150101001 Beckerich, Bei Schma  01453  01453                % 06019 RGTR--
+150101002 Beckerich, Fraiheets  01454  01454                % 06019 RGTR--
+150103002 Hovelange, Halt       01455  01455                % 06019 RGTR--
+150103001 Hovelange, Bei Bitze  01456  01456                % 06019 RGTR--
+150102002 Elvange/Beckerich, S  01457                       % 06019 RGTR--
+*Z 06020 RGTR--                                             % 06020 RGTR--
+*L 510      140701016 150102002  01918  01957               % 06020 RGTR--
+*A lc 140701016 150102002 000006  01918  01957              % 06020 RGTR--
+*A io 140701016 150102002 000006  01918  01957              % 06020 RGTR--
+*R 1 150102002 140701016 150102002  01918  01957            % 06020 RGTR--
+*G RGB 140701016 150102002  01918  01957                    % 06020 RGTR--
+*A VE 140701016 150102002 000006  01918  01957              % 06020 RGTR--
+*I FD 140701016 150102002        0002711  01918  01957      % 06020 RGTR--
+140701016 Ettelbruck, Gare             01918                % 06020 RGTR--
+140701024 Ettelbruck, Pensionn  01919  01919                % 06020 RGTR--
+140701026 Ettelbruck, Rond Poi  01921  01921                % 06020 RGTR--
+140701018 Ettelbruck, H.v.Land  01922  01922                % 06020 RGTR--
+141301002 Schieren, Faubourg    01923  01923                % 06020 RGTR--
+141301005 Schieren, Uewerschie  01924  01924                % 06020 RGTR--
+141301007 Schieren, Porte de S  01925  01925                % 06020 RGTR--
+160301002 Colmar, Centre        01927  01927                % 06020 RGTR--
+160301007 Colmar, Usines        01929  01929                % 06020 RGTR--
+160101005 Bissen, Op der Mille  01931  01931                % 06020 RGTR--
+160101003 Bissen, Geiwels       01932  01932                % 06020 RGTR--
+160101002 Bissen, Kräizung      01933  01933                % 06020 RGTR--
+160201002 Boevange/Attert, Mil  01937  01937                % 06020 RGTR--
+160201003 Boevange, Gare        01938  01938                % 06020 RGTR--
+150804002 Useldange, Raiffeise  01941  01941                % 06020 RGTR--
+150804003 Useldange, Spuerkees  01942  01942                % 06020 RGTR--
+150804001 Useldange, Beim Gärd  01943  01943                % 06020 RGTR--
+150802001 Rippweiler, Beim Nös  01945  01945                % 06020 RGTR--
+150106001 Noerdange, Ale Pompj  01948  01948                % 06020 RGTR--
+150106004 Noerdange, Bei der P  01949  01949                % 06020 RGTR--
+150104001 Huttange (Hitten)     01951  01951                % 06020 RGTR--
+150101003 Beckerich, Kiirchepl  01952  01952                % 06020 RGTR--
+150101001 Beckerich, Bei Schma  01953  01953                % 06020 RGTR--
+150101002 Beckerich, Fraiheets  01954  01954                % 06020 RGTR--
+150103002 Hovelange, Halt       01955  01955                % 06020 RGTR--
+150103001 Hovelange, Bei Bitze  01956  01956                % 06020 RGTR--
+150102002 Elvange/Beckerich, S  01957                       % 06020 RGTR--
+*Z 06021 RGTR--                                             % 06021 RGTR--
+*L 510      140701016 150102002  02018  02057               % 06021 RGTR--
+*A lc 140701016 150102002 000006  02018  02057              % 06021 RGTR--
+*A io 140701016 150102002 000006  02018  02057              % 06021 RGTR--
+*R 1 150102002 140701016 150102002  02018  02057            % 06021 RGTR--
+*G RGB 140701016 150102002  02018  02057                    % 06021 RGTR--
+*A VE 140701016 150102002 000006  02018  02057              % 06021 RGTR--
+*I FD 140701016 150102002        0003510  02018  02057      % 06021 RGTR--
+140701016 Ettelbruck, Gare             02018                % 06021 RGTR--
+140701024 Ettelbruck, Pensionn  02019  02019                % 06021 RGTR--
+140701026 Ettelbruck, Rond Poi  02021  02021                % 06021 RGTR--
+140701018 Ettelbruck, H.v.Land  02022  02022                % 06021 RGTR--
+141301002 Schieren, Faubourg    02023  02023                % 06021 RGTR--
+141301005 Schieren, Uewerschie  02024  02024                % 06021 RGTR--
+141301007 Schieren, Porte de S  02025  02025                % 06021 RGTR--
+160301002 Colmar, Centre        02027  02027                % 06021 RGTR--
+160301007 Colmar, Usines        02029  02029                % 06021 RGTR--
+160101005 Bissen, Op der Mille  02031  02031                % 06021 RGTR--
+160101003 Bissen, Geiwels       02032  02032                % 06021 RGTR--
+160101002 Bissen, Kräizung      02033  02033                % 06021 RGTR--
+160201002 Boevange/Attert, Mil  02037  02037                % 06021 RGTR--
+160201003 Boevange, Gare        02038  02038                % 06021 RGTR--
+150804002 Useldange, Raiffeise  02041  02041                % 06021 RGTR--
+150804003 Useldange, Spuerkees  02042  02042                % 06021 RGTR--
+150804001 Useldange, Beim Gärd  02043  02043                % 06021 RGTR--
+150802001 Rippweiler, Beim Nös  02045  02045                % 06021 RGTR--
+150106001 Noerdange, Ale Pompj  02048  02048                % 06021 RGTR--
+150106004 Noerdange, Bei der P  02049  02049                % 06021 RGTR--
+150104001 Huttange (Hitten)     02051  02051                % 06021 RGTR--
+150101003 Beckerich, Kiirchepl  02052  02052                % 06021 RGTR--
+150101001 Beckerich, Bei Schma  02053  02053                % 06021 RGTR--
+150101002 Beckerich, Fraiheets  02054  02054                % 06021 RGTR--
+150103002 Hovelange, Halt       02055  02055                % 06021 RGTR--
+150103001 Hovelange, Bei Bitze  02056  02056                % 06021 RGTR--
+150102002 Elvange/Beckerich, S  02057                       % 06021 RGTR--
+*Z 06022 RGTR--                                             % 06022 RGTR--
+*L 510      140701016 150102002  02118  02157               % 06022 RGTR--
+*A lc 140701016 150102002 000006  02118  02157              % 06022 RGTR--
+*A io 140701016 150102002 000006  02118  02157              % 06022 RGTR--
+*R 1 150102002 140701016 150102002  02118  02157            % 06022 RGTR--
+*G RGB 140701016 150102002  02118  02157                    % 06022 RGTR--
+*A VE 140701016 150102002 000006  02118  02157              % 06022 RGTR--
+*I FD 140701016 150102002        0001826  02118  02157      % 06022 RGTR--
+140701016 Ettelbruck, Gare             02118                % 06022 RGTR--
+140701024 Ettelbruck, Pensionn  02119  02119                % 06022 RGTR--
+140701026 Ettelbruck, Rond Poi  02121  02121                % 06022 RGTR--
+140701018 Ettelbruck, H.v.Land  02122  02122                % 06022 RGTR--
+141301002 Schieren, Faubourg    02123  02123                % 06022 RGTR--
+141301005 Schieren, Uewerschie  02124  02124                % 06022 RGTR--
+141301007 Schieren, Porte de S  02125  02125                % 06022 RGTR--
+160301002 Colmar, Centre        02127  02127                % 06022 RGTR--
+160301007 Colmar, Usines        02129  02129                % 06022 RGTR--
+160101005 Bissen, Op der Mille  02131  02131                % 06022 RGTR--
+160101003 Bissen, Geiwels       02132  02132                % 06022 RGTR--
+160101002 Bissen, Kräizung      02133  02133                % 06022 RGTR--
+160201002 Boevange/Attert, Mil  02137  02137                % 06022 RGTR--
+160201003 Boevange, Gare        02138  02138                % 06022 RGTR--
+150804002 Useldange, Raiffeise  02141  02141                % 06022 RGTR--
+150804003 Useldange, Spuerkees  02142  02142                % 06022 RGTR--
+150804001 Useldange, Beim Gärd  02143  02143                % 06022 RGTR--
+150802001 Rippweiler, Beim Nös  02145  02145                % 06022 RGTR--
+150106001 Noerdange, Ale Pompj  02148  02148                % 06022 RGTR--
+150106004 Noerdange, Bei der P  02149  02149                % 06022 RGTR--
+150104001 Huttange (Hitten)     02151  02151                % 06022 RGTR--
+150101003 Beckerich, Kiirchepl  02152  02152                % 06022 RGTR--
+150101001 Beckerich, Bei Schma  02153  02153                % 06022 RGTR--
+150101002 Beckerich, Fraiheets  02154  02154                % 06022 RGTR--
+150103002 Hovelange, Halt       02155  02155                % 06022 RGTR--
+150103001 Hovelange, Bei Bitze  02156  02156                % 06022 RGTR--
+150102002 Elvange/Beckerich, S  02157                       % 06022 RGTR--
+*Z 06023 RGTR--                                             % 06023 RGTR--
+*L 510      140701016 150102002  00848  00927               % 06023 RGTR--
+*A lc 140701016 150102002 000156  00848  00927              % 06023 RGTR--
+*A io 140701016 150102002 000156  00848  00927              % 06023 RGTR--
+*R 1 150102002 140701016 150102002  00848  00927            % 06023 RGTR--
+*G RGB 140701016 150102002  00848  00927                    % 06023 RGTR--
+*A VE 140701016 150102002 000156  00848  00927              % 06023 RGTR--
+*I FD 140701016 150102002        0002662  00848  00927      % 06023 RGTR--
+140701016 Ettelbruck, Gare             00848                % 06023 RGTR--
+140701024 Ettelbruck, Pensionn  00849  00849                % 06023 RGTR--
+140701026 Ettelbruck, Rond Poi  00851  00851                % 06023 RGTR--
+140701018 Ettelbruck, H.v.Land  00852  00852                % 06023 RGTR--
+141301002 Schieren, Faubourg    00853  00853                % 06023 RGTR--
+141301005 Schieren, Uewerschie  00854  00854                % 06023 RGTR--
+141301007 Schieren, Porte de S  00855  00855                % 06023 RGTR--
+160301002 Colmar, Centre        00857  00857                % 06023 RGTR--
+160301007 Colmar, Usines        00859  00859                % 06023 RGTR--
+160101005 Bissen, Op der Mille  00901  00901                % 06023 RGTR--
+160101003 Bissen, Geiwels       00902  00902                % 06023 RGTR--
+160101002 Bissen, Kräizung      00903  00903                % 06023 RGTR--
+160201002 Boevange/Attert, Mil  00907  00907                % 06023 RGTR--
+160201003 Boevange, Gare        00908  00908                % 06023 RGTR--
+150804002 Useldange, Raiffeise  00911  00911                % 06023 RGTR--
+150804003 Useldange, Spuerkees  00912  00912                % 06023 RGTR--
+150804001 Useldange, Beim Gärd  00913  00913                % 06023 RGTR--
+150802001 Rippweiler, Beim Nös  00915  00915                % 06023 RGTR--
+150106001 Noerdange, Ale Pompj  00918  00918                % 06023 RGTR--
+150106004 Noerdange, Bei der P  00919  00919                % 06023 RGTR--
+150104001 Huttange (Hitten)     00921  00921                % 06023 RGTR--
+150101003 Beckerich, Kiirchepl  00922  00922                % 06023 RGTR--
+150101001 Beckerich, Bei Schma  00923  00923                % 06023 RGTR--
+150101002 Beckerich, Fraiheets  00924  00924                % 06023 RGTR--
+150103002 Hovelange, Halt       00925  00925                % 06023 RGTR--
+150103001 Hovelange, Bei Bitze  00926  00926                % 06023 RGTR--
+150102002 Elvange/Beckerich, S  00927                       % 06023 RGTR--
+*Z 06024 RGTR--                                             % 06024 RGTR--
+*L 510      140701016 150102002  01048  01127               % 06024 RGTR--
+*A lc 140701016 150102002 000156  01048  01127              % 06024 RGTR--
+*A io 140701016 150102002 000156  01048  01127              % 06024 RGTR--
+*R 1 150102002 140701016 150102002  01048  01127            % 06024 RGTR--
+*G RGB 140701016 150102002  01048  01127                    % 06024 RGTR--
+*A VE 140701016 150102002 000156  01048  01127              % 06024 RGTR--
+*I FD 140701016 150102002        0002652  01048  01127      % 06024 RGTR--
+140701016 Ettelbruck, Gare             01048                % 06024 RGTR--
+140701024 Ettelbruck, Pensionn  01049  01049                % 06024 RGTR--
+140701026 Ettelbruck, Rond Poi  01051  01051                % 06024 RGTR--
+140701018 Ettelbruck, H.v.Land  01052  01052                % 06024 RGTR--
+141301002 Schieren, Faubourg    01053  01053                % 06024 RGTR--
+141301005 Schieren, Uewerschie  01054  01054                % 06024 RGTR--
+141301007 Schieren, Porte de S  01055  01055                % 06024 RGTR--
+160301002 Colmar, Centre        01057  01057                % 06024 RGTR--
+160301007 Colmar, Usines        01059  01059                % 06024 RGTR--
+160101005 Bissen, Op der Mille  01101  01101                % 06024 RGTR--
+160101003 Bissen, Geiwels       01102  01102                % 06024 RGTR--
+160101002 Bissen, Kräizung      01103  01103                % 06024 RGTR--
+160201002 Boevange/Attert, Mil  01107  01107                % 06024 RGTR--
+160201003 Boevange, Gare        01108  01108                % 06024 RGTR--
+150804002 Useldange, Raiffeise  01111  01111                % 06024 RGTR--
+150804003 Useldange, Spuerkees  01112  01112                % 06024 RGTR--
+150804001 Useldange, Beim Gärd  01113  01113                % 06024 RGTR--
+150802001 Rippweiler, Beim Nös  01115  01115                % 06024 RGTR--
+150106001 Noerdange, Ale Pompj  01118  01118                % 06024 RGTR--
+150106004 Noerdange, Bei der P  01119  01119                % 06024 RGTR--
+150104001 Huttange (Hitten)     01121  01121                % 06024 RGTR--
+150101003 Beckerich, Kiirchepl  01122  01122                % 06024 RGTR--
+150101001 Beckerich, Bei Schma  01123  01123                % 06024 RGTR--
+150101002 Beckerich, Fraiheets  01124  01124                % 06024 RGTR--
+150103002 Hovelange, Halt       01125  01125                % 06024 RGTR--
+150103001 Hovelange, Bei Bitze  01126  01126                % 06024 RGTR--
+150102002 Elvange/Beckerich, S  01127                       % 06024 RGTR--
+*Z 06025 RGTR--                                             % 06025 RGTR--
+*L 510      140701016 150102002  01248  01327               % 06025 RGTR--
+*A lc 140701016 150102002 000156  01248  01327              % 06025 RGTR--
+*A io 140701016 150102002 000156  01248  01327              % 06025 RGTR--
+*R 1 150102002 140701016 150102002  01248  01327            % 06025 RGTR--
+*G RGB 140701016 150102002  01248  01327                    % 06025 RGTR--
+*A VE 140701016 150102002 000156  01248  01327              % 06025 RGTR--
+*I FD 140701016 150102002        0002653  01248  01327      % 06025 RGTR--
+140701016 Ettelbruck, Gare             01248                % 06025 RGTR--
+140701024 Ettelbruck, Pensionn  01249  01249                % 06025 RGTR--
+140701026 Ettelbruck, Rond Poi  01251  01251                % 06025 RGTR--
+140701018 Ettelbruck, H.v.Land  01252  01252                % 06025 RGTR--
+141301002 Schieren, Faubourg    01253  01253                % 06025 RGTR--
+141301005 Schieren, Uewerschie  01254  01254                % 06025 RGTR--
+141301007 Schieren, Porte de S  01255  01255                % 06025 RGTR--
+160301002 Colmar, Centre        01257  01257                % 06025 RGTR--
+160301007 Colmar, Usines        01259  01259                % 06025 RGTR--
+160101005 Bissen, Op der Mille  01301  01301                % 06025 RGTR--
+160101003 Bissen, Geiwels       01302  01302                % 06025 RGTR--
+160101002 Bissen, Kräizung      01303  01303                % 06025 RGTR--
+160201002 Boevange/Attert, Mil  01307  01307                % 06025 RGTR--
+160201003 Boevange, Gare        01308  01308                % 06025 RGTR--
+150804002 Useldange, Raiffeise  01311  01311                % 06025 RGTR--
+150804003 Useldange, Spuerkees  01312  01312                % 06025 RGTR--
+150804001 Useldange, Beim Gärd  01313  01313                % 06025 RGTR--
+150802001 Rippweiler, Beim Nös  01315  01315                % 06025 RGTR--
+150106001 Noerdange, Ale Pompj  01318  01318                % 06025 RGTR--
+150106004 Noerdange, Bei der P  01319  01319                % 06025 RGTR--
+150104001 Huttange (Hitten)     01321  01321                % 06025 RGTR--
+150101003 Beckerich, Kiirchepl  01322  01322                % 06025 RGTR--
+150101001 Beckerich, Bei Schma  01323  01323                % 06025 RGTR--
+150101002 Beckerich, Fraiheets  01324  01324                % 06025 RGTR--
+150103002 Hovelange, Halt       01325  01325                % 06025 RGTR--
+150103001 Hovelange, Bei Bitze  01326  01326                % 06025 RGTR--
+150102002 Elvange/Beckerich, S  01327                       % 06025 RGTR--
+*Z 06026 RGTR--                                             % 06026 RGTR--
+*L 510      140701016 150102002  01448  01527               % 06026 RGTR--
+*A lc 140701016 150102002 000156  01448  01527              % 06026 RGTR--
+*A io 140701016 150102002 000156  01448  01527              % 06026 RGTR--
+*R 1 150102002 140701016 150102002  01448  01527            % 06026 RGTR--
+*G RGB 140701016 150102002  01448  01527                    % 06026 RGTR--
+*A VE 140701016 150102002 000156  01448  01527              % 06026 RGTR--
+*I FD 140701016 150102002        0002654  01448  01527      % 06026 RGTR--
+140701016 Ettelbruck, Gare             01448                % 06026 RGTR--
+140701024 Ettelbruck, Pensionn  01449  01449                % 06026 RGTR--
+140701026 Ettelbruck, Rond Poi  01451  01451                % 06026 RGTR--
+140701018 Ettelbruck, H.v.Land  01452  01452                % 06026 RGTR--
+141301002 Schieren, Faubourg    01453  01453                % 06026 RGTR--
+141301005 Schieren, Uewerschie  01454  01454                % 06026 RGTR--
+141301007 Schieren, Porte de S  01455  01455                % 06026 RGTR--
+160301002 Colmar, Centre        01457  01457                % 06026 RGTR--
+160301007 Colmar, Usines        01459  01459                % 06026 RGTR--
+160101005 Bissen, Op der Mille  01501  01501                % 06026 RGTR--
+160101003 Bissen, Geiwels       01502  01502                % 06026 RGTR--
+160101002 Bissen, Kräizung      01503  01503                % 06026 RGTR--
+160201002 Boevange/Attert, Mil  01507  01507                % 06026 RGTR--
+160201003 Boevange, Gare        01508  01508                % 06026 RGTR--
+150804002 Useldange, Raiffeise  01511  01511                % 06026 RGTR--
+150804003 Useldange, Spuerkees  01512  01512                % 06026 RGTR--
+150804001 Useldange, Beim Gärd  01513  01513                % 06026 RGTR--
+150802001 Rippweiler, Beim Nös  01515  01515                % 06026 RGTR--
+150106001 Noerdange, Ale Pompj  01518  01518                % 06026 RGTR--
+150106004 Noerdange, Bei der P  01519  01519                % 06026 RGTR--
+150104001 Huttange (Hitten)     01521  01521                % 06026 RGTR--
+150101003 Beckerich, Kiirchepl  01522  01522                % 06026 RGTR--
+150101001 Beckerich, Bei Schma  01523  01523                % 06026 RGTR--
+150101002 Beckerich, Fraiheets  01524  01524                % 06026 RGTR--
+150103002 Hovelange, Halt       01525  01525                % 06026 RGTR--
+150103001 Hovelange, Bei Bitze  01526  01526                % 06026 RGTR--
+150102002 Elvange/Beckerich, S  01527                       % 06026 RGTR--
+*Z 06027 RGTR--                                             % 06027 RGTR--
+*L 510      140701016 150102002  01648  01727               % 06027 RGTR--
+*A lc 140701016 150102002 000156  01648  01727              % 06027 RGTR--
+*A io 140701016 150102002 000156  01648  01727              % 06027 RGTR--
+*R 1 150102002 140701016 150102002  01648  01727            % 06027 RGTR--
+*G RGB 140701016 150102002  01648  01727                    % 06027 RGTR--
+*A VE 140701016 150102002 000156  01648  01727              % 06027 RGTR--
+*I FD 140701016 150102002        0001381  01648  01727      % 06027 RGTR--
+140701016 Ettelbruck, Gare             01648                % 06027 RGTR--
+140701024 Ettelbruck, Pensionn  01649  01649                % 06027 RGTR--
+140701026 Ettelbruck, Rond Poi  01651  01651                % 06027 RGTR--
+140701018 Ettelbruck, H.v.Land  01652  01652                % 06027 RGTR--
+141301002 Schieren, Faubourg    01653  01653                % 06027 RGTR--
+141301005 Schieren, Uewerschie  01654  01654                % 06027 RGTR--
+141301007 Schieren, Porte de S  01655  01655                % 06027 RGTR--
+160301002 Colmar, Centre        01657  01657                % 06027 RGTR--
+160301007 Colmar, Usines        01659  01659                % 06027 RGTR--
+160101005 Bissen, Op der Mille  01701  01701                % 06027 RGTR--
+160101003 Bissen, Geiwels       01702  01702                % 06027 RGTR--
+160101002 Bissen, Kräizung      01703  01703                % 06027 RGTR--
+160201002 Boevange/Attert, Mil  01707  01707                % 06027 RGTR--
+160201003 Boevange, Gare        01708  01708                % 06027 RGTR--
+150804002 Useldange, Raiffeise  01711  01711                % 06027 RGTR--
+150804003 Useldange, Spuerkees  01712  01712                % 06027 RGTR--
+150804001 Useldange, Beim Gärd  01713  01713                % 06027 RGTR--
+150802001 Rippweiler, Beim Nös  01715  01715                % 06027 RGTR--
+150106001 Noerdange, Ale Pompj  01718  01718                % 06027 RGTR--
+150106004 Noerdange, Bei der P  01719  01719                % 06027 RGTR--
+150104001 Huttange (Hitten)     01721  01721                % 06027 RGTR--
+150101003 Beckerich, Kiirchepl  01722  01722                % 06027 RGTR--
+150101001 Beckerich, Bei Schma  01723  01723                % 06027 RGTR--
+150101002 Beckerich, Fraiheets  01724  01724                % 06027 RGTR--
+150103002 Hovelange, Halt       01725  01725                % 06027 RGTR--
+150103001 Hovelange, Bei Bitze  01726  01726                % 06027 RGTR--
+150102002 Elvange/Beckerich, S  01727                       % 06027 RGTR--
+*Z 06028 RGTR--                                             % 06028 RGTR--
+*L 510      140701016 150102002  01848  01927               % 06028 RGTR--
+*A lc 140701016 150102002 000156  01848  01927              % 06028 RGTR--
+*A io 140701016 150102002 000156  01848  01927              % 06028 RGTR--
+*R 1 150102002 140701016 150102002  01848  01927            % 06028 RGTR--
+*G RGB 140701016 150102002  01848  01927                    % 06028 RGTR--
+*A VE 140701016 150102002 000156  01848  01927              % 06028 RGTR--
+*I FD 140701016 150102002        0001499  01848  01927      % 06028 RGTR--
+140701016 Ettelbruck, Gare             01848                % 06028 RGTR--
+140701024 Ettelbruck, Pensionn  01849  01849                % 06028 RGTR--
+140701026 Ettelbruck, Rond Poi  01851  01851                % 06028 RGTR--
+140701018 Ettelbruck, H.v.Land  01852  01852                % 06028 RGTR--
+141301002 Schieren, Faubourg    01853  01853                % 06028 RGTR--
+141301005 Schieren, Uewerschie  01854  01854                % 06028 RGTR--
+141301007 Schieren, Porte de S  01855  01855                % 06028 RGTR--
+160301002 Colmar, Centre        01857  01857                % 06028 RGTR--
+160301007 Colmar, Usines        01859  01859                % 06028 RGTR--
+160101005 Bissen, Op der Mille  01901  01901                % 06028 RGTR--
+160101003 Bissen, Geiwels       01902  01902                % 06028 RGTR--
+160101002 Bissen, Kräizung      01903  01903                % 06028 RGTR--
+160201002 Boevange/Attert, Mil  01907  01907                % 06028 RGTR--
+160201003 Boevange, Gare        01908  01908                % 06028 RGTR--
+150804002 Useldange, Raiffeise  01911  01911                % 06028 RGTR--
+150804003 Useldange, Spuerkees  01912  01912                % 06028 RGTR--
+150804001 Useldange, Beim Gärd  01913  01913                % 06028 RGTR--
+150802001 Rippweiler, Beim Nös  01915  01915                % 06028 RGTR--
+150106001 Noerdange, Ale Pompj  01918  01918                % 06028 RGTR--
+150106004 Noerdange, Bei der P  01919  01919                % 06028 RGTR--
+150104001 Huttange (Hitten)     01921  01921                % 06028 RGTR--
+150101003 Beckerich, Kiirchepl  01922  01922                % 06028 RGTR--
+150101001 Beckerich, Bei Schma  01923  01923                % 06028 RGTR--
+150101002 Beckerich, Fraiheets  01924  01924                % 06028 RGTR--
+150103002 Hovelange, Halt       01925  01925                % 06028 RGTR--
+150103001 Hovelange, Bei Bitze  01926  01926                % 06028 RGTR--
+150102002 Elvange/Beckerich, S  01927                       % 06028 RGTR--
+*Z 06029 RGTR--                                             % 06029 RGTR--
+*L 510      150102002 140701016  01704  01745               % 06029 RGTR--
+*A lc 150102002 140701016 000006  01704  01745              % 06029 RGTR--
+*A hq 150102002 140701016 000006  01704  01745              % 06029 RGTR--
+*A WK 150102002 140701016 000006  01704  01745              % 06029 RGTR--
+*R 2 140701016 150102002 140701016  01704  01745            % 06029 RGTR--
+*G RGB 150102002 140701016  01704  01745                    % 06029 RGTR--
+*A VE 150102002 140701016 000006  01704  01745              % 06029 RGTR--
+*I FD 150102002 140701016        0003511  01704  01745      % 06029 RGTR--
+150102002 Elvange/Beckerich, S         01704                % 06029 RGTR--
+150103001 Hovelange, Bei Bitze  01704  01704                % 06029 RGTR--
+150103002 Hovelange, Halt       01706  01706                % 06029 RGTR--
+150101002 Beckerich, Fraiheets  01707  01707                % 06029 RGTR--
+150101001 Beckerich, Bei Schma  01708  01708                % 06029 RGTR--
+150101003 Beckerich, Kiirchepl  01709  01709                % 06029 RGTR--
+150104001 Huttange (Hitten)     01711  01711                % 06029 RGTR--
+150106004 Noerdange, Bei der P  01713  01713                % 06029 RGTR--
+150106001 Noerdange, Ale Pompj  01714  01714                % 06029 RGTR--
+150802001 Rippweiler, Beim Nös  01716  01716                % 06029 RGTR--
+150804001 Useldange, Beim Gärd  01719  01719                % 06029 RGTR--
+150804003 Useldange, Spuerkees  01720  01720                % 06029 RGTR--
+160201003 Boevange, Gare        01723  01723                % 06029 RGTR--
+160201002 Boevange/Attert, Mil  01724  01724                % 06029 RGTR--
+160101002 Bissen, Kräizung      01729  01729                % 06029 RGTR--
+160101003 Bissen, Geiwels       01730  01730                % 06029 RGTR--
+160101005 Bissen, Op der Mille  01731  01731                % 06029 RGTR--
+160301007 Colmar, Usines        01733  01733                % 06029 RGTR--
+160301002 Colmar, Centre        01735  01735                % 06029 RGTR--
+141301007 Schieren, Porte de S  01737  01737                % 06029 RGTR--
+141301004 Schieren, Neie Wee    01738  01738                % 06029 RGTR--
+141301006 Schieren, Vali's Pla  01739  01739                % 06029 RGTR--
+140701018 Ettelbruck, H.v.Land  01741  01741                % 06029 RGTR--
+140701026 Ettelbruck, Rond Poi  01743  01743                % 06029 RGTR--
+140701015 Ettelbruck, Ecole Pr  01744  01744                % 06029 RGTR--
+140701016 Ettelbruck, Gare      01745                       % 06029 RGTR--
+*Z 06030 RGTR--                                             % 06030 RGTR--
+*L 510      150102002 140701016  01800  01841               % 06030 RGTR--
+*A lc 150102002 140701016 000006  01800  01841              % 06030 RGTR--
+*A hq 150102002 140701016 000006  01800  01841              % 06030 RGTR--
+*R 2 140701016 150102002 140701016  01800  01841            % 06030 RGTR--
+*G RGB 150102002 140701016  01800  01841                    % 06030 RGTR--
+*A VE 150102002 140701016 000006  01800  01841              % 06030 RGTR--
+*I FD 150102002 140701016        0001980  01800  01841      % 06030 RGTR--
+150102002 Elvange/Beckerich, S         01800                % 06030 RGTR--
+150103001 Hovelange, Bei Bitze  01800  01800                % 06030 RGTR--
+150103002 Hovelange, Halt       01802  01802                % 06030 RGTR--
+150101002 Beckerich, Fraiheets  01803  01803                % 06030 RGTR--
+150101001 Beckerich, Bei Schma  01804  01804                % 06030 RGTR--
+150101003 Beckerich, Kiirchepl  01805  01805                % 06030 RGTR--
+150104001 Huttange (Hitten)     01807  01807                % 06030 RGTR--
+150106004 Noerdange, Bei der P  01809  01809                % 06030 RGTR--
+150106001 Noerdange, Ale Pompj  01810  01810                % 06030 RGTR--
+150802001 Rippweiler, Beim Nös  01812  01812                % 06030 RGTR--
+150804001 Useldange, Beim Gärd  01815  01815                % 06030 RGTR--
+150804003 Useldange, Spuerkees  01816  01816                % 06030 RGTR--
+160201003 Boevange, Gare        01819  01819                % 06030 RGTR--
+160201002 Boevange/Attert, Mil  01820  01820                % 06030 RGTR--
+160101002 Bissen, Kräizung      01825  01825                % 06030 RGTR--
+160101003 Bissen, Geiwels       01826  01826                % 06030 RGTR--
+160101005 Bissen, Op der Mille  01827  01827                % 06030 RGTR--
+160301007 Colmar, Usines        01829  01829                % 06030 RGTR--
+160301002 Colmar, Centre        01831  01831                % 06030 RGTR--
+141301007 Schieren, Porte de S  01833  01833                % 06030 RGTR--
+141301004 Schieren, Neie Wee    01834  01834                % 06030 RGTR--
+141301006 Schieren, Vali's Pla  01835  01835                % 06030 RGTR--
+140701018 Ettelbruck, H.v.Land  01837  01837                % 06030 RGTR--
+140701026 Ettelbruck, Rond Poi  01839  01839                % 06030 RGTR--
+140701015 Ettelbruck, Ecole Pr  01840  01840                % 06030 RGTR--
+140701016 Ettelbruck, Gare      01841                       % 06030 RGTR--
+*Z 06031 RGTR--                                             % 06031 RGTR--
+*L 510      150102002 140701016  01200  01238               % 06031 RGTR--
+*A lc 150102002 140701016 000001  01200  01238              % 06031 RGTR--
+*A hq 150102002 140701016 000001  01200  01238              % 06031 RGTR--
+*R 2 140701016 150102002 140701016  01200  01238            % 06031 RGTR--
+*G RGB 150102002 140701016  01200  01238                    % 06031 RGTR--
+*A VE 150102002 140701016 000001  01200  01238              % 06031 RGTR--
+*I FD 150102002 140701016        0001964  01200  01238      % 06031 RGTR--
+150102002 Elvange/Beckerich, S         01200                % 06031 RGTR--
+150103001 Hovelange, Bei Bitze  01200  01200                % 06031 RGTR--
+150103002 Hovelange, Halt       01202  01202                % 06031 RGTR--
+150101002 Beckerich, Fraiheets  01203  01203                % 06031 RGTR--
+150101001 Beckerich, Bei Schma  01204  01204                % 06031 RGTR--
+150101003 Beckerich, Kiirchepl  01205  01205                % 06031 RGTR--
+150104001 Huttange (Hitten)     01206  01206                % 06031 RGTR--
+150106004 Noerdange, Bei der P  01209  01209                % 06031 RGTR--
+150106001 Noerdange, Ale Pompj  01209  01209                % 06031 RGTR--
+150802001 Rippweiler, Beim Nös  01212  01212                % 06031 RGTR--
+150804001 Useldange, Beim Gärd  01214  01214                % 06031 RGTR--
+150804003 Useldange, Spuerkees  01216  01216                % 06031 RGTR--
+160201003 Boevange, Gare        01218  01218                % 06031 RGTR--
+160201002 Boevange/Attert, Mil  01219  01219                % 06031 RGTR--
+160101002 Bissen, Kräizung      01224  01224                % 06031 RGTR--
+160101003 Bissen, Geiwels       01225  01225                % 06031 RGTR--
+160101005 Bissen, Op der Mille  01226  01226                % 06031 RGTR--
+160301007 Colmar, Usines        01228  01228                % 06031 RGTR--
+160301002 Colmar, Centre        01230  01230                % 06031 RGTR--
+141301007 Schieren, Porte de S  01232  01232                % 06031 RGTR--
+141301004 Schieren, Neie Wee    01232  01232                % 06031 RGTR--
+141301006 Schieren, Vali's Pla  01233  01233                % 06031 RGTR--
+140701018 Ettelbruck, H.v.Land  01235  01235                % 06031 RGTR--
+140701026 Ettelbruck, Rond Poi  01236  01236                % 06031 RGTR--
+140701015 Ettelbruck, Ecole Pr  01237  01237                % 06031 RGTR--
+140701016 Ettelbruck, Gare      01238                       % 06031 RGTR--
+*Z 06032 RGTR--                                             % 06032 RGTR--
+*L 510      150102002 140701016  00512  00551               % 06032 RGTR--
+*A lc 150102002 140701016 000006  00512  00551              % 06032 RGTR--
+*A hq 150102002 140701016 000006  00512  00551              % 06032 RGTR--
+*R 2 140701016 150102002 140701016  00512  00551            % 06032 RGTR--
+*G RGB 150102002 140701016  00512  00551                    % 06032 RGTR--
+*A VE 150102002 140701016 000006  00512  00551              % 06032 RGTR--
+*I FD 150102002 140701016        0003512  00512  00551      % 06032 RGTR--
+150102002 Elvange/Beckerich, S         00512                % 06032 RGTR--
+150103001 Hovelange, Bei Bitze  00513  00513                % 06032 RGTR--
+150103002 Hovelange, Halt       00514  00514                % 06032 RGTR--
+150101002 Beckerich, Fraiheets  00515  00515                % 06032 RGTR--
+150101001 Beckerich, Bei Schma  00516  00516                % 06032 RGTR--
+150101003 Beckerich, Kiirchepl  00517  00517                % 06032 RGTR--
+150104001 Huttange (Hitten)     00519  00519                % 06032 RGTR--
+150106004 Noerdange, Bei der P  00521  00521                % 06032 RGTR--
+150106001 Noerdange, Ale Pompj  00522  00522                % 06032 RGTR--
+150802001 Rippweiler, Beim Nös  00524  00524                % 06032 RGTR--
+150804001 Useldange, Beim Gärd  00527  00527                % 06032 RGTR--
+150804003 Useldange, Spuerkees  00528  00528                % 06032 RGTR--
+160201003 Boevange, Gare        00530  00530                % 06032 RGTR--
+160201002 Boevange/Attert, Mil  00531  00531                % 06032 RGTR--
+160101002 Bissen, Kräizung      00536  00536                % 06032 RGTR--
+160101003 Bissen, Geiwels       00537  00537                % 06032 RGTR--
+160101005 Bissen, Op der Mille  00538  00538                % 06032 RGTR--
+160301007 Colmar, Usines        00540  00540                % 06032 RGTR--
+160301002 Colmar, Centre        00542  00542                % 06032 RGTR--
+141301007 Schieren, Porte de S  00544  00544                % 06032 RGTR--
+141301004 Schieren, Neie Wee    00545  00545                % 06032 RGTR--
+141301006 Schieren, Vali's Pla  00546  00546                % 06032 RGTR--
+140701018 Ettelbruck, H.v.Land  00547  00547                % 06032 RGTR--
+140701026 Ettelbruck, Rond Poi  00548  00548                % 06032 RGTR--
+140701015 Ettelbruck, Ecole Pr  00549  00549                % 06032 RGTR--
+140701016 Ettelbruck, Gare      00551                       % 06032 RGTR--
+*Z 06033 RGTR--                                             % 06033 RGTR--
+*L 510      150102002 140701016  00612  00651               % 06033 RGTR--
+*A lc 150102002 140701016 000006  00612  00651              % 06033 RGTR--
+*A hq 150102002 140701016 000006  00612  00651              % 06033 RGTR--
+*R 2 140701016 150102002 140701016  00612  00651            % 06033 RGTR--
+*G RGB 150102002 140701016  00612  00651                    % 06033 RGTR--
+*A VE 150102002 140701016 000006  00612  00651              % 06033 RGTR--
+*I FD 150102002 140701016        0002219  00612  00651      % 06033 RGTR--
+150102002 Elvange/Beckerich, S         00612                % 06033 RGTR--
+150103001 Hovelange, Bei Bitze  00613  00613                % 06033 RGTR--
+150103002 Hovelange, Halt       00614  00614                % 06033 RGTR--
+150101002 Beckerich, Fraiheets  00615  00615                % 06033 RGTR--
+150101001 Beckerich, Bei Schma  00616  00616                % 06033 RGTR--
+150101003 Beckerich, Kiirchepl  00617  00617                % 06033 RGTR--
+150104001 Huttange (Hitten)     00619  00619                % 06033 RGTR--
+150106004 Noerdange, Bei der P  00621  00621                % 06033 RGTR--
+150106001 Noerdange, Ale Pompj  00622  00622                % 06033 RGTR--
+150802001 Rippweiler, Beim Nös  00624  00624                % 06033 RGTR--
+150804001 Useldange, Beim Gärd  00627  00627                % 06033 RGTR--
+150804003 Useldange, Spuerkees  00628  00628                % 06033 RGTR--
+160201003 Boevange, Gare        00630  00630                % 06033 RGTR--
+160201002 Boevange/Attert, Mil  00631  00631                % 06033 RGTR--
+160101002 Bissen, Kräizung      00636  00636                % 06033 RGTR--
+160101003 Bissen, Geiwels       00637  00637                % 06033 RGTR--
+160101005 Bissen, Op der Mille  00638  00638                % 06033 RGTR--
+160301007 Colmar, Usines        00640  00640                % 06033 RGTR--
+160301002 Colmar, Centre        00642  00642                % 06033 RGTR--
+141301007 Schieren, Porte de S  00644  00644                % 06033 RGTR--
+141301004 Schieren, Neie Wee    00645  00645                % 06033 RGTR--
+141301006 Schieren, Vali's Pla  00646  00646                % 06033 RGTR--
+140701018 Ettelbruck, H.v.Land  00647  00647                % 06033 RGTR--
+140701026 Ettelbruck, Rond Poi  00648  00648                % 06033 RGTR--
+140701015 Ettelbruck, Ecole Pr  00649  00649                % 06033 RGTR--
+140701016 Ettelbruck, Gare      00651                       % 06033 RGTR--
+*Z 06034 RGTR--                                             % 06034 RGTR--
+*L 510      150102002 140701016  00901  00940               % 06034 RGTR--
+*A lc 150102002 140701016 000006  00901  00940              % 06034 RGTR--
+*A hq 150102002 140701016 000006  00901  00940              % 06034 RGTR--
+*R 2 140701016 150102002 140701016  00901  00940            % 06034 RGTR--
+*G RGB 150102002 140701016  00901  00940                    % 06034 RGTR--
+*A VE 150102002 140701016 000006  00901  00940              % 06034 RGTR--
+*I FD 150102002 140701016        0002231  00901  00940      % 06034 RGTR--
+150102002 Elvange/Beckerich, S         00901                % 06034 RGTR--
+150103001 Hovelange, Bei Bitze  00902  00902                % 06034 RGTR--
+150103002 Hovelange, Halt       00903  00903                % 06034 RGTR--
+150101002 Beckerich, Fraiheets  00904  00904                % 06034 RGTR--
+150101001 Beckerich, Bei Schma  00905  00905                % 06034 RGTR--
+150101003 Beckerich, Kiirchepl  00906  00906                % 06034 RGTR--
+150104001 Huttange (Hitten)     00908  00908                % 06034 RGTR--
+150106004 Noerdange, Bei der P  00910  00910                % 06034 RGTR--
+150106001 Noerdange, Ale Pompj  00911  00911                % 06034 RGTR--
+150802001 Rippweiler, Beim Nös  00913  00913                % 06034 RGTR--
+150804001 Useldange, Beim Gärd  00916  00916                % 06034 RGTR--
+150804003 Useldange, Spuerkees  00917  00917                % 06034 RGTR--
+160201003 Boevange, Gare        00919  00919                % 06034 RGTR--
+160201002 Boevange/Attert, Mil  00920  00920                % 06034 RGTR--
+160101002 Bissen, Kräizung      00925  00925                % 06034 RGTR--
+160101003 Bissen, Geiwels       00926  00926                % 06034 RGTR--
+160101005 Bissen, Op der Mille  00927  00927                % 06034 RGTR--
+160301007 Colmar, Usines        00929  00929                % 06034 RGTR--
+160301002 Colmar, Centre        00931  00931                % 06034 RGTR--
+141301007 Schieren, Porte de S  00933  00933                % 06034 RGTR--
+141301004 Schieren, Neie Wee    00934  00934                % 06034 RGTR--
+141301006 Schieren, Vali's Pla  00935  00935                % 06034 RGTR--
+140701018 Ettelbruck, H.v.Land  00936  00936                % 06034 RGTR--
+140701026 Ettelbruck, Rond Poi  00937  00937                % 06034 RGTR--
+140701015 Ettelbruck, Ecole Pr  00938  00938                % 06034 RGTR--
+140701016 Ettelbruck, Gare      00940                       % 06034 RGTR--
+*Z 06035 RGTR--                                             % 06035 RGTR--
+*L 510      150102002 140701016  01300  01338               % 06035 RGTR--
+*A lc 150102002 140701016 000006  01300  01338              % 06035 RGTR--
+*A hq 150102002 140701016 000006  01300  01338              % 06035 RGTR--
+*R 2 140701016 150102002 140701016  01300  01338            % 06035 RGTR--
+*G RGB 150102002 140701016  01300  01338                    % 06035 RGTR--
+*A VE 150102002 140701016 000006  01300  01338              % 06035 RGTR--
+*I FD 150102002 140701016        0001966  01300  01338      % 06035 RGTR--
+150102002 Elvange/Beckerich, S         01300                % 06035 RGTR--
+150103001 Hovelange, Bei Bitze  01300  01300                % 06035 RGTR--
+150103002 Hovelange, Halt       01302  01302                % 06035 RGTR--
+150101002 Beckerich, Fraiheets  01303  01303                % 06035 RGTR--
+150101001 Beckerich, Bei Schma  01304  01304                % 06035 RGTR--
+150101003 Beckerich, Kiirchepl  01305  01305                % 06035 RGTR--
+150104001 Huttange (Hitten)     01306  01306                % 06035 RGTR--
+150106004 Noerdange, Bei der P  01309  01309                % 06035 RGTR--
+150106001 Noerdange, Ale Pompj  01309  01309                % 06035 RGTR--
+150802001 Rippweiler, Beim Nös  01312  01312                % 06035 RGTR--
+150804001 Useldange, Beim Gärd  01314  01314                % 06035 RGTR--
+150804003 Useldange, Spuerkees  01316  01316                % 06035 RGTR--
+160201003 Boevange, Gare        01318  01318                % 06035 RGTR--
+160201002 Boevange/Attert, Mil  01319  01319                % 06035 RGTR--
+160101002 Bissen, Kräizung      01324  01324                % 06035 RGTR--
+160101003 Bissen, Geiwels       01325  01325                % 06035 RGTR--
+160101005 Bissen, Op der Mille  01326  01326                % 06035 RGTR--
+160301007 Colmar, Usines        01328  01328                % 06035 RGTR--
+160301002 Colmar, Centre        01330  01330                % 06035 RGTR--
+141301007 Schieren, Porte de S  01332  01332                % 06035 RGTR--
+141301004 Schieren, Neie Wee    01332  01332                % 06035 RGTR--
+141301006 Schieren, Vali's Pla  01333  01333                % 06035 RGTR--
+140701018 Ettelbruck, H.v.Land  01335  01335                % 06035 RGTR--
+140701026 Ettelbruck, Rond Poi  01336  01336                % 06035 RGTR--
+140701015 Ettelbruck, Ecole Pr  01337  01337                % 06035 RGTR--
+140701016 Ettelbruck, Gare      01338                       % 06035 RGTR--
+*Z 06036 RGTR--                                             % 06036 RGTR--
+*L 510      150102002 140701016  01902  01940               % 06036 RGTR--
+*A lc 150102002 140701016 000006  01902  01940              % 06036 RGTR--
+*A hq 150102002 140701016 000006  01902  01940              % 06036 RGTR--
+*R 2 140701016 150102002 140701016  01902  01940            % 06036 RGTR--
+*G RGB 150102002 140701016  01902  01940                    % 06036 RGTR--
+*A VE 150102002 140701016 000006  01902  01940              % 06036 RGTR--
+*I FD 150102002 140701016        0003488  01902  01940      % 06036 RGTR--
+150102002 Elvange/Beckerich, S         01902                % 06036 RGTR--
+150103001 Hovelange, Bei Bitze  01902  01902                % 06036 RGTR--
+150103002 Hovelange, Halt       01904  01904                % 06036 RGTR--
+150101002 Beckerich, Fraiheets  01905  01905                % 06036 RGTR--
+150101001 Beckerich, Bei Schma  01906  01906                % 06036 RGTR--
+150101003 Beckerich, Kiirchepl  01907  01907                % 06036 RGTR--
+150104001 Huttange (Hitten)     01908  01908                % 06036 RGTR--
+150106004 Noerdange, Bei der P  01911  01911                % 06036 RGTR--
+150106001 Noerdange, Ale Pompj  01911  01911                % 06036 RGTR--
+150802001 Rippweiler, Beim Nös  01914  01914                % 06036 RGTR--
+150804001 Useldange, Beim Gärd  01916  01916                % 06036 RGTR--
+150804003 Useldange, Spuerkees  01918  01918                % 06036 RGTR--
+160201003 Boevange, Gare        01920  01920                % 06036 RGTR--
+160201002 Boevange/Attert, Mil  01921  01921                % 06036 RGTR--
+160101002 Bissen, Kräizung      01926  01926                % 06036 RGTR--
+160101003 Bissen, Geiwels       01927  01927                % 06036 RGTR--
+160101005 Bissen, Op der Mille  01928  01928                % 06036 RGTR--
+160301007 Colmar, Usines        01930  01930                % 06036 RGTR--
+160301002 Colmar, Centre        01932  01932                % 06036 RGTR--
+141301007 Schieren, Porte de S  01934  01934                % 06036 RGTR--
+141301004 Schieren, Neie Wee    01934  01934                % 06036 RGTR--
+141301006 Schieren, Vali's Pla  01935  01935                % 06036 RGTR--
+140701018 Ettelbruck, H.v.Land  01937  01937                % 06036 RGTR--
+140701026 Ettelbruck, Rond Poi  01938  01938                % 06036 RGTR--
+140701015 Ettelbruck, Ecole Pr  01939  01939                % 06036 RGTR--
+140701016 Ettelbruck, Gare      01940                       % 06036 RGTR--
+*Z 06037 RGTR--                                             % 06037 RGTR--
+*L 510      150102002 140701016  02000  02038               % 06037 RGTR--
+*A lc 150102002 140701016 000006  02000  02038              % 06037 RGTR--
+*A hq 150102002 140701016 000006  02000  02038              % 06037 RGTR--
+*R 2 140701016 150102002 140701016  02000  02038            % 06037 RGTR--
+*G RGB 150102002 140701016  02000  02038                    % 06037 RGTR--
+*A VE 150102002 140701016 000006  02000  02038              % 06037 RGTR--
+*I FD 150102002 140701016        0002438  02000  02038      % 06037 RGTR--
+150102002 Elvange/Beckerich, S         02000                % 06037 RGTR--
+150103001 Hovelange, Bei Bitze  02000  02000                % 06037 RGTR--
+150103002 Hovelange, Halt       02002  02002                % 06037 RGTR--
+150101002 Beckerich, Fraiheets  02003  02003                % 06037 RGTR--
+150101001 Beckerich, Bei Schma  02004  02004                % 06037 RGTR--
+150101003 Beckerich, Kiirchepl  02005  02005                % 06037 RGTR--
+150104001 Huttange (Hitten)     02006  02006                % 06037 RGTR--
+150106004 Noerdange, Bei der P  02009  02009                % 06037 RGTR--
+150106001 Noerdange, Ale Pompj  02009  02009                % 06037 RGTR--
+150802001 Rippweiler, Beim Nös  02012  02012                % 06037 RGTR--
+150804001 Useldange, Beim Gärd  02014  02014                % 06037 RGTR--
+150804003 Useldange, Spuerkees  02016  02016                % 06037 RGTR--
+160201003 Boevange, Gare        02018  02018                % 06037 RGTR--
+160201002 Boevange/Attert, Mil  02019  02019                % 06037 RGTR--
+160101002 Bissen, Kräizung      02024  02024                % 06037 RGTR--
+160101003 Bissen, Geiwels       02025  02025                % 06037 RGTR--
+160101005 Bissen, Op der Mille  02026  02026                % 06037 RGTR--
+160301007 Colmar, Usines        02028  02028                % 06037 RGTR--
+160301002 Colmar, Centre        02030  02030                % 06037 RGTR--
+141301007 Schieren, Porte de S  02032  02032                % 06037 RGTR--
+141301004 Schieren, Neie Wee    02032  02032                % 06037 RGTR--
+141301006 Schieren, Vali's Pla  02033  02033                % 06037 RGTR--
+140701018 Ettelbruck, H.v.Land  02035  02035                % 06037 RGTR--
+140701026 Ettelbruck, Rond Poi  02036  02036                % 06037 RGTR--
+140701015 Ettelbruck, Ecole Pr  02037  02037                % 06037 RGTR--
+140701016 Ettelbruck, Gare      02038                       % 06037 RGTR--
+*Z 06038 RGTR--                                             % 06038 RGTR--
+*L 510      150102002 140701016  00800  00838               % 06038 RGTR--
+*A lc 150102002 140701016 000156  00800  00838              % 06038 RGTR--
+*A hq 150102002 140701016 000156  00800  00838              % 06038 RGTR--
+*R 2 140701016 150102002 140701016  00800  00838            % 06038 RGTR--
+*G RGB 150102002 140701016  00800  00838                    % 06038 RGTR--
+*A VE 150102002 140701016 000156  00800  00838              % 06038 RGTR--
+*I FD 150102002 140701016        0001953  00800  00838      % 06038 RGTR--
+150102002 Elvange/Beckerich, S         00800                % 06038 RGTR--
+150103001 Hovelange, Bei Bitze  00800  00800                % 06038 RGTR--
+150103002 Hovelange, Halt       00802  00802                % 06038 RGTR--
+150101002 Beckerich, Fraiheets  00803  00803                % 06038 RGTR--
+150101001 Beckerich, Bei Schma  00804  00804                % 06038 RGTR--
+150101003 Beckerich, Kiirchepl  00805  00805                % 06038 RGTR--
+150104001 Huttange (Hitten)     00806  00806                % 06038 RGTR--
+150106004 Noerdange, Bei der P  00809  00809                % 06038 RGTR--
+150106001 Noerdange, Ale Pompj  00809  00809                % 06038 RGTR--
+150802001 Rippweiler, Beim Nös  00812  00812                % 06038 RGTR--
+150804001 Useldange, Beim Gärd  00814  00814                % 06038 RGTR--
+150804003 Useldange, Spuerkees  00816  00816                % 06038 RGTR--
+160201003 Boevange, Gare        00818  00818                % 06038 RGTR--
+160201002 Boevange/Attert, Mil  00819  00819                % 06038 RGTR--
+160101002 Bissen, Kräizung      00824  00824                % 06038 RGTR--
+160101003 Bissen, Geiwels       00825  00825                % 06038 RGTR--
+160101005 Bissen, Op der Mille  00826  00826                % 06038 RGTR--
+160301007 Colmar, Usines        00828  00828                % 06038 RGTR--
+160301002 Colmar, Centre        00830  00830                % 06038 RGTR--
+141301007 Schieren, Porte de S  00832  00832                % 06038 RGTR--
+141301004 Schieren, Neie Wee    00832  00832                % 06038 RGTR--
+141301006 Schieren, Vali's Pla  00833  00833                % 06038 RGTR--
+140701018 Ettelbruck, H.v.Land  00835  00835                % 06038 RGTR--
+140701026 Ettelbruck, Rond Poi  00836  00836                % 06038 RGTR--
+140701015 Ettelbruck, Ecole Pr  00837  00837                % 06038 RGTR--
+140701016 Ettelbruck, Gare      00838                       % 06038 RGTR--
+*Z 06039 RGTR--                                             % 06039 RGTR--
+*L 510      150102002 140701016  01000  01038               % 06039 RGTR--
+*A lc 150102002 140701016 000156  01000  01038              % 06039 RGTR--
+*A hq 150102002 140701016 000156  01000  01038              % 06039 RGTR--
+*R 2 140701016 150102002 140701016  01000  01038            % 06039 RGTR--
+*G RGB 150102002 140701016  01000  01038                    % 06039 RGTR--
+*A VE 150102002 140701016 000156  01000  01038              % 06039 RGTR--
+*I FD 150102002 140701016        0001958  01000  01038      % 06039 RGTR--
+150102002 Elvange/Beckerich, S         01000                % 06039 RGTR--
+150103001 Hovelange, Bei Bitze  01000  01000                % 06039 RGTR--
+150103002 Hovelange, Halt       01002  01002                % 06039 RGTR--
+150101002 Beckerich, Fraiheets  01003  01003                % 06039 RGTR--
+150101001 Beckerich, Bei Schma  01004  01004                % 06039 RGTR--
+150101003 Beckerich, Kiirchepl  01005  01005                % 06039 RGTR--
+150104001 Huttange (Hitten)     01006  01006                % 06039 RGTR--
+150106004 Noerdange, Bei der P  01009  01009                % 06039 RGTR--
+150106001 Noerdange, Ale Pompj  01009  01009                % 06039 RGTR--
+150802001 Rippweiler, Beim Nös  01012  01012                % 06039 RGTR--
+150804001 Useldange, Beim Gärd  01014  01014                % 06039 RGTR--
+150804003 Useldange, Spuerkees  01016  01016                % 06039 RGTR--
+160201003 Boevange, Gare        01018  01018                % 06039 RGTR--
+160201002 Boevange/Attert, Mil  01019  01019                % 06039 RGTR--
+160101002 Bissen, Kräizung      01024  01024                % 06039 RGTR--
+160101003 Bissen, Geiwels       01025  01025                % 06039 RGTR--
+160101005 Bissen, Op der Mille  01026  01026                % 06039 RGTR--
+160301007 Colmar, Usines        01028  01028                % 06039 RGTR--
+160301002 Colmar, Centre        01030  01030                % 06039 RGTR--
+141301007 Schieren, Porte de S  01032  01032                % 06039 RGTR--
+141301004 Schieren, Neie Wee    01032  01032                % 06039 RGTR--
+141301006 Schieren, Vali's Pla  01033  01033                % 06039 RGTR--
+140701018 Ettelbruck, H.v.Land  01035  01035                % 06039 RGTR--
+140701026 Ettelbruck, Rond Poi  01036  01036                % 06039 RGTR--
+140701015 Ettelbruck, Ecole Pr  01037  01037                % 06039 RGTR--
+140701016 Ettelbruck, Gare      01038                       % 06039 RGTR--
+*Z 06040 RGTR--                                             % 06040 RGTR--
+*L 510      150102002 140701016  01400  01438               % 06040 RGTR--
+*A lc 150102002 140701016 000156  01400  01438              % 06040 RGTR--
+*A hq 150102002 140701016 000156  01400  01438              % 06040 RGTR--
+*R 2 140701016 150102002 140701016  01400  01438            % 06040 RGTR--
+*G RGB 150102002 140701016  01400  01438                    % 06040 RGTR--
+*A VE 150102002 140701016 000156  01400  01438              % 06040 RGTR--
+*I FD 150102002 140701016        0001969  01400  01438      % 06040 RGTR--
+150102002 Elvange/Beckerich, S         01400                % 06040 RGTR--
+150103001 Hovelange, Bei Bitze  01400  01400                % 06040 RGTR--
+150103002 Hovelange, Halt       01402  01402                % 06040 RGTR--
+150101002 Beckerich, Fraiheets  01403  01403                % 06040 RGTR--
+150101001 Beckerich, Bei Schma  01404  01404                % 06040 RGTR--
+150101003 Beckerich, Kiirchepl  01405  01405                % 06040 RGTR--
+150104001 Huttange (Hitten)     01406  01406                % 06040 RGTR--
+150106004 Noerdange, Bei der P  01409  01409                % 06040 RGTR--
+150106001 Noerdange, Ale Pompj  01409  01409                % 06040 RGTR--
+150802001 Rippweiler, Beim Nös  01412  01412                % 06040 RGTR--
+150804001 Useldange, Beim Gärd  01414  01414                % 06040 RGTR--
+150804003 Useldange, Spuerkees  01416  01416                % 06040 RGTR--
+160201003 Boevange, Gare        01418  01418                % 06040 RGTR--
+160201002 Boevange/Attert, Mil  01419  01419                % 06040 RGTR--
+160101002 Bissen, Kräizung      01424  01424                % 06040 RGTR--
+160101003 Bissen, Geiwels       01425  01425                % 06040 RGTR--
+160101005 Bissen, Op der Mille  01426  01426                % 06040 RGTR--
+160301007 Colmar, Usines        01428  01428                % 06040 RGTR--
+160301002 Colmar, Centre        01430  01430                % 06040 RGTR--
+141301007 Schieren, Porte de S  01432  01432                % 06040 RGTR--
+141301004 Schieren, Neie Wee    01432  01432                % 06040 RGTR--
+141301006 Schieren, Vali's Pla  01433  01433                % 06040 RGTR--
+140701018 Ettelbruck, H.v.Land  01435  01435                % 06040 RGTR--
+140701026 Ettelbruck, Rond Poi  01436  01436                % 06040 RGTR--
+140701015 Ettelbruck, Ecole Pr  01437  01437                % 06040 RGTR--
+140701016 Ettelbruck, Gare      01438                       % 06040 RGTR--
+*Z 06041 RGTR--                                             % 06041 RGTR--
+*L 510      150102002 140701016  01600  01638               % 06041 RGTR--
+*A lc 150102002 140701016 000156  01600  01638              % 06041 RGTR--
+*A hq 150102002 140701016 000156  01600  01638              % 06041 RGTR--
+*R 2 140701016 150102002 140701016  01600  01638            % 06041 RGTR--
+*G RGB 150102002 140701016  01600  01638                    % 06041 RGTR--
+*A VE 150102002 140701016 000156  01600  01638              % 06041 RGTR--
+*I FD 150102002 140701016        0001975  01600  01638      % 06041 RGTR--
+150102002 Elvange/Beckerich, S         01600                % 06041 RGTR--
+150103001 Hovelange, Bei Bitze  01600  01600                % 06041 RGTR--
+150103002 Hovelange, Halt       01602  01602                % 06041 RGTR--
+150101002 Beckerich, Fraiheets  01603  01603                % 06041 RGTR--
+150101001 Beckerich, Bei Schma  01604  01604                % 06041 RGTR--
+150101003 Beckerich, Kiirchepl  01605  01605                % 06041 RGTR--
+150104001 Huttange (Hitten)     01606  01606                % 06041 RGTR--
+150106004 Noerdange, Bei der P  01609  01609                % 06041 RGTR--
+150106001 Noerdange, Ale Pompj  01609  01609                % 06041 RGTR--
+150802001 Rippweiler, Beim Nös  01612  01612                % 06041 RGTR--
+150804001 Useldange, Beim Gärd  01614  01614                % 06041 RGTR--
+150804003 Useldange, Spuerkees  01616  01616                % 06041 RGTR--
+160201003 Boevange, Gare        01618  01618                % 06041 RGTR--
+160201002 Boevange/Attert, Mil  01619  01619                % 06041 RGTR--
+160101002 Bissen, Kräizung      01624  01624                % 06041 RGTR--
+160101003 Bissen, Geiwels       01625  01625                % 06041 RGTR--
+160101005 Bissen, Op der Mille  01626  01626                % 06041 RGTR--
+160301007 Colmar, Usines        01628  01628                % 06041 RGTR--
+160301002 Colmar, Centre        01630  01630                % 06041 RGTR--
+141301007 Schieren, Porte de S  01632  01632                % 06041 RGTR--
+141301004 Schieren, Neie Wee    01632  01632                % 06041 RGTR--
+141301006 Schieren, Vali's Pla  01633  01633                % 06041 RGTR--
+140701018 Ettelbruck, H.v.Land  01635  01635                % 06041 RGTR--
+140701026 Ettelbruck, Rond Poi  01636  01636                % 06041 RGTR--
+140701015 Ettelbruck, Ecole Pr  01637  01637                % 06041 RGTR--
+140701016 Ettelbruck, Gare      01638                       % 06041 RGTR--
+*Z 06042 RGTR--                                             % 06042 RGTR--
+*L 510      150102002 140701016  01800  01838               % 06042 RGTR--
+*A lc 150102002 140701016 000156  01800  01838              % 06042 RGTR--
+*A hq 150102002 140701016 000156  01800  01838              % 06042 RGTR--
+*R 2 140701016 150102002 140701016  01800  01838            % 06042 RGTR--
+*G RGB 150102002 140701016  01800  01838                    % 06042 RGTR--
+*A VE 150102002 140701016 000156  01800  01838              % 06042 RGTR--
+*I FD 150102002 140701016        0001980  01800  01838      % 06042 RGTR--
+150102002 Elvange/Beckerich, S         01800                % 06042 RGTR--
+150103001 Hovelange, Bei Bitze  01800  01800                % 06042 RGTR--
+150103002 Hovelange, Halt       01802  01802                % 06042 RGTR--
+150101002 Beckerich, Fraiheets  01803  01803                % 06042 RGTR--
+150101001 Beckerich, Bei Schma  01804  01804                % 06042 RGTR--
+150101003 Beckerich, Kiirchepl  01805  01805                % 06042 RGTR--
+150104001 Huttange (Hitten)     01806  01806                % 06042 RGTR--
+150106004 Noerdange, Bei der P  01809  01809                % 06042 RGTR--
+150106001 Noerdange, Ale Pompj  01809  01809                % 06042 RGTR--
+150802001 Rippweiler, Beim Nös  01812  01812                % 06042 RGTR--
+150804001 Useldange, Beim Gärd  01814  01814                % 06042 RGTR--
+150804003 Useldange, Spuerkees  01816  01816                % 06042 RGTR--
+160201003 Boevange, Gare        01818  01818                % 06042 RGTR--
+160201002 Boevange/Attert, Mil  01819  01819                % 06042 RGTR--
+160101002 Bissen, Kräizung      01824  01824                % 06042 RGTR--
+160101003 Bissen, Geiwels       01825  01825                % 06042 RGTR--
+160101005 Bissen, Op der Mille  01826  01826                % 06042 RGTR--
+160301007 Colmar, Usines        01828  01828                % 06042 RGTR--
+160301002 Colmar, Centre        01830  01830                % 06042 RGTR--
+141301007 Schieren, Porte de S  01832  01832                % 06042 RGTR--
+141301004 Schieren, Neie Wee    01832  01832                % 06042 RGTR--
+141301006 Schieren, Vali's Pla  01833  01833                % 06042 RGTR--
+140701018 Ettelbruck, H.v.Land  01835  01835                % 06042 RGTR--
+140701026 Ettelbruck, Rond Poi  01836  01836                % 06042 RGTR--
+140701015 Ettelbruck, Ecole Pr  01837  01837                % 06042 RGTR--
+140701016 Ettelbruck, Gare      01838                       % 06042 RGTR--
+*Z 06043 RGTR--                                             % 06043 RGTR--
+*L 510      150102002 140401009  00730  00824               % 06043 RGTR--
+*A lc 150102002 140401009 000006  00730  00824              % 06043 RGTR--
+*A fe 150102002 140401009 000006  00730  00824              % 06043 RGTR--
+*R 2 140401009 150102002 140401009  00730  00824            % 06043 RGTR--
+*G RGB 150102002 140401009  00730  00824                    % 06043 RGTR--
+*A VE 150102002 140401009 000006  00730  00824              % 06043 RGTR--
+*I FD 150102002 140401009        0002405  00730  00824      % 06043 RGTR--
+150102002 Elvange/Beckerich, S         00730                % 06043 RGTR--
+150103001 Hovelange, Bei Bitze  00730  00730                % 06043 RGTR--
+150103002 Hovelange, Halt       00732  00732                % 06043 RGTR--
+150101002 Beckerich, Fraiheets  00733  00733                % 06043 RGTR--
+150101001 Beckerich, Bei Schma  00734  00734                % 06043 RGTR--
+150101003 Beckerich, Kiirchepl  00735  00735                % 06043 RGTR--
+150104001 Huttange (Hitten)     00737  00737                % 06043 RGTR--
+150106004 Noerdange, Bei der P  00739  00739                % 06043 RGTR--
+150106001 Noerdange, Ale Pompj  00740  00740                % 06043 RGTR--
+150802001 Rippweiler, Beim Nös  00742  00742                % 06043 RGTR--
+150804001 Useldange, Beim Gärd  00745  00745                % 06043 RGTR--
+150804003 Useldange, Spuerkees  00746  00746                % 06043 RGTR--
+160201003 Boevange, Gare        00749  00749                % 06043 RGTR--
+160201002 Boevange/Attert, Mil  00750  00750                % 06043 RGTR--
+160101002 Bissen, Kräizung      00755  00755                % 06043 RGTR--
+160101003 Bissen, Geiwels       00756  00756                % 06043 RGTR--
+160101005 Bissen, Op der Mille  00757  00757                % 06043 RGTR--
+160301007 Colmar, Usines        00759  00759                % 06043 RGTR--
+160301002 Colmar, Centre        00801  00801                % 06043 RGTR--
+141301007 Schieren, Porte de S  00803  00803                % 06043 RGTR--
+141301004 Schieren, Neie Wee    00804  00804                % 06043 RGTR--
+141301006 Schieren, Vali's Pla  00805  00805                % 06043 RGTR--
+140701018 Ettelbruck, H.v.Land  00807  00807                % 06043 RGTR--
+140701026 Ettelbruck, Rond Poi  00809  00809                % 06043 RGTR--
+140701015 Ettelbruck, Ecole Pr  00810  00810                % 06043 RGTR--
+140701016 Ettelbruck, Gare      00811  00811                % 06043 RGTR--
+140602008 Erpeldange/Sûre, Um   00814  00814                % 06043 RGTR--
+140603002 Ingeldorf, Café de l  00816  00816                % 06043 RGTR--
+140401008 Diekirch, Lorentzwue  00817  00817                % 06043 RGTR--
+140401004 Diekirch, Gare        00819  00819                % 06043 RGTR--
+140401001 Diekirch, Altersheem  00820  00820                % 06043 RGTR--
+140401009 Diekirch, Neie Kolle  00824                       % 06043 RGTR--
+*Z 06044 RGTR--                                             % 06044 RGTR--
+*L 510      150102002 140401009  00700  00758               % 06044 RGTR--
+*A lc 150102002 140401009 000006  00700  00758              % 06044 RGTR--
+*A fe 150102002 140401009 000006  00700  00758              % 06044 RGTR--
+*R 2 140401009 150102002 140401009  00700  00758            % 06044 RGTR--
+*G RGB 150102002 140401009  00700  00758                    % 06044 RGTR--
+*A VE 150102002 140401009 000006  00700  00758              % 06044 RGTR--
+*I FD 150102002 140401009        0002152  00700  00758      % 06044 RGTR--
+150102002 Elvange/Beckerich, S         00700                % 06044 RGTR--
+150103001 Hovelange, Bei Bitze  00700  00700                % 06044 RGTR--
+150103002 Hovelange, Halt       00702  00702                % 06044 RGTR--
+150101002 Beckerich, Fraiheets  00703  00703                % 06044 RGTR--
+150101001 Beckerich, Bei Schma  00704  00704                % 06044 RGTR--
+150101003 Beckerich, Kiirchepl  00705  00705                % 06044 RGTR--
+150104001 Huttange (Hitten)     00707  00707                % 06044 RGTR--
+150106004 Noerdange, Bei der P  00709  00709                % 06044 RGTR--
+150106001 Noerdange, Ale Pompj  00710  00710                % 06044 RGTR--
+150802001 Rippweiler, Beim Nös  00712  00712                % 06044 RGTR--
+150804001 Useldange, Beim Gärd  00715  00715                % 06044 RGTR--
+150804003 Useldange, Spuerkees  00716  00716                % 06044 RGTR--
+160201003 Boevange, Gare        00719  00719                % 06044 RGTR--
+160201002 Boevange/Attert, Mil  00720  00720                % 06044 RGTR--
+160101002 Bissen, Kräizung      00725  00725                % 06044 RGTR--
+160101003 Bissen, Geiwels       00726  00726                % 06044 RGTR--
+160101005 Bissen, Op der Mille  00727  00727                % 06044 RGTR--
+160301007 Colmar, Usines        00729  00729                % 06044 RGTR--
+160301002 Colmar, Centre        00731  00731                % 06044 RGTR--
+141301007 Schieren, Porte de S  00733  00733                % 06044 RGTR--
+141301004 Schieren, Neie Wee    00734  00734                % 06044 RGTR--
+141301006 Schieren, Vali's Pla  00735  00735                % 06044 RGTR--
+140701018 Ettelbruck, H.v.Land  00737  00737                % 06044 RGTR--
+140701026 Ettelbruck, Rond Poi  00739  00739                % 06044 RGTR--
+140701015 Ettelbruck, Ecole Pr  00740  00740                % 06044 RGTR--
+140701016 Ettelbruck, Gare      00741  00745                % 06044 RGTR--
+140602008 Erpeldange/Sûre, Um   00748  00748                % 06044 RGTR--
+140603002 Ingeldorf, Café de l  00750  00750                % 06044 RGTR--
+140401008 Diekirch, Lorentzwue  00751  00751                % 06044 RGTR--
+140401004 Diekirch, Gare        00753  00753                % 06044 RGTR--
+140401001 Diekirch, Altersheem  00754  00754                % 06044 RGTR--
+140401009 Diekirch, Neie Kolle  00758                       % 06044 RGTR--
+*Z 06045 RGTR--                                             % 06045 RGTR--
+*L 510      150102002 140401009  00800  00858               % 06045 RGTR--
+*A lc 150102002 140401009 000006  00800  00858              % 06045 RGTR--
+*A fe 150102002 140401009 000006  00800  00858              % 06045 RGTR--
+*R 2 140401009 150102002 140401009  00800  00858            % 06045 RGTR--
+*G RGB 150102002 140401009  00800  00858                    % 06045 RGTR--
+*A VE 150102002 140401009 000006  00800  00858              % 06045 RGTR--
+*I FD 150102002 140401009        0001953  00800  00858      % 06045 RGTR--
+150102002 Elvange/Beckerich, S         00800                % 06045 RGTR--
+150103001 Hovelange, Bei Bitze  00800  00800                % 06045 RGTR--
+150103002 Hovelange, Halt       00802  00802                % 06045 RGTR--
+150101002 Beckerich, Fraiheets  00803  00803                % 06045 RGTR--
+150101001 Beckerich, Bei Schma  00804  00804                % 06045 RGTR--
+150101003 Beckerich, Kiirchepl  00805  00805                % 06045 RGTR--
+150104001 Huttange (Hitten)     00807  00807                % 06045 RGTR--
+150106004 Noerdange, Bei der P  00809  00809                % 06045 RGTR--
+150106001 Noerdange, Ale Pompj  00810  00810                % 06045 RGTR--
+150802001 Rippweiler, Beim Nös  00812  00812                % 06045 RGTR--
+150804001 Useldange, Beim Gärd  00815  00815                % 06045 RGTR--
+150804003 Useldange, Spuerkees  00816  00816                % 06045 RGTR--
+160201003 Boevange, Gare        00819  00819                % 06045 RGTR--
+160201002 Boevange/Attert, Mil  00820  00820                % 06045 RGTR--
+160101002 Bissen, Kräizung      00825  00825                % 06045 RGTR--
+160101003 Bissen, Geiwels       00826  00826                % 06045 RGTR--
+160101005 Bissen, Op der Mille  00827  00827                % 06045 RGTR--
+160301007 Colmar, Usines        00829  00829                % 06045 RGTR--
+160301002 Colmar, Centre        00831  00831                % 06045 RGTR--
+141301007 Schieren, Porte de S  00833  00833                % 06045 RGTR--
+141301004 Schieren, Neie Wee    00834  00834                % 06045 RGTR--
+141301006 Schieren, Vali's Pla  00835  00835                % 06045 RGTR--
+140701018 Ettelbruck, H.v.Land  00837  00837                % 06045 RGTR--
+140701026 Ettelbruck, Rond Poi  00839  00839                % 06045 RGTR--
+140701015 Ettelbruck, Ecole Pr  00840  00840                % 06045 RGTR--
+140701016 Ettelbruck, Gare      00841  00845                % 06045 RGTR--
+140602008 Erpeldange/Sûre, Um   00848  00848                % 06045 RGTR--
+140603002 Ingeldorf, Café de l  00850  00850                % 06045 RGTR--
+140401008 Diekirch, Lorentzwue  00851  00851                % 06045 RGTR--
+140401004 Diekirch, Gare        00853  00853                % 06045 RGTR--
+140401001 Diekirch, Altersheem  00854  00854                % 06045 RGTR--
+140401009 Diekirch, Neie Kolle  00858                       % 06045 RGTR--
+*Z 06046 RGTR--                                             % 06046 RGTR--
+*L 510      150102002 140401009  01600  01658               % 06046 RGTR--
+*A lc 150102002 140401009 000006  01600  01658              % 06046 RGTR--
+*A fe 150102002 140401009 000006  01600  01658              % 06046 RGTR--
+*R 2 140401009 150102002 140401009  01600  01658            % 06046 RGTR--
+*G RGB 150102002 140401009  01600  01658                    % 06046 RGTR--
+*A VE 150102002 140401009 000006  01600  01658              % 06046 RGTR--
+*I FD 150102002 140401009        0001975  01600  01658      % 06046 RGTR--
+150102002 Elvange/Beckerich, S         01600                % 06046 RGTR--
+150103001 Hovelange, Bei Bitze  01600  01600                % 06046 RGTR--
+150103002 Hovelange, Halt       01602  01602                % 06046 RGTR--
+150101002 Beckerich, Fraiheets  01603  01603                % 06046 RGTR--
+150101001 Beckerich, Bei Schma  01604  01604                % 06046 RGTR--
+150101003 Beckerich, Kiirchepl  01605  01605                % 06046 RGTR--
+150104001 Huttange (Hitten)     01607  01607                % 06046 RGTR--
+150106004 Noerdange, Bei der P  01609  01609                % 06046 RGTR--
+150106001 Noerdange, Ale Pompj  01610  01610                % 06046 RGTR--
+150802001 Rippweiler, Beim Nös  01612  01612                % 06046 RGTR--
+150804001 Useldange, Beim Gärd  01615  01615                % 06046 RGTR--
+150804003 Useldange, Spuerkees  01616  01616                % 06046 RGTR--
+160201003 Boevange, Gare        01619  01619                % 06046 RGTR--
+160201002 Boevange/Attert, Mil  01620  01620                % 06046 RGTR--
+160101002 Bissen, Kräizung      01625  01625                % 06046 RGTR--
+160101003 Bissen, Geiwels       01626  01626                % 06046 RGTR--
+160101005 Bissen, Op der Mille  01627  01627                % 06046 RGTR--
+160301007 Colmar, Usines        01629  01629                % 06046 RGTR--
+160301002 Colmar, Centre        01631  01631                % 06046 RGTR--
+141301007 Schieren, Porte de S  01633  01633                % 06046 RGTR--
+141301004 Schieren, Neie Wee    01634  01634                % 06046 RGTR--
+141301006 Schieren, Vali's Pla  01635  01635                % 06046 RGTR--
+140701018 Ettelbruck, H.v.Land  01637  01637                % 06046 RGTR--
+140701026 Ettelbruck, Rond Poi  01639  01639                % 06046 RGTR--
+140701015 Ettelbruck, Ecole Pr  01640  01640                % 06046 RGTR--
+140701016 Ettelbruck, Gare      01641  01645                % 06046 RGTR--
+140602008 Erpeldange/Sûre, Um   01648  01648                % 06046 RGTR--
+140603002 Ingeldorf, Café de l  01650  01650                % 06046 RGTR--
+140401008 Diekirch, Lorentzwue  01651  01651                % 06046 RGTR--
+140401004 Diekirch, Gare        01653  01653                % 06046 RGTR--
+140401001 Diekirch, Altersheem  01654  01654                % 06046 RGTR--
+140401009 Diekirch, Neie Kolle  01658                       % 06046 RGTR--
+*Z 06047 RGTR--                                             % 06047 RGTR--
+*L 510      150102002 140401009  01000  01054               % 06047 RGTR--
+*A lc 150102002 140401009 000006  01000  01054              % 06047 RGTR--
+*A fe 150102002 140401009 000006  01000  01054              % 06047 RGTR--
+*R 2 140401009 150102002 140401009  01000  01054            % 06047 RGTR--
+*G RGB 150102002 140401009  01000  01054                    % 06047 RGTR--
+*A VE 150102002 140401009 000006  01000  01054              % 06047 RGTR--
+*I FD 150102002 140401009        0001958  01000  01054      % 06047 RGTR--
+150102002 Elvange/Beckerich, S         01000                % 06047 RGTR--
+150103001 Hovelange, Bei Bitze  01000  01000                % 06047 RGTR--
+150103002 Hovelange, Halt       01002  01002                % 06047 RGTR--
+150101002 Beckerich, Fraiheets  01003  01003                % 06047 RGTR--
+150101001 Beckerich, Bei Schma  01004  01004                % 06047 RGTR--
+150101003 Beckerich, Kiirchepl  01005  01005                % 06047 RGTR--
+150104001 Huttange (Hitten)     01006  01006                % 06047 RGTR--
+150106004 Noerdange, Bei der P  01009  01009                % 06047 RGTR--
+150106001 Noerdange, Ale Pompj  01009  01009                % 06047 RGTR--
+150802001 Rippweiler, Beim Nös  01012  01012                % 06047 RGTR--
+150804001 Useldange, Beim Gärd  01014  01014                % 06047 RGTR--
+150804003 Useldange, Spuerkees  01016  01016                % 06047 RGTR--
+160201003 Boevange, Gare        01018  01018                % 06047 RGTR--
+160201002 Boevange/Attert, Mil  01019  01019                % 06047 RGTR--
+160101002 Bissen, Kräizung      01024  01024                % 06047 RGTR--
+160101003 Bissen, Geiwels       01025  01025                % 06047 RGTR--
+160101005 Bissen, Op der Mille  01026  01026                % 06047 RGTR--
+160301007 Colmar, Usines        01028  01028                % 06047 RGTR--
+160301002 Colmar, Centre        01030  01030                % 06047 RGTR--
+141301007 Schieren, Porte de S  01032  01032                % 06047 RGTR--
+141301004 Schieren, Neie Wee    01032  01032                % 06047 RGTR--
+141301006 Schieren, Vali's Pla  01033  01033                % 06047 RGTR--
+140701018 Ettelbruck, H.v.Land  01035  01035                % 06047 RGTR--
+140701026 Ettelbruck, Rond Poi  01036  01036                % 06047 RGTR--
+140701015 Ettelbruck, Ecole Pr  01037  01037                % 06047 RGTR--
+140701016 Ettelbruck, Gare      01038  01042                % 06047 RGTR--
+140602008 Erpeldange/Sûre, Um   01044  01044                % 06047 RGTR--
+140603002 Ingeldorf, Café de l  01046  01046                % 06047 RGTR--
+140401008 Diekirch, Lorentzwue  01048  01048                % 06047 RGTR--
+140401004 Diekirch, Gare        01049  01049                % 06047 RGTR--
+140401001 Diekirch, Altersheem  01051  01051                % 06047 RGTR--
+140401009 Diekirch, Neie Kolle  01054                       % 06047 RGTR--
+*Z 06048 RGTR--                                             % 06048 RGTR--
+*L 510      150102002 140401009  01100  01154               % 06048 RGTR--
+*A lc 150102002 140401009 000006  01100  01154              % 06048 RGTR--
+*A fe 150102002 140401009 000006  01100  01154              % 06048 RGTR--
+*R 2 140401009 150102002 140401009  01100  01154            % 06048 RGTR--
+*G RGB 150102002 140401009  01100  01154                    % 06048 RGTR--
+*A VE 150102002 140401009 000006  01100  01154              % 06048 RGTR--
+*I FD 150102002 140401009        0001961  01100  01154      % 06048 RGTR--
+150102002 Elvange/Beckerich, S         01100                % 06048 RGTR--
+150103001 Hovelange, Bei Bitze  01100  01100                % 06048 RGTR--
+150103002 Hovelange, Halt       01102  01102                % 06048 RGTR--
+150101002 Beckerich, Fraiheets  01103  01103                % 06048 RGTR--
+150101001 Beckerich, Bei Schma  01104  01104                % 06048 RGTR--
+150101003 Beckerich, Kiirchepl  01105  01105                % 06048 RGTR--
+150104001 Huttange (Hitten)     01106  01106                % 06048 RGTR--
+150106004 Noerdange, Bei der P  01109  01109                % 06048 RGTR--
+150106001 Noerdange, Ale Pompj  01109  01109                % 06048 RGTR--
+150802001 Rippweiler, Beim Nös  01112  01112                % 06048 RGTR--
+150804001 Useldange, Beim Gärd  01114  01114                % 06048 RGTR--
+150804003 Useldange, Spuerkees  01116  01116                % 06048 RGTR--
+160201003 Boevange, Gare        01118  01118                % 06048 RGTR--
+160201002 Boevange/Attert, Mil  01119  01119                % 06048 RGTR--
+160101002 Bissen, Kräizung      01124  01124                % 06048 RGTR--
+160101003 Bissen, Geiwels       01125  01125                % 06048 RGTR--
+160101005 Bissen, Op der Mille  01126  01126                % 06048 RGTR--
+160301007 Colmar, Usines        01128  01128                % 06048 RGTR--
+160301002 Colmar, Centre        01130  01130                % 06048 RGTR--
+141301007 Schieren, Porte de S  01132  01132                % 06048 RGTR--
+141301004 Schieren, Neie Wee    01132  01132                % 06048 RGTR--
+141301006 Schieren, Vali's Pla  01133  01133                % 06048 RGTR--
+140701018 Ettelbruck, H.v.Land  01135  01135                % 06048 RGTR--
+140701026 Ettelbruck, Rond Poi  01136  01136                % 06048 RGTR--
+140701015 Ettelbruck, Ecole Pr  01137  01137                % 06048 RGTR--
+140701016 Ettelbruck, Gare      01138  01142                % 06048 RGTR--
+140602008 Erpeldange/Sûre, Um   01144  01144                % 06048 RGTR--
+140603002 Ingeldorf, Café de l  01146  01146                % 06048 RGTR--
+140401008 Diekirch, Lorentzwue  01148  01148                % 06048 RGTR--
+140401004 Diekirch, Gare        01149  01149                % 06048 RGTR--
+140401001 Diekirch, Altersheem  01151  01151                % 06048 RGTR--
+140401009 Diekirch, Neie Kolle  01154                       % 06048 RGTR--
+*Z 06049 RGTR--                                             % 06049 RGTR--
+*L 510      150102002 140401009  01400  01454               % 06049 RGTR--
+*A lc 150102002 140401009 000006  01400  01454              % 06049 RGTR--
+*A fe 150102002 140401009 000006  01400  01454              % 06049 RGTR--
+*R 2 140401009 150102002 140401009  01400  01454            % 06049 RGTR--
+*G RGB 150102002 140401009  01400  01454                    % 06049 RGTR--
+*A VE 150102002 140401009 000006  01400  01454              % 06049 RGTR--
+*I FD 150102002 140401009        0001969  01400  01454      % 06049 RGTR--
+150102002 Elvange/Beckerich, S         01400                % 06049 RGTR--
+150103001 Hovelange, Bei Bitze  01400  01400                % 06049 RGTR--
+150103002 Hovelange, Halt       01402  01402                % 06049 RGTR--
+150101002 Beckerich, Fraiheets  01403  01403                % 06049 RGTR--
+150101001 Beckerich, Bei Schma  01404  01404                % 06049 RGTR--
+150101003 Beckerich, Kiirchepl  01405  01405                % 06049 RGTR--
+150104001 Huttange (Hitten)     01406  01406                % 06049 RGTR--
+150106004 Noerdange, Bei der P  01409  01409                % 06049 RGTR--
+150106001 Noerdange, Ale Pompj  01409  01409                % 06049 RGTR--
+150802001 Rippweiler, Beim Nös  01412  01412                % 06049 RGTR--
+150804001 Useldange, Beim Gärd  01414  01414                % 06049 RGTR--
+150804003 Useldange, Spuerkees  01416  01416                % 06049 RGTR--
+160201003 Boevange, Gare        01418  01418                % 06049 RGTR--
+160201002 Boevange/Attert, Mil  01419  01419                % 06049 RGTR--
+160101002 Bissen, Kräizung      01424  01424                % 06049 RGTR--
+160101003 Bissen, Geiwels       01425  01425                % 06049 RGTR--
+160101005 Bissen, Op der Mille  01426  01426                % 06049 RGTR--
+160301007 Colmar, Usines        01428  01428                % 06049 RGTR--
+160301002 Colmar, Centre        01430  01430                % 06049 RGTR--
+141301007 Schieren, Porte de S  01432  01432                % 06049 RGTR--
+141301004 Schieren, Neie Wee    01432  01432                % 06049 RGTR--
+141301006 Schieren, Vali's Pla  01433  01433                % 06049 RGTR--
+140701018 Ettelbruck, H.v.Land  01435  01435                % 06049 RGTR--
+140701026 Ettelbruck, Rond Poi  01436  01436                % 06049 RGTR--
+140701015 Ettelbruck, Ecole Pr  01437  01437                % 06049 RGTR--
+140701016 Ettelbruck, Gare      01438  01442                % 06049 RGTR--
+140602008 Erpeldange/Sûre, Um   01444  01444                % 06049 RGTR--
+140603002 Ingeldorf, Café de l  01446  01446                % 06049 RGTR--
+140401008 Diekirch, Lorentzwue  01448  01448                % 06049 RGTR--
+140401004 Diekirch, Gare        01449  01449                % 06049 RGTR--
+140401001 Diekirch, Altersheem  01451  01451                % 06049 RGTR--
+140401009 Diekirch, Neie Kolle  01454                       % 06049 RGTR--
+*Z 06050 RGTR--                                             % 06050 RGTR--
+*L 510      150102002 140401009  01500  01554               % 06050 RGTR--
+*A lc 150102002 140401009 000006  01500  01554              % 06050 RGTR--
+*A fe 150102002 140401009 000006  01500  01554              % 06050 RGTR--
+*R 2 140401009 150102002 140401009  01500  01554            % 06050 RGTR--
+*G RGB 150102002 140401009  01500  01554                    % 06050 RGTR--
+*A VE 150102002 140401009 000006  01500  01554              % 06050 RGTR--
+*I FD 150102002 140401009        0001972  01500  01554      % 06050 RGTR--
+150102002 Elvange/Beckerich, S         01500                % 06050 RGTR--
+150103001 Hovelange, Bei Bitze  01500  01500                % 06050 RGTR--
+150103002 Hovelange, Halt       01502  01502                % 06050 RGTR--
+150101002 Beckerich, Fraiheets  01503  01503                % 06050 RGTR--
+150101001 Beckerich, Bei Schma  01504  01504                % 06050 RGTR--
+150101003 Beckerich, Kiirchepl  01505  01505                % 06050 RGTR--
+150104001 Huttange (Hitten)     01506  01506                % 06050 RGTR--
+150106004 Noerdange, Bei der P  01509  01509                % 06050 RGTR--
+150106001 Noerdange, Ale Pompj  01509  01509                % 06050 RGTR--
+150802001 Rippweiler, Beim Nös  01512  01512                % 06050 RGTR--
+150804001 Useldange, Beim Gärd  01514  01514                % 06050 RGTR--
+150804003 Useldange, Spuerkees  01516  01516                % 06050 RGTR--
+160201003 Boevange, Gare        01518  01518                % 06050 RGTR--
+160201002 Boevange/Attert, Mil  01519  01519                % 06050 RGTR--
+160101002 Bissen, Kräizung      01524  01524                % 06050 RGTR--
+160101003 Bissen, Geiwels       01525  01525                % 06050 RGTR--
+160101005 Bissen, Op der Mille  01526  01526                % 06050 RGTR--
+160301007 Colmar, Usines        01528  01528                % 06050 RGTR--
+160301002 Colmar, Centre        01530  01530                % 06050 RGTR--
+141301007 Schieren, Porte de S  01532  01532                % 06050 RGTR--
+141301004 Schieren, Neie Wee    01532  01532                % 06050 RGTR--
+141301006 Schieren, Vali's Pla  01533  01533                % 06050 RGTR--
+140701018 Ettelbruck, H.v.Land  01535  01535                % 06050 RGTR--
+140701026 Ettelbruck, Rond Poi  01536  01536                % 06050 RGTR--
+140701015 Ettelbruck, Ecole Pr  01537  01537                % 06050 RGTR--
+140701016 Ettelbruck, Gare      01538  01542                % 06050 RGTR--
+140602008 Erpeldange/Sûre, Um   01544  01544                % 06050 RGTR--
+140603002 Ingeldorf, Café de l  01546  01546                % 06050 RGTR--
+140401008 Diekirch, Lorentzwue  01548  01548                % 06050 RGTR--
+140401004 Diekirch, Gare        01549  01549                % 06050 RGTR--
+140401001 Diekirch, Altersheem  01551  01551                % 06050 RGTR--
+140401009 Diekirch, Neie Kolle  01554                       % 06050 RGTR--

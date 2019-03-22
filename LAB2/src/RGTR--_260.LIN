@@ -1,0 +1,1681 @@
+*F 03 2
+*Z 04263 RGTR--                                             % 04263 RGTR--
+*L 260      200405004 190603001  00710  00756               % 04263 RGTR--
+*A hr 200405004 190603001 000006  00710  00756              % 04263 RGTR--
+*A id 200405004 190603001 000006  00710  00756              % 04263 RGTR--
+*R 1 190603001 200405004 190603001  00710  00756            % 04263 RGTR--
+*G RGB 200405004 190603001  00710  00756                    % 04263 RGTR--
+*A VE 200405004 190603001 000006  00710  00756              % 04263 RGTR--
+*I FD 200405004 190603001        0002143  00710  00756      % 04263 RGTR--
+200405004 Centre, Monterey Par         00710                % 04263 RGTR--
+200405045 Centre, Stäreplaz /  -00712  00712                % 04263 RGTR--
+200403021 Belair, Wandmillen   -00715  00715                % 04263 RGTR--
+200901020 Strassen, Benelux    -00720  00720                % 04263 RGTR--
+200901017 Strassen, Kesseler   -00722  00722                % 04263 RGTR--
+200901011 Strassen, Schoenacht -00723  00723                % 04263 RGTR--
+200101002 Bertrange, Belle Eto  00725  00725                % 04263 RGTR--
+190903013 Mamer, Tossebierg     00727  00727                % 04263 RGTR--
+190903007 Mamer, Gaaschtbierg   00728  00728                % 04263 RGTR--
+190903001 Mamer, Arelerstrooss  00729  00729                % 04263 RGTR--
+190903002 Mamer, Baerendall     00730  00730                % 04263 RGTR--
+190903012 Mamer, Mambra         00730  00730                % 04263 RGTR--
+190903005 Mamer, Eglantiers     00731  00731                % 04263 RGTR--
+190903016 Mamer, Scoutshome     00732  00732                % 04263 RGTR--
+190901002 Capellen, Hireknapp  -00733  00733                % 04263 RGTR--
+190901004 Capellen, Police     -00734  00734                % 04263 RGTR--
+190901003 Capellen, Klouschter -00735  00735                % 04263 RGTR--
+190606002 Olm, Kräizwee         00737  00737                % 04263 RGTR--
+190606003 Olm, Kréimerech       00738  00738                % 04263 RGTR--
+190605001 Nospelt, Beim Gliese  00741  00741                % 04263 RGTR--
+190605003 Nospelt, Pompjeesbau  00742  00742                % 04263 RGTR--
+190605002 Nospelt, Kräizhiel    00742  00742                % 04263 RGTR--
+190602006 Kehlen, Zone Industr  00744  00744                % 04263 RGTR--
+190602010 Kehlen, Zone Industr  00744  00744                % 04263 RGTR--
+190602009 Kehlen, Zone Industr  00745  00745                % 04263 RGTR--
+190602002 Kehlen, Enneschte Bu  00747  00747                % 04263 RGTR--
+190602001 Kehlen, Bei Fiewer    00748  00748                % 04263 RGTR--
+190602004 Kehlen, Schaarfeneck  00750  00750                % 04263 RGTR--
+190602011 KEHLEN, Katterwang    00751  00751                % 04263 RGTR--
+190604002 Meispelt, Kräizwee    00753  00753                % 04263 RGTR--
+190604001 Meispelt, Bei Mëlles  00753  00753                % 04263 RGTR--
+190604003 Meispelt, Kuesselt    00754  00754                % 04263 RGTR--
+190603002 Keispelt, Spellen Ec  00755  00755                % 04263 RGTR--
+190603001 Keispelt, Bei Péicke  00756                       % 04263 RGTR--
+*Z 04264 RGTR--                                             % 04264 RGTR--
+*L 260      200405004 190603001  00810  00856               % 04264 RGTR--
+*A hr 200405004 190603001 000006  00810  00856              % 04264 RGTR--
+*A id 200405004 190603001 000006  00810  00856              % 04264 RGTR--
+*R 1 190603001 200405004 190603001  00810  00856            % 04264 RGTR--
+*G RGB 200405004 190603001  00810  00856                    % 04264 RGTR--
+*A VE 200405004 190603001 000006  00810  00856              % 04264 RGTR--
+*I FD 200405004 190603001        0001874  00810  00856      % 04264 RGTR--
+200405004 Centre, Monterey Par         00810                % 04264 RGTR--
+200405045 Centre, Stäreplaz /  -00812  00812                % 04264 RGTR--
+200403021 Belair, Wandmillen   -00815  00815                % 04264 RGTR--
+200901020 Strassen, Benelux    -00820  00820                % 04264 RGTR--
+200901017 Strassen, Kesseler   -00822  00822                % 04264 RGTR--
+200901011 Strassen, Schoenacht -00823  00823                % 04264 RGTR--
+200101002 Bertrange, Belle Eto  00825  00825                % 04264 RGTR--
+190903013 Mamer, Tossebierg     00827  00827                % 04264 RGTR--
+190903007 Mamer, Gaaschtbierg   00828  00828                % 04264 RGTR--
+190903001 Mamer, Arelerstrooss  00829  00829                % 04264 RGTR--
+190903002 Mamer, Baerendall     00830  00830                % 04264 RGTR--
+190903012 Mamer, Mambra         00830  00830                % 04264 RGTR--
+190903005 Mamer, Eglantiers     00831  00831                % 04264 RGTR--
+190903016 Mamer, Scoutshome     00832  00832                % 04264 RGTR--
+190901002 Capellen, Hireknapp  -00833  00833                % 04264 RGTR--
+190901004 Capellen, Police     -00834  00834                % 04264 RGTR--
+190901003 Capellen, Klouschter -00835  00835                % 04264 RGTR--
+190606002 Olm, Kräizwee         00837  00837                % 04264 RGTR--
+190606003 Olm, Kréimerech       00838  00838                % 04264 RGTR--
+190605001 Nospelt, Beim Gliese  00841  00841                % 04264 RGTR--
+190605003 Nospelt, Pompjeesbau  00842  00842                % 04264 RGTR--
+190605002 Nospelt, Kräizhiel    00842  00842                % 04264 RGTR--
+190602006 Kehlen, Zone Industr  00844  00844                % 04264 RGTR--
+190602010 Kehlen, Zone Industr  00844  00844                % 04264 RGTR--
+190602009 Kehlen, Zone Industr  00845  00845                % 04264 RGTR--
+190602002 Kehlen, Enneschte Bu  00847  00847                % 04264 RGTR--
+190602001 Kehlen, Bei Fiewer    00848  00848                % 04264 RGTR--
+190602004 Kehlen, Schaarfeneck  00850  00850                % 04264 RGTR--
+190602011 KEHLEN, Katterwang    00851  00851                % 04264 RGTR--
+190604002 Meispelt, Kräizwee    00853  00853                % 04264 RGTR--
+190604001 Meispelt, Bei Mëlles  00853  00853                % 04264 RGTR--
+190604003 Meispelt, Kuesselt    00854  00854                % 04264 RGTR--
+190603002 Keispelt, Spellen Ec  00855  00855                % 04264 RGTR--
+190603001 Keispelt, Bei Péicke  00856                       % 04264 RGTR--
+*Z 04265 RGTR--                                             % 04265 RGTR--
+*L 260      200405004 190603001  00910  00956               % 04265 RGTR--
+*A hr 200405004 190603001 000006  00910  00956              % 04265 RGTR--
+*A id 200405004 190603001 000006  00910  00956              % 04265 RGTR--
+*R 1 190603001 200405004 190603001  00910  00956            % 04265 RGTR--
+*G RGB 200405004 190603001  00910  00956                    % 04265 RGTR--
+*A VE 200405004 190603001 000006  00910  00956              % 04265 RGTR--
+*I FD 200405004 190603001        0001876  00910  00956      % 04265 RGTR--
+200405004 Centre, Monterey Par         00910                % 04265 RGTR--
+200405045 Centre, Stäreplaz /  -00912  00912                % 04265 RGTR--
+200403021 Belair, Wandmillen   -00915  00915                % 04265 RGTR--
+200901020 Strassen, Benelux    -00920  00920                % 04265 RGTR--
+200901017 Strassen, Kesseler   -00922  00922                % 04265 RGTR--
+200901011 Strassen, Schoenacht -00923  00923                % 04265 RGTR--
+200101002 Bertrange, Belle Eto  00925  00925                % 04265 RGTR--
+190903013 Mamer, Tossebierg     00927  00927                % 04265 RGTR--
+190903007 Mamer, Gaaschtbierg   00928  00928                % 04265 RGTR--
+190903001 Mamer, Arelerstrooss  00929  00929                % 04265 RGTR--
+190903002 Mamer, Baerendall     00930  00930                % 04265 RGTR--
+190903012 Mamer, Mambra         00930  00930                % 04265 RGTR--
+190903005 Mamer, Eglantiers     00931  00931                % 04265 RGTR--
+190903016 Mamer, Scoutshome     00932  00932                % 04265 RGTR--
+190901002 Capellen, Hireknapp  -00933  00933                % 04265 RGTR--
+190901004 Capellen, Police     -00934  00934                % 04265 RGTR--
+190901003 Capellen, Klouschter -00935  00935                % 04265 RGTR--
+190606002 Olm, Kräizwee         00937  00937                % 04265 RGTR--
+190606003 Olm, Kréimerech       00938  00938                % 04265 RGTR--
+190605001 Nospelt, Beim Gliese  00941  00941                % 04265 RGTR--
+190605003 Nospelt, Pompjeesbau  00942  00942                % 04265 RGTR--
+190605002 Nospelt, Kräizhiel    00942  00942                % 04265 RGTR--
+190602006 Kehlen, Zone Industr  00944  00944                % 04265 RGTR--
+190602010 Kehlen, Zone Industr  00944  00944                % 04265 RGTR--
+190602009 Kehlen, Zone Industr  00945  00945                % 04265 RGTR--
+190602002 Kehlen, Enneschte Bu  00947  00947                % 04265 RGTR--
+190602001 Kehlen, Bei Fiewer    00948  00948                % 04265 RGTR--
+190602004 Kehlen, Schaarfeneck  00950  00950                % 04265 RGTR--
+190602011 KEHLEN, Katterwang    00951  00951                % 04265 RGTR--
+190604002 Meispelt, Kräizwee    00953  00953                % 04265 RGTR--
+190604001 Meispelt, Bei Mëlles  00953  00953                % 04265 RGTR--
+190604003 Meispelt, Kuesselt    00954  00954                % 04265 RGTR--
+190603002 Keispelt, Spellen Ec  00955  00955                % 04265 RGTR--
+190603001 Keispelt, Bei Péicke  00956                       % 04265 RGTR--
+*Z 04266 RGTR--                                             % 04266 RGTR--
+*L 260      200405004 190603001  01610  01656               % 04266 RGTR--
+*A hr 200405004 190603001 000006  01610  01656              % 04266 RGTR--
+*A id 200405004 190603001 000006  01610  01656              % 04266 RGTR--
+*R 1 190603001 200405004 190603001  01610  01656            % 04266 RGTR--
+*G RGB 200405004 190603001  01610  01656                    % 04266 RGTR--
+*A VE 200405004 190603001 000006  01610  01656              % 04266 RGTR--
+*I FD 200405004 190603001        0001895  01610  01656      % 04266 RGTR--
+200405004 Centre, Monterey Par         01610                % 04266 RGTR--
+200405045 Centre, Stäreplaz /  -01612  01612                % 04266 RGTR--
+200403021 Belair, Wandmillen   -01615  01615                % 04266 RGTR--
+200901020 Strassen, Benelux    -01620  01620                % 04266 RGTR--
+200901017 Strassen, Kesseler   -01622  01622                % 04266 RGTR--
+200901011 Strassen, Schoenacht -01623  01623                % 04266 RGTR--
+200101002 Bertrange, Belle Eto  01625  01625                % 04266 RGTR--
+190903013 Mamer, Tossebierg     01627  01627                % 04266 RGTR--
+190903007 Mamer, Gaaschtbierg   01628  01628                % 04266 RGTR--
+190903001 Mamer, Arelerstrooss  01629  01629                % 04266 RGTR--
+190903002 Mamer, Baerendall     01630  01630                % 04266 RGTR--
+190903012 Mamer, Mambra         01630  01630                % 04266 RGTR--
+190903005 Mamer, Eglantiers     01631  01631                % 04266 RGTR--
+190903016 Mamer, Scoutshome     01632  01632                % 04266 RGTR--
+190901002 Capellen, Hireknapp  -01633  01633                % 04266 RGTR--
+190901004 Capellen, Police     -01634  01634                % 04266 RGTR--
+190901003 Capellen, Klouschter -01635  01635                % 04266 RGTR--
+190606002 Olm, Kräizwee         01637  01637                % 04266 RGTR--
+190606003 Olm, Kréimerech       01638  01638                % 04266 RGTR--
+190605001 Nospelt, Beim Gliese  01641  01641                % 04266 RGTR--
+190605003 Nospelt, Pompjeesbau  01642  01642                % 04266 RGTR--
+190605002 Nospelt, Kräizhiel    01642  01642                % 04266 RGTR--
+190602006 Kehlen, Zone Industr  01644  01644                % 04266 RGTR--
+190602010 Kehlen, Zone Industr  01644  01644                % 04266 RGTR--
+190602009 Kehlen, Zone Industr  01645  01645                % 04266 RGTR--
+190602002 Kehlen, Enneschte Bu  01647  01647                % 04266 RGTR--
+190602001 Kehlen, Bei Fiewer    01648  01648                % 04266 RGTR--
+190602004 Kehlen, Schaarfeneck  01650  01650                % 04266 RGTR--
+190602011 KEHLEN, Katterwang    01651  01651                % 04266 RGTR--
+190604002 Meispelt, Kräizwee    01653  01653                % 04266 RGTR--
+190604001 Meispelt, Bei Mëlles  01653  01653                % 04266 RGTR--
+190604003 Meispelt, Kuesselt    01654  01654                % 04266 RGTR--
+190603002 Keispelt, Spellen Ec  01655  01655                % 04266 RGTR--
+190603001 Keispelt, Bei Péicke  01656                       % 04266 RGTR--
+*Z 04267 RGTR--                                             % 04267 RGTR--
+*L 260      200405004 190603001  01710  01756               % 04267 RGTR--
+*A hr 200405004 190603001 000006  01710  01756              % 04267 RGTR--
+*A id 200405004 190603001 000006  01710  01756              % 04267 RGTR--
+*R 1 190603001 200405004 190603001  01710  01756            % 04267 RGTR--
+*G RGB 200405004 190603001  01710  01756                    % 04267 RGTR--
+*A VE 200405004 190603001 000006  01710  01756              % 04267 RGTR--
+*I FD 200405004 190603001        0001897  01710  01756      % 04267 RGTR--
+200405004 Centre, Monterey Par         01710                % 04267 RGTR--
+200405045 Centre, Stäreplaz /  -01712  01712                % 04267 RGTR--
+200403021 Belair, Wandmillen   -01715  01715                % 04267 RGTR--
+200901020 Strassen, Benelux    -01720  01720                % 04267 RGTR--
+200901017 Strassen, Kesseler   -01722  01722                % 04267 RGTR--
+200901011 Strassen, Schoenacht -01723  01723                % 04267 RGTR--
+200101002 Bertrange, Belle Eto  01725  01725                % 04267 RGTR--
+190903013 Mamer, Tossebierg     01727  01727                % 04267 RGTR--
+190903007 Mamer, Gaaschtbierg   01728  01728                % 04267 RGTR--
+190903001 Mamer, Arelerstrooss  01729  01729                % 04267 RGTR--
+190903002 Mamer, Baerendall     01730  01730                % 04267 RGTR--
+190903012 Mamer, Mambra         01730  01730                % 04267 RGTR--
+190903005 Mamer, Eglantiers     01731  01731                % 04267 RGTR--
+190903016 Mamer, Scoutshome     01732  01732                % 04267 RGTR--
+190901002 Capellen, Hireknapp  -01733  01733                % 04267 RGTR--
+190901004 Capellen, Police     -01734  01734                % 04267 RGTR--
+190901003 Capellen, Klouschter -01735  01735                % 04267 RGTR--
+190606002 Olm, Kräizwee         01737  01737                % 04267 RGTR--
+190606003 Olm, Kréimerech       01738  01738                % 04267 RGTR--
+190605001 Nospelt, Beim Gliese  01741  01741                % 04267 RGTR--
+190605003 Nospelt, Pompjeesbau  01742  01742                % 04267 RGTR--
+190605002 Nospelt, Kräizhiel    01742  01742                % 04267 RGTR--
+190602006 Kehlen, Zone Industr  01744  01744                % 04267 RGTR--
+190602010 Kehlen, Zone Industr  01744  01744                % 04267 RGTR--
+190602009 Kehlen, Zone Industr  01745  01745                % 04267 RGTR--
+190602002 Kehlen, Enneschte Bu  01747  01747                % 04267 RGTR--
+190602001 Kehlen, Bei Fiewer    01748  01748                % 04267 RGTR--
+190602004 Kehlen, Schaarfeneck  01750  01750                % 04267 RGTR--
+190602011 KEHLEN, Katterwang    01751  01751                % 04267 RGTR--
+190604002 Meispelt, Kräizwee    01753  01753                % 04267 RGTR--
+190604001 Meispelt, Bei Mëlles  01753  01753                % 04267 RGTR--
+190604003 Meispelt, Kuesselt    01754  01754                % 04267 RGTR--
+190603002 Keispelt, Spellen Ec  01755  01755                % 04267 RGTR--
+190603001 Keispelt, Bei Péicke  01756                       % 04267 RGTR--
+*Z 04268 RGTR--                                             % 04268 RGTR--
+*L 260      200405004 190603001  01810  01856               % 04268 RGTR--
+*A hr 200405004 190603001 000006  01810  01856              % 04268 RGTR--
+*A id 200405004 190603001 000006  01810  01856              % 04268 RGTR--
+*R 1 190603001 200405004 190603001  01810  01856            % 04268 RGTR--
+*G RGB 200405004 190603001  01810  01856                    % 04268 RGTR--
+*A VE 200405004 190603001 000006  01810  01856              % 04268 RGTR--
+*I FD 200405004 190603001        0001900  01810  01856      % 04268 RGTR--
+200405004 Centre, Monterey Par         01810                % 04268 RGTR--
+200405045 Centre, Stäreplaz /  -01812  01812                % 04268 RGTR--
+200403021 Belair, Wandmillen   -01815  01815                % 04268 RGTR--
+200901020 Strassen, Benelux    -01820  01820                % 04268 RGTR--
+200901017 Strassen, Kesseler   -01822  01822                % 04268 RGTR--
+200901011 Strassen, Schoenacht -01823  01823                % 04268 RGTR--
+200101002 Bertrange, Belle Eto  01825  01825                % 04268 RGTR--
+190903013 Mamer, Tossebierg     01827  01827                % 04268 RGTR--
+190903007 Mamer, Gaaschtbierg   01828  01828                % 04268 RGTR--
+190903001 Mamer, Arelerstrooss  01829  01829                % 04268 RGTR--
+190903002 Mamer, Baerendall     01830  01830                % 04268 RGTR--
+190903012 Mamer, Mambra         01830  01830                % 04268 RGTR--
+190903005 Mamer, Eglantiers     01831  01831                % 04268 RGTR--
+190903016 Mamer, Scoutshome     01832  01832                % 04268 RGTR--
+190901002 Capellen, Hireknapp  -01833  01833                % 04268 RGTR--
+190901004 Capellen, Police     -01834  01834                % 04268 RGTR--
+190901003 Capellen, Klouschter -01835  01835                % 04268 RGTR--
+190606002 Olm, Kräizwee         01837  01837                % 04268 RGTR--
+190606003 Olm, Kréimerech       01838  01838                % 04268 RGTR--
+190605001 Nospelt, Beim Gliese  01841  01841                % 04268 RGTR--
+190605003 Nospelt, Pompjeesbau  01842  01842                % 04268 RGTR--
+190605002 Nospelt, Kräizhiel    01842  01842                % 04268 RGTR--
+190602006 Kehlen, Zone Industr  01844  01844                % 04268 RGTR--
+190602010 Kehlen, Zone Industr  01844  01844                % 04268 RGTR--
+190602009 Kehlen, Zone Industr  01845  01845                % 04268 RGTR--
+190602002 Kehlen, Enneschte Bu  01847  01847                % 04268 RGTR--
+190602001 Kehlen, Bei Fiewer    01848  01848                % 04268 RGTR--
+190602004 Kehlen, Schaarfeneck  01850  01850                % 04268 RGTR--
+190602011 KEHLEN, Katterwang    01851  01851                % 04268 RGTR--
+190604002 Meispelt, Kräizwee    01853  01853                % 04268 RGTR--
+190604001 Meispelt, Bei Mëlles  01853  01853                % 04268 RGTR--
+190604003 Meispelt, Kuesselt    01854  01854                % 04268 RGTR--
+190603002 Keispelt, Spellen Ec  01855  01855                % 04268 RGTR--
+190603001 Keispelt, Bei Péicke  01856                       % 04268 RGTR--
+*Z 04269 RGTR--                                             % 04269 RGTR--
+*L 260      200405004 190603001  01010  01050               % 04269 RGTR--
+*A hr 200405004 190603001 000001  01010  01050              % 04269 RGTR--
+*A id 200405004 190603001 000001  01010  01050              % 04269 RGTR--
+*R 1 190603001 200405004 190603001  01010  01050            % 04269 RGTR--
+*G RGB 200405004 190603001  01010  01050                    % 04269 RGTR--
+*A VE 200405004 190603001 000001  01010  01050              % 04269 RGTR--
+*I FD 200405004 190603001        0001878  01010  01050      % 04269 RGTR--
+200405004 Centre, Monterey Par         01010                % 04269 RGTR--
+200405045 Centre, Stäreplaz /  -01012  01012                % 04269 RGTR--
+200403021 Belair, Wandmillen   -01014  01014                % 04269 RGTR--
+200901020 Strassen, Benelux    -01019  01019                % 04269 RGTR--
+200901017 Strassen, Kesseler   -01020  01020                % 04269 RGTR--
+200901011 Strassen, Schoenacht -01021  01021                % 04269 RGTR--
+200101002 Bertrange, Belle Eto  01023  01023                % 04269 RGTR--
+190903013 Mamer, Tossebierg     01024  01024                % 04269 RGTR--
+190903007 Mamer, Gaaschtbierg   01025  01025                % 04269 RGTR--
+190903001 Mamer, Arelerstrooss  01026  01026                % 04269 RGTR--
+190903002 Mamer, Baerendall     01026  01026                % 04269 RGTR--
+190903012 Mamer, Mambra         01027  01027                % 04269 RGTR--
+190903005 Mamer, Eglantiers     01028  01028                % 04269 RGTR--
+190903016 Mamer, Scoutshome     01028  01028                % 04269 RGTR--
+190901002 Capellen, Hireknapp  -01030  01030                % 04269 RGTR--
+190901004 Capellen, Police     -01031  01031                % 04269 RGTR--
+190901003 Capellen, Klouschter -01031  01031                % 04269 RGTR--
+190606002 Olm, Kräizwee         01033  01033                % 04269 RGTR--
+190606003 Olm, Kréimerech       01034  01034                % 04269 RGTR--
+190605001 Nospelt, Beim Gliese  01037  01037                % 04269 RGTR--
+190605003 Nospelt, Pompjeesbau  01037  01037                % 04269 RGTR--
+190605002 Nospelt, Kräizhiel    01038  01038                % 04269 RGTR--
+190602006 Kehlen, Zone Industr  01039  01039                % 04269 RGTR--
+190602010 Kehlen, Zone Industr  01039  01039                % 04269 RGTR--
+190602009 Kehlen, Zone Industr  01040  01040                % 04269 RGTR--
+190602002 Kehlen, Enneschte Bu  01042  01042                % 04269 RGTR--
+190602001 Kehlen, Bei Fiewer    01043  01043                % 04269 RGTR--
+190602004 Kehlen, Schaarfeneck  01044  01044                % 04269 RGTR--
+190602011 KEHLEN, Katterwang    01045  01045                % 04269 RGTR--
+190604002 Meispelt, Kräizwee    01047  01047                % 04269 RGTR--
+190604001 Meispelt, Bei Mëlles  01048  01048                % 04269 RGTR--
+190604003 Meispelt, Kuesselt    01048  01048                % 04269 RGTR--
+190603002 Keispelt, Spellen Ec  01049  01049                % 04269 RGTR--
+190603001 Keispelt, Bei Péicke  01050                       % 04269 RGTR--
+*Z 04270 RGTR--                                             % 04270 RGTR--
+*L 260      200405004 190603001  01210  01250               % 04270 RGTR--
+*A hr 200405004 190603001 000001  01210  01250              % 04270 RGTR--
+*A id 200405004 190603001 000001  01210  01250              % 04270 RGTR--
+*R 1 190603001 200405004 190603001  01210  01250            % 04270 RGTR--
+*G RGB 200405004 190603001  01210  01250                    % 04270 RGTR--
+*A VE 200405004 190603001 000001  01210  01250              % 04270 RGTR--
+*I FD 200405004 190603001        0001883  01210  01250      % 04270 RGTR--
+200405004 Centre, Monterey Par         01210                % 04270 RGTR--
+200405045 Centre, Stäreplaz /  -01212  01212                % 04270 RGTR--
+200403021 Belair, Wandmillen   -01214  01214                % 04270 RGTR--
+200901020 Strassen, Benelux    -01219  01219                % 04270 RGTR--
+200901017 Strassen, Kesseler   -01220  01220                % 04270 RGTR--
+200901011 Strassen, Schoenacht -01221  01221                % 04270 RGTR--
+200101002 Bertrange, Belle Eto  01223  01223                % 04270 RGTR--
+190903013 Mamer, Tossebierg     01224  01224                % 04270 RGTR--
+190903007 Mamer, Gaaschtbierg   01225  01225                % 04270 RGTR--
+190903001 Mamer, Arelerstrooss  01226  01226                % 04270 RGTR--
+190903002 Mamer, Baerendall     01226  01226                % 04270 RGTR--
+190903012 Mamer, Mambra         01227  01227                % 04270 RGTR--
+190903005 Mamer, Eglantiers     01228  01228                % 04270 RGTR--
+190903016 Mamer, Scoutshome     01228  01228                % 04270 RGTR--
+190901002 Capellen, Hireknapp  -01230  01230                % 04270 RGTR--
+190901004 Capellen, Police     -01231  01231                % 04270 RGTR--
+190901003 Capellen, Klouschter -01231  01231                % 04270 RGTR--
+190606002 Olm, Kräizwee         01233  01233                % 04270 RGTR--
+190606003 Olm, Kréimerech       01234  01234                % 04270 RGTR--
+190605001 Nospelt, Beim Gliese  01237  01237                % 04270 RGTR--
+190605003 Nospelt, Pompjeesbau  01237  01237                % 04270 RGTR--
+190605002 Nospelt, Kräizhiel    01238  01238                % 04270 RGTR--
+190602006 Kehlen, Zone Industr  01239  01239                % 04270 RGTR--
+190602010 Kehlen, Zone Industr  01239  01239                % 04270 RGTR--
+190602009 Kehlen, Zone Industr  01240  01240                % 04270 RGTR--
+190602002 Kehlen, Enneschte Bu  01242  01242                % 04270 RGTR--
+190602001 Kehlen, Bei Fiewer    01243  01243                % 04270 RGTR--
+190602004 Kehlen, Schaarfeneck  01244  01244                % 04270 RGTR--
+190602011 KEHLEN, Katterwang    01245  01245                % 04270 RGTR--
+190604002 Meispelt, Kräizwee    01247  01247                % 04270 RGTR--
+190604001 Meispelt, Bei Mëlles  01248  01248                % 04270 RGTR--
+190604003 Meispelt, Kuesselt    01248  01248                % 04270 RGTR--
+190603002 Keispelt, Spellen Ec  01249  01249                % 04270 RGTR--
+190603001 Keispelt, Bei Péicke  01250                       % 04270 RGTR--
+*Z 04271 RGTR--                                             % 04271 RGTR--
+*L 260      200405004 190603001  01410  01450               % 04271 RGTR--
+*A hr 200405004 190603001 000001  01410  01450              % 04271 RGTR--
+*A id 200405004 190603001 000001  01410  01450              % 04271 RGTR--
+*R 1 190603001 200405004 190603001  01410  01450            % 04271 RGTR--
+*G RGB 200405004 190603001  01410  01450                    % 04271 RGTR--
+*A VE 200405004 190603001 000001  01410  01450              % 04271 RGTR--
+*I FD 200405004 190603001        0001889  01410  01450      % 04271 RGTR--
+200405004 Centre, Monterey Par         01410                % 04271 RGTR--
+200405045 Centre, Stäreplaz /  -01412  01412                % 04271 RGTR--
+200403021 Belair, Wandmillen   -01414  01414                % 04271 RGTR--
+200901020 Strassen, Benelux    -01419  01419                % 04271 RGTR--
+200901017 Strassen, Kesseler   -01420  01420                % 04271 RGTR--
+200901011 Strassen, Schoenacht -01421  01421                % 04271 RGTR--
+200101002 Bertrange, Belle Eto  01423  01423                % 04271 RGTR--
+190903013 Mamer, Tossebierg     01424  01424                % 04271 RGTR--
+190903007 Mamer, Gaaschtbierg   01425  01425                % 04271 RGTR--
+190903001 Mamer, Arelerstrooss  01426  01426                % 04271 RGTR--
+190903002 Mamer, Baerendall     01426  01426                % 04271 RGTR--
+190903012 Mamer, Mambra         01427  01427                % 04271 RGTR--
+190903005 Mamer, Eglantiers     01428  01428                % 04271 RGTR--
+190903016 Mamer, Scoutshome     01428  01428                % 04271 RGTR--
+190901002 Capellen, Hireknapp  -01430  01430                % 04271 RGTR--
+190901004 Capellen, Police     -01431  01431                % 04271 RGTR--
+190901003 Capellen, Klouschter -01431  01431                % 04271 RGTR--
+190606002 Olm, Kräizwee         01433  01433                % 04271 RGTR--
+190606003 Olm, Kréimerech       01434  01434                % 04271 RGTR--
+190605001 Nospelt, Beim Gliese  01437  01437                % 04271 RGTR--
+190605003 Nospelt, Pompjeesbau  01437  01437                % 04271 RGTR--
+190605002 Nospelt, Kräizhiel    01438  01438                % 04271 RGTR--
+190602006 Kehlen, Zone Industr  01439  01439                % 04271 RGTR--
+190602010 Kehlen, Zone Industr  01439  01439                % 04271 RGTR--
+190602009 Kehlen, Zone Industr  01440  01440                % 04271 RGTR--
+190602002 Kehlen, Enneschte Bu  01442  01442                % 04271 RGTR--
+190602001 Kehlen, Bei Fiewer    01443  01443                % 04271 RGTR--
+190602004 Kehlen, Schaarfeneck  01444  01444                % 04271 RGTR--
+190602011 KEHLEN, Katterwang    01445  01445                % 04271 RGTR--
+190604002 Meispelt, Kräizwee    01447  01447                % 04271 RGTR--
+190604001 Meispelt, Bei Mëlles  01448  01448                % 04271 RGTR--
+190604003 Meispelt, Kuesselt    01448  01448                % 04271 RGTR--
+190603002 Keispelt, Spellen Ec  01449  01449                % 04271 RGTR--
+190603001 Keispelt, Bei Péicke  01450                       % 04271 RGTR--
+*Z 04272 RGTR--                                             % 04272 RGTR--
+*L 260      200405004 190603001  02110  02150               % 04272 RGTR--
+*A hr 200405004 190603001 000001  02110  02150              % 04272 RGTR--
+*A id 200405004 190603001 000001  02110  02150              % 04272 RGTR--
+*R 1 190603001 200405004 190603001  02110  02150            % 04272 RGTR--
+*G RGB 200405004 190603001  02110  02150                    % 04272 RGTR--
+*A VE 200405004 190603001 000001  02110  02150              % 04272 RGTR--
+*I FD 200405004 190603001        0002944  02110  02150      % 04272 RGTR--
+200405004 Centre, Monterey Par         02110                % 04272 RGTR--
+200405045 Centre, Stäreplaz /  -02112  02112                % 04272 RGTR--
+200403021 Belair, Wandmillen   -02114  02114                % 04272 RGTR--
+200901020 Strassen, Benelux    -02119  02119                % 04272 RGTR--
+200901017 Strassen, Kesseler   -02120  02120                % 04272 RGTR--
+200901011 Strassen, Schoenacht -02121  02121                % 04272 RGTR--
+200101002 Bertrange, Belle Eto  02123  02123                % 04272 RGTR--
+190903013 Mamer, Tossebierg     02124  02124                % 04272 RGTR--
+190903007 Mamer, Gaaschtbierg   02125  02125                % 04272 RGTR--
+190903001 Mamer, Arelerstrooss  02126  02126                % 04272 RGTR--
+190903002 Mamer, Baerendall     02126  02126                % 04272 RGTR--
+190903012 Mamer, Mambra         02127  02127                % 04272 RGTR--
+190903005 Mamer, Eglantiers     02128  02128                % 04272 RGTR--
+190903016 Mamer, Scoutshome     02128  02128                % 04272 RGTR--
+190901002 Capellen, Hireknapp  -02130  02130                % 04272 RGTR--
+190901004 Capellen, Police     -02131  02131                % 04272 RGTR--
+190901003 Capellen, Klouschter -02131  02131                % 04272 RGTR--
+190606002 Olm, Kräizwee         02133  02133                % 04272 RGTR--
+190606003 Olm, Kréimerech       02134  02134                % 04272 RGTR--
+190605001 Nospelt, Beim Gliese  02137  02137                % 04272 RGTR--
+190605003 Nospelt, Pompjeesbau  02137  02137                % 04272 RGTR--
+190605002 Nospelt, Kräizhiel    02138  02138                % 04272 RGTR--
+190602006 Kehlen, Zone Industr  02139  02139                % 04272 RGTR--
+190602010 Kehlen, Zone Industr  02139  02139                % 04272 RGTR--
+190602009 Kehlen, Zone Industr  02140  02140                % 04272 RGTR--
+190602002 Kehlen, Enneschte Bu  02142  02142                % 04272 RGTR--
+190602001 Kehlen, Bei Fiewer    02143  02143                % 04272 RGTR--
+190602004 Kehlen, Schaarfeneck  02144  02144                % 04272 RGTR--
+190602011 KEHLEN, Katterwang    02145  02145                % 04272 RGTR--
+190604002 Meispelt, Kräizwee    02147  02147                % 04272 RGTR--
+190604001 Meispelt, Bei Mëlles  02148  02148                % 04272 RGTR--
+190604003 Meispelt, Kuesselt    02148  02148                % 04272 RGTR--
+190603002 Keispelt, Spellen Ec  02149  02149                % 04272 RGTR--
+190603001 Keispelt, Bei Péicke  02150                       % 04272 RGTR--
+*Z 04273 RGTR--                                             % 04273 RGTR--
+*L 260      200405004 190603001  00600  00640               % 04273 RGTR--
+*A hr 200405004 190603001 000006  00600  00640              % 04273 RGTR--
+*A id 200405004 190603001 000006  00600  00640              % 04273 RGTR--
+*R 1 190603001 200405004 190603001  00600  00640            % 04273 RGTR--
+*G RGB 200405004 190603001  00600  00640                    % 04273 RGTR--
+*A VE 200405004 190603001 000006  00600  00640              % 04273 RGTR--
+*I FD 200405004 190603001        0003123  00600  00640      % 04273 RGTR--
+200405004 Centre, Monterey Par         00600                % 04273 RGTR--
+200405045 Centre, Stäreplaz /  -00602  00602                % 04273 RGTR--
+200403021 Belair, Wandmillen   -00604  00604                % 04273 RGTR--
+200901020 Strassen, Benelux    -00609  00609                % 04273 RGTR--
+200901017 Strassen, Kesseler   -00610  00610                % 04273 RGTR--
+200901011 Strassen, Schoenacht -00611  00611                % 04273 RGTR--
+200101002 Bertrange, Belle Eto  00613  00613                % 04273 RGTR--
+190903013 Mamer, Tossebierg     00614  00614                % 04273 RGTR--
+190903007 Mamer, Gaaschtbierg   00615  00615                % 04273 RGTR--
+190903001 Mamer, Arelerstrooss  00616  00616                % 04273 RGTR--
+190903002 Mamer, Baerendall     00616  00616                % 04273 RGTR--
+190903012 Mamer, Mambra         00617  00617                % 04273 RGTR--
+190903005 Mamer, Eglantiers     00618  00618                % 04273 RGTR--
+190903016 Mamer, Scoutshome     00618  00618                % 04273 RGTR--
+190901002 Capellen, Hireknapp  -00620  00620                % 04273 RGTR--
+190901004 Capellen, Police     -00621  00621                % 04273 RGTR--
+190901003 Capellen, Klouschter -00621  00621                % 04273 RGTR--
+190606002 Olm, Kräizwee         00623  00623                % 04273 RGTR--
+190606003 Olm, Kréimerech       00624  00624                % 04273 RGTR--
+190605001 Nospelt, Beim Gliese  00627  00627                % 04273 RGTR--
+190605003 Nospelt, Pompjeesbau  00627  00627                % 04273 RGTR--
+190605002 Nospelt, Kräizhiel    00628  00628                % 04273 RGTR--
+190602006 Kehlen, Zone Industr  00629  00629                % 04273 RGTR--
+190602010 Kehlen, Zone Industr  00629  00629                % 04273 RGTR--
+190602009 Kehlen, Zone Industr  00630  00630                % 04273 RGTR--
+190602002 Kehlen, Enneschte Bu  00632  00632                % 04273 RGTR--
+190602001 Kehlen, Bei Fiewer    00633  00633                % 04273 RGTR--
+190602004 Kehlen, Schaarfeneck  00634  00634                % 04273 RGTR--
+190602011 KEHLEN, Katterwang    00635  00635                % 04273 RGTR--
+190604002 Meispelt, Kräizwee    00637  00637                % 04273 RGTR--
+190604001 Meispelt, Bei Mëlles  00638  00638                % 04273 RGTR--
+190604003 Meispelt, Kuesselt    00638  00638                % 04273 RGTR--
+190603002 Keispelt, Spellen Ec  00639  00639                % 04273 RGTR--
+190603001 Keispelt, Bei Péicke  00640                       % 04273 RGTR--
+*Z 04274 RGTR--                                             % 04274 RGTR--
+*L 260      200405004 190603001  01110  01150               % 04274 RGTR--
+*A hr 200405004 190603001 000006  01110  01150              % 04274 RGTR--
+*A id 200405004 190603001 000006  01110  01150              % 04274 RGTR--
+*R 1 190603001 200405004 190603001  01110  01150            % 04274 RGTR--
+*G RGB 200405004 190603001  01110  01150                    % 04274 RGTR--
+*A VE 200405004 190603001 000006  01110  01150              % 04274 RGTR--
+*I FD 200405004 190603001        0001167  01110  01150      % 04274 RGTR--
+200405004 Centre, Monterey Par         01110                % 04274 RGTR--
+200405045 Centre, Stäreplaz /  -01112  01112                % 04274 RGTR--
+200403021 Belair, Wandmillen   -01114  01114                % 04274 RGTR--
+200901020 Strassen, Benelux    -01119  01119                % 04274 RGTR--
+200901017 Strassen, Kesseler   -01120  01120                % 04274 RGTR--
+200901011 Strassen, Schoenacht -01121  01121                % 04274 RGTR--
+200101002 Bertrange, Belle Eto  01123  01123                % 04274 RGTR--
+190903013 Mamer, Tossebierg     01124  01124                % 04274 RGTR--
+190903007 Mamer, Gaaschtbierg   01125  01125                % 04274 RGTR--
+190903001 Mamer, Arelerstrooss  01126  01126                % 04274 RGTR--
+190903002 Mamer, Baerendall     01126  01126                % 04274 RGTR--
+190903012 Mamer, Mambra         01127  01127                % 04274 RGTR--
+190903005 Mamer, Eglantiers     01128  01128                % 04274 RGTR--
+190903016 Mamer, Scoutshome     01128  01128                % 04274 RGTR--
+190901002 Capellen, Hireknapp  -01130  01130                % 04274 RGTR--
+190901004 Capellen, Police     -01131  01131                % 04274 RGTR--
+190901003 Capellen, Klouschter -01131  01131                % 04274 RGTR--
+190606002 Olm, Kräizwee         01133  01133                % 04274 RGTR--
+190606003 Olm, Kréimerech       01134  01134                % 04274 RGTR--
+190605001 Nospelt, Beim Gliese  01137  01137                % 04274 RGTR--
+190605003 Nospelt, Pompjeesbau  01137  01137                % 04274 RGTR--
+190605002 Nospelt, Kräizhiel    01138  01138                % 04274 RGTR--
+190602006 Kehlen, Zone Industr  01139  01139                % 04274 RGTR--
+190602010 Kehlen, Zone Industr  01139  01139                % 04274 RGTR--
+190602009 Kehlen, Zone Industr  01140  01140                % 04274 RGTR--
+190602002 Kehlen, Enneschte Bu  01142  01142                % 04274 RGTR--
+190602001 Kehlen, Bei Fiewer    01143  01143                % 04274 RGTR--
+190602004 Kehlen, Schaarfeneck  01144  01144                % 04274 RGTR--
+190602011 KEHLEN, Katterwang    01145  01145                % 04274 RGTR--
+190604002 Meispelt, Kräizwee    01147  01147                % 04274 RGTR--
+190604001 Meispelt, Bei Mëlles  01148  01148                % 04274 RGTR--
+190604003 Meispelt, Kuesselt    01148  01148                % 04274 RGTR--
+190603002 Keispelt, Spellen Ec  01149  01149                % 04274 RGTR--
+190603001 Keispelt, Bei Péicke  01150                       % 04274 RGTR--
+*Z 04275 RGTR--                                             % 04275 RGTR--
+*L 260      200405004 190603001  01310  01350               % 04275 RGTR--
+*A hr 200405004 190603001 000006  01310  01350              % 04275 RGTR--
+*A id 200405004 190603001 000006  01310  01350              % 04275 RGTR--
+*R 1 190603001 200405004 190603001  01310  01350            % 04275 RGTR--
+*G RGB 200405004 190603001  01310  01350                    % 04275 RGTR--
+*A VE 200405004 190603001 000006  01310  01350              % 04275 RGTR--
+*I FD 200405004 190603001        0001886  01310  01350      % 04275 RGTR--
+200405004 Centre, Monterey Par         01310                % 04275 RGTR--
+200405045 Centre, Stäreplaz /  -01312  01312                % 04275 RGTR--
+200403021 Belair, Wandmillen   -01314  01314                % 04275 RGTR--
+200901020 Strassen, Benelux    -01319  01319                % 04275 RGTR--
+200901017 Strassen, Kesseler   -01320  01320                % 04275 RGTR--
+200901011 Strassen, Schoenacht -01321  01321                % 04275 RGTR--
+200101002 Bertrange, Belle Eto  01323  01323                % 04275 RGTR--
+190903013 Mamer, Tossebierg     01324  01324                % 04275 RGTR--
+190903007 Mamer, Gaaschtbierg   01325  01325                % 04275 RGTR--
+190903001 Mamer, Arelerstrooss  01326  01326                % 04275 RGTR--
+190903002 Mamer, Baerendall     01326  01326                % 04275 RGTR--
+190903012 Mamer, Mambra         01327  01327                % 04275 RGTR--
+190903005 Mamer, Eglantiers     01328  01328                % 04275 RGTR--
+190903016 Mamer, Scoutshome     01328  01328                % 04275 RGTR--
+190901002 Capellen, Hireknapp  -01330  01330                % 04275 RGTR--
+190901004 Capellen, Police     -01331  01331                % 04275 RGTR--
+190901003 Capellen, Klouschter -01331  01331                % 04275 RGTR--
+190606002 Olm, Kräizwee         01333  01333                % 04275 RGTR--
+190606003 Olm, Kréimerech       01334  01334                % 04275 RGTR--
+190605001 Nospelt, Beim Gliese  01337  01337                % 04275 RGTR--
+190605003 Nospelt, Pompjeesbau  01337  01337                % 04275 RGTR--
+190605002 Nospelt, Kräizhiel    01338  01338                % 04275 RGTR--
+190602006 Kehlen, Zone Industr  01339  01339                % 04275 RGTR--
+190602010 Kehlen, Zone Industr  01339  01339                % 04275 RGTR--
+190602009 Kehlen, Zone Industr  01340  01340                % 04275 RGTR--
+190602002 Kehlen, Enneschte Bu  01342  01342                % 04275 RGTR--
+190602001 Kehlen, Bei Fiewer    01343  01343                % 04275 RGTR--
+190602004 Kehlen, Schaarfeneck  01344  01344                % 04275 RGTR--
+190602011 KEHLEN, Katterwang    01345  01345                % 04275 RGTR--
+190604002 Meispelt, Kräizwee    01347  01347                % 04275 RGTR--
+190604001 Meispelt, Bei Mëlles  01348  01348                % 04275 RGTR--
+190604003 Meispelt, Kuesselt    01348  01348                % 04275 RGTR--
+190603002 Keispelt, Spellen Ec  01349  01349                % 04275 RGTR--
+190603001 Keispelt, Bei Péicke  01350                       % 04275 RGTR--
+*Z 04276 RGTR--                                             % 04276 RGTR--
+*L 260      200405004 190603001  01510  01550               % 04276 RGTR--
+*A hr 200405004 190603001 000006  01510  01550              % 04276 RGTR--
+*A id 200405004 190603001 000006  01510  01550              % 04276 RGTR--
+*R 1 190603001 200405004 190603001  01510  01550            % 04276 RGTR--
+*G RGB 200405004 190603001  01510  01550                    % 04276 RGTR--
+*A VE 200405004 190603001 000006  01510  01550              % 04276 RGTR--
+*I FD 200405004 190603001        0001892  01510  01550      % 04276 RGTR--
+200405004 Centre, Monterey Par         01510                % 04276 RGTR--
+200405045 Centre, Stäreplaz /  -01512  01512                % 04276 RGTR--
+200403021 Belair, Wandmillen   -01514  01514                % 04276 RGTR--
+200901020 Strassen, Benelux    -01519  01519                % 04276 RGTR--
+200901017 Strassen, Kesseler   -01520  01520                % 04276 RGTR--
+200901011 Strassen, Schoenacht -01521  01521                % 04276 RGTR--
+200101002 Bertrange, Belle Eto  01523  01523                % 04276 RGTR--
+190903013 Mamer, Tossebierg     01524  01524                % 04276 RGTR--
+190903007 Mamer, Gaaschtbierg   01525  01525                % 04276 RGTR--
+190903001 Mamer, Arelerstrooss  01526  01526                % 04276 RGTR--
+190903002 Mamer, Baerendall     01526  01526                % 04276 RGTR--
+190903012 Mamer, Mambra         01527  01527                % 04276 RGTR--
+190903005 Mamer, Eglantiers     01528  01528                % 04276 RGTR--
+190903016 Mamer, Scoutshome     01528  01528                % 04276 RGTR--
+190901002 Capellen, Hireknapp  -01530  01530                % 04276 RGTR--
+190901004 Capellen, Police     -01531  01531                % 04276 RGTR--
+190901003 Capellen, Klouschter -01531  01531                % 04276 RGTR--
+190606002 Olm, Kräizwee         01533  01533                % 04276 RGTR--
+190606003 Olm, Kréimerech       01534  01534                % 04276 RGTR--
+190605001 Nospelt, Beim Gliese  01537  01537                % 04276 RGTR--
+190605003 Nospelt, Pompjeesbau  01537  01537                % 04276 RGTR--
+190605002 Nospelt, Kräizhiel    01538  01538                % 04276 RGTR--
+190602006 Kehlen, Zone Industr  01539  01539                % 04276 RGTR--
+190602010 Kehlen, Zone Industr  01539  01539                % 04276 RGTR--
+190602009 Kehlen, Zone Industr  01540  01540                % 04276 RGTR--
+190602002 Kehlen, Enneschte Bu  01542  01542                % 04276 RGTR--
+190602001 Kehlen, Bei Fiewer    01543  01543                % 04276 RGTR--
+190602004 Kehlen, Schaarfeneck  01544  01544                % 04276 RGTR--
+190602011 KEHLEN, Katterwang    01545  01545                % 04276 RGTR--
+190604002 Meispelt, Kräizwee    01547  01547                % 04276 RGTR--
+190604001 Meispelt, Bei Mëlles  01548  01548                % 04276 RGTR--
+190604003 Meispelt, Kuesselt    01548  01548                % 04276 RGTR--
+190603002 Keispelt, Spellen Ec  01549  01549                % 04276 RGTR--
+190603001 Keispelt, Bei Péicke  01550                       % 04276 RGTR--
+*Z 04277 RGTR--                                             % 04277 RGTR--
+*L 260      200405004 190603001  01910  01950               % 04277 RGTR--
+*A hr 200405004 190603001 000006  01910  01950              % 04277 RGTR--
+*A id 200405004 190603001 000006  01910  01950              % 04277 RGTR--
+*R 1 190603001 200405004 190603001  01910  01950            % 04277 RGTR--
+*G RGB 200405004 190603001  01910  01950                    % 04277 RGTR--
+*A VE 200405004 190603001 000006  01910  01950              % 04277 RGTR--
+*I FD 200405004 190603001        0001903  01910  01950      % 04277 RGTR--
+200405004 Centre, Monterey Par         01910                % 04277 RGTR--
+200405045 Centre, Stäreplaz /  -01912  01912                % 04277 RGTR--
+200403021 Belair, Wandmillen   -01914  01914                % 04277 RGTR--
+200901020 Strassen, Benelux    -01919  01919                % 04277 RGTR--
+200901017 Strassen, Kesseler   -01920  01920                % 04277 RGTR--
+200901011 Strassen, Schoenacht -01921  01921                % 04277 RGTR--
+200101002 Bertrange, Belle Eto  01923  01923                % 04277 RGTR--
+190903013 Mamer, Tossebierg     01924  01924                % 04277 RGTR--
+190903007 Mamer, Gaaschtbierg   01925  01925                % 04277 RGTR--
+190903001 Mamer, Arelerstrooss  01926  01926                % 04277 RGTR--
+190903002 Mamer, Baerendall     01926  01926                % 04277 RGTR--
+190903012 Mamer, Mambra         01927  01927                % 04277 RGTR--
+190903005 Mamer, Eglantiers     01928  01928                % 04277 RGTR--
+190903016 Mamer, Scoutshome     01928  01928                % 04277 RGTR--
+190901002 Capellen, Hireknapp  -01930  01930                % 04277 RGTR--
+190901004 Capellen, Police     -01931  01931                % 04277 RGTR--
+190901003 Capellen, Klouschter -01931  01931                % 04277 RGTR--
+190606002 Olm, Kräizwee         01933  01933                % 04277 RGTR--
+190606003 Olm, Kréimerech       01934  01934                % 04277 RGTR--
+190605001 Nospelt, Beim Gliese  01937  01937                % 04277 RGTR--
+190605003 Nospelt, Pompjeesbau  01937  01937                % 04277 RGTR--
+190605002 Nospelt, Kräizhiel    01938  01938                % 04277 RGTR--
+190602006 Kehlen, Zone Industr  01939  01939                % 04277 RGTR--
+190602010 Kehlen, Zone Industr  01939  01939                % 04277 RGTR--
+190602009 Kehlen, Zone Industr  01940  01940                % 04277 RGTR--
+190602002 Kehlen, Enneschte Bu  01942  01942                % 04277 RGTR--
+190602001 Kehlen, Bei Fiewer    01943  01943                % 04277 RGTR--
+190602004 Kehlen, Schaarfeneck  01944  01944                % 04277 RGTR--
+190602011 KEHLEN, Katterwang    01945  01945                % 04277 RGTR--
+190604002 Meispelt, Kräizwee    01947  01947                % 04277 RGTR--
+190604001 Meispelt, Bei Mëlles  01948  01948                % 04277 RGTR--
+190604003 Meispelt, Kuesselt    01948  01948                % 04277 RGTR--
+190603002 Keispelt, Spellen Ec  01949  01949                % 04277 RGTR--
+190603001 Keispelt, Bei Péicke  01950                       % 04277 RGTR--
+*Z 04278 RGTR--                                             % 04278 RGTR--
+*L 260      200405004 190603001  02010  02050               % 04278 RGTR--
+*A hr 200405004 190603001 000006  02010  02050              % 04278 RGTR--
+*A id 200405004 190603001 000006  02010  02050              % 04278 RGTR--
+*R 1 190603001 200405004 190603001  02010  02050            % 04278 RGTR--
+*G RGB 200405004 190603001  02010  02050                    % 04278 RGTR--
+*A VE 200405004 190603001 000006  02010  02050              % 04278 RGTR--
+*I FD 200405004 190603001        0002943  02010  02050      % 04278 RGTR--
+200405004 Centre, Monterey Par         02010                % 04278 RGTR--
+200405045 Centre, Stäreplaz /  -02012  02012                % 04278 RGTR--
+200403021 Belair, Wandmillen   -02014  02014                % 04278 RGTR--
+200901020 Strassen, Benelux    -02019  02019                % 04278 RGTR--
+200901017 Strassen, Kesseler   -02020  02020                % 04278 RGTR--
+200901011 Strassen, Schoenacht -02021  02021                % 04278 RGTR--
+200101002 Bertrange, Belle Eto  02023  02023                % 04278 RGTR--
+190903013 Mamer, Tossebierg     02024  02024                % 04278 RGTR--
+190903007 Mamer, Gaaschtbierg   02025  02025                % 04278 RGTR--
+190903001 Mamer, Arelerstrooss  02026  02026                % 04278 RGTR--
+190903002 Mamer, Baerendall     02026  02026                % 04278 RGTR--
+190903012 Mamer, Mambra         02027  02027                % 04278 RGTR--
+190903005 Mamer, Eglantiers     02028  02028                % 04278 RGTR--
+190903016 Mamer, Scoutshome     02028  02028                % 04278 RGTR--
+190901002 Capellen, Hireknapp  -02030  02030                % 04278 RGTR--
+190901004 Capellen, Police     -02031  02031                % 04278 RGTR--
+190901003 Capellen, Klouschter -02031  02031                % 04278 RGTR--
+190606002 Olm, Kräizwee         02033  02033                % 04278 RGTR--
+190606003 Olm, Kréimerech       02034  02034                % 04278 RGTR--
+190605001 Nospelt, Beim Gliese  02037  02037                % 04278 RGTR--
+190605003 Nospelt, Pompjeesbau  02037  02037                % 04278 RGTR--
+190605002 Nospelt, Kräizhiel    02038  02038                % 04278 RGTR--
+190602006 Kehlen, Zone Industr  02039  02039                % 04278 RGTR--
+190602010 Kehlen, Zone Industr  02039  02039                % 04278 RGTR--
+190602009 Kehlen, Zone Industr  02040  02040                % 04278 RGTR--
+190602002 Kehlen, Enneschte Bu  02042  02042                % 04278 RGTR--
+190602001 Kehlen, Bei Fiewer    02043  02043                % 04278 RGTR--
+190602004 Kehlen, Schaarfeneck  02044  02044                % 04278 RGTR--
+190602011 KEHLEN, Katterwang    02045  02045                % 04278 RGTR--
+190604002 Meispelt, Kräizwee    02047  02047                % 04278 RGTR--
+190604001 Meispelt, Bei Mëlles  02048  02048                % 04278 RGTR--
+190604003 Meispelt, Kuesselt    02048  02048                % 04278 RGTR--
+190603002 Keispelt, Spellen Ec  02049  02049                % 04278 RGTR--
+190603001 Keispelt, Bei Péicke  02050                       % 04278 RGTR--
+*Z 04279 RGTR--                                             % 04279 RGTR--
+*L 260      200405004 190603001  02210  02250               % 04279 RGTR--
+*A hr 200405004 190603001 000006  02210  02250              % 04279 RGTR--
+*A id 200405004 190603001 000006  02210  02250              % 04279 RGTR--
+*R 1 190603001 200405004 190603001  02210  02250            % 04279 RGTR--
+*G RGB 200405004 190603001  02210  02250                    % 04279 RGTR--
+*A VE 200405004 190603001 000006  02210  02250              % 04279 RGTR--
+*I FD 200405004 190603001        0002945  02210  02250      % 04279 RGTR--
+200405004 Centre, Monterey Par         02210                % 04279 RGTR--
+200405045 Centre, Stäreplaz /  -02212  02212                % 04279 RGTR--
+200403021 Belair, Wandmillen   -02214  02214                % 04279 RGTR--
+200901020 Strassen, Benelux    -02219  02219                % 04279 RGTR--
+200901017 Strassen, Kesseler   -02220  02220                % 04279 RGTR--
+200901011 Strassen, Schoenacht -02221  02221                % 04279 RGTR--
+200101002 Bertrange, Belle Eto  02223  02223                % 04279 RGTR--
+190903013 Mamer, Tossebierg     02224  02224                % 04279 RGTR--
+190903007 Mamer, Gaaschtbierg   02225  02225                % 04279 RGTR--
+190903001 Mamer, Arelerstrooss  02226  02226                % 04279 RGTR--
+190903002 Mamer, Baerendall     02226  02226                % 04279 RGTR--
+190903012 Mamer, Mambra         02227  02227                % 04279 RGTR--
+190903005 Mamer, Eglantiers     02228  02228                % 04279 RGTR--
+190903016 Mamer, Scoutshome     02228  02228                % 04279 RGTR--
+190901002 Capellen, Hireknapp  -02230  02230                % 04279 RGTR--
+190901004 Capellen, Police     -02231  02231                % 04279 RGTR--
+190901003 Capellen, Klouschter -02231  02231                % 04279 RGTR--
+190606002 Olm, Kräizwee         02233  02233                % 04279 RGTR--
+190606003 Olm, Kréimerech       02234  02234                % 04279 RGTR--
+190605001 Nospelt, Beim Gliese  02237  02237                % 04279 RGTR--
+190605003 Nospelt, Pompjeesbau  02237  02237                % 04279 RGTR--
+190605002 Nospelt, Kräizhiel    02238  02238                % 04279 RGTR--
+190602006 Kehlen, Zone Industr  02239  02239                % 04279 RGTR--
+190602010 Kehlen, Zone Industr  02239  02239                % 04279 RGTR--
+190602009 Kehlen, Zone Industr  02240  02240                % 04279 RGTR--
+190602002 Kehlen, Enneschte Bu  02242  02242                % 04279 RGTR--
+190602001 Kehlen, Bei Fiewer    02243  02243                % 04279 RGTR--
+190602004 Kehlen, Schaarfeneck  02244  02244                % 04279 RGTR--
+190602011 KEHLEN, Katterwang    02245  02245                % 04279 RGTR--
+190604002 Meispelt, Kräizwee    02247  02247                % 04279 RGTR--
+190604001 Meispelt, Bei Mëlles  02248  02248                % 04279 RGTR--
+190604003 Meispelt, Kuesselt    02248  02248                % 04279 RGTR--
+190603002 Keispelt, Spellen Ec  02249  02249                % 04279 RGTR--
+190603001 Keispelt, Bei Péicke  02250                       % 04279 RGTR--
+*Z 04280 RGTR--                                             % 04280 RGTR--
+*L 260      200405004 190603001  02310  02350               % 04280 RGTR--
+*A hr 200405004 190603001 000006  02310  02350              % 04280 RGTR--
+*A id 200405004 190603001 000006  02310  02350              % 04280 RGTR--
+*R 1 190603001 200405004 190603001  02310  02350            % 04280 RGTR--
+*G RGB 200405004 190603001  02310  02350                    % 04280 RGTR--
+*A VE 200405004 190603001 000006  02310  02350              % 04280 RGTR--
+*I FD 200405004 190603001        0002946  02310  02350      % 04280 RGTR--
+200405004 Centre, Monterey Par         02310                % 04280 RGTR--
+200405045 Centre, Stäreplaz /  -02312  02312                % 04280 RGTR--
+200403021 Belair, Wandmillen   -02314  02314                % 04280 RGTR--
+200901020 Strassen, Benelux    -02319  02319                % 04280 RGTR--
+200901017 Strassen, Kesseler   -02320  02320                % 04280 RGTR--
+200901011 Strassen, Schoenacht -02321  02321                % 04280 RGTR--
+200101002 Bertrange, Belle Eto  02323  02323                % 04280 RGTR--
+190903013 Mamer, Tossebierg     02324  02324                % 04280 RGTR--
+190903007 Mamer, Gaaschtbierg   02325  02325                % 04280 RGTR--
+190903001 Mamer, Arelerstrooss  02326  02326                % 04280 RGTR--
+190903002 Mamer, Baerendall     02326  02326                % 04280 RGTR--
+190903012 Mamer, Mambra         02327  02327                % 04280 RGTR--
+190903005 Mamer, Eglantiers     02328  02328                % 04280 RGTR--
+190903016 Mamer, Scoutshome     02328  02328                % 04280 RGTR--
+190901002 Capellen, Hireknapp  -02330  02330                % 04280 RGTR--
+190901004 Capellen, Police     -02331  02331                % 04280 RGTR--
+190901003 Capellen, Klouschter -02331  02331                % 04280 RGTR--
+190606002 Olm, Kräizwee         02333  02333                % 04280 RGTR--
+190606003 Olm, Kréimerech       02334  02334                % 04280 RGTR--
+190605001 Nospelt, Beim Gliese  02337  02337                % 04280 RGTR--
+190605003 Nospelt, Pompjeesbau  02337  02337                % 04280 RGTR--
+190605002 Nospelt, Kräizhiel    02338  02338                % 04280 RGTR--
+190602006 Kehlen, Zone Industr  02339  02339                % 04280 RGTR--
+190602010 Kehlen, Zone Industr  02339  02339                % 04280 RGTR--
+190602009 Kehlen, Zone Industr  02340  02340                % 04280 RGTR--
+190602002 Kehlen, Enneschte Bu  02342  02342                % 04280 RGTR--
+190602001 Kehlen, Bei Fiewer    02343  02343                % 04280 RGTR--
+190602004 Kehlen, Schaarfeneck  02344  02344                % 04280 RGTR--
+190602011 KEHLEN, Katterwang    02345  02345                % 04280 RGTR--
+190604002 Meispelt, Kräizwee    02347  02347                % 04280 RGTR--
+190604001 Meispelt, Bei Mëlles  02348  02348                % 04280 RGTR--
+190604003 Meispelt, Kuesselt    02348  02348                % 04280 RGTR--
+190603002 Keispelt, Spellen Ec  02349  02349                % 04280 RGTR--
+190603001 Keispelt, Bei Péicke  02350                       % 04280 RGTR--
+*Z 04281 RGTR--                                             % 04281 RGTR--
+*L 260      200405004 190603001  01610  01650               % 04281 RGTR--
+*A hr 200405004 190603001 000156  01610  01650              % 04281 RGTR--
+*A id 200405004 190603001 000156  01610  01650              % 04281 RGTR--
+*R 1 190603001 200405004 190603001  01610  01650            % 04281 RGTR--
+*G RGB 200405004 190603001  01610  01650                    % 04281 RGTR--
+*A VE 200405004 190603001 000156  01610  01650              % 04281 RGTR--
+*I FD 200405004 190603001        0001895  01610  01650      % 04281 RGTR--
+200405004 Centre, Monterey Par         01610                % 04281 RGTR--
+200405045 Centre, Stäreplaz /  -01612  01612                % 04281 RGTR--
+200403021 Belair, Wandmillen   -01614  01614                % 04281 RGTR--
+200901020 Strassen, Benelux    -01619  01619                % 04281 RGTR--
+200901017 Strassen, Kesseler   -01620  01620                % 04281 RGTR--
+200901011 Strassen, Schoenacht -01621  01621                % 04281 RGTR--
+200101002 Bertrange, Belle Eto  01623  01623                % 04281 RGTR--
+190903013 Mamer, Tossebierg     01624  01624                % 04281 RGTR--
+190903007 Mamer, Gaaschtbierg   01625  01625                % 04281 RGTR--
+190903001 Mamer, Arelerstrooss  01626  01626                % 04281 RGTR--
+190903002 Mamer, Baerendall     01626  01626                % 04281 RGTR--
+190903012 Mamer, Mambra         01627  01627                % 04281 RGTR--
+190903005 Mamer, Eglantiers     01628  01628                % 04281 RGTR--
+190903016 Mamer, Scoutshome     01628  01628                % 04281 RGTR--
+190901002 Capellen, Hireknapp  -01630  01630                % 04281 RGTR--
+190901004 Capellen, Police     -01631  01631                % 04281 RGTR--
+190901003 Capellen, Klouschter -01631  01631                % 04281 RGTR--
+190606002 Olm, Kräizwee         01633  01633                % 04281 RGTR--
+190606003 Olm, Kréimerech       01634  01634                % 04281 RGTR--
+190605001 Nospelt, Beim Gliese  01637  01637                % 04281 RGTR--
+190605003 Nospelt, Pompjeesbau  01637  01637                % 04281 RGTR--
+190605002 Nospelt, Kräizhiel    01638  01638                % 04281 RGTR--
+190602006 Kehlen, Zone Industr  01639  01639                % 04281 RGTR--
+190602010 Kehlen, Zone Industr  01639  01639                % 04281 RGTR--
+190602009 Kehlen, Zone Industr  01640  01640                % 04281 RGTR--
+190602002 Kehlen, Enneschte Bu  01642  01642                % 04281 RGTR--
+190602001 Kehlen, Bei Fiewer    01643  01643                % 04281 RGTR--
+190602004 Kehlen, Schaarfeneck  01644  01644                % 04281 RGTR--
+190602011 KEHLEN, Katterwang    01645  01645                % 04281 RGTR--
+190604002 Meispelt, Kräizwee    01647  01647                % 04281 RGTR--
+190604001 Meispelt, Bei Mëlles  01648  01648                % 04281 RGTR--
+190604003 Meispelt, Kuesselt    01648  01648                % 04281 RGTR--
+190603002 Keispelt, Spellen Ec  01649  01649                % 04281 RGTR--
+190603001 Keispelt, Bei Péicke  01650                       % 04281 RGTR--
+*Z 04282 RGTR--                                             % 04282 RGTR--
+*L 260      200405004 190603001  01810  01850               % 04282 RGTR--
+*A hr 200405004 190603001 000156  01810  01850              % 04282 RGTR--
+*A id 200405004 190603001 000156  01810  01850              % 04282 RGTR--
+*R 1 190603001 200405004 190603001  01810  01850            % 04282 RGTR--
+*G RGB 200405004 190603001  01810  01850                    % 04282 RGTR--
+*A VE 200405004 190603001 000156  01810  01850              % 04282 RGTR--
+*I FD 200405004 190603001        0001900  01810  01850      % 04282 RGTR--
+200405004 Centre, Monterey Par         01810                % 04282 RGTR--
+200405045 Centre, Stäreplaz /  -01812  01812                % 04282 RGTR--
+200403021 Belair, Wandmillen   -01814  01814                % 04282 RGTR--
+200901020 Strassen, Benelux    -01819  01819                % 04282 RGTR--
+200901017 Strassen, Kesseler   -01820  01820                % 04282 RGTR--
+200901011 Strassen, Schoenacht -01821  01821                % 04282 RGTR--
+200101002 Bertrange, Belle Eto  01823  01823                % 04282 RGTR--
+190903013 Mamer, Tossebierg     01824  01824                % 04282 RGTR--
+190903007 Mamer, Gaaschtbierg   01825  01825                % 04282 RGTR--
+190903001 Mamer, Arelerstrooss  01826  01826                % 04282 RGTR--
+190903002 Mamer, Baerendall     01826  01826                % 04282 RGTR--
+190903012 Mamer, Mambra         01827  01827                % 04282 RGTR--
+190903005 Mamer, Eglantiers     01828  01828                % 04282 RGTR--
+190903016 Mamer, Scoutshome     01828  01828                % 04282 RGTR--
+190901002 Capellen, Hireknapp  -01830  01830                % 04282 RGTR--
+190901004 Capellen, Police     -01831  01831                % 04282 RGTR--
+190901003 Capellen, Klouschter -01831  01831                % 04282 RGTR--
+190606002 Olm, Kräizwee         01833  01833                % 04282 RGTR--
+190606003 Olm, Kréimerech       01834  01834                % 04282 RGTR--
+190605001 Nospelt, Beim Gliese  01837  01837                % 04282 RGTR--
+190605003 Nospelt, Pompjeesbau  01837  01837                % 04282 RGTR--
+190605002 Nospelt, Kräizhiel    01838  01838                % 04282 RGTR--
+190602006 Kehlen, Zone Industr  01839  01839                % 04282 RGTR--
+190602010 Kehlen, Zone Industr  01839  01839                % 04282 RGTR--
+190602009 Kehlen, Zone Industr  01840  01840                % 04282 RGTR--
+190602002 Kehlen, Enneschte Bu  01842  01842                % 04282 RGTR--
+190602001 Kehlen, Bei Fiewer    01843  01843                % 04282 RGTR--
+190602004 Kehlen, Schaarfeneck  01844  01844                % 04282 RGTR--
+190602011 KEHLEN, Katterwang    01845  01845                % 04282 RGTR--
+190604002 Meispelt, Kräizwee    01847  01847                % 04282 RGTR--
+190604001 Meispelt, Bei Mëlles  01848  01848                % 04282 RGTR--
+190604003 Meispelt, Kuesselt    01848  01848                % 04282 RGTR--
+190603002 Keispelt, Spellen Ec  01849  01849                % 04282 RGTR--
+190603001 Keispelt, Bei Péicke  01850                       % 04282 RGTR--
+*Z 04283 RGTR--                                             % 04283 RGTR--
+*L 260      190603001 200405004  00646  00735               % 04283 RGTR--
+*A hr 190603001 200405004 000006  00646  00735              % 04283 RGTR--
+*A jv 190603001 200405004 000006  00646  00735              % 04283 RGTR--
+*R 2 200405004 190603001 200405004  00646  00735            % 04283 RGTR--
+*G RGB 190603001 200405004  00646  00735                    % 04283 RGTR--
+*A VE 190603001 200405004 000006  00646  00735              % 04283 RGTR--
+*I FD 190603001 200405004        0003187  00646  00735      % 04283 RGTR--
+190603001 Keispelt, Bei Péicke         00646                % 04283 RGTR--
+190603002 Keispelt, Spellen Ec  00646  00646                % 04283 RGTR--
+190604003 Meispelt, Kuesselt    00647  00647                % 04283 RGTR--
+190604001 Meispelt, Bei Mëlles  00648  00648                % 04283 RGTR--
+190604002 Meispelt, Kräizwee    00649  00649                % 04283 RGTR--
+190602011 KEHLEN, Katterwang    00650  00650                % 04283 RGTR--
+190602004 Kehlen, Schaarfeneck  00652  00652                % 04283 RGTR--
+190602001 Kehlen, Bei Fiewer    00653  00653                % 04283 RGTR--
+190602002 Kehlen, Enneschte Bu  00654  00654                % 04283 RGTR--
+190602009 Kehlen, Zone Industr  00655  00655                % 04283 RGTR--
+190602010 Kehlen, Zone Industr  00656  00656                % 04283 RGTR--
+190602006 Kehlen, Zone Industr  00657  00657                % 04283 RGTR--
+190605002 Nospelt, Kräizhiel    00658  00658                % 04283 RGTR--
+190605003 Nospelt, Pompjeesbau  00658  00658                % 04283 RGTR--
+190605001 Nospelt, Beim Gliese  00659  00659                % 04283 RGTR--
+190606003 Olm, Kréimerech       00702  00702                % 04283 RGTR--
+190606002 Olm, Kräizwee         00703  00703                % 04283 RGTR--
+190901003 Capellen, Klouschter  00706 -00706                % 04283 RGTR--
+190901004 Capellen, Police      00707 -00707                % 04283 RGTR--
+190901002 Capellen, Hireknapp   00708 -00708                % 04283 RGTR--
+190903016 Mamer, Scoutshome     00709  00709                % 04283 RGTR--
+190903005 Mamer, Eglantiers     00709  00709                % 04283 RGTR--
+190903012 Mamer, Mambra         00711  00711                % 04283 RGTR--
+190903002 Mamer, Baerendall     00711  00711                % 04283 RGTR--
+190903001 Mamer, Arelerstrooss  00712  00712                % 04283 RGTR--
+190903007 Mamer, Gaaschtbierg   00713  00713                % 04283 RGTR--
+190903013 Mamer, Tossebierg     00714  00714                % 04283 RGTR--
+200101002 Bertrange, Belle Eto  00716  00716                % 04283 RGTR--
+200901011 Strassen, Schoenacht  00718 -00718                % 04283 RGTR--
+200901017 Strassen, Kesseler    00719 -00719                % 04283 RGTR--
+200901020 Strassen, Benelux     00721 -00721                % 04283 RGTR--
+200403021 Belair, Wandmillen    00726 -00726                % 04283 RGTR--
+200405045 Centre, Stäreplaz /   00729 -00729                % 04283 RGTR--
+200405004 Centre, Monterey Par  00735                       % 04283 RGTR--
+*Z 04284 RGTR--                                             % 04284 RGTR--
+*L 260      190603001 200405004  00805  00854               % 04284 RGTR--
+*A hr 190603001 200405004 000006  00805  00854              % 04284 RGTR--
+*A jv 190603001 200405004 000006  00805  00854              % 04284 RGTR--
+*R 2 200405004 190603001 200405004  00805  00854            % 04284 RGTR--
+*G RGB 190603001 200405004  00805  00854                    % 04284 RGTR--
+*A VE 190603001 200405004 000006  00805  00854              % 04284 RGTR--
+*I FD 190603001 200405004        0002251  00805  00854      % 04284 RGTR--
+190603001 Keispelt, Bei Péicke         00805                % 04284 RGTR--
+190603002 Keispelt, Spellen Ec  00805  00805                % 04284 RGTR--
+190604003 Meispelt, Kuesselt    00806  00806                % 04284 RGTR--
+190604001 Meispelt, Bei Mëlles  00807  00807                % 04284 RGTR--
+190604002 Meispelt, Kräizwee    00808  00808                % 04284 RGTR--
+190602011 KEHLEN, Katterwang    00809  00809                % 04284 RGTR--
+190602004 Kehlen, Schaarfeneck  00811  00811                % 04284 RGTR--
+190602001 Kehlen, Bei Fiewer    00812  00812                % 04284 RGTR--
+190602002 Kehlen, Enneschte Bu  00813  00813                % 04284 RGTR--
+190602009 Kehlen, Zone Industr  00814  00814                % 04284 RGTR--
+190602010 Kehlen, Zone Industr  00815  00815                % 04284 RGTR--
+190602006 Kehlen, Zone Industr  00816  00816                % 04284 RGTR--
+190605002 Nospelt, Kräizhiel    00817  00817                % 04284 RGTR--
+190605003 Nospelt, Pompjeesbau  00817  00817                % 04284 RGTR--
+190605001 Nospelt, Beim Gliese  00818  00818                % 04284 RGTR--
+190606003 Olm, Kréimerech       00821  00821                % 04284 RGTR--
+190606002 Olm, Kräizwee         00822  00822                % 04284 RGTR--
+190901003 Capellen, Klouschter  00825 -00825                % 04284 RGTR--
+190901004 Capellen, Police      00826 -00826                % 04284 RGTR--
+190901002 Capellen, Hireknapp   00827 -00827                % 04284 RGTR--
+190903016 Mamer, Scoutshome     00828  00828                % 04284 RGTR--
+190903005 Mamer, Eglantiers     00828  00828                % 04284 RGTR--
+190903012 Mamer, Mambra         00830  00830                % 04284 RGTR--
+190903002 Mamer, Baerendall     00830  00830                % 04284 RGTR--
+190903001 Mamer, Arelerstrooss  00831  00831                % 04284 RGTR--
+190903007 Mamer, Gaaschtbierg   00832  00832                % 04284 RGTR--
+190903013 Mamer, Tossebierg     00833  00833                % 04284 RGTR--
+200101002 Bertrange, Belle Eto  00835  00835                % 04284 RGTR--
+200901011 Strassen, Schoenacht  00837 -00837                % 04284 RGTR--
+200901017 Strassen, Kesseler    00838 -00838                % 04284 RGTR--
+200901020 Strassen, Benelux     00840 -00840                % 04284 RGTR--
+200403021 Belair, Wandmillen    00845 -00845                % 04284 RGTR--
+200405045 Centre, Stäreplaz /   00848 -00848                % 04284 RGTR--
+200405004 Centre, Monterey Par  00854                       % 04284 RGTR--
+*Z 04285 RGTR--                                             % 04285 RGTR--
+*L 260      190603001 200405004  00905  00954               % 04285 RGTR--
+*A hr 190603001 200405004 000006  00905  00954              % 04285 RGTR--
+*A jv 190603001 200405004 000006  00905  00954              % 04285 RGTR--
+*R 2 200405004 190603001 200405004  00905  00954            % 04285 RGTR--
+*G RGB 190603001 200405004  00905  00954                    % 04285 RGTR--
+*A VE 190603001 200405004 000006  00905  00954              % 04285 RGTR--
+*I FD 190603001 200405004        0002252  00905  00954      % 04285 RGTR--
+190603001 Keispelt, Bei Péicke         00905                % 04285 RGTR--
+190603002 Keispelt, Spellen Ec  00905  00905                % 04285 RGTR--
+190604003 Meispelt, Kuesselt    00906  00906                % 04285 RGTR--
+190604001 Meispelt, Bei Mëlles  00907  00907                % 04285 RGTR--
+190604002 Meispelt, Kräizwee    00908  00908                % 04285 RGTR--
+190602011 KEHLEN, Katterwang    00909  00909                % 04285 RGTR--
+190602004 Kehlen, Schaarfeneck  00911  00911                % 04285 RGTR--
+190602001 Kehlen, Bei Fiewer    00912  00912                % 04285 RGTR--
+190602002 Kehlen, Enneschte Bu  00913  00913                % 04285 RGTR--
+190602009 Kehlen, Zone Industr  00914  00914                % 04285 RGTR--
+190602010 Kehlen, Zone Industr  00915  00915                % 04285 RGTR--
+190602006 Kehlen, Zone Industr  00916  00916                % 04285 RGTR--
+190605002 Nospelt, Kräizhiel    00917  00917                % 04285 RGTR--
+190605003 Nospelt, Pompjeesbau  00917  00917                % 04285 RGTR--
+190605001 Nospelt, Beim Gliese  00918  00918                % 04285 RGTR--
+190606003 Olm, Kréimerech       00921  00921                % 04285 RGTR--
+190606002 Olm, Kräizwee         00922  00922                % 04285 RGTR--
+190901003 Capellen, Klouschter  00925 -00925                % 04285 RGTR--
+190901004 Capellen, Police      00926 -00926                % 04285 RGTR--
+190901002 Capellen, Hireknapp   00927 -00927                % 04285 RGTR--
+190903016 Mamer, Scoutshome     00928  00928                % 04285 RGTR--
+190903005 Mamer, Eglantiers     00928  00928                % 04285 RGTR--
+190903012 Mamer, Mambra         00930  00930                % 04285 RGTR--
+190903002 Mamer, Baerendall     00930  00930                % 04285 RGTR--
+190903001 Mamer, Arelerstrooss  00931  00931                % 04285 RGTR--
+190903007 Mamer, Gaaschtbierg   00932  00932                % 04285 RGTR--
+190903013 Mamer, Tossebierg     00933  00933                % 04285 RGTR--
+200101002 Bertrange, Belle Eto  00935  00935                % 04285 RGTR--
+200901011 Strassen, Schoenacht  00937 -00937                % 04285 RGTR--
+200901017 Strassen, Kesseler    00938 -00938                % 04285 RGTR--
+200901020 Strassen, Benelux     00940 -00940                % 04285 RGTR--
+200403021 Belair, Wandmillen    00945 -00945                % 04285 RGTR--
+200405045 Centre, Stäreplaz /   00948 -00948                % 04285 RGTR--
+200405004 Centre, Monterey Par  00954                       % 04285 RGTR--
+*Z 04286 RGTR--                                             % 04286 RGTR--
+*L 260      190603001 200405004  01605  01654               % 04286 RGTR--
+*A hr 190603001 200405004 000006  01605  01654              % 04286 RGTR--
+*A jv 190603001 200405004 000006  01605  01654              % 04286 RGTR--
+*R 2 200405004 190603001 200405004  01605  01654            % 04286 RGTR--
+*G RGB 190603001 200405004  01605  01654                    % 04286 RGTR--
+*A VE 190603001 200405004 000006  01605  01654              % 04286 RGTR--
+*I FD 190603001 200405004        0002253  01605  01654      % 04286 RGTR--
+190603001 Keispelt, Bei Péicke         01605                % 04286 RGTR--
+190603002 Keispelt, Spellen Ec  01605  01605                % 04286 RGTR--
+190604003 Meispelt, Kuesselt    01606  01606                % 04286 RGTR--
+190604001 Meispelt, Bei Mëlles  01607  01607                % 04286 RGTR--
+190604002 Meispelt, Kräizwee    01608  01608                % 04286 RGTR--
+190602011 KEHLEN, Katterwang    01609  01609                % 04286 RGTR--
+190602004 Kehlen, Schaarfeneck  01611  01611                % 04286 RGTR--
+190602001 Kehlen, Bei Fiewer    01612  01612                % 04286 RGTR--
+190602002 Kehlen, Enneschte Bu  01613  01613                % 04286 RGTR--
+190602009 Kehlen, Zone Industr  01614  01614                % 04286 RGTR--
+190602010 Kehlen, Zone Industr  01615  01615                % 04286 RGTR--
+190602006 Kehlen, Zone Industr  01616  01616                % 04286 RGTR--
+190605002 Nospelt, Kräizhiel    01617  01617                % 04286 RGTR--
+190605003 Nospelt, Pompjeesbau  01617  01617                % 04286 RGTR--
+190605001 Nospelt, Beim Gliese  01618  01618                % 04286 RGTR--
+190606003 Olm, Kréimerech       01621  01621                % 04286 RGTR--
+190606002 Olm, Kräizwee         01622  01622                % 04286 RGTR--
+190901003 Capellen, Klouschter  01625 -01625                % 04286 RGTR--
+190901004 Capellen, Police      01626 -01626                % 04286 RGTR--
+190901002 Capellen, Hireknapp   01627 -01627                % 04286 RGTR--
+190903016 Mamer, Scoutshome     01628  01628                % 04286 RGTR--
+190903005 Mamer, Eglantiers     01628  01628                % 04286 RGTR--
+190903012 Mamer, Mambra         01630  01630                % 04286 RGTR--
+190903002 Mamer, Baerendall     01630  01630                % 04286 RGTR--
+190903001 Mamer, Arelerstrooss  01631  01631                % 04286 RGTR--
+190903007 Mamer, Gaaschtbierg   01632  01632                % 04286 RGTR--
+190903013 Mamer, Tossebierg     01633  01633                % 04286 RGTR--
+200101002 Bertrange, Belle Eto  01635  01635                % 04286 RGTR--
+200901011 Strassen, Schoenacht  01637 -01637                % 04286 RGTR--
+200901017 Strassen, Kesseler    01638 -01638                % 04286 RGTR--
+200901020 Strassen, Benelux     01640 -01640                % 04286 RGTR--
+200403021 Belair, Wandmillen    01645 -01645                % 04286 RGTR--
+200405045 Centre, Stäreplaz /   01648 -01648                % 04286 RGTR--
+200405004 Centre, Monterey Par  01654                       % 04286 RGTR--
+*Z 04287 RGTR--                                             % 04287 RGTR--
+*L 260      190603001 200405004  01705  01754               % 04287 RGTR--
+*A hr 190603001 200405004 000006  01705  01754              % 04287 RGTR--
+*A jv 190603001 200405004 000006  01705  01754              % 04287 RGTR--
+*R 2 200405004 190603001 200405004  01705  01754            % 04287 RGTR--
+*G RGB 190603001 200405004  01705  01754                    % 04287 RGTR--
+*A VE 190603001 200405004 000006  01705  01754              % 04287 RGTR--
+*I FD 190603001 200405004        0002254  01705  01754      % 04287 RGTR--
+190603001 Keispelt, Bei Péicke         01705                % 04287 RGTR--
+190603002 Keispelt, Spellen Ec  01705  01705                % 04287 RGTR--
+190604003 Meispelt, Kuesselt    01706  01706                % 04287 RGTR--
+190604001 Meispelt, Bei Mëlles  01707  01707                % 04287 RGTR--
+190604002 Meispelt, Kräizwee    01708  01708                % 04287 RGTR--
+190602011 KEHLEN, Katterwang    01709  01709                % 04287 RGTR--
+190602004 Kehlen, Schaarfeneck  01711  01711                % 04287 RGTR--
+190602001 Kehlen, Bei Fiewer    01712  01712                % 04287 RGTR--
+190602002 Kehlen, Enneschte Bu  01713  01713                % 04287 RGTR--
+190602009 Kehlen, Zone Industr  01714  01714                % 04287 RGTR--
+190602010 Kehlen, Zone Industr  01715  01715                % 04287 RGTR--
+190602006 Kehlen, Zone Industr  01716  01716                % 04287 RGTR--
+190605002 Nospelt, Kräizhiel    01717  01717                % 04287 RGTR--
+190605003 Nospelt, Pompjeesbau  01717  01717                % 04287 RGTR--
+190605001 Nospelt, Beim Gliese  01718  01718                % 04287 RGTR--
+190606003 Olm, Kréimerech       01721  01721                % 04287 RGTR--
+190606002 Olm, Kräizwee         01722  01722                % 04287 RGTR--
+190901003 Capellen, Klouschter  01725 -01725                % 04287 RGTR--
+190901004 Capellen, Police      01726 -01726                % 04287 RGTR--
+190901002 Capellen, Hireknapp   01727 -01727                % 04287 RGTR--
+190903016 Mamer, Scoutshome     01728  01728                % 04287 RGTR--
+190903005 Mamer, Eglantiers     01728  01728                % 04287 RGTR--
+190903012 Mamer, Mambra         01730  01730                % 04287 RGTR--
+190903002 Mamer, Baerendall     01730  01730                % 04287 RGTR--
+190903001 Mamer, Arelerstrooss  01731  01731                % 04287 RGTR--
+190903007 Mamer, Gaaschtbierg   01732  01732                % 04287 RGTR--
+190903013 Mamer, Tossebierg     01733  01733                % 04287 RGTR--
+200101002 Bertrange, Belle Eto  01735  01735                % 04287 RGTR--
+200901011 Strassen, Schoenacht  01737 -01737                % 04287 RGTR--
+200901017 Strassen, Kesseler    01738 -01738                % 04287 RGTR--
+200901020 Strassen, Benelux     01740 -01740                % 04287 RGTR--
+200403021 Belair, Wandmillen    01745 -01745                % 04287 RGTR--
+200405045 Centre, Stäreplaz /   01748 -01748                % 04287 RGTR--
+200405004 Centre, Monterey Par  01754                       % 04287 RGTR--
+*Z 04288 RGTR--                                             % 04288 RGTR--
+*L 260      190603001 200405004  01805  01854               % 04288 RGTR--
+*A hr 190603001 200405004 000006  01805  01854              % 04288 RGTR--
+*A jv 190603001 200405004 000006  01805  01854              % 04288 RGTR--
+*R 2 200405004 190603001 200405004  01805  01854            % 04288 RGTR--
+*G RGB 190603001 200405004  01805  01854                    % 04288 RGTR--
+*A VE 190603001 200405004 000006  01805  01854              % 04288 RGTR--
+*I FD 190603001 200405004        0002255  01805  01854      % 04288 RGTR--
+190603001 Keispelt, Bei Péicke         01805                % 04288 RGTR--
+190603002 Keispelt, Spellen Ec  01805  01805                % 04288 RGTR--
+190604003 Meispelt, Kuesselt    01806  01806                % 04288 RGTR--
+190604001 Meispelt, Bei Mëlles  01807  01807                % 04288 RGTR--
+190604002 Meispelt, Kräizwee    01808  01808                % 04288 RGTR--
+190602011 KEHLEN, Katterwang    01809  01809                % 04288 RGTR--
+190602004 Kehlen, Schaarfeneck  01811  01811                % 04288 RGTR--
+190602001 Kehlen, Bei Fiewer    01812  01812                % 04288 RGTR--
+190602002 Kehlen, Enneschte Bu  01813  01813                % 04288 RGTR--
+190602009 Kehlen, Zone Industr  01814  01814                % 04288 RGTR--
+190602010 Kehlen, Zone Industr  01815  01815                % 04288 RGTR--
+190602006 Kehlen, Zone Industr  01816  01816                % 04288 RGTR--
+190605002 Nospelt, Kräizhiel    01817  01817                % 04288 RGTR--
+190605003 Nospelt, Pompjeesbau  01817  01817                % 04288 RGTR--
+190605001 Nospelt, Beim Gliese  01818  01818                % 04288 RGTR--
+190606003 Olm, Kréimerech       01821  01821                % 04288 RGTR--
+190606002 Olm, Kräizwee         01822  01822                % 04288 RGTR--
+190901003 Capellen, Klouschter  01825 -01825                % 04288 RGTR--
+190901004 Capellen, Police      01826 -01826                % 04288 RGTR--
+190901002 Capellen, Hireknapp   01827 -01827                % 04288 RGTR--
+190903016 Mamer, Scoutshome     01828  01828                % 04288 RGTR--
+190903005 Mamer, Eglantiers     01828  01828                % 04288 RGTR--
+190903012 Mamer, Mambra         01830  01830                % 04288 RGTR--
+190903002 Mamer, Baerendall     01830  01830                % 04288 RGTR--
+190903001 Mamer, Arelerstrooss  01831  01831                % 04288 RGTR--
+190903007 Mamer, Gaaschtbierg   01832  01832                % 04288 RGTR--
+190903013 Mamer, Tossebierg     01833  01833                % 04288 RGTR--
+200101002 Bertrange, Belle Eto  01835  01835                % 04288 RGTR--
+200901011 Strassen, Schoenacht  01837 -01837                % 04288 RGTR--
+200901017 Strassen, Kesseler    01838 -01838                % 04288 RGTR--
+200901020 Strassen, Benelux     01840 -01840                % 04288 RGTR--
+200403021 Belair, Wandmillen    01845 -01845                % 04288 RGTR--
+200405045 Centre, Stäreplaz /   01848 -01848                % 04288 RGTR--
+200405004 Centre, Monterey Par  01854                       % 04288 RGTR--
+*Z 04289 RGTR--                                             % 04289 RGTR--
+*L 260      190603001 200405004  01105  01147               % 04289 RGTR--
+*A hr 190603001 200405004 000001  01105  01147              % 04289 RGTR--
+*A jv 190603001 200405004 000001  01105  01147              % 04289 RGTR--
+*R 2 200405004 190603001 200405004  01105  01147            % 04289 RGTR--
+*G RGB 190603001 200405004  01105  01147                    % 04289 RGTR--
+*A VE 190603001 200405004 000001  01105  01147              % 04289 RGTR--
+*I FD 190603001 200405004        0002646  01105  01147      % 04289 RGTR--
+190603001 Keispelt, Bei Péicke         01105                % 04289 RGTR--
+190603002 Keispelt, Spellen Ec  01105  01105                % 04289 RGTR--
+190604003 Meispelt, Kuesselt    01106  01106                % 04289 RGTR--
+190604001 Meispelt, Bei Mëlles  01107  01107                % 04289 RGTR--
+190604002 Meispelt, Kräizwee    01108  01108                % 04289 RGTR--
+190602011 KEHLEN, Katterwang    01109  01109                % 04289 RGTR--
+190602004 Kehlen, Schaarfeneck  01110  01110                % 04289 RGTR--
+190602001 Kehlen, Bei Fiewer    01111  01111                % 04289 RGTR--
+190602002 Kehlen, Enneschte Bu  01112  01112                % 04289 RGTR--
+190602009 Kehlen, Zone Industr  01114  01114                % 04289 RGTR--
+190602010 Kehlen, Zone Industr  01114  01114                % 04289 RGTR--
+190602006 Kehlen, Zone Industr  01115  01115                % 04289 RGTR--
+190605002 Nospelt, Kräizhiel    01116  01116                % 04289 RGTR--
+190605003 Nospelt, Pompjeesbau  01117  01117                % 04289 RGTR--
+190605001 Nospelt, Beim Gliese  01118  01118                % 04289 RGTR--
+190606003 Olm, Kréimerech       01121  01121                % 04289 RGTR--
+190606002 Olm, Kräizwee         01122  01122                % 04289 RGTR--
+190901003 Capellen, Klouschter  01123 -01123                % 04289 RGTR--
+190901004 Capellen, Police      01124 -01124                % 04289 RGTR--
+190901002 Capellen, Hireknapp   01125 -01125                % 04289 RGTR--
+190903016 Mamer, Scoutshome     01126  01126                % 04289 RGTR--
+190903005 Mamer, Eglantiers     01127  01127                % 04289 RGTR--
+190903012 Mamer, Mambra         01128  01128                % 04289 RGTR--
+190903002 Mamer, Baerendall     01128  01128                % 04289 RGTR--
+190903001 Mamer, Arelerstrooss  01129  01129                % 04289 RGTR--
+190903007 Mamer, Gaaschtbierg   01130  01130                % 04289 RGTR--
+190903013 Mamer, Tossebierg     01130  01130                % 04289 RGTR--
+200101002 Bertrange, Belle Eto  01132  01132                % 04289 RGTR--
+200901011 Strassen, Schoenacht  01133 -01133                % 04289 RGTR--
+200901017 Strassen, Kesseler    01134 -01134                % 04289 RGTR--
+200901020 Strassen, Benelux     01136 -01136                % 04289 RGTR--
+200403021 Belair, Wandmillen    01140 -01140                % 04289 RGTR--
+200405045 Centre, Stäreplaz /   01143 -01143                % 04289 RGTR--
+200405004 Centre, Monterey Par  01147                       % 04289 RGTR--
+*Z 04290 RGTR--                                             % 04290 RGTR--
+*L 260      190603001 200405004  01305  01347               % 04290 RGTR--
+*A hr 190603001 200405004 000001  01305  01347              % 04290 RGTR--
+*A jv 190603001 200405004 000001  01305  01347              % 04290 RGTR--
+*R 2 200405004 190603001 200405004  01305  01347            % 04290 RGTR--
+*G RGB 190603001 200405004  01305  01347                    % 04290 RGTR--
+*A VE 190603001 200405004 000001  01305  01347              % 04290 RGTR--
+*I FD 190603001 200405004        0002648  01305  01347      % 04290 RGTR--
+190603001 Keispelt, Bei Péicke         01305                % 04290 RGTR--
+190603002 Keispelt, Spellen Ec  01305  01305                % 04290 RGTR--
+190604003 Meispelt, Kuesselt    01306  01306                % 04290 RGTR--
+190604001 Meispelt, Bei Mëlles  01307  01307                % 04290 RGTR--
+190604002 Meispelt, Kräizwee    01308  01308                % 04290 RGTR--
+190602011 KEHLEN, Katterwang    01309  01309                % 04290 RGTR--
+190602004 Kehlen, Schaarfeneck  01310  01310                % 04290 RGTR--
+190602001 Kehlen, Bei Fiewer    01311  01311                % 04290 RGTR--
+190602002 Kehlen, Enneschte Bu  01312  01312                % 04290 RGTR--
+190602009 Kehlen, Zone Industr  01314  01314                % 04290 RGTR--
+190602010 Kehlen, Zone Industr  01314  01314                % 04290 RGTR--
+190602006 Kehlen, Zone Industr  01315  01315                % 04290 RGTR--
+190605002 Nospelt, Kräizhiel    01316  01316                % 04290 RGTR--
+190605003 Nospelt, Pompjeesbau  01317  01317                % 04290 RGTR--
+190605001 Nospelt, Beim Gliese  01318  01318                % 04290 RGTR--
+190606003 Olm, Kréimerech       01321  01321                % 04290 RGTR--
+190606002 Olm, Kräizwee         01322  01322                % 04290 RGTR--
+190901003 Capellen, Klouschter  01323 -01323                % 04290 RGTR--
+190901004 Capellen, Police      01324 -01324                % 04290 RGTR--
+190901002 Capellen, Hireknapp   01325 -01325                % 04290 RGTR--
+190903016 Mamer, Scoutshome     01326  01326                % 04290 RGTR--
+190903005 Mamer, Eglantiers     01327  01327                % 04290 RGTR--
+190903012 Mamer, Mambra         01328  01328                % 04290 RGTR--
+190903002 Mamer, Baerendall     01328  01328                % 04290 RGTR--
+190903001 Mamer, Arelerstrooss  01329  01329                % 04290 RGTR--
+190903007 Mamer, Gaaschtbierg   01330  01330                % 04290 RGTR--
+190903013 Mamer, Tossebierg     01330  01330                % 04290 RGTR--
+200101002 Bertrange, Belle Eto  01332  01332                % 04290 RGTR--
+200901011 Strassen, Schoenacht  01333 -01333                % 04290 RGTR--
+200901017 Strassen, Kesseler    01334 -01334                % 04290 RGTR--
+200901020 Strassen, Benelux     01336 -01336                % 04290 RGTR--
+200403021 Belair, Wandmillen    01340 -01340                % 04290 RGTR--
+200405045 Centre, Stäreplaz /   01343 -01343                % 04290 RGTR--
+200405004 Centre, Monterey Par  01347                       % 04290 RGTR--
+*Z 04291 RGTR--                                             % 04291 RGTR--
+*L 260      190603001 200405004  01505  01547               % 04291 RGTR--
+*A hr 190603001 200405004 000001  01505  01547              % 04291 RGTR--
+*A jv 190603001 200405004 000001  01505  01547              % 04291 RGTR--
+*R 2 200405004 190603001 200405004  01505  01547            % 04291 RGTR--
+*G RGB 190603001 200405004  01505  01547                    % 04291 RGTR--
+*A VE 190603001 200405004 000001  01505  01547              % 04291 RGTR--
+*I FD 190603001 200405004        0002948  01505  01547      % 04291 RGTR--
+190603001 Keispelt, Bei Péicke         01505                % 04291 RGTR--
+190603002 Keispelt, Spellen Ec  01505  01505                % 04291 RGTR--
+190604003 Meispelt, Kuesselt    01506  01506                % 04291 RGTR--
+190604001 Meispelt, Bei Mëlles  01507  01507                % 04291 RGTR--
+190604002 Meispelt, Kräizwee    01508  01508                % 04291 RGTR--
+190602011 KEHLEN, Katterwang    01509  01509                % 04291 RGTR--
+190602004 Kehlen, Schaarfeneck  01510  01510                % 04291 RGTR--
+190602001 Kehlen, Bei Fiewer    01511  01511                % 04291 RGTR--
+190602002 Kehlen, Enneschte Bu  01512  01512                % 04291 RGTR--
+190602009 Kehlen, Zone Industr  01514  01514                % 04291 RGTR--
+190602010 Kehlen, Zone Industr  01514  01514                % 04291 RGTR--
+190602006 Kehlen, Zone Industr  01515  01515                % 04291 RGTR--
+190605002 Nospelt, Kräizhiel    01516  01516                % 04291 RGTR--
+190605003 Nospelt, Pompjeesbau  01517  01517                % 04291 RGTR--
+190605001 Nospelt, Beim Gliese  01518  01518                % 04291 RGTR--
+190606003 Olm, Kréimerech       01521  01521                % 04291 RGTR--
+190606002 Olm, Kräizwee         01522  01522                % 04291 RGTR--
+190901003 Capellen, Klouschter  01523 -01523                % 04291 RGTR--
+190901004 Capellen, Police      01524 -01524                % 04291 RGTR--
+190901002 Capellen, Hireknapp   01525 -01525                % 04291 RGTR--
+190903016 Mamer, Scoutshome     01526  01526                % 04291 RGTR--
+190903005 Mamer, Eglantiers     01527  01527                % 04291 RGTR--
+190903012 Mamer, Mambra         01528  01528                % 04291 RGTR--
+190903002 Mamer, Baerendall     01528  01528                % 04291 RGTR--
+190903001 Mamer, Arelerstrooss  01529  01529                % 04291 RGTR--
+190903007 Mamer, Gaaschtbierg   01530  01530                % 04291 RGTR--
+190903013 Mamer, Tossebierg     01530  01530                % 04291 RGTR--
+200101002 Bertrange, Belle Eto  01532  01532                % 04291 RGTR--
+200901011 Strassen, Schoenacht  01533 -01533                % 04291 RGTR--
+200901017 Strassen, Kesseler    01534 -01534                % 04291 RGTR--
+200901020 Strassen, Benelux     01536 -01536                % 04291 RGTR--
+200403021 Belair, Wandmillen    01540 -01540                % 04291 RGTR--
+200405045 Centre, Stäreplaz /   01543 -01543                % 04291 RGTR--
+200405004 Centre, Monterey Par  01547                       % 04291 RGTR--
+*Z 04292 RGTR--                                             % 04292 RGTR--
+*L 260      190603001 200405004  02005  02047               % 04292 RGTR--
+*A hr 190603001 200405004 000001  02005  02047              % 04292 RGTR--
+*A jv 190603001 200405004 000001  02005  02047              % 04292 RGTR--
+*R 2 200405004 190603001 200405004  02005  02047            % 04292 RGTR--
+*G RGB 190603001 200405004  02005  02047                    % 04292 RGTR--
+*A VE 190603001 200405004 000001  02005  02047              % 04292 RGTR--
+*I FD 190603001 200405004        0002949  02005  02047      % 04292 RGTR--
+190603001 Keispelt, Bei Péicke         02005                % 04292 RGTR--
+190603002 Keispelt, Spellen Ec  02005  02005                % 04292 RGTR--
+190604003 Meispelt, Kuesselt    02006  02006                % 04292 RGTR--
+190604001 Meispelt, Bei Mëlles  02007  02007                % 04292 RGTR--
+190604002 Meispelt, Kräizwee    02008  02008                % 04292 RGTR--
+190602011 KEHLEN, Katterwang    02009  02009                % 04292 RGTR--
+190602004 Kehlen, Schaarfeneck  02010  02010                % 04292 RGTR--
+190602001 Kehlen, Bei Fiewer    02011  02011                % 04292 RGTR--
+190602002 Kehlen, Enneschte Bu  02012  02012                % 04292 RGTR--
+190602009 Kehlen, Zone Industr  02014  02014                % 04292 RGTR--
+190602010 Kehlen, Zone Industr  02014  02014                % 04292 RGTR--
+190602006 Kehlen, Zone Industr  02015  02015                % 04292 RGTR--
+190605002 Nospelt, Kräizhiel    02016  02016                % 04292 RGTR--
+190605003 Nospelt, Pompjeesbau  02017  02017                % 04292 RGTR--
+190605001 Nospelt, Beim Gliese  02018  02018                % 04292 RGTR--
+190606003 Olm, Kréimerech       02021  02021                % 04292 RGTR--
+190606002 Olm, Kräizwee         02022  02022                % 04292 RGTR--
+190901003 Capellen, Klouschter  02023 -02023                % 04292 RGTR--
+190901004 Capellen, Police      02024 -02024                % 04292 RGTR--
+190901002 Capellen, Hireknapp   02025 -02025                % 04292 RGTR--
+190903016 Mamer, Scoutshome     02026  02026                % 04292 RGTR--
+190903005 Mamer, Eglantiers     02027  02027                % 04292 RGTR--
+190903012 Mamer, Mambra         02028  02028                % 04292 RGTR--
+190903002 Mamer, Baerendall     02028  02028                % 04292 RGTR--
+190903001 Mamer, Arelerstrooss  02029  02029                % 04292 RGTR--
+190903007 Mamer, Gaaschtbierg   02030  02030                % 04292 RGTR--
+190903013 Mamer, Tossebierg     02030  02030                % 04292 RGTR--
+200101002 Bertrange, Belle Eto  02032  02032                % 04292 RGTR--
+200901011 Strassen, Schoenacht  02033 -02033                % 04292 RGTR--
+200901017 Strassen, Kesseler    02034 -02034                % 04292 RGTR--
+200901020 Strassen, Benelux     02036 -02036                % 04292 RGTR--
+200403021 Belair, Wandmillen    02040 -02040                % 04292 RGTR--
+200405045 Centre, Stäreplaz /   02043 -02043                % 04292 RGTR--
+200405004 Centre, Monterey Par  02047                       % 04292 RGTR--
+*Z 04293 RGTR--                                             % 04293 RGTR--
+*L 260      190603001 200405004  00505  00547               % 04293 RGTR--
+*A hr 190603001 200405004 000006  00505  00547              % 04293 RGTR--
+*A jv 190603001 200405004 000006  00505  00547              % 04293 RGTR--
+*R 2 200405004 190603001 200405004  00505  00547            % 04293 RGTR--
+*G RGB 190603001 200405004  00505  00547                    % 04293 RGTR--
+*A VE 190603001 200405004 000006  00505  00547              % 04293 RGTR--
+*I FD 190603001 200405004        0002039  00505  00547      % 04293 RGTR--
+190603001 Keispelt, Bei Péicke         00505                % 04293 RGTR--
+190603002 Keispelt, Spellen Ec  00505  00505                % 04293 RGTR--
+190604003 Meispelt, Kuesselt    00506  00506                % 04293 RGTR--
+190604001 Meispelt, Bei Mëlles  00507  00507                % 04293 RGTR--
+190604002 Meispelt, Kräizwee    00508  00508                % 04293 RGTR--
+190602011 KEHLEN, Katterwang    00509  00509                % 04293 RGTR--
+190602004 Kehlen, Schaarfeneck  00510  00510                % 04293 RGTR--
+190602001 Kehlen, Bei Fiewer    00511  00511                % 04293 RGTR--
+190602002 Kehlen, Enneschte Bu  00512  00512                % 04293 RGTR--
+190602009 Kehlen, Zone Industr  00514  00514                % 04293 RGTR--
+190602010 Kehlen, Zone Industr  00514  00514                % 04293 RGTR--
+190602006 Kehlen, Zone Industr  00515  00515                % 04293 RGTR--
+190605002 Nospelt, Kräizhiel    00516  00516                % 04293 RGTR--
+190605003 Nospelt, Pompjeesbau  00517  00517                % 04293 RGTR--
+190605001 Nospelt, Beim Gliese  00518  00518                % 04293 RGTR--
+190606003 Olm, Kréimerech       00521  00521                % 04293 RGTR--
+190606002 Olm, Kräizwee         00522  00522                % 04293 RGTR--
+190901003 Capellen, Klouschter  00523 -00523                % 04293 RGTR--
+190901004 Capellen, Police      00524 -00524                % 04293 RGTR--
+190901002 Capellen, Hireknapp   00525 -00525                % 04293 RGTR--
+190903016 Mamer, Scoutshome     00526  00526                % 04293 RGTR--
+190903005 Mamer, Eglantiers     00527  00527                % 04293 RGTR--
+190903012 Mamer, Mambra         00528  00528                % 04293 RGTR--
+190903002 Mamer, Baerendall     00528  00528                % 04293 RGTR--
+190903001 Mamer, Arelerstrooss  00529  00529                % 04293 RGTR--
+190903007 Mamer, Gaaschtbierg   00530  00530                % 04293 RGTR--
+190903013 Mamer, Tossebierg     00530  00530                % 04293 RGTR--
+200101002 Bertrange, Belle Eto  00532  00532                % 04293 RGTR--
+200901011 Strassen, Schoenacht  00533 -00533                % 04293 RGTR--
+200901017 Strassen, Kesseler    00534 -00534                % 04293 RGTR--
+200901020 Strassen, Benelux     00536 -00536                % 04293 RGTR--
+200403021 Belair, Wandmillen    00540 -00540                % 04293 RGTR--
+200405045 Centre, Stäreplaz /   00543 -00543                % 04293 RGTR--
+200405004 Centre, Monterey Par  00547                       % 04293 RGTR--
+*Z 04294 RGTR--                                             % 04294 RGTR--
+*L 260      190603001 200405004  00605  00647               % 04294 RGTR--
+*A hr 190603001 200405004 000006  00605  00647              % 04294 RGTR--
+*A jv 190603001 200405004 000006  00605  00647              % 04294 RGTR--
+*R 2 200405004 190603001 200405004  00605  00647            % 04294 RGTR--
+*G RGB 190603001 200405004  00605  00647                    % 04294 RGTR--
+*A VE 190603001 200405004 000006  00605  00647              % 04294 RGTR--
+*I FD 190603001 200405004        0002040  00605  00647      % 04294 RGTR--
+190603001 Keispelt, Bei Péicke         00605                % 04294 RGTR--
+190603002 Keispelt, Spellen Ec  00605  00605                % 04294 RGTR--
+190604003 Meispelt, Kuesselt    00606  00606                % 04294 RGTR--
+190604001 Meispelt, Bei Mëlles  00607  00607                % 04294 RGTR--
+190604002 Meispelt, Kräizwee    00608  00608                % 04294 RGTR--
+190602011 KEHLEN, Katterwang    00609  00609                % 04294 RGTR--
+190602004 Kehlen, Schaarfeneck  00610  00610                % 04294 RGTR--
+190602001 Kehlen, Bei Fiewer    00611  00611                % 04294 RGTR--
+190602002 Kehlen, Enneschte Bu  00612  00612                % 04294 RGTR--
+190602009 Kehlen, Zone Industr  00614  00614                % 04294 RGTR--
+190602010 Kehlen, Zone Industr  00614  00614                % 04294 RGTR--
+190602006 Kehlen, Zone Industr  00615  00615                % 04294 RGTR--
+190605002 Nospelt, Kräizhiel    00616  00616                % 04294 RGTR--
+190605003 Nospelt, Pompjeesbau  00617  00617                % 04294 RGTR--
+190605001 Nospelt, Beim Gliese  00618  00618                % 04294 RGTR--
+190606003 Olm, Kréimerech       00621  00621                % 04294 RGTR--
+190606002 Olm, Kräizwee         00622  00622                % 04294 RGTR--
+190901003 Capellen, Klouschter  00623 -00623                % 04294 RGTR--
+190901004 Capellen, Police      00624 -00624                % 04294 RGTR--
+190901002 Capellen, Hireknapp   00625 -00625                % 04294 RGTR--
+190903016 Mamer, Scoutshome     00626  00626                % 04294 RGTR--
+190903005 Mamer, Eglantiers     00627  00627                % 04294 RGTR--
+190903012 Mamer, Mambra         00628  00628                % 04294 RGTR--
+190903002 Mamer, Baerendall     00628  00628                % 04294 RGTR--
+190903001 Mamer, Arelerstrooss  00629  00629                % 04294 RGTR--
+190903007 Mamer, Gaaschtbierg   00630  00630                % 04294 RGTR--
+190903013 Mamer, Tossebierg     00630  00630                % 04294 RGTR--
+200101002 Bertrange, Belle Eto  00632  00632                % 04294 RGTR--
+200901011 Strassen, Schoenacht  00633 -00633                % 04294 RGTR--
+200901017 Strassen, Kesseler    00634 -00634                % 04294 RGTR--
+200901020 Strassen, Benelux     00636 -00636                % 04294 RGTR--
+200403021 Belair, Wandmillen    00640 -00640                % 04294 RGTR--
+200405045 Centre, Stäreplaz /   00643 -00643                % 04294 RGTR--
+200405004 Centre, Monterey Par  00647                       % 04294 RGTR--
+*Z 04295 RGTR--                                             % 04295 RGTR--
+*L 260      190603001 200405004  01005  01047               % 04295 RGTR--
+*A hr 190603001 200405004 000006  01005  01047              % 04295 RGTR--
+*A jv 190603001 200405004 000006  01005  01047              % 04295 RGTR--
+*R 2 200405004 190603001 200405004  01005  01047            % 04295 RGTR--
+*G RGB 190603001 200405004  01005  01047                    % 04295 RGTR--
+*A VE 190603001 200405004 000006  01005  01047              % 04295 RGTR--
+*I FD 190603001 200405004        0002947  01005  01047      % 04295 RGTR--
+190603001 Keispelt, Bei Péicke         01005                % 04295 RGTR--
+190603002 Keispelt, Spellen Ec  01005  01005                % 04295 RGTR--
+190604003 Meispelt, Kuesselt    01006  01006                % 04295 RGTR--
+190604001 Meispelt, Bei Mëlles  01007  01007                % 04295 RGTR--
+190604002 Meispelt, Kräizwee    01008  01008                % 04295 RGTR--
+190602011 KEHLEN, Katterwang    01009  01009                % 04295 RGTR--
+190602004 Kehlen, Schaarfeneck  01010  01010                % 04295 RGTR--
+190602001 Kehlen, Bei Fiewer    01011  01011                % 04295 RGTR--
+190602002 Kehlen, Enneschte Bu  01012  01012                % 04295 RGTR--
+190602009 Kehlen, Zone Industr  01014  01014                % 04295 RGTR--
+190602010 Kehlen, Zone Industr  01014  01014                % 04295 RGTR--
+190602006 Kehlen, Zone Industr  01015  01015                % 04295 RGTR--
+190605002 Nospelt, Kräizhiel    01016  01016                % 04295 RGTR--
+190605003 Nospelt, Pompjeesbau  01017  01017                % 04295 RGTR--
+190605001 Nospelt, Beim Gliese  01018  01018                % 04295 RGTR--
+190606003 Olm, Kréimerech       01021  01021                % 04295 RGTR--
+190606002 Olm, Kräizwee         01022  01022                % 04295 RGTR--
+190901003 Capellen, Klouschter  01023 -01023                % 04295 RGTR--
+190901004 Capellen, Police      01024 -01024                % 04295 RGTR--
+190901002 Capellen, Hireknapp   01025 -01025                % 04295 RGTR--
+190903016 Mamer, Scoutshome     01026  01026                % 04295 RGTR--
+190903005 Mamer, Eglantiers     01027  01027                % 04295 RGTR--
+190903012 Mamer, Mambra         01028  01028                % 04295 RGTR--
+190903002 Mamer, Baerendall     01028  01028                % 04295 RGTR--
+190903001 Mamer, Arelerstrooss  01029  01029                % 04295 RGTR--
+190903007 Mamer, Gaaschtbierg   01030  01030                % 04295 RGTR--
+190903013 Mamer, Tossebierg     01030  01030                % 04295 RGTR--
+200101002 Bertrange, Belle Eto  01032  01032                % 04295 RGTR--
+200901011 Strassen, Schoenacht  01033 -01033                % 04295 RGTR--
+200901017 Strassen, Kesseler    01034 -01034                % 04295 RGTR--
+200901020 Strassen, Benelux     01036 -01036                % 04295 RGTR--
+200403021 Belair, Wandmillen    01040 -01040                % 04295 RGTR--
+200405045 Centre, Stäreplaz /   01043 -01043                % 04295 RGTR--
+200405004 Centre, Monterey Par  01047                       % 04295 RGTR--
+*Z 04296 RGTR--                                             % 04296 RGTR--
+*L 260      190603001 200405004  01205  01247               % 04296 RGTR--
+*A hr 190603001 200405004 000006  01205  01247              % 04296 RGTR--
+*A jv 190603001 200405004 000006  01205  01247              % 04296 RGTR--
+*R 2 200405004 190603001 200405004  01205  01247            % 04296 RGTR--
+*G RGB 190603001 200405004  01205  01247                    % 04296 RGTR--
+*A VE 190603001 200405004 000006  01205  01247              % 04296 RGTR--
+*I FD 190603001 200405004        0002647  01205  01247      % 04296 RGTR--
+190603001 Keispelt, Bei Péicke         01205                % 04296 RGTR--
+190603002 Keispelt, Spellen Ec  01205  01205                % 04296 RGTR--
+190604003 Meispelt, Kuesselt    01206  01206                % 04296 RGTR--
+190604001 Meispelt, Bei Mëlles  01207  01207                % 04296 RGTR--
+190604002 Meispelt, Kräizwee    01208  01208                % 04296 RGTR--
+190602011 KEHLEN, Katterwang    01209  01209                % 04296 RGTR--
+190602004 Kehlen, Schaarfeneck  01210  01210                % 04296 RGTR--
+190602001 Kehlen, Bei Fiewer    01211  01211                % 04296 RGTR--
+190602002 Kehlen, Enneschte Bu  01212  01212                % 04296 RGTR--
+190602009 Kehlen, Zone Industr  01214  01214                % 04296 RGTR--
+190602010 Kehlen, Zone Industr  01214  01214                % 04296 RGTR--
+190602006 Kehlen, Zone Industr  01215  01215                % 04296 RGTR--
+190605002 Nospelt, Kräizhiel    01216  01216                % 04296 RGTR--
+190605003 Nospelt, Pompjeesbau  01217  01217                % 04296 RGTR--
+190605001 Nospelt, Beim Gliese  01218  01218                % 04296 RGTR--
+190606003 Olm, Kréimerech       01221  01221                % 04296 RGTR--
+190606002 Olm, Kräizwee         01222  01222                % 04296 RGTR--
+190901003 Capellen, Klouschter  01223 -01223                % 04296 RGTR--
+190901004 Capellen, Police      01224 -01224                % 04296 RGTR--
+190901002 Capellen, Hireknapp   01225 -01225                % 04296 RGTR--
+190903016 Mamer, Scoutshome     01226  01226                % 04296 RGTR--
+190903005 Mamer, Eglantiers     01227  01227                % 04296 RGTR--
+190903012 Mamer, Mambra         01228  01228                % 04296 RGTR--
+190903002 Mamer, Baerendall     01228  01228                % 04296 RGTR--
+190903001 Mamer, Arelerstrooss  01229  01229                % 04296 RGTR--
+190903007 Mamer, Gaaschtbierg   01230  01230                % 04296 RGTR--
+190903013 Mamer, Tossebierg     01230  01230                % 04296 RGTR--
+200101002 Bertrange, Belle Eto  01232  01232                % 04296 RGTR--
+200901011 Strassen, Schoenacht  01233 -01233                % 04296 RGTR--
+200901017 Strassen, Kesseler    01234 -01234                % 04296 RGTR--
+200901020 Strassen, Benelux     01236 -01236                % 04296 RGTR--
+200403021 Belair, Wandmillen    01240 -01240                % 04296 RGTR--
+200405045 Centre, Stäreplaz /   01243 -01243                % 04296 RGTR--
+200405004 Centre, Monterey Par  01247                       % 04296 RGTR--
+*Z 04297 RGTR--                                             % 04297 RGTR--
+*L 260      190603001 200405004  01405  01447               % 04297 RGTR--
+*A hr 190603001 200405004 000006  01405  01447              % 04297 RGTR--
+*A jv 190603001 200405004 000006  01405  01447              % 04297 RGTR--
+*R 2 200405004 190603001 200405004  01405  01447            % 04297 RGTR--
+*G RGB 190603001 200405004  01405  01447                    % 04297 RGTR--
+*A VE 190603001 200405004 000006  01405  01447              % 04297 RGTR--
+*I FD 190603001 200405004        0002649  01405  01447      % 04297 RGTR--
+190603001 Keispelt, Bei Péicke         01405                % 04297 RGTR--
+190603002 Keispelt, Spellen Ec  01405  01405                % 04297 RGTR--
+190604003 Meispelt, Kuesselt    01406  01406                % 04297 RGTR--
+190604001 Meispelt, Bei Mëlles  01407  01407                % 04297 RGTR--
+190604002 Meispelt, Kräizwee    01408  01408                % 04297 RGTR--
+190602011 KEHLEN, Katterwang    01409  01409                % 04297 RGTR--
+190602004 Kehlen, Schaarfeneck  01410  01410                % 04297 RGTR--
+190602001 Kehlen, Bei Fiewer    01411  01411                % 04297 RGTR--
+190602002 Kehlen, Enneschte Bu  01412  01412                % 04297 RGTR--
+190602009 Kehlen, Zone Industr  01414  01414                % 04297 RGTR--
+190602010 Kehlen, Zone Industr  01414  01414                % 04297 RGTR--
+190602006 Kehlen, Zone Industr  01415  01415                % 04297 RGTR--
+190605002 Nospelt, Kräizhiel    01416  01416                % 04297 RGTR--
+190605003 Nospelt, Pompjeesbau  01417  01417                % 04297 RGTR--
+190605001 Nospelt, Beim Gliese  01418  01418                % 04297 RGTR--
+190606003 Olm, Kréimerech       01421  01421                % 04297 RGTR--
+190606002 Olm, Kräizwee         01422  01422                % 04297 RGTR--
+190901003 Capellen, Klouschter  01423 -01423                % 04297 RGTR--
+190901004 Capellen, Police      01424 -01424                % 04297 RGTR--
+190901002 Capellen, Hireknapp   01425 -01425                % 04297 RGTR--
+190903016 Mamer, Scoutshome     01426  01426                % 04297 RGTR--
+190903005 Mamer, Eglantiers     01427  01427                % 04297 RGTR--
+190903012 Mamer, Mambra         01428  01428                % 04297 RGTR--
+190903002 Mamer, Baerendall     01428  01428                % 04297 RGTR--
+190903001 Mamer, Arelerstrooss  01429  01429                % 04297 RGTR--
+190903007 Mamer, Gaaschtbierg   01430  01430                % 04297 RGTR--
+190903013 Mamer, Tossebierg     01430  01430                % 04297 RGTR--
+200101002 Bertrange, Belle Eto  01432  01432                % 04297 RGTR--
+200901011 Strassen, Schoenacht  01433 -01433                % 04297 RGTR--
+200901017 Strassen, Kesseler    01434 -01434                % 04297 RGTR--
+200901020 Strassen, Benelux     01436 -01436                % 04297 RGTR--
+200403021 Belair, Wandmillen    01440 -01440                % 04297 RGTR--
+200405045 Centre, Stäreplaz /   01443 -01443                % 04297 RGTR--
+200405004 Centre, Monterey Par  01447                       % 04297 RGTR--
+*Z 04298 RGTR--                                             % 04298 RGTR--
+*L 260      190603001 200405004  01905  01947               % 04298 RGTR--
+*A hr 190603001 200405004 000006  01905  01947              % 04298 RGTR--
+*A jv 190603001 200405004 000006  01905  01947              % 04298 RGTR--
+*R 2 200405004 190603001 200405004  01905  01947            % 04298 RGTR--
+*G RGB 190603001 200405004  01905  01947                    % 04298 RGTR--
+*A VE 190603001 200405004 000006  01905  01947              % 04298 RGTR--
+*I FD 190603001 200405004        0002650  01905  01947      % 04298 RGTR--
+190603001 Keispelt, Bei Péicke         01905                % 04298 RGTR--
+190603002 Keispelt, Spellen Ec  01905  01905                % 04298 RGTR--
+190604003 Meispelt, Kuesselt    01906  01906                % 04298 RGTR--
+190604001 Meispelt, Bei Mëlles  01907  01907                % 04298 RGTR--
+190604002 Meispelt, Kräizwee    01908  01908                % 04298 RGTR--
+190602011 KEHLEN, Katterwang    01909  01909                % 04298 RGTR--
+190602004 Kehlen, Schaarfeneck  01910  01910                % 04298 RGTR--
+190602001 Kehlen, Bei Fiewer    01911  01911                % 04298 RGTR--
+190602002 Kehlen, Enneschte Bu  01912  01912                % 04298 RGTR--
+190602009 Kehlen, Zone Industr  01914  01914                % 04298 RGTR--
+190602010 Kehlen, Zone Industr  01914  01914                % 04298 RGTR--
+190602006 Kehlen, Zone Industr  01915  01915                % 04298 RGTR--
+190605002 Nospelt, Kräizhiel    01916  01916                % 04298 RGTR--
+190605003 Nospelt, Pompjeesbau  01917  01917                % 04298 RGTR--
+190605001 Nospelt, Beim Gliese  01918  01918                % 04298 RGTR--
+190606003 Olm, Kréimerech       01921  01921                % 04298 RGTR--
+190606002 Olm, Kräizwee         01922  01922                % 04298 RGTR--
+190901003 Capellen, Klouschter  01923 -01923                % 04298 RGTR--
+190901004 Capellen, Police      01924 -01924                % 04298 RGTR--
+190901002 Capellen, Hireknapp   01925 -01925                % 04298 RGTR--
+190903016 Mamer, Scoutshome     01926  01926                % 04298 RGTR--
+190903005 Mamer, Eglantiers     01927  01927                % 04298 RGTR--
+190903012 Mamer, Mambra         01928  01928                % 04298 RGTR--
+190903002 Mamer, Baerendall     01928  01928                % 04298 RGTR--
+190903001 Mamer, Arelerstrooss  01929  01929                % 04298 RGTR--
+190903007 Mamer, Gaaschtbierg   01930  01930                % 04298 RGTR--
+190903013 Mamer, Tossebierg     01930  01930                % 04298 RGTR--
+200101002 Bertrange, Belle Eto  01932  01932                % 04298 RGTR--
+200901011 Strassen, Schoenacht  01933 -01933                % 04298 RGTR--
+200901017 Strassen, Kesseler    01934 -01934                % 04298 RGTR--
+200901020 Strassen, Benelux     01936 -01936                % 04298 RGTR--
+200403021 Belair, Wandmillen    01940 -01940                % 04298 RGTR--
+200405045 Centre, Stäreplaz /   01943 -01943                % 04298 RGTR--
+200405004 Centre, Monterey Par  01947                       % 04298 RGTR--
+*Z 04299 RGTR--                                             % 04299 RGTR--
+*L 260      190603001 200405004  02105  02147               % 04299 RGTR--
+*A hr 190603001 200405004 000006  02105  02147              % 04299 RGTR--
+*A jv 190603001 200405004 000006  02105  02147              % 04299 RGTR--
+*R 2 200405004 190603001 200405004  02105  02147            % 04299 RGTR--
+*G RGB 190603001 200405004  02105  02147                    % 04299 RGTR--
+*A VE 190603001 200405004 000006  02105  02147              % 04299 RGTR--
+*I FD 190603001 200405004        0002950  02105  02147      % 04299 RGTR--
+190603001 Keispelt, Bei Péicke         02105                % 04299 RGTR--
+190603002 Keispelt, Spellen Ec  02105  02105                % 04299 RGTR--
+190604003 Meispelt, Kuesselt    02106  02106                % 04299 RGTR--
+190604001 Meispelt, Bei Mëlles  02107  02107                % 04299 RGTR--
+190604002 Meispelt, Kräizwee    02108  02108                % 04299 RGTR--
+190602011 KEHLEN, Katterwang    02109  02109                % 04299 RGTR--
+190602004 Kehlen, Schaarfeneck  02110  02110                % 04299 RGTR--
+190602001 Kehlen, Bei Fiewer    02111  02111                % 04299 RGTR--
+190602002 Kehlen, Enneschte Bu  02112  02112                % 04299 RGTR--
+190602009 Kehlen, Zone Industr  02114  02114                % 04299 RGTR--
+190602010 Kehlen, Zone Industr  02114  02114                % 04299 RGTR--
+190602006 Kehlen, Zone Industr  02115  02115                % 04299 RGTR--
+190605002 Nospelt, Kräizhiel    02116  02116                % 04299 RGTR--
+190605003 Nospelt, Pompjeesbau  02117  02117                % 04299 RGTR--
+190605001 Nospelt, Beim Gliese  02118  02118                % 04299 RGTR--
+190606003 Olm, Kréimerech       02121  02121                % 04299 RGTR--
+190606002 Olm, Kräizwee         02122  02122                % 04299 RGTR--
+190901003 Capellen, Klouschter  02123 -02123                % 04299 RGTR--
+190901004 Capellen, Police      02124 -02124                % 04299 RGTR--
+190901002 Capellen, Hireknapp   02125 -02125                % 04299 RGTR--
+190903016 Mamer, Scoutshome     02126  02126                % 04299 RGTR--
+190903005 Mamer, Eglantiers     02127  02127                % 04299 RGTR--
+190903012 Mamer, Mambra         02128  02128                % 04299 RGTR--
+190903002 Mamer, Baerendall     02128  02128                % 04299 RGTR--
+190903001 Mamer, Arelerstrooss  02129  02129                % 04299 RGTR--
+190903007 Mamer, Gaaschtbierg   02130  02130                % 04299 RGTR--
+190903013 Mamer, Tossebierg     02130  02130                % 04299 RGTR--
+200101002 Bertrange, Belle Eto  02132  02132                % 04299 RGTR--
+200901011 Strassen, Schoenacht  02133 -02133                % 04299 RGTR--
+200901017 Strassen, Kesseler    02134 -02134                % 04299 RGTR--
+200901020 Strassen, Benelux     02136 -02136                % 04299 RGTR--
+200403021 Belair, Wandmillen    02140 -02140                % 04299 RGTR--
+200405045 Centre, Stäreplaz /   02143 -02143                % 04299 RGTR--
+200405004 Centre, Monterey Par  02147                       % 04299 RGTR--
+*Z 04300 RGTR--                                             % 04300 RGTR--
+*L 260      190603001 200405004  02205  02247               % 04300 RGTR--
+*A hr 190603001 200405004 000006  02205  02247              % 04300 RGTR--
+*A jv 190603001 200405004 000006  02205  02247              % 04300 RGTR--
+*R 2 200405004 190603001 200405004  02205  02247            % 04300 RGTR--
+*G RGB 190603001 200405004  02205  02247                    % 04300 RGTR--
+*A VE 190603001 200405004 000006  02205  02247              % 04300 RGTR--
+*I FD 190603001 200405004        0002951  02205  02247      % 04300 RGTR--
+190603001 Keispelt, Bei Péicke         02205                % 04300 RGTR--
+190603002 Keispelt, Spellen Ec  02205  02205                % 04300 RGTR--
+190604003 Meispelt, Kuesselt    02206  02206                % 04300 RGTR--
+190604001 Meispelt, Bei Mëlles  02207  02207                % 04300 RGTR--
+190604002 Meispelt, Kräizwee    02208  02208                % 04300 RGTR--
+190602011 KEHLEN, Katterwang    02209  02209                % 04300 RGTR--
+190602004 Kehlen, Schaarfeneck  02210  02210                % 04300 RGTR--
+190602001 Kehlen, Bei Fiewer    02211  02211                % 04300 RGTR--
+190602002 Kehlen, Enneschte Bu  02212  02212                % 04300 RGTR--
+190602009 Kehlen, Zone Industr  02214  02214                % 04300 RGTR--
+190602010 Kehlen, Zone Industr  02214  02214                % 04300 RGTR--
+190602006 Kehlen, Zone Industr  02215  02215                % 04300 RGTR--
+190605002 Nospelt, Kräizhiel    02216  02216                % 04300 RGTR--
+190605003 Nospelt, Pompjeesbau  02217  02217                % 04300 RGTR--
+190605001 Nospelt, Beim Gliese  02218  02218                % 04300 RGTR--
+190606003 Olm, Kréimerech       02221  02221                % 04300 RGTR--
+190606002 Olm, Kräizwee         02222  02222                % 04300 RGTR--
+190901003 Capellen, Klouschter  02223 -02223                % 04300 RGTR--
+190901004 Capellen, Police      02224 -02224                % 04300 RGTR--
+190901002 Capellen, Hireknapp   02225 -02225                % 04300 RGTR--
+190903016 Mamer, Scoutshome     02226  02226                % 04300 RGTR--
+190903005 Mamer, Eglantiers     02227  02227                % 04300 RGTR--
+190903012 Mamer, Mambra         02228  02228                % 04300 RGTR--
+190903002 Mamer, Baerendall     02228  02228                % 04300 RGTR--
+190903001 Mamer, Arelerstrooss  02229  02229                % 04300 RGTR--
+190903007 Mamer, Gaaschtbierg   02230  02230                % 04300 RGTR--
+190903013 Mamer, Tossebierg     02230  02230                % 04300 RGTR--
+200101002 Bertrange, Belle Eto  02232  02232                % 04300 RGTR--
+200901011 Strassen, Schoenacht  02233 -02233                % 04300 RGTR--
+200901017 Strassen, Kesseler    02234 -02234                % 04300 RGTR--
+200901020 Strassen, Benelux     02236 -02236                % 04300 RGTR--
+200403021 Belair, Wandmillen    02240 -02240                % 04300 RGTR--
+200405045 Centre, Stäreplaz /   02243 -02243                % 04300 RGTR--
+200405004 Centre, Monterey Par  02247                       % 04300 RGTR--
+*Z 04301 RGTR--                                             % 04301 RGTR--
+*L 260      190603001 200405004  00905  00947               % 04301 RGTR--
+*A hr 190603001 200405004 000156  00905  00947              % 04301 RGTR--
+*A jv 190603001 200405004 000156  00905  00947              % 04301 RGTR--
+*R 2 200405004 190603001 200405004  00905  00947            % 04301 RGTR--
+*G RGB 190603001 200405004  00905  00947                    % 04301 RGTR--
+*A VE 190603001 200405004 000156  00905  00947              % 04301 RGTR--
+*I FD 190603001 200405004        0002252  00905  00947      % 04301 RGTR--
+190603001 Keispelt, Bei Péicke         00905                % 04301 RGTR--
+190603002 Keispelt, Spellen Ec  00905  00905                % 04301 RGTR--
+190604003 Meispelt, Kuesselt    00906  00906                % 04301 RGTR--
+190604001 Meispelt, Bei Mëlles  00907  00907                % 04301 RGTR--
+190604002 Meispelt, Kräizwee    00908  00908                % 04301 RGTR--
+190602011 KEHLEN, Katterwang    00909  00909                % 04301 RGTR--
+190602004 Kehlen, Schaarfeneck  00910  00910                % 04301 RGTR--
+190602001 Kehlen, Bei Fiewer    00911  00911                % 04301 RGTR--
+190602002 Kehlen, Enneschte Bu  00912  00912                % 04301 RGTR--
+190602009 Kehlen, Zone Industr  00914  00914                % 04301 RGTR--
+190602010 Kehlen, Zone Industr  00914  00914                % 04301 RGTR--
+190602006 Kehlen, Zone Industr  00915  00915                % 04301 RGTR--
+190605002 Nospelt, Kräizhiel    00916  00916                % 04301 RGTR--
+190605003 Nospelt, Pompjeesbau  00917  00917                % 04301 RGTR--
+190605001 Nospelt, Beim Gliese  00918  00918                % 04301 RGTR--
+190606003 Olm, Kréimerech       00921  00921                % 04301 RGTR--
+190606002 Olm, Kräizwee         00922  00922                % 04301 RGTR--
+190901003 Capellen, Klouschter  00923 -00923                % 04301 RGTR--
+190901004 Capellen, Police      00924 -00924                % 04301 RGTR--
+190901002 Capellen, Hireknapp   00925 -00925                % 04301 RGTR--
+190903016 Mamer, Scoutshome     00926  00926                % 04301 RGTR--
+190903005 Mamer, Eglantiers     00927  00927                % 04301 RGTR--
+190903012 Mamer, Mambra         00928  00928                % 04301 RGTR--
+190903002 Mamer, Baerendall     00928  00928                % 04301 RGTR--
+190903001 Mamer, Arelerstrooss  00929  00929                % 04301 RGTR--
+190903007 Mamer, Gaaschtbierg   00930  00930                % 04301 RGTR--
+190903013 Mamer, Tossebierg     00930  00930                % 04301 RGTR--
+200101002 Bertrange, Belle Eto  00932  00932                % 04301 RGTR--
+200901011 Strassen, Schoenacht  00933 -00933                % 04301 RGTR--
+200901017 Strassen, Kesseler    00934 -00934                % 04301 RGTR--
+200901020 Strassen, Benelux     00936 -00936                % 04301 RGTR--
+200403021 Belair, Wandmillen    00940 -00940                % 04301 RGTR--
+200405045 Centre, Stäreplaz /   00943 -00943                % 04301 RGTR--
+200405004 Centre, Monterey Par  00947                       % 04301 RGTR--
+*Z 04302 RGTR--                                             % 04302 RGTR--
+*L 260      190603001 200405004  01705  01747               % 04302 RGTR--
+*A hr 190603001 200405004 000156  01705  01747              % 04302 RGTR--
+*A jv 190603001 200405004 000156  01705  01747              % 04302 RGTR--
+*R 2 200405004 190603001 200405004  01705  01747            % 04302 RGTR--
+*G RGB 190603001 200405004  01705  01747                    % 04302 RGTR--
+*A VE 190603001 200405004 000156  01705  01747              % 04302 RGTR--
+*I FD 190603001 200405004        0002254  01705  01747      % 04302 RGTR--
+190603001 Keispelt, Bei Péicke         01705                % 04302 RGTR--
+190603002 Keispelt, Spellen Ec  01705  01705                % 04302 RGTR--
+190604003 Meispelt, Kuesselt    01706  01706                % 04302 RGTR--
+190604001 Meispelt, Bei Mëlles  01707  01707                % 04302 RGTR--
+190604002 Meispelt, Kräizwee    01708  01708                % 04302 RGTR--
+190602011 KEHLEN, Katterwang    01709  01709                % 04302 RGTR--
+190602004 Kehlen, Schaarfeneck  01710  01710                % 04302 RGTR--
+190602001 Kehlen, Bei Fiewer    01711  01711                % 04302 RGTR--
+190602002 Kehlen, Enneschte Bu  01712  01712                % 04302 RGTR--
+190602009 Kehlen, Zone Industr  01714  01714                % 04302 RGTR--
+190602010 Kehlen, Zone Industr  01714  01714                % 04302 RGTR--
+190602006 Kehlen, Zone Industr  01715  01715                % 04302 RGTR--
+190605002 Nospelt, Kräizhiel    01716  01716                % 04302 RGTR--
+190605003 Nospelt, Pompjeesbau  01717  01717                % 04302 RGTR--
+190605001 Nospelt, Beim Gliese  01718  01718                % 04302 RGTR--
+190606003 Olm, Kréimerech       01721  01721                % 04302 RGTR--
+190606002 Olm, Kräizwee         01722  01722                % 04302 RGTR--
+190901003 Capellen, Klouschter  01723 -01723                % 04302 RGTR--
+190901004 Capellen, Police      01724 -01724                % 04302 RGTR--
+190901002 Capellen, Hireknapp   01725 -01725                % 04302 RGTR--
+190903016 Mamer, Scoutshome     01726  01726                % 04302 RGTR--
+190903005 Mamer, Eglantiers     01727  01727                % 04302 RGTR--
+190903012 Mamer, Mambra         01728  01728                % 04302 RGTR--
+190903002 Mamer, Baerendall     01728  01728                % 04302 RGTR--
+190903001 Mamer, Arelerstrooss  01729  01729                % 04302 RGTR--
+190903007 Mamer, Gaaschtbierg   01730  01730                % 04302 RGTR--
+190903013 Mamer, Tossebierg     01730  01730                % 04302 RGTR--
+200101002 Bertrange, Belle Eto  01732  01732                % 04302 RGTR--
+200901011 Strassen, Schoenacht  01733 -01733                % 04302 RGTR--
+200901017 Strassen, Kesseler    01734 -01734                % 04302 RGTR--
+200901020 Strassen, Benelux     01736 -01736                % 04302 RGTR--
+200403021 Belair, Wandmillen    01740 -01740                % 04302 RGTR--
+200405045 Centre, Stäreplaz /   01743 -01743                % 04302 RGTR--
+200405004 Centre, Monterey Par  01747                       % 04302 RGTR--

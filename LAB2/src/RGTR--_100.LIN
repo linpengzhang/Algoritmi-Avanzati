@@ -1,0 +1,1795 @@
+*F 03 2
+*Z 01000 RGTR--                                             % 01000 RGTR--
+*L 100      200405005 140401004  00712  00827               % 01000 RGTR--
+*A bz 200405005 140401004 000006  00712  00827              % 01000 RGTR--
+*A AB 200405005 140401004 000006  00712  00827              % 01000 RGTR--
+*A ca 200405005 140401004 000006  00712  00827              % 01000 RGTR--
+*R 1 140401004 200405005 140401004  00712  00827            % 01000 RGTR--
+*G RGB 200405005 140401004  00712  00827                    % 01000 RGTR--
+*A VE 200405005 140401004 000006  00712  00827              % 01000 RGTR--
+*I FD 200405005 140401004        0001910  00712  00827      % 01000 RGTR--
+200405005 Centre, Badanstalt           00712                % 01000 RGTR--
+200410003 Eich, Eecher Plaz    -00716  00716                % 01000 RGTR--
+200409005 Dommeldange, Contour  00718  00718                % 01000 RGTR--
+200409006 Dommeldange, Dauschb  00720  00720                % 01000 RGTR--
+201005001 Stafelter             00723  00723                % 01000 RGTR--
+180505001 Eisenborn, Am Duerf   00729  00729                % 01000 RGTR--
+180510001 Imbringen, Am Duerf   00730  00730                % 01000 RGTR--
+180504003 Bourglinster, Buchho  00732  00732                % 01000 RGTR--
+180504002 Bourglinster, Am Due  00733  00733                % 01000 RGTR--
+180504001 Bourglinster, Am Bri  00735  00735                % 01000 RGTR--
+180501001 Altlinster            00737  00737                % 01000 RGTR--
+180508008 Godbrange, Op der Ha  00739  00739                % 01000 RGTR--
+180507001 Godbrange, Bei der K  00740  00740                % 01000 RGTR--
+180511001 Junglinster, Gemeng   00744  00744                % 01000 RGTR--
+180511002 Junglinster, Op der   00746  00746                % 01000 RGTR--
+180511007 Junglinster, Um Reil  00749  00749                % 01000 RGTR--
+180512003 Junglinster, P+R      00750  00750                % 01000 RGTR--
+180511006 Junglinster, Um Radi  00751  00751                % 01000 RGTR--
+180503001 Blumenthal/Blummenda  00754  00754                % 01000 RGTR--
+160502001 Reuland               00756  00756                % 01000 RGTR--
+160501004 Heffingen, Thommes    00758  00758                % 01000 RGTR--
+160501002 Heffingen, Centre     00759  00759                % 01000 RGTR--
+160601006 Larochette, Millewee  00802  00802                % 01000 RGTR--
+160601001 Larochette, Bleech    00803  00803                % 01000 RGTR--
+160601005 Larochette, Leedebac  00804  00804                % 01000 RGTR--
+141001001 Medernach, Fondation  00806  00806                % 01000 RGTR--
+141001003 Medernach, Op der Ga  00806  00806                % 01000 RGTR--
+141001004 Medernach, Op der La  00808  00808                % 01000 RGTR--
+140503001 Stegen, Bloen Eck     00813  00813                % 01000 RGTR--
+140503002 Stegen, Eglise        00815  00815                % 01000 RGTR--
+140503003 Stegen, Kreiz         00816  00816                % 01000 RGTR--
+140401016 Diekirch, Akerbausch  00821  00821                % 01000 RGTR--
+140401012 Diekirch, Fielserstr  00822  00822                % 01000 RGTR--
+140401011 Diekirch, Alexis Hec  00823  00823                % 01000 RGTR--
+140401006 Diekirch, Kluuster    00824  00824                % 01000 RGTR--
+140401004 Diekirch, Gare        00827                       % 01000 RGTR--
+*Z 01001 RGTR--                                             % 01001 RGTR--
+*L 100      200405005 140401004  00812  00927               % 01001 RGTR--
+*A bz 200405005 140401004 000006  00812  00927              % 01001 RGTR--
+*A AB 200405005 140401004 000006  00812  00927              % 01001 RGTR--
+*A ca 200405005 140401004 000006  00812  00927              % 01001 RGTR--
+*R 1 140401004 200405005 140401004  00812  00927            % 01001 RGTR--
+*G RGB 200405005 140401004  00812  00927                    % 01001 RGTR--
+*A VE 200405005 140401004 000006  00812  00927              % 01001 RGTR--
+*I FD 200405005 140401004        0002195  00812  00927      % 01001 RGTR--
+200405005 Centre, Badanstalt           00812                % 01001 RGTR--
+200410003 Eich, Eecher Plaz    -00816  00816                % 01001 RGTR--
+200409005 Dommeldange, Contour  00818  00818                % 01001 RGTR--
+200409006 Dommeldange, Dauschb  00820  00820                % 01001 RGTR--
+201005001 Stafelter             00823  00823                % 01001 RGTR--
+180505001 Eisenborn, Am Duerf   00829  00829                % 01001 RGTR--
+180510001 Imbringen, Am Duerf   00830  00830                % 01001 RGTR--
+180504003 Bourglinster, Buchho  00832  00832                % 01001 RGTR--
+180504002 Bourglinster, Am Due  00833  00833                % 01001 RGTR--
+180504001 Bourglinster, Am Bri  00835  00835                % 01001 RGTR--
+180501001 Altlinster            00837  00837                % 01001 RGTR--
+180508008 Godbrange, Op der Ha  00839  00839                % 01001 RGTR--
+180507001 Godbrange, Bei der K  00840  00840                % 01001 RGTR--
+180511001 Junglinster, Gemeng   00844  00844                % 01001 RGTR--
+180511002 Junglinster, Op der   00846  00846                % 01001 RGTR--
+180511007 Junglinster, Um Reil  00849  00849                % 01001 RGTR--
+180512003 Junglinster, P+R      00850  00850                % 01001 RGTR--
+180511006 Junglinster, Um Radi  00851  00851                % 01001 RGTR--
+180503001 Blumenthal/Blummenda  00854  00854                % 01001 RGTR--
+160502001 Reuland               00856  00856                % 01001 RGTR--
+160501004 Heffingen, Thommes    00858  00858                % 01001 RGTR--
+160501002 Heffingen, Centre     00859  00859                % 01001 RGTR--
+160601006 Larochette, Millewee  00902  00902                % 01001 RGTR--
+160601001 Larochette, Bleech    00903  00903                % 01001 RGTR--
+160601005 Larochette, Leedebac  00904  00904                % 01001 RGTR--
+141001001 Medernach, Fondation  00906  00906                % 01001 RGTR--
+141001003 Medernach, Op der Ga  00906  00906                % 01001 RGTR--
+141001004 Medernach, Op der La  00908  00908                % 01001 RGTR--
+140503001 Stegen, Bloen Eck     00913  00913                % 01001 RGTR--
+140503002 Stegen, Eglise        00915  00915                % 01001 RGTR--
+140503003 Stegen, Kreiz         00916  00916                % 01001 RGTR--
+140401016 Diekirch, Akerbausch  00921  00921                % 01001 RGTR--
+140401012 Diekirch, Fielserstr  00922  00922                % 01001 RGTR--
+140401011 Diekirch, Alexis Hec  00923  00923                % 01001 RGTR--
+140401006 Diekirch, Kluuster    00924  00924                % 01001 RGTR--
+140401004 Diekirch, Gare        00927                       % 01001 RGTR--
+*Z 01002 RGTR--                                             % 01002 RGTR--
+*L 100      200405005 140401004  00912  01027               % 01002 RGTR--
+*A bz 200405005 140401004 000006  00912  01027              % 01002 RGTR--
+*A AB 200405005 140401004 000006  00912  01027              % 01002 RGTR--
+*A ca 200405005 140401004 000006  00912  01027              % 01002 RGTR--
+*R 1 140401004 200405005 140401004  00912  01027            % 01002 RGTR--
+*G RGB 200405005 140401004  00912  01027                    % 01002 RGTR--
+*A VE 200405005 140401004 000006  00912  01027              % 01002 RGTR--
+*I FD 200405005 140401004        0002196  00912  01027      % 01002 RGTR--
+200405005 Centre, Badanstalt           00912                % 01002 RGTR--
+200410003 Eich, Eecher Plaz    -00916  00916                % 01002 RGTR--
+200409005 Dommeldange, Contour  00918  00918                % 01002 RGTR--
+200409006 Dommeldange, Dauschb  00920  00920                % 01002 RGTR--
+201005001 Stafelter             00923  00923                % 01002 RGTR--
+180505001 Eisenborn, Am Duerf   00929  00929                % 01002 RGTR--
+180510001 Imbringen, Am Duerf   00930  00930                % 01002 RGTR--
+180504003 Bourglinster, Buchho  00932  00932                % 01002 RGTR--
+180504002 Bourglinster, Am Due  00933  00933                % 01002 RGTR--
+180504001 Bourglinster, Am Bri  00935  00935                % 01002 RGTR--
+180501001 Altlinster            00937  00937                % 01002 RGTR--
+180508008 Godbrange, Op der Ha  00939  00939                % 01002 RGTR--
+180507001 Godbrange, Bei der K  00940  00940                % 01002 RGTR--
+180511001 Junglinster, Gemeng   00944  00944                % 01002 RGTR--
+180511002 Junglinster, Op der   00946  00946                % 01002 RGTR--
+180511007 Junglinster, Um Reil  00949  00949                % 01002 RGTR--
+180512003 Junglinster, P+R      00950  00950                % 01002 RGTR--
+180511006 Junglinster, Um Radi  00951  00951                % 01002 RGTR--
+180503001 Blumenthal/Blummenda  00954  00954                % 01002 RGTR--
+160502001 Reuland               00956  00956                % 01002 RGTR--
+160501004 Heffingen, Thommes    00958  00958                % 01002 RGTR--
+160501002 Heffingen, Centre     00959  00959                % 01002 RGTR--
+160601006 Larochette, Millewee  01002  01002                % 01002 RGTR--
+160601001 Larochette, Bleech    01003  01003                % 01002 RGTR--
+160601005 Larochette, Leedebac  01004  01004                % 01002 RGTR--
+141001001 Medernach, Fondation  01006  01006                % 01002 RGTR--
+141001003 Medernach, Op der Ga  01006  01006                % 01002 RGTR--
+141001004 Medernach, Op der La  01008  01008                % 01002 RGTR--
+140503001 Stegen, Bloen Eck     01013  01013                % 01002 RGTR--
+140503002 Stegen, Eglise        01015  01015                % 01002 RGTR--
+140503003 Stegen, Kreiz         01016  01016                % 01002 RGTR--
+140401016 Diekirch, Akerbausch  01021  01021                % 01002 RGTR--
+140401012 Diekirch, Fielserstr  01022  01022                % 01002 RGTR--
+140401011 Diekirch, Alexis Hec  01023  01023                % 01002 RGTR--
+140401006 Diekirch, Kluuster    01024  01024                % 01002 RGTR--
+140401004 Diekirch, Gare        01027                       % 01002 RGTR--
+*Z 01003 RGTR--                                             % 01003 RGTR--
+*L 100      200405005 140401004  01612  01727               % 01003 RGTR--
+*A bz 200405005 140401004 000006  01612  01727              % 01003 RGTR--
+*A AB 200405005 140401004 000006  01612  01727              % 01003 RGTR--
+*A AC 200405005 140401004 000006  01612  01727              % 01003 RGTR--
+*A ca 200405005 140401004 000006  01612  01727              % 01003 RGTR--
+*R 1 140401004 200405005 140401004  01612  01727            % 01003 RGTR--
+*G RGB 200405005 140401004  01612  01727                    % 01003 RGTR--
+*A VE 200405005 140401004 000006  01612  01727              % 01003 RGTR--
+*I FD 200405005 140401004        0002319  01612  01727      % 01003 RGTR--
+200405005 Centre, Badanstalt           01612                % 01003 RGTR--
+200410003 Eich, Eecher Plaz    -01616  01616                % 01003 RGTR--
+200409005 Dommeldange, Contour  01618  01618                % 01003 RGTR--
+200409006 Dommeldange, Dauschb  01620  01620                % 01003 RGTR--
+201005001 Stafelter             01623  01623                % 01003 RGTR--
+180505001 Eisenborn, Am Duerf   01629  01629                % 01003 RGTR--
+180510001 Imbringen, Am Duerf   01630  01630                % 01003 RGTR--
+180504003 Bourglinster, Buchho  01632  01632                % 01003 RGTR--
+180504002 Bourglinster, Am Due  01633  01633                % 01003 RGTR--
+180504001 Bourglinster, Am Bri  01635  01635                % 01003 RGTR--
+180501001 Altlinster            01637  01637                % 01003 RGTR--
+180508008 Godbrange, Op der Ha  01639  01639                % 01003 RGTR--
+180507001 Godbrange, Bei der K  01640  01640                % 01003 RGTR--
+180511001 Junglinster, Gemeng   01644  01644                % 01003 RGTR--
+180511002 Junglinster, Op der   01646  01646                % 01003 RGTR--
+180511007 Junglinster, Um Reil  01649  01649                % 01003 RGTR--
+180512003 Junglinster, P+R      01650  01650                % 01003 RGTR--
+180511006 Junglinster, Um Radi  01651  01651                % 01003 RGTR--
+180503001 Blumenthal/Blummenda  01654  01654                % 01003 RGTR--
+160502001 Reuland               01656  01656                % 01003 RGTR--
+160501004 Heffingen, Thommes    01658  01658                % 01003 RGTR--
+160501002 Heffingen, Centre     01659  01659                % 01003 RGTR--
+160601006 Larochette, Millewee  01702  01702                % 01003 RGTR--
+160601001 Larochette, Bleech    01703  01703                % 01003 RGTR--
+160601005 Larochette, Leedebac  01704  01704                % 01003 RGTR--
+141001001 Medernach, Fondation  01706  01706                % 01003 RGTR--
+141001003 Medernach, Op der Ga  01706  01706                % 01003 RGTR--
+141001004 Medernach, Op der La  01708  01708                % 01003 RGTR--
+140503001 Stegen, Bloen Eck     01713  01713                % 01003 RGTR--
+140503002 Stegen, Eglise        01715  01715                % 01003 RGTR--
+140503003 Stegen, Kreiz         01716  01716                % 01003 RGTR--
+140401016 Diekirch, Akerbausch  01721  01721                % 01003 RGTR--
+140401012 Diekirch, Fielserstr  01722  01722                % 01003 RGTR--
+140401011 Diekirch, Alexis Hec  01723  01723                % 01003 RGTR--
+140401006 Diekirch, Kluuster    01724  01724                % 01003 RGTR--
+140401004 Diekirch, Gare        01727                       % 01003 RGTR--
+*Z 01004 RGTR--                                             % 01004 RGTR--
+*L 100      200405005 140401004  01712  01827               % 01004 RGTR--
+*A bz 200405005 140401004 000006  01712  01827              % 01004 RGTR--
+*A AC 200405005 140401004 000006  01712  01827              % 01004 RGTR--
+*A ca 200405005 140401004 000006  01712  01827              % 01004 RGTR--
+*R 1 140401004 200405005 140401004  01712  01827            % 01004 RGTR--
+*G RGB 200405005 140401004  01712  01827                    % 01004 RGTR--
+*A VE 200405005 140401004 000006  01712  01827              % 01004 RGTR--
+*I FD 200405005 140401004        0002202  01712  01827      % 01004 RGTR--
+200405005 Centre, Badanstalt           01712                % 01004 RGTR--
+200410003 Eich, Eecher Plaz    -01716  01716                % 01004 RGTR--
+200409005 Dommeldange, Contour  01718  01718                % 01004 RGTR--
+200409006 Dommeldange, Dauschb  01720  01720                % 01004 RGTR--
+201005001 Stafelter             01723  01723                % 01004 RGTR--
+180505001 Eisenborn, Am Duerf   01729  01729                % 01004 RGTR--
+180510001 Imbringen, Am Duerf   01730  01730                % 01004 RGTR--
+180504003 Bourglinster, Buchho  01732  01732                % 01004 RGTR--
+180504002 Bourglinster, Am Due  01733  01733                % 01004 RGTR--
+180504001 Bourglinster, Am Bri  01735  01735                % 01004 RGTR--
+180501001 Altlinster            01737  01737                % 01004 RGTR--
+180508008 Godbrange, Op der Ha  01739  01739                % 01004 RGTR--
+180507001 Godbrange, Bei der K  01740  01740                % 01004 RGTR--
+180511001 Junglinster, Gemeng   01744  01744                % 01004 RGTR--
+180511002 Junglinster, Op der   01746  01746                % 01004 RGTR--
+180511007 Junglinster, Um Reil  01749  01749                % 01004 RGTR--
+180512003 Junglinster, P+R      01750  01750                % 01004 RGTR--
+180511006 Junglinster, Um Radi  01751  01751                % 01004 RGTR--
+180503001 Blumenthal/Blummenda  01754  01754                % 01004 RGTR--
+160502001 Reuland               01756  01756                % 01004 RGTR--
+160501004 Heffingen, Thommes    01758  01758                % 01004 RGTR--
+160501002 Heffingen, Centre     01759  01759                % 01004 RGTR--
+160601006 Larochette, Millewee  01802  01802                % 01004 RGTR--
+160601001 Larochette, Bleech    01803  01803                % 01004 RGTR--
+160601005 Larochette, Leedebac  01804  01804                % 01004 RGTR--
+141001001 Medernach, Fondation  01806  01806                % 01004 RGTR--
+141001003 Medernach, Op der Ga  01806  01806                % 01004 RGTR--
+141001004 Medernach, Op der La  01808  01808                % 01004 RGTR--
+140503001 Stegen, Bloen Eck     01813  01813                % 01004 RGTR--
+140503002 Stegen, Eglise        01815  01815                % 01004 RGTR--
+140503003 Stegen, Kreiz         01816  01816                % 01004 RGTR--
+140401016 Diekirch, Akerbausch  01821  01821                % 01004 RGTR--
+140401012 Diekirch, Fielserstr  01822  01822                % 01004 RGTR--
+140401011 Diekirch, Alexis Hec  01823  01823                % 01004 RGTR--
+140401006 Diekirch, Kluuster    01824  01824                % 01004 RGTR--
+140401004 Diekirch, Gare        01827                       % 01004 RGTR--
+*Z 01005 RGTR--                                             % 01005 RGTR--
+*L 100      200405005 140401004  01742  01857               % 01005 RGTR--
+*A bz 200405005 140401004 000006  01742  01857              % 01005 RGTR--
+*A AB 200405005 140401004 000006  01742  01857              % 01005 RGTR--
+*A AC 200405005 140401004 000006  01742  01857              % 01005 RGTR--
+*A ca 200405005 140401004 000006  01742  01857              % 01005 RGTR--
+*R 1 140401004 200405005 140401004  01742  01857            % 01005 RGTR--
+*G RGB 200405005 140401004  01742  01857                    % 01005 RGTR--
+*A VE 200405005 140401004 000006  01742  01857              % 01005 RGTR--
+*I FD 200405005 140401004        0002320  01742  01857      % 01005 RGTR--
+200405005 Centre, Badanstalt           01742                % 01005 RGTR--
+200410003 Eich, Eecher Plaz    -01746  01746                % 01005 RGTR--
+200409005 Dommeldange, Contour  01748  01748                % 01005 RGTR--
+200409006 Dommeldange, Dauschb  01750  01750                % 01005 RGTR--
+201005001 Stafelter             01753  01753                % 01005 RGTR--
+180505001 Eisenborn, Am Duerf   01759  01759                % 01005 RGTR--
+180510001 Imbringen, Am Duerf   01800  01800                % 01005 RGTR--
+180504003 Bourglinster, Buchho  01802  01802                % 01005 RGTR--
+180504002 Bourglinster, Am Due  01803  01803                % 01005 RGTR--
+180504001 Bourglinster, Am Bri  01805  01805                % 01005 RGTR--
+180501001 Altlinster            01807  01807                % 01005 RGTR--
+180508008 Godbrange, Op der Ha  01809  01809                % 01005 RGTR--
+180507001 Godbrange, Bei der K  01810  01810                % 01005 RGTR--
+180511001 Junglinster, Gemeng   01814  01814                % 01005 RGTR--
+180511002 Junglinster, Op der   01816  01816                % 01005 RGTR--
+180511007 Junglinster, Um Reil  01819  01819                % 01005 RGTR--
+180512003 Junglinster, P+R      01820  01820                % 01005 RGTR--
+180511006 Junglinster, Um Radi  01821  01821                % 01005 RGTR--
+180503001 Blumenthal/Blummenda  01824  01824                % 01005 RGTR--
+160502001 Reuland               01826  01826                % 01005 RGTR--
+160501004 Heffingen, Thommes    01828  01828                % 01005 RGTR--
+160501002 Heffingen, Centre     01829  01829                % 01005 RGTR--
+160601006 Larochette, Millewee  01832  01832                % 01005 RGTR--
+160601001 Larochette, Bleech    01833  01833                % 01005 RGTR--
+160601005 Larochette, Leedebac  01834  01834                % 01005 RGTR--
+141001001 Medernach, Fondation  01836  01836                % 01005 RGTR--
+141001003 Medernach, Op der Ga  01836  01836                % 01005 RGTR--
+141001004 Medernach, Op der La  01838  01838                % 01005 RGTR--
+140503001 Stegen, Bloen Eck     01843  01843                % 01005 RGTR--
+140503002 Stegen, Eglise        01845  01845                % 01005 RGTR--
+140503003 Stegen, Kreiz         01846  01846                % 01005 RGTR--
+140401016 Diekirch, Akerbausch  01851  01851                % 01005 RGTR--
+140401012 Diekirch, Fielserstr  01852  01852                % 01005 RGTR--
+140401011 Diekirch, Alexis Hec  01853  01853                % 01005 RGTR--
+140401006 Diekirch, Kluuster    01854  01854                % 01005 RGTR--
+140401004 Diekirch, Gare        01857                       % 01005 RGTR--
+*Z 01006 RGTR--                                             % 01006 RGTR--
+*L 100      200405005 140401004  01812  01927               % 01006 RGTR--
+*A bz 200405005 140401004 000006  01812  01927              % 01006 RGTR--
+*A AB 200405005 140401004 000006  01812  01927              % 01006 RGTR--
+*A AC 200405005 140401004 000006  01812  01927              % 01006 RGTR--
+*A ca 200405005 140401004 000006  01812  01927              % 01006 RGTR--
+*R 1 140401004 200405005 140401004  01812  01927            % 01006 RGTR--
+*G RGB 200405005 140401004  01812  01927                    % 01006 RGTR--
+*A VE 200405005 140401004 000006  01812  01927              % 01006 RGTR--
+*I FD 200405005 140401004        0002321  01812  01927      % 01006 RGTR--
+200405005 Centre, Badanstalt           01812                % 01006 RGTR--
+200410003 Eich, Eecher Plaz    -01816  01816                % 01006 RGTR--
+200409005 Dommeldange, Contour  01818  01818                % 01006 RGTR--
+200409006 Dommeldange, Dauschb  01820  01820                % 01006 RGTR--
+201005001 Stafelter             01823  01823                % 01006 RGTR--
+180505001 Eisenborn, Am Duerf   01829  01829                % 01006 RGTR--
+180510001 Imbringen, Am Duerf   01830  01830                % 01006 RGTR--
+180504003 Bourglinster, Buchho  01832  01832                % 01006 RGTR--
+180504002 Bourglinster, Am Due  01833  01833                % 01006 RGTR--
+180504001 Bourglinster, Am Bri  01835  01835                % 01006 RGTR--
+180501001 Altlinster            01837  01837                % 01006 RGTR--
+180508008 Godbrange, Op der Ha  01839  01839                % 01006 RGTR--
+180507001 Godbrange, Bei der K  01840  01840                % 01006 RGTR--
+180511001 Junglinster, Gemeng   01844  01844                % 01006 RGTR--
+180511002 Junglinster, Op der   01846  01846                % 01006 RGTR--
+180511007 Junglinster, Um Reil  01849  01849                % 01006 RGTR--
+180512003 Junglinster, P+R      01850  01850                % 01006 RGTR--
+180511006 Junglinster, Um Radi  01851  01851                % 01006 RGTR--
+180503001 Blumenthal/Blummenda  01854  01854                % 01006 RGTR--
+160502001 Reuland               01856  01856                % 01006 RGTR--
+160501004 Heffingen, Thommes    01858  01858                % 01006 RGTR--
+160501002 Heffingen, Centre     01859  01859                % 01006 RGTR--
+160601006 Larochette, Millewee  01902  01902                % 01006 RGTR--
+160601001 Larochette, Bleech    01903  01903                % 01006 RGTR--
+160601005 Larochette, Leedebac  01904  01904                % 01006 RGTR--
+141001001 Medernach, Fondation  01906  01906                % 01006 RGTR--
+141001003 Medernach, Op der Ga  01906  01906                % 01006 RGTR--
+141001004 Medernach, Op der La  01908  01908                % 01006 RGTR--
+140503001 Stegen, Bloen Eck     01913  01913                % 01006 RGTR--
+140503002 Stegen, Eglise        01915  01915                % 01006 RGTR--
+140503003 Stegen, Kreiz         01916  01916                % 01006 RGTR--
+140401016 Diekirch, Akerbausch  01921  01921                % 01006 RGTR--
+140401012 Diekirch, Fielserstr  01922  01922                % 01006 RGTR--
+140401011 Diekirch, Alexis Hec  01923  01923                % 01006 RGTR--
+140401006 Diekirch, Kluuster    01924  01924                % 01006 RGTR--
+140401004 Diekirch, Gare        01927                       % 01006 RGTR--
+*Z 01007 RGTR--                                             % 01007 RGTR--
+*L 100      200405005 140401004  01212  01322               % 01007 RGTR--
+*A bz 200405005 140401004 000001  01212  01322              % 01007 RGTR--
+*A AB 200405005 140401004 000006  01212  01322              % 01007 RGTR--
+*A ca 200405005 140401004 000001  01212  01322              % 01007 RGTR--
+*R 1 140401004 200405005 140401004  01212  01322            % 01007 RGTR--
+*G RGB 200405005 140401004  01212  01322                    % 01007 RGTR--
+*A VE 200405005 140401004 000001  01212  01322              % 01007 RGTR--
+*I FD 200405005 140401004        0002322  01212  01322      % 01007 RGTR--
+200405005 Centre, Badanstalt           01212                % 01007 RGTR--
+200410003 Eich, Eecher Plaz    -01215  01215                % 01007 RGTR--
+200409005 Dommeldange, Contour  01216  01216                % 01007 RGTR--
+200409006 Dommeldange, Dauschb  01218  01218                % 01007 RGTR--
+201005001 Stafelter             01221  01221                % 01007 RGTR--
+180505001 Eisenborn, Am Duerf   01226  01226                % 01007 RGTR--
+180510001 Imbringen, Am Duerf   01228  01228                % 01007 RGTR--
+180504003 Bourglinster, Buchho  01230  01230                % 01007 RGTR--
+180504002 Bourglinster, Am Due  01231  01231                % 01007 RGTR--
+180504001 Bourglinster, Am Bri  01232  01232                % 01007 RGTR--
+180501001 Altlinster            01234  01234                % 01007 RGTR--
+180508008 Godbrange, Op der Ha  01237  01237                % 01007 RGTR--
+180507001 Godbrange, Bei der K  01238  01238                % 01007 RGTR--
+180511001 Junglinster, Gemeng   01241  01241                % 01007 RGTR--
+180511002 Junglinster, Op der   01243  01243                % 01007 RGTR--
+180511007 Junglinster, Um Reil  01246  01246                % 01007 RGTR--
+180512003 Junglinster, P+R      01247  01247                % 01007 RGTR--
+180511006 Junglinster, Um Radi  01247  01247                % 01007 RGTR--
+180503001 Blumenthal/Blummenda  01250  01250                % 01007 RGTR--
+160502001 Reuland               01252  01252                % 01007 RGTR--
+160501004 Heffingen, Thommes    01255  01255                % 01007 RGTR--
+160501002 Heffingen, Centre     01256  01256                % 01007 RGTR--
+160601006 Larochette, Millewee  01259  01259                % 01007 RGTR--
+160601001 Larochette, Bleech    01259  01259                % 01007 RGTR--
+160601005 Larochette, Leedebac  01300  01300                % 01007 RGTR--
+141001001 Medernach, Fondation  01302  01302                % 01007 RGTR--
+141001003 Medernach, Op der Ga  01303  01303                % 01007 RGTR--
+141001004 Medernach, Op der La  01304  01304                % 01007 RGTR--
+140503001 Stegen, Bloen Eck     01308  01308                % 01007 RGTR--
+140503002 Stegen, Eglise        01310  01310                % 01007 RGTR--
+140503003 Stegen, Kreiz         01312  01312                % 01007 RGTR--
+140401016 Diekirch, Akerbausch  01316  01316                % 01007 RGTR--
+140401012 Diekirch, Fielserstr  01318  01318                % 01007 RGTR--
+140401011 Diekirch, Alexis Hec  01319  01319                % 01007 RGTR--
+140401006 Diekirch, Kluuster    01320  01320                % 01007 RGTR--
+140401004 Diekirch, Gare        01322                       % 01007 RGTR--
+*Z 01008 RGTR--                                             % 01008 RGTR--
+*L 100      200405005 140401004  02012  02122               % 01008 RGTR--
+*A bz 200405005 140401004 000001  02012  02122              % 01008 RGTR--
+*A AB 200405005 140401004 000006  02012  02122              % 01008 RGTR--
+*A ca 200405005 140401004 000001  02012  02122              % 01008 RGTR--
+*R 1 140401004 200405005 140401004  02012  02122            % 01008 RGTR--
+*G RGB 200405005 140401004  02012  02122                    % 01008 RGTR--
+*A VE 200405005 140401004 000001  02012  02122              % 01008 RGTR--
+*I FD 200405005 140401004        0002323  02012  02122      % 01008 RGTR--
+200405005 Centre, Badanstalt           02012                % 01008 RGTR--
+200410003 Eich, Eecher Plaz    -02015  02015                % 01008 RGTR--
+200409005 Dommeldange, Contour  02016  02016                % 01008 RGTR--
+200409006 Dommeldange, Dauschb  02018  02018                % 01008 RGTR--
+201005001 Stafelter             02021  02021                % 01008 RGTR--
+180505001 Eisenborn, Am Duerf   02026  02026                % 01008 RGTR--
+180510001 Imbringen, Am Duerf   02028  02028                % 01008 RGTR--
+180504003 Bourglinster, Buchho  02030  02030                % 01008 RGTR--
+180504002 Bourglinster, Am Due  02031  02031                % 01008 RGTR--
+180504001 Bourglinster, Am Bri  02032  02032                % 01008 RGTR--
+180501001 Altlinster            02034  02034                % 01008 RGTR--
+180508008 Godbrange, Op der Ha  02037  02037                % 01008 RGTR--
+180507001 Godbrange, Bei der K  02038  02038                % 01008 RGTR--
+180511001 Junglinster, Gemeng   02041  02041                % 01008 RGTR--
+180511002 Junglinster, Op der   02043  02043                % 01008 RGTR--
+180511007 Junglinster, Um Reil  02046  02046                % 01008 RGTR--
+180512003 Junglinster, P+R      02047  02047                % 01008 RGTR--
+180511006 Junglinster, Um Radi  02047  02047                % 01008 RGTR--
+180503001 Blumenthal/Blummenda  02050  02050                % 01008 RGTR--
+160502001 Reuland               02052  02052                % 01008 RGTR--
+160501004 Heffingen, Thommes    02055  02055                % 01008 RGTR--
+160501002 Heffingen, Centre     02056  02056                % 01008 RGTR--
+160601006 Larochette, Millewee  02059  02059                % 01008 RGTR--
+160601001 Larochette, Bleech    02059  02059                % 01008 RGTR--
+160601005 Larochette, Leedebac  02100  02100                % 01008 RGTR--
+141001001 Medernach, Fondation  02102  02102                % 01008 RGTR--
+141001003 Medernach, Op der Ga  02103  02103                % 01008 RGTR--
+141001004 Medernach, Op der La  02104  02104                % 01008 RGTR--
+140503001 Stegen, Bloen Eck     02108  02108                % 01008 RGTR--
+140503002 Stegen, Eglise        02110  02110                % 01008 RGTR--
+140503003 Stegen, Kreiz         02112  02112                % 01008 RGTR--
+140401016 Diekirch, Akerbausch  02116  02116                % 01008 RGTR--
+140401012 Diekirch, Fielserstr  02118  02118                % 01008 RGTR--
+140401011 Diekirch, Alexis Hec  02119  02119                % 01008 RGTR--
+140401006 Diekirch, Kluuster    02120  02120                % 01008 RGTR--
+140401004 Diekirch, Gare        02122                       % 01008 RGTR--
+*Z 01009 RGTR--                                             % 01009 RGTR--
+*L 100      200405005 140401004  01012  01122               % 01009 RGTR--
+*A bz 200405005 140401004 000006  01012  01122              % 01009 RGTR--
+*A AB 200405005 140401004 000006  01012  01122              % 01009 RGTR--
+*A ca 200405005 140401004 000006  01012  01122              % 01009 RGTR--
+*R 1 140401004 200405005 140401004  01012  01122            % 01009 RGTR--
+*G RGB 200405005 140401004  01012  01122                    % 01009 RGTR--
+*A VE 200405005 140401004 000006  01012  01122              % 01009 RGTR--
+*I FD 200405005 140401004        0002324  01012  01122      % 01009 RGTR--
+200405005 Centre, Badanstalt           01012                % 01009 RGTR--
+200410003 Eich, Eecher Plaz    -01015  01015                % 01009 RGTR--
+200409005 Dommeldange, Contour  01016  01016                % 01009 RGTR--
+200409006 Dommeldange, Dauschb  01018  01018                % 01009 RGTR--
+201005001 Stafelter             01021  01021                % 01009 RGTR--
+180505001 Eisenborn, Am Duerf   01026  01026                % 01009 RGTR--
+180510001 Imbringen, Am Duerf   01028  01028                % 01009 RGTR--
+180504003 Bourglinster, Buchho  01030  01030                % 01009 RGTR--
+180504002 Bourglinster, Am Due  01031  01031                % 01009 RGTR--
+180504001 Bourglinster, Am Bri  01032  01032                % 01009 RGTR--
+180501001 Altlinster            01034  01034                % 01009 RGTR--
+180508008 Godbrange, Op der Ha  01037  01037                % 01009 RGTR--
+180507001 Godbrange, Bei der K  01038  01038                % 01009 RGTR--
+180511001 Junglinster, Gemeng   01041  01041                % 01009 RGTR--
+180511002 Junglinster, Op der   01043  01043                % 01009 RGTR--
+180511007 Junglinster, Um Reil  01046  01046                % 01009 RGTR--
+180512003 Junglinster, P+R      01047  01047                % 01009 RGTR--
+180511006 Junglinster, Um Radi  01047  01047                % 01009 RGTR--
+180503001 Blumenthal/Blummenda  01050  01050                % 01009 RGTR--
+160502001 Reuland               01052  01052                % 01009 RGTR--
+160501004 Heffingen, Thommes    01055  01055                % 01009 RGTR--
+160501002 Heffingen, Centre     01056  01056                % 01009 RGTR--
+160601006 Larochette, Millewee  01059  01059                % 01009 RGTR--
+160601001 Larochette, Bleech    01059  01059                % 01009 RGTR--
+160601005 Larochette, Leedebac  01100  01100                % 01009 RGTR--
+141001001 Medernach, Fondation  01102  01102                % 01009 RGTR--
+141001003 Medernach, Op der Ga  01103  01103                % 01009 RGTR--
+141001004 Medernach, Op der La  01104  01104                % 01009 RGTR--
+140503001 Stegen, Bloen Eck     01108  01108                % 01009 RGTR--
+140503002 Stegen, Eglise        01110  01110                % 01009 RGTR--
+140503003 Stegen, Kreiz         01112  01112                % 01009 RGTR--
+140401016 Diekirch, Akerbausch  01116  01116                % 01009 RGTR--
+140401012 Diekirch, Fielserstr  01118  01118                % 01009 RGTR--
+140401011 Diekirch, Alexis Hec  01119  01119                % 01009 RGTR--
+140401006 Diekirch, Kluuster    01120  01120                % 01009 RGTR--
+140401004 Diekirch, Gare        01122                       % 01009 RGTR--
+*Z 01010 RGTR--                                             % 01010 RGTR--
+*L 100      200405005 140401004  01112  01222               % 01010 RGTR--
+*A bz 200405005 140401004 000006  01112  01222              % 01010 RGTR--
+*A AB 200405005 140401004 000006  01112  01222              % 01010 RGTR--
+*A ca 200405005 140401004 000006  01112  01222              % 01010 RGTR--
+*R 1 140401004 200405005 140401004  01112  01222            % 01010 RGTR--
+*G RGB 200405005 140401004  01112  01222                    % 01010 RGTR--
+*A VE 200405005 140401004 000006  01112  01222              % 01010 RGTR--
+*I FD 200405005 140401004        0001177  01112  01222      % 01010 RGTR--
+200405005 Centre, Badanstalt           01112                % 01010 RGTR--
+200410003 Eich, Eecher Plaz    -01115  01115                % 01010 RGTR--
+200409005 Dommeldange, Contour  01116  01116                % 01010 RGTR--
+200409006 Dommeldange, Dauschb  01118  01118                % 01010 RGTR--
+201005001 Stafelter             01121  01121                % 01010 RGTR--
+180505001 Eisenborn, Am Duerf   01126  01126                % 01010 RGTR--
+180510001 Imbringen, Am Duerf   01128  01128                % 01010 RGTR--
+180504003 Bourglinster, Buchho  01130  01130                % 01010 RGTR--
+180504002 Bourglinster, Am Due  01131  01131                % 01010 RGTR--
+180504001 Bourglinster, Am Bri  01132  01132                % 01010 RGTR--
+180501001 Altlinster            01134  01134                % 01010 RGTR--
+180508008 Godbrange, Op der Ha  01137  01137                % 01010 RGTR--
+180507001 Godbrange, Bei der K  01138  01138                % 01010 RGTR--
+180511001 Junglinster, Gemeng   01141  01141                % 01010 RGTR--
+180511002 Junglinster, Op der   01143  01143                % 01010 RGTR--
+180511007 Junglinster, Um Reil  01146  01146                % 01010 RGTR--
+180512003 Junglinster, P+R      01147  01147                % 01010 RGTR--
+180511006 Junglinster, Um Radi  01147  01147                % 01010 RGTR--
+180503001 Blumenthal/Blummenda  01150  01150                % 01010 RGTR--
+160502001 Reuland               01152  01152                % 01010 RGTR--
+160501004 Heffingen, Thommes    01155  01155                % 01010 RGTR--
+160501002 Heffingen, Centre     01156  01156                % 01010 RGTR--
+160601006 Larochette, Millewee  01159  01159                % 01010 RGTR--
+160601001 Larochette, Bleech    01159  01159                % 01010 RGTR--
+160601005 Larochette, Leedebac  01200  01200                % 01010 RGTR--
+141001001 Medernach, Fondation  01202  01202                % 01010 RGTR--
+141001003 Medernach, Op der Ga  01203  01203                % 01010 RGTR--
+141001004 Medernach, Op der La  01204  01204                % 01010 RGTR--
+140503001 Stegen, Bloen Eck     01208  01208                % 01010 RGTR--
+140503002 Stegen, Eglise        01210  01210                % 01010 RGTR--
+140503003 Stegen, Kreiz         01212  01212                % 01010 RGTR--
+140401016 Diekirch, Akerbausch  01216  01216                % 01010 RGTR--
+140401012 Diekirch, Fielserstr  01218  01218                % 01010 RGTR--
+140401011 Diekirch, Alexis Hec  01219  01219                % 01010 RGTR--
+140401006 Diekirch, Kluuster    01220  01220                % 01010 RGTR--
+140401004 Diekirch, Gare        01222                       % 01010 RGTR--
+*Z 01011 RGTR--                                             % 01011 RGTR--
+*L 100      200405005 140401004  01312  01422               % 01011 RGTR--
+*A bz 200405005 140401004 000006  01312  01422              % 01011 RGTR--
+*A AB 200405005 140401004 000006  01312  01422              % 01011 RGTR--
+*A ca 200405005 140401004 000006  01312  01422              % 01011 RGTR--
+*R 1 140401004 200405005 140401004  01312  01422            % 01011 RGTR--
+*G RGB 200405005 140401004  01312  01422                    % 01011 RGTR--
+*A VE 200405005 140401004 000006  01312  01422              % 01011 RGTR--
+*I FD 200405005 140401004        0002325  01312  01422      % 01011 RGTR--
+200405005 Centre, Badanstalt           01312                % 01011 RGTR--
+200410003 Eich, Eecher Plaz    -01315  01315                % 01011 RGTR--
+200409005 Dommeldange, Contour  01316  01316                % 01011 RGTR--
+200409006 Dommeldange, Dauschb  01318  01318                % 01011 RGTR--
+201005001 Stafelter             01321  01321                % 01011 RGTR--
+180505001 Eisenborn, Am Duerf   01326  01326                % 01011 RGTR--
+180510001 Imbringen, Am Duerf   01328  01328                % 01011 RGTR--
+180504003 Bourglinster, Buchho  01330  01330                % 01011 RGTR--
+180504002 Bourglinster, Am Due  01331  01331                % 01011 RGTR--
+180504001 Bourglinster, Am Bri  01332  01332                % 01011 RGTR--
+180501001 Altlinster            01334  01334                % 01011 RGTR--
+180508008 Godbrange, Op der Ha  01337  01337                % 01011 RGTR--
+180507001 Godbrange, Bei der K  01338  01338                % 01011 RGTR--
+180511001 Junglinster, Gemeng   01341  01341                % 01011 RGTR--
+180511002 Junglinster, Op der   01343  01343                % 01011 RGTR--
+180511007 Junglinster, Um Reil  01346  01346                % 01011 RGTR--
+180512003 Junglinster, P+R      01347  01347                % 01011 RGTR--
+180511006 Junglinster, Um Radi  01347  01347                % 01011 RGTR--
+180503001 Blumenthal/Blummenda  01350  01350                % 01011 RGTR--
+160502001 Reuland               01352  01352                % 01011 RGTR--
+160501004 Heffingen, Thommes    01355  01355                % 01011 RGTR--
+160501002 Heffingen, Centre     01356  01356                % 01011 RGTR--
+160601006 Larochette, Millewee  01359  01359                % 01011 RGTR--
+160601001 Larochette, Bleech    01359  01359                % 01011 RGTR--
+160601005 Larochette, Leedebac  01400  01400                % 01011 RGTR--
+141001001 Medernach, Fondation  01402  01402                % 01011 RGTR--
+141001003 Medernach, Op der Ga  01403  01403                % 01011 RGTR--
+141001004 Medernach, Op der La  01404  01404                % 01011 RGTR--
+140503001 Stegen, Bloen Eck     01408  01408                % 01011 RGTR--
+140503002 Stegen, Eglise        01410  01410                % 01011 RGTR--
+140503003 Stegen, Kreiz         01412  01412                % 01011 RGTR--
+140401016 Diekirch, Akerbausch  01416  01416                % 01011 RGTR--
+140401012 Diekirch, Fielserstr  01418  01418                % 01011 RGTR--
+140401011 Diekirch, Alexis Hec  01419  01419                % 01011 RGTR--
+140401006 Diekirch, Kluuster    01420  01420                % 01011 RGTR--
+140401004 Diekirch, Gare        01422                       % 01011 RGTR--
+*Z 01012 RGTR--                                             % 01012 RGTR--
+*L 100      200405005 140401004  01412  01522               % 01012 RGTR--
+*A bz 200405005 140401004 000006  01412  01522              % 01012 RGTR--
+*A AB 200405005 140401004 000006  01412  01522              % 01012 RGTR--
+*A ca 200405005 140401004 000006  01412  01522              % 01012 RGTR--
+*R 1 140401004 200405005 140401004  01412  01522            % 01012 RGTR--
+*G RGB 200405005 140401004  01412  01522                    % 01012 RGTR--
+*A VE 200405005 140401004 000006  01412  01522              % 01012 RGTR--
+*I FD 200405005 140401004        0002326  01412  01522      % 01012 RGTR--
+200405005 Centre, Badanstalt           01412                % 01012 RGTR--
+200410003 Eich, Eecher Plaz    -01415  01415                % 01012 RGTR--
+200409005 Dommeldange, Contour  01416  01416                % 01012 RGTR--
+200409006 Dommeldange, Dauschb  01418  01418                % 01012 RGTR--
+201005001 Stafelter             01421  01421                % 01012 RGTR--
+180505001 Eisenborn, Am Duerf   01426  01426                % 01012 RGTR--
+180510001 Imbringen, Am Duerf   01428  01428                % 01012 RGTR--
+180504003 Bourglinster, Buchho  01430  01430                % 01012 RGTR--
+180504002 Bourglinster, Am Due  01431  01431                % 01012 RGTR--
+180504001 Bourglinster, Am Bri  01432  01432                % 01012 RGTR--
+180501001 Altlinster            01434  01434                % 01012 RGTR--
+180508008 Godbrange, Op der Ha  01437  01437                % 01012 RGTR--
+180507001 Godbrange, Bei der K  01438  01438                % 01012 RGTR--
+180511001 Junglinster, Gemeng   01441  01441                % 01012 RGTR--
+180511002 Junglinster, Op der   01443  01443                % 01012 RGTR--
+180511007 Junglinster, Um Reil  01446  01446                % 01012 RGTR--
+180512003 Junglinster, P+R      01447  01447                % 01012 RGTR--
+180511006 Junglinster, Um Radi  01447  01447                % 01012 RGTR--
+180503001 Blumenthal/Blummenda  01450  01450                % 01012 RGTR--
+160502001 Reuland               01452  01452                % 01012 RGTR--
+160501004 Heffingen, Thommes    01455  01455                % 01012 RGTR--
+160501002 Heffingen, Centre     01456  01456                % 01012 RGTR--
+160601006 Larochette, Millewee  01459  01459                % 01012 RGTR--
+160601001 Larochette, Bleech    01459  01459                % 01012 RGTR--
+160601005 Larochette, Leedebac  01500  01500                % 01012 RGTR--
+141001001 Medernach, Fondation  01502  01502                % 01012 RGTR--
+141001003 Medernach, Op der Ga  01503  01503                % 01012 RGTR--
+141001004 Medernach, Op der La  01504  01504                % 01012 RGTR--
+140503001 Stegen, Bloen Eck     01508  01508                % 01012 RGTR--
+140503002 Stegen, Eglise        01510  01510                % 01012 RGTR--
+140503003 Stegen, Kreiz         01512  01512                % 01012 RGTR--
+140401016 Diekirch, Akerbausch  01516  01516                % 01012 RGTR--
+140401012 Diekirch, Fielserstr  01518  01518                % 01012 RGTR--
+140401011 Diekirch, Alexis Hec  01519  01519                % 01012 RGTR--
+140401006 Diekirch, Kluuster    01520  01520                % 01012 RGTR--
+140401004 Diekirch, Gare        01522                       % 01012 RGTR--
+*Z 01013 RGTR--                                             % 01013 RGTR--
+*L 100      200405005 140401004  01512  01622               % 01013 RGTR--
+*A bz 200405005 140401004 000006  01512  01622              % 01013 RGTR--
+*A AB 200405005 140401004 000006  01512  01622              % 01013 RGTR--
+*A ca 200405005 140401004 000006  01512  01622              % 01013 RGTR--
+*R 1 140401004 200405005 140401004  01512  01622            % 01013 RGTR--
+*G RGB 200405005 140401004  01512  01622                    % 01013 RGTR--
+*A VE 200405005 140401004 000006  01512  01622              % 01013 RGTR--
+*I FD 200405005 140401004        0002327  01512  01622      % 01013 RGTR--
+200405005 Centre, Badanstalt           01512                % 01013 RGTR--
+200410003 Eich, Eecher Plaz    -01515  01515                % 01013 RGTR--
+200409005 Dommeldange, Contour  01516  01516                % 01013 RGTR--
+200409006 Dommeldange, Dauschb  01518  01518                % 01013 RGTR--
+201005001 Stafelter             01521  01521                % 01013 RGTR--
+180505001 Eisenborn, Am Duerf   01526  01526                % 01013 RGTR--
+180510001 Imbringen, Am Duerf   01528  01528                % 01013 RGTR--
+180504003 Bourglinster, Buchho  01530  01530                % 01013 RGTR--
+180504002 Bourglinster, Am Due  01531  01531                % 01013 RGTR--
+180504001 Bourglinster, Am Bri  01532  01532                % 01013 RGTR--
+180501001 Altlinster            01534  01534                % 01013 RGTR--
+180508008 Godbrange, Op der Ha  01537  01537                % 01013 RGTR--
+180507001 Godbrange, Bei der K  01538  01538                % 01013 RGTR--
+180511001 Junglinster, Gemeng   01541  01541                % 01013 RGTR--
+180511002 Junglinster, Op der   01543  01543                % 01013 RGTR--
+180511007 Junglinster, Um Reil  01546  01546                % 01013 RGTR--
+180512003 Junglinster, P+R      01547  01547                % 01013 RGTR--
+180511006 Junglinster, Um Radi  01547  01547                % 01013 RGTR--
+180503001 Blumenthal/Blummenda  01550  01550                % 01013 RGTR--
+160502001 Reuland               01552  01552                % 01013 RGTR--
+160501004 Heffingen, Thommes    01555  01555                % 01013 RGTR--
+160501002 Heffingen, Centre     01556  01556                % 01013 RGTR--
+160601006 Larochette, Millewee  01559  01559                % 01013 RGTR--
+160601001 Larochette, Bleech    01559  01559                % 01013 RGTR--
+160601005 Larochette, Leedebac  01600  01600                % 01013 RGTR--
+141001001 Medernach, Fondation  01602  01602                % 01013 RGTR--
+141001003 Medernach, Op der Ga  01603  01603                % 01013 RGTR--
+141001004 Medernach, Op der La  01604  01604                % 01013 RGTR--
+140503001 Stegen, Bloen Eck     01608  01608                % 01013 RGTR--
+140503002 Stegen, Eglise        01610  01610                % 01013 RGTR--
+140503003 Stegen, Kreiz         01612  01612                % 01013 RGTR--
+140401016 Diekirch, Akerbausch  01616  01616                % 01013 RGTR--
+140401012 Diekirch, Fielserstr  01618  01618                % 01013 RGTR--
+140401011 Diekirch, Alexis Hec  01619  01619                % 01013 RGTR--
+140401006 Diekirch, Kluuster    01620  01620                % 01013 RGTR--
+140401004 Diekirch, Gare        01622                       % 01013 RGTR--
+*Z 01014 RGTR--                                             % 01014 RGTR--
+*L 100      200405005 140401004  01912  02022               % 01014 RGTR--
+*A bz 200405005 140401004 000006  01912  02022              % 01014 RGTR--
+*A AB 200405005 140401004 000006  01912  02022              % 01014 RGTR--
+*A AC 200405005 140401004 000006  01912  02022              % 01014 RGTR--
+*A ca 200405005 140401004 000006  01912  02022              % 01014 RGTR--
+*R 1 140401004 200405005 140401004  01912  02022            % 01014 RGTR--
+*G RGB 200405005 140401004  01912  02022                    % 01014 RGTR--
+*A VE 200405005 140401004 000006  01912  02022              % 01014 RGTR--
+*I FD 200405005 140401004        0002328  01912  02022      % 01014 RGTR--
+200405005 Centre, Badanstalt           01912                % 01014 RGTR--
+200410003 Eich, Eecher Plaz    -01915  01915                % 01014 RGTR--
+200409005 Dommeldange, Contour  01916  01916                % 01014 RGTR--
+200409006 Dommeldange, Dauschb  01918  01918                % 01014 RGTR--
+201005001 Stafelter             01921  01921                % 01014 RGTR--
+180505001 Eisenborn, Am Duerf   01926  01926                % 01014 RGTR--
+180510001 Imbringen, Am Duerf   01928  01928                % 01014 RGTR--
+180504003 Bourglinster, Buchho  01930  01930                % 01014 RGTR--
+180504002 Bourglinster, Am Due  01931  01931                % 01014 RGTR--
+180504001 Bourglinster, Am Bri  01932  01932                % 01014 RGTR--
+180501001 Altlinster            01934  01934                % 01014 RGTR--
+180508008 Godbrange, Op der Ha  01937  01937                % 01014 RGTR--
+180507001 Godbrange, Bei der K  01938  01938                % 01014 RGTR--
+180511001 Junglinster, Gemeng   01941  01941                % 01014 RGTR--
+180511002 Junglinster, Op der   01943  01943                % 01014 RGTR--
+180511007 Junglinster, Um Reil  01946  01946                % 01014 RGTR--
+180512003 Junglinster, P+R      01947  01947                % 01014 RGTR--
+180511006 Junglinster, Um Radi  01947  01947                % 01014 RGTR--
+180503001 Blumenthal/Blummenda  01950  01950                % 01014 RGTR--
+160502001 Reuland               01952  01952                % 01014 RGTR--
+160501004 Heffingen, Thommes    01955  01955                % 01014 RGTR--
+160501002 Heffingen, Centre     01956  01956                % 01014 RGTR--
+160601006 Larochette, Millewee  01959  01959                % 01014 RGTR--
+160601001 Larochette, Bleech    01959  01959                % 01014 RGTR--
+160601005 Larochette, Leedebac  02000  02000                % 01014 RGTR--
+141001001 Medernach, Fondation  02002  02002                % 01014 RGTR--
+141001003 Medernach, Op der Ga  02003  02003                % 01014 RGTR--
+141001004 Medernach, Op der La  02004  02004                % 01014 RGTR--
+140503001 Stegen, Bloen Eck     02008  02008                % 01014 RGTR--
+140503002 Stegen, Eglise        02010  02010                % 01014 RGTR--
+140503003 Stegen, Kreiz         02012  02012                % 01014 RGTR--
+140401016 Diekirch, Akerbausch  02016  02016                % 01014 RGTR--
+140401012 Diekirch, Fielserstr  02018  02018                % 01014 RGTR--
+140401011 Diekirch, Alexis Hec  02019  02019                % 01014 RGTR--
+140401006 Diekirch, Kluuster    02020  02020                % 01014 RGTR--
+140401004 Diekirch, Gare        02022                       % 01014 RGTR--
+*Z 01015 RGTR--                                             % 01015 RGTR--
+*L 100      200405005 140401004  01612  01722               % 01015 RGTR--
+*A bz 200405005 140401004 000156  01612  01722              % 01015 RGTR--
+*A ca 200405005 140401004 000156  01612  01722              % 01015 RGTR--
+*R 1 140401004 200405005 140401004  01612  01722            % 01015 RGTR--
+*G RGB 200405005 140401004  01612  01722                    % 01015 RGTR--
+*A VE 200405005 140401004 000156  01612  01722              % 01015 RGTR--
+*I FD 200405005 140401004        0002319  01612  01722      % 01015 RGTR--
+200405005 Centre, Badanstalt           01612                % 01015 RGTR--
+200410003 Eich, Eecher Plaz    -01615  01615                % 01015 RGTR--
+200409005 Dommeldange, Contour  01616  01616                % 01015 RGTR--
+200409006 Dommeldange, Dauschb  01618  01618                % 01015 RGTR--
+201005001 Stafelter             01621  01621                % 01015 RGTR--
+180505001 Eisenborn, Am Duerf   01626  01626                % 01015 RGTR--
+180510001 Imbringen, Am Duerf   01628  01628                % 01015 RGTR--
+180504003 Bourglinster, Buchho  01630  01630                % 01015 RGTR--
+180504002 Bourglinster, Am Due  01631  01631                % 01015 RGTR--
+180504001 Bourglinster, Am Bri  01632  01632                % 01015 RGTR--
+180501001 Altlinster            01634  01634                % 01015 RGTR--
+180508008 Godbrange, Op der Ha  01637  01637                % 01015 RGTR--
+180507001 Godbrange, Bei der K  01638  01638                % 01015 RGTR--
+180511001 Junglinster, Gemeng   01641  01641                % 01015 RGTR--
+180511002 Junglinster, Op der   01643  01643                % 01015 RGTR--
+180511007 Junglinster, Um Reil  01646  01646                % 01015 RGTR--
+180512003 Junglinster, P+R      01647  01647                % 01015 RGTR--
+180511006 Junglinster, Um Radi  01647  01647                % 01015 RGTR--
+180503001 Blumenthal/Blummenda  01650  01650                % 01015 RGTR--
+160502001 Reuland               01652  01652                % 01015 RGTR--
+160501004 Heffingen, Thommes    01655  01655                % 01015 RGTR--
+160501002 Heffingen, Centre     01656  01656                % 01015 RGTR--
+160601006 Larochette, Millewee  01659  01659                % 01015 RGTR--
+160601001 Larochette, Bleech    01659  01659                % 01015 RGTR--
+160601005 Larochette, Leedebac  01700  01700                % 01015 RGTR--
+141001001 Medernach, Fondation  01702  01702                % 01015 RGTR--
+141001003 Medernach, Op der Ga  01703  01703                % 01015 RGTR--
+141001004 Medernach, Op der La  01704  01704                % 01015 RGTR--
+140503001 Stegen, Bloen Eck     01708  01708                % 01015 RGTR--
+140503002 Stegen, Eglise        01710  01710                % 01015 RGTR--
+140503003 Stegen, Kreiz         01712  01712                % 01015 RGTR--
+140401016 Diekirch, Akerbausch  01716  01716                % 01015 RGTR--
+140401012 Diekirch, Fielserstr  01718  01718                % 01015 RGTR--
+140401011 Diekirch, Alexis Hec  01719  01719                % 01015 RGTR--
+140401006 Diekirch, Kluuster    01720  01720                % 01015 RGTR--
+140401004 Diekirch, Gare        01722                       % 01015 RGTR--
+*Z 01016 RGTR--                                             % 01016 RGTR--
+*L 100      200405005 160601001  02112  02159               % 01016 RGTR--
+*A bz 200405005 160601001 000006  02112  02159              % 01016 RGTR--
+*A AB 200405005 160601001 000006  02112  02159              % 01016 RGTR--
+*A cb 200405005 160601001 000006  02112  02159              % 01016 RGTR--
+*R 1 160601001 200405005 160601001  02112  02159            % 01016 RGTR--
+*G RGB 200405005 160601001  02112  02159                    % 01016 RGTR--
+*A VE 200405005 160601001 000006  02112  02159              % 01016 RGTR--
+*I FD 200405005 160601001        0002329  02112  02159      % 01016 RGTR--
+200405005 Centre, Badanstalt           02112                % 01016 RGTR--
+200410003 Eich, Eecher Plaz    -02115  02115                % 01016 RGTR--
+200409005 Dommeldange, Contour  02116  02116                % 01016 RGTR--
+200409006 Dommeldange, Dauschb  02118  02118                % 01016 RGTR--
+201005001 Stafelter             02121  02121                % 01016 RGTR--
+180505001 Eisenborn, Am Duerf   02126  02126                % 01016 RGTR--
+180510001 Imbringen, Am Duerf   02128  02128                % 01016 RGTR--
+180504003 Bourglinster, Buchho  02130  02130                % 01016 RGTR--
+180504002 Bourglinster, Am Due  02131  02131                % 01016 RGTR--
+180504001 Bourglinster, Am Bri  02132  02132                % 01016 RGTR--
+180501001 Altlinster            02134  02134                % 01016 RGTR--
+180508008 Godbrange, Op der Ha  02137  02137                % 01016 RGTR--
+180507001 Godbrange, Bei der K  02138  02138                % 01016 RGTR--
+180511001 Junglinster, Gemeng   02141  02141                % 01016 RGTR--
+180511002 Junglinster, Op der   02143  02143                % 01016 RGTR--
+180511007 Junglinster, Um Reil  02146  02146                % 01016 RGTR--
+180512003 Junglinster, P+R      02147  02147                % 01016 RGTR--
+180511006 Junglinster, Um Radi  02147  02147                % 01016 RGTR--
+180503001 Blumenthal/Blummenda  02150  02150                % 01016 RGTR--
+160502001 Reuland               02152  02152                % 01016 RGTR--
+160501004 Heffingen, Thommes    02155  02155                % 01016 RGTR--
+160501002 Heffingen, Centre     02156  02156                % 01016 RGTR--
+160601006 Larochette, Millewee  02159  02159                % 01016 RGTR--
+160601001 Larochette, Bleech    02159                       % 01016 RGTR--
+*Z 01017 RGTR--                                             % 01017 RGTR--
+*L 100      200405005 160601001  02212  02259               % 01017 RGTR--
+*A bz 200405005 160601001 000006  02212  02259              % 01017 RGTR--
+*A cb 200405005 160601001 000006  02212  02259              % 01017 RGTR--
+*R 1 160601001 200405005 160601001  02212  02259            % 01017 RGTR--
+*G RGB 200405005 160601001  02212  02259                    % 01017 RGTR--
+*A VE 200405005 160601001 000006  02212  02259              % 01017 RGTR--
+*I FD 200405005 160601001        0002330  02212  02259      % 01017 RGTR--
+200405005 Centre, Badanstalt           02212                % 01017 RGTR--
+200410003 Eich, Eecher Plaz    -02215  02215                % 01017 RGTR--
+200409005 Dommeldange, Contour  02216  02216                % 01017 RGTR--
+200409006 Dommeldange, Dauschb  02218  02218                % 01017 RGTR--
+201005001 Stafelter             02221  02221                % 01017 RGTR--
+180505001 Eisenborn, Am Duerf   02226  02226                % 01017 RGTR--
+180510001 Imbringen, Am Duerf   02228  02228                % 01017 RGTR--
+180504003 Bourglinster, Buchho  02230  02230                % 01017 RGTR--
+180504002 Bourglinster, Am Due  02231  02231                % 01017 RGTR--
+180504001 Bourglinster, Am Bri  02232  02232                % 01017 RGTR--
+180501001 Altlinster            02234  02234                % 01017 RGTR--
+180508008 Godbrange, Op der Ha  02237  02237                % 01017 RGTR--
+180507001 Godbrange, Bei der K  02238  02238                % 01017 RGTR--
+180511001 Junglinster, Gemeng   02241  02241                % 01017 RGTR--
+180511002 Junglinster, Op der   02243  02243                % 01017 RGTR--
+180511007 Junglinster, Um Reil  02246  02246                % 01017 RGTR--
+180512003 Junglinster, P+R      02247  02247                % 01017 RGTR--
+180511006 Junglinster, Um Radi  02247  02247                % 01017 RGTR--
+180503001 Blumenthal/Blummenda  02250  02250                % 01017 RGTR--
+160502001 Reuland               02252  02252                % 01017 RGTR--
+160501004 Heffingen, Thommes    02255  02255                % 01017 RGTR--
+160501002 Heffingen, Centre     02256  02256                % 01017 RGTR--
+160601006 Larochette, Millewee  02259  02259                % 01017 RGTR--
+160601001 Larochette, Bleech    02259                       % 01017 RGTR--
+*Z 01018 RGTR--                                             % 01018 RGTR--
+*L 100      200405005 160601001  02312  02359               % 01018 RGTR--
+*A bz 200405005 160601001 000006  02312  02359              % 01018 RGTR--
+*A cb 200405005 160601001 000006  02312  02359              % 01018 RGTR--
+*R 1 160601001 200405005 160601001  02312  02359            % 01018 RGTR--
+*G RGB 200405005 160601001  02312  02359                    % 01018 RGTR--
+*A VE 200405005 160601001 000006  02312  02359              % 01018 RGTR--
+*I FD 200405005 160601001        0002331  02312  02359      % 01018 RGTR--
+200405005 Centre, Badanstalt           02312                % 01018 RGTR--
+200410003 Eich, Eecher Plaz    -02315  02315                % 01018 RGTR--
+200409005 Dommeldange, Contour  02316  02316                % 01018 RGTR--
+200409006 Dommeldange, Dauschb  02318  02318                % 01018 RGTR--
+201005001 Stafelter             02321  02321                % 01018 RGTR--
+180505001 Eisenborn, Am Duerf   02326  02326                % 01018 RGTR--
+180510001 Imbringen, Am Duerf   02328  02328                % 01018 RGTR--
+180504003 Bourglinster, Buchho  02330  02330                % 01018 RGTR--
+180504002 Bourglinster, Am Due  02331  02331                % 01018 RGTR--
+180504001 Bourglinster, Am Bri  02332  02332                % 01018 RGTR--
+180501001 Altlinster            02334  02334                % 01018 RGTR--
+180508008 Godbrange, Op der Ha  02337  02337                % 01018 RGTR--
+180507001 Godbrange, Bei der K  02338  02338                % 01018 RGTR--
+180511001 Junglinster, Gemeng   02341  02341                % 01018 RGTR--
+180511002 Junglinster, Op der   02343  02343                % 01018 RGTR--
+180511007 Junglinster, Um Reil  02346  02346                % 01018 RGTR--
+180512003 Junglinster, P+R      02347  02347                % 01018 RGTR--
+180511006 Junglinster, Um Radi  02347  02347                % 01018 RGTR--
+180503001 Blumenthal/Blummenda  02350  02350                % 01018 RGTR--
+160502001 Reuland               02352  02352                % 01018 RGTR--
+160501004 Heffingen, Thommes    02355  02355                % 01018 RGTR--
+160501002 Heffingen, Centre     02356  02356                % 01018 RGTR--
+160601006 Larochette, Millewee  02359  02359                % 01018 RGTR--
+160601001 Larochette, Bleech    02359                       % 01018 RGTR--
+*Z 01019 RGTR--                                             % 01019 RGTR--
+*L 100      180505001 140401004  00542  00637               % 01019 RGTR--
+*A bz 180505001 140401004 000006  00542  00637              % 01019 RGTR--
+*A ca 180505001 140401004 000006  00542  00637              % 01019 RGTR--
+*R 1 140401004 180505001 140401004  00542  00637            % 01019 RGTR--
+*G RGB 180505001 140401004  00542  00637                    % 01019 RGTR--
+*A VE 180505001 140401004 000006  00542  00637              % 01019 RGTR--
+*I FD 180505001 140401004        0000916  00542  00637      % 01019 RGTR--
+180505001 Eisenborn, Am Duerf          00542                % 01019 RGTR--
+180510001 Imbringen, Am Duerf   00543  00543                % 01019 RGTR--
+180504003 Bourglinster, Buchho  00545  00545                % 01019 RGTR--
+180504002 Bourglinster, Am Due  00546  00546                % 01019 RGTR--
+180504001 Bourglinster, Am Bri  00548  00548                % 01019 RGTR--
+180501001 Altlinster            00550  00550                % 01019 RGTR--
+180508008 Godbrange, Op der Ha  00552  00552                % 01019 RGTR--
+180507001 Godbrange, Bei der K  00553  00553                % 01019 RGTR--
+180511001 Junglinster, Gemeng   00556  00556                % 01019 RGTR--
+180511002 Junglinster, Op der   00559  00559                % 01019 RGTR--
+180511007 Junglinster, Um Reil  00601  00601                % 01019 RGTR--
+180512003 Junglinster, P+R      00602  00602                % 01019 RGTR--
+180511006 Junglinster, Um Radi  00603  00603                % 01019 RGTR--
+180503001 Blumenthal/Blummenda  00606  00606                % 01019 RGTR--
+160502001 Reuland               00608  00608                % 01019 RGTR--
+160501004 Heffingen, Thommes    00610  00610                % 01019 RGTR--
+160501002 Heffingen, Centre     00611  00611                % 01019 RGTR--
+160601006 Larochette, Millewee  00614  00614                % 01019 RGTR--
+160601001 Larochette, Bleech    00615  00615                % 01019 RGTR--
+160601005 Larochette, Leedebac  00616  00616                % 01019 RGTR--
+141001001 Medernach, Fondation  00618  00618                % 01019 RGTR--
+141001003 Medernach, Op der Ga  00618  00618                % 01019 RGTR--
+141001004 Medernach, Op der La  00619  00619                % 01019 RGTR--
+140503001 Stegen, Bloen Eck     00624  00624                % 01019 RGTR--
+140503002 Stegen, Eglise        00626  00626                % 01019 RGTR--
+140503003 Stegen, Kreiz         00627  00627                % 01019 RGTR--
+140401016 Diekirch, Akerbausch  00632  00632                % 01019 RGTR--
+140401012 Diekirch, Fielserstr  00633  00633                % 01019 RGTR--
+140401011 Diekirch, Alexis Hec  00634  00634                % 01019 RGTR--
+140401006 Diekirch, Kluuster    00635  00635                % 01019 RGTR--
+140401004 Diekirch, Gare        00637                       % 01019 RGTR--
+*Z 01020 RGTR--                                             % 01020 RGTR--
+*L 100      180505001 140401004  00640  00738               % 01020 RGTR--
+*A bz 180505001 140401004 000006  00640  00738              % 01020 RGTR--
+*A ca 180505001 140401004 000006  00640  00738              % 01020 RGTR--
+*R 1 140401004 180505001 140401004  00640  00738            % 01020 RGTR--
+*G RGB 180505001 140401004  00640  00738                    % 01020 RGTR--
+*A VE 180505001 140401004 000006  00640  00738              % 01020 RGTR--
+*I FD 180505001 140401004        0002332  00640  00738      % 01020 RGTR--
+180505001 Eisenborn, Am Duerf          00640                % 01020 RGTR--
+180510001 Imbringen, Am Duerf   00641  00641                % 01020 RGTR--
+180504003 Bourglinster, Buchho  00643  00643                % 01020 RGTR--
+180504002 Bourglinster, Am Due  00644  00644                % 01020 RGTR--
+180504001 Bourglinster, Am Bri  00646  00646                % 01020 RGTR--
+180501001 Altlinster            00648  00648                % 01020 RGTR--
+180508008 Godbrange, Op der Ha  00650  00650                % 01020 RGTR--
+180507001 Godbrange, Bei der K  00651  00651                % 01020 RGTR--
+180511001 Junglinster, Gemeng   00655  00655                % 01020 RGTR--
+180511002 Junglinster, Op der   00657  00657                % 01020 RGTR--
+180511007 Junglinster, Um Reil  00700  00700                % 01020 RGTR--
+180512003 Junglinster, P+R      00701  00701                % 01020 RGTR--
+180511006 Junglinster, Um Radi  00702  00702                % 01020 RGTR--
+180503001 Blumenthal/Blummenda  00705  00705                % 01020 RGTR--
+160502001 Reuland               00707  00707                % 01020 RGTR--
+160501004 Heffingen, Thommes    00709  00709                % 01020 RGTR--
+160501002 Heffingen, Centre     00710  00710                % 01020 RGTR--
+160601006 Larochette, Millewee  00713  00713                % 01020 RGTR--
+160601001 Larochette, Bleech    00714  00714                % 01020 RGTR--
+160601005 Larochette, Leedebac  00715  00715                % 01020 RGTR--
+141001001 Medernach, Fondation  00717  00717                % 01020 RGTR--
+141001003 Medernach, Op der Ga  00717  00717                % 01020 RGTR--
+141001004 Medernach, Op der La  00719  00719                % 01020 RGTR--
+140503001 Stegen, Bloen Eck     00724  00724                % 01020 RGTR--
+140503002 Stegen, Eglise        00726  00726                % 01020 RGTR--
+140503003 Stegen, Kreiz         00727  00727                % 01020 RGTR--
+140401016 Diekirch, Akerbausch  00732  00732                % 01020 RGTR--
+140401012 Diekirch, Fielserstr  00733  00733                % 01020 RGTR--
+140401011 Diekirch, Alexis Hec  00734  00734                % 01020 RGTR--
+140401006 Diekirch, Kluuster    00735  00735                % 01020 RGTR--
+140401004 Diekirch, Gare        00738                       % 01020 RGTR--
+*Z 01021 RGTR--                                             % 01021 RGTR--
+*L 100      140401004 200405005  00643  00754               % 01021 RGTR--
+*A bz 140401004 200405005 000006  00643  00754              % 01021 RGTR--
+*A AD 140401004 200405005 000006  00643  00754              % 01021 RGTR--
+*A AE 140401004 200405005 000006  00643  00754              % 01021 RGTR--
+*A cc 140401004 200405005 000006  00643  00754              % 01021 RGTR--
+*R 2 200405005 140401004 200405005  00643  00754            % 01021 RGTR--
+*G RGB 140401004 200405005  00643  00754                    % 01021 RGTR--
+*A VE 140401004 200405005 000006  00643  00754              % 01021 RGTR--
+*I FD 140401004 200405005        0002333  00643  00754      % 01021 RGTR--
+140401004 Diekirch, Gare               00643                % 01021 RGTR--
+140401001 Diekirch, Altersheem  00644  00644                % 01021 RGTR--
+140401012 Diekirch, Fielserstr  00645  00645                % 01021 RGTR--
+140401016 Diekirch, Akerbausch  00647  00647                % 01021 RGTR--
+140503003 Stegen, Kreiz         00651  00651                % 01021 RGTR--
+140503002 Stegen, Eglise        00653  00653                % 01021 RGTR--
+140503001 Stegen, Bloen Eck     00654  00654                % 01021 RGTR--
+141001004 Medernach, Op der La  00659  00659                % 01021 RGTR--
+141001003 Medernach, Op der Ga  00700  00700                % 01021 RGTR--
+141001001 Medernach, Fondation  00701  00701                % 01021 RGTR--
+160601005 Larochette, Leedebac  00703  00703                % 01021 RGTR--
+160601001 Larochette, Bleech    00704  00704                % 01021 RGTR--
+160601006 Larochette, Millewee  00704  00704                % 01021 RGTR--
+160501002 Heffingen, Centre     00707  00707                % 01021 RGTR--
+160501004 Heffingen, Thommes    00709  00709                % 01021 RGTR--
+160502001 Reuland               00711  00711                % 01021 RGTR--
+180503001 Blumenthal/Blummenda  00713  00713                % 01021 RGTR--
+180511006 Junglinster, Um Radi  00716  00716                % 01021 RGTR--
+180512003 Junglinster, P+R      00717  00717                % 01021 RGTR--
+180511007 Junglinster, Um Reil  00719  00719                % 01021 RGTR--
+180511002 Junglinster, Op der   00720  00720                % 01021 RGTR--
+180511001 Junglinster, Gemeng   00723  00723                % 01021 RGTR--
+180507001 Godbrange, Bei der K  00726  00726                % 01021 RGTR--
+180508008 Godbrange, Op der Ha  00727  00727                % 01021 RGTR--
+180501001 Altlinster            00729  00729                % 01021 RGTR--
+180504001 Bourglinster, Am Bri  00732  00732                % 01021 RGTR--
+180504002 Bourglinster, Am Due  00733  00733                % 01021 RGTR--
+180504003 Bourglinster, Buchho  00734  00734                % 01021 RGTR--
+180510001 Imbringen, Am Duerf   00736  00736                % 01021 RGTR--
+180505001 Eisenborn, Am Duerf   00738  00738                % 01021 RGTR--
+201005001 Stafelter             00743  00743                % 01021 RGTR--
+200409006 Dommeldange, Dauschb  00746  00746                % 01021 RGTR--
+200409005 Dommeldange, Contour  00747  00747                % 01021 RGTR--
+200410003 Eich, Eecher Plaz     00750 -00750                % 01021 RGTR--
+200405005 Centre, Badanstalt    00754                       % 01021 RGTR--
+*Z 01022 RGTR--                                             % 01022 RGTR--
+*L 100      140401004 200405005  00713  00824               % 01022 RGTR--
+*A bz 140401004 200405005 000006  00713  00824              % 01022 RGTR--
+*A AD 140401004 200405005 000006  00713  00824              % 01022 RGTR--
+*A AE 140401004 200405005 000006  00713  00824              % 01022 RGTR--
+*A cc 140401004 200405005 000006  00713  00824              % 01022 RGTR--
+*A OB 140401004 200405005 000006  00713  00824              % 01022 RGTR--
+*R 2 200405005 140401004 200405005  00713  00824            % 01022 RGTR--
+*G RGB 140401004 200405005  00713  00824                    % 01022 RGTR--
+*A VE 140401004 200405005 000006  00713  00824              % 01022 RGTR--
+*I FD 140401004 200405005        0001916  00713  00824      % 01022 RGTR--
+140401004 Diekirch, Gare               00713                % 01022 RGTR--
+140401001 Diekirch, Altersheem  00714  00714                % 01022 RGTR--
+140401012 Diekirch, Fielserstr  00715  00715                % 01022 RGTR--
+140401016 Diekirch, Akerbausch  00717  00717                % 01022 RGTR--
+140503003 Stegen, Kreiz         00721  00721                % 01022 RGTR--
+140503002 Stegen, Eglise        00723  00723                % 01022 RGTR--
+140503001 Stegen, Bloen Eck     00724  00724                % 01022 RGTR--
+141001004 Medernach, Op der La  00729  00729                % 01022 RGTR--
+141001003 Medernach, Op der Ga  00730  00730                % 01022 RGTR--
+141001001 Medernach, Fondation  00731  00731                % 01022 RGTR--
+160601005 Larochette, Leedebac  00733  00733                % 01022 RGTR--
+160601001 Larochette, Bleech    00734  00734                % 01022 RGTR--
+160601006 Larochette, Millewee  00734  00734                % 01022 RGTR--
+160501002 Heffingen, Centre     00737  00737                % 01022 RGTR--
+160501004 Heffingen, Thommes    00739  00739                % 01022 RGTR--
+160502001 Reuland               00741  00741                % 01022 RGTR--
+180503001 Blumenthal/Blummenda  00743  00743                % 01022 RGTR--
+180511006 Junglinster, Um Radi  00746  00746                % 01022 RGTR--
+180512003 Junglinster, P+R      00747  00747                % 01022 RGTR--
+180511007 Junglinster, Um Reil  00749  00749                % 01022 RGTR--
+180511002 Junglinster, Op der   00750  00750                % 01022 RGTR--
+180511001 Junglinster, Gemeng   00753  00753                % 01022 RGTR--
+180507001 Godbrange, Bei der K  00756  00756                % 01022 RGTR--
+180508008 Godbrange, Op der Ha  00757  00757                % 01022 RGTR--
+180501001 Altlinster            00759  00759                % 01022 RGTR--
+180504001 Bourglinster, Am Bri  00802  00802                % 01022 RGTR--
+180504002 Bourglinster, Am Due  00803  00803                % 01022 RGTR--
+180504003 Bourglinster, Buchho  00804  00804                % 01022 RGTR--
+180510001 Imbringen, Am Duerf   00806  00806                % 01022 RGTR--
+180505001 Eisenborn, Am Duerf   00808  00808                % 01022 RGTR--
+201005001 Stafelter             00813  00813                % 01022 RGTR--
+200409006 Dommeldange, Dauschb  00816  00816                % 01022 RGTR--
+200409005 Dommeldange, Contour  00817  00817                % 01022 RGTR--
+200410003 Eich, Eecher Plaz     00820 -00820                % 01022 RGTR--
+200405005 Centre, Badanstalt    00824                       % 01022 RGTR--
+*Z 01023 RGTR--                                             % 01023 RGTR--
+*L 100      140401004 200405005  00813  00924               % 01023 RGTR--
+*A bz 140401004 200405005 000006  00813  00924              % 01023 RGTR--
+*A AD 140401004 200405005 000006  00813  00924              % 01023 RGTR--
+*A AE 140401004 200405005 000006  00813  00924              % 01023 RGTR--
+*A AG 140401004 200405005 000006  00813  00924              % 01023 RGTR--
+*A cc 140401004 200405005 000006  00813  00924              % 01023 RGTR--
+*R 2 200405005 140401004 200405005  00813  00924            % 01023 RGTR--
+*G RGB 140401004 200405005  00813  00924                    % 01023 RGTR--
+*A VE 140401004 200405005 000006  00813  00924              % 01023 RGTR--
+*I FD 140401004 200405005        0001919  00813  00924      % 01023 RGTR--
+140401004 Diekirch, Gare               00813                % 01023 RGTR--
+140401001 Diekirch, Altersheem  00814  00814                % 01023 RGTR--
+140401012 Diekirch, Fielserstr  00815  00815                % 01023 RGTR--
+140401016 Diekirch, Akerbausch  00817  00817                % 01023 RGTR--
+140503003 Stegen, Kreiz         00821  00821                % 01023 RGTR--
+140503002 Stegen, Eglise        00823  00823                % 01023 RGTR--
+140503001 Stegen, Bloen Eck     00824  00824                % 01023 RGTR--
+141001004 Medernach, Op der La  00829  00829                % 01023 RGTR--
+141001003 Medernach, Op der Ga  00830  00830                % 01023 RGTR--
+141001001 Medernach, Fondation  00831  00831                % 01023 RGTR--
+160601005 Larochette, Leedebac  00833  00833                % 01023 RGTR--
+160601001 Larochette, Bleech    00834  00834                % 01023 RGTR--
+160601006 Larochette, Millewee  00834  00834                % 01023 RGTR--
+160501002 Heffingen, Centre     00837  00837                % 01023 RGTR--
+160501004 Heffingen, Thommes    00839  00839                % 01023 RGTR--
+160502001 Reuland               00841  00841                % 01023 RGTR--
+180503001 Blumenthal/Blummenda  00843  00843                % 01023 RGTR--
+180511006 Junglinster, Um Radi  00846  00846                % 01023 RGTR--
+180512003 Junglinster, P+R      00847  00847                % 01023 RGTR--
+180511007 Junglinster, Um Reil  00849  00849                % 01023 RGTR--
+180511002 Junglinster, Op der   00850  00850                % 01023 RGTR--
+180511001 Junglinster, Gemeng   00853  00853                % 01023 RGTR--
+180507001 Godbrange, Bei der K  00856  00856                % 01023 RGTR--
+180508008 Godbrange, Op der Ha  00857  00857                % 01023 RGTR--
+180501001 Altlinster            00859  00859                % 01023 RGTR--
+180504001 Bourglinster, Am Bri  00902  00902                % 01023 RGTR--
+180504002 Bourglinster, Am Due  00903  00903                % 01023 RGTR--
+180504003 Bourglinster, Buchho  00904  00904                % 01023 RGTR--
+180510001 Imbringen, Am Duerf   00906  00906                % 01023 RGTR--
+180505001 Eisenborn, Am Duerf   00908  00908                % 01023 RGTR--
+201005001 Stafelter             00913  00913                % 01023 RGTR--
+200409006 Dommeldange, Dauschb  00916  00916                % 01023 RGTR--
+200409005 Dommeldange, Contour  00917  00917                % 01023 RGTR--
+200410003 Eich, Eecher Plaz     00920 -00920                % 01023 RGTR--
+200405005 Centre, Badanstalt    00924                       % 01023 RGTR--
+*Z 01024 RGTR--                                             % 01024 RGTR--
+*L 100      140401004 200405005  00913  01024               % 01024 RGTR--
+*A bz 140401004 200405005 000006  00913  01024              % 01024 RGTR--
+*A AD 140401004 200405005 000006  00913  01024              % 01024 RGTR--
+*A AE 140401004 200405005 000006  00913  01024              % 01024 RGTR--
+*A cc 140401004 200405005 000006  00913  01024              % 01024 RGTR--
+*R 2 200405005 140401004 200405005  00913  01024            % 01024 RGTR--
+*G RGB 140401004 200405005  00913  01024                    % 01024 RGTR--
+*A VE 140401004 200405005 000006  00913  01024              % 01024 RGTR--
+*I FD 140401004 200405005        0001922  00913  01024      % 01024 RGTR--
+140401004 Diekirch, Gare               00913                % 01024 RGTR--
+140401001 Diekirch, Altersheem  00914  00914                % 01024 RGTR--
+140401012 Diekirch, Fielserstr  00915  00915                % 01024 RGTR--
+140401016 Diekirch, Akerbausch  00917  00917                % 01024 RGTR--
+140503003 Stegen, Kreiz         00921  00921                % 01024 RGTR--
+140503002 Stegen, Eglise        00923  00923                % 01024 RGTR--
+140503001 Stegen, Bloen Eck     00924  00924                % 01024 RGTR--
+141001004 Medernach, Op der La  00929  00929                % 01024 RGTR--
+141001003 Medernach, Op der Ga  00930  00930                % 01024 RGTR--
+141001001 Medernach, Fondation  00931  00931                % 01024 RGTR--
+160601005 Larochette, Leedebac  00933  00933                % 01024 RGTR--
+160601001 Larochette, Bleech    00934  00934                % 01024 RGTR--
+160601006 Larochette, Millewee  00934  00934                % 01024 RGTR--
+160501002 Heffingen, Centre     00937  00937                % 01024 RGTR--
+160501004 Heffingen, Thommes    00939  00939                % 01024 RGTR--
+160502001 Reuland               00941  00941                % 01024 RGTR--
+180503001 Blumenthal/Blummenda  00943  00943                % 01024 RGTR--
+180511006 Junglinster, Um Radi  00946  00946                % 01024 RGTR--
+180512003 Junglinster, P+R      00947  00947                % 01024 RGTR--
+180511007 Junglinster, Um Reil  00949  00949                % 01024 RGTR--
+180511002 Junglinster, Op der   00950  00950                % 01024 RGTR--
+180511001 Junglinster, Gemeng   00953  00953                % 01024 RGTR--
+180507001 Godbrange, Bei der K  00956  00956                % 01024 RGTR--
+180508008 Godbrange, Op der Ha  00957  00957                % 01024 RGTR--
+180501001 Altlinster            00959  00959                % 01024 RGTR--
+180504001 Bourglinster, Am Bri  01002  01002                % 01024 RGTR--
+180504002 Bourglinster, Am Due  01003  01003                % 01024 RGTR--
+180504003 Bourglinster, Buchho  01004  01004                % 01024 RGTR--
+180510001 Imbringen, Am Duerf   01006  01006                % 01024 RGTR--
+180505001 Eisenborn, Am Duerf   01008  01008                % 01024 RGTR--
+201005001 Stafelter             01013  01013                % 01024 RGTR--
+200409006 Dommeldange, Dauschb  01016  01016                % 01024 RGTR--
+200409005 Dommeldange, Contour  01017  01017                % 01024 RGTR--
+200410003 Eich, Eecher Plaz     01020 -01020                % 01024 RGTR--
+200405005 Centre, Badanstalt    01024                       % 01024 RGTR--
+*Z 01025 RGTR--                                             % 01025 RGTR--
+*L 100      140401004 200405005  01613  01724               % 01025 RGTR--
+*A bz 140401004 200405005 000006  01613  01724              % 01025 RGTR--
+*A AD 140401004 200405005 000006  01613  01724              % 01025 RGTR--
+*A AG 140401004 200405005 000006  01613  01724              % 01025 RGTR--
+*A cc 140401004 200405005 000006  01613  01724              % 01025 RGTR--
+*R 2 200405005 140401004 200405005  01613  01724            % 01025 RGTR--
+*G RGB 140401004 200405005  01613  01724                    % 01025 RGTR--
+*A VE 140401004 200405005 000006  01613  01724              % 01025 RGTR--
+*I FD 140401004 200405005        0001940  01613  01724      % 01025 RGTR--
+140401004 Diekirch, Gare               01613                % 01025 RGTR--
+140401001 Diekirch, Altersheem  01614  01614                % 01025 RGTR--
+140401012 Diekirch, Fielserstr  01615  01615                % 01025 RGTR--
+140401016 Diekirch, Akerbausch  01617  01617                % 01025 RGTR--
+140503003 Stegen, Kreiz         01621  01621                % 01025 RGTR--
+140503002 Stegen, Eglise        01623  01623                % 01025 RGTR--
+140503001 Stegen, Bloen Eck     01624  01624                % 01025 RGTR--
+141001004 Medernach, Op der La  01629  01629                % 01025 RGTR--
+141001003 Medernach, Op der Ga  01630  01630                % 01025 RGTR--
+141001001 Medernach, Fondation  01631  01631                % 01025 RGTR--
+160601005 Larochette, Leedebac  01633  01633                % 01025 RGTR--
+160601001 Larochette, Bleech    01634  01634                % 01025 RGTR--
+160601006 Larochette, Millewee  01634  01634                % 01025 RGTR--
+160501002 Heffingen, Centre     01637  01637                % 01025 RGTR--
+160501004 Heffingen, Thommes    01639  01639                % 01025 RGTR--
+160502001 Reuland               01641  01641                % 01025 RGTR--
+180503001 Blumenthal/Blummenda  01643  01643                % 01025 RGTR--
+180511006 Junglinster, Um Radi  01646  01646                % 01025 RGTR--
+180512003 Junglinster, P+R      01647  01647                % 01025 RGTR--
+180511007 Junglinster, Um Reil  01649  01649                % 01025 RGTR--
+180511002 Junglinster, Op der   01650  01650                % 01025 RGTR--
+180511001 Junglinster, Gemeng   01653  01653                % 01025 RGTR--
+180507001 Godbrange, Bei der K  01656  01656                % 01025 RGTR--
+180508008 Godbrange, Op der Ha  01657  01657                % 01025 RGTR--
+180501001 Altlinster            01659  01659                % 01025 RGTR--
+180504001 Bourglinster, Am Bri  01702  01702                % 01025 RGTR--
+180504002 Bourglinster, Am Due  01703  01703                % 01025 RGTR--
+180504003 Bourglinster, Buchho  01704  01704                % 01025 RGTR--
+180510001 Imbringen, Am Duerf   01706  01706                % 01025 RGTR--
+180505001 Eisenborn, Am Duerf   01708  01708                % 01025 RGTR--
+201005001 Stafelter             01713  01713                % 01025 RGTR--
+200409006 Dommeldange, Dauschb  01716  01716                % 01025 RGTR--
+200409005 Dommeldange, Contour  01717  01717                % 01025 RGTR--
+200410003 Eich, Eecher Plaz     01720 -01720                % 01025 RGTR--
+200405005 Centre, Badanstalt    01724                       % 01025 RGTR--
+*Z 01026 RGTR--                                             % 01026 RGTR--
+*L 100      140401004 200405005  01713  01824               % 01026 RGTR--
+*A bz 140401004 200405005 000006  01713  01824              % 01026 RGTR--
+*A AD 140401004 200405005 000006  01713  01824              % 01026 RGTR--
+*A AE 140401004 200405005 000006  01713  01824              % 01026 RGTR--
+*A AG 140401004 200405005 000006  01713  01824              % 01026 RGTR--
+*A cc 140401004 200405005 000006  01713  01824              % 01026 RGTR--
+*R 2 200405005 140401004 200405005  01713  01824            % 01026 RGTR--
+*G RGB 140401004 200405005  01713  01824                    % 01026 RGTR--
+*A VE 140401004 200405005 000006  01713  01824              % 01026 RGTR--
+*I FD 140401004 200405005        0001943  01713  01824      % 01026 RGTR--
+140401004 Diekirch, Gare               01713                % 01026 RGTR--
+140401001 Diekirch, Altersheem  01714  01714                % 01026 RGTR--
+140401012 Diekirch, Fielserstr  01715  01715                % 01026 RGTR--
+140401016 Diekirch, Akerbausch  01717  01717                % 01026 RGTR--
+140503003 Stegen, Kreiz         01721  01721                % 01026 RGTR--
+140503002 Stegen, Eglise        01723  01723                % 01026 RGTR--
+140503001 Stegen, Bloen Eck     01724  01724                % 01026 RGTR--
+141001004 Medernach, Op der La  01729  01729                % 01026 RGTR--
+141001003 Medernach, Op der Ga  01730  01730                % 01026 RGTR--
+141001001 Medernach, Fondation  01731  01731                % 01026 RGTR--
+160601005 Larochette, Leedebac  01733  01733                % 01026 RGTR--
+160601001 Larochette, Bleech    01734  01734                % 01026 RGTR--
+160601006 Larochette, Millewee  01734  01734                % 01026 RGTR--
+160501002 Heffingen, Centre     01737  01737                % 01026 RGTR--
+160501004 Heffingen, Thommes    01739  01739                % 01026 RGTR--
+160502001 Reuland               01741  01741                % 01026 RGTR--
+180503001 Blumenthal/Blummenda  01743  01743                % 01026 RGTR--
+180511006 Junglinster, Um Radi  01746  01746                % 01026 RGTR--
+180512003 Junglinster, P+R      01747  01747                % 01026 RGTR--
+180511007 Junglinster, Um Reil  01749  01749                % 01026 RGTR--
+180511002 Junglinster, Op der   01750  01750                % 01026 RGTR--
+180511001 Junglinster, Gemeng   01753  01753                % 01026 RGTR--
+180507001 Godbrange, Bei der K  01756  01756                % 01026 RGTR--
+180508008 Godbrange, Op der Ha  01757  01757                % 01026 RGTR--
+180501001 Altlinster            01759  01759                % 01026 RGTR--
+180504001 Bourglinster, Am Bri  01802  01802                % 01026 RGTR--
+180504002 Bourglinster, Am Due  01803  01803                % 01026 RGTR--
+180504003 Bourglinster, Buchho  01804  01804                % 01026 RGTR--
+180510001 Imbringen, Am Duerf   01806  01806                % 01026 RGTR--
+180505001 Eisenborn, Am Duerf   01808  01808                % 01026 RGTR--
+201005001 Stafelter             01813  01813                % 01026 RGTR--
+200409006 Dommeldange, Dauschb  01816  01816                % 01026 RGTR--
+200409005 Dommeldange, Contour  01817  01817                % 01026 RGTR--
+200410003 Eich, Eecher Plaz     01820 -01820                % 01026 RGTR--
+200405005 Centre, Badanstalt    01824                       % 01026 RGTR--
+*Z 01027 RGTR--                                             % 01027 RGTR--
+*L 100      140401004 200405005  01813  01924               % 01027 RGTR--
+*A bz 140401004 200405005 000006  01813  01924              % 01027 RGTR--
+*A AD 140401004 200405005 000006  01813  01924              % 01027 RGTR--
+*A cc 140401004 200405005 000006  01813  01924              % 01027 RGTR--
+*R 2 200405005 140401004 200405005  01813  01924            % 01027 RGTR--
+*G RGB 140401004 200405005  01813  01924                    % 01027 RGTR--
+*A VE 140401004 200405005 000006  01813  01924              % 01027 RGTR--
+*I FD 140401004 200405005        0001946  01813  01924      % 01027 RGTR--
+140401004 Diekirch, Gare               01813                % 01027 RGTR--
+140401001 Diekirch, Altersheem  01814  01814                % 01027 RGTR--
+140401012 Diekirch, Fielserstr  01815  01815                % 01027 RGTR--
+140401016 Diekirch, Akerbausch  01817  01817                % 01027 RGTR--
+140503003 Stegen, Kreiz         01821  01821                % 01027 RGTR--
+140503002 Stegen, Eglise        01823  01823                % 01027 RGTR--
+140503001 Stegen, Bloen Eck     01824  01824                % 01027 RGTR--
+141001004 Medernach, Op der La  01829  01829                % 01027 RGTR--
+141001003 Medernach, Op der Ga  01830  01830                % 01027 RGTR--
+141001001 Medernach, Fondation  01831  01831                % 01027 RGTR--
+160601005 Larochette, Leedebac  01833  01833                % 01027 RGTR--
+160601001 Larochette, Bleech    01834  01834                % 01027 RGTR--
+160601006 Larochette, Millewee  01834  01834                % 01027 RGTR--
+160501002 Heffingen, Centre     01837  01837                % 01027 RGTR--
+160501004 Heffingen, Thommes    01839  01839                % 01027 RGTR--
+160502001 Reuland               01841  01841                % 01027 RGTR--
+180503001 Blumenthal/Blummenda  01843  01843                % 01027 RGTR--
+180511006 Junglinster, Um Radi  01846  01846                % 01027 RGTR--
+180512003 Junglinster, P+R      01847  01847                % 01027 RGTR--
+180511007 Junglinster, Um Reil  01849  01849                % 01027 RGTR--
+180511002 Junglinster, Op der   01850  01850                % 01027 RGTR--
+180511001 Junglinster, Gemeng   01853  01853                % 01027 RGTR--
+180507001 Godbrange, Bei der K  01856  01856                % 01027 RGTR--
+180508008 Godbrange, Op der Ha  01857  01857                % 01027 RGTR--
+180501001 Altlinster            01859  01859                % 01027 RGTR--
+180504001 Bourglinster, Am Bri  01902  01902                % 01027 RGTR--
+180504002 Bourglinster, Am Due  01903  01903                % 01027 RGTR--
+180504003 Bourglinster, Buchho  01904  01904                % 01027 RGTR--
+180510001 Imbringen, Am Duerf   01906  01906                % 01027 RGTR--
+180505001 Eisenborn, Am Duerf   01908  01908                % 01027 RGTR--
+201005001 Stafelter             01913  01913                % 01027 RGTR--
+200409006 Dommeldange, Dauschb  01916  01916                % 01027 RGTR--
+200409005 Dommeldange, Contour  01917  01917                % 01027 RGTR--
+200410003 Eich, Eecher Plaz     01920 -01920                % 01027 RGTR--
+200405005 Centre, Badanstalt    01924                       % 01027 RGTR--
+*Z 01028 RGTR--                                             % 01028 RGTR--
+*L 100      140401004 200405005  01016  01122               % 01028 RGTR--
+*A bz 140401004 200405005 000001  01016  01122              % 01028 RGTR--
+*A AD 140401004 200405005 000006  01016  01122              % 01028 RGTR--
+*A AG 140401004 200405005 000006  01016  01122              % 01028 RGTR--
+*A cc 140401004 200405005 000001  01016  01122              % 01028 RGTR--
+*R 2 200405005 140401004 200405005  01016  01122            % 01028 RGTR--
+*G RGB 140401004 200405005  01016  01122                    % 01028 RGTR--
+*A VE 140401004 200405005 000001  01016  01122              % 01028 RGTR--
+*I FD 140401004 200405005        0002334  01016  01122      % 01028 RGTR--
+140401004 Diekirch, Gare               01016                % 01028 RGTR--
+140401001 Diekirch, Altersheem  01017  01017                % 01028 RGTR--
+140401012 Diekirch, Fielserstr  01018  01018                % 01028 RGTR--
+140401016 Diekirch, Akerbausch  01020  01020                % 01028 RGTR--
+140503003 Stegen, Kreiz         01024  01024                % 01028 RGTR--
+140503002 Stegen, Eglise        01025  01025                % 01028 RGTR--
+140503001 Stegen, Bloen Eck     01026  01026                % 01028 RGTR--
+141001004 Medernach, Op der La  01031  01031                % 01028 RGTR--
+141001003 Medernach, Op der Ga  01032  01032                % 01028 RGTR--
+141001001 Medernach, Fondation  01033  01033                % 01028 RGTR--
+160601005 Larochette, Leedebac  01035  01035                % 01028 RGTR--
+160601001 Larochette, Bleech    01036  01036                % 01028 RGTR--
+160601006 Larochette, Millewee  01036  01036                % 01028 RGTR--
+160501002 Heffingen, Centre     01039  01039                % 01028 RGTR--
+160501004 Heffingen, Thommes    01040  01040                % 01028 RGTR--
+160502001 Reuland               01043  01043                % 01028 RGTR--
+180503001 Blumenthal/Blummenda  01045  01045                % 01028 RGTR--
+180511006 Junglinster, Um Radi  01048  01048                % 01028 RGTR--
+180512003 Junglinster, P+R      01048  01048                % 01028 RGTR--
+180511007 Junglinster, Um Reil  01050  01050                % 01028 RGTR--
+180511002 Junglinster, Op der   01051  01051                % 01028 RGTR--
+180511001 Junglinster, Gemeng   01053  01053                % 01028 RGTR--
+180507001 Godbrange, Bei der K  01057  01057                % 01028 RGTR--
+180508008 Godbrange, Op der Ha  01058  01058                % 01028 RGTR--
+180501001 Altlinster            01100  01100                % 01028 RGTR--
+180504001 Bourglinster, Am Bri  01102  01102                % 01028 RGTR--
+180504002 Bourglinster, Am Due  01103  01103                % 01028 RGTR--
+180504003 Bourglinster, Buchho  01104  01104                % 01028 RGTR--
+180510001 Imbringen, Am Duerf   01106  01106                % 01028 RGTR--
+180505001 Eisenborn, Am Duerf   01108  01108                % 01028 RGTR--
+201005001 Stafelter             01112  01112                % 01028 RGTR--
+200409006 Dommeldange, Dauschb  01115  01115                % 01028 RGTR--
+200409005 Dommeldange, Contour  01117  01117                % 01028 RGTR--
+200410003 Eich, Eecher Plaz     01119 -01119                % 01028 RGTR--
+200405005 Centre, Badanstalt    01122                       % 01028 RGTR--
+*Z 01029 RGTR--                                             % 01029 RGTR--
+*L 100      140401004 200405005  01423  01529               % 01029 RGTR--
+*A bz 140401004 200405005 000001  01423  01529              % 01029 RGTR--
+*A AD 140401004 200405005 000006  01423  01529              % 01029 RGTR--
+*A AG 140401004 200405005 000006  01423  01529              % 01029 RGTR--
+*A cc 140401004 200405005 000001  01423  01529              % 01029 RGTR--
+*R 2 200405005 140401004 200405005  01423  01529            % 01029 RGTR--
+*G RGB 140401004 200405005  01423  01529                    % 01029 RGTR--
+*A VE 140401004 200405005 000001  01423  01529              % 01029 RGTR--
+*I FD 140401004 200405005        0002335  01423  01529      % 01029 RGTR--
+140401004 Diekirch, Gare               01423                % 01029 RGTR--
+140401001 Diekirch, Altersheem  01424  01424                % 01029 RGTR--
+140401012 Diekirch, Fielserstr  01425  01425                % 01029 RGTR--
+140401016 Diekirch, Akerbausch  01427  01427                % 01029 RGTR--
+140503003 Stegen, Kreiz         01431  01431                % 01029 RGTR--
+140503002 Stegen, Eglise        01432  01432                % 01029 RGTR--
+140503001 Stegen, Bloen Eck     01433  01433                % 01029 RGTR--
+141001004 Medernach, Op der La  01438  01438                % 01029 RGTR--
+141001003 Medernach, Op der Ga  01439  01439                % 01029 RGTR--
+141001001 Medernach, Fondation  01440  01440                % 01029 RGTR--
+160601005 Larochette, Leedebac  01442  01442                % 01029 RGTR--
+160601001 Larochette, Bleech    01443  01443                % 01029 RGTR--
+160601006 Larochette, Millewee  01443  01443                % 01029 RGTR--
+160501002 Heffingen, Centre     01446  01446                % 01029 RGTR--
+160501004 Heffingen, Thommes    01447  01447                % 01029 RGTR--
+160502001 Reuland               01450  01450                % 01029 RGTR--
+180503001 Blumenthal/Blummenda  01452  01452                % 01029 RGTR--
+180511006 Junglinster, Um Radi  01455  01455                % 01029 RGTR--
+180512003 Junglinster, P+R      01455  01455                % 01029 RGTR--
+180511007 Junglinster, Um Reil  01457  01457                % 01029 RGTR--
+180511002 Junglinster, Op der   01458  01458                % 01029 RGTR--
+180511001 Junglinster, Gemeng   01500  01500                % 01029 RGTR--
+180507001 Godbrange, Bei der K  01504  01504                % 01029 RGTR--
+180508008 Godbrange, Op der Ha  01505  01505                % 01029 RGTR--
+180501001 Altlinster            01507  01507                % 01029 RGTR--
+180504001 Bourglinster, Am Bri  01509  01509                % 01029 RGTR--
+180504002 Bourglinster, Am Due  01510  01510                % 01029 RGTR--
+180504003 Bourglinster, Buchho  01511  01511                % 01029 RGTR--
+180510001 Imbringen, Am Duerf   01513  01513                % 01029 RGTR--
+180505001 Eisenborn, Am Duerf   01515  01515                % 01029 RGTR--
+201005001 Stafelter             01519  01519                % 01029 RGTR--
+200409006 Dommeldange, Dauschb  01522  01522                % 01029 RGTR--
+200409005 Dommeldange, Contour  01524  01524                % 01029 RGTR--
+200410003 Eich, Eecher Plaz     01526 -01526                % 01029 RGTR--
+200405005 Centre, Badanstalt    01529                       % 01029 RGTR--
+*Z 01030 RGTR--                                             % 01030 RGTR--
+*L 100      140401004 200405005  00617  00723               % 01030 RGTR--
+*A bz 140401004 200405005 000006  00617  00723              % 01030 RGTR--
+*A AD 140401004 200405005 000006  00617  00723              % 01030 RGTR--
+*A cc 140401004 200405005 000006  00617  00723              % 01030 RGTR--
+*R 2 200405005 140401004 200405005  00617  00723            % 01030 RGTR--
+*G RGB 140401004 200405005  00617  00723                    % 01030 RGTR--
+*A VE 140401004 200405005 000006  00617  00723              % 01030 RGTR--
+*I FD 140401004 200405005        0002336  00617  00723      % 01030 RGTR--
+140401004 Diekirch, Gare               00617                % 01030 RGTR--
+140401001 Diekirch, Altersheem  00618  00618                % 01030 RGTR--
+140401012 Diekirch, Fielserstr  00619  00619                % 01030 RGTR--
+140401016 Diekirch, Akerbausch  00621  00621                % 01030 RGTR--
+140503003 Stegen, Kreiz         00625  00625                % 01030 RGTR--
+140503002 Stegen, Eglise        00626  00626                % 01030 RGTR--
+140503001 Stegen, Bloen Eck     00627  00627                % 01030 RGTR--
+141001004 Medernach, Op der La  00632  00632                % 01030 RGTR--
+141001003 Medernach, Op der Ga  00633  00633                % 01030 RGTR--
+141001001 Medernach, Fondation  00634  00634                % 01030 RGTR--
+160601005 Larochette, Leedebac  00636  00636                % 01030 RGTR--
+160601001 Larochette, Bleech    00637  00637                % 01030 RGTR--
+160601006 Larochette, Millewee  00637  00637                % 01030 RGTR--
+160501002 Heffingen, Centre     00640  00640                % 01030 RGTR--
+160501004 Heffingen, Thommes    00641  00641                % 01030 RGTR--
+160502001 Reuland               00644  00644                % 01030 RGTR--
+180503001 Blumenthal/Blummenda  00646  00646                % 01030 RGTR--
+180511006 Junglinster, Um Radi  00649  00649                % 01030 RGTR--
+180512003 Junglinster, P+R      00649  00649                % 01030 RGTR--
+180511007 Junglinster, Um Reil  00651  00651                % 01030 RGTR--
+180511002 Junglinster, Op der   00652  00652                % 01030 RGTR--
+180511001 Junglinster, Gemeng   00654  00654                % 01030 RGTR--
+180507001 Godbrange, Bei der K  00658  00658                % 01030 RGTR--
+180508008 Godbrange, Op der Ha  00659  00659                % 01030 RGTR--
+180501001 Altlinster            00701  00701                % 01030 RGTR--
+180504001 Bourglinster, Am Bri  00703  00703                % 01030 RGTR--
+180504002 Bourglinster, Am Due  00704  00704                % 01030 RGTR--
+180504003 Bourglinster, Buchho  00705  00705                % 01030 RGTR--
+180510001 Imbringen, Am Duerf   00707  00707                % 01030 RGTR--
+180505001 Eisenborn, Am Duerf   00709  00709                % 01030 RGTR--
+201005001 Stafelter             00713  00713                % 01030 RGTR--
+200409006 Dommeldange, Dauschb  00716  00716                % 01030 RGTR--
+200409005 Dommeldange, Contour  00718  00718                % 01030 RGTR--
+200410003 Eich, Eecher Plaz     00720 -00720                % 01030 RGTR--
+200405005 Centre, Badanstalt    00723                       % 01030 RGTR--
+*Z 01031 RGTR--                                             % 01031 RGTR--
+*L 100      140401004 200405005  01116  01222               % 01031 RGTR--
+*A bz 140401004 200405005 000006  01116  01222              % 01031 RGTR--
+*A AD 140401004 200405005 000006  01116  01222              % 01031 RGTR--
+*A AE 140401004 200405005 000006  01116  01222              % 01031 RGTR--
+*A cc 140401004 200405005 000006  01116  01222              % 01031 RGTR--
+*R 2 200405005 140401004 200405005  01116  01222            % 01031 RGTR--
+*G RGB 140401004 200405005  01116  01222                    % 01031 RGTR--
+*A VE 140401004 200405005 000006  01116  01222              % 01031 RGTR--
+*I FD 140401004 200405005        0001197  01116  01222      % 01031 RGTR--
+140401004 Diekirch, Gare               01116                % 01031 RGTR--
+140401001 Diekirch, Altersheem  01117  01117                % 01031 RGTR--
+140401012 Diekirch, Fielserstr  01118  01118                % 01031 RGTR--
+140401016 Diekirch, Akerbausch  01120  01120                % 01031 RGTR--
+140503003 Stegen, Kreiz         01124  01124                % 01031 RGTR--
+140503002 Stegen, Eglise        01125  01125                % 01031 RGTR--
+140503001 Stegen, Bloen Eck     01126  01126                % 01031 RGTR--
+141001004 Medernach, Op der La  01131  01131                % 01031 RGTR--
+141001003 Medernach, Op der Ga  01132  01132                % 01031 RGTR--
+141001001 Medernach, Fondation  01133  01133                % 01031 RGTR--
+160601005 Larochette, Leedebac  01135  01135                % 01031 RGTR--
+160601001 Larochette, Bleech    01136  01136                % 01031 RGTR--
+160601006 Larochette, Millewee  01136  01136                % 01031 RGTR--
+160501002 Heffingen, Centre     01139  01139                % 01031 RGTR--
+160501004 Heffingen, Thommes    01140  01140                % 01031 RGTR--
+160502001 Reuland               01143  01143                % 01031 RGTR--
+180503001 Blumenthal/Blummenda  01145  01145                % 01031 RGTR--
+180511006 Junglinster, Um Radi  01148  01148                % 01031 RGTR--
+180512003 Junglinster, P+R      01148  01148                % 01031 RGTR--
+180511007 Junglinster, Um Reil  01150  01150                % 01031 RGTR--
+180511002 Junglinster, Op der   01151  01151                % 01031 RGTR--
+180511001 Junglinster, Gemeng   01153  01153                % 01031 RGTR--
+180507001 Godbrange, Bei der K  01157  01157                % 01031 RGTR--
+180508008 Godbrange, Op der Ha  01158  01158                % 01031 RGTR--
+180501001 Altlinster            01200  01200                % 01031 RGTR--
+180504001 Bourglinster, Am Bri  01202  01202                % 01031 RGTR--
+180504002 Bourglinster, Am Due  01203  01203                % 01031 RGTR--
+180504003 Bourglinster, Buchho  01204  01204                % 01031 RGTR--
+180510001 Imbringen, Am Duerf   01206  01206                % 01031 RGTR--
+180505001 Eisenborn, Am Duerf   01208  01208                % 01031 RGTR--
+201005001 Stafelter             01212  01212                % 01031 RGTR--
+200409006 Dommeldange, Dauschb  01215  01215                % 01031 RGTR--
+200409005 Dommeldange, Contour  01217  01217                % 01031 RGTR--
+200410003 Eich, Eecher Plaz     01219 -01219                % 01031 RGTR--
+200405005 Centre, Badanstalt    01222                       % 01031 RGTR--
+*Z 01032 RGTR--                                             % 01032 RGTR--
+*L 100      140401004 200405005  01216  01322               % 01032 RGTR--
+*A bz 140401004 200405005 000006  01216  01322              % 01032 RGTR--
+*A AD 140401004 200405005 000006  01216  01322              % 01032 RGTR--
+*A AG 140401004 200405005 000006  01216  01322              % 01032 RGTR--
+*A cc 140401004 200405005 000006  01216  01322              % 01032 RGTR--
+*R 2 200405005 140401004 200405005  01216  01322            % 01032 RGTR--
+*G RGB 140401004 200405005  01216  01322                    % 01032 RGTR--
+*A VE 140401004 200405005 000006  01216  01322              % 01032 RGTR--
+*I FD 140401004 200405005        0002337  01216  01322      % 01032 RGTR--
+140401004 Diekirch, Gare               01216                % 01032 RGTR--
+140401001 Diekirch, Altersheem  01217  01217                % 01032 RGTR--
+140401012 Diekirch, Fielserstr  01218  01218                % 01032 RGTR--
+140401016 Diekirch, Akerbausch  01220  01220                % 01032 RGTR--
+140503003 Stegen, Kreiz         01224  01224                % 01032 RGTR--
+140503002 Stegen, Eglise        01225  01225                % 01032 RGTR--
+140503001 Stegen, Bloen Eck     01226  01226                % 01032 RGTR--
+141001004 Medernach, Op der La  01231  01231                % 01032 RGTR--
+141001003 Medernach, Op der Ga  01232  01232                % 01032 RGTR--
+141001001 Medernach, Fondation  01233  01233                % 01032 RGTR--
+160601005 Larochette, Leedebac  01235  01235                % 01032 RGTR--
+160601001 Larochette, Bleech    01236  01236                % 01032 RGTR--
+160601006 Larochette, Millewee  01236  01236                % 01032 RGTR--
+160501002 Heffingen, Centre     01239  01239                % 01032 RGTR--
+160501004 Heffingen, Thommes    01240  01240                % 01032 RGTR--
+160502001 Reuland               01243  01243                % 01032 RGTR--
+180503001 Blumenthal/Blummenda  01245  01245                % 01032 RGTR--
+180511006 Junglinster, Um Radi  01248  01248                % 01032 RGTR--
+180512003 Junglinster, P+R      01248  01248                % 01032 RGTR--
+180511007 Junglinster, Um Reil  01250  01250                % 01032 RGTR--
+180511002 Junglinster, Op der   01251  01251                % 01032 RGTR--
+180511001 Junglinster, Gemeng   01253  01253                % 01032 RGTR--
+180507001 Godbrange, Bei der K  01257  01257                % 01032 RGTR--
+180508008 Godbrange, Op der Ha  01258  01258                % 01032 RGTR--
+180501001 Altlinster            01300  01300                % 01032 RGTR--
+180504001 Bourglinster, Am Bri  01302  01302                % 01032 RGTR--
+180504002 Bourglinster, Am Due  01303  01303                % 01032 RGTR--
+180504003 Bourglinster, Buchho  01304  01304                % 01032 RGTR--
+180510001 Imbringen, Am Duerf   01306  01306                % 01032 RGTR--
+180505001 Eisenborn, Am Duerf   01308  01308                % 01032 RGTR--
+201005001 Stafelter             01312  01312                % 01032 RGTR--
+200409006 Dommeldange, Dauschb  01315  01315                % 01032 RGTR--
+200409005 Dommeldange, Contour  01317  01317                % 01032 RGTR--
+200410003 Eich, Eecher Plaz     01319 -01319                % 01032 RGTR--
+200405005 Centre, Badanstalt    01322                       % 01032 RGTR--
+*Z 01033 RGTR--                                             % 01033 RGTR--
+*L 100      140401004 200405005  01316  01422               % 01033 RGTR--
+*A bz 140401004 200405005 000006  01316  01422              % 01033 RGTR--
+*A AD 140401004 200405005 000006  01316  01422              % 01033 RGTR--
+*A AE 140401004 200405005 000006  01316  01422              % 01033 RGTR--
+*A cc 140401004 200405005 000006  01316  01422              % 01033 RGTR--
+*R 2 200405005 140401004 200405005  01316  01422            % 01033 RGTR--
+*G RGB 140401004 200405005  01316  01422                    % 01033 RGTR--
+*A VE 140401004 200405005 000006  01316  01422              % 01033 RGTR--
+*I FD 140401004 200405005        0002338  01316  01422      % 01033 RGTR--
+140401004 Diekirch, Gare               01316                % 01033 RGTR--
+140401001 Diekirch, Altersheem  01317  01317                % 01033 RGTR--
+140401012 Diekirch, Fielserstr  01318  01318                % 01033 RGTR--
+140401016 Diekirch, Akerbausch  01320  01320                % 01033 RGTR--
+140503003 Stegen, Kreiz         01324  01324                % 01033 RGTR--
+140503002 Stegen, Eglise        01325  01325                % 01033 RGTR--
+140503001 Stegen, Bloen Eck     01326  01326                % 01033 RGTR--
+141001004 Medernach, Op der La  01331  01331                % 01033 RGTR--
+141001003 Medernach, Op der Ga  01332  01332                % 01033 RGTR--
+141001001 Medernach, Fondation  01333  01333                % 01033 RGTR--
+160601005 Larochette, Leedebac  01335  01335                % 01033 RGTR--
+160601001 Larochette, Bleech    01336  01336                % 01033 RGTR--
+160601006 Larochette, Millewee  01336  01336                % 01033 RGTR--
+160501002 Heffingen, Centre     01339  01339                % 01033 RGTR--
+160501004 Heffingen, Thommes    01340  01340                % 01033 RGTR--
+160502001 Reuland               01343  01343                % 01033 RGTR--
+180503001 Blumenthal/Blummenda  01345  01345                % 01033 RGTR--
+180511006 Junglinster, Um Radi  01348  01348                % 01033 RGTR--
+180512003 Junglinster, P+R      01348  01348                % 01033 RGTR--
+180511007 Junglinster, Um Reil  01350  01350                % 01033 RGTR--
+180511002 Junglinster, Op der   01351  01351                % 01033 RGTR--
+180511001 Junglinster, Gemeng   01353  01353                % 01033 RGTR--
+180507001 Godbrange, Bei der K  01357  01357                % 01033 RGTR--
+180508008 Godbrange, Op der Ha  01358  01358                % 01033 RGTR--
+180501001 Altlinster            01400  01400                % 01033 RGTR--
+180504001 Bourglinster, Am Bri  01402  01402                % 01033 RGTR--
+180504002 Bourglinster, Am Due  01403  01403                % 01033 RGTR--
+180504003 Bourglinster, Buchho  01404  01404                % 01033 RGTR--
+180510001 Imbringen, Am Duerf   01406  01406                % 01033 RGTR--
+180505001 Eisenborn, Am Duerf   01408  01408                % 01033 RGTR--
+201005001 Stafelter             01412  01412                % 01033 RGTR--
+200409006 Dommeldange, Dauschb  01415  01415                % 01033 RGTR--
+200409005 Dommeldange, Contour  01417  01417                % 01033 RGTR--
+200410003 Eich, Eecher Plaz     01419 -01419                % 01033 RGTR--
+200405005 Centre, Badanstalt    01422                       % 01033 RGTR--
+*Z 01034 RGTR--                                             % 01034 RGTR--
+*L 100      140401004 200405005  01521  01627               % 01034 RGTR--
+*A bz 140401004 200405005 000006  01521  01627              % 01034 RGTR--
+*A AD 140401004 200405005 000006  01521  01627              % 01034 RGTR--
+*A AH 140401004 200405005 000006  01521  01627              % 01034 RGTR--
+*A BT 140401004 200405005 000006  01521  01627              % 01034 RGTR--
+*A AE 140401004 200405005 000006  01521  01627              % 01034 RGTR--
+*A cc 140401004 200405005 000006  01521  01627              % 01034 RGTR--
+*R 2 200405005 140401004 200405005  01521  01627            % 01034 RGTR--
+*G RGB 140401004 200405005  01521  01627                    % 01034 RGTR--
+*A VE 140401004 200405005 000006  01521  01627              % 01034 RGTR--
+*I FD 140401004 200405005        0002339  01521  01627      % 01034 RGTR--
+140401004 Diekirch, Gare               01521                % 01034 RGTR--
+140401001 Diekirch, Altersheem  01522  01522                % 01034 RGTR--
+140401012 Diekirch, Fielserstr  01523  01523                % 01034 RGTR--
+140401016 Diekirch, Akerbausch  01525  01525                % 01034 RGTR--
+140503003 Stegen, Kreiz         01529  01529                % 01034 RGTR--
+140503002 Stegen, Eglise        01530  01530                % 01034 RGTR--
+140503001 Stegen, Bloen Eck     01531  01531                % 01034 RGTR--
+141001004 Medernach, Op der La  01536  01536                % 01034 RGTR--
+141001003 Medernach, Op der Ga  01537  01537                % 01034 RGTR--
+141001001 Medernach, Fondation  01538  01538                % 01034 RGTR--
+160601005 Larochette, Leedebac  01540  01540                % 01034 RGTR--
+160601001 Larochette, Bleech    01541  01541                % 01034 RGTR--
+160601006 Larochette, Millewee  01541  01541                % 01034 RGTR--
+160501002 Heffingen, Centre     01544  01544                % 01034 RGTR--
+160501004 Heffingen, Thommes    01545  01545                % 01034 RGTR--
+160502001 Reuland               01548  01548                % 01034 RGTR--
+180503001 Blumenthal/Blummenda  01550  01550                % 01034 RGTR--
+180511006 Junglinster, Um Radi  01553  01553                % 01034 RGTR--
+180512003 Junglinster, P+R      01553  01553                % 01034 RGTR--
+180511007 Junglinster, Um Reil  01555  01555                % 01034 RGTR--
+180511002 Junglinster, Op der   01556  01556                % 01034 RGTR--
+180511001 Junglinster, Gemeng   01558  01558                % 01034 RGTR--
+180507001 Godbrange, Bei der K  01602  01602                % 01034 RGTR--
+180508008 Godbrange, Op der Ha  01603  01603                % 01034 RGTR--
+180501001 Altlinster            01605  01605                % 01034 RGTR--
+180504001 Bourglinster, Am Bri  01607  01607                % 01034 RGTR--
+180504002 Bourglinster, Am Due  01608  01608                % 01034 RGTR--
+180504003 Bourglinster, Buchho  01609  01609                % 01034 RGTR--
+180510001 Imbringen, Am Duerf   01611  01611                % 01034 RGTR--
+180505001 Eisenborn, Am Duerf   01613  01613                % 01034 RGTR--
+201005001 Stafelter             01617  01617                % 01034 RGTR--
+200409006 Dommeldange, Dauschb  01620  01620                % 01034 RGTR--
+200409005 Dommeldange, Contour  01622  01622                % 01034 RGTR--
+200410003 Eich, Eecher Plaz     01624 -01624                % 01034 RGTR--
+200405005 Centre, Badanstalt    01627                       % 01034 RGTR--
+*Z 01035 RGTR--                                             % 01035 RGTR--
+*L 100      140401004 200405005  01916  02022               % 01035 RGTR--
+*A bz 140401004 200405005 000006  01916  02022              % 01035 RGTR--
+*A AD 140401004 200405005 000006  01916  02022              % 01035 RGTR--
+*A AG 140401004 200405005 000006  01916  02022              % 01035 RGTR--
+*A cc 140401004 200405005 000006  01916  02022              % 01035 RGTR--
+*R 2 200405005 140401004 200405005  01916  02022            % 01035 RGTR--
+*G RGB 140401004 200405005  01916  02022                    % 01035 RGTR--
+*A VE 140401004 200405005 000006  01916  02022              % 01035 RGTR--
+*I FD 140401004 200405005        0002340  01916  02022      % 01035 RGTR--
+140401004 Diekirch, Gare               01916                % 01035 RGTR--
+140401001 Diekirch, Altersheem  01917  01917                % 01035 RGTR--
+140401012 Diekirch, Fielserstr  01918  01918                % 01035 RGTR--
+140401016 Diekirch, Akerbausch  01920  01920                % 01035 RGTR--
+140503003 Stegen, Kreiz         01924  01924                % 01035 RGTR--
+140503002 Stegen, Eglise        01925  01925                % 01035 RGTR--
+140503001 Stegen, Bloen Eck     01926  01926                % 01035 RGTR--
+141001004 Medernach, Op der La  01931  01931                % 01035 RGTR--
+141001003 Medernach, Op der Ga  01932  01932                % 01035 RGTR--
+141001001 Medernach, Fondation  01933  01933                % 01035 RGTR--
+160601005 Larochette, Leedebac  01935  01935                % 01035 RGTR--
+160601001 Larochette, Bleech    01936  01936                % 01035 RGTR--
+160601006 Larochette, Millewee  01936  01936                % 01035 RGTR--
+160501002 Heffingen, Centre     01939  01939                % 01035 RGTR--
+160501004 Heffingen, Thommes    01940  01940                % 01035 RGTR--
+160502001 Reuland               01943  01943                % 01035 RGTR--
+180503001 Blumenthal/Blummenda  01945  01945                % 01035 RGTR--
+180511006 Junglinster, Um Radi  01948  01948                % 01035 RGTR--
+180512003 Junglinster, P+R      01948  01948                % 01035 RGTR--
+180511007 Junglinster, Um Reil  01950  01950                % 01035 RGTR--
+180511002 Junglinster, Op der   01951  01951                % 01035 RGTR--
+180511001 Junglinster, Gemeng   01953  01953                % 01035 RGTR--
+180507001 Godbrange, Bei der K  01957  01957                % 01035 RGTR--
+180508008 Godbrange, Op der Ha  01958  01958                % 01035 RGTR--
+180501001 Altlinster            02000  02000                % 01035 RGTR--
+180504001 Bourglinster, Am Bri  02002  02002                % 01035 RGTR--
+180504002 Bourglinster, Am Due  02003  02003                % 01035 RGTR--
+180504003 Bourglinster, Buchho  02004  02004                % 01035 RGTR--
+180510001 Imbringen, Am Duerf   02006  02006                % 01035 RGTR--
+180505001 Eisenborn, Am Duerf   02008  02008                % 01035 RGTR--
+201005001 Stafelter             02012  02012                % 01035 RGTR--
+200409006 Dommeldange, Dauschb  02015  02015                % 01035 RGTR--
+200409005 Dommeldange, Contour  02017  02017                % 01035 RGTR--
+200410003 Eich, Eecher Plaz     02019 -02019                % 01035 RGTR--
+200405005 Centre, Badanstalt    02022                       % 01035 RGTR--
+*Z 01036 RGTR--                                             % 01036 RGTR--
+*L 100      140401004 200405005  02016  02122               % 01036 RGTR--
+*A bz 140401004 200405005 000006  02016  02122              % 01036 RGTR--
+*A AD 140401004 200405005 000006  02016  02122              % 01036 RGTR--
+*A cc 140401004 200405005 000006  02016  02122              % 01036 RGTR--
+*R 2 200405005 140401004 200405005  02016  02122            % 01036 RGTR--
+*G RGB 140401004 200405005  02016  02122                    % 01036 RGTR--
+*A VE 140401004 200405005 000006  02016  02122              % 01036 RGTR--
+*I FD 140401004 200405005        0002216  02016  02122      % 01036 RGTR--
+140401004 Diekirch, Gare               02016                % 01036 RGTR--
+140401001 Diekirch, Altersheem  02017  02017                % 01036 RGTR--
+140401012 Diekirch, Fielserstr  02018  02018                % 01036 RGTR--
+140401016 Diekirch, Akerbausch  02020  02020                % 01036 RGTR--
+140503003 Stegen, Kreiz         02024  02024                % 01036 RGTR--
+140503002 Stegen, Eglise        02025  02025                % 01036 RGTR--
+140503001 Stegen, Bloen Eck     02026  02026                % 01036 RGTR--
+141001004 Medernach, Op der La  02031  02031                % 01036 RGTR--
+141001003 Medernach, Op der Ga  02032  02032                % 01036 RGTR--
+141001001 Medernach, Fondation  02033  02033                % 01036 RGTR--
+160601005 Larochette, Leedebac  02035  02035                % 01036 RGTR--
+160601001 Larochette, Bleech    02036  02036                % 01036 RGTR--
+160601006 Larochette, Millewee  02036  02036                % 01036 RGTR--
+160501002 Heffingen, Centre     02039  02039                % 01036 RGTR--
+160501004 Heffingen, Thommes    02040  02040                % 01036 RGTR--
+160502001 Reuland               02043  02043                % 01036 RGTR--
+180503001 Blumenthal/Blummenda  02045  02045                % 01036 RGTR--
+180511006 Junglinster, Um Radi  02048  02048                % 01036 RGTR--
+180512003 Junglinster, P+R      02048  02048                % 01036 RGTR--
+180511007 Junglinster, Um Reil  02050  02050                % 01036 RGTR--
+180511002 Junglinster, Op der   02051  02051                % 01036 RGTR--
+180511001 Junglinster, Gemeng   02053  02053                % 01036 RGTR--
+180507001 Godbrange, Bei der K  02057  02057                % 01036 RGTR--
+180508008 Godbrange, Op der Ha  02058  02058                % 01036 RGTR--
+180501001 Altlinster            02100  02100                % 01036 RGTR--
+180504001 Bourglinster, Am Bri  02102  02102                % 01036 RGTR--
+180504002 Bourglinster, Am Due  02103  02103                % 01036 RGTR--
+180504003 Bourglinster, Buchho  02104  02104                % 01036 RGTR--
+180510001 Imbringen, Am Duerf   02106  02106                % 01036 RGTR--
+180505001 Eisenborn, Am Duerf   02108  02108                % 01036 RGTR--
+201005001 Stafelter             02112  02112                % 01036 RGTR--
+200409006 Dommeldange, Dauschb  02115  02115                % 01036 RGTR--
+200409005 Dommeldange, Contour  02117  02117                % 01036 RGTR--
+200410003 Eich, Eecher Plaz     02119 -02119                % 01036 RGTR--
+200405005 Centre, Badanstalt    02122                       % 01036 RGTR--
+*Z 01037 RGTR--                                             % 01037 RGTR--
+*L 100      140401004 200405005  02113  02219               % 01037 RGTR--
+*A bz 140401004 200405005 000006  02113  02219              % 01037 RGTR--
+*A cc 140401004 200405005 000006  02113  02219              % 01037 RGTR--
+*R 2 200405005 140401004 200405005  02113  02219            % 01037 RGTR--
+*G RGB 140401004 200405005  02113  02219                    % 01037 RGTR--
+*A VE 140401004 200405005 000006  02113  02219              % 01037 RGTR--
+*I FD 140401004 200405005        0002341  02113  02219      % 01037 RGTR--
+140401004 Diekirch, Gare               02113                % 01037 RGTR--
+140401001 Diekirch, Altersheem  02114  02114                % 01037 RGTR--
+140401012 Diekirch, Fielserstr  02115  02115                % 01037 RGTR--
+140401016 Diekirch, Akerbausch  02117  02117                % 01037 RGTR--
+140503003 Stegen, Kreiz         02121  02121                % 01037 RGTR--
+140503002 Stegen, Eglise        02122  02122                % 01037 RGTR--
+140503001 Stegen, Bloen Eck     02123  02123                % 01037 RGTR--
+141001004 Medernach, Op der La  02128  02128                % 01037 RGTR--
+141001003 Medernach, Op der Ga  02129  02129                % 01037 RGTR--
+141001001 Medernach, Fondation  02130  02130                % 01037 RGTR--
+160601005 Larochette, Leedebac  02132  02132                % 01037 RGTR--
+160601001 Larochette, Bleech    02133  02133                % 01037 RGTR--
+160601006 Larochette, Millewee  02133  02133                % 01037 RGTR--
+160501002 Heffingen, Centre     02136  02136                % 01037 RGTR--
+160501004 Heffingen, Thommes    02137  02137                % 01037 RGTR--
+160502001 Reuland               02140  02140                % 01037 RGTR--
+180503001 Blumenthal/Blummenda  02142  02142                % 01037 RGTR--
+180511006 Junglinster, Um Radi  02145  02145                % 01037 RGTR--
+180512003 Junglinster, P+R      02145  02145                % 01037 RGTR--
+180511007 Junglinster, Um Reil  02147  02147                % 01037 RGTR--
+180511002 Junglinster, Op der   02148  02148                % 01037 RGTR--
+180511001 Junglinster, Gemeng   02150  02150                % 01037 RGTR--
+180507001 Godbrange, Bei der K  02154  02154                % 01037 RGTR--
+180508008 Godbrange, Op der Ha  02155  02155                % 01037 RGTR--
+180501001 Altlinster            02157  02157                % 01037 RGTR--
+180504001 Bourglinster, Am Bri  02159  02159                % 01037 RGTR--
+180504002 Bourglinster, Am Due  02200  02200                % 01037 RGTR--
+180504003 Bourglinster, Buchho  02201  02201                % 01037 RGTR--
+180510001 Imbringen, Am Duerf   02203  02203                % 01037 RGTR--
+180505001 Eisenborn, Am Duerf   02205  02205                % 01037 RGTR--
+201005001 Stafelter             02209  02209                % 01037 RGTR--
+200409006 Dommeldange, Dauschb  02212  02212                % 01037 RGTR--
+200409005 Dommeldange, Contour  02214  02214                % 01037 RGTR--
+200410003 Eich, Eecher Plaz     02216 -02216                % 01037 RGTR--
+200405005 Centre, Badanstalt    02219                       % 01037 RGTR--
+*Z 01038 RGTR--                                             % 01038 RGTR--
+*L 100      140401004 200405005  01813  01919               % 01038 RGTR--
+*A bz 140401004 200405005 000156  01813  01919              % 01038 RGTR--
+*A cc 140401004 200405005 000156  01813  01919              % 01038 RGTR--
+*R 2 200405005 140401004 200405005  01813  01919            % 01038 RGTR--
+*G RGB 140401004 200405005  01813  01919                    % 01038 RGTR--
+*A VE 140401004 200405005 000156  01813  01919              % 01038 RGTR--
+*I FD 140401004 200405005        0001946  01813  01919      % 01038 RGTR--
+140401004 Diekirch, Gare               01813                % 01038 RGTR--
+140401001 Diekirch, Altersheem  01814  01814                % 01038 RGTR--
+140401012 Diekirch, Fielserstr  01815  01815                % 01038 RGTR--
+140401016 Diekirch, Akerbausch  01817  01817                % 01038 RGTR--
+140503003 Stegen, Kreiz         01821  01821                % 01038 RGTR--
+140503002 Stegen, Eglise        01822  01822                % 01038 RGTR--
+140503001 Stegen, Bloen Eck     01823  01823                % 01038 RGTR--
+141001004 Medernach, Op der La  01828  01828                % 01038 RGTR--
+141001003 Medernach, Op der Ga  01829  01829                % 01038 RGTR--
+141001001 Medernach, Fondation  01830  01830                % 01038 RGTR--
+160601005 Larochette, Leedebac  01832  01832                % 01038 RGTR--
+160601001 Larochette, Bleech    01833  01833                % 01038 RGTR--
+160601006 Larochette, Millewee  01833  01833                % 01038 RGTR--
+160501002 Heffingen, Centre     01836  01836                % 01038 RGTR--
+160501004 Heffingen, Thommes    01837  01837                % 01038 RGTR--
+160502001 Reuland               01840  01840                % 01038 RGTR--
+180503001 Blumenthal/Blummenda  01842  01842                % 01038 RGTR--
+180511006 Junglinster, Um Radi  01845  01845                % 01038 RGTR--
+180512003 Junglinster, P+R      01845  01845                % 01038 RGTR--
+180511007 Junglinster, Um Reil  01847  01847                % 01038 RGTR--
+180511002 Junglinster, Op der   01848  01848                % 01038 RGTR--
+180511001 Junglinster, Gemeng   01850  01850                % 01038 RGTR--
+180507001 Godbrange, Bei der K  01854  01854                % 01038 RGTR--
+180508008 Godbrange, Op der Ha  01855  01855                % 01038 RGTR--
+180501001 Altlinster            01857  01857                % 01038 RGTR--
+180504001 Bourglinster, Am Bri  01859  01859                % 01038 RGTR--
+180504002 Bourglinster, Am Due  01900  01900                % 01038 RGTR--
+180504003 Bourglinster, Buchho  01901  01901                % 01038 RGTR--
+180510001 Imbringen, Am Duerf   01903  01903                % 01038 RGTR--
+180505001 Eisenborn, Am Duerf   01905  01905                % 01038 RGTR--
+201005001 Stafelter             01909  01909                % 01038 RGTR--
+200409006 Dommeldange, Dauschb  01912  01912                % 01038 RGTR--
+200409005 Dommeldange, Contour  01914  01914                % 01038 RGTR--
+200410003 Eich, Eecher Plaz     01916 -01916                % 01038 RGTR--
+200405005 Centre, Badanstalt    01919                       % 01038 RGTR--
+*Z 01039 RGTR--                                             % 01039 RGTR--
+*L 100      180504002 200405005  00703  00723               % 01039 RGTR--
+*A bz 180504002 200405005 000030  00703  00723              % 01039 RGTR--
+*A cc 180504002 200405005 000030  00703  00723              % 01039 RGTR--
+*R 2 200405005 180504002 200405005  00703  00723            % 01039 RGTR--
+*G RGB 180504002 200405005  00703  00723                    % 01039 RGTR--
+*A VE 180504002 200405005 000030  00703  00723              % 01039 RGTR--
+*I FD 180504002 200405005        0002342  00703  00723      % 01039 RGTR--
+180504002 Bourglinster, Am Due         00703                % 01039 RGTR--
+180504003 Bourglinster, Buchho  00703  00703                % 01039 RGTR--
+180510001 Imbringen, Am Duerf   00706  00706                % 01039 RGTR--
+180505001 Eisenborn, Am Duerf   00707  00707                % 01039 RGTR--
+201005001 Stafelter             00712  00712                % 01039 RGTR--
+200409006 Dommeldange, Dauschb  00715  00715                % 01039 RGTR--
+200409005 Dommeldange, Contour  00717  00717                % 01039 RGTR--
+200410003 Eich, Eecher Plaz     00719 -00719                % 01039 RGTR--
+200405005 Centre, Badanstalt    00723                       % 01039 RGTR--
+*Z 01040 RGTR--                                             % 01040 RGTR--
+*L 100      160601001 200405005  00537  00623               % 01040 RGTR--
+*A bz 160601001 200405005 000006  00537  00623              % 01040 RGTR--
+*A AD 160601001 200405005 000006  00537  00623              % 01040 RGTR--
+*A cc 160601001 200405005 000006  00537  00623              % 01040 RGTR--
+*R 2 200405005 160601001 200405005  00537  00623            % 01040 RGTR--
+*G RGB 160601001 200405005  00537  00623                    % 01040 RGTR--
+*A VE 160601001 200405005 000006  00537  00623              % 01040 RGTR--
+*I FD 160601001 200405005        0000930  00537  00623      % 01040 RGTR--
+160601001 Larochette, Bleech           00537                % 01040 RGTR--
+160601006 Larochette, Millewee  00537  00537                % 01040 RGTR--
+160501002 Heffingen, Centre     00540  00540                % 01040 RGTR--
+160501004 Heffingen, Thommes    00541  00541                % 01040 RGTR--
+160502001 Reuland               00544  00544                % 01040 RGTR--
+180503001 Blumenthal/Blummenda  00546  00546                % 01040 RGTR--
+180511006 Junglinster, Um Radi  00549  00549                % 01040 RGTR--
+180512003 Junglinster, P+R      00549  00549                % 01040 RGTR--
+180511007 Junglinster, Um Reil  00551  00551                % 01040 RGTR--
+180511002 Junglinster, Op der   00552  00552                % 01040 RGTR--
+180511001 Junglinster, Gemeng   00554  00554                % 01040 RGTR--
+180507001 Godbrange, Bei der K  00558  00558                % 01040 RGTR--
+180508008 Godbrange, Op der Ha  00559  00559                % 01040 RGTR--
+180501001 Altlinster            00601  00601                % 01040 RGTR--
+180504001 Bourglinster, Am Bri  00603  00603                % 01040 RGTR--
+180504002 Bourglinster, Am Due  00604  00604                % 01040 RGTR--
+180504003 Bourglinster, Buchho  00605  00605                % 01040 RGTR--
+180510001 Imbringen, Am Duerf   00607  00607                % 01040 RGTR--
+180505001 Eisenborn, Am Duerf   00609  00609                % 01040 RGTR--
+201005001 Stafelter             00613  00613                % 01040 RGTR--
+200409006 Dommeldange, Dauschb  00616  00616                % 01040 RGTR--
+200409005 Dommeldange, Contour  00618  00618                % 01040 RGTR--
+200410003 Eich, Eecher Plaz     00620 -00620                % 01040 RGTR--
+200405005 Centre, Badanstalt    00623                       % 01040 RGTR--
+*Z 01041 RGTR--                                             % 01041 RGTR--
+*L 100      140401004 180505001  02213  02305               % 01041 RGTR--
+*A bz 140401004 180505001 000006  02213  02305              % 01041 RGTR--
+*A cd 140401004 180505001 000006  02213  02305              % 01041 RGTR--
+*R 2 180505001 140401004 180505001  02213  02305            % 01041 RGTR--
+*G RGB 140401004 180505001  02213  02305                    % 01041 RGTR--
+*A VE 140401004 180505001 000006  02213  02305              % 01041 RGTR--
+*I FD 140401004 180505001        0002343  02213  02305      % 01041 RGTR--
+140401004 Diekirch, Gare               02213                % 01041 RGTR--
+140401001 Diekirch, Altersheem  02214  02214                % 01041 RGTR--
+140401012 Diekirch, Fielserstr  02215  02215                % 01041 RGTR--
+140401016 Diekirch, Akerbausch  02217  02217                % 01041 RGTR--
+140503003 Stegen, Kreiz         02221  02221                % 01041 RGTR--
+140503002 Stegen, Eglise        02222  02222                % 01041 RGTR--
+140503001 Stegen, Bloen Eck     02223  02223                % 01041 RGTR--
+141001004 Medernach, Op der La  02228  02228                % 01041 RGTR--
+141001003 Medernach, Op der Ga  02229  02229                % 01041 RGTR--
+141001001 Medernach, Fondation  02230  02230                % 01041 RGTR--
+160601005 Larochette, Leedebac  02232  02232                % 01041 RGTR--
+160601001 Larochette, Bleech    02233  02233                % 01041 RGTR--
+160601006 Larochette, Millewee  02233  02233                % 01041 RGTR--
+160501002 Heffingen, Centre     02236  02236                % 01041 RGTR--
+160501004 Heffingen, Thommes    02237  02237                % 01041 RGTR--
+160502001 Reuland               02240  02240                % 01041 RGTR--
+180503001 Blumenthal/Blummenda  02242  02242                % 01041 RGTR--
+180511006 Junglinster, Um Radi  02245  02245                % 01041 RGTR--
+180512003 Junglinster, P+R      02245  02245                % 01041 RGTR--
+180511007 Junglinster, Um Reil  02247  02247                % 01041 RGTR--
+180511002 Junglinster, Op der   02248  02248                % 01041 RGTR--
+180511001 Junglinster, Gemeng   02250  02250                % 01041 RGTR--
+180507001 Godbrange, Bei der K  02254  02254                % 01041 RGTR--
+180508008 Godbrange, Op der Ha  02255  02255                % 01041 RGTR--
+180501001 Altlinster            02257  02257                % 01041 RGTR--
+180504001 Bourglinster, Am Bri  02259  02259                % 01041 RGTR--
+180504002 Bourglinster, Am Due  02300  02300                % 01041 RGTR--
+180504003 Bourglinster, Buchho  02301  02301                % 01041 RGTR--
+180510001 Imbringen, Am Duerf   02303  02303                % 01041 RGTR--
+180505001 Eisenborn, Am Duerf   02305                       % 01041 RGTR--

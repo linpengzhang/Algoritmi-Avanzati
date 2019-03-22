@@ -1,0 +1,77 @@
+*F 03 2
+*Z 01518 RGTR--                                             % 01518 RGTR--
+*L 422      160501005 180511008  00717  00745               % 01518 RGTR--
+*A bi 160501005 180511008 000030  00717  00745              % 01518 RGTR--
+*A bz 160501005 180511008 000030  00717  00745              % 01518 RGTR--
+*A dy 160501005 180511008 000030  00717  00745              % 01518 RGTR--
+*A ad 160501005 180511008 000030  00717  00745              % 01518 RGTR--
+*R 1 180511008 160501005 180511008  00717  00745            % 01518 RGTR--
+*G RGB 160501005 180511008  00717  00745                    % 01518 RGTR--
+*A VE 160501005 180511008 000030  00717  00745              % 01518 RGTR--
+*I FD 160501005 180511008        0002412  00717  00745      % 01518 RGTR--
+160501005 Heffingen, Soup              00717                % 01518 RGTR--
+160602001 Ernzen, Kapell        00718  00718                % 01518 RGTR--
+160602002 Ernzen, Manzebach     00719  00719                % 01518 RGTR--
+160601007 Larochette, Pomjeesb  00720  00720                % 01518 RGTR--
+160601001 Larochette, Bleech    00723  00723                % 01518 RGTR--
+160601006 Larochette, Millewee  00723  00723                % 01518 RGTR--
+160501002 Heffingen, Centre     00726  00726                % 01518 RGTR--
+160501004 Heffingen, Thommes    00728  00728                % 01518 RGTR--
+160502001 Reuland               00730  00730                % 01518 RGTR--
+180503001 Blumenthal/Blummenda  00732  00732                % 01518 RGTR--
+180509002 Graulinster, Haaptst  00735  00735                % 01518 RGTR--
+180511007 Junglinster, Um Reil  00739  00739                % 01518 RGTR--
+180511005 Junglinster, Um Lei   00741  00741                % 01518 RGTR--
+180511009 Junglinster, Op der   00742  00742                % 01518 RGTR--
+180508003 Gonderange, Mierchen  00743  00743                % 01518 RGTR--
+180511008 Junglinster, Lycée    00745                       % 01518 RGTR--
+*Z 01519 RGTR--                                             % 01519 RGTR--
+*L 422      180511008 160601001  01605  01631               % 01519 RGTR--
+*A bi 180511008 160601001 000162  01605  01631              % 01519 RGTR--
+*A bz 180511008 160601001 000162  01605  01631              % 01519 RGTR--
+*A dz 180511008 160601001 000162  01605  01631              % 01519 RGTR--
+*A ad 180511008 160601001 000162  01605  01631              % 01519 RGTR--
+*R 2 160601001 180511008 160601001  01605  01631            % 01519 RGTR--
+*G RGB 180511008 160601001  01605  01631                    % 01519 RGTR--
+*A VE 180511008 160601001 000162  01605  01631              % 01519 RGTR--
+*I FD 180511008 160601001        0002253  01605  01631      % 01519 RGTR--
+180511008 Junglinster, Lycée           01605                % 01519 RGTR--
+180508003 Gonderange, Mierchen  01607  01607                % 01519 RGTR--
+180511009 Junglinster, Op der   01608  01608                % 01519 RGTR--
+180511005 Junglinster, Um Lei   01609  01609                % 01519 RGTR--
+180511007 Junglinster, Um Reil  01611  01611                % 01519 RGTR--
+180509002 Graulinster, Haaptst  01615  01615                % 01519 RGTR--
+180503001 Blumenthal/Blummenda  01618  01618                % 01519 RGTR--
+160502001 Reuland               01620  01620                % 01519 RGTR--
+160501004 Heffingen, Thommes    01623  01623                % 01519 RGTR--
+160501001 Heffingen, Al Gemeng  01624  01624                % 01519 RGTR--
+160501005 Heffingen, Soup       01625  01625                % 01519 RGTR--
+160602001 Ernzen, Kapell        01627  01627                % 01519 RGTR--
+160602002 Ernzen, Manzebach     01628  01628                % 01519 RGTR--
+160601007 Larochette, Pomjeesb  01629  01629                % 01519 RGTR--
+160601001 Larochette, Bleech    01631                       % 01519 RGTR--
+*Z 01520 RGTR--                                             % 01520 RGTR--
+*L 422      180511008 160601001  01140  01204               % 01520 RGTR--
+*A bi 180511008 160601001 000163  01140  01204              % 01520 RGTR--
+*A bz 180511008 160601001 000163  01140  01204              % 01520 RGTR--
+*A dz 180511008 160601001 000163  01140  01204              % 01520 RGTR--
+*A ad 180511008 160601001 000163  01140  01204              % 01520 RGTR--
+*R 2 160601001 180511008 160601001  01140  01204            % 01520 RGTR--
+*G RGB 180511008 160601001  01140  01204                    % 01520 RGTR--
+*A VE 180511008 160601001 000163  01140  01204              % 01520 RGTR--
+*I FD 180511008 160601001        0001963  01140  01204      % 01520 RGTR--
+180511008 Junglinster, Lycée           01140                % 01520 RGTR--
+180508003 Gonderange, Mierchen  01142  01142                % 01520 RGTR--
+180511009 Junglinster, Op der   01143  01143                % 01520 RGTR--
+180511005 Junglinster, Um Lei   01143  01143                % 01520 RGTR--
+180511007 Junglinster, Um Reil  01146  01146                % 01520 RGTR--
+180509002 Graulinster, Haaptst  01150  01150                % 01520 RGTR--
+180503001 Blumenthal/Blummenda  01153  01153                % 01520 RGTR--
+160502001 Reuland               01155  01155                % 01520 RGTR--
+160501004 Heffingen, Thommes    01157  01157                % 01520 RGTR--
+160501001 Heffingen, Al Gemeng  01158  01158                % 01520 RGTR--
+160501005 Heffingen, Soup       01159  01159                % 01520 RGTR--
+160602001 Ernzen, Kapell        01201  01201                % 01520 RGTR--
+160602002 Ernzen, Manzebach     01202  01202                % 01520 RGTR--
+160601007 Larochette, Pomjeesb  01203  01203                % 01520 RGTR--
+160601001 Larochette, Bleech    01204                       % 01520 RGTR--

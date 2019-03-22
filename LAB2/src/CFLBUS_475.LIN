@@ -1,0 +1,61 @@
+*F 03 2
+*Z 00028 CFLBUS                                             % 00028 CFLBUS
+*L 475      170706001 170501003  00621  00637               % 00028 CFLBUS
+*A vm 170706001 170501003 000029  00621  00637              % 00028 CFLBUS
+*R 2 170501003 170706001 170501003  00621  00637            % 00028 CFLBUS
+*G RGB 170706001 170501003  00621  00637                    % 00028 CFLBUS
+*A VE 170706001 170501003 000029  00621  00637              % 00028 CFLBUS
+*I FD 170706001 170501003        0003781  00621  00637      % 00028 CFLBUS
+170706001 Osweiler, Duerfplaz          00621                % 00028 CFLBUS
+170706002 Osweiler, Haaptstroo  00621  00621                % 00028 CFLBUS
+170701001 Dickweiler, Duerfpla  00627  00627                % 00028 CFLBUS
+170501010 Echternach, Manertch  00631  00631                % 00028 CFLBUS
+170501014 Echternach, rte.d'Os  00634  00634                % 00028 CFLBUS
+170501011 Echternach, Morgenst  00635  00635                % 00028 CFLBUS
+170501013 Echternach, Remparts  00636  00636                % 00028 CFLBUS
+170501003 Echternach, Belle Vu  00637                       % 00028 CFLBUS
+*Z 00026 CFLBUS                                             % 00026 CFLBUS
+*L 475      170706001 170501003  00621  00637               % 00026 CFLBUS
+*A vm 170706001 170501003 000027  00621  00637              % 00026 CFLBUS
+*R 2 170501003 170706001 170501003  00621  00637            % 00026 CFLBUS
+*G RGB 170706001 170501003  00621  00637                    % 00026 CFLBUS
+*A VE 170706001 170501003 000027  00621  00637              % 00026 CFLBUS
+*I FD 170706001 170501003        0003781  00621  00637      % 00026 CFLBUS
+170706001 Osweiler, Duerfplaz          00621                % 00026 CFLBUS
+170706002 Osweiler, Haaptstroo  00621  00621                % 00026 CFLBUS
+170701001 Dickweiler, Duerfpla  00627  00627                % 00026 CFLBUS
+170501010 Echternach, Manertch  00631  00631                % 00026 CFLBUS
+170501014 Echternach, rte.d'Os  00634  00634                % 00026 CFLBUS
+170501011 Echternach, Morgenst  00635  00635                % 00026 CFLBUS
+170501013 Echternach, Remparts  00636  00636                % 00026 CFLBUS
+170501003 Echternach, Belle Vu  00637                       % 00026 CFLBUS
+*Z 00024 CFLBUS                                             % 00024 CFLBUS
+*L 475      170706001 170501003  00621  00637               % 00024 CFLBUS
+*A vm 170706001 170501003 000025  00621  00637              % 00024 CFLBUS
+*R 2 170501003 170706001 170501003  00621  00637            % 00024 CFLBUS
+*G RGB 170706001 170501003  00621  00637                    % 00024 CFLBUS
+*A VE 170706001 170501003 000025  00621  00637              % 00024 CFLBUS
+*I FD 170706001 170501003        0003781  00621  00637      % 00024 CFLBUS
+170706001 Osweiler, Duerfplaz          00621                % 00024 CFLBUS
+170706002 Osweiler, Haaptstroo  00621  00621                % 00024 CFLBUS
+170701001 Dickweiler, Duerfpla  00627  00627                % 00024 CFLBUS
+170501010 Echternach, Manertch  00631  00631                % 00024 CFLBUS
+170501014 Echternach, rte.d'Os  00634  00634                % 00024 CFLBUS
+170501011 Echternach, Morgenst  00635  00635                % 00024 CFLBUS
+170501013 Echternach, Remparts  00636  00636                % 00024 CFLBUS
+170501003 Echternach, Belle Vu  00637                       % 00024 CFLBUS
+*Z 00022 CFLBUS                                             % 00022 CFLBUS
+*L 475      170706001 170501003  00620  00637               % 00022 CFLBUS
+*A vm 170706001 170501003 000031  00620  00637              % 00022 CFLBUS
+*R 2 170501003 170706001 170501003  00620  00637            % 00022 CFLBUS
+*G RGB 170706001 170501003  00620  00637                    % 00022 CFLBUS
+*A VE 170706001 170501003 000031  00620  00637              % 00022 CFLBUS
+*I FD 170706001 170501003        0003781  00620  00637      % 00022 CFLBUS
+170706001 Osweiler, Duerfplaz          00620                % 00022 CFLBUS
+170706002 Osweiler, Haaptstroo  00621  00621                % 00022 CFLBUS
+170701001 Dickweiler, Duerfpla  00626  00626                % 00022 CFLBUS
+170501010 Echternach, Manertch  00631  00631                % 00022 CFLBUS
+170501014 Echternach, rte.d'Os  00633  00633                % 00022 CFLBUS
+170501011 Echternach, Morgenst  00634  00634                % 00022 CFLBUS
+170501013 Echternach, Remparts  00635  00635                % 00022 CFLBUS
+170501003 Echternach, Belle Vu  00637                       % 00022 CFLBUS

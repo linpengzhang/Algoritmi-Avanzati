@@ -1,0 +1,505 @@
+*F 03 2
+*Z 09351 RGTR--                                             % 09351 RGTR--
+*L 286      200420005 160805002  01425  01504               % 09351 RGTR--
+*A bi 200420005 160805002 000030  01425  01504              % 09351 RGTR--
+*A je 200420005 160805002 000030  01425  01504              % 09351 RGTR--
+*A tx 200420005 160805002 000030  01425  01504              % 09351 RGTR--
+*A ad 200420005 160805002 000030  01425  01504              % 09351 RGTR--
+*R 1 160805002 200420005 160805002  01425  01504            % 09351 RGTR--
+*G RGB 200420005 160805002  01425  01504                    % 09351 RGTR--
+*A VE 200420005 160805002 000030  01425  01504              % 09351 RGTR--
+*I FD 200420005 160805002        0002030  01425  01504      % 09351 RGTR--
+200420005 Merl, Geesseknäppche         01425                % 09351 RGTR--
+200410003 Eich, Eecher Plaz     01444  01444                % 09351 RGTR--
+200410004 Eich, Klinik          01445  01445                % 09351 RGTR--
+200409007 Dommeldange, Emile M  01445  01445                % 09351 RGTR--
+200402005 Beggen, Henri Heyman  01446  01446                % 09351 RGTR--
+200402002 Beggen, Binnchen      01447  01447                % 09351 RGTR--
+200402006 Beggen, Kierch        01447  01447                % 09351 RGTR--
+200402001 Beggen, Bastogne      01448  01448                % 09351 RGTR--
+200402007 Beggen, Rue du Pont   01449  01449                % 09351 RGTR--
+201001003 Bereldange, Schoul    01449  01449                % 09351 RGTR--
+201001002 Bereldange, Police    01450  01450                % 09351 RGTR--
+201004002 Walferdange, Gemenge  01451  01451                % 09351 RGTR--
+201003001 Helmsange, Barriär    01452  01452                % 09351 RGTR--
+201004001 Walferdange, Gare     01453  01453                % 09351 RGTR--
+201003004 Helsem, Tricentenair  01454  01454                % 09351 RGTR--
+201003002 Helsem, Mercatoris    01454  01454                % 09351 RGTR--
+201003003 Heisdorf, Millewee    01455  01455                % 09351 RGTR--
+200802002 Heisdorf, Bei der Pa  01456  01456                % 09351 RGTR--
+200802004 Heisdorf, Klouster    01456  01456                % 09351 RGTR--
+200802001 Heisdorf, Altersheem  01457  01457                % 09351 RGTR--
+200801001 Müllendorf/Mëlleref   01458  01458                % 09351 RGTR--
+200801007 Steinsel, Schoul      01459  01459                % 09351 RGTR--
+200801002 Steinsel, Bourgaass   01459  01459                % 09351 RGTR--
+200801005 Steinsel, Michel Rod  01500  01500                % 09351 RGTR--
+200801012 Müllendorf, Op der M  01502  01502                % 09351 RGTR--
+160805001 Hünsdorf, Alsbich     01503  01503                % 09351 RGTR--
+160805002 Hünsdorf, Eglise      01504                       % 09351 RGTR--
+*Z 09352 RGTR--                                             % 09352 RGTR--
+*L 286      200420005 160805002  01250  01329               % 09352 RGTR--
+*A bi 200420005 160805002 000042  01250  01329              % 09352 RGTR--
+*A je 200420005 160805002 000042  01250  01329              % 09352 RGTR--
+*A tx 200420005 160805002 000042  01250  01329              % 09352 RGTR--
+*A ad 200420005 160805002 000042  01250  01329              % 09352 RGTR--
+*R 1 160805002 200420005 160805002  01250  01329            % 09352 RGTR--
+*G RGB 200420005 160805002  01250  01329                    % 09352 RGTR--
+*A VE 200420005 160805002 000042  01250  01329              % 09352 RGTR--
+*I FD 200420005 160805002        0001885  01250  01329      % 09352 RGTR--
+200420005 Merl, Geesseknäppche         01250                % 09352 RGTR--
+200410003 Eich, Eecher Plaz     01309  01309                % 09352 RGTR--
+200410004 Eich, Klinik          01310  01310                % 09352 RGTR--
+200409007 Dommeldange, Emile M  01310  01310                % 09352 RGTR--
+200402005 Beggen, Henri Heyman  01311  01311                % 09352 RGTR--
+200402002 Beggen, Binnchen      01312  01312                % 09352 RGTR--
+200402006 Beggen, Kierch        01312  01312                % 09352 RGTR--
+200402001 Beggen, Bastogne      01313  01313                % 09352 RGTR--
+200402007 Beggen, Rue du Pont   01314  01314                % 09352 RGTR--
+201001003 Bereldange, Schoul    01314  01314                % 09352 RGTR--
+201001002 Bereldange, Police    01315  01315                % 09352 RGTR--
+201004002 Walferdange, Gemenge  01316  01316                % 09352 RGTR--
+201003001 Helmsange, Barriär    01317  01317                % 09352 RGTR--
+201004001 Walferdange, Gare     01318  01318                % 09352 RGTR--
+201003004 Helsem, Tricentenair  01319  01319                % 09352 RGTR--
+201003002 Helsem, Mercatoris    01319  01319                % 09352 RGTR--
+201003003 Heisdorf, Millewee    01320  01320                % 09352 RGTR--
+200802002 Heisdorf, Bei der Pa  01321  01321                % 09352 RGTR--
+200802004 Heisdorf, Klouster    01321  01321                % 09352 RGTR--
+200802001 Heisdorf, Altersheem  01322  01322                % 09352 RGTR--
+200801001 Müllendorf/Mëlleref   01323  01323                % 09352 RGTR--
+200801007 Steinsel, Schoul      01324  01324                % 09352 RGTR--
+200801002 Steinsel, Bourgaass   01324  01324                % 09352 RGTR--
+200801005 Steinsel, Michel Rod  01325  01325                % 09352 RGTR--
+200801012 Müllendorf, Op der M  01327  01327                % 09352 RGTR--
+160805001 Hünsdorf, Alsbich     01328  01328                % 09352 RGTR--
+160805002 Hünsdorf, Eglise      01329                       % 09352 RGTR--
+*Z 09353 RGTR--                                             % 09353 RGTR--
+*L 286      200420005 160805002  01550  01635               % 09353 RGTR--
+*A bi 200420005 160805002 000045  01550  01635              % 09353 RGTR--
+*A je 200420005 160805002 000045  01550  01635              % 09353 RGTR--
+*A tx 200420005 160805002 000045  01550  01635              % 09353 RGTR--
+*A ad 200420005 160805002 000045  01550  01635              % 09353 RGTR--
+*R 1 160805002 200420005 160805002  01550  01635            % 09353 RGTR--
+*G RGB 200420005 160805002  01550  01635                    % 09353 RGTR--
+*A VE 200420005 160805002 000045  01550  01635              % 09353 RGTR--
+*I FD 200420005 160805002        0001894  01550  01635      % 09353 RGTR--
+200420005 Merl, Geesseknäppche         01550                % 09353 RGTR--
+200410003 Eich, Eecher Plaz     01609  01609                % 09353 RGTR--
+200410004 Eich, Klinik          01610  01610                % 09353 RGTR--
+200409007 Dommeldange, Emile M  01611  01611                % 09353 RGTR--
+200402005 Beggen, Henri Heyman  01612  01612                % 09353 RGTR--
+200402002 Beggen, Binnchen      01612  01612                % 09353 RGTR--
+200402006 Beggen, Kierch        01613  01613                % 09353 RGTR--
+200402001 Beggen, Bastogne      01614  01614                % 09353 RGTR--
+200402007 Beggen, Rue du Pont   01614  01614                % 09353 RGTR--
+201001003 Bereldange, Schoul    01615  01615                % 09353 RGTR--
+201001002 Bereldange, Police    01617  01617                % 09353 RGTR--
+201004002 Walferdange, Gemenge  01619  01619                % 09353 RGTR--
+201003001 Helmsange, Barriär    01620  01620                % 09353 RGTR--
+201004001 Walferdange, Gare     01621  01621                % 09353 RGTR--
+201003004 Helsem, Tricentenair  01622  01622                % 09353 RGTR--
+201003002 Helsem, Mercatoris    01623  01623                % 09353 RGTR--
+201003003 Heisdorf, Millewee    01624  01624                % 09353 RGTR--
+200802002 Heisdorf, Bei der Pa  01624  01624                % 09353 RGTR--
+200802004 Heisdorf, Klouster    01625  01625                % 09353 RGTR--
+200802001 Heisdorf, Altersheem  01627  01627                % 09353 RGTR--
+200801001 Müllendorf/Mëlleref   01628  01628                % 09353 RGTR--
+200801007 Steinsel, Schoul      01628  01628                % 09353 RGTR--
+200801002 Steinsel, Bourgaass   01629  01629                % 09353 RGTR--
+200801005 Steinsel, Michel Rod  01630  01630                % 09353 RGTR--
+200801012 Müllendorf, Op der M  01632  01632                % 09353 RGTR--
+160805001 Hünsdorf, Alsbich     01634  01634                % 09353 RGTR--
+160805002 Hünsdorf, Eglise      01635                       % 09353 RGTR--
+*Z 09354 RGTR--                                             % 09354 RGTR--
+*L 286      200420005 200801005  01550  01630               % 09354 RGTR--
+*A je 200420005 200801005 000045  01550  01630              % 09354 RGTR--
+*A nj 200420005 200801005 000045  01550  01630              % 09354 RGTR--
+*A ad 200420005 200801005 000045  01550  01630              % 09354 RGTR--
+*R 1 200801005 200420005 200801005  01550  01630            % 09354 RGTR--
+*G RGB 200420005 200801005  01550  01630                    % 09354 RGTR--
+*A VE 200420005 200801005 000045  01550  01630              % 09354 RGTR--
+*I FD 200420005 200801005        0001323  01550  01630      % 09354 RGTR--
+200420005 Merl, Geesseknäppche         01550                % 09354 RGTR--
+200410003 Eich, Eecher Plaz     01609  01609                % 09354 RGTR--
+200410004 Eich, Klinik          01610  01610                % 09354 RGTR--
+200409007 Dommeldange, Emile M  01611  01611                % 09354 RGTR--
+200402005 Beggen, Henri Heyman  01612  01612                % 09354 RGTR--
+200402002 Beggen, Binnchen      01612  01612                % 09354 RGTR--
+200402006 Beggen, Kierch        01613  01613                % 09354 RGTR--
+200402001 Beggen, Bastogne      01614  01614                % 09354 RGTR--
+200402007 Beggen, Rue du Pont   01614  01614                % 09354 RGTR--
+201001003 Bereldange, Schoul    01615  01615                % 09354 RGTR--
+201001002 Bereldange, Police    01617  01617                % 09354 RGTR--
+201004002 Walferdange, Gemenge  01619  01619                % 09354 RGTR--
+201003001 Helmsange, Barriär    01620  01620                % 09354 RGTR--
+201004001 Walferdange, Gare     01621  01621                % 09354 RGTR--
+201003004 Helsem, Tricentenair  01622  01622                % 09354 RGTR--
+201003002 Helsem, Mercatoris    01623  01623                % 09354 RGTR--
+201003003 Heisdorf, Millewee    01624  01624                % 09354 RGTR--
+200802002 Heisdorf, Bei der Pa  01624  01624                % 09354 RGTR--
+200802004 Heisdorf, Klouster    01625  01625                % 09354 RGTR--
+200802001 Heisdorf, Altersheem  01627  01627                % 09354 RGTR--
+200801001 Müllendorf/Mëlleref   01628  01628                % 09354 RGTR--
+200801007 Steinsel, Schoul      01628  01628                % 09354 RGTR--
+200801002 Steinsel, Bourgaass   01629  01629                % 09354 RGTR--
+200801005 Steinsel, Michel Rod  01630                       % 09354 RGTR--
+*Z 09355 RGTR--                                             % 09355 RGTR--
+*L 286      200420005 200801005  01250  01325               % 09355 RGTR--
+*A je 200420005 200801005 000042  01250  01325              % 09355 RGTR--
+*A nj 200420005 200801005 000042  01250  01325              % 09355 RGTR--
+*A ad 200420005 200801005 000042  01250  01325              % 09355 RGTR--
+*R 1 200801005 200420005 200801005  01250  01325            % 09355 RGTR--
+*G RGB 200420005 200801005  01250  01325                    % 09355 RGTR--
+*A VE 200420005 200801005 000042  01250  01325              % 09355 RGTR--
+*I FD 200420005 200801005        0001291  01250  01325      % 09355 RGTR--
+200420005 Merl, Geesseknäppche         01250                % 09355 RGTR--
+200410003 Eich, Eecher Plaz     01309  01309                % 09355 RGTR--
+200410004 Eich, Klinik          01310  01310                % 09355 RGTR--
+200409007 Dommeldange, Emile M  01310  01310                % 09355 RGTR--
+200402005 Beggen, Henri Heyman  01311  01311                % 09355 RGTR--
+200402002 Beggen, Binnchen      01312  01312                % 09355 RGTR--
+200402006 Beggen, Kierch        01312  01312                % 09355 RGTR--
+200402001 Beggen, Bastogne      01313  01313                % 09355 RGTR--
+200402007 Beggen, Rue du Pont   01314  01314                % 09355 RGTR--
+201001003 Bereldange, Schoul    01314  01314                % 09355 RGTR--
+201001002 Bereldange, Police    01315  01315                % 09355 RGTR--
+201004002 Walferdange, Gemenge  01316  01316                % 09355 RGTR--
+201003001 Helmsange, Barriär    01317  01317                % 09355 RGTR--
+201004001 Walferdange, Gare     01318  01318                % 09355 RGTR--
+201003004 Helsem, Tricentenair  01319  01319                % 09355 RGTR--
+201003002 Helsem, Mercatoris    01319  01319                % 09355 RGTR--
+201003003 Heisdorf, Millewee    01320  01320                % 09355 RGTR--
+200802002 Heisdorf, Bei der Pa  01321  01321                % 09355 RGTR--
+200802004 Heisdorf, Klouster    01321  01321                % 09355 RGTR--
+200802001 Heisdorf, Altersheem  01322  01322                % 09355 RGTR--
+200801001 Müllendorf/Mëlleref   01323  01323                % 09355 RGTR--
+200801007 Steinsel, Schoul      01324  01324                % 09355 RGTR--
+200801002 Steinsel, Bourgaass   01324  01324                % 09355 RGTR--
+200801005 Steinsel, Michel Rod  01325                       % 09355 RGTR--
+*Z 09356 RGTR--                                             % 09356 RGTR--
+*L 286      200419025 200801005  01402  01423               % 09356 RGTR--
+*A je 200419025 200801005 000030  01402  01423              % 09356 RGTR--
+*A nj 200419025 200801005 000030  01402  01423              % 09356 RGTR--
+*A ad 200419025 200801005 000030  01402  01423              % 09356 RGTR--
+*R 1 200801005 200419025 200801005  01402  01423            % 09356 RGTR--
+*G RGB 200419025 200801005  01402  01423                    % 09356 RGTR--
+*A VE 200419025 200801005 000030  01402  01423              % 09356 RGTR--
+*I FD 200419025 200801005        0002466  01402  01423      % 09356 RGTR--
+200419025 Limpertsberg, Lycée          01402                % 09356 RGTR--
+200402007 Beggen, Rue du Pont   01412  01412                % 09356 RGTR--
+201001003 Bereldange, Schoul    01412  01412                % 09356 RGTR--
+201001002 Bereldange, Police    01413  01413                % 09356 RGTR--
+201004002 Walferdange, Gemenge  01414  01414                % 09356 RGTR--
+201003001 Helmsange, Barriär    01415  01415                % 09356 RGTR--
+201004001 Walferdange, Gare     01416  01416                % 09356 RGTR--
+201003004 Helsem, Tricentenair  01417  01417                % 09356 RGTR--
+201003002 Helsem, Mercatoris    01417  01417                % 09356 RGTR--
+201003003 Heisdorf, Millewee    01418  01418                % 09356 RGTR--
+200802002 Heisdorf, Bei der Pa  01419  01419                % 09356 RGTR--
+200802004 Heisdorf, Klouster    01419  01419                % 09356 RGTR--
+200802001 Heisdorf, Altersheem  01420  01420                % 09356 RGTR--
+200801001 Müllendorf/Mëlleref   01421  01421                % 09356 RGTR--
+200801007 Steinsel, Schoul      01422  01422                % 09356 RGTR--
+200801002 Steinsel, Bourgaass   01422  01422                % 09356 RGTR--
+200801005 Steinsel, Michel Rod  01423                       % 09356 RGTR--
+*Z 09357 RGTR--                                             % 09357 RGTR--
+*L 286      200419009 200801005  01406  01427               % 09357 RGTR--
+*A BE 200419009 200801005 000030  01406  01427              % 09357 RGTR--
+*A je 200419009 200801005 000030  01406  01427              % 09357 RGTR--
+*A nj 200419009 200801005 000030  01406  01427              % 09357 RGTR--
+*A ad 200419009 200801005 000030  01406  01427              % 09357 RGTR--
+*R 1 200801005 200419009 200801005  01406  01427            % 09357 RGTR--
+*G RGB 200419009 200801005  01406  01427                    % 09357 RGTR--
+*A VE 200419009 200801005 000030  01406  01427              % 09357 RGTR--
+*I FD 200419009 200801005        0001858  01406  01427      % 09357 RGTR--
+200419009 Limpertsberg, Bd.P.          01406                % 09357 RGTR--
+200402007 Beggen, Rue du Pont   01416  01416                % 09357 RGTR--
+201001003 Bereldange, Schoul    01416  01416                % 09357 RGTR--
+201001002 Bereldange, Police    01417  01417                % 09357 RGTR--
+201004002 Walferdange, Gemenge  01418  01418                % 09357 RGTR--
+201003001 Helmsange, Barriär    01419  01419                % 09357 RGTR--
+201004001 Walferdange, Gare     01420  01420                % 09357 RGTR--
+201003004 Helsem, Tricentenair  01421  01421                % 09357 RGTR--
+201003002 Helsem, Mercatoris    01421  01421                % 09357 RGTR--
+201003003 Heisdorf, Millewee    01422  01422                % 09357 RGTR--
+200802002 Heisdorf, Bei der Pa  01423  01423                % 09357 RGTR--
+200802004 Heisdorf, Klouster    01423  01423                % 09357 RGTR--
+200802001 Heisdorf, Altersheem  01424  01424                % 09357 RGTR--
+200801001 Müllendorf/Mëlleref   01425  01425                % 09357 RGTR--
+200801007 Steinsel, Schoul      01426  01426                % 09357 RGTR--
+200801002 Steinsel, Bourgaass   01426  01426                % 09357 RGTR--
+200801005 Steinsel, Michel Rod  01427                       % 09357 RGTR--
+*Z 09358 RGTR--                                             % 09358 RGTR--
+*L 286      200419021 160805002  01145  01217               % 09358 RGTR--
+*A je 200419021 160805002 000042  01145  01217              % 09358 RGTR--
+*A tx 200419021 160805002 000042  01145  01217              % 09358 RGTR--
+*A ad 200419021 160805002 000042  01145  01217              % 09358 RGTR--
+*R 1 160805002 200419021 160805002  01145  01217            % 09358 RGTR--
+*G RGB 200419021 160805002  01145  01217                    % 09358 RGTR--
+*A VE 200419021 160805002 000042  01145  01217              % 09358 RGTR--
+*I FD 200419021 160805002        0002414  01145  01217      % 09358 RGTR--
+200419021 Limpertsberg, L.T.C.         01145                % 09358 RGTR--
+200419025 Limpertsberg, Lycée   01149  01149                % 09358 RGTR--
+200419009 Limpertsberg, Bd.P.   01152  01152                % 09358 RGTR--
+200402007 Beggen, Rue du Pont   01202  01202                % 09358 RGTR--
+201001003 Bereldange, Schoul    01202  01202                % 09358 RGTR--
+201001002 Bereldange, Police    01203  01203                % 09358 RGTR--
+201004002 Walferdange, Gemenge  01204  01204                % 09358 RGTR--
+201003001 Helmsange, Barriär    01205  01205                % 09358 RGTR--
+201004001 Walferdange, Gare     01206  01206                % 09358 RGTR--
+201003004 Helsem, Tricentenair  01207  01207                % 09358 RGTR--
+201003002 Helsem, Mercatoris    01207  01207                % 09358 RGTR--
+201003003 Heisdorf, Millewee    01208  01208                % 09358 RGTR--
+200802002 Heisdorf, Bei der Pa  01209  01209                % 09358 RGTR--
+200802004 Heisdorf, Klouster    01209  01209                % 09358 RGTR--
+200802001 Heisdorf, Altersheem  01210  01210                % 09358 RGTR--
+200801001 Müllendorf/Mëlleref   01211  01211                % 09358 RGTR--
+200801007 Steinsel, Schoul      01212  01212                % 09358 RGTR--
+200801002 Steinsel, Bourgaass   01212  01212                % 09358 RGTR--
+200801005 Steinsel, Michel Rod  01213  01213                % 09358 RGTR--
+200801012 Müllendorf, Op der M  01215  01215                % 09358 RGTR--
+160805001 Hünsdorf, Alsbich     01216  01216                % 09358 RGTR--
+160805002 Hünsdorf, Eglise      01217                       % 09358 RGTR--
+*Z 09359 RGTR--                                             % 09359 RGTR--
+*L 286      200419021 160805002  01403  01432               % 09359 RGTR--
+*A BE 200419021 160805002 000030  01403  01432              % 09359 RGTR--
+*A je 200419021 160805002 000030  01403  01432              % 09359 RGTR--
+*A tx 200419021 160805002 000030  01403  01432              % 09359 RGTR--
+*A ad 200419021 160805002 000030  01403  01432              % 09359 RGTR--
+*R 1 160805002 200419021 160805002  01403  01432            % 09359 RGTR--
+*G RGB 200419021 160805002  01403  01432                    % 09359 RGTR--
+*A VE 200419021 160805002 000030  01403  01432              % 09359 RGTR--
+*I FD 200419021 160805002        0002413  01403  01432      % 09359 RGTR--
+200419021 Limpertsberg, L.T.C.         01403                % 09359 RGTR--
+200419025 Limpertsberg, Lycée   01407  01407                % 09359 RGTR--
+200402007 Beggen, Rue du Pont   01417  01417                % 09359 RGTR--
+201001003 Bereldange, Schoul    01417  01417                % 09359 RGTR--
+201001002 Bereldange, Police    01418  01418                % 09359 RGTR--
+201004002 Walferdange, Gemenge  01419  01419                % 09359 RGTR--
+201003001 Helmsange, Barriär    01420  01420                % 09359 RGTR--
+201004001 Walferdange, Gare     01421  01421                % 09359 RGTR--
+201003004 Helsem, Tricentenair  01422  01422                % 09359 RGTR--
+201003002 Helsem, Mercatoris    01422  01422                % 09359 RGTR--
+201003003 Heisdorf, Millewee    01423  01423                % 09359 RGTR--
+200802002 Heisdorf, Bei der Pa  01424  01424                % 09359 RGTR--
+200802004 Heisdorf, Klouster    01424  01424                % 09359 RGTR--
+200802001 Heisdorf, Altersheem  01425  01425                % 09359 RGTR--
+200801001 Müllendorf/Mëlleref   01426  01426                % 09359 RGTR--
+200801007 Steinsel, Schoul      01427  01427                % 09359 RGTR--
+200801002 Steinsel, Bourgaass   01427  01427                % 09359 RGTR--
+200801005 Steinsel, Michel Rod  01428  01428                % 09359 RGTR--
+200801012 Müllendorf, Op der M  01430  01430                % 09359 RGTR--
+160805001 Hünsdorf, Alsbich     01431  01431                % 09359 RGTR--
+160805002 Hünsdorf, Eglise      01432                       % 09359 RGTR--
+*Z 09360 RGTR--                                             % 09360 RGTR--
+*L 286      200419021 200801005  01535  01603               % 09360 RGTR--
+*A BE 200419021 200801005 000045  01535  01603              % 09360 RGTR--
+*A je 200419021 200801005 000045  01535  01603              % 09360 RGTR--
+*A nj 200419021 200801005 000045  01535  01603              % 09360 RGTR--
+*A ad 200419021 200801005 000045  01535  01603              % 09360 RGTR--
+*R 1 200801005 200419021 200801005  01535  01603            % 09360 RGTR--
+*G RGB 200419021 200801005  01535  01603                    % 09360 RGTR--
+*A VE 200419021 200801005 000045  01535  01603              % 09360 RGTR--
+*I FD 200419021 200801005        0001336  01535  01603      % 09360 RGTR--
+200419021 Limpertsberg, L.T.C.         01535                % 09360 RGTR--
+200419025 Limpertsberg, Lycée   01539  01539                % 09360 RGTR--
+200419009 Limpertsberg, Bd.P.   01542  01542                % 09360 RGTR--
+200402007 Beggen, Rue du Pont   01552  01552                % 09360 RGTR--
+201001003 Bereldange, Schoul    01552  01552                % 09360 RGTR--
+201001002 Bereldange, Police    01553  01553                % 09360 RGTR--
+201004002 Walferdange, Gemenge  01554  01554                % 09360 RGTR--
+201003001 Helmsange, Barriär    01555  01555                % 09360 RGTR--
+201004001 Walferdange, Gare     01556  01556                % 09360 RGTR--
+201003004 Helsem, Tricentenair  01557  01557                % 09360 RGTR--
+201003002 Helsem, Mercatoris    01557  01557                % 09360 RGTR--
+201003003 Heisdorf, Millewee    01558  01558                % 09360 RGTR--
+200802002 Heisdorf, Bei der Pa  01559  01559                % 09360 RGTR--
+200802004 Heisdorf, Klouster    01559  01559                % 09360 RGTR--
+200802001 Heisdorf, Altersheem  01600  01600                % 09360 RGTR--
+200801001 Müllendorf/Mëlleref   01601  01601                % 09360 RGTR--
+200801007 Steinsel, Schoul      01602  01602                % 09360 RGTR--
+200801002 Steinsel, Bourgaass   01602  01602                % 09360 RGTR--
+200801005 Steinsel, Michel Rod  01603                       % 09360 RGTR--
+*Z 09361 RGTR--                                             % 09361 RGTR--
+*L 286      200419021 160805002  01510  01535               % 09361 RGTR--
+*A je 200419021 160805002 000030  01510  01535              % 09361 RGTR--
+*A tx 200419021 160805002 000030  01510  01535              % 09361 RGTR--
+*A ad 200419021 160805002 000030  01510  01535              % 09361 RGTR--
+*R 1 160805002 200419021 160805002  01510  01535            % 09361 RGTR--
+*G RGB 200419021 160805002  01510  01535                    % 09361 RGTR--
+*A VE 200419021 160805002 000030  01510  01535              % 09361 RGTR--
+*I FD 200419021 160805002        0001892  01510  01535      % 09361 RGTR--
+200419021 Limpertsberg, L.T.C.         01510                % 09361 RGTR--
+200402007 Beggen, Rue du Pont   01520  01520                % 09361 RGTR--
+201001003 Bereldange, Schoul    01520  01520                % 09361 RGTR--
+201001002 Bereldange, Police    01521  01521                % 09361 RGTR--
+201004002 Walferdange, Gemenge  01522  01522                % 09361 RGTR--
+201003001 Helmsange, Barriär    01523  01523                % 09361 RGTR--
+201004001 Walferdange, Gare     01524  01524                % 09361 RGTR--
+201003004 Helsem, Tricentenair  01525  01525                % 09361 RGTR--
+201003002 Helsem, Mercatoris    01525  01525                % 09361 RGTR--
+201003003 Heisdorf, Millewee    01526  01526                % 09361 RGTR--
+200802002 Heisdorf, Bei der Pa  01527  01527                % 09361 RGTR--
+200802004 Heisdorf, Klouster    01527  01527                % 09361 RGTR--
+200802001 Heisdorf, Altersheem  01528  01528                % 09361 RGTR--
+200801001 Müllendorf/Mëlleref   01529  01529                % 09361 RGTR--
+200801007 Steinsel, Schoul      01530  01530                % 09361 RGTR--
+200801002 Steinsel, Bourgaass   01530  01530                % 09361 RGTR--
+200801005 Steinsel, Michel Rod  01531  01531                % 09361 RGTR--
+200801012 Müllendorf, Op der M  01533  01533                % 09361 RGTR--
+160805001 Hünsdorf, Alsbich     01534  01534                % 09361 RGTR--
+160805002 Hünsdorf, Eglise      01535                       % 09361 RGTR--
+*Z 09362 RGTR--                                             % 09362 RGTR--
+*L 286      200801005 200420005  00705  00744               % 09362 RGTR--
+*A bi 200801005 200420005 000030  00705  00744              % 09362 RGTR--
+*A je 200801005 200420005 000030  00705  00744              % 09362 RGTR--
+*A hs 200801005 200420005 000030  00705  00744              % 09362 RGTR--
+*A ad 200801005 200420005 000030  00705  00744              % 09362 RGTR--
+*R 2 200420005 200801005 200420005  00705  00744            % 09362 RGTR--
+*G RGB 200801005 200420005  00705  00744                    % 09362 RGTR--
+*A VE 200801005 200420005 000030  00705  00744              % 09362 RGTR--
+*I FD 200801005 200420005        0002223  00705  00744      % 09362 RGTR--
+200801005 Steinsel, Michel Rod         00705                % 09362 RGTR--
+200801001 Müllendorf/Mëlleref   00706  00706                % 09362 RGTR--
+200802001 Heisdorf, Altersheem  00707  00707                % 09362 RGTR--
+200802004 Heisdorf, Klouster    00708  00708                % 09362 RGTR--
+200802002 Heisdorf, Bei der Pa  00709  00709                % 09362 RGTR--
+201003003 Heisdorf, Millewee    00710  00710                % 09362 RGTR--
+201003002 Helsem, Mercatoris    00710  00710                % 09362 RGTR--
+201004001 Walferdange, Gare     00711  00711                % 09362 RGTR--
+201003001 Helmsange, Barriär    00712  00712                % 09362 RGTR--
+201004002 Walferdange, Gemenge  00714  00714                % 09362 RGTR--
+201001002 Bereldange, Police    00715  00715                % 09362 RGTR--
+201001003 Bereldange, Schoul    00716  00716                % 09362 RGTR--
+200402007 Beggen, Rue du Pont   00717  00717                % 09362 RGTR--
+200419005 Limpertsberg, Arts e  00728  00728                % 09362 RGTR--
+200419026 Limpertsberg, Theate  00730  00730                % 09362 RGTR--
+200420005 Merl, Geesseknäppche  00744                       % 09362 RGTR--
+*Z 09363 RGTR--                                             % 09363 RGTR--
+*L 286      160805001 200420005  00704  00748               % 09363 RGTR--
+*A je 160805001 200420005 000030  00704  00748              % 09363 RGTR--
+*A hs 160805001 200420005 000030  00704  00748              % 09363 RGTR--
+*A ad 160805001 200420005 000030  00704  00748              % 09363 RGTR--
+*R 2 200420005 160805001 200420005  00704  00748            % 09363 RGTR--
+*G RGB 160805001 200420005  00704  00748                    % 09363 RGTR--
+*A VE 160805001 200420005 000030  00704  00748              % 09363 RGTR--
+*I FD 160805001 200420005        0003334  00704  00748      % 09363 RGTR--
+160805001 Hünsdorf, Alsbich            00704                % 09363 RGTR--
+160805002 Hünsdorf, Eglise      00705  00705                % 09363 RGTR--
+200801012 Müllendorf, Op der M  00707  00707                % 09363 RGTR--
+200801007 Steinsel, Schoul      00709  00709                % 09363 RGTR--
+200801002 Steinsel, Bourgaass   00709  00709                % 09363 RGTR--
+200801005 Steinsel, Michel Rod  00710  00710                % 09363 RGTR--
+200801001 Müllendorf/Mëlleref   00712  00712                % 09363 RGTR--
+200802001 Heisdorf, Altersheem  00713  00713                % 09363 RGTR--
+200802004 Heisdorf, Klouster    00714  00714                % 09363 RGTR--
+200802002 Heisdorf, Bei der Pa  00715  00715                % 09363 RGTR--
+201003003 Heisdorf, Millewee    00715  00715                % 09363 RGTR--
+201003002 Helsem, Mercatoris    00716  00716                % 09363 RGTR--
+201003004 Helsem, Tricentenair  00717  00717                % 09363 RGTR--
+201004002 Walferdange, Gemenge  00719  00719                % 09363 RGTR--
+201001002 Bereldange, Police    00720  00720                % 09363 RGTR--
+201001003 Bereldange, Schoul    00720  00720                % 09363 RGTR--
+200402007 Beggen, Rue du Pont   00722  00722                % 09363 RGTR--
+200419005 Limpertsberg, Arts e  00732  00732                % 09363 RGTR--
+200419026 Limpertsberg, Theate  00735  00735                % 09363 RGTR--
+200420005 Merl, Geesseknäppche  00748                       % 09363 RGTR--
+*Z 09364 RGTR--                                             % 09364 RGTR--
+*L 286      200801005 200419021  00715  00743               % 09364 RGTR--
+*A je 200801005 200419021 000030  00715  00743              % 09364 RGTR--
+*A dc 200801005 200419021 000030  00715  00743              % 09364 RGTR--
+*A ad 200801005 200419021 000030  00715  00743              % 09364 RGTR--
+*R 2 200419021 200801005 200419021  00715  00743            % 09364 RGTR--
+*G RGB 200801005 200419021  00715  00743                    % 09364 RGTR--
+*A VE 200801005 200419021 000030  00715  00743              % 09364 RGTR--
+*I FD 200801005 200419021        0002999  00715  00743      % 09364 RGTR--
+200801005 Steinsel, Michel Rod         00715                % 09364 RGTR--
+200801001 Müllendorf/Mëlleref   00716  00716                % 09364 RGTR--
+200802001 Heisdorf, Altersheem  00717  00717                % 09364 RGTR--
+200802004 Heisdorf, Klouster    00718  00718                % 09364 RGTR--
+200802002 Heisdorf, Bei der Pa  00719  00719                % 09364 RGTR--
+201003003 Heisdorf, Millewee    00720  00720                % 09364 RGTR--
+201003002 Helsem, Mercatoris    00720  00720                % 09364 RGTR--
+201003004 Helsem, Tricentenair  00721  00721                % 09364 RGTR--
+201004002 Walferdange, Gemenge  00723  00723                % 09364 RGTR--
+201001002 Bereldange, Police    00724  00724                % 09364 RGTR--
+201001003 Bereldange, Schoul    00725  00725                % 09364 RGTR--
+200402007 Beggen, Rue du Pont   00726  00726                % 09364 RGTR--
+200419005 Limpertsberg, Arts e  00736  00736                % 09364 RGTR--
+200419025 Limpertsberg, Lycée   00739  00739                % 09364 RGTR--
+200419021 Limpertsberg, L.T.C.  00743                       % 09364 RGTR--
+*Z 09365 RGTR--                                             % 09365 RGTR--
+*L 286      200801005 200419005  00715  00738               % 09365 RGTR--
+*A BE 200801005 200419005 000030  00715  00738              % 09365 RGTR--
+*A je 200801005 200419005 000030  00715  00738              % 09365 RGTR--
+*A jf 200801005 200419005 000030  00715  00738              % 09365 RGTR--
+*A ad 200801005 200419005 000030  00715  00738              % 09365 RGTR--
+*R 2 200419005 200801005 200419005  00715  00738            % 09365 RGTR--
+*G RGB 200801005 200419005  00715  00738                    % 09365 RGTR--
+*A VE 200801005 200419005 000030  00715  00738              % 09365 RGTR--
+*I FD 200801005 200419005        0002067  00715  00738      % 09365 RGTR--
+200801005 Steinsel, Michel Rod         00715                % 09365 RGTR--
+200801001 Müllendorf/Mëlleref   00716  00716                % 09365 RGTR--
+200802001 Heisdorf, Altersheem  00717  00717                % 09365 RGTR--
+200802004 Heisdorf, Klouster    00718  00718                % 09365 RGTR--
+200802002 Heisdorf, Bei der Pa  00719  00719                % 09365 RGTR--
+201003003 Heisdorf, Millewee    00720  00720                % 09365 RGTR--
+201003002 Helsem, Mercatoris    00720  00720                % 09365 RGTR--
+201004001 Walferdange, Gare     00721  00721                % 09365 RGTR--
+201003001 Helmsange, Barriär    00722  00722                % 09365 RGTR--
+201004002 Walferdange, Gemenge  00724  00724                % 09365 RGTR--
+201001002 Bereldange, Police    00725  00725                % 09365 RGTR--
+201001003 Bereldange, Schoul    00726  00726                % 09365 RGTR--
+200402007 Beggen, Rue du Pont   00727  00727                % 09365 RGTR--
+200419005 Limpertsberg, Arts e  00738                       % 09365 RGTR--
+*Z 09366 RGTR--                                             % 09366 RGTR--
+*L 286      200801005 200419021  00715  00744               % 09366 RGTR--
+*A BE 200801005 200419021 000030  00715  00744              % 09366 RGTR--
+*A je 200801005 200419021 000030  00715  00744              % 09366 RGTR--
+*A dc 200801005 200419021 000030  00715  00744              % 09366 RGTR--
+*A ad 200801005 200419021 000030  00715  00744              % 09366 RGTR--
+*R 2 200419021 200801005 200419021  00715  00744            % 09366 RGTR--
+*G RGB 200801005 200419021  00715  00744                    % 09366 RGTR--
+*A VE 200801005 200419021 000030  00715  00744              % 09366 RGTR--
+*I FD 200801005 200419021        0002498  00715  00744      % 09366 RGTR--
+200801005 Steinsel, Michel Rod         00715                % 09366 RGTR--
+200801001 Müllendorf/Mëlleref   00716  00716                % 09366 RGTR--
+200802001 Heisdorf, Altersheem  00717  00717                % 09366 RGTR--
+200802004 Heisdorf, Klouster    00718  00718                % 09366 RGTR--
+200802002 Heisdorf, Bei der Pa  00719  00719                % 09366 RGTR--
+201003003 Heisdorf, Millewee    00720  00720                % 09366 RGTR--
+201003002 Helsem, Mercatoris    00720  00720                % 09366 RGTR--
+201004001 Walferdange, Gare     00721  00721                % 09366 RGTR--
+201003001 Helmsange, Barriär    00722  00722                % 09366 RGTR--
+201004002 Walferdange, Gemenge  00724  00724                % 09366 RGTR--
+201001002 Bereldange, Police    00725  00725                % 09366 RGTR--
+201001003 Bereldange, Schoul    00726  00726                % 09366 RGTR--
+200402007 Beggen, Rue du Pont   00727  00727                % 09366 RGTR--
+200419005 Limpertsberg, Arts e  00738  00738                % 09366 RGTR--
+200419025 Limpertsberg, Lycée   00740  00740                % 09366 RGTR--
+200419021 Limpertsberg, L.T.C.  00744                       % 09366 RGTR--
+*Z 09367 RGTR--                                             % 09367 RGTR--
+*L 286      200801005 200419021  00715  00744               % 09367 RGTR--
+*A je 200801005 200419021 000030  00715  00744              % 09367 RGTR--
+*A dc 200801005 200419021 000030  00715  00744              % 09367 RGTR--
+*A ad 200801005 200419021 000030  00715  00744              % 09367 RGTR--
+*R 2 200419021 200801005 200419021  00715  00744            % 09367 RGTR--
+*G RGB 200801005 200419021  00715  00744                    % 09367 RGTR--
+*A VE 200801005 200419021 000030  00715  00744              % 09367 RGTR--
+*I FD 200801005 200419021        0003736  00715  00744      % 09367 RGTR--
+200801005 Steinsel, Michel Rod         00715                % 09367 RGTR--
+200801001 Müllendorf/Mëlleref   00716  00716                % 09367 RGTR--
+200802001 Heisdorf, Altersheem  00717  00717                % 09367 RGTR--
+200802004 Heisdorf, Klouster    00718  00718                % 09367 RGTR--
+200802002 Heisdorf, Bei der Pa  00719  00719                % 09367 RGTR--
+201003003 Heisdorf, Millewee    00720  00720                % 09367 RGTR--
+201003002 Helsem, Mercatoris    00720  00720                % 09367 RGTR--
+201004001 Walferdange, Gare     00721  00721                % 09367 RGTR--
+201003001 Helmsange, Barriär    00722  00722                % 09367 RGTR--
+201004002 Walferdange, Gemenge  00724  00724                % 09367 RGTR--
+201001002 Bereldange, Police    00725  00725                % 09367 RGTR--
+201001003 Bereldange, Schoul    00726  00726                % 09367 RGTR--
+200402007 Beggen, Rue du Pont   00727  00727                % 09367 RGTR--
+200419005 Limpertsberg, Arts e  00738  00738                % 09367 RGTR--
+200419025 Limpertsberg, Lycée   00740  00740                % 09367 RGTR--
+200419021 Limpertsberg, L.T.C.  00744                       % 09367 RGTR--

@@ -1,0 +1,525 @@
+*F 03 2
+*Z 07730 RGTR--                                             % 07730 RGTR--
+*L 628      120903023 110820002  01108  01132               % 07730 RGTR--
+*A gu 120903023 110820002 000006  01108  01132              % 07730 RGTR--
+*A ks 120903023 110820002 000006  01108  01132              % 07730 RGTR--
+*R 1 110820002 120903023 110820002  01108  01132            % 07730 RGTR--
+*G RGB 120903023 110820002  01108  01132                    % 07730 RGTR--
+*A VE 120903023 110820002 000006  01108  01132              % 07730 RGTR--
+*I FD 120903023 110820002        0001215  01108  01132      % 07730 RGTR--
+120903023 Wiltz, Lycée du Nord         01108                % 07730 RGTR--
+120903021 Wiltz, Lann           01110  01110                % 07730 RGTR--
+120903041 Wiltz, Wéinebeerig    01111  01111                % 07730 RGTR--
+120903040 Weidingen, Wegdicher  01112  01112                % 07730 RGTR--
+120902001 Weidingen, Erpeldang  01113  01113                % 07730 RGTR--
+110807004 Derenbach, Weischent  01119  01119                % 07730 RGTR--
+110807001 Derenbach, Chapelle   01120  01120                % 07730 RGTR--
+110822002 Féitsch               01123  01123                % 07730 RGTR--
+110801003 Allerborn, Maison 6   01124  01124                % 07730 RGTR--
+110801002 Allerborn, Maison 20  01125  01125                % 07730 RGTR--
+110801001 Allerborn, Kreizung   01126  01126                % 07730 RGTR--
+110820003 Troine-Route, Route   01128  01128                % 07730 RGTR--
+110820004 Troine-Route, Op der  01129  01129                % 07730 RGTR--
+110820001 Troine, Bréck         01131  01131                % 07730 RGTR--
+110820002 Troine, Duerf         01132                       % 07730 RGTR--
+*Z 07731 RGTR--                                             % 07731 RGTR--
+*L 628      120903023 130107002  00808  00843               % 07731 RGTR--
+*A gu 120903023 130107002 000006  00808  00843              % 07731 RGTR--
+*A qj 120903023 130107002 000006  00808  00843              % 07731 RGTR--
+*R 1 130107002 120903023 130107002  00808  00843            % 07731 RGTR--
+*G RGB 120903023 130107002  00808  00843                    % 07731 RGTR--
+*A VE 120903023 130107002 000006  00808  00843              % 07731 RGTR--
+*I FD 120903023 130107002        0002226  00808  00843      % 07731 RGTR--
+120903023 Wiltz, Lycée du Nord         00808                % 07731 RGTR--
+120903021 Wiltz, Lann           00811  00811                % 07731 RGTR--
+120903041 Wiltz, Wéinebeerig    00812  00812                % 07731 RGTR--
+120903040 Weidingen, Wegdicher  00813  00813                % 07731 RGTR--
+120902001 Weidingen, Erpeldang  00814  00814                % 07731 RGTR--
+110807004 Derenbach, Weischent  00820  00820                % 07731 RGTR--
+110807001 Derenbach, Chapelle   00821  00821                % 07731 RGTR--
+110822002 Féitsch               00824  00824                % 07731 RGTR--
+110801003 Allerborn, Maison 6   00825  00825                % 07731 RGTR--
+110801002 Allerborn, Maison 20  00826  00826                % 07731 RGTR--
+110801001 Allerborn, Kreizung   00827  00827                % 07731 RGTR--
+110820003 Troine-Route, Route   00829  00829                % 07731 RGTR--
+110820004 Troine-Route, Op der  00830  00830                % 07731 RGTR--
+110820001 Troine, Bréck         00832  00832                % 07731 RGTR--
+110820002 Troine, Duerf         00833  00833                % 07731 RGTR--
+110811001 Hoffelt, Driicht      00837  00837                % 07731 RGTR--
+110811002 Hoffelt, Kiirch       00838  00838                % 07731 RGTR--
+110809002 Hachiville, Kiirfech  00839  00839                % 07731 RGTR--
+110809001 Hachiville, Centre    00840  00840                % 07731 RGTR--
+130107002 Weiler                00843                       % 07731 RGTR--
+*Z 07732 RGTR--                                             % 07732 RGTR--
+*L 628      120903023 130107002  01708  01743               % 07732 RGTR--
+*A gu 120903023 130107002 000006  01708  01743              % 07732 RGTR--
+*A qj 120903023 130107002 000006  01708  01743              % 07732 RGTR--
+*R 1 130107002 120903023 130107002  01708  01743            % 07732 RGTR--
+*G RGB 120903023 130107002  01708  01743                    % 07732 RGTR--
+*A VE 120903023 130107002 000006  01708  01743              % 07732 RGTR--
+*I FD 120903023 130107002        0002228  01708  01743      % 07732 RGTR--
+120903023 Wiltz, Lycée du Nord         01708                % 07732 RGTR--
+120903021 Wiltz, Lann           01711  01711                % 07732 RGTR--
+120903041 Wiltz, Wéinebeerig    01712  01712                % 07732 RGTR--
+120903040 Weidingen, Wegdicher  01713  01713                % 07732 RGTR--
+120902001 Weidingen, Erpeldang  01714  01714                % 07732 RGTR--
+110807004 Derenbach, Weischent  01720  01720                % 07732 RGTR--
+110807001 Derenbach, Chapelle   01721  01721                % 07732 RGTR--
+110822002 Féitsch               01724  01724                % 07732 RGTR--
+110801003 Allerborn, Maison 6   01725  01725                % 07732 RGTR--
+110801002 Allerborn, Maison 20  01726  01726                % 07732 RGTR--
+110801001 Allerborn, Kreizung   01727  01727                % 07732 RGTR--
+110820003 Troine-Route, Route   01729  01729                % 07732 RGTR--
+110820004 Troine-Route, Op der  01730  01730                % 07732 RGTR--
+110820001 Troine, Bréck         01732  01732                % 07732 RGTR--
+110820002 Troine, Duerf         01733  01733                % 07732 RGTR--
+110811001 Hoffelt, Driicht      01737  01737                % 07732 RGTR--
+110811002 Hoffelt, Kiirch       01738  01738                % 07732 RGTR--
+110809002 Hachiville, Kiirfech  01739  01739                % 07732 RGTR--
+110809001 Hachiville, Centre    01740  01740                % 07732 RGTR--
+130107002 Weiler                01743                       % 07732 RGTR--
+*Z 07733 RGTR--                                             % 07733 RGTR--
+*L 628      120903023 130107002  01808  01843               % 07733 RGTR--
+*A gu 120903023 130107002 000006  01808  01843              % 07733 RGTR--
+*A qj 120903023 130107002 000006  01808  01843              % 07733 RGTR--
+*R 1 130107002 120903023 130107002  01808  01843            % 07733 RGTR--
+*G RGB 120903023 130107002  01808  01843                    % 07733 RGTR--
+*A VE 120903023 130107002 000006  01808  01843              % 07733 RGTR--
+*I FD 120903023 130107002        0002229  01808  01843      % 07733 RGTR--
+120903023 Wiltz, Lycée du Nord         01808                % 07733 RGTR--
+120903021 Wiltz, Lann           01811  01811                % 07733 RGTR--
+120903041 Wiltz, Wéinebeerig    01812  01812                % 07733 RGTR--
+120903040 Weidingen, Wegdicher  01813  01813                % 07733 RGTR--
+120902001 Weidingen, Erpeldang  01814  01814                % 07733 RGTR--
+110807004 Derenbach, Weischent  01820  01820                % 07733 RGTR--
+110807001 Derenbach, Chapelle   01821  01821                % 07733 RGTR--
+110822002 Féitsch               01824  01824                % 07733 RGTR--
+110801003 Allerborn, Maison 6   01825  01825                % 07733 RGTR--
+110801002 Allerborn, Maison 20  01826  01826                % 07733 RGTR--
+110801001 Allerborn, Kreizung   01827  01827                % 07733 RGTR--
+110820003 Troine-Route, Route   01829  01829                % 07733 RGTR--
+110820004 Troine-Route, Op der  01830  01830                % 07733 RGTR--
+110820001 Troine, Bréck         01832  01832                % 07733 RGTR--
+110820002 Troine, Duerf         01833  01833                % 07733 RGTR--
+110811001 Hoffelt, Driicht      01837  01837                % 07733 RGTR--
+110811002 Hoffelt, Kiirch       01838  01838                % 07733 RGTR--
+110809002 Hachiville, Kiirfech  01839  01839                % 07733 RGTR--
+110809001 Hachiville, Centre    01840  01840                % 07733 RGTR--
+130107002 Weiler                01843                       % 07733 RGTR--
+*Z 07734 RGTR--                                             % 07734 RGTR--
+*L 628      120903023 130107002  01008  01042               % 07734 RGTR--
+*A gu 120903023 130107002 000006  01008  01042              % 07734 RGTR--
+*A qj 120903023 130107002 000006  01008  01042              % 07734 RGTR--
+*R 1 130107002 120903023 130107002  01008  01042            % 07734 RGTR--
+*G RGB 120903023 130107002  01008  01042                    % 07734 RGTR--
+*A VE 120903023 130107002 000006  01008  01042              % 07734 RGTR--
+*I FD 120903023 130107002        0002224  01008  01042      % 07734 RGTR--
+120903023 Wiltz, Lycée du Nord         01008                % 07734 RGTR--
+120903021 Wiltz, Lann           01010  01010                % 07734 RGTR--
+120903041 Wiltz, Wéinebeerig    01011  01011                % 07734 RGTR--
+120903040 Weidingen, Wegdicher  01012  01012                % 07734 RGTR--
+120902001 Weidingen, Erpeldang  01013  01013                % 07734 RGTR--
+110807004 Derenbach, Weischent  01019  01019                % 07734 RGTR--
+110807001 Derenbach, Chapelle   01020  01020                % 07734 RGTR--
+110822002 Féitsch               01023  01023                % 07734 RGTR--
+110801003 Allerborn, Maison 6   01024  01024                % 07734 RGTR--
+110801002 Allerborn, Maison 20  01025  01025                % 07734 RGTR--
+110801001 Allerborn, Kreizung   01026  01026                % 07734 RGTR--
+110820003 Troine-Route, Route   01028  01028                % 07734 RGTR--
+110820004 Troine-Route, Op der  01029  01029                % 07734 RGTR--
+110820001 Troine, Bréck         01031  01031                % 07734 RGTR--
+110820002 Troine, Duerf         01032  01032                % 07734 RGTR--
+110811001 Hoffelt, Driicht      01036  01036                % 07734 RGTR--
+110811002 Hoffelt, Kiirch       01037  01037                % 07734 RGTR--
+110809002 Hachiville, Kiirfech  01038  01038                % 07734 RGTR--
+110809001 Hachiville, Centre    01039  01039                % 07734 RGTR--
+130107002 Weiler                01042                       % 07734 RGTR--
+*Z 07735 RGTR--                                             % 07735 RGTR--
+*L 628      120903023 130107002  01408  01442               % 07735 RGTR--
+*A gu 120903023 130107002 000006  01408  01442              % 07735 RGTR--
+*A qj 120903023 130107002 000006  01408  01442              % 07735 RGTR--
+*R 1 130107002 120903023 130107002  01408  01442            % 07735 RGTR--
+*G RGB 120903023 130107002  01408  01442                    % 07735 RGTR--
+*A VE 120903023 130107002 000006  01408  01442              % 07735 RGTR--
+*I FD 120903023 130107002        0002225  01408  01442      % 07735 RGTR--
+120903023 Wiltz, Lycée du Nord         01408                % 07735 RGTR--
+120903021 Wiltz, Lann           01410  01410                % 07735 RGTR--
+120903041 Wiltz, Wéinebeerig    01411  01411                % 07735 RGTR--
+120903040 Weidingen, Wegdicher  01412  01412                % 07735 RGTR--
+120902001 Weidingen, Erpeldang  01413  01413                % 07735 RGTR--
+110807004 Derenbach, Weischent  01419  01419                % 07735 RGTR--
+110807001 Derenbach, Chapelle   01420  01420                % 07735 RGTR--
+110822002 Féitsch               01423  01423                % 07735 RGTR--
+110801003 Allerborn, Maison 6   01424  01424                % 07735 RGTR--
+110801002 Allerborn, Maison 20  01425  01425                % 07735 RGTR--
+110801001 Allerborn, Kreizung   01426  01426                % 07735 RGTR--
+110820003 Troine-Route, Route   01428  01428                % 07735 RGTR--
+110820004 Troine-Route, Op der  01429  01429                % 07735 RGTR--
+110820001 Troine, Bréck         01431  01431                % 07735 RGTR--
+110820002 Troine, Duerf         01432  01432                % 07735 RGTR--
+110811001 Hoffelt, Driicht      01436  01436                % 07735 RGTR--
+110811002 Hoffelt, Kiirch       01437  01437                % 07735 RGTR--
+110809002 Hachiville, Kiirfech  01438  01438                % 07735 RGTR--
+110809001 Hachiville, Centre    01439  01439                % 07735 RGTR--
+130107002 Weiler                01442                       % 07735 RGTR--
+*Z 07736 RGTR--                                             % 07736 RGTR--
+*L 628      120903023 130107002  01208  01242               % 07736 RGTR--
+*A gu 120903023 130107002 000164  01208  01242              % 07736 RGTR--
+*A qj 120903023 130107002 000164  01208  01242              % 07736 RGTR--
+*R 1 130107002 120903023 130107002  01208  01242            % 07736 RGTR--
+*G RGB 120903023 130107002  01208  01242                    % 07736 RGTR--
+*A VE 120903023 130107002 000164  01208  01242              % 07736 RGTR--
+*I FD 120903023 130107002        0002222  01208  01242      % 07736 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 07736 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 07736 RGTR--
+120903041 Wiltz, Wéinebeerig    01211  01211                % 07736 RGTR--
+120903040 Weidingen, Wegdicher  01212  01212                % 07736 RGTR--
+120902001 Weidingen, Erpeldang  01213  01213                % 07736 RGTR--
+110807004 Derenbach, Weischent  01219  01219                % 07736 RGTR--
+110807001 Derenbach, Chapelle   01220  01220                % 07736 RGTR--
+110822002 Féitsch               01223  01223                % 07736 RGTR--
+110801003 Allerborn, Maison 6   01224  01224                % 07736 RGTR--
+110801002 Allerborn, Maison 20  01225  01225                % 07736 RGTR--
+110801001 Allerborn, Kreizung   01226  01226                % 07736 RGTR--
+110820003 Troine-Route, Route   01228  01228                % 07736 RGTR--
+110820004 Troine-Route, Op der  01229  01229                % 07736 RGTR--
+110820001 Troine, Bréck         01231  01231                % 07736 RGTR--
+110820002 Troine, Duerf         01232  01232                % 07736 RGTR--
+110811001 Hoffelt, Driicht      01236  01236                % 07736 RGTR--
+110811002 Hoffelt, Kiirch       01237  01237                % 07736 RGTR--
+110809002 Hachiville, Kiirfech  01238  01238                % 07736 RGTR--
+110809001 Hachiville, Centre    01239  01239                % 07736 RGTR--
+130107002 Weiler                01242                       % 07736 RGTR--
+*Z 07737 RGTR--                                             % 07737 RGTR--
+*L 628      120903023 130107002  01153  01226               % 07737 RGTR--
+*A gu 120903023 130107002 000045  01153  01226              % 07737 RGTR--
+*A qj 120903023 130107002 000045  01153  01226              % 07737 RGTR--
+*R 1 130107002 120903023 130107002  01153  01226            % 07737 RGTR--
+*G RGB 120903023 130107002  01153  01226                    % 07737 RGTR--
+*A VE 120903023 130107002 000045  01153  01226              % 07737 RGTR--
+*I FD 120903023 130107002        0002642  01153  01226      % 07737 RGTR--
+120903023 Wiltz, Lycée du Nord         01153                % 07737 RGTR--
+120903021 Wiltz, Lann           01155  01155                % 07737 RGTR--
+110807004 Derenbach, Weischent  01203  01203                % 07737 RGTR--
+110807001 Derenbach, Chapelle   01204  01204                % 07737 RGTR--
+110822002 Féitsch               01207  01207                % 07737 RGTR--
+110801003 Allerborn, Maison 6   01208  01208                % 07737 RGTR--
+110801002 Allerborn, Maison 20  01209  01209                % 07737 RGTR--
+110801001 Allerborn, Kreizung   01210  01210                % 07737 RGTR--
+110820003 Troine-Route, Route   01212  01212                % 07737 RGTR--
+110820004 Troine-Route, Op der  01213  01213                % 07737 RGTR--
+110820001 Troine, Bréck         01215  01215                % 07737 RGTR--
+110820002 Troine, Duerf         01216  01216                % 07737 RGTR--
+110811001 Hoffelt, Driicht      01220  01220                % 07737 RGTR--
+110811002 Hoffelt, Kiirch       01221  01221                % 07737 RGTR--
+110809002 Hachiville, Kiirfech  01222  01222                % 07737 RGTR--
+110809001 Hachiville, Centre    01223  01223                % 07737 RGTR--
+130107002 Weiler                01226                       % 07737 RGTR--
+*Z 07738 RGTR--                                             % 07738 RGTR--
+*L 628      120903023 130107002  01208  01241               % 07738 RGTR--
+*A gu 120903023 130107002 000167  01208  01241              % 07738 RGTR--
+*A qj 120903023 130107002 000167  01208  01241              % 07738 RGTR--
+*R 1 130107002 120903023 130107002  01208  01241            % 07738 RGTR--
+*G RGB 120903023 130107002  01208  01241                    % 07738 RGTR--
+*A VE 120903023 130107002 000167  01208  01241              % 07738 RGTR--
+*I FD 120903023 130107002        0002222  01208  01241      % 07738 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 07738 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 07738 RGTR--
+110807004 Derenbach, Weischent  01218  01218                % 07738 RGTR--
+110807001 Derenbach, Chapelle   01219  01219                % 07738 RGTR--
+110822002 Féitsch               01222  01222                % 07738 RGTR--
+110801003 Allerborn, Maison 6   01223  01223                % 07738 RGTR--
+110801002 Allerborn, Maison 20  01224  01224                % 07738 RGTR--
+110801001 Allerborn, Kreizung   01225  01225                % 07738 RGTR--
+110820003 Troine-Route, Route   01227  01227                % 07738 RGTR--
+110820004 Troine-Route, Op der  01228  01228                % 07738 RGTR--
+110820001 Troine, Bréck         01230  01230                % 07738 RGTR--
+110820002 Troine, Duerf         01231  01231                % 07738 RGTR--
+110811001 Hoffelt, Driicht      01235  01235                % 07738 RGTR--
+110811002 Hoffelt, Kiirch       01236  01236                % 07738 RGTR--
+110809002 Hachiville, Kiirfech  01237  01237                % 07738 RGTR--
+110809001 Hachiville, Centre    01238  01238                % 07738 RGTR--
+130107002 Weiler                01241                       % 07738 RGTR--
+*Z 07739 RGTR--                                             % 07739 RGTR--
+*L 628      120903023 130107002  01615  01649               % 07739 RGTR--
+*A gu 120903023 130107002 000006  01615  01649              % 07739 RGTR--
+*A qj 120903023 130107002 000006  01615  01649              % 07739 RGTR--
+*R 1 130107002 120903023 130107002  01615  01649            % 07739 RGTR--
+*G RGB 120903023 130107002  01615  01649                    % 07739 RGTR--
+*A VE 120903023 130107002 000006  01615  01649              % 07739 RGTR--
+*I FD 120903023 130107002        0001811  01615  01649      % 07739 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 07739 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 07739 RGTR--
+110807004 Derenbach, Weischent  01626  01626                % 07739 RGTR--
+110807001 Derenbach, Chapelle   01627  01627                % 07739 RGTR--
+110822002 Féitsch               01630  01630                % 07739 RGTR--
+110801003 Allerborn, Maison 6   01631  01631                % 07739 RGTR--
+110801002 Allerborn, Maison 20  01632  01632                % 07739 RGTR--
+110801001 Allerborn, Kreizung   01633  01633                % 07739 RGTR--
+110820003 Troine-Route, Route   01635  01635                % 07739 RGTR--
+110820004 Troine-Route, Op der  01636  01636                % 07739 RGTR--
+110820001 Troine, Bréck         01638  01638                % 07739 RGTR--
+110820002 Troine, Duerf         01639  01639                % 07739 RGTR--
+110811001 Hoffelt, Driicht      01643  01643                % 07739 RGTR--
+110811002 Hoffelt, Kiirch       01644  01644                % 07739 RGTR--
+110809002 Hachiville, Kiirfech  01645  01645                % 07739 RGTR--
+110809001 Hachiville, Centre    01646  01646                % 07739 RGTR--
+130107002 Weiler                01649                       % 07739 RGTR--
+*Z 07740 RGTR--                                             % 07740 RGTR--
+*L 628      130107002 120903023  00705  00740               % 07740 RGTR--
+*A gu 130107002 120903023 000006  00705  00740              % 07740 RGTR--
+*A bl 130107002 120903023 000006  00705  00740              % 07740 RGTR--
+*R 2 120903023 130107002 120903023  00705  00740            % 07740 RGTR--
+*G RGB 130107002 120903023  00705  00740                    % 07740 RGTR--
+*A VE 130107002 120903023 000006  00705  00740              % 07740 RGTR--
+*I FD 130107002 120903023        0002223  00705  00740      % 07740 RGTR--
+130107002 Weiler                       00705                % 07740 RGTR--
+110809001 Hachiville, Centre    00708  00708                % 07740 RGTR--
+110809002 Hachiville, Kiirfech  00709  00709                % 07740 RGTR--
+110811002 Hoffelt, Kiirch       00710  00710                % 07740 RGTR--
+110811001 Hoffelt, Driicht      00711  00711                % 07740 RGTR--
+110820002 Troine, Duerf         00716  00716                % 07740 RGTR--
+110820001 Troine, Bréck         00717  00717                % 07740 RGTR--
+110820004 Troine-Route, Op der  00719  00719                % 07740 RGTR--
+110820003 Troine-Route, Route   00720  00720                % 07740 RGTR--
+110801003 Allerborn, Maison 6   00722  00722                % 07740 RGTR--
+110801002 Allerborn, Maison 20  00723  00723                % 07740 RGTR--
+110801001 Allerborn, Kreizung   00724  00724                % 07740 RGTR--
+110822002 Féitsch               00726  00726                % 07740 RGTR--
+110807001 Derenbach, Chapelle   00728  00728                % 07740 RGTR--
+110807002 Derenbach, Groëstaen  00728  00728                % 07740 RGTR--
+110807004 Derenbach, Weischent  00729  00729                % 07740 RGTR--
+120903021 Wiltz, Lann           00737  00737                % 07740 RGTR--
+120903023 Wiltz, Lycée du Nord  00740                       % 07740 RGTR--
+*Z 07741 RGTR--                                             % 07741 RGTR--
+*L 628      130107002 120903023  00905  00941               % 07741 RGTR--
+*A gu 130107002 120903023 000006  00905  00941              % 07741 RGTR--
+*A bl 130107002 120903023 000006  00905  00941              % 07741 RGTR--
+*R 2 120903023 130107002 120903023  00905  00941            % 07741 RGTR--
+*G RGB 130107002 120903023  00905  00941                    % 07741 RGTR--
+*A VE 130107002 120903023 000006  00905  00941              % 07741 RGTR--
+*I FD 130107002 120903023        0002252  00905  00941      % 07741 RGTR--
+130107002 Weiler                       00905                % 07741 RGTR--
+110809001 Hachiville, Centre    00908  00908                % 07741 RGTR--
+110809002 Hachiville, Kiirfech  00909  00909                % 07741 RGTR--
+110811002 Hoffelt, Kiirch       00910  00910                % 07741 RGTR--
+110811001 Hoffelt, Driicht      00911  00911                % 07741 RGTR--
+110820002 Troine, Duerf         00916  00916                % 07741 RGTR--
+110820001 Troine, Bréck         00917  00917                % 07741 RGTR--
+110820004 Troine-Route, Op der  00919  00919                % 07741 RGTR--
+110820003 Troine-Route, Route   00920  00920                % 07741 RGTR--
+110801003 Allerborn, Maison 6   00922  00922                % 07741 RGTR--
+110801002 Allerborn, Maison 20  00923  00923                % 07741 RGTR--
+110801001 Allerborn, Kreizung   00924  00924                % 07741 RGTR--
+110822002 Féitsch               00926  00926                % 07741 RGTR--
+110807001 Derenbach, Chapelle   00928  00928                % 07741 RGTR--
+110807002 Derenbach, Groëstaen  00928  00928                % 07741 RGTR--
+110807004 Derenbach, Weischent  00929  00929                % 07741 RGTR--
+120902001 Weidingen, Erpeldang  00936  00936                % 07741 RGTR--
+120903040 Weidingen, Wegdicher  00937  00937                % 07741 RGTR--
+120903041 Wiltz, Wéinebeerig    00938  00938                % 07741 RGTR--
+120903021 Wiltz, Lann           00939  00939                % 07741 RGTR--
+120903023 Wiltz, Lycée du Nord  00941                       % 07741 RGTR--
+*Z 07742 RGTR--                                             % 07742 RGTR--
+*L 628      130107002 120903023  01105  01141               % 07742 RGTR--
+*A gu 130107002 120903023 000006  01105  01141              % 07742 RGTR--
+*A bl 130107002 120903023 000006  01105  01141              % 07742 RGTR--
+*R 2 120903023 130107002 120903023  01105  01141            % 07742 RGTR--
+*G RGB 130107002 120903023  01105  01141                    % 07742 RGTR--
+*A VE 130107002 120903023 000006  01105  01141              % 07742 RGTR--
+*I FD 130107002 120903023        0002646  01105  01141      % 07742 RGTR--
+130107002 Weiler                       01105                % 07742 RGTR--
+110809001 Hachiville, Centre    01108  01108                % 07742 RGTR--
+110809002 Hachiville, Kiirfech  01109  01109                % 07742 RGTR--
+110811002 Hoffelt, Kiirch       01110  01110                % 07742 RGTR--
+110811001 Hoffelt, Driicht      01111  01111                % 07742 RGTR--
+110820002 Troine, Duerf         01116  01116                % 07742 RGTR--
+110820001 Troine, Bréck         01117  01117                % 07742 RGTR--
+110820004 Troine-Route, Op der  01119  01119                % 07742 RGTR--
+110820003 Troine-Route, Route   01120  01120                % 07742 RGTR--
+110801003 Allerborn, Maison 6   01122  01122                % 07742 RGTR--
+110801002 Allerborn, Maison 20  01123  01123                % 07742 RGTR--
+110801001 Allerborn, Kreizung   01124  01124                % 07742 RGTR--
+110822002 Féitsch               01126  01126                % 07742 RGTR--
+110807001 Derenbach, Chapelle   01128  01128                % 07742 RGTR--
+110807002 Derenbach, Groëstaen  01128  01128                % 07742 RGTR--
+110807004 Derenbach, Weischent  01129  01129                % 07742 RGTR--
+120902001 Weidingen, Erpeldang  01136  01136                % 07742 RGTR--
+120903040 Weidingen, Wegdicher  01137  01137                % 07742 RGTR--
+120903041 Wiltz, Wéinebeerig    01138  01138                % 07742 RGTR--
+120903021 Wiltz, Lann           01139  01139                % 07742 RGTR--
+120903023 Wiltz, Lycée du Nord  01141                       % 07742 RGTR--
+*Z 07743 RGTR--                                             % 07743 RGTR--
+*L 628      130107002 120903023  01405  01441               % 07743 RGTR--
+*A gu 130107002 120903023 000006  01405  01441              % 07743 RGTR--
+*A bl 130107002 120903023 000006  01405  01441              % 07743 RGTR--
+*R 2 120903023 130107002 120903023  01405  01441            % 07743 RGTR--
+*G RGB 130107002 120903023  01405  01441                    % 07743 RGTR--
+*A VE 130107002 120903023 000006  01405  01441              % 07743 RGTR--
+*I FD 130107002 120903023        0002649  01405  01441      % 07743 RGTR--
+130107002 Weiler                       01405                % 07743 RGTR--
+110809001 Hachiville, Centre    01408  01408                % 07743 RGTR--
+110809002 Hachiville, Kiirfech  01409  01409                % 07743 RGTR--
+110811002 Hoffelt, Kiirch       01410  01410                % 07743 RGTR--
+110811001 Hoffelt, Driicht      01411  01411                % 07743 RGTR--
+110820002 Troine, Duerf         01416  01416                % 07743 RGTR--
+110820001 Troine, Bréck         01417  01417                % 07743 RGTR--
+110820004 Troine-Route, Op der  01419  01419                % 07743 RGTR--
+110820003 Troine-Route, Route   01420  01420                % 07743 RGTR--
+110801003 Allerborn, Maison 6   01422  01422                % 07743 RGTR--
+110801002 Allerborn, Maison 20  01423  01423                % 07743 RGTR--
+110801001 Allerborn, Kreizung   01424  01424                % 07743 RGTR--
+110822002 Féitsch               01426  01426                % 07743 RGTR--
+110807001 Derenbach, Chapelle   01428  01428                % 07743 RGTR--
+110807002 Derenbach, Groëstaen  01428  01428                % 07743 RGTR--
+110807004 Derenbach, Weischent  01429  01429                % 07743 RGTR--
+120902001 Weidingen, Erpeldang  01436  01436                % 07743 RGTR--
+120903040 Weidingen, Wegdicher  01437  01437                % 07743 RGTR--
+120903041 Wiltz, Wéinebeerig    01438  01438                % 07743 RGTR--
+120903021 Wiltz, Lann           01439  01439                % 07743 RGTR--
+120903023 Wiltz, Lycée du Nord  01441                       % 07743 RGTR--
+*Z 07744 RGTR--                                             % 07744 RGTR--
+*L 628      130107002 120903023  01505  01541               % 07744 RGTR--
+*A gu 130107002 120903023 000006  01505  01541              % 07744 RGTR--
+*A bl 130107002 120903023 000006  01505  01541              % 07744 RGTR--
+*R 2 120903023 130107002 120903023  01505  01541            % 07744 RGTR--
+*G RGB 130107002 120903023  01505  01541                    % 07744 RGTR--
+*A VE 130107002 120903023 000006  01505  01541              % 07744 RGTR--
+*I FD 130107002 120903023        0002948  01505  01541      % 07744 RGTR--
+130107002 Weiler                       01505                % 07744 RGTR--
+110809001 Hachiville, Centre    01508  01508                % 07744 RGTR--
+110809002 Hachiville, Kiirfech  01509  01509                % 07744 RGTR--
+110811002 Hoffelt, Kiirch       01510  01510                % 07744 RGTR--
+110811001 Hoffelt, Driicht      01511  01511                % 07744 RGTR--
+110820002 Troine, Duerf         01516  01516                % 07744 RGTR--
+110820001 Troine, Bréck         01517  01517                % 07744 RGTR--
+110820004 Troine-Route, Op der  01519  01519                % 07744 RGTR--
+110820003 Troine-Route, Route   01520  01520                % 07744 RGTR--
+110801003 Allerborn, Maison 6   01522  01522                % 07744 RGTR--
+110801002 Allerborn, Maison 20  01523  01523                % 07744 RGTR--
+110801001 Allerborn, Kreizung   01524  01524                % 07744 RGTR--
+110822002 Féitsch               01526  01526                % 07744 RGTR--
+110807001 Derenbach, Chapelle   01528  01528                % 07744 RGTR--
+110807002 Derenbach, Groëstaen  01528  01528                % 07744 RGTR--
+110807004 Derenbach, Weischent  01529  01529                % 07744 RGTR--
+120902001 Weidingen, Erpeldang  01536  01536                % 07744 RGTR--
+120903040 Weidingen, Wegdicher  01537  01537                % 07744 RGTR--
+120903041 Wiltz, Wéinebeerig    01538  01538                % 07744 RGTR--
+120903021 Wiltz, Lann           01539  01539                % 07744 RGTR--
+120903023 Wiltz, Lycée du Nord  01541                       % 07744 RGTR--
+*Z 07745 RGTR--                                             % 07745 RGTR--
+*L 628      130107002 120903023  01243  01319               % 07745 RGTR--
+*A gu 130107002 120903023 000045  01243  01319              % 07745 RGTR--
+*A bl 130107002 120903023 000045  01243  01319              % 07745 RGTR--
+*R 2 120903023 130107002 120903023  01243  01319            % 07745 RGTR--
+*G RGB 130107002 120903023  01243  01319                    % 07745 RGTR--
+*A VE 130107002 120903023 000045  01243  01319              % 07745 RGTR--
+*I FD 130107002 120903023        0003240  01243  01319      % 07745 RGTR--
+130107002 Weiler                       01243                % 07745 RGTR--
+110809001 Hachiville, Centre    01246  01246                % 07745 RGTR--
+110809002 Hachiville, Kiirfech  01247  01247                % 07745 RGTR--
+110811002 Hoffelt, Kiirch       01248  01248                % 07745 RGTR--
+110811001 Hoffelt, Driicht      01249  01249                % 07745 RGTR--
+110820002 Troine, Duerf         01254  01254                % 07745 RGTR--
+110820001 Troine, Bréck         01255  01255                % 07745 RGTR--
+110820004 Troine-Route, Op der  01257  01257                % 07745 RGTR--
+110820003 Troine-Route, Route   01258  01258                % 07745 RGTR--
+110801003 Allerborn, Maison 6   01300  01300                % 07745 RGTR--
+110801002 Allerborn, Maison 20  01301  01301                % 07745 RGTR--
+110801001 Allerborn, Kreizung   01302  01302                % 07745 RGTR--
+110822002 Féitsch               01304  01304                % 07745 RGTR--
+110807001 Derenbach, Chapelle   01306  01306                % 07745 RGTR--
+110807002 Derenbach, Groëstaen  01306  01306                % 07745 RGTR--
+110807004 Derenbach, Weischent  01307  01307                % 07745 RGTR--
+120902001 Weidingen, Erpeldang  01314  01314                % 07745 RGTR--
+120903040 Weidingen, Wegdicher  01315  01315                % 07745 RGTR--
+120903041 Wiltz, Wéinebeerig    01316  01316                % 07745 RGTR--
+120903021 Wiltz, Lann           01317  01317                % 07745 RGTR--
+120903023 Wiltz, Lycée du Nord  01319                       % 07745 RGTR--
+*Z 07746 RGTR--                                             % 07746 RGTR--
+*L 628      130107002 120903023  01305  01341               % 07746 RGTR--
+*A gu 130107002 120903023 000159  01305  01341              % 07746 RGTR--
+*A bl 130107002 120903023 000159  01305  01341              % 07746 RGTR--
+*R 2 120903023 130107002 120903023  01305  01341            % 07746 RGTR--
+*G RGB 130107002 120903023  01305  01341                    % 07746 RGTR--
+*A VE 130107002 120903023 000159  01305  01341              % 07746 RGTR--
+*I FD 130107002 120903023        0002648  01305  01341      % 07746 RGTR--
+130107002 Weiler                       01305                % 07746 RGTR--
+110809001 Hachiville, Centre    01308  01308                % 07746 RGTR--
+110809002 Hachiville, Kiirfech  01309  01309                % 07746 RGTR--
+110811002 Hoffelt, Kiirch       01310  01310                % 07746 RGTR--
+110811001 Hoffelt, Driicht      01311  01311                % 07746 RGTR--
+110820002 Troine, Duerf         01316  01316                % 07746 RGTR--
+110820001 Troine, Bréck         01317  01317                % 07746 RGTR--
+110820004 Troine-Route, Op der  01319  01319                % 07746 RGTR--
+110820003 Troine-Route, Route   01320  01320                % 07746 RGTR--
+110801003 Allerborn, Maison 6   01322  01322                % 07746 RGTR--
+110801002 Allerborn, Maison 20  01323  01323                % 07746 RGTR--
+110801001 Allerborn, Kreizung   01324  01324                % 07746 RGTR--
+110822002 Féitsch               01326  01326                % 07746 RGTR--
+110807001 Derenbach, Chapelle   01328  01328                % 07746 RGTR--
+110807002 Derenbach, Groëstaen  01328  01328                % 07746 RGTR--
+110807004 Derenbach, Weischent  01329  01329                % 07746 RGTR--
+120902001 Weidingen, Erpeldang  01336  01336                % 07746 RGTR--
+120903040 Weidingen, Wegdicher  01337  01337                % 07746 RGTR--
+120903041 Wiltz, Wéinebeerig    01338  01338                % 07746 RGTR--
+120903021 Wiltz, Lann           01339  01339                % 07746 RGTR--
+120903023 Wiltz, Lycée du Nord  01341                       % 07746 RGTR--
+*Z 07747 RGTR--                                             % 07747 RGTR--
+*L 628      130107002 120903023  00805  00842               % 07747 RGTR--
+*A gu 130107002 120903023 000006  00805  00842              % 07747 RGTR--
+*A bl 130107002 120903023 000006  00805  00842              % 07747 RGTR--
+*R 2 120903023 130107002 120903023  00805  00842            % 07747 RGTR--
+*G RGB 130107002 120903023  00805  00842                    % 07747 RGTR--
+*A VE 130107002 120903023 000006  00805  00842              % 07747 RGTR--
+*I FD 130107002 120903023        0002251  00805  00842      % 07747 RGTR--
+130107002 Weiler                       00805                % 07747 RGTR--
+110809001 Hachiville, Centre    00808  00808                % 07747 RGTR--
+110809002 Hachiville, Kiirfech  00809  00809                % 07747 RGTR--
+110811002 Hoffelt, Kiirch       00810  00810                % 07747 RGTR--
+110811001 Hoffelt, Driicht      00811  00811                % 07747 RGTR--
+110820002 Troine, Duerf         00816  00816                % 07747 RGTR--
+110820001 Troine, Bréck         00817  00817                % 07747 RGTR--
+110820004 Troine-Route, Op der  00819  00819                % 07747 RGTR--
+110820003 Troine-Route, Route   00820  00820                % 07747 RGTR--
+110801003 Allerborn, Maison 6   00822  00822                % 07747 RGTR--
+110801002 Allerborn, Maison 20  00823  00823                % 07747 RGTR--
+110801001 Allerborn, Kreizung   00824  00824                % 07747 RGTR--
+110822002 Féitsch               00826  00826                % 07747 RGTR--
+110807001 Derenbach, Chapelle   00828  00828                % 07747 RGTR--
+110807002 Derenbach, Groëstaen  00828  00828                % 07747 RGTR--
+110807004 Derenbach, Weischent  00829  00829                % 07747 RGTR--
+120902001 Weidingen, Erpeldang  00836  00836                % 07747 RGTR--
+120903040 Weidingen, Wegdicher  00837  00837                % 07747 RGTR--
+120903041 Wiltz, Wéinebeerig    00838  00838                % 07747 RGTR--
+120903021 Wiltz, Lann           00839  00839                % 07747 RGTR--
+120903023 Wiltz, Lycée du Nord  00842                       % 07747 RGTR--
+*Z 07748 RGTR--                                             % 07748 RGTR--
+*L 628      130107002 120903023  01705  01742               % 07748 RGTR--
+*A gu 130107002 120903023 000006  01705  01742              % 07748 RGTR--
+*A bl 130107002 120903023 000006  01705  01742              % 07748 RGTR--
+*R 2 120903023 130107002 120903023  01705  01742            % 07748 RGTR--
+*G RGB 130107002 120903023  01705  01742                    % 07748 RGTR--
+*A VE 130107002 120903023 000006  01705  01742              % 07748 RGTR--
+*I FD 130107002 120903023        0002254  01705  01742      % 07748 RGTR--
+130107002 Weiler                       01705                % 07748 RGTR--
+110809001 Hachiville, Centre    01708  01708                % 07748 RGTR--
+110809002 Hachiville, Kiirfech  01709  01709                % 07748 RGTR--
+110811002 Hoffelt, Kiirch       01710  01710                % 07748 RGTR--
+110811001 Hoffelt, Driicht      01711  01711                % 07748 RGTR--
+110820002 Troine, Duerf         01716  01716                % 07748 RGTR--
+110820001 Troine, Bréck         01717  01717                % 07748 RGTR--
+110820004 Troine-Route, Op der  01719  01719                % 07748 RGTR--
+110820003 Troine-Route, Route   01720  01720                % 07748 RGTR--
+110801003 Allerborn, Maison 6   01722  01722                % 07748 RGTR--
+110801002 Allerborn, Maison 20  01723  01723                % 07748 RGTR--
+110801001 Allerborn, Kreizung   01724  01724                % 07748 RGTR--
+110822002 Féitsch               01726  01726                % 07748 RGTR--
+110807001 Derenbach, Chapelle   01728  01728                % 07748 RGTR--
+110807002 Derenbach, Groëstaen  01728  01728                % 07748 RGTR--
+110807004 Derenbach, Weischent  01729  01729                % 07748 RGTR--
+120902001 Weidingen, Erpeldang  01736  01736                % 07748 RGTR--
+120903040 Weidingen, Wegdicher  01737  01737                % 07748 RGTR--
+120903041 Wiltz, Wéinebeerig    01738  01738                % 07748 RGTR--
+120903021 Wiltz, Lann           01739  01739                % 07748 RGTR--
+120903023 Wiltz, Lycée du Nord  01742                       % 07748 RGTR--

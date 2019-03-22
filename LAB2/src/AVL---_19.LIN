@@ -1,0 +1,469 @@
+*F 03 2
+*Z 02550 AVL---       038 020                               % 02550 AVL---
+*L 19       200419029 200405035  00707  00730               % 02550 AVL---
+*A BE 200419029 200405035 000015  00707  00730              % 02550 AVL---
+*R 1 200405035 200419029 200405035  00707  00730            % 02550 AVL---
+*G AVM 200419029 200405035  00707  00730                    % 02550 AVL---
+*A VE 200419029 200405035 000015  00707  00730              % 02550 AVL---
+200419029 Limpertsberg, Neuman         00707                % 02550 AVL---
+200419024 Limpertsberg, Lefèvr  00708  00708                % 02550 AVL---
+200419012 Limpertsberg, Jean S  00709  00709                % 02550 AVL---
+200419023 Limpertsberg, Léandr  00710  00710                % 02550 AVL---
+200419028 Limpertsberg, N.S.Pi  00711  00711                % 02550 AVL---
+200419003 Limpertsberg, Alfred  00712  00712                % 02550 AVL---
+200419004 Limpertsberg, Allée   00713  00713                % 02550 AVL---
+200419036 Limpertsberg, Faïenc  00714  00714                % 02550 AVL---
+200405045 Centre, Stäreplaz /   00717  00717                % 02550 AVL---
+200403020 Belair, Wampach       00719  00719                % 02550 AVL---
+200405025 Luxembourg/Centre, M  00721  00721                % 02550 AVL---
+200405038 Luxembourg, Ste Zith  00723  00723                % 02550 AVL---
+200405024 Luxembourg/Centre, M  00724  00724                % 02550 AVL---
+200405012 Centre, Etats-Unis    00725  00725                % 02550 AVL---
+200405010 Centre, Commerce      00726  00726                % 02550 AVL---
+200405035 Luxembourg, Gare Cen  00730                       % 02550 AVL---
+*Z 02551 AVL---       023 030                               % 02551 AVL---
+*L 19       200419029 200405035  00817  00835               % 02551 AVL---
+*A BE 200419029 200405035 000021  00817  00835              % 02551 AVL---
+*R 1 200405035 200419029 200405035  00817  00835            % 02551 AVL---
+*G AVM 200419029 200405035  00817  00835                    % 02551 AVL---
+*A VE 200419029 200405035 000021  00817  00835              % 02551 AVL---
+200419029 Limpertsberg, Neuman         00817                % 02551 AVL---
+200419024 Limpertsberg, Lefèvr  00818  00818                % 02551 AVL---
+200419012 Limpertsberg, Jean S  00818  00818                % 02551 AVL---
+200419023 Limpertsberg, Léandr  00819  00819                % 02551 AVL---
+200419028 Limpertsberg, N.S.Pi  00820  00820                % 02551 AVL---
+200419003 Limpertsberg, Alfred  00821  00821                % 02551 AVL---
+200419004 Limpertsberg, Allée   00822  00822                % 02551 AVL---
+200419036 Limpertsberg, Faïenc  00823  00823                % 02551 AVL---
+200405045 Centre, Stäreplaz /   00825  00825                % 02551 AVL---
+200403020 Belair, Wampach       00826  00826                % 02551 AVL---
+200405025 Luxembourg/Centre, M  00828  00828                % 02551 AVL---
+200405038 Luxembourg, Ste Zith  00830  00830                % 02551 AVL---
+200405024 Luxembourg/Centre, M  00831  00831                % 02551 AVL---
+200405012 Centre, Etats-Unis    00832  00832                % 02551 AVL---
+200405010 Centre, Commerce      00832  00832                % 02551 AVL---
+200405035 Luxembourg, Gare Cen  00835                       % 02551 AVL---
+*Z 02552 AVL---       036 020                               % 02552 AVL---
+*L 19       200405035 200419029  00711  00737               % 02552 AVL---
+*A BE 200405035 200419029 000015  00711  00737              % 02552 AVL---
+*R 2 200419029 200405035 200419029  00711  00737            % 02552 AVL---
+*G AVM 200405035 200419029  00711  00737                    % 02552 AVL---
+*A VE 200405035 200419029 000015  00711  00737              % 02552 AVL---
+200405035 Luxembourg, Gare Cen         00711                % 02552 AVL---
+200405001 Centre, Al Avenue/A-  00714  00714                % 02552 AVL---
+200405013 Centre, F.D. Rooseve  00717  00717                % 02552 AVL---
+200405019 Centre, Hällepull     00718  00718                % 02552 AVL---
+200405007 Centre, Cathédrale    00719  00719                % 02552 AVL---
+200405018 Centre, Gruef         00720  00720                % 02552 AVL---
+200405022 Centre, Kasinosgaass  00721  00721                % 02552 AVL---
+200405005 Centre, Badanstalt    00722  00722                % 02552 AVL---
+200405014 Centre, Fondation Pe  00724  00724                % 02552 AVL---
+200419026 Limpertsberg, Theate  00726  00726                % 02552 AVL---
+200419037 Limpertsberg, Kiisch  00727  00727                % 02552 AVL---
+200419010 Limpertsberg, Belle-  00728  00728                % 02552 AVL---
+200419005 Limpertsberg, Arts e  00729  00729                % 02552 AVL---
+200419018 Limpertsberg, Guilla  00730  00730                % 02552 AVL---
+200419011 Limpertsberg, Bois    00731  00731                % 02552 AVL---
+200419035 Limpertsberg, Waasse  00731  00731                % 02552 AVL---
+200419034 Limpertsberg, Square  00732  00732                % 02552 AVL---
+200419008 Limpertsberg, Batty   00733  00733                % 02552 AVL---
+200419020 Luxembourg, Uni Camp  00734  00734                % 02552 AVL---
+200419012 Limpertsberg, Jean S  00735  00735                % 02552 AVL---
+200419024 Limpertsberg, Lefèvr  00736  00736                % 02552 AVL---
+200419029 Limpertsberg, Neuman  00737                       % 02552 AVL---
+*Z 02553 AVL---       001 020                               % 02553 AVL---
+*L 19       200405035 200419029  00631  00651               % 02553 AVL---
+*A BE 200405035 200419029 000015  00631  00651              % 02553 AVL---
+*R 2 200419029 200405035 200419029  00631  00651            % 02553 AVL---
+*G AVM 200405035 200419029  00631  00651                    % 02553 AVL---
+*A VE 200405035 200419029 000015  00631  00651              % 02553 AVL---
+200405035 Luxembourg, Gare Cen         00631                % 02553 AVL---
+200405001 Centre, Al Avenue/A-  00633  00633                % 02553 AVL---
+200405013 Centre, F.D. Rooseve  00634  00634                % 02553 AVL---
+200405019 Centre, Hällepull     00636  00636                % 02553 AVL---
+200405007 Centre, Cathédrale    00637  00637                % 02553 AVL---
+200405018 Centre, Gruef         00637  00637                % 02553 AVL---
+200405022 Centre, Kasinosgaass  00638  00638                % 02553 AVL---
+200405005 Centre, Badanstalt    00640  00640                % 02553 AVL---
+200405014 Centre, Fondation Pe  00642  00642                % 02553 AVL---
+200419026 Limpertsberg, Theate  00643  00643                % 02553 AVL---
+200419037 Limpertsberg, Kiisch  00644  00644                % 02553 AVL---
+200419010 Limpertsberg, Belle-  00645  00645                % 02553 AVL---
+200419005 Limpertsberg, Arts e  00645  00645                % 02553 AVL---
+200419018 Limpertsberg, Guilla  00646  00646                % 02553 AVL---
+200419011 Limpertsberg, Bois    00647  00647                % 02553 AVL---
+200419035 Limpertsberg, Waasse  00647  00647                % 02553 AVL---
+200419034 Limpertsberg, Square  00648  00648                % 02553 AVL---
+200419008 Limpertsberg, Batty   00649  00649                % 02553 AVL---
+200419020 Luxembourg, Uni Camp  00649  00649                % 02553 AVL---
+200419012 Limpertsberg, Jean S  00650  00650                % 02553 AVL---
+200419024 Limpertsberg, Lefèvr  00651  00651                % 02553 AVL---
+200419029 Limpertsberg, Neuman  00651                       % 02553 AVL---
+*Z 02554 AVL---                                             % 02554 AVL---
+*L 19       200405035 200419029  00735  00756               % 02554 AVL---
+*A BE 200405035 200419029 000021  00735  00756              % 02554 AVL---
+*R 2 200419029 200405035 200419029  00735  00756            % 02554 AVL---
+*G AVM 200405035 200419029  00735  00756                    % 02554 AVL---
+*A VE 200405035 200419029 000021  00735  00756              % 02554 AVL---
+200405035 Luxembourg, Gare Cen         00735                % 02554 AVL---
+200405001 Centre, Al Avenue/A-  00737  00737                % 02554 AVL---
+200405013 Centre, F.D. Rooseve  00739  00739                % 02554 AVL---
+200405019 Centre, Hällepull     00740  00740                % 02554 AVL---
+200405007 Centre, Cathédrale    00741  00741                % 02554 AVL---
+200405018 Centre, Gruef         00742  00742                % 02554 AVL---
+200405022 Centre, Kasinosgaass  00743  00743                % 02554 AVL---
+200405005 Centre, Badanstalt    00744  00744                % 02554 AVL---
+200405014 Centre, Fondation Pe  00746  00746                % 02554 AVL---
+200419026 Limpertsberg, Theate  00747  00747                % 02554 AVL---
+200419037 Limpertsberg, Kiisch  00748  00748                % 02554 AVL---
+200419010 Limpertsberg, Belle-  00749  00749                % 02554 AVL---
+200419005 Limpertsberg, Arts e  00750  00750                % 02554 AVL---
+200419018 Limpertsberg, Guilla  00751  00751                % 02554 AVL---
+200419011 Limpertsberg, Bois    00751  00751                % 02554 AVL---
+200419035 Limpertsberg, Waasse  00752  00752                % 02554 AVL---
+200419034 Limpertsberg, Square  00753  00753                % 02554 AVL---
+200419008 Limpertsberg, Batty   00753  00753                % 02554 AVL---
+200419020 Luxembourg, Uni Camp  00754  00754                % 02554 AVL---
+200419012 Limpertsberg, Jean S  00754  00754                % 02554 AVL---
+200419024 Limpertsberg, Lefèvr  00755  00755                % 02554 AVL---
+200419029 Limpertsberg, Neuman  00756                       % 02554 AVL---
+*Z 02555 AVL---       022 030                               % 02555 AVL---
+*L 19       200405035 200419029  00805  00827               % 02555 AVL---
+*A BE 200405035 200419029 000021  00805  00827              % 02555 AVL---
+*R 2 200419029 200405035 200419029  00805  00827            % 02555 AVL---
+*G AVM 200405035 200419029  00805  00827                    % 02555 AVL---
+*A VE 200405035 200419029 000021  00805  00827              % 02555 AVL---
+200405035 Luxembourg, Gare Cen         00805                % 02555 AVL---
+200405001 Centre, Al Avenue/A-  00807  00807                % 02555 AVL---
+200405013 Centre, F.D. Rooseve  00809  00809                % 02555 AVL---
+200405019 Centre, Hällepull     00811  00811                % 02555 AVL---
+200405007 Centre, Cathédrale    00812  00812                % 02555 AVL---
+200405018 Centre, Gruef         00812  00812                % 02555 AVL---
+200405022 Centre, Kasinosgaass  00813  00813                % 02555 AVL---
+200405005 Centre, Badanstalt    00815  00815                % 02555 AVL---
+200405014 Centre, Fondation Pe  00817  00817                % 02555 AVL---
+200419026 Limpertsberg, Theate  00818  00818                % 02555 AVL---
+200419037 Limpertsberg, Kiisch  00819  00819                % 02555 AVL---
+200419010 Limpertsberg, Belle-  00820  00820                % 02555 AVL---
+200419005 Limpertsberg, Arts e  00821  00821                % 02555 AVL---
+200419018 Limpertsberg, Guilla  00821  00821                % 02555 AVL---
+200419011 Limpertsberg, Bois    00822  00822                % 02555 AVL---
+200419035 Limpertsberg, Waasse  00822  00822                % 02555 AVL---
+200419034 Limpertsberg, Square  00823  00823                % 02555 AVL---
+200419008 Limpertsberg, Batty   00824  00824                % 02555 AVL---
+200419020 Luxembourg, Uni Camp  00824  00824                % 02555 AVL---
+200419012 Limpertsberg, Jean S  00825  00825                % 02555 AVL---
+200419024 Limpertsberg, Lefèvr  00826  00826                % 02555 AVL---
+200419029 Limpertsberg, Neuman  00827                       % 02555 AVL---
+*Z 02556 AVL---       038 020                               % 02556 AVL---
+*L 19       200419029 200405035  00707  00730               % 02556 AVL---
+*A BE 200419029 200405035 000014  00707  00730              % 02556 AVL---
+*R 1 200405035 200419029 200405035  00707  00730            % 02556 AVL---
+*G AVM 200419029 200405035  00707  00730                    % 02556 AVL---
+*A VE 200419029 200405035 000014  00707  00730              % 02556 AVL---
+200419029 Limpertsberg, Neuman         00707                % 02556 AVL---
+200419024 Limpertsberg, Lefèvr  00708  00708                % 02556 AVL---
+200419012 Limpertsberg, Jean S  00709  00709                % 02556 AVL---
+200419023 Limpertsberg, Léandr  00710  00710                % 02556 AVL---
+200419028 Limpertsberg, N.S.Pi  00711  00711                % 02556 AVL---
+200419003 Limpertsberg, Alfred  00712  00712                % 02556 AVL---
+200419004 Limpertsberg, Allée   00713  00713                % 02556 AVL---
+200419036 Limpertsberg, Faïenc  00714  00714                % 02556 AVL---
+200405045 Centre, Stäreplaz /   00717  00717                % 02556 AVL---
+200403020 Belair, Wampach       00719  00719                % 02556 AVL---
+200405025 Luxembourg/Centre, M  00721  00721                % 02556 AVL---
+200405038 Luxembourg, Ste Zith  00723  00723                % 02556 AVL---
+200405024 Luxembourg/Centre, M  00724  00724                % 02556 AVL---
+200405012 Centre, Etats-Unis    00725  00725                % 02556 AVL---
+200405010 Centre, Commerce      00726  00726                % 02556 AVL---
+200405035 Luxembourg, Gare Cen  00730                       % 02556 AVL---
+*Z 02557 AVL---       023 030                               % 02557 AVL---
+*L 19       200419029 200405035  00817  00835               % 02557 AVL---
+*A BE 200419029 200405035 000023  00817  00835              % 02557 AVL---
+*R 1 200405035 200419029 200405035  00817  00835            % 02557 AVL---
+*G AVM 200419029 200405035  00817  00835                    % 02557 AVL---
+*A VE 200419029 200405035 000023  00817  00835              % 02557 AVL---
+200419029 Limpertsberg, Neuman         00817                % 02557 AVL---
+200419024 Limpertsberg, Lefèvr  00818  00818                % 02557 AVL---
+200419012 Limpertsberg, Jean S  00818  00818                % 02557 AVL---
+200419023 Limpertsberg, Léandr  00819  00819                % 02557 AVL---
+200419028 Limpertsberg, N.S.Pi  00820  00820                % 02557 AVL---
+200419003 Limpertsberg, Alfred  00821  00821                % 02557 AVL---
+200419004 Limpertsberg, Allée   00822  00822                % 02557 AVL---
+200419036 Limpertsberg, Faïenc  00823  00823                % 02557 AVL---
+200405045 Centre, Stäreplaz /   00825  00825                % 02557 AVL---
+200403020 Belair, Wampach       00826  00826                % 02557 AVL---
+200405025 Luxembourg/Centre, M  00828  00828                % 02557 AVL---
+200405038 Luxembourg, Ste Zith  00830  00830                % 02557 AVL---
+200405024 Luxembourg/Centre, M  00831  00831                % 02557 AVL---
+200405012 Centre, Etats-Unis    00832  00832                % 02557 AVL---
+200405010 Centre, Commerce      00832  00832                % 02557 AVL---
+200405035 Luxembourg, Gare Cen  00835                       % 02557 AVL---
+*Z 02558 AVL---                                             % 02558 AVL---
+*L 19       200405035 200419029  00735  00756               % 02558 AVL---
+*A BE 200405035 200419029 000023  00735  00756              % 02558 AVL---
+*R 2 200419029 200405035 200419029  00735  00756            % 02558 AVL---
+*G AVM 200405035 200419029  00735  00756                    % 02558 AVL---
+*A VE 200405035 200419029 000023  00735  00756              % 02558 AVL---
+200405035 Luxembourg, Gare Cen         00735                % 02558 AVL---
+200405001 Centre, Al Avenue/A-  00737  00737                % 02558 AVL---
+200405013 Centre, F.D. Rooseve  00739  00739                % 02558 AVL---
+200405019 Centre, Hällepull     00740  00740                % 02558 AVL---
+200405007 Centre, Cathédrale    00741  00741                % 02558 AVL---
+200405018 Centre, Gruef         00742  00742                % 02558 AVL---
+200405022 Centre, Kasinosgaass  00743  00743                % 02558 AVL---
+200405005 Centre, Badanstalt    00744  00744                % 02558 AVL---
+200405014 Centre, Fondation Pe  00746  00746                % 02558 AVL---
+200419026 Limpertsberg, Theate  00747  00747                % 02558 AVL---
+200419037 Limpertsberg, Kiisch  00748  00748                % 02558 AVL---
+200419010 Limpertsberg, Belle-  00749  00749                % 02558 AVL---
+200419005 Limpertsberg, Arts e  00750  00750                % 02558 AVL---
+200419018 Limpertsberg, Guilla  00751  00751                % 02558 AVL---
+200419011 Limpertsberg, Bois    00751  00751                % 02558 AVL---
+200419035 Limpertsberg, Waasse  00752  00752                % 02558 AVL---
+200419034 Limpertsberg, Square  00753  00753                % 02558 AVL---
+200419008 Limpertsberg, Batty   00753  00753                % 02558 AVL---
+200419020 Luxembourg, Uni Camp  00754  00754                % 02558 AVL---
+200419012 Limpertsberg, Jean S  00754  00754                % 02558 AVL---
+200419024 Limpertsberg, Lefèvr  00755  00755                % 02558 AVL---
+200419029 Limpertsberg, Neuman  00756                       % 02558 AVL---
+*Z 02559 AVL---       001 020                               % 02559 AVL---
+*L 19       200405035 200419029  00631  00651               % 02559 AVL---
+*A BE 200405035 200419029 000014  00631  00651              % 02559 AVL---
+*R 2 200419029 200405035 200419029  00631  00651            % 02559 AVL---
+*G AVM 200405035 200419029  00631  00651                    % 02559 AVL---
+*A VE 200405035 200419029 000014  00631  00651              % 02559 AVL---
+200405035 Luxembourg, Gare Cen         00631                % 02559 AVL---
+200405001 Centre, Al Avenue/A-  00633  00633                % 02559 AVL---
+200405013 Centre, F.D. Rooseve  00634  00634                % 02559 AVL---
+200405019 Centre, Hällepull     00636  00636                % 02559 AVL---
+200405007 Centre, Cathédrale    00637  00637                % 02559 AVL---
+200405018 Centre, Gruef         00637  00637                % 02559 AVL---
+200405022 Centre, Kasinosgaass  00638  00638                % 02559 AVL---
+200405005 Centre, Badanstalt    00640  00640                % 02559 AVL---
+200405014 Centre, Fondation Pe  00642  00642                % 02559 AVL---
+200419026 Limpertsberg, Theate  00643  00643                % 02559 AVL---
+200419037 Limpertsberg, Kiisch  00644  00644                % 02559 AVL---
+200419010 Limpertsberg, Belle-  00645  00645                % 02559 AVL---
+200419005 Limpertsberg, Arts e  00645  00645                % 02559 AVL---
+200419018 Limpertsberg, Guilla  00646  00646                % 02559 AVL---
+200419011 Limpertsberg, Bois    00647  00647                % 02559 AVL---
+200419035 Limpertsberg, Waasse  00647  00647                % 02559 AVL---
+200419034 Limpertsberg, Square  00648  00648                % 02559 AVL---
+200419008 Limpertsberg, Batty   00649  00649                % 02559 AVL---
+200419020 Luxembourg, Uni Camp  00649  00649                % 02559 AVL---
+200419012 Limpertsberg, Jean S  00650  00650                % 02559 AVL---
+200419024 Limpertsberg, Lefèvr  00651  00651                % 02559 AVL---
+200419029 Limpertsberg, Neuman  00651                       % 02559 AVL---
+*Z 02560 AVL---       022 030                               % 02560 AVL---
+*L 19       200405035 200419029  00805  00827               % 02560 AVL---
+*A BE 200405035 200419029 000023  00805  00827              % 02560 AVL---
+*R 2 200419029 200405035 200419029  00805  00827            % 02560 AVL---
+*G AVM 200405035 200419029  00805  00827                    % 02560 AVL---
+*A VE 200405035 200419029 000023  00805  00827              % 02560 AVL---
+200405035 Luxembourg, Gare Cen         00805                % 02560 AVL---
+200405001 Centre, Al Avenue/A-  00807  00807                % 02560 AVL---
+200405013 Centre, F.D. Rooseve  00809  00809                % 02560 AVL---
+200405019 Centre, Hällepull     00811  00811                % 02560 AVL---
+200405007 Centre, Cathédrale    00812  00812                % 02560 AVL---
+200405018 Centre, Gruef         00812  00812                % 02560 AVL---
+200405022 Centre, Kasinosgaass  00813  00813                % 02560 AVL---
+200405005 Centre, Badanstalt    00815  00815                % 02560 AVL---
+200405014 Centre, Fondation Pe  00817  00817                % 02560 AVL---
+200419026 Limpertsberg, Theate  00818  00818                % 02560 AVL---
+200419037 Limpertsberg, Kiisch  00819  00819                % 02560 AVL---
+200419010 Limpertsberg, Belle-  00820  00820                % 02560 AVL---
+200419005 Limpertsberg, Arts e  00821  00821                % 02560 AVL---
+200419018 Limpertsberg, Guilla  00821  00821                % 02560 AVL---
+200419011 Limpertsberg, Bois    00822  00822                % 02560 AVL---
+200419035 Limpertsberg, Waasse  00822  00822                % 02560 AVL---
+200419034 Limpertsberg, Square  00823  00823                % 02560 AVL---
+200419008 Limpertsberg, Batty   00824  00824                % 02560 AVL---
+200419020 Luxembourg, Uni Camp  00824  00824                % 02560 AVL---
+200419012 Limpertsberg, Jean S  00825  00825                % 02560 AVL---
+200419024 Limpertsberg, Lefèvr  00826  00826                % 02560 AVL---
+200419029 Limpertsberg, Neuman  00827                       % 02560 AVL---
+*Z 02561 AVL---       036 020                               % 02561 AVL---
+*L 19       200405035 200419029  00711  00737               % 02561 AVL---
+*A BE 200405035 200419029 000014  00711  00737              % 02561 AVL---
+*R 2 200419029 200405035 200419029  00711  00737            % 02561 AVL---
+*G AVM 200405035 200419029  00711  00737                    % 02561 AVL---
+*A VE 200405035 200419029 000014  00711  00737              % 02561 AVL---
+200405035 Luxembourg, Gare Cen         00711                % 02561 AVL---
+200405001 Centre, Al Avenue/A-  00714  00714                % 02561 AVL---
+200405013 Centre, F.D. Rooseve  00717  00717                % 02561 AVL---
+200405019 Centre, Hällepull     00718  00718                % 02561 AVL---
+200405007 Centre, Cathédrale    00719  00719                % 02561 AVL---
+200405018 Centre, Gruef         00720  00720                % 02561 AVL---
+200405022 Centre, Kasinosgaass  00721  00721                % 02561 AVL---
+200405005 Centre, Badanstalt    00722  00722                % 02561 AVL---
+200405014 Centre, Fondation Pe  00724  00724                % 02561 AVL---
+200419026 Limpertsberg, Theate  00726  00726                % 02561 AVL---
+200419037 Limpertsberg, Kiisch  00727  00727                % 02561 AVL---
+200419010 Limpertsberg, Belle-  00728  00728                % 02561 AVL---
+200419005 Limpertsberg, Arts e  00729  00729                % 02561 AVL---
+200419018 Limpertsberg, Guilla  00730  00730                % 02561 AVL---
+200419011 Limpertsberg, Bois    00731  00731                % 02561 AVL---
+200419035 Limpertsberg, Waasse  00731  00731                % 02561 AVL---
+200419034 Limpertsberg, Square  00732  00732                % 02561 AVL---
+200419008 Limpertsberg, Batty   00733  00733                % 02561 AVL---
+200419020 Luxembourg, Uni Camp  00734  00734                % 02561 AVL---
+200419012 Limpertsberg, Jean S  00735  00735                % 02561 AVL---
+200419024 Limpertsberg, Lefèvr  00736  00736                % 02561 AVL---
+200419029 Limpertsberg, Neuman  00737                       % 02561 AVL---
+*Z 02562 AVL---       038 020                               % 02562 AVL---
+*L 19       200419029 200405035  00707  00730               % 02562 AVL---
+*A BE 200419029 200405035 000013  00707  00730              % 02562 AVL---
+*R 1 200405035 200419029 200405035  00707  00730            % 02562 AVL---
+*G AVM 200419029 200405035  00707  00730                    % 02562 AVL---
+*A VE 200419029 200405035 000013  00707  00730              % 02562 AVL---
+200419029 Limpertsberg, Neuman         00707                % 02562 AVL---
+200419024 Limpertsberg, Lefèvr  00708  00708                % 02562 AVL---
+200419012 Limpertsberg, Jean S  00709  00709                % 02562 AVL---
+200419023 Limpertsberg, Léandr  00710  00710                % 02562 AVL---
+200419028 Limpertsberg, N.S.Pi  00711  00711                % 02562 AVL---
+200419003 Limpertsberg, Alfred  00712  00712                % 02562 AVL---
+200419004 Limpertsberg, Allée   00713  00713                % 02562 AVL---
+200419036 Limpertsberg, Faïenc  00714  00714                % 02562 AVL---
+200405045 Centre, Stäreplaz /   00717  00717                % 02562 AVL---
+200403020 Belair, Wampach       00719  00719                % 02562 AVL---
+200405025 Luxembourg/Centre, M  00721  00721                % 02562 AVL---
+200405038 Luxembourg, Ste Zith  00723  00723                % 02562 AVL---
+200405024 Luxembourg/Centre, M  00724  00724                % 02562 AVL---
+200405012 Centre, Etats-Unis    00725  00725                % 02562 AVL---
+200405010 Centre, Commerce      00726  00726                % 02562 AVL---
+200405035 Luxembourg, Gare Cen  00730                       % 02562 AVL---
+*Z 02563 AVL---       023 030                               % 02563 AVL---
+*L 19       200419029 200405035  00817  00835               % 02563 AVL---
+*A BE 200419029 200405035 000022  00817  00835              % 02563 AVL---
+*R 1 200405035 200419029 200405035  00817  00835            % 02563 AVL---
+*G AVM 200419029 200405035  00817  00835                    % 02563 AVL---
+*A VE 200419029 200405035 000022  00817  00835              % 02563 AVL---
+200419029 Limpertsberg, Neuman         00817                % 02563 AVL---
+200419024 Limpertsberg, Lefèvr  00818  00818                % 02563 AVL---
+200419012 Limpertsberg, Jean S  00818  00818                % 02563 AVL---
+200419023 Limpertsberg, Léandr  00819  00819                % 02563 AVL---
+200419028 Limpertsberg, N.S.Pi  00820  00820                % 02563 AVL---
+200419003 Limpertsberg, Alfred  00821  00821                % 02563 AVL---
+200419004 Limpertsberg, Allée   00822  00822                % 02563 AVL---
+200419036 Limpertsberg, Faïenc  00823  00823                % 02563 AVL---
+200405045 Centre, Stäreplaz /   00825  00825                % 02563 AVL---
+200403020 Belair, Wampach       00826  00826                % 02563 AVL---
+200405025 Luxembourg/Centre, M  00828  00828                % 02563 AVL---
+200405038 Luxembourg, Ste Zith  00830  00830                % 02563 AVL---
+200405024 Luxembourg/Centre, M  00831  00831                % 02563 AVL---
+200405012 Centre, Etats-Unis    00832  00832                % 02563 AVL---
+200405010 Centre, Commerce      00832  00832                % 02563 AVL---
+200405035 Luxembourg, Gare Cen  00835                       % 02563 AVL---
+*Z 02564 AVL---       036 020                               % 02564 AVL---
+*L 19       200405035 200419029  00711  00737               % 02564 AVL---
+*A BE 200405035 200419029 000013  00711  00737              % 02564 AVL---
+*R 2 200419029 200405035 200419029  00711  00737            % 02564 AVL---
+*G AVM 200405035 200419029  00711  00737                    % 02564 AVL---
+*A VE 200405035 200419029 000013  00711  00737              % 02564 AVL---
+200405035 Luxembourg, Gare Cen         00711                % 02564 AVL---
+200405001 Centre, Al Avenue/A-  00714  00714                % 02564 AVL---
+200405013 Centre, F.D. Rooseve  00717  00717                % 02564 AVL---
+200405019 Centre, Hällepull     00718  00718                % 02564 AVL---
+200405007 Centre, Cathédrale    00719  00719                % 02564 AVL---
+200405018 Centre, Gruef         00720  00720                % 02564 AVL---
+200405022 Centre, Kasinosgaass  00721  00721                % 02564 AVL---
+200405005 Centre, Badanstalt    00722  00722                % 02564 AVL---
+200405014 Centre, Fondation Pe  00724  00724                % 02564 AVL---
+200419026 Limpertsberg, Theate  00726  00726                % 02564 AVL---
+200419037 Limpertsberg, Kiisch  00727  00727                % 02564 AVL---
+200419010 Limpertsberg, Belle-  00728  00728                % 02564 AVL---
+200419005 Limpertsberg, Arts e  00729  00729                % 02564 AVL---
+200419018 Limpertsberg, Guilla  00730  00730                % 02564 AVL---
+200419011 Limpertsberg, Bois    00731  00731                % 02564 AVL---
+200419035 Limpertsberg, Waasse  00731  00731                % 02564 AVL---
+200419034 Limpertsberg, Square  00732  00732                % 02564 AVL---
+200419008 Limpertsberg, Batty   00733  00733                % 02564 AVL---
+200419020 Luxembourg, Uni Camp  00734  00734                % 02564 AVL---
+200419012 Limpertsberg, Jean S  00735  00735                % 02564 AVL---
+200419024 Limpertsberg, Lefèvr  00736  00736                % 02564 AVL---
+200419029 Limpertsberg, Neuman  00737                       % 02564 AVL---
+*Z 02565 AVL---                                             % 02565 AVL---
+*L 19       200405035 200419029  00735  00756               % 02565 AVL---
+*A BE 200405035 200419029 000022  00735  00756              % 02565 AVL---
+*R 2 200419029 200405035 200419029  00735  00756            % 02565 AVL---
+*G AVM 200405035 200419029  00735  00756                    % 02565 AVL---
+*A VE 200405035 200419029 000022  00735  00756              % 02565 AVL---
+200405035 Luxembourg, Gare Cen         00735                % 02565 AVL---
+200405001 Centre, Al Avenue/A-  00737  00737                % 02565 AVL---
+200405013 Centre, F.D. Rooseve  00739  00739                % 02565 AVL---
+200405019 Centre, Hällepull     00740  00740                % 02565 AVL---
+200405007 Centre, Cathédrale    00741  00741                % 02565 AVL---
+200405018 Centre, Gruef         00742  00742                % 02565 AVL---
+200405022 Centre, Kasinosgaass  00743  00743                % 02565 AVL---
+200405005 Centre, Badanstalt    00744  00744                % 02565 AVL---
+200405014 Centre, Fondation Pe  00746  00746                % 02565 AVL---
+200419026 Limpertsberg, Theate  00747  00747                % 02565 AVL---
+200419037 Limpertsberg, Kiisch  00748  00748                % 02565 AVL---
+200419010 Limpertsberg, Belle-  00749  00749                % 02565 AVL---
+200419005 Limpertsberg, Arts e  00750  00750                % 02565 AVL---
+200419018 Limpertsberg, Guilla  00751  00751                % 02565 AVL---
+200419011 Limpertsberg, Bois    00751  00751                % 02565 AVL---
+200419035 Limpertsberg, Waasse  00752  00752                % 02565 AVL---
+200419034 Limpertsberg, Square  00753  00753                % 02565 AVL---
+200419008 Limpertsberg, Batty   00753  00753                % 02565 AVL---
+200419020 Luxembourg, Uni Camp  00754  00754                % 02565 AVL---
+200419012 Limpertsberg, Jean S  00754  00754                % 02565 AVL---
+200419024 Limpertsberg, Lefèvr  00755  00755                % 02565 AVL---
+200419029 Limpertsberg, Neuman  00756                       % 02565 AVL---
+*Z 02566 AVL---       001 020                               % 02566 AVL---
+*L 19       200405035 200419029  00631  00651               % 02566 AVL---
+*A BE 200405035 200419029 000013  00631  00651              % 02566 AVL---
+*R 2 200419029 200405035 200419029  00631  00651            % 02566 AVL---
+*G AVM 200405035 200419029  00631  00651                    % 02566 AVL---
+*A VE 200405035 200419029 000013  00631  00651              % 02566 AVL---
+200405035 Luxembourg, Gare Cen         00631                % 02566 AVL---
+200405001 Centre, Al Avenue/A-  00633  00633                % 02566 AVL---
+200405013 Centre, F.D. Rooseve  00634  00634                % 02566 AVL---
+200405019 Centre, Hällepull     00636  00636                % 02566 AVL---
+200405007 Centre, Cathédrale    00637  00637                % 02566 AVL---
+200405018 Centre, Gruef         00637  00637                % 02566 AVL---
+200405022 Centre, Kasinosgaass  00638  00638                % 02566 AVL---
+200405005 Centre, Badanstalt    00640  00640                % 02566 AVL---
+200405014 Centre, Fondation Pe  00642  00642                % 02566 AVL---
+200419026 Limpertsberg, Theate  00643  00643                % 02566 AVL---
+200419037 Limpertsberg, Kiisch  00644  00644                % 02566 AVL---
+200419010 Limpertsberg, Belle-  00645  00645                % 02566 AVL---
+200419005 Limpertsberg, Arts e  00645  00645                % 02566 AVL---
+200419018 Limpertsberg, Guilla  00646  00646                % 02566 AVL---
+200419011 Limpertsberg, Bois    00647  00647                % 02566 AVL---
+200419035 Limpertsberg, Waasse  00647  00647                % 02566 AVL---
+200419034 Limpertsberg, Square  00648  00648                % 02566 AVL---
+200419008 Limpertsberg, Batty   00649  00649                % 02566 AVL---
+200419020 Luxembourg, Uni Camp  00649  00649                % 02566 AVL---
+200419012 Limpertsberg, Jean S  00650  00650                % 02566 AVL---
+200419024 Limpertsberg, Lefèvr  00651  00651                % 02566 AVL---
+200419029 Limpertsberg, Neuman  00651                       % 02566 AVL---
+*Z 02567 AVL---       022 030                               % 02567 AVL---
+*L 19       200405035 200419029  00805  00827               % 02567 AVL---
+*A BE 200405035 200419029 000022  00805  00827              % 02567 AVL---
+*R 2 200419029 200405035 200419029  00805  00827            % 02567 AVL---
+*G AVM 200405035 200419029  00805  00827                    % 02567 AVL---
+*A VE 200405035 200419029 000022  00805  00827              % 02567 AVL---
+200405035 Luxembourg, Gare Cen         00805                % 02567 AVL---
+200405001 Centre, Al Avenue/A-  00807  00807                % 02567 AVL---
+200405013 Centre, F.D. Rooseve  00809  00809                % 02567 AVL---
+200405019 Centre, Hällepull     00811  00811                % 02567 AVL---
+200405007 Centre, Cathédrale    00812  00812                % 02567 AVL---
+200405018 Centre, Gruef         00812  00812                % 02567 AVL---
+200405022 Centre, Kasinosgaass  00813  00813                % 02567 AVL---
+200405005 Centre, Badanstalt    00815  00815                % 02567 AVL---
+200405014 Centre, Fondation Pe  00817  00817                % 02567 AVL---
+200419026 Limpertsberg, Theate  00818  00818                % 02567 AVL---
+200419037 Limpertsberg, Kiisch  00819  00819                % 02567 AVL---
+200419010 Limpertsberg, Belle-  00820  00820                % 02567 AVL---
+200419005 Limpertsberg, Arts e  00821  00821                % 02567 AVL---
+200419018 Limpertsberg, Guilla  00821  00821                % 02567 AVL---
+200419011 Limpertsberg, Bois    00822  00822                % 02567 AVL---
+200419035 Limpertsberg, Waasse  00822  00822                % 02567 AVL---
+200419034 Limpertsberg, Square  00823  00823                % 02567 AVL---
+200419008 Limpertsberg, Batty   00824  00824                % 02567 AVL---
+200419020 Luxembourg, Uni Camp  00824  00824                % 02567 AVL---
+200419012 Limpertsberg, Jean S  00825  00825                % 02567 AVL---
+200419024 Limpertsberg, Lefèvr  00826  00826                % 02567 AVL---
+200419029 Limpertsberg, Neuman  00827                       % 02567 AVL---

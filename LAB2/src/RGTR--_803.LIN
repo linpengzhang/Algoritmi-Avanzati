@@ -1,0 +1,101 @@
+*F 03 2
+*Z 03464 RGTR--                                             % 03464 RGTR--
+*L 803      150512006 140701016  00645  00756               % 03464 RGTR--
+*A fj 150512006 140701016 000016  00645  00756              % 03464 RGTR--
+*A jt 150512006 140701016 000016  00645  00756              % 03464 RGTR--
+*A GV 150512006 140701016 000016  00645  00756              % 03464 RGTR--
+*R 1 140701016 150512006 140701016  00645  00756            % 03464 RGTR--
+*G RGB 150512006 140701016  00645  00756                    % 03464 RGTR--
+*A VE 150512006 140701016 000016  00645  00756              % 03464 RGTR--
+*I FD 150512006 140701016        0001837  00645  00756      % 03464 RGTR--
+150512006 Rambrouch, Gare              00645                % 03464 RGTR--
+150305001 Roodt/Redange, Schou  00651  00651                % 03464 RGTR--
+150302001 Colpach-Haut, Pompje  00655  00655                % 03464 RGTR--
+150301001 Colpach-Bas, Schlass  00656  00656                % 03464 RGTR--
+150107001 Oberpallen, Bréck     00701  00701                % 03464 RGTR--
+150105001 Lévelange, Ellerstro  00703  00703                % 03464 RGTR--
+150303001 Ell, Arelerstrooss    00705  00705                % 03464 RGTR--
+150303003 Ell, Beim Schreider   00706  00706                % 03464 RGTR--
+150606003 Redange, Gare         00708  00708                % 03464 RGTR--
+150606001 Redange/Attert, Bian  00709  00709                % 03464 RGTR--
+150606009 Redange, Schock       00710  00710                % 03464 RGTR--
+150607001 Reichlange, Hostelle  00713  00713                % 03464 RGTR--
+150202002 Platen                00715  00715                % 03464 RGTR--
+150202001 Platen, Kinnebësch    00716  00716                % 03464 RGTR--
+150206001 Bettborn, Gemenge Pl  00716  00716                % 03464 RGTR--
+150204001 Reimberg, Michel Luc  00717  00717                % 03464 RGTR--
+150204002 Reimberg              00718  00718                % 03464 RGTR--
+150803002 Schandel, Kreizung    00720  00720                % 03464 RGTR--
+150804002 Useldange, Raiffeise  00723  00723                % 03464 RGTR--
+160201006 Boevange, Uerbelt     00726  00726                % 03464 RGTR--
+160201004 Boevange, Helpert     00727  00727                % 03464 RGTR--
+160201005 Boevange, Lëtschert   00728  00728                % 03464 RGTR--
+160201007 Boevange, Beim Wald   00728  00728                % 03464 RGTR--
+160205003 Grevenknapp, Um ënns  00729  00729                % 03464 RGTR--
+160205002 Grevenknapp, Riesenh  00730  00730                % 03464 RGTR--
+160101001 Bissen, ArcelorMitta  00735  00735                % 03464 RGTR--
+160101004 Bissen, Kiirch        00736  00736                % 03464 RGTR--
+160101007 Bissen, Steekräiz     00737  00737                % 03464 RGTR--
+160102002 Rouscht               00739  00739                % 03464 RGTR--
+160102001 Roost, Mold Plant     00741  00741                % 03464 RGTR--
+160301006 Colmar, Raedelsboesc  00741  00741                % 03464 RGTR--
+160301001 Colmar, C. Administr  00743  00743                % 03464 RGTR--
+160301007 Colmar, Usines        00743  00743                % 03464 RGTR--
+160301002 Colmar, Centre        00745  00745                % 03464 RGTR--
+141301007 Schieren, Porte de S  00747  00747                % 03464 RGTR--
+141301004 Schieren, Neie Wee    00748  00748                % 03464 RGTR--
+141301006 Schieren, Vali's Pla  00749  00749                % 03464 RGTR--
+140701018 Ettelbruck, H.v.Land  00751  00751                % 03464 RGTR--
+140701026 Ettelbruck, Rond Poi  00753  00753                % 03464 RGTR--
+140701015 Ettelbruck, Ecole Pr  00754  00754                % 03464 RGTR--
+140701016 Ettelbruck, Gare      00756                       % 03464 RGTR--
+*Z 03465 RGTR--                                             % 03465 RGTR--
+*L 803      140701016 150512006  01648  01757               % 03465 RGTR--
+*A fj 140701016 150512006 000016  01648  01757              % 03465 RGTR--
+*A km 140701016 150512006 000016  01648  01757              % 03465 RGTR--
+*A GW 140701016 150512006 000016  01648  01757              % 03465 RGTR--
+*R 2 150512006 140701016 150512006  01648  01757            % 03465 RGTR--
+*G RGB 140701016 150512006  01648  01757                    % 03465 RGTR--
+*A VE 140701016 150512006 000016  01648  01757              % 03465 RGTR--
+*I FD 140701016 150512006        0001382  01648  01757      % 03465 RGTR--
+140701016 Ettelbruck, Gare             01648                % 03465 RGTR--
+140701024 Ettelbruck, Pensionn  01649  01649                % 03465 RGTR--
+140701026 Ettelbruck, Rond Poi  01652  01652                % 03465 RGTR--
+140701018 Ettelbruck, H.v.Land  01653  01653                % 03465 RGTR--
+141301002 Schieren, Faubourg    01654  01654                % 03465 RGTR--
+141301005 Schieren, Uewerschie  01655  01655                % 03465 RGTR--
+141301007 Schieren, Porte de S  01655  01655                % 03465 RGTR--
+160301002 Colmar, Centre        01657  01657                % 03465 RGTR--
+160301007 Colmar, Usines        01659  01659                % 03465 RGTR--
+160301001 Colmar, C. Administr  01700  01700                % 03465 RGTR--
+160301006 Colmar, Raedelsboesc  01701  01701                % 03465 RGTR--
+160102001 Roost, Mold Plant     01702  01702                % 03465 RGTR--
+160102002 Rouscht               01703  01703                % 03465 RGTR--
+160101007 Bissen, Steekräiz     01705  01705                % 03465 RGTR--
+160101004 Bissen, Kiirch        01706  01706                % 03465 RGTR--
+160101001 Bissen, ArcelorMitta  01707  01707                % 03465 RGTR--
+160205002 Grevenknapp, Riesenh  01712  01712                % 03465 RGTR--
+160205003 Grevenknapp, Um ënns  01712  01712                % 03465 RGTR--
+160201007 Boevange, Beim Wald   01713  01713                % 03465 RGTR--
+160201005 Boevange, Lëtschert   01714  01714                % 03465 RGTR--
+160201004 Boevange, Helpert     01715  01715                % 03465 RGTR--
+160201003 Boevange, Gare        01715  01715                % 03465 RGTR--
+150804002 Useldange, Raiffeise  01719  01719                % 03465 RGTR--
+150803002 Schandel, Kreizung    01722  01722                % 03465 RGTR--
+150204002 Reimberg              01724  01724                % 03465 RGTR--
+150204001 Reimberg, Michel Luc  01725  01725                % 03465 RGTR--
+150206001 Bettborn, Gemenge Pl  01727  01727                % 03465 RGTR--
+150202001 Platen, Kinnebësch    01727  01727                % 03465 RGTR--
+150202002 Platen                01728  01728                % 03465 RGTR--
+150607001 Reichlange, Hostelle  01730  01730                % 03465 RGTR--
+150606009 Redange, Schock       01732  01732                % 03465 RGTR--
+150606007 Redange, Osperstroos  01733  01733                % 03465 RGTR--
+150606003 Redange, Gare         01735  01735                % 03465 RGTR--
+150303003 Ell, Beim Schreider   01737  01737                % 03465 RGTR--
+150303001 Ell, Arelerstrooss    01737  01737                % 03465 RGTR--
+150105001 Lévelange, Ellerstro  01740  01740                % 03465 RGTR--
+150107001 Oberpallen, Bréck     01742  01742                % 03465 RGTR--
+150301001 Colpach-Bas, Schlass  01746  01746                % 03465 RGTR--
+150302001 Colpach-Haut, Pompje  01748  01748                % 03465 RGTR--
+150305001 Roodt/Redange, Schou  01752  01752                % 03465 RGTR--
+150512006 Rambrouch, Gare       01757                       % 03465 RGTR--

@@ -1,0 +1,87 @@
+*F 03 2
+*Z 09172 RGTR--                                             % 09172 RGTR--
+*L 418      170302001 180511008  00707  00745               % 09172 RGTR--
+*A bi 170302001 180511008 000030  00707  00745              % 09172 RGTR--
+*A FR 170302001 180511008 000030  00707  00745              % 09172 RGTR--
+*A dy 170302001 180511008 000030  00707  00745              % 09172 RGTR--
+*R 1 180511008 170302001 180511008  00707  00745            % 09172 RGTR--
+*G RGB 170302001 180511008  00707  00745                    % 09172 RGTR--
+*A VE 170302001 180511008 000030  00707  00745              % 09172 RGTR--
+*I FD 170302001 180511008        0002645  00707  00745      % 09172 RGTR--
+170302001 Bollendorf, Gare             00707                % 09172 RGTR--
+170302003 Bollendorf, Pont      00707  00707                % 09172 RGTR--
+170302002 Bollendorf-Pont, Ham  00708  00708                % 09172 RGTR--
+170304001 Weilerbach, Laufenwe  00709  00709                % 09172 RGTR--
+170304002 Weilerbach            00711  00711                % 09172 RGTR--
+170501002 Echternach, Bel Air   00713  00713                % 09172 RGTR--
+170301003 Berdorf, Hôtel Perek  00716  00716                % 09172 RGTR--
+170301002 Berdorf, Hotel Herbe  00717  00717                % 09172 RGTR--
+170301004 Berdorf, Duerfplaz    00718  00718                % 09172 RGTR--
+170301001 Berdorf, Bif. Heisbi  00719  00719                % 09172 RGTR--
+170305001 Bif. Kalkesbach       00721  00721                % 09172 RGTR--
+170402004 Consdorf, Melickshec  00723  00723                % 09172 RGTR--
+170402003 Consdorf, Kraizstroo  00724  00724                % 09172 RGTR--
+170402002 Consdorf, Haenricht   00725  00725                % 09172 RGTR--
+170402005 Consdorf, Post        00726  00726                % 09172 RGTR--
+170402001 Consdorf, Gare        00727  00727                % 09172 RGTR--
+170403002 Scheidgen, Hotschent  00729  00729                % 09172 RGTR--
+170403003 Scheidgen, Veräinsba  00730  00730                % 09172 RGTR--
+180511008 Junglinster, Lycée    00745                       % 09172 RGTR--
+*Z 09173 RGTR--                                             % 09173 RGTR--
+*L 418      180511008 170302001  01605  01644               % 09173 RGTR--
+*A bi 180511008 170302001 000162  01605  01644              % 09173 RGTR--
+*A FR 180511008 170302001 000162  01605  01644              % 09173 RGTR--
+*A td 180511008 170302001 000162  01605  01644              % 09173 RGTR--
+*A ad 180511008 170302001 000162  01605  01644              % 09173 RGTR--
+*R 2 170302001 180511008 170302001  01605  01644            % 09173 RGTR--
+*G RGB 180511008 170302001  01605  01644                    % 09173 RGTR--
+*A VE 180511008 170302001 000162  01605  01644              % 09173 RGTR--
+*I FD 180511008 170302001        0002253  01605  01644      % 09173 RGTR--
+180511008 Junglinster, Lycée           01605                % 09173 RGTR--
+170403003 Scheidgen, Veräinsba  01620  01620                % 09173 RGTR--
+170403002 Scheidgen, Hotschent  01620  01620                % 09173 RGTR--
+170402001 Consdorf, Gare        01623  01623                % 09173 RGTR--
+170402005 Consdorf, Post        01624  01624                % 09173 RGTR--
+170402002 Consdorf, Haenricht   01626  01626                % 09173 RGTR--
+170402003 Consdorf, Kraizstroo  01627  01627                % 09173 RGTR--
+170402004 Consdorf, Melickshec  01628  01628                % 09173 RGTR--
+170305001 Bif. Kalkesbach       01630  01630                % 09173 RGTR--
+170301001 Berdorf, Bif. Heisbi  01632  01632                % 09173 RGTR--
+170301004 Berdorf, Duerfplaz    01633  01633                % 09173 RGTR--
+170301002 Berdorf, Hotel Herbe  01633  01633                % 09173 RGTR--
+170301003 Berdorf, Hôtel Perek  01634  01634                % 09173 RGTR--
+170501002 Echternach, Bel Air   01637  01637                % 09173 RGTR--
+170304002 Weilerbach            01640  01640                % 09173 RGTR--
+170304001 Weilerbach, Laufenwe  01641  01641                % 09173 RGTR--
+170302002 Bollendorf-Pont, Ham  01642  01642                % 09173 RGTR--
+170302003 Bollendorf, Pont      01643  01643                % 09173 RGTR--
+170302001 Bollendorf, Gare      01644                       % 09173 RGTR--
+*Z 09174 RGTR--                                             % 09174 RGTR--
+*L 418      180511008 170302001  01140  01217               % 09174 RGTR--
+*A bi 180511008 170302001 000163  01140  01217              % 09174 RGTR--
+*A FR 180511008 170302001 000163  01140  01217              % 09174 RGTR--
+*A td 180511008 170302001 000163  01140  01217              % 09174 RGTR--
+*A ad 180511008 170302001 000163  01140  01217              % 09174 RGTR--
+*R 2 170302001 180511008 170302001  01140  01217            % 09174 RGTR--
+*G RGB 180511008 170302001  01140  01217                    % 09174 RGTR--
+*A VE 180511008 170302001 000163  01140  01217              % 09174 RGTR--
+*I FD 180511008 170302001        0001963  01140  01217      % 09174 RGTR--
+180511008 Junglinster, Lycée           01140                % 09174 RGTR--
+170403003 Scheidgen, Veräinsba  01155  01155                % 09174 RGTR--
+170403002 Scheidgen, Hotschent  01155  01155                % 09174 RGTR--
+170402001 Consdorf, Gare        01158  01158                % 09174 RGTR--
+170402005 Consdorf, Post        01159  01159                % 09174 RGTR--
+170402002 Consdorf, Haenricht   01200  01200                % 09174 RGTR--
+170402003 Consdorf, Kraizstroo  01201  01201                % 09174 RGTR--
+170402004 Consdorf, Melickshec  01202  01202                % 09174 RGTR--
+170305001 Bif. Kalkesbach       01203  01203                % 09174 RGTR--
+170301001 Berdorf, Bif. Heisbi  01205  01205                % 09174 RGTR--
+170301004 Berdorf, Duerfplaz    01206  01206                % 09174 RGTR--
+170301002 Berdorf, Hotel Herbe  01207  01207                % 09174 RGTR--
+170301003 Berdorf, Hôtel Perek  01208  01208                % 09174 RGTR--
+170501002 Echternach, Bel Air   01211  01211                % 09174 RGTR--
+170304002 Weilerbach            01214  01214                % 09174 RGTR--
+170304001 Weilerbach, Laufenwe  01215  01215                % 09174 RGTR--
+170302002 Bollendorf-Pont, Ham  01216  01216                % 09174 RGTR--
+170302003 Bollendorf, Pont      01217  01217                % 09174 RGTR--
+170302001 Bollendorf, Gare      01217                       % 09174 RGTR--

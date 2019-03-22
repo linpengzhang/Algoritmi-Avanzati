@@ -1,0 +1,1561 @@
+*F 03 2
+*Z 05679 RGTR--                                             % 05679 RGTR--
+*L 240      200405004 190201007  00802  00848               % 05679 RGTR--
+*A as 200405004 190201007 000006  00802  00848              % 05679 RGTR--
+*A mt 200405004 190201007 000006  00802  00848              % 05679 RGTR--
+*R 1 190201007 200405004 190201007  00802  00848            % 05679 RGTR--
+*G RGB 200405004 190201007  00802  00848                    % 05679 RGTR--
+*A VE 200405004 190201007 000006  00802  00848              % 05679 RGTR--
+*I FD 200405004 190201007        0002461  00802  00848      % 05679 RGTR--
+200405004 Centre, Monterey Par         00802                % 05679 RGTR--
+200405045 Centre, Stäreplaz /  -00804  00804                % 05679 RGTR--
+200403021 Belair, Wandmillen   -00807  00807                % 05679 RGTR--
+200901020 Strassen, Benelux    -00812  00812                % 05679 RGTR--
+200901017 Strassen, Kesseler   -00814  00814                % 05679 RGTR--
+200101002 Bertrange, Belle Eto -00819  00819                % 05679 RGTR--
+190903013 Mamer, Tossebierg     00821  00821                % 05679 RGTR--
+190903003 Mamer, C.I.P.A.       00823  00823                % 05679 RGTR--
+190903014 Mamer, Zentrum        00825  00825                % 05679 RGTR--
+190903006 Mamer, Eisebunnsbréc  00825  00825                % 05679 RGTR--
+190903009 Mamer, Holzemerstroo  00826  00826                % 05679 RGTR--
+190903004 Mamer, Coq Hardi      00827  00827                % 05679 RGTR--
+190902003 Holzem, Mamerstrooss  00828  00828                % 05679 RGTR--
+190902002 Holzem, Festsall      00829  00829                % 05679 RGTR--
+190902001 Holzem, Bréck         00829  00829                % 05679 RGTR--
+190402004 Garnich, Rixegoard    00833  00833                % 05679 RGTR--
+190402005 Garnich, Schmëtt      00834  00834                % 05679 RGTR--
+190402002 Garnich, Brill        00834  00834                % 05679 RGTR--
+190402001 Garnich, Botterkräiz  00835  00835                % 05679 RGTR--
+190401002 Dahlem, Um Pëtz       00836  00836                % 05679 RGTR--
+190401001 Dahlem, Um Eck        00837  00837                % 05679 RGTR--
+190403003 Hivange, Kleng Béiwé  00839  00839                % 05679 RGTR--
+190403001 Hivange, Areler Stro  00840  00840                % 05679 RGTR--
+190202003 Fingig, Maerchen      00841  00841                % 05679 RGTR--
+190202002 Fingig, Dillesbierg   00842  00842                % 05679 RGTR--
+190201003 Clemency, Féngegerbi  00843  00843                % 05679 RGTR--
+190201008 Clemency, Schwemm     00844  00844                % 05679 RGTR--
+190201006 Clemency, Ieweschtga  00845  00845                % 05679 RGTR--
+190201004 Clemency, Gemeng      00846  00846                % 05679 RGTR--
+190201002 Clemency, Eecherwee   00847  00847                % 05679 RGTR--
+190201007 Clemency, Schock      00848                       % 05679 RGTR--
+*Z 05680 RGTR--                                             % 05680 RGTR--
+*L 240      200405004 190201007  01615  01701               % 05680 RGTR--
+*A as 200405004 190201007 000006  01615  01701              % 05680 RGTR--
+*A mt 200405004 190201007 000006  01615  01701              % 05680 RGTR--
+*R 1 190201007 200405004 190201007  01615  01701            % 05680 RGTR--
+*G RGB 200405004 190201007  01615  01701                    % 05680 RGTR--
+*A VE 200405004 190201007 000006  01615  01701              % 05680 RGTR--
+*I FD 200405004 190201007        0001811  01615  01701      % 05680 RGTR--
+200405004 Centre, Monterey Par         01615                % 05680 RGTR--
+200405045 Centre, Stäreplaz /  -01617  01617                % 05680 RGTR--
+200403021 Belair, Wandmillen   -01620  01620                % 05680 RGTR--
+200901020 Strassen, Benelux    -01625  01625                % 05680 RGTR--
+200901017 Strassen, Kesseler   -01627  01627                % 05680 RGTR--
+200101002 Bertrange, Belle Eto -01632  01632                % 05680 RGTR--
+190903013 Mamer, Tossebierg     01634  01634                % 05680 RGTR--
+190903003 Mamer, C.I.P.A.       01636  01636                % 05680 RGTR--
+190903014 Mamer, Zentrum        01638  01638                % 05680 RGTR--
+190903006 Mamer, Eisebunnsbréc  01638  01638                % 05680 RGTR--
+190903009 Mamer, Holzemerstroo  01639  01639                % 05680 RGTR--
+190903004 Mamer, Coq Hardi      01640  01640                % 05680 RGTR--
+190902003 Holzem, Mamerstrooss  01641  01641                % 05680 RGTR--
+190902002 Holzem, Festsall      01642  01642                % 05680 RGTR--
+190902001 Holzem, Bréck         01642  01642                % 05680 RGTR--
+190402004 Garnich, Rixegoard    01646  01646                % 05680 RGTR--
+190402005 Garnich, Schmëtt      01647  01647                % 05680 RGTR--
+190402002 Garnich, Brill        01647  01647                % 05680 RGTR--
+190402001 Garnich, Botterkräiz  01648  01648                % 05680 RGTR--
+190401002 Dahlem, Um Pëtz       01649  01649                % 05680 RGTR--
+190401001 Dahlem, Um Eck        01650  01650                % 05680 RGTR--
+190403003 Hivange, Kleng Béiwé  01652  01652                % 05680 RGTR--
+190403001 Hivange, Areler Stro  01653  01653                % 05680 RGTR--
+190202003 Fingig, Maerchen      01654  01654                % 05680 RGTR--
+190202002 Fingig, Dillesbierg   01655  01655                % 05680 RGTR--
+190201003 Clemency, Féngegerbi  01656  01656                % 05680 RGTR--
+190201008 Clemency, Schwemm     01657  01657                % 05680 RGTR--
+190201006 Clemency, Ieweschtga  01658  01658                % 05680 RGTR--
+190201004 Clemency, Gemeng      01659  01659                % 05680 RGTR--
+190201002 Clemency, Eecherwee   01700  01700                % 05680 RGTR--
+190201007 Clemency, Schock      01701                       % 05680 RGTR--
+*Z 05681 RGTR--                                             % 05681 RGTR--
+*L 240      200405004 190201007  01715  01801               % 05681 RGTR--
+*A as 200405004 190201007 000006  01715  01801              % 05681 RGTR--
+*A mt 200405004 190201007 000006  01715  01801              % 05681 RGTR--
+*R 1 190201007 200405004 190201007  01715  01801            % 05681 RGTR--
+*G RGB 200405004 190201007  01715  01801                    % 05681 RGTR--
+*A VE 200405004 190201007 000006  01715  01801              % 05681 RGTR--
+*I FD 200405004 190201007        0001812  01715  01801      % 05681 RGTR--
+200405004 Centre, Monterey Par         01715                % 05681 RGTR--
+200405045 Centre, Stäreplaz /  -01717  01717                % 05681 RGTR--
+200403021 Belair, Wandmillen   -01720  01720                % 05681 RGTR--
+200901020 Strassen, Benelux    -01725  01725                % 05681 RGTR--
+200901017 Strassen, Kesseler   -01727  01727                % 05681 RGTR--
+200101002 Bertrange, Belle Eto -01732  01732                % 05681 RGTR--
+190903013 Mamer, Tossebierg     01734  01734                % 05681 RGTR--
+190903003 Mamer, C.I.P.A.       01736  01736                % 05681 RGTR--
+190903014 Mamer, Zentrum        01738  01738                % 05681 RGTR--
+190903006 Mamer, Eisebunnsbréc  01738  01738                % 05681 RGTR--
+190903009 Mamer, Holzemerstroo  01739  01739                % 05681 RGTR--
+190903004 Mamer, Coq Hardi      01740  01740                % 05681 RGTR--
+190902003 Holzem, Mamerstrooss  01741  01741                % 05681 RGTR--
+190902002 Holzem, Festsall      01742  01742                % 05681 RGTR--
+190902001 Holzem, Bréck         01742  01742                % 05681 RGTR--
+190402004 Garnich, Rixegoard    01746  01746                % 05681 RGTR--
+190402005 Garnich, Schmëtt      01747  01747                % 05681 RGTR--
+190402002 Garnich, Brill        01747  01747                % 05681 RGTR--
+190402001 Garnich, Botterkräiz  01748  01748                % 05681 RGTR--
+190401002 Dahlem, Um Pëtz       01749  01749                % 05681 RGTR--
+190401001 Dahlem, Um Eck        01750  01750                % 05681 RGTR--
+190403003 Hivange, Kleng Béiwé  01752  01752                % 05681 RGTR--
+190403001 Hivange, Areler Stro  01753  01753                % 05681 RGTR--
+190202003 Fingig, Maerchen      01754  01754                % 05681 RGTR--
+190202002 Fingig, Dillesbierg   01755  01755                % 05681 RGTR--
+190201003 Clemency, Féngegerbi  01756  01756                % 05681 RGTR--
+190201008 Clemency, Schwemm     01757  01757                % 05681 RGTR--
+190201006 Clemency, Ieweschtga  01758  01758                % 05681 RGTR--
+190201004 Clemency, Gemeng      01759  01759                % 05681 RGTR--
+190201002 Clemency, Eecherwee   01800  01800                % 05681 RGTR--
+190201007 Clemency, Schock      01801                       % 05681 RGTR--
+*Z 05682 RGTR--                                             % 05682 RGTR--
+*L 240      200405004 190201007  01815  01901               % 05682 RGTR--
+*A as 200405004 190201007 000006  01815  01901              % 05682 RGTR--
+*A mt 200405004 190201007 000006  01815  01901              % 05682 RGTR--
+*R 1 190201007 200405004 190201007  01815  01901            % 05682 RGTR--
+*G RGB 200405004 190201007  01815  01901                    % 05682 RGTR--
+*A VE 200405004 190201007 000006  01815  01901              % 05682 RGTR--
+*I FD 200405004 190201007        0002194  01815  01901      % 05682 RGTR--
+200405004 Centre, Monterey Par         01815                % 05682 RGTR--
+200405045 Centre, Stäreplaz /  -01817  01817                % 05682 RGTR--
+200403021 Belair, Wandmillen   -01820  01820                % 05682 RGTR--
+200901020 Strassen, Benelux    -01825  01825                % 05682 RGTR--
+200901017 Strassen, Kesseler   -01827  01827                % 05682 RGTR--
+200101002 Bertrange, Belle Eto -01832  01832                % 05682 RGTR--
+190903013 Mamer, Tossebierg     01834  01834                % 05682 RGTR--
+190903003 Mamer, C.I.P.A.       01836  01836                % 05682 RGTR--
+190903014 Mamer, Zentrum        01838  01838                % 05682 RGTR--
+190903006 Mamer, Eisebunnsbréc  01838  01838                % 05682 RGTR--
+190903009 Mamer, Holzemerstroo  01839  01839                % 05682 RGTR--
+190903004 Mamer, Coq Hardi      01840  01840                % 05682 RGTR--
+190902003 Holzem, Mamerstrooss  01841  01841                % 05682 RGTR--
+190902002 Holzem, Festsall      01842  01842                % 05682 RGTR--
+190902001 Holzem, Bréck         01842  01842                % 05682 RGTR--
+190402004 Garnich, Rixegoard    01846  01846                % 05682 RGTR--
+190402005 Garnich, Schmëtt      01847  01847                % 05682 RGTR--
+190402002 Garnich, Brill        01847  01847                % 05682 RGTR--
+190402001 Garnich, Botterkräiz  01848  01848                % 05682 RGTR--
+190401002 Dahlem, Um Pëtz       01849  01849                % 05682 RGTR--
+190401001 Dahlem, Um Eck        01850  01850                % 05682 RGTR--
+190403003 Hivange, Kleng Béiwé  01852  01852                % 05682 RGTR--
+190403001 Hivange, Areler Stro  01853  01853                % 05682 RGTR--
+190202003 Fingig, Maerchen      01854  01854                % 05682 RGTR--
+190202002 Fingig, Dillesbierg   01855  01855                % 05682 RGTR--
+190201003 Clemency, Féngegerbi  01856  01856                % 05682 RGTR--
+190201008 Clemency, Schwemm     01857  01857                % 05682 RGTR--
+190201006 Clemency, Ieweschtga  01858  01858                % 05682 RGTR--
+190201004 Clemency, Gemeng      01859  01859                % 05682 RGTR--
+190201002 Clemency, Eecherwee   01900  01900                % 05682 RGTR--
+190201007 Clemency, Schock      01901                       % 05682 RGTR--
+*Z 05683 RGTR--                                             % 05683 RGTR--
+*L 240      200405004 190201007  01641  01727               % 05683 RGTR--
+*A as 200405004 190201007 000016  01641  01727              % 05683 RGTR--
+*A mt 200405004 190201007 000016  01641  01727              % 05683 RGTR--
+*R 1 190201007 200405004 190201007  01641  01727            % 05683 RGTR--
+*G RGB 200405004 190201007  01641  01727                    % 05683 RGTR--
+*A VE 200405004 190201007 000016  01641  01727              % 05683 RGTR--
+*I FD 200405004 190201007        0001347  01641  01727      % 05683 RGTR--
+200405004 Centre, Monterey Par         01641                % 05683 RGTR--
+200405045 Centre, Stäreplaz /  -01643  01643                % 05683 RGTR--
+200403021 Belair, Wandmillen   -01646  01646                % 05683 RGTR--
+200901020 Strassen, Benelux    -01651  01651                % 05683 RGTR--
+200901017 Strassen, Kesseler   -01653  01653                % 05683 RGTR--
+200101002 Bertrange, Belle Eto -01658  01658                % 05683 RGTR--
+190903013 Mamer, Tossebierg     01700  01700                % 05683 RGTR--
+190903003 Mamer, C.I.P.A.       01702  01702                % 05683 RGTR--
+190903014 Mamer, Zentrum        01704  01704                % 05683 RGTR--
+190903006 Mamer, Eisebunnsbréc  01704  01704                % 05683 RGTR--
+190903009 Mamer, Holzemerstroo  01705  01705                % 05683 RGTR--
+190903004 Mamer, Coq Hardi      01706  01706                % 05683 RGTR--
+190902003 Holzem, Mamerstrooss  01707  01707                % 05683 RGTR--
+190902002 Holzem, Festsall      01708  01708                % 05683 RGTR--
+190902001 Holzem, Bréck         01708  01708                % 05683 RGTR--
+190402004 Garnich, Rixegoard    01712  01712                % 05683 RGTR--
+190402005 Garnich, Schmëtt      01713  01713                % 05683 RGTR--
+190402002 Garnich, Brill        01713  01713                % 05683 RGTR--
+190402001 Garnich, Botterkräiz  01714  01714                % 05683 RGTR--
+190401002 Dahlem, Um Pëtz       01715  01715                % 05683 RGTR--
+190401001 Dahlem, Um Eck        01716  01716                % 05683 RGTR--
+190403003 Hivange, Kleng Béiwé  01718  01718                % 05683 RGTR--
+190403001 Hivange, Areler Stro  01719  01719                % 05683 RGTR--
+190202003 Fingig, Maerchen      01720  01720                % 05683 RGTR--
+190202002 Fingig, Dillesbierg   01721  01721                % 05683 RGTR--
+190201003 Clemency, Féngegerbi  01722  01722                % 05683 RGTR--
+190201008 Clemency, Schwemm     01723  01723                % 05683 RGTR--
+190201006 Clemency, Ieweschtga  01724  01724                % 05683 RGTR--
+190201004 Clemency, Gemeng      01725  01725                % 05683 RGTR--
+190201002 Clemency, Eecherwee   01726  01726                % 05683 RGTR--
+190201007 Clemency, Schock      01727                       % 05683 RGTR--
+*Z 05684 RGTR--                                             % 05684 RGTR--
+*L 240      200405004 190201007  01741  01827               % 05684 RGTR--
+*A as 200405004 190201007 000016  01741  01827              % 05684 RGTR--
+*A mt 200405004 190201007 000016  01741  01827              % 05684 RGTR--
+*R 1 190201007 200405004 190201007  01741  01827            % 05684 RGTR--
+*G RGB 200405004 190201007  01741  01827                    % 05684 RGTR--
+*A VE 200405004 190201007 000016  01741  01827              % 05684 RGTR--
+*I FD 200405004 190201007        0002454  01741  01827      % 05684 RGTR--
+200405004 Centre, Monterey Par         01741                % 05684 RGTR--
+200405045 Centre, Stäreplaz /  -01743  01743                % 05684 RGTR--
+200403021 Belair, Wandmillen   -01746  01746                % 05684 RGTR--
+200901020 Strassen, Benelux    -01751  01751                % 05684 RGTR--
+200901017 Strassen, Kesseler   -01753  01753                % 05684 RGTR--
+200101002 Bertrange, Belle Eto -01758  01758                % 05684 RGTR--
+190903013 Mamer, Tossebierg     01800  01800                % 05684 RGTR--
+190903003 Mamer, C.I.P.A.       01802  01802                % 05684 RGTR--
+190903014 Mamer, Zentrum        01804  01804                % 05684 RGTR--
+190903006 Mamer, Eisebunnsbréc  01804  01804                % 05684 RGTR--
+190903009 Mamer, Holzemerstroo  01805  01805                % 05684 RGTR--
+190903004 Mamer, Coq Hardi      01806  01806                % 05684 RGTR--
+190902003 Holzem, Mamerstrooss  01807  01807                % 05684 RGTR--
+190902002 Holzem, Festsall      01808  01808                % 05684 RGTR--
+190902001 Holzem, Bréck         01808  01808                % 05684 RGTR--
+190402004 Garnich, Rixegoard    01812  01812                % 05684 RGTR--
+190402005 Garnich, Schmëtt      01813  01813                % 05684 RGTR--
+190402002 Garnich, Brill        01813  01813                % 05684 RGTR--
+190402001 Garnich, Botterkräiz  01814  01814                % 05684 RGTR--
+190401002 Dahlem, Um Pëtz       01815  01815                % 05684 RGTR--
+190401001 Dahlem, Um Eck        01816  01816                % 05684 RGTR--
+190403003 Hivange, Kleng Béiwé  01818  01818                % 05684 RGTR--
+190403001 Hivange, Areler Stro  01819  01819                % 05684 RGTR--
+190202003 Fingig, Maerchen      01820  01820                % 05684 RGTR--
+190202002 Fingig, Dillesbierg   01821  01821                % 05684 RGTR--
+190201003 Clemency, Féngegerbi  01822  01822                % 05684 RGTR--
+190201008 Clemency, Schwemm     01823  01823                % 05684 RGTR--
+190201006 Clemency, Ieweschtga  01824  01824                % 05684 RGTR--
+190201004 Clemency, Gemeng      01825  01825                % 05684 RGTR--
+190201002 Clemency, Eecherwee   01826  01826                % 05684 RGTR--
+190201007 Clemency, Schock      01827                       % 05684 RGTR--
+*Z 05685 RGTR--                                             % 05685 RGTR--
+*L 240      200405004 190201007  01111  01151               % 05685 RGTR--
+*A as 200405004 190201007 000001  01111  01151              % 05685 RGTR--
+*A mt 200405004 190201007 000001  01111  01151              % 05685 RGTR--
+*R 1 190201007 200405004 190201007  01111  01151            % 05685 RGTR--
+*G RGB 200405004 190201007  01111  01151                    % 05685 RGTR--
+*A VE 200405004 190201007 000001  01111  01151              % 05685 RGTR--
+*I FD 200405004 190201007        0001172  01111  01151      % 05685 RGTR--
+200405004 Centre, Monterey Par         01111                % 05685 RGTR--
+200405045 Centre, Stäreplaz /  -01113  01113                % 05685 RGTR--
+200403021 Belair, Wandmillen   -01115  01115                % 05685 RGTR--
+200901020 Strassen, Benelux    -01120  01120                % 05685 RGTR--
+200901017 Strassen, Kesseler   -01121  01121                % 05685 RGTR--
+200101002 Bertrange, Belle Eto -01124  01124                % 05685 RGTR--
+190903013 Mamer, Tossebierg     01126  01126                % 05685 RGTR--
+190903003 Mamer, C.I.P.A.       01127  01127                % 05685 RGTR--
+190903014 Mamer, Zentrum        01128  01128                % 05685 RGTR--
+190903006 Mamer, Eisebunnsbréc  01129  01129                % 05685 RGTR--
+190903009 Mamer, Holzemerstroo  01130  01130                % 05685 RGTR--
+190903004 Mamer, Coq Hardi      01130  01130                % 05685 RGTR--
+190902003 Holzem, Mamerstrooss  01132  01132                % 05685 RGTR--
+190902002 Holzem, Festsall      01132  01132                % 05685 RGTR--
+190902001 Holzem, Bréck         01133  01133                % 05685 RGTR--
+190402004 Garnich, Rixegoard    01136  01136                % 05685 RGTR--
+190402005 Garnich, Schmëtt      01137  01137                % 05685 RGTR--
+190402002 Garnich, Brill        01138  01138                % 05685 RGTR--
+190402001 Garnich, Botterkräiz  01138  01138                % 05685 RGTR--
+190401002 Dahlem, Um Pëtz       01140  01140                % 05685 RGTR--
+190401001 Dahlem, Um Eck        01140  01140                % 05685 RGTR--
+190403003 Hivange, Kleng Béiwé  01142  01142                % 05685 RGTR--
+190403001 Hivange, Areler Stro  01143  01143                % 05685 RGTR--
+190202003 Fingig, Maerchen      01144  01144                % 05685 RGTR--
+190202002 Fingig, Dillesbierg   01145  01145                % 05685 RGTR--
+190201003 Clemency, Féngegerbi  01146  01146                % 05685 RGTR--
+190201008 Clemency, Schwemm     01147  01147                % 05685 RGTR--
+190201006 Clemency, Ieweschtga  01148  01148                % 05685 RGTR--
+190201004 Clemency, Gemeng      01149  01149                % 05685 RGTR--
+190201002 Clemency, Eecherwee   01150  01150                % 05685 RGTR--
+190201007 Clemency, Schock      01151                       % 05685 RGTR--
+*Z 05686 RGTR--                                             % 05686 RGTR--
+*L 240      200405004 190201007  01311  01351               % 05686 RGTR--
+*A as 200405004 190201007 000001  01311  01351              % 05686 RGTR--
+*A mt 200405004 190201007 000001  01311  01351              % 05686 RGTR--
+*R 1 190201007 200405004 190201007  01311  01351            % 05686 RGTR--
+*G RGB 200405004 190201007  01311  01351                    % 05686 RGTR--
+*A VE 200405004 190201007 000001  01311  01351              % 05686 RGTR--
+*I FD 200405004 190201007        0003474  01311  01351      % 05686 RGTR--
+200405004 Centre, Monterey Par         01311                % 05686 RGTR--
+200405045 Centre, Stäreplaz /  -01313  01313                % 05686 RGTR--
+200403021 Belair, Wandmillen   -01315  01315                % 05686 RGTR--
+200901020 Strassen, Benelux    -01320  01320                % 05686 RGTR--
+200901017 Strassen, Kesseler   -01321  01321                % 05686 RGTR--
+200101002 Bertrange, Belle Eto -01324  01324                % 05686 RGTR--
+190903013 Mamer, Tossebierg     01326  01326                % 05686 RGTR--
+190903003 Mamer, C.I.P.A.       01327  01327                % 05686 RGTR--
+190903014 Mamer, Zentrum        01328  01328                % 05686 RGTR--
+190903006 Mamer, Eisebunnsbréc  01329  01329                % 05686 RGTR--
+190903009 Mamer, Holzemerstroo  01330  01330                % 05686 RGTR--
+190903004 Mamer, Coq Hardi      01330  01330                % 05686 RGTR--
+190902003 Holzem, Mamerstrooss  01332  01332                % 05686 RGTR--
+190902002 Holzem, Festsall      01332  01332                % 05686 RGTR--
+190902001 Holzem, Bréck         01333  01333                % 05686 RGTR--
+190402004 Garnich, Rixegoard    01336  01336                % 05686 RGTR--
+190402005 Garnich, Schmëtt      01337  01337                % 05686 RGTR--
+190402002 Garnich, Brill        01338  01338                % 05686 RGTR--
+190402001 Garnich, Botterkräiz  01338  01338                % 05686 RGTR--
+190401002 Dahlem, Um Pëtz       01340  01340                % 05686 RGTR--
+190401001 Dahlem, Um Eck        01340  01340                % 05686 RGTR--
+190403003 Hivange, Kleng Béiwé  01342  01342                % 05686 RGTR--
+190403001 Hivange, Areler Stro  01343  01343                % 05686 RGTR--
+190202003 Fingig, Maerchen      01344  01344                % 05686 RGTR--
+190202002 Fingig, Dillesbierg   01345  01345                % 05686 RGTR--
+190201003 Clemency, Féngegerbi  01346  01346                % 05686 RGTR--
+190201008 Clemency, Schwemm     01347  01347                % 05686 RGTR--
+190201006 Clemency, Ieweschtga  01348  01348                % 05686 RGTR--
+190201004 Clemency, Gemeng      01349  01349                % 05686 RGTR--
+190201002 Clemency, Eecherwee   01350  01350                % 05686 RGTR--
+190201007 Clemency, Schock      01351                       % 05686 RGTR--
+*Z 05687 RGTR--                                             % 05687 RGTR--
+*L 240      200405004 190201007  01511  01551               % 05687 RGTR--
+*A as 200405004 190201007 000001  01511  01551              % 05687 RGTR--
+*A mt 200405004 190201007 000001  01511  01551              % 05687 RGTR--
+*R 1 190201007 200405004 190201007  01511  01551            % 05687 RGTR--
+*G RGB 200405004 190201007  01511  01551                    % 05687 RGTR--
+*A VE 200405004 190201007 000001  01511  01551              % 05687 RGTR--
+*I FD 200405004 190201007        0003083  01511  01551      % 05687 RGTR--
+200405004 Centre, Monterey Par         01511                % 05687 RGTR--
+200405045 Centre, Stäreplaz /  -01513  01513                % 05687 RGTR--
+200403021 Belair, Wandmillen   -01515  01515                % 05687 RGTR--
+200901020 Strassen, Benelux    -01520  01520                % 05687 RGTR--
+200901017 Strassen, Kesseler   -01521  01521                % 05687 RGTR--
+200101002 Bertrange, Belle Eto -01524  01524                % 05687 RGTR--
+190903013 Mamer, Tossebierg     01526  01526                % 05687 RGTR--
+190903003 Mamer, C.I.P.A.       01527  01527                % 05687 RGTR--
+190903014 Mamer, Zentrum        01528  01528                % 05687 RGTR--
+190903006 Mamer, Eisebunnsbréc  01529  01529                % 05687 RGTR--
+190903009 Mamer, Holzemerstroo  01530  01530                % 05687 RGTR--
+190903004 Mamer, Coq Hardi      01530  01530                % 05687 RGTR--
+190902003 Holzem, Mamerstrooss  01532  01532                % 05687 RGTR--
+190902002 Holzem, Festsall      01532  01532                % 05687 RGTR--
+190902001 Holzem, Bréck         01533  01533                % 05687 RGTR--
+190402004 Garnich, Rixegoard    01536  01536                % 05687 RGTR--
+190402005 Garnich, Schmëtt      01537  01537                % 05687 RGTR--
+190402002 Garnich, Brill        01538  01538                % 05687 RGTR--
+190402001 Garnich, Botterkräiz  01538  01538                % 05687 RGTR--
+190401002 Dahlem, Um Pëtz       01540  01540                % 05687 RGTR--
+190401001 Dahlem, Um Eck        01540  01540                % 05687 RGTR--
+190403003 Hivange, Kleng Béiwé  01542  01542                % 05687 RGTR--
+190403001 Hivange, Areler Stro  01543  01543                % 05687 RGTR--
+190202003 Fingig, Maerchen      01544  01544                % 05687 RGTR--
+190202002 Fingig, Dillesbierg   01545  01545                % 05687 RGTR--
+190201003 Clemency, Féngegerbi  01546  01546                % 05687 RGTR--
+190201008 Clemency, Schwemm     01547  01547                % 05687 RGTR--
+190201006 Clemency, Ieweschtga  01548  01548                % 05687 RGTR--
+190201004 Clemency, Gemeng      01549  01549                % 05687 RGTR--
+190201002 Clemency, Eecherwee   01550  01550                % 05687 RGTR--
+190201007 Clemency, Schock      01551                       % 05687 RGTR--
+*Z 05688 RGTR--                                             % 05688 RGTR--
+*L 240      200405004 190201007  01911  01951               % 05688 RGTR--
+*A as 200405004 190201007 000001  01911  01951              % 05688 RGTR--
+*A mt 200405004 190201007 000001  01911  01951              % 05688 RGTR--
+*R 1 190201007 200405004 190201007  01911  01951            % 05688 RGTR--
+*G RGB 200405004 190201007  01911  01951                    % 05688 RGTR--
+*A VE 200405004 190201007 000001  01911  01951              % 05688 RGTR--
+*I FD 200405004 190201007        0003475  01911  01951      % 05688 RGTR--
+200405004 Centre, Monterey Par         01911                % 05688 RGTR--
+200405045 Centre, Stäreplaz /  -01913  01913                % 05688 RGTR--
+200403021 Belair, Wandmillen   -01915  01915                % 05688 RGTR--
+200901020 Strassen, Benelux    -01920  01920                % 05688 RGTR--
+200901017 Strassen, Kesseler   -01921  01921                % 05688 RGTR--
+200101002 Bertrange, Belle Eto -01924  01924                % 05688 RGTR--
+190903013 Mamer, Tossebierg     01926  01926                % 05688 RGTR--
+190903003 Mamer, C.I.P.A.       01927  01927                % 05688 RGTR--
+190903014 Mamer, Zentrum        01928  01928                % 05688 RGTR--
+190903006 Mamer, Eisebunnsbréc  01929  01929                % 05688 RGTR--
+190903009 Mamer, Holzemerstroo  01930  01930                % 05688 RGTR--
+190903004 Mamer, Coq Hardi      01930  01930                % 05688 RGTR--
+190902003 Holzem, Mamerstrooss  01932  01932                % 05688 RGTR--
+190902002 Holzem, Festsall      01932  01932                % 05688 RGTR--
+190902001 Holzem, Bréck         01933  01933                % 05688 RGTR--
+190402004 Garnich, Rixegoard    01936  01936                % 05688 RGTR--
+190402005 Garnich, Schmëtt      01937  01937                % 05688 RGTR--
+190402002 Garnich, Brill        01938  01938                % 05688 RGTR--
+190402001 Garnich, Botterkräiz  01938  01938                % 05688 RGTR--
+190401002 Dahlem, Um Pëtz       01940  01940                % 05688 RGTR--
+190401001 Dahlem, Um Eck        01940  01940                % 05688 RGTR--
+190403003 Hivange, Kleng Béiwé  01942  01942                % 05688 RGTR--
+190403001 Hivange, Areler Stro  01943  01943                % 05688 RGTR--
+190202003 Fingig, Maerchen      01944  01944                % 05688 RGTR--
+190202002 Fingig, Dillesbierg   01945  01945                % 05688 RGTR--
+190201003 Clemency, Féngegerbi  01946  01946                % 05688 RGTR--
+190201008 Clemency, Schwemm     01947  01947                % 05688 RGTR--
+190201006 Clemency, Ieweschtga  01948  01948                % 05688 RGTR--
+190201004 Clemency, Gemeng      01949  01949                % 05688 RGTR--
+190201002 Clemency, Eecherwee   01950  01950                % 05688 RGTR--
+190201007 Clemency, Schock      01951                       % 05688 RGTR--
+*Z 05689 RGTR--                                             % 05689 RGTR--
+*L 240      200405004 190201007  00911  00951               % 05689 RGTR--
+*A as 200405004 190201007 000006  00911  00951              % 05689 RGTR--
+*A mt 200405004 190201007 000006  00911  00951              % 05689 RGTR--
+*R 1 190201007 200405004 190201007  00911  00951            % 05689 RGTR--
+*G RGB 200405004 190201007  00911  00951                    % 05689 RGTR--
+*A VE 200405004 190201007 000006  00911  00951              % 05689 RGTR--
+*I FD 200405004 190201007        0003476  00911  00951      % 05689 RGTR--
+200405004 Centre, Monterey Par         00911                % 05689 RGTR--
+200405045 Centre, Stäreplaz /  -00913  00913                % 05689 RGTR--
+200403021 Belair, Wandmillen   -00915  00915                % 05689 RGTR--
+200901020 Strassen, Benelux    -00920  00920                % 05689 RGTR--
+200901017 Strassen, Kesseler   -00921  00921                % 05689 RGTR--
+200101002 Bertrange, Belle Eto -00924  00924                % 05689 RGTR--
+190903013 Mamer, Tossebierg     00926  00926                % 05689 RGTR--
+190903003 Mamer, C.I.P.A.       00927  00927                % 05689 RGTR--
+190903014 Mamer, Zentrum        00928  00928                % 05689 RGTR--
+190903006 Mamer, Eisebunnsbréc  00929  00929                % 05689 RGTR--
+190903009 Mamer, Holzemerstroo  00930  00930                % 05689 RGTR--
+190903004 Mamer, Coq Hardi      00930  00930                % 05689 RGTR--
+190902003 Holzem, Mamerstrooss  00932  00932                % 05689 RGTR--
+190902002 Holzem, Festsall      00932  00932                % 05689 RGTR--
+190902001 Holzem, Bréck         00933  00933                % 05689 RGTR--
+190402004 Garnich, Rixegoard    00936  00936                % 05689 RGTR--
+190402005 Garnich, Schmëtt      00937  00937                % 05689 RGTR--
+190402002 Garnich, Brill        00938  00938                % 05689 RGTR--
+190402001 Garnich, Botterkräiz  00938  00938                % 05689 RGTR--
+190401002 Dahlem, Um Pëtz       00940  00940                % 05689 RGTR--
+190401001 Dahlem, Um Eck        00940  00940                % 05689 RGTR--
+190403003 Hivange, Kleng Béiwé  00942  00942                % 05689 RGTR--
+190403001 Hivange, Areler Stro  00943  00943                % 05689 RGTR--
+190202003 Fingig, Maerchen      00944  00944                % 05689 RGTR--
+190202002 Fingig, Dillesbierg   00945  00945                % 05689 RGTR--
+190201003 Clemency, Féngegerbi  00946  00946                % 05689 RGTR--
+190201008 Clemency, Schwemm     00947  00947                % 05689 RGTR--
+190201006 Clemency, Ieweschtga  00948  00948                % 05689 RGTR--
+190201004 Clemency, Gemeng      00949  00949                % 05689 RGTR--
+190201002 Clemency, Eecherwee   00950  00950                % 05689 RGTR--
+190201007 Clemency, Schock      00951                       % 05689 RGTR--
+*Z 05690 RGTR--                                             % 05690 RGTR--
+*L 240      200405004 190201007  01011  01051               % 05690 RGTR--
+*A as 200405004 190201007 000006  01011  01051              % 05690 RGTR--
+*A mt 200405004 190201007 000006  01011  01051              % 05690 RGTR--
+*R 1 190201007 200405004 190201007  01011  01051            % 05690 RGTR--
+*G RGB 200405004 190201007  01011  01051                    % 05690 RGTR--
+*A VE 200405004 190201007 000006  01011  01051              % 05690 RGTR--
+*I FD 200405004 190201007        0003477  01011  01051      % 05690 RGTR--
+200405004 Centre, Monterey Par         01011                % 05690 RGTR--
+200405045 Centre, Stäreplaz /  -01013  01013                % 05690 RGTR--
+200403021 Belair, Wandmillen   -01015  01015                % 05690 RGTR--
+200901020 Strassen, Benelux    -01020  01020                % 05690 RGTR--
+200901017 Strassen, Kesseler   -01021  01021                % 05690 RGTR--
+200101002 Bertrange, Belle Eto -01024  01024                % 05690 RGTR--
+190903013 Mamer, Tossebierg     01026  01026                % 05690 RGTR--
+190903003 Mamer, C.I.P.A.       01027  01027                % 05690 RGTR--
+190903014 Mamer, Zentrum        01028  01028                % 05690 RGTR--
+190903006 Mamer, Eisebunnsbréc  01029  01029                % 05690 RGTR--
+190903009 Mamer, Holzemerstroo  01030  01030                % 05690 RGTR--
+190903004 Mamer, Coq Hardi      01030  01030                % 05690 RGTR--
+190902003 Holzem, Mamerstrooss  01032  01032                % 05690 RGTR--
+190902002 Holzem, Festsall      01032  01032                % 05690 RGTR--
+190902001 Holzem, Bréck         01033  01033                % 05690 RGTR--
+190402004 Garnich, Rixegoard    01036  01036                % 05690 RGTR--
+190402005 Garnich, Schmëtt      01037  01037                % 05690 RGTR--
+190402002 Garnich, Brill        01038  01038                % 05690 RGTR--
+190402001 Garnich, Botterkräiz  01038  01038                % 05690 RGTR--
+190401002 Dahlem, Um Pëtz       01040  01040                % 05690 RGTR--
+190401001 Dahlem, Um Eck        01040  01040                % 05690 RGTR--
+190403003 Hivange, Kleng Béiwé  01042  01042                % 05690 RGTR--
+190403001 Hivange, Areler Stro  01043  01043                % 05690 RGTR--
+190202003 Fingig, Maerchen      01044  01044                % 05690 RGTR--
+190202002 Fingig, Dillesbierg   01045  01045                % 05690 RGTR--
+190201003 Clemency, Féngegerbi  01046  01046                % 05690 RGTR--
+190201008 Clemency, Schwemm     01047  01047                % 05690 RGTR--
+190201006 Clemency, Ieweschtga  01048  01048                % 05690 RGTR--
+190201004 Clemency, Gemeng      01049  01049                % 05690 RGTR--
+190201002 Clemency, Eecherwee   01050  01050                % 05690 RGTR--
+190201007 Clemency, Schock      01051                       % 05690 RGTR--
+*Z 05691 RGTR--                                             % 05691 RGTR--
+*L 240      200405004 190201007  01211  01251               % 05691 RGTR--
+*A as 200405004 190201007 000006  01211  01251              % 05691 RGTR--
+*A mt 200405004 190201007 000006  01211  01251              % 05691 RGTR--
+*R 1 190201007 200405004 190201007  01211  01251            % 05691 RGTR--
+*G RGB 200405004 190201007  01211  01251                    % 05691 RGTR--
+*A VE 200405004 190201007 000006  01211  01251              % 05691 RGTR--
+*I FD 200405004 190201007        0003478  01211  01251      % 05691 RGTR--
+200405004 Centre, Monterey Par         01211                % 05691 RGTR--
+200405045 Centre, Stäreplaz /  -01213  01213                % 05691 RGTR--
+200403021 Belair, Wandmillen   -01215  01215                % 05691 RGTR--
+200901020 Strassen, Benelux    -01220  01220                % 05691 RGTR--
+200901017 Strassen, Kesseler   -01221  01221                % 05691 RGTR--
+200101002 Bertrange, Belle Eto -01224  01224                % 05691 RGTR--
+190903013 Mamer, Tossebierg     01226  01226                % 05691 RGTR--
+190903003 Mamer, C.I.P.A.       01227  01227                % 05691 RGTR--
+190903014 Mamer, Zentrum        01228  01228                % 05691 RGTR--
+190903006 Mamer, Eisebunnsbréc  01229  01229                % 05691 RGTR--
+190903009 Mamer, Holzemerstroo  01230  01230                % 05691 RGTR--
+190903004 Mamer, Coq Hardi      01230  01230                % 05691 RGTR--
+190902003 Holzem, Mamerstrooss  01232  01232                % 05691 RGTR--
+190902002 Holzem, Festsall      01232  01232                % 05691 RGTR--
+190902001 Holzem, Bréck         01233  01233                % 05691 RGTR--
+190402004 Garnich, Rixegoard    01236  01236                % 05691 RGTR--
+190402005 Garnich, Schmëtt      01237  01237                % 05691 RGTR--
+190402002 Garnich, Brill        01238  01238                % 05691 RGTR--
+190402001 Garnich, Botterkräiz  01238  01238                % 05691 RGTR--
+190401002 Dahlem, Um Pëtz       01240  01240                % 05691 RGTR--
+190401001 Dahlem, Um Eck        01240  01240                % 05691 RGTR--
+190403003 Hivange, Kleng Béiwé  01242  01242                % 05691 RGTR--
+190403001 Hivange, Areler Stro  01243  01243                % 05691 RGTR--
+190202003 Fingig, Maerchen      01244  01244                % 05691 RGTR--
+190202002 Fingig, Dillesbierg   01245  01245                % 05691 RGTR--
+190201003 Clemency, Féngegerbi  01246  01246                % 05691 RGTR--
+190201008 Clemency, Schwemm     01247  01247                % 05691 RGTR--
+190201006 Clemency, Ieweschtga  01248  01248                % 05691 RGTR--
+190201004 Clemency, Gemeng      01249  01249                % 05691 RGTR--
+190201002 Clemency, Eecherwee   01250  01250                % 05691 RGTR--
+190201007 Clemency, Schock      01251                       % 05691 RGTR--
+*Z 05692 RGTR--                                             % 05692 RGTR--
+*L 240      200405004 190201007  01411  01451               % 05692 RGTR--
+*A as 200405004 190201007 000006  01411  01451              % 05692 RGTR--
+*A mt 200405004 190201007 000006  01411  01451              % 05692 RGTR--
+*R 1 190201007 200405004 190201007  01411  01451            % 05692 RGTR--
+*G RGB 200405004 190201007  01411  01451                    % 05692 RGTR--
+*A VE 200405004 190201007 000006  01411  01451              % 05692 RGTR--
+*I FD 200405004 190201007        0003479  01411  01451      % 05692 RGTR--
+200405004 Centre, Monterey Par         01411                % 05692 RGTR--
+200405045 Centre, Stäreplaz /  -01413  01413                % 05692 RGTR--
+200403021 Belair, Wandmillen   -01415  01415                % 05692 RGTR--
+200901020 Strassen, Benelux    -01420  01420                % 05692 RGTR--
+200901017 Strassen, Kesseler   -01421  01421                % 05692 RGTR--
+200101002 Bertrange, Belle Eto -01424  01424                % 05692 RGTR--
+190903013 Mamer, Tossebierg     01426  01426                % 05692 RGTR--
+190903003 Mamer, C.I.P.A.       01427  01427                % 05692 RGTR--
+190903014 Mamer, Zentrum        01428  01428                % 05692 RGTR--
+190903006 Mamer, Eisebunnsbréc  01429  01429                % 05692 RGTR--
+190903009 Mamer, Holzemerstroo  01430  01430                % 05692 RGTR--
+190903004 Mamer, Coq Hardi      01430  01430                % 05692 RGTR--
+190902003 Holzem, Mamerstrooss  01432  01432                % 05692 RGTR--
+190902002 Holzem, Festsall      01432  01432                % 05692 RGTR--
+190902001 Holzem, Bréck         01433  01433                % 05692 RGTR--
+190402004 Garnich, Rixegoard    01436  01436                % 05692 RGTR--
+190402005 Garnich, Schmëtt      01437  01437                % 05692 RGTR--
+190402002 Garnich, Brill        01438  01438                % 05692 RGTR--
+190402001 Garnich, Botterkräiz  01438  01438                % 05692 RGTR--
+190401002 Dahlem, Um Pëtz       01440  01440                % 05692 RGTR--
+190401001 Dahlem, Um Eck        01440  01440                % 05692 RGTR--
+190403003 Hivange, Kleng Béiwé  01442  01442                % 05692 RGTR--
+190403001 Hivange, Areler Stro  01443  01443                % 05692 RGTR--
+190202003 Fingig, Maerchen      01444  01444                % 05692 RGTR--
+190202002 Fingig, Dillesbierg   01445  01445                % 05692 RGTR--
+190201003 Clemency, Féngegerbi  01446  01446                % 05692 RGTR--
+190201008 Clemency, Schwemm     01447  01447                % 05692 RGTR--
+190201006 Clemency, Ieweschtga  01448  01448                % 05692 RGTR--
+190201004 Clemency, Gemeng      01449  01449                % 05692 RGTR--
+190201002 Clemency, Eecherwee   01450  01450                % 05692 RGTR--
+190201007 Clemency, Schock      01451                       % 05692 RGTR--
+*Z 05693 RGTR--                                             % 05693 RGTR--
+*L 240      200405004 190201007  02011  02051               % 05693 RGTR--
+*A as 200405004 190201007 000006  02011  02051              % 05693 RGTR--
+*A mt 200405004 190201007 000006  02011  02051              % 05693 RGTR--
+*R 1 190201007 200405004 190201007  02011  02051            % 05693 RGTR--
+*G RGB 200405004 190201007  02011  02051                    % 05693 RGTR--
+*A VE 200405004 190201007 000006  02011  02051              % 05693 RGTR--
+*I FD 200405004 190201007        0002208  02011  02051      % 05693 RGTR--
+200405004 Centre, Monterey Par         02011                % 05693 RGTR--
+200405045 Centre, Stäreplaz /  -02013  02013                % 05693 RGTR--
+200403021 Belair, Wandmillen   -02015  02015                % 05693 RGTR--
+200901020 Strassen, Benelux    -02020  02020                % 05693 RGTR--
+200901017 Strassen, Kesseler   -02021  02021                % 05693 RGTR--
+200101002 Bertrange, Belle Eto -02024  02024                % 05693 RGTR--
+190903013 Mamer, Tossebierg     02026  02026                % 05693 RGTR--
+190903003 Mamer, C.I.P.A.       02027  02027                % 05693 RGTR--
+190903014 Mamer, Zentrum        02028  02028                % 05693 RGTR--
+190903006 Mamer, Eisebunnsbréc  02029  02029                % 05693 RGTR--
+190903009 Mamer, Holzemerstroo  02030  02030                % 05693 RGTR--
+190903004 Mamer, Coq Hardi      02030  02030                % 05693 RGTR--
+190902003 Holzem, Mamerstrooss  02032  02032                % 05693 RGTR--
+190902002 Holzem, Festsall      02032  02032                % 05693 RGTR--
+190902001 Holzem, Bréck         02033  02033                % 05693 RGTR--
+190402004 Garnich, Rixegoard    02036  02036                % 05693 RGTR--
+190402005 Garnich, Schmëtt      02037  02037                % 05693 RGTR--
+190402002 Garnich, Brill        02038  02038                % 05693 RGTR--
+190402001 Garnich, Botterkräiz  02038  02038                % 05693 RGTR--
+190401002 Dahlem, Um Pëtz       02040  02040                % 05693 RGTR--
+190401001 Dahlem, Um Eck        02040  02040                % 05693 RGTR--
+190403003 Hivange, Kleng Béiwé  02042  02042                % 05693 RGTR--
+190403001 Hivange, Areler Stro  02043  02043                % 05693 RGTR--
+190202003 Fingig, Maerchen      02044  02044                % 05693 RGTR--
+190202002 Fingig, Dillesbierg   02045  02045                % 05693 RGTR--
+190201003 Clemency, Féngegerbi  02046  02046                % 05693 RGTR--
+190201008 Clemency, Schwemm     02047  02047                % 05693 RGTR--
+190201006 Clemency, Ieweschtga  02048  02048                % 05693 RGTR--
+190201004 Clemency, Gemeng      02049  02049                % 05693 RGTR--
+190201002 Clemency, Eecherwee   02050  02050                % 05693 RGTR--
+190201007 Clemency, Schock      02051                       % 05693 RGTR--
+*Z 05694 RGTR--                                             % 05694 RGTR--
+*L 240      200405004 190201007  02111  02151               % 05694 RGTR--
+*A as 200405004 190201007 000006  02111  02151              % 05694 RGTR--
+*A mt 200405004 190201007 000006  02111  02151              % 05694 RGTR--
+*R 1 190201007 200405004 190201007  02111  02151            % 05694 RGTR--
+*G RGB 200405004 190201007  02111  02151                    % 05694 RGTR--
+*A VE 200405004 190201007 000006  02111  02151              % 05694 RGTR--
+*I FD 200405004 190201007        0003480  02111  02151      % 05694 RGTR--
+200405004 Centre, Monterey Par         02111                % 05694 RGTR--
+200405045 Centre, Stäreplaz /  -02113  02113                % 05694 RGTR--
+200403021 Belair, Wandmillen   -02115  02115                % 05694 RGTR--
+200901020 Strassen, Benelux    -02120  02120                % 05694 RGTR--
+200901017 Strassen, Kesseler   -02121  02121                % 05694 RGTR--
+200101002 Bertrange, Belle Eto -02124  02124                % 05694 RGTR--
+190903013 Mamer, Tossebierg     02126  02126                % 05694 RGTR--
+190903003 Mamer, C.I.P.A.       02127  02127                % 05694 RGTR--
+190903014 Mamer, Zentrum        02128  02128                % 05694 RGTR--
+190903006 Mamer, Eisebunnsbréc  02129  02129                % 05694 RGTR--
+190903009 Mamer, Holzemerstroo  02130  02130                % 05694 RGTR--
+190903004 Mamer, Coq Hardi      02130  02130                % 05694 RGTR--
+190902003 Holzem, Mamerstrooss  02132  02132                % 05694 RGTR--
+190902002 Holzem, Festsall      02132  02132                % 05694 RGTR--
+190902001 Holzem, Bréck         02133  02133                % 05694 RGTR--
+190402004 Garnich, Rixegoard    02136  02136                % 05694 RGTR--
+190402005 Garnich, Schmëtt      02137  02137                % 05694 RGTR--
+190402002 Garnich, Brill        02138  02138                % 05694 RGTR--
+190402001 Garnich, Botterkräiz  02138  02138                % 05694 RGTR--
+190401002 Dahlem, Um Pëtz       02140  02140                % 05694 RGTR--
+190401001 Dahlem, Um Eck        02140  02140                % 05694 RGTR--
+190403003 Hivange, Kleng Béiwé  02142  02142                % 05694 RGTR--
+190403001 Hivange, Areler Stro  02143  02143                % 05694 RGTR--
+190202003 Fingig, Maerchen      02144  02144                % 05694 RGTR--
+190202002 Fingig, Dillesbierg   02145  02145                % 05694 RGTR--
+190201003 Clemency, Féngegerbi  02146  02146                % 05694 RGTR--
+190201008 Clemency, Schwemm     02147  02147                % 05694 RGTR--
+190201006 Clemency, Ieweschtga  02148  02148                % 05694 RGTR--
+190201004 Clemency, Gemeng      02149  02149                % 05694 RGTR--
+190201002 Clemency, Eecherwee   02150  02150                % 05694 RGTR--
+190201007 Clemency, Schock      02151                       % 05694 RGTR--
+*Z 05695 RGTR--                                             % 05695 RGTR--
+*L 240      200405004 190201007  02211  02251               % 05695 RGTR--
+*A as 200405004 190201007 000006  02211  02251              % 05695 RGTR--
+*A mt 200405004 190201007 000006  02211  02251              % 05695 RGTR--
+*R 1 190201007 200405004 190201007  02211  02251            % 05695 RGTR--
+*G RGB 200405004 190201007  02211  02251                    % 05695 RGTR--
+*A VE 200405004 190201007 000006  02211  02251              % 05695 RGTR--
+*I FD 200405004 190201007        0002471  02211  02251      % 05695 RGTR--
+200405004 Centre, Monterey Par         02211                % 05695 RGTR--
+200405045 Centre, Stäreplaz /  -02213  02213                % 05695 RGTR--
+200403021 Belair, Wandmillen   -02215  02215                % 05695 RGTR--
+200901020 Strassen, Benelux    -02220  02220                % 05695 RGTR--
+200901017 Strassen, Kesseler   -02221  02221                % 05695 RGTR--
+200101002 Bertrange, Belle Eto -02224  02224                % 05695 RGTR--
+190903013 Mamer, Tossebierg     02226  02226                % 05695 RGTR--
+190903003 Mamer, C.I.P.A.       02227  02227                % 05695 RGTR--
+190903014 Mamer, Zentrum        02228  02228                % 05695 RGTR--
+190903006 Mamer, Eisebunnsbréc  02229  02229                % 05695 RGTR--
+190903009 Mamer, Holzemerstroo  02230  02230                % 05695 RGTR--
+190903004 Mamer, Coq Hardi      02230  02230                % 05695 RGTR--
+190902003 Holzem, Mamerstrooss  02232  02232                % 05695 RGTR--
+190902002 Holzem, Festsall      02232  02232                % 05695 RGTR--
+190902001 Holzem, Bréck         02233  02233                % 05695 RGTR--
+190402004 Garnich, Rixegoard    02236  02236                % 05695 RGTR--
+190402005 Garnich, Schmëtt      02237  02237                % 05695 RGTR--
+190402002 Garnich, Brill        02238  02238                % 05695 RGTR--
+190402001 Garnich, Botterkräiz  02238  02238                % 05695 RGTR--
+190401002 Dahlem, Um Pëtz       02240  02240                % 05695 RGTR--
+190401001 Dahlem, Um Eck        02240  02240                % 05695 RGTR--
+190403003 Hivange, Kleng Béiwé  02242  02242                % 05695 RGTR--
+190403001 Hivange, Areler Stro  02243  02243                % 05695 RGTR--
+190202003 Fingig, Maerchen      02244  02244                % 05695 RGTR--
+190202002 Fingig, Dillesbierg   02245  02245                % 05695 RGTR--
+190201003 Clemency, Féngegerbi  02246  02246                % 05695 RGTR--
+190201008 Clemency, Schwemm     02247  02247                % 05695 RGTR--
+190201006 Clemency, Ieweschtga  02248  02248                % 05695 RGTR--
+190201004 Clemency, Gemeng      02249  02249                % 05695 RGTR--
+190201002 Clemency, Eecherwee   02250  02250                % 05695 RGTR--
+190201007 Clemency, Schock      02251                       % 05695 RGTR--
+*Z 05696 RGTR--                                             % 05696 RGTR--
+*L 240      200405004 190201007  02311  02351               % 05696 RGTR--
+*A as 200405004 190201007 000006  02311  02351              % 05696 RGTR--
+*A mt 200405004 190201007 000006  02311  02351              % 05696 RGTR--
+*R 1 190201007 200405004 190201007  02311  02351            % 05696 RGTR--
+*G RGB 200405004 190201007  02311  02351                    % 05696 RGTR--
+*A VE 200405004 190201007 000006  02311  02351              % 05696 RGTR--
+*I FD 200405004 190201007        0003481  02311  02351      % 05696 RGTR--
+200405004 Centre, Monterey Par         02311                % 05696 RGTR--
+200405045 Centre, Stäreplaz /  -02313  02313                % 05696 RGTR--
+200403021 Belair, Wandmillen   -02315  02315                % 05696 RGTR--
+200901020 Strassen, Benelux    -02320  02320                % 05696 RGTR--
+200901017 Strassen, Kesseler   -02321  02321                % 05696 RGTR--
+200101002 Bertrange, Belle Eto -02324  02324                % 05696 RGTR--
+190903013 Mamer, Tossebierg     02326  02326                % 05696 RGTR--
+190903003 Mamer, C.I.P.A.       02327  02327                % 05696 RGTR--
+190903014 Mamer, Zentrum        02328  02328                % 05696 RGTR--
+190903006 Mamer, Eisebunnsbréc  02329  02329                % 05696 RGTR--
+190903009 Mamer, Holzemerstroo  02330  02330                % 05696 RGTR--
+190903004 Mamer, Coq Hardi      02330  02330                % 05696 RGTR--
+190902003 Holzem, Mamerstrooss  02332  02332                % 05696 RGTR--
+190902002 Holzem, Festsall      02332  02332                % 05696 RGTR--
+190902001 Holzem, Bréck         02333  02333                % 05696 RGTR--
+190402004 Garnich, Rixegoard    02336  02336                % 05696 RGTR--
+190402005 Garnich, Schmëtt      02337  02337                % 05696 RGTR--
+190402002 Garnich, Brill        02338  02338                % 05696 RGTR--
+190402001 Garnich, Botterkräiz  02338  02338                % 05696 RGTR--
+190401002 Dahlem, Um Pëtz       02340  02340                % 05696 RGTR--
+190401001 Dahlem, Um Eck        02340  02340                % 05696 RGTR--
+190403003 Hivange, Kleng Béiwé  02342  02342                % 05696 RGTR--
+190403001 Hivange, Areler Stro  02343  02343                % 05696 RGTR--
+190202003 Fingig, Maerchen      02344  02344                % 05696 RGTR--
+190202002 Fingig, Dillesbierg   02345  02345                % 05696 RGTR--
+190201003 Clemency, Féngegerbi  02346  02346                % 05696 RGTR--
+190201008 Clemency, Schwemm     02347  02347                % 05696 RGTR--
+190201006 Clemency, Ieweschtga  02348  02348                % 05696 RGTR--
+190201004 Clemency, Gemeng      02349  02349                % 05696 RGTR--
+190201002 Clemency, Eecherwee   02350  02350                % 05696 RGTR--
+190201007 Clemency, Schock      02351                       % 05696 RGTR--
+*Z 05697 RGTR--                                             % 05697 RGTR--
+*L 240      200405004 190201007  01715  01755               % 05697 RGTR--
+*A as 200405004 190201007 000156  01715  01755              % 05697 RGTR--
+*A mt 200405004 190201007 000156  01715  01755              % 05697 RGTR--
+*R 1 190201007 200405004 190201007  01715  01755            % 05697 RGTR--
+*G RGB 200405004 190201007  01715  01755                    % 05697 RGTR--
+*A VE 200405004 190201007 000156  01715  01755              % 05697 RGTR--
+*I FD 200405004 190201007        0001812  01715  01755      % 05697 RGTR--
+200405004 Centre, Monterey Par         01715                % 05697 RGTR--
+200405045 Centre, Stäreplaz /  -01717  01717                % 05697 RGTR--
+200403021 Belair, Wandmillen   -01719  01719                % 05697 RGTR--
+200901020 Strassen, Benelux    -01724  01724                % 05697 RGTR--
+200901017 Strassen, Kesseler   -01725  01725                % 05697 RGTR--
+200101002 Bertrange, Belle Eto -01728  01728                % 05697 RGTR--
+190903013 Mamer, Tossebierg     01730  01730                % 05697 RGTR--
+190903003 Mamer, C.I.P.A.       01731  01731                % 05697 RGTR--
+190903014 Mamer, Zentrum        01732  01732                % 05697 RGTR--
+190903006 Mamer, Eisebunnsbréc  01733  01733                % 05697 RGTR--
+190903009 Mamer, Holzemerstroo  01734  01734                % 05697 RGTR--
+190903004 Mamer, Coq Hardi      01734  01734                % 05697 RGTR--
+190902003 Holzem, Mamerstrooss  01736  01736                % 05697 RGTR--
+190902002 Holzem, Festsall      01736  01736                % 05697 RGTR--
+190902001 Holzem, Bréck         01737  01737                % 05697 RGTR--
+190402004 Garnich, Rixegoard    01740  01740                % 05697 RGTR--
+190402005 Garnich, Schmëtt      01741  01741                % 05697 RGTR--
+190402002 Garnich, Brill        01742  01742                % 05697 RGTR--
+190402001 Garnich, Botterkräiz  01742  01742                % 05697 RGTR--
+190401002 Dahlem, Um Pëtz       01744  01744                % 05697 RGTR--
+190401001 Dahlem, Um Eck        01744  01744                % 05697 RGTR--
+190403003 Hivange, Kleng Béiwé  01746  01746                % 05697 RGTR--
+190403001 Hivange, Areler Stro  01747  01747                % 05697 RGTR--
+190202003 Fingig, Maerchen      01748  01748                % 05697 RGTR--
+190202002 Fingig, Dillesbierg   01749  01749                % 05697 RGTR--
+190201003 Clemency, Féngegerbi  01750  01750                % 05697 RGTR--
+190201008 Clemency, Schwemm     01751  01751                % 05697 RGTR--
+190201006 Clemency, Ieweschtga  01752  01752                % 05697 RGTR--
+190201004 Clemency, Gemeng      01753  01753                % 05697 RGTR--
+190201002 Clemency, Eecherwee   01754  01754                % 05697 RGTR--
+190201007 Clemency, Schock      01755                       % 05697 RGTR--
+*Z 05698 RGTR--                                             % 05698 RGTR--
+*L 240      190201007 200405004  00645  00737               % 05698 RGTR--
+*A as 190201007 200405004 000006  00645  00737              % 05698 RGTR--
+*A jv 190201007 200405004 000006  00645  00737              % 05698 RGTR--
+*R 2 200405004 190201007 200405004  00645  00737            % 05698 RGTR--
+*G RGB 190201007 200405004  00645  00737                    % 05698 RGTR--
+*A VE 190201007 200405004 000006  00645  00737              % 05698 RGTR--
+*I FD 190201007 200405004        0002290  00645  00737      % 05698 RGTR--
+190201007 Clemency, Schock             00645                % 05698 RGTR--
+190201002 Clemency, Eecherwee   00646  00646                % 05698 RGTR--
+190201004 Clemency, Gemeng      00647  00647                % 05698 RGTR--
+190201006 Clemency, Ieweschtga  00648  00648                % 05698 RGTR--
+190201008 Clemency, Schwemm     00650  00650                % 05698 RGTR--
+190201003 Clemency, Féngegerbi  00650  00650                % 05698 RGTR--
+190202002 Fingig, Dillesbierg   00653  00653                % 05698 RGTR--
+190202003 Fingig, Maerchen      00654  00654                % 05698 RGTR--
+190403001 Hivange, Areler Stro  00656  00656                % 05698 RGTR--
+190403003 Hivange, Kleng Béiwé  00657  00657                % 05698 RGTR--
+500000113 Dahlem, rue de Hivan  00659  00659                % 05698 RGTR--
+190401002 Dahlem, Um Pëtz       00700  00700                % 05698 RGTR--
+190402001 Garnich, Botterkräiz  00702  00702                % 05698 RGTR--
+190402002 Garnich, Brill        00702  00702                % 05698 RGTR--
+190402005 Garnich, Schmëtt      00703  00703                % 05698 RGTR--
+190402004 Garnich, Rixegoard    00704  00704                % 05698 RGTR--
+190902001 Holzem, Bréck         00708  00708                % 05698 RGTR--
+190902002 Holzem, Festsall      00708  00708                % 05698 RGTR--
+190902003 Holzem, Mamerstrooss  00709  00709                % 05698 RGTR--
+190903004 Mamer, Coq Hardi      00711  00711                % 05698 RGTR--
+190903009 Mamer, Holzemerstroo  00712  00712                % 05698 RGTR--
+190903006 Mamer, Eisebunnsbréc  00712  00712                % 05698 RGTR--
+190903014 Mamer, Zentrum        00713  00713                % 05698 RGTR--
+190903002 Mamer, Baerendall     00715  00715                % 05698 RGTR--
+190903013 Mamer, Tossebierg     00717  00717                % 05698 RGTR--
+200101002 Bertrange, Belle Eto  00719 -00719                % 05698 RGTR--
+200901017 Strassen, Kesseler    00721 -00721                % 05698 RGTR--
+200901020 Strassen, Benelux     00724 -00724                % 05698 RGTR--
+200403021 Belair, Wandmillen    00729 -00729                % 05698 RGTR--
+200405045 Centre, Stäreplaz /   00732 -00732                % 05698 RGTR--
+200405004 Centre, Monterey Par  00737                       % 05698 RGTR--
+*Z 05699 RGTR--                                             % 05699 RGTR--
+*L 240      190201007 200405004  00800  00852               % 05699 RGTR--
+*A as 190201007 200405004 000006  00800  00852              % 05699 RGTR--
+*A jv 190201007 200405004 000006  00800  00852              % 05699 RGTR--
+*R 2 200405004 190201007 200405004  00800  00852            % 05699 RGTR--
+*G RGB 190201007 200405004  00800  00852                    % 05699 RGTR--
+*A VE 190201007 200405004 000006  00800  00852              % 05699 RGTR--
+*I FD 190201007 200405004        0001953  00800  00852      % 05699 RGTR--
+190201007 Clemency, Schock             00800                % 05699 RGTR--
+190201002 Clemency, Eecherwee   00801  00801                % 05699 RGTR--
+190201004 Clemency, Gemeng      00802  00802                % 05699 RGTR--
+190201006 Clemency, Ieweschtga  00803  00803                % 05699 RGTR--
+190201008 Clemency, Schwemm     00805  00805                % 05699 RGTR--
+190201003 Clemency, Féngegerbi  00805  00805                % 05699 RGTR--
+190202002 Fingig, Dillesbierg   00808  00808                % 05699 RGTR--
+190202003 Fingig, Maerchen      00809  00809                % 05699 RGTR--
+190403001 Hivange, Areler Stro  00811  00811                % 05699 RGTR--
+190403003 Hivange, Kleng Béiwé  00812  00812                % 05699 RGTR--
+500000113 Dahlem, rue de Hivan  00814  00814                % 05699 RGTR--
+190401002 Dahlem, Um Pëtz       00815  00815                % 05699 RGTR--
+190402001 Garnich, Botterkräiz  00817  00817                % 05699 RGTR--
+190402002 Garnich, Brill        00817  00817                % 05699 RGTR--
+190402005 Garnich, Schmëtt      00818  00818                % 05699 RGTR--
+190402004 Garnich, Rixegoard    00819  00819                % 05699 RGTR--
+190902001 Holzem, Bréck         00823  00823                % 05699 RGTR--
+190902002 Holzem, Festsall      00823  00823                % 05699 RGTR--
+190902003 Holzem, Mamerstrooss  00824  00824                % 05699 RGTR--
+190903004 Mamer, Coq Hardi      00826  00826                % 05699 RGTR--
+190903009 Mamer, Holzemerstroo  00827  00827                % 05699 RGTR--
+190903006 Mamer, Eisebunnsbréc  00827  00827                % 05699 RGTR--
+190903014 Mamer, Zentrum        00828  00828                % 05699 RGTR--
+190903002 Mamer, Baerendall     00830  00830                % 05699 RGTR--
+190903013 Mamer, Tossebierg     00832  00832                % 05699 RGTR--
+200101002 Bertrange, Belle Eto  00834 -00834                % 05699 RGTR--
+200901017 Strassen, Kesseler    00836 -00836                % 05699 RGTR--
+200901020 Strassen, Benelux     00839 -00839                % 05699 RGTR--
+200403021 Belair, Wandmillen    00844 -00844                % 05699 RGTR--
+200405045 Centre, Stäreplaz /   00847 -00847                % 05699 RGTR--
+200405004 Centre, Monterey Par  00852                       % 05699 RGTR--
+*Z 05700 RGTR--                                             % 05700 RGTR--
+*L 240      190201007 200405004  00900  00952               % 05700 RGTR--
+*A as 190201007 200405004 000006  00900  00952              % 05700 RGTR--
+*A jv 190201007 200405004 000006  00900  00952              % 05700 RGTR--
+*R 2 200405004 190201007 200405004  00900  00952            % 05700 RGTR--
+*G RGB 190201007 200405004  00900  00952                    % 05700 RGTR--
+*A VE 190201007 200405004 000006  00900  00952              % 05700 RGTR--
+*I FD 190201007 200405004        0001955  00900  00952      % 05700 RGTR--
+190201007 Clemency, Schock             00900                % 05700 RGTR--
+190201002 Clemency, Eecherwee   00901  00901                % 05700 RGTR--
+190201004 Clemency, Gemeng      00902  00902                % 05700 RGTR--
+190201006 Clemency, Ieweschtga  00903  00903                % 05700 RGTR--
+190201008 Clemency, Schwemm     00905  00905                % 05700 RGTR--
+190201003 Clemency, Féngegerbi  00905  00905                % 05700 RGTR--
+190202002 Fingig, Dillesbierg   00908  00908                % 05700 RGTR--
+190202003 Fingig, Maerchen      00909  00909                % 05700 RGTR--
+190403001 Hivange, Areler Stro  00911  00911                % 05700 RGTR--
+190403003 Hivange, Kleng Béiwé  00912  00912                % 05700 RGTR--
+500000113 Dahlem, rue de Hivan  00914  00914                % 05700 RGTR--
+190401002 Dahlem, Um Pëtz       00915  00915                % 05700 RGTR--
+190402001 Garnich, Botterkräiz  00917  00917                % 05700 RGTR--
+190402002 Garnich, Brill        00917  00917                % 05700 RGTR--
+190402005 Garnich, Schmëtt      00918  00918                % 05700 RGTR--
+190402004 Garnich, Rixegoard    00919  00919                % 05700 RGTR--
+190902001 Holzem, Bréck         00923  00923                % 05700 RGTR--
+190902002 Holzem, Festsall      00923  00923                % 05700 RGTR--
+190902003 Holzem, Mamerstrooss  00924  00924                % 05700 RGTR--
+190903004 Mamer, Coq Hardi      00926  00926                % 05700 RGTR--
+190903009 Mamer, Holzemerstroo  00927  00927                % 05700 RGTR--
+190903006 Mamer, Eisebunnsbréc  00927  00927                % 05700 RGTR--
+190903014 Mamer, Zentrum        00928  00928                % 05700 RGTR--
+190903002 Mamer, Baerendall     00930  00930                % 05700 RGTR--
+190903013 Mamer, Tossebierg     00932  00932                % 05700 RGTR--
+200101002 Bertrange, Belle Eto  00934 -00934                % 05700 RGTR--
+200901017 Strassen, Kesseler    00936 -00936                % 05700 RGTR--
+200901020 Strassen, Benelux     00939 -00939                % 05700 RGTR--
+200403021 Belair, Wandmillen    00944 -00944                % 05700 RGTR--
+200405045 Centre, Stäreplaz /   00947 -00947                % 05700 RGTR--
+200405004 Centre, Monterey Par  00952                       % 05700 RGTR--
+*Z 05701 RGTR--                                             % 05701 RGTR--
+*L 240      190201007 200405004  01600  01652               % 05701 RGTR--
+*A as 190201007 200405004 000006  01600  01652              % 05701 RGTR--
+*A jv 190201007 200405004 000006  01600  01652              % 05701 RGTR--
+*R 2 200405004 190201007 200405004  01600  01652            % 05701 RGTR--
+*G RGB 190201007 200405004  01600  01652                    % 05701 RGTR--
+*A VE 190201007 200405004 000006  01600  01652              % 05701 RGTR--
+*I FD 190201007 200405004        0001975  01600  01652      % 05701 RGTR--
+190201007 Clemency, Schock             01600                % 05701 RGTR--
+190201002 Clemency, Eecherwee   01601  01601                % 05701 RGTR--
+190201004 Clemency, Gemeng      01602  01602                % 05701 RGTR--
+190201006 Clemency, Ieweschtga  01603  01603                % 05701 RGTR--
+190201008 Clemency, Schwemm     01605  01605                % 05701 RGTR--
+190201003 Clemency, Féngegerbi  01605  01605                % 05701 RGTR--
+190202002 Fingig, Dillesbierg   01608  01608                % 05701 RGTR--
+190202003 Fingig, Maerchen      01609  01609                % 05701 RGTR--
+190403001 Hivange, Areler Stro  01611  01611                % 05701 RGTR--
+190403003 Hivange, Kleng Béiwé  01612  01612                % 05701 RGTR--
+500000113 Dahlem, rue de Hivan  01614  01614                % 05701 RGTR--
+190401002 Dahlem, Um Pëtz       01615  01615                % 05701 RGTR--
+190402001 Garnich, Botterkräiz  01617  01617                % 05701 RGTR--
+190402002 Garnich, Brill        01617  01617                % 05701 RGTR--
+190402005 Garnich, Schmëtt      01618  01618                % 05701 RGTR--
+190402004 Garnich, Rixegoard    01619  01619                % 05701 RGTR--
+190902001 Holzem, Bréck         01623  01623                % 05701 RGTR--
+190902002 Holzem, Festsall      01623  01623                % 05701 RGTR--
+190902003 Holzem, Mamerstrooss  01624  01624                % 05701 RGTR--
+190903004 Mamer, Coq Hardi      01626  01626                % 05701 RGTR--
+190903009 Mamer, Holzemerstroo  01627  01627                % 05701 RGTR--
+190903006 Mamer, Eisebunnsbréc  01627  01627                % 05701 RGTR--
+190903014 Mamer, Zentrum        01628  01628                % 05701 RGTR--
+190903002 Mamer, Baerendall     01630  01630                % 05701 RGTR--
+190903013 Mamer, Tossebierg     01632  01632                % 05701 RGTR--
+200101002 Bertrange, Belle Eto  01634 -01634                % 05701 RGTR--
+200901017 Strassen, Kesseler    01636 -01636                % 05701 RGTR--
+200901020 Strassen, Benelux     01639 -01639                % 05701 RGTR--
+200403021 Belair, Wandmillen    01644 -01644                % 05701 RGTR--
+200405045 Centre, Stäreplaz /   01647 -01647                % 05701 RGTR--
+200405004 Centre, Monterey Par  01652                       % 05701 RGTR--
+*Z 05702 RGTR--                                             % 05702 RGTR--
+*L 240      190201007 200405004  01715  01807               % 05702 RGTR--
+*A as 190201007 200405004 000006  01715  01807              % 05702 RGTR--
+*A jv 190201007 200405004 000006  01715  01807              % 05702 RGTR--
+*R 2 200405004 190201007 200405004  01715  01807            % 05702 RGTR--
+*G RGB 190201007 200405004  01715  01807                    % 05702 RGTR--
+*A VE 190201007 200405004 000006  01715  01807              % 05702 RGTR--
+*I FD 190201007 200405004        0002594  01715  01807      % 05702 RGTR--
+190201007 Clemency, Schock             01715                % 05702 RGTR--
+190201002 Clemency, Eecherwee   01716  01716                % 05702 RGTR--
+190201004 Clemency, Gemeng      01717  01717                % 05702 RGTR--
+190201006 Clemency, Ieweschtga  01718  01718                % 05702 RGTR--
+190201008 Clemency, Schwemm     01720  01720                % 05702 RGTR--
+190201003 Clemency, Féngegerbi  01720  01720                % 05702 RGTR--
+190202002 Fingig, Dillesbierg   01723  01723                % 05702 RGTR--
+190202003 Fingig, Maerchen      01724  01724                % 05702 RGTR--
+190403001 Hivange, Areler Stro  01726  01726                % 05702 RGTR--
+190403003 Hivange, Kleng Béiwé  01727  01727                % 05702 RGTR--
+500000113 Dahlem, rue de Hivan  01729  01729                % 05702 RGTR--
+190401002 Dahlem, Um Pëtz       01730  01730                % 05702 RGTR--
+190402001 Garnich, Botterkräiz  01732  01732                % 05702 RGTR--
+190402002 Garnich, Brill        01732  01732                % 05702 RGTR--
+190402005 Garnich, Schmëtt      01733  01733                % 05702 RGTR--
+190402004 Garnich, Rixegoard    01734  01734                % 05702 RGTR--
+190902001 Holzem, Bréck         01738  01738                % 05702 RGTR--
+190902002 Holzem, Festsall      01738  01738                % 05702 RGTR--
+190902003 Holzem, Mamerstrooss  01739  01739                % 05702 RGTR--
+190903004 Mamer, Coq Hardi      01741  01741                % 05702 RGTR--
+190903009 Mamer, Holzemerstroo  01742  01742                % 05702 RGTR--
+190903006 Mamer, Eisebunnsbréc  01742  01742                % 05702 RGTR--
+190903014 Mamer, Zentrum        01743  01743                % 05702 RGTR--
+190903002 Mamer, Baerendall     01745  01745                % 05702 RGTR--
+190903013 Mamer, Tossebierg     01747  01747                % 05702 RGTR--
+200101002 Bertrange, Belle Eto  01749 -01749                % 05702 RGTR--
+200901017 Strassen, Kesseler    01751 -01751                % 05702 RGTR--
+200901020 Strassen, Benelux     01754 -01754                % 05702 RGTR--
+200403021 Belair, Wandmillen    01759 -01759                % 05702 RGTR--
+200405045 Centre, Stäreplaz /   01802 -01802                % 05702 RGTR--
+200405004 Centre, Monterey Par  01807                       % 05702 RGTR--
+*Z 05703 RGTR--                                             % 05703 RGTR--
+*L 240      190201007 200405004  01815  01907               % 05703 RGTR--
+*A as 190201007 200405004 000006  01815  01907              % 05703 RGTR--
+*A jv 190201007 200405004 000006  01815  01907              % 05703 RGTR--
+*R 2 200405004 190201007 200405004  01815  01907            % 05703 RGTR--
+*G RGB 190201007 200405004  01815  01907                    % 05703 RGTR--
+*A VE 190201007 200405004 000006  01815  01907              % 05703 RGTR--
+*I FD 190201007 200405004        0002289  01815  01907      % 05703 RGTR--
+190201007 Clemency, Schock             01815                % 05703 RGTR--
+190201002 Clemency, Eecherwee   01816  01816                % 05703 RGTR--
+190201004 Clemency, Gemeng      01817  01817                % 05703 RGTR--
+190201006 Clemency, Ieweschtga  01818  01818                % 05703 RGTR--
+190201008 Clemency, Schwemm     01820  01820                % 05703 RGTR--
+190201003 Clemency, Féngegerbi  01820  01820                % 05703 RGTR--
+190202002 Fingig, Dillesbierg   01823  01823                % 05703 RGTR--
+190202003 Fingig, Maerchen      01824  01824                % 05703 RGTR--
+190403001 Hivange, Areler Stro  01826  01826                % 05703 RGTR--
+190403003 Hivange, Kleng Béiwé  01827  01827                % 05703 RGTR--
+500000113 Dahlem, rue de Hivan  01829  01829                % 05703 RGTR--
+190401002 Dahlem, Um Pëtz       01830  01830                % 05703 RGTR--
+190402001 Garnich, Botterkräiz  01832  01832                % 05703 RGTR--
+190402002 Garnich, Brill        01832  01832                % 05703 RGTR--
+190402005 Garnich, Schmëtt      01833  01833                % 05703 RGTR--
+190402004 Garnich, Rixegoard    01834  01834                % 05703 RGTR--
+190902001 Holzem, Bréck         01838  01838                % 05703 RGTR--
+190902002 Holzem, Festsall      01838  01838                % 05703 RGTR--
+190902003 Holzem, Mamerstrooss  01839  01839                % 05703 RGTR--
+190903004 Mamer, Coq Hardi      01841  01841                % 05703 RGTR--
+190903009 Mamer, Holzemerstroo  01842  01842                % 05703 RGTR--
+190903006 Mamer, Eisebunnsbréc  01842  01842                % 05703 RGTR--
+190903014 Mamer, Zentrum        01843  01843                % 05703 RGTR--
+190903002 Mamer, Baerendall     01845  01845                % 05703 RGTR--
+190903013 Mamer, Tossebierg     01847  01847                % 05703 RGTR--
+200101002 Bertrange, Belle Eto  01849 -01849                % 05703 RGTR--
+200901017 Strassen, Kesseler    01851 -01851                % 05703 RGTR--
+200901020 Strassen, Benelux     01854 -01854                % 05703 RGTR--
+200403021 Belair, Wandmillen    01859 -01859                % 05703 RGTR--
+200405045 Centre, Stäreplaz /   01902 -01902                % 05703 RGTR--
+200405004 Centre, Monterey Par  01907                       % 05703 RGTR--
+*Z 05704 RGTR--                                             % 05704 RGTR--
+*L 240      190201007 200405004  00630  00722               % 05704 RGTR--
+*A as 190201007 200405004 000016  00630  00722              % 05704 RGTR--
+*A jv 190201007 200405004 000016  00630  00722              % 05704 RGTR--
+*R 2 200405004 190201007 200405004  00630  00722            % 05704 RGTR--
+*G RGB 190201007 200405004  00630  00722                    % 05704 RGTR--
+*A VE 190201007 200405004 000016  00630  00722              % 05704 RGTR--
+*I FD 190201007 200405004        0000990  00630  00722      % 05704 RGTR--
+190201007 Clemency, Schock             00630                % 05704 RGTR--
+190201002 Clemency, Eecherwee   00631  00631                % 05704 RGTR--
+190201004 Clemency, Gemeng      00632  00632                % 05704 RGTR--
+190201006 Clemency, Ieweschtga  00633  00633                % 05704 RGTR--
+190201008 Clemency, Schwemm     00635  00635                % 05704 RGTR--
+190201003 Clemency, Féngegerbi  00635  00635                % 05704 RGTR--
+190202002 Fingig, Dillesbierg   00638  00638                % 05704 RGTR--
+190202003 Fingig, Maerchen      00639  00639                % 05704 RGTR--
+190403001 Hivange, Areler Stro  00641  00641                % 05704 RGTR--
+190403003 Hivange, Kleng Béiwé  00642  00642                % 05704 RGTR--
+500000113 Dahlem, rue de Hivan  00644  00644                % 05704 RGTR--
+190401002 Dahlem, Um Pëtz       00645  00645                % 05704 RGTR--
+190402001 Garnich, Botterkräiz  00647  00647                % 05704 RGTR--
+190402002 Garnich, Brill        00647  00647                % 05704 RGTR--
+190402005 Garnich, Schmëtt      00648  00648                % 05704 RGTR--
+190402004 Garnich, Rixegoard    00649  00649                % 05704 RGTR--
+190902001 Holzem, Bréck         00653  00653                % 05704 RGTR--
+190902002 Holzem, Festsall      00653  00653                % 05704 RGTR--
+190902003 Holzem, Mamerstrooss  00654  00654                % 05704 RGTR--
+190903004 Mamer, Coq Hardi      00656  00656                % 05704 RGTR--
+190903009 Mamer, Holzemerstroo  00657  00657                % 05704 RGTR--
+190903006 Mamer, Eisebunnsbréc  00657  00657                % 05704 RGTR--
+190903014 Mamer, Zentrum        00658  00658                % 05704 RGTR--
+190903002 Mamer, Baerendall     00700  00700                % 05704 RGTR--
+190903013 Mamer, Tossebierg     00702  00702                % 05704 RGTR--
+200101002 Bertrange, Belle Eto  00704 -00704                % 05704 RGTR--
+200901017 Strassen, Kesseler    00706 -00706                % 05704 RGTR--
+200901020 Strassen, Benelux     00709 -00709                % 05704 RGTR--
+200403021 Belair, Wandmillen    00714 -00714                % 05704 RGTR--
+200405045 Centre, Stäreplaz /   00717 -00717                % 05704 RGTR--
+200405004 Centre, Monterey Par  00722                       % 05704 RGTR--
+*Z 05705 RGTR--                                             % 05705 RGTR--
+*L 240      190201007 200405004  00715  00807               % 05705 RGTR--
+*A as 190201007 200405004 000016  00715  00807              % 05705 RGTR--
+*A jv 190201007 200405004 000016  00715  00807              % 05705 RGTR--
+*R 2 200405004 190201007 200405004  00715  00807            % 05705 RGTR--
+*G RGB 190201007 200405004  00715  00807                    % 05705 RGTR--
+*A VE 190201007 200405004 000016  00715  00807              % 05705 RGTR--
+*I FD 190201007 200405004        0002067  00715  00807      % 05705 RGTR--
+190201007 Clemency, Schock             00715                % 05705 RGTR--
+190201002 Clemency, Eecherwee   00716  00716                % 05705 RGTR--
+190201004 Clemency, Gemeng      00717  00717                % 05705 RGTR--
+190201006 Clemency, Ieweschtga  00718  00718                % 05705 RGTR--
+190201008 Clemency, Schwemm     00720  00720                % 05705 RGTR--
+190201003 Clemency, Féngegerbi  00720  00720                % 05705 RGTR--
+190202002 Fingig, Dillesbierg   00723  00723                % 05705 RGTR--
+190202003 Fingig, Maerchen      00724  00724                % 05705 RGTR--
+190403001 Hivange, Areler Stro  00726  00726                % 05705 RGTR--
+190403003 Hivange, Kleng Béiwé  00727  00727                % 05705 RGTR--
+500000113 Dahlem, rue de Hivan  00729  00729                % 05705 RGTR--
+190401002 Dahlem, Um Pëtz       00730  00730                % 05705 RGTR--
+190402001 Garnich, Botterkräiz  00732  00732                % 05705 RGTR--
+190402002 Garnich, Brill        00732  00732                % 05705 RGTR--
+190402005 Garnich, Schmëtt      00733  00733                % 05705 RGTR--
+190402004 Garnich, Rixegoard    00734  00734                % 05705 RGTR--
+190902001 Holzem, Bréck         00738  00738                % 05705 RGTR--
+190902002 Holzem, Festsall      00738  00738                % 05705 RGTR--
+190902003 Holzem, Mamerstrooss  00739  00739                % 05705 RGTR--
+190903004 Mamer, Coq Hardi      00741  00741                % 05705 RGTR--
+190903009 Mamer, Holzemerstroo  00742  00742                % 05705 RGTR--
+190903006 Mamer, Eisebunnsbréc  00742  00742                % 05705 RGTR--
+190903014 Mamer, Zentrum        00743  00743                % 05705 RGTR--
+190903002 Mamer, Baerendall     00745  00745                % 05705 RGTR--
+190903013 Mamer, Tossebierg     00747  00747                % 05705 RGTR--
+200101002 Bertrange, Belle Eto  00749 -00749                % 05705 RGTR--
+200901017 Strassen, Kesseler    00751 -00751                % 05705 RGTR--
+200901020 Strassen, Benelux     00754 -00754                % 05705 RGTR--
+200403021 Belair, Wandmillen    00759 -00759                % 05705 RGTR--
+200405045 Centre, Stäreplaz /   00802 -00802                % 05705 RGTR--
+200405004 Centre, Monterey Par  00807                       % 05705 RGTR--
+*Z 05706 RGTR--                                             % 05706 RGTR--
+*L 240      190201007 200405004  01000  01044               % 05706 RGTR--
+*A as 190201007 200405004 000001  01000  01044              % 05706 RGTR--
+*A jv 190201007 200405004 000001  01000  01044              % 05706 RGTR--
+*R 2 200405004 190201007 200405004  01000  01044            % 05706 RGTR--
+*G RGB 190201007 200405004  01000  01044                    % 05706 RGTR--
+*A VE 190201007 200405004 000001  01000  01044              % 05706 RGTR--
+*I FD 190201007 200405004        0001958  01000  01044      % 05706 RGTR--
+190201007 Clemency, Schock             01000                % 05706 RGTR--
+190201002 Clemency, Eecherwee   01001  01001                % 05706 RGTR--
+190201004 Clemency, Gemeng      01001  01001                % 05706 RGTR--
+190201006 Clemency, Ieweschtga  01003  01003                % 05706 RGTR--
+190201008 Clemency, Schwemm     01004  01004                % 05706 RGTR--
+190201003 Clemency, Féngegerbi  01005  01005                % 05706 RGTR--
+190202002 Fingig, Dillesbierg   01006  01006                % 05706 RGTR--
+190202003 Fingig, Maerchen      01007  01007                % 05706 RGTR--
+190403001 Hivange, Areler Stro  01009  01009                % 05706 RGTR--
+190403003 Hivange, Kleng Béiwé  01009  01009                % 05706 RGTR--
+500000113 Dahlem, rue de Hivan  01011  01011                % 05706 RGTR--
+190401002 Dahlem, Um Pëtz       01012  01012                % 05706 RGTR--
+190402001 Garnich, Botterkräiz  01014  01014                % 05706 RGTR--
+190402002 Garnich, Brill        01014  01014                % 05706 RGTR--
+190402005 Garnich, Schmëtt      01015  01015                % 05706 RGTR--
+190402004 Garnich, Rixegoard    01016  01016                % 05706 RGTR--
+190902001 Holzem, Bréck         01019  01019                % 05706 RGTR--
+190902002 Holzem, Festsall      01020  01020                % 05706 RGTR--
+190902003 Holzem, Mamerstrooss  01021  01021                % 05706 RGTR--
+190903004 Mamer, Coq Hardi      01022  01022                % 05706 RGTR--
+190903009 Mamer, Holzemerstroo  01023  01023                % 05706 RGTR--
+190903006 Mamer, Eisebunnsbréc  01024  01024                % 05706 RGTR--
+190903014 Mamer, Zentrum        01024  01024                % 05706 RGTR--
+190903002 Mamer, Baerendall     01026  01026                % 05706 RGTR--
+190903013 Mamer, Tossebierg     01028  01028                % 05706 RGTR--
+200101002 Bertrange, Belle Eto  01029 -01029                % 05706 RGTR--
+200901017 Strassen, Kesseler    01032 -01032                % 05706 RGTR--
+200901020 Strassen, Benelux     01033 -01033                % 05706 RGTR--
+200403021 Belair, Wandmillen    01037 -01037                % 05706 RGTR--
+200405045 Centre, Stäreplaz /   01040 -01040                % 05706 RGTR--
+200405004 Centre, Monterey Par  01044                       % 05706 RGTR--
+*Z 05707 RGTR--                                             % 05707 RGTR--
+*L 240      190201007 200405004  01200  01244               % 05707 RGTR--
+*A as 190201007 200405004 000001  01200  01244              % 05707 RGTR--
+*A jv 190201007 200405004 000001  01200  01244              % 05707 RGTR--
+*R 2 200405004 190201007 200405004  01200  01244            % 05707 RGTR--
+*G RGB 190201007 200405004  01200  01244                    % 05707 RGTR--
+*A VE 190201007 200405004 000001  01200  01244              % 05707 RGTR--
+*I FD 190201007 200405004        0001964  01200  01244      % 05707 RGTR--
+190201007 Clemency, Schock             01200                % 05707 RGTR--
+190201002 Clemency, Eecherwee   01201  01201                % 05707 RGTR--
+190201004 Clemency, Gemeng      01201  01201                % 05707 RGTR--
+190201006 Clemency, Ieweschtga  01203  01203                % 05707 RGTR--
+190201008 Clemency, Schwemm     01204  01204                % 05707 RGTR--
+190201003 Clemency, Féngegerbi  01205  01205                % 05707 RGTR--
+190202002 Fingig, Dillesbierg   01206  01206                % 05707 RGTR--
+190202003 Fingig, Maerchen      01207  01207                % 05707 RGTR--
+190403001 Hivange, Areler Stro  01209  01209                % 05707 RGTR--
+190403003 Hivange, Kleng Béiwé  01209  01209                % 05707 RGTR--
+500000113 Dahlem, rue de Hivan  01211  01211                % 05707 RGTR--
+190401002 Dahlem, Um Pëtz       01212  01212                % 05707 RGTR--
+190402001 Garnich, Botterkräiz  01214  01214                % 05707 RGTR--
+190402002 Garnich, Brill        01214  01214                % 05707 RGTR--
+190402005 Garnich, Schmëtt      01215  01215                % 05707 RGTR--
+190402004 Garnich, Rixegoard    01216  01216                % 05707 RGTR--
+190902001 Holzem, Bréck         01219  01219                % 05707 RGTR--
+190902002 Holzem, Festsall      01220  01220                % 05707 RGTR--
+190902003 Holzem, Mamerstrooss  01221  01221                % 05707 RGTR--
+190903004 Mamer, Coq Hardi      01222  01222                % 05707 RGTR--
+190903009 Mamer, Holzemerstroo  01223  01223                % 05707 RGTR--
+190903006 Mamer, Eisebunnsbréc  01224  01224                % 05707 RGTR--
+190903014 Mamer, Zentrum        01224  01224                % 05707 RGTR--
+190903002 Mamer, Baerendall     01226  01226                % 05707 RGTR--
+190903013 Mamer, Tossebierg     01228  01228                % 05707 RGTR--
+200101002 Bertrange, Belle Eto  01229 -01229                % 05707 RGTR--
+200901017 Strassen, Kesseler    01232 -01232                % 05707 RGTR--
+200901020 Strassen, Benelux     01233 -01233                % 05707 RGTR--
+200403021 Belair, Wandmillen    01237 -01237                % 05707 RGTR--
+200405045 Centre, Stäreplaz /   01240 -01240                % 05707 RGTR--
+200405004 Centre, Monterey Par  01244                       % 05707 RGTR--
+*Z 05708 RGTR--                                             % 05708 RGTR--
+*L 240      190201007 200405004  01400  01444               % 05708 RGTR--
+*A as 190201007 200405004 000001  01400  01444              % 05708 RGTR--
+*A jv 190201007 200405004 000001  01400  01444              % 05708 RGTR--
+*R 2 200405004 190201007 200405004  01400  01444            % 05708 RGTR--
+*G RGB 190201007 200405004  01400  01444                    % 05708 RGTR--
+*A VE 190201007 200405004 000001  01400  01444              % 05708 RGTR--
+*I FD 190201007 200405004        0001969  01400  01444      % 05708 RGTR--
+190201007 Clemency, Schock             01400                % 05708 RGTR--
+190201002 Clemency, Eecherwee   01401  01401                % 05708 RGTR--
+190201004 Clemency, Gemeng      01401  01401                % 05708 RGTR--
+190201006 Clemency, Ieweschtga  01403  01403                % 05708 RGTR--
+190201008 Clemency, Schwemm     01404  01404                % 05708 RGTR--
+190201003 Clemency, Féngegerbi  01405  01405                % 05708 RGTR--
+190202002 Fingig, Dillesbierg   01406  01406                % 05708 RGTR--
+190202003 Fingig, Maerchen      01407  01407                % 05708 RGTR--
+190403001 Hivange, Areler Stro  01409  01409                % 05708 RGTR--
+190403003 Hivange, Kleng Béiwé  01409  01409                % 05708 RGTR--
+500000113 Dahlem, rue de Hivan  01411  01411                % 05708 RGTR--
+190401002 Dahlem, Um Pëtz       01412  01412                % 05708 RGTR--
+190402001 Garnich, Botterkräiz  01414  01414                % 05708 RGTR--
+190402002 Garnich, Brill        01414  01414                % 05708 RGTR--
+190402005 Garnich, Schmëtt      01415  01415                % 05708 RGTR--
+190402004 Garnich, Rixegoard    01416  01416                % 05708 RGTR--
+190902001 Holzem, Bréck         01419  01419                % 05708 RGTR--
+190902002 Holzem, Festsall      01420  01420                % 05708 RGTR--
+190902003 Holzem, Mamerstrooss  01421  01421                % 05708 RGTR--
+190903004 Mamer, Coq Hardi      01422  01422                % 05708 RGTR--
+190903009 Mamer, Holzemerstroo  01423  01423                % 05708 RGTR--
+190903006 Mamer, Eisebunnsbréc  01424  01424                % 05708 RGTR--
+190903014 Mamer, Zentrum        01424  01424                % 05708 RGTR--
+190903002 Mamer, Baerendall     01426  01426                % 05708 RGTR--
+190903013 Mamer, Tossebierg     01428  01428                % 05708 RGTR--
+200101002 Bertrange, Belle Eto  01429 -01429                % 05708 RGTR--
+200901017 Strassen, Kesseler    01432 -01432                % 05708 RGTR--
+200901020 Strassen, Benelux     01433 -01433                % 05708 RGTR--
+200403021 Belair, Wandmillen    01437 -01437                % 05708 RGTR--
+200405045 Centre, Stäreplaz /   01440 -01440                % 05708 RGTR--
+200405004 Centre, Monterey Par  01444                       % 05708 RGTR--
+*Z 05709 RGTR--                                             % 05709 RGTR--
+*L 240      190201007 200405004  00600  00644               % 05709 RGTR--
+*A as 190201007 200405004 000006  00600  00644              % 05709 RGTR--
+*A jv 190201007 200405004 000006  00600  00644              % 05709 RGTR--
+*R 2 200405004 190201007 200405004  00600  00644            % 05709 RGTR--
+*G RGB 190201007 200405004  00600  00644                    % 05709 RGTR--
+*A VE 190201007 200405004 000006  00600  00644              % 05709 RGTR--
+*I FD 190201007 200405004        0002155  00600  00644      % 05709 RGTR--
+190201007 Clemency, Schock             00600                % 05709 RGTR--
+190201002 Clemency, Eecherwee   00601  00601                % 05709 RGTR--
+190201004 Clemency, Gemeng      00601  00601                % 05709 RGTR--
+190201006 Clemency, Ieweschtga  00603  00603                % 05709 RGTR--
+190201008 Clemency, Schwemm     00604  00604                % 05709 RGTR--
+190201003 Clemency, Féngegerbi  00605  00605                % 05709 RGTR--
+190202002 Fingig, Dillesbierg   00606  00606                % 05709 RGTR--
+190202003 Fingig, Maerchen      00607  00607                % 05709 RGTR--
+190403001 Hivange, Areler Stro  00609  00609                % 05709 RGTR--
+190403003 Hivange, Kleng Béiwé  00609  00609                % 05709 RGTR--
+500000113 Dahlem, rue de Hivan  00611  00611                % 05709 RGTR--
+190401002 Dahlem, Um Pëtz       00612  00612                % 05709 RGTR--
+190402001 Garnich, Botterkräiz  00614  00614                % 05709 RGTR--
+190402002 Garnich, Brill        00614  00614                % 05709 RGTR--
+190402005 Garnich, Schmëtt      00615  00615                % 05709 RGTR--
+190402004 Garnich, Rixegoard    00616  00616                % 05709 RGTR--
+190902001 Holzem, Bréck         00619  00619                % 05709 RGTR--
+190902002 Holzem, Festsall      00620  00620                % 05709 RGTR--
+190902003 Holzem, Mamerstrooss  00621  00621                % 05709 RGTR--
+190903004 Mamer, Coq Hardi      00622  00622                % 05709 RGTR--
+190903009 Mamer, Holzemerstroo  00623  00623                % 05709 RGTR--
+190903006 Mamer, Eisebunnsbréc  00624  00624                % 05709 RGTR--
+190903014 Mamer, Zentrum        00624  00624                % 05709 RGTR--
+190903002 Mamer, Baerendall     00626  00626                % 05709 RGTR--
+190903013 Mamer, Tossebierg     00628  00628                % 05709 RGTR--
+200101002 Bertrange, Belle Eto  00629 -00629                % 05709 RGTR--
+200901017 Strassen, Kesseler    00632 -00632                % 05709 RGTR--
+200901020 Strassen, Benelux     00633 -00633                % 05709 RGTR--
+200403021 Belair, Wandmillen    00637 -00637                % 05709 RGTR--
+200405045 Centre, Stäreplaz /   00640 -00640                % 05709 RGTR--
+200405004 Centre, Monterey Par  00644                       % 05709 RGTR--
+*Z 05710 RGTR--                                             % 05710 RGTR--
+*L 240      190201007 200405004  01100  01144               % 05710 RGTR--
+*A as 190201007 200405004 000006  01100  01144              % 05710 RGTR--
+*A jv 190201007 200405004 000006  01100  01144              % 05710 RGTR--
+*R 2 200405004 190201007 200405004  01100  01144            % 05710 RGTR--
+*G RGB 190201007 200405004  01100  01144                    % 05710 RGTR--
+*A VE 190201007 200405004 000006  01100  01144              % 05710 RGTR--
+*I FD 190201007 200405004        0001961  01100  01144      % 05710 RGTR--
+190201007 Clemency, Schock             01100                % 05710 RGTR--
+190201002 Clemency, Eecherwee   01101  01101                % 05710 RGTR--
+190201004 Clemency, Gemeng      01101  01101                % 05710 RGTR--
+190201006 Clemency, Ieweschtga  01103  01103                % 05710 RGTR--
+190201008 Clemency, Schwemm     01104  01104                % 05710 RGTR--
+190201003 Clemency, Féngegerbi  01105  01105                % 05710 RGTR--
+190202002 Fingig, Dillesbierg   01106  01106                % 05710 RGTR--
+190202003 Fingig, Maerchen      01107  01107                % 05710 RGTR--
+190403001 Hivange, Areler Stro  01109  01109                % 05710 RGTR--
+190403003 Hivange, Kleng Béiwé  01109  01109                % 05710 RGTR--
+500000113 Dahlem, rue de Hivan  01111  01111                % 05710 RGTR--
+190401002 Dahlem, Um Pëtz       01112  01112                % 05710 RGTR--
+190402001 Garnich, Botterkräiz  01114  01114                % 05710 RGTR--
+190402002 Garnich, Brill        01114  01114                % 05710 RGTR--
+190402005 Garnich, Schmëtt      01115  01115                % 05710 RGTR--
+190402004 Garnich, Rixegoard    01116  01116                % 05710 RGTR--
+190902001 Holzem, Bréck         01119  01119                % 05710 RGTR--
+190902002 Holzem, Festsall      01120  01120                % 05710 RGTR--
+190902003 Holzem, Mamerstrooss  01121  01121                % 05710 RGTR--
+190903004 Mamer, Coq Hardi      01122  01122                % 05710 RGTR--
+190903009 Mamer, Holzemerstroo  01123  01123                % 05710 RGTR--
+190903006 Mamer, Eisebunnsbréc  01124  01124                % 05710 RGTR--
+190903014 Mamer, Zentrum        01124  01124                % 05710 RGTR--
+190903002 Mamer, Baerendall     01126  01126                % 05710 RGTR--
+190903013 Mamer, Tossebierg     01128  01128                % 05710 RGTR--
+200101002 Bertrange, Belle Eto  01129 -01129                % 05710 RGTR--
+200901017 Strassen, Kesseler    01132 -01132                % 05710 RGTR--
+200901020 Strassen, Benelux     01133 -01133                % 05710 RGTR--
+200403021 Belair, Wandmillen    01137 -01137                % 05710 RGTR--
+200405045 Centre, Stäreplaz /   01140 -01140                % 05710 RGTR--
+200405004 Centre, Monterey Par  01144                       % 05710 RGTR--
+*Z 05711 RGTR--                                             % 05711 RGTR--
+*L 240      190201007 200405004  01300  01344               % 05711 RGTR--
+*A as 190201007 200405004 000006  01300  01344              % 05711 RGTR--
+*A jv 190201007 200405004 000006  01300  01344              % 05711 RGTR--
+*R 2 200405004 190201007 200405004  01300  01344            % 05711 RGTR--
+*G RGB 190201007 200405004  01300  01344                    % 05711 RGTR--
+*A VE 190201007 200405004 000006  01300  01344              % 05711 RGTR--
+*I FD 190201007 200405004        0001966  01300  01344      % 05711 RGTR--
+190201007 Clemency, Schock             01300                % 05711 RGTR--
+190201002 Clemency, Eecherwee   01301  01301                % 05711 RGTR--
+190201004 Clemency, Gemeng      01301  01301                % 05711 RGTR--
+190201006 Clemency, Ieweschtga  01303  01303                % 05711 RGTR--
+190201008 Clemency, Schwemm     01304  01304                % 05711 RGTR--
+190201003 Clemency, Féngegerbi  01305  01305                % 05711 RGTR--
+190202002 Fingig, Dillesbierg   01306  01306                % 05711 RGTR--
+190202003 Fingig, Maerchen      01307  01307                % 05711 RGTR--
+190403001 Hivange, Areler Stro  01309  01309                % 05711 RGTR--
+190403003 Hivange, Kleng Béiwé  01309  01309                % 05711 RGTR--
+500000113 Dahlem, rue de Hivan  01311  01311                % 05711 RGTR--
+190401002 Dahlem, Um Pëtz       01312  01312                % 05711 RGTR--
+190402001 Garnich, Botterkräiz  01314  01314                % 05711 RGTR--
+190402002 Garnich, Brill        01314  01314                % 05711 RGTR--
+190402005 Garnich, Schmëtt      01315  01315                % 05711 RGTR--
+190402004 Garnich, Rixegoard    01316  01316                % 05711 RGTR--
+190902001 Holzem, Bréck         01319  01319                % 05711 RGTR--
+190902002 Holzem, Festsall      01320  01320                % 05711 RGTR--
+190902003 Holzem, Mamerstrooss  01321  01321                % 05711 RGTR--
+190903004 Mamer, Coq Hardi      01322  01322                % 05711 RGTR--
+190903009 Mamer, Holzemerstroo  01323  01323                % 05711 RGTR--
+190903006 Mamer, Eisebunnsbréc  01324  01324                % 05711 RGTR--
+190903014 Mamer, Zentrum        01324  01324                % 05711 RGTR--
+190903002 Mamer, Baerendall     01326  01326                % 05711 RGTR--
+190903013 Mamer, Tossebierg     01328  01328                % 05711 RGTR--
+200101002 Bertrange, Belle Eto  01329 -01329                % 05711 RGTR--
+200901017 Strassen, Kesseler    01332 -01332                % 05711 RGTR--
+200901020 Strassen, Benelux     01333 -01333                % 05711 RGTR--
+200403021 Belair, Wandmillen    01337 -01337                % 05711 RGTR--
+200405045 Centre, Stäreplaz /   01340 -01340                % 05711 RGTR--
+200405004 Centre, Monterey Par  01344                       % 05711 RGTR--
+*Z 05712 RGTR--                                             % 05712 RGTR--
+*L 240      190201007 200405004  01500  01544               % 05712 RGTR--
+*A as 190201007 200405004 000006  01500  01544              % 05712 RGTR--
+*A jv 190201007 200405004 000006  01500  01544              % 05712 RGTR--
+*R 2 200405004 190201007 200405004  01500  01544            % 05712 RGTR--
+*G RGB 190201007 200405004  01500  01544                    % 05712 RGTR--
+*A VE 190201007 200405004 000006  01500  01544              % 05712 RGTR--
+*I FD 190201007 200405004        0001972  01500  01544      % 05712 RGTR--
+190201007 Clemency, Schock             01500                % 05712 RGTR--
+190201002 Clemency, Eecherwee   01501  01501                % 05712 RGTR--
+190201004 Clemency, Gemeng      01501  01501                % 05712 RGTR--
+190201006 Clemency, Ieweschtga  01503  01503                % 05712 RGTR--
+190201008 Clemency, Schwemm     01504  01504                % 05712 RGTR--
+190201003 Clemency, Féngegerbi  01505  01505                % 05712 RGTR--
+190202002 Fingig, Dillesbierg   01506  01506                % 05712 RGTR--
+190202003 Fingig, Maerchen      01507  01507                % 05712 RGTR--
+190403001 Hivange, Areler Stro  01509  01509                % 05712 RGTR--
+190403003 Hivange, Kleng Béiwé  01509  01509                % 05712 RGTR--
+500000113 Dahlem, rue de Hivan  01511  01511                % 05712 RGTR--
+190401002 Dahlem, Um Pëtz       01512  01512                % 05712 RGTR--
+190402001 Garnich, Botterkräiz  01514  01514                % 05712 RGTR--
+190402002 Garnich, Brill        01514  01514                % 05712 RGTR--
+190402005 Garnich, Schmëtt      01515  01515                % 05712 RGTR--
+190402004 Garnich, Rixegoard    01516  01516                % 05712 RGTR--
+190902001 Holzem, Bréck         01519  01519                % 05712 RGTR--
+190902002 Holzem, Festsall      01520  01520                % 05712 RGTR--
+190902003 Holzem, Mamerstrooss  01521  01521                % 05712 RGTR--
+190903004 Mamer, Coq Hardi      01522  01522                % 05712 RGTR--
+190903009 Mamer, Holzemerstroo  01523  01523                % 05712 RGTR--
+190903006 Mamer, Eisebunnsbréc  01524  01524                % 05712 RGTR--
+190903014 Mamer, Zentrum        01524  01524                % 05712 RGTR--
+190903002 Mamer, Baerendall     01526  01526                % 05712 RGTR--
+190903013 Mamer, Tossebierg     01528  01528                % 05712 RGTR--
+200101002 Bertrange, Belle Eto  01529 -01529                % 05712 RGTR--
+200901017 Strassen, Kesseler    01532 -01532                % 05712 RGTR--
+200901020 Strassen, Benelux     01533 -01533                % 05712 RGTR--
+200403021 Belair, Wandmillen    01537 -01537                % 05712 RGTR--
+200405045 Centre, Stäreplaz /   01540 -01540                % 05712 RGTR--
+200405004 Centre, Monterey Par  01544                       % 05712 RGTR--
+*Z 05713 RGTR--                                             % 05713 RGTR--
+*L 240      190201007 200405004  01915  01959               % 05713 RGTR--
+*A as 190201007 200405004 000006  01915  01959              % 05713 RGTR--
+*A jv 190201007 200405004 000006  01915  01959              % 05713 RGTR--
+*R 2 200405004 190201007 200405004  01915  01959            % 05713 RGTR--
+*G RGB 190201007 200405004  01915  01959                    % 05713 RGTR--
+*A VE 190201007 200405004 000006  01915  01959              % 05713 RGTR--
+*I FD 190201007 200405004        0003075  01915  01959      % 05713 RGTR--
+190201007 Clemency, Schock             01915                % 05713 RGTR--
+190201002 Clemency, Eecherwee   01916  01916                % 05713 RGTR--
+190201004 Clemency, Gemeng      01916  01916                % 05713 RGTR--
+190201006 Clemency, Ieweschtga  01918  01918                % 05713 RGTR--
+190201008 Clemency, Schwemm     01919  01919                % 05713 RGTR--
+190201003 Clemency, Féngegerbi  01920  01920                % 05713 RGTR--
+190202002 Fingig, Dillesbierg   01921  01921                % 05713 RGTR--
+190202003 Fingig, Maerchen      01922  01922                % 05713 RGTR--
+190403001 Hivange, Areler Stro  01924  01924                % 05713 RGTR--
+190403003 Hivange, Kleng Béiwé  01924  01924                % 05713 RGTR--
+500000113 Dahlem, rue de Hivan  01926  01926                % 05713 RGTR--
+190401002 Dahlem, Um Pëtz       01927  01927                % 05713 RGTR--
+190402001 Garnich, Botterkräiz  01929  01929                % 05713 RGTR--
+190402002 Garnich, Brill        01929  01929                % 05713 RGTR--
+190402005 Garnich, Schmëtt      01930  01930                % 05713 RGTR--
+190402004 Garnich, Rixegoard    01931  01931                % 05713 RGTR--
+190902001 Holzem, Bréck         01934  01934                % 05713 RGTR--
+190902002 Holzem, Festsall      01935  01935                % 05713 RGTR--
+190902003 Holzem, Mamerstrooss  01936  01936                % 05713 RGTR--
+190903004 Mamer, Coq Hardi      01937  01937                % 05713 RGTR--
+190903009 Mamer, Holzemerstroo  01938  01938                % 05713 RGTR--
+190903006 Mamer, Eisebunnsbréc  01939  01939                % 05713 RGTR--
+190903014 Mamer, Zentrum        01939  01939                % 05713 RGTR--
+190903002 Mamer, Baerendall     01941  01941                % 05713 RGTR--
+190903013 Mamer, Tossebierg     01943  01943                % 05713 RGTR--
+200101002 Bertrange, Belle Eto  01944 -01944                % 05713 RGTR--
+200901017 Strassen, Kesseler    01947 -01947                % 05713 RGTR--
+200901020 Strassen, Benelux     01948 -01948                % 05713 RGTR--
+200403021 Belair, Wandmillen    01952 -01952                % 05713 RGTR--
+200405045 Centre, Stäreplaz /   01955 -01955                % 05713 RGTR--
+200405004 Centre, Monterey Par  01959                       % 05713 RGTR--
+*Z 05714 RGTR--                                             % 05714 RGTR--
+*L 240      190201007 200405004  02000  02044               % 05714 RGTR--
+*A as 190201007 200405004 000006  02000  02044              % 05714 RGTR--
+*A jv 190201007 200405004 000006  02000  02044              % 05714 RGTR--
+*R 2 200405004 190201007 200405004  02000  02044            % 05714 RGTR--
+*G RGB 190201007 200405004  02000  02044                    % 05714 RGTR--
+*A VE 190201007 200405004 000006  02000  02044              % 05714 RGTR--
+*I FD 190201007 200405004        0002438  02000  02044      % 05714 RGTR--
+190201007 Clemency, Schock             02000                % 05714 RGTR--
+190201002 Clemency, Eecherwee   02001  02001                % 05714 RGTR--
+190201004 Clemency, Gemeng      02001  02001                % 05714 RGTR--
+190201006 Clemency, Ieweschtga  02003  02003                % 05714 RGTR--
+190201008 Clemency, Schwemm     02004  02004                % 05714 RGTR--
+190201003 Clemency, Féngegerbi  02005  02005                % 05714 RGTR--
+190202002 Fingig, Dillesbierg   02006  02006                % 05714 RGTR--
+190202003 Fingig, Maerchen      02007  02007                % 05714 RGTR--
+190403001 Hivange, Areler Stro  02009  02009                % 05714 RGTR--
+190403003 Hivange, Kleng Béiwé  02009  02009                % 05714 RGTR--
+500000113 Dahlem, rue de Hivan  02011  02011                % 05714 RGTR--
+190401002 Dahlem, Um Pëtz       02012  02012                % 05714 RGTR--
+190402001 Garnich, Botterkräiz  02014  02014                % 05714 RGTR--
+190402002 Garnich, Brill        02014  02014                % 05714 RGTR--
+190402005 Garnich, Schmëtt      02015  02015                % 05714 RGTR--
+190402004 Garnich, Rixegoard    02016  02016                % 05714 RGTR--
+190902001 Holzem, Bréck         02019  02019                % 05714 RGTR--
+190902002 Holzem, Festsall      02020  02020                % 05714 RGTR--
+190902003 Holzem, Mamerstrooss  02021  02021                % 05714 RGTR--
+190903004 Mamer, Coq Hardi      02022  02022                % 05714 RGTR--
+190903009 Mamer, Holzemerstroo  02023  02023                % 05714 RGTR--
+190903006 Mamer, Eisebunnsbréc  02024  02024                % 05714 RGTR--
+190903014 Mamer, Zentrum        02024  02024                % 05714 RGTR--
+190903002 Mamer, Baerendall     02026  02026                % 05714 RGTR--
+190903013 Mamer, Tossebierg     02028  02028                % 05714 RGTR--
+200101002 Bertrange, Belle Eto  02029 -02029                % 05714 RGTR--
+200901017 Strassen, Kesseler    02032 -02032                % 05714 RGTR--
+200901020 Strassen, Benelux     02033 -02033                % 05714 RGTR--
+200403021 Belair, Wandmillen    02037 -02037                % 05714 RGTR--
+200405045 Centre, Stäreplaz /   02040 -02040                % 05714 RGTR--
+200405004 Centre, Monterey Par  02044                       % 05714 RGTR--
+*Z 05715 RGTR--                                             % 05715 RGTR--
+*L 240      190201007 200405004  02100  02144               % 05715 RGTR--
+*A as 190201007 200405004 000006  02100  02144              % 05715 RGTR--
+*A jv 190201007 200405004 000006  02100  02144              % 05715 RGTR--
+*R 2 200405004 190201007 200405004  02100  02144            % 05715 RGTR--
+*G RGB 190201007 200405004  02100  02144                    % 05715 RGTR--
+*A VE 190201007 200405004 000006  02100  02144              % 05715 RGTR--
+*I FD 190201007 200405004        0002513  02100  02144      % 05715 RGTR--
+190201007 Clemency, Schock             02100                % 05715 RGTR--
+190201002 Clemency, Eecherwee   02101  02101                % 05715 RGTR--
+190201004 Clemency, Gemeng      02101  02101                % 05715 RGTR--
+190201006 Clemency, Ieweschtga  02103  02103                % 05715 RGTR--
+190201008 Clemency, Schwemm     02104  02104                % 05715 RGTR--
+190201003 Clemency, Féngegerbi  02105  02105                % 05715 RGTR--
+190202002 Fingig, Dillesbierg   02106  02106                % 05715 RGTR--
+190202003 Fingig, Maerchen      02107  02107                % 05715 RGTR--
+190403001 Hivange, Areler Stro  02109  02109                % 05715 RGTR--
+190403003 Hivange, Kleng Béiwé  02109  02109                % 05715 RGTR--
+500000113 Dahlem, rue de Hivan  02111  02111                % 05715 RGTR--
+190401002 Dahlem, Um Pëtz       02112  02112                % 05715 RGTR--
+190402001 Garnich, Botterkräiz  02114  02114                % 05715 RGTR--
+190402002 Garnich, Brill        02114  02114                % 05715 RGTR--
+190402005 Garnich, Schmëtt      02115  02115                % 05715 RGTR--
+190402004 Garnich, Rixegoard    02116  02116                % 05715 RGTR--
+190902001 Holzem, Bréck         02119  02119                % 05715 RGTR--
+190902002 Holzem, Festsall      02120  02120                % 05715 RGTR--
+190902003 Holzem, Mamerstrooss  02121  02121                % 05715 RGTR--
+190903004 Mamer, Coq Hardi      02122  02122                % 05715 RGTR--
+190903009 Mamer, Holzemerstroo  02123  02123                % 05715 RGTR--
+190903006 Mamer, Eisebunnsbréc  02124  02124                % 05715 RGTR--
+190903014 Mamer, Zentrum        02124  02124                % 05715 RGTR--
+190903002 Mamer, Baerendall     02126  02126                % 05715 RGTR--
+190903013 Mamer, Tossebierg     02128  02128                % 05715 RGTR--
+200101002 Bertrange, Belle Eto  02129 -02129                % 05715 RGTR--
+200901017 Strassen, Kesseler    02132 -02132                % 05715 RGTR--
+200901020 Strassen, Benelux     02133 -02133                % 05715 RGTR--
+200403021 Belair, Wandmillen    02137 -02137                % 05715 RGTR--
+200405045 Centre, Stäreplaz /   02140 -02140                % 05715 RGTR--
+200405004 Centre, Monterey Par  02144                       % 05715 RGTR--
+*Z 05716 RGTR--                                             % 05716 RGTR--
+*L 240      190201007 200405004  02200  02244               % 05716 RGTR--
+*A as 190201007 200405004 000006  02200  02244              % 05716 RGTR--
+*A jv 190201007 200405004 000006  02200  02244              % 05716 RGTR--
+*R 2 200405004 190201007 200405004  02200  02244            % 05716 RGTR--
+*G RGB 190201007 200405004  02200  02244                    % 05716 RGTR--
+*A VE 190201007 200405004 000006  02200  02244              % 05716 RGTR--
+*I FD 190201007 200405004        0002514  02200  02244      % 05716 RGTR--
+190201007 Clemency, Schock             02200                % 05716 RGTR--
+190201002 Clemency, Eecherwee   02201  02201                % 05716 RGTR--
+190201004 Clemency, Gemeng      02201  02201                % 05716 RGTR--
+190201006 Clemency, Ieweschtga  02203  02203                % 05716 RGTR--
+190201008 Clemency, Schwemm     02204  02204                % 05716 RGTR--
+190201003 Clemency, Féngegerbi  02205  02205                % 05716 RGTR--
+190202002 Fingig, Dillesbierg   02206  02206                % 05716 RGTR--
+190202003 Fingig, Maerchen      02207  02207                % 05716 RGTR--
+190403001 Hivange, Areler Stro  02209  02209                % 05716 RGTR--
+190403003 Hivange, Kleng Béiwé  02209  02209                % 05716 RGTR--
+500000113 Dahlem, rue de Hivan  02211  02211                % 05716 RGTR--
+190401002 Dahlem, Um Pëtz       02212  02212                % 05716 RGTR--
+190402001 Garnich, Botterkräiz  02214  02214                % 05716 RGTR--
+190402002 Garnich, Brill        02214  02214                % 05716 RGTR--
+190402005 Garnich, Schmëtt      02215  02215                % 05716 RGTR--
+190402004 Garnich, Rixegoard    02216  02216                % 05716 RGTR--
+190902001 Holzem, Bréck         02219  02219                % 05716 RGTR--
+190902002 Holzem, Festsall      02220  02220                % 05716 RGTR--
+190902003 Holzem, Mamerstrooss  02221  02221                % 05716 RGTR--
+190903004 Mamer, Coq Hardi      02222  02222                % 05716 RGTR--
+190903009 Mamer, Holzemerstroo  02223  02223                % 05716 RGTR--
+190903006 Mamer, Eisebunnsbréc  02224  02224                % 05716 RGTR--
+190903014 Mamer, Zentrum        02224  02224                % 05716 RGTR--
+190903002 Mamer, Baerendall     02226  02226                % 05716 RGTR--
+190903013 Mamer, Tossebierg     02228  02228                % 05716 RGTR--
+200101002 Bertrange, Belle Eto  02229 -02229                % 05716 RGTR--
+200901017 Strassen, Kesseler    02232 -02232                % 05716 RGTR--
+200901020 Strassen, Benelux     02233 -02233                % 05716 RGTR--
+200403021 Belair, Wandmillen    02237 -02237                % 05716 RGTR--
+200405045 Centre, Stäreplaz /   02240 -02240                % 05716 RGTR--
+200405004 Centre, Monterey Par  02244                       % 05716 RGTR--
+*Z 05717 RGTR--                                             % 05717 RGTR--
+*L 240      190201007 200405004  01600  01644               % 05717 RGTR--
+*A as 190201007 200405004 000156  01600  01644              % 05717 RGTR--
+*A jv 190201007 200405004 000156  01600  01644              % 05717 RGTR--
+*R 2 200405004 190201007 200405004  01600  01644            % 05717 RGTR--
+*G RGB 190201007 200405004  01600  01644                    % 05717 RGTR--
+*A VE 190201007 200405004 000156  01600  01644              % 05717 RGTR--
+*I FD 190201007 200405004        0001975  01600  01644      % 05717 RGTR--
+190201007 Clemency, Schock             01600                % 05717 RGTR--
+190201002 Clemency, Eecherwee   01601  01601                % 05717 RGTR--
+190201004 Clemency, Gemeng      01601  01601                % 05717 RGTR--
+190201006 Clemency, Ieweschtga  01603  01603                % 05717 RGTR--
+190201008 Clemency, Schwemm     01604  01604                % 05717 RGTR--
+190201003 Clemency, Féngegerbi  01605  01605                % 05717 RGTR--
+190202002 Fingig, Dillesbierg   01606  01606                % 05717 RGTR--
+190202003 Fingig, Maerchen      01607  01607                % 05717 RGTR--
+190403001 Hivange, Areler Stro  01609  01609                % 05717 RGTR--
+190403003 Hivange, Kleng Béiwé  01609  01609                % 05717 RGTR--
+500000113 Dahlem, rue de Hivan  01611  01611                % 05717 RGTR--
+190401002 Dahlem, Um Pëtz       01612  01612                % 05717 RGTR--
+190402001 Garnich, Botterkräiz  01614  01614                % 05717 RGTR--
+190402002 Garnich, Brill        01614  01614                % 05717 RGTR--
+190402005 Garnich, Schmëtt      01615  01615                % 05717 RGTR--
+190402004 Garnich, Rixegoard    01616  01616                % 05717 RGTR--
+190902001 Holzem, Bréck         01619  01619                % 05717 RGTR--
+190902002 Holzem, Festsall      01620  01620                % 05717 RGTR--
+190902003 Holzem, Mamerstrooss  01621  01621                % 05717 RGTR--
+190903004 Mamer, Coq Hardi      01622  01622                % 05717 RGTR--
+190903009 Mamer, Holzemerstroo  01623  01623                % 05717 RGTR--
+190903006 Mamer, Eisebunnsbréc  01624  01624                % 05717 RGTR--
+190903014 Mamer, Zentrum        01624  01624                % 05717 RGTR--
+190903002 Mamer, Baerendall     01626  01626                % 05717 RGTR--
+190903013 Mamer, Tossebierg     01628  01628                % 05717 RGTR--
+200101002 Bertrange, Belle Eto  01629 -01629                % 05717 RGTR--
+200901017 Strassen, Kesseler    01632 -01632                % 05717 RGTR--
+200901020 Strassen, Benelux     01633 -01633                % 05717 RGTR--
+200403021 Belair, Wandmillen    01637 -01637                % 05717 RGTR--
+200405045 Centre, Stäreplaz /   01640 -01640                % 05717 RGTR--
+200405004 Centre, Monterey Par  01644                       % 05717 RGTR--
+*Z 05718 RGTR--                                             % 05718 RGTR--
+*L 240      190201007 200405004  01815  01859               % 05718 RGTR--
+*A as 190201007 200405004 000156  01815  01859              % 05718 RGTR--
+*A jv 190201007 200405004 000156  01815  01859              % 05718 RGTR--
+*R 2 200405004 190201007 200405004  01815  01859            % 05718 RGTR--
+*G RGB 190201007 200405004  01815  01859                    % 05718 RGTR--
+*A VE 190201007 200405004 000156  01815  01859              % 05718 RGTR--
+*I FD 190201007 200405004        0002289  01815  01859      % 05718 RGTR--
+190201007 Clemency, Schock             01815                % 05718 RGTR--
+190201002 Clemency, Eecherwee   01816  01816                % 05718 RGTR--
+190201004 Clemency, Gemeng      01816  01816                % 05718 RGTR--
+190201006 Clemency, Ieweschtga  01818  01818                % 05718 RGTR--
+190201008 Clemency, Schwemm     01819  01819                % 05718 RGTR--
+190201003 Clemency, Féngegerbi  01820  01820                % 05718 RGTR--
+190202002 Fingig, Dillesbierg   01821  01821                % 05718 RGTR--
+190202003 Fingig, Maerchen      01822  01822                % 05718 RGTR--
+190403001 Hivange, Areler Stro  01824  01824                % 05718 RGTR--
+190403003 Hivange, Kleng Béiwé  01824  01824                % 05718 RGTR--
+500000113 Dahlem, rue de Hivan  01826  01826                % 05718 RGTR--
+190401002 Dahlem, Um Pëtz       01827  01827                % 05718 RGTR--
+190402001 Garnich, Botterkräiz  01829  01829                % 05718 RGTR--
+190402002 Garnich, Brill        01829  01829                % 05718 RGTR--
+190402005 Garnich, Schmëtt      01830  01830                % 05718 RGTR--
+190402004 Garnich, Rixegoard    01831  01831                % 05718 RGTR--
+190902001 Holzem, Bréck         01834  01834                % 05718 RGTR--
+190902002 Holzem, Festsall      01835  01835                % 05718 RGTR--
+190902003 Holzem, Mamerstrooss  01836  01836                % 05718 RGTR--
+190903004 Mamer, Coq Hardi      01837  01837                % 05718 RGTR--
+190903009 Mamer, Holzemerstroo  01838  01838                % 05718 RGTR--
+190903006 Mamer, Eisebunnsbréc  01839  01839                % 05718 RGTR--
+190903014 Mamer, Zentrum        01839  01839                % 05718 RGTR--
+190903002 Mamer, Baerendall     01841  01841                % 05718 RGTR--
+190903013 Mamer, Tossebierg     01843  01843                % 05718 RGTR--
+200101002 Bertrange, Belle Eto  01844 -01844                % 05718 RGTR--
+200901017 Strassen, Kesseler    01847 -01847                % 05718 RGTR--
+200901020 Strassen, Benelux     01848 -01848                % 05718 RGTR--
+200403021 Belair, Wandmillen    01852 -01852                % 05718 RGTR--
+200405045 Centre, Stäreplaz /   01855 -01855                % 05718 RGTR--
+200405004 Centre, Monterey Par  01859                       % 05718 RGTR--

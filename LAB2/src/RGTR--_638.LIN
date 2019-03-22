@@ -1,0 +1,171 @@
+*F 03 2
+*Z 04303 RGTR--                                             % 04303 RGTR--
+*L 638      120903023 110705002  01208  01254               % 04303 RGTR--
+*A bi 120903023 110705002 000042  01208  01254              % 04303 RGTR--
+*A gu 120903023 110705002 000042  01208  01254              % 04303 RGTR--
+*A le 120903023 110705002 000042  01208  01254              % 04303 RGTR--
+*R 1 110705002 120903023 110705002  01208  01254            % 04303 RGTR--
+*G RGB 120903023 110705002  01208  01254                    % 04303 RGTR--
+*A VE 120903023 110705002 000042  01208  01254              % 04303 RGTR--
+*I FD 120903023 110705002        0002732  01208  01254      % 04303 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 04303 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 04303 RGTR--
+110821003 Wincrange, Op der Lo  01223  01223                % 04303 RGTR--
+110821001 Wincrange, Eglise     01224  01224                % 04303 RGTR--
+110606005 Troisvierges, Police  01234  01234                % 04303 RGTR--
+110606003 Troisvierges, Milleb  01235  01235                % 04303 RGTR--
+110606002 Troisvierges, Mairie  01236  01236                % 04303 RGTR--
+110606006 Troisvierges, Tomm    01237  01237                % 04303 RGTR--
+110602001 Drinklange            01239  01239                % 04303 RGTR--
+110607002 Wilwerdange, Schoul   01240  01240                % 04303 RGTR--
+110706009 Weiswampach, Dränk    01244  01244                % 04303 RGTR--
+110706007 Weiswampach, Post     01245  01245                % 04303 RGTR--
+110706008 Weiswampach, Iäwwisc  01245  01245                % 04303 RGTR--
+110706002 Weiswampach, Beelers  01246  01246                % 04303 RGTR--
+110701001 Beiler, Op der Halt   01250  01250                % 04303 RGTR--
+110701002 Beiler, Bei der aler  01251  01251                % 04303 RGTR--
+110701003 Beiler, Beim Krécks   01252  01252                % 04303 RGTR--
+110705001 Leithum, Bei der ale  01254  01254                % 04303 RGTR--
+110705002 Leithum, Bei der Kir  01254                       % 04303 RGTR--
+*Z 04304 RGTR--                                             % 04304 RGTR--
+*L 638      120903023 110705002  01615  01702               % 04304 RGTR--
+*A bi 120903023 110705002 000045  01615  01702              % 04304 RGTR--
+*A gu 120903023 110705002 000045  01615  01702              % 04304 RGTR--
+*A le 120903023 110705002 000045  01615  01702              % 04304 RGTR--
+*R 1 110705002 120903023 110705002  01615  01702            % 04304 RGTR--
+*G RGB 120903023 110705002  01615  01702                    % 04304 RGTR--
+*A VE 120903023 110705002 000045  01615  01702              % 04304 RGTR--
+*I FD 120903023 110705002        0003335  01615  01702      % 04304 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 04304 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 04304 RGTR--
+110821003 Wincrange, Op der Lo  01631  01631                % 04304 RGTR--
+110821001 Wincrange, Eglise     01632  01632                % 04304 RGTR--
+110606005 Troisvierges, Police  01642  01642                % 04304 RGTR--
+110606003 Troisvierges, Milleb  01643  01643                % 04304 RGTR--
+110606002 Troisvierges, Mairie  01644  01644                % 04304 RGTR--
+110606006 Troisvierges, Tomm    01645  01645                % 04304 RGTR--
+110602001 Drinklange            01647  01647                % 04304 RGTR--
+110607002 Wilwerdange, Schoul   01648  01648                % 04304 RGTR--
+110706009 Weiswampach, Dränk    01652  01652                % 04304 RGTR--
+110706007 Weiswampach, Post     01653  01653                % 04304 RGTR--
+110706008 Weiswampach, Iäwwisc  01654  01654                % 04304 RGTR--
+110706002 Weiswampach, Beelers  01655  01655                % 04304 RGTR--
+110701001 Beiler, Op der Halt   01659  01659                % 04304 RGTR--
+110701002 Beiler, Bei der aler  01659  01659                % 04304 RGTR--
+110701003 Beiler, Beim Krécks   01700  01700                % 04304 RGTR--
+110705001 Leithum, Bei der ale  01702  01702                % 04304 RGTR--
+110705002 Leithum, Bei der Kir  01702                       % 04304 RGTR--
+*Z 04305 RGTR--                                             % 04305 RGTR--
+*L 638      120903023 110822004  01615  01653               % 04305 RGTR--
+*A gu 120903023 110822004 000045  01615  01653              % 04305 RGTR--
+*A lf 120903023 110822004 000045  01615  01653              % 04305 RGTR--
+*R 1 110822004 120903023 110822004  01615  01653            % 04305 RGTR--
+*G RGB 120903023 110822004  01615  01653                    % 04305 RGTR--
+*A VE 120903023 110822004 000045  01615  01653              % 04305 RGTR--
+*I FD 120903023 110822004        0001811  01615  01653      % 04305 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 04305 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 04305 RGTR--
+110807004 Derenbach, Weischent  01626  01626                % 04305 RGTR--
+110807001 Derenbach, Chapelle   01627  01627                % 04305 RGTR--
+110807006 Derenbach, Beim Wämp  01627  01627                % 04305 RGTR--
+110810001 Hamiville, Maison 3   01632  01632                % 04305 RGTR--
+110810002 Hamiville, Maison 31  01632  01632                % 04305 RGTR--
+110821003 Wincrange, Op der Lo  01633  01633                % 04305 RGTR--
+110821002 Wincrange, Kiemel     01634  01634                % 04305 RGTR--
+110819001 Stockem (LUX)         01639  01639                % 04305 RGTR--
+110816001 Rumlange              01642  01642                % 04305 RGTR--
+110803003 Boxhorn, Schemer      01644  01644                % 04305 RGTR--
+110803001 Boxhorn, Eglise       01644  01644                % 04305 RGTR--
+110817001 Sassel                01648  01648                % 04305 RGTR--
+110822004 Maulusmühle, Gare     01653                       % 04305 RGTR--
+*Z 04306 RGTR--                                             % 04306 RGTR--
+*L 638      120903023 110822004  01208  01246               % 04306 RGTR--
+*A gu 120903023 110822004 000042  01208  01246              % 04306 RGTR--
+*A lf 120903023 110822004 000042  01208  01246              % 04306 RGTR--
+*R 1 110822004 120903023 110822004  01208  01246            % 04306 RGTR--
+*G RGB 120903023 110822004  01208  01246                    % 04306 RGTR--
+*A VE 120903023 110822004 000042  01208  01246              % 04306 RGTR--
+*I FD 120903023 110822004        0002222  01208  01246      % 04306 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 04306 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 04306 RGTR--
+110807004 Derenbach, Weischent  01218  01218                % 04306 RGTR--
+110807001 Derenbach, Chapelle   01219  01219                % 04306 RGTR--
+110807006 Derenbach, Beim Wämp  01220  01220                % 04306 RGTR--
+110810001 Hamiville, Maison 3   01224  01224                % 04306 RGTR--
+110810002 Hamiville, Maison 31  01225  01225                % 04306 RGTR--
+110821003 Wincrange, Op der Lo  01226  01226                % 04306 RGTR--
+110821002 Wincrange, Kiemel     01227  01227                % 04306 RGTR--
+110819001 Stockem (LUX)         01232  01232                % 04306 RGTR--
+110816001 Rumlange              01234  01234                % 04306 RGTR--
+110803003 Boxhorn, Schemer      01236  01236                % 04306 RGTR--
+110803001 Boxhorn, Eglise       01237  01237                % 04306 RGTR--
+110817001 Sassel                01241  01241                % 04306 RGTR--
+110822004 Maulusmühle, Gare     01246                       % 04306 RGTR--
+*Z 04307 RGTR--                                             % 04307 RGTR--
+*L 638      110822004 120903023  00705  00744               % 04307 RGTR--
+*A bi 110822004 120903023 000030  00705  00744              % 04307 RGTR--
+*A gu 110822004 120903023 000030  00705  00744              % 04307 RGTR--
+*A bl 110822004 120903023 000030  00705  00744              % 04307 RGTR--
+*R 2 120903023 110822004 120903023  00705  00744            % 04307 RGTR--
+*G RGB 110822004 120903023  00705  00744                    % 04307 RGTR--
+*A VE 110822004 120903023 000030  00705  00744              % 04307 RGTR--
+*I FD 110822004 120903023        0002223  00705  00744      % 04307 RGTR--
+110822004 Maulusmühle, Gare            00705                % 04307 RGTR--
+110817001 Sassel                00709  00709                % 04307 RGTR--
+110803001 Boxhorn, Eglise       00713  00713                % 04307 RGTR--
+110803003 Boxhorn, Schemer      00713  00713                % 04307 RGTR--
+110816001 Rumlange              00715  00715                % 04307 RGTR--
+110819001 Stockem (LUX)         00718  00718                % 04307 RGTR--
+110821001 Wincrange, Eglise     00725  00725                % 04307 RGTR--
+110821003 Wincrange, Op der Lo  00726  00726                % 04307 RGTR--
+110810002 Hamiville, Maison 31  00727  00727                % 04307 RGTR--
+110810001 Hamiville, Maison 3   00727  00727                % 04307 RGTR--
+110807006 Derenbach, Beim Wämp  00732  00732                % 04307 RGTR--
+110807001 Derenbach, Chapelle   00732  00732                % 04307 RGTR--
+110807004 Derenbach, Weischent  00733  00733                % 04307 RGTR--
+120903021 Wiltz, Lann           00741  00741                % 04307 RGTR--
+120903023 Wiltz, Lycée du Nord  00744                       % 04307 RGTR--
+*Z 04308 RGTR--                                             % 04308 RGTR--
+*L 638      110705002 120903023  00700  00744               % 04308 RGTR--
+*A gu 110705002 120903023 000030  00700  00744              % 04308 RGTR--
+*A bl 110705002 120903023 000030  00700  00744              % 04308 RGTR--
+*R 2 120903023 110705002 120903023  00700  00744            % 04308 RGTR--
+*G RGB 110705002 120903023  00700  00744                    % 04308 RGTR--
+*A VE 110705002 120903023 000030  00700  00744              % 04308 RGTR--
+*I FD 110705002 120903023        0002152  00700  00744      % 04308 RGTR--
+110705002 Leithum, Bei der Kir         00700                % 04308 RGTR--
+110705001 Leithum, Bei der ale  00700  00700                % 04308 RGTR--
+110701003 Beiler, Beim Krécks   00702  00702                % 04308 RGTR--
+110701001 Beiler, Op der Halt   00703  00703                % 04308 RGTR--
+110701002 Beiler, Bei der aler  00704  00704                % 04308 RGTR--
+110706002 Weiswampach, Beelers  00708  00708                % 04308 RGTR--
+110706004 Weiswampach, Om Knup  00709  00709                % 04308 RGTR--
+110706008 Weiswampach, Iäwwisc  00709  00709                % 04308 RGTR--
+110706007 Weiswampach, Post     00709  00709                % 04308 RGTR--
+110706009 Weiswampach, Dränk    00710  00710                % 04308 RGTR--
+110607002 Wilwerdange, Schoul   00714  00714                % 04308 RGTR--
+110602001 Drinklange            00715  00715                % 04308 RGTR--
+110606006 Troisvierges, Tomm    00717  00717                % 04308 RGTR--
+110606002 Troisvierges, Mairie  00718  00718                % 04308 RGTR--
+110606003 Troisvierges, Milleb  00719  00719                % 04308 RGTR--
+110606005 Troisvierges, Police  00720  00720                % 04308 RGTR--
+110821001 Wincrange, Eglise     00727  00727                % 04308 RGTR--
+110821003 Wincrange, Op der Lo  00728  00728                % 04308 RGTR--
+120903021 Wiltz, Lann           00741  00741                % 04308 RGTR--
+120903023 Wiltz, Lycée du Nord  00744                       % 04308 RGTR--
+*Z 04309 RGTR--                                             % 04309 RGTR--
+*L 638      110705002 110706004  00626  00635               % 04309 RGTR--
+*A gu 110705002 110706004 000030  00626  00635              % 04309 RGTR--
+*A PJ 110705002 110706004 000030  00626  00635              % 04309 RGTR--
+*A lg 110705002 110706004 000030  00626  00635              % 04309 RGTR--
+*R 2 110706004 110705002 110706004  00626  00635            % 04309 RGTR--
+*G RGB 110705002 110706004  00626  00635                    % 04309 RGTR--
+*A VE 110705002 110706004 000030  00626  00635              % 04309 RGTR--
+*I FD 110705002 110706004        0000951  00626  00635      % 04309 RGTR--
+110705002 Leithum, Bei der Kir         00626                % 04309 RGTR--
+110705001 Leithum, Bei der ale  00626  00626                % 04309 RGTR--
+110701003 Beiler, Beim Krécks   00628  00628                % 04309 RGTR--
+110701001 Beiler, Op der Halt   00629  00629                % 04309 RGTR--
+110701002 Beiler, Bei der aler  00630  00630                % 04309 RGTR--
+110706002 Weiswampach, Beelers  00634  00634                % 04309 RGTR--
+110706004 Weiswampach, Om Knup  00635                       % 04309 RGTR--

@@ -1,0 +1,417 @@
+*F 03 2
+*Z 00062 CFLBUS                                             % 00062 CFLBUS
+*L 107      170101003 200417050  00644  00737               % 00062 CFLBUS
+*A vm 170101003 200417050 000180  00644  00737              % 00062 CFLBUS
+*R 1 200417050 170101003 200417050  00644  00737            % 00062 CFLBUS
+*G RGB 170101003 200417050  00644  00737                    % 00062 CFLBUS
+*A VE 170101003 200417050 000180  00644  00737              % 00062 CFLBUS
+*I FD 170101003 200417050        0001824  00644  00737      % 00062 CFLBUS
+170101003 Beaufort, Härewiss           00644                % 00062 CFLBUS
+170101006 Beaufort, Op der Gar  00645  00645                % 00062 CFLBUS
+170101001 Beaufort, Aispist     00646  00646                % 00062 CFLBUS
+170101009 Beaufort, Um Bierg    00646  00646                % 00062 CFLBUS
+170101002 Beaufort, Ennescht H  00648  00648                % 00062 CFLBUS
+170101008 Beaufort, Halerstroo  00649  00649                % 00062 CFLBUS
+170802002 Haller, Schoul        00656  00656                % 00062 CFLBUS
+170802001 Haller, Beim Basseng  00657  00657                % 00062 CFLBUS
+170804002 Waldbillig, Gemeng    00700  00700                % 00062 CFLBUS
+170804001 Waldbillig, Bëlleger  00701  00701                % 00062 CFLBUS
+170801002 Christnach, Schoulst  00702  00702                % 00062 CFLBUS
+170801001 Christnach, Hierheck  00703  00703                % 00062 CFLBUS
+160501003 Heffingen, Rue de Ch  00706  00706                % 00062 CFLBUS
+160501006 Heffingen, Abri (Cen  00707  00707                % 00062 CFLBUS
+160501004 Heffingen, Thommes    00709  00709                % 00062 CFLBUS
+160502001 Reuland               00711  00711                % 00062 CFLBUS
+180503001 Blumenthal/Blummenda  00713  00713                % 00062 CFLBUS
+180511006 Junglinster, Um Radi  00716  00716                % 00062 CFLBUS
+180512003 Junglinster, P+R      00717  00717                % 00062 CFLBUS
+180511007 Junglinster, Um Reil  00719  00719                % 00062 CFLBUS
+180511002 Junglinster, Op der   00720  00720                % 00062 CFLBUS
+180511005 Junglinster, Um Lei   00722  00722                % 00062 CFLBUS
+180511009 Junglinster, Op der   00723  00723                % 00062 CFLBUS
+180508003 Gonderange, Mierchen  00724  00724                % 00062 CFLBUS
+200417050 Kirchberg, Gare rout  00737                       % 00062 CFLBUS
+*Z 00063 CFLBUS                                             % 00063 CFLBUS
+*L 107      170101003 200417050  00844  00934               % 00063 CFLBUS
+*A vm 170101003 200417050 000181  00844  00934              % 00063 CFLBUS
+*R 1 200417050 170101003 200417050  00844  00934            % 00063 CFLBUS
+*G RGB 170101003 200417050  00844  00934                    % 00063 CFLBUS
+*A VE 170101003 200417050 000181  00844  00934              % 00063 CFLBUS
+*I FD 170101003 200417050        0001821  00844  00934      % 00063 CFLBUS
+170101003 Beaufort, Härewiss           00844                % 00063 CFLBUS
+170101006 Beaufort, Op der Gar  00845  00845                % 00063 CFLBUS
+170101001 Beaufort, Aispist     00846  00846                % 00063 CFLBUS
+170101009 Beaufort, Um Bierg    00846  00846                % 00063 CFLBUS
+170101002 Beaufort, Ennescht H  00848  00848                % 00063 CFLBUS
+170101008 Beaufort, Halerstroo  00849  00849                % 00063 CFLBUS
+170802002 Haller, Schoul        00856  00856                % 00063 CFLBUS
+170802001 Haller, Beim Basseng  00857  00857                % 00063 CFLBUS
+170804002 Waldbillig, Gemeng    00900  00900                % 00063 CFLBUS
+170804001 Waldbillig, Bëlleger  00901  00901                % 00063 CFLBUS
+170801002 Christnach, Schoulst  00902  00902                % 00063 CFLBUS
+170801001 Christnach, Hierheck  00903  00903                % 00063 CFLBUS
+160501003 Heffingen, Rue de Ch  00906  00906                % 00063 CFLBUS
+160501006 Heffingen, Abri (Cen  00907  00907                % 00063 CFLBUS
+160501004 Heffingen, Thommes    00908  00908                % 00063 CFLBUS
+160502001 Reuland               00911  00911                % 00063 CFLBUS
+180503001 Blumenthal/Blummenda  00913  00913                % 00063 CFLBUS
+180511006 Junglinster, Um Radi  00915  00915                % 00063 CFLBUS
+180512003 Junglinster, P+R      00916  00916                % 00063 CFLBUS
+180511007 Junglinster, Um Reil  00917  00917                % 00063 CFLBUS
+180511002 Junglinster, Op der   00919  00919                % 00063 CFLBUS
+180511005 Junglinster, Um Lei   00920  00920                % 00063 CFLBUS
+180511009 Junglinster, Op der   00921  00921                % 00063 CFLBUS
+180508003 Gonderange, Mierchen  00922  00922                % 00063 CFLBUS
+200417050 Kirchberg, Gare rout  00934                       % 00063 CFLBUS
+*Z 00064 CFLBUS                                             % 00064 CFLBUS
+*L 107      170101003 200417050  01644  01734               % 00064 CFLBUS
+*A vm 170101003 200417050 000181  01644  01734              % 00064 CFLBUS
+*R 1 200417050 170101003 200417050  01644  01734            % 00064 CFLBUS
+*G RGB 170101003 200417050  01644  01734                    % 00064 CFLBUS
+*A VE 170101003 200417050 000181  01644  01734              % 00064 CFLBUS
+*I FD 170101003 200417050        0001387  01644  01734      % 00064 CFLBUS
+170101003 Beaufort, Härewiss           01644                % 00064 CFLBUS
+170101006 Beaufort, Op der Gar  01645  01645                % 00064 CFLBUS
+170101001 Beaufort, Aispist     01646  01646                % 00064 CFLBUS
+170101009 Beaufort, Um Bierg    01646  01646                % 00064 CFLBUS
+170101002 Beaufort, Ennescht H  01648  01648                % 00064 CFLBUS
+170101008 Beaufort, Halerstroo  01649  01649                % 00064 CFLBUS
+170802002 Haller, Schoul        01656  01656                % 00064 CFLBUS
+170802001 Haller, Beim Basseng  01657  01657                % 00064 CFLBUS
+170804002 Waldbillig, Gemeng    01700  01700                % 00064 CFLBUS
+170804001 Waldbillig, Bëlleger  01701  01701                % 00064 CFLBUS
+170801002 Christnach, Schoulst  01702  01702                % 00064 CFLBUS
+170801001 Christnach, Hierheck  01703  01703                % 00064 CFLBUS
+160501003 Heffingen, Rue de Ch  01706  01706                % 00064 CFLBUS
+160501006 Heffingen, Abri (Cen  01707  01707                % 00064 CFLBUS
+160501004 Heffingen, Thommes    01708  01708                % 00064 CFLBUS
+160502001 Reuland               01711  01711                % 00064 CFLBUS
+180503001 Blumenthal/Blummenda  01713  01713                % 00064 CFLBUS
+180511006 Junglinster, Um Radi  01715  01715                % 00064 CFLBUS
+180512003 Junglinster, P+R      01716  01716                % 00064 CFLBUS
+180511007 Junglinster, Um Reil  01717  01717                % 00064 CFLBUS
+180511002 Junglinster, Op der   01719  01719                % 00064 CFLBUS
+180511005 Junglinster, Um Lei   01720  01720                % 00064 CFLBUS
+180511009 Junglinster, Op der   01721  01721                % 00064 CFLBUS
+180508003 Gonderange, Mierchen  01722  01722                % 00064 CFLBUS
+200417050 Kirchberg, Gare rout  01734                       % 00064 CFLBUS
+*Z 00065 CFLBUS                                             % 00065 CFLBUS
+*L 107      200417050 170101003  01025  01114               % 00065 CFLBUS
+*A vm 200417050 170101003 000181  01025  01114              % 00065 CFLBUS
+*R 2 170101003 200417050 170101003  01025  01114            % 00065 CFLBUS
+*G RGB 200417050 170101003  01025  01114                    % 00065 CFLBUS
+*A VE 200417050 170101003 000181  01025  01114              % 00065 CFLBUS
+*I FD 200417050 170101003        0001802  01025  01114      % 00065 CFLBUS
+200417050 Kirchberg, Gare rout         01025                % 00065 CFLBUS
+180508003 Gonderange, Mierchen  01037  01037                % 00065 CFLBUS
+180511009 Junglinster, Op der   01037  01037                % 00065 CFLBUS
+180511005 Junglinster, Um Lei   01038  01038                % 00065 CFLBUS
+180511002 Junglinster, Op der   01039  01039                % 00065 CFLBUS
+180511007 Junglinster, Um Reil  01041  01041                % 00065 CFLBUS
+180512003 Junglinster, P+R      01042  01042                % 00065 CFLBUS
+180511006 Junglinster, Um Radi  01043  01043                % 00065 CFLBUS
+180503001 Blumenthal/Blummenda  01046  01046                % 00065 CFLBUS
+160502001 Reuland               01048  01048                % 00065 CFLBUS
+160501004 Heffingen, Thommes    01050  01050                % 00065 CFLBUS
+160501001 Heffingen, Al Gemeng  01051  01051                % 00065 CFLBUS
+160501003 Heffingen, Rue de Ch  01052  01052                % 00065 CFLBUS
+170801001 Christnach, Hierheck  01055  01055                % 00065 CFLBUS
+170801002 Christnach, Schoulst  01056  01056                % 00065 CFLBUS
+170804001 Waldbillig, Bëlleger  01057  01057                % 00065 CFLBUS
+170804002 Waldbillig, Gemeng    01058  01058                % 00065 CFLBUS
+170802001 Haller, Beim Basseng  01101  01101                % 00065 CFLBUS
+170802002 Haller, Schoul        01102  01102                % 00065 CFLBUS
+170101008 Beaufort, Halerstroo  01109  01109                % 00065 CFLBUS
+170101002 Beaufort, Ennescht H  01110  01110                % 00065 CFLBUS
+170101009 Beaufort, Um Bierg    01111  01111                % 00065 CFLBUS
+170101001 Beaufort, Aispist     01112  01112                % 00065 CFLBUS
+170101006 Beaufort, Op der Gar  01113  01113                % 00065 CFLBUS
+170101003 Beaufort, Härewiss    01114                       % 00065 CFLBUS
+*Z 00066 CFLBUS                                             % 00066 CFLBUS
+*L 107      200417050 170101003  01825  01914               % 00066 CFLBUS
+*A vm 200417050 170101003 000181  01825  01914              % 00066 CFLBUS
+*R 2 170101003 200417050 170101003  01825  01914            % 00066 CFLBUS
+*G RGB 200417050 170101003  01825  01914                    % 00066 CFLBUS
+*A VE 200417050 170101003 000181  01825  01914              % 00066 CFLBUS
+*I FD 200417050 170101003        0002194  01825  01914      % 00066 CFLBUS
+200417050 Kirchberg, Gare rout         01825                % 00066 CFLBUS
+180508003 Gonderange, Mierchen  01837  01837                % 00066 CFLBUS
+180511009 Junglinster, Op der   01837  01837                % 00066 CFLBUS
+180511005 Junglinster, Um Lei   01838  01838                % 00066 CFLBUS
+180511002 Junglinster, Op der   01839  01839                % 00066 CFLBUS
+180511007 Junglinster, Um Reil  01841  01841                % 00066 CFLBUS
+180512003 Junglinster, P+R      01842  01842                % 00066 CFLBUS
+180511006 Junglinster, Um Radi  01843  01843                % 00066 CFLBUS
+180503001 Blumenthal/Blummenda  01846  01846                % 00066 CFLBUS
+160502001 Reuland               01848  01848                % 00066 CFLBUS
+160501004 Heffingen, Thommes    01850  01850                % 00066 CFLBUS
+160501001 Heffingen, Al Gemeng  01851  01851                % 00066 CFLBUS
+160501003 Heffingen, Rue de Ch  01852  01852                % 00066 CFLBUS
+170801001 Christnach, Hierheck  01855  01855                % 00066 CFLBUS
+170801002 Christnach, Schoulst  01856  01856                % 00066 CFLBUS
+170804001 Waldbillig, Bëlleger  01857  01857                % 00066 CFLBUS
+170804002 Waldbillig, Gemeng    01858  01858                % 00066 CFLBUS
+170802001 Haller, Beim Basseng  01901  01901                % 00066 CFLBUS
+170802002 Haller, Schoul        01902  01902                % 00066 CFLBUS
+170101008 Beaufort, Halerstroo  01909  01909                % 00066 CFLBUS
+170101002 Beaufort, Ennescht H  01910  01910                % 00066 CFLBUS
+170101009 Beaufort, Um Bierg    01911  01911                % 00066 CFLBUS
+170101001 Beaufort, Aispist     01912  01912                % 00066 CFLBUS
+170101006 Beaufort, Op der Gar  01913  01913                % 00066 CFLBUS
+170101003 Beaufort, Härewiss    01914                       % 00066 CFLBUS
+*Z 00067 CFLBUS                                             % 00067 CFLBUS
+*L 107      170101003 200417050  00644  00737               % 00067 CFLBUS
+*A vm 170101003 200417050 000024  00644  00737              % 00067 CFLBUS
+*R 1 200417050 170101003 200417050  00644  00737            % 00067 CFLBUS
+*G RGB 170101003 200417050  00644  00737                    % 00067 CFLBUS
+*A VE 170101003 200417050 000024  00644  00737              % 00067 CFLBUS
+*I FD 170101003 200417050        0001824  00644  00737      % 00067 CFLBUS
+170101003 Beaufort, Härewiss           00644                % 00067 CFLBUS
+170101006 Beaufort, Op der Gar  00645  00645                % 00067 CFLBUS
+170101001 Beaufort, Aispist     00646  00646                % 00067 CFLBUS
+170101009 Beaufort, Um Bierg    00646  00646                % 00067 CFLBUS
+170101002 Beaufort, Ennescht H  00648  00648                % 00067 CFLBUS
+170101008 Beaufort, Halerstroo  00649  00649                % 00067 CFLBUS
+170802002 Haller, Schoul        00656  00656                % 00067 CFLBUS
+170802001 Haller, Beim Basseng  00657  00657                % 00067 CFLBUS
+170804002 Waldbillig, Gemeng    00700  00700                % 00067 CFLBUS
+170804001 Waldbillig, Bëlleger  00701  00701                % 00067 CFLBUS
+170801002 Christnach, Schoulst  00702  00702                % 00067 CFLBUS
+170801001 Christnach, Hierheck  00703  00703                % 00067 CFLBUS
+160501003 Heffingen, Rue de Ch  00706  00706                % 00067 CFLBUS
+160501006 Heffingen, Abri (Cen  00707  00707                % 00067 CFLBUS
+160501004 Heffingen, Thommes    00709  00709                % 00067 CFLBUS
+160502001 Reuland               00711  00711                % 00067 CFLBUS
+180503001 Blumenthal/Blummenda  00713  00713                % 00067 CFLBUS
+180511006 Junglinster, Um Radi  00716  00716                % 00067 CFLBUS
+180512003 Junglinster, P+R      00717  00717                % 00067 CFLBUS
+180511007 Junglinster, Um Reil  00719  00719                % 00067 CFLBUS
+180511002 Junglinster, Op der   00720  00720                % 00067 CFLBUS
+180511005 Junglinster, Um Lei   00722  00722                % 00067 CFLBUS
+180511009 Junglinster, Op der   00723  00723                % 00067 CFLBUS
+180508003 Gonderange, Mierchen  00724  00724                % 00067 CFLBUS
+200417050 Kirchberg, Gare rout  00737                       % 00067 CFLBUS
+*Z 00068 CFLBUS                                             % 00068 CFLBUS
+*L 107      170101003 200417050  00649  00742               % 00068 CFLBUS
+*A vm 170101003 200417050 000039  00649  00742              % 00068 CFLBUS
+*R 1 200417050 170101003 200417050  00649  00742            % 00068 CFLBUS
+*G RGB 170101003 200417050  00649  00742                    % 00068 CFLBUS
+*A VE 170101003 200417050 000039  00649  00742              % 00068 CFLBUS
+*I FD 170101003 200417050        0001824  00649  00742      % 00068 CFLBUS
+170101003 Beaufort, Härewiss           00649                % 00068 CFLBUS
+170101006 Beaufort, Op der Gar  00650  00650                % 00068 CFLBUS
+170101001 Beaufort, Aispist     00651  00651                % 00068 CFLBUS
+170101009 Beaufort, Um Bierg    00651  00651                % 00068 CFLBUS
+170101002 Beaufort, Ennescht H  00653  00653                % 00068 CFLBUS
+170101008 Beaufort, Halerstroo  00654  00654                % 00068 CFLBUS
+170802002 Haller, Schoul        00701  00701                % 00068 CFLBUS
+170802001 Haller, Beim Basseng  00702  00702                % 00068 CFLBUS
+170804002 Waldbillig, Gemeng    00705  00705                % 00068 CFLBUS
+170804001 Waldbillig, Bëlleger  00706  00706                % 00068 CFLBUS
+170801002 Christnach, Schoulst  00707  00707                % 00068 CFLBUS
+170801001 Christnach, Hierheck  00708  00708                % 00068 CFLBUS
+160501003 Heffingen, Rue de Ch  00711  00711                % 00068 CFLBUS
+160501006 Heffingen, Abri (Cen  00712  00712                % 00068 CFLBUS
+160501004 Heffingen, Thommes    00714  00714                % 00068 CFLBUS
+160502001 Reuland               00716  00716                % 00068 CFLBUS
+180503001 Blumenthal/Blummenda  00718  00718                % 00068 CFLBUS
+180511006 Junglinster, Um Radi  00721  00721                % 00068 CFLBUS
+180512003 Junglinster, P+R      00722  00722                % 00068 CFLBUS
+180511007 Junglinster, Um Reil  00724  00724                % 00068 CFLBUS
+180511002 Junglinster, Op der   00725  00725                % 00068 CFLBUS
+180511005 Junglinster, Um Lei   00727  00727                % 00068 CFLBUS
+180511009 Junglinster, Op der   00728  00728                % 00068 CFLBUS
+180508003 Gonderange, Mierchen  00729  00729                % 00068 CFLBUS
+200417050 Kirchberg, Gare rout  00742                       % 00068 CFLBUS
+*Z 00069 CFLBUS                                             % 00069 CFLBUS
+*L 107      170101003 200417050  00844  00934               % 00069 CFLBUS
+*A vm 170101003 200417050 000182  00844  00934              % 00069 CFLBUS
+*R 1 200417050 170101003 200417050  00844  00934            % 00069 CFLBUS
+*G RGB 170101003 200417050  00844  00934                    % 00069 CFLBUS
+*A VE 170101003 200417050 000182  00844  00934              % 00069 CFLBUS
+*I FD 170101003 200417050        0001821  00844  00934      % 00069 CFLBUS
+170101003 Beaufort, Härewiss           00844                % 00069 CFLBUS
+170101006 Beaufort, Op der Gar  00845  00845                % 00069 CFLBUS
+170101001 Beaufort, Aispist     00846  00846                % 00069 CFLBUS
+170101009 Beaufort, Um Bierg    00846  00846                % 00069 CFLBUS
+170101002 Beaufort, Ennescht H  00848  00848                % 00069 CFLBUS
+170101008 Beaufort, Halerstroo  00849  00849                % 00069 CFLBUS
+170802002 Haller, Schoul        00856  00856                % 00069 CFLBUS
+170802001 Haller, Beim Basseng  00857  00857                % 00069 CFLBUS
+170804002 Waldbillig, Gemeng    00900  00900                % 00069 CFLBUS
+170804001 Waldbillig, Bëlleger  00901  00901                % 00069 CFLBUS
+170801002 Christnach, Schoulst  00902  00902                % 00069 CFLBUS
+170801001 Christnach, Hierheck  00903  00903                % 00069 CFLBUS
+160501003 Heffingen, Rue de Ch  00906  00906                % 00069 CFLBUS
+160501006 Heffingen, Abri (Cen  00907  00907                % 00069 CFLBUS
+160501004 Heffingen, Thommes    00908  00908                % 00069 CFLBUS
+160502001 Reuland               00911  00911                % 00069 CFLBUS
+180503001 Blumenthal/Blummenda  00913  00913                % 00069 CFLBUS
+180511006 Junglinster, Um Radi  00915  00915                % 00069 CFLBUS
+180512003 Junglinster, P+R      00916  00916                % 00069 CFLBUS
+180511007 Junglinster, Um Reil  00917  00917                % 00069 CFLBUS
+180511002 Junglinster, Op der   00919  00919                % 00069 CFLBUS
+180511005 Junglinster, Um Lei   00920  00920                % 00069 CFLBUS
+180511009 Junglinster, Op der   00921  00921                % 00069 CFLBUS
+180508003 Gonderange, Mierchen  00922  00922                % 00069 CFLBUS
+200417050 Kirchberg, Gare rout  00934                       % 00069 CFLBUS
+*Z 00070 CFLBUS                                             % 00070 CFLBUS
+*L 107      170101003 200417050  01644  01734               % 00070 CFLBUS
+*A vm 170101003 200417050 000182  01644  01734              % 00070 CFLBUS
+*R 1 200417050 170101003 200417050  01644  01734            % 00070 CFLBUS
+*G RGB 170101003 200417050  01644  01734                    % 00070 CFLBUS
+*A VE 170101003 200417050 000182  01644  01734              % 00070 CFLBUS
+*I FD 170101003 200417050        0001387  01644  01734      % 00070 CFLBUS
+170101003 Beaufort, Härewiss           01644                % 00070 CFLBUS
+170101006 Beaufort, Op der Gar  01645  01645                % 00070 CFLBUS
+170101001 Beaufort, Aispist     01646  01646                % 00070 CFLBUS
+170101009 Beaufort, Um Bierg    01646  01646                % 00070 CFLBUS
+170101002 Beaufort, Ennescht H  01648  01648                % 00070 CFLBUS
+170101008 Beaufort, Halerstroo  01649  01649                % 00070 CFLBUS
+170802002 Haller, Schoul        01656  01656                % 00070 CFLBUS
+170802001 Haller, Beim Basseng  01657  01657                % 00070 CFLBUS
+170804002 Waldbillig, Gemeng    01700  01700                % 00070 CFLBUS
+170804001 Waldbillig, Bëlleger  01701  01701                % 00070 CFLBUS
+170801002 Christnach, Schoulst  01702  01702                % 00070 CFLBUS
+170801001 Christnach, Hierheck  01703  01703                % 00070 CFLBUS
+160501003 Heffingen, Rue de Ch  01706  01706                % 00070 CFLBUS
+160501006 Heffingen, Abri (Cen  01707  01707                % 00070 CFLBUS
+160501004 Heffingen, Thommes    01708  01708                % 00070 CFLBUS
+160502001 Reuland               01711  01711                % 00070 CFLBUS
+180503001 Blumenthal/Blummenda  01713  01713                % 00070 CFLBUS
+180511006 Junglinster, Um Radi  01715  01715                % 00070 CFLBUS
+180512003 Junglinster, P+R      01716  01716                % 00070 CFLBUS
+180511007 Junglinster, Um Reil  01717  01717                % 00070 CFLBUS
+180511002 Junglinster, Op der   01719  01719                % 00070 CFLBUS
+180511005 Junglinster, Um Lei   01720  01720                % 00070 CFLBUS
+180511009 Junglinster, Op der   01721  01721                % 00070 CFLBUS
+180508003 Gonderange, Mierchen  01722  01722                % 00070 CFLBUS
+200417050 Kirchberg, Gare rout  01734                       % 00070 CFLBUS
+*Z 00071 CFLBUS                                             % 00071 CFLBUS
+*L 107      170101003 200417050  00849  00939               % 00071 CFLBUS
+*A vm 170101003 200417050 000183  00849  00939              % 00071 CFLBUS
+*R 1 200417050 170101003 200417050  00849  00939            % 00071 CFLBUS
+*G RGB 170101003 200417050  00849  00939                    % 00071 CFLBUS
+*A VE 170101003 200417050 000183  00849  00939              % 00071 CFLBUS
+*I FD 170101003 200417050        0001821  00849  00939      % 00071 CFLBUS
+170101003 Beaufort, Härewiss           00849                % 00071 CFLBUS
+170101006 Beaufort, Op der Gar  00850  00850                % 00071 CFLBUS
+170101001 Beaufort, Aispist     00851  00851                % 00071 CFLBUS
+170101009 Beaufort, Um Bierg    00851  00851                % 00071 CFLBUS
+170101002 Beaufort, Ennescht H  00853  00853                % 00071 CFLBUS
+170101008 Beaufort, Halerstroo  00854  00854                % 00071 CFLBUS
+170802002 Haller, Schoul        00901  00901                % 00071 CFLBUS
+170802001 Haller, Beim Basseng  00902  00902                % 00071 CFLBUS
+170804002 Waldbillig, Gemeng    00905  00905                % 00071 CFLBUS
+170804001 Waldbillig, Bëlleger  00906  00906                % 00071 CFLBUS
+170801002 Christnach, Schoulst  00907  00907                % 00071 CFLBUS
+170801001 Christnach, Hierheck  00908  00908                % 00071 CFLBUS
+160501003 Heffingen, Rue de Ch  00911  00911                % 00071 CFLBUS
+160501006 Heffingen, Abri (Cen  00912  00912                % 00071 CFLBUS
+160501004 Heffingen, Thommes    00913  00913                % 00071 CFLBUS
+160502001 Reuland               00916  00916                % 00071 CFLBUS
+180503001 Blumenthal/Blummenda  00918  00918                % 00071 CFLBUS
+180511006 Junglinster, Um Radi  00920  00920                % 00071 CFLBUS
+180512003 Junglinster, P+R      00921  00921                % 00071 CFLBUS
+180511007 Junglinster, Um Reil  00922  00922                % 00071 CFLBUS
+180511002 Junglinster, Op der   00924  00924                % 00071 CFLBUS
+180511005 Junglinster, Um Lei   00925  00925                % 00071 CFLBUS
+180511009 Junglinster, Op der   00926  00926                % 00071 CFLBUS
+180508003 Gonderange, Mierchen  00927  00927                % 00071 CFLBUS
+200417050 Kirchberg, Gare rout  00939                       % 00071 CFLBUS
+*Z 00072 CFLBUS                                             % 00072 CFLBUS
+*L 107      170101003 200417050  01649  01739               % 00072 CFLBUS
+*A vm 170101003 200417050 000183  01649  01739              % 00072 CFLBUS
+*R 1 200417050 170101003 200417050  01649  01739            % 00072 CFLBUS
+*G RGB 170101003 200417050  01649  01739                    % 00072 CFLBUS
+*A VE 170101003 200417050 000183  01649  01739              % 00072 CFLBUS
+*I FD 170101003 200417050        0001387  01649  01739      % 00072 CFLBUS
+170101003 Beaufort, Härewiss           01649                % 00072 CFLBUS
+170101006 Beaufort, Op der Gar  01650  01650                % 00072 CFLBUS
+170101001 Beaufort, Aispist     01651  01651                % 00072 CFLBUS
+170101009 Beaufort, Um Bierg    01651  01651                % 00072 CFLBUS
+170101002 Beaufort, Ennescht H  01653  01653                % 00072 CFLBUS
+170101008 Beaufort, Halerstroo  01654  01654                % 00072 CFLBUS
+170802002 Haller, Schoul        01701  01701                % 00072 CFLBUS
+170802001 Haller, Beim Basseng  01702  01702                % 00072 CFLBUS
+170804002 Waldbillig, Gemeng    01705  01705                % 00072 CFLBUS
+170804001 Waldbillig, Bëlleger  01706  01706                % 00072 CFLBUS
+170801002 Christnach, Schoulst  01707  01707                % 00072 CFLBUS
+170801001 Christnach, Hierheck  01708  01708                % 00072 CFLBUS
+160501003 Heffingen, Rue de Ch  01711  01711                % 00072 CFLBUS
+160501006 Heffingen, Abri (Cen  01712  01712                % 00072 CFLBUS
+160501004 Heffingen, Thommes    01713  01713                % 00072 CFLBUS
+160502001 Reuland               01716  01716                % 00072 CFLBUS
+180503001 Blumenthal/Blummenda  01718  01718                % 00072 CFLBUS
+180511006 Junglinster, Um Radi  01720  01720                % 00072 CFLBUS
+180512003 Junglinster, P+R      01721  01721                % 00072 CFLBUS
+180511007 Junglinster, Um Reil  01722  01722                % 00072 CFLBUS
+180511002 Junglinster, Op der   01724  01724                % 00072 CFLBUS
+180511005 Junglinster, Um Lei   01725  01725                % 00072 CFLBUS
+180511009 Junglinster, Op der   01726  01726                % 00072 CFLBUS
+180508003 Gonderange, Mierchen  01727  01727                % 00072 CFLBUS
+200417050 Kirchberg, Gare rout  01739                       % 00072 CFLBUS
+*Z 00073 CFLBUS                                             % 00073 CFLBUS
+*L 107      200417050 170101003  01025  01114               % 00073 CFLBUS
+*A vm 200417050 170101003 000184  01025  01114              % 00073 CFLBUS
+*R 2 170101003 200417050 170101003  01025  01114            % 00073 CFLBUS
+*G RGB 200417050 170101003  01025  01114                    % 00073 CFLBUS
+*A VE 200417050 170101003 000184  01025  01114              % 00073 CFLBUS
+*I FD 200417050 170101003        0001802  01025  01114      % 00073 CFLBUS
+200417050 Kirchberg, Gare rout         01025                % 00073 CFLBUS
+180508003 Gonderange, Mierchen  01037  01037                % 00073 CFLBUS
+180511009 Junglinster, Op der   01037  01037                % 00073 CFLBUS
+180511005 Junglinster, Um Lei   01038  01038                % 00073 CFLBUS
+180511002 Junglinster, Op der   01039  01039                % 00073 CFLBUS
+180511007 Junglinster, Um Reil  01041  01041                % 00073 CFLBUS
+180512003 Junglinster, P+R      01042  01042                % 00073 CFLBUS
+180511006 Junglinster, Um Radi  01043  01043                % 00073 CFLBUS
+180503001 Blumenthal/Blummenda  01046  01046                % 00073 CFLBUS
+160502001 Reuland               01048  01048                % 00073 CFLBUS
+160501004 Heffingen, Thommes    01050  01050                % 00073 CFLBUS
+160501001 Heffingen, Al Gemeng  01051  01051                % 00073 CFLBUS
+160501003 Heffingen, Rue de Ch  01052  01052                % 00073 CFLBUS
+170801001 Christnach, Hierheck  01055  01055                % 00073 CFLBUS
+170801002 Christnach, Schoulst  01056  01056                % 00073 CFLBUS
+170804001 Waldbillig, Bëlleger  01057  01057                % 00073 CFLBUS
+170804002 Waldbillig, Gemeng    01058  01058                % 00073 CFLBUS
+170802001 Haller, Beim Basseng  01101  01101                % 00073 CFLBUS
+170802002 Haller, Schoul        01102  01102                % 00073 CFLBUS
+170101008 Beaufort, Halerstroo  01109  01109                % 00073 CFLBUS
+170101002 Beaufort, Ennescht H  01110  01110                % 00073 CFLBUS
+170101009 Beaufort, Um Bierg    01111  01111                % 00073 CFLBUS
+170101001 Beaufort, Aispist     01112  01112                % 00073 CFLBUS
+170101006 Beaufort, Op der Gar  01113  01113                % 00073 CFLBUS
+170101003 Beaufort, Härewiss    01114                       % 00073 CFLBUS
+*Z 00074 CFLBUS                                             % 00074 CFLBUS
+*L 107      200417050 170101003  01825  01914               % 00074 CFLBUS
+*A vm 200417050 170101003 000184  01825  01914              % 00074 CFLBUS
+*R 2 170101003 200417050 170101003  01825  01914            % 00074 CFLBUS
+*G RGB 200417050 170101003  01825  01914                    % 00074 CFLBUS
+*A VE 200417050 170101003 000184  01825  01914              % 00074 CFLBUS
+*I FD 200417050 170101003        0002194  01825  01914      % 00074 CFLBUS
+200417050 Kirchberg, Gare rout         01825                % 00074 CFLBUS
+180508003 Gonderange, Mierchen  01837  01837                % 00074 CFLBUS
+180511009 Junglinster, Op der   01837  01837                % 00074 CFLBUS
+180511005 Junglinster, Um Lei   01838  01838                % 00074 CFLBUS
+180511002 Junglinster, Op der   01839  01839                % 00074 CFLBUS
+180511007 Junglinster, Um Reil  01841  01841                % 00074 CFLBUS
+180512003 Junglinster, P+R      01842  01842                % 00074 CFLBUS
+180511006 Junglinster, Um Radi  01843  01843                % 00074 CFLBUS
+180503001 Blumenthal/Blummenda  01846  01846                % 00074 CFLBUS
+160502001 Reuland               01848  01848                % 00074 CFLBUS
+160501004 Heffingen, Thommes    01850  01850                % 00074 CFLBUS
+160501001 Heffingen, Al Gemeng  01851  01851                % 00074 CFLBUS
+160501003 Heffingen, Rue de Ch  01852  01852                % 00074 CFLBUS
+170801001 Christnach, Hierheck  01855  01855                % 00074 CFLBUS
+170801002 Christnach, Schoulst  01856  01856                % 00074 CFLBUS
+170804001 Waldbillig, Bëlleger  01857  01857                % 00074 CFLBUS
+170804002 Waldbillig, Gemeng    01858  01858                % 00074 CFLBUS
+170802001 Haller, Beim Basseng  01901  01901                % 00074 CFLBUS
+170802002 Haller, Schoul        01902  01902                % 00074 CFLBUS
+170101008 Beaufort, Halerstroo  01909  01909                % 00074 CFLBUS
+170101002 Beaufort, Ennescht H  01910  01910                % 00074 CFLBUS
+170101009 Beaufort, Um Bierg    01911  01911                % 00074 CFLBUS
+170101001 Beaufort, Aispist     01912  01912                % 00074 CFLBUS
+170101006 Beaufort, Op der Gar  01913  01913                % 00074 CFLBUS
+170101003 Beaufort, Härewiss    01914                       % 00074 CFLBUS

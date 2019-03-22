@@ -1,0 +1,1702 @@
+*F 03 2
+*Z 01150 RGTR--                                             % 01150 RGTR--
+*L 172      200417034 220502005  00858  00949               % 01150 RGTR--
+*A BE 200417034 220502005 000016  00858  00949              % 01150 RGTR--
+*A cv 200417034 220502005 000016  00858  00949              % 01150 RGTR--
+*A cw 200417034 220502005 000016  00858  00949              % 01150 RGTR--
+*R 1 220502005 200417034 220502005  00858  00949            % 01150 RGTR--
+*G RGB 200417034 220502005  00858  00949                    % 01150 RGTR--
+*A VE 200417034 220502005 000016  00858  00949              % 01150 RGTR--
+*I FD 200417034 220502005        0002394  00858  00949      % 01150 RGTR--
+200417034 Kirchberg, Rehazente         00858                % 01150 RGTR--
+200417032 Kirchberg, Pierre We  00859  00859                % 01150 RGTR--
+200417015 Kirchberg, Hôpital    00901  00901                % 01150 RGTR--
+200417004 Kirchberg, Alphonse   00903  00903                % 01150 RGTR--
+200417039 Kirchberg, Avalon     00905  00905                % 01150 RGTR--
+200417019 Kirchberg, Konrad Ad  00906  00906                % 01150 RGTR--
+200417005 Kirchberg, Antoine d  00907  00907                % 01150 RGTR--
+200417016 Kirchberg, Jean Monn  00907  00907                % 01150 RGTR--
+200417007 Kirchberg, B.E.I.     00909  00909                % 01150 RGTR--
+200417047 Kirchberg, Rout Bréc  00911  00911                % 01150 RGTR--
+200405014 Centre, Fondation Pe  00914  00914                % 01150 RGTR--
+200405029 Luxembourg/Centre, R  00917  00917                % 01150 RGTR--
+200405023 Centre, Martyrs       00920  00920                % 01150 RGTR--
+200405026 Luxembourg/Centre, P  00922  00922                % 01150 RGTR--
+200405032 Luxembourg, Gare Cen  00924  00924                % 01150 RGTR--
+200404008 Bonnevoie, Dernier S  00926  00926                % 01150 RGTR--
+200404016 Bonnevoie, Hippodrom  00927  00927                % 01150 RGTR--
+200404028 Bonnevoie, Neufchâte  00929  00929                % 01150 RGTR--
+200304004 Howald, Jhangeli      00930  00930                % 01150 RGTR--
+200304001 Howald, Am Houwaldsb  00931  00931                % 01150 RGTR--
+200303007 Hesperange, Wollefsm  00932  00932                % 01150 RGTR--
+200303001 Hesperange, Am Kelle  00934  00934                % 01150 RGTR--
+200303006 Hesperange, Urbengss  00936  00936                % 01150 RGTR--
+200301003 Alzingen, Trapeneck   00938  00938                % 01150 RGTR--
+200301002 Alzingen, Hondsbréck  00939  00939                % 01150 RGTR--
+201103001 Weiler-la-Tour, Camp  00941  00941                % 01150 RGTR--
+201103004 Weiler-la-Tour, Schl  00942  00942                % 01150 RGTR--
+220502003 Frisange, Hau         00944  00944                % 01150 RGTR--
+220502001 Frisange, Aal Gemeng  00946  00946                % 01150 RGTR--
+220502006 Frisange, Cité Aalue  00947  00947                % 01150 RGTR--
+220502005 Frisange, Park & Rid  00949                       % 01150 RGTR--
+*Z 01151 RGTR--                                             % 01151 RGTR--
+*L 172      200417034 220502005  01558  01649               % 01151 RGTR--
+*A BE 200417034 220502005 000016  01558  01649              % 01151 RGTR--
+*A cv 200417034 220502005 000016  01558  01649              % 01151 RGTR--
+*A cw 200417034 220502005 000016  01558  01649              % 01151 RGTR--
+*R 1 220502005 200417034 220502005  01558  01649            % 01151 RGTR--
+*G RGB 200417034 220502005  01558  01649                    % 01151 RGTR--
+*A VE 200417034 220502005 000016  01558  01649              % 01151 RGTR--
+*I FD 200417034 220502005        0002011  01558  01649      % 01151 RGTR--
+200417034 Kirchberg, Rehazente         01558                % 01151 RGTR--
+200417032 Kirchberg, Pierre We  01559  01559                % 01151 RGTR--
+200417015 Kirchberg, Hôpital    01601  01601                % 01151 RGTR--
+200417004 Kirchberg, Alphonse   01603  01603                % 01151 RGTR--
+200417039 Kirchberg, Avalon     01605  01605                % 01151 RGTR--
+200417019 Kirchberg, Konrad Ad  01606  01606                % 01151 RGTR--
+200417005 Kirchberg, Antoine d  01607  01607                % 01151 RGTR--
+200417016 Kirchberg, Jean Monn  01607  01607                % 01151 RGTR--
+200417007 Kirchberg, B.E.I.     01609  01609                % 01151 RGTR--
+200417047 Kirchberg, Rout Bréc  01611  01611                % 01151 RGTR--
+200405014 Centre, Fondation Pe  01614  01614                % 01151 RGTR--
+200405029 Luxembourg/Centre, R  01617  01617                % 01151 RGTR--
+200405023 Centre, Martyrs       01620  01620                % 01151 RGTR--
+200405026 Luxembourg/Centre, P  01622  01622                % 01151 RGTR--
+200405032 Luxembourg, Gare Cen  01624  01624                % 01151 RGTR--
+200404008 Bonnevoie, Dernier S  01626  01626                % 01151 RGTR--
+200404016 Bonnevoie, Hippodrom  01627  01627                % 01151 RGTR--
+200404028 Bonnevoie, Neufchâte  01629  01629                % 01151 RGTR--
+200304004 Howald, Jhangeli      01630  01630                % 01151 RGTR--
+200304001 Howald, Am Houwaldsb  01631  01631                % 01151 RGTR--
+200303007 Hesperange, Wollefsm  01632  01632                % 01151 RGTR--
+200303001 Hesperange, Am Kelle  01634  01634                % 01151 RGTR--
+200303006 Hesperange, Urbengss  01636  01636                % 01151 RGTR--
+200301003 Alzingen, Trapeneck   01638  01638                % 01151 RGTR--
+200301002 Alzingen, Hondsbréck  01639  01639                % 01151 RGTR--
+201103001 Weiler-la-Tour, Camp  01641  01641                % 01151 RGTR--
+201103004 Weiler-la-Tour, Schl  01642  01642                % 01151 RGTR--
+220502003 Frisange, Hau         01644  01644                % 01151 RGTR--
+220502001 Frisange, Aal Gemeng  01646  01646                % 01151 RGTR--
+220502006 Frisange, Cité Aalue  01647  01647                % 01151 RGTR--
+220502005 Frisange, Park & Rid  01649                       % 01151 RGTR--
+*Z 01152 RGTR--                                             % 01152 RGTR--
+*L 172      200417034 220502005  01613  01704               % 01152 RGTR--
+*A ct 200417034 220502005 000016  01613  01704              % 01152 RGTR--
+*A cw 200417034 220502005 000016  01613  01704              % 01152 RGTR--
+*R 1 220502005 200417034 220502005  01613  01704            % 01152 RGTR--
+*G RGB 200417034 220502005  01613  01704                    % 01152 RGTR--
+*A VE 200417034 220502005 000016  01613  01704              % 01152 RGTR--
+*I FD 200417034 220502005        0002395  01613  01704      % 01152 RGTR--
+200417034 Kirchberg, Rehazente         01613                % 01152 RGTR--
+200417032 Kirchberg, Pierre We  01614  01614                % 01152 RGTR--
+200417015 Kirchberg, Hôpital    01616  01616                % 01152 RGTR--
+200417004 Kirchberg, Alphonse   01618  01618                % 01152 RGTR--
+200417039 Kirchberg, Avalon     01620  01620                % 01152 RGTR--
+200417019 Kirchberg, Konrad Ad  01621  01621                % 01152 RGTR--
+200417005 Kirchberg, Antoine d  01622  01622                % 01152 RGTR--
+200417016 Kirchberg, Jean Monn  01622  01622                % 01152 RGTR--
+200417007 Kirchberg, B.E.I.     01624  01624                % 01152 RGTR--
+200417047 Kirchberg, Rout Bréc  01626  01626                % 01152 RGTR--
+200405014 Centre, Fondation Pe  01629  01629                % 01152 RGTR--
+200405029 Luxembourg/Centre, R  01632  01632                % 01152 RGTR--
+200405023 Centre, Martyrs       01635  01635                % 01152 RGTR--
+200405026 Luxembourg/Centre, P  01637  01637                % 01152 RGTR--
+200405032 Luxembourg, Gare Cen  01639  01639                % 01152 RGTR--
+200404008 Bonnevoie, Dernier S  01641  01641                % 01152 RGTR--
+200404016 Bonnevoie, Hippodrom  01642  01642                % 01152 RGTR--
+200404028 Bonnevoie, Neufchâte  01644  01644                % 01152 RGTR--
+200304004 Howald, Jhangeli      01645  01645                % 01152 RGTR--
+200304001 Howald, Am Houwaldsb  01646  01646                % 01152 RGTR--
+200303007 Hesperange, Wollefsm  01647  01647                % 01152 RGTR--
+200303001 Hesperange, Am Kelle  01649  01649                % 01152 RGTR--
+200303006 Hesperange, Urbengss  01651  01651                % 01152 RGTR--
+200301003 Alzingen, Trapeneck   01653  01653                % 01152 RGTR--
+200301002 Alzingen, Hondsbréck  01654  01654                % 01152 RGTR--
+201103001 Weiler-la-Tour, Camp  01656  01656                % 01152 RGTR--
+201103004 Weiler-la-Tour, Schl  01657  01657                % 01152 RGTR--
+220502003 Frisange, Hau         01659  01659                % 01152 RGTR--
+220502001 Frisange, Aal Gemeng  01701  01701                % 01152 RGTR--
+220502006 Frisange, Cité Aalue  01702  01702                % 01152 RGTR--
+220502005 Frisange, Park & Rid  01704                       % 01152 RGTR--
+*Z 01153 RGTR--                                             % 01153 RGTR--
+*L 172      200417034 220502005  01628  01719               % 01153 RGTR--
+*A BE 200417034 220502005 000016  01628  01719              % 01153 RGTR--
+*A cv 200417034 220502005 000016  01628  01719              % 01153 RGTR--
+*A cw 200417034 220502005 000016  01628  01719              % 01153 RGTR--
+*R 1 220502005 200417034 220502005  01628  01719            % 01153 RGTR--
+*G RGB 200417034 220502005  01628  01719                    % 01153 RGTR--
+*A VE 200417034 220502005 000016  01628  01719              % 01153 RGTR--
+*I FD 200417034 220502005        0002080  01628  01719      % 01153 RGTR--
+200417034 Kirchberg, Rehazente         01628                % 01153 RGTR--
+200417032 Kirchberg, Pierre We  01629  01629                % 01153 RGTR--
+200417015 Kirchberg, Hôpital    01631  01631                % 01153 RGTR--
+200417004 Kirchberg, Alphonse   01633  01633                % 01153 RGTR--
+200417039 Kirchberg, Avalon     01635  01635                % 01153 RGTR--
+200417019 Kirchberg, Konrad Ad  01636  01636                % 01153 RGTR--
+200417005 Kirchberg, Antoine d  01637  01637                % 01153 RGTR--
+200417016 Kirchberg, Jean Monn  01637  01637                % 01153 RGTR--
+200417007 Kirchberg, B.E.I.     01639  01639                % 01153 RGTR--
+200417047 Kirchberg, Rout Bréc  01641  01641                % 01153 RGTR--
+200405014 Centre, Fondation Pe  01644  01644                % 01153 RGTR--
+200405029 Luxembourg/Centre, R  01647  01647                % 01153 RGTR--
+200405023 Centre, Martyrs       01650  01650                % 01153 RGTR--
+200405026 Luxembourg/Centre, P  01652  01652                % 01153 RGTR--
+200405032 Luxembourg, Gare Cen  01654  01654                % 01153 RGTR--
+200404008 Bonnevoie, Dernier S  01656  01656                % 01153 RGTR--
+200404016 Bonnevoie, Hippodrom  01657  01657                % 01153 RGTR--
+200404028 Bonnevoie, Neufchâte  01659  01659                % 01153 RGTR--
+200304004 Howald, Jhangeli      01700  01700                % 01153 RGTR--
+200304001 Howald, Am Houwaldsb  01701  01701                % 01153 RGTR--
+200303007 Hesperange, Wollefsm  01702  01702                % 01153 RGTR--
+200303001 Hesperange, Am Kelle  01704  01704                % 01153 RGTR--
+200303006 Hesperange, Urbengss  01706  01706                % 01153 RGTR--
+200301003 Alzingen, Trapeneck   01708  01708                % 01153 RGTR--
+200301002 Alzingen, Hondsbréck  01709  01709                % 01153 RGTR--
+201103001 Weiler-la-Tour, Camp  01711  01711                % 01153 RGTR--
+201103004 Weiler-la-Tour, Schl  01712  01712                % 01153 RGTR--
+220502003 Frisange, Hau         01714  01714                % 01153 RGTR--
+220502001 Frisange, Aal Gemeng  01716  01716                % 01153 RGTR--
+220502006 Frisange, Cité Aalue  01717  01717                % 01153 RGTR--
+220502005 Frisange, Park & Rid  01719                       % 01153 RGTR--
+*Z 01154 RGTR--                                             % 01154 RGTR--
+*L 172      200417034 220502005  01643  01734               % 01154 RGTR--
+*A BE 200417034 220502005 000016  01643  01734              % 01154 RGTR--
+*A cv 200417034 220502005 000016  01643  01734              % 01154 RGTR--
+*A cw 200417034 220502005 000016  01643  01734              % 01154 RGTR--
+*R 1 220502005 200417034 220502005  01643  01734            % 01154 RGTR--
+*G RGB 200417034 220502005  01643  01734                    % 01154 RGTR--
+*A VE 200417034 220502005 000016  01643  01734              % 01154 RGTR--
+*I FD 200417034 220502005        0001357  01643  01734      % 01154 RGTR--
+200417034 Kirchberg, Rehazente         01643                % 01154 RGTR--
+200417032 Kirchberg, Pierre We  01644  01644                % 01154 RGTR--
+200417015 Kirchberg, Hôpital    01646  01646                % 01154 RGTR--
+200417004 Kirchberg, Alphonse   01648  01648                % 01154 RGTR--
+200417039 Kirchberg, Avalon     01650  01650                % 01154 RGTR--
+200417019 Kirchberg, Konrad Ad  01651  01651                % 01154 RGTR--
+200417005 Kirchberg, Antoine d  01652  01652                % 01154 RGTR--
+200417016 Kirchberg, Jean Monn  01652  01652                % 01154 RGTR--
+200417007 Kirchberg, B.E.I.     01654  01654                % 01154 RGTR--
+200417047 Kirchberg, Rout Bréc  01656  01656                % 01154 RGTR--
+200405014 Centre, Fondation Pe  01659  01659                % 01154 RGTR--
+200405029 Luxembourg/Centre, R  01702  01702                % 01154 RGTR--
+200405023 Centre, Martyrs       01705  01705                % 01154 RGTR--
+200405026 Luxembourg/Centre, P  01707  01707                % 01154 RGTR--
+200405032 Luxembourg, Gare Cen  01709  01709                % 01154 RGTR--
+200404008 Bonnevoie, Dernier S  01711  01711                % 01154 RGTR--
+200404016 Bonnevoie, Hippodrom  01712  01712                % 01154 RGTR--
+200404028 Bonnevoie, Neufchâte  01714  01714                % 01154 RGTR--
+200304004 Howald, Jhangeli      01715  01715                % 01154 RGTR--
+200304001 Howald, Am Houwaldsb  01716  01716                % 01154 RGTR--
+200303007 Hesperange, Wollefsm  01717  01717                % 01154 RGTR--
+200303001 Hesperange, Am Kelle  01719  01719                % 01154 RGTR--
+200303006 Hesperange, Urbengss  01721  01721                % 01154 RGTR--
+200301003 Alzingen, Trapeneck   01723  01723                % 01154 RGTR--
+200301002 Alzingen, Hondsbréck  01724  01724                % 01154 RGTR--
+201103001 Weiler-la-Tour, Camp  01726  01726                % 01154 RGTR--
+201103004 Weiler-la-Tour, Schl  01727  01727                % 01154 RGTR--
+220502003 Frisange, Hau         01729  01729                % 01154 RGTR--
+220502001 Frisange, Aal Gemeng  01731  01731                % 01154 RGTR--
+220502006 Frisange, Cité Aalue  01732  01732                % 01154 RGTR--
+220502005 Frisange, Park & Rid  01734                       % 01154 RGTR--
+*Z 01155 RGTR--                                             % 01155 RGTR--
+*L 172      200417034 220502005  01658  01749               % 01155 RGTR--
+*A ct 200417034 220502005 000016  01658  01749              % 01155 RGTR--
+*A cw 200417034 220502005 000016  01658  01749              % 01155 RGTR--
+*R 1 220502005 200417034 220502005  01658  01749            % 01155 RGTR--
+*G RGB 200417034 220502005  01658  01749                    % 01155 RGTR--
+*A VE 200417034 220502005 000016  01658  01749              % 01155 RGTR--
+*I FD 200417034 220502005        0002396  01658  01749      % 01155 RGTR--
+200417034 Kirchberg, Rehazente         01658                % 01155 RGTR--
+200417032 Kirchberg, Pierre We  01659  01659                % 01155 RGTR--
+200417015 Kirchberg, Hôpital    01701  01701                % 01155 RGTR--
+200417004 Kirchberg, Alphonse   01703  01703                % 01155 RGTR--
+200417039 Kirchberg, Avalon     01705  01705                % 01155 RGTR--
+200417019 Kirchberg, Konrad Ad  01706  01706                % 01155 RGTR--
+200417005 Kirchberg, Antoine d  01707  01707                % 01155 RGTR--
+200417016 Kirchberg, Jean Monn  01707  01707                % 01155 RGTR--
+200417007 Kirchberg, B.E.I.     01709  01709                % 01155 RGTR--
+200417047 Kirchberg, Rout Bréc  01711  01711                % 01155 RGTR--
+200405014 Centre, Fondation Pe  01714  01714                % 01155 RGTR--
+200405029 Luxembourg/Centre, R  01717  01717                % 01155 RGTR--
+200405023 Centre, Martyrs       01720  01720                % 01155 RGTR--
+200405026 Luxembourg/Centre, P  01722  01722                % 01155 RGTR--
+200405032 Luxembourg, Gare Cen  01724  01724                % 01155 RGTR--
+200404008 Bonnevoie, Dernier S  01726  01726                % 01155 RGTR--
+200404016 Bonnevoie, Hippodrom  01727  01727                % 01155 RGTR--
+200404028 Bonnevoie, Neufchâte  01729  01729                % 01155 RGTR--
+200304004 Howald, Jhangeli      01730  01730                % 01155 RGTR--
+200304001 Howald, Am Houwaldsb  01731  01731                % 01155 RGTR--
+200303007 Hesperange, Wollefsm  01732  01732                % 01155 RGTR--
+200303001 Hesperange, Am Kelle  01734  01734                % 01155 RGTR--
+200303006 Hesperange, Urbengss  01736  01736                % 01155 RGTR--
+200301003 Alzingen, Trapeneck   01738  01738                % 01155 RGTR--
+200301002 Alzingen, Hondsbréck  01739  01739                % 01155 RGTR--
+201103001 Weiler-la-Tour, Camp  01741  01741                % 01155 RGTR--
+201103004 Weiler-la-Tour, Schl  01742  01742                % 01155 RGTR--
+220502003 Frisange, Hau         01744  01744                % 01155 RGTR--
+220502001 Frisange, Aal Gemeng  01746  01746                % 01155 RGTR--
+220502006 Frisange, Cité Aalue  01747  01747                % 01155 RGTR--
+220502005 Frisange, Park & Rid  01749                       % 01155 RGTR--
+*Z 01156 RGTR--                                             % 01156 RGTR--
+*L 172      200417034 220502005  01713  01804               % 01156 RGTR--
+*A ct 200417034 220502005 000016  01713  01804              % 01156 RGTR--
+*A cw 200417034 220502005 000016  01713  01804              % 01156 RGTR--
+*R 1 220502005 200417034 220502005  01713  01804            % 01156 RGTR--
+*G RGB 200417034 220502005  01713  01804                    % 01156 RGTR--
+*A VE 200417034 220502005 000016  01713  01804              % 01156 RGTR--
+*I FD 200417034 220502005        0002397  01713  01804      % 01156 RGTR--
+200417034 Kirchberg, Rehazente         01713                % 01156 RGTR--
+200417032 Kirchberg, Pierre We  01714  01714                % 01156 RGTR--
+200417015 Kirchberg, Hôpital    01716  01716                % 01156 RGTR--
+200417004 Kirchberg, Alphonse   01718  01718                % 01156 RGTR--
+200417039 Kirchberg, Avalon     01720  01720                % 01156 RGTR--
+200417019 Kirchberg, Konrad Ad  01721  01721                % 01156 RGTR--
+200417005 Kirchberg, Antoine d  01722  01722                % 01156 RGTR--
+200417016 Kirchberg, Jean Monn  01722  01722                % 01156 RGTR--
+200417007 Kirchberg, B.E.I.     01724  01724                % 01156 RGTR--
+200417047 Kirchberg, Rout Bréc  01726  01726                % 01156 RGTR--
+200405014 Centre, Fondation Pe  01729  01729                % 01156 RGTR--
+200405029 Luxembourg/Centre, R  01732  01732                % 01156 RGTR--
+200405023 Centre, Martyrs       01735  01735                % 01156 RGTR--
+200405026 Luxembourg/Centre, P  01737  01737                % 01156 RGTR--
+200405032 Luxembourg, Gare Cen  01739  01739                % 01156 RGTR--
+200404008 Bonnevoie, Dernier S  01741  01741                % 01156 RGTR--
+200404016 Bonnevoie, Hippodrom  01742  01742                % 01156 RGTR--
+200404028 Bonnevoie, Neufchâte  01744  01744                % 01156 RGTR--
+200304004 Howald, Jhangeli      01745  01745                % 01156 RGTR--
+200304001 Howald, Am Houwaldsb  01746  01746                % 01156 RGTR--
+200303007 Hesperange, Wollefsm  01747  01747                % 01156 RGTR--
+200303001 Hesperange, Am Kelle  01749  01749                % 01156 RGTR--
+200303006 Hesperange, Urbengss  01751  01751                % 01156 RGTR--
+200301003 Alzingen, Trapeneck   01753  01753                % 01156 RGTR--
+200301002 Alzingen, Hondsbréck  01754  01754                % 01156 RGTR--
+201103001 Weiler-la-Tour, Camp  01756  01756                % 01156 RGTR--
+201103004 Weiler-la-Tour, Schl  01757  01757                % 01156 RGTR--
+220502003 Frisange, Hau         01759  01759                % 01156 RGTR--
+220502001 Frisange, Aal Gemeng  01801  01801                % 01156 RGTR--
+220502006 Frisange, Cité Aalue  01802  01802                % 01156 RGTR--
+220502005 Frisange, Park & Rid  01804                       % 01156 RGTR--
+*Z 01157 RGTR--                                             % 01157 RGTR--
+*L 172      200417034 220502005  01728  01819               % 01157 RGTR--
+*A BE 200417034 220502005 000016  01728  01819              % 01157 RGTR--
+*A cv 200417034 220502005 000016  01728  01819              % 01157 RGTR--
+*A cw 200417034 220502005 000016  01728  01819              % 01157 RGTR--
+*R 1 220502005 200417034 220502005  01728  01819            % 01157 RGTR--
+*G RGB 200417034 220502005  01728  01819                    % 01157 RGTR--
+*A VE 200417034 220502005 000016  01728  01819              % 01157 RGTR--
+*I FD 200417034 220502005        0002398  01728  01819      % 01157 RGTR--
+200417034 Kirchberg, Rehazente         01728                % 01157 RGTR--
+200417032 Kirchberg, Pierre We  01729  01729                % 01157 RGTR--
+200417015 Kirchberg, Hôpital    01731  01731                % 01157 RGTR--
+200417004 Kirchberg, Alphonse   01733  01733                % 01157 RGTR--
+200417039 Kirchberg, Avalon     01735  01735                % 01157 RGTR--
+200417019 Kirchberg, Konrad Ad  01736  01736                % 01157 RGTR--
+200417005 Kirchberg, Antoine d  01737  01737                % 01157 RGTR--
+200417016 Kirchberg, Jean Monn  01737  01737                % 01157 RGTR--
+200417007 Kirchberg, B.E.I.     01739  01739                % 01157 RGTR--
+200417047 Kirchberg, Rout Bréc  01741  01741                % 01157 RGTR--
+200405014 Centre, Fondation Pe  01744  01744                % 01157 RGTR--
+200405029 Luxembourg/Centre, R  01747  01747                % 01157 RGTR--
+200405023 Centre, Martyrs       01750  01750                % 01157 RGTR--
+200405026 Luxembourg/Centre, P  01752  01752                % 01157 RGTR--
+200405032 Luxembourg, Gare Cen  01754  01754                % 01157 RGTR--
+200404008 Bonnevoie, Dernier S  01756  01756                % 01157 RGTR--
+200404016 Bonnevoie, Hippodrom  01757  01757                % 01157 RGTR--
+200404028 Bonnevoie, Neufchâte  01759  01759                % 01157 RGTR--
+200304004 Howald, Jhangeli      01800  01800                % 01157 RGTR--
+200304001 Howald, Am Houwaldsb  01801  01801                % 01157 RGTR--
+200303007 Hesperange, Wollefsm  01802  01802                % 01157 RGTR--
+200303001 Hesperange, Am Kelle  01804  01804                % 01157 RGTR--
+200303006 Hesperange, Urbengss  01806  01806                % 01157 RGTR--
+200301003 Alzingen, Trapeneck   01808  01808                % 01157 RGTR--
+200301002 Alzingen, Hondsbréck  01809  01809                % 01157 RGTR--
+201103001 Weiler-la-Tour, Camp  01811  01811                % 01157 RGTR--
+201103004 Weiler-la-Tour, Schl  01812  01812                % 01157 RGTR--
+220502003 Frisange, Hau         01814  01814                % 01157 RGTR--
+220502001 Frisange, Aal Gemeng  01816  01816                % 01157 RGTR--
+220502006 Frisange, Cité Aalue  01817  01817                % 01157 RGTR--
+220502005 Frisange, Park & Rid  01819                       % 01157 RGTR--
+*Z 01158 RGTR--                                             % 01158 RGTR--
+*L 172      200417034 220502005  01743  01834               % 01158 RGTR--
+*A ct 200417034 220502005 000016  01743  01834              % 01158 RGTR--
+*A cw 200417034 220502005 000016  01743  01834              % 01158 RGTR--
+*R 1 220502005 200417034 220502005  01743  01834            % 01158 RGTR--
+*G RGB 200417034 220502005  01743  01834                    % 01158 RGTR--
+*A VE 200417034 220502005 000016  01743  01834              % 01158 RGTR--
+*I FD 200417034 220502005        0002399  01743  01834      % 01158 RGTR--
+200417034 Kirchberg, Rehazente         01743                % 01158 RGTR--
+200417032 Kirchberg, Pierre We  01744  01744                % 01158 RGTR--
+200417015 Kirchberg, Hôpital    01746  01746                % 01158 RGTR--
+200417004 Kirchberg, Alphonse   01748  01748                % 01158 RGTR--
+200417039 Kirchberg, Avalon     01750  01750                % 01158 RGTR--
+200417019 Kirchberg, Konrad Ad  01751  01751                % 01158 RGTR--
+200417005 Kirchberg, Antoine d  01752  01752                % 01158 RGTR--
+200417016 Kirchberg, Jean Monn  01752  01752                % 01158 RGTR--
+200417007 Kirchberg, B.E.I.     01754  01754                % 01158 RGTR--
+200417047 Kirchberg, Rout Bréc  01756  01756                % 01158 RGTR--
+200405014 Centre, Fondation Pe  01759  01759                % 01158 RGTR--
+200405029 Luxembourg/Centre, R  01802  01802                % 01158 RGTR--
+200405023 Centre, Martyrs       01805  01805                % 01158 RGTR--
+200405026 Luxembourg/Centre, P  01807  01807                % 01158 RGTR--
+200405032 Luxembourg, Gare Cen  01809  01809                % 01158 RGTR--
+200404008 Bonnevoie, Dernier S  01811  01811                % 01158 RGTR--
+200404016 Bonnevoie, Hippodrom  01812  01812                % 01158 RGTR--
+200404028 Bonnevoie, Neufchâte  01814  01814                % 01158 RGTR--
+200304004 Howald, Jhangeli      01815  01815                % 01158 RGTR--
+200304001 Howald, Am Houwaldsb  01816  01816                % 01158 RGTR--
+200303007 Hesperange, Wollefsm  01817  01817                % 01158 RGTR--
+200303001 Hesperange, Am Kelle  01819  01819                % 01158 RGTR--
+200303006 Hesperange, Urbengss  01821  01821                % 01158 RGTR--
+200301003 Alzingen, Trapeneck   01823  01823                % 01158 RGTR--
+200301002 Alzingen, Hondsbréck  01824  01824                % 01158 RGTR--
+201103001 Weiler-la-Tour, Camp  01826  01826                % 01158 RGTR--
+201103004 Weiler-la-Tour, Schl  01827  01827                % 01158 RGTR--
+220502003 Frisange, Hau         01829  01829                % 01158 RGTR--
+220502001 Frisange, Aal Gemeng  01831  01831                % 01158 RGTR--
+220502006 Frisange, Cité Aalue  01832  01832                % 01158 RGTR--
+220502005 Frisange, Park & Rid  01834                       % 01158 RGTR--
+*Z 01159 RGTR--                                             % 01159 RGTR--
+*L 172      200417034 220502005  01758  01849               % 01159 RGTR--
+*A BE 200417034 220502005 000016  01758  01849              % 01159 RGTR--
+*A cv 200417034 220502005 000016  01758  01849              % 01159 RGTR--
+*A cw 200417034 220502005 000016  01758  01849              % 01159 RGTR--
+*R 1 220502005 200417034 220502005  01758  01849            % 01159 RGTR--
+*G RGB 200417034 220502005  01758  01849                    % 01159 RGTR--
+*A VE 200417034 220502005 000016  01758  01849              % 01159 RGTR--
+*I FD 200417034 220502005        0002400  01758  01849      % 01159 RGTR--
+200417034 Kirchberg, Rehazente         01758                % 01159 RGTR--
+200417032 Kirchberg, Pierre We  01759  01759                % 01159 RGTR--
+200417015 Kirchberg, Hôpital    01801  01801                % 01159 RGTR--
+200417004 Kirchberg, Alphonse   01803  01803                % 01159 RGTR--
+200417039 Kirchberg, Avalon     01805  01805                % 01159 RGTR--
+200417019 Kirchberg, Konrad Ad  01806  01806                % 01159 RGTR--
+200417005 Kirchberg, Antoine d  01807  01807                % 01159 RGTR--
+200417016 Kirchberg, Jean Monn  01807  01807                % 01159 RGTR--
+200417007 Kirchberg, B.E.I.     01809  01809                % 01159 RGTR--
+200417047 Kirchberg, Rout Bréc  01811  01811                % 01159 RGTR--
+200405014 Centre, Fondation Pe  01814  01814                % 01159 RGTR--
+200405029 Luxembourg/Centre, R  01817  01817                % 01159 RGTR--
+200405023 Centre, Martyrs       01820  01820                % 01159 RGTR--
+200405026 Luxembourg/Centre, P  01822  01822                % 01159 RGTR--
+200405032 Luxembourg, Gare Cen  01824  01824                % 01159 RGTR--
+200404008 Bonnevoie, Dernier S  01826  01826                % 01159 RGTR--
+200404016 Bonnevoie, Hippodrom  01827  01827                % 01159 RGTR--
+200404028 Bonnevoie, Neufchâte  01829  01829                % 01159 RGTR--
+200304004 Howald, Jhangeli      01830  01830                % 01159 RGTR--
+200304001 Howald, Am Houwaldsb  01831  01831                % 01159 RGTR--
+200303007 Hesperange, Wollefsm  01832  01832                % 01159 RGTR--
+200303001 Hesperange, Am Kelle  01834  01834                % 01159 RGTR--
+200303006 Hesperange, Urbengss  01836  01836                % 01159 RGTR--
+200301003 Alzingen, Trapeneck   01838  01838                % 01159 RGTR--
+200301002 Alzingen, Hondsbréck  01839  01839                % 01159 RGTR--
+201103001 Weiler-la-Tour, Camp  01841  01841                % 01159 RGTR--
+201103004 Weiler-la-Tour, Schl  01842  01842                % 01159 RGTR--
+220502003 Frisange, Hau         01844  01844                % 01159 RGTR--
+220502001 Frisange, Aal Gemeng  01846  01846                % 01159 RGTR--
+220502006 Frisange, Cité Aalue  01847  01847                % 01159 RGTR--
+220502005 Frisange, Park & Rid  01849                       % 01159 RGTR--
+*Z 01160 RGTR--                                             % 01160 RGTR--
+*L 172      200417034 220502005  01813  01904               % 01160 RGTR--
+*A BE 200417034 220502005 000016  01813  01904              % 01160 RGTR--
+*A cv 200417034 220502005 000016  01813  01904              % 01160 RGTR--
+*A cw 200417034 220502005 000016  01813  01904              % 01160 RGTR--
+*R 1 220502005 200417034 220502005  01813  01904            % 01160 RGTR--
+*G RGB 200417034 220502005  01813  01904                    % 01160 RGTR--
+*A VE 200417034 220502005 000016  01813  01904              % 01160 RGTR--
+*I FD 200417034 220502005        0002401  01813  01904      % 01160 RGTR--
+200417034 Kirchberg, Rehazente         01813                % 01160 RGTR--
+200417032 Kirchberg, Pierre We  01814  01814                % 01160 RGTR--
+200417015 Kirchberg, Hôpital    01816  01816                % 01160 RGTR--
+200417004 Kirchberg, Alphonse   01818  01818                % 01160 RGTR--
+200417039 Kirchberg, Avalon     01820  01820                % 01160 RGTR--
+200417019 Kirchberg, Konrad Ad  01821  01821                % 01160 RGTR--
+200417005 Kirchberg, Antoine d  01822  01822                % 01160 RGTR--
+200417016 Kirchberg, Jean Monn  01822  01822                % 01160 RGTR--
+200417007 Kirchberg, B.E.I.     01824  01824                % 01160 RGTR--
+200417047 Kirchberg, Rout Bréc  01826  01826                % 01160 RGTR--
+200405014 Centre, Fondation Pe  01829  01829                % 01160 RGTR--
+200405029 Luxembourg/Centre, R  01832  01832                % 01160 RGTR--
+200405023 Centre, Martyrs       01835  01835                % 01160 RGTR--
+200405026 Luxembourg/Centre, P  01837  01837                % 01160 RGTR--
+200405032 Luxembourg, Gare Cen  01839  01839                % 01160 RGTR--
+200404008 Bonnevoie, Dernier S  01841  01841                % 01160 RGTR--
+200404016 Bonnevoie, Hippodrom  01842  01842                % 01160 RGTR--
+200404028 Bonnevoie, Neufchâte  01844  01844                % 01160 RGTR--
+200304004 Howald, Jhangeli      01845  01845                % 01160 RGTR--
+200304001 Howald, Am Houwaldsb  01846  01846                % 01160 RGTR--
+200303007 Hesperange, Wollefsm  01847  01847                % 01160 RGTR--
+200303001 Hesperange, Am Kelle  01849  01849                % 01160 RGTR--
+200303006 Hesperange, Urbengss  01851  01851                % 01160 RGTR--
+200301003 Alzingen, Trapeneck   01853  01853                % 01160 RGTR--
+200301002 Alzingen, Hondsbréck  01854  01854                % 01160 RGTR--
+201103001 Weiler-la-Tour, Camp  01856  01856                % 01160 RGTR--
+201103004 Weiler-la-Tour, Schl  01857  01857                % 01160 RGTR--
+220502003 Frisange, Hau         01859  01859                % 01160 RGTR--
+220502001 Frisange, Aal Gemeng  01901  01901                % 01160 RGTR--
+220502006 Frisange, Cité Aalue  01902  01902                % 01160 RGTR--
+220502005 Frisange, Park & Rid  01904                       % 01160 RGTR--
+*Z 01161 RGTR--                                             % 01161 RGTR--
+*L 172      200417034 220502005  01828  01919               % 01161 RGTR--
+*A ct 200417034 220502005 000016  01828  01919              % 01161 RGTR--
+*A cw 200417034 220502005 000016  01828  01919              % 01161 RGTR--
+*R 1 220502005 200417034 220502005  01828  01919            % 01161 RGTR--
+*G RGB 200417034 220502005  01828  01919                    % 01161 RGTR--
+*A VE 200417034 220502005 000016  01828  01919              % 01161 RGTR--
+*I FD 200417034 220502005        0002402  01828  01919      % 01161 RGTR--
+200417034 Kirchberg, Rehazente         01828                % 01161 RGTR--
+200417032 Kirchberg, Pierre We  01829  01829                % 01161 RGTR--
+200417015 Kirchberg, Hôpital    01831  01831                % 01161 RGTR--
+200417004 Kirchberg, Alphonse   01833  01833                % 01161 RGTR--
+200417039 Kirchberg, Avalon     01835  01835                % 01161 RGTR--
+200417019 Kirchberg, Konrad Ad  01836  01836                % 01161 RGTR--
+200417005 Kirchberg, Antoine d  01837  01837                % 01161 RGTR--
+200417016 Kirchberg, Jean Monn  01837  01837                % 01161 RGTR--
+200417007 Kirchberg, B.E.I.     01839  01839                % 01161 RGTR--
+200417047 Kirchberg, Rout Bréc  01841  01841                % 01161 RGTR--
+200405014 Centre, Fondation Pe  01844  01844                % 01161 RGTR--
+200405029 Luxembourg/Centre, R  01847  01847                % 01161 RGTR--
+200405023 Centre, Martyrs       01850  01850                % 01161 RGTR--
+200405026 Luxembourg/Centre, P  01852  01852                % 01161 RGTR--
+200405032 Luxembourg, Gare Cen  01854  01854                % 01161 RGTR--
+200404008 Bonnevoie, Dernier S  01856  01856                % 01161 RGTR--
+200404016 Bonnevoie, Hippodrom  01857  01857                % 01161 RGTR--
+200404028 Bonnevoie, Neufchâte  01859  01859                % 01161 RGTR--
+200304004 Howald, Jhangeli      01900  01900                % 01161 RGTR--
+200304001 Howald, Am Houwaldsb  01901  01901                % 01161 RGTR--
+200303007 Hesperange, Wollefsm  01902  01902                % 01161 RGTR--
+200303001 Hesperange, Am Kelle  01904  01904                % 01161 RGTR--
+200303006 Hesperange, Urbengss  01906  01906                % 01161 RGTR--
+200301003 Alzingen, Trapeneck   01908  01908                % 01161 RGTR--
+200301002 Alzingen, Hondsbréck  01909  01909                % 01161 RGTR--
+201103001 Weiler-la-Tour, Camp  01911  01911                % 01161 RGTR--
+201103004 Weiler-la-Tour, Schl  01912  01912                % 01161 RGTR--
+220502003 Frisange, Hau         01914  01914                % 01161 RGTR--
+220502001 Frisange, Aal Gemeng  01916  01916                % 01161 RGTR--
+220502006 Frisange, Cité Aalue  01917  01917                % 01161 RGTR--
+220502005 Frisange, Park & Rid  01919                       % 01161 RGTR--
+*Z 01162 RGTR--                                             % 01162 RGTR--
+*L 172      200417034 220502005  00958  01039               % 01162 RGTR--
+*A BE 200417034 220502005 000016  00958  01039              % 01162 RGTR--
+*A cv 200417034 220502005 000016  00958  01039              % 01162 RGTR--
+*A cw 200417034 220502005 000016  00958  01039              % 01162 RGTR--
+*R 1 220502005 200417034 220502005  00958  01039            % 01162 RGTR--
+*G RGB 200417034 220502005  00958  01039                    % 01162 RGTR--
+*A VE 200417034 220502005 000016  00958  01039              % 01162 RGTR--
+*I FD 200417034 220502005        0002006  00958  01039      % 01162 RGTR--
+200417034 Kirchberg, Rehazente         00958                % 01162 RGTR--
+200417032 Kirchberg, Pierre We  00959  00959                % 01162 RGTR--
+200417015 Kirchberg, Hôpital    01000  01000                % 01162 RGTR--
+200417004 Kirchberg, Alphonse   01002  01002                % 01162 RGTR--
+200417039 Kirchberg, Avalon     01003  01003                % 01162 RGTR--
+200417019 Kirchberg, Konrad Ad  01004  01004                % 01162 RGTR--
+200417005 Kirchberg, Antoine d  01005  01005                % 01162 RGTR--
+200417016 Kirchberg, Jean Monn  01006  01006                % 01162 RGTR--
+200417007 Kirchberg, B.E.I.     01007  01007                % 01162 RGTR--
+200417047 Kirchberg, Rout Bréc  01009  01009                % 01162 RGTR--
+200405014 Centre, Fondation Pe  01011  01011                % 01162 RGTR--
+200405029 Luxembourg/Centre, R  01013  01013                % 01162 RGTR--
+200405023 Centre, Martyrs       01016  01016                % 01162 RGTR--
+200405026 Luxembourg/Centre, P  01017  01017                % 01162 RGTR--
+200405032 Luxembourg, Gare Cen  01019  01019                % 01162 RGTR--
+200404008 Bonnevoie, Dernier S  01021  01021                % 01162 RGTR--
+200404016 Bonnevoie, Hippodrom  01022  01022                % 01162 RGTR--
+200404028 Bonnevoie, Neufchâte  01022  01022                % 01162 RGTR--
+200304004 Howald, Jhangeli      01023  01023                % 01162 RGTR--
+200304001 Howald, Am Houwaldsb  01024  01024                % 01162 RGTR--
+200303007 Hesperange, Wollefsm  01025  01025                % 01162 RGTR--
+200303001 Hesperange, Am Kelle  01027  01027                % 01162 RGTR--
+200303006 Hesperange, Urbengss  01028  01028                % 01162 RGTR--
+200301003 Alzingen, Trapeneck   01029  01029                % 01162 RGTR--
+200301002 Alzingen, Hondsbréck  01030  01030                % 01162 RGTR--
+201103001 Weiler-la-Tour, Camp  01032  01032                % 01162 RGTR--
+201103004 Weiler-la-Tour, Schl  01033  01033                % 01162 RGTR--
+220502003 Frisange, Hau         01035  01035                % 01162 RGTR--
+220502001 Frisange, Aal Gemeng  01036  01036                % 01162 RGTR--
+220502006 Frisange, Cité Aalue  01037  01037                % 01162 RGTR--
+220502005 Frisange, Park & Rid  01039                       % 01162 RGTR--
+*Z 01163 RGTR--                                             % 01163 RGTR--
+*L 172      200417034 220502005  01058  01139               % 01163 RGTR--
+*A ct 200417034 220502005 000016  01058  01139              % 01163 RGTR--
+*A cw 200417034 220502005 000016  01058  01139              % 01163 RGTR--
+*R 1 220502005 200417034 220502005  01058  01139            % 01163 RGTR--
+*G RGB 200417034 220502005  01058  01139                    % 01163 RGTR--
+*A VE 200417034 220502005 000016  01058  01139              % 01163 RGTR--
+*I FD 200417034 220502005        0002004  01058  01139      % 01163 RGTR--
+200417034 Kirchberg, Rehazente         01058                % 01163 RGTR--
+200417032 Kirchberg, Pierre We  01059  01059                % 01163 RGTR--
+200417015 Kirchberg, Hôpital    01100  01100                % 01163 RGTR--
+200417004 Kirchberg, Alphonse   01102  01102                % 01163 RGTR--
+200417039 Kirchberg, Avalon     01103  01103                % 01163 RGTR--
+200417019 Kirchberg, Konrad Ad  01104  01104                % 01163 RGTR--
+200417005 Kirchberg, Antoine d  01105  01105                % 01163 RGTR--
+200417016 Kirchberg, Jean Monn  01106  01106                % 01163 RGTR--
+200417007 Kirchberg, B.E.I.     01107  01107                % 01163 RGTR--
+200417047 Kirchberg, Rout Bréc  01109  01109                % 01163 RGTR--
+200405014 Centre, Fondation Pe  01111  01111                % 01163 RGTR--
+200405029 Luxembourg/Centre, R  01113  01113                % 01163 RGTR--
+200405023 Centre, Martyrs       01116  01116                % 01163 RGTR--
+200405026 Luxembourg/Centre, P  01117  01117                % 01163 RGTR--
+200405032 Luxembourg, Gare Cen  01119  01119                % 01163 RGTR--
+200404008 Bonnevoie, Dernier S  01121  01121                % 01163 RGTR--
+200404016 Bonnevoie, Hippodrom  01122  01122                % 01163 RGTR--
+200404028 Bonnevoie, Neufchâte  01122  01122                % 01163 RGTR--
+200304004 Howald, Jhangeli      01123  01123                % 01163 RGTR--
+200304001 Howald, Am Houwaldsb  01124  01124                % 01163 RGTR--
+200303007 Hesperange, Wollefsm  01125  01125                % 01163 RGTR--
+200303001 Hesperange, Am Kelle  01127  01127                % 01163 RGTR--
+200303006 Hesperange, Urbengss  01128  01128                % 01163 RGTR--
+200301003 Alzingen, Trapeneck   01129  01129                % 01163 RGTR--
+200301002 Alzingen, Hondsbréck  01130  01130                % 01163 RGTR--
+201103001 Weiler-la-Tour, Camp  01132  01132                % 01163 RGTR--
+201103004 Weiler-la-Tour, Schl  01133  01133                % 01163 RGTR--
+220502003 Frisange, Hau         01135  01135                % 01163 RGTR--
+220502001 Frisange, Aal Gemeng  01136  01136                % 01163 RGTR--
+220502006 Frisange, Cité Aalue  01137  01137                % 01163 RGTR--
+220502005 Frisange, Park & Rid  01139                       % 01163 RGTR--
+*Z 01164 RGTR--                                             % 01164 RGTR--
+*L 172      200417034 220502005  01158  01239               % 01164 RGTR--
+*A BE 200417034 220502005 000016  01158  01239              % 01164 RGTR--
+*A cv 200417034 220502005 000016  01158  01239              % 01164 RGTR--
+*A cw 200417034 220502005 000016  01158  01239              % 01164 RGTR--
+*R 1 220502005 200417034 220502005  01158  01239            % 01164 RGTR--
+*G RGB 200417034 220502005  01158  01239                    % 01164 RGTR--
+*A VE 200417034 220502005 000016  01158  01239              % 01164 RGTR--
+*I FD 200417034 220502005        0002007  01158  01239      % 01164 RGTR--
+200417034 Kirchberg, Rehazente         01158                % 01164 RGTR--
+200417032 Kirchberg, Pierre We  01159  01159                % 01164 RGTR--
+200417015 Kirchberg, Hôpital    01200  01200                % 01164 RGTR--
+200417004 Kirchberg, Alphonse   01202  01202                % 01164 RGTR--
+200417039 Kirchberg, Avalon     01203  01203                % 01164 RGTR--
+200417019 Kirchberg, Konrad Ad  01204  01204                % 01164 RGTR--
+200417005 Kirchberg, Antoine d  01205  01205                % 01164 RGTR--
+200417016 Kirchberg, Jean Monn  01206  01206                % 01164 RGTR--
+200417007 Kirchberg, B.E.I.     01207  01207                % 01164 RGTR--
+200417047 Kirchberg, Rout Bréc  01209  01209                % 01164 RGTR--
+200405014 Centre, Fondation Pe  01211  01211                % 01164 RGTR--
+200405029 Luxembourg/Centre, R  01213  01213                % 01164 RGTR--
+200405023 Centre, Martyrs       01216  01216                % 01164 RGTR--
+200405026 Luxembourg/Centre, P  01217  01217                % 01164 RGTR--
+200405032 Luxembourg, Gare Cen  01219  01219                % 01164 RGTR--
+200404008 Bonnevoie, Dernier S  01221  01221                % 01164 RGTR--
+200404016 Bonnevoie, Hippodrom  01222  01222                % 01164 RGTR--
+200404028 Bonnevoie, Neufchâte  01222  01222                % 01164 RGTR--
+200304004 Howald, Jhangeli      01223  01223                % 01164 RGTR--
+200304001 Howald, Am Houwaldsb  01224  01224                % 01164 RGTR--
+200303007 Hesperange, Wollefsm  01225  01225                % 01164 RGTR--
+200303001 Hesperange, Am Kelle  01227  01227                % 01164 RGTR--
+200303006 Hesperange, Urbengss  01228  01228                % 01164 RGTR--
+200301003 Alzingen, Trapeneck   01229  01229                % 01164 RGTR--
+200301002 Alzingen, Hondsbréck  01230  01230                % 01164 RGTR--
+201103001 Weiler-la-Tour, Camp  01232  01232                % 01164 RGTR--
+201103004 Weiler-la-Tour, Schl  01233  01233                % 01164 RGTR--
+220502003 Frisange, Hau         01235  01235                % 01164 RGTR--
+220502001 Frisange, Aal Gemeng  01236  01236                % 01164 RGTR--
+220502006 Frisange, Cité Aalue  01237  01237                % 01164 RGTR--
+220502005 Frisange, Park & Rid  01239                       % 01164 RGTR--
+*Z 01165 RGTR--                                             % 01165 RGTR--
+*L 172      200417034 220502005  01258  01339               % 01165 RGTR--
+*A ct 200417034 220502005 000016  01258  01339              % 01165 RGTR--
+*A cw 200417034 220502005 000016  01258  01339              % 01165 RGTR--
+*R 1 220502005 200417034 220502005  01258  01339            % 01165 RGTR--
+*G RGB 200417034 220502005  01258  01339                    % 01165 RGTR--
+*A VE 200417034 220502005 000016  01258  01339              % 01165 RGTR--
+*I FD 200417034 220502005        0002008  01258  01339      % 01165 RGTR--
+200417034 Kirchberg, Rehazente         01258                % 01165 RGTR--
+200417032 Kirchberg, Pierre We  01259  01259                % 01165 RGTR--
+200417015 Kirchberg, Hôpital    01300  01300                % 01165 RGTR--
+200417004 Kirchberg, Alphonse   01302  01302                % 01165 RGTR--
+200417039 Kirchberg, Avalon     01303  01303                % 01165 RGTR--
+200417019 Kirchberg, Konrad Ad  01304  01304                % 01165 RGTR--
+200417005 Kirchberg, Antoine d  01305  01305                % 01165 RGTR--
+200417016 Kirchberg, Jean Monn  01306  01306                % 01165 RGTR--
+200417007 Kirchberg, B.E.I.     01307  01307                % 01165 RGTR--
+200417047 Kirchberg, Rout Bréc  01309  01309                % 01165 RGTR--
+200405014 Centre, Fondation Pe  01311  01311                % 01165 RGTR--
+200405029 Luxembourg/Centre, R  01313  01313                % 01165 RGTR--
+200405023 Centre, Martyrs       01316  01316                % 01165 RGTR--
+200405026 Luxembourg/Centre, P  01317  01317                % 01165 RGTR--
+200405032 Luxembourg, Gare Cen  01319  01319                % 01165 RGTR--
+200404008 Bonnevoie, Dernier S  01321  01321                % 01165 RGTR--
+200404016 Bonnevoie, Hippodrom  01322  01322                % 01165 RGTR--
+200404028 Bonnevoie, Neufchâte  01322  01322                % 01165 RGTR--
+200304004 Howald, Jhangeli      01323  01323                % 01165 RGTR--
+200304001 Howald, Am Houwaldsb  01324  01324                % 01165 RGTR--
+200303007 Hesperange, Wollefsm  01325  01325                % 01165 RGTR--
+200303001 Hesperange, Am Kelle  01327  01327                % 01165 RGTR--
+200303006 Hesperange, Urbengss  01328  01328                % 01165 RGTR--
+200301003 Alzingen, Trapeneck   01329  01329                % 01165 RGTR--
+200301002 Alzingen, Hondsbréck  01330  01330                % 01165 RGTR--
+201103001 Weiler-la-Tour, Camp  01332  01332                % 01165 RGTR--
+201103004 Weiler-la-Tour, Schl  01333  01333                % 01165 RGTR--
+220502003 Frisange, Hau         01335  01335                % 01165 RGTR--
+220502001 Frisange, Aal Gemeng  01336  01336                % 01165 RGTR--
+220502006 Frisange, Cité Aalue  01337  01337                % 01165 RGTR--
+220502005 Frisange, Park & Rid  01339                       % 01165 RGTR--
+*Z 01166 RGTR--                                             % 01166 RGTR--
+*L 172      200417034 220502005  01358  01439               % 01166 RGTR--
+*A BE 200417034 220502005 000016  01358  01439              % 01166 RGTR--
+*A cv 200417034 220502005 000016  01358  01439              % 01166 RGTR--
+*A cw 200417034 220502005 000016  01358  01439              % 01166 RGTR--
+*R 1 220502005 200417034 220502005  01358  01439            % 01166 RGTR--
+*G RGB 200417034 220502005  01358  01439                    % 01166 RGTR--
+*A VE 200417034 220502005 000016  01358  01439              % 01166 RGTR--
+*I FD 200417034 220502005        0002009  01358  01439      % 01166 RGTR--
+200417034 Kirchberg, Rehazente         01358                % 01166 RGTR--
+200417032 Kirchberg, Pierre We  01359  01359                % 01166 RGTR--
+200417015 Kirchberg, Hôpital    01400  01400                % 01166 RGTR--
+200417004 Kirchberg, Alphonse   01402  01402                % 01166 RGTR--
+200417039 Kirchberg, Avalon     01403  01403                % 01166 RGTR--
+200417019 Kirchberg, Konrad Ad  01404  01404                % 01166 RGTR--
+200417005 Kirchberg, Antoine d  01405  01405                % 01166 RGTR--
+200417016 Kirchberg, Jean Monn  01406  01406                % 01166 RGTR--
+200417007 Kirchberg, B.E.I.     01407  01407                % 01166 RGTR--
+200417047 Kirchberg, Rout Bréc  01409  01409                % 01166 RGTR--
+200405014 Centre, Fondation Pe  01411  01411                % 01166 RGTR--
+200405029 Luxembourg/Centre, R  01413  01413                % 01166 RGTR--
+200405023 Centre, Martyrs       01416  01416                % 01166 RGTR--
+200405026 Luxembourg/Centre, P  01417  01417                % 01166 RGTR--
+200405032 Luxembourg, Gare Cen  01419  01419                % 01166 RGTR--
+200404008 Bonnevoie, Dernier S  01421  01421                % 01166 RGTR--
+200404016 Bonnevoie, Hippodrom  01422  01422                % 01166 RGTR--
+200404028 Bonnevoie, Neufchâte  01422  01422                % 01166 RGTR--
+200304004 Howald, Jhangeli      01423  01423                % 01166 RGTR--
+200304001 Howald, Am Houwaldsb  01424  01424                % 01166 RGTR--
+200303007 Hesperange, Wollefsm  01425  01425                % 01166 RGTR--
+200303001 Hesperange, Am Kelle  01427  01427                % 01166 RGTR--
+200303006 Hesperange, Urbengss  01428  01428                % 01166 RGTR--
+200301003 Alzingen, Trapeneck   01429  01429                % 01166 RGTR--
+200301002 Alzingen, Hondsbréck  01430  01430                % 01166 RGTR--
+201103001 Weiler-la-Tour, Camp  01432  01432                % 01166 RGTR--
+201103004 Weiler-la-Tour, Schl  01433  01433                % 01166 RGTR--
+220502003 Frisange, Hau         01435  01435                % 01166 RGTR--
+220502001 Frisange, Aal Gemeng  01436  01436                % 01166 RGTR--
+220502006 Frisange, Cité Aalue  01437  01437                % 01166 RGTR--
+220502005 Frisange, Park & Rid  01439                       % 01166 RGTR--
+*Z 01167 RGTR--                                             % 01167 RGTR--
+*L 172      200417034 220502005  01458  01539               % 01167 RGTR--
+*A ct 200417034 220502005 000016  01458  01539              % 01167 RGTR--
+*A cw 200417034 220502005 000016  01458  01539              % 01167 RGTR--
+*R 1 220502005 200417034 220502005  01458  01539            % 01167 RGTR--
+*G RGB 200417034 220502005  01458  01539                    % 01167 RGTR--
+*A VE 200417034 220502005 000016  01458  01539              % 01167 RGTR--
+*I FD 200417034 220502005        0002010  01458  01539      % 01167 RGTR--
+200417034 Kirchberg, Rehazente         01458                % 01167 RGTR--
+200417032 Kirchberg, Pierre We  01459  01459                % 01167 RGTR--
+200417015 Kirchberg, Hôpital    01500  01500                % 01167 RGTR--
+200417004 Kirchberg, Alphonse   01502  01502                % 01167 RGTR--
+200417039 Kirchberg, Avalon     01503  01503                % 01167 RGTR--
+200417019 Kirchberg, Konrad Ad  01504  01504                % 01167 RGTR--
+200417005 Kirchberg, Antoine d  01505  01505                % 01167 RGTR--
+200417016 Kirchberg, Jean Monn  01506  01506                % 01167 RGTR--
+200417007 Kirchberg, B.E.I.     01507  01507                % 01167 RGTR--
+200417047 Kirchberg, Rout Bréc  01509  01509                % 01167 RGTR--
+200405014 Centre, Fondation Pe  01511  01511                % 01167 RGTR--
+200405029 Luxembourg/Centre, R  01513  01513                % 01167 RGTR--
+200405023 Centre, Martyrs       01516  01516                % 01167 RGTR--
+200405026 Luxembourg/Centre, P  01517  01517                % 01167 RGTR--
+200405032 Luxembourg, Gare Cen  01519  01519                % 01167 RGTR--
+200404008 Bonnevoie, Dernier S  01521  01521                % 01167 RGTR--
+200404016 Bonnevoie, Hippodrom  01522  01522                % 01167 RGTR--
+200404028 Bonnevoie, Neufchâte  01522  01522                % 01167 RGTR--
+200304004 Howald, Jhangeli      01523  01523                % 01167 RGTR--
+200304001 Howald, Am Houwaldsb  01524  01524                % 01167 RGTR--
+200303007 Hesperange, Wollefsm  01525  01525                % 01167 RGTR--
+200303001 Hesperange, Am Kelle  01527  01527                % 01167 RGTR--
+200303006 Hesperange, Urbengss  01528  01528                % 01167 RGTR--
+200301003 Alzingen, Trapeneck   01529  01529                % 01167 RGTR--
+200301002 Alzingen, Hondsbréck  01530  01530                % 01167 RGTR--
+201103001 Weiler-la-Tour, Camp  01532  01532                % 01167 RGTR--
+201103004 Weiler-la-Tour, Schl  01533  01533                % 01167 RGTR--
+220502003 Frisange, Hau         01535  01535                % 01167 RGTR--
+220502001 Frisange, Aal Gemeng  01536  01536                % 01167 RGTR--
+220502006 Frisange, Cité Aalue  01537  01537                % 01167 RGTR--
+220502005 Frisange, Park & Rid  01539                       % 01167 RGTR--
+*Z 01168 RGTR--                                             % 01168 RGTR--
+*L 172      200417034 220502005  01858  01939               % 01168 RGTR--
+*A BE 200417034 220502005 000016  01858  01939              % 01168 RGTR--
+*A cv 200417034 220502005 000016  01858  01939              % 01168 RGTR--
+*A cw 200417034 220502005 000016  01858  01939              % 01168 RGTR--
+*R 1 220502005 200417034 220502005  01858  01939            % 01168 RGTR--
+*G RGB 200417034 220502005  01858  01939                    % 01168 RGTR--
+*A VE 200417034 220502005 000016  01858  01939              % 01168 RGTR--
+*I FD 200417034 220502005        0002012  01858  01939      % 01168 RGTR--
+200417034 Kirchberg, Rehazente         01858                % 01168 RGTR--
+200417032 Kirchberg, Pierre We  01859  01859                % 01168 RGTR--
+200417015 Kirchberg, Hôpital    01900  01900                % 01168 RGTR--
+200417004 Kirchberg, Alphonse   01902  01902                % 01168 RGTR--
+200417039 Kirchberg, Avalon     01903  01903                % 01168 RGTR--
+200417019 Kirchberg, Konrad Ad  01904  01904                % 01168 RGTR--
+200417005 Kirchberg, Antoine d  01905  01905                % 01168 RGTR--
+200417016 Kirchberg, Jean Monn  01906  01906                % 01168 RGTR--
+200417007 Kirchberg, B.E.I.     01907  01907                % 01168 RGTR--
+200417047 Kirchberg, Rout Bréc  01909  01909                % 01168 RGTR--
+200405014 Centre, Fondation Pe  01911  01911                % 01168 RGTR--
+200405029 Luxembourg/Centre, R  01913  01913                % 01168 RGTR--
+200405023 Centre, Martyrs       01916  01916                % 01168 RGTR--
+200405026 Luxembourg/Centre, P  01917  01917                % 01168 RGTR--
+200405032 Luxembourg, Gare Cen  01919  01919                % 01168 RGTR--
+200404008 Bonnevoie, Dernier S  01921  01921                % 01168 RGTR--
+200404016 Bonnevoie, Hippodrom  01922  01922                % 01168 RGTR--
+200404028 Bonnevoie, Neufchâte  01922  01922                % 01168 RGTR--
+200304004 Howald, Jhangeli      01923  01923                % 01168 RGTR--
+200304001 Howald, Am Houwaldsb  01924  01924                % 01168 RGTR--
+200303007 Hesperange, Wollefsm  01925  01925                % 01168 RGTR--
+200303001 Hesperange, Am Kelle  01927  01927                % 01168 RGTR--
+200303006 Hesperange, Urbengss  01928  01928                % 01168 RGTR--
+200301003 Alzingen, Trapeneck   01929  01929                % 01168 RGTR--
+200301002 Alzingen, Hondsbréck  01930  01930                % 01168 RGTR--
+201103001 Weiler-la-Tour, Camp  01932  01932                % 01168 RGTR--
+201103004 Weiler-la-Tour, Schl  01933  01933                % 01168 RGTR--
+220502003 Frisange, Hau         01935  01935                % 01168 RGTR--
+220502001 Frisange, Aal Gemeng  01936  01936                % 01168 RGTR--
+220502006 Frisange, Cité Aalue  01937  01937                % 01168 RGTR--
+220502005 Frisange, Park & Rid  01939                       % 01168 RGTR--
+*Z 01169 RGTR--                                             % 01169 RGTR--
+*L 172      200417034 220502005  01958  02039               % 01169 RGTR--
+*A ct 200417034 220502005 000016  01958  02039              % 01169 RGTR--
+*A cw 200417034 220502005 000016  01958  02039              % 01169 RGTR--
+*R 1 220502005 200417034 220502005  01958  02039            % 01169 RGTR--
+*G RGB 200417034 220502005  01958  02039                    % 01169 RGTR--
+*A VE 200417034 220502005 000016  01958  02039              % 01169 RGTR--
+*I FD 200417034 220502005        0002013  01958  02039      % 01169 RGTR--
+200417034 Kirchberg, Rehazente         01958                % 01169 RGTR--
+200417032 Kirchberg, Pierre We  01959  01959                % 01169 RGTR--
+200417015 Kirchberg, Hôpital    02000  02000                % 01169 RGTR--
+200417004 Kirchberg, Alphonse   02002  02002                % 01169 RGTR--
+200417039 Kirchberg, Avalon     02003  02003                % 01169 RGTR--
+200417019 Kirchberg, Konrad Ad  02004  02004                % 01169 RGTR--
+200417005 Kirchberg, Antoine d  02005  02005                % 01169 RGTR--
+200417016 Kirchberg, Jean Monn  02006  02006                % 01169 RGTR--
+200417007 Kirchberg, B.E.I.     02007  02007                % 01169 RGTR--
+200417047 Kirchberg, Rout Bréc  02009  02009                % 01169 RGTR--
+200405014 Centre, Fondation Pe  02011  02011                % 01169 RGTR--
+200405029 Luxembourg/Centre, R  02013  02013                % 01169 RGTR--
+200405023 Centre, Martyrs       02016  02016                % 01169 RGTR--
+200405026 Luxembourg/Centre, P  02017  02017                % 01169 RGTR--
+200405032 Luxembourg, Gare Cen  02019  02019                % 01169 RGTR--
+200404008 Bonnevoie, Dernier S  02021  02021                % 01169 RGTR--
+200404016 Bonnevoie, Hippodrom  02022  02022                % 01169 RGTR--
+200404028 Bonnevoie, Neufchâte  02022  02022                % 01169 RGTR--
+200304004 Howald, Jhangeli      02023  02023                % 01169 RGTR--
+200304001 Howald, Am Houwaldsb  02024  02024                % 01169 RGTR--
+200303007 Hesperange, Wollefsm  02025  02025                % 01169 RGTR--
+200303001 Hesperange, Am Kelle  02027  02027                % 01169 RGTR--
+200303006 Hesperange, Urbengss  02028  02028                % 01169 RGTR--
+200301003 Alzingen, Trapeneck   02029  02029                % 01169 RGTR--
+200301002 Alzingen, Hondsbréck  02030  02030                % 01169 RGTR--
+201103001 Weiler-la-Tour, Camp  02032  02032                % 01169 RGTR--
+201103004 Weiler-la-Tour, Schl  02033  02033                % 01169 RGTR--
+220502003 Frisange, Hau         02035  02035                % 01169 RGTR--
+220502001 Frisange, Aal Gemeng  02036  02036                % 01169 RGTR--
+220502006 Frisange, Cité Aalue  02037  02037                % 01169 RGTR--
+220502005 Frisange, Park & Rid  02039                       % 01169 RGTR--
+*Z 01170 RGTR--                                             % 01170 RGTR--
+*L 172      200417034 220502005  02058  02139               % 01170 RGTR--
+*A BE 200417034 220502005 000016  02058  02139              % 01170 RGTR--
+*A cv 200417034 220502005 000016  02058  02139              % 01170 RGTR--
+*A cw 200417034 220502005 000016  02058  02139              % 01170 RGTR--
+*R 1 220502005 200417034 220502005  02058  02139            % 01170 RGTR--
+*G RGB 200417034 220502005  02058  02139                    % 01170 RGTR--
+*A VE 200417034 220502005 000016  02058  02139              % 01170 RGTR--
+*I FD 200417034 220502005        0002403  02058  02139      % 01170 RGTR--
+200417034 Kirchberg, Rehazente         02058                % 01170 RGTR--
+200417032 Kirchberg, Pierre We  02059  02059                % 01170 RGTR--
+200417015 Kirchberg, Hôpital    02100  02100                % 01170 RGTR--
+200417004 Kirchberg, Alphonse   02102  02102                % 01170 RGTR--
+200417039 Kirchberg, Avalon     02103  02103                % 01170 RGTR--
+200417019 Kirchberg, Konrad Ad  02104  02104                % 01170 RGTR--
+200417005 Kirchberg, Antoine d  02105  02105                % 01170 RGTR--
+200417016 Kirchberg, Jean Monn  02106  02106                % 01170 RGTR--
+200417007 Kirchberg, B.E.I.     02107  02107                % 01170 RGTR--
+200417047 Kirchberg, Rout Bréc  02109  02109                % 01170 RGTR--
+200405014 Centre, Fondation Pe  02111  02111                % 01170 RGTR--
+200405029 Luxembourg/Centre, R  02113  02113                % 01170 RGTR--
+200405023 Centre, Martyrs       02116  02116                % 01170 RGTR--
+200405026 Luxembourg/Centre, P  02117  02117                % 01170 RGTR--
+200405032 Luxembourg, Gare Cen  02119  02119                % 01170 RGTR--
+200404008 Bonnevoie, Dernier S  02121  02121                % 01170 RGTR--
+200404016 Bonnevoie, Hippodrom  02122  02122                % 01170 RGTR--
+200404028 Bonnevoie, Neufchâte  02122  02122                % 01170 RGTR--
+200304004 Howald, Jhangeli      02123  02123                % 01170 RGTR--
+200304001 Howald, Am Houwaldsb  02124  02124                % 01170 RGTR--
+200303007 Hesperange, Wollefsm  02125  02125                % 01170 RGTR--
+200303001 Hesperange, Am Kelle  02127  02127                % 01170 RGTR--
+200303006 Hesperange, Urbengss  02128  02128                % 01170 RGTR--
+200301003 Alzingen, Trapeneck   02129  02129                % 01170 RGTR--
+200301002 Alzingen, Hondsbréck  02130  02130                % 01170 RGTR--
+201103001 Weiler-la-Tour, Camp  02132  02132                % 01170 RGTR--
+201103004 Weiler-la-Tour, Schl  02133  02133                % 01170 RGTR--
+220502003 Frisange, Hau         02135  02135                % 01170 RGTR--
+220502001 Frisange, Aal Gemeng  02136  02136                % 01170 RGTR--
+220502006 Frisange, Cité Aalue  02137  02137                % 01170 RGTR--
+220502005 Frisange, Park & Rid  02139                       % 01170 RGTR--
+*Z 01171 RGTR--                                             % 01171 RGTR--
+*L 172      200417034 220502005  02158  02239               % 01171 RGTR--
+*A ct 200417034 220502005 000016  02158  02239              % 01171 RGTR--
+*A cw 200417034 220502005 000016  02158  02239              % 01171 RGTR--
+*R 1 220502005 200417034 220502005  02158  02239            % 01171 RGTR--
+*G RGB 200417034 220502005  02158  02239                    % 01171 RGTR--
+*A VE 200417034 220502005 000016  02158  02239              % 01171 RGTR--
+*I FD 200417034 220502005        0002404  02158  02239      % 01171 RGTR--
+200417034 Kirchberg, Rehazente         02158                % 01171 RGTR--
+200417032 Kirchberg, Pierre We  02159  02159                % 01171 RGTR--
+200417015 Kirchberg, Hôpital    02200  02200                % 01171 RGTR--
+200417004 Kirchberg, Alphonse   02202  02202                % 01171 RGTR--
+200417039 Kirchberg, Avalon     02203  02203                % 01171 RGTR--
+200417019 Kirchberg, Konrad Ad  02204  02204                % 01171 RGTR--
+200417005 Kirchberg, Antoine d  02205  02205                % 01171 RGTR--
+200417016 Kirchberg, Jean Monn  02206  02206                % 01171 RGTR--
+200417007 Kirchberg, B.E.I.     02207  02207                % 01171 RGTR--
+200417047 Kirchberg, Rout Bréc  02209  02209                % 01171 RGTR--
+200405014 Centre, Fondation Pe  02211  02211                % 01171 RGTR--
+200405029 Luxembourg/Centre, R  02213  02213                % 01171 RGTR--
+200405023 Centre, Martyrs       02216  02216                % 01171 RGTR--
+200405026 Luxembourg/Centre, P  02217  02217                % 01171 RGTR--
+200405032 Luxembourg, Gare Cen  02219  02219                % 01171 RGTR--
+200404008 Bonnevoie, Dernier S  02221  02221                % 01171 RGTR--
+200404016 Bonnevoie, Hippodrom  02222  02222                % 01171 RGTR--
+200404028 Bonnevoie, Neufchâte  02222  02222                % 01171 RGTR--
+200304004 Howald, Jhangeli      02223  02223                % 01171 RGTR--
+200304001 Howald, Am Houwaldsb  02224  02224                % 01171 RGTR--
+200303007 Hesperange, Wollefsm  02225  02225                % 01171 RGTR--
+200303001 Hesperange, Am Kelle  02227  02227                % 01171 RGTR--
+200303006 Hesperange, Urbengss  02228  02228                % 01171 RGTR--
+200301003 Alzingen, Trapeneck   02229  02229                % 01171 RGTR--
+200301002 Alzingen, Hondsbréck  02230  02230                % 01171 RGTR--
+201103001 Weiler-la-Tour, Camp  02232  02232                % 01171 RGTR--
+201103004 Weiler-la-Tour, Schl  02233  02233                % 01171 RGTR--
+220502003 Frisange, Hau         02235  02235                % 01171 RGTR--
+220502001 Frisange, Aal Gemeng  02236  02236                % 01171 RGTR--
+220502006 Frisange, Cité Aalue  02237  02237                % 01171 RGTR--
+220502005 Frisange, Park & Rid  02239                       % 01171 RGTR--
+*Z 01172 RGTR--                                             % 01172 RGTR--
+*L 172      220502005 200417034  00645  00732               % 01172 RGTR--
+*A ct 220502005 200417034 000016  00645  00732              % 01172 RGTR--
+*A cx 220502005 200417034 000016  00645  00732              % 01172 RGTR--
+*R 2 200417034 220502005 200417034  00645  00732            % 01172 RGTR--
+*G RGB 220502005 200417034  00645  00732                    % 01172 RGTR--
+*A VE 220502005 200417034 000016  00645  00732              % 01172 RGTR--
+*I FD 220502005 200417034        0002290  00645  00732      % 01172 RGTR--
+220502005 Frisange, Park & Rid         00645                % 01172 RGTR--
+220502006 Frisange, Cité Aalue  00648  00648                % 01172 RGTR--
+220502001 Frisange, Aal Gemeng  00649  00649                % 01172 RGTR--
+220502003 Frisange, Hau         00650  00650                % 01172 RGTR--
+201103004 Weiler-la-Tour, Schl  00652  00652                % 01172 RGTR--
+201103001 Weiler-la-Tour, Camp  00653  00653                % 01172 RGTR--
+200301002 Alzingen, Hondsbréck  00656  00656                % 01172 RGTR--
+200301003 Alzingen, Trapeneck   00656  00656                % 01172 RGTR--
+200303006 Hesperange, Urbengss  00658  00658                % 01172 RGTR--
+200303001 Hesperange, Am Kelle  00659  00659                % 01172 RGTR--
+200303007 Hesperange, Wollefsm  00700  00700                % 01172 RGTR--
+200304001 Howald, Am Houwaldsb  00701  00701                % 01172 RGTR--
+200304004 Howald, Jhangeli      00702  00702                % 01172 RGTR--
+200404028 Bonnevoie, Neufchâte  00704  00704                % 01172 RGTR--
+200404016 Bonnevoie, Hippodrom  00704  00704                % 01172 RGTR--
+200404008 Bonnevoie, Dernier S  00705  00705                % 01172 RGTR--
+200405036 Luxembourg, Gare rou  00709  00709                % 01172 RGTR--
+200405026 Luxembourg/Centre, P  00711  00711                % 01172 RGTR--
+200405023 Centre, Martyrs       00712  00712                % 01172 RGTR--
+200405020 Hamilius              00715  00715                % 01172 RGTR--
+200405014 Centre, Fondation Pe  00717  00717                % 01172 RGTR--
+200417047 Kirchberg, Rout Bréc  00720  00720                % 01172 RGTR--
+200417007 Kirchberg, B.E.I.     00721  00721                % 01172 RGTR--
+200417016 Kirchberg, Jean Monn  00722  00722                % 01172 RGTR--
+200417005 Kirchberg, Antoine d  00723  00723                % 01172 RGTR--
+200417019 Kirchberg, Konrad Ad  00724  00724                % 01172 RGTR--
+200417039 Kirchberg, Avalon     00725  00725                % 01172 RGTR--
+200417004 Kirchberg, Alphonse   00727  00727                % 01172 RGTR--
+200417015 Kirchberg, Hôpital    00729  00729                % 01172 RGTR--
+200417032 Kirchberg, Pierre We  00731  00731                % 01172 RGTR--
+200417034 Kirchberg, Rehazente  00732                       % 01172 RGTR--
+*Z 01173 RGTR--                                             % 01173 RGTR--
+*L 172      220502005 200417034  00700  00747               % 01173 RGTR--
+*A BE 220502005 200417034 000016  00700  00747              % 01173 RGTR--
+*A cv 220502005 200417034 000016  00700  00747              % 01173 RGTR--
+*A cx 220502005 200417034 000016  00700  00747              % 01173 RGTR--
+*R 2 200417034 220502005 200417034  00700  00747            % 01173 RGTR--
+*G RGB 220502005 200417034  00700  00747                    % 01173 RGTR--
+*A VE 220502005 200417034 000016  00700  00747              % 01173 RGTR--
+*I FD 220502005 200417034        0002152  00700  00747      % 01173 RGTR--
+220502005 Frisange, Park & Rid         00700                % 01173 RGTR--
+220502006 Frisange, Cité Aalue  00703  00703                % 01173 RGTR--
+220502001 Frisange, Aal Gemeng  00704  00704                % 01173 RGTR--
+220502003 Frisange, Hau         00705  00705                % 01173 RGTR--
+201103004 Weiler-la-Tour, Schl  00707  00707                % 01173 RGTR--
+201103001 Weiler-la-Tour, Camp  00708  00708                % 01173 RGTR--
+200301002 Alzingen, Hondsbréck  00711  00711                % 01173 RGTR--
+200301003 Alzingen, Trapeneck   00711  00711                % 01173 RGTR--
+200303006 Hesperange, Urbengss  00713  00713                % 01173 RGTR--
+200303001 Hesperange, Am Kelle  00714  00714                % 01173 RGTR--
+200303007 Hesperange, Wollefsm  00715  00715                % 01173 RGTR--
+200304001 Howald, Am Houwaldsb  00716  00716                % 01173 RGTR--
+200304004 Howald, Jhangeli      00717  00717                % 01173 RGTR--
+200404028 Bonnevoie, Neufchâte  00719  00719                % 01173 RGTR--
+200404016 Bonnevoie, Hippodrom  00719  00719                % 01173 RGTR--
+200404008 Bonnevoie, Dernier S  00720  00720                % 01173 RGTR--
+200405036 Luxembourg, Gare rou  00724  00724                % 01173 RGTR--
+200405026 Luxembourg/Centre, P  00726  00726                % 01173 RGTR--
+200405023 Centre, Martyrs       00727  00727                % 01173 RGTR--
+200405020 Hamilius              00730  00730                % 01173 RGTR--
+200405014 Centre, Fondation Pe  00732  00732                % 01173 RGTR--
+200417047 Kirchberg, Rout Bréc  00735  00735                % 01173 RGTR--
+200417007 Kirchberg, B.E.I.     00736  00736                % 01173 RGTR--
+200417016 Kirchberg, Jean Monn  00737  00737                % 01173 RGTR--
+200417005 Kirchberg, Antoine d  00738  00738                % 01173 RGTR--
+200417019 Kirchberg, Konrad Ad  00739  00739                % 01173 RGTR--
+200417039 Kirchberg, Avalon     00740  00740                % 01173 RGTR--
+200417004 Kirchberg, Alphonse   00742  00742                % 01173 RGTR--
+200417015 Kirchberg, Hôpital    00744  00744                % 01173 RGTR--
+200417032 Kirchberg, Pierre We  00746  00746                % 01173 RGTR--
+200417034 Kirchberg, Rehazente  00747                       % 01173 RGTR--
+*Z 01174 RGTR--                                             % 01174 RGTR--
+*L 172      220502005 200417034  00715  00802               % 01174 RGTR--
+*A ct 220502005 200417034 000016  00715  00802              % 01174 RGTR--
+*A cx 220502005 200417034 000016  00715  00802              % 01174 RGTR--
+*R 2 200417034 220502005 200417034  00715  00802            % 01174 RGTR--
+*G RGB 220502005 200417034  00715  00802                    % 01174 RGTR--
+*A VE 220502005 200417034 000016  00715  00802              % 01174 RGTR--
+*I FD 220502005 200417034        0002067  00715  00802      % 01174 RGTR--
+220502005 Frisange, Park & Rid         00715                % 01174 RGTR--
+220502006 Frisange, Cité Aalue  00718  00718                % 01174 RGTR--
+220502001 Frisange, Aal Gemeng  00719  00719                % 01174 RGTR--
+220502003 Frisange, Hau         00720  00720                % 01174 RGTR--
+201103004 Weiler-la-Tour, Schl  00722  00722                % 01174 RGTR--
+201103001 Weiler-la-Tour, Camp  00723  00723                % 01174 RGTR--
+200301002 Alzingen, Hondsbréck  00726  00726                % 01174 RGTR--
+200301003 Alzingen, Trapeneck   00726  00726                % 01174 RGTR--
+200303006 Hesperange, Urbengss  00728  00728                % 01174 RGTR--
+200303001 Hesperange, Am Kelle  00729  00729                % 01174 RGTR--
+200303007 Hesperange, Wollefsm  00730  00730                % 01174 RGTR--
+200304001 Howald, Am Houwaldsb  00731  00731                % 01174 RGTR--
+200304004 Howald, Jhangeli      00732  00732                % 01174 RGTR--
+200404028 Bonnevoie, Neufchâte  00734  00734                % 01174 RGTR--
+200404016 Bonnevoie, Hippodrom  00734  00734                % 01174 RGTR--
+200404008 Bonnevoie, Dernier S  00735  00735                % 01174 RGTR--
+200405036 Luxembourg, Gare rou  00739  00739                % 01174 RGTR--
+200405026 Luxembourg/Centre, P  00741  00741                % 01174 RGTR--
+200405023 Centre, Martyrs       00742  00742                % 01174 RGTR--
+200405020 Hamilius              00745  00745                % 01174 RGTR--
+200405014 Centre, Fondation Pe  00747  00747                % 01174 RGTR--
+200417047 Kirchberg, Rout Bréc  00750  00750                % 01174 RGTR--
+200417007 Kirchberg, B.E.I.     00751  00751                % 01174 RGTR--
+200417016 Kirchberg, Jean Monn  00752  00752                % 01174 RGTR--
+200417005 Kirchberg, Antoine d  00753  00753                % 01174 RGTR--
+200417019 Kirchberg, Konrad Ad  00754  00754                % 01174 RGTR--
+200417039 Kirchberg, Avalon     00755  00755                % 01174 RGTR--
+200417004 Kirchberg, Alphonse   00757  00757                % 01174 RGTR--
+200417015 Kirchberg, Hôpital    00759  00759                % 01174 RGTR--
+200417032 Kirchberg, Pierre We  00801  00801                % 01174 RGTR--
+200417034 Kirchberg, Rehazente  00802                       % 01174 RGTR--
+*Z 01175 RGTR--                                             % 01175 RGTR--
+*L 172      220502005 200417034  00730  00817               % 01175 RGTR--
+*A BE 220502005 200417034 000016  00730  00817              % 01175 RGTR--
+*A cv 220502005 200417034 000016  00730  00817              % 01175 RGTR--
+*A cx 220502005 200417034 000016  00730  00817              % 01175 RGTR--
+*R 2 200417034 220502005 200417034  00730  00817            % 01175 RGTR--
+*G RGB 220502005 200417034  00730  00817                    % 01175 RGTR--
+*A VE 220502005 200417034 000016  00730  00817              % 01175 RGTR--
+*I FD 220502005 200417034        0002405  00730  00817      % 01175 RGTR--
+220502005 Frisange, Park & Rid         00730                % 01175 RGTR--
+220502006 Frisange, Cité Aalue  00733  00733                % 01175 RGTR--
+220502001 Frisange, Aal Gemeng  00734  00734                % 01175 RGTR--
+220502003 Frisange, Hau         00735  00735                % 01175 RGTR--
+201103004 Weiler-la-Tour, Schl  00737  00737                % 01175 RGTR--
+201103001 Weiler-la-Tour, Camp  00738  00738                % 01175 RGTR--
+200301002 Alzingen, Hondsbréck  00741  00741                % 01175 RGTR--
+200301003 Alzingen, Trapeneck   00741  00741                % 01175 RGTR--
+200303006 Hesperange, Urbengss  00743  00743                % 01175 RGTR--
+200303001 Hesperange, Am Kelle  00744  00744                % 01175 RGTR--
+200303007 Hesperange, Wollefsm  00745  00745                % 01175 RGTR--
+200304001 Howald, Am Houwaldsb  00746  00746                % 01175 RGTR--
+200304004 Howald, Jhangeli      00747  00747                % 01175 RGTR--
+200404028 Bonnevoie, Neufchâte  00749  00749                % 01175 RGTR--
+200404016 Bonnevoie, Hippodrom  00749  00749                % 01175 RGTR--
+200404008 Bonnevoie, Dernier S  00750  00750                % 01175 RGTR--
+200405036 Luxembourg, Gare rou  00754  00754                % 01175 RGTR--
+200405026 Luxembourg/Centre, P  00756  00756                % 01175 RGTR--
+200405023 Centre, Martyrs       00757  00757                % 01175 RGTR--
+200405020 Hamilius              00800  00800                % 01175 RGTR--
+200405014 Centre, Fondation Pe  00802  00802                % 01175 RGTR--
+200417047 Kirchberg, Rout Bréc  00805  00805                % 01175 RGTR--
+200417007 Kirchberg, B.E.I.     00806  00806                % 01175 RGTR--
+200417016 Kirchberg, Jean Monn  00807  00807                % 01175 RGTR--
+200417005 Kirchberg, Antoine d  00808  00808                % 01175 RGTR--
+200417019 Kirchberg, Konrad Ad  00809  00809                % 01175 RGTR--
+200417039 Kirchberg, Avalon     00810  00810                % 01175 RGTR--
+200417004 Kirchberg, Alphonse   00812  00812                % 01175 RGTR--
+200417015 Kirchberg, Hôpital    00814  00814                % 01175 RGTR--
+200417032 Kirchberg, Pierre We  00816  00816                % 01175 RGTR--
+200417034 Kirchberg, Rehazente  00817                       % 01175 RGTR--
+*Z 01176 RGTR--                                             % 01176 RGTR--
+*L 172      220502005 200417034  00745  00832               % 01176 RGTR--
+*A BE 220502005 200417034 000016  00745  00832              % 01176 RGTR--
+*A cv 220502005 200417034 000016  00745  00832              % 01176 RGTR--
+*A cx 220502005 200417034 000016  00745  00832              % 01176 RGTR--
+*R 2 200417034 220502005 200417034  00745  00832            % 01176 RGTR--
+*G RGB 220502005 200417034  00745  00832                    % 01176 RGTR--
+*A VE 220502005 200417034 000016  00745  00832              % 01176 RGTR--
+*I FD 220502005 200417034        0002291  00745  00832      % 01176 RGTR--
+220502005 Frisange, Park & Rid         00745                % 01176 RGTR--
+220502006 Frisange, Cité Aalue  00748  00748                % 01176 RGTR--
+220502001 Frisange, Aal Gemeng  00749  00749                % 01176 RGTR--
+220502003 Frisange, Hau         00750  00750                % 01176 RGTR--
+201103004 Weiler-la-Tour, Schl  00752  00752                % 01176 RGTR--
+201103001 Weiler-la-Tour, Camp  00753  00753                % 01176 RGTR--
+200301002 Alzingen, Hondsbréck  00756  00756                % 01176 RGTR--
+200301003 Alzingen, Trapeneck   00756  00756                % 01176 RGTR--
+200303006 Hesperange, Urbengss  00758  00758                % 01176 RGTR--
+200303001 Hesperange, Am Kelle  00759  00759                % 01176 RGTR--
+200303007 Hesperange, Wollefsm  00800  00800                % 01176 RGTR--
+200304001 Howald, Am Houwaldsb  00801  00801                % 01176 RGTR--
+200304004 Howald, Jhangeli      00802  00802                % 01176 RGTR--
+200404028 Bonnevoie, Neufchâte  00804  00804                % 01176 RGTR--
+200404016 Bonnevoie, Hippodrom  00804  00804                % 01176 RGTR--
+200404008 Bonnevoie, Dernier S  00805  00805                % 01176 RGTR--
+200405036 Luxembourg, Gare rou  00809  00809                % 01176 RGTR--
+200405026 Luxembourg/Centre, P  00811  00811                % 01176 RGTR--
+200405023 Centre, Martyrs       00812  00812                % 01176 RGTR--
+200405020 Hamilius              00815  00815                % 01176 RGTR--
+200405014 Centre, Fondation Pe  00817  00817                % 01176 RGTR--
+200417047 Kirchberg, Rout Bréc  00820  00820                % 01176 RGTR--
+200417007 Kirchberg, B.E.I.     00821  00821                % 01176 RGTR--
+200417016 Kirchberg, Jean Monn  00822  00822                % 01176 RGTR--
+200417005 Kirchberg, Antoine d  00823  00823                % 01176 RGTR--
+200417019 Kirchberg, Konrad Ad  00824  00824                % 01176 RGTR--
+200417039 Kirchberg, Avalon     00825  00825                % 01176 RGTR--
+200417004 Kirchberg, Alphonse   00827  00827                % 01176 RGTR--
+200417015 Kirchberg, Hôpital    00829  00829                % 01176 RGTR--
+200417032 Kirchberg, Pierre We  00831  00831                % 01176 RGTR--
+200417034 Kirchberg, Rehazente  00832                       % 01176 RGTR--
+*Z 01177 RGTR--                                             % 01177 RGTR--
+*L 172      220502005 200417034  00800  00847               % 01177 RGTR--
+*A BE 220502005 200417034 000016  00800  00847              % 01177 RGTR--
+*A cv 220502005 200417034 000016  00800  00847              % 01177 RGTR--
+*A cx 220502005 200417034 000016  00800  00847              % 01177 RGTR--
+*R 2 200417034 220502005 200417034  00800  00847            % 01177 RGTR--
+*G RGB 220502005 200417034  00800  00847                    % 01177 RGTR--
+*A VE 220502005 200417034 000016  00800  00847              % 01177 RGTR--
+*I FD 220502005 200417034        0001953  00800  00847      % 01177 RGTR--
+220502005 Frisange, Park & Rid         00800                % 01177 RGTR--
+220502006 Frisange, Cité Aalue  00803  00803                % 01177 RGTR--
+220502001 Frisange, Aal Gemeng  00804  00804                % 01177 RGTR--
+220502003 Frisange, Hau         00805  00805                % 01177 RGTR--
+201103004 Weiler-la-Tour, Schl  00807  00807                % 01177 RGTR--
+201103001 Weiler-la-Tour, Camp  00808  00808                % 01177 RGTR--
+200301002 Alzingen, Hondsbréck  00811  00811                % 01177 RGTR--
+200301003 Alzingen, Trapeneck   00811  00811                % 01177 RGTR--
+200303006 Hesperange, Urbengss  00813  00813                % 01177 RGTR--
+200303001 Hesperange, Am Kelle  00814  00814                % 01177 RGTR--
+200303007 Hesperange, Wollefsm  00815  00815                % 01177 RGTR--
+200304001 Howald, Am Houwaldsb  00816  00816                % 01177 RGTR--
+200304004 Howald, Jhangeli      00817  00817                % 01177 RGTR--
+200404028 Bonnevoie, Neufchâte  00819  00819                % 01177 RGTR--
+200404016 Bonnevoie, Hippodrom  00819  00819                % 01177 RGTR--
+200404008 Bonnevoie, Dernier S  00820  00820                % 01177 RGTR--
+200405036 Luxembourg, Gare rou  00824  00824                % 01177 RGTR--
+200405026 Luxembourg/Centre, P  00826  00826                % 01177 RGTR--
+200405023 Centre, Martyrs       00827  00827                % 01177 RGTR--
+200405020 Hamilius              00830  00830                % 01177 RGTR--
+200405014 Centre, Fondation Pe  00832  00832                % 01177 RGTR--
+200417047 Kirchberg, Rout Bréc  00835  00835                % 01177 RGTR--
+200417007 Kirchberg, B.E.I.     00836  00836                % 01177 RGTR--
+200417016 Kirchberg, Jean Monn  00837  00837                % 01177 RGTR--
+200417005 Kirchberg, Antoine d  00838  00838                % 01177 RGTR--
+200417019 Kirchberg, Konrad Ad  00839  00839                % 01177 RGTR--
+200417039 Kirchberg, Avalon     00840  00840                % 01177 RGTR--
+200417004 Kirchberg, Alphonse   00842  00842                % 01177 RGTR--
+200417015 Kirchberg, Hôpital    00844  00844                % 01177 RGTR--
+200417032 Kirchberg, Pierre We  00846  00846                % 01177 RGTR--
+200417034 Kirchberg, Rehazente  00847                       % 01177 RGTR--
+*Z 01178 RGTR--                                             % 01178 RGTR--
+*L 172      220502005 200417034  00815  00902               % 01178 RGTR--
+*A ct 220502005 200417034 000016  00815  00902              % 01178 RGTR--
+*A cx 220502005 200417034 000016  00815  00902              % 01178 RGTR--
+*R 2 200417034 220502005 200417034  00815  00902            % 01178 RGTR--
+*G RGB 220502005 200417034  00815  00902                    % 01178 RGTR--
+*A VE 220502005 200417034 000016  00815  00902              % 01178 RGTR--
+*I FD 220502005 200417034        0002287  00815  00902      % 01178 RGTR--
+220502005 Frisange, Park & Rid         00815                % 01178 RGTR--
+220502006 Frisange, Cité Aalue  00818  00818                % 01178 RGTR--
+220502001 Frisange, Aal Gemeng  00819  00819                % 01178 RGTR--
+220502003 Frisange, Hau         00820  00820                % 01178 RGTR--
+201103004 Weiler-la-Tour, Schl  00822  00822                % 01178 RGTR--
+201103001 Weiler-la-Tour, Camp  00823  00823                % 01178 RGTR--
+200301002 Alzingen, Hondsbréck  00826  00826                % 01178 RGTR--
+200301003 Alzingen, Trapeneck   00826  00826                % 01178 RGTR--
+200303006 Hesperange, Urbengss  00828  00828                % 01178 RGTR--
+200303001 Hesperange, Am Kelle  00829  00829                % 01178 RGTR--
+200303007 Hesperange, Wollefsm  00830  00830                % 01178 RGTR--
+200304001 Howald, Am Houwaldsb  00831  00831                % 01178 RGTR--
+200304004 Howald, Jhangeli      00832  00832                % 01178 RGTR--
+200404028 Bonnevoie, Neufchâte  00834  00834                % 01178 RGTR--
+200404016 Bonnevoie, Hippodrom  00834  00834                % 01178 RGTR--
+200404008 Bonnevoie, Dernier S  00835  00835                % 01178 RGTR--
+200405036 Luxembourg, Gare rou  00839  00839                % 01178 RGTR--
+200405026 Luxembourg/Centre, P  00841  00841                % 01178 RGTR--
+200405023 Centre, Martyrs       00842  00842                % 01178 RGTR--
+200405020 Hamilius              00845  00845                % 01178 RGTR--
+200405014 Centre, Fondation Pe  00847  00847                % 01178 RGTR--
+200417047 Kirchberg, Rout Bréc  00850  00850                % 01178 RGTR--
+200417007 Kirchberg, B.E.I.     00851  00851                % 01178 RGTR--
+200417016 Kirchberg, Jean Monn  00852  00852                % 01178 RGTR--
+200417005 Kirchberg, Antoine d  00853  00853                % 01178 RGTR--
+200417019 Kirchberg, Konrad Ad  00854  00854                % 01178 RGTR--
+200417039 Kirchberg, Avalon     00855  00855                % 01178 RGTR--
+200417004 Kirchberg, Alphonse   00857  00857                % 01178 RGTR--
+200417015 Kirchberg, Hôpital    00859  00859                % 01178 RGTR--
+200417032 Kirchberg, Pierre We  00901  00901                % 01178 RGTR--
+200417034 Kirchberg, Rehazente  00902                       % 01178 RGTR--
+*Z 01179 RGTR--                                             % 01179 RGTR--
+*L 172      220502005 200417034  00830  00917               % 01179 RGTR--
+*A BE 220502005 200417034 000016  00830  00917              % 01179 RGTR--
+*A cv 220502005 200417034 000016  00830  00917              % 01179 RGTR--
+*A cx 220502005 200417034 000016  00830  00917              % 01179 RGTR--
+*R 2 200417034 220502005 200417034  00830  00917            % 01179 RGTR--
+*G RGB 220502005 200417034  00830  00917                    % 01179 RGTR--
+*A VE 220502005 200417034 000016  00830  00917              % 01179 RGTR--
+*I FD 220502005 200417034        0001038  00830  00917      % 01179 RGTR--
+220502005 Frisange, Park & Rid         00830                % 01179 RGTR--
+220502006 Frisange, Cité Aalue  00833  00833                % 01179 RGTR--
+220502001 Frisange, Aal Gemeng  00834  00834                % 01179 RGTR--
+220502003 Frisange, Hau         00835  00835                % 01179 RGTR--
+201103004 Weiler-la-Tour, Schl  00837  00837                % 01179 RGTR--
+201103001 Weiler-la-Tour, Camp  00838  00838                % 01179 RGTR--
+200301002 Alzingen, Hondsbréck  00841  00841                % 01179 RGTR--
+200301003 Alzingen, Trapeneck   00841  00841                % 01179 RGTR--
+200303006 Hesperange, Urbengss  00843  00843                % 01179 RGTR--
+200303001 Hesperange, Am Kelle  00844  00844                % 01179 RGTR--
+200303007 Hesperange, Wollefsm  00845  00845                % 01179 RGTR--
+200304001 Howald, Am Houwaldsb  00846  00846                % 01179 RGTR--
+200304004 Howald, Jhangeli      00847  00847                % 01179 RGTR--
+200404028 Bonnevoie, Neufchâte  00849  00849                % 01179 RGTR--
+200404016 Bonnevoie, Hippodrom  00849  00849                % 01179 RGTR--
+200404008 Bonnevoie, Dernier S  00850  00850                % 01179 RGTR--
+200405036 Luxembourg, Gare rou  00854  00854                % 01179 RGTR--
+200405026 Luxembourg/Centre, P  00856  00856                % 01179 RGTR--
+200405023 Centre, Martyrs       00857  00857                % 01179 RGTR--
+200405020 Hamilius              00900  00900                % 01179 RGTR--
+200405014 Centre, Fondation Pe  00902  00902                % 01179 RGTR--
+200417047 Kirchberg, Rout Bréc  00905  00905                % 01179 RGTR--
+200417007 Kirchberg, B.E.I.     00906  00906                % 01179 RGTR--
+200417016 Kirchberg, Jean Monn  00907  00907                % 01179 RGTR--
+200417005 Kirchberg, Antoine d  00908  00908                % 01179 RGTR--
+200417019 Kirchberg, Konrad Ad  00909  00909                % 01179 RGTR--
+200417039 Kirchberg, Avalon     00910  00910                % 01179 RGTR--
+200417004 Kirchberg, Alphonse   00912  00912                % 01179 RGTR--
+200417015 Kirchberg, Hôpital    00914  00914                % 01179 RGTR--
+200417032 Kirchberg, Pierre We  00916  00916                % 01179 RGTR--
+200417034 Kirchberg, Rehazente  00917                       % 01179 RGTR--
+*Z 01180 RGTR--                                             % 01180 RGTR--
+*L 172      220502005 200417034  00900  00947               % 01180 RGTR--
+*A ct 220502005 200417034 000016  00900  00947              % 01180 RGTR--
+*A cx 220502005 200417034 000016  00900  00947              % 01180 RGTR--
+*R 2 200417034 220502005 200417034  00900  00947            % 01180 RGTR--
+*G RGB 220502005 200417034  00900  00947                    % 01180 RGTR--
+*A VE 220502005 200417034 000016  00900  00947              % 01180 RGTR--
+*I FD 220502005 200417034        0001955  00900  00947      % 01180 RGTR--
+220502005 Frisange, Park & Rid         00900                % 01180 RGTR--
+220502006 Frisange, Cité Aalue  00903  00903                % 01180 RGTR--
+220502001 Frisange, Aal Gemeng  00904  00904                % 01180 RGTR--
+220502003 Frisange, Hau         00905  00905                % 01180 RGTR--
+201103004 Weiler-la-Tour, Schl  00907  00907                % 01180 RGTR--
+201103001 Weiler-la-Tour, Camp  00908  00908                % 01180 RGTR--
+200301002 Alzingen, Hondsbréck  00911  00911                % 01180 RGTR--
+200301003 Alzingen, Trapeneck   00911  00911                % 01180 RGTR--
+200303006 Hesperange, Urbengss  00913  00913                % 01180 RGTR--
+200303001 Hesperange, Am Kelle  00914  00914                % 01180 RGTR--
+200303007 Hesperange, Wollefsm  00915  00915                % 01180 RGTR--
+200304001 Howald, Am Houwaldsb  00916  00916                % 01180 RGTR--
+200304004 Howald, Jhangeli      00917  00917                % 01180 RGTR--
+200404028 Bonnevoie, Neufchâte  00919  00919                % 01180 RGTR--
+200404016 Bonnevoie, Hippodrom  00919  00919                % 01180 RGTR--
+200404008 Bonnevoie, Dernier S  00920  00920                % 01180 RGTR--
+200405036 Luxembourg, Gare rou  00924  00924                % 01180 RGTR--
+200405026 Luxembourg/Centre, P  00926  00926                % 01180 RGTR--
+200405023 Centre, Martyrs       00927  00927                % 01180 RGTR--
+200405020 Hamilius              00930  00930                % 01180 RGTR--
+200405014 Centre, Fondation Pe  00932  00932                % 01180 RGTR--
+200417047 Kirchberg, Rout Bréc  00935  00935                % 01180 RGTR--
+200417007 Kirchberg, B.E.I.     00936  00936                % 01180 RGTR--
+200417016 Kirchberg, Jean Monn  00937  00937                % 01180 RGTR--
+200417005 Kirchberg, Antoine d  00938  00938                % 01180 RGTR--
+200417019 Kirchberg, Konrad Ad  00939  00939                % 01180 RGTR--
+200417039 Kirchberg, Avalon     00940  00940                % 01180 RGTR--
+200417004 Kirchberg, Alphonse   00942  00942                % 01180 RGTR--
+200417015 Kirchberg, Hôpital    00944  00944                % 01180 RGTR--
+200417032 Kirchberg, Pierre We  00946  00946                % 01180 RGTR--
+200417034 Kirchberg, Rehazente  00947                       % 01180 RGTR--
+*Z 01181 RGTR--                                             % 01181 RGTR--
+*L 172      220502005 200417034  00500  00539               % 01181 RGTR--
+*A BE 220502005 200417034 000016  00500  00539              % 01181 RGTR--
+*A cv 220502005 200417034 000016  00500  00539              % 01181 RGTR--
+*A cx 220502005 200417034 000016  00500  00539              % 01181 RGTR--
+*R 2 200417034 220502005 200417034  00500  00539            % 01181 RGTR--
+*G RGB 220502005 200417034  00500  00539                    % 01181 RGTR--
+*A VE 220502005 200417034 000016  00500  00539              % 01181 RGTR--
+*I FD 220502005 200417034        0002406  00500  00539      % 01181 RGTR--
+220502005 Frisange, Park & Rid         00500                % 01181 RGTR--
+220502006 Frisange, Cité Aalue  00502  00502                % 01181 RGTR--
+220502001 Frisange, Aal Gemeng  00503  00503                % 01181 RGTR--
+220502003 Frisange, Hau         00504  00504                % 01181 RGTR--
+201103004 Weiler-la-Tour, Schl  00506  00506                % 01181 RGTR--
+201103001 Weiler-la-Tour, Camp  00507  00507                % 01181 RGTR--
+200301002 Alzingen, Hondsbréck  00509  00509                % 01181 RGTR--
+200301003 Alzingen, Trapeneck   00510  00510                % 01181 RGTR--
+200303006 Hesperange, Urbengss  00510  00510                % 01181 RGTR--
+200303001 Hesperange, Am Kelle  00511  00511                % 01181 RGTR--
+200303007 Hesperange, Wollefsm  00513  00513                % 01181 RGTR--
+200304001 Howald, Am Houwaldsb  00513  00513                % 01181 RGTR--
+200304004 Howald, Jhangeli      00514  00514                % 01181 RGTR--
+200404028 Bonnevoie, Neufchâte  00516  00516                % 01181 RGTR--
+200404016 Bonnevoie, Hippodrom  00516  00516                % 01181 RGTR--
+200404008 Bonnevoie, Dernier S  00517  00517                % 01181 RGTR--
+200405036 Luxembourg, Gare rou  00520  00520                % 01181 RGTR--
+200405026 Luxembourg/Centre, P  00522  00522                % 01181 RGTR--
+200405023 Centre, Martyrs       00523  00523                % 01181 RGTR--
+200405020 Hamilius              00525  00525                % 01181 RGTR--
+200405014 Centre, Fondation Pe  00527  00527                % 01181 RGTR--
+200417047 Kirchberg, Rout Bréc  00529  00529                % 01181 RGTR--
+200417007 Kirchberg, B.E.I.     00530  00530                % 01181 RGTR--
+200417016 Kirchberg, Jean Monn  00531  00531                % 01181 RGTR--
+200417005 Kirchberg, Antoine d  00532  00532                % 01181 RGTR--
+200417019 Kirchberg, Konrad Ad  00533  00533                % 01181 RGTR--
+200417039 Kirchberg, Avalon     00534  00534                % 01181 RGTR--
+200417004 Kirchberg, Alphonse   00535  00535                % 01181 RGTR--
+200417015 Kirchberg, Hôpital    00537  00537                % 01181 RGTR--
+200417032 Kirchberg, Pierre We  00538  00538                % 01181 RGTR--
+200417034 Kirchberg, Rehazente  00539                       % 01181 RGTR--
+*Z 01182 RGTR--                                             % 01182 RGTR--
+*L 172      220502005 200417034  00530  00609               % 01182 RGTR--
+*A ct 220502005 200417034 000016  00530  00609              % 01182 RGTR--
+*A cx 220502005 200417034 000016  00530  00609              % 01182 RGTR--
+*R 2 200417034 220502005 200417034  00530  00609            % 01182 RGTR--
+*G RGB 220502005 200417034  00530  00609                    % 01182 RGTR--
+*A VE 220502005 200417034 000016  00530  00609              % 01182 RGTR--
+*I FD 220502005 200417034        0002407  00530  00609      % 01182 RGTR--
+220502005 Frisange, Park & Rid         00530                % 01182 RGTR--
+220502006 Frisange, Cité Aalue  00532  00532                % 01182 RGTR--
+220502001 Frisange, Aal Gemeng  00533  00533                % 01182 RGTR--
+220502003 Frisange, Hau         00534  00534                % 01182 RGTR--
+201103004 Weiler-la-Tour, Schl  00536  00536                % 01182 RGTR--
+201103001 Weiler-la-Tour, Camp  00537  00537                % 01182 RGTR--
+200301002 Alzingen, Hondsbréck  00539  00539                % 01182 RGTR--
+200301003 Alzingen, Trapeneck   00540  00540                % 01182 RGTR--
+200303006 Hesperange, Urbengss  00540  00540                % 01182 RGTR--
+200303001 Hesperange, Am Kelle  00541  00541                % 01182 RGTR--
+200303007 Hesperange, Wollefsm  00543  00543                % 01182 RGTR--
+200304001 Howald, Am Houwaldsb  00543  00543                % 01182 RGTR--
+200304004 Howald, Jhangeli      00544  00544                % 01182 RGTR--
+200404028 Bonnevoie, Neufchâte  00546  00546                % 01182 RGTR--
+200404016 Bonnevoie, Hippodrom  00546  00546                % 01182 RGTR--
+200404008 Bonnevoie, Dernier S  00547  00547                % 01182 RGTR--
+200405036 Luxembourg, Gare rou  00550  00550                % 01182 RGTR--
+200405026 Luxembourg/Centre, P  00552  00552                % 01182 RGTR--
+200405023 Centre, Martyrs       00553  00553                % 01182 RGTR--
+200405020 Hamilius              00555  00555                % 01182 RGTR--
+200405014 Centre, Fondation Pe  00557  00557                % 01182 RGTR--
+200417047 Kirchberg, Rout Bréc  00559  00559                % 01182 RGTR--
+200417007 Kirchberg, B.E.I.     00600  00600                % 01182 RGTR--
+200417016 Kirchberg, Jean Monn  00601  00601                % 01182 RGTR--
+200417005 Kirchberg, Antoine d  00602  00602                % 01182 RGTR--
+200417019 Kirchberg, Konrad Ad  00603  00603                % 01182 RGTR--
+200417039 Kirchberg, Avalon     00604  00604                % 01182 RGTR--
+200417004 Kirchberg, Alphonse   00605  00605                % 01182 RGTR--
+200417015 Kirchberg, Hôpital    00607  00607                % 01182 RGTR--
+200417032 Kirchberg, Pierre We  00608  00608                % 01182 RGTR--
+200417034 Kirchberg, Rehazente  00609                       % 01182 RGTR--
+*Z 01183 RGTR--                                             % 01183 RGTR--
+*L 172      220502005 200417034  00600  00639               % 01183 RGTR--
+*A BE 220502005 200417034 000016  00600  00639              % 01183 RGTR--
+*A cv 220502005 200417034 000016  00600  00639              % 01183 RGTR--
+*A cx 220502005 200417034 000016  00600  00639              % 01183 RGTR--
+*R 2 200417034 220502005 200417034  00600  00639            % 01183 RGTR--
+*G RGB 220502005 200417034  00600  00639                    % 01183 RGTR--
+*A VE 220502005 200417034 000016  00600  00639              % 01183 RGTR--
+*I FD 220502005 200417034        0002155  00600  00639      % 01183 RGTR--
+220502005 Frisange, Park & Rid         00600                % 01183 RGTR--
+220502006 Frisange, Cité Aalue  00602  00602                % 01183 RGTR--
+220502001 Frisange, Aal Gemeng  00603  00603                % 01183 RGTR--
+220502003 Frisange, Hau         00604  00604                % 01183 RGTR--
+201103004 Weiler-la-Tour, Schl  00606  00606                % 01183 RGTR--
+201103001 Weiler-la-Tour, Camp  00607  00607                % 01183 RGTR--
+200301002 Alzingen, Hondsbréck  00609  00609                % 01183 RGTR--
+200301003 Alzingen, Trapeneck   00610  00610                % 01183 RGTR--
+200303006 Hesperange, Urbengss  00610  00610                % 01183 RGTR--
+200303001 Hesperange, Am Kelle  00611  00611                % 01183 RGTR--
+200303007 Hesperange, Wollefsm  00613  00613                % 01183 RGTR--
+200304001 Howald, Am Houwaldsb  00613  00613                % 01183 RGTR--
+200304004 Howald, Jhangeli      00614  00614                % 01183 RGTR--
+200404028 Bonnevoie, Neufchâte  00616  00616                % 01183 RGTR--
+200404016 Bonnevoie, Hippodrom  00616  00616                % 01183 RGTR--
+200404008 Bonnevoie, Dernier S  00617  00617                % 01183 RGTR--
+200405036 Luxembourg, Gare rou  00620  00620                % 01183 RGTR--
+200405026 Luxembourg/Centre, P  00622  00622                % 01183 RGTR--
+200405023 Centre, Martyrs       00623  00623                % 01183 RGTR--
+200405020 Hamilius              00625  00625                % 01183 RGTR--
+200405014 Centre, Fondation Pe  00627  00627                % 01183 RGTR--
+200417047 Kirchberg, Rout Bréc  00629  00629                % 01183 RGTR--
+200417007 Kirchberg, B.E.I.     00630  00630                % 01183 RGTR--
+200417016 Kirchberg, Jean Monn  00631  00631                % 01183 RGTR--
+200417005 Kirchberg, Antoine d  00632  00632                % 01183 RGTR--
+200417019 Kirchberg, Konrad Ad  00633  00633                % 01183 RGTR--
+200417039 Kirchberg, Avalon     00634  00634                % 01183 RGTR--
+200417004 Kirchberg, Alphonse   00635  00635                % 01183 RGTR--
+200417015 Kirchberg, Hôpital    00637  00637                % 01183 RGTR--
+200417032 Kirchberg, Pierre We  00638  00638                % 01183 RGTR--
+200417034 Kirchberg, Rehazente  00639                       % 01183 RGTR--
+*Z 01184 RGTR--                                             % 01184 RGTR--
+*L 172      220502005 200417034  00615  00654               % 01184 RGTR--
+*A ct 220502005 200417034 000016  00615  00654              % 01184 RGTR--
+*A cx 220502005 200417034 000016  00615  00654              % 01184 RGTR--
+*R 2 200417034 220502005 200417034  00615  00654            % 01184 RGTR--
+*G RGB 220502005 200417034  00615  00654                    % 01184 RGTR--
+*A VE 220502005 200417034 000016  00615  00654              % 01184 RGTR--
+*I FD 220502005 200417034        0002408  00615  00654      % 01184 RGTR--
+220502005 Frisange, Park & Rid         00615                % 01184 RGTR--
+220502006 Frisange, Cité Aalue  00617  00617                % 01184 RGTR--
+220502001 Frisange, Aal Gemeng  00618  00618                % 01184 RGTR--
+220502003 Frisange, Hau         00619  00619                % 01184 RGTR--
+201103004 Weiler-la-Tour, Schl  00621  00621                % 01184 RGTR--
+201103001 Weiler-la-Tour, Camp  00622  00622                % 01184 RGTR--
+200301002 Alzingen, Hondsbréck  00624  00624                % 01184 RGTR--
+200301003 Alzingen, Trapeneck   00625  00625                % 01184 RGTR--
+200303006 Hesperange, Urbengss  00625  00625                % 01184 RGTR--
+200303001 Hesperange, Am Kelle  00626  00626                % 01184 RGTR--
+200303007 Hesperange, Wollefsm  00628  00628                % 01184 RGTR--
+200304001 Howald, Am Houwaldsb  00628  00628                % 01184 RGTR--
+200304004 Howald, Jhangeli      00629  00629                % 01184 RGTR--
+200404028 Bonnevoie, Neufchâte  00631  00631                % 01184 RGTR--
+200404016 Bonnevoie, Hippodrom  00631  00631                % 01184 RGTR--
+200404008 Bonnevoie, Dernier S  00632  00632                % 01184 RGTR--
+200405036 Luxembourg, Gare rou  00635  00635                % 01184 RGTR--
+200405026 Luxembourg/Centre, P  00637  00637                % 01184 RGTR--
+200405023 Centre, Martyrs       00638  00638                % 01184 RGTR--
+200405020 Hamilius              00640  00640                % 01184 RGTR--
+200405014 Centre, Fondation Pe  00642  00642                % 01184 RGTR--
+200417047 Kirchberg, Rout Bréc  00644  00644                % 01184 RGTR--
+200417007 Kirchberg, B.E.I.     00645  00645                % 01184 RGTR--
+200417016 Kirchberg, Jean Monn  00646  00646                % 01184 RGTR--
+200417005 Kirchberg, Antoine d  00647  00647                % 01184 RGTR--
+200417019 Kirchberg, Konrad Ad  00648  00648                % 01184 RGTR--
+200417039 Kirchberg, Avalon     00649  00649                % 01184 RGTR--
+200417004 Kirchberg, Alphonse   00650  00650                % 01184 RGTR--
+200417015 Kirchberg, Hôpital    00652  00652                % 01184 RGTR--
+200417032 Kirchberg, Pierre We  00653  00653                % 01184 RGTR--
+200417034 Kirchberg, Rehazente  00654                       % 01184 RGTR--
+*Z 01185 RGTR--                                             % 01185 RGTR--
+*L 172      220502005 200417034  00630  00709               % 01185 RGTR--
+*A BE 220502005 200417034 000016  00630  00709              % 01185 RGTR--
+*A cv 220502005 200417034 000016  00630  00709              % 01185 RGTR--
+*A cx 220502005 200417034 000016  00630  00709              % 01185 RGTR--
+*R 2 200417034 220502005 200417034  00630  00709            % 01185 RGTR--
+*G RGB 220502005 200417034  00630  00709                    % 01185 RGTR--
+*A VE 220502005 200417034 000016  00630  00709              % 01185 RGTR--
+*I FD 220502005 200417034        0000990  00630  00709      % 01185 RGTR--
+220502005 Frisange, Park & Rid         00630                % 01185 RGTR--
+220502006 Frisange, Cité Aalue  00632  00632                % 01185 RGTR--
+220502001 Frisange, Aal Gemeng  00633  00633                % 01185 RGTR--
+220502003 Frisange, Hau         00634  00634                % 01185 RGTR--
+201103004 Weiler-la-Tour, Schl  00636  00636                % 01185 RGTR--
+201103001 Weiler-la-Tour, Camp  00637  00637                % 01185 RGTR--
+200301002 Alzingen, Hondsbréck  00639  00639                % 01185 RGTR--
+200301003 Alzingen, Trapeneck   00640  00640                % 01185 RGTR--
+200303006 Hesperange, Urbengss  00640  00640                % 01185 RGTR--
+200303001 Hesperange, Am Kelle  00641  00641                % 01185 RGTR--
+200303007 Hesperange, Wollefsm  00643  00643                % 01185 RGTR--
+200304001 Howald, Am Houwaldsb  00643  00643                % 01185 RGTR--
+200304004 Howald, Jhangeli      00644  00644                % 01185 RGTR--
+200404028 Bonnevoie, Neufchâte  00646  00646                % 01185 RGTR--
+200404016 Bonnevoie, Hippodrom  00646  00646                % 01185 RGTR--
+200404008 Bonnevoie, Dernier S  00647  00647                % 01185 RGTR--
+200405036 Luxembourg, Gare rou  00650  00650                % 01185 RGTR--
+200405026 Luxembourg/Centre, P  00652  00652                % 01185 RGTR--
+200405023 Centre, Martyrs       00653  00653                % 01185 RGTR--
+200405020 Hamilius              00655  00655                % 01185 RGTR--
+200405014 Centre, Fondation Pe  00657  00657                % 01185 RGTR--
+200417047 Kirchberg, Rout Bréc  00659  00659                % 01185 RGTR--
+200417007 Kirchberg, B.E.I.     00700  00700                % 01185 RGTR--
+200417016 Kirchberg, Jean Monn  00701  00701                % 01185 RGTR--
+200417005 Kirchberg, Antoine d  00702  00702                % 01185 RGTR--
+200417019 Kirchberg, Konrad Ad  00703  00703                % 01185 RGTR--
+200417039 Kirchberg, Avalon     00704  00704                % 01185 RGTR--
+200417004 Kirchberg, Alphonse   00705  00705                % 01185 RGTR--
+200417015 Kirchberg, Hôpital    00707  00707                % 01185 RGTR--
+200417032 Kirchberg, Pierre We  00708  00708                % 01185 RGTR--
+200417034 Kirchberg, Rehazente  00709                       % 01185 RGTR--
+*Z 01186 RGTR--                                             % 01186 RGTR--
+*L 172      220502005 200417034  01000  01039               % 01186 RGTR--
+*A BE 220502005 200417034 000016  01000  01039              % 01186 RGTR--
+*A cv 220502005 200417034 000016  01000  01039              % 01186 RGTR--
+*A cx 220502005 200417034 000016  01000  01039              % 01186 RGTR--
+*R 2 200417034 220502005 200417034  01000  01039            % 01186 RGTR--
+*G RGB 220502005 200417034  01000  01039                    % 01186 RGTR--
+*A VE 220502005 200417034 000016  01000  01039              % 01186 RGTR--
+*I FD 220502005 200417034        0001958  01000  01039      % 01186 RGTR--
+220502005 Frisange, Park & Rid         01000                % 01186 RGTR--
+220502006 Frisange, Cité Aalue  01002  01002                % 01186 RGTR--
+220502001 Frisange, Aal Gemeng  01003  01003                % 01186 RGTR--
+220502003 Frisange, Hau         01004  01004                % 01186 RGTR--
+201103004 Weiler-la-Tour, Schl  01006  01006                % 01186 RGTR--
+201103001 Weiler-la-Tour, Camp  01007  01007                % 01186 RGTR--
+200301002 Alzingen, Hondsbréck  01009  01009                % 01186 RGTR--
+200301003 Alzingen, Trapeneck   01010  01010                % 01186 RGTR--
+200303006 Hesperange, Urbengss  01010  01010                % 01186 RGTR--
+200303001 Hesperange, Am Kelle  01011  01011                % 01186 RGTR--
+200303007 Hesperange, Wollefsm  01013  01013                % 01186 RGTR--
+200304001 Howald, Am Houwaldsb  01013  01013                % 01186 RGTR--
+200304004 Howald, Jhangeli      01014  01014                % 01186 RGTR--
+200404028 Bonnevoie, Neufchâte  01016  01016                % 01186 RGTR--
+200404016 Bonnevoie, Hippodrom  01016  01016                % 01186 RGTR--
+200404008 Bonnevoie, Dernier S  01017  01017                % 01186 RGTR--
+200405036 Luxembourg, Gare rou  01020  01020                % 01186 RGTR--
+200405026 Luxembourg/Centre, P  01022  01022                % 01186 RGTR--
+200405023 Centre, Martyrs       01023  01023                % 01186 RGTR--
+200405020 Hamilius              01025  01025                % 01186 RGTR--
+200405014 Centre, Fondation Pe  01027  01027                % 01186 RGTR--
+200417047 Kirchberg, Rout Bréc  01029  01029                % 01186 RGTR--
+200417007 Kirchberg, B.E.I.     01030  01030                % 01186 RGTR--
+200417016 Kirchberg, Jean Monn  01031  01031                % 01186 RGTR--
+200417005 Kirchberg, Antoine d  01032  01032                % 01186 RGTR--
+200417019 Kirchberg, Konrad Ad  01033  01033                % 01186 RGTR--
+200417039 Kirchberg, Avalon     01034  01034                % 01186 RGTR--
+200417004 Kirchberg, Alphonse   01035  01035                % 01186 RGTR--
+200417015 Kirchberg, Hôpital    01037  01037                % 01186 RGTR--
+200417032 Kirchberg, Pierre We  01038  01038                % 01186 RGTR--
+200417034 Kirchberg, Rehazente  01039                       % 01186 RGTR--
+*Z 01187 RGTR--                                             % 01187 RGTR--
+*L 172      220502005 200417034  01100  01139               % 01187 RGTR--
+*A BE 220502005 200417034 000016  01100  01139              % 01187 RGTR--
+*A cv 220502005 200417034 000016  01100  01139              % 01187 RGTR--
+*A cx 220502005 200417034 000016  01100  01139              % 01187 RGTR--
+*R 2 200417034 220502005 200417034  01100  01139            % 01187 RGTR--
+*G RGB 220502005 200417034  01100  01139                    % 01187 RGTR--
+*A VE 220502005 200417034 000016  01100  01139              % 01187 RGTR--
+*I FD 220502005 200417034        0001961  01100  01139      % 01187 RGTR--
+220502005 Frisange, Park & Rid         01100                % 01187 RGTR--
+220502006 Frisange, Cité Aalue  01102  01102                % 01187 RGTR--
+220502001 Frisange, Aal Gemeng  01103  01103                % 01187 RGTR--
+220502003 Frisange, Hau         01104  01104                % 01187 RGTR--
+201103004 Weiler-la-Tour, Schl  01106  01106                % 01187 RGTR--
+201103001 Weiler-la-Tour, Camp  01107  01107                % 01187 RGTR--
+200301002 Alzingen, Hondsbréck  01109  01109                % 01187 RGTR--
+200301003 Alzingen, Trapeneck   01110  01110                % 01187 RGTR--
+200303006 Hesperange, Urbengss  01110  01110                % 01187 RGTR--
+200303001 Hesperange, Am Kelle  01111  01111                % 01187 RGTR--
+200303007 Hesperange, Wollefsm  01113  01113                % 01187 RGTR--
+200304001 Howald, Am Houwaldsb  01113  01113                % 01187 RGTR--
+200304004 Howald, Jhangeli      01114  01114                % 01187 RGTR--
+200404028 Bonnevoie, Neufchâte  01116  01116                % 01187 RGTR--
+200404016 Bonnevoie, Hippodrom  01116  01116                % 01187 RGTR--
+200404008 Bonnevoie, Dernier S  01117  01117                % 01187 RGTR--
+200405036 Luxembourg, Gare rou  01120  01120                % 01187 RGTR--
+200405026 Luxembourg/Centre, P  01122  01122                % 01187 RGTR--
+200405023 Centre, Martyrs       01123  01123                % 01187 RGTR--
+200405020 Hamilius              01125  01125                % 01187 RGTR--
+200405014 Centre, Fondation Pe  01127  01127                % 01187 RGTR--
+200417047 Kirchberg, Rout Bréc  01129  01129                % 01187 RGTR--
+200417007 Kirchberg, B.E.I.     01130  01130                % 01187 RGTR--
+200417016 Kirchberg, Jean Monn  01131  01131                % 01187 RGTR--
+200417005 Kirchberg, Antoine d  01132  01132                % 01187 RGTR--
+200417019 Kirchberg, Konrad Ad  01133  01133                % 01187 RGTR--
+200417039 Kirchberg, Avalon     01134  01134                % 01187 RGTR--
+200417004 Kirchberg, Alphonse   01135  01135                % 01187 RGTR--
+200417015 Kirchberg, Hôpital    01137  01137                % 01187 RGTR--
+200417032 Kirchberg, Pierre We  01138  01138                % 01187 RGTR--
+200417034 Kirchberg, Rehazente  01139                       % 01187 RGTR--
+*Z 01188 RGTR--                                             % 01188 RGTR--
+*L 172      220502005 200417034  01200  01239               % 01188 RGTR--
+*A ct 220502005 200417034 000016  01200  01239              % 01188 RGTR--
+*A cx 220502005 200417034 000016  01200  01239              % 01188 RGTR--
+*R 2 200417034 220502005 200417034  01200  01239            % 01188 RGTR--
+*G RGB 220502005 200417034  01200  01239                    % 01188 RGTR--
+*A VE 220502005 200417034 000016  01200  01239              % 01188 RGTR--
+*I FD 220502005 200417034        0001964  01200  01239      % 01188 RGTR--
+220502005 Frisange, Park & Rid         01200                % 01188 RGTR--
+220502006 Frisange, Cité Aalue  01202  01202                % 01188 RGTR--
+220502001 Frisange, Aal Gemeng  01203  01203                % 01188 RGTR--
+220502003 Frisange, Hau         01204  01204                % 01188 RGTR--
+201103004 Weiler-la-Tour, Schl  01206  01206                % 01188 RGTR--
+201103001 Weiler-la-Tour, Camp  01207  01207                % 01188 RGTR--
+200301002 Alzingen, Hondsbréck  01209  01209                % 01188 RGTR--
+200301003 Alzingen, Trapeneck   01210  01210                % 01188 RGTR--
+200303006 Hesperange, Urbengss  01210  01210                % 01188 RGTR--
+200303001 Hesperange, Am Kelle  01211  01211                % 01188 RGTR--
+200303007 Hesperange, Wollefsm  01213  01213                % 01188 RGTR--
+200304001 Howald, Am Houwaldsb  01213  01213                % 01188 RGTR--
+200304004 Howald, Jhangeli      01214  01214                % 01188 RGTR--
+200404028 Bonnevoie, Neufchâte  01216  01216                % 01188 RGTR--
+200404016 Bonnevoie, Hippodrom  01216  01216                % 01188 RGTR--
+200404008 Bonnevoie, Dernier S  01217  01217                % 01188 RGTR--
+200405036 Luxembourg, Gare rou  01220  01220                % 01188 RGTR--
+200405026 Luxembourg/Centre, P  01222  01222                % 01188 RGTR--
+200405023 Centre, Martyrs       01223  01223                % 01188 RGTR--
+200405020 Hamilius              01225  01225                % 01188 RGTR--
+200405014 Centre, Fondation Pe  01227  01227                % 01188 RGTR--
+200417047 Kirchberg, Rout Bréc  01229  01229                % 01188 RGTR--
+200417007 Kirchberg, B.E.I.     01230  01230                % 01188 RGTR--
+200417016 Kirchberg, Jean Monn  01231  01231                % 01188 RGTR--
+200417005 Kirchberg, Antoine d  01232  01232                % 01188 RGTR--
+200417019 Kirchberg, Konrad Ad  01233  01233                % 01188 RGTR--
+200417039 Kirchberg, Avalon     01234  01234                % 01188 RGTR--
+200417004 Kirchberg, Alphonse   01235  01235                % 01188 RGTR--
+200417015 Kirchberg, Hôpital    01237  01237                % 01188 RGTR--
+200417032 Kirchberg, Pierre We  01238  01238                % 01188 RGTR--
+200417034 Kirchberg, Rehazente  01239                       % 01188 RGTR--
+*Z 01189 RGTR--                                             % 01189 RGTR--
+*L 172      220502005 200417034  01300  01339               % 01189 RGTR--
+*A BE 220502005 200417034 000016  01300  01339              % 01189 RGTR--
+*A cv 220502005 200417034 000016  01300  01339              % 01189 RGTR--
+*A cx 220502005 200417034 000016  01300  01339              % 01189 RGTR--
+*R 2 200417034 220502005 200417034  01300  01339            % 01189 RGTR--
+*G RGB 220502005 200417034  01300  01339                    % 01189 RGTR--
+*A VE 220502005 200417034 000016  01300  01339              % 01189 RGTR--
+*I FD 220502005 200417034        0001966  01300  01339      % 01189 RGTR--
+220502005 Frisange, Park & Rid         01300                % 01189 RGTR--
+220502006 Frisange, Cité Aalue  01302  01302                % 01189 RGTR--
+220502001 Frisange, Aal Gemeng  01303  01303                % 01189 RGTR--
+220502003 Frisange, Hau         01304  01304                % 01189 RGTR--
+201103004 Weiler-la-Tour, Schl  01306  01306                % 01189 RGTR--
+201103001 Weiler-la-Tour, Camp  01307  01307                % 01189 RGTR--
+200301002 Alzingen, Hondsbréck  01309  01309                % 01189 RGTR--
+200301003 Alzingen, Trapeneck   01310  01310                % 01189 RGTR--
+200303006 Hesperange, Urbengss  01310  01310                % 01189 RGTR--
+200303001 Hesperange, Am Kelle  01311  01311                % 01189 RGTR--
+200303007 Hesperange, Wollefsm  01313  01313                % 01189 RGTR--
+200304001 Howald, Am Houwaldsb  01313  01313                % 01189 RGTR--
+200304004 Howald, Jhangeli      01314  01314                % 01189 RGTR--
+200404028 Bonnevoie, Neufchâte  01316  01316                % 01189 RGTR--
+200404016 Bonnevoie, Hippodrom  01316  01316                % 01189 RGTR--
+200404008 Bonnevoie, Dernier S  01317  01317                % 01189 RGTR--
+200405036 Luxembourg, Gare rou  01320  01320                % 01189 RGTR--
+200405026 Luxembourg/Centre, P  01322  01322                % 01189 RGTR--
+200405023 Centre, Martyrs       01323  01323                % 01189 RGTR--
+200405020 Hamilius              01325  01325                % 01189 RGTR--
+200405014 Centre, Fondation Pe  01327  01327                % 01189 RGTR--
+200417047 Kirchberg, Rout Bréc  01329  01329                % 01189 RGTR--
+200417007 Kirchberg, B.E.I.     01330  01330                % 01189 RGTR--
+200417016 Kirchberg, Jean Monn  01331  01331                % 01189 RGTR--
+200417005 Kirchberg, Antoine d  01332  01332                % 01189 RGTR--
+200417019 Kirchberg, Konrad Ad  01333  01333                % 01189 RGTR--
+200417039 Kirchberg, Avalon     01334  01334                % 01189 RGTR--
+200417004 Kirchberg, Alphonse   01335  01335                % 01189 RGTR--
+200417015 Kirchberg, Hôpital    01337  01337                % 01189 RGTR--
+200417032 Kirchberg, Pierre We  01338  01338                % 01189 RGTR--
+200417034 Kirchberg, Rehazente  01339                       % 01189 RGTR--
+*Z 01190 RGTR--                                             % 01190 RGTR--
+*L 172      220502005 200417034  01400  01439               % 01190 RGTR--
+*A ct 220502005 200417034 000016  01400  01439              % 01190 RGTR--
+*A cx 220502005 200417034 000016  01400  01439              % 01190 RGTR--
+*R 2 200417034 220502005 200417034  01400  01439            % 01190 RGTR--
+*G RGB 220502005 200417034  01400  01439                    % 01190 RGTR--
+*A VE 220502005 200417034 000016  01400  01439              % 01190 RGTR--
+*I FD 220502005 200417034        0001969  01400  01439      % 01190 RGTR--
+220502005 Frisange, Park & Rid         01400                % 01190 RGTR--
+220502006 Frisange, Cité Aalue  01402  01402                % 01190 RGTR--
+220502001 Frisange, Aal Gemeng  01403  01403                % 01190 RGTR--
+220502003 Frisange, Hau         01404  01404                % 01190 RGTR--
+201103004 Weiler-la-Tour, Schl  01406  01406                % 01190 RGTR--
+201103001 Weiler-la-Tour, Camp  01407  01407                % 01190 RGTR--
+200301002 Alzingen, Hondsbréck  01409  01409                % 01190 RGTR--
+200301003 Alzingen, Trapeneck   01410  01410                % 01190 RGTR--
+200303006 Hesperange, Urbengss  01410  01410                % 01190 RGTR--
+200303001 Hesperange, Am Kelle  01411  01411                % 01190 RGTR--
+200303007 Hesperange, Wollefsm  01413  01413                % 01190 RGTR--
+200304001 Howald, Am Houwaldsb  01413  01413                % 01190 RGTR--
+200304004 Howald, Jhangeli      01414  01414                % 01190 RGTR--
+200404028 Bonnevoie, Neufchâte  01416  01416                % 01190 RGTR--
+200404016 Bonnevoie, Hippodrom  01416  01416                % 01190 RGTR--
+200404008 Bonnevoie, Dernier S  01417  01417                % 01190 RGTR--
+200405036 Luxembourg, Gare rou  01420  01420                % 01190 RGTR--
+200405026 Luxembourg/Centre, P  01422  01422                % 01190 RGTR--
+200405023 Centre, Martyrs       01423  01423                % 01190 RGTR--
+200405020 Hamilius              01425  01425                % 01190 RGTR--
+200405014 Centre, Fondation Pe  01427  01427                % 01190 RGTR--
+200417047 Kirchberg, Rout Bréc  01429  01429                % 01190 RGTR--
+200417007 Kirchberg, B.E.I.     01430  01430                % 01190 RGTR--
+200417016 Kirchberg, Jean Monn  01431  01431                % 01190 RGTR--
+200417005 Kirchberg, Antoine d  01432  01432                % 01190 RGTR--
+200417019 Kirchberg, Konrad Ad  01433  01433                % 01190 RGTR--
+200417039 Kirchberg, Avalon     01434  01434                % 01190 RGTR--
+200417004 Kirchberg, Alphonse   01435  01435                % 01190 RGTR--
+200417015 Kirchberg, Hôpital    01437  01437                % 01190 RGTR--
+200417032 Kirchberg, Pierre We  01438  01438                % 01190 RGTR--
+200417034 Kirchberg, Rehazente  01439                       % 01190 RGTR--
+*Z 01191 RGTR--                                             % 01191 RGTR--
+*L 172      220502005 200417034  01500  01539               % 01191 RGTR--
+*A BE 220502005 200417034 000016  01500  01539              % 01191 RGTR--
+*A cv 220502005 200417034 000016  01500  01539              % 01191 RGTR--
+*A cx 220502005 200417034 000016  01500  01539              % 01191 RGTR--
+*R 2 200417034 220502005 200417034  01500  01539            % 01191 RGTR--
+*G RGB 220502005 200417034  01500  01539                    % 01191 RGTR--
+*A VE 220502005 200417034 000016  01500  01539              % 01191 RGTR--
+*I FD 220502005 200417034        0001972  01500  01539      % 01191 RGTR--
+220502005 Frisange, Park & Rid         01500                % 01191 RGTR--
+220502006 Frisange, Cité Aalue  01502  01502                % 01191 RGTR--
+220502001 Frisange, Aal Gemeng  01503  01503                % 01191 RGTR--
+220502003 Frisange, Hau         01504  01504                % 01191 RGTR--
+201103004 Weiler-la-Tour, Schl  01506  01506                % 01191 RGTR--
+201103001 Weiler-la-Tour, Camp  01507  01507                % 01191 RGTR--
+200301002 Alzingen, Hondsbréck  01509  01509                % 01191 RGTR--
+200301003 Alzingen, Trapeneck   01510  01510                % 01191 RGTR--
+200303006 Hesperange, Urbengss  01510  01510                % 01191 RGTR--
+200303001 Hesperange, Am Kelle  01511  01511                % 01191 RGTR--
+200303007 Hesperange, Wollefsm  01513  01513                % 01191 RGTR--
+200304001 Howald, Am Houwaldsb  01513  01513                % 01191 RGTR--
+200304004 Howald, Jhangeli      01514  01514                % 01191 RGTR--
+200404028 Bonnevoie, Neufchâte  01516  01516                % 01191 RGTR--
+200404016 Bonnevoie, Hippodrom  01516  01516                % 01191 RGTR--
+200404008 Bonnevoie, Dernier S  01517  01517                % 01191 RGTR--
+200405036 Luxembourg, Gare rou  01520  01520                % 01191 RGTR--
+200405026 Luxembourg/Centre, P  01522  01522                % 01191 RGTR--
+200405023 Centre, Martyrs       01523  01523                % 01191 RGTR--
+200405020 Hamilius              01525  01525                % 01191 RGTR--
+200405014 Centre, Fondation Pe  01527  01527                % 01191 RGTR--
+200417047 Kirchberg, Rout Bréc  01529  01529                % 01191 RGTR--
+200417007 Kirchberg, B.E.I.     01530  01530                % 01191 RGTR--
+200417016 Kirchberg, Jean Monn  01531  01531                % 01191 RGTR--
+200417005 Kirchberg, Antoine d  01532  01532                % 01191 RGTR--
+200417019 Kirchberg, Konrad Ad  01533  01533                % 01191 RGTR--
+200417039 Kirchberg, Avalon     01534  01534                % 01191 RGTR--
+200417004 Kirchberg, Alphonse   01535  01535                % 01191 RGTR--
+200417015 Kirchberg, Hôpital    01537  01537                % 01191 RGTR--
+200417032 Kirchberg, Pierre We  01538  01538                % 01191 RGTR--
+200417034 Kirchberg, Rehazente  01539                       % 01191 RGTR--
+*Z 01192 RGTR--                                             % 01192 RGTR--
+*L 172      220502005 200417034  01600  01639               % 01192 RGTR--
+*A ct 220502005 200417034 000016  01600  01639              % 01192 RGTR--
+*A cx 220502005 200417034 000016  01600  01639              % 01192 RGTR--
+*R 2 200417034 220502005 200417034  01600  01639            % 01192 RGTR--
+*G RGB 220502005 200417034  01600  01639                    % 01192 RGTR--
+*A VE 220502005 200417034 000016  01600  01639              % 01192 RGTR--
+*I FD 220502005 200417034        0001975  01600  01639      % 01192 RGTR--
+220502005 Frisange, Park & Rid         01600                % 01192 RGTR--
+220502006 Frisange, Cité Aalue  01602  01602                % 01192 RGTR--
+220502001 Frisange, Aal Gemeng  01603  01603                % 01192 RGTR--
+220502003 Frisange, Hau         01604  01604                % 01192 RGTR--
+201103004 Weiler-la-Tour, Schl  01606  01606                % 01192 RGTR--
+201103001 Weiler-la-Tour, Camp  01607  01607                % 01192 RGTR--
+200301002 Alzingen, Hondsbréck  01609  01609                % 01192 RGTR--
+200301003 Alzingen, Trapeneck   01610  01610                % 01192 RGTR--
+200303006 Hesperange, Urbengss  01610  01610                % 01192 RGTR--
+200303001 Hesperange, Am Kelle  01611  01611                % 01192 RGTR--
+200303007 Hesperange, Wollefsm  01613  01613                % 01192 RGTR--
+200304001 Howald, Am Houwaldsb  01613  01613                % 01192 RGTR--
+200304004 Howald, Jhangeli      01614  01614                % 01192 RGTR--
+200404028 Bonnevoie, Neufchâte  01616  01616                % 01192 RGTR--
+200404016 Bonnevoie, Hippodrom  01616  01616                % 01192 RGTR--
+200404008 Bonnevoie, Dernier S  01617  01617                % 01192 RGTR--
+200405036 Luxembourg, Gare rou  01620  01620                % 01192 RGTR--
+200405026 Luxembourg/Centre, P  01622  01622                % 01192 RGTR--
+200405023 Centre, Martyrs       01623  01623                % 01192 RGTR--
+200405020 Hamilius              01625  01625                % 01192 RGTR--
+200405014 Centre, Fondation Pe  01627  01627                % 01192 RGTR--
+200417047 Kirchberg, Rout Bréc  01629  01629                % 01192 RGTR--
+200417007 Kirchberg, B.E.I.     01630  01630                % 01192 RGTR--
+200417016 Kirchberg, Jean Monn  01631  01631                % 01192 RGTR--
+200417005 Kirchberg, Antoine d  01632  01632                % 01192 RGTR--
+200417019 Kirchberg, Konrad Ad  01633  01633                % 01192 RGTR--
+200417039 Kirchberg, Avalon     01634  01634                % 01192 RGTR--
+200417004 Kirchberg, Alphonse   01635  01635                % 01192 RGTR--
+200417015 Kirchberg, Hôpital    01637  01637                % 01192 RGTR--
+200417032 Kirchberg, Pierre We  01638  01638                % 01192 RGTR--
+200417034 Kirchberg, Rehazente  01639                       % 01192 RGTR--

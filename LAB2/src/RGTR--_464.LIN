@@ -1,0 +1,105 @@
+*F 03 2
+*Z 09187 RGTR--                                             % 09187 RGTR--
+*L 464      180304001 180401006  00645  00727               % 09187 RGTR--
+*A bi 180304001 180401006 000030  00645  00727              % 09187 RGTR--
+*A ag 180304001 180401006 000030  00645  00727              % 09187 RGTR--
+*A nq 180304001 180401006 000030  00645  00727              % 09187 RGTR--
+*A WN 180304001 180401006 000030  00645  00727              % 09187 RGTR--
+*A ad 180304001 180401006 000030  00645  00727              % 09187 RGTR--
+*R 1 180401006 180304001 180401006  00645  00727            % 09187 RGTR--
+*G RGB 180304001 180401006  00645  00727                    % 09187 RGTR--
+*A VE 180304001 180401006 000030  00645  00727              % 09187 RGTR--
+*I FD 180304001 180401006        0002795  00645  00727      % 09187 RGTR--
+180304001 Gostingen, Am Ennerd         00645                % 09187 RGTR--
+180304002 Gostingen, Kiirch     00645  00645                % 09187 RGTR--
+180301002 Beyren, Op der Bréck  00648  00648                % 09187 RGTR--
+180301001 Beyren, An der Fuert  00648  00648                % 09187 RGTR--
+180104002 Mensdorf, Uewen am D  00652  00652                % 09187 RGTR--
+180104001 Mensdorf, Ennen am D  00653  00653                % 09187 RGTR--
+180106001 Roodt/Syre, Barriär   00656  00656                % 09187 RGTR--
+180303002 Flaxweiler, Op der B  00700  00700                % 09187 RGTR--
+180303001 Flaxweiler, Bei Knup  00701  00701                % 09187 RGTR--
+180302003 Flaxweiler, Am Faubo  00701  00701                % 09187 RGTR--
+180302001 Flaxweiler, Buchholz  00703  00703                % 09187 RGTR--
+180306001 Oberdonven            00707  00707                % 09187 RGTR--
+180305001 Niederdonven, Beim F  00710  00710                % 09187 RGTR--
+180305003 Niederdonven, Bei de  00711  00711                % 09187 RGTR--
+180305002 Niederdonven, Beim S  00712  00712                % 09187 RGTR--
+180801002 Ahn, Op der Breck     00715  00715                % 09187 RGTR--
+180803004 Machtum, Ongkaf       00720  00720                % 09187 RGTR--
+180803003 Machtum, Gellebur     00721  00721                % 09187 RGTR--
+180803002 Machtum, Deisermille  00721  00721                % 09187 RGTR--
+180401005 Grevenmacher, rte.de  00722  00722                % 09187 RGTR--
+180401002 Grevenmacher, Enner   00724  00724                % 09187 RGTR--
+180401003 Grevenmacher, Gare r  00725  00725                % 09187 RGTR--
+180401006 Grevenmacher, Schoul  00727                       % 09187 RGTR--
+*Z 09188 RGTR--                                             % 09188 RGTR--
+*L 464      180401006 180304001  01635  01718               % 09188 RGTR--
+*A bi 180401006 180304001 000030  01635  01718              % 09188 RGTR--
+*A ag 180401006 180304001 000030  01635  01718              % 09188 RGTR--
+*A tf 180401006 180304001 000030  01635  01718              % 09188 RGTR--
+*A ad 180401006 180304001 000030  01635  01718              % 09188 RGTR--
+*R 2 180304001 180401006 180304001  01635  01718            % 09188 RGTR--
+*G RGB 180401006 180304001  01635  01718                    % 09188 RGTR--
+*A VE 180401006 180304001 000030  01635  01718              % 09188 RGTR--
+*I FD 180401006 180304001        0002883  01635  01718      % 09188 RGTR--
+180401006 Grevenmacher, Schoul         01635                % 09188 RGTR--
+180401003 Grevenmacher, Gare r  01636  01636                % 09188 RGTR--
+180401002 Grevenmacher, Enner   01638  01638                % 09188 RGTR--
+180401005 Grevenmacher, rte.de  01639  01639                % 09188 RGTR--
+180803002 Machtum, Deisermille  01640  01640                % 09188 RGTR--
+180803003 Machtum, Gellebur     01641  01641                % 09188 RGTR--
+180803001 Machtum, Bei Kallek'  01641  01641                % 09188 RGTR--
+180801002 Ahn, Op der Breck     01646  01646                % 09188 RGTR--
+180305002 Niederdonven, Beim S  01649  01649                % 09188 RGTR--
+180305003 Niederdonven, Bei de  01651  01651                % 09188 RGTR--
+180305001 Niederdonven, Beim F  01652  01652                % 09188 RGTR--
+180305004 Niederdonven, Op der  01653  01653                % 09188 RGTR--
+180306001 Oberdonven            01655  01655                % 09188 RGTR--
+180302001 Flaxweiler, Buchholz  01659  01659                % 09188 RGTR--
+180302003 Flaxweiler, Am Faubo  01700  01700                % 09188 RGTR--
+180303001 Flaxweiler, Bei Knup  01701  01701                % 09188 RGTR--
+180303002 Flaxweiler, Op der B  01702  01702                % 09188 RGTR--
+180101001 Banzelt, Ort          01704  01704                % 09188 RGTR--
+180106001 Roodt/Syre, Barriär   01706  01706                % 09188 RGTR--
+180104001 Mensdorf, Ennen am D  01710  01710                % 09188 RGTR--
+180104002 Mensdorf, Uewen am D  01711  01711                % 09188 RGTR--
+180301001 Beyren, An der Fuert  01714  01714                % 09188 RGTR--
+180301002 Beyren, Op der Bréck  01715  01715                % 09188 RGTR--
+180304002 Gostingen, Kiirch     01718  01718                % 09188 RGTR--
+180304001 Gostingen, Am Ennerd  01718                       % 09188 RGTR--
+*Z 09189 RGTR--                                             % 09189 RGTR--
+*L 464      180401006 180304001  01405  01446               % 09189 RGTR--
+*A bi 180401006 180304001 000030  01405  01446              % 09189 RGTR--
+*A ag 180401006 180304001 000030  01405  01446              % 09189 RGTR--
+*A tf 180401006 180304001 000030  01405  01446              % 09189 RGTR--
+*A ad 180401006 180304001 000030  01405  01446              % 09189 RGTR--
+*R 2 180304001 180401006 180304001  01405  01446            % 09189 RGTR--
+*G RGB 180401006 180304001  01405  01446                    % 09189 RGTR--
+*A VE 180401006 180304001 000030  01405  01446              % 09189 RGTR--
+*I FD 180401006 180304001        0002649  01405  01446      % 09189 RGTR--
+180401006 Grevenmacher, Schoul         01405                % 09189 RGTR--
+180401003 Grevenmacher, Gare r  01406  01406                % 09189 RGTR--
+180401002 Grevenmacher, Enner   01407  01407                % 09189 RGTR--
+180401005 Grevenmacher, rte.de  01408  01408                % 09189 RGTR--
+180803002 Machtum, Deisermille  01410  01410                % 09189 RGTR--
+180803003 Machtum, Gellebur     01410  01410                % 09189 RGTR--
+180803001 Machtum, Bei Kallek'  01411  01411                % 09189 RGTR--
+180801002 Ahn, Op der Breck     01416  01416                % 09189 RGTR--
+180305002 Niederdonven, Beim S  01419  01419                % 09189 RGTR--
+180305003 Niederdonven, Bei de  01421  01421                % 09189 RGTR--
+180305001 Niederdonven, Beim F  01421  01421                % 09189 RGTR--
+180305004 Niederdonven, Op der  01422  01422                % 09189 RGTR--
+180306001 Oberdonven            01424  01424                % 09189 RGTR--
+180302001 Flaxweiler, Buchholz  01428  01428                % 09189 RGTR--
+180302003 Flaxweiler, Am Faubo  01430  01430                % 09189 RGTR--
+180303001 Flaxweiler, Bei Knup  01430  01430                % 09189 RGTR--
+180303002 Flaxweiler, Op der B  01431  01431                % 09189 RGTR--
+180101001 Banzelt, Ort          01433  01433                % 09189 RGTR--
+180106001 Roodt/Syre, Barriär   01435  01435                % 09189 RGTR--
+180104001 Mensdorf, Ennen am D  01438  01438                % 09189 RGTR--
+180104002 Mensdorf, Uewen am D  01439  01439                % 09189 RGTR--
+180301001 Beyren, An der Fuert  01443  01443                % 09189 RGTR--
+180301002 Beyren, Op der Bréck  01443  01443                % 09189 RGTR--
+180304002 Gostingen, Kiirch     01445  01445                % 09189 RGTR--
+180304001 Gostingen, Am Ennerd  01446                       % 09189 RGTR--

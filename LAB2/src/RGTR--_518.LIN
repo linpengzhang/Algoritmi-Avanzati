@@ -1,0 +1,569 @@
+*F 03 2
+*Z 07546 RGTR--                                             % 07546 RGTR--
+*L 518      140701016 150606005  01018  01056               % 07546 RGTR--
+*A lc 140701016 150606005 000006  01018  01056              % 07546 RGTR--
+*A in 140701016 150606005 000006  01018  01056              % 07546 RGTR--
+*R 1 150606005 140701016 150606005  01018  01056            % 07546 RGTR--
+*G RGB 140701016 150606005  01018  01056                    % 07546 RGTR--
+*A VE 140701016 150606005 000006  01018  01056              % 07546 RGTR--
+*I FD 140701016 150606005        0001829  01018  01056      % 07546 RGTR--
+140701016 Ettelbruck, Gare             01018                % 07546 RGTR--
+140701024 Ettelbruck, Pensionn  01019  01019                % 07546 RGTR--
+140701026 Ettelbruck, Rond Poi  01021  01021                % 07546 RGTR--
+140701018 Ettelbruck, H.v.Land  01022  01022                % 07546 RGTR--
+160301002 Colmar, Centre        01026  01026                % 07546 RGTR--
+160301007 Colmar, Usines        01028  01028                % 07546 RGTR--
+160101005 Bissen, Op der Mille  01030  01030                % 07546 RGTR--
+160101003 Bissen, Geiwels       01031  01031                % 07546 RGTR--
+160101002 Bissen, Kräizung      01032  01032                % 07546 RGTR--
+150902005 Vichten, Hemeschbaac  01037  01037                % 07546 RGTR--
+150902006 Vichten, Ohligsfeld   01037  01037                % 07546 RGTR--
+150902007 Vichten, Schoul       01038  01038                % 07546 RGTR--
+150902004 Vichten, Gemeng       01039  01039                % 07546 RGTR--
+150902003 Vichten, Bäerig       01041  01041                % 07546 RGTR--
+150803003 Schandel, Viichtener  01043  01043                % 07546 RGTR--
+150803001 Schandel, Kiirch      01044  01044                % 07546 RGTR--
+150803002 Schandel, Kreizung    01045  01045                % 07546 RGTR--
+150204002 Reimberg              01047  01047                % 07546 RGTR--
+150204001 Reimberg, Michel Luc  01048  01048                % 07546 RGTR--
+150206001 Bettborn, Gemenge Pl  01049  01049                % 07546 RGTR--
+150202001 Platen, Kinnebësch    01049  01049                % 07546 RGTR--
+150202002 Platen                01050  01050                % 07546 RGTR--
+150607001 Reichlange, Hostelle  01052  01052                % 07546 RGTR--
+150606005 Redange, Lycée Atert  01056                       % 07546 RGTR--
+*Z 07547 RGTR--                                             % 07547 RGTR--
+*L 518      140701016 150606005  01718  01758               % 07547 RGTR--
+*A ey 140701016 150606005 000006  01718  01758              % 07547 RGTR--
+*A in 140701016 150606005 000006  01718  01758              % 07547 RGTR--
+*R 1 150606005 140701016 150606005  01718  01758            % 07547 RGTR--
+*G RGB 140701016 150606005  01718  01758                    % 07547 RGTR--
+*A VE 140701016 150606005 000006  01718  01758              % 07547 RGTR--
+*I FD 140701016 150606005        0002478  01718  01758      % 07547 RGTR--
+140701016 Ettelbruck, Gare             01718                % 07547 RGTR--
+140701024 Ettelbruck, Pensionn  01719  01719                % 07547 RGTR--
+140701026 Ettelbruck, Rond Poi  01722  01722                % 07547 RGTR--
+140701018 Ettelbruck, H.v.Land  01723  01723                % 07547 RGTR--
+160301002 Colmar, Centre        01727  01727                % 07547 RGTR--
+160301007 Colmar, Usines        01729  01729                % 07547 RGTR--
+160101005 Bissen, Op der Mille  01731  01731                % 07547 RGTR--
+160101003 Bissen, Geiwels       01732  01732                % 07547 RGTR--
+160101002 Bissen, Kräizung      01733  01733                % 07547 RGTR--
+150902005 Vichten, Hemeschbaac  01738  01738                % 07547 RGTR--
+150902006 Vichten, Ohligsfeld   01739  01739                % 07547 RGTR--
+150902007 Vichten, Schoul       01740  01740                % 07547 RGTR--
+150902004 Vichten, Gemeng       01740  01740                % 07547 RGTR--
+150902003 Vichten, Bäerig       01742  01742                % 07547 RGTR--
+150803003 Schandel, Viichtener  01745  01745                % 07547 RGTR--
+150803001 Schandel, Kiirch      01746  01746                % 07547 RGTR--
+150803002 Schandel, Kreizung    01747  01747                % 07547 RGTR--
+150204002 Reimberg              01748  01748                % 07547 RGTR--
+150204001 Reimberg, Michel Luc  01749  01749                % 07547 RGTR--
+150206001 Bettborn, Gemenge Pl  01751  01751                % 07547 RGTR--
+150202001 Platen, Kinnebësch    01751  01751                % 07547 RGTR--
+150202002 Platen                01752  01752                % 07547 RGTR--
+150607001 Reichlange, Hostelle  01754  01754                % 07547 RGTR--
+150606005 Redange, Lycée Atert  01758                       % 07547 RGTR--
+*Z 07548 RGTR--                                             % 07548 RGTR--
+*L 518      140701016 150606005  01818  01858               % 07548 RGTR--
+*A lc 140701016 150606005 000006  01818  01858              % 07548 RGTR--
+*A in 140701016 150606005 000006  01818  01858              % 07548 RGTR--
+*R 1 150606005 140701016 150606005  01818  01858            % 07548 RGTR--
+*G RGB 140701016 150606005  01818  01858                    % 07548 RGTR--
+*A VE 140701016 150606005 000006  01818  01858              % 07548 RGTR--
+*I FD 140701016 150606005        0002480  01818  01858      % 07548 RGTR--
+140701016 Ettelbruck, Gare             01818                % 07548 RGTR--
+140701024 Ettelbruck, Pensionn  01819  01819                % 07548 RGTR--
+140701026 Ettelbruck, Rond Poi  01822  01822                % 07548 RGTR--
+140701018 Ettelbruck, H.v.Land  01823  01823                % 07548 RGTR--
+160301002 Colmar, Centre        01827  01827                % 07548 RGTR--
+160301007 Colmar, Usines        01829  01829                % 07548 RGTR--
+160101005 Bissen, Op der Mille  01831  01831                % 07548 RGTR--
+160101003 Bissen, Geiwels       01832  01832                % 07548 RGTR--
+160101002 Bissen, Kräizung      01833  01833                % 07548 RGTR--
+150902005 Vichten, Hemeschbaac  01838  01838                % 07548 RGTR--
+150902006 Vichten, Ohligsfeld   01839  01839                % 07548 RGTR--
+150902007 Vichten, Schoul       01840  01840                % 07548 RGTR--
+150902004 Vichten, Gemeng       01840  01840                % 07548 RGTR--
+150902003 Vichten, Bäerig       01842  01842                % 07548 RGTR--
+150803003 Schandel, Viichtener  01845  01845                % 07548 RGTR--
+150803001 Schandel, Kiirch      01846  01846                % 07548 RGTR--
+150803002 Schandel, Kreizung    01847  01847                % 07548 RGTR--
+150204002 Reimberg              01848  01848                % 07548 RGTR--
+150204001 Reimberg, Michel Luc  01849  01849                % 07548 RGTR--
+150206001 Bettborn, Gemenge Pl  01851  01851                % 07548 RGTR--
+150202001 Platen, Kinnebësch    01851  01851                % 07548 RGTR--
+150202002 Platen                01852  01852                % 07548 RGTR--
+150607001 Reichlange, Hostelle  01854  01854                % 07548 RGTR--
+150606005 Redange, Lycée Atert  01858                       % 07548 RGTR--
+*Z 07549 RGTR--                                             % 07549 RGTR--
+*L 518      140401009 150606005  00800  00858               % 07549 RGTR--
+*A lc 140401009 150606005 000006  00800  00858              % 07549 RGTR--
+*A in 140401009 150606005 000006  00800  00858              % 07549 RGTR--
+*R 1 150606005 140401009 150606005  00800  00858            % 07549 RGTR--
+*G RGB 140401009 150606005  00800  00858                    % 07549 RGTR--
+*A VE 140401009 150606005 000006  00800  00858              % 07549 RGTR--
+*I FD 140401009 150606005        0002014  00800  00858      % 07549 RGTR--
+140401009 Diekirch, Neie Kolle         00800                % 07549 RGTR--
+140401011 Diekirch, Alexis Hec  00804  00804                % 07549 RGTR--
+140401006 Diekirch, Kluuster    00805  00805                % 07549 RGTR--
+140401004 Diekirch, Gare        00808  00808                % 07549 RGTR--
+140401008 Diekirch, Lorentzwue  00809  00809                % 07549 RGTR--
+140602006 Erpeldange/Sûre, Lad  00812  00812                % 07549 RGTR--
+140602001 Erpeldange/Sûre, An   00814  00814                % 07549 RGTR--
+140701016 Ettelbruck, Gare      00818  00818                % 07549 RGTR--
+140701024 Ettelbruck, Pensionn  00819  00819                % 07549 RGTR--
+140701026 Ettelbruck, Rond Poi  00822  00822                % 07549 RGTR--
+140701018 Ettelbruck, H.v.Land  00823  00823                % 07549 RGTR--
+160301002 Colmar, Centre        00827  00827                % 07549 RGTR--
+160301007 Colmar, Usines        00829  00829                % 07549 RGTR--
+160101005 Bissen, Op der Mille  00831  00831                % 07549 RGTR--
+160101003 Bissen, Geiwels       00832  00832                % 07549 RGTR--
+160101002 Bissen, Kräizung      00833  00833                % 07549 RGTR--
+150902005 Vichten, Hemeschbaac  00838  00838                % 07549 RGTR--
+150902006 Vichten, Ohligsfeld   00839  00839                % 07549 RGTR--
+150902007 Vichten, Schoul       00840  00840                % 07549 RGTR--
+150902004 Vichten, Gemeng       00840  00840                % 07549 RGTR--
+150902003 Vichten, Bäerig       00842  00842                % 07549 RGTR--
+150803003 Schandel, Viichtener  00845  00845                % 07549 RGTR--
+150803001 Schandel, Kiirch      00846  00846                % 07549 RGTR--
+150803002 Schandel, Kreizung    00847  00847                % 07549 RGTR--
+150204002 Reimberg              00848  00848                % 07549 RGTR--
+150204001 Reimberg, Michel Luc  00849  00849                % 07549 RGTR--
+150206001 Bettborn, Gemenge Pl  00851  00851                % 07549 RGTR--
+150202001 Platen, Kinnebësch    00851  00851                % 07549 RGTR--
+150202002 Platen                00852  00852                % 07549 RGTR--
+150607001 Reichlange, Hostelle  00854  00854                % 07549 RGTR--
+150606005 Redange, Lycée Atert  00858                       % 07549 RGTR--
+*Z 07550 RGTR--                                             % 07550 RGTR--
+*L 518      140401009 150606005  01558  01657               % 07550 RGTR--
+*A lc 140401009 150606005 000006  01558  01657              % 07550 RGTR--
+*A in 140401009 150606005 000006  01558  01657              % 07550 RGTR--
+*R 1 150606005 140401009 150606005  01558  01657            % 07550 RGTR--
+*G RGB 140401009 150606005  01558  01657                    % 07550 RGTR--
+*A VE 140401009 150606005 000006  01558  01657              % 07550 RGTR--
+*I FD 140401009 150606005        0002011  01558  01657      % 07550 RGTR--
+140401009 Diekirch, Neie Kolle         01558                % 07550 RGTR--
+140401011 Diekirch, Alexis Hec  01602  01602                % 07550 RGTR--
+140401006 Diekirch, Kluuster    01603  01603                % 07550 RGTR--
+140401004 Diekirch, Gare        01605  01605                % 07550 RGTR--
+140401008 Diekirch, Lorentzwue  01607  01607                % 07550 RGTR--
+140602006 Erpeldange/Sûre, Lad  01610  01610                % 07550 RGTR--
+140602001 Erpeldange/Sûre, An   01611  01611                % 07550 RGTR--
+140701016 Ettelbruck, Gare      01615  01617                % 07550 RGTR--
+140701024 Ettelbruck, Pensionn  01619  01619                % 07550 RGTR--
+140701026 Ettelbruck, Rond Poi  01621  01621                % 07550 RGTR--
+140701018 Ettelbruck, H.v.Land  01622  01622                % 07550 RGTR--
+160301002 Colmar, Centre        01626  01626                % 07550 RGTR--
+160301007 Colmar, Usines        01628  01628                % 07550 RGTR--
+160101005 Bissen, Op der Mille  01631  01631                % 07550 RGTR--
+160101003 Bissen, Geiwels       01632  01632                % 07550 RGTR--
+160101002 Bissen, Kräizung      01633  01633                % 07550 RGTR--
+150902005 Vichten, Hemeschbaac  01638  01638                % 07550 RGTR--
+150902006 Vichten, Ohligsfeld   01639  01639                % 07550 RGTR--
+150902007 Vichten, Schoul       01639  01639                % 07550 RGTR--
+150902004 Vichten, Gemeng       01640  01640                % 07550 RGTR--
+150902003 Vichten, Bäerig       01642  01642                % 07550 RGTR--
+150803003 Schandel, Viichtener  01645  01645                % 07550 RGTR--
+150803001 Schandel, Kiirch      01645  01645                % 07550 RGTR--
+150803002 Schandel, Kreizung    01646  01646                % 07550 RGTR--
+150204002 Reimberg              01648  01648                % 07550 RGTR--
+150204001 Reimberg, Michel Luc  01649  01649                % 07550 RGTR--
+150206001 Bettborn, Gemenge Pl  01650  01650                % 07550 RGTR--
+150202001 Platen, Kinnebësch    01651  01651                % 07550 RGTR--
+150202002 Platen                01652  01652                % 07550 RGTR--
+150607001 Reichlange, Hostelle  01653  01653                % 07550 RGTR--
+150606005 Redange, Lycée Atert  01657                       % 07550 RGTR--
+*Z 07551 RGTR--                                             % 07551 RGTR--
+*L 518      140401009 150606005  01158  01256               % 07551 RGTR--
+*A lc 140401009 150606005 000006  01158  01256              % 07551 RGTR--
+*A in 140401009 150606005 000006  01158  01256              % 07551 RGTR--
+*R 1 150606005 140401009 150606005  01158  01256            % 07551 RGTR--
+*G RGB 140401009 150606005  01158  01256                    % 07551 RGTR--
+*A VE 140401009 150606005 000006  01158  01256              % 07551 RGTR--
+*I FD 140401009 150606005        0002007  01158  01256      % 07551 RGTR--
+140401009 Diekirch, Neie Kolle         01158                % 07551 RGTR--
+140401011 Diekirch, Alexis Hec  01201  01201                % 07551 RGTR--
+140401006 Diekirch, Kluuster    01202  01202                % 07551 RGTR--
+140401004 Diekirch, Gare        01204  01204                % 07551 RGTR--
+140401008 Diekirch, Lorentzwue  01206  01206                % 07551 RGTR--
+140602006 Erpeldange/Sûre, Lad  01209  01209                % 07551 RGTR--
+140602001 Erpeldange/Sûre, An   01210  01210                % 07551 RGTR--
+140701016 Ettelbruck, Gare      01214  01218                % 07551 RGTR--
+140701024 Ettelbruck, Pensionn  01219  01219                % 07551 RGTR--
+140701026 Ettelbruck, Rond Poi  01221  01221                % 07551 RGTR--
+140701018 Ettelbruck, H.v.Land  01222  01222                % 07551 RGTR--
+160301002 Colmar, Centre        01226  01226                % 07551 RGTR--
+160301007 Colmar, Usines        01228  01228                % 07551 RGTR--
+160101005 Bissen, Op der Mille  01230  01230                % 07551 RGTR--
+160101003 Bissen, Geiwels       01231  01231                % 07551 RGTR--
+160101002 Bissen, Kräizung      01232  01232                % 07551 RGTR--
+150902005 Vichten, Hemeschbaac  01237  01237                % 07551 RGTR--
+150902006 Vichten, Ohligsfeld   01237  01237                % 07551 RGTR--
+150902007 Vichten, Schoul       01238  01238                % 07551 RGTR--
+150902004 Vichten, Gemeng       01239  01239                % 07551 RGTR--
+150902003 Vichten, Bäerig       01241  01241                % 07551 RGTR--
+150803003 Schandel, Viichtener  01243  01243                % 07551 RGTR--
+150803001 Schandel, Kiirch      01244  01244                % 07551 RGTR--
+150803002 Schandel, Kreizung    01245  01245                % 07551 RGTR--
+150204002 Reimberg              01247  01247                % 07551 RGTR--
+150204001 Reimberg, Michel Luc  01248  01248                % 07551 RGTR--
+150206001 Bettborn, Gemenge Pl  01249  01249                % 07551 RGTR--
+150202001 Platen, Kinnebësch    01249  01249                % 07551 RGTR--
+150202002 Platen                01250  01250                % 07551 RGTR--
+150607001 Reichlange, Hostelle  01252  01252                % 07551 RGTR--
+150606005 Redange, Lycée Atert  01256                       % 07551 RGTR--
+*Z 07552 RGTR--                                             % 07552 RGTR--
+*L 518      140401009 150606005  01420  01515               % 07552 RGTR--
+*A lc 140401009 150606005 000006  01420  01515              % 07552 RGTR--
+*A in 140401009 150606005 000006  01420  01515              % 07552 RGTR--
+*R 1 150606005 140401009 150606005  01420  01515            % 07552 RGTR--
+*G RGB 140401009 150606005  01420  01515                    % 07552 RGTR--
+*A VE 140401009 150606005 000006  01420  01515              % 07552 RGTR--
+*I FD 140401009 150606005        0002639  01420  01515      % 07552 RGTR--
+140401009 Diekirch, Neie Kolle         01420                % 07552 RGTR--
+140401011 Diekirch, Alexis Hec  01423  01423                % 07552 RGTR--
+140401006 Diekirch, Kluuster    01424  01424                % 07552 RGTR--
+140401004 Diekirch, Gare        01426  01426                % 07552 RGTR--
+140401008 Diekirch, Lorentzwue  01428  01428                % 07552 RGTR--
+140602006 Erpeldange/Sûre, Lad  01431  01431                % 07552 RGTR--
+140602001 Erpeldange/Sûre, An   01432  01432                % 07552 RGTR--
+140701016 Ettelbruck, Gare      01436  01437                % 07552 RGTR--
+140701024 Ettelbruck, Pensionn  01438  01438                % 07552 RGTR--
+140701026 Ettelbruck, Rond Poi  01440  01440                % 07552 RGTR--
+140701018 Ettelbruck, H.v.Land  01441  01441                % 07552 RGTR--
+160301002 Colmar, Centre        01445  01445                % 07552 RGTR--
+160301007 Colmar, Usines        01447  01447                % 07552 RGTR--
+160101005 Bissen, Op der Mille  01449  01449                % 07552 RGTR--
+160101003 Bissen, Geiwels       01450  01450                % 07552 RGTR--
+160101002 Bissen, Kräizung      01451  01451                % 07552 RGTR--
+150902005 Vichten, Hemeschbaac  01456  01456                % 07552 RGTR--
+150902006 Vichten, Ohligsfeld   01456  01456                % 07552 RGTR--
+150902007 Vichten, Schoul       01457  01457                % 07552 RGTR--
+150902004 Vichten, Gemeng       01458  01458                % 07552 RGTR--
+150902003 Vichten, Bäerig       01500  01500                % 07552 RGTR--
+150803003 Schandel, Viichtener  01502  01502                % 07552 RGTR--
+150803001 Schandel, Kiirch      01503  01503                % 07552 RGTR--
+150803002 Schandel, Kreizung    01504  01504                % 07552 RGTR--
+150204002 Reimberg              01506  01506                % 07552 RGTR--
+150204001 Reimberg, Michel Luc  01507  01507                % 07552 RGTR--
+150206001 Bettborn, Gemenge Pl  01508  01508                % 07552 RGTR--
+150202001 Platen, Kinnebësch    01508  01508                % 07552 RGTR--
+150202002 Platen                01509  01509                % 07552 RGTR--
+150607001 Reichlange, Hostelle  01511  01511                % 07552 RGTR--
+150606005 Redange, Lycée Atert  01515                       % 07552 RGTR--
+*Z 07553 RGTR--                                             % 07553 RGTR--
+*L 518      140401009 150606005  01442  01536               % 07553 RGTR--
+*A lc 140401009 150606005 000030  01442  01536              % 07553 RGTR--
+*A in 140401009 150606005 000030  01442  01536              % 07553 RGTR--
+*R 1 150606005 140401009 150606005  01442  01536            % 07553 RGTR--
+*G RGB 140401009 150606005  01442  01536                    % 07553 RGTR--
+*A VE 140401009 150606005 000030  01442  01536              % 07553 RGTR--
+*I FD 140401009 150606005        0002643  01442  01536      % 07553 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 07553 RGTR--
+140401011 Diekirch, Alexis Hec  01445  01445                % 07553 RGTR--
+140401006 Diekirch, Kluuster    01446  01446                % 07553 RGTR--
+140401004 Diekirch, Gare        01448  01448                % 07553 RGTR--
+140401008 Diekirch, Lorentzwue  01450  01450                % 07553 RGTR--
+140602006 Erpeldange/Sûre, Lad  01453  01453                % 07553 RGTR--
+140602001 Erpeldange/Sûre, An   01454  01454                % 07553 RGTR--
+140701016 Ettelbruck, Gare      01458  01458                % 07553 RGTR--
+140701024 Ettelbruck, Pensionn  01459  01459                % 07553 RGTR--
+140701026 Ettelbruck, Rond Poi  01501  01501                % 07553 RGTR--
+140701018 Ettelbruck, H.v.Land  01502  01502                % 07553 RGTR--
+160301002 Colmar, Centre        01506  01506                % 07553 RGTR--
+160301007 Colmar, Usines        01508  01508                % 07553 RGTR--
+160101005 Bissen, Op der Mille  01510  01510                % 07553 RGTR--
+160101003 Bissen, Geiwels       01511  01511                % 07553 RGTR--
+160101002 Bissen, Kräizung      01512  01512                % 07553 RGTR--
+150902005 Vichten, Hemeschbaac  01517  01517                % 07553 RGTR--
+150902006 Vichten, Ohligsfeld   01518  01518                % 07553 RGTR--
+150902007 Vichten, Schoul       01518  01518                % 07553 RGTR--
+150902004 Vichten, Gemeng       01519  01519                % 07553 RGTR--
+150902003 Vichten, Bäerig       01521  01521                % 07553 RGTR--
+150803003 Schandel, Viichtener  01523  01523                % 07553 RGTR--
+150803001 Schandel, Kiirch      01524  01524                % 07553 RGTR--
+150803002 Schandel, Kreizung    01525  01525                % 07553 RGTR--
+150204002 Reimberg              01527  01527                % 07553 RGTR--
+150204001 Reimberg, Michel Luc  01528  01528                % 07553 RGTR--
+150206001 Bettborn, Gemenge Pl  01529  01529                % 07553 RGTR--
+150202001 Platen, Kinnebësch    01530  01530                % 07553 RGTR--
+150202002 Platen                01530  01530                % 07553 RGTR--
+150607001 Reichlange, Hostelle  01532  01532                % 07553 RGTR--
+150606005 Redange, Lycée Atert  01536                       % 07553 RGTR--
+*Z 07554 RGTR--                                             % 07554 RGTR--
+*L 518      140401009 150204002  01500  01547               % 07554 RGTR--
+*A lc 140401009 150204002 000030  01500  01547              % 07554 RGTR--
+*A ps 140401009 150204002 000030  01500  01547              % 07554 RGTR--
+*R 1 150204002 140401009 150204002  01500  01547            % 07554 RGTR--
+*G RGB 140401009 150204002  01500  01547                    % 07554 RGTR--
+*A VE 140401009 150204002 000030  01500  01547              % 07554 RGTR--
+*I FD 140401009 150204002        0002587  01500  01547      % 07554 RGTR--
+140401009 Diekirch, Neie Kolle         01500                % 07554 RGTR--
+140401011 Diekirch, Alexis Hec  01503  01503                % 07554 RGTR--
+140401006 Diekirch, Kluuster    01504  01504                % 07554 RGTR--
+140401004 Diekirch, Gare        01506  01506                % 07554 RGTR--
+140401008 Diekirch, Lorentzwue  01508  01508                % 07554 RGTR--
+140602006 Erpeldange/Sûre, Lad  01511  01511                % 07554 RGTR--
+140602001 Erpeldange/Sûre, An   01512  01512                % 07554 RGTR--
+140701016 Ettelbruck, Gare      01516  01518                % 07554 RGTR--
+140701024 Ettelbruck, Pensionn  01519  01519                % 07554 RGTR--
+140701026 Ettelbruck, Rond Poi  01521  01521                % 07554 RGTR--
+140701018 Ettelbruck, H.v.Land  01522  01522                % 07554 RGTR--
+160301002 Colmar, Centre        01526  01526                % 07554 RGTR--
+160301007 Colmar, Usines        01528  01528                % 07554 RGTR--
+160101005 Bissen, Op der Mille  01530  01530                % 07554 RGTR--
+160101003 Bissen, Geiwels       01531  01531                % 07554 RGTR--
+160101002 Bissen, Kräizung      01532  01532                % 07554 RGTR--
+150902005 Vichten, Hemeschbaac  01537  01537                % 07554 RGTR--
+150902006 Vichten, Ohligsfeld   01537  01537                % 07554 RGTR--
+150902007 Vichten, Schoul       01538  01538                % 07554 RGTR--
+150902004 Vichten, Gemeng       01539  01539                % 07554 RGTR--
+150902003 Vichten, Bäerig       01541  01541                % 07554 RGTR--
+150803003 Schandel, Viichtener  01543  01543                % 07554 RGTR--
+150803001 Schandel, Kiirch      01544  01544                % 07554 RGTR--
+150803002 Schandel, Kreizung    01545  01545                % 07554 RGTR--
+150204002 Reimberg              01547                       % 07554 RGTR--
+*Z 00260 RGTR--                                             % 00260 RGTR--
+*L 518      140701016 160301007  02204  02214               % 00260 RGTR--
+*A ey 140701016 160301007 000006  02204  02214              % 00260 RGTR--
+*A jd 140701016 160301007 000006  02204  02214              % 00260 RGTR--
+*A hj 140701016 160301007 000006  02204  02214              % 00260 RGTR--
+*R 1 160301007 140701016 160301007  02204  02214            % 00260 RGTR--
+*G RGB 140701016 160301007  02204  02214                    % 00260 RGTR--
+*A VE 140701016 160301007 000006  02204  02214              % 00260 RGTR--
+*I FD 140701016 160301007        0002177  02204  02214      % 00260 RGTR--
+140701016 Ettelbruck, Gare             02204                % 00260 RGTR--
+140701024 Ettelbruck, Pensionn  02205  02205                % 00260 RGTR--
+140701026 Ettelbruck, Rond Poi  02207  02207                % 00260 RGTR--
+140701018 Ettelbruck, H.v.Land  02208  02208                % 00260 RGTR--
+160301002 Colmar, Centre        02212  02212                % 00260 RGTR--
+160301007 Colmar, Usines        02214                       % 00260 RGTR--
+*Z 07555 RGTR--                                             % 07555 RGTR--
+*L 518      150606005 140701016  00901  00940               % 07555 RGTR--
+*A lc 150606005 140701016 000006  00901  00940              % 07555 RGTR--
+*A ea 150606005 140701016 000006  00901  00940              % 07555 RGTR--
+*R 2 140701016 150606005 140701016  00901  00940            % 07555 RGTR--
+*G RGB 150606005 140701016  00901  00940                    % 07555 RGTR--
+*A VE 150606005 140701016 000006  00901  00940              % 07555 RGTR--
+*I FD 150606005 140701016        0002231  00901  00940      % 07555 RGTR--
+150606005 Redange, Lycée Atert         00901                % 07555 RGTR--
+150607001 Reichlange, Hostelle  00905  00905                % 07555 RGTR--
+150202002 Platen                00907  00907                % 07555 RGTR--
+150202001 Platen, Kinnebësch    00908  00908                % 07555 RGTR--
+150206001 Bettborn, Gemenge Pl  00908  00908                % 07555 RGTR--
+150204001 Reimberg, Michel Luc  00909  00909                % 07555 RGTR--
+150204002 Reimberg              00910  00910                % 07555 RGTR--
+150803002 Schandel, Kreizung    00912  00912                % 07555 RGTR--
+150803001 Schandel, Kiirch      00913  00913                % 07555 RGTR--
+150803003 Schandel, Viichtener  00914  00914                % 07555 RGTR--
+150902003 Vichten, Bäerig       00916  00916                % 07555 RGTR--
+150902004 Vichten, Gemeng       00918  00918                % 07555 RGTR--
+150902007 Vichten, Schoul       00919  00919                % 07555 RGTR--
+150902006 Vichten, Ohligsfeld   00919  00919                % 07555 RGTR--
+150902005 Vichten, Hemeschbaac  00920  00920                % 07555 RGTR--
+160101002 Bissen, Kräizung      00925  00925                % 07555 RGTR--
+160101003 Bissen, Geiwels       00926  00926                % 07555 RGTR--
+160101005 Bissen, Op der Mille  00927  00927                % 07555 RGTR--
+160301007 Colmar, Usines        00930  00930                % 07555 RGTR--
+160301002 Colmar, Centre        00931  00931                % 07555 RGTR--
+140701018 Ettelbruck, H.v.Land  00935  00935                % 07555 RGTR--
+140701026 Ettelbruck, Rond Poi  00937  00937                % 07555 RGTR--
+140701015 Ettelbruck, Ecole Pr  00938  00938                % 07555 RGTR--
+140701016 Ettelbruck, Gare      00940                       % 07555 RGTR--
+*Z 07556 RGTR--                                             % 07556 RGTR--
+*L 518      150606005 140701016  01702  01740               % 07556 RGTR--
+*A lc 150606005 140701016 000006  01702  01740              % 07556 RGTR--
+*A ea 150606005 140701016 000006  01702  01740              % 07556 RGTR--
+*R 2 140701016 150606005 140701016  01702  01740            % 07556 RGTR--
+*G RGB 150606005 140701016  01702  01740                    % 07556 RGTR--
+*A VE 150606005 140701016 000006  01702  01740              % 07556 RGTR--
+*I FD 150606005 140701016        0002511  01702  01740      % 07556 RGTR--
+150606005 Redange, Lycée Atert         01702                % 07556 RGTR--
+150607001 Reichlange, Hostelle  01706  01706                % 07556 RGTR--
+150202002 Platen                01707  01707                % 07556 RGTR--
+150202001 Platen, Kinnebësch    01708  01708                % 07556 RGTR--
+150206001 Bettborn, Gemenge Pl  01708  01708                % 07556 RGTR--
+150204001 Reimberg, Michel Luc  01710  01710                % 07556 RGTR--
+150204002 Reimberg              01710  01710                % 07556 RGTR--
+150803002 Schandel, Kreizung    01712  01712                % 07556 RGTR--
+150803001 Schandel, Kiirch      01713  01713                % 07556 RGTR--
+150803003 Schandel, Viichtener  01714  01714                % 07556 RGTR--
+150902003 Vichten, Bäerig       01717  01717                % 07556 RGTR--
+150902004 Vichten, Gemeng       01719  01719                % 07556 RGTR--
+150902007 Vichten, Schoul       01719  01719                % 07556 RGTR--
+150902006 Vichten, Ohligsfeld   01720  01720                % 07556 RGTR--
+150902005 Vichten, Hemeschbaac  01721  01721                % 07556 RGTR--
+160101002 Bissen, Kräizung      01725  01725                % 07556 RGTR--
+160101003 Bissen, Geiwels       01727  01727                % 07556 RGTR--
+160101005 Bissen, Op der Mille  01727  01727                % 07556 RGTR--
+160301007 Colmar, Usines        01730  01730                % 07556 RGTR--
+160301002 Colmar, Centre        01731  01731                % 07556 RGTR--
+140701018 Ettelbruck, H.v.Land  01736  01736                % 07556 RGTR--
+140701026 Ettelbruck, Rond Poi  01737  01737                % 07556 RGTR--
+140701015 Ettelbruck, Ecole Pr  01738  01738                % 07556 RGTR--
+140701016 Ettelbruck, Gare      01740                       % 07556 RGTR--
+*Z 07557 RGTR--                                             % 07557 RGTR--
+*L 518      150606005 140401009  01100  01152               % 07557 RGTR--
+*A lc 150606005 140401009 000006  01100  01152              % 07557 RGTR--
+*A pt 150606005 140401009 000006  01100  01152              % 07557 RGTR--
+*R 2 140401009 150606005 140401009  01100  01152            % 07557 RGTR--
+*G RGB 150606005 140401009  01100  01152                    % 07557 RGTR--
+*A VE 150606005 140401009 000006  01100  01152              % 07557 RGTR--
+*I FD 150606005 140401009        0001961  01100  01152      % 07557 RGTR--
+150606005 Redange, Lycée Atert         01100                % 07557 RGTR--
+150607001 Reichlange, Hostelle  01104  01104                % 07557 RGTR--
+150202002 Platen                01106  01106                % 07557 RGTR--
+150202001 Platen, Kinnebësch    01107  01107                % 07557 RGTR--
+150206001 Bettborn, Gemenge Pl  01107  01107                % 07557 RGTR--
+150204001 Reimberg, Michel Luc  01108  01108                % 07557 RGTR--
+150204002 Reimberg              01109  01109                % 07557 RGTR--
+150803002 Schandel, Kreizung    01111  01111                % 07557 RGTR--
+150803001 Schandel, Kiirch      01112  01112                % 07557 RGTR--
+150803003 Schandel, Viichtener  01112  01112                % 07557 RGTR--
+150902003 Vichten, Bäerig       01115  01115                % 07557 RGTR--
+150902004 Vichten, Gemeng       01117  01117                % 07557 RGTR--
+150902007 Vichten, Schoul       01118  01118                % 07557 RGTR--
+150902006 Vichten, Ohligsfeld   01118  01118                % 07557 RGTR--
+150902005 Vichten, Hemeschbaac  01119  01119                % 07557 RGTR--
+160101002 Bissen, Kräizung      01123  01123                % 07557 RGTR--
+160101003 Bissen, Geiwels       01124  01124                % 07557 RGTR--
+160101005 Bissen, Op der Mille  01125  01125                % 07557 RGTR--
+160301007 Colmar, Usines        01128  01128                % 07557 RGTR--
+160301002 Colmar, Centre        01129  01129                % 07557 RGTR--
+140701018 Ettelbruck, H.v.Land  01133  01133                % 07557 RGTR--
+140701026 Ettelbruck, Rond Poi  01134  01134                % 07557 RGTR--
+140701015 Ettelbruck, Ecole Pr  01135  01135                % 07557 RGTR--
+140701016 Ettelbruck, Gare      01137  01138                % 07557 RGTR--
+140602002 Erpeldange/Sûre, Bei  01140  01140                % 07557 RGTR--
+140602001 Erpeldange/Sûre, An   01141  01141                % 07557 RGTR--
+140602006 Erpeldange/Sûre, Lad  01142  01142                % 07557 RGTR--
+140401008 Diekirch, Lorentzwue  01146  01146                % 07557 RGTR--
+140401004 Diekirch, Gare        01147  01147                % 07557 RGTR--
+140401001 Diekirch, Altersheem  01149  01149                % 07557 RGTR--
+140401009 Diekirch, Neie Kolle  01152                       % 07557 RGTR--
+*Z 07558 RGTR--                                             % 07558 RGTR--
+*L 518      150606005 140401009  01300  01352               % 07558 RGTR--
+*A lc 150606005 140401009 000006  01300  01352              % 07558 RGTR--
+*A pt 150606005 140401009 000006  01300  01352              % 07558 RGTR--
+*R 2 140401009 150606005 140401009  01300  01352            % 07558 RGTR--
+*G RGB 150606005 140401009  01300  01352                    % 07558 RGTR--
+*A VE 150606005 140401009 000006  01300  01352              % 07558 RGTR--
+*I FD 150606005 140401009        0001966  01300  01352      % 07558 RGTR--
+150606005 Redange, Lycée Atert         01300                % 07558 RGTR--
+150607001 Reichlange, Hostelle  01304  01304                % 07558 RGTR--
+150202002 Platen                01306  01306                % 07558 RGTR--
+150202001 Platen, Kinnebësch    01307  01307                % 07558 RGTR--
+150206001 Bettborn, Gemenge Pl  01307  01307                % 07558 RGTR--
+150204001 Reimberg, Michel Luc  01308  01308                % 07558 RGTR--
+150204002 Reimberg              01309  01309                % 07558 RGTR--
+150803002 Schandel, Kreizung    01311  01311                % 07558 RGTR--
+150803001 Schandel, Kiirch      01312  01312                % 07558 RGTR--
+150803003 Schandel, Viichtener  01312  01312                % 07558 RGTR--
+150902003 Vichten, Bäerig       01315  01315                % 07558 RGTR--
+150902004 Vichten, Gemeng       01317  01317                % 07558 RGTR--
+150902007 Vichten, Schoul       01318  01318                % 07558 RGTR--
+150902006 Vichten, Ohligsfeld   01318  01318                % 07558 RGTR--
+150902005 Vichten, Hemeschbaac  01319  01319                % 07558 RGTR--
+160101002 Bissen, Kräizung      01323  01323                % 07558 RGTR--
+160101003 Bissen, Geiwels       01324  01324                % 07558 RGTR--
+160101005 Bissen, Op der Mille  01325  01325                % 07558 RGTR--
+160301007 Colmar, Usines        01328  01328                % 07558 RGTR--
+160301002 Colmar, Centre        01329  01329                % 07558 RGTR--
+140701018 Ettelbruck, H.v.Land  01333  01333                % 07558 RGTR--
+140701026 Ettelbruck, Rond Poi  01334  01334                % 07558 RGTR--
+140701015 Ettelbruck, Ecole Pr  01335  01335                % 07558 RGTR--
+140701016 Ettelbruck, Gare      01337  01338                % 07558 RGTR--
+140602002 Erpeldange/Sûre, Bei  01340  01340                % 07558 RGTR--
+140602001 Erpeldange/Sûre, An   01341  01341                % 07558 RGTR--
+140602006 Erpeldange/Sûre, Lad  01342  01342                % 07558 RGTR--
+140401008 Diekirch, Lorentzwue  01346  01346                % 07558 RGTR--
+140401004 Diekirch, Gare        01347  01347                % 07558 RGTR--
+140401001 Diekirch, Altersheem  01349  01349                % 07558 RGTR--
+140401009 Diekirch, Neie Kolle  01352                       % 07558 RGTR--
+*Z 07559 RGTR--                                             % 07559 RGTR--
+*L 518      150606005 140401009  01516  01606               % 07559 RGTR--
+*A lc 150606005 140401009 000006  01516  01606              % 07559 RGTR--
+*A pt 150606005 140401009 000006  01516  01606              % 07559 RGTR--
+*R 2 140401009 150606005 140401009  01516  01606            % 07559 RGTR--
+*G RGB 150606005 140401009  01516  01606                    % 07559 RGTR--
+*A VE 150606005 140401009 000006  01516  01606              % 07559 RGTR--
+*I FD 150606005 140401009        0002978  01516  01606      % 07559 RGTR--
+150606005 Redange, Lycée Atert         01516                % 07559 RGTR--
+150607001 Reichlange, Hostelle  01520  01520                % 07559 RGTR--
+150202002 Platen                01521  01521                % 07559 RGTR--
+150202001 Platen, Kinnebësch    01522  01522                % 07559 RGTR--
+150206001 Bettborn, Gemenge Pl  01522  01522                % 07559 RGTR--
+150204001 Reimberg, Michel Luc  01524  01524                % 07559 RGTR--
+150204002 Reimberg              01524  01524                % 07559 RGTR--
+150803002 Schandel, Kreizung    01526  01526                % 07559 RGTR--
+150803001 Schandel, Kiirch      01527  01527                % 07559 RGTR--
+150803003 Schandel, Viichtener  01528  01528                % 07559 RGTR--
+150902003 Vichten, Bäerig       01530  01530                % 07559 RGTR--
+150902004 Vichten, Gemeng       01532  01532                % 07559 RGTR--
+150902007 Vichten, Schoul       01533  01533                % 07559 RGTR--
+150902006 Vichten, Ohligsfeld   01533  01533                % 07559 RGTR--
+150902005 Vichten, Hemeschbaac  01534  01534                % 07559 RGTR--
+160101002 Bissen, Kräizung      01539  01539                % 07559 RGTR--
+160101003 Bissen, Geiwels       01540  01540                % 07559 RGTR--
+160101005 Bissen, Op der Mille  01540  01540                % 07559 RGTR--
+160301007 Colmar, Usines        01543  01543                % 07559 RGTR--
+160301002 Colmar, Centre        01544  01544                % 07559 RGTR--
+140701018 Ettelbruck, H.v.Land  01549  01549                % 07559 RGTR--
+140701026 Ettelbruck, Rond Poi  01550  01550                % 07559 RGTR--
+140701015 Ettelbruck, Ecole Pr  01551  01551                % 07559 RGTR--
+140701016 Ettelbruck, Gare      01552  01552                % 07559 RGTR--
+140602002 Erpeldange/Sûre, Bei  01554  01554                % 07559 RGTR--
+140602001 Erpeldange/Sûre, An   01555  01555                % 07559 RGTR--
+140602006 Erpeldange/Sûre, Lad  01556  01556                % 07559 RGTR--
+140401008 Diekirch, Lorentzwue  01600  01600                % 07559 RGTR--
+140401004 Diekirch, Gare        01602  01602                % 07559 RGTR--
+140401001 Diekirch, Altersheem  01603  01603                % 07559 RGTR--
+140401009 Diekirch, Neie Kolle  01606                       % 07559 RGTR--
+*Z 00030 RGTR--                                             % 00030 RGTR--
+*L 518      150204002 140401009  00702  00753               % 00030 RGTR--
+*A lc 150204002 140401009 000006  00702  00753              % 00030 RGTR--
+*A fe 150204002 140401009 000006  00702  00753              % 00030 RGTR--
+*R 2 140401009 150204002 140401009  00702  00753            % 00030 RGTR--
+*G RGB 150204002 140401009  00702  00753                    % 00030 RGTR--
+*A VE 150204002 140401009 000006  00702  00753              % 00030 RGTR--
+*I FD 150204002 140401009        0002742  00702  00753      % 00030 RGTR--
+150204002 Reimberg                     00702                % 00030 RGTR--
+150803002 Schandel, Kreizung    00703  00703                % 00030 RGTR--
+150803001 Schandel, Kiirch      00704  00704                % 00030 RGTR--
+150803003 Schandel, Viichtener  00705  00705                % 00030 RGTR--
+150902003 Vichten, Bäerig       00708  00708                % 00030 RGTR--
+150902004 Vichten, Gemeng       00710  00710                % 00030 RGTR--
+150902007 Vichten, Schoul       00710  00710                % 00030 RGTR--
+150902006 Vichten, Ohligsfeld   00711  00711                % 00030 RGTR--
+150902005 Vichten, Hemeschbaac  00712  00712                % 00030 RGTR--
+160101002 Bissen, Kräizung      00717  00717                % 00030 RGTR--
+160101003 Bissen, Geiwels       00718  00718                % 00030 RGTR--
+160101005 Bissen, Op der Mille  00718  00718                % 00030 RGTR--
+160301007 Colmar, Usines        00721  00721                % 00030 RGTR--
+160301002 Colmar, Centre        00722  00722                % 00030 RGTR--
+140701018 Ettelbruck, H.v.Land  00727  00727                % 00030 RGTR--
+140701026 Ettelbruck, Rond Poi  00728  00728                % 00030 RGTR--
+140701015 Ettelbruck, Ecole Pr  00729  00729                % 00030 RGTR--
+140701016 Ettelbruck, Gare      00731  00738                % 00030 RGTR--
+140602002 Erpeldange/Sûre, Bei  00740  00740                % 00030 RGTR--
+140602001 Erpeldange/Sûre, An   00741  00741                % 00030 RGTR--
+140602006 Erpeldange/Sûre, Lad  00742  00742                % 00030 RGTR--
+140401008 Diekirch, Lorentzwue  00746  00746                % 00030 RGTR--
+140401004 Diekirch, Gare        00748  00748                % 00030 RGTR--
+140401001 Diekirch, Altersheem  00749  00749                % 00030 RGTR--
+140401009 Diekirch, Neie Kolle  00753                       % 00030 RGTR--
+*Z 00255 RGTR--                                             % 00255 RGTR--
+*L 518      160301007 140701016  02126  02134               % 00255 RGTR--
+*A ey 160301007 140701016 000006  02126  02134              % 00255 RGTR--
+*A ea 160301007 140701016 000006  02126  02134              % 00255 RGTR--
+*A hj 160301007 140701016 000006  02126  02134              % 00255 RGTR--
+*R 2 140701016 160301007 140701016  02126  02134            % 00255 RGTR--
+*G RGB 160301007 140701016  02126  02134                    % 00255 RGTR--
+*A VE 160301007 140701016 000006  02126  02134              % 00255 RGTR--
+*I FD 160301007 140701016        0003630  02126  02134      % 00255 RGTR--
+160301007 Colmar, Usines               02126                % 00255 RGTR--
+160301002 Colmar, Centre        02127  02127                % 00255 RGTR--
+140701018 Ettelbruck, H.v.Land  02131  02131                % 00255 RGTR--
+140701026 Ettelbruck, Rond Poi  02132  02132                % 00255 RGTR--
+140701015 Ettelbruck, Ecole Pr  02133  02133                % 00255 RGTR--
+140701016 Ettelbruck, Gare      02134                       % 00255 RGTR--

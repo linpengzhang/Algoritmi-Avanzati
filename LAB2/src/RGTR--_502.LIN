@@ -1,0 +1,636 @@
+*F 03 2
+*Z 01607 RGTR--                                             % 01607 RGTR--
+*L 502      140701016 170101003  00833  00907               % 01607 RGTR--
+*A da 140701016 170101003 000006  00833  00907              % 01607 RGTR--
+*A en 140701016 170101003 000006  00833  00907              % 01607 RGTR--
+*R 1 170101003 140701016 170101003  00833  00907            % 01607 RGTR--
+*G RGB 140701016 170101003  00833  00907                    % 01607 RGTR--
+*A VE 140701016 170101003 000006  00833  00907              % 01607 RGTR--
+*I FD 140701016 170101003        0002079  00833  00907      % 01607 RGTR--
+140701016 Ettelbruck, Gare             00833                % 01607 RGTR--
+140602008 Erpeldange/Sûre, Um   00835  00835                % 01607 RGTR--
+140603004 Ingeldorf, Kiirchpla  00836  00836                % 01607 RGTR--
+140603001 Ingeldorf, Bei der B  00837  00837                % 01607 RGTR--
+140603003 Ingeldorf, Cité Long  00839  00839                % 01607 RGTR--
+140401008 Diekirch, Lorentzwue  00840  00840                % 01607 RGTR--
+140401004 Diekirch, Gare        00841  00841                % 01607 RGTR--
+140401001 Diekirch, Altersheem  00843  00843                % 01607 RGTR--
+140401007 Diekirch, rue Merten  00844  00844                % 01607 RGTR--
+140203002 Gilsdorf, Schoul      00846  00846                % 01607 RGTR--
+140203001 Gilsdorf, An der Klé  00848  00848                % 01607 RGTR--
+140202001 Bleesbréck            00848  00848                % 01607 RGTR--
+140201001 Bettendorf, Elick     00850  00850                % 01607 RGTR--
+140201002 Bettendorf, Gemeng    00851  00851                % 01607 RGTR--
+140201003 Bettendorf, Schlass   00851  00851                % 01607 RGTR--
+140204003 Moestroff, Wangerten  00853  00853                % 01607 RGTR--
+140204002 Moestroff, Bréck      00853  00853                % 01607 RGTR--
+140204001 Moestroff, An der Ga  00854  00854                % 01607 RGTR--
+141203004 Reisdorf, Cité J. Hi  00856  00856                % 01607 RGTR--
+141203002 Reisdorf, Bei der Ga  00856  00856                % 01607 RGTR--
+141203003 Reisdorf, Beim Gober  00859  00859                % 01607 RGTR--
+141203005 Reisdorf, Duddwee     00900  00900                % 01607 RGTR--
+170101005 Beaufort, Iewescht H  00903  00903                % 01607 RGTR--
+170101007 Beaufort, Reisduerfe  00903  00903                % 01607 RGTR--
+170101009 Beaufort, Um Bierg    00904  00904                % 01607 RGTR--
+170101001 Beaufort, Aispist     00905  00905                % 01607 RGTR--
+170101006 Beaufort, Op der Gar  00906  00906                % 01607 RGTR--
+170101003 Beaufort, Härewiss    00907                       % 01607 RGTR--
+*Z 01608 RGTR--                                             % 01608 RGTR--
+*L 502      140701016 170101003  01633  01707               % 01608 RGTR--
+*A da 140701016 170101003 000006  01633  01707              % 01608 RGTR--
+*A en 140701016 170101003 000006  01633  01707              % 01608 RGTR--
+*R 1 170101003 140701016 170101003  01633  01707            % 01608 RGTR--
+*G RGB 140701016 170101003  01633  01707                    % 01608 RGTR--
+*A VE 140701016 170101003 000006  01633  01707              % 01608 RGTR--
+*I FD 140701016 170101003        0002272  01633  01707      % 01608 RGTR--
+140701016 Ettelbruck, Gare             01633                % 01608 RGTR--
+140602008 Erpeldange/Sûre, Um   01635  01635                % 01608 RGTR--
+140603004 Ingeldorf, Kiirchpla  01636  01636                % 01608 RGTR--
+140603001 Ingeldorf, Bei der B  01637  01637                % 01608 RGTR--
+140603003 Ingeldorf, Cité Long  01639  01639                % 01608 RGTR--
+140401008 Diekirch, Lorentzwue  01640  01640                % 01608 RGTR--
+140401004 Diekirch, Gare        01641  01641                % 01608 RGTR--
+140401001 Diekirch, Altersheem  01643  01643                % 01608 RGTR--
+140401007 Diekirch, rue Merten  01644  01644                % 01608 RGTR--
+140203002 Gilsdorf, Schoul      01646  01646                % 01608 RGTR--
+140203001 Gilsdorf, An der Klé  01648  01648                % 01608 RGTR--
+140202001 Bleesbréck            01648  01648                % 01608 RGTR--
+140201001 Bettendorf, Elick     01650  01650                % 01608 RGTR--
+140201002 Bettendorf, Gemeng    01651  01651                % 01608 RGTR--
+140201003 Bettendorf, Schlass   01651  01651                % 01608 RGTR--
+140204003 Moestroff, Wangerten  01653  01653                % 01608 RGTR--
+140204002 Moestroff, Bréck      01653  01653                % 01608 RGTR--
+140204001 Moestroff, An der Ga  01654  01654                % 01608 RGTR--
+141203004 Reisdorf, Cité J. Hi  01656  01656                % 01608 RGTR--
+141203002 Reisdorf, Bei der Ga  01656  01656                % 01608 RGTR--
+141203003 Reisdorf, Beim Gober  01659  01659                % 01608 RGTR--
+141203005 Reisdorf, Duddwee     01700  01700                % 01608 RGTR--
+170101005 Beaufort, Iewescht H  01703  01703                % 01608 RGTR--
+170101007 Beaufort, Reisduerfe  01703  01703                % 01608 RGTR--
+170101009 Beaufort, Um Bierg    01704  01704                % 01608 RGTR--
+170101001 Beaufort, Aispist     01705  01705                % 01608 RGTR--
+170101006 Beaufort, Op der Gar  01706  01706                % 01608 RGTR--
+170101003 Beaufort, Härewiss    01707                       % 01608 RGTR--
+*Z 01609 RGTR--                                             % 01609 RGTR--
+*L 502      140701016 170101003  00633  00705               % 01609 RGTR--
+*A da 140701016 170101003 000006  00633  00705              % 01609 RGTR--
+*A en 140701016 170101003 000006  00633  00705              % 01609 RGTR--
+*R 1 170101003 140701016 170101003  00633  00705            % 01609 RGTR--
+*G RGB 140701016 170101003  00633  00705                    % 01609 RGTR--
+*A VE 140701016 170101003 000006  00633  00705              % 01609 RGTR--
+*I FD 140701016 170101003        0002601  00633  00705      % 01609 RGTR--
+140701016 Ettelbruck, Gare             00633                % 01609 RGTR--
+140602008 Erpeldange/Sûre, Um   00634  00634                % 01609 RGTR--
+140603004 Ingeldorf, Kiirchpla  00636  00636                % 01609 RGTR--
+140603001 Ingeldorf, Bei der B  00637  00637                % 01609 RGTR--
+140603003 Ingeldorf, Cité Long  00638  00638                % 01609 RGTR--
+140401008 Diekirch, Lorentzwue  00639  00639                % 01609 RGTR--
+140401004 Diekirch, Gare        00640  00640                % 01609 RGTR--
+140401001 Diekirch, Altersheem  00642  00642                % 01609 RGTR--
+140401007 Diekirch, rue Merten  00643  00643                % 01609 RGTR--
+140203002 Gilsdorf, Schoul      00645  00645                % 01609 RGTR--
+140203001 Gilsdorf, An der Klé  00646  00646                % 01609 RGTR--
+140202001 Bleesbréck            00647  00647                % 01609 RGTR--
+140201001 Bettendorf, Elick     00649  00649                % 01609 RGTR--
+140201002 Bettendorf, Gemeng    00649  00649                % 01609 RGTR--
+140201003 Bettendorf, Schlass   00650  00650                % 01609 RGTR--
+140204003 Moestroff, Wangerten  00651  00651                % 01609 RGTR--
+140204002 Moestroff, Bréck      00652  00652                % 01609 RGTR--
+140204001 Moestroff, An der Ga  00653  00653                % 01609 RGTR--
+141203004 Reisdorf, Cité J. Hi  00654  00654                % 01609 RGTR--
+141203002 Reisdorf, Bei der Ga  00655  00655                % 01609 RGTR--
+141203003 Reisdorf, Beim Gober  00658  00658                % 01609 RGTR--
+141203005 Reisdorf, Duddwee     00658  00658                % 01609 RGTR--
+170101005 Beaufort, Iewescht H  00701  00701                % 01609 RGTR--
+170101007 Beaufort, Reisduerfe  00702  00702                % 01609 RGTR--
+170101009 Beaufort, Um Bierg    00703  00703                % 01609 RGTR--
+170101001 Beaufort, Aispist     00703  00703                % 01609 RGTR--
+170101006 Beaufort, Op der Gar  00704  00704                % 01609 RGTR--
+170101003 Beaufort, Härewiss    00705                       % 01609 RGTR--
+*Z 01610 RGTR--                                             % 01610 RGTR--
+*L 502      140701016 170101003  01038  01110               % 01610 RGTR--
+*A da 140701016 170101003 000006  01038  01110              % 01610 RGTR--
+*A en 140701016 170101003 000006  01038  01110              % 01610 RGTR--
+*R 1 170101003 140701016 170101003  01038  01110            % 01610 RGTR--
+*G RGB 140701016 170101003  01038  01110                    % 01610 RGTR--
+*A VE 140701016 170101003 000006  01038  01110              % 01610 RGTR--
+*I FD 140701016 170101003        0002440  01038  01110      % 01610 RGTR--
+140701016 Ettelbruck, Gare             01038                % 01610 RGTR--
+140602008 Erpeldange/Sûre, Um   01039  01039                % 01610 RGTR--
+140603004 Ingeldorf, Kiirchpla  01041  01041                % 01610 RGTR--
+140603001 Ingeldorf, Bei der B  01042  01042                % 01610 RGTR--
+140603003 Ingeldorf, Cité Long  01043  01043                % 01610 RGTR--
+140401008 Diekirch, Lorentzwue  01044  01044                % 01610 RGTR--
+140401004 Diekirch, Gare        01045  01045                % 01610 RGTR--
+140401001 Diekirch, Altersheem  01047  01047                % 01610 RGTR--
+140401007 Diekirch, rue Merten  01048  01048                % 01610 RGTR--
+140203002 Gilsdorf, Schoul      01050  01050                % 01610 RGTR--
+140203001 Gilsdorf, An der Klé  01051  01051                % 01610 RGTR--
+140202001 Bleesbréck            01052  01052                % 01610 RGTR--
+140201001 Bettendorf, Elick     01054  01054                % 01610 RGTR--
+140201002 Bettendorf, Gemeng    01054  01054                % 01610 RGTR--
+140201003 Bettendorf, Schlass   01055  01055                % 01610 RGTR--
+140204003 Moestroff, Wangerten  01056  01056                % 01610 RGTR--
+140204002 Moestroff, Bréck      01057  01057                % 01610 RGTR--
+140204001 Moestroff, An der Ga  01058  01058                % 01610 RGTR--
+141203004 Reisdorf, Cité J. Hi  01059  01059                % 01610 RGTR--
+141203002 Reisdorf, Bei der Ga  01100  01100                % 01610 RGTR--
+141203003 Reisdorf, Beim Gober  01103  01103                % 01610 RGTR--
+141203005 Reisdorf, Duddwee     01103  01103                % 01610 RGTR--
+170101005 Beaufort, Iewescht H  01106  01106                % 01610 RGTR--
+170101007 Beaufort, Reisduerfe  01107  01107                % 01610 RGTR--
+170101009 Beaufort, Um Bierg    01108  01108                % 01610 RGTR--
+170101001 Beaufort, Aispist     01108  01108                % 01610 RGTR--
+170101006 Beaufort, Op der Gar  01109  01109                % 01610 RGTR--
+170101003 Beaufort, Härewiss    01110                       % 01610 RGTR--
+*Z 01611 RGTR--                                             % 01611 RGTR--
+*L 502      140701016 170101003  01238  01310               % 01611 RGTR--
+*A da 140701016 170101003 000006  01238  01310              % 01611 RGTR--
+*A en 140701016 170101003 000006  01238  01310              % 01611 RGTR--
+*R 1 170101003 140701016 170101003  01238  01310            % 01611 RGTR--
+*G RGB 140701016 170101003  01238  01310                    % 01611 RGTR--
+*A VE 140701016 170101003 000006  01238  01310              % 01611 RGTR--
+*I FD 140701016 170101003        0001267  01238  01310      % 01611 RGTR--
+140701016 Ettelbruck, Gare             01238                % 01611 RGTR--
+140602008 Erpeldange/Sûre, Um   01239  01239                % 01611 RGTR--
+140603004 Ingeldorf, Kiirchpla  01241  01241                % 01611 RGTR--
+140603001 Ingeldorf, Bei der B  01242  01242                % 01611 RGTR--
+140603003 Ingeldorf, Cité Long  01243  01243                % 01611 RGTR--
+140401008 Diekirch, Lorentzwue  01244  01244                % 01611 RGTR--
+140401004 Diekirch, Gare        01245  01245                % 01611 RGTR--
+140401001 Diekirch, Altersheem  01247  01247                % 01611 RGTR--
+140401007 Diekirch, rue Merten  01248  01248                % 01611 RGTR--
+140203002 Gilsdorf, Schoul      01250  01250                % 01611 RGTR--
+140203001 Gilsdorf, An der Klé  01251  01251                % 01611 RGTR--
+140202001 Bleesbréck            01252  01252                % 01611 RGTR--
+140201001 Bettendorf, Elick     01254  01254                % 01611 RGTR--
+140201002 Bettendorf, Gemeng    01254  01254                % 01611 RGTR--
+140201003 Bettendorf, Schlass   01255  01255                % 01611 RGTR--
+140204003 Moestroff, Wangerten  01256  01256                % 01611 RGTR--
+140204002 Moestroff, Bréck      01257  01257                % 01611 RGTR--
+140204001 Moestroff, An der Ga  01258  01258                % 01611 RGTR--
+141203004 Reisdorf, Cité J. Hi  01259  01259                % 01611 RGTR--
+141203002 Reisdorf, Bei der Ga  01300  01300                % 01611 RGTR--
+141203003 Reisdorf, Beim Gober  01303  01303                % 01611 RGTR--
+141203005 Reisdorf, Duddwee     01303  01303                % 01611 RGTR--
+170101005 Beaufort, Iewescht H  01306  01306                % 01611 RGTR--
+170101007 Beaufort, Reisduerfe  01307  01307                % 01611 RGTR--
+170101009 Beaufort, Um Bierg    01308  01308                % 01611 RGTR--
+170101001 Beaufort, Aispist     01308  01308                % 01611 RGTR--
+170101006 Beaufort, Op der Gar  01309  01309                % 01611 RGTR--
+170101003 Beaufort, Härewiss    01310                       % 01611 RGTR--
+*Z 01612 RGTR--                                             % 01612 RGTR--
+*L 502      140701016 170101003  01438  01510               % 01612 RGTR--
+*A da 140701016 170101003 000006  01438  01510              % 01612 RGTR--
+*A en 140701016 170101003 000006  01438  01510              % 01612 RGTR--
+*R 1 170101003 140701016 170101003  01438  01510            % 01612 RGTR--
+*G RGB 140701016 170101003  01438  01510                    % 01612 RGTR--
+*A VE 140701016 170101003 000006  01438  01510              % 01612 RGTR--
+*I FD 140701016 170101003        0002529  01438  01510      % 01612 RGTR--
+140701016 Ettelbruck, Gare             01438                % 01612 RGTR--
+140602008 Erpeldange/Sûre, Um   01439  01439                % 01612 RGTR--
+140603004 Ingeldorf, Kiirchpla  01441  01441                % 01612 RGTR--
+140603001 Ingeldorf, Bei der B  01442  01442                % 01612 RGTR--
+140603003 Ingeldorf, Cité Long  01443  01443                % 01612 RGTR--
+140401008 Diekirch, Lorentzwue  01444  01444                % 01612 RGTR--
+140401004 Diekirch, Gare        01445  01445                % 01612 RGTR--
+140401001 Diekirch, Altersheem  01447  01447                % 01612 RGTR--
+140401007 Diekirch, rue Merten  01448  01448                % 01612 RGTR--
+140203002 Gilsdorf, Schoul      01450  01450                % 01612 RGTR--
+140203001 Gilsdorf, An der Klé  01451  01451                % 01612 RGTR--
+140202001 Bleesbréck            01452  01452                % 01612 RGTR--
+140201001 Bettendorf, Elick     01454  01454                % 01612 RGTR--
+140201002 Bettendorf, Gemeng    01454  01454                % 01612 RGTR--
+140201003 Bettendorf, Schlass   01455  01455                % 01612 RGTR--
+140204003 Moestroff, Wangerten  01456  01456                % 01612 RGTR--
+140204002 Moestroff, Bréck      01457  01457                % 01612 RGTR--
+140204001 Moestroff, An der Ga  01458  01458                % 01612 RGTR--
+141203004 Reisdorf, Cité J. Hi  01459  01459                % 01612 RGTR--
+141203002 Reisdorf, Bei der Ga  01500  01500                % 01612 RGTR--
+141203003 Reisdorf, Beim Gober  01503  01503                % 01612 RGTR--
+141203005 Reisdorf, Duddwee     01503  01503                % 01612 RGTR--
+170101005 Beaufort, Iewescht H  01506  01506                % 01612 RGTR--
+170101007 Beaufort, Reisduerfe  01507  01507                % 01612 RGTR--
+170101009 Beaufort, Um Bierg    01508  01508                % 01612 RGTR--
+170101001 Beaufort, Aispist     01508  01508                % 01612 RGTR--
+170101006 Beaufort, Op der Gar  01509  01509                % 01612 RGTR--
+170101003 Beaufort, Härewiss    01510                       % 01612 RGTR--
+*Z 01613 RGTR--                                             % 01613 RGTR--
+*L 502      140701016 170101003  01838  01910               % 01613 RGTR--
+*A da 140701016 170101003 000006  01838  01910              % 01613 RGTR--
+*A en 140701016 170101003 000006  01838  01910              % 01613 RGTR--
+*R 1 170101003 140701016 170101003  01838  01910            % 01613 RGTR--
+*G RGB 140701016 170101003  01838  01910                    % 01613 RGTR--
+*A VE 140701016 170101003 000006  01838  01910              % 01613 RGTR--
+*I FD 140701016 170101003        0001429  01838  01910      % 01613 RGTR--
+140701016 Ettelbruck, Gare             01838                % 01613 RGTR--
+140602008 Erpeldange/Sûre, Um   01839  01839                % 01613 RGTR--
+140603004 Ingeldorf, Kiirchpla  01841  01841                % 01613 RGTR--
+140603001 Ingeldorf, Bei der B  01842  01842                % 01613 RGTR--
+140603003 Ingeldorf, Cité Long  01843  01843                % 01613 RGTR--
+140401008 Diekirch, Lorentzwue  01844  01844                % 01613 RGTR--
+140401004 Diekirch, Gare        01845  01845                % 01613 RGTR--
+140401001 Diekirch, Altersheem  01847  01847                % 01613 RGTR--
+140401007 Diekirch, rue Merten  01848  01848                % 01613 RGTR--
+140203002 Gilsdorf, Schoul      01850  01850                % 01613 RGTR--
+140203001 Gilsdorf, An der Klé  01851  01851                % 01613 RGTR--
+140202001 Bleesbréck            01852  01852                % 01613 RGTR--
+140201001 Bettendorf, Elick     01854  01854                % 01613 RGTR--
+140201002 Bettendorf, Gemeng    01854  01854                % 01613 RGTR--
+140201003 Bettendorf, Schlass   01855  01855                % 01613 RGTR--
+140204003 Moestroff, Wangerten  01856  01856                % 01613 RGTR--
+140204002 Moestroff, Bréck      01857  01857                % 01613 RGTR--
+140204001 Moestroff, An der Ga  01858  01858                % 01613 RGTR--
+141203004 Reisdorf, Cité J. Hi  01859  01859                % 01613 RGTR--
+141203002 Reisdorf, Bei der Ga  01900  01900                % 01613 RGTR--
+141203003 Reisdorf, Beim Gober  01903  01903                % 01613 RGTR--
+141203005 Reisdorf, Duddwee     01903  01903                % 01613 RGTR--
+170101005 Beaufort, Iewescht H  01906  01906                % 01613 RGTR--
+170101007 Beaufort, Reisduerfe  01907  01907                % 01613 RGTR--
+170101009 Beaufort, Um Bierg    01908  01908                % 01613 RGTR--
+170101001 Beaufort, Aispist     01908  01908                % 01613 RGTR--
+170101006 Beaufort, Op der Gar  01909  01909                % 01613 RGTR--
+170101003 Beaufort, Härewiss    01910                       % 01613 RGTR--
+*Z 01614 RGTR--                                             % 01614 RGTR--
+*L 502      140701016 170101003  02038  02110               % 01614 RGTR--
+*A da 140701016 170101003 000006  02038  02110              % 01614 RGTR--
+*A en 140701016 170101003 000006  02038  02110              % 01614 RGTR--
+*R 1 170101003 140701016 170101003  02038  02110            % 01614 RGTR--
+*G RGB 140701016 170101003  02038  02110                    % 01614 RGTR--
+*A VE 140701016 170101003 000006  02038  02110              % 01614 RGTR--
+*I FD 140701016 170101003        0002564  02038  02110      % 01614 RGTR--
+140701016 Ettelbruck, Gare             02038                % 01614 RGTR--
+140602008 Erpeldange/Sûre, Um   02039  02039                % 01614 RGTR--
+140603004 Ingeldorf, Kiirchpla  02041  02041                % 01614 RGTR--
+140603001 Ingeldorf, Bei der B  02042  02042                % 01614 RGTR--
+140603003 Ingeldorf, Cité Long  02043  02043                % 01614 RGTR--
+140401008 Diekirch, Lorentzwue  02044  02044                % 01614 RGTR--
+140401004 Diekirch, Gare        02045  02045                % 01614 RGTR--
+140401001 Diekirch, Altersheem  02047  02047                % 01614 RGTR--
+140401007 Diekirch, rue Merten  02048  02048                % 01614 RGTR--
+140203002 Gilsdorf, Schoul      02050  02050                % 01614 RGTR--
+140203001 Gilsdorf, An der Klé  02051  02051                % 01614 RGTR--
+140202001 Bleesbréck            02052  02052                % 01614 RGTR--
+140201001 Bettendorf, Elick     02054  02054                % 01614 RGTR--
+140201002 Bettendorf, Gemeng    02054  02054                % 01614 RGTR--
+140201003 Bettendorf, Schlass   02055  02055                % 01614 RGTR--
+140204003 Moestroff, Wangerten  02056  02056                % 01614 RGTR--
+140204002 Moestroff, Bréck      02057  02057                % 01614 RGTR--
+140204001 Moestroff, An der Ga  02058  02058                % 01614 RGTR--
+141203004 Reisdorf, Cité J. Hi  02059  02059                % 01614 RGTR--
+141203002 Reisdorf, Bei der Ga  02100  02100                % 01614 RGTR--
+141203003 Reisdorf, Beim Gober  02103  02103                % 01614 RGTR--
+141203005 Reisdorf, Duddwee     02103  02103                % 01614 RGTR--
+170101005 Beaufort, Iewescht H  02106  02106                % 01614 RGTR--
+170101007 Beaufort, Reisduerfe  02107  02107                % 01614 RGTR--
+170101009 Beaufort, Um Bierg    02108  02108                % 01614 RGTR--
+170101001 Beaufort, Aispist     02108  02108                % 01614 RGTR--
+170101006 Beaufort, Op der Gar  02109  02109                % 01614 RGTR--
+170101003 Beaufort, Härewiss    02110                       % 01614 RGTR--
+*Z 01615 RGTR--                                             % 01615 RGTR--
+*L 502      140701016 170101003  02238  02310               % 01615 RGTR--
+*A da 140701016 170101003 000006  02238  02310              % 01615 RGTR--
+*A en 140701016 170101003 000006  02238  02310              % 01615 RGTR--
+*R 1 170101003 140701016 170101003  02238  02310            % 01615 RGTR--
+*G RGB 140701016 170101003  02238  02310                    % 01615 RGTR--
+*A VE 140701016 170101003 000006  02238  02310              % 01615 RGTR--
+*I FD 140701016 170101003        0002565  02238  02310      % 01615 RGTR--
+140701016 Ettelbruck, Gare             02238                % 01615 RGTR--
+140602008 Erpeldange/Sûre, Um   02239  02239                % 01615 RGTR--
+140603004 Ingeldorf, Kiirchpla  02241  02241                % 01615 RGTR--
+140603001 Ingeldorf, Bei der B  02242  02242                % 01615 RGTR--
+140603003 Ingeldorf, Cité Long  02243  02243                % 01615 RGTR--
+140401008 Diekirch, Lorentzwue  02244  02244                % 01615 RGTR--
+140401004 Diekirch, Gare        02245  02245                % 01615 RGTR--
+140401001 Diekirch, Altersheem  02247  02247                % 01615 RGTR--
+140401007 Diekirch, rue Merten  02248  02248                % 01615 RGTR--
+140203002 Gilsdorf, Schoul      02250  02250                % 01615 RGTR--
+140203001 Gilsdorf, An der Klé  02251  02251                % 01615 RGTR--
+140202001 Bleesbréck            02252  02252                % 01615 RGTR--
+140201001 Bettendorf, Elick     02254  02254                % 01615 RGTR--
+140201002 Bettendorf, Gemeng    02254  02254                % 01615 RGTR--
+140201003 Bettendorf, Schlass   02255  02255                % 01615 RGTR--
+140204003 Moestroff, Wangerten  02256  02256                % 01615 RGTR--
+140204002 Moestroff, Bréck      02257  02257                % 01615 RGTR--
+140204001 Moestroff, An der Ga  02258  02258                % 01615 RGTR--
+141203004 Reisdorf, Cité J. Hi  02259  02259                % 01615 RGTR--
+141203002 Reisdorf, Bei der Ga  02300  02300                % 01615 RGTR--
+141203003 Reisdorf, Beim Gober  02303  02303                % 01615 RGTR--
+141203005 Reisdorf, Duddwee     02303  02303                % 01615 RGTR--
+170101005 Beaufort, Iewescht H  02306  02306                % 01615 RGTR--
+170101007 Beaufort, Reisduerfe  02307  02307                % 01615 RGTR--
+170101009 Beaufort, Um Bierg    02308  02308                % 01615 RGTR--
+170101001 Beaufort, Aispist     02308  02308                % 01615 RGTR--
+170101006 Beaufort, Op der Gar  02309  02309                % 01615 RGTR--
+170101003 Beaufort, Härewiss    02310                       % 01615 RGTR--
+*Z 01616 RGTR--                                             % 01616 RGTR--
+*L 502      140401004 140701016  00639  00651               % 01616 RGTR--
+*A da 140401004 140701016 000016  00639  00651              % 01616 RGTR--
+*A eo 140401004 140701016 000016  00639  00651              % 01616 RGTR--
+*R 2 140701016 140401004 140701016  00639  00651            % 01616 RGTR--
+*G RGB 140401004 140701016  00639  00651                    % 01616 RGTR--
+*A VE 140401004 140701016 000016  00639  00651              % 01616 RGTR--
+*I FD 140401004 140701016        0002602  00639  00651      % 01616 RGTR--
+140401004 Diekirch, Gare               00639                % 01616 RGTR--
+140401008 Diekirch, Lorentzwue  00641  00641                % 01616 RGTR--
+140603003 Ingeldorf, Cité Long  00642  00642                % 01616 RGTR--
+140603001 Ingeldorf, Bei der B  00644  00644                % 01616 RGTR--
+140603004 Ingeldorf, Kiirchpla  00644  00644                % 01616 RGTR--
+140602008 Erpeldange/Sûre, Um   00647  00647                % 01616 RGTR--
+140701016 Ettelbruck, Gare      00651                       % 01616 RGTR--
+*Z 01617 RGTR--                                             % 01617 RGTR--
+*L 502      170101003 140701016  00913  00951               % 01617 RGTR--
+*A da 170101003 140701016 000006  00913  00951              % 01617 RGTR--
+*A ep 170101003 140701016 000006  00913  00951              % 01617 RGTR--
+*R 2 140701016 170101003 140701016  00913  00951            % 01617 RGTR--
+*G RGB 170101003 140701016  00913  00951                    % 01617 RGTR--
+*A VE 170101003 140701016 000006  00913  00951              % 01617 RGTR--
+*I FD 170101003 140701016        0001922  00913  00951      % 01617 RGTR--
+170101003 Beaufort, Härewiss           00913                % 01617 RGTR--
+170101006 Beaufort, Op der Gar  00915  00915                % 01617 RGTR--
+170101001 Beaufort, Aispist     00916  00916                % 01617 RGTR--
+170101009 Beaufort, Um Bierg    00916  00916                % 01617 RGTR--
+170101007 Beaufort, Reisduerfe  00917  00917                % 01617 RGTR--
+170101005 Beaufort, Iewescht H  00918  00918                % 01617 RGTR--
+141203005 Reisdorf, Duddwee     00921  00921                % 01617 RGTR--
+141203003 Reisdorf, Beim Gober  00921  00921                % 01617 RGTR--
+141203002 Reisdorf, Bei der Ga  00924  00924                % 01617 RGTR--
+141203004 Reisdorf, Cité J. Hi  00924  00924                % 01617 RGTR--
+140204001 Moestroff, An der Ga  00926  00926                % 01617 RGTR--
+140204002 Moestroff, Bréck      00927  00927                % 01617 RGTR--
+140204003 Moestroff, Wangerten  00928  00928                % 01617 RGTR--
+140201003 Bettendorf, Schlass   00930  00930                % 01617 RGTR--
+140201002 Bettendorf, Gemeng    00930  00930                % 01617 RGTR--
+140201001 Bettendorf, Elick     00931  00931                % 01617 RGTR--
+140202001 Bleesbréck            00933  00933                % 01617 RGTR--
+140203001 Gilsdorf, An der Klé  00934  00934                % 01617 RGTR--
+140203002 Gilsdorf, Schoul      00935  00935                % 01617 RGTR--
+140401007 Diekirch, rue Merten  00936  00936                % 01617 RGTR--
+140401011 Diekirch, Alexis Hec  00938  00938                % 01617 RGTR--
+140401006 Diekirch, Kluuster    00939  00939                % 01617 RGTR--
+140401004 Diekirch, Gare        00941  00941                % 01617 RGTR--
+140401008 Diekirch, Lorentzwue  00943  00943                % 01617 RGTR--
+140603003 Ingeldorf, Cité Long  00944  00944                % 01617 RGTR--
+140603001 Ingeldorf, Bei der B  00945  00945                % 01617 RGTR--
+140603004 Ingeldorf, Kiirchpla  00946  00946                % 01617 RGTR--
+140602008 Erpeldange/Sûre, Um   00948  00948                % 01617 RGTR--
+140701016 Ettelbruck, Gare      00951                       % 01617 RGTR--
+*Z 01618 RGTR--                                             % 01618 RGTR--
+*L 502      170101003 140701016  01113  01151               % 01618 RGTR--
+*A da 170101003 140701016 000006  01113  01151              % 01618 RGTR--
+*A ep 170101003 140701016 000006  01113  01151              % 01618 RGTR--
+*R 2 140701016 170101003 140701016  01113  01151            % 01618 RGTR--
+*G RGB 170101003 140701016  01113  01151                    % 01618 RGTR--
+*A VE 170101003 140701016 000006  01113  01151              % 01618 RGTR--
+*I FD 170101003 140701016        0001182  01113  01151      % 01618 RGTR--
+170101003 Beaufort, Härewiss           01113                % 01618 RGTR--
+170101006 Beaufort, Op der Gar  01115  01115                % 01618 RGTR--
+170101001 Beaufort, Aispist     01116  01116                % 01618 RGTR--
+170101009 Beaufort, Um Bierg    01116  01116                % 01618 RGTR--
+170101007 Beaufort, Reisduerfe  01117  01117                % 01618 RGTR--
+170101005 Beaufort, Iewescht H  01118  01118                % 01618 RGTR--
+141203005 Reisdorf, Duddwee     01121  01121                % 01618 RGTR--
+141203003 Reisdorf, Beim Gober  01121  01121                % 01618 RGTR--
+141203002 Reisdorf, Bei der Ga  01124  01124                % 01618 RGTR--
+141203004 Reisdorf, Cité J. Hi  01124  01124                % 01618 RGTR--
+140204001 Moestroff, An der Ga  01126  01126                % 01618 RGTR--
+140204002 Moestroff, Bréck      01127  01127                % 01618 RGTR--
+140204003 Moestroff, Wangerten  01128  01128                % 01618 RGTR--
+140201003 Bettendorf, Schlass   01130  01130                % 01618 RGTR--
+140201002 Bettendorf, Gemeng    01130  01130                % 01618 RGTR--
+140201001 Bettendorf, Elick     01131  01131                % 01618 RGTR--
+140202001 Bleesbréck            01133  01133                % 01618 RGTR--
+140203001 Gilsdorf, An der Klé  01134  01134                % 01618 RGTR--
+140203002 Gilsdorf, Schoul      01135  01135                % 01618 RGTR--
+140401007 Diekirch, rue Merten  01136  01136                % 01618 RGTR--
+140401011 Diekirch, Alexis Hec  01138  01138                % 01618 RGTR--
+140401006 Diekirch, Kluuster    01139  01139                % 01618 RGTR--
+140401004 Diekirch, Gare        01141  01141                % 01618 RGTR--
+140401008 Diekirch, Lorentzwue  01143  01143                % 01618 RGTR--
+140603003 Ingeldorf, Cité Long  01144  01144                % 01618 RGTR--
+140603001 Ingeldorf, Bei der B  01145  01145                % 01618 RGTR--
+140603004 Ingeldorf, Kiirchpla  01146  01146                % 01618 RGTR--
+140602008 Erpeldange/Sûre, Um   01148  01148                % 01618 RGTR--
+140701016 Ettelbruck, Gare      01151                       % 01618 RGTR--
+*Z 01619 RGTR--                                             % 01619 RGTR--
+*L 502      170101003 140701016  01313  01351               % 01619 RGTR--
+*A da 170101003 140701016 000006  01313  01351              % 01619 RGTR--
+*A ep 170101003 140701016 000006  01313  01351              % 01619 RGTR--
+*R 2 140701016 170101003 140701016  01313  01351            % 01619 RGTR--
+*G RGB 170101003 140701016  01313  01351                    % 01619 RGTR--
+*A VE 170101003 140701016 000006  01313  01351              % 01619 RGTR--
+*I FD 170101003 140701016        0001931  01313  01351      % 01619 RGTR--
+170101003 Beaufort, Härewiss           01313                % 01619 RGTR--
+170101006 Beaufort, Op der Gar  01315  01315                % 01619 RGTR--
+170101001 Beaufort, Aispist     01316  01316                % 01619 RGTR--
+170101009 Beaufort, Um Bierg    01316  01316                % 01619 RGTR--
+170101007 Beaufort, Reisduerfe  01317  01317                % 01619 RGTR--
+170101005 Beaufort, Iewescht H  01318  01318                % 01619 RGTR--
+141203005 Reisdorf, Duddwee     01321  01321                % 01619 RGTR--
+141203003 Reisdorf, Beim Gober  01321  01321                % 01619 RGTR--
+141203002 Reisdorf, Bei der Ga  01324  01324                % 01619 RGTR--
+141203004 Reisdorf, Cité J. Hi  01324  01324                % 01619 RGTR--
+140204001 Moestroff, An der Ga  01326  01326                % 01619 RGTR--
+140204002 Moestroff, Bréck      01327  01327                % 01619 RGTR--
+140204003 Moestroff, Wangerten  01328  01328                % 01619 RGTR--
+140201003 Bettendorf, Schlass   01330  01330                % 01619 RGTR--
+140201002 Bettendorf, Gemeng    01330  01330                % 01619 RGTR--
+140201001 Bettendorf, Elick     01331  01331                % 01619 RGTR--
+140202001 Bleesbréck            01333  01333                % 01619 RGTR--
+140203001 Gilsdorf, An der Klé  01334  01334                % 01619 RGTR--
+140203002 Gilsdorf, Schoul      01335  01335                % 01619 RGTR--
+140401007 Diekirch, rue Merten  01336  01336                % 01619 RGTR--
+140401011 Diekirch, Alexis Hec  01338  01338                % 01619 RGTR--
+140401006 Diekirch, Kluuster    01339  01339                % 01619 RGTR--
+140401004 Diekirch, Gare        01341  01341                % 01619 RGTR--
+140401008 Diekirch, Lorentzwue  01343  01343                % 01619 RGTR--
+140603003 Ingeldorf, Cité Long  01344  01344                % 01619 RGTR--
+140603001 Ingeldorf, Bei der B  01345  01345                % 01619 RGTR--
+140603004 Ingeldorf, Kiirchpla  01346  01346                % 01619 RGTR--
+140602008 Erpeldange/Sûre, Um   01348  01348                % 01619 RGTR--
+140701016 Ettelbruck, Gare      01351                       % 01619 RGTR--
+*Z 01620 RGTR--                                             % 01620 RGTR--
+*L 502      170101003 140701016  01513  01551               % 01620 RGTR--
+*A da 170101003 140701016 000006  01513  01551              % 01620 RGTR--
+*A ep 170101003 140701016 000006  01513  01551              % 01620 RGTR--
+*R 2 140701016 170101003 140701016  01513  01551            % 01620 RGTR--
+*G RGB 170101003 140701016  01513  01551                    % 01620 RGTR--
+*A VE 170101003 140701016 000006  01513  01551              % 01620 RGTR--
+*I FD 170101003 140701016        0001937  01513  01551      % 01620 RGTR--
+170101003 Beaufort, Härewiss           01513                % 01620 RGTR--
+170101006 Beaufort, Op der Gar  01515  01515                % 01620 RGTR--
+170101001 Beaufort, Aispist     01516  01516                % 01620 RGTR--
+170101009 Beaufort, Um Bierg    01516  01516                % 01620 RGTR--
+170101007 Beaufort, Reisduerfe  01517  01517                % 01620 RGTR--
+170101005 Beaufort, Iewescht H  01518  01518                % 01620 RGTR--
+141203005 Reisdorf, Duddwee     01521  01521                % 01620 RGTR--
+141203003 Reisdorf, Beim Gober  01521  01521                % 01620 RGTR--
+141203002 Reisdorf, Bei der Ga  01524  01524                % 01620 RGTR--
+141203004 Reisdorf, Cité J. Hi  01524  01524                % 01620 RGTR--
+140204001 Moestroff, An der Ga  01526  01526                % 01620 RGTR--
+140204002 Moestroff, Bréck      01527  01527                % 01620 RGTR--
+140204003 Moestroff, Wangerten  01528  01528                % 01620 RGTR--
+140201003 Bettendorf, Schlass   01530  01530                % 01620 RGTR--
+140201002 Bettendorf, Gemeng    01530  01530                % 01620 RGTR--
+140201001 Bettendorf, Elick     01531  01531                % 01620 RGTR--
+140202001 Bleesbréck            01533  01533                % 01620 RGTR--
+140203001 Gilsdorf, An der Klé  01534  01534                % 01620 RGTR--
+140203002 Gilsdorf, Schoul      01535  01535                % 01620 RGTR--
+140401007 Diekirch, rue Merten  01536  01536                % 01620 RGTR--
+140401011 Diekirch, Alexis Hec  01538  01538                % 01620 RGTR--
+140401006 Diekirch, Kluuster    01539  01539                % 01620 RGTR--
+140401004 Diekirch, Gare        01541  01541                % 01620 RGTR--
+140401008 Diekirch, Lorentzwue  01543  01543                % 01620 RGTR--
+140603003 Ingeldorf, Cité Long  01544  01544                % 01620 RGTR--
+140603001 Ingeldorf, Bei der B  01545  01545                % 01620 RGTR--
+140603004 Ingeldorf, Kiirchpla  01546  01546                % 01620 RGTR--
+140602008 Erpeldange/Sûre, Um   01548  01548                % 01620 RGTR--
+140701016 Ettelbruck, Gare      01551                       % 01620 RGTR--
+*Z 01621 RGTR--                                             % 01621 RGTR--
+*L 502      170101003 140701016  01913  01951               % 01621 RGTR--
+*A da 170101003 140701016 000006  01913  01951              % 01621 RGTR--
+*A ep 170101003 140701016 000006  01913  01951              % 01621 RGTR--
+*R 2 140701016 170101003 140701016  01913  01951            % 01621 RGTR--
+*G RGB 170101003 140701016  01913  01951                    % 01621 RGTR--
+*A VE 170101003 140701016 000006  01913  01951              % 01621 RGTR--
+*I FD 170101003 140701016        0001949  01913  01951      % 01621 RGTR--
+170101003 Beaufort, Härewiss           01913                % 01621 RGTR--
+170101006 Beaufort, Op der Gar  01915  01915                % 01621 RGTR--
+170101001 Beaufort, Aispist     01916  01916                % 01621 RGTR--
+170101009 Beaufort, Um Bierg    01916  01916                % 01621 RGTR--
+170101007 Beaufort, Reisduerfe  01917  01917                % 01621 RGTR--
+170101005 Beaufort, Iewescht H  01918  01918                % 01621 RGTR--
+141203005 Reisdorf, Duddwee     01921  01921                % 01621 RGTR--
+141203003 Reisdorf, Beim Gober  01921  01921                % 01621 RGTR--
+141203002 Reisdorf, Bei der Ga  01924  01924                % 01621 RGTR--
+141203004 Reisdorf, Cité J. Hi  01924  01924                % 01621 RGTR--
+140204001 Moestroff, An der Ga  01926  01926                % 01621 RGTR--
+140204002 Moestroff, Bréck      01927  01927                % 01621 RGTR--
+140204003 Moestroff, Wangerten  01928  01928                % 01621 RGTR--
+140201003 Bettendorf, Schlass   01930  01930                % 01621 RGTR--
+140201002 Bettendorf, Gemeng    01930  01930                % 01621 RGTR--
+140201001 Bettendorf, Elick     01931  01931                % 01621 RGTR--
+140202001 Bleesbréck            01933  01933                % 01621 RGTR--
+140203001 Gilsdorf, An der Klé  01934  01934                % 01621 RGTR--
+140203002 Gilsdorf, Schoul      01935  01935                % 01621 RGTR--
+140401007 Diekirch, rue Merten  01936  01936                % 01621 RGTR--
+140401011 Diekirch, Alexis Hec  01938  01938                % 01621 RGTR--
+140401006 Diekirch, Kluuster    01939  01939                % 01621 RGTR--
+140401004 Diekirch, Gare        01941  01941                % 01621 RGTR--
+140401008 Diekirch, Lorentzwue  01943  01943                % 01621 RGTR--
+140603003 Ingeldorf, Cité Long  01944  01944                % 01621 RGTR--
+140603001 Ingeldorf, Bei der B  01945  01945                % 01621 RGTR--
+140603004 Ingeldorf, Kiirchpla  01946  01946                % 01621 RGTR--
+140602008 Erpeldange/Sûre, Um   01948  01948                % 01621 RGTR--
+140701016 Ettelbruck, Gare      01951                       % 01621 RGTR--
+*Z 01622 RGTR--                                             % 01622 RGTR--
+*L 502      170101003 140701016  02113  02151               % 01622 RGTR--
+*A da 170101003 140701016 000006  02113  02151              % 01622 RGTR--
+*A ep 170101003 140701016 000006  02113  02151              % 01622 RGTR--
+*R 2 140701016 170101003 140701016  02113  02151            % 01622 RGTR--
+*G RGB 170101003 140701016  02113  02151                    % 01622 RGTR--
+*A VE 170101003 140701016 000006  02113  02151              % 01622 RGTR--
+*I FD 170101003 140701016        0002341  02113  02151      % 01622 RGTR--
+170101003 Beaufort, Härewiss           02113                % 01622 RGTR--
+170101006 Beaufort, Op der Gar  02115  02115                % 01622 RGTR--
+170101001 Beaufort, Aispist     02116  02116                % 01622 RGTR--
+170101009 Beaufort, Um Bierg    02116  02116                % 01622 RGTR--
+170101007 Beaufort, Reisduerfe  02117  02117                % 01622 RGTR--
+170101005 Beaufort, Iewescht H  02118  02118                % 01622 RGTR--
+141203005 Reisdorf, Duddwee     02121  02121                % 01622 RGTR--
+141203003 Reisdorf, Beim Gober  02121  02121                % 01622 RGTR--
+141203002 Reisdorf, Bei der Ga  02124  02124                % 01622 RGTR--
+141203004 Reisdorf, Cité J. Hi  02124  02124                % 01622 RGTR--
+140204001 Moestroff, An der Ga  02126  02126                % 01622 RGTR--
+140204002 Moestroff, Bréck      02127  02127                % 01622 RGTR--
+140204003 Moestroff, Wangerten  02128  02128                % 01622 RGTR--
+140201003 Bettendorf, Schlass   02130  02130                % 01622 RGTR--
+140201002 Bettendorf, Gemeng    02130  02130                % 01622 RGTR--
+140201001 Bettendorf, Elick     02131  02131                % 01622 RGTR--
+140202001 Bleesbréck            02133  02133                % 01622 RGTR--
+140203001 Gilsdorf, An der Klé  02134  02134                % 01622 RGTR--
+140203002 Gilsdorf, Schoul      02135  02135                % 01622 RGTR--
+140401007 Diekirch, rue Merten  02136  02136                % 01622 RGTR--
+140401011 Diekirch, Alexis Hec  02138  02138                % 01622 RGTR--
+140401006 Diekirch, Kluuster    02139  02139                % 01622 RGTR--
+140401004 Diekirch, Gare        02141  02141                % 01622 RGTR--
+140401008 Diekirch, Lorentzwue  02143  02143                % 01622 RGTR--
+140603003 Ingeldorf, Cité Long  02144  02144                % 01622 RGTR--
+140603001 Ingeldorf, Bei der B  02145  02145                % 01622 RGTR--
+140603004 Ingeldorf, Kiirchpla  02146  02146                % 01622 RGTR--
+140602008 Erpeldange/Sûre, Um   02148  02148                % 01622 RGTR--
+140701016 Ettelbruck, Gare      02151                       % 01622 RGTR--
+*Z 01623 RGTR--                                             % 01623 RGTR--
+*L 502      170101003 140701016  00710  00751               % 01623 RGTR--
+*A da 170101003 140701016 000006  00710  00751              % 01623 RGTR--
+*A ep 170101003 140701016 000006  00710  00751              % 01623 RGTR--
+*R 2 140701016 170101003 140701016  00710  00751            % 01623 RGTR--
+*G RGB 170101003 140701016  00710  00751                    % 01623 RGTR--
+*A VE 170101003 140701016 000006  00710  00751              % 01623 RGTR--
+*I FD 170101003 140701016        0002035  00710  00751      % 01623 RGTR--
+170101003 Beaufort, Härewiss           00710                % 01623 RGTR--
+170101006 Beaufort, Op der Gar  00711  00711                % 01623 RGTR--
+170101001 Beaufort, Aispist     00712  00712                % 01623 RGTR--
+170101009 Beaufort, Um Bierg    00713  00713                % 01623 RGTR--
+170101007 Beaufort, Reisduerfe  00714  00714                % 01623 RGTR--
+170101005 Beaufort, Iewescht H  00714  00714                % 01623 RGTR--
+141203005 Reisdorf, Duddwee     00717  00717                % 01623 RGTR--
+141203003 Reisdorf, Beim Gober  00718  00718                % 01623 RGTR--
+141203002 Reisdorf, Bei der Ga  00721  00721                % 01623 RGTR--
+141203004 Reisdorf, Cité J. Hi  00721  00721                % 01623 RGTR--
+140204001 Moestroff, An der Ga  00723  00723                % 01623 RGTR--
+140204002 Moestroff, Bréck      00724  00724                % 01623 RGTR--
+140204003 Moestroff, Wangerten  00725  00725                % 01623 RGTR--
+140201003 Bettendorf, Schlass   00727  00727                % 01623 RGTR--
+140201002 Bettendorf, Gemeng    00727  00727                % 01623 RGTR--
+140201001 Bettendorf, Elick     00728  00728                % 01623 RGTR--
+140202001 Bleesbréck            00730  00730                % 01623 RGTR--
+140203001 Gilsdorf, An der Klé  00731  00731                % 01623 RGTR--
+140203002 Gilsdorf, Schoul      00732  00732                % 01623 RGTR--
+140401007 Diekirch, rue Merten  00734  00734                % 01623 RGTR--
+140401011 Diekirch, Alexis Hec  00736  00736                % 01623 RGTR--
+140401006 Diekirch, Kluuster    00737  00737                % 01623 RGTR--
+140401004 Diekirch, Gare        00739  00739                % 01623 RGTR--
+140401008 Diekirch, Lorentzwue  00741  00741                % 01623 RGTR--
+140603003 Ingeldorf, Cité Long  00742  00742                % 01623 RGTR--
+140603001 Ingeldorf, Bei der B  00744  00744                % 01623 RGTR--
+140603004 Ingeldorf, Kiirchpla  00744  00744                % 01623 RGTR--
+140602008 Erpeldange/Sûre, Um   00747  00747                % 01623 RGTR--
+140701016 Ettelbruck, Gare      00751                       % 01623 RGTR--
+*Z 01624 RGTR--                                             % 01624 RGTR--
+*L 502      170101003 140701016  01710  01751               % 01624 RGTR--
+*A da 170101003 140701016 000006  01710  01751              % 01624 RGTR--
+*A ep 170101003 140701016 000006  01710  01751              % 01624 RGTR--
+*R 2 140701016 170101003 140701016  01710  01751            % 01624 RGTR--
+*G RGB 170101003 140701016  01710  01751                    % 01624 RGTR--
+*A VE 170101003 140701016 000006  01710  01751              % 01624 RGTR--
+*I FD 170101003 140701016        0002054  01710  01751      % 01624 RGTR--
+170101003 Beaufort, Härewiss           01710                % 01624 RGTR--
+170101006 Beaufort, Op der Gar  01711  01711                % 01624 RGTR--
+170101001 Beaufort, Aispist     01712  01712                % 01624 RGTR--
+170101009 Beaufort, Um Bierg    01713  01713                % 01624 RGTR--
+170101007 Beaufort, Reisduerfe  01714  01714                % 01624 RGTR--
+170101005 Beaufort, Iewescht H  01714  01714                % 01624 RGTR--
+141203005 Reisdorf, Duddwee     01717  01717                % 01624 RGTR--
+141203003 Reisdorf, Beim Gober  01718  01718                % 01624 RGTR--
+141203002 Reisdorf, Bei der Ga  01721  01721                % 01624 RGTR--
+141203004 Reisdorf, Cité J. Hi  01721  01721                % 01624 RGTR--
+140204001 Moestroff, An der Ga  01723  01723                % 01624 RGTR--
+140204002 Moestroff, Bréck      01724  01724                % 01624 RGTR--
+140204003 Moestroff, Wangerten  01725  01725                % 01624 RGTR--
+140201003 Bettendorf, Schlass   01727  01727                % 01624 RGTR--
+140201002 Bettendorf, Gemeng    01727  01727                % 01624 RGTR--
+140201001 Bettendorf, Elick     01728  01728                % 01624 RGTR--
+140202001 Bleesbréck            01730  01730                % 01624 RGTR--
+140203001 Gilsdorf, An der Klé  01731  01731                % 01624 RGTR--
+140203002 Gilsdorf, Schoul      01732  01732                % 01624 RGTR--
+140401007 Diekirch, rue Merten  01734  01734                % 01624 RGTR--
+140401011 Diekirch, Alexis Hec  01736  01736                % 01624 RGTR--
+140401006 Diekirch, Kluuster    01737  01737                % 01624 RGTR--
+140401004 Diekirch, Gare        01739  01739                % 01624 RGTR--
+140401008 Diekirch, Lorentzwue  01741  01741                % 01624 RGTR--
+140603003 Ingeldorf, Cité Long  01742  01742                % 01624 RGTR--
+140603001 Ingeldorf, Bei der B  01744  01744                % 01624 RGTR--
+140603004 Ingeldorf, Kiirchpla  01744  01744                % 01624 RGTR--
+140602008 Erpeldange/Sûre, Um   01747  01747                % 01624 RGTR--
+140701016 Ettelbruck, Gare      01751                       % 01624 RGTR--

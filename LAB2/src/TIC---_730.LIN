@@ -1,0 +1,117 @@
+*F 03 2
+*Z 01599 TIC---                                             % 01599 TIC---
+*L 730      190101009 220402034  01450  01516               % 01599 TIC---
+*A ad 190101009 220402034 000151  01450  01516              % 01599 TIC---
+*R 1 220402034 190101009 220402034  01450  01516            % 01599 TIC---
+*G TIB 190101009 220402034  01450  01516                    % 01599 TIC---
+*A VE 190101009 220402034 000151  01450  01516              % 01599 TIC---
+*I FD 190101009 220402034        0001751  01450  01516      % 01599 TIC---
+190101009 Bascharage, Eglise           01450                % 01599 TIC---
+190101002 Bascharage, Boeltgen  01452 -01452                % 01599 TIC---
+190101015 Bascharage, Pierre C  01454 -01454                % 01599 TIC---
+190101011 Bascharage/Sanem, Ga  01455 -01455                % 01599 TIC---
+221303004 Sanem, Op Lohr        01457 -01457                % 01599 TIC---
+221303009 Sanem, Zentrum        01458 -01458                % 01599 TIC---
+221303007 Sanem, Schlass        01459 -01459                % 01599 TIC---
+221304013 Soleuvre, Reitschoul  01500 -01500                % 01599 TIC---
+221304001 Soleuvre, Aessen      01502 -01502                % 01599 TIC---
+221302002 Ehlerange, Dennebësc  01503 -01503                % 01599 TIC---
+221302007 Ehlerange, Rousebësc  01504 -01504                % 01599 TIC---
+221302005 Ehlerange, Keupewee   01504 -01504                % 01599 TIC---
+221302001 Ehlerange, Centre     01506 -01506                % 01599 TIC---
+221302003 Ehlerange, Escherstr  01507 -01507                % 01599 TIC---
+221302009 Ehlerange, ZARE oues  01508 -01508                % 01599 TIC---
+220402022 Esch/Alzette, Cité V  01509 -01509                % 01599 TIC---
+220402067 Esch/Alzette, Op Zae  01509 -01509                % 01599 TIC---
+220402071 Esch/Alzette, Place   01510 -01510                % 01599 TIC---
+220402100 Esch/Alzette, Piscin  01511 -01511                % 01599 TIC---
+220402018 Esch/Alzette, Rue La  01513 -01513                % 01599 TIC---
+220402036 Esch/Alzette, Pl. Hô  01514 -01514                % 01599 TIC---
+220402034 Esch/Alzette, Gare    01516                       % 01599 TIC---
+*Z 01600 TIC---                                             % 01600 TIC---
+*L 730      190101009 220402034  01552  01618               % 01600 TIC---
+*A ad 190101009 220402034 000152  01552  01618              % 01600 TIC---
+*R 1 220402034 190101009 220402034  01552  01618            % 01600 TIC---
+*G TIB 190101009 220402034  01552  01618                    % 01600 TIC---
+*A VE 190101009 220402034 000152  01552  01618              % 01600 TIC---
+*I FD 190101009 220402034        0001752  01552  01618      % 01600 TIC---
+190101009 Bascharage, Eglise           01552                % 01600 TIC---
+190101002 Bascharage, Boeltgen  01554 -01554                % 01600 TIC---
+190101015 Bascharage, Pierre C  01556 -01556                % 01600 TIC---
+190101011 Bascharage/Sanem, Ga  01557 -01557                % 01600 TIC---
+221303004 Sanem, Op Lohr        01559 -01559                % 01600 TIC---
+221303009 Sanem, Zentrum        01600 -01600                % 01600 TIC---
+221303007 Sanem, Schlass        01601 -01601                % 01600 TIC---
+221304013 Soleuvre, Reitschoul  01602 -01602                % 01600 TIC---
+221304001 Soleuvre, Aessen      01604 -01604                % 01600 TIC---
+221302002 Ehlerange, Dennebësc  01605 -01605                % 01600 TIC---
+221302007 Ehlerange, Rousebësc  01606 -01606                % 01600 TIC---
+221302005 Ehlerange, Keupewee   01606 -01606                % 01600 TIC---
+221302001 Ehlerange, Centre     01608 -01608                % 01600 TIC---
+221302003 Ehlerange, Escherstr  01609 -01609                % 01600 TIC---
+221302009 Ehlerange, ZARE oues  01610 -01610                % 01600 TIC---
+220402022 Esch/Alzette, Cité V  01611 -01611                % 01600 TIC---
+220402067 Esch/Alzette, Op Zae  01611 -01611                % 01600 TIC---
+220402071 Esch/Alzette, Place   01612 -01612                % 01600 TIC---
+220402100 Esch/Alzette, Piscin  01613 -01613                % 01600 TIC---
+220402018 Esch/Alzette, Rue La  01615 -01615                % 01600 TIC---
+220402036 Esch/Alzette, Pl. Hô  01616 -01616                % 01600 TIC---
+220402034 Esch/Alzette, Gare    01618                       % 01600 TIC---
+*Z 01601 TIC---                                             % 01601 TIC---
+*L 730      190101009 220402034  01300  01326               % 01601 TIC---
+*A ad 190101009 220402034 000152  01300  01326              % 01601 TIC---
+*R 1 220402034 190101009 220402034  01300  01326            % 01601 TIC---
+*G TIB 190101009 220402034  01300  01326                    % 01601 TIC---
+*A VE 190101009 220402034 000152  01300  01326              % 01601 TIC---
+*I FD 190101009 220402034        0001753  01300  01326      % 01601 TIC---
+190101009 Bascharage, Eglise           01300                % 01601 TIC---
+190101002 Bascharage, Boeltgen  01302 -01302                % 01601 TIC---
+190101015 Bascharage, Pierre C  01304 -01304                % 01601 TIC---
+190101011 Bascharage/Sanem, Ga  01305 -01305                % 01601 TIC---
+221303004 Sanem, Op Lohr        01307 -01307                % 01601 TIC---
+221303009 Sanem, Zentrum        01308 -01308                % 01601 TIC---
+221303007 Sanem, Schlass        01309 -01309                % 01601 TIC---
+221304013 Soleuvre, Reitschoul  01310 -01310                % 01601 TIC---
+221304001 Soleuvre, Aessen      01312 -01312                % 01601 TIC---
+221302002 Ehlerange, Dennebësc  01313 -01313                % 01601 TIC---
+221302007 Ehlerange, Rousebësc  01314 -01314                % 01601 TIC---
+221302005 Ehlerange, Keupewee   01314 -01314                % 01601 TIC---
+221302001 Ehlerange, Centre     01316 -01316                % 01601 TIC---
+221302003 Ehlerange, Escherstr  01317 -01317                % 01601 TIC---
+221302009 Ehlerange, ZARE oues  01318 -01318                % 01601 TIC---
+220402022 Esch/Alzette, Cité V  01319 -01319                % 01601 TIC---
+220402067 Esch/Alzette, Op Zae  01319 -01319                % 01601 TIC---
+220402071 Esch/Alzette, Place   01320 -01320                % 01601 TIC---
+220402100 Esch/Alzette, Piscin  01321 -01321                % 01601 TIC---
+220402018 Esch/Alzette, Rue La  01323 -01323                % 01601 TIC---
+220402036 Esch/Alzette, Pl. Hô  01324 -01324                % 01601 TIC---
+220402034 Esch/Alzette, Gare    01326                       % 01601 TIC---
+*Z 01602 TIC---                                             % 01602 TIC---
+*L 730      190101009 220402034  01645  01711               % 01602 TIC---
+*A ad 190101009 220402034 000153  01645  01711              % 01602 TIC---
+*R 1 220402034 190101009 220402034  01645  01711            % 01602 TIC---
+*G TIB 190101009 220402034  01645  01711                    % 01602 TIC---
+*A VE 190101009 220402034 000153  01645  01711              % 01602 TIC---
+*I FD 190101009 220402034        0001754  01645  01711      % 01602 TIC---
+190101009 Bascharage, Eglise           01645                % 01602 TIC---
+190101002 Bascharage, Boeltgen  01647 -01647                % 01602 TIC---
+190101015 Bascharage, Pierre C  01649 -01649                % 01602 TIC---
+190101011 Bascharage/Sanem, Ga  01650 -01650                % 01602 TIC---
+221303004 Sanem, Op Lohr        01652 -01652                % 01602 TIC---
+221303009 Sanem, Zentrum        01653 -01653                % 01602 TIC---
+221303007 Sanem, Schlass        01654 -01654                % 01602 TIC---
+221304013 Soleuvre, Reitschoul  01655 -01655                % 01602 TIC---
+221304001 Soleuvre, Aessen      01657 -01657                % 01602 TIC---
+221302002 Ehlerange, Dennebësc  01658 -01658                % 01602 TIC---
+221302007 Ehlerange, Rousebësc  01659 -01659                % 01602 TIC---
+221302005 Ehlerange, Keupewee   01659 -01659                % 01602 TIC---
+221302001 Ehlerange, Centre     01701 -01701                % 01602 TIC---
+221302003 Ehlerange, Escherstr  01702 -01702                % 01602 TIC---
+221302009 Ehlerange, ZARE oues  01703 -01703                % 01602 TIC---
+220402022 Esch/Alzette, Cité V  01704 -01704                % 01602 TIC---
+220402067 Esch/Alzette, Op Zae  01704 -01704                % 01602 TIC---
+220402071 Esch/Alzette, Place   01705 -01705                % 01602 TIC---
+220402100 Esch/Alzette, Piscin  01706 -01706                % 01602 TIC---
+220402018 Esch/Alzette, Rue La  01708 -01708                % 01602 TIC---
+220402036 Esch/Alzette, Pl. Hô  01709 -01709                % 01602 TIC---
+220402034 Esch/Alzette, Gare    01711                       % 01602 TIC---

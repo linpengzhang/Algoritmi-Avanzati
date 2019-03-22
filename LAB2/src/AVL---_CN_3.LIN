@@ -1,0 +1,397 @@
+*F 03 2
+*Z 03744 AVL---       001 090                               % 03744 AVL---
+*L CN 3     200405020 200405020  02535  02604               % 03744 AVL---
+*A BE 200405020 200405020 000054  02535  02604              % 03744 AVL---
+*R 1 200405020 200405020 200405020  02535  02604            % 03744 AVL---
+*G AVM 200405020 200405020  02535  02604                    % 03744 AVL---
+*A VE 200405020 200405020 000054  02535  02604              % 03744 AVL---
+200405020 Hamilius                     02535                % 03744 AVL---
+200405023 Centre, Martyrs       02536  02536                % 03744 AVL---
+200405026 Luxembourg/Centre, P  02538  02538                % 03744 AVL---
+200405039 Luxembourg, Wallis    02539  02539                % 03744 AVL---
+200404017 Bonnevoie, Huese Vic  02540  02540                % 03744 AVL---
+200404036 Bonnevoie, Virchow    02541  02541                % 03744 AVL---
+200404013 Bonnevoie, Fraternit  02542  02542                % 03744 AVL---
+200404035 Bonnevoie, Vannérus   02543  02543                % 03744 AVL---
+200404038 Bonnevoie, Wisestroo  02543  02543                % 03744 AVL---
+200404020 Bonnevoie, Jeanne d'  02544  02544                % 03744 AVL---
+200404029 Bonnevoie, Nic Marth  02545  02545                % 03744 AVL---
+200404021 Bonnevoie, Jules Fis  02546  02546                % 03744 AVL---
+200404027 Bonnevoie, Lycée Tec  02547  02547                % 03744 AVL---
+200304010 Howald, Rangwee       02548  02548                % 03744 AVL---
+200412005 Gasperich, Clemencea  02551  02551                % 03744 AVL---
+200412003 Gasperich, Bei der A  02552  02552                % 03744 AVL---
+200412001 Gasperich, Al Gasper  02553  02553                % 03744 AVL---
+200412009 Gasperich, Gaasperec  02554  02554                % 03744 AVL---
+200407011 Cessange, Rue Verte   02555  02555                % 03744 AVL---
+200407008 Cessange, Kierch      02557  02557                % 03744 AVL---
+200407007 Cessange, Fischerhaf  02557  02557                % 03744 AVL---
+200407003 Cessange, Artisans    02558  02558                % 03744 AVL---
+200407004 Cessange, Barrès      02559  02559                % 03744 AVL---
+200415002 Hollerich, Assurance  02600  02600                % 03744 AVL---
+200415005 Hollerich, Heentze P  02601  02601                % 03744 AVL---
+200403015 Belair, Rheinsheim    02602  02602                % 03744 AVL---
+200405020 Hamilius              02604                       % 03744 AVL---
+*Z 03745 AVL---       001 030                               % 03745 AVL---
+*L CN 3     200405020 200405020  02435  02504               % 03745 AVL---
+*A BE 200405020 200405020 000054  02435  02504              % 03745 AVL---
+*R 1 200405020 200405020 200405020  02435  02504            % 03745 AVL---
+*G AVS 200405020 200405020  02435  02504                    % 03745 AVL---
+*A VE 200405020 200405020 000054  02435  02504              % 03745 AVL---
+200405020 Hamilius                     02435                % 03745 AVL---
+200405023 Centre, Martyrs       02436  02436                % 03745 AVL---
+200405026 Luxembourg/Centre, P  02438  02438                % 03745 AVL---
+200405039 Luxembourg, Wallis    02439  02439                % 03745 AVL---
+200404017 Bonnevoie, Huese Vic  02440  02440                % 03745 AVL---
+200404036 Bonnevoie, Virchow    02441  02441                % 03745 AVL---
+200404013 Bonnevoie, Fraternit  02442  02442                % 03745 AVL---
+200404035 Bonnevoie, Vannérus   02443  02443                % 03745 AVL---
+200404038 Bonnevoie, Wisestroo  02443  02443                % 03745 AVL---
+200404020 Bonnevoie, Jeanne d'  02444  02444                % 03745 AVL---
+200404029 Bonnevoie, Nic Marth  02445  02445                % 03745 AVL---
+200404021 Bonnevoie, Jules Fis  02446  02446                % 03745 AVL---
+200404027 Bonnevoie, Lycée Tec  02447  02447                % 03745 AVL---
+200304010 Howald, Rangwee       02448  02448                % 03745 AVL---
+200412005 Gasperich, Clemencea  02451  02451                % 03745 AVL---
+200412003 Gasperich, Bei der A  02452  02452                % 03745 AVL---
+200412001 Gasperich, Al Gasper  02453  02453                % 03745 AVL---
+200412009 Gasperich, Gaasperec  02454  02454                % 03745 AVL---
+200407011 Cessange, Rue Verte   02455  02455                % 03745 AVL---
+200407008 Cessange, Kierch      02457  02457                % 03745 AVL---
+200407007 Cessange, Fischerhaf  02457  02457                % 03745 AVL---
+200407003 Cessange, Artisans    02458  02458                % 03745 AVL---
+200407004 Cessange, Barrès      02459  02459                % 03745 AVL---
+200415002 Hollerich, Assurance  02500  02500                % 03745 AVL---
+200415005 Hollerich, Heentze P  02501  02501                % 03745 AVL---
+200403015 Belair, Rheinsheim    02502  02502                % 03745 AVL---
+200405020 Hamilius              02504                       % 03745 AVL---
+*Z 03746 AVL---       001 030                               % 03746 AVL---
+*L CN 3     200405020 200405020  02605  02634               % 03746 AVL---
+*A BE 200405020 200405020 000054  02605  02634              % 03746 AVL---
+*R 1 200405020 200405020 200405020  02605  02634            % 03746 AVL---
+*G AVS 200405020 200405020  02605  02634                    % 03746 AVL---
+*A VE 200405020 200405020 000054  02605  02634              % 03746 AVL---
+200405020 Hamilius                     02605                % 03746 AVL---
+200405023 Centre, Martyrs       02606  02606                % 03746 AVL---
+200405026 Luxembourg/Centre, P  02608  02608                % 03746 AVL---
+200405039 Luxembourg, Wallis    02609  02609                % 03746 AVL---
+200404017 Bonnevoie, Huese Vic  02610  02610                % 03746 AVL---
+200404036 Bonnevoie, Virchow    02611  02611                % 03746 AVL---
+200404013 Bonnevoie, Fraternit  02612  02612                % 03746 AVL---
+200404035 Bonnevoie, Vannérus   02613  02613                % 03746 AVL---
+200404038 Bonnevoie, Wisestroo  02613  02613                % 03746 AVL---
+200404020 Bonnevoie, Jeanne d'  02614  02614                % 03746 AVL---
+200404029 Bonnevoie, Nic Marth  02615  02615                % 03746 AVL---
+200404021 Bonnevoie, Jules Fis  02616  02616                % 03746 AVL---
+200404027 Bonnevoie, Lycée Tec  02617  02617                % 03746 AVL---
+200304010 Howald, Rangwee       02618  02618                % 03746 AVL---
+200412005 Gasperich, Clemencea  02621  02621                % 03746 AVL---
+200412003 Gasperich, Bei der A  02622  02622                % 03746 AVL---
+200412001 Gasperich, Al Gasper  02623  02623                % 03746 AVL---
+200412009 Gasperich, Gaasperec  02624  02624                % 03746 AVL---
+200407011 Cessange, Rue Verte   02625  02625                % 03746 AVL---
+200407008 Cessange, Kierch      02627  02627                % 03746 AVL---
+200407007 Cessange, Fischerhaf  02627  02627                % 03746 AVL---
+200407003 Cessange, Artisans    02628  02628                % 03746 AVL---
+200407004 Cessange, Barrès      02629  02629                % 03746 AVL---
+200415002 Hollerich, Assurance  02630  02630                % 03746 AVL---
+200415005 Hollerich, Heentze P  02631  02631                % 03746 AVL---
+200403015 Belair, Rheinsheim    02632  02632                % 03746 AVL---
+200405020 Hamilius              02634                       % 03746 AVL---
+*Z 03747 AVL---                                             % 03747 AVL---
+*L CN 3     200405020 200405020  02735  02804               % 03747 AVL---
+*A BE 200405020 200405020 000054  02735  02804              % 03747 AVL---
+*R 1 200405020 200405020 200405020  02735  02804            % 03747 AVL---
+*G AVS 200405020 200405020  02735  02804                    % 03747 AVL---
+*A VE 200405020 200405020 000054  02735  02804              % 03747 AVL---
+200405020 Hamilius                     02735                % 03747 AVL---
+200405023 Centre, Martyrs       02736  02736                % 03747 AVL---
+200405026 Luxembourg/Centre, P  02738  02738                % 03747 AVL---
+200405039 Luxembourg, Wallis    02739  02739                % 03747 AVL---
+200404017 Bonnevoie, Huese Vic  02740  02740                % 03747 AVL---
+200404036 Bonnevoie, Virchow    02741  02741                % 03747 AVL---
+200404013 Bonnevoie, Fraternit  02742  02742                % 03747 AVL---
+200404035 Bonnevoie, Vannérus   02743  02743                % 03747 AVL---
+200404038 Bonnevoie, Wisestroo  02743  02743                % 03747 AVL---
+200404020 Bonnevoie, Jeanne d'  02744  02744                % 03747 AVL---
+200404029 Bonnevoie, Nic Marth  02745  02745                % 03747 AVL---
+200404021 Bonnevoie, Jules Fis  02746  02746                % 03747 AVL---
+200404027 Bonnevoie, Lycée Tec  02747  02747                % 03747 AVL---
+200304010 Howald, Rangwee       02748  02748                % 03747 AVL---
+200412005 Gasperich, Clemencea  02751  02751                % 03747 AVL---
+200412003 Gasperich, Bei der A  02752  02752                % 03747 AVL---
+200412001 Gasperich, Al Gasper  02753  02753                % 03747 AVL---
+200412009 Gasperich, Gaasperec  02754  02754                % 03747 AVL---
+200407011 Cessange, Rue Verte   02755  02755                % 03747 AVL---
+200407008 Cessange, Kierch      02757  02757                % 03747 AVL---
+200407007 Cessange, Fischerhaf  02757  02757                % 03747 AVL---
+200407003 Cessange, Artisans    02758  02758                % 03747 AVL---
+200407004 Cessange, Barrès      02759  02759                % 03747 AVL---
+200415002 Hollerich, Assurance  02800  02800                % 03747 AVL---
+200415005 Hollerich, Heentze P  02801  02801                % 03747 AVL---
+200403015 Belair, Rheinsheim    02802  02802                % 03747 AVL---
+200405020 Hamilius              02804                       % 03747 AVL---
+*Z 03748 AVL---       001 090                               % 03748 AVL---
+*L CN 3     200405020 200405020  02535  02604               % 03748 AVL---
+*A BE 200405020 200405020 000056  02535  02604              % 03748 AVL---
+*R 1 200405020 200405020 200405020  02535  02604            % 03748 AVL---
+*G AVM 200405020 200405020  02535  02604                    % 03748 AVL---
+*A VE 200405020 200405020 000056  02535  02604              % 03748 AVL---
+200405020 Hamilius                     02535                % 03748 AVL---
+200405023 Centre, Martyrs       02536  02536                % 03748 AVL---
+200405026 Luxembourg/Centre, P  02538  02538                % 03748 AVL---
+200405039 Luxembourg, Wallis    02539  02539                % 03748 AVL---
+200404017 Bonnevoie, Huese Vic  02540  02540                % 03748 AVL---
+200404036 Bonnevoie, Virchow    02541  02541                % 03748 AVL---
+200404013 Bonnevoie, Fraternit  02542  02542                % 03748 AVL---
+200404035 Bonnevoie, Vannérus   02543  02543                % 03748 AVL---
+200404038 Bonnevoie, Wisestroo  02543  02543                % 03748 AVL---
+200404020 Bonnevoie, Jeanne d'  02544  02544                % 03748 AVL---
+200404029 Bonnevoie, Nic Marth  02545  02545                % 03748 AVL---
+200404021 Bonnevoie, Jules Fis  02546  02546                % 03748 AVL---
+200404027 Bonnevoie, Lycée Tec  02547  02547                % 03748 AVL---
+200304010 Howald, Rangwee       02548  02548                % 03748 AVL---
+200412005 Gasperich, Clemencea  02551  02551                % 03748 AVL---
+200412003 Gasperich, Bei der A  02552  02552                % 03748 AVL---
+200412001 Gasperich, Al Gasper  02553  02553                % 03748 AVL---
+200412009 Gasperich, Gaasperec  02554  02554                % 03748 AVL---
+200407011 Cessange, Rue Verte   02555  02555                % 03748 AVL---
+200407008 Cessange, Kierch      02557  02557                % 03748 AVL---
+200407007 Cessange, Fischerhaf  02557  02557                % 03748 AVL---
+200407003 Cessange, Artisans    02558  02558                % 03748 AVL---
+200407004 Cessange, Barrès      02559  02559                % 03748 AVL---
+200415002 Hollerich, Assurance  02600  02600                % 03748 AVL---
+200415005 Hollerich, Heentze P  02601  02601                % 03748 AVL---
+200403015 Belair, Rheinsheim    02602  02602                % 03748 AVL---
+200405020 Hamilius              02604                       % 03748 AVL---
+*Z 03749 AVL---       001 030                               % 03749 AVL---
+*L CN 3     200405020 200405020  02435  02504               % 03749 AVL---
+*A BE 200405020 200405020 000056  02435  02504              % 03749 AVL---
+*R 1 200405020 200405020 200405020  02435  02504            % 03749 AVL---
+*G AVS 200405020 200405020  02435  02504                    % 03749 AVL---
+*A VE 200405020 200405020 000056  02435  02504              % 03749 AVL---
+200405020 Hamilius                     02435                % 03749 AVL---
+200405023 Centre, Martyrs       02436  02436                % 03749 AVL---
+200405026 Luxembourg/Centre, P  02438  02438                % 03749 AVL---
+200405039 Luxembourg, Wallis    02439  02439                % 03749 AVL---
+200404017 Bonnevoie, Huese Vic  02440  02440                % 03749 AVL---
+200404036 Bonnevoie, Virchow    02441  02441                % 03749 AVL---
+200404013 Bonnevoie, Fraternit  02442  02442                % 03749 AVL---
+200404035 Bonnevoie, Vannérus   02443  02443                % 03749 AVL---
+200404038 Bonnevoie, Wisestroo  02443  02443                % 03749 AVL---
+200404020 Bonnevoie, Jeanne d'  02444  02444                % 03749 AVL---
+200404029 Bonnevoie, Nic Marth  02445  02445                % 03749 AVL---
+200404021 Bonnevoie, Jules Fis  02446  02446                % 03749 AVL---
+200404027 Bonnevoie, Lycée Tec  02447  02447                % 03749 AVL---
+200304010 Howald, Rangwee       02448  02448                % 03749 AVL---
+200412005 Gasperich, Clemencea  02451  02451                % 03749 AVL---
+200412003 Gasperich, Bei der A  02452  02452                % 03749 AVL---
+200412001 Gasperich, Al Gasper  02453  02453                % 03749 AVL---
+200412009 Gasperich, Gaasperec  02454  02454                % 03749 AVL---
+200407011 Cessange, Rue Verte   02455  02455                % 03749 AVL---
+200407008 Cessange, Kierch      02457  02457                % 03749 AVL---
+200407007 Cessange, Fischerhaf  02457  02457                % 03749 AVL---
+200407003 Cessange, Artisans    02458  02458                % 03749 AVL---
+200407004 Cessange, Barrès      02459  02459                % 03749 AVL---
+200415002 Hollerich, Assurance  02500  02500                % 03749 AVL---
+200415005 Hollerich, Heentze P  02501  02501                % 03749 AVL---
+200403015 Belair, Rheinsheim    02502  02502                % 03749 AVL---
+200405020 Hamilius              02504                       % 03749 AVL---
+*Z 03750 AVL---       001 030                               % 03750 AVL---
+*L CN 3     200405020 200405020  02605  02634               % 03750 AVL---
+*A BE 200405020 200405020 000056  02605  02634              % 03750 AVL---
+*R 1 200405020 200405020 200405020  02605  02634            % 03750 AVL---
+*G AVS 200405020 200405020  02605  02634                    % 03750 AVL---
+*A VE 200405020 200405020 000056  02605  02634              % 03750 AVL---
+200405020 Hamilius                     02605                % 03750 AVL---
+200405023 Centre, Martyrs       02606  02606                % 03750 AVL---
+200405026 Luxembourg/Centre, P  02608  02608                % 03750 AVL---
+200405039 Luxembourg, Wallis    02609  02609                % 03750 AVL---
+200404017 Bonnevoie, Huese Vic  02610  02610                % 03750 AVL---
+200404036 Bonnevoie, Virchow    02611  02611                % 03750 AVL---
+200404013 Bonnevoie, Fraternit  02612  02612                % 03750 AVL---
+200404035 Bonnevoie, Vannérus   02613  02613                % 03750 AVL---
+200404038 Bonnevoie, Wisestroo  02613  02613                % 03750 AVL---
+200404020 Bonnevoie, Jeanne d'  02614  02614                % 03750 AVL---
+200404029 Bonnevoie, Nic Marth  02615  02615                % 03750 AVL---
+200404021 Bonnevoie, Jules Fis  02616  02616                % 03750 AVL---
+200404027 Bonnevoie, Lycée Tec  02617  02617                % 03750 AVL---
+200304010 Howald, Rangwee       02618  02618                % 03750 AVL---
+200412005 Gasperich, Clemencea  02621  02621                % 03750 AVL---
+200412003 Gasperich, Bei der A  02622  02622                % 03750 AVL---
+200412001 Gasperich, Al Gasper  02623  02623                % 03750 AVL---
+200412009 Gasperich, Gaasperec  02624  02624                % 03750 AVL---
+200407011 Cessange, Rue Verte   02625  02625                % 03750 AVL---
+200407008 Cessange, Kierch      02627  02627                % 03750 AVL---
+200407007 Cessange, Fischerhaf  02627  02627                % 03750 AVL---
+200407003 Cessange, Artisans    02628  02628                % 03750 AVL---
+200407004 Cessange, Barrès      02629  02629                % 03750 AVL---
+200415002 Hollerich, Assurance  02630  02630                % 03750 AVL---
+200415005 Hollerich, Heentze P  02631  02631                % 03750 AVL---
+200403015 Belair, Rheinsheim    02632  02632                % 03750 AVL---
+200405020 Hamilius              02634                       % 03750 AVL---
+*Z 03751 AVL---                                             % 03751 AVL---
+*L CN 3     200405020 200405020  02735  02804               % 03751 AVL---
+*A BE 200405020 200405020 000056  02735  02804              % 03751 AVL---
+*R 1 200405020 200405020 200405020  02735  02804            % 03751 AVL---
+*G AVS 200405020 200405020  02735  02804                    % 03751 AVL---
+*A VE 200405020 200405020 000056  02735  02804              % 03751 AVL---
+200405020 Hamilius                     02735                % 03751 AVL---
+200405023 Centre, Martyrs       02736  02736                % 03751 AVL---
+200405026 Luxembourg/Centre, P  02738  02738                % 03751 AVL---
+200405039 Luxembourg, Wallis    02739  02739                % 03751 AVL---
+200404017 Bonnevoie, Huese Vic  02740  02740                % 03751 AVL---
+200404036 Bonnevoie, Virchow    02741  02741                % 03751 AVL---
+200404013 Bonnevoie, Fraternit  02742  02742                % 03751 AVL---
+200404035 Bonnevoie, Vannérus   02743  02743                % 03751 AVL---
+200404038 Bonnevoie, Wisestroo  02743  02743                % 03751 AVL---
+200404020 Bonnevoie, Jeanne d'  02744  02744                % 03751 AVL---
+200404029 Bonnevoie, Nic Marth  02745  02745                % 03751 AVL---
+200404021 Bonnevoie, Jules Fis  02746  02746                % 03751 AVL---
+200404027 Bonnevoie, Lycée Tec  02747  02747                % 03751 AVL---
+200304010 Howald, Rangwee       02748  02748                % 03751 AVL---
+200412005 Gasperich, Clemencea  02751  02751                % 03751 AVL---
+200412003 Gasperich, Bei der A  02752  02752                % 03751 AVL---
+200412001 Gasperich, Al Gasper  02753  02753                % 03751 AVL---
+200412009 Gasperich, Gaasperec  02754  02754                % 03751 AVL---
+200407011 Cessange, Rue Verte   02755  02755                % 03751 AVL---
+200407008 Cessange, Kierch      02757  02757                % 03751 AVL---
+200407007 Cessange, Fischerhaf  02757  02757                % 03751 AVL---
+200407003 Cessange, Artisans    02758  02758                % 03751 AVL---
+200407004 Cessange, Barrès      02759  02759                % 03751 AVL---
+200415002 Hollerich, Assurance  02800  02800                % 03751 AVL---
+200415005 Hollerich, Heentze P  02801  02801                % 03751 AVL---
+200403015 Belair, Rheinsheim    02802  02802                % 03751 AVL---
+200405020 Hamilius              02804                       % 03751 AVL---
+*Z 03752 AVL---       001 090                               % 03752 AVL---
+*L CN 3     200405020 200405020  02535  02604               % 03752 AVL---
+*A BE 200405020 200405020 000058  02535  02604              % 03752 AVL---
+*R 1 200405020 200405020 200405020  02535  02604            % 03752 AVL---
+*G AVM 200405020 200405020  02535  02604                    % 03752 AVL---
+*A VE 200405020 200405020 000058  02535  02604              % 03752 AVL---
+200405020 Hamilius                     02535                % 03752 AVL---
+200405023 Centre, Martyrs       02536  02536                % 03752 AVL---
+200405026 Luxembourg/Centre, P  02538  02538                % 03752 AVL---
+200405039 Luxembourg, Wallis    02539  02539                % 03752 AVL---
+200404017 Bonnevoie, Huese Vic  02540  02540                % 03752 AVL---
+200404036 Bonnevoie, Virchow    02541  02541                % 03752 AVL---
+200404013 Bonnevoie, Fraternit  02542  02542                % 03752 AVL---
+200404035 Bonnevoie, Vannérus   02543  02543                % 03752 AVL---
+200404038 Bonnevoie, Wisestroo  02543  02543                % 03752 AVL---
+200404020 Bonnevoie, Jeanne d'  02544  02544                % 03752 AVL---
+200404029 Bonnevoie, Nic Marth  02545  02545                % 03752 AVL---
+200404021 Bonnevoie, Jules Fis  02546  02546                % 03752 AVL---
+200404027 Bonnevoie, Lycée Tec  02547  02547                % 03752 AVL---
+200304010 Howald, Rangwee       02548  02548                % 03752 AVL---
+200412005 Gasperich, Clemencea  02551  02551                % 03752 AVL---
+200412003 Gasperich, Bei der A  02552  02552                % 03752 AVL---
+200412001 Gasperich, Al Gasper  02553  02553                % 03752 AVL---
+200412009 Gasperich, Gaasperec  02554  02554                % 03752 AVL---
+200407011 Cessange, Rue Verte   02555  02555                % 03752 AVL---
+200407008 Cessange, Kierch      02557  02557                % 03752 AVL---
+200407007 Cessange, Fischerhaf  02557  02557                % 03752 AVL---
+200407003 Cessange, Artisans    02558  02558                % 03752 AVL---
+200407004 Cessange, Barrès      02559  02559                % 03752 AVL---
+200415002 Hollerich, Assurance  02600  02600                % 03752 AVL---
+200415005 Hollerich, Heentze P  02601  02601                % 03752 AVL---
+200403015 Belair, Rheinsheim    02602  02602                % 03752 AVL---
+200405020 Hamilius              02604                       % 03752 AVL---
+*Z 03753 AVL---       001 030                               % 03753 AVL---
+*L CN 3     200405020 200405020  02435  02504               % 03753 AVL---
+*A BE 200405020 200405020 000058  02435  02504              % 03753 AVL---
+*R 1 200405020 200405020 200405020  02435  02504            % 03753 AVL---
+*G AVS 200405020 200405020  02435  02504                    % 03753 AVL---
+*A VE 200405020 200405020 000058  02435  02504              % 03753 AVL---
+200405020 Hamilius                     02435                % 03753 AVL---
+200405023 Centre, Martyrs       02436  02436                % 03753 AVL---
+200405026 Luxembourg/Centre, P  02438  02438                % 03753 AVL---
+200405039 Luxembourg, Wallis    02439  02439                % 03753 AVL---
+200404017 Bonnevoie, Huese Vic  02440  02440                % 03753 AVL---
+200404036 Bonnevoie, Virchow    02441  02441                % 03753 AVL---
+200404013 Bonnevoie, Fraternit  02442  02442                % 03753 AVL---
+200404035 Bonnevoie, Vannérus   02443  02443                % 03753 AVL---
+200404038 Bonnevoie, Wisestroo  02443  02443                % 03753 AVL---
+200404020 Bonnevoie, Jeanne d'  02444  02444                % 03753 AVL---
+200404029 Bonnevoie, Nic Marth  02445  02445                % 03753 AVL---
+200404021 Bonnevoie, Jules Fis  02446  02446                % 03753 AVL---
+200404027 Bonnevoie, Lycée Tec  02447  02447                % 03753 AVL---
+200304010 Howald, Rangwee       02448  02448                % 03753 AVL---
+200412005 Gasperich, Clemencea  02451  02451                % 03753 AVL---
+200412003 Gasperich, Bei der A  02452  02452                % 03753 AVL---
+200412001 Gasperich, Al Gasper  02453  02453                % 03753 AVL---
+200412009 Gasperich, Gaasperec  02454  02454                % 03753 AVL---
+200407011 Cessange, Rue Verte   02455  02455                % 03753 AVL---
+200407008 Cessange, Kierch      02457  02457                % 03753 AVL---
+200407007 Cessange, Fischerhaf  02457  02457                % 03753 AVL---
+200407003 Cessange, Artisans    02458  02458                % 03753 AVL---
+200407004 Cessange, Barrès      02459  02459                % 03753 AVL---
+200415002 Hollerich, Assurance  02500  02500                % 03753 AVL---
+200415005 Hollerich, Heentze P  02501  02501                % 03753 AVL---
+200403015 Belair, Rheinsheim    02502  02502                % 03753 AVL---
+200405020 Hamilius              02504                       % 03753 AVL---
+*Z 03754 AVL---       001 030                               % 03754 AVL---
+*L CN 3     200405020 200405020  02605  02634               % 03754 AVL---
+*A BE 200405020 200405020 000058  02605  02634              % 03754 AVL---
+*R 1 200405020 200405020 200405020  02605  02634            % 03754 AVL---
+*G AVS 200405020 200405020  02605  02634                    % 03754 AVL---
+*A VE 200405020 200405020 000058  02605  02634              % 03754 AVL---
+200405020 Hamilius                     02605                % 03754 AVL---
+200405023 Centre, Martyrs       02606  02606                % 03754 AVL---
+200405026 Luxembourg/Centre, P  02608  02608                % 03754 AVL---
+200405039 Luxembourg, Wallis    02609  02609                % 03754 AVL---
+200404017 Bonnevoie, Huese Vic  02610  02610                % 03754 AVL---
+200404036 Bonnevoie, Virchow    02611  02611                % 03754 AVL---
+200404013 Bonnevoie, Fraternit  02612  02612                % 03754 AVL---
+200404035 Bonnevoie, Vannérus   02613  02613                % 03754 AVL---
+200404038 Bonnevoie, Wisestroo  02613  02613                % 03754 AVL---
+200404020 Bonnevoie, Jeanne d'  02614  02614                % 03754 AVL---
+200404029 Bonnevoie, Nic Marth  02615  02615                % 03754 AVL---
+200404021 Bonnevoie, Jules Fis  02616  02616                % 03754 AVL---
+200404027 Bonnevoie, Lycée Tec  02617  02617                % 03754 AVL---
+200304010 Howald, Rangwee       02618  02618                % 03754 AVL---
+200412005 Gasperich, Clemencea  02621  02621                % 03754 AVL---
+200412003 Gasperich, Bei der A  02622  02622                % 03754 AVL---
+200412001 Gasperich, Al Gasper  02623  02623                % 03754 AVL---
+200412009 Gasperich, Gaasperec  02624  02624                % 03754 AVL---
+200407011 Cessange, Rue Verte   02625  02625                % 03754 AVL---
+200407008 Cessange, Kierch      02627  02627                % 03754 AVL---
+200407007 Cessange, Fischerhaf  02627  02627                % 03754 AVL---
+200407003 Cessange, Artisans    02628  02628                % 03754 AVL---
+200407004 Cessange, Barrès      02629  02629                % 03754 AVL---
+200415002 Hollerich, Assurance  02630  02630                % 03754 AVL---
+200415005 Hollerich, Heentze P  02631  02631                % 03754 AVL---
+200403015 Belair, Rheinsheim    02632  02632                % 03754 AVL---
+200405020 Hamilius              02634                       % 03754 AVL---
+*Z 03755 AVL---                                             % 03755 AVL---
+*L CN 3     200405020 200405020  02735  02804               % 03755 AVL---
+*A BE 200405020 200405020 000058  02735  02804              % 03755 AVL---
+*R 1 200405020 200405020 200405020  02735  02804            % 03755 AVL---
+*G AVS 200405020 200405020  02735  02804                    % 03755 AVL---
+*A VE 200405020 200405020 000058  02735  02804              % 03755 AVL---
+200405020 Hamilius                     02735                % 03755 AVL---
+200405023 Centre, Martyrs       02736  02736                % 03755 AVL---
+200405026 Luxembourg/Centre, P  02738  02738                % 03755 AVL---
+200405039 Luxembourg, Wallis    02739  02739                % 03755 AVL---
+200404017 Bonnevoie, Huese Vic  02740  02740                % 03755 AVL---
+200404036 Bonnevoie, Virchow    02741  02741                % 03755 AVL---
+200404013 Bonnevoie, Fraternit  02742  02742                % 03755 AVL---
+200404035 Bonnevoie, Vannérus   02743  02743                % 03755 AVL---
+200404038 Bonnevoie, Wisestroo  02743  02743                % 03755 AVL---
+200404020 Bonnevoie, Jeanne d'  02744  02744                % 03755 AVL---
+200404029 Bonnevoie, Nic Marth  02745  02745                % 03755 AVL---
+200404021 Bonnevoie, Jules Fis  02746  02746                % 03755 AVL---
+200404027 Bonnevoie, Lycée Tec  02747  02747                % 03755 AVL---
+200304010 Howald, Rangwee       02748  02748                % 03755 AVL---
+200412005 Gasperich, Clemencea  02751  02751                % 03755 AVL---
+200412003 Gasperich, Bei der A  02752  02752                % 03755 AVL---
+200412001 Gasperich, Al Gasper  02753  02753                % 03755 AVL---
+200412009 Gasperich, Gaasperec  02754  02754                % 03755 AVL---
+200407011 Cessange, Rue Verte   02755  02755                % 03755 AVL---
+200407008 Cessange, Kierch      02757  02757                % 03755 AVL---
+200407007 Cessange, Fischerhaf  02757  02757                % 03755 AVL---
+200407003 Cessange, Artisans    02758  02758                % 03755 AVL---
+200407004 Cessange, Barrès      02759  02759                % 03755 AVL---
+200415002 Hollerich, Assurance  02800  02800                % 03755 AVL---
+200415005 Hollerich, Heentze P  02801  02801                % 03755 AVL---
+200403015 Belair, Rheinsheim    02802  02802                % 03755 AVL---
+200405020 Hamilius              02804                       % 03755 AVL---

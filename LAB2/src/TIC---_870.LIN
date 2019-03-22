@@ -1,0 +1,35 @@
+*F 03 2
+*Z 01633 TIC---                                             % 01633 TIC---
+*L 870      220402062 221201011  01446  01516               % 01633 TIC---
+*A ad 220402062 221201011 000150  01446  01516              % 01633 TIC---
+*R 1 221201011 220402062 221201011  01446  01516            % 01633 TIC---
+*G TIB 220402062 221201011  01446  01516                    % 01633 TIC---
+*A VE 220402062 221201011 000150  01446  01516              % 01633 TIC---
+*I FD 220402062 221201011        0001785  01446  01516      % 01633 TIC---
+220402062 Esch/Alzette, Lycée          01446                % 01633 TIC---
+221401006 Schifflange, Millche  01454 -01454                % 01633 TIC---
+221401005 Schifflange, Huele W  01454 -01454                % 01633 TIC---
+221401003 Schifflange, Stadhau  01455 -01455                % 01633 TIC---
+221401007 Schifflange, Niddesc  01457 -01457                % 01633 TIC---
+221401004 Schifflange, Gringe   01458 -01458                % 01633 TIC---
+221401008 Schifflange, Poto     01459 -01459                % 01633 TIC---
+220601009 Kayl, Stellwierk      01501 -01501                % 01633 TIC---
+220601011 Kayl, Broucherbierg   01501 -01501                % 01633 TIC---
+220601005 Kayl, Barrière        01502 -01502                % 01633 TIC---
+220601010 Kayl, Bréck           01503 -01503                % 01633 TIC---
+220601007 Kayl, Post            01504 -01504                % 01633 TIC---
+220601021 Kayl, Brill           01505 -01505                % 01633 TIC---
+220601012 Kayl, Cité Berens     01506 -01506                % 01633 TIC---
+220602006 Tétange, Rue Neuve    01507 -01507                % 01633 TIC---
+220602007 Tétange, Schungfabri  01508 -01508                % 01633 TIC---
+220602009 Tétange, Bréck        01509 -01509                % 01633 TIC---
+220602010 Tétange, Schoul       01509 -01509                % 01633 TIC---
+220602008 Tétange, Um Haff      01510 -01510                % 01633 TIC---
+220602005 Tétange, Lorei        01510 -01510                % 01633 TIC---
+221201003 Rumelange, Atelier K  01511 -01511                % 01633 TIC---
+221201012 Rumelange, Schmelz    01512 -01512                % 01633 TIC---
+221201005 Rumelange, Gare       01513 -01513                % 01633 TIC---
+221201009 Rumelange, Maartplaz  01514 -01514                % 01633 TIC---
+221201002 Rumelange, Aale Kier  01515 -01515                % 01633 TIC---
+221201007 Rumelange, Laangegro  01515 -01515                % 01633 TIC---
+221201011 Rumelange, Rembour    01516                       % 01633 TIC---

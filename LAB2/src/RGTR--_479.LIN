@@ -1,0 +1,97 @@
+*F 03 2
+*Z 09199 RGTR--                                             % 09199 RGTR--
+*L 479      180201004 180511008  00704  00747               % 09199 RGTR--
+*A bi 180201004 180511008 000030  00704  00747              % 09199 RGTR--
+*A cp 180201004 180511008 000030  00704  00747              % 09199 RGTR--
+*A dy 180201004 180511008 000030  00704  00747              % 09199 RGTR--
+*A ad 180201004 180511008 000030  00704  00747              % 09199 RGTR--
+*R 1 180511008 180201004 180511008  00704  00747            % 09199 RGTR--
+*G RGB 180201004 180511008  00704  00747                    % 09199 RGTR--
+*A VE 180201004 180511008 000030  00704  00747              % 09199 RGTR--
+*I FD 180201004 180511008        0002181  00704  00747      % 09199 RGTR--
+180201004 Biwer, Mairie                00704                % 09199 RGTR--
+180201002 Biwer, Haaptstrooss   00705  00705                % 09199 RGTR--
+180102001 Berg, Bei der Schmet  00708  00708                % 09199 RGTR--
+180102002 Berg, Haff Biel       00709  00709                % 09199 RGTR--
+180103001 Betzdorf, Bei der Sc  00712  00712                % 09199 RGTR--
+180105005 Olingen, rue de Betz  00716  00716                % 09199 RGTR--
+180105001 Olingen, Am Kéisbier  00717  00717                % 09199 RGTR--
+180101001 Banzelt, Ort          00719  00719                % 09199 RGTR--
+180106001 Roodt/Syre, Barriär   00721  00721                % 09199 RGTR--
+180104001 Mensdorf, Ennen am D  00724  00724                % 09199 RGTR--
+180106002 Roodt/Syre, Campus s  00729  00729                % 09199 RGTR--
+180106007 Roodt/Syre, Bowengsb  00730  00730                % 09199 RGTR--
+180106008 Roodt/Syre, Rue d'Ol  00731  00731                % 09199 RGTR--
+180105003 Olingen, Rue de Rode  00734  00734                % 09199 RGTR--
+180105002 Olingen, Beim lescht  00735  00735                % 09199 RGTR--
+180512002 Rodenbourg, An der S  00736  00736                % 09199 RGTR--
+180512001 Rodenbourg, Am Duerf  00737  00737                % 09199 RGTR--
+180511004 Junglinster, Rue de   00742  00742                % 09199 RGTR--
+180511005 Junglinster, Um Lei   00743  00743                % 09199 RGTR--
+180511009 Junglinster, Op der   00744  00744                % 09199 RGTR--
+180508003 Gonderange, Mierchen  00745  00745                % 09199 RGTR--
+180511008 Junglinster, Lycée    00747                       % 09199 RGTR--
+*Z 09200 RGTR--                                             % 09200 RGTR--
+*L 479      180511008 180201004  01140  01219               % 09200 RGTR--
+*A bi 180511008 180201004 000163  01140  01219              % 09200 RGTR--
+*A cp 180511008 180201004 000163  01140  01219              % 09200 RGTR--
+*A ti 180511008 180201004 000163  01140  01219              % 09200 RGTR--
+*A ad 180511008 180201004 000163  01140  01219              % 09200 RGTR--
+*R 2 180201004 180511008 180201004  01140  01219            % 09200 RGTR--
+*G RGB 180511008 180201004  01140  01219                    % 09200 RGTR--
+*A VE 180511008 180201004 000163  01140  01219              % 09200 RGTR--
+*I FD 180511008 180201004        0001963  01140  01219      % 09200 RGTR--
+180511008 Junglinster, Lycée           01140                % 09200 RGTR--
+180508003 Gonderange, Mierchen  01142  01142                % 09200 RGTR--
+180511009 Junglinster, Op der   01143  01143                % 09200 RGTR--
+180511005 Junglinster, Um Lei   01143  01143                % 09200 RGTR--
+180511002 Junglinster, Op der   01144  01144                % 09200 RGTR--
+180512001 Rodenbourg, Am Duerf  01150  01150                % 09200 RGTR--
+180512002 Rodenbourg, An der S  01150  01150                % 09200 RGTR--
+180105002 Olingen, Beim lescht  01152  01152                % 09200 RGTR--
+180105003 Olingen, Rue de Rode  01153  01153                % 09200 RGTR--
+180106008 Roodt/Syre, Rue d'Ol  01155  01155                % 09200 RGTR--
+180106007 Roodt/Syre, Bowengsb  01156  01156                % 09200 RGTR--
+180106002 Roodt/Syre, Campus s  01157  01157                % 09200 RGTR--
+180104001 Mensdorf, Ennen am D  01201  01201                % 09200 RGTR--
+180106001 Roodt/Syre, Barriär   01205  01205                % 09200 RGTR--
+180101001 Banzelt, Ort          01207  01207                % 09200 RGTR--
+180105001 Olingen, Am Kéisbier  01208  01208                % 09200 RGTR--
+180105005 Olingen, rue de Betz  01209  01209                % 09200 RGTR--
+180103001 Betzdorf, Bei der Sc  01212  01212                % 09200 RGTR--
+180102002 Berg, Haff Biel       01214  01214                % 09200 RGTR--
+180102001 Berg, Bei der Schmet  01215  01215                % 09200 RGTR--
+180201002 Biwer, Haaptstrooss   01218  01218                % 09200 RGTR--
+180201004 Biwer, Mairie         01219                       % 09200 RGTR--
+*Z 09201 RGTR--                                             % 09201 RGTR--
+*L 479      180511008 180201004  01605  01644               % 09201 RGTR--
+*A bi 180511008 180201004 000162  01605  01644              % 09201 RGTR--
+*A cp 180511008 180201004 000162  01605  01644              % 09201 RGTR--
+*A ti 180511008 180201004 000162  01605  01644              % 09201 RGTR--
+*A ad 180511008 180201004 000162  01605  01644              % 09201 RGTR--
+*R 2 180201004 180511008 180201004  01605  01644            % 09201 RGTR--
+*G RGB 180511008 180201004  01605  01644                    % 09201 RGTR--
+*A VE 180511008 180201004 000162  01605  01644              % 09201 RGTR--
+*I FD 180511008 180201004        0002253  01605  01644      % 09201 RGTR--
+180511008 Junglinster, Lycée           01605                % 09201 RGTR--
+180508003 Gonderange, Mierchen  01607  01607                % 09201 RGTR--
+180511009 Junglinster, Op der   01608  01608                % 09201 RGTR--
+180511005 Junglinster, Um Lei   01608  01608                % 09201 RGTR--
+180511002 Junglinster, Op der   01609  01609                % 09201 RGTR--
+180512001 Rodenbourg, Am Duerf  01615  01615                % 09201 RGTR--
+180512002 Rodenbourg, An der S  01615  01615                % 09201 RGTR--
+180105002 Olingen, Beim lescht  01617  01617                % 09201 RGTR--
+180105003 Olingen, Rue de Rode  01618  01618                % 09201 RGTR--
+180106008 Roodt/Syre, Rue d'Ol  01620  01620                % 09201 RGTR--
+180106007 Roodt/Syre, Bowengsb  01621  01621                % 09201 RGTR--
+180106002 Roodt/Syre, Campus s  01622  01622                % 09201 RGTR--
+180104001 Mensdorf, Ennen am D  01626  01626                % 09201 RGTR--
+180106001 Roodt/Syre, Barriär   01630  01630                % 09201 RGTR--
+180101001 Banzelt, Ort          01632  01632                % 09201 RGTR--
+180105001 Olingen, Am Kéisbier  01633  01633                % 09201 RGTR--
+180105005 Olingen, rue de Betz  01634  01634                % 09201 RGTR--
+180103001 Betzdorf, Bei der Sc  01637  01637                % 09201 RGTR--
+180102002 Berg, Haff Biel       01639  01639                % 09201 RGTR--
+180102001 Berg, Bei der Schmet  01640  01640                % 09201 RGTR--
+180201002 Biwer, Haaptstrooss   01643  01643                % 09201 RGTR--
+180201004 Biwer, Mairie         01644                       % 09201 RGTR--

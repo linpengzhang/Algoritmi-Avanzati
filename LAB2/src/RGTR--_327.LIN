@@ -1,0 +1,139 @@
+*F 03 2
+*Z 05890 RGTR--                                             % 05890 RGTR--
+*L 327      220204008 220203009  00916  00939               % 05890 RGTR--
+*A mj 220204008 220203009 000006  00916  00939              % 05890 RGTR--
+*R 1 220203009 220204008 220203009  00916  00939            % 05890 RGTR--
+*G RGB 220204008 220203009  00916  00939                    % 05890 RGTR--
+*A VE 220204008 220203009 000006  00916  00939              % 05890 RGTR--
+*I FD 220204008 220203009        0002708  00916  00939      % 05890 RGTR--
+220204008 Obercorn, Aquasud            00916                % 05890 RGTR--
+220204002 Obercorn, Chiers      00917  00917                % 05890 RGTR--
+220201068 Differdange, Opkorn   00918  00918                % 05890 RGTR--
+220201001 Differdange, Aal Gar  00920  00920                % 05890 RGTR--
+220201006 Differdange, Centre   00921  00921                % 05890 RGTR--
+220201018 Differdange, Fonds d  00921  00921                % 05890 RGTR--
+220201036 Differdange, Place d  00922  00922                % 05890 RGTR--
+220201044 Differdange, Rue de   00923  00923                % 05890 RGTR--
+220201004 Differdange, Becklec  00924  00924                % 05890 RGTR--
+220201012 Differdange, Douane   00924  00924                % 05890 RGTR--
+220201025 Differdange, Grillpl  00925  00925                % 05890 RGTR--
+220201041 Differdange, Roudenh  00928  00928                % 05890 RGTR--
+220202001 Lasauvage, Kajibi     00929  00929                % 05890 RGTR--
+220202003 Lasauvage, Schoul     00930  00930                % 05890 RGTR--
+220202002 Lasauvage, Kierch     00931  00931                % 05890 RGTR--
+220203013 Niedercorn, Franzous  00935  00935                % 05890 RGTR--
+220203014 Niedercorn, Hondster  00937  00937                % 05890 RGTR--
+220203009 Niedercorn, Moartpla  00939                       % 05890 RGTR--
+*Z 05891 RGTR--                                             % 05891 RGTR--
+*L 327      220204008 220203009  01716  01739               % 05891 RGTR--
+*A mj 220204008 220203009 000006  01716  01739              % 05891 RGTR--
+*R 1 220203009 220204008 220203009  01716  01739            % 05891 RGTR--
+*G RGB 220204008 220203009  01716  01739                    % 05891 RGTR--
+*A VE 220204008 220203009 000006  01716  01739              % 05891 RGTR--
+*I FD 220204008 220203009        0002709  01716  01739      % 05891 RGTR--
+220204008 Obercorn, Aquasud            01716                % 05891 RGTR--
+220204002 Obercorn, Chiers      01717  01717                % 05891 RGTR--
+220201068 Differdange, Opkorn   01718  01718                % 05891 RGTR--
+220201001 Differdange, Aal Gar  01720  01720                % 05891 RGTR--
+220201006 Differdange, Centre   01721  01721                % 05891 RGTR--
+220201018 Differdange, Fonds d  01721  01721                % 05891 RGTR--
+220201036 Differdange, Place d  01722  01722                % 05891 RGTR--
+220201044 Differdange, Rue de   01723  01723                % 05891 RGTR--
+220201004 Differdange, Becklec  01724  01724                % 05891 RGTR--
+220201012 Differdange, Douane   01724  01724                % 05891 RGTR--
+220201025 Differdange, Grillpl  01725  01725                % 05891 RGTR--
+220201041 Differdange, Roudenh  01728  01728                % 05891 RGTR--
+220202001 Lasauvage, Kajibi     01729  01729                % 05891 RGTR--
+220202003 Lasauvage, Schoul     01730  01730                % 05891 RGTR--
+220202002 Lasauvage, Kierch     01731  01731                % 05891 RGTR--
+220203013 Niedercorn, Franzous  01735  01735                % 05891 RGTR--
+220203014 Niedercorn, Hondster  01737  01737                % 05891 RGTR--
+220203009 Niedercorn, Moartpla  01739                       % 05891 RGTR--
+*Z 05892 RGTR--                                             % 05892 RGTR--
+*L 327      220204008 220203009  01116  01138               % 05892 RGTR--
+*A mj 220204008 220203009 000006  01116  01138              % 05892 RGTR--
+*R 1 220203009 220204008 220203009  01116  01138            % 05892 RGTR--
+*G RGB 220204008 220203009  01116  01138                    % 05892 RGTR--
+*A VE 220204008 220203009 000006  01116  01138              % 05892 RGTR--
+*I FD 220204008 220203009        0001196  01116  01138      % 05892 RGTR--
+220204008 Obercorn, Aquasud            01116                % 05892 RGTR--
+220204002 Obercorn, Chiers      01117  01117                % 05892 RGTR--
+220201068 Differdange, Opkorn   01118  01118                % 05892 RGTR--
+220201001 Differdange, Aal Gar  01120  01120                % 05892 RGTR--
+220201006 Differdange, Centre   01120  01120                % 05892 RGTR--
+220201018 Differdange, Fonds d  01121  01121                % 05892 RGTR--
+220201036 Differdange, Place d  01122  01122                % 05892 RGTR--
+220201044 Differdange, Rue de   01123  01123                % 05892 RGTR--
+220201004 Differdange, Becklec  01123  01123                % 05892 RGTR--
+220201012 Differdange, Douane   01124  01124                % 05892 RGTR--
+220201025 Differdange, Grillpl  01125  01125                % 05892 RGTR--
+220201041 Differdange, Roudenh  01128  01128                % 05892 RGTR--
+220202001 Lasauvage, Kajibi     01129  01129                % 05892 RGTR--
+220202003 Lasauvage, Schoul     01130  01130                % 05892 RGTR--
+220202002 Lasauvage, Kierch     01130  01130                % 05892 RGTR--
+220203013 Niedercorn, Franzous  01134  01134                % 05892 RGTR--
+220203014 Niedercorn, Hondster  01136  01136                % 05892 RGTR--
+220203009 Niedercorn, Moartpla  01138                       % 05892 RGTR--
+*Z 05893 RGTR--                                             % 05893 RGTR--
+*L 327      220204008 220203009  01316  01338               % 05893 RGTR--
+*A mj 220204008 220203009 000006  01316  01338              % 05893 RGTR--
+*R 1 220203009 220204008 220203009  01316  01338            % 05893 RGTR--
+*G RGB 220204008 220203009  01316  01338                    % 05893 RGTR--
+*A VE 220204008 220203009 000006  01316  01338              % 05893 RGTR--
+*I FD 220204008 220203009        0003051  01316  01338      % 05893 RGTR--
+220204008 Obercorn, Aquasud            01316                % 05893 RGTR--
+220204002 Obercorn, Chiers      01317  01317                % 05893 RGTR--
+220201068 Differdange, Opkorn   01318  01318                % 05893 RGTR--
+220201001 Differdange, Aal Gar  01320  01320                % 05893 RGTR--
+220201006 Differdange, Centre   01320  01320                % 05893 RGTR--
+220201018 Differdange, Fonds d  01321  01321                % 05893 RGTR--
+220201036 Differdange, Place d  01322  01322                % 05893 RGTR--
+220201044 Differdange, Rue de   01323  01323                % 05893 RGTR--
+220201004 Differdange, Becklec  01323  01323                % 05893 RGTR--
+220201012 Differdange, Douane   01324  01324                % 05893 RGTR--
+220201025 Differdange, Grillpl  01325  01325                % 05893 RGTR--
+220201041 Differdange, Roudenh  01328  01328                % 05893 RGTR--
+220202001 Lasauvage, Kajibi     01329  01329                % 05893 RGTR--
+220202003 Lasauvage, Schoul     01330  01330                % 05893 RGTR--
+220202002 Lasauvage, Kierch     01330  01330                % 05893 RGTR--
+220203013 Niedercorn, Franzous  01334  01334                % 05893 RGTR--
+220203014 Niedercorn, Hondster  01336  01336                % 05893 RGTR--
+220203009 Niedercorn, Moartpla  01338                       % 05893 RGTR--
+*Z 05894 RGTR--                                             % 05894 RGTR--
+*L 327      220204008 220203009  01916  01938               % 05894 RGTR--
+*A mj 220204008 220203009 000006  01916  01938              % 05894 RGTR--
+*R 1 220203009 220204008 220203009  01916  01938            % 05894 RGTR--
+*G RGB 220204008 220203009  01916  01938                    % 05894 RGTR--
+*A VE 220204008 220203009 000006  01916  01938              % 05894 RGTR--
+*I FD 220204008 220203009        0002716  01916  01938      % 05894 RGTR--
+220204008 Obercorn, Aquasud            01916                % 05894 RGTR--
+220204002 Obercorn, Chiers      01917  01917                % 05894 RGTR--
+220201068 Differdange, Opkorn   01918  01918                % 05894 RGTR--
+220201001 Differdange, Aal Gar  01920  01920                % 05894 RGTR--
+220201006 Differdange, Centre   01920  01920                % 05894 RGTR--
+220201018 Differdange, Fonds d  01921  01921                % 05894 RGTR--
+220201036 Differdange, Place d  01922  01922                % 05894 RGTR--
+220201044 Differdange, Rue de   01923  01923                % 05894 RGTR--
+220201004 Differdange, Becklec  01923  01923                % 05894 RGTR--
+220201012 Differdange, Douane   01924  01924                % 05894 RGTR--
+220201025 Differdange, Grillpl  01925  01925                % 05894 RGTR--
+220201041 Differdange, Roudenh  01928  01928                % 05894 RGTR--
+220202001 Lasauvage, Kajibi     01929  01929                % 05894 RGTR--
+220202003 Lasauvage, Schoul     01930  01930                % 05894 RGTR--
+220202002 Lasauvage, Kierch     01930  01930                % 05894 RGTR--
+220203013 Niedercorn, Franzous  01934  01934                % 05894 RGTR--
+220203014 Niedercorn, Hondster  01936  01936                % 05894 RGTR--
+220203009 Niedercorn, Moartpla  01938                       % 05894 RGTR--
+*Z 05895 RGTR--                                             % 05895 RGTR--
+*L 327      220202001 220203009  00625  00634               % 05895 RGTR--
+*A mj 220202001 220203009 000030  00625  00634              % 05895 RGTR--
+*R 1 220203009 220202001 220203009  00625  00634            % 05895 RGTR--
+*G RGB 220202001 220203009  00625  00634                    % 05895 RGTR--
+*A VE 220202001 220203009 000030  00625  00634              % 05895 RGTR--
+*I FD 220202001 220203009        0000946  00625  00634      % 05895 RGTR--
+220202001 Lasauvage, Kajibi            00625                % 05895 RGTR--
+220202003 Lasauvage, Schoul     00625  00625                % 05895 RGTR--
+220202002 Lasauvage, Kierch     00626  00626                % 05895 RGTR--
+220203013 Niedercorn, Franzous  00630  00630                % 05895 RGTR--
+220203014 Niedercorn, Hondster  00632  00632                % 05895 RGTR--
+220203009 Niedercorn, Moartpla  00634                       % 05895 RGTR--

@@ -1,0 +1,1287 @@
+*F 03 2
+*Z 04755 RGTR--                                             % 04755 RGTR--
+*L 118      200417050 500000079  01636  01739               % 04755 RGTR--
+*A ag 200417050 500000079 000016  01636  01739              % 04755 RGTR--
+*A me 200417050 500000079 000016  01636  01739              % 04755 RGTR--
+*R 1 500000079 200417050 500000079  01636  01739            % 04755 RGTR--
+*G RGB 200417050 500000079  01636  01739                    % 04755 RGTR--
+*A VE 200417050 500000079 000016  01636  01739              % 04755 RGTR--
+*I FD 200417050 500000079        0002886  01636  01739      % 04755 RGTR--
+200417050 Kirchberg, Gare rout         01636                % 04755 RGTR--
+180701006 Mertert, route Natio  01702  01702                % 04755 RGTR--
+180701002 Mertert, Copal        01703  01703                % 04755 RGTR--
+180703004 Wasserbillig, Marais  01704  01704                % 04755 RGTR--
+180703003 Wasserbillig, Gare    01705  01705                % 04755 RGTR--
+180703005 Wasserbillig, Op der  01706  01706                % 04755 RGTR--
+500000115 Igel, Kirche          01710 -01710                % 04755 RGTR--
+500000107 Zewen, Im Siebenborn  01713 -01713                % 04755 RGTR--
+500000138 Trier, Messepark P+R  01719 -01719                % 04755 RGTR--
+500000139 Trier, St. Matthias   01722 -01722                % 04755 RGTR--
+500000140 Trier, Südbahnhof     01725 -01725                % 04755 RGTR--
+500000141 Trier, Südallee/Kais  01727 -01727                % 04755 RGTR--
+500000148 Trier, Konstantin Ba  01733 -01733                % 04755 RGTR--
+500000079 Trier, Hauptbahnhof   01739                       % 04755 RGTR--
+*Z 04756 RGTR--                                             % 04756 RGTR--
+*L 118      200417050 500000079  01651  01754               % 04756 RGTR--
+*A ag 200417050 500000079 000016  01651  01754              % 04756 RGTR--
+*A me 200417050 500000079 000016  01651  01754              % 04756 RGTR--
+*R 1 500000079 200417050 500000079  01651  01754            % 04756 RGTR--
+*G RGB 200417050 500000079  01651  01754                    % 04756 RGTR--
+*A VE 200417050 500000079 000016  01651  01754              % 04756 RGTR--
+*I FD 200417050 500000079        0002098  01651  01754      % 04756 RGTR--
+200417050 Kirchberg, Gare rout         01651                % 04756 RGTR--
+180701006 Mertert, route Natio  01717  01717                % 04756 RGTR--
+180701002 Mertert, Copal        01718  01718                % 04756 RGTR--
+180703004 Wasserbillig, Marais  01719  01719                % 04756 RGTR--
+180703003 Wasserbillig, Gare    01720  01720                % 04756 RGTR--
+180703005 Wasserbillig, Op der  01721  01721                % 04756 RGTR--
+500000115 Igel, Kirche          01725 -01725                % 04756 RGTR--
+500000107 Zewen, Im Siebenborn  01728 -01728                % 04756 RGTR--
+500000138 Trier, Messepark P+R  01734 -01734                % 04756 RGTR--
+500000139 Trier, St. Matthias   01737 -01737                % 04756 RGTR--
+500000140 Trier, Südbahnhof     01740 -01740                % 04756 RGTR--
+500000141 Trier, Südallee/Kais  01742 -01742                % 04756 RGTR--
+500000148 Trier, Konstantin Ba  01748 -01748                % 04756 RGTR--
+500000079 Trier, Hauptbahnhof   01754                       % 04756 RGTR--
+*Z 04757 RGTR--                                             % 04757 RGTR--
+*L 118      200417050 500000079  01706  01809               % 04757 RGTR--
+*A ag 200417050 500000079 000016  01706  01809              % 04757 RGTR--
+*A me 200417050 500000079 000016  01706  01809              % 04757 RGTR--
+*R 1 500000079 200417050 500000079  01706  01809            % 04757 RGTR--
+*G RGB 200417050 500000079  01706  01809                    % 04757 RGTR--
+*A VE 200417050 500000079 000016  01706  01809              % 04757 RGTR--
+*I FD 200417050 500000079        0001391  01706  01809      % 04757 RGTR--
+200417050 Kirchberg, Gare rout         01706                % 04757 RGTR--
+180701006 Mertert, route Natio  01732  01732                % 04757 RGTR--
+180701002 Mertert, Copal        01733  01733                % 04757 RGTR--
+180703004 Wasserbillig, Marais  01734  01734                % 04757 RGTR--
+180703003 Wasserbillig, Gare    01735  01735                % 04757 RGTR--
+180703005 Wasserbillig, Op der  01736  01736                % 04757 RGTR--
+500000115 Igel, Kirche          01740 -01740                % 04757 RGTR--
+500000107 Zewen, Im Siebenborn  01743 -01743                % 04757 RGTR--
+500000138 Trier, Messepark P+R  01749 -01749                % 04757 RGTR--
+500000139 Trier, St. Matthias   01752 -01752                % 04757 RGTR--
+500000140 Trier, Südbahnhof     01755 -01755                % 04757 RGTR--
+500000141 Trier, Südallee/Kais  01757 -01757                % 04757 RGTR--
+500000148 Trier, Konstantin Ba  01803 -01803                % 04757 RGTR--
+500000079 Trier, Hauptbahnhof   01809                       % 04757 RGTR--
+*Z 04758 RGTR--                                             % 04758 RGTR--
+*L 118      200417050 500000079  01721  01824               % 04758 RGTR--
+*A ag 200417050 500000079 000016  01721  01824              % 04758 RGTR--
+*A me 200417050 500000079 000016  01721  01824              % 04758 RGTR--
+*R 1 500000079 200417050 500000079  01721  01824            % 04758 RGTR--
+*G RGB 200417050 500000079  01721  01824                    % 04758 RGTR--
+*A VE 200417050 500000079 000016  01721  01824              % 04758 RGTR--
+*I FD 200417050 500000079        0002099  01721  01824      % 04758 RGTR--
+200417050 Kirchberg, Gare rout         01721                % 04758 RGTR--
+180701006 Mertert, route Natio  01747  01747                % 04758 RGTR--
+180701002 Mertert, Copal        01748  01748                % 04758 RGTR--
+180703004 Wasserbillig, Marais  01749  01749                % 04758 RGTR--
+180703003 Wasserbillig, Gare    01750  01750                % 04758 RGTR--
+180703005 Wasserbillig, Op der  01751  01751                % 04758 RGTR--
+500000115 Igel, Kirche          01755 -01755                % 04758 RGTR--
+500000107 Zewen, Im Siebenborn  01758 -01758                % 04758 RGTR--
+500000138 Trier, Messepark P+R  01804 -01804                % 04758 RGTR--
+500000139 Trier, St. Matthias   01807 -01807                % 04758 RGTR--
+500000140 Trier, Südbahnhof     01810 -01810                % 04758 RGTR--
+500000141 Trier, Südallee/Kais  01812 -01812                % 04758 RGTR--
+500000148 Trier, Konstantin Ba  01818 -01818                % 04758 RGTR--
+500000079 Trier, Hauptbahnhof   01824                       % 04758 RGTR--
+*Z 04759 RGTR--                                             % 04759 RGTR--
+*L 118      200417050 500000079  01731  01834               % 04759 RGTR--
+*A ag 200417050 500000079 000016  01731  01834              % 04759 RGTR--
+*A me 200417050 500000079 000016  01731  01834              % 04759 RGTR--
+*R 1 500000079 200417050 500000079  01731  01834            % 04759 RGTR--
+*G RGB 200417050 500000079  01731  01834                    % 04759 RGTR--
+*A VE 200417050 500000079 000016  01731  01834              % 04759 RGTR--
+*I FD 200417050 500000079        0001812  01731  01834      % 04759 RGTR--
+200417050 Kirchberg, Gare rout         01731                % 04759 RGTR--
+180701006 Mertert, route Natio  01757  01757                % 04759 RGTR--
+180701002 Mertert, Copal        01758  01758                % 04759 RGTR--
+180703004 Wasserbillig, Marais  01759  01759                % 04759 RGTR--
+180703003 Wasserbillig, Gare    01800  01800                % 04759 RGTR--
+180703005 Wasserbillig, Op der  01801  01801                % 04759 RGTR--
+500000115 Igel, Kirche          01805 -01805                % 04759 RGTR--
+500000107 Zewen, Im Siebenborn  01808 -01808                % 04759 RGTR--
+500000138 Trier, Messepark P+R  01814 -01814                % 04759 RGTR--
+500000139 Trier, St. Matthias   01817 -01817                % 04759 RGTR--
+500000140 Trier, Südbahnhof     01820 -01820                % 04759 RGTR--
+500000141 Trier, Südallee/Kais  01822 -01822                % 04759 RGTR--
+500000148 Trier, Konstantin Ba  01828 -01828                % 04759 RGTR--
+500000079 Trier, Hauptbahnhof   01834                       % 04759 RGTR--
+*Z 04760 RGTR--                                             % 04760 RGTR--
+*L 118      200417050 500000079  01741  01844               % 04760 RGTR--
+*A ag 200417050 500000079 000016  01741  01844              % 04760 RGTR--
+*A me 200417050 500000079 000016  01741  01844              % 04760 RGTR--
+*R 1 500000079 200417050 500000079  01741  01844            % 04760 RGTR--
+*G RGB 200417050 500000079  01741  01844                    % 04760 RGTR--
+*A VE 200417050 500000079 000016  01741  01844              % 04760 RGTR--
+*I FD 200417050 500000079        0002590  01741  01844      % 04760 RGTR--
+200417050 Kirchberg, Gare rout         01741                % 04760 RGTR--
+180701006 Mertert, route Natio  01807  01807                % 04760 RGTR--
+180701002 Mertert, Copal        01808  01808                % 04760 RGTR--
+180703004 Wasserbillig, Marais  01809  01809                % 04760 RGTR--
+180703003 Wasserbillig, Gare    01810  01810                % 04760 RGTR--
+180703005 Wasserbillig, Op der  01811  01811                % 04760 RGTR--
+500000115 Igel, Kirche          01815 -01815                % 04760 RGTR--
+500000107 Zewen, Im Siebenborn  01818 -01818                % 04760 RGTR--
+500000138 Trier, Messepark P+R  01824 -01824                % 04760 RGTR--
+500000139 Trier, St. Matthias   01827 -01827                % 04760 RGTR--
+500000140 Trier, Südbahnhof     01830 -01830                % 04760 RGTR--
+500000141 Trier, Südallee/Kais  01832 -01832                % 04760 RGTR--
+500000148 Trier, Konstantin Ba  01838 -01838                % 04760 RGTR--
+500000079 Trier, Hauptbahnhof   01844                       % 04760 RGTR--
+*Z 04761 RGTR--                                             % 04761 RGTR--
+*L 118      200417050 500000079  01751  01854               % 04761 RGTR--
+*A ag 200417050 500000079 000016  01751  01854              % 04761 RGTR--
+*A me 200417050 500000079 000016  01751  01854              % 04761 RGTR--
+*R 1 500000079 200417050 500000079  01751  01854            % 04761 RGTR--
+*G RGB 200417050 500000079  01751  01854                    % 04761 RGTR--
+*A VE 200417050 500000079 000016  01751  01854              % 04761 RGTR--
+*I FD 200417050 500000079        0002078  01751  01854      % 04761 RGTR--
+200417050 Kirchberg, Gare rout         01751                % 04761 RGTR--
+180701006 Mertert, route Natio  01817  01817                % 04761 RGTR--
+180701002 Mertert, Copal        01818  01818                % 04761 RGTR--
+180703004 Wasserbillig, Marais  01819  01819                % 04761 RGTR--
+180703003 Wasserbillig, Gare    01820  01820                % 04761 RGTR--
+180703005 Wasserbillig, Op der  01821  01821                % 04761 RGTR--
+500000115 Igel, Kirche          01825 -01825                % 04761 RGTR--
+500000107 Zewen, Im Siebenborn  01828 -01828                % 04761 RGTR--
+500000138 Trier, Messepark P+R  01834 -01834                % 04761 RGTR--
+500000139 Trier, St. Matthias   01837 -01837                % 04761 RGTR--
+500000140 Trier, Südbahnhof     01840 -01840                % 04761 RGTR--
+500000141 Trier, Südallee/Kais  01842 -01842                % 04761 RGTR--
+500000148 Trier, Konstantin Ba  01848 -01848                % 04761 RGTR--
+500000079 Trier, Hauptbahnhof   01854                       % 04761 RGTR--
+*Z 04762 RGTR--                                             % 04762 RGTR--
+*L 118      200417050 500000079  01756  01859               % 04762 RGTR--
+*A ag 200417050 500000079 000016  01756  01859              % 04762 RGTR--
+*A me 200417050 500000079 000016  01756  01859              % 04762 RGTR--
+*R 1 500000079 200417050 500000079  01756  01859            % 04762 RGTR--
+*G RGB 200417050 500000079  01756  01859                    % 04762 RGTR--
+*A VE 200417050 500000079 000016  01756  01859              % 04762 RGTR--
+*I FD 200417050 500000079        0002069  01756  01859      % 04762 RGTR--
+200417050 Kirchberg, Gare rout         01756                % 04762 RGTR--
+180701006 Mertert, route Natio  01822  01822                % 04762 RGTR--
+180701002 Mertert, Copal        01823  01823                % 04762 RGTR--
+180703004 Wasserbillig, Marais  01824  01824                % 04762 RGTR--
+180703003 Wasserbillig, Gare    01825  01825                % 04762 RGTR--
+180703005 Wasserbillig, Op der  01826  01826                % 04762 RGTR--
+500000115 Igel, Kirche          01830 -01830                % 04762 RGTR--
+500000107 Zewen, Im Siebenborn  01833 -01833                % 04762 RGTR--
+500000138 Trier, Messepark P+R  01839 -01839                % 04762 RGTR--
+500000139 Trier, St. Matthias   01842 -01842                % 04762 RGTR--
+500000140 Trier, Südbahnhof     01845 -01845                % 04762 RGTR--
+500000141 Trier, Südallee/Kais  01847 -01847                % 04762 RGTR--
+500000148 Trier, Konstantin Ba  01853 -01853                % 04762 RGTR--
+500000079 Trier, Hauptbahnhof   01859                       % 04762 RGTR--
+*Z 04763 RGTR--                                             % 04763 RGTR--
+*L 118      200417050 500000079  01801  01904               % 04763 RGTR--
+*A ag 200417050 500000079 000016  01801  01904              % 04763 RGTR--
+*A me 200417050 500000079 000016  01801  01904              % 04763 RGTR--
+*R 1 500000079 200417050 500000079  01801  01904            % 04763 RGTR--
+*G RGB 200417050 500000079  01801  01904                    % 04763 RGTR--
+*A VE 200417050 500000079 000016  01801  01904              % 04763 RGTR--
+*I FD 200417050 500000079        0002203  01801  01904      % 04763 RGTR--
+200417050 Kirchberg, Gare rout         01801                % 04763 RGTR--
+180701006 Mertert, route Natio  01827  01827                % 04763 RGTR--
+180701002 Mertert, Copal        01828  01828                % 04763 RGTR--
+180703004 Wasserbillig, Marais  01829  01829                % 04763 RGTR--
+180703003 Wasserbillig, Gare    01830  01830                % 04763 RGTR--
+180703005 Wasserbillig, Op der  01831  01831                % 04763 RGTR--
+500000115 Igel, Kirche          01835 -01835                % 04763 RGTR--
+500000107 Zewen, Im Siebenborn  01838 -01838                % 04763 RGTR--
+500000138 Trier, Messepark P+R  01844 -01844                % 04763 RGTR--
+500000139 Trier, St. Matthias   01847 -01847                % 04763 RGTR--
+500000140 Trier, Südbahnhof     01850 -01850                % 04763 RGTR--
+500000141 Trier, Südallee/Kais  01852 -01852                % 04763 RGTR--
+500000148 Trier, Konstantin Ba  01858 -01858                % 04763 RGTR--
+500000079 Trier, Hauptbahnhof   01904                       % 04763 RGTR--
+*Z 04764 RGTR--                                             % 04764 RGTR--
+*L 118      200417050 500000079  00821  00920               % 04764 RGTR--
+*A ag 200417050 500000079 000006  00821  00920              % 04764 RGTR--
+*A me 200417050 500000079 000006  00821  00920              % 04764 RGTR--
+*R 1 500000079 200417050 500000079  00821  00920            % 04764 RGTR--
+*G RGB 200417050 500000079  00821  00920                    % 04764 RGTR--
+*A VE 200417050 500000079 000006  00821  00920              % 04764 RGTR--
+*I FD 200417050 500000079        0002094  00821  00920      % 04764 RGTR--
+200417050 Kirchberg, Gare rout         00821                % 04764 RGTR--
+180703008 Wasserbillig, Meseni  00842  00842                % 04764 RGTR--
+180703002 Wasserbillig, Cimeti  00845  00845                % 04764 RGTR--
+180703005 Wasserbillig, Op der  00847  00847                % 04764 RGTR--
+500000115 Igel, Kirche          00851 -00851                % 04764 RGTR--
+500000107 Zewen, Im Siebenborn  00854 -00854                % 04764 RGTR--
+500000138 Trier, Messepark P+R  00900 -00900                % 04764 RGTR--
+500000139 Trier, St. Matthias   00903 -00903                % 04764 RGTR--
+500000140 Trier, Südbahnhof     00906 -00906                % 04764 RGTR--
+500000141 Trier, Südallee/Kais  00908 -00908                % 04764 RGTR--
+500000148 Trier, Konstantin Ba  00914 -00914                % 04764 RGTR--
+500000079 Trier, Hauptbahnhof   00920                       % 04764 RGTR--
+*Z 04765 RGTR--                                             % 04765 RGTR--
+*L 118      200417050 500000079  01821  01920               % 04765 RGTR--
+*A ag 200417050 500000079 000006  01821  01920              % 04765 RGTR--
+*A me 200417050 500000079 000006  01821  01920              % 04765 RGTR--
+*R 1 500000079 200417050 500000079  01821  01920            % 04765 RGTR--
+*G RGB 200417050 500000079  01821  01920                    % 04765 RGTR--
+*A VE 200417050 500000079 000006  01821  01920              % 04765 RGTR--
+*I FD 200417050 500000079        0002100  01821  01920      % 04765 RGTR--
+200417050 Kirchberg, Gare rout         01821                % 04765 RGTR--
+180703008 Wasserbillig, Meseni  01842  01842                % 04765 RGTR--
+180703002 Wasserbillig, Cimeti  01845  01845                % 04765 RGTR--
+180703005 Wasserbillig, Op der  01847  01847                % 04765 RGTR--
+500000115 Igel, Kirche          01851 -01851                % 04765 RGTR--
+500000107 Zewen, Im Siebenborn  01854 -01854                % 04765 RGTR--
+500000138 Trier, Messepark P+R  01900 -01900                % 04765 RGTR--
+500000139 Trier, St. Matthias   01903 -01903                % 04765 RGTR--
+500000140 Trier, Südbahnhof     01906 -01906                % 04765 RGTR--
+500000141 Trier, Südallee/Kais  01908 -01908                % 04765 RGTR--
+500000148 Trier, Konstantin Ba  01914 -01914                % 04765 RGTR--
+500000079 Trier, Hauptbahnhof   01920                       % 04765 RGTR--
+*Z 04766 RGTR--                                             % 04766 RGTR--
+*L 118      200417050 500000079  01621  01720               % 04766 RGTR--
+*A ag 200417050 500000079 000016  01621  01720              % 04766 RGTR--
+*A me 200417050 500000079 000016  01621  01720              % 04766 RGTR--
+*R 1 500000079 200417050 500000079  01621  01720            % 04766 RGTR--
+*G RGB 200417050 500000079  01621  01720                    % 04766 RGTR--
+*A VE 200417050 500000079 000016  01621  01720              % 04766 RGTR--
+*I FD 200417050 500000079        0002097  01621  01720      % 04766 RGTR--
+200417050 Kirchberg, Gare rout         01621                % 04766 RGTR--
+180703008 Wasserbillig, Meseni  01642  01642                % 04766 RGTR--
+180703002 Wasserbillig, Cimeti  01645  01645                % 04766 RGTR--
+180703005 Wasserbillig, Op der  01647  01647                % 04766 RGTR--
+500000115 Igel, Kirche          01651 -01651                % 04766 RGTR--
+500000107 Zewen, Im Siebenborn  01654 -01654                % 04766 RGTR--
+500000138 Trier, Messepark P+R  01700 -01700                % 04766 RGTR--
+500000139 Trier, St. Matthias   01703 -01703                % 04766 RGTR--
+500000140 Trier, Südbahnhof     01706 -01706                % 04766 RGTR--
+500000141 Trier, Südallee/Kais  01708 -01708                % 04766 RGTR--
+500000148 Trier, Konstantin Ba  01714 -01714                % 04766 RGTR--
+500000079 Trier, Hauptbahnhof   01720                       % 04766 RGTR--
+*Z 04767 RGTR--                                             % 04767 RGTR--
+*L 118      200417050 500000079  01811  01910               % 04767 RGTR--
+*A ag 200417050 500000079 000016  01811  01910              % 04767 RGTR--
+*A me 200417050 500000079 000016  01811  01910              % 04767 RGTR--
+*R 1 500000079 200417050 500000079  01811  01910            % 04767 RGTR--
+*G RGB 200417050 500000079  01811  01910                    % 04767 RGTR--
+*A VE 200417050 500000079 000016  01811  01910              % 04767 RGTR--
+*I FD 200417050 500000079        0002728  01811  01910      % 04767 RGTR--
+200417050 Kirchberg, Gare rout         01811                % 04767 RGTR--
+180703008 Wasserbillig, Meseni  01832  01832                % 04767 RGTR--
+180703002 Wasserbillig, Cimeti  01835  01835                % 04767 RGTR--
+180703005 Wasserbillig, Op der  01837  01837                % 04767 RGTR--
+500000115 Igel, Kirche          01841 -01841                % 04767 RGTR--
+500000107 Zewen, Im Siebenborn  01844 -01844                % 04767 RGTR--
+500000138 Trier, Messepark P+R  01850 -01850                % 04767 RGTR--
+500000139 Trier, St. Matthias   01853 -01853                % 04767 RGTR--
+500000140 Trier, Südbahnhof     01856 -01856                % 04767 RGTR--
+500000141 Trier, Südallee/Kais  01858 -01858                % 04767 RGTR--
+500000148 Trier, Konstantin Ba  01904 -01904                % 04767 RGTR--
+500000079 Trier, Hauptbahnhof   01910                       % 04767 RGTR--
+*Z 04768 RGTR--                                             % 04768 RGTR--
+*L 118      200417050 500000079  01836  01935               % 04768 RGTR--
+*A ag 200417050 500000079 000016  01836  01935              % 04768 RGTR--
+*A me 200417050 500000079 000016  01836  01935              % 04768 RGTR--
+*R 1 500000079 200417050 500000079  01836  01935            % 04768 RGTR--
+*G RGB 200417050 500000079  01836  01935                    % 04768 RGTR--
+*A VE 200417050 500000079 000016  01836  01935              % 04768 RGTR--
+*I FD 200417050 500000079        0002691  01836  01935      % 04768 RGTR--
+200417050 Kirchberg, Gare rout         01836                % 04768 RGTR--
+180703008 Wasserbillig, Meseni  01857  01857                % 04768 RGTR--
+180703002 Wasserbillig, Cimeti  01900  01900                % 04768 RGTR--
+180703005 Wasserbillig, Op der  01902  01902                % 04768 RGTR--
+500000115 Igel, Kirche          01906 -01906                % 04768 RGTR--
+500000107 Zewen, Im Siebenborn  01909 -01909                % 04768 RGTR--
+500000138 Trier, Messepark P+R  01915 -01915                % 04768 RGTR--
+500000139 Trier, St. Matthias   01918 -01918                % 04768 RGTR--
+500000140 Trier, Südbahnhof     01921 -01921                % 04768 RGTR--
+500000141 Trier, Südallee/Kais  01923 -01923                % 04768 RGTR--
+500000148 Trier, Konstantin Ba  01929 -01929                % 04768 RGTR--
+500000079 Trier, Hauptbahnhof   01935                       % 04768 RGTR--
+*Z 04769 RGTR--                                             % 04769 RGTR--
+*L 118      200417050 500000079  00920  01010               % 04769 RGTR--
+*A ag 200417050 500000079 000006  00920  01010              % 04769 RGTR--
+*A me 200417050 500000079 000006  00920  01010              % 04769 RGTR--
+*R 1 500000079 200417050 500000079  00920  01010            % 04769 RGTR--
+*G RGB 200417050 500000079  00920  01010                    % 04769 RGTR--
+*A VE 200417050 500000079 000006  00920  01010              % 04769 RGTR--
+*I FD 200417050 500000079        0002096  00920  01010      % 04769 RGTR--
+200417050 Kirchberg, Gare rout         00920                % 04769 RGTR--
+180703008 Wasserbillig, Meseni  00939  00939                % 04769 RGTR--
+180703002 Wasserbillig, Cimeti  00943  00943                % 04769 RGTR--
+180703005 Wasserbillig, Op der  00944  00944                % 04769 RGTR--
+500000115 Igel, Kirche          00948 -00948                % 04769 RGTR--
+500000107 Zewen, Im Siebenborn  00951 -00951                % 04769 RGTR--
+500000138 Trier, Messepark P+R  00956 -00956                % 04769 RGTR--
+500000139 Trier, St. Matthias   00958 -00958                % 04769 RGTR--
+500000140 Trier, Südbahnhof     01001 -01001                % 04769 RGTR--
+500000141 Trier, Südallee/Kais  01002 -01002                % 04769 RGTR--
+500000148 Trier, Konstantin Ba  01006 -01006                % 04769 RGTR--
+500000079 Trier, Hauptbahnhof   01010                       % 04769 RGTR--
+*Z 04770 RGTR--                                             % 04770 RGTR--
+*L 118      200417050 500000079  01220  01310               % 04770 RGTR--
+*A ag 200417050 500000079 000006  01220  01310              % 04770 RGTR--
+*A me 200417050 500000079 000006  01220  01310              % 04770 RGTR--
+*R 1 500000079 200417050 500000079  01220  01310            % 04770 RGTR--
+*G RGB 200417050 500000079  01220  01310                    % 04770 RGTR--
+*A VE 200417050 500000079 000006  01220  01310              % 04770 RGTR--
+*I FD 200417050 500000079        0002102  01220  01310      % 04770 RGTR--
+200417050 Kirchberg, Gare rout         01220                % 04770 RGTR--
+180703008 Wasserbillig, Meseni  01239  01239                % 04770 RGTR--
+180703002 Wasserbillig, Cimeti  01243  01243                % 04770 RGTR--
+180703005 Wasserbillig, Op der  01244  01244                % 04770 RGTR--
+500000115 Igel, Kirche          01248 -01248                % 04770 RGTR--
+500000107 Zewen, Im Siebenborn  01251 -01251                % 04770 RGTR--
+500000138 Trier, Messepark P+R  01256 -01256                % 04770 RGTR--
+500000139 Trier, St. Matthias   01258 -01258                % 04770 RGTR--
+500000140 Trier, Südbahnhof     01301 -01301                % 04770 RGTR--
+500000141 Trier, Südallee/Kais  01302 -01302                % 04770 RGTR--
+500000148 Trier, Konstantin Ba  01306 -01306                % 04770 RGTR--
+500000079 Trier, Hauptbahnhof   01310                       % 04770 RGTR--
+*Z 04771 RGTR--                                             % 04771 RGTR--
+*L 118      200417050 500000079  01520  01610               % 04771 RGTR--
+*A ag 200417050 500000079 000006  01520  01610              % 04771 RGTR--
+*A me 200417050 500000079 000006  01520  01610              % 04771 RGTR--
+*R 1 500000079 200417050 500000079  01520  01610            % 04771 RGTR--
+*G RGB 200417050 500000079  01520  01610                    % 04771 RGTR--
+*A VE 200417050 500000079 000006  01520  01610              % 04771 RGTR--
+*I FD 200417050 500000079        0002111  01520  01610      % 04771 RGTR--
+200417050 Kirchberg, Gare rout         01520                % 04771 RGTR--
+180703008 Wasserbillig, Meseni  01539  01539                % 04771 RGTR--
+180703002 Wasserbillig, Cimeti  01543  01543                % 04771 RGTR--
+180703005 Wasserbillig, Op der  01544  01544                % 04771 RGTR--
+500000115 Igel, Kirche          01548 -01548                % 04771 RGTR--
+500000107 Zewen, Im Siebenborn  01551 -01551                % 04771 RGTR--
+500000138 Trier, Messepark P+R  01556 -01556                % 04771 RGTR--
+500000139 Trier, St. Matthias   01558 -01558                % 04771 RGTR--
+500000140 Trier, Südbahnhof     01601 -01601                % 04771 RGTR--
+500000141 Trier, Südallee/Kais  01602 -01602                % 04771 RGTR--
+500000148 Trier, Konstantin Ba  01606 -01606                % 04771 RGTR--
+500000079 Trier, Hauptbahnhof   01610                       % 04771 RGTR--
+*Z 04772 RGTR--                                             % 04772 RGTR--
+*L 118      200417050 500000079  01020  01110               % 04772 RGTR--
+*A ag 200417050 500000079 000016  01020  01110              % 04772 RGTR--
+*A me 200417050 500000079 000016  01020  01110              % 04772 RGTR--
+*R 1 500000079 200417050 500000079  01020  01110            % 04772 RGTR--
+*G RGB 200417050 500000079  01020  01110                    % 04772 RGTR--
+*A VE 200417050 500000079 000016  01020  01110              % 04772 RGTR--
+*I FD 200417050 500000079        0002101  01020  01110      % 04772 RGTR--
+200417050 Kirchberg, Gare rout         01020                % 04772 RGTR--
+180703008 Wasserbillig, Meseni  01039  01039                % 04772 RGTR--
+180703002 Wasserbillig, Cimeti  01043  01043                % 04772 RGTR--
+180703005 Wasserbillig, Op der  01044  01044                % 04772 RGTR--
+500000115 Igel, Kirche          01048 -01048                % 04772 RGTR--
+500000107 Zewen, Im Siebenborn  01051 -01051                % 04772 RGTR--
+500000138 Trier, Messepark P+R  01056 -01056                % 04772 RGTR--
+500000139 Trier, St. Matthias   01058 -01058                % 04772 RGTR--
+500000140 Trier, Südbahnhof     01101 -01101                % 04772 RGTR--
+500000141 Trier, Südallee/Kais  01102 -01102                % 04772 RGTR--
+500000148 Trier, Konstantin Ba  01106 -01106                % 04772 RGTR--
+500000079 Trier, Hauptbahnhof   01110                       % 04772 RGTR--
+*Z 04773 RGTR--                                             % 04773 RGTR--
+*L 118      200417050 500000079  01120  01210               % 04773 RGTR--
+*A ag 200417050 500000079 000016  01120  01210              % 04773 RGTR--
+*A me 200417050 500000079 000016  01120  01210              % 04773 RGTR--
+*R 1 500000079 200417050 500000079  01120  01210            % 04773 RGTR--
+*G RGB 200417050 500000079  01120  01210                    % 04773 RGTR--
+*A VE 200417050 500000079 000016  01120  01210              % 04773 RGTR--
+*I FD 200417050 500000079        0002106  01120  01210      % 04773 RGTR--
+200417050 Kirchberg, Gare rout         01120                % 04773 RGTR--
+180703008 Wasserbillig, Meseni  01139  01139                % 04773 RGTR--
+180703002 Wasserbillig, Cimeti  01143  01143                % 04773 RGTR--
+180703005 Wasserbillig, Op der  01144  01144                % 04773 RGTR--
+500000115 Igel, Kirche          01148 -01148                % 04773 RGTR--
+500000107 Zewen, Im Siebenborn  01151 -01151                % 04773 RGTR--
+500000138 Trier, Messepark P+R  01156 -01156                % 04773 RGTR--
+500000139 Trier, St. Matthias   01158 -01158                % 04773 RGTR--
+500000140 Trier, Südbahnhof     01201 -01201                % 04773 RGTR--
+500000141 Trier, Südallee/Kais  01202 -01202                % 04773 RGTR--
+500000148 Trier, Konstantin Ba  01206 -01206                % 04773 RGTR--
+500000079 Trier, Hauptbahnhof   01210                       % 04773 RGTR--
+*Z 04774 RGTR--                                             % 04774 RGTR--
+*L 118      200417050 500000079  01320  01410               % 04774 RGTR--
+*A ag 200417050 500000079 000016  01320  01410              % 04774 RGTR--
+*A me 200417050 500000079 000016  01320  01410              % 04774 RGTR--
+*R 1 500000079 200417050 500000079  01320  01410            % 04774 RGTR--
+*G RGB 200417050 500000079  01320  01410                    % 04774 RGTR--
+*A VE 200417050 500000079 000016  01320  01410              % 04774 RGTR--
+*I FD 200417050 500000079        0002108  01320  01410      % 04774 RGTR--
+200417050 Kirchberg, Gare rout         01320                % 04774 RGTR--
+180703008 Wasserbillig, Meseni  01339  01339                % 04774 RGTR--
+180703002 Wasserbillig, Cimeti  01343  01343                % 04774 RGTR--
+180703005 Wasserbillig, Op der  01344  01344                % 04774 RGTR--
+500000115 Igel, Kirche          01348 -01348                % 04774 RGTR--
+500000107 Zewen, Im Siebenborn  01351 -01351                % 04774 RGTR--
+500000138 Trier, Messepark P+R  01356 -01356                % 04774 RGTR--
+500000139 Trier, St. Matthias   01358 -01358                % 04774 RGTR--
+500000140 Trier, Südbahnhof     01401 -01401                % 04774 RGTR--
+500000141 Trier, Südallee/Kais  01402 -01402                % 04774 RGTR--
+500000148 Trier, Konstantin Ba  01406 -01406                % 04774 RGTR--
+500000079 Trier, Hauptbahnhof   01410                       % 04774 RGTR--
+*Z 04775 RGTR--                                             % 04775 RGTR--
+*L 118      200417050 500000079  01435  01525               % 04775 RGTR--
+*A ag 200417050 500000079 000016  01435  01525              % 04775 RGTR--
+*A me 200417050 500000079 000016  01435  01525              % 04775 RGTR--
+*R 1 500000079 200417050 500000079  01435  01525            % 04775 RGTR--
+*G RGB 200417050 500000079  01435  01525                    % 04775 RGTR--
+*A VE 200417050 500000079 000016  01435  01525              % 04775 RGTR--
+*I FD 200417050 500000079        0002110  01435  01525      % 04775 RGTR--
+200417050 Kirchberg, Gare rout         01435                % 04775 RGTR--
+180703008 Wasserbillig, Meseni  01454  01454                % 04775 RGTR--
+180703002 Wasserbillig, Cimeti  01457  01457                % 04775 RGTR--
+180703005 Wasserbillig, Op der  01459  01459                % 04775 RGTR--
+500000115 Igel, Kirche          01503 -01503                % 04775 RGTR--
+500000107 Zewen, Im Siebenborn  01506 -01506                % 04775 RGTR--
+500000138 Trier, Messepark P+R  01511 -01511                % 04775 RGTR--
+500000139 Trier, St. Matthias   01513 -01513                % 04775 RGTR--
+500000140 Trier, Südbahnhof     01515 -01515                % 04775 RGTR--
+500000141 Trier, Südallee/Kais  01517 -01517                % 04775 RGTR--
+500000148 Trier, Konstantin Ba  01521 -01521                % 04775 RGTR--
+500000079 Trier, Hauptbahnhof   01525                       % 04775 RGTR--
+*Z 04776 RGTR--                                             % 04776 RGTR--
+*L 118      200417050 500000079  01850  01940               % 04776 RGTR--
+*A ag 200417050 500000079 000016  01850  01940              % 04776 RGTR--
+*A me 200417050 500000079 000016  01850  01940              % 04776 RGTR--
+*R 1 500000079 200417050 500000079  01850  01940            % 04776 RGTR--
+*G RGB 200417050 500000079  01850  01940                    % 04776 RGTR--
+*A VE 200417050 500000079 000016  01850  01940              % 04776 RGTR--
+*I FD 200417050 500000079        0002112  01850  01940      % 04776 RGTR--
+200417050 Kirchberg, Gare rout         01850                % 04776 RGTR--
+180703008 Wasserbillig, Meseni  01909  01909                % 04776 RGTR--
+180703002 Wasserbillig, Cimeti  01913  01913                % 04776 RGTR--
+180703005 Wasserbillig, Op der  01914  01914                % 04776 RGTR--
+500000115 Igel, Kirche          01918 -01918                % 04776 RGTR--
+500000107 Zewen, Im Siebenborn  01921 -01921                % 04776 RGTR--
+500000138 Trier, Messepark P+R  01926 -01926                % 04776 RGTR--
+500000139 Trier, St. Matthias   01928 -01928                % 04776 RGTR--
+500000140 Trier, Südbahnhof     01931 -01931                % 04776 RGTR--
+500000141 Trier, Südallee/Kais  01932 -01932                % 04776 RGTR--
+500000148 Trier, Konstantin Ba  01936 -01936                % 04776 RGTR--
+500000079 Trier, Hauptbahnhof   01940                       % 04776 RGTR--
+*Z 04777 RGTR--                                             % 04777 RGTR--
+*L 118      200417050 500000079  01920  02010               % 04777 RGTR--
+*A ag 200417050 500000079 000016  01920  02010              % 04777 RGTR--
+*A me 200417050 500000079 000016  01920  02010              % 04777 RGTR--
+*R 1 500000079 200417050 500000079  01920  02010            % 04777 RGTR--
+*G RGB 200417050 500000079  01920  02010                    % 04777 RGTR--
+*A VE 200417050 500000079 000016  01920  02010              % 04777 RGTR--
+*I FD 200417050 500000079        0002113  01920  02010      % 04777 RGTR--
+200417050 Kirchberg, Gare rout         01920                % 04777 RGTR--
+180703008 Wasserbillig, Meseni  01939  01939                % 04777 RGTR--
+180703002 Wasserbillig, Cimeti  01943  01943                % 04777 RGTR--
+180703005 Wasserbillig, Op der  01944  01944                % 04777 RGTR--
+500000115 Igel, Kirche          01948 -01948                % 04777 RGTR--
+500000107 Zewen, Im Siebenborn  01951 -01951                % 04777 RGTR--
+500000138 Trier, Messepark P+R  01956 -01956                % 04777 RGTR--
+500000139 Trier, St. Matthias   01958 -01958                % 04777 RGTR--
+500000140 Trier, Südbahnhof     02001 -02001                % 04777 RGTR--
+500000141 Trier, Südallee/Kais  02002 -02002                % 04777 RGTR--
+500000148 Trier, Konstantin Ba  02006 -02006                % 04777 RGTR--
+500000079 Trier, Hauptbahnhof   02010                       % 04777 RGTR--
+*Z 04778 RGTR--                                             % 04778 RGTR--
+*L 118      200417050 500000079  01950  02040               % 04778 RGTR--
+*A ag 200417050 500000079 000016  01950  02040              % 04778 RGTR--
+*A me 200417050 500000079 000016  01950  02040              % 04778 RGTR--
+*R 1 500000079 200417050 500000079  01950  02040            % 04778 RGTR--
+*G RGB 200417050 500000079  01950  02040                    % 04778 RGTR--
+*A VE 200417050 500000079 000016  01950  02040              % 04778 RGTR--
+*I FD 200417050 500000079        0002359  01950  02040      % 04778 RGTR--
+200417050 Kirchberg, Gare rout         01950                % 04778 RGTR--
+180703008 Wasserbillig, Meseni  02009  02009                % 04778 RGTR--
+180703002 Wasserbillig, Cimeti  02013  02013                % 04778 RGTR--
+180703005 Wasserbillig, Op der  02014  02014                % 04778 RGTR--
+500000115 Igel, Kirche          02018 -02018                % 04778 RGTR--
+500000107 Zewen, Im Siebenborn  02021 -02021                % 04778 RGTR--
+500000138 Trier, Messepark P+R  02026 -02026                % 04778 RGTR--
+500000139 Trier, St. Matthias   02028 -02028                % 04778 RGTR--
+500000140 Trier, Südbahnhof     02031 -02031                % 04778 RGTR--
+500000141 Trier, Südallee/Kais  02032 -02032                % 04778 RGTR--
+500000148 Trier, Konstantin Ba  02036 -02036                % 04778 RGTR--
+500000079 Trier, Hauptbahnhof   02040                       % 04778 RGTR--
+*Z 04779 RGTR--                                             % 04779 RGTR--
+*L 118      200417050 500000079  02020  02110               % 04779 RGTR--
+*A ag 200417050 500000079 000016  02020  02110              % 04779 RGTR--
+*A me 200417050 500000079 000016  02020  02110              % 04779 RGTR--
+*R 1 500000079 200417050 500000079  02020  02110            % 04779 RGTR--
+*G RGB 200417050 500000079  02020  02110                    % 04779 RGTR--
+*A VE 200417050 500000079 000016  02020  02110              % 04779 RGTR--
+*I FD 200417050 500000079        0002070  02020  02110      % 04779 RGTR--
+200417050 Kirchberg, Gare rout         02020                % 04779 RGTR--
+180703008 Wasserbillig, Meseni  02039  02039                % 04779 RGTR--
+180703002 Wasserbillig, Cimeti  02043  02043                % 04779 RGTR--
+180703005 Wasserbillig, Op der  02044  02044                % 04779 RGTR--
+500000115 Igel, Kirche          02048 -02048                % 04779 RGTR--
+500000107 Zewen, Im Siebenborn  02051 -02051                % 04779 RGTR--
+500000138 Trier, Messepark P+R  02056 -02056                % 04779 RGTR--
+500000139 Trier, St. Matthias   02058 -02058                % 04779 RGTR--
+500000140 Trier, Südbahnhof     02101 -02101                % 04779 RGTR--
+500000141 Trier, Südallee/Kais  02102 -02102                % 04779 RGTR--
+500000148 Trier, Konstantin Ba  02106 -02106                % 04779 RGTR--
+500000079 Trier, Hauptbahnhof   02110                       % 04779 RGTR--
+*Z 04780 RGTR--                                             % 04780 RGTR--
+*L 118      200417050 500000079  02050  02140               % 04780 RGTR--
+*A ag 200417050 500000079 000016  02050  02140              % 04780 RGTR--
+*A me 200417050 500000079 000016  02050  02140              % 04780 RGTR--
+*R 1 500000079 200417050 500000079  02050  02140            % 04780 RGTR--
+*G RGB 200417050 500000079  02050  02140                    % 04780 RGTR--
+*A VE 200417050 500000079 000016  02050  02140              % 04780 RGTR--
+*I FD 200417050 500000079        0002360  02050  02140      % 04780 RGTR--
+200417050 Kirchberg, Gare rout         02050                % 04780 RGTR--
+180703008 Wasserbillig, Meseni  02109  02109                % 04780 RGTR--
+180703002 Wasserbillig, Cimeti  02113  02113                % 04780 RGTR--
+180703005 Wasserbillig, Op der  02114  02114                % 04780 RGTR--
+500000115 Igel, Kirche          02118 -02118                % 04780 RGTR--
+500000107 Zewen, Im Siebenborn  02121 -02121                % 04780 RGTR--
+500000138 Trier, Messepark P+R  02126 -02126                % 04780 RGTR--
+500000139 Trier, St. Matthias   02128 -02128                % 04780 RGTR--
+500000140 Trier, Südbahnhof     02131 -02131                % 04780 RGTR--
+500000141 Trier, Südallee/Kais  02132 -02132                % 04780 RGTR--
+500000148 Trier, Konstantin Ba  02136 -02136                % 04780 RGTR--
+500000079 Trier, Hauptbahnhof   02140                       % 04780 RGTR--
+*Z 04781 RGTR--                                             % 04781 RGTR--
+*L 118      200417050 500000079  02120  02210               % 04781 RGTR--
+*A ag 200417050 500000079 000016  02120  02210              % 04781 RGTR--
+*A me 200417050 500000079 000016  02120  02210              % 04781 RGTR--
+*R 1 500000079 200417050 500000079  02120  02210            % 04781 RGTR--
+*G RGB 200417050 500000079  02120  02210                    % 04781 RGTR--
+*A VE 200417050 500000079 000016  02120  02210              % 04781 RGTR--
+*I FD 200417050 500000079        0002114  02120  02210      % 04781 RGTR--
+200417050 Kirchberg, Gare rout         02120                % 04781 RGTR--
+180703008 Wasserbillig, Meseni  02139  02139                % 04781 RGTR--
+180703002 Wasserbillig, Cimeti  02143  02143                % 04781 RGTR--
+180703005 Wasserbillig, Op der  02144  02144                % 04781 RGTR--
+500000115 Igel, Kirche          02148 -02148                % 04781 RGTR--
+500000107 Zewen, Im Siebenborn  02151 -02151                % 04781 RGTR--
+500000138 Trier, Messepark P+R  02156 -02156                % 04781 RGTR--
+500000139 Trier, St. Matthias   02158 -02158                % 04781 RGTR--
+500000140 Trier, Südbahnhof     02201 -02201                % 04781 RGTR--
+500000141 Trier, Südallee/Kais  02202 -02202                % 04781 RGTR--
+500000148 Trier, Konstantin Ba  02206 -02206                % 04781 RGTR--
+500000079 Trier, Hauptbahnhof   02210                       % 04781 RGTR--
+*Z 04782 RGTR--                                             % 04782 RGTR--
+*L 118      200417050 500000079  02150  02240               % 04782 RGTR--
+*A ag 200417050 500000079 000016  02150  02240              % 04782 RGTR--
+*A me 200417050 500000079 000016  02150  02240              % 04782 RGTR--
+*R 1 500000079 200417050 500000079  02150  02240            % 04782 RGTR--
+*G RGB 200417050 500000079  02150  02240                    % 04782 RGTR--
+*A VE 200417050 500000079 000016  02150  02240              % 04782 RGTR--
+*I FD 200417050 500000079        0002361  02150  02240      % 04782 RGTR--
+200417050 Kirchberg, Gare rout         02150                % 04782 RGTR--
+180703008 Wasserbillig, Meseni  02209  02209                % 04782 RGTR--
+180703002 Wasserbillig, Cimeti  02213  02213                % 04782 RGTR--
+180703005 Wasserbillig, Op der  02214  02214                % 04782 RGTR--
+500000115 Igel, Kirche          02218 -02218                % 04782 RGTR--
+500000107 Zewen, Im Siebenborn  02221 -02221                % 04782 RGTR--
+500000138 Trier, Messepark P+R  02226 -02226                % 04782 RGTR--
+500000139 Trier, St. Matthias   02228 -02228                % 04782 RGTR--
+500000140 Trier, Südbahnhof     02231 -02231                % 04782 RGTR--
+500000141 Trier, Südallee/Kais  02232 -02232                % 04782 RGTR--
+500000148 Trier, Konstantin Ba  02236 -02236                % 04782 RGTR--
+500000079 Trier, Hauptbahnhof   02240                       % 04782 RGTR--
+*Z 04783 RGTR--                                             % 04783 RGTR--
+*L 118      200417050 500000079  02220  02310               % 04783 RGTR--
+*A ag 200417050 500000079 000016  02220  02310              % 04783 RGTR--
+*A me 200417050 500000079 000016  02220  02310              % 04783 RGTR--
+*R 1 500000079 200417050 500000079  02220  02310            % 04783 RGTR--
+*G RGB 200417050 500000079  02220  02310                    % 04783 RGTR--
+*A VE 200417050 500000079 000016  02220  02310              % 04783 RGTR--
+*I FD 200417050 500000079        0002115  02220  02310      % 04783 RGTR--
+200417050 Kirchberg, Gare rout         02220                % 04783 RGTR--
+180703008 Wasserbillig, Meseni  02239  02239                % 04783 RGTR--
+180703002 Wasserbillig, Cimeti  02243  02243                % 04783 RGTR--
+180703005 Wasserbillig, Op der  02244  02244                % 04783 RGTR--
+500000115 Igel, Kirche          02248 -02248                % 04783 RGTR--
+500000107 Zewen, Im Siebenborn  02251 -02251                % 04783 RGTR--
+500000138 Trier, Messepark P+R  02256 -02256                % 04783 RGTR--
+500000139 Trier, St. Matthias   02258 -02258                % 04783 RGTR--
+500000140 Trier, Südbahnhof     02301 -02301                % 04783 RGTR--
+500000141 Trier, Südallee/Kais  02302 -02302                % 04783 RGTR--
+500000148 Trier, Konstantin Ba  02306 -02306                % 04783 RGTR--
+500000079 Trier, Hauptbahnhof   02310                       % 04783 RGTR--
+*Z 04784 RGTR--                                             % 04784 RGTR--
+*L 118      200417050 500000079  02250  02340               % 04784 RGTR--
+*A ag 200417050 500000079 000016  02250  02340              % 04784 RGTR--
+*A me 200417050 500000079 000016  02250  02340              % 04784 RGTR--
+*R 1 500000079 200417050 500000079  02250  02340            % 04784 RGTR--
+*G RGB 200417050 500000079  02250  02340                    % 04784 RGTR--
+*A VE 200417050 500000079 000016  02250  02340              % 04784 RGTR--
+*I FD 200417050 500000079        0002362  02250  02340      % 04784 RGTR--
+200417050 Kirchberg, Gare rout         02250                % 04784 RGTR--
+180703008 Wasserbillig, Meseni  02309  02309                % 04784 RGTR--
+180703002 Wasserbillig, Cimeti  02313  02313                % 04784 RGTR--
+180703005 Wasserbillig, Op der  02314  02314                % 04784 RGTR--
+500000115 Igel, Kirche          02318 -02318                % 04784 RGTR--
+500000107 Zewen, Im Siebenborn  02321 -02321                % 04784 RGTR--
+500000138 Trier, Messepark P+R  02326 -02326                % 04784 RGTR--
+500000139 Trier, St. Matthias   02328 -02328                % 04784 RGTR--
+500000140 Trier, Südbahnhof     02331 -02331                % 04784 RGTR--
+500000141 Trier, Südallee/Kais  02332 -02332                % 04784 RGTR--
+500000148 Trier, Konstantin Ba  02336 -02336                % 04784 RGTR--
+500000079 Trier, Hauptbahnhof   02340                       % 04784 RGTR--
+*Z 04785 RGTR--                                             % 04785 RGTR--
+*L 118      200417050 500000079  02320  02410               % 04785 RGTR--
+*A ag 200417050 500000079 000016  02320  02410              % 04785 RGTR--
+*A me 200417050 500000079 000016  02320  02410              % 04785 RGTR--
+*R 1 500000079 200417050 500000079  02320  02410            % 04785 RGTR--
+*G RGB 200417050 500000079  02320  02410                    % 04785 RGTR--
+*A VE 200417050 500000079 000016  02320  02410              % 04785 RGTR--
+*I FD 200417050 500000079        0002116  02320  02410      % 04785 RGTR--
+200417050 Kirchberg, Gare rout         02320                % 04785 RGTR--
+180703008 Wasserbillig, Meseni  02339  02339                % 04785 RGTR--
+180703002 Wasserbillig, Cimeti  02343  02343                % 04785 RGTR--
+180703005 Wasserbillig, Op der  02344  02344                % 04785 RGTR--
+500000115 Igel, Kirche          02348 -02348                % 04785 RGTR--
+500000107 Zewen, Im Siebenborn  02351 -02351                % 04785 RGTR--
+500000138 Trier, Messepark P+R  02356 -02356                % 04785 RGTR--
+500000139 Trier, St. Matthias   02358 -02358                % 04785 RGTR--
+500000140 Trier, Südbahnhof     02401 -02401                % 04785 RGTR--
+500000141 Trier, Südallee/Kais  02402 -02402                % 04785 RGTR--
+500000148 Trier, Konstantin Ba  02406 -02406                % 04785 RGTR--
+500000079 Trier, Hauptbahnhof   02410                       % 04785 RGTR--
+*Z 04786 RGTR--                                             % 04786 RGTR--
+*L 118      500000079 200417050  00549  00643               % 04786 RGTR--
+*A ag 500000079 200417050 000016  00549  00643              % 04786 RGTR--
+*A af 500000079 200417050 000016  00549  00643              % 04786 RGTR--
+*R 2 200417050 500000079 200417050  00549  00643            % 04786 RGTR--
+*G RGB 500000079 200417050  00549  00643                    % 04786 RGTR--
+*A VE 500000079 200417050 000016  00549  00643              % 04786 RGTR--
+*I FD 500000079 200417050        0003400  00549  00643      % 04786 RGTR--
+500000079 Trier, Hauptbahnhof          00549                % 04786 RGTR--
+500000148 Trier, Konstantin Ba -00552  00552                % 04786 RGTR--
+500000141 Trier, Südallee/Kais -00556  00556                % 04786 RGTR--
+500000140 Trier, Südbahnhof    -00559  00559                % 04786 RGTR--
+500000139 Trier, St. Matthias  -00600  00600                % 04786 RGTR--
+500000138 Trier, Messepark P+R -00601  00601                % 04786 RGTR--
+500000107 Zewen, Im Siebenborn -00605  00605                % 04786 RGTR--
+500000115 Igel, Kirche         -00608  00608                % 04786 RGTR--
+180703005 Wasserbillig, Op der  00612  00612                % 04786 RGTR--
+180703003 Wasserbillig, Gare    00613  00613                % 04786 RGTR--
+180703004 Wasserbillig, Marais  00614  00614                % 04786 RGTR--
+180701002 Mertert, Copal        00615  00615                % 04786 RGTR--
+180701006 Mertert, route Natio  00615  00615                % 04786 RGTR--
+200417050 Kirchberg, Gare rout  00643                       % 04786 RGTR--
+*Z 04787 RGTR--                                             % 04787 RGTR--
+*L 118      500000079 200417050  00604  00658               % 04787 RGTR--
+*A ag 500000079 200417050 000016  00604  00658              % 04787 RGTR--
+*A af 500000079 200417050 000016  00604  00658              % 04787 RGTR--
+*R 2 200417050 500000079 200417050  00604  00658            % 04787 RGTR--
+*G RGB 500000079 200417050  00604  00658                    % 04787 RGTR--
+*A VE 500000079 200417050 000016  00604  00658              % 04787 RGTR--
+*I FD 500000079 200417050        0002248  00604  00658      % 04787 RGTR--
+500000079 Trier, Hauptbahnhof          00604                % 04787 RGTR--
+500000148 Trier, Konstantin Ba -00607  00607                % 04787 RGTR--
+500000141 Trier, Südallee/Kais -00611  00611                % 04787 RGTR--
+500000140 Trier, Südbahnhof    -00614  00614                % 04787 RGTR--
+500000139 Trier, St. Matthias  -00615  00615                % 04787 RGTR--
+500000138 Trier, Messepark P+R -00616  00616                % 04787 RGTR--
+500000107 Zewen, Im Siebenborn -00620  00620                % 04787 RGTR--
+500000115 Igel, Kirche         -00623  00623                % 04787 RGTR--
+180703005 Wasserbillig, Op der  00627  00627                % 04787 RGTR--
+180703003 Wasserbillig, Gare    00628  00628                % 04787 RGTR--
+180703004 Wasserbillig, Marais  00629  00629                % 04787 RGTR--
+180701002 Mertert, Copal        00630  00630                % 04787 RGTR--
+180701006 Mertert, route Natio  00630  00630                % 04787 RGTR--
+200417050 Kirchberg, Gare rout  00658                       % 04787 RGTR--
+*Z 04788 RGTR--                                             % 04788 RGTR--
+*L 118      500000079 200417050  00618  00720               % 04788 RGTR--
+*A ag 500000079 200417050 000016  00618  00720              % 04788 RGTR--
+*A af 500000079 200417050 000016  00618  00720              % 04788 RGTR--
+*R 2 200417050 500000079 200417050  00618  00720            % 04788 RGTR--
+*G RGB 500000079 200417050  00618  00720                    % 04788 RGTR--
+*A VE 500000079 200417050 000016  00618  00720              % 04788 RGTR--
+*I FD 500000079 200417050        0003071  00618  00720      % 04788 RGTR--
+500000079 Trier, Hauptbahnhof          00618                % 04788 RGTR--
+500000148 Trier, Konstantin Ba -00622  00622                % 04788 RGTR--
+500000141 Trier, Südallee/Kais -00627  00627                % 04788 RGTR--
+500000140 Trier, Südbahnhof    -00630  00630                % 04788 RGTR--
+500000139 Trier, St. Matthias  -00631  00631                % 04788 RGTR--
+500000138 Trier, Messepark P+R -00633  00633                % 04788 RGTR--
+500000107 Zewen, Im Siebenborn -00637  00637                % 04788 RGTR--
+500000115 Igel, Kirche         -00642  00642                % 04788 RGTR--
+180703005 Wasserbillig, Op der  00646  00646                % 04788 RGTR--
+180703003 Wasserbillig, Gare    00647  00647                % 04788 RGTR--
+180703004 Wasserbillig, Marais  00648  00648                % 04788 RGTR--
+180701002 Mertert, Copal        00649  00649                % 04788 RGTR--
+180701006 Mertert, route Natio  00650  00650                % 04788 RGTR--
+200417050 Kirchberg, Gare rout  00720                       % 04788 RGTR--
+*Z 04789 RGTR--                                             % 04789 RGTR--
+*L 118      500000079 200417050  00628  00730               % 04789 RGTR--
+*A ag 500000079 200417050 000016  00628  00730              % 04789 RGTR--
+*A af 500000079 200417050 000016  00628  00730              % 04789 RGTR--
+*R 2 200417050 500000079 200417050  00628  00730            % 04789 RGTR--
+*G RGB 500000079 200417050  00628  00730                    % 04789 RGTR--
+*A VE 500000079 200417050 000016  00628  00730              % 04789 RGTR--
+*I FD 500000079 200417050        0000989  00628  00730      % 04789 RGTR--
+500000079 Trier, Hauptbahnhof          00628                % 04789 RGTR--
+500000148 Trier, Konstantin Ba -00632  00632                % 04789 RGTR--
+500000141 Trier, Südallee/Kais -00637  00637                % 04789 RGTR--
+500000140 Trier, Südbahnhof    -00640  00640                % 04789 RGTR--
+500000139 Trier, St. Matthias  -00641  00641                % 04789 RGTR--
+500000138 Trier, Messepark P+R -00643  00643                % 04789 RGTR--
+500000107 Zewen, Im Siebenborn -00647  00647                % 04789 RGTR--
+500000115 Igel, Kirche         -00652  00652                % 04789 RGTR--
+180703005 Wasserbillig, Op der  00656  00656                % 04789 RGTR--
+180703003 Wasserbillig, Gare    00657  00657                % 04789 RGTR--
+180703004 Wasserbillig, Marais  00658  00658                % 04789 RGTR--
+180701002 Mertert, Copal        00659  00659                % 04789 RGTR--
+180701006 Mertert, route Natio  00700  00700                % 04789 RGTR--
+200417050 Kirchberg, Gare rout  00730                       % 04789 RGTR--
+*Z 04790 RGTR--                                             % 04790 RGTR--
+*L 118      500000079 200417050  00633  00735               % 04790 RGTR--
+*A ag 500000079 200417050 000016  00633  00735              % 04790 RGTR--
+*A af 500000079 200417050 000016  00633  00735              % 04790 RGTR--
+*R 2 200417050 500000079 200417050  00633  00735            % 04790 RGTR--
+*G RGB 500000079 200417050  00633  00735                    % 04790 RGTR--
+*A VE 500000079 200417050 000016  00633  00735              % 04790 RGTR--
+*I FD 500000079 200417050        0002277  00633  00735      % 04790 RGTR--
+500000079 Trier, Hauptbahnhof          00633                % 04790 RGTR--
+500000148 Trier, Konstantin Ba -00637  00637                % 04790 RGTR--
+500000141 Trier, Südallee/Kais -00642  00642                % 04790 RGTR--
+500000140 Trier, Südbahnhof    -00645  00645                % 04790 RGTR--
+500000139 Trier, St. Matthias  -00646  00646                % 04790 RGTR--
+500000138 Trier, Messepark P+R -00648  00648                % 04790 RGTR--
+500000107 Zewen, Im Siebenborn -00652  00652                % 04790 RGTR--
+500000115 Igel, Kirche         -00657  00657                % 04790 RGTR--
+180703005 Wasserbillig, Op der  00701  00701                % 04790 RGTR--
+180703003 Wasserbillig, Gare    00702  00702                % 04790 RGTR--
+180703004 Wasserbillig, Marais  00703  00703                % 04790 RGTR--
+180701002 Mertert, Copal        00704  00704                % 04790 RGTR--
+180701006 Mertert, route Natio  00705  00705                % 04790 RGTR--
+200417050 Kirchberg, Gare rout  00735                       % 04790 RGTR--
+*Z 04791 RGTR--                                             % 04791 RGTR--
+*L 118      500000079 200417050  00638  00740               % 04791 RGTR--
+*A ag 500000079 200417050 000016  00638  00740              % 04791 RGTR--
+*A af 500000079 200417050 000016  00638  00740              % 04791 RGTR--
+*R 2 200417050 500000079 200417050  00638  00740            % 04791 RGTR--
+*G RGB 500000079 200417050  00638  00740                    % 04791 RGTR--
+*A VE 500000079 200417050 000016  00638  00740              % 04791 RGTR--
+*I FD 500000079 200417050        0002634  00638  00740      % 04791 RGTR--
+500000079 Trier, Hauptbahnhof          00638                % 04791 RGTR--
+500000148 Trier, Konstantin Ba -00642  00642                % 04791 RGTR--
+500000141 Trier, Südallee/Kais -00647  00647                % 04791 RGTR--
+500000140 Trier, Südbahnhof    -00650  00650                % 04791 RGTR--
+500000139 Trier, St. Matthias  -00651  00651                % 04791 RGTR--
+500000138 Trier, Messepark P+R -00653  00653                % 04791 RGTR--
+500000107 Zewen, Im Siebenborn -00657  00657                % 04791 RGTR--
+500000115 Igel, Kirche         -00702  00702                % 04791 RGTR--
+180703005 Wasserbillig, Op der  00706  00706                % 04791 RGTR--
+180703003 Wasserbillig, Gare    00707  00707                % 04791 RGTR--
+180703004 Wasserbillig, Marais  00708  00708                % 04791 RGTR--
+180701002 Mertert, Copal        00709  00709                % 04791 RGTR--
+180701006 Mertert, route Natio  00710  00710                % 04791 RGTR--
+200417050 Kirchberg, Gare rout  00740                       % 04791 RGTR--
+*Z 04792 RGTR--                                             % 04792 RGTR--
+*L 118      500000079 200417050  00643  00745               % 04792 RGTR--
+*A ag 500000079 200417050 000016  00643  00745              % 04792 RGTR--
+*A af 500000079 200417050 000016  00643  00745              % 04792 RGTR--
+*R 2 200417050 500000079 200417050  00643  00745            % 04792 RGTR--
+*G RGB 500000079 200417050  00643  00745                    % 04792 RGTR--
+*A VE 500000079 200417050 000016  00643  00745              % 04792 RGTR--
+*I FD 500000079 200417050        0003187  00643  00745      % 04792 RGTR--
+500000079 Trier, Hauptbahnhof          00643                % 04792 RGTR--
+500000148 Trier, Konstantin Ba -00647  00647                % 04792 RGTR--
+500000141 Trier, Südallee/Kais -00652  00652                % 04792 RGTR--
+500000140 Trier, Südbahnhof    -00655  00655                % 04792 RGTR--
+500000139 Trier, St. Matthias  -00656  00656                % 04792 RGTR--
+500000138 Trier, Messepark P+R -00658  00658                % 04792 RGTR--
+500000107 Zewen, Im Siebenborn -00702  00702                % 04792 RGTR--
+500000115 Igel, Kirche         -00707  00707                % 04792 RGTR--
+180703005 Wasserbillig, Op der  00711  00711                % 04792 RGTR--
+180703003 Wasserbillig, Gare    00712  00712                % 04792 RGTR--
+180703004 Wasserbillig, Marais  00713  00713                % 04792 RGTR--
+180701002 Mertert, Copal        00714  00714                % 04792 RGTR--
+180701006 Mertert, route Natio  00715  00715                % 04792 RGTR--
+200417050 Kirchberg, Gare rout  00745                       % 04792 RGTR--
+*Z 04793 RGTR--                                             % 04793 RGTR--
+*L 118      500000079 200417050  00648  00750               % 04793 RGTR--
+*A ag 500000079 200417050 000016  00648  00750              % 04793 RGTR--
+*A af 500000079 200417050 000016  00648  00750              % 04793 RGTR--
+*R 2 200417050 500000079 200417050  00648  00750            % 04793 RGTR--
+*G RGB 500000079 200417050  00648  00750                    % 04793 RGTR--
+*A VE 500000079 200417050 000016  00648  00750              % 04793 RGTR--
+*I FD 500000079 200417050        0003019  00648  00750      % 04793 RGTR--
+500000079 Trier, Hauptbahnhof          00648                % 04793 RGTR--
+500000148 Trier, Konstantin Ba -00652  00652                % 04793 RGTR--
+500000141 Trier, Südallee/Kais -00657  00657                % 04793 RGTR--
+500000140 Trier, Südbahnhof    -00700  00700                % 04793 RGTR--
+500000139 Trier, St. Matthias  -00701  00701                % 04793 RGTR--
+500000138 Trier, Messepark P+R -00703  00703                % 04793 RGTR--
+500000107 Zewen, Im Siebenborn -00707  00707                % 04793 RGTR--
+500000115 Igel, Kirche         -00712  00712                % 04793 RGTR--
+180703005 Wasserbillig, Op der  00716  00716                % 04793 RGTR--
+180703003 Wasserbillig, Gare    00717  00717                % 04793 RGTR--
+180703004 Wasserbillig, Marais  00718  00718                % 04793 RGTR--
+180701002 Mertert, Copal        00719  00719                % 04793 RGTR--
+180701006 Mertert, route Natio  00720  00720                % 04793 RGTR--
+200417050 Kirchberg, Gare rout  00750                       % 04793 RGTR--
+*Z 04794 RGTR--                                             % 04794 RGTR--
+*L 118      500000079 200417050  00653  00755               % 04794 RGTR--
+*A ag 500000079 200417050 000016  00653  00755              % 04794 RGTR--
+*A af 500000079 200417050 000016  00653  00755              % 04794 RGTR--
+*R 2 200417050 500000079 200417050  00653  00755            % 04794 RGTR--
+*G RGB 500000079 200417050  00653  00755                    % 04794 RGTR--
+*A VE 500000079 200417050 000016  00653  00755              % 04794 RGTR--
+*I FD 500000079 200417050        0003401  00653  00755      % 04794 RGTR--
+500000079 Trier, Hauptbahnhof          00653                % 04794 RGTR--
+500000148 Trier, Konstantin Ba -00657  00657                % 04794 RGTR--
+500000141 Trier, Südallee/Kais -00702  00702                % 04794 RGTR--
+500000140 Trier, Südbahnhof    -00705  00705                % 04794 RGTR--
+500000139 Trier, St. Matthias  -00706  00706                % 04794 RGTR--
+500000138 Trier, Messepark P+R -00708  00708                % 04794 RGTR--
+500000107 Zewen, Im Siebenborn -00712  00712                % 04794 RGTR--
+500000115 Igel, Kirche         -00717  00717                % 04794 RGTR--
+180703005 Wasserbillig, Op der  00721  00721                % 04794 RGTR--
+180703003 Wasserbillig, Gare    00722  00722                % 04794 RGTR--
+180703004 Wasserbillig, Marais  00723  00723                % 04794 RGTR--
+180701002 Mertert, Copal        00724  00724                % 04794 RGTR--
+180701006 Mertert, route Natio  00725  00725                % 04794 RGTR--
+200417050 Kirchberg, Gare rout  00755                       % 04794 RGTR--
+*Z 04795 RGTR--                                             % 04795 RGTR--
+*L 118      500000079 200417050  00703  00805               % 04795 RGTR--
+*A ag 500000079 200417050 000016  00703  00805              % 04795 RGTR--
+*A af 500000079 200417050 000016  00703  00805              % 04795 RGTR--
+*R 2 200417050 500000079 200417050  00703  00805            % 04795 RGTR--
+*G RGB 500000079 200417050  00703  00805                    % 04795 RGTR--
+*A VE 500000079 200417050 000016  00703  00805              % 04795 RGTR--
+*I FD 500000079 200417050        0002276  00703  00805      % 04795 RGTR--
+500000079 Trier, Hauptbahnhof          00703                % 04795 RGTR--
+500000148 Trier, Konstantin Ba -00707  00707                % 04795 RGTR--
+500000141 Trier, Südallee/Kais -00712  00712                % 04795 RGTR--
+500000140 Trier, Südbahnhof    -00715  00715                % 04795 RGTR--
+500000139 Trier, St. Matthias  -00716  00716                % 04795 RGTR--
+500000138 Trier, Messepark P+R -00718  00718                % 04795 RGTR--
+500000107 Zewen, Im Siebenborn -00722  00722                % 04795 RGTR--
+500000115 Igel, Kirche         -00727  00727                % 04795 RGTR--
+180703005 Wasserbillig, Op der  00731  00731                % 04795 RGTR--
+180703003 Wasserbillig, Gare    00732  00732                % 04795 RGTR--
+180703004 Wasserbillig, Marais  00733  00733                % 04795 RGTR--
+180701002 Mertert, Copal        00734  00734                % 04795 RGTR--
+180701006 Mertert, route Natio  00735  00735                % 04795 RGTR--
+200417050 Kirchberg, Gare rout  00805                       % 04795 RGTR--
+*Z 04796 RGTR--                                             % 04796 RGTR--
+*L 118      500000079 200417050  00718  00820               % 04796 RGTR--
+*A ag 500000079 200417050 000016  00718  00820              % 04796 RGTR--
+*A af 500000079 200417050 000016  00718  00820              % 04796 RGTR--
+*R 2 200417050 500000079 200417050  00718  00820            % 04796 RGTR--
+*G RGB 500000079 200417050  00718  00820                    % 04796 RGTR--
+*A VE 500000079 200417050 000016  00718  00820              % 04796 RGTR--
+*I FD 500000079 200417050        0002575  00718  00820      % 04796 RGTR--
+500000079 Trier, Hauptbahnhof          00718                % 04796 RGTR--
+500000148 Trier, Konstantin Ba -00722  00722                % 04796 RGTR--
+500000141 Trier, Südallee/Kais -00727  00727                % 04796 RGTR--
+500000140 Trier, Südbahnhof    -00730  00730                % 04796 RGTR--
+500000139 Trier, St. Matthias  -00731  00731                % 04796 RGTR--
+500000138 Trier, Messepark P+R -00733  00733                % 04796 RGTR--
+500000107 Zewen, Im Siebenborn -00737  00737                % 04796 RGTR--
+500000115 Igel, Kirche         -00742  00742                % 04796 RGTR--
+180703005 Wasserbillig, Op der  00746  00746                % 04796 RGTR--
+180703003 Wasserbillig, Gare    00747  00747                % 04796 RGTR--
+180703004 Wasserbillig, Marais  00748  00748                % 04796 RGTR--
+180701002 Mertert, Copal        00749  00749                % 04796 RGTR--
+180701006 Mertert, route Natio  00750  00750                % 04796 RGTR--
+200417050 Kirchberg, Gare rout  00820                       % 04796 RGTR--
+*Z 04797 RGTR--                                             % 04797 RGTR--
+*L 118      500000079 200417050  00733  00835               % 04797 RGTR--
+*A ag 500000079 200417050 000016  00733  00835              % 04797 RGTR--
+*A af 500000079 200417050 000016  00733  00835              % 04797 RGTR--
+*R 2 200417050 500000079 200417050  00733  00835            % 04797 RGTR--
+*G RGB 500000079 200417050  00733  00835                    % 04797 RGTR--
+*A VE 500000079 200417050 000016  00733  00835              % 04797 RGTR--
+*I FD 500000079 200417050        0002278  00733  00835      % 04797 RGTR--
+500000079 Trier, Hauptbahnhof          00733                % 04797 RGTR--
+500000148 Trier, Konstantin Ba -00737  00737                % 04797 RGTR--
+500000141 Trier, Südallee/Kais -00742  00742                % 04797 RGTR--
+500000140 Trier, Südbahnhof    -00745  00745                % 04797 RGTR--
+500000139 Trier, St. Matthias  -00746  00746                % 04797 RGTR--
+500000138 Trier, Messepark P+R -00748  00748                % 04797 RGTR--
+500000107 Zewen, Im Siebenborn -00752  00752                % 04797 RGTR--
+500000115 Igel, Kirche         -00757  00757                % 04797 RGTR--
+180703005 Wasserbillig, Op der  00801  00801                % 04797 RGTR--
+180703003 Wasserbillig, Gare    00802  00802                % 04797 RGTR--
+180703004 Wasserbillig, Marais  00803  00803                % 04797 RGTR--
+180701002 Mertert, Copal        00804  00804                % 04797 RGTR--
+180701006 Mertert, route Natio  00805  00805                % 04797 RGTR--
+200417050 Kirchberg, Gare rout  00835                       % 04797 RGTR--
+*Z 04798 RGTR--                                             % 04798 RGTR--
+*L 118      500000079 200417050  00748  00850               % 04798 RGTR--
+*A ag 500000079 200417050 000016  00748  00850              % 04798 RGTR--
+*A af 500000079 200417050 000016  00748  00850              % 04798 RGTR--
+*R 2 200417050 500000079 200417050  00748  00850            % 04798 RGTR--
+*G RGB 500000079 200417050  00748  00850                    % 04798 RGTR--
+*A VE 500000079 200417050 000016  00748  00850              % 04798 RGTR--
+*I FD 500000079 200417050        0003402  00748  00850      % 04798 RGTR--
+500000079 Trier, Hauptbahnhof          00748                % 04798 RGTR--
+500000148 Trier, Konstantin Ba -00752  00752                % 04798 RGTR--
+500000141 Trier, Südallee/Kais -00757  00757                % 04798 RGTR--
+500000140 Trier, Südbahnhof    -00800  00800                % 04798 RGTR--
+500000139 Trier, St. Matthias  -00801  00801                % 04798 RGTR--
+500000138 Trier, Messepark P+R -00803  00803                % 04798 RGTR--
+500000107 Zewen, Im Siebenborn -00807  00807                % 04798 RGTR--
+500000115 Igel, Kirche         -00812  00812                % 04798 RGTR--
+180703005 Wasserbillig, Op der  00816  00816                % 04798 RGTR--
+180703003 Wasserbillig, Gare    00817  00817                % 04798 RGTR--
+180703004 Wasserbillig, Marais  00818  00818                % 04798 RGTR--
+180701002 Mertert, Copal        00819  00819                % 04798 RGTR--
+180701006 Mertert, route Natio  00820  00820                % 04798 RGTR--
+200417050 Kirchberg, Gare rout  00850                       % 04798 RGTR--
+*Z 04799 RGTR--                                             % 04799 RGTR--
+*L 118      500000079 200417050  00803  00905               % 04799 RGTR--
+*A ag 500000079 200417050 000016  00803  00905              % 04799 RGTR--
+*A af 500000079 200417050 000016  00803  00905              % 04799 RGTR--
+*R 2 200417050 500000079 200417050  00803  00905            % 04799 RGTR--
+*G RGB 500000079 200417050  00803  00905                    % 04799 RGTR--
+*A VE 500000079 200417050 000016  00803  00905              % 04799 RGTR--
+*I FD 500000079 200417050        0002612  00803  00905      % 04799 RGTR--
+500000079 Trier, Hauptbahnhof          00803                % 04799 RGTR--
+500000148 Trier, Konstantin Ba -00807  00807                % 04799 RGTR--
+500000141 Trier, Südallee/Kais -00812  00812                % 04799 RGTR--
+500000140 Trier, Südbahnhof    -00815  00815                % 04799 RGTR--
+500000139 Trier, St. Matthias  -00816  00816                % 04799 RGTR--
+500000138 Trier, Messepark P+R -00818  00818                % 04799 RGTR--
+500000107 Zewen, Im Siebenborn -00822  00822                % 04799 RGTR--
+500000115 Igel, Kirche         -00827  00827                % 04799 RGTR--
+180703005 Wasserbillig, Op der  00831  00831                % 04799 RGTR--
+180703003 Wasserbillig, Gare    00832  00832                % 04799 RGTR--
+180703004 Wasserbillig, Marais  00833  00833                % 04799 RGTR--
+180701002 Mertert, Copal        00834  00834                % 04799 RGTR--
+180701006 Mertert, route Natio  00835  00835                % 04799 RGTR--
+200417050 Kirchberg, Gare rout  00905                       % 04799 RGTR--
+*Z 04800 RGTR--                                             % 04800 RGTR--
+*L 118      500000079 200417050  01034  01126               % 04800 RGTR--
+*A ag 500000079 200417050 000006  01034  01126              % 04800 RGTR--
+*A af 500000079 200417050 000006  01034  01126              % 04800 RGTR--
+*R 2 200417050 500000079 200417050  01034  01126            % 04800 RGTR--
+*G RGB 500000079 200417050  01034  01126                    % 04800 RGTR--
+*A VE 500000079 200417050 000006  01034  01126              % 04800 RGTR--
+*I FD 500000079 200417050        0002518  01034  01126      % 04800 RGTR--
+500000079 Trier, Hauptbahnhof          01034                % 04800 RGTR--
+500000148 Trier, Konstantin Ba -01037  01037                % 04800 RGTR--
+500000141 Trier, Südallee/Kais -01041  01041                % 04800 RGTR--
+500000140 Trier, Südbahnhof    -01044  01044                % 04800 RGTR--
+500000139 Trier, St. Matthias  -01045  01045                % 04800 RGTR--
+500000138 Trier, Messepark P+R -01046  01046                % 04800 RGTR--
+500000107 Zewen, Im Siebenborn -01050  01050                % 04800 RGTR--
+500000115 Igel, Kirche         -01053  01053                % 04800 RGTR--
+180703005 Wasserbillig, Op der  01057  01057                % 04800 RGTR--
+180703002 Wasserbillig, Cimeti  01058  01058                % 04800 RGTR--
+180703008 Wasserbillig, Meseni  01103  01103                % 04800 RGTR--
+200417050 Kirchberg, Gare rout  01126                       % 04800 RGTR--
+*Z 04801 RGTR--                                             % 04801 RGTR--
+*L 118      500000079 200417050  01334  01426               % 04801 RGTR--
+*A ag 500000079 200417050 000006  01334  01426              % 04801 RGTR--
+*A af 500000079 200417050 000006  01334  01426              % 04801 RGTR--
+*R 2 200417050 500000079 200417050  01334  01426            % 04801 RGTR--
+*G RGB 500000079 200417050  01334  01426                    % 04801 RGTR--
+*A VE 500000079 200417050 000006  01334  01426              % 04801 RGTR--
+*I FD 500000079 200417050        0002520  01334  01426      % 04801 RGTR--
+500000079 Trier, Hauptbahnhof          01334                % 04801 RGTR--
+500000148 Trier, Konstantin Ba -01337  01337                % 04801 RGTR--
+500000141 Trier, Südallee/Kais -01341  01341                % 04801 RGTR--
+500000140 Trier, Südbahnhof    -01344  01344                % 04801 RGTR--
+500000139 Trier, St. Matthias  -01345  01345                % 04801 RGTR--
+500000138 Trier, Messepark P+R -01346  01346                % 04801 RGTR--
+500000107 Zewen, Im Siebenborn -01350  01350                % 04801 RGTR--
+500000115 Igel, Kirche         -01353  01353                % 04801 RGTR--
+180703005 Wasserbillig, Op der  01357  01357                % 04801 RGTR--
+180703002 Wasserbillig, Cimeti  01358  01358                % 04801 RGTR--
+180703008 Wasserbillig, Meseni  01403  01403                % 04801 RGTR--
+200417050 Kirchberg, Gare rout  01426                       % 04801 RGTR--
+*Z 04802 RGTR--                                             % 04802 RGTR--
+*L 118      500000079 200417050  00449  00541               % 04802 RGTR--
+*A ag 500000079 200417050 000016  00449  00541              % 04802 RGTR--
+*A af 500000079 200417050 000016  00449  00541              % 04802 RGTR--
+*R 2 200417050 500000079 200417050  00449  00541            % 04802 RGTR--
+*G RGB 500000079 200417050  00449  00541                    % 04802 RGTR--
+*A VE 500000079 200417050 000016  00449  00541              % 04802 RGTR--
+*I FD 500000079 200417050        0003403  00449  00541      % 04802 RGTR--
+500000079 Trier, Hauptbahnhof          00449                % 04802 RGTR--
+500000148 Trier, Konstantin Ba -00452  00452                % 04802 RGTR--
+500000141 Trier, Südallee/Kais -00456  00456                % 04802 RGTR--
+500000140 Trier, Südbahnhof    -00459  00459                % 04802 RGTR--
+500000139 Trier, St. Matthias  -00500  00500                % 04802 RGTR--
+500000138 Trier, Messepark P+R -00501  00501                % 04802 RGTR--
+500000107 Zewen, Im Siebenborn -00505  00505                % 04802 RGTR--
+500000115 Igel, Kirche         -00508  00508                % 04802 RGTR--
+180703005 Wasserbillig, Op der  00512  00512                % 04802 RGTR--
+180703002 Wasserbillig, Cimeti  00513  00513                % 04802 RGTR--
+180703008 Wasserbillig, Meseni  00518  00518                % 04802 RGTR--
+200417050 Kirchberg, Gare rout  00541                       % 04802 RGTR--
+*Z 04803 RGTR--                                             % 04803 RGTR--
+*L 118      500000079 200417050  00504  00556               % 04803 RGTR--
+*A ag 500000079 200417050 000016  00504  00556              % 04803 RGTR--
+*A af 500000079 200417050 000016  00504  00556              % 04803 RGTR--
+*R 2 200417050 500000079 200417050  00504  00556            % 04803 RGTR--
+*G RGB 500000079 200417050  00504  00556                    % 04803 RGTR--
+*A VE 500000079 200417050 000016  00504  00556              % 04803 RGTR--
+*I FD 500000079 200417050        0002249  00504  00556      % 04803 RGTR--
+500000079 Trier, Hauptbahnhof          00504                % 04803 RGTR--
+500000148 Trier, Konstantin Ba -00507  00507                % 04803 RGTR--
+500000141 Trier, Südallee/Kais -00511  00511                % 04803 RGTR--
+500000140 Trier, Südbahnhof    -00514  00514                % 04803 RGTR--
+500000139 Trier, St. Matthias  -00515  00515                % 04803 RGTR--
+500000138 Trier, Messepark P+R -00516  00516                % 04803 RGTR--
+500000107 Zewen, Im Siebenborn -00520  00520                % 04803 RGTR--
+500000115 Igel, Kirche         -00523  00523                % 04803 RGTR--
+180703005 Wasserbillig, Op der  00527  00527                % 04803 RGTR--
+180703002 Wasserbillig, Cimeti  00528  00528                % 04803 RGTR--
+180703008 Wasserbillig, Meseni  00533  00533                % 04803 RGTR--
+200417050 Kirchberg, Gare rout  00556                       % 04803 RGTR--
+*Z 04804 RGTR--                                             % 04804 RGTR--
+*L 118      500000079 200417050  00519  00611               % 04804 RGTR--
+*A ag 500000079 200417050 000016  00519  00611              % 04804 RGTR--
+*A af 500000079 200417050 000016  00519  00611              % 04804 RGTR--
+*R 2 200417050 500000079 200417050  00519  00611            % 04804 RGTR--
+*G RGB 500000079 200417050  00519  00611                    % 04804 RGTR--
+*A VE 500000079 200417050 000016  00519  00611              % 04804 RGTR--
+*I FD 500000079 200417050        0002844  00519  00611      % 04804 RGTR--
+500000079 Trier, Hauptbahnhof          00519                % 04804 RGTR--
+500000148 Trier, Konstantin Ba -00522  00522                % 04804 RGTR--
+500000141 Trier, Südallee/Kais -00526  00526                % 04804 RGTR--
+500000140 Trier, Südbahnhof    -00529  00529                % 04804 RGTR--
+500000139 Trier, St. Matthias  -00530  00530                % 04804 RGTR--
+500000138 Trier, Messepark P+R -00531  00531                % 04804 RGTR--
+500000107 Zewen, Im Siebenborn -00535  00535                % 04804 RGTR--
+500000115 Igel, Kirche         -00538  00538                % 04804 RGTR--
+180703005 Wasserbillig, Op der  00542  00542                % 04804 RGTR--
+180703002 Wasserbillig, Cimeti  00543  00543                % 04804 RGTR--
+180703008 Wasserbillig, Meseni  00548  00548                % 04804 RGTR--
+200417050 Kirchberg, Gare rout  00611                       % 04804 RGTR--
+*Z 04805 RGTR--                                             % 04805 RGTR--
+*L 118      500000079 200417050  00534  00626               % 04805 RGTR--
+*A ag 500000079 200417050 000016  00534  00626              % 04805 RGTR--
+*A af 500000079 200417050 000016  00534  00626              % 04805 RGTR--
+*R 2 200417050 500000079 200417050  00534  00626            % 04805 RGTR--
+*G RGB 500000079 200417050  00534  00626                    % 04805 RGTR--
+*A VE 500000079 200417050 000016  00534  00626              % 04805 RGTR--
+*I FD 500000079 200417050        0000928  00534  00626      % 04805 RGTR--
+500000079 Trier, Hauptbahnhof          00534                % 04805 RGTR--
+500000148 Trier, Konstantin Ba -00537  00537                % 04805 RGTR--
+500000141 Trier, Südallee/Kais -00541  00541                % 04805 RGTR--
+500000140 Trier, Südbahnhof    -00544  00544                % 04805 RGTR--
+500000139 Trier, St. Matthias  -00545  00545                % 04805 RGTR--
+500000138 Trier, Messepark P+R -00546  00546                % 04805 RGTR--
+500000107 Zewen, Im Siebenborn -00550  00550                % 04805 RGTR--
+500000115 Igel, Kirche         -00553  00553                % 04805 RGTR--
+180703005 Wasserbillig, Op der  00557  00557                % 04805 RGTR--
+180703002 Wasserbillig, Cimeti  00558  00558                % 04805 RGTR--
+180703008 Wasserbillig, Meseni  00603  00603                % 04805 RGTR--
+200417050 Kirchberg, Gare rout  00626                       % 04805 RGTR--
+*Z 04806 RGTR--                                             % 04806 RGTR--
+*L 118      500000079 200417050  00934  01026               % 04806 RGTR--
+*A ag 500000079 200417050 000016  00934  01026              % 04806 RGTR--
+*A af 500000079 200417050 000016  00934  01026              % 04806 RGTR--
+*R 2 200417050 500000079 200417050  00934  01026            % 04806 RGTR--
+*G RGB 500000079 200417050  00934  01026                    % 04806 RGTR--
+*A VE 500000079 200417050 000016  00934  01026              % 04806 RGTR--
+*I FD 500000079 200417050        0001113  00934  01026      % 04806 RGTR--
+500000079 Trier, Hauptbahnhof          00934                % 04806 RGTR--
+500000148 Trier, Konstantin Ba -00937  00937                % 04806 RGTR--
+500000141 Trier, Südallee/Kais -00941  00941                % 04806 RGTR--
+500000140 Trier, Südbahnhof    -00944  00944                % 04806 RGTR--
+500000139 Trier, St. Matthias  -00945  00945                % 04806 RGTR--
+500000138 Trier, Messepark P+R -00946  00946                % 04806 RGTR--
+500000107 Zewen, Im Siebenborn -00950  00950                % 04806 RGTR--
+500000115 Igel, Kirche         -00953  00953                % 04806 RGTR--
+180703005 Wasserbillig, Op der  00957  00957                % 04806 RGTR--
+180703002 Wasserbillig, Cimeti  00958  00958                % 04806 RGTR--
+180703008 Wasserbillig, Meseni  01003  01003                % 04806 RGTR--
+200417050 Kirchberg, Gare rout  01026                       % 04806 RGTR--
+*Z 04807 RGTR--                                             % 04807 RGTR--
+*L 118      500000079 200417050  01134  01226               % 04807 RGTR--
+*A ag 500000079 200417050 000016  01134  01226              % 04807 RGTR--
+*A af 500000079 200417050 000016  01134  01226              % 04807 RGTR--
+*R 2 200417050 500000079 200417050  01134  01226            % 04807 RGTR--
+*G RGB 500000079 200417050  01134  01226                    % 04807 RGTR--
+*A VE 500000079 200417050 000016  01134  01226              % 04807 RGTR--
+*I FD 500000079 200417050        0002519  01134  01226      % 04807 RGTR--
+500000079 Trier, Hauptbahnhof          01134                % 04807 RGTR--
+500000148 Trier, Konstantin Ba -01137  01137                % 04807 RGTR--
+500000141 Trier, Südallee/Kais -01141  01141                % 04807 RGTR--
+500000140 Trier, Südbahnhof    -01144  01144                % 04807 RGTR--
+500000139 Trier, St. Matthias  -01145  01145                % 04807 RGTR--
+500000138 Trier, Messepark P+R -01146  01146                % 04807 RGTR--
+500000107 Zewen, Im Siebenborn -01150  01150                % 04807 RGTR--
+500000115 Igel, Kirche         -01153  01153                % 04807 RGTR--
+180703005 Wasserbillig, Op der  01157  01157                % 04807 RGTR--
+180703002 Wasserbillig, Cimeti  01158  01158                % 04807 RGTR--
+180703008 Wasserbillig, Meseni  01203  01203                % 04807 RGTR--
+200417050 Kirchberg, Gare rout  01226                       % 04807 RGTR--
+*Z 04808 RGTR--                                             % 04808 RGTR--
+*L 118      500000079 200417050  01234  01326               % 04808 RGTR--
+*A ag 500000079 200417050 000016  01234  01326              % 04808 RGTR--
+*A af 500000079 200417050 000016  01234  01326              % 04808 RGTR--
+*R 2 200417050 500000079 200417050  01234  01326            % 04808 RGTR--
+*G RGB 500000079 200417050  01234  01326                    % 04808 RGTR--
+*A VE 500000079 200417050 000016  01234  01326              % 04808 RGTR--
+*I FD 500000079 200417050        0001301  01234  01326      % 04808 RGTR--
+500000079 Trier, Hauptbahnhof          01234                % 04808 RGTR--
+500000148 Trier, Konstantin Ba -01237  01237                % 04808 RGTR--
+500000141 Trier, Südallee/Kais -01241  01241                % 04808 RGTR--
+500000140 Trier, Südbahnhof    -01244  01244                % 04808 RGTR--
+500000139 Trier, St. Matthias  -01245  01245                % 04808 RGTR--
+500000138 Trier, Messepark P+R -01246  01246                % 04808 RGTR--
+500000107 Zewen, Im Siebenborn -01250  01250                % 04808 RGTR--
+500000115 Igel, Kirche         -01253  01253                % 04808 RGTR--
+180703005 Wasserbillig, Op der  01257  01257                % 04808 RGTR--
+180703002 Wasserbillig, Cimeti  01258  01258                % 04808 RGTR--
+180703008 Wasserbillig, Meseni  01303  01303                % 04808 RGTR--
+200417050 Kirchberg, Gare rout  01326                       % 04808 RGTR--
+*Z 04809 RGTR--                                             % 04809 RGTR--
+*L 118      500000079 200417050  01434  01526               % 04809 RGTR--
+*A ag 500000079 200417050 000016  01434  01526              % 04809 RGTR--
+*A af 500000079 200417050 000016  01434  01526              % 04809 RGTR--
+*R 2 200417050 500000079 200417050  01434  01526            % 04809 RGTR--
+*G RGB 500000079 200417050  01434  01526                    % 04809 RGTR--
+*A VE 500000079 200417050 000016  01434  01526              % 04809 RGTR--
+*I FD 500000079 200417050        0003203  01434  01526      % 04809 RGTR--
+500000079 Trier, Hauptbahnhof          01434                % 04809 RGTR--
+500000148 Trier, Konstantin Ba -01437  01437                % 04809 RGTR--
+500000141 Trier, Südallee/Kais -01441  01441                % 04809 RGTR--
+500000140 Trier, Südbahnhof    -01444  01444                % 04809 RGTR--
+500000139 Trier, St. Matthias  -01445  01445                % 04809 RGTR--
+500000138 Trier, Messepark P+R -01446  01446                % 04809 RGTR--
+500000107 Zewen, Im Siebenborn -01450  01450                % 04809 RGTR--
+500000115 Igel, Kirche         -01453  01453                % 04809 RGTR--
+180703005 Wasserbillig, Op der  01457  01457                % 04809 RGTR--
+180703002 Wasserbillig, Cimeti  01458  01458                % 04809 RGTR--
+180703008 Wasserbillig, Meseni  01503  01503                % 04809 RGTR--
+200417050 Kirchberg, Gare rout  01526                       % 04809 RGTR--
+*Z 04810 RGTR--                                             % 04810 RGTR--
+*L 118      500000079 200417050  01549  01641               % 04810 RGTR--
+*A ag 500000079 200417050 000016  01549  01641              % 04810 RGTR--
+*A af 500000079 200417050 000016  01549  01641              % 04810 RGTR--
+*R 2 200417050 500000079 200417050  01549  01641            % 04810 RGTR--
+*G RGB 500000079 200417050  01549  01641                    % 04810 RGTR--
+*A VE 500000079 200417050 000016  01549  01641              % 04810 RGTR--
+*I FD 500000079 200417050        0001820  01549  01641      % 04810 RGTR--
+500000079 Trier, Hauptbahnhof          01549                % 04810 RGTR--
+500000148 Trier, Konstantin Ba -01552  01552                % 04810 RGTR--
+500000141 Trier, Südallee/Kais -01556  01556                % 04810 RGTR--
+500000140 Trier, Südbahnhof    -01559  01559                % 04810 RGTR--
+500000139 Trier, St. Matthias  -01600  01600                % 04810 RGTR--
+500000138 Trier, Messepark P+R -01601  01601                % 04810 RGTR--
+500000107 Zewen, Im Siebenborn -01605  01605                % 04810 RGTR--
+500000115 Igel, Kirche         -01608  01608                % 04810 RGTR--
+180703005 Wasserbillig, Op der  01612  01612                % 04810 RGTR--
+180703002 Wasserbillig, Cimeti  01613  01613                % 04810 RGTR--
+180703008 Wasserbillig, Meseni  01618  01618                % 04810 RGTR--
+200417050 Kirchberg, Gare rout  01641                       % 04810 RGTR--
+*Z 04811 RGTR--                                             % 04811 RGTR--
+*L 118      500000079 200417050  01834  01926               % 04811 RGTR--
+*A ag 500000079 200417050 000016  01834  01926              % 04811 RGTR--
+*A af 500000079 200417050 000016  01834  01926              % 04811 RGTR--
+*R 2 200417050 500000079 200417050  01834  01926            % 04811 RGTR--
+*G RGB 500000079 200417050  01834  01926                    % 04811 RGTR--
+*A VE 500000079 200417050 000016  01834  01926              % 04811 RGTR--
+*I FD 500000079 200417050        0002523  01834  01926      % 04811 RGTR--
+500000079 Trier, Hauptbahnhof          01834                % 04811 RGTR--
+500000148 Trier, Konstantin Ba -01837  01837                % 04811 RGTR--
+500000141 Trier, Südallee/Kais -01841  01841                % 04811 RGTR--
+500000140 Trier, Südbahnhof    -01844  01844                % 04811 RGTR--
+500000139 Trier, St. Matthias  -01845  01845                % 04811 RGTR--
+500000138 Trier, Messepark P+R -01846  01846                % 04811 RGTR--
+500000107 Zewen, Im Siebenborn -01850  01850                % 04811 RGTR--
+500000115 Igel, Kirche         -01853  01853                % 04811 RGTR--
+180703005 Wasserbillig, Op der  01857  01857                % 04811 RGTR--
+180703002 Wasserbillig, Cimeti  01858  01858                % 04811 RGTR--
+180703008 Wasserbillig, Meseni  01903  01903                % 04811 RGTR--
+200417050 Kirchberg, Gare rout  01926                       % 04811 RGTR--
+*Z 04812 RGTR--                                             % 04812 RGTR--
+*L 118      500000079 200417050  01934  02026               % 04812 RGTR--
+*A ag 500000079 200417050 000016  01934  02026              % 04812 RGTR--
+*A af 500000079 200417050 000016  01934  02026              % 04812 RGTR--
+*R 2 200417050 500000079 200417050  01934  02026            % 04812 RGTR--
+*G RGB 500000079 200417050  01934  02026                    % 04812 RGTR--
+*A VE 500000079 200417050 000016  01934  02026              % 04812 RGTR--
+*I FD 500000079 200417050        0003184  01934  02026      % 04812 RGTR--
+500000079 Trier, Hauptbahnhof          01934                % 04812 RGTR--
+500000148 Trier, Konstantin Ba -01937  01937                % 04812 RGTR--
+500000141 Trier, Südallee/Kais -01941  01941                % 04812 RGTR--
+500000140 Trier, Südbahnhof    -01944  01944                % 04812 RGTR--
+500000139 Trier, St. Matthias  -01945  01945                % 04812 RGTR--
+500000138 Trier, Messepark P+R -01946  01946                % 04812 RGTR--
+500000107 Zewen, Im Siebenborn -01950  01950                % 04812 RGTR--
+500000115 Igel, Kirche         -01953  01953                % 04812 RGTR--
+180703005 Wasserbillig, Op der  01957  01957                % 04812 RGTR--
+180703002 Wasserbillig, Cimeti  01958  01958                % 04812 RGTR--
+180703008 Wasserbillig, Meseni  02003  02003                % 04812 RGTR--
+200417050 Kirchberg, Gare rout  02026                       % 04812 RGTR--
+*Z 04813 RGTR--                                             % 04813 RGTR--
+*L 118      500000079 200417050  00733  00839               % 04813 RGTR--
+*A ag 500000079 200417050 000040  00733  00839              % 04813 RGTR--
+*A af 500000079 200417050 000040  00733  00839              % 04813 RGTR--
+*R 2 200417050 500000079 200417050  00733  00839            % 04813 RGTR--
+*G RGB 500000079 200417050  00733  00839                    % 04813 RGTR--
+*A VE 500000079 200417050 000040  00733  00839              % 04813 RGTR--
+*I FD 500000079 200417050        0002278  00733  00839      % 04813 RGTR--
+500000079 Trier, Hauptbahnhof          00733                % 04813 RGTR--
+500000148 Trier, Konstantin Ba -00737  00737                % 04813 RGTR--
+500000141 Trier, Südallee/Kais -00742  00742                % 04813 RGTR--
+500000140 Trier, Südbahnhof    -00745  00745                % 04813 RGTR--
+500000139 Trier, St. Matthias  -00746  00746                % 04813 RGTR--
+500000138 Trier, Messepark P+R -00748  00748                % 04813 RGTR--
+500000107 Zewen, Im Siebenborn -00752  00752                % 04813 RGTR--
+500000115 Igel, Kirche         -00757  00757                % 04813 RGTR--
+180703005 Wasserbillig, Op der  00801  00801                % 04813 RGTR--
+180703002 Wasserbillig, Cimeti  00802  00802                % 04813 RGTR--
+180703008 Wasserbillig, Meseni  00808  00811                % 04813 RGTR--
+200417050 Kirchberg, Gare rout  00839                       % 04813 RGTR--
+*Z 04814 RGTR--                                             % 04814 RGTR--
+*L 118      500000079 200417050  01633  01739               % 04814 RGTR--
+*A ag 500000079 200417050 000006  01633  01739              % 04814 RGTR--
+*A af 500000079 200417050 000006  01633  01739              % 04814 RGTR--
+*R 2 200417050 500000079 200417050  01633  01739            % 04814 RGTR--
+*G RGB 500000079 200417050  01633  01739                    % 04814 RGTR--
+*A VE 500000079 200417050 000006  01633  01739              % 04814 RGTR--
+*I FD 500000079 200417050        0002521  01633  01739      % 04814 RGTR--
+500000079 Trier, Hauptbahnhof          01633                % 04814 RGTR--
+500000148 Trier, Konstantin Ba -01637  01637                % 04814 RGTR--
+500000141 Trier, Südallee/Kais -01642  01642                % 04814 RGTR--
+500000140 Trier, Südbahnhof    -01645  01645                % 04814 RGTR--
+500000139 Trier, St. Matthias  -01646  01646                % 04814 RGTR--
+500000138 Trier, Messepark P+R -01648  01648                % 04814 RGTR--
+500000107 Zewen, Im Siebenborn -01652  01652                % 04814 RGTR--
+500000115 Igel, Kirche         -01657  01657                % 04814 RGTR--
+180703005 Wasserbillig, Op der  01701  01701                % 04814 RGTR--
+180703002 Wasserbillig, Cimeti  01702  01702                % 04814 RGTR--
+180703008 Wasserbillig, Meseni  01708  01711                % 04814 RGTR--
+200417050 Kirchberg, Gare rout  01739                       % 04814 RGTR--
+*Z 04815 RGTR--                                             % 04815 RGTR--
+*L 118      500000079 200417050  00833  00939               % 04815 RGTR--
+*A ag 500000079 200417050 000016  00833  00939              % 04815 RGTR--
+*A af 500000079 200417050 000016  00833  00939              % 04815 RGTR--
+*R 2 200417050 500000079 200417050  00833  00939            % 04815 RGTR--
+*G RGB 500000079 200417050  00833  00939                    % 04815 RGTR--
+*A VE 500000079 200417050 000016  00833  00939              % 04815 RGTR--
+*I FD 500000079 200417050        0002680  00833  00939      % 04815 RGTR--
+500000079 Trier, Hauptbahnhof          00833                % 04815 RGTR--
+500000148 Trier, Konstantin Ba -00837  00837                % 04815 RGTR--
+500000141 Trier, Südallee/Kais -00842  00842                % 04815 RGTR--
+500000140 Trier, Südbahnhof    -00845  00845                % 04815 RGTR--
+500000139 Trier, St. Matthias  -00846  00846                % 04815 RGTR--
+500000138 Trier, Messepark P+R -00848  00848                % 04815 RGTR--
+500000107 Zewen, Im Siebenborn -00852  00852                % 04815 RGTR--
+500000115 Igel, Kirche         -00857  00857                % 04815 RGTR--
+180703005 Wasserbillig, Op der  00901  00901                % 04815 RGTR--
+180703002 Wasserbillig, Cimeti  00902  00902                % 04815 RGTR--
+180703008 Wasserbillig, Meseni  00908  00911                % 04815 RGTR--
+200417050 Kirchberg, Gare rout  00939                       % 04815 RGTR--
+*Z 04816 RGTR--                                             % 04816 RGTR--
+*L 118      500000079 200417050  01733  01839               % 04816 RGTR--
+*A ag 500000079 200417050 000016  01733  01839              % 04816 RGTR--
+*A af 500000079 200417050 000016  01733  01839              % 04816 RGTR--
+*R 2 200417050 500000079 200417050  01733  01839            % 04816 RGTR--
+*G RGB 500000079 200417050  01733  01839                    % 04816 RGTR--
+*A VE 500000079 200417050 000016  01733  01839              % 04816 RGTR--
+*I FD 500000079 200417050        0002522  01733  01839      % 04816 RGTR--
+500000079 Trier, Hauptbahnhof          01733                % 04816 RGTR--
+500000148 Trier, Konstantin Ba -01737  01737                % 04816 RGTR--
+500000141 Trier, Südallee/Kais -01742  01742                % 04816 RGTR--
+500000140 Trier, Südbahnhof    -01745  01745                % 04816 RGTR--
+500000139 Trier, St. Matthias  -01746  01746                % 04816 RGTR--
+500000138 Trier, Messepark P+R -01748  01748                % 04816 RGTR--
+500000107 Zewen, Im Siebenborn -01752  01752                % 04816 RGTR--
+500000115 Igel, Kirche         -01757  01757                % 04816 RGTR--
+180703005 Wasserbillig, Op der  01801  01801                % 04816 RGTR--
+180703002 Wasserbillig, Cimeti  01802  01802                % 04816 RGTR--
+180703008 Wasserbillig, Meseni  01808  01811                % 04816 RGTR--
+200417050 Kirchberg, Gare rout  01839                       % 04816 RGTR--

@@ -1,0 +1,940 @@
+*F 03 2
+*Z 04923 RGTR--                                             % 04923 RGTR--
+*L 163      200405013 200202001  01012  01038               % 04923 RGTR--
+*A ag 200405013 200202001 000006  01012  01038              % 04923 RGTR--
+*A mi 200405013 200202001 000006  01012  01038              % 04923 RGTR--
+*R 1 200202001 200405013 200202001  01012  01038            % 04923 RGTR--
+*G RGB 200405013 200202001  01012  01038                    % 04923 RGTR--
+*A VE 200405013 200202001 000006  01012  01038              % 04923 RGTR--
+*I FD 200405013 200202001        0002324  01012  01038      % 04923 RGTR--
+200405013 Centre, F.D. Rooseve         01012                % 04923 RGTR--
+200405037 Luxembourg, rue Hein  01015  01015                % 04923 RGTR--
+200404001 Verlorenkost, Al Mol  01017  01017                % 04923 RGTR--
+200404030 Verlorenkost, Généra  01018  01018                % 04923 RGTR--
+200406024 Cents, Cents-Hamm     01019  01019                % 04923 RGTR--
+200414009 Hamm, Ronndréisch     01021  01021                % 04923 RGTR--
+200601009 Sandweiler, Schaedha  01024  01024                % 04923 RGTR--
+200201007 Contern, Weiergewan   01026  01026                % 04923 RGTR--
+200201008 Contern, Rond Point   01027  01027                % 04923 RGTR--
+200201001 Contern, Birewee      01029  01029                % 04923 RGTR--
+200201004 Contern, Kräizgaass   01029  01029                % 04923 RGTR--
+200201003 Contern, Kiircheplaz  01029  01029                % 04923 RGTR--
+200201006 Contern, Millewee     01030  01030                % 04923 RGTR--
+200205001 Milbech               01032  01032                % 04923 RGTR--
+200203002 Moutfort, Juxgaass    01033  01033                % 04923 RGTR--
+200203005 Moutfort, Syrbréck    01033  01033                % 04923 RGTR--
+200202002 Medingen              01036  01036                % 04923 RGTR--
+200202001 Medingen, Aire de vi  01038                       % 04923 RGTR--
+*Z 04924 RGTR--                                             % 04924 RGTR--
+*L 163      200405013 200202001  01112  01138               % 04924 RGTR--
+*A ag 200405013 200202001 000006  01112  01138              % 04924 RGTR--
+*A mi 200405013 200202001 000006  01112  01138              % 04924 RGTR--
+*R 1 200202001 200405013 200202001  01112  01138            % 04924 RGTR--
+*G RGB 200405013 200202001  01112  01138                    % 04924 RGTR--
+*A VE 200405013 200202001 000006  01112  01138              % 04924 RGTR--
+*I FD 200405013 200202001        0001177  01112  01138      % 04924 RGTR--
+200405013 Centre, F.D. Rooseve         01112                % 04924 RGTR--
+200405037 Luxembourg, rue Hein  01115  01115                % 04924 RGTR--
+200404001 Verlorenkost, Al Mol  01117  01117                % 04924 RGTR--
+200404030 Verlorenkost, Généra  01118  01118                % 04924 RGTR--
+200406024 Cents, Cents-Hamm     01119  01119                % 04924 RGTR--
+200414009 Hamm, Ronndréisch     01121  01121                % 04924 RGTR--
+200601009 Sandweiler, Schaedha  01124  01124                % 04924 RGTR--
+200201007 Contern, Weiergewan   01126  01126                % 04924 RGTR--
+200201008 Contern, Rond Point   01127  01127                % 04924 RGTR--
+200201001 Contern, Birewee      01129  01129                % 04924 RGTR--
+200201004 Contern, Kräizgaass   01129  01129                % 04924 RGTR--
+200201003 Contern, Kiircheplaz  01129  01129                % 04924 RGTR--
+200201006 Contern, Millewee     01130  01130                % 04924 RGTR--
+200205001 Milbech               01132  01132                % 04924 RGTR--
+200203002 Moutfort, Juxgaass    01133  01133                % 04924 RGTR--
+200203005 Moutfort, Syrbréck    01133  01133                % 04924 RGTR--
+200202002 Medingen              01136  01136                % 04924 RGTR--
+200202001 Medingen, Aire de vi  01138                       % 04924 RGTR--
+*Z 04925 RGTR--                                             % 04925 RGTR--
+*L 163      200405013 200202001  01212  01238               % 04925 RGTR--
+*A ag 200405013 200202001 000006  01212  01238              % 04925 RGTR--
+*A mi 200405013 200202001 000006  01212  01238              % 04925 RGTR--
+*R 1 200202001 200405013 200202001  01212  01238            % 04925 RGTR--
+*G RGB 200405013 200202001  01212  01238                    % 04925 RGTR--
+*A VE 200405013 200202001 000006  01212  01238              % 04925 RGTR--
+*I FD 200405013 200202001        0002322  01212  01238      % 04925 RGTR--
+200405013 Centre, F.D. Rooseve         01212                % 04925 RGTR--
+200405037 Luxembourg, rue Hein  01215  01215                % 04925 RGTR--
+200404001 Verlorenkost, Al Mol  01217  01217                % 04925 RGTR--
+200404030 Verlorenkost, Généra  01218  01218                % 04925 RGTR--
+200406024 Cents, Cents-Hamm     01219  01219                % 04925 RGTR--
+200414009 Hamm, Ronndréisch     01221  01221                % 04925 RGTR--
+200601009 Sandweiler, Schaedha  01224  01224                % 04925 RGTR--
+200201007 Contern, Weiergewan   01226  01226                % 04925 RGTR--
+200201008 Contern, Rond Point   01227  01227                % 04925 RGTR--
+200201001 Contern, Birewee      01229  01229                % 04925 RGTR--
+200201004 Contern, Kräizgaass   01229  01229                % 04925 RGTR--
+200201003 Contern, Kiircheplaz  01229  01229                % 04925 RGTR--
+200201006 Contern, Millewee     01230  01230                % 04925 RGTR--
+200205001 Milbech               01232  01232                % 04925 RGTR--
+200203002 Moutfort, Juxgaass    01233  01233                % 04925 RGTR--
+200203005 Moutfort, Syrbréck    01233  01233                % 04925 RGTR--
+200202002 Medingen              01236  01236                % 04925 RGTR--
+200202001 Medingen, Aire de vi  01238                       % 04925 RGTR--
+*Z 04926 RGTR--                                             % 04926 RGTR--
+*L 163      200405013 200202001  01312  01338               % 04926 RGTR--
+*A ag 200405013 200202001 000006  01312  01338              % 04926 RGTR--
+*A mi 200405013 200202001 000006  01312  01338              % 04926 RGTR--
+*R 1 200202001 200405013 200202001  01312  01338            % 04926 RGTR--
+*G RGB 200405013 200202001  01312  01338                    % 04926 RGTR--
+*A VE 200405013 200202001 000006  01312  01338              % 04926 RGTR--
+*I FD 200405013 200202001        0002325  01312  01338      % 04926 RGTR--
+200405013 Centre, F.D. Rooseve         01312                % 04926 RGTR--
+200405037 Luxembourg, rue Hein  01315  01315                % 04926 RGTR--
+200404001 Verlorenkost, Al Mol  01317  01317                % 04926 RGTR--
+200404030 Verlorenkost, Généra  01318  01318                % 04926 RGTR--
+200406024 Cents, Cents-Hamm     01319  01319                % 04926 RGTR--
+200414009 Hamm, Ronndréisch     01321  01321                % 04926 RGTR--
+200601009 Sandweiler, Schaedha  01324  01324                % 04926 RGTR--
+200201007 Contern, Weiergewan   01326  01326                % 04926 RGTR--
+200201008 Contern, Rond Point   01327  01327                % 04926 RGTR--
+200201001 Contern, Birewee      01329  01329                % 04926 RGTR--
+200201004 Contern, Kräizgaass   01329  01329                % 04926 RGTR--
+200201003 Contern, Kiircheplaz  01329  01329                % 04926 RGTR--
+200201006 Contern, Millewee     01330  01330                % 04926 RGTR--
+200205001 Milbech               01332  01332                % 04926 RGTR--
+200203002 Moutfort, Juxgaass    01333  01333                % 04926 RGTR--
+200203005 Moutfort, Syrbréck    01333  01333                % 04926 RGTR--
+200202002 Medingen              01336  01336                % 04926 RGTR--
+200202001 Medingen, Aire de vi  01338                       % 04926 RGTR--
+*Z 04927 RGTR--                                             % 04927 RGTR--
+*L 163      200405013 200202001  01412  01438               % 04927 RGTR--
+*A ag 200405013 200202001 000006  01412  01438              % 04927 RGTR--
+*A mi 200405013 200202001 000006  01412  01438              % 04927 RGTR--
+*R 1 200202001 200405013 200202001  01412  01438            % 04927 RGTR--
+*G RGB 200405013 200202001  01412  01438                    % 04927 RGTR--
+*A VE 200405013 200202001 000006  01412  01438              % 04927 RGTR--
+*I FD 200405013 200202001        0002326  01412  01438      % 04927 RGTR--
+200405013 Centre, F.D. Rooseve         01412                % 04927 RGTR--
+200405037 Luxembourg, rue Hein  01415  01415                % 04927 RGTR--
+200404001 Verlorenkost, Al Mol  01417  01417                % 04927 RGTR--
+200404030 Verlorenkost, Généra  01418  01418                % 04927 RGTR--
+200406024 Cents, Cents-Hamm     01419  01419                % 04927 RGTR--
+200414009 Hamm, Ronndréisch     01421  01421                % 04927 RGTR--
+200601009 Sandweiler, Schaedha  01424  01424                % 04927 RGTR--
+200201007 Contern, Weiergewan   01426  01426                % 04927 RGTR--
+200201008 Contern, Rond Point   01427  01427                % 04927 RGTR--
+200201001 Contern, Birewee      01429  01429                % 04927 RGTR--
+200201004 Contern, Kräizgaass   01429  01429                % 04927 RGTR--
+200201003 Contern, Kiircheplaz  01429  01429                % 04927 RGTR--
+200201006 Contern, Millewee     01430  01430                % 04927 RGTR--
+200205001 Milbech               01432  01432                % 04927 RGTR--
+200203002 Moutfort, Juxgaass    01433  01433                % 04927 RGTR--
+200203005 Moutfort, Syrbréck    01433  01433                % 04927 RGTR--
+200202002 Medingen              01436  01436                % 04927 RGTR--
+200202001 Medingen, Aire de vi  01438                       % 04927 RGTR--
+*Z 04928 RGTR--                                             % 04928 RGTR--
+*L 163      200405013 200202001  01512  01538               % 04928 RGTR--
+*A ag 200405013 200202001 000006  01512  01538              % 04928 RGTR--
+*A mi 200405013 200202001 000006  01512  01538              % 04928 RGTR--
+*R 1 200202001 200405013 200202001  01512  01538            % 04928 RGTR--
+*G RGB 200405013 200202001  01512  01538                    % 04928 RGTR--
+*A VE 200405013 200202001 000006  01512  01538              % 04928 RGTR--
+*I FD 200405013 200202001        0002327  01512  01538      % 04928 RGTR--
+200405013 Centre, F.D. Rooseve         01512                % 04928 RGTR--
+200405037 Luxembourg, rue Hein  01515  01515                % 04928 RGTR--
+200404001 Verlorenkost, Al Mol  01517  01517                % 04928 RGTR--
+200404030 Verlorenkost, Généra  01518  01518                % 04928 RGTR--
+200406024 Cents, Cents-Hamm     01519  01519                % 04928 RGTR--
+200414009 Hamm, Ronndréisch     01521  01521                % 04928 RGTR--
+200601009 Sandweiler, Schaedha  01524  01524                % 04928 RGTR--
+200201007 Contern, Weiergewan   01526  01526                % 04928 RGTR--
+200201008 Contern, Rond Point   01527  01527                % 04928 RGTR--
+200201001 Contern, Birewee      01529  01529                % 04928 RGTR--
+200201004 Contern, Kräizgaass   01529  01529                % 04928 RGTR--
+200201003 Contern, Kiircheplaz  01529  01529                % 04928 RGTR--
+200201006 Contern, Millewee     01530  01530                % 04928 RGTR--
+200205001 Milbech               01532  01532                % 04928 RGTR--
+200203002 Moutfort, Juxgaass    01533  01533                % 04928 RGTR--
+200203005 Moutfort, Syrbréck    01533  01533                % 04928 RGTR--
+200202002 Medingen              01536  01536                % 04928 RGTR--
+200202001 Medingen, Aire de vi  01538                       % 04928 RGTR--
+*Z 04929 RGTR--                                             % 04929 RGTR--
+*L 163      200405013 200202001  01912  01938               % 04929 RGTR--
+*A ag 200405013 200202001 000006  01912  01938              % 04929 RGTR--
+*A mi 200405013 200202001 000006  01912  01938              % 04929 RGTR--
+*R 1 200202001 200405013 200202001  01912  01938            % 04929 RGTR--
+*G RGB 200405013 200202001  01912  01938                    % 04929 RGTR--
+*A VE 200405013 200202001 000006  01912  01938              % 04929 RGTR--
+*I FD 200405013 200202001        0002328  01912  01938      % 04929 RGTR--
+200405013 Centre, F.D. Rooseve         01912                % 04929 RGTR--
+200405037 Luxembourg, rue Hein  01915  01915                % 04929 RGTR--
+200404001 Verlorenkost, Al Mol  01917  01917                % 04929 RGTR--
+200404030 Verlorenkost, Généra  01918  01918                % 04929 RGTR--
+200406024 Cents, Cents-Hamm     01919  01919                % 04929 RGTR--
+200414009 Hamm, Ronndréisch     01921  01921                % 04929 RGTR--
+200601009 Sandweiler, Schaedha  01924  01924                % 04929 RGTR--
+200201007 Contern, Weiergewan   01926  01926                % 04929 RGTR--
+200201008 Contern, Rond Point   01927  01927                % 04929 RGTR--
+200201001 Contern, Birewee      01929  01929                % 04929 RGTR--
+200201004 Contern, Kräizgaass   01929  01929                % 04929 RGTR--
+200201003 Contern, Kiircheplaz  01929  01929                % 04929 RGTR--
+200201006 Contern, Millewee     01930  01930                % 04929 RGTR--
+200205001 Milbech               01932  01932                % 04929 RGTR--
+200203002 Moutfort, Juxgaass    01933  01933                % 04929 RGTR--
+200203005 Moutfort, Syrbréck    01933  01933                % 04929 RGTR--
+200202002 Medingen              01936  01936                % 04929 RGTR--
+200202001 Medingen, Aire de vi  01938                       % 04929 RGTR--
+*Z 04930 RGTR--                                             % 04930 RGTR--
+*L 163      200405013 200202001  02012  02038               % 04930 RGTR--
+*A ag 200405013 200202001 000006  02012  02038              % 04930 RGTR--
+*A mi 200405013 200202001 000006  02012  02038              % 04930 RGTR--
+*R 1 200202001 200405013 200202001  02012  02038            % 04930 RGTR--
+*G RGB 200405013 200202001  02012  02038                    % 04930 RGTR--
+*A VE 200405013 200202001 000006  02012  02038              % 04930 RGTR--
+*I FD 200405013 200202001        0002323  02012  02038      % 04930 RGTR--
+200405013 Centre, F.D. Rooseve         02012                % 04930 RGTR--
+200405037 Luxembourg, rue Hein  02015  02015                % 04930 RGTR--
+200404001 Verlorenkost, Al Mol  02017  02017                % 04930 RGTR--
+200404030 Verlorenkost, Généra  02018  02018                % 04930 RGTR--
+200406024 Cents, Cents-Hamm     02019  02019                % 04930 RGTR--
+200414009 Hamm, Ronndréisch     02021  02021                % 04930 RGTR--
+200601009 Sandweiler, Schaedha  02024  02024                % 04930 RGTR--
+200201007 Contern, Weiergewan   02026  02026                % 04930 RGTR--
+200201008 Contern, Rond Point   02027  02027                % 04930 RGTR--
+200201001 Contern, Birewee      02029  02029                % 04930 RGTR--
+200201004 Contern, Kräizgaass   02029  02029                % 04930 RGTR--
+200201003 Contern, Kiircheplaz  02029  02029                % 04930 RGTR--
+200201006 Contern, Millewee     02030  02030                % 04930 RGTR--
+200205001 Milbech               02032  02032                % 04930 RGTR--
+200203002 Moutfort, Juxgaass    02033  02033                % 04930 RGTR--
+200203005 Moutfort, Syrbréck    02033  02033                % 04930 RGTR--
+200202002 Medingen              02036  02036                % 04930 RGTR--
+200202001 Medingen, Aire de vi  02038                       % 04930 RGTR--
+*Z 04931 RGTR--                                             % 04931 RGTR--
+*L 163      200405013 200202001  02112  02138               % 04931 RGTR--
+*A ag 200405013 200202001 000006  02112  02138              % 04931 RGTR--
+*A mi 200405013 200202001 000006  02112  02138              % 04931 RGTR--
+*R 1 200202001 200405013 200202001  02112  02138            % 04931 RGTR--
+*G RGB 200405013 200202001  02112  02138                    % 04931 RGTR--
+*A VE 200405013 200202001 000006  02112  02138              % 04931 RGTR--
+*I FD 200405013 200202001        0002329  02112  02138      % 04931 RGTR--
+200405013 Centre, F.D. Rooseve         02112                % 04931 RGTR--
+200405037 Luxembourg, rue Hein  02115  02115                % 04931 RGTR--
+200404001 Verlorenkost, Al Mol  02117  02117                % 04931 RGTR--
+200404030 Verlorenkost, Généra  02118  02118                % 04931 RGTR--
+200406024 Cents, Cents-Hamm     02119  02119                % 04931 RGTR--
+200414009 Hamm, Ronndréisch     02121  02121                % 04931 RGTR--
+200601009 Sandweiler, Schaedha  02124  02124                % 04931 RGTR--
+200201007 Contern, Weiergewan   02126  02126                % 04931 RGTR--
+200201008 Contern, Rond Point   02127  02127                % 04931 RGTR--
+200201001 Contern, Birewee      02129  02129                % 04931 RGTR--
+200201004 Contern, Kräizgaass   02129  02129                % 04931 RGTR--
+200201003 Contern, Kiircheplaz  02129  02129                % 04931 RGTR--
+200201006 Contern, Millewee     02130  02130                % 04931 RGTR--
+200205001 Milbech               02132  02132                % 04931 RGTR--
+200203002 Moutfort, Juxgaass    02133  02133                % 04931 RGTR--
+200203005 Moutfort, Syrbréck    02133  02133                % 04931 RGTR--
+200202002 Medingen              02136  02136                % 04931 RGTR--
+200202001 Medingen, Aire de vi  02138                       % 04931 RGTR--
+*Z 04932 RGTR--                                             % 04932 RGTR--
+*L 163      200405013 200202001  02212  02238               % 04932 RGTR--
+*A ag 200405013 200202001 000006  02212  02238              % 04932 RGTR--
+*A mi 200405013 200202001 000006  02212  02238              % 04932 RGTR--
+*R 1 200202001 200405013 200202001  02212  02238            % 04932 RGTR--
+*G RGB 200405013 200202001  02212  02238                    % 04932 RGTR--
+*A VE 200405013 200202001 000006  02212  02238              % 04932 RGTR--
+*I FD 200405013 200202001        0002330  02212  02238      % 04932 RGTR--
+200405013 Centre, F.D. Rooseve         02212                % 04932 RGTR--
+200405037 Luxembourg, rue Hein  02215  02215                % 04932 RGTR--
+200404001 Verlorenkost, Al Mol  02217  02217                % 04932 RGTR--
+200404030 Verlorenkost, Généra  02218  02218                % 04932 RGTR--
+200406024 Cents, Cents-Hamm     02219  02219                % 04932 RGTR--
+200414009 Hamm, Ronndréisch     02221  02221                % 04932 RGTR--
+200601009 Sandweiler, Schaedha  02224  02224                % 04932 RGTR--
+200201007 Contern, Weiergewan   02226  02226                % 04932 RGTR--
+200201008 Contern, Rond Point   02227  02227                % 04932 RGTR--
+200201001 Contern, Birewee      02229  02229                % 04932 RGTR--
+200201004 Contern, Kräizgaass   02229  02229                % 04932 RGTR--
+200201003 Contern, Kiircheplaz  02229  02229                % 04932 RGTR--
+200201006 Contern, Millewee     02230  02230                % 04932 RGTR--
+200205001 Milbech               02232  02232                % 04932 RGTR--
+200203002 Moutfort, Juxgaass    02233  02233                % 04932 RGTR--
+200203005 Moutfort, Syrbréck    02233  02233                % 04932 RGTR--
+200202002 Medingen              02236  02236                % 04932 RGTR--
+200202001 Medingen, Aire de vi  02238                       % 04932 RGTR--
+*Z 04933 RGTR--                                             % 04933 RGTR--
+*L 163      200405013 200202001  02312  02338               % 04933 RGTR--
+*A ag 200405013 200202001 000006  02312  02338              % 04933 RGTR--
+*A mi 200405013 200202001 000006  02312  02338              % 04933 RGTR--
+*R 1 200202001 200405013 200202001  02312  02338            % 04933 RGTR--
+*G RGB 200405013 200202001  02312  02338                    % 04933 RGTR--
+*A VE 200405013 200202001 000006  02312  02338              % 04933 RGTR--
+*I FD 200405013 200202001        0002331  02312  02338      % 04933 RGTR--
+200405013 Centre, F.D. Rooseve         02312                % 04933 RGTR--
+200405037 Luxembourg, rue Hein  02315  02315                % 04933 RGTR--
+200404001 Verlorenkost, Al Mol  02317  02317                % 04933 RGTR--
+200404030 Verlorenkost, Généra  02318  02318                % 04933 RGTR--
+200406024 Cents, Cents-Hamm     02319  02319                % 04933 RGTR--
+200414009 Hamm, Ronndréisch     02321  02321                % 04933 RGTR--
+200601009 Sandweiler, Schaedha  02324  02324                % 04933 RGTR--
+200201007 Contern, Weiergewan   02326  02326                % 04933 RGTR--
+200201008 Contern, Rond Point   02327  02327                % 04933 RGTR--
+200201001 Contern, Birewee      02329  02329                % 04933 RGTR--
+200201004 Contern, Kräizgaass   02329  02329                % 04933 RGTR--
+200201003 Contern, Kiircheplaz  02329  02329                % 04933 RGTR--
+200201006 Contern, Millewee     02330  02330                % 04933 RGTR--
+200205001 Milbech               02332  02332                % 04933 RGTR--
+200203002 Moutfort, Juxgaass    02333  02333                % 04933 RGTR--
+200203005 Moutfort, Syrbréck    02333  02333                % 04933 RGTR--
+200202002 Medingen              02336  02336                % 04933 RGTR--
+200202001 Medingen, Aire de vi  02338                       % 04933 RGTR--
+*Z 04934 RGTR--                                             % 04934 RGTR--
+*L 163      200405013 200202001  00812  00840               % 04934 RGTR--
+*A ag 200405013 200202001 000006  00812  00840              % 04934 RGTR--
+*A mi 200405013 200202001 000006  00812  00840              % 04934 RGTR--
+*R 1 200202001 200405013 200202001  00812  00840            % 04934 RGTR--
+*G RGB 200405013 200202001  00812  00840                    % 04934 RGTR--
+*A VE 200405013 200202001 000006  00812  00840              % 04934 RGTR--
+*I FD 200405013 200202001        0002195  00812  00840      % 04934 RGTR--
+200405013 Centre, F.D. Rooseve         00812                % 04934 RGTR--
+200405037 Luxembourg, rue Hein  00815  00815                % 04934 RGTR--
+200404001 Verlorenkost, Al Mol  00817  00817                % 04934 RGTR--
+200404030 Verlorenkost, Généra  00819  00819                % 04934 RGTR--
+200406024 Cents, Cents-Hamm     00821  00821                % 04934 RGTR--
+200414009 Hamm, Ronndréisch     00822  00822                % 04934 RGTR--
+200601009 Sandweiler, Schaedha  00826  00826                % 04934 RGTR--
+200201007 Contern, Weiergewan   00828  00828                % 04934 RGTR--
+200201008 Contern, Rond Point   00829  00829                % 04934 RGTR--
+200201001 Contern, Birewee      00831  00831                % 04934 RGTR--
+200201004 Contern, Kräizgaass   00831  00831                % 04934 RGTR--
+200201003 Contern, Kiircheplaz  00831  00831                % 04934 RGTR--
+200201006 Contern, Millewee     00832  00832                % 04934 RGTR--
+200205001 Milbech               00834  00834                % 04934 RGTR--
+200203002 Moutfort, Juxgaass    00835  00835                % 04934 RGTR--
+200203005 Moutfort, Syrbréck    00835  00835                % 04934 RGTR--
+200202002 Medingen              00838  00838                % 04934 RGTR--
+200202001 Medingen, Aire de vi  00840                       % 04934 RGTR--
+*Z 04935 RGTR--                                             % 04935 RGTR--
+*L 163      200405013 200202001  00912  00940               % 04935 RGTR--
+*A ag 200405013 200202001 000006  00912  00940              % 04935 RGTR--
+*A mi 200405013 200202001 000006  00912  00940              % 04935 RGTR--
+*R 1 200202001 200405013 200202001  00912  00940            % 04935 RGTR--
+*G RGB 200405013 200202001  00912  00940                    % 04935 RGTR--
+*A VE 200405013 200202001 000006  00912  00940              % 04935 RGTR--
+*I FD 200405013 200202001        0002196  00912  00940      % 04935 RGTR--
+200405013 Centre, F.D. Rooseve         00912                % 04935 RGTR--
+200405037 Luxembourg, rue Hein  00915  00915                % 04935 RGTR--
+200404001 Verlorenkost, Al Mol  00917  00917                % 04935 RGTR--
+200404030 Verlorenkost, Généra  00919  00919                % 04935 RGTR--
+200406024 Cents, Cents-Hamm     00921  00921                % 04935 RGTR--
+200414009 Hamm, Ronndréisch     00922  00922                % 04935 RGTR--
+200601009 Sandweiler, Schaedha  00926  00926                % 04935 RGTR--
+200201007 Contern, Weiergewan   00928  00928                % 04935 RGTR--
+200201008 Contern, Rond Point   00929  00929                % 04935 RGTR--
+200201001 Contern, Birewee      00931  00931                % 04935 RGTR--
+200201004 Contern, Kräizgaass   00931  00931                % 04935 RGTR--
+200201003 Contern, Kiircheplaz  00931  00931                % 04935 RGTR--
+200201006 Contern, Millewee     00932  00932                % 04935 RGTR--
+200205001 Milbech               00934  00934                % 04935 RGTR--
+200203002 Moutfort, Juxgaass    00935  00935                % 04935 RGTR--
+200203005 Moutfort, Syrbréck    00935  00935                % 04935 RGTR--
+200202002 Medingen              00938  00938                % 04935 RGTR--
+200202001 Medingen, Aire de vi  00940                       % 04935 RGTR--
+*Z 04936 RGTR--                                             % 04936 RGTR--
+*L 163      200405013 200202001  01612  01640               % 04936 RGTR--
+*A ag 200405013 200202001 000006  01612  01640              % 04936 RGTR--
+*A mi 200405013 200202001 000006  01612  01640              % 04936 RGTR--
+*R 1 200202001 200405013 200202001  01612  01640            % 04936 RGTR--
+*G RGB 200405013 200202001  01612  01640                    % 04936 RGTR--
+*A VE 200405013 200202001 000006  01612  01640              % 04936 RGTR--
+*I FD 200405013 200202001        0002319  01612  01640      % 04936 RGTR--
+200405013 Centre, F.D. Rooseve         01612                % 04936 RGTR--
+200405037 Luxembourg, rue Hein  01615  01615                % 04936 RGTR--
+200404001 Verlorenkost, Al Mol  01617  01617                % 04936 RGTR--
+200404030 Verlorenkost, Généra  01619  01619                % 04936 RGTR--
+200406024 Cents, Cents-Hamm     01621  01621                % 04936 RGTR--
+200414009 Hamm, Ronndréisch     01622  01622                % 04936 RGTR--
+200601009 Sandweiler, Schaedha  01626  01626                % 04936 RGTR--
+200201007 Contern, Weiergewan   01628  01628                % 04936 RGTR--
+200201008 Contern, Rond Point   01629  01629                % 04936 RGTR--
+200201001 Contern, Birewee      01631  01631                % 04936 RGTR--
+200201004 Contern, Kräizgaass   01631  01631                % 04936 RGTR--
+200201003 Contern, Kiircheplaz  01631  01631                % 04936 RGTR--
+200201006 Contern, Millewee     01632  01632                % 04936 RGTR--
+200205001 Milbech               01634  01634                % 04936 RGTR--
+200203002 Moutfort, Juxgaass    01635  01635                % 04936 RGTR--
+200203005 Moutfort, Syrbréck    01635  01635                % 04936 RGTR--
+200202002 Medingen              01638  01638                % 04936 RGTR--
+200202001 Medingen, Aire de vi  01640                       % 04936 RGTR--
+*Z 04937 RGTR--                                             % 04937 RGTR--
+*L 163      200405013 200202001  01712  01740               % 04937 RGTR--
+*A ag 200405013 200202001 000006  01712  01740              % 04937 RGTR--
+*A mi 200405013 200202001 000006  01712  01740              % 04937 RGTR--
+*R 1 200202001 200405013 200202001  01712  01740            % 04937 RGTR--
+*G RGB 200405013 200202001  01712  01740                    % 04937 RGTR--
+*A VE 200405013 200202001 000006  01712  01740              % 04937 RGTR--
+*I FD 200405013 200202001        0002202  01712  01740      % 04937 RGTR--
+200405013 Centre, F.D. Rooseve         01712                % 04937 RGTR--
+200405037 Luxembourg, rue Hein  01715  01715                % 04937 RGTR--
+200404001 Verlorenkost, Al Mol  01717  01717                % 04937 RGTR--
+200404030 Verlorenkost, Généra  01719  01719                % 04937 RGTR--
+200406024 Cents, Cents-Hamm     01721  01721                % 04937 RGTR--
+200414009 Hamm, Ronndréisch     01722  01722                % 04937 RGTR--
+200601009 Sandweiler, Schaedha  01726  01726                % 04937 RGTR--
+200201007 Contern, Weiergewan   01728  01728                % 04937 RGTR--
+200201008 Contern, Rond Point   01729  01729                % 04937 RGTR--
+200201001 Contern, Birewee      01731  01731                % 04937 RGTR--
+200201004 Contern, Kräizgaass   01731  01731                % 04937 RGTR--
+200201003 Contern, Kiircheplaz  01731  01731                % 04937 RGTR--
+200201006 Contern, Millewee     01732  01732                % 04937 RGTR--
+200205001 Milbech               01734  01734                % 04937 RGTR--
+200203002 Moutfort, Juxgaass    01735  01735                % 04937 RGTR--
+200203005 Moutfort, Syrbréck    01735  01735                % 04937 RGTR--
+200202002 Medingen              01738  01738                % 04937 RGTR--
+200202001 Medingen, Aire de vi  01740                       % 04937 RGTR--
+*Z 04938 RGTR--                                             % 04938 RGTR--
+*L 163      200405013 200202001  01733  01801               % 04938 RGTR--
+*A ag 200405013 200202001 000006  01733  01801              % 04938 RGTR--
+*A mi 200405013 200202001 000006  01733  01801              % 04938 RGTR--
+*R 1 200202001 200405013 200202001  01733  01801            % 04938 RGTR--
+*G RGB 200405013 200202001  01733  01801                    % 04938 RGTR--
+*A VE 200405013 200202001 000006  01733  01801              % 04938 RGTR--
+*I FD 200405013 200202001        0002273  01733  01801      % 04938 RGTR--
+200405013 Centre, F.D. Rooseve         01733                % 04938 RGTR--
+200405037 Luxembourg, rue Hein  01736  01736                % 04938 RGTR--
+200404001 Verlorenkost, Al Mol  01738  01738                % 04938 RGTR--
+200404030 Verlorenkost, Généra  01740  01740                % 04938 RGTR--
+200406024 Cents, Cents-Hamm     01742  01742                % 04938 RGTR--
+200414009 Hamm, Ronndréisch     01743  01743                % 04938 RGTR--
+200601009 Sandweiler, Schaedha  01747  01747                % 04938 RGTR--
+200201007 Contern, Weiergewan   01749  01749                % 04938 RGTR--
+200201008 Contern, Rond Point   01750  01750                % 04938 RGTR--
+200201001 Contern, Birewee      01752  01752                % 04938 RGTR--
+200201004 Contern, Kräizgaass   01752  01752                % 04938 RGTR--
+200201003 Contern, Kiircheplaz  01752  01752                % 04938 RGTR--
+200201006 Contern, Millewee     01753  01753                % 04938 RGTR--
+200205001 Milbech               01755  01755                % 04938 RGTR--
+200203002 Moutfort, Juxgaass    01756  01756                % 04938 RGTR--
+200203005 Moutfort, Syrbréck    01756  01756                % 04938 RGTR--
+200202002 Medingen              01759  01759                % 04938 RGTR--
+200202001 Medingen, Aire de vi  01801                       % 04938 RGTR--
+*Z 04939 RGTR--                                             % 04939 RGTR--
+*L 163      200405013 200202001  01812  01840               % 04939 RGTR--
+*A ag 200405013 200202001 000006  01812  01840              % 04939 RGTR--
+*A mi 200405013 200202001 000006  01812  01840              % 04939 RGTR--
+*R 1 200202001 200405013 200202001  01812  01840            % 04939 RGTR--
+*G RGB 200405013 200202001  01812  01840                    % 04939 RGTR--
+*A VE 200405013 200202001 000006  01812  01840              % 04939 RGTR--
+*I FD 200405013 200202001        0002321  01812  01840      % 04939 RGTR--
+200405013 Centre, F.D. Rooseve         01812                % 04939 RGTR--
+200405037 Luxembourg, rue Hein  01815  01815                % 04939 RGTR--
+200404001 Verlorenkost, Al Mol  01817  01817                % 04939 RGTR--
+200404030 Verlorenkost, Généra  01819  01819                % 04939 RGTR--
+200406024 Cents, Cents-Hamm     01821  01821                % 04939 RGTR--
+200414009 Hamm, Ronndréisch     01822  01822                % 04939 RGTR--
+200601009 Sandweiler, Schaedha  01826  01826                % 04939 RGTR--
+200201007 Contern, Weiergewan   01828  01828                % 04939 RGTR--
+200201008 Contern, Rond Point   01829  01829                % 04939 RGTR--
+200201001 Contern, Birewee      01831  01831                % 04939 RGTR--
+200201004 Contern, Kräizgaass   01831  01831                % 04939 RGTR--
+200201003 Contern, Kiircheplaz  01831  01831                % 04939 RGTR--
+200201006 Contern, Millewee     01832  01832                % 04939 RGTR--
+200205001 Milbech               01834  01834                % 04939 RGTR--
+200203002 Moutfort, Juxgaass    01835  01835                % 04939 RGTR--
+200203005 Moutfort, Syrbréck    01835  01835                % 04939 RGTR--
+200202002 Medingen              01838  01838                % 04939 RGTR--
+200202001 Medingen, Aire de vi  01840                       % 04939 RGTR--
+*Z 04940 RGTR--                                             % 04940 RGTR--
+*L 163      200405013 200203005  00754  00817               % 04940 RGTR--
+*A ag 200405013 200203005 000006  00754  00817              % 04940 RGTR--
+*A mg 200405013 200203005 000006  00754  00817              % 04940 RGTR--
+*R 1 200203005 200405013 200203005  00754  00817            % 04940 RGTR--
+*G RGB 200405013 200203005  00754  00817                    % 04940 RGTR--
+*A VE 200405013 200203005 000006  00754  00817              % 04940 RGTR--
+*I FD 200405013 200203005        0003404  00754  00817      % 04940 RGTR--
+200405013 Centre, F.D. Rooseve         00754                % 04940 RGTR--
+200405037 Luxembourg, rue Hein  00757  00757                % 04940 RGTR--
+200404001 Verlorenkost, Al Mol  00759  00759                % 04940 RGTR--
+200404030 Verlorenkost, Généra  00801  00801                % 04940 RGTR--
+200406024 Cents, Cents-Hamm     00803  00803                % 04940 RGTR--
+200414009 Hamm, Ronndréisch     00804  00804                % 04940 RGTR--
+200601009 Sandweiler, Schaedha  00808  00808                % 04940 RGTR--
+200201007 Contern, Weiergewan   00810  00810                % 04940 RGTR--
+200201008 Contern, Rond Point   00811  00811                % 04940 RGTR--
+200201001 Contern, Birewee      00813  00813                % 04940 RGTR--
+200201004 Contern, Kräizgaass   00813  00813                % 04940 RGTR--
+200201003 Contern, Kiircheplaz  00813  00813                % 04940 RGTR--
+200201006 Contern, Millewee     00814  00814                % 04940 RGTR--
+200205001 Milbech               00816  00816                % 04940 RGTR--
+200203002 Moutfort, Juxgaass    00817  00817                % 04940 RGTR--
+200203005 Moutfort, Syrbréck    00817                       % 04940 RGTR--
+*Z 04941 RGTR--                                             % 04941 RGTR--
+*L 163      200203005 200405013  00820  00847               % 04941 RGTR--
+*A ag 200203005 200405013 000006  00820  00847              % 04941 RGTR--
+*A cc 200203005 200405013 000006  00820  00847              % 04941 RGTR--
+*R 2 200405013 200203005 200405013  00820  00847            % 04941 RGTR--
+*G RGB 200203005 200405013  00820  00847                    % 04941 RGTR--
+*A VE 200203005 200405013 000006  00820  00847              % 04941 RGTR--
+*I FD 200203005 200405013        0001047  00820  00847      % 04941 RGTR--
+200203005 Moutfort, Syrbréck           00820                % 04941 RGTR--
+200203002 Moutfort, Juxgaass    00820  00820                % 04941 RGTR--
+200205001 Milbech               00821  00821                % 04941 RGTR--
+200201006 Contern, Millewee     00823  00823                % 04941 RGTR--
+200201003 Contern, Kiircheplaz  00824  00824                % 04941 RGTR--
+200201004 Contern, Kräizgaass   00825  00825                % 04941 RGTR--
+200201001 Contern, Birewee      00826  00826                % 04941 RGTR--
+200201008 Contern, Rond Point   00828  00828                % 04941 RGTR--
+200201007 Contern, Weiergewan   00828  00828                % 04941 RGTR--
+200601009 Sandweiler, Schaedha  00831  00831                % 04941 RGTR--
+200414009 Hamm, Ronndréisch     00839  00839                % 04941 RGTR--
+200406024 Cents, Cents-Hamm     00840  00840                % 04941 RGTR--
+200404030 Verlorenkost, Généra  00843  00843                % 04941 RGTR--
+200404001 Verlorenkost, Al Mol  00844  00844                % 04941 RGTR--
+200405013 Centre, F.D. Rooseve  00847                       % 04941 RGTR--
+*Z 04942 RGTR--                                             % 04942 RGTR--
+*L 163      200202001 200405013  00715  00746               % 04942 RGTR--
+*A ag 200202001 200405013 000006  00715  00746              % 04942 RGTR--
+*A cc 200202001 200405013 000006  00715  00746              % 04942 RGTR--
+*R 2 200405013 200202001 200405013  00715  00746            % 04942 RGTR--
+*G RGB 200202001 200405013  00715  00746                    % 04942 RGTR--
+*A VE 200202001 200405013 000006  00715  00746              % 04942 RGTR--
+*I FD 200202001 200405013        0002067  00715  00746      % 04942 RGTR--
+200202001 Medingen, Aire de vi         00715                % 04942 RGTR--
+200202002 Medingen              00716  00716                % 04942 RGTR--
+200203005 Moutfort, Syrbréck    00719  00719                % 04942 RGTR--
+200203002 Moutfort, Juxgaass    00719  00719                % 04942 RGTR--
+200205001 Milbech               00720  00720                % 04942 RGTR--
+200201006 Contern, Millewee     00722  00722                % 04942 RGTR--
+200201003 Contern, Kiircheplaz  00723  00723                % 04942 RGTR--
+200201004 Contern, Kräizgaass   00724  00724                % 04942 RGTR--
+200201001 Contern, Birewee      00725  00725                % 04942 RGTR--
+200201008 Contern, Rond Point   00727  00727                % 04942 RGTR--
+200201007 Contern, Weiergewan   00727  00727                % 04942 RGTR--
+200601009 Sandweiler, Schaedha  00730  00730                % 04942 RGTR--
+200414009 Hamm, Ronndréisch     00738  00738                % 04942 RGTR--
+200406024 Cents, Cents-Hamm     00739  00739                % 04942 RGTR--
+200404030 Verlorenkost, Généra  00742  00742                % 04942 RGTR--
+200404001 Verlorenkost, Al Mol  00743  00743                % 04942 RGTR--
+200405013 Centre, F.D. Rooseve  00746                       % 04942 RGTR--
+*Z 04943 RGTR--                                             % 04943 RGTR--
+*L 163      200202001 200405013  00845  00916               % 04943 RGTR--
+*A ag 200202001 200405013 000006  00845  00916              % 04943 RGTR--
+*A cc 200202001 200405013 000006  00845  00916              % 04943 RGTR--
+*R 2 200405013 200202001 200405013  00845  00916            % 04943 RGTR--
+*G RGB 200202001 200405013  00845  00916                    % 04943 RGTR--
+*A VE 200202001 200405013 000006  00845  00916              % 04943 RGTR--
+*I FD 200202001 200405013        0002841  00845  00916      % 04943 RGTR--
+200202001 Medingen, Aire de vi         00845                % 04943 RGTR--
+200202002 Medingen              00846  00846                % 04943 RGTR--
+200203005 Moutfort, Syrbréck    00849  00849                % 04943 RGTR--
+200203002 Moutfort, Juxgaass    00849  00849                % 04943 RGTR--
+200205001 Milbech               00850  00850                % 04943 RGTR--
+200201006 Contern, Millewee     00852  00852                % 04943 RGTR--
+200201003 Contern, Kiircheplaz  00853  00853                % 04943 RGTR--
+200201004 Contern, Kräizgaass   00854  00854                % 04943 RGTR--
+200201001 Contern, Birewee      00855  00855                % 04943 RGTR--
+200201008 Contern, Rond Point   00857  00857                % 04943 RGTR--
+200201007 Contern, Weiergewan   00857  00857                % 04943 RGTR--
+200601009 Sandweiler, Schaedha  00900  00900                % 04943 RGTR--
+200414009 Hamm, Ronndréisch     00908  00908                % 04943 RGTR--
+200406024 Cents, Cents-Hamm     00909  00909                % 04943 RGTR--
+200404030 Verlorenkost, Généra  00912  00912                % 04943 RGTR--
+200404001 Verlorenkost, Al Mol  00913  00913                % 04943 RGTR--
+200405013 Centre, F.D. Rooseve  00916                       % 04943 RGTR--
+*Z 04944 RGTR--                                             % 04944 RGTR--
+*L 163      200202001 200405013  01645  01716               % 04944 RGTR--
+*A ag 200202001 200405013 000006  01645  01716              % 04944 RGTR--
+*A cc 200202001 200405013 000006  01645  01716              % 04944 RGTR--
+*R 2 200405013 200202001 200405013  01645  01716            % 04944 RGTR--
+*G RGB 200202001 200405013  01645  01716                    % 04944 RGTR--
+*A VE 200202001 200405013 000006  01645  01716              % 04944 RGTR--
+*I FD 200202001 200405013        0001368  01645  01716      % 04944 RGTR--
+200202001 Medingen, Aire de vi         01645                % 04944 RGTR--
+200202002 Medingen              01646  01646                % 04944 RGTR--
+200203005 Moutfort, Syrbréck    01649  01649                % 04944 RGTR--
+200203002 Moutfort, Juxgaass    01649  01649                % 04944 RGTR--
+200205001 Milbech               01650  01650                % 04944 RGTR--
+200201006 Contern, Millewee     01652  01652                % 04944 RGTR--
+200201003 Contern, Kiircheplaz  01653  01653                % 04944 RGTR--
+200201004 Contern, Kräizgaass   01654  01654                % 04944 RGTR--
+200201001 Contern, Birewee      01655  01655                % 04944 RGTR--
+200201008 Contern, Rond Point   01657  01657                % 04944 RGTR--
+200201007 Contern, Weiergewan   01657  01657                % 04944 RGTR--
+200601009 Sandweiler, Schaedha  01700  01700                % 04944 RGTR--
+200414009 Hamm, Ronndréisch     01708  01708                % 04944 RGTR--
+200406024 Cents, Cents-Hamm     01709  01709                % 04944 RGTR--
+200404030 Verlorenkost, Généra  01712  01712                % 04944 RGTR--
+200404001 Verlorenkost, Al Mol  01713  01713                % 04944 RGTR--
+200405013 Centre, F.D. Rooseve  01716                       % 04944 RGTR--
+*Z 04945 RGTR--                                             % 04945 RGTR--
+*L 163      200202001 200405013  01745  01816               % 04945 RGTR--
+*A ag 200202001 200405013 000006  01745  01816              % 04945 RGTR--
+*A cc 200202001 200405013 000006  01745  01816              % 04945 RGTR--
+*R 2 200405013 200202001 200405013  01745  01816            % 04945 RGTR--
+*G RGB 200202001 200405013  01745  01816                    % 04945 RGTR--
+*A VE 200202001 200405013 000006  01745  01816              % 04945 RGTR--
+*I FD 200202001 200405013        0003042  01745  01816      % 04945 RGTR--
+200202001 Medingen, Aire de vi         01745                % 04945 RGTR--
+200202002 Medingen              01746  01746                % 04945 RGTR--
+200203005 Moutfort, Syrbréck    01749  01749                % 04945 RGTR--
+200203002 Moutfort, Juxgaass    01749  01749                % 04945 RGTR--
+200205001 Milbech               01750  01750                % 04945 RGTR--
+200201006 Contern, Millewee     01752  01752                % 04945 RGTR--
+200201003 Contern, Kiircheplaz  01753  01753                % 04945 RGTR--
+200201004 Contern, Kräizgaass   01754  01754                % 04945 RGTR--
+200201001 Contern, Birewee      01755  01755                % 04945 RGTR--
+200201008 Contern, Rond Point   01757  01757                % 04945 RGTR--
+200201007 Contern, Weiergewan   01757  01757                % 04945 RGTR--
+200601009 Sandweiler, Schaedha  01800  01800                % 04945 RGTR--
+200414009 Hamm, Ronndréisch     01808  01808                % 04945 RGTR--
+200406024 Cents, Cents-Hamm     01809  01809                % 04945 RGTR--
+200404030 Verlorenkost, Généra  01812  01812                % 04945 RGTR--
+200404001 Verlorenkost, Al Mol  01813  01813                % 04945 RGTR--
+200405013 Centre, F.D. Rooseve  01816                       % 04945 RGTR--
+*Z 04946 RGTR--                                             % 04946 RGTR--
+*L 163      200202001 200405013  00627  00651               % 04946 RGTR--
+*A ag 200202001 200405013 000006  00627  00651              % 04946 RGTR--
+*A cc 200202001 200405013 000006  00627  00651              % 04946 RGTR--
+*R 2 200405013 200202001 200405013  00627  00651            % 04946 RGTR--
+*G RGB 200202001 200405013  00627  00651                    % 04946 RGTR--
+*A VE 200202001 200405013 000006  00627  00651              % 04946 RGTR--
+*I FD 200202001 200405013        0000955  00627  00651      % 04946 RGTR--
+200202001 Medingen, Aire de vi         00627                % 04946 RGTR--
+200202002 Medingen              00628  00628                % 04946 RGTR--
+200203005 Moutfort, Syrbréck    00631  00631                % 04946 RGTR--
+200203002 Moutfort, Juxgaass    00631  00631                % 04946 RGTR--
+200205001 Milbech               00632  00632                % 04946 RGTR--
+200201006 Contern, Millewee     00634  00634                % 04946 RGTR--
+200201003 Contern, Kiircheplaz  00635  00635                % 04946 RGTR--
+200201004 Contern, Kräizgaass   00635  00635                % 04946 RGTR--
+200201001 Contern, Birewee      00636  00636                % 04946 RGTR--
+200201008 Contern, Rond Point   00638  00638                % 04946 RGTR--
+200201007 Contern, Weiergewan   00639  00639                % 04946 RGTR--
+200601009 Sandweiler, Schaedha  00641  00641                % 04946 RGTR--
+200414009 Hamm, Ronndréisch     00644  00644                % 04946 RGTR--
+200406024 Cents, Cents-Hamm     00646  00646                % 04946 RGTR--
+200404030 Verlorenkost, Généra  00647  00647                % 04946 RGTR--
+200404001 Verlorenkost, Al Mol  00648  00648                % 04946 RGTR--
+200405013 Centre, F.D. Rooseve  00651                       % 04946 RGTR--
+*Z 04947 RGTR--                                             % 04947 RGTR--
+*L 163      200202001 200405013  00945  01009               % 04947 RGTR--
+*A ag 200202001 200405013 000006  00945  01009              % 04947 RGTR--
+*A cc 200202001 200405013 000006  00945  01009              % 04947 RGTR--
+*R 2 200405013 200202001 200405013  00945  01009            % 04947 RGTR--
+*G RGB 200202001 200405013  00945  01009                    % 04947 RGTR--
+*A VE 200202001 200405013 000006  00945  01009              % 04947 RGTR--
+*I FD 200202001 200405013        0002842  00945  01009      % 04947 RGTR--
+200202001 Medingen, Aire de vi         00945                % 04947 RGTR--
+200202002 Medingen              00946  00946                % 04947 RGTR--
+200203005 Moutfort, Syrbréck    00949  00949                % 04947 RGTR--
+200203002 Moutfort, Juxgaass    00949  00949                % 04947 RGTR--
+200205001 Milbech               00950  00950                % 04947 RGTR--
+200201006 Contern, Millewee     00952  00952                % 04947 RGTR--
+200201003 Contern, Kiircheplaz  00953  00953                % 04947 RGTR--
+200201004 Contern, Kräizgaass   00953  00953                % 04947 RGTR--
+200201001 Contern, Birewee      00954  00954                % 04947 RGTR--
+200201008 Contern, Rond Point   00956  00956                % 04947 RGTR--
+200201007 Contern, Weiergewan   00957  00957                % 04947 RGTR--
+200601009 Sandweiler, Schaedha  00959  00959                % 04947 RGTR--
+200414009 Hamm, Ronndréisch     01002  01002                % 04947 RGTR--
+200406024 Cents, Cents-Hamm     01004  01004                % 04947 RGTR--
+200404030 Verlorenkost, Généra  01005  01005                % 04947 RGTR--
+200404001 Verlorenkost, Al Mol  01006  01006                % 04947 RGTR--
+200405013 Centre, F.D. Rooseve  01009                       % 04947 RGTR--
+*Z 04948 RGTR--                                             % 04948 RGTR--
+*L 163      200202001 200405013  01045  01109               % 04948 RGTR--
+*A ag 200202001 200405013 000006  01045  01109              % 04948 RGTR--
+*A cc 200202001 200405013 000006  01045  01109              % 04948 RGTR--
+*R 2 200405013 200202001 200405013  01045  01109            % 04948 RGTR--
+*G RGB 200202001 200405013  01045  01109                    % 04948 RGTR--
+*A VE 200202001 200405013 000006  01045  01109              % 04948 RGTR--
+*I FD 200202001 200405013        0002846  01045  01109      % 04948 RGTR--
+200202001 Medingen, Aire de vi         01045                % 04948 RGTR--
+200202002 Medingen              01046  01046                % 04948 RGTR--
+200203005 Moutfort, Syrbréck    01049  01049                % 04948 RGTR--
+200203002 Moutfort, Juxgaass    01049  01049                % 04948 RGTR--
+200205001 Milbech               01050  01050                % 04948 RGTR--
+200201006 Contern, Millewee     01052  01052                % 04948 RGTR--
+200201003 Contern, Kiircheplaz  01053  01053                % 04948 RGTR--
+200201004 Contern, Kräizgaass   01053  01053                % 04948 RGTR--
+200201001 Contern, Birewee      01054  01054                % 04948 RGTR--
+200201008 Contern, Rond Point   01056  01056                % 04948 RGTR--
+200201007 Contern, Weiergewan   01057  01057                % 04948 RGTR--
+200601009 Sandweiler, Schaedha  01059  01059                % 04948 RGTR--
+200414009 Hamm, Ronndréisch     01102  01102                % 04948 RGTR--
+200406024 Cents, Cents-Hamm     01104  01104                % 04948 RGTR--
+200404030 Verlorenkost, Généra  01105  01105                % 04948 RGTR--
+200404001 Verlorenkost, Al Mol  01106  01106                % 04948 RGTR--
+200405013 Centre, F.D. Rooseve  01109                       % 04948 RGTR--
+*Z 04949 RGTR--                                             % 04949 RGTR--
+*L 163      200202001 200405013  01145  01209               % 04949 RGTR--
+*A ag 200202001 200405013 000006  01145  01209              % 04949 RGTR--
+*A cc 200202001 200405013 000006  01145  01209              % 04949 RGTR--
+*R 2 200405013 200202001 200405013  01145  01209            % 04949 RGTR--
+*G RGB 200202001 200405013  01145  01209                    % 04949 RGTR--
+*A VE 200202001 200405013 000006  01145  01209              % 04949 RGTR--
+*I FD 200202001 200405013        0002818  01145  01209      % 04949 RGTR--
+200202001 Medingen, Aire de vi         01145                % 04949 RGTR--
+200202002 Medingen              01146  01146                % 04949 RGTR--
+200203005 Moutfort, Syrbréck    01149  01149                % 04949 RGTR--
+200203002 Moutfort, Juxgaass    01149  01149                % 04949 RGTR--
+200205001 Milbech               01150  01150                % 04949 RGTR--
+200201006 Contern, Millewee     01152  01152                % 04949 RGTR--
+200201003 Contern, Kiircheplaz  01153  01153                % 04949 RGTR--
+200201004 Contern, Kräizgaass   01153  01153                % 04949 RGTR--
+200201001 Contern, Birewee      01154  01154                % 04949 RGTR--
+200201008 Contern, Rond Point   01156  01156                % 04949 RGTR--
+200201007 Contern, Weiergewan   01157  01157                % 04949 RGTR--
+200601009 Sandweiler, Schaedha  01159  01159                % 04949 RGTR--
+200414009 Hamm, Ronndréisch     01202  01202                % 04949 RGTR--
+200406024 Cents, Cents-Hamm     01204  01204                % 04949 RGTR--
+200404030 Verlorenkost, Généra  01205  01205                % 04949 RGTR--
+200404001 Verlorenkost, Al Mol  01206  01206                % 04949 RGTR--
+200405013 Centre, F.D. Rooseve  01209                       % 04949 RGTR--
+*Z 04950 RGTR--                                             % 04950 RGTR--
+*L 163      200202001 200405013  01245  01309               % 04950 RGTR--
+*A ag 200202001 200405013 000006  01245  01309              % 04950 RGTR--
+*A cc 200202001 200405013 000006  01245  01309              % 04950 RGTR--
+*R 2 200405013 200202001 200405013  01245  01309            % 04950 RGTR--
+*G RGB 200202001 200405013  01245  01309                    % 04950 RGTR--
+*A VE 200202001 200405013 000006  01245  01309              % 04950 RGTR--
+*I FD 200202001 200405013        0002743  01245  01309      % 04950 RGTR--
+200202001 Medingen, Aire de vi         01245                % 04950 RGTR--
+200202002 Medingen              01246  01246                % 04950 RGTR--
+200203005 Moutfort, Syrbréck    01249  01249                % 04950 RGTR--
+200203002 Moutfort, Juxgaass    01249  01249                % 04950 RGTR--
+200205001 Milbech               01250  01250                % 04950 RGTR--
+200201006 Contern, Millewee     01252  01252                % 04950 RGTR--
+200201003 Contern, Kiircheplaz  01253  01253                % 04950 RGTR--
+200201004 Contern, Kräizgaass   01253  01253                % 04950 RGTR--
+200201001 Contern, Birewee      01254  01254                % 04950 RGTR--
+200201008 Contern, Rond Point   01256  01256                % 04950 RGTR--
+200201007 Contern, Weiergewan   01257  01257                % 04950 RGTR--
+200601009 Sandweiler, Schaedha  01259  01259                % 04950 RGTR--
+200414009 Hamm, Ronndréisch     01302  01302                % 04950 RGTR--
+200406024 Cents, Cents-Hamm     01304  01304                % 04950 RGTR--
+200404030 Verlorenkost, Généra  01305  01305                % 04950 RGTR--
+200404001 Verlorenkost, Al Mol  01306  01306                % 04950 RGTR--
+200405013 Centre, F.D. Rooseve  01309                       % 04950 RGTR--
+*Z 04951 RGTR--                                             % 04951 RGTR--
+*L 163      200202001 200405013  01315  01339               % 04951 RGTR--
+*A ag 200202001 200405013 000006  01315  01339              % 04951 RGTR--
+*A cc 200202001 200405013 000006  01315  01339              % 04951 RGTR--
+*R 2 200405013 200202001 200405013  01315  01339            % 04951 RGTR--
+*G RGB 200202001 200405013  01315  01339                    % 04951 RGTR--
+*A VE 200202001 200405013 000006  01315  01339              % 04951 RGTR--
+*I FD 200202001 200405013        0002542  01315  01339      % 04951 RGTR--
+200202001 Medingen, Aire de vi         01315                % 04951 RGTR--
+200202002 Medingen              01316  01316                % 04951 RGTR--
+200203005 Moutfort, Syrbréck    01319  01319                % 04951 RGTR--
+200203002 Moutfort, Juxgaass    01319  01319                % 04951 RGTR--
+200205001 Milbech               01320  01320                % 04951 RGTR--
+200201006 Contern, Millewee     01322  01322                % 04951 RGTR--
+200201003 Contern, Kiircheplaz  01323  01323                % 04951 RGTR--
+200201004 Contern, Kräizgaass   01323  01323                % 04951 RGTR--
+200201001 Contern, Birewee      01324  01324                % 04951 RGTR--
+200201008 Contern, Rond Point   01326  01326                % 04951 RGTR--
+200201007 Contern, Weiergewan   01327  01327                % 04951 RGTR--
+200601009 Sandweiler, Schaedha  01329  01329                % 04951 RGTR--
+200414009 Hamm, Ronndréisch     01332  01332                % 04951 RGTR--
+200406024 Cents, Cents-Hamm     01334  01334                % 04951 RGTR--
+200404030 Verlorenkost, Généra  01335  01335                % 04951 RGTR--
+200404001 Verlorenkost, Al Mol  01336  01336                % 04951 RGTR--
+200405013 Centre, F.D. Rooseve  01339                       % 04951 RGTR--
+*Z 04952 RGTR--                                             % 04952 RGTR--
+*L 163      200202001 200405013  01345  01409               % 04952 RGTR--
+*A ag 200202001 200405013 000006  01345  01409              % 04952 RGTR--
+*A cc 200202001 200405013 000006  01345  01409              % 04952 RGTR--
+*R 2 200405013 200202001 200405013  01345  01409            % 04952 RGTR--
+*G RGB 200202001 200405013  01345  01409                    % 04952 RGTR--
+*A VE 200202001 200405013 000006  01345  01409              % 04952 RGTR--
+*I FD 200202001 200405013        0002843  01345  01409      % 04952 RGTR--
+200202001 Medingen, Aire de vi         01345                % 04952 RGTR--
+200202002 Medingen              01346  01346                % 04952 RGTR--
+200203005 Moutfort, Syrbréck    01349  01349                % 04952 RGTR--
+200203002 Moutfort, Juxgaass    01349  01349                % 04952 RGTR--
+200205001 Milbech               01350  01350                % 04952 RGTR--
+200201006 Contern, Millewee     01352  01352                % 04952 RGTR--
+200201003 Contern, Kiircheplaz  01353  01353                % 04952 RGTR--
+200201004 Contern, Kräizgaass   01353  01353                % 04952 RGTR--
+200201001 Contern, Birewee      01354  01354                % 04952 RGTR--
+200201008 Contern, Rond Point   01356  01356                % 04952 RGTR--
+200201007 Contern, Weiergewan   01357  01357                % 04952 RGTR--
+200601009 Sandweiler, Schaedha  01359  01359                % 04952 RGTR--
+200414009 Hamm, Ronndréisch     01402  01402                % 04952 RGTR--
+200406024 Cents, Cents-Hamm     01404  01404                % 04952 RGTR--
+200404030 Verlorenkost, Généra  01405  01405                % 04952 RGTR--
+200404001 Verlorenkost, Al Mol  01406  01406                % 04952 RGTR--
+200405013 Centre, F.D. Rooseve  01409                       % 04952 RGTR--
+*Z 04953 RGTR--                                             % 04953 RGTR--
+*L 163      200202001 200405013  01445  01509               % 04953 RGTR--
+*A ag 200202001 200405013 000006  01445  01509              % 04953 RGTR--
+*A cc 200202001 200405013 000006  01445  01509              % 04953 RGTR--
+*R 2 200405013 200202001 200405013  01445  01509            % 04953 RGTR--
+*G RGB 200202001 200405013  01445  01509                    % 04953 RGTR--
+*A VE 200202001 200405013 000006  01445  01509              % 04953 RGTR--
+*I FD 200202001 200405013        0002420  01445  01509      % 04953 RGTR--
+200202001 Medingen, Aire de vi         01445                % 04953 RGTR--
+200202002 Medingen              01446  01446                % 04953 RGTR--
+200203005 Moutfort, Syrbréck    01449  01449                % 04953 RGTR--
+200203002 Moutfort, Juxgaass    01449  01449                % 04953 RGTR--
+200205001 Milbech               01450  01450                % 04953 RGTR--
+200201006 Contern, Millewee     01452  01452                % 04953 RGTR--
+200201003 Contern, Kiircheplaz  01453  01453                % 04953 RGTR--
+200201004 Contern, Kräizgaass   01453  01453                % 04953 RGTR--
+200201001 Contern, Birewee      01454  01454                % 04953 RGTR--
+200201008 Contern, Rond Point   01456  01456                % 04953 RGTR--
+200201007 Contern, Weiergewan   01457  01457                % 04953 RGTR--
+200601009 Sandweiler, Schaedha  01459  01459                % 04953 RGTR--
+200414009 Hamm, Ronndréisch     01502  01502                % 04953 RGTR--
+200406024 Cents, Cents-Hamm     01504  01504                % 04953 RGTR--
+200404030 Verlorenkost, Généra  01505  01505                % 04953 RGTR--
+200404001 Verlorenkost, Al Mol  01506  01506                % 04953 RGTR--
+200405013 Centre, F.D. Rooseve  01509                       % 04953 RGTR--
+*Z 04954 RGTR--                                             % 04954 RGTR--
+*L 163      200202001 200405013  01545  01609               % 04954 RGTR--
+*A ag 200202001 200405013 000006  01545  01609              % 04954 RGTR--
+*A cc 200202001 200405013 000006  01545  01609              % 04954 RGTR--
+*R 2 200405013 200202001 200405013  01545  01609            % 04954 RGTR--
+*G RGB 200202001 200405013  01545  01609                    % 04954 RGTR--
+*A VE 200202001 200405013 000006  01545  01609              % 04954 RGTR--
+*I FD 200202001 200405013        0002819  01545  01609      % 04954 RGTR--
+200202001 Medingen, Aire de vi         01545                % 04954 RGTR--
+200202002 Medingen              01546  01546                % 04954 RGTR--
+200203005 Moutfort, Syrbréck    01549  01549                % 04954 RGTR--
+200203002 Moutfort, Juxgaass    01549  01549                % 04954 RGTR--
+200205001 Milbech               01550  01550                % 04954 RGTR--
+200201006 Contern, Millewee     01552  01552                % 04954 RGTR--
+200201003 Contern, Kiircheplaz  01553  01553                % 04954 RGTR--
+200201004 Contern, Kräizgaass   01553  01553                % 04954 RGTR--
+200201001 Contern, Birewee      01554  01554                % 04954 RGTR--
+200201008 Contern, Rond Point   01556  01556                % 04954 RGTR--
+200201007 Contern, Weiergewan   01557  01557                % 04954 RGTR--
+200601009 Sandweiler, Schaedha  01559  01559                % 04954 RGTR--
+200414009 Hamm, Ronndréisch     01602  01602                % 04954 RGTR--
+200406024 Cents, Cents-Hamm     01604  01604                % 04954 RGTR--
+200404030 Verlorenkost, Généra  01605  01605                % 04954 RGTR--
+200404001 Verlorenkost, Al Mol  01606  01606                % 04954 RGTR--
+200405013 Centre, F.D. Rooseve  01609                       % 04954 RGTR--
+*Z 04955 RGTR--                                             % 04955 RGTR--
+*L 163      200202001 200405013  01845  01909               % 04955 RGTR--
+*A ag 200202001 200405013 000006  01845  01909              % 04955 RGTR--
+*A cc 200202001 200405013 000006  01845  01909              % 04955 RGTR--
+*R 2 200405013 200202001 200405013  01845  01909            % 04955 RGTR--
+*G RGB 200202001 200405013  01845  01909                    % 04955 RGTR--
+*A VE 200202001 200405013 000006  01845  01909              % 04955 RGTR--
+*I FD 200202001 200405013        0001464  01845  01909      % 04955 RGTR--
+200202001 Medingen, Aire de vi         01845                % 04955 RGTR--
+200202002 Medingen              01846  01846                % 04955 RGTR--
+200203005 Moutfort, Syrbréck    01849  01849                % 04955 RGTR--
+200203002 Moutfort, Juxgaass    01849  01849                % 04955 RGTR--
+200205001 Milbech               01850  01850                % 04955 RGTR--
+200201006 Contern, Millewee     01852  01852                % 04955 RGTR--
+200201003 Contern, Kiircheplaz  01853  01853                % 04955 RGTR--
+200201004 Contern, Kräizgaass   01853  01853                % 04955 RGTR--
+200201001 Contern, Birewee      01854  01854                % 04955 RGTR--
+200201008 Contern, Rond Point   01856  01856                % 04955 RGTR--
+200201007 Contern, Weiergewan   01857  01857                % 04955 RGTR--
+200601009 Sandweiler, Schaedha  01859  01859                % 04955 RGTR--
+200414009 Hamm, Ronndréisch     01902  01902                % 04955 RGTR--
+200406024 Cents, Cents-Hamm     01904  01904                % 04955 RGTR--
+200404030 Verlorenkost, Généra  01905  01905                % 04955 RGTR--
+200404001 Verlorenkost, Al Mol  01906  01906                % 04955 RGTR--
+200405013 Centre, F.D. Rooseve  01909                       % 04955 RGTR--
+*Z 04956 RGTR--                                             % 04956 RGTR--
+*L 163      200202001 200405013  01945  02009               % 04956 RGTR--
+*A ag 200202001 200405013 000006  01945  02009              % 04956 RGTR--
+*A cc 200202001 200405013 000006  01945  02009              % 04956 RGTR--
+*R 2 200405013 200202001 200405013  01945  02009            % 04956 RGTR--
+*G RGB 200202001 200405013  01945  02009                    % 04956 RGTR--
+*A VE 200202001 200405013 000006  01945  02009              % 04956 RGTR--
+*I FD 200202001 200405013        0003405  01945  02009      % 04956 RGTR--
+200202001 Medingen, Aire de vi         01945                % 04956 RGTR--
+200202002 Medingen              01946  01946                % 04956 RGTR--
+200203005 Moutfort, Syrbréck    01949  01949                % 04956 RGTR--
+200203002 Moutfort, Juxgaass    01949  01949                % 04956 RGTR--
+200205001 Milbech               01950  01950                % 04956 RGTR--
+200201006 Contern, Millewee     01952  01952                % 04956 RGTR--
+200201003 Contern, Kiircheplaz  01953  01953                % 04956 RGTR--
+200201004 Contern, Kräizgaass   01953  01953                % 04956 RGTR--
+200201001 Contern, Birewee      01954  01954                % 04956 RGTR--
+200201008 Contern, Rond Point   01956  01956                % 04956 RGTR--
+200201007 Contern, Weiergewan   01957  01957                % 04956 RGTR--
+200601009 Sandweiler, Schaedha  01959  01959                % 04956 RGTR--
+200414009 Hamm, Ronndréisch     02002  02002                % 04956 RGTR--
+200406024 Cents, Cents-Hamm     02004  02004                % 04956 RGTR--
+200404030 Verlorenkost, Généra  02005  02005                % 04956 RGTR--
+200404001 Verlorenkost, Al Mol  02006  02006                % 04956 RGTR--
+200405013 Centre, F.D. Rooseve  02009                       % 04956 RGTR--
+*Z 04957 RGTR--                                             % 04957 RGTR--
+*L 163      200202001 200405013  02045  02109               % 04957 RGTR--
+*A ag 200202001 200405013 000006  02045  02109              % 04957 RGTR--
+*A cc 200202001 200405013 000006  02045  02109              % 04957 RGTR--
+*R 2 200405013 200202001 200405013  02045  02109            % 04957 RGTR--
+*G RGB 200202001 200405013  02045  02109                    % 04957 RGTR--
+*A VE 200202001 200405013 000006  02045  02109              % 04957 RGTR--
+*I FD 200202001 200405013        0002810  02045  02109      % 04957 RGTR--
+200202001 Medingen, Aire de vi         02045                % 04957 RGTR--
+200202002 Medingen              02046  02046                % 04957 RGTR--
+200203005 Moutfort, Syrbréck    02049  02049                % 04957 RGTR--
+200203002 Moutfort, Juxgaass    02049  02049                % 04957 RGTR--
+200205001 Milbech               02050  02050                % 04957 RGTR--
+200201006 Contern, Millewee     02052  02052                % 04957 RGTR--
+200201003 Contern, Kiircheplaz  02053  02053                % 04957 RGTR--
+200201004 Contern, Kräizgaass   02053  02053                % 04957 RGTR--
+200201001 Contern, Birewee      02054  02054                % 04957 RGTR--
+200201008 Contern, Rond Point   02056  02056                % 04957 RGTR--
+200201007 Contern, Weiergewan   02057  02057                % 04957 RGTR--
+200601009 Sandweiler, Schaedha  02059  02059                % 04957 RGTR--
+200414009 Hamm, Ronndréisch     02102  02102                % 04957 RGTR--
+200406024 Cents, Cents-Hamm     02104  02104                % 04957 RGTR--
+200404030 Verlorenkost, Généra  02105  02105                % 04957 RGTR--
+200404001 Verlorenkost, Al Mol  02106  02106                % 04957 RGTR--
+200405013 Centre, F.D. Rooseve  02109                       % 04957 RGTR--
+*Z 04958 RGTR--                                             % 04958 RGTR--
+*L 163      200202001 200405013  02145  02209               % 04958 RGTR--
+*A ag 200202001 200405013 000006  02145  02209              % 04958 RGTR--
+*A cc 200202001 200405013 000006  02145  02209              % 04958 RGTR--
+*R 2 200405013 200202001 200405013  02145  02209            % 04958 RGTR--
+*G RGB 200202001 200405013  02145  02209                    % 04958 RGTR--
+*A VE 200202001 200405013 000006  02145  02209              % 04958 RGTR--
+*I FD 200202001 200405013        0001553  02145  02209      % 04958 RGTR--
+200202001 Medingen, Aire de vi         02145                % 04958 RGTR--
+200202002 Medingen              02146  02146                % 04958 RGTR--
+200203005 Moutfort, Syrbréck    02149  02149                % 04958 RGTR--
+200203002 Moutfort, Juxgaass    02149  02149                % 04958 RGTR--
+200205001 Milbech               02150  02150                % 04958 RGTR--
+200201006 Contern, Millewee     02152  02152                % 04958 RGTR--
+200201003 Contern, Kiircheplaz  02153  02153                % 04958 RGTR--
+200201004 Contern, Kräizgaass   02153  02153                % 04958 RGTR--
+200201001 Contern, Birewee      02154  02154                % 04958 RGTR--
+200201008 Contern, Rond Point   02156  02156                % 04958 RGTR--
+200201007 Contern, Weiergewan   02157  02157                % 04958 RGTR--
+200601009 Sandweiler, Schaedha  02159  02159                % 04958 RGTR--
+200414009 Hamm, Ronndréisch     02202  02202                % 04958 RGTR--
+200406024 Cents, Cents-Hamm     02204  02204                % 04958 RGTR--
+200404030 Verlorenkost, Généra  02205  02205                % 04958 RGTR--
+200404001 Verlorenkost, Al Mol  02206  02206                % 04958 RGTR--
+200405013 Centre, F.D. Rooseve  02209                       % 04958 RGTR--
+*Z 04959 RGTR--                                             % 04959 RGTR--
+*L 163      200202001 200405013  02245  02309               % 04959 RGTR--
+*A ag 200202001 200405013 000006  02245  02309              % 04959 RGTR--
+*A cc 200202001 200405013 000006  02245  02309              % 04959 RGTR--
+*R 2 200405013 200202001 200405013  02245  02309            % 04959 RGTR--
+*G RGB 200202001 200405013  02245  02309                    % 04959 RGTR--
+*A VE 200202001 200405013 000006  02245  02309              % 04959 RGTR--
+*I FD 200202001 200405013        0002894  02245  02309      % 04959 RGTR--
+200202001 Medingen, Aire de vi         02245                % 04959 RGTR--
+200202002 Medingen              02246  02246                % 04959 RGTR--
+200203005 Moutfort, Syrbréck    02249  02249                % 04959 RGTR--
+200203002 Moutfort, Juxgaass    02249  02249                % 04959 RGTR--
+200205001 Milbech               02250  02250                % 04959 RGTR--
+200201006 Contern, Millewee     02252  02252                % 04959 RGTR--
+200201003 Contern, Kiircheplaz  02253  02253                % 04959 RGTR--
+200201004 Contern, Kräizgaass   02253  02253                % 04959 RGTR--
+200201001 Contern, Birewee      02254  02254                % 04959 RGTR--
+200201008 Contern, Rond Point   02256  02256                % 04959 RGTR--
+200201007 Contern, Weiergewan   02257  02257                % 04959 RGTR--
+200601009 Sandweiler, Schaedha  02259  02259                % 04959 RGTR--
+200414009 Hamm, Ronndréisch     02302  02302                % 04959 RGTR--
+200406024 Cents, Cents-Hamm     02304  02304                % 04959 RGTR--
+200404030 Verlorenkost, Généra  02305  02305                % 04959 RGTR--
+200404001 Verlorenkost, Al Mol  02306  02306                % 04959 RGTR--
+200405013 Centre, F.D. Rooseve  02309                       % 04959 RGTR--
