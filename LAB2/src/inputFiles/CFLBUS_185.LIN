@@ -1,0 +1,92 @@
+*F 03 2
+*Z 00036 CFLBUS                                             % 00036 CFLBUS
+*L 185      211002001 210502001  00633  00654               % 00036 CFLBUS
+*A vm 211002001 210502001 000035  00633  00654              % 00036 CFLBUS
+*R 1 210502001 211002001 210502001  00633  00654            % 00036 CFLBUS
+*G RGB 211002001 210502001  00633  00654                    % 00036 CFLBUS
+*A VE 211002001 210502001 000035  00633  00654              % 00036 CFLBUS
+*I FD 211002001 210502001        0001914  00633  00654      % 00036 CFLBUS
+211002001 Schwebsingen, Centre         00633                % 00036 CFLBUS
+211002002 Schwebsingen, Op der  00633  00633                % 00036 CFLBUS
+210603001 Wintrange, Dorefplaz  00635  00635                % 00036 CFLBUS
+210601001 Remerschen, Al Schou  00636  00636                % 00036 CFLBUS
+210601003 Remerschen, Kiosk     00637  00637                % 00036 CFLBUS
+210601002 Remerschen, Ennen am  00637  00637                % 00036 CFLBUS
+210602004 Schengen, Séckerbaac  00640  00640                % 00036 CFLBUS
+210602001 Schengen, Ennen am D  00640  00640                % 00036 CFLBUS
+210201002 Burmerange, Résidenc  00646  00646                % 00036 CFLBUS
+210201001 Burmerange, Bei der   00647  00647                % 00036 CFLBUS
+210201003 Burmerange, Um Schot  00647  00647                % 00036 CFLBUS
+210202002 Elvange/Mondorf, Kal  00650  00650                % 00036 CFLBUS
+210202001 Elvange/Mondorf, Bei  00651  00651                % 00036 CFLBUS
+210202003 Elvange/Mondorf, Vil  00652  00652                % 00036 CFLBUS
+210502001 Ellenger Gare         00654                       % 00036 CFLBUS
+*Z 00034 CFLBUS                                             % 00034 CFLBUS
+*L 185      211002001 210502001  00633  00654               % 00034 CFLBUS
+*A vm 211002001 210502001 000034  00633  00654              % 00034 CFLBUS
+*R 1 210502001 211002001 210502001  00633  00654            % 00034 CFLBUS
+*G RGB 211002001 210502001  00633  00654                    % 00034 CFLBUS
+*A VE 211002001 210502001 000034  00633  00654              % 00034 CFLBUS
+*I FD 211002001 210502001        0001914  00633  00654      % 00034 CFLBUS
+211002001 Schwebsingen, Centre         00633                % 00034 CFLBUS
+211002002 Schwebsingen, Op der  00633  00633                % 00034 CFLBUS
+210603001 Wintrange, Dorefplaz  00635  00635                % 00034 CFLBUS
+210601001 Remerschen, Al Schou  00636  00636                % 00034 CFLBUS
+210601003 Remerschen, Kiosk     00637  00637                % 00034 CFLBUS
+210601002 Remerschen, Ennen am  00637  00637                % 00034 CFLBUS
+210602004 Schengen, Séckerbaac  00640  00640                % 00034 CFLBUS
+210602001 Schengen, Ennen am D  00640  00640                % 00034 CFLBUS
+210201002 Burmerange, Résidenc  00646  00646                % 00034 CFLBUS
+210201001 Burmerange, Bei der   00647  00647                % 00034 CFLBUS
+210201003 Burmerange, Um Schot  00647  00647                % 00034 CFLBUS
+210202002 Elvange/Mondorf, Kal  00650  00650                % 00034 CFLBUS
+210202001 Elvange/Mondorf, Bei  00651  00651                % 00034 CFLBUS
+210202003 Elvange/Mondorf, Vil  00652  00652                % 00034 CFLBUS
+210502001 Ellenger Gare         00654                       % 00034 CFLBUS
+*Z 00032 CFLBUS                                             % 00032 CFLBUS
+*L 185      211002001 210502001  00633  00654               % 00032 CFLBUS
+*A vm 211002001 210502001 000025  00633  00654              % 00032 CFLBUS
+*R 1 210502001 211002001 210502001  00633  00654            % 00032 CFLBUS
+*G RGB 211002001 210502001  00633  00654                    % 00032 CFLBUS
+*A VE 211002001 210502001 000025  00633  00654              % 00032 CFLBUS
+*I FD 211002001 210502001        0001914  00633  00654      % 00032 CFLBUS
+211002001 Schwebsingen, Centre         00633                % 00032 CFLBUS
+211002002 Schwebsingen, Op der  00633  00633                % 00032 CFLBUS
+210603001 Wintrange, Dorefplaz  00635  00635                % 00032 CFLBUS
+210601001 Remerschen, Al Schou  00636  00636                % 00032 CFLBUS
+210601003 Remerschen, Kiosk     00637  00637                % 00032 CFLBUS
+210601002 Remerschen, Ennen am  00637  00637                % 00032 CFLBUS
+210602004 Schengen, Séckerbaac  00640  00640                % 00032 CFLBUS
+210602001 Schengen, Ennen am D  00640  00640                % 00032 CFLBUS
+210201002 Burmerange, Résidenc  00646  00646                % 00032 CFLBUS
+210201001 Burmerange, Bei der   00647  00647                % 00032 CFLBUS
+210201003 Burmerange, Um Schot  00647  00647                % 00032 CFLBUS
+210202002 Elvange/Mondorf, Kal  00650  00650                % 00032 CFLBUS
+210202001 Elvange/Mondorf, Bei  00651  00651                % 00032 CFLBUS
+210202003 Elvange/Mondorf, Vil  00652  00652                % 00032 CFLBUS
+210502001 Ellenger Gare         00654                       % 00032 CFLBUS
+*Z 00030 CFLBUS                                             % 00030 CFLBUS
+*L 185      211002001 210502001  00632  00654               % 00030 CFLBUS
+*A vm 211002001 210502001 000032  00632  00654              % 00030 CFLBUS
+*R 1 210502001 211002001 210502001  00632  00654            % 00030 CFLBUS
+*G RGB 211002001 210502001  00632  00654                    % 00030 CFLBUS
+*A VE 211002001 210502001 000032  00632  00654              % 00030 CFLBUS
+*I FD 211002001 210502001        0001914  00632  00654      % 00030 CFLBUS
+211002001 Schwebsingen, Centre         00632                % 00030 CFLBUS
+211002002 Schwebsingen, Op der  00633  00633                % 00030 CFLBUS
+210603001 Wintrange, Dorefplaz  00634  00634                % 00030 CFLBUS
+210601001 Remerschen, Al Schou  00636  00636                % 00030 CFLBUS
+210601003 Remerschen, Kiosk     00636  00636                % 00030 CFLBUS
+210601002 Remerschen, Ennen am  00637  00637                % 00030 CFLBUS
+210602004 Schengen, Séckerbaac  00639  00639                % 00030 CFLBUS
+210602001 Schengen, Ennen am D  00640  00640                % 00030 CFLBUS
+210602002 Schengen, Koerech     00641  00641                % 00030 CFLBUS
+210602003 Schengen, Schoul      00641  00641                % 00030 CFLBUS
+210602005 Schengen, Um Haff     00642  00642                % 00030 CFLBUS
+210201002 Burmerange, Résidenc  00646  00646                % 00030 CFLBUS
+210201001 Burmerange, Bei der   00647  00647                % 00030 CFLBUS
+210201003 Burmerange, Um Schot  00647  00647                % 00030 CFLBUS
+210202002 Elvange/Mondorf, Kal  00650  00650                % 00030 CFLBUS
+210202001 Elvange/Mondorf, Bei  00651  00651                % 00030 CFLBUS
+210202003 Elvange/Mondorf, Vil  00652  00652                % 00030 CFLBUS
+210502001 Ellenger Gare         00654                       % 00030 CFLBUS

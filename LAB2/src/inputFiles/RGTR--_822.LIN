@@ -1,0 +1,211 @@
+*F 03 2
+*Z 09058 RGTR--                                             % 09058 RGTR--
+*L 822      300000020 160301007  00430  00522               % 09058 RGTR--
+*A gu 300000020 160301007 000006  00430  00522              % 09058 RGTR--
+*A jd 300000020 160301007 000006  00430  00522              % 09058 RGTR--
+*A hj 300000020 160301007 000006  00430  00522              % 09058 RGTR--
+*A HB 300000020 160301007 000006  00430  00522              % 09058 RGTR--
+*R 1 160301007 300000020 160301007  00430  00522            % 09058 RGTR--
+*G RGB 300000020 160301007  00430  00522                    % 09058 RGTR--
+*A VE 300000020 160301007 000006  00430  00522              % 09058 RGTR--
+*I FD 300000020 160301007        0003724  00430  00522      % 09058 RGTR--
+300000020 Bastogne, Centre Spo         00430                % 09058 RGTR--
+300000110 Bastogne, Hôtel de V  00431  00431                % 09058 RGTR--
+300000023 Bastogne, Place Merc  00432  00432                % 09058 RGTR--
+300000027 Bastogne, Home Marke  00433  00433                % 09058 RGTR--
+300000111 Marvie, Grand Route   00435  00435                % 09058 RGTR--
+300000107 Wardin, rue de Basto  00438  00438                % 09058 RGTR--
+300000108 Wardin, rue de Basto  00439  00439                % 09058 RGTR--
+300000109 Wardin, École         00440  00440                % 09058 RGTR--
+300000029 Bras, Carrefour       00443  00443                % 09058 RGTR--
+121006003 Pommerlach (Knauf)    00447  00447                % 09058 RGTR--
+121006001 Pommerlach, Theis     00447  00447                % 09058 RGTR--
+120402001 Büderscheid, Bitscht  00454  00454                % 09058 RGTR--
+120503001 Heischtergronn, Beim  00457  00457                % 09058 RGTR--
+120502002 Heiderscheid          00503  00503                % 09058 RGTR--
+120502003 Heiderscheid, Zone C  00504  00504                % 09058 RGTR--
+120502001 Heiderscheid, Fuusse  00505  00505                % 09058 RGTR--
+140801005 Niederfeulen, Atelie  00509  00509                % 09058 RGTR--
+140801001 Niederfeulen, Belle   00509  00509                % 09058 RGTR--
+140801002 Niederfeulen, Faubou  00511  00511                % 09058 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00514  00514                % 09058 RGTR--
+140701026 Ettelbruck, Rond Poi  00515  00515                % 09058 RGTR--
+140701018 Ettelbruck, H.v.Land  00516  00516                % 09058 RGTR--
+160301002 Colmar, Centre        00520  00520                % 09058 RGTR--
+160301007 Colmar, Usines        00522                       % 09058 RGTR--
+*Z 09059 RGTR--                                             % 09059 RGTR--
+*L 822      300000020 160301007  01230  01322               % 09059 RGTR--
+*A gu 300000020 160301007 000006  01230  01322              % 09059 RGTR--
+*A jd 300000020 160301007 000006  01230  01322              % 09059 RGTR--
+*A hj 300000020 160301007 000006  01230  01322              % 09059 RGTR--
+*A HB 300000020 160301007 000006  01230  01322              % 09059 RGTR--
+*R 1 160301007 300000020 160301007  01230  01322            % 09059 RGTR--
+*G RGB 300000020 160301007  01230  01322                    % 09059 RGTR--
+*A VE 300000020 160301007 000006  01230  01322              % 09059 RGTR--
+*I FD 300000020 160301007        0001884  01230  01322      % 09059 RGTR--
+300000020 Bastogne, Centre Spo         01230                % 09059 RGTR--
+300000110 Bastogne, Hôtel de V  01231  01231                % 09059 RGTR--
+300000023 Bastogne, Place Merc  01232  01232                % 09059 RGTR--
+300000027 Bastogne, Home Marke  01233  01233                % 09059 RGTR--
+300000111 Marvie, Grand Route   01235  01235                % 09059 RGTR--
+300000107 Wardin, rue de Basto  01238  01238                % 09059 RGTR--
+300000108 Wardin, rue de Basto  01239  01239                % 09059 RGTR--
+300000109 Wardin, École         01240  01240                % 09059 RGTR--
+300000029 Bras, Carrefour       01243  01243                % 09059 RGTR--
+121006003 Pommerlach (Knauf)    01247  01247                % 09059 RGTR--
+121006001 Pommerlach, Theis     01247  01247                % 09059 RGTR--
+120402001 Büderscheid, Bitscht  01254  01254                % 09059 RGTR--
+120503001 Heischtergronn, Beim  01257  01257                % 09059 RGTR--
+120502002 Heiderscheid          01303  01303                % 09059 RGTR--
+120502003 Heiderscheid, Zone C  01304  01304                % 09059 RGTR--
+120502001 Heiderscheid, Fuusse  01305  01305                % 09059 RGTR--
+140801005 Niederfeulen, Atelie  01309  01309                % 09059 RGTR--
+140801001 Niederfeulen, Belle   01309  01309                % 09059 RGTR--
+140801002 Niederfeulen, Faubou  01311  01311                % 09059 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01314  01314                % 09059 RGTR--
+140701026 Ettelbruck, Rond Poi  01315  01315                % 09059 RGTR--
+140701018 Ettelbruck, H.v.Land  01316  01316                % 09059 RGTR--
+160301002 Colmar, Centre        01320  01320                % 09059 RGTR--
+160301007 Colmar, Usines        01322                       % 09059 RGTR--
+*Z 09060 RGTR--                                             % 09060 RGTR--
+*L 822      300000020 160301007  02030  02122               % 09060 RGTR--
+*A gu 300000020 160301007 000006  02030  02122              % 09060 RGTR--
+*A jd 300000020 160301007 000006  02030  02122              % 09060 RGTR--
+*A hj 300000020 160301007 000006  02030  02122              % 09060 RGTR--
+*A HB 300000020 160301007 000006  02030  02122              % 09060 RGTR--
+*R 1 160301007 300000020 160301007  02030  02122            % 09060 RGTR--
+*G RGB 300000020 160301007  02030  02122                    % 09060 RGTR--
+*A VE 300000020 160301007 000006  02030  02122              % 09060 RGTR--
+*I FD 300000020 160301007        0002422  02030  02122      % 09060 RGTR--
+300000020 Bastogne, Centre Spo         02030                % 09060 RGTR--
+300000110 Bastogne, Hôtel de V  02031  02031                % 09060 RGTR--
+300000023 Bastogne, Place Merc  02032  02032                % 09060 RGTR--
+300000027 Bastogne, Home Marke  02033  02033                % 09060 RGTR--
+300000111 Marvie, Grand Route   02035  02035                % 09060 RGTR--
+300000107 Wardin, rue de Basto  02038  02038                % 09060 RGTR--
+300000108 Wardin, rue de Basto  02039  02039                % 09060 RGTR--
+300000109 Wardin, École         02040  02040                % 09060 RGTR--
+300000029 Bras, Carrefour       02043  02043                % 09060 RGTR--
+121006003 Pommerlach (Knauf)    02047  02047                % 09060 RGTR--
+121006001 Pommerlach, Theis     02047  02047                % 09060 RGTR--
+120402001 Büderscheid, Bitscht  02054  02054                % 09060 RGTR--
+120503001 Heischtergronn, Beim  02057  02057                % 09060 RGTR--
+120502002 Heiderscheid          02103  02103                % 09060 RGTR--
+120502003 Heiderscheid, Zone C  02104  02104                % 09060 RGTR--
+120502001 Heiderscheid, Fuusse  02105  02105                % 09060 RGTR--
+140801005 Niederfeulen, Atelie  02109  02109                % 09060 RGTR--
+140801001 Niederfeulen, Belle   02109  02109                % 09060 RGTR--
+140801002 Niederfeulen, Faubou  02111  02111                % 09060 RGTR--
+140701025 Ettelbruck, Pl.du Ma  02114  02114                % 09060 RGTR--
+140701026 Ettelbruck, Rond Poi  02115  02115                % 09060 RGTR--
+140701018 Ettelbruck, H.v.Land  02116  02116                % 09060 RGTR--
+160301002 Colmar, Centre        02120  02120                % 09060 RGTR--
+160301007 Colmar, Usines        02122                       % 09060 RGTR--
+*Z 09061 RGTR--                                             % 09061 RGTR--
+*L 822      160301007 300000020  01415  01508               % 09061 RGTR--
+*A gu 160301007 300000020 000006  01415  01508              % 09061 RGTR--
+*A qa 160301007 300000020 000006  01415  01508              % 09061 RGTR--
+*A hj 160301007 300000020 000006  01415  01508              % 09061 RGTR--
+*A hk 160301007 300000020 000006  01415  01508              % 09061 RGTR--
+*R 2 300000020 160301007 300000020  01415  01508            % 09061 RGTR--
+*G RGB 160301007 300000020  01415  01508                    % 09061 RGTR--
+*A VE 160301007 300000020 000006  01415  01508              % 09061 RGTR--
+*I FD 160301007 300000020        0002794  01415  01508      % 09061 RGTR--
+160301007 Colmar, Usines               01415                % 09061 RGTR--
+160301002 Colmar, Centre        01416  01416                % 09061 RGTR--
+140701018 Ettelbruck, H.v.Land  01420  01420                % 09061 RGTR--
+140701026 Ettelbruck, Rond Poi  01421  01421                % 09061 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01422  01422                % 09061 RGTR--
+140701009 Ettelbruck, Cité Pat  01424  01424                % 09061 RGTR--
+140701008 Ettelbruck, Cité Lop  01425  01425                % 09061 RGTR--
+140801002 Niederfeulen, Faubou  01427  01427                % 09061 RGTR--
+140801003 Niederfeulen, Mairie  01428  01428                % 09061 RGTR--
+140801005 Niederfeulen, Atelie  01429  01429                % 09061 RGTR--
+120502001 Heiderscheid, Fuusse  01432  01432                % 09061 RGTR--
+120502003 Heiderscheid, Zone C  01434  01434                % 09061 RGTR--
+120502002 Heiderscheid          01434  01434                % 09061 RGTR--
+120503001 Heischtergronn, Beim  01439  01439                % 09061 RGTR--
+120402001 Büderscheid, Bitscht  01443  01443                % 09061 RGTR--
+121006001 Pommerlach, Theis     01449  01449                % 09061 RGTR--
+121006003 Pommerlach (Knauf)    01450  01450                % 09061 RGTR--
+300000029 Bras, Carrefour       01454  01454                % 09061 RGTR--
+300000109 Wardin, École         01456  01456                % 09061 RGTR--
+300000108 Wardin, rue de Basto  01458  01458                % 09061 RGTR--
+300000107 Wardin, rue de Basto  01458  01458                % 09061 RGTR--
+300000111 Marvie, Grand Route   01502  01502                % 09061 RGTR--
+300000027 Bastogne, Home Marke  01504  01504                % 09061 RGTR--
+300000023 Bastogne, Place Merc  01505  01505                % 09061 RGTR--
+300000110 Bastogne, Hôtel de V  01506  01506                % 09061 RGTR--
+300000020 Bastogne, Centre Spo  01508                       % 09061 RGTR--
+*Z 09062 RGTR--                                             % 09062 RGTR--
+*L 822      160301007 300000020  02215  02308               % 09062 RGTR--
+*A gu 160301007 300000020 000006  02215  02308              % 09062 RGTR--
+*A qa 160301007 300000020 000006  02215  02308              % 09062 RGTR--
+*A hj 160301007 300000020 000006  02215  02308              % 09062 RGTR--
+*A hk 160301007 300000020 000006  02215  02308              % 09062 RGTR--
+*R 2 300000020 160301007 300000020  02215  02308            % 09062 RGTR--
+*G RGB 160301007 300000020  02215  02308                    % 09062 RGTR--
+*A VE 160301007 300000020 000006  02215  02308              % 09062 RGTR--
+*I FD 160301007 300000020        0001581  02215  02308      % 09062 RGTR--
+160301007 Colmar, Usines               02215                % 09062 RGTR--
+160301002 Colmar, Centre        02216  02216                % 09062 RGTR--
+140701018 Ettelbruck, H.v.Land  02220  02220                % 09062 RGTR--
+140701026 Ettelbruck, Rond Poi  02221  02221                % 09062 RGTR--
+140701025 Ettelbruck, Pl.du Ma  02222  02222                % 09062 RGTR--
+140701009 Ettelbruck, Cité Pat  02224  02224                % 09062 RGTR--
+140701008 Ettelbruck, Cité Lop  02225  02225                % 09062 RGTR--
+140801002 Niederfeulen, Faubou  02227  02227                % 09062 RGTR--
+140801003 Niederfeulen, Mairie  02228  02228                % 09062 RGTR--
+140801005 Niederfeulen, Atelie  02229  02229                % 09062 RGTR--
+120502001 Heiderscheid, Fuusse  02232  02232                % 09062 RGTR--
+120502003 Heiderscheid, Zone C  02234  02234                % 09062 RGTR--
+120502002 Heiderscheid          02234  02234                % 09062 RGTR--
+120503001 Heischtergronn, Beim  02239  02239                % 09062 RGTR--
+120402001 Büderscheid, Bitscht  02243  02243                % 09062 RGTR--
+121006001 Pommerlach, Theis     02249  02249                % 09062 RGTR--
+121006003 Pommerlach (Knauf)    02250  02250                % 09062 RGTR--
+300000029 Bras, Carrefour       02254  02254                % 09062 RGTR--
+300000109 Wardin, École         02256  02256                % 09062 RGTR--
+300000108 Wardin, rue de Basto  02258  02258                % 09062 RGTR--
+300000107 Wardin, rue de Basto  02258  02258                % 09062 RGTR--
+300000111 Marvie, Grand Route   02302  02302                % 09062 RGTR--
+300000027 Bastogne, Home Marke  02304  02304                % 09062 RGTR--
+300000023 Bastogne, Place Merc  02305  02305                % 09062 RGTR--
+300000110 Bastogne, Hôtel de V  02306  02306                % 09062 RGTR--
+300000020 Bastogne, Centre Spo  02308                       % 09062 RGTR--
+*Z 09063 RGTR--                                             % 09063 RGTR--
+*L 822      160301007 300000020  00615  00708               % 09063 RGTR--
+*A gu 160301007 300000020 000036  00615  00708              % 09063 RGTR--
+*A qa 160301007 300000020 000036  00615  00708              % 09063 RGTR--
+*A hj 160301007 300000020 000036  00615  00708              % 09063 RGTR--
+*A hk 160301007 300000020 000036  00615  00708              % 09063 RGTR--
+*R 2 300000020 160301007 300000020  00615  00708            % 09063 RGTR--
+*G RGB 160301007 300000020  00615  00708                    % 09063 RGTR--
+*A VE 160301007 300000020 000036  00615  00708              % 09063 RGTR--
+*I FD 160301007 300000020        0002408  00615  00708      % 09063 RGTR--
+160301007 Colmar, Usines               00615                % 09063 RGTR--
+160301002 Colmar, Centre        00616  00616                % 09063 RGTR--
+140701018 Ettelbruck, H.v.Land  00620  00620                % 09063 RGTR--
+140701026 Ettelbruck, Rond Poi  00621  00621                % 09063 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00622  00622                % 09063 RGTR--
+140701009 Ettelbruck, Cité Pat  00624  00624                % 09063 RGTR--
+140701008 Ettelbruck, Cité Lop  00625  00625                % 09063 RGTR--
+140801002 Niederfeulen, Faubou  00627  00627                % 09063 RGTR--
+140801003 Niederfeulen, Mairie  00628  00628                % 09063 RGTR--
+140801005 Niederfeulen, Atelie  00629  00629                % 09063 RGTR--
+120502001 Heiderscheid, Fuusse  00632  00632                % 09063 RGTR--
+120502003 Heiderscheid, Zone C  00634  00634                % 09063 RGTR--
+120502002 Heiderscheid          00634  00634                % 09063 RGTR--
+120503001 Heischtergronn, Beim  00639  00639                % 09063 RGTR--
+120402001 Büderscheid, Bitscht  00643  00643                % 09063 RGTR--
+121006001 Pommerlach, Theis     00649  00649                % 09063 RGTR--
+121006003 Pommerlach (Knauf)    00650  00650                % 09063 RGTR--
+300000029 Bras, Carrefour       00654  00654                % 09063 RGTR--
+300000109 Wardin, École         00656  00656                % 09063 RGTR--
+300000108 Wardin, rue de Basto  00658  00658                % 09063 RGTR--
+300000107 Wardin, rue de Basto  00658  00658                % 09063 RGTR--
+300000111 Marvie, Grand Route   00702  00702                % 09063 RGTR--
+300000027 Bastogne, Home Marke  00704  00704                % 09063 RGTR--
+300000023 Bastogne, Place Merc  00705  00705                % 09063 RGTR--
+300000110 Bastogne, Hôtel de V  00706  00706                % 09063 RGTR--
+300000020 Bastogne, Centre Spo  00708                       % 09063 RGTR--

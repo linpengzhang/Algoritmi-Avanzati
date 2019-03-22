@@ -1,0 +1,1384 @@
+*F 03 2
+*Z 03134 AVL---       011 060                               % 03134 AVL---
+*L 4        220701006 200405025  00748  00810               % 03134 AVL---
+*A BE 220701006 200405025 000021  00748  00810              % 03134 AVL---
+*R 1 200405025 220701006 200405025  00748  00810            % 03134 AVL---
+*G AVS 220701006 200405025  00748  00810                    % 03134 AVL---
+*A VE 220701006 200405025 000021  00748  00810              % 03134 AVL---
+220701006 Leudelange, Gemeng           00748                % 03134 AVL---
+220701015 Leudelange, Stiédswe  00749  00749                % 03134 AVL---
+220701019 Leudelange, Schaefer  00751  00751                % 03134 AVL---
+220701007 Leudelange, Grasbösc  00752  00752                % 03134 AVL---
+200407010 Cessange, Rue de Leu  00753  00753                % 03134 AVL---
+200407001 Cessange, Am Eck      00754  00754                % 03134 AVL---
+200407006 Cessange, Duerf       00755  00755                % 03134 AVL---
+200407008 Cessange, Kierch      00756  00756                % 03134 AVL---
+200407007 Cessange, Fischerhaf  00756  00756                % 03134 AVL---
+200407003 Cessange, Artisans    00758  00758                % 03134 AVL---
+200407004 Cessange, Barrès      00759  00759                % 03134 AVL---
+200415002 Hollerich, Assurance  00800  00800                % 03134 AVL---
+200415010 Hollerich, Pierre &   00800  00800                % 03134 AVL---
+200415003 Hollerich, Fonderie   00802  00802                % 03134 AVL---
+200405035 Luxembourg, Gare Cen  00804  00804                % 03134 AVL---
+200405026 Luxembourg/Centre, P  00806  00806                % 03134 AVL---
+200405023 Centre, Martyrs       00807  00807                % 03134 AVL---
+200405025 Luxembourg/Centre, M  00810                       % 03134 AVL---
+*Z 03135 AVL---                                             % 03135 AVL---
+*L 4        220701006 200405025  01950  02010               % 03135 AVL---
+*A BE 220701006 200405025 000021  01950  02010              % 03135 AVL---
+*R 1 200405025 220701006 200405025  01950  02010            % 03135 AVL---
+*G AVS 220701006 200405025  01950  02010                    % 03135 AVL---
+*A VE 220701006 200405025 000021  01950  02010              % 03135 AVL---
+220701006 Leudelange, Gemeng           01950                % 03135 AVL---
+220701015 Leudelange, Stiédswe  01951  01951                % 03135 AVL---
+220701019 Leudelange, Schaefer  01953  01953                % 03135 AVL---
+220701007 Leudelange, Grasbösc  01954  01954                % 03135 AVL---
+200407010 Cessange, Rue de Leu  01955  01955                % 03135 AVL---
+200407001 Cessange, Am Eck      01956  01956                % 03135 AVL---
+200407006 Cessange, Duerf       01956  01956                % 03135 AVL---
+200407008 Cessange, Kierch      01957  01957                % 03135 AVL---
+200407007 Cessange, Fischerhaf  01958  01958                % 03135 AVL---
+200407003 Cessange, Artisans    01958  01958                % 03135 AVL---
+200407004 Cessange, Barrès      01959  01959                % 03135 AVL---
+200415002 Hollerich, Assurance  02000  02000                % 03135 AVL---
+200415010 Hollerich, Pierre &   02001  02001                % 03135 AVL---
+200415003 Hollerich, Fonderie   02002  02002                % 03135 AVL---
+200405035 Luxembourg, Gare Cen  02004  02004                % 03135 AVL---
+200405026 Luxembourg/Centre, P  02006  02006                % 03135 AVL---
+200405023 Centre, Martyrs       02007  02007                % 03135 AVL---
+200405025 Luxembourg/Centre, M  02010                       % 03135 AVL---
+*Z 03136 AVL---       001 072                               % 03136 AVL---
+*L 4        220701006 200419022  00523  00552               % 03136 AVL---
+*A BE 220701006 200419022 000015  00523  00552              % 03136 AVL---
+*R 1 200419022 220701006 200419022  00523  00552            % 03136 AVL---
+*G AVG 220701006 200419022  00523  00552                    % 03136 AVL---
+*A VE 220701006 200419022 000015  00523  00552              % 03136 AVL---
+220701006 Leudelange, Gemeng           00523                % 03136 AVL---
+220701015 Leudelange, Stiédswe  00524  00524                % 03136 AVL---
+220701019 Leudelange, Schaefer  00526  00526                % 03136 AVL---
+220701007 Leudelange, Grasbösc  00527  00527                % 03136 AVL---
+200407010 Cessange, Rue de Leu  00528  00528                % 03136 AVL---
+200407001 Cessange, Am Eck      00529  00529                % 03136 AVL---
+200407006 Cessange, Duerf       00529  00529                % 03136 AVL---
+200407008 Cessange, Kierch      00530  00530                % 03136 AVL---
+200407007 Cessange, Fischerhaf  00531  00531                % 03136 AVL---
+200407003 Cessange, Artisans    00531  00531                % 03136 AVL---
+200407004 Cessange, Barrès      00532  00532                % 03136 AVL---
+200415002 Hollerich, Assurance  00533  00533                % 03136 AVL---
+200415010 Hollerich, Pierre &   00534  00534                % 03136 AVL---
+200415003 Hollerich, Fonderie   00535  00535                % 03136 AVL---
+200405035 Luxembourg, Gare Cen  00537  00537                % 03136 AVL---
+200405026 Luxembourg/Centre, P  00539  00539                % 03136 AVL---
+200405023 Centre, Martyrs       00540  00540                % 03136 AVL---
+200405020 Hamilius              00543  00543                % 03136 AVL---
+200405014 Centre, Fondation Pe  00545  00545                % 03136 AVL---
+200419026 Limpertsberg, Theate  00546  00546                % 03136 AVL---
+200419025 Limpertsberg, Lycée   00547  00547                % 03136 AVL---
+200419002 Limpertsberg, Alen T  00548  00548                % 03136 AVL---
+200419034 Limpertsberg, Square  00549  00549                % 03136 AVL---
+200419035 Limpertsberg, Waasse  00549  00549                % 03136 AVL---
+200419007 Limpertsberg, Avenir  00550  00550                % 03136 AVL---
+200419015 Luxembourg, Siggy vu  00552  00552                % 03136 AVL---
+200419022 Limpertsberg, Lycée   00552                       % 03136 AVL---
+*Z 03137 AVL---                                             % 03137 AVL---
+*L 4        220701006 200419022  01955  02024               % 03137 AVL---
+*A BE 220701006 200419022 000015  01955  02024              % 03137 AVL---
+*R 1 200419022 220701006 200419022  01955  02024            % 03137 AVL---
+*G AVG 220701006 200419022  01955  02024                    % 03137 AVL---
+*A VE 220701006 200419022 000015  01955  02024              % 03137 AVL---
+220701006 Leudelange, Gemeng           01955                % 03137 AVL---
+220701015 Leudelange, Stiédswe  01956  01956                % 03137 AVL---
+220701019 Leudelange, Schaefer  01958  01958                % 03137 AVL---
+220701007 Leudelange, Grasbösc  01959  01959                % 03137 AVL---
+200407010 Cessange, Rue de Leu  02000  02000                % 03137 AVL---
+200407001 Cessange, Am Eck      02001  02001                % 03137 AVL---
+200407006 Cessange, Duerf       02001  02001                % 03137 AVL---
+200407008 Cessange, Kierch      02002  02002                % 03137 AVL---
+200407007 Cessange, Fischerhaf  02003  02003                % 03137 AVL---
+200407003 Cessange, Artisans    02003  02003                % 03137 AVL---
+200407004 Cessange, Barrès      02004  02004                % 03137 AVL---
+200415002 Hollerich, Assurance  02005  02005                % 03137 AVL---
+200415010 Hollerich, Pierre &   02006  02006                % 03137 AVL---
+200415003 Hollerich, Fonderie   02007  02007                % 03137 AVL---
+200405035 Luxembourg, Gare Cen  02009  02009                % 03137 AVL---
+200405026 Luxembourg/Centre, P  02011  02011                % 03137 AVL---
+200405023 Centre, Martyrs       02012  02012                % 03137 AVL---
+200405020 Hamilius              02015  02015                % 03137 AVL---
+200405014 Centre, Fondation Pe  02017  02017                % 03137 AVL---
+200419026 Limpertsberg, Theate  02018  02018                % 03137 AVL---
+200419025 Limpertsberg, Lycée   02019  02019                % 03137 AVL---
+200419002 Limpertsberg, Alen T  02020  02020                % 03137 AVL---
+200419034 Limpertsberg, Square  02021  02021                % 03137 AVL---
+200419035 Limpertsberg, Waasse  02021  02021                % 03137 AVL---
+200419007 Limpertsberg, Avenir  02022  02022                % 03137 AVL---
+200419015 Luxembourg, Siggy vu  02024  02024                % 03137 AVL---
+200419022 Limpertsberg, Lycée   02024                       % 03137 AVL---
+*Z 03138 AVL---       001 140                               % 03138 AVL---
+*L 4        220701006 200419022  00709  00747               % 03138 AVL---
+*A BE 220701006 200419022 000015  00709  00747              % 03138 AVL---
+*R 1 200419022 220701006 200419022  00709  00747            % 03138 AVL---
+*G AVG 220701006 200419022  00709  00747                    % 03138 AVL---
+*A VE 220701006 200419022 000015  00709  00747              % 03138 AVL---
+220701006 Leudelange, Gemeng           00709                % 03138 AVL---
+220701015 Leudelange, Stiédswe  00710  00710                % 03138 AVL---
+220701019 Leudelange, Schaefer  00712  00712                % 03138 AVL---
+220701007 Leudelange, Grasbösc  00713  00713                % 03138 AVL---
+200407010 Cessange, Rue de Leu  00714  00714                % 03138 AVL---
+200407001 Cessange, Am Eck      00716  00716                % 03138 AVL---
+200407006 Cessange, Duerf       00716  00716                % 03138 AVL---
+200407008 Cessange, Kierch      00718  00718                % 03138 AVL---
+200407007 Cessange, Fischerhaf  00718  00718                % 03138 AVL---
+200407003 Cessange, Artisans    00720  00720                % 03138 AVL---
+200407004 Cessange, Barrès      00721  00721                % 03138 AVL---
+200415002 Hollerich, Assurance  00722  00722                % 03138 AVL---
+200415010 Hollerich, Pierre &   00723  00723                % 03138 AVL---
+200415003 Hollerich, Fonderie   00724  00724                % 03138 AVL---
+200405035 Luxembourg, Gare Cen  00728  00728                % 03138 AVL---
+200405026 Luxembourg/Centre, P  00731  00731                % 03138 AVL---
+200405023 Centre, Martyrs       00732  00732                % 03138 AVL---
+200405020 Hamilius              00735  00735                % 03138 AVL---
+200405014 Centre, Fondation Pe  00738  00738                % 03138 AVL---
+200419026 Limpertsberg, Theate  00740  00740                % 03138 AVL---
+200419025 Limpertsberg, Lycée   00741  00741                % 03138 AVL---
+200419002 Limpertsberg, Alen T  00742  00742                % 03138 AVL---
+200419034 Limpertsberg, Square  00743  00743                % 03138 AVL---
+200419035 Limpertsberg, Waasse  00744  00744                % 03138 AVL---
+200419007 Limpertsberg, Avenir  00745  00745                % 03138 AVL---
+200419015 Luxembourg, Siggy vu  00746  00746                % 03138 AVL---
+200419022 Limpertsberg, Lycée   00747                       % 03138 AVL---
+*Z 03139 AVL---       009 020                               % 03139 AVL---
+*L 4        220701006 200419022  00949  01027               % 03139 AVL---
+*A BE 220701006 200419022 000015  00949  01027              % 03139 AVL---
+*R 1 200419022 220701006 200419022  00949  01027            % 03139 AVL---
+*G AVG 220701006 200419022  00949  01027                    % 03139 AVL---
+*A VE 220701006 200419022 000015  00949  01027              % 03139 AVL---
+220701006 Leudelange, Gemeng           00949                % 03139 AVL---
+220701015 Leudelange, Stiédswe  00950  00950                % 03139 AVL---
+220701019 Leudelange, Schaefer  00952  00952                % 03139 AVL---
+220701007 Leudelange, Grasbösc  00953  00953                % 03139 AVL---
+200407010 Cessange, Rue de Leu  00954  00954                % 03139 AVL---
+200407001 Cessange, Am Eck      00956  00956                % 03139 AVL---
+200407006 Cessange, Duerf       00956  00956                % 03139 AVL---
+200407008 Cessange, Kierch      00958  00958                % 03139 AVL---
+200407007 Cessange, Fischerhaf  00958  00958                % 03139 AVL---
+200407003 Cessange, Artisans    01000  01000                % 03139 AVL---
+200407004 Cessange, Barrès      01001  01001                % 03139 AVL---
+200415002 Hollerich, Assurance  01002  01002                % 03139 AVL---
+200415010 Hollerich, Pierre &   01003  01003                % 03139 AVL---
+200415003 Hollerich, Fonderie   01004  01004                % 03139 AVL---
+200405035 Luxembourg, Gare Cen  01008  01008                % 03139 AVL---
+200405026 Luxembourg/Centre, P  01011  01011                % 03139 AVL---
+200405023 Centre, Martyrs       01012  01012                % 03139 AVL---
+200405020 Hamilius              01015  01015                % 03139 AVL---
+200405014 Centre, Fondation Pe  01018  01018                % 03139 AVL---
+200419026 Limpertsberg, Theate  01020  01020                % 03139 AVL---
+200419025 Limpertsberg, Lycée   01021  01021                % 03139 AVL---
+200419002 Limpertsberg, Alen T  01022  01022                % 03139 AVL---
+200419034 Limpertsberg, Square  01023  01023                % 03139 AVL---
+200419035 Limpertsberg, Waasse  01024  01024                % 03139 AVL---
+200419007 Limpertsberg, Avenir  01025  01025                % 03139 AVL---
+200419015 Luxembourg, Siggy vu  01026  01026                % 03139 AVL---
+200419022 Limpertsberg, Lycée   01027                       % 03139 AVL---
+*Z 03140 AVL---       001 140                               % 03140 AVL---
+*L 4        220701006 200419022  01329  01407               % 03140 AVL---
+*A BE 220701006 200419022 000015  01329  01407              % 03140 AVL---
+*R 1 200419022 220701006 200419022  01329  01407            % 03140 AVL---
+*G AVG 220701006 200419022  01329  01407                    % 03140 AVL---
+*A VE 220701006 200419022 000015  01329  01407              % 03140 AVL---
+220701006 Leudelange, Gemeng           01329                % 03140 AVL---
+220701015 Leudelange, Stiédswe  01330  01330                % 03140 AVL---
+220701019 Leudelange, Schaefer  01332  01332                % 03140 AVL---
+220701007 Leudelange, Grasbösc  01333  01333                % 03140 AVL---
+200407010 Cessange, Rue de Leu  01334  01334                % 03140 AVL---
+200407001 Cessange, Am Eck      01336  01336                % 03140 AVL---
+200407006 Cessange, Duerf       01336  01336                % 03140 AVL---
+200407008 Cessange, Kierch      01338  01338                % 03140 AVL---
+200407007 Cessange, Fischerhaf  01338  01338                % 03140 AVL---
+200407003 Cessange, Artisans    01340  01340                % 03140 AVL---
+200407004 Cessange, Barrès      01341  01341                % 03140 AVL---
+200415002 Hollerich, Assurance  01342  01342                % 03140 AVL---
+200415010 Hollerich, Pierre &   01343  01343                % 03140 AVL---
+200415003 Hollerich, Fonderie   01344  01344                % 03140 AVL---
+200405035 Luxembourg, Gare Cen  01348  01348                % 03140 AVL---
+200405026 Luxembourg/Centre, P  01351  01351                % 03140 AVL---
+200405023 Centre, Martyrs       01352  01352                % 03140 AVL---
+200405020 Hamilius              01355  01355                % 03140 AVL---
+200405014 Centre, Fondation Pe  01358  01358                % 03140 AVL---
+200419026 Limpertsberg, Theate  01400  01400                % 03140 AVL---
+200419025 Limpertsberg, Lycée   01401  01401                % 03140 AVL---
+200419002 Limpertsberg, Alen T  01402  01402                % 03140 AVL---
+200419034 Limpertsberg, Square  01403  01403                % 03140 AVL---
+200419035 Limpertsberg, Waasse  01404  01404                % 03140 AVL---
+200419007 Limpertsberg, Avenir  01405  01405                % 03140 AVL---
+200419015 Luxembourg, Siggy vu  01406  01406                % 03140 AVL---
+200419022 Limpertsberg, Lycée   01407                       % 03140 AVL---
+*Z 03141 AVL---       009 020                               % 03141 AVL---
+*L 4        220701006 200419022  01609  01647               % 03141 AVL---
+*A BE 220701006 200419022 000015  01609  01647              % 03141 AVL---
+*R 1 200419022 220701006 200419022  01609  01647            % 03141 AVL---
+*G AVG 220701006 200419022  01609  01647                    % 03141 AVL---
+*A VE 220701006 200419022 000015  01609  01647              % 03141 AVL---
+220701006 Leudelange, Gemeng           01609                % 03141 AVL---
+220701015 Leudelange, Stiédswe  01610  01610                % 03141 AVL---
+220701019 Leudelange, Schaefer  01612  01612                % 03141 AVL---
+220701007 Leudelange, Grasbösc  01613  01613                % 03141 AVL---
+200407010 Cessange, Rue de Leu  01614  01614                % 03141 AVL---
+200407001 Cessange, Am Eck      01616  01616                % 03141 AVL---
+200407006 Cessange, Duerf       01616  01616                % 03141 AVL---
+200407008 Cessange, Kierch      01618  01618                % 03141 AVL---
+200407007 Cessange, Fischerhaf  01618  01618                % 03141 AVL---
+200407003 Cessange, Artisans    01620  01620                % 03141 AVL---
+200407004 Cessange, Barrès      01621  01621                % 03141 AVL---
+200415002 Hollerich, Assurance  01622  01622                % 03141 AVL---
+200415010 Hollerich, Pierre &   01623  01623                % 03141 AVL---
+200415003 Hollerich, Fonderie   01624  01624                % 03141 AVL---
+200405035 Luxembourg, Gare Cen  01628  01628                % 03141 AVL---
+200405026 Luxembourg/Centre, P  01631  01631                % 03141 AVL---
+200405023 Centre, Martyrs       01632  01632                % 03141 AVL---
+200405020 Hamilius              01635  01635                % 03141 AVL---
+200405014 Centre, Fondation Pe  01638  01638                % 03141 AVL---
+200419026 Limpertsberg, Theate  01640  01640                % 03141 AVL---
+200419025 Limpertsberg, Lycée   01641  01641                % 03141 AVL---
+200419002 Limpertsberg, Alen T  01642  01642                % 03141 AVL---
+200419034 Limpertsberg, Square  01643  01643                % 03141 AVL---
+200419035 Limpertsberg, Waasse  01644  01644                % 03141 AVL---
+200419007 Limpertsberg, Avenir  01645  01645                % 03141 AVL---
+200419015 Luxembourg, Siggy vu  01646  01646                % 03141 AVL---
+200419022 Limpertsberg, Lycée   01647                       % 03141 AVL---
+*Z 03142 AVL---       011 060                               % 03142 AVL---
+*L 4        200405020 220701006  00815  00837               % 03142 AVL---
+*A BE 200405020 220701006 000021  00815  00837              % 03142 AVL---
+*R 2 220701006 200405020 220701006  00815  00837            % 03142 AVL---
+*G AVS 200405020 220701006  00815  00837                    % 03142 AVL---
+*A VE 200405020 220701006 000021  00815  00837              % 03142 AVL---
+200405020 Hamilius                     00815                % 03142 AVL---
+200405023 Centre, Martyrs       00816  00816                % 03142 AVL---
+200405026 Luxembourg/Centre, P  00818  00818                % 03142 AVL---
+200405002 Luxembourg, Gare Cen  00820  00820                % 03142 AVL---
+200415003 Hollerich, Fonderie   00822  00822                % 03142 AVL---
+200415002 Hollerich, Assurance  00823  00823                % 03142 AVL---
+200407004 Cessange, Barrès      00825  00825                % 03142 AVL---
+200407003 Cessange, Artisans    00826  00826                % 03142 AVL---
+200407007 Cessange, Fischerhaf  00827  00827                % 03142 AVL---
+200407008 Cessange, Kierch      00827  00827                % 03142 AVL---
+200407006 Cessange, Duerf       00828  00828                % 03142 AVL---
+200407001 Cessange, Am Eck      00829  00829                % 03142 AVL---
+200407010 Cessange, Rue de Leu  00830  00830                % 03142 AVL---
+220701007 Leudelange, Grasbösc  00831  00831                % 03142 AVL---
+220701019 Leudelange, Schaefer  00832  00832                % 03142 AVL---
+220701015 Leudelange, Stiédswe  00833  00833                % 03142 AVL---
+220701013 Leudelange, Queesche  00835  00835                % 03142 AVL---
+220701004 Leudelange, Galgebös  00835  00835                % 03142 AVL---
+220701006 Leudelange, Gemeng    00837                       % 03142 AVL---
+*Z 03143 AVL---                                             % 03143 AVL---
+*L 4        200419022 220701006  00615  00646               % 03143 AVL---
+*A BE 200419022 220701006 000015  00615  00646              % 03143 AVL---
+*R 2 220701006 200419022 220701006  00615  00646            % 03143 AVL---
+*G AVG 200419022 220701006  00615  00646                    % 03143 AVL---
+*A VE 200419022 220701006 000015  00615  00646              % 03143 AVL---
+200419022 Limpertsberg, Lycée          00615                % 03143 AVL---
+200419007 Limpertsberg, Avenir  00616  00616                % 03143 AVL---
+200419035 Limpertsberg, Waasse  00617  00617                % 03143 AVL---
+200419034 Limpertsberg, Square  00618  00618                % 03143 AVL---
+200419002 Limpertsberg, Alen T  00619  00619                % 03143 AVL---
+200419025 Limpertsberg, Lycée   00619  00619                % 03143 AVL---
+200419026 Limpertsberg, Theate  00620  00620                % 03143 AVL---
+200405014 Centre, Fondation Pe  00622  00622                % 03143 AVL---
+200405020 Hamilius              00625  00625                % 03143 AVL---
+200405023 Centre, Martyrs       00626  00626                % 03143 AVL---
+200405026 Luxembourg/Centre, P  00627  00627                % 03143 AVL---
+200405002 Luxembourg, Gare Cen  00629  00629                % 03143 AVL---
+200415003 Hollerich, Fonderie   00631  00631                % 03143 AVL---
+200415002 Hollerich, Assurance  00633  00633                % 03143 AVL---
+200407004 Cessange, Barrès      00634  00634                % 03143 AVL---
+200407003 Cessange, Artisans    00635  00635                % 03143 AVL---
+200407007 Cessange, Fischerhaf  00636  00636                % 03143 AVL---
+200407008 Cessange, Kierch      00637  00637                % 03143 AVL---
+200407006 Cessange, Duerf       00638  00638                % 03143 AVL---
+200407001 Cessange, Am Eck      00638  00638                % 03143 AVL---
+200407010 Cessange, Rue de Leu  00639  00639                % 03143 AVL---
+220701007 Leudelange, Grasbösc  00640  00640                % 03143 AVL---
+220701019 Leudelange, Schaefer  00641  00641                % 03143 AVL---
+220701015 Leudelange, Stiédswe  00642  00642                % 03143 AVL---
+220701013 Leudelange, Queesche  00644  00644                % 03143 AVL---
+220701004 Leudelange, Galgebös  00644  00644                % 03143 AVL---
+220701006 Leudelange, Gemeng    00646                       % 03143 AVL---
+*Z 03144 AVL---                                             % 03144 AVL---
+*L 4        200405020 220701006  02015  02036               % 03144 AVL---
+*A BE 200405020 220701006 000021  02015  02036              % 03144 AVL---
+*R 2 220701006 200405020 220701006  02015  02036            % 03144 AVL---
+*G AVS 200405020 220701006  02015  02036                    % 03144 AVL---
+*A VE 200405020 220701006 000021  02015  02036              % 03144 AVL---
+200405020 Hamilius                     02015                % 03144 AVL---
+200405023 Centre, Martyrs       02016  02016                % 03144 AVL---
+200405026 Luxembourg/Centre, P  02017  02017                % 03144 AVL---
+200405002 Luxembourg, Gare Cen  02019  02019                % 03144 AVL---
+200415003 Hollerich, Fonderie   02021  02021                % 03144 AVL---
+200415002 Hollerich, Assurance  02023  02023                % 03144 AVL---
+200407004 Cessange, Barrès      02024  02024                % 03144 AVL---
+200407003 Cessange, Artisans    02025  02025                % 03144 AVL---
+200407007 Cessange, Fischerhaf  02026  02026                % 03144 AVL---
+200407008 Cessange, Kierch      02027  02027                % 03144 AVL---
+200407006 Cessange, Duerf       02028  02028                % 03144 AVL---
+200407001 Cessange, Am Eck      02028  02028                % 03144 AVL---
+200407010 Cessange, Rue de Leu  02029  02029                % 03144 AVL---
+220701007 Leudelange, Grasbösc  02030  02030                % 03144 AVL---
+220701019 Leudelange, Schaefer  02031  02031                % 03144 AVL---
+220701015 Leudelange, Stiédswe  02032  02032                % 03144 AVL---
+220701013 Leudelange, Queesche  02034  02034                % 03144 AVL---
+220701004 Leudelange, Galgebös  02034  02034                % 03144 AVL---
+220701006 Leudelange, Gemeng    02036                       % 03144 AVL---
+*Z 03145 AVL---       010 020                               % 03145 AVL---
+*L 4        200419022 220701006  00831  00912               % 03145 AVL---
+*A BE 200419022 220701006 000015  00831  00912              % 03145 AVL---
+*R 2 220701006 200419022 220701006  00831  00912            % 03145 AVL---
+*G AVG 200419022 220701006  00831  00912                    % 03145 AVL---
+*A VE 200419022 220701006 000015  00831  00912              % 03145 AVL---
+200419022 Limpertsberg, Lycée          00831                % 03145 AVL---
+200419007 Limpertsberg, Avenir  00833  00833                % 03145 AVL---
+200419035 Limpertsberg, Waasse  00834  00834                % 03145 AVL---
+200419034 Limpertsberg, Square  00835  00835                % 03145 AVL---
+200419002 Limpertsberg, Alen T  00836  00836                % 03145 AVL---
+200419025 Limpertsberg, Lycée   00837  00837                % 03145 AVL---
+200419026 Limpertsberg, Theate  00839  00839                % 03145 AVL---
+200405014 Centre, Fondation Pe  00840  00840                % 03145 AVL---
+200405020 Hamilius              00845  00845                % 03145 AVL---
+200405023 Centre, Martyrs       00846  00846                % 03145 AVL---
+200405026 Luxembourg/Centre, P  00848  00848                % 03145 AVL---
+200405002 Luxembourg, Gare Cen  00851  00851                % 03145 AVL---
+200415003 Hollerich, Fonderie   00853  00853                % 03145 AVL---
+200415002 Hollerich, Assurance  00856  00856                % 03145 AVL---
+200407004 Cessange, Barrès      00857  00857                % 03145 AVL---
+200407003 Cessange, Artisans    00859  00859                % 03145 AVL---
+200407007 Cessange, Fischerhaf  00900  00900                % 03145 AVL---
+200407008 Cessange, Kierch      00901  00901                % 03145 AVL---
+200407006 Cessange, Duerf       00902  00902                % 03145 AVL---
+200407001 Cessange, Am Eck      00903  00903                % 03145 AVL---
+200407010 Cessange, Rue de Leu  00903  00903                % 03145 AVL---
+220701007 Leudelange, Grasbösc  00904  00904                % 03145 AVL---
+220701019 Leudelange, Schaefer  00906  00906                % 03145 AVL---
+220701015 Leudelange, Stiédswe  00907  00907                % 03145 AVL---
+220701013 Leudelange, Queesche  00909  00909                % 03145 AVL---
+220701004 Leudelange, Galgebös  00910  00910                % 03145 AVL---
+220701006 Leudelange, Gemeng    00912                       % 03145 AVL---
+*Z 03146 AVL---       001 140                               % 03146 AVL---
+*L 4        200419022 220701006  01231  01312               % 03146 AVL---
+*A BE 200419022 220701006 000015  01231  01312              % 03146 AVL---
+*R 2 220701006 200419022 220701006  01231  01312            % 03146 AVL---
+*G AVG 200419022 220701006  01231  01312                    % 03146 AVL---
+*A VE 200419022 220701006 000015  01231  01312              % 03146 AVL---
+200419022 Limpertsberg, Lycée          01231                % 03146 AVL---
+200419007 Limpertsberg, Avenir  01233  01233                % 03146 AVL---
+200419035 Limpertsberg, Waasse  01234  01234                % 03146 AVL---
+200419034 Limpertsberg, Square  01235  01235                % 03146 AVL---
+200419002 Limpertsberg, Alen T  01236  01236                % 03146 AVL---
+200419025 Limpertsberg, Lycée   01237  01237                % 03146 AVL---
+200419026 Limpertsberg, Theate  01239  01239                % 03146 AVL---
+200405014 Centre, Fondation Pe  01240  01240                % 03146 AVL---
+200405020 Hamilius              01245  01245                % 03146 AVL---
+200405023 Centre, Martyrs       01246  01246                % 03146 AVL---
+200405026 Luxembourg/Centre, P  01248  01248                % 03146 AVL---
+200405002 Luxembourg, Gare Cen  01251  01251                % 03146 AVL---
+200415003 Hollerich, Fonderie   01253  01253                % 03146 AVL---
+200415002 Hollerich, Assurance  01256  01256                % 03146 AVL---
+200407004 Cessange, Barrès      01257  01257                % 03146 AVL---
+200407003 Cessange, Artisans    01259  01259                % 03146 AVL---
+200407007 Cessange, Fischerhaf  01300  01300                % 03146 AVL---
+200407008 Cessange, Kierch      01301  01301                % 03146 AVL---
+200407006 Cessange, Duerf       01302  01302                % 03146 AVL---
+200407001 Cessange, Am Eck      01303  01303                % 03146 AVL---
+200407010 Cessange, Rue de Leu  01303  01303                % 03146 AVL---
+220701007 Leudelange, Grasbösc  01304  01304                % 03146 AVL---
+220701019 Leudelange, Schaefer  01306  01306                % 03146 AVL---
+220701015 Leudelange, Stiédswe  01307  01307                % 03146 AVL---
+220701013 Leudelange, Queesche  01309  01309                % 03146 AVL---
+220701004 Leudelange, Galgebös  01310  01310                % 03146 AVL---
+220701006 Leudelange, Gemeng    01312                       % 03146 AVL---
+*Z 03147 AVL---       009 020                               % 03147 AVL---
+*L 4        200419022 220701006  01511  01552               % 03147 AVL---
+*A BE 200419022 220701006 000015  01511  01552              % 03147 AVL---
+*R 2 220701006 200419022 220701006  01511  01552            % 03147 AVL---
+*G AVG 200419022 220701006  01511  01552                    % 03147 AVL---
+*A VE 200419022 220701006 000015  01511  01552              % 03147 AVL---
+200419022 Limpertsberg, Lycée          01511                % 03147 AVL---
+200419007 Limpertsberg, Avenir  01513  01513                % 03147 AVL---
+200419035 Limpertsberg, Waasse  01514  01514                % 03147 AVL---
+200419034 Limpertsberg, Square  01515  01515                % 03147 AVL---
+200419002 Limpertsberg, Alen T  01516  01516                % 03147 AVL---
+200419025 Limpertsberg, Lycée   01517  01517                % 03147 AVL---
+200419026 Limpertsberg, Theate  01519  01519                % 03147 AVL---
+200405014 Centre, Fondation Pe  01520  01520                % 03147 AVL---
+200405020 Hamilius              01525  01525                % 03147 AVL---
+200405023 Centre, Martyrs       01526  01526                % 03147 AVL---
+200405026 Luxembourg/Centre, P  01528  01528                % 03147 AVL---
+200405002 Luxembourg, Gare Cen  01531  01531                % 03147 AVL---
+200415003 Hollerich, Fonderie   01533  01533                % 03147 AVL---
+200415002 Hollerich, Assurance  01536  01536                % 03147 AVL---
+200407004 Cessange, Barrès      01537  01537                % 03147 AVL---
+200407003 Cessange, Artisans    01539  01539                % 03147 AVL---
+200407007 Cessange, Fischerhaf  01540  01540                % 03147 AVL---
+200407008 Cessange, Kierch      01541  01541                % 03147 AVL---
+200407006 Cessange, Duerf       01542  01542                % 03147 AVL---
+200407001 Cessange, Am Eck      01543  01543                % 03147 AVL---
+200407010 Cessange, Rue de Leu  01543  01543                % 03147 AVL---
+220701007 Leudelange, Grasbösc  01544  01544                % 03147 AVL---
+220701019 Leudelange, Schaefer  01546  01546                % 03147 AVL---
+220701015 Leudelange, Stiédswe  01547  01547                % 03147 AVL---
+220701013 Leudelange, Queesche  01549  01549                % 03147 AVL---
+220701004 Leudelange, Galgebös  01550  01550                % 03147 AVL---
+220701006 Leudelange, Gemeng    01552                       % 03147 AVL---
+*Z 03148 AVL---                                             % 03148 AVL---
+*L 4        200419022 220701006  01851  01932               % 03148 AVL---
+*A BE 200419022 220701006 000015  01851  01932              % 03148 AVL---
+*R 2 220701006 200419022 220701006  01851  01932            % 03148 AVL---
+*G AVG 200419022 220701006  01851  01932                    % 03148 AVL---
+*A VE 200419022 220701006 000015  01851  01932              % 03148 AVL---
+200419022 Limpertsberg, Lycée          01851                % 03148 AVL---
+200419007 Limpertsberg, Avenir  01853  01853                % 03148 AVL---
+200419035 Limpertsberg, Waasse  01854  01854                % 03148 AVL---
+200419034 Limpertsberg, Square  01855  01855                % 03148 AVL---
+200419002 Limpertsberg, Alen T  01856  01856                % 03148 AVL---
+200419025 Limpertsberg, Lycée   01857  01857                % 03148 AVL---
+200419026 Limpertsberg, Theate  01859  01859                % 03148 AVL---
+200405014 Centre, Fondation Pe  01900  01900                % 03148 AVL---
+200405020 Hamilius              01905  01905                % 03148 AVL---
+200405023 Centre, Martyrs       01906  01906                % 03148 AVL---
+200405026 Luxembourg/Centre, P  01908  01908                % 03148 AVL---
+200405002 Luxembourg, Gare Cen  01911  01911                % 03148 AVL---
+200415003 Hollerich, Fonderie   01913  01913                % 03148 AVL---
+200415002 Hollerich, Assurance  01916  01916                % 03148 AVL---
+200407004 Cessange, Barrès      01917  01917                % 03148 AVL---
+200407003 Cessange, Artisans    01919  01919                % 03148 AVL---
+200407007 Cessange, Fischerhaf  01920  01920                % 03148 AVL---
+200407008 Cessange, Kierch      01921  01921                % 03148 AVL---
+200407006 Cessange, Duerf       01922  01922                % 03148 AVL---
+200407001 Cessange, Am Eck      01923  01923                % 03148 AVL---
+200407010 Cessange, Rue de Leu  01923  01923                % 03148 AVL---
+220701007 Leudelange, Grasbösc  01924  01924                % 03148 AVL---
+220701019 Leudelange, Schaefer  01926  01926                % 03148 AVL---
+220701015 Leudelange, Stiédswe  01927  01927                % 03148 AVL---
+220701013 Leudelange, Queesche  01929  01929                % 03148 AVL---
+220701004 Leudelange, Galgebös  01930  01930                % 03148 AVL---
+220701006 Leudelange, Gemeng    01932                       % 03148 AVL---
+*Z 03149 AVL---       001 072                               % 03149 AVL---
+*L 4        220701006 200419022  00523  00552               % 03149 AVL---
+*A BE 220701006 200419022 000014  00523  00552              % 03149 AVL---
+*R 1 200419022 220701006 200419022  00523  00552            % 03149 AVL---
+*G AVG 220701006 200419022  00523  00552                    % 03149 AVL---
+*A VE 220701006 200419022 000014  00523  00552              % 03149 AVL---
+220701006 Leudelange, Gemeng           00523                % 03149 AVL---
+220701015 Leudelange, Stiédswe  00524  00524                % 03149 AVL---
+220701019 Leudelange, Schaefer  00526  00526                % 03149 AVL---
+220701007 Leudelange, Grasbösc  00527  00527                % 03149 AVL---
+200407010 Cessange, Rue de Leu  00528  00528                % 03149 AVL---
+200407001 Cessange, Am Eck      00529  00529                % 03149 AVL---
+200407006 Cessange, Duerf       00529  00529                % 03149 AVL---
+200407008 Cessange, Kierch      00530  00530                % 03149 AVL---
+200407007 Cessange, Fischerhaf  00531  00531                % 03149 AVL---
+200407003 Cessange, Artisans    00531  00531                % 03149 AVL---
+200407004 Cessange, Barrès      00532  00532                % 03149 AVL---
+200415002 Hollerich, Assurance  00533  00533                % 03149 AVL---
+200415010 Hollerich, Pierre &   00534  00534                % 03149 AVL---
+200415003 Hollerich, Fonderie   00535  00535                % 03149 AVL---
+200405035 Luxembourg, Gare Cen  00537  00537                % 03149 AVL---
+200405026 Luxembourg/Centre, P  00539  00539                % 03149 AVL---
+200405023 Centre, Martyrs       00540  00540                % 03149 AVL---
+200405020 Hamilius              00543  00543                % 03149 AVL---
+200405014 Centre, Fondation Pe  00545  00545                % 03149 AVL---
+200419026 Limpertsberg, Theate  00546  00546                % 03149 AVL---
+200419025 Limpertsberg, Lycée   00547  00547                % 03149 AVL---
+200419002 Limpertsberg, Alen T  00548  00548                % 03149 AVL---
+200419034 Limpertsberg, Square  00549  00549                % 03149 AVL---
+200419035 Limpertsberg, Waasse  00549  00549                % 03149 AVL---
+200419007 Limpertsberg, Avenir  00550  00550                % 03149 AVL---
+200419015 Luxembourg, Siggy vu  00552  00552                % 03149 AVL---
+200419022 Limpertsberg, Lycée   00552                       % 03149 AVL---
+*Z 03150 AVL---                                             % 03150 AVL---
+*L 4        220701006 200419022  01955  02024               % 03150 AVL---
+*A BE 220701006 200419022 000014  01955  02024              % 03150 AVL---
+*R 1 200419022 220701006 200419022  01955  02024            % 03150 AVL---
+*G AVG 220701006 200419022  01955  02024                    % 03150 AVL---
+*A VE 220701006 200419022 000014  01955  02024              % 03150 AVL---
+220701006 Leudelange, Gemeng           01955                % 03150 AVL---
+220701015 Leudelange, Stiédswe  01956  01956                % 03150 AVL---
+220701019 Leudelange, Schaefer  01958  01958                % 03150 AVL---
+220701007 Leudelange, Grasbösc  01959  01959                % 03150 AVL---
+200407010 Cessange, Rue de Leu  02000  02000                % 03150 AVL---
+200407001 Cessange, Am Eck      02001  02001                % 03150 AVL---
+200407006 Cessange, Duerf       02001  02001                % 03150 AVL---
+200407008 Cessange, Kierch      02002  02002                % 03150 AVL---
+200407007 Cessange, Fischerhaf  02003  02003                % 03150 AVL---
+200407003 Cessange, Artisans    02003  02003                % 03150 AVL---
+200407004 Cessange, Barrès      02004  02004                % 03150 AVL---
+200415002 Hollerich, Assurance  02005  02005                % 03150 AVL---
+200415010 Hollerich, Pierre &   02006  02006                % 03150 AVL---
+200415003 Hollerich, Fonderie   02007  02007                % 03150 AVL---
+200405035 Luxembourg, Gare Cen  02009  02009                % 03150 AVL---
+200405026 Luxembourg/Centre, P  02011  02011                % 03150 AVL---
+200405023 Centre, Martyrs       02012  02012                % 03150 AVL---
+200405020 Hamilius              02015  02015                % 03150 AVL---
+200405014 Centre, Fondation Pe  02017  02017                % 03150 AVL---
+200419026 Limpertsberg, Theate  02018  02018                % 03150 AVL---
+200419025 Limpertsberg, Lycée   02019  02019                % 03150 AVL---
+200419002 Limpertsberg, Alen T  02020  02020                % 03150 AVL---
+200419034 Limpertsberg, Square  02021  02021                % 03150 AVL---
+200419035 Limpertsberg, Waasse  02021  02021                % 03150 AVL---
+200419007 Limpertsberg, Avenir  02022  02022                % 03150 AVL---
+200419015 Luxembourg, Siggy vu  02024  02024                % 03150 AVL---
+200419022 Limpertsberg, Lycée   02024                       % 03150 AVL---
+*Z 03151 AVL---       001 140                               % 03151 AVL---
+*L 4        220701006 200419022  00709  00747               % 03151 AVL---
+*A BE 220701006 200419022 000014  00709  00747              % 03151 AVL---
+*R 1 200419022 220701006 200419022  00709  00747            % 03151 AVL---
+*G AVG 220701006 200419022  00709  00747                    % 03151 AVL---
+*A VE 220701006 200419022 000014  00709  00747              % 03151 AVL---
+220701006 Leudelange, Gemeng           00709                % 03151 AVL---
+220701015 Leudelange, Stiédswe  00710  00710                % 03151 AVL---
+220701019 Leudelange, Schaefer  00712  00712                % 03151 AVL---
+220701007 Leudelange, Grasbösc  00713  00713                % 03151 AVL---
+200407010 Cessange, Rue de Leu  00714  00714                % 03151 AVL---
+200407001 Cessange, Am Eck      00716  00716                % 03151 AVL---
+200407006 Cessange, Duerf       00716  00716                % 03151 AVL---
+200407008 Cessange, Kierch      00718  00718                % 03151 AVL---
+200407007 Cessange, Fischerhaf  00718  00718                % 03151 AVL---
+200407003 Cessange, Artisans    00720  00720                % 03151 AVL---
+200407004 Cessange, Barrès      00721  00721                % 03151 AVL---
+200415002 Hollerich, Assurance  00722  00722                % 03151 AVL---
+200415010 Hollerich, Pierre &   00723  00723                % 03151 AVL---
+200415003 Hollerich, Fonderie   00724  00724                % 03151 AVL---
+200405035 Luxembourg, Gare Cen  00728  00728                % 03151 AVL---
+200405026 Luxembourg/Centre, P  00731  00731                % 03151 AVL---
+200405023 Centre, Martyrs       00732  00732                % 03151 AVL---
+200405020 Hamilius              00735  00735                % 03151 AVL---
+200405014 Centre, Fondation Pe  00738  00738                % 03151 AVL---
+200419026 Limpertsberg, Theate  00740  00740                % 03151 AVL---
+200419025 Limpertsberg, Lycée   00741  00741                % 03151 AVL---
+200419002 Limpertsberg, Alen T  00742  00742                % 03151 AVL---
+200419034 Limpertsberg, Square  00743  00743                % 03151 AVL---
+200419035 Limpertsberg, Waasse  00744  00744                % 03151 AVL---
+200419007 Limpertsberg, Avenir  00745  00745                % 03151 AVL---
+200419015 Luxembourg, Siggy vu  00746  00746                % 03151 AVL---
+200419022 Limpertsberg, Lycée   00747                       % 03151 AVL---
+*Z 03152 AVL---       009 020                               % 03152 AVL---
+*L 4        220701006 200419022  00949  01027               % 03152 AVL---
+*A BE 220701006 200419022 000014  00949  01027              % 03152 AVL---
+*R 1 200419022 220701006 200419022  00949  01027            % 03152 AVL---
+*G AVG 220701006 200419022  00949  01027                    % 03152 AVL---
+*A VE 220701006 200419022 000014  00949  01027              % 03152 AVL---
+220701006 Leudelange, Gemeng           00949                % 03152 AVL---
+220701015 Leudelange, Stiédswe  00950  00950                % 03152 AVL---
+220701019 Leudelange, Schaefer  00952  00952                % 03152 AVL---
+220701007 Leudelange, Grasbösc  00953  00953                % 03152 AVL---
+200407010 Cessange, Rue de Leu  00954  00954                % 03152 AVL---
+200407001 Cessange, Am Eck      00956  00956                % 03152 AVL---
+200407006 Cessange, Duerf       00956  00956                % 03152 AVL---
+200407008 Cessange, Kierch      00958  00958                % 03152 AVL---
+200407007 Cessange, Fischerhaf  00958  00958                % 03152 AVL---
+200407003 Cessange, Artisans    01000  01000                % 03152 AVL---
+200407004 Cessange, Barrès      01001  01001                % 03152 AVL---
+200415002 Hollerich, Assurance  01002  01002                % 03152 AVL---
+200415010 Hollerich, Pierre &   01003  01003                % 03152 AVL---
+200415003 Hollerich, Fonderie   01004  01004                % 03152 AVL---
+200405035 Luxembourg, Gare Cen  01008  01008                % 03152 AVL---
+200405026 Luxembourg/Centre, P  01011  01011                % 03152 AVL---
+200405023 Centre, Martyrs       01012  01012                % 03152 AVL---
+200405020 Hamilius              01015  01015                % 03152 AVL---
+200405014 Centre, Fondation Pe  01018  01018                % 03152 AVL---
+200419026 Limpertsberg, Theate  01020  01020                % 03152 AVL---
+200419025 Limpertsberg, Lycée   01021  01021                % 03152 AVL---
+200419002 Limpertsberg, Alen T  01022  01022                % 03152 AVL---
+200419034 Limpertsberg, Square  01023  01023                % 03152 AVL---
+200419035 Limpertsberg, Waasse  01024  01024                % 03152 AVL---
+200419007 Limpertsberg, Avenir  01025  01025                % 03152 AVL---
+200419015 Luxembourg, Siggy vu  01026  01026                % 03152 AVL---
+200419022 Limpertsberg, Lycée   01027                       % 03152 AVL---
+*Z 03153 AVL---       001 140                               % 03153 AVL---
+*L 4        220701006 200419022  01329  01407               % 03153 AVL---
+*A BE 220701006 200419022 000014  01329  01407              % 03153 AVL---
+*R 1 200419022 220701006 200419022  01329  01407            % 03153 AVL---
+*G AVG 220701006 200419022  01329  01407                    % 03153 AVL---
+*A VE 220701006 200419022 000014  01329  01407              % 03153 AVL---
+220701006 Leudelange, Gemeng           01329                % 03153 AVL---
+220701015 Leudelange, Stiédswe  01330  01330                % 03153 AVL---
+220701019 Leudelange, Schaefer  01332  01332                % 03153 AVL---
+220701007 Leudelange, Grasbösc  01333  01333                % 03153 AVL---
+200407010 Cessange, Rue de Leu  01334  01334                % 03153 AVL---
+200407001 Cessange, Am Eck      01336  01336                % 03153 AVL---
+200407006 Cessange, Duerf       01336  01336                % 03153 AVL---
+200407008 Cessange, Kierch      01338  01338                % 03153 AVL---
+200407007 Cessange, Fischerhaf  01338  01338                % 03153 AVL---
+200407003 Cessange, Artisans    01340  01340                % 03153 AVL---
+200407004 Cessange, Barrès      01341  01341                % 03153 AVL---
+200415002 Hollerich, Assurance  01342  01342                % 03153 AVL---
+200415010 Hollerich, Pierre &   01343  01343                % 03153 AVL---
+200415003 Hollerich, Fonderie   01344  01344                % 03153 AVL---
+200405035 Luxembourg, Gare Cen  01348  01348                % 03153 AVL---
+200405026 Luxembourg/Centre, P  01351  01351                % 03153 AVL---
+200405023 Centre, Martyrs       01352  01352                % 03153 AVL---
+200405020 Hamilius              01355  01355                % 03153 AVL---
+200405014 Centre, Fondation Pe  01358  01358                % 03153 AVL---
+200419026 Limpertsberg, Theate  01400  01400                % 03153 AVL---
+200419025 Limpertsberg, Lycée   01401  01401                % 03153 AVL---
+200419002 Limpertsberg, Alen T  01402  01402                % 03153 AVL---
+200419034 Limpertsberg, Square  01403  01403                % 03153 AVL---
+200419035 Limpertsberg, Waasse  01404  01404                % 03153 AVL---
+200419007 Limpertsberg, Avenir  01405  01405                % 03153 AVL---
+200419015 Luxembourg, Siggy vu  01406  01406                % 03153 AVL---
+200419022 Limpertsberg, Lycée   01407                       % 03153 AVL---
+*Z 03154 AVL---       009 020                               % 03154 AVL---
+*L 4        220701006 200419022  01609  01647               % 03154 AVL---
+*A BE 220701006 200419022 000014  01609  01647              % 03154 AVL---
+*R 1 200419022 220701006 200419022  01609  01647            % 03154 AVL---
+*G AVG 220701006 200419022  01609  01647                    % 03154 AVL---
+*A VE 220701006 200419022 000014  01609  01647              % 03154 AVL---
+220701006 Leudelange, Gemeng           01609                % 03154 AVL---
+220701015 Leudelange, Stiédswe  01610  01610                % 03154 AVL---
+220701019 Leudelange, Schaefer  01612  01612                % 03154 AVL---
+220701007 Leudelange, Grasbösc  01613  01613                % 03154 AVL---
+200407010 Cessange, Rue de Leu  01614  01614                % 03154 AVL---
+200407001 Cessange, Am Eck      01616  01616                % 03154 AVL---
+200407006 Cessange, Duerf       01616  01616                % 03154 AVL---
+200407008 Cessange, Kierch      01618  01618                % 03154 AVL---
+200407007 Cessange, Fischerhaf  01618  01618                % 03154 AVL---
+200407003 Cessange, Artisans    01620  01620                % 03154 AVL---
+200407004 Cessange, Barrès      01621  01621                % 03154 AVL---
+200415002 Hollerich, Assurance  01622  01622                % 03154 AVL---
+200415010 Hollerich, Pierre &   01623  01623                % 03154 AVL---
+200415003 Hollerich, Fonderie   01624  01624                % 03154 AVL---
+200405035 Luxembourg, Gare Cen  01628  01628                % 03154 AVL---
+200405026 Luxembourg/Centre, P  01631  01631                % 03154 AVL---
+200405023 Centre, Martyrs       01632  01632                % 03154 AVL---
+200405020 Hamilius              01635  01635                % 03154 AVL---
+200405014 Centre, Fondation Pe  01638  01638                % 03154 AVL---
+200419026 Limpertsberg, Theate  01640  01640                % 03154 AVL---
+200419025 Limpertsberg, Lycée   01641  01641                % 03154 AVL---
+200419002 Limpertsberg, Alen T  01642  01642                % 03154 AVL---
+200419034 Limpertsberg, Square  01643  01643                % 03154 AVL---
+200419035 Limpertsberg, Waasse  01644  01644                % 03154 AVL---
+200419007 Limpertsberg, Avenir  01645  01645                % 03154 AVL---
+200419015 Luxembourg, Siggy vu  01646  01646                % 03154 AVL---
+200419022 Limpertsberg, Lycée   01647                       % 03154 AVL---
+*Z 03155 AVL---                                             % 03155 AVL---
+*L 4        220701006 200405025  01950  02010               % 03155 AVL---
+*A BE 220701006 200405025 000023  01950  02010              % 03155 AVL---
+*R 1 200405025 220701006 200405025  01950  02010            % 03155 AVL---
+*G AVS 220701006 200405025  01950  02010                    % 03155 AVL---
+*A VE 220701006 200405025 000023  01950  02010              % 03155 AVL---
+220701006 Leudelange, Gemeng           01950                % 03155 AVL---
+220701015 Leudelange, Stiédswe  01951  01951                % 03155 AVL---
+220701019 Leudelange, Schaefer  01953  01953                % 03155 AVL---
+220701007 Leudelange, Grasbösc  01954  01954                % 03155 AVL---
+200407010 Cessange, Rue de Leu  01955  01955                % 03155 AVL---
+200407001 Cessange, Am Eck      01956  01956                % 03155 AVL---
+200407006 Cessange, Duerf       01956  01956                % 03155 AVL---
+200407008 Cessange, Kierch      01957  01957                % 03155 AVL---
+200407007 Cessange, Fischerhaf  01958  01958                % 03155 AVL---
+200407003 Cessange, Artisans    01958  01958                % 03155 AVL---
+200407004 Cessange, Barrès      01959  01959                % 03155 AVL---
+200415002 Hollerich, Assurance  02000  02000                % 03155 AVL---
+200415010 Hollerich, Pierre &   02001  02001                % 03155 AVL---
+200415003 Hollerich, Fonderie   02002  02002                % 03155 AVL---
+200405035 Luxembourg, Gare Cen  02004  02004                % 03155 AVL---
+200405026 Luxembourg/Centre, P  02006  02006                % 03155 AVL---
+200405023 Centre, Martyrs       02007  02007                % 03155 AVL---
+200405025 Luxembourg/Centre, M  02010                       % 03155 AVL---
+*Z 03156 AVL---       011 060                               % 03156 AVL---
+*L 4        220701006 200405025  00748  00810               % 03156 AVL---
+*A BE 220701006 200405025 000023  00748  00810              % 03156 AVL---
+*R 1 200405025 220701006 200405025  00748  00810            % 03156 AVL---
+*G AVS 220701006 200405025  00748  00810                    % 03156 AVL---
+*A VE 220701006 200405025 000023  00748  00810              % 03156 AVL---
+220701006 Leudelange, Gemeng           00748                % 03156 AVL---
+220701015 Leudelange, Stiédswe  00749  00749                % 03156 AVL---
+220701019 Leudelange, Schaefer  00751  00751                % 03156 AVL---
+220701007 Leudelange, Grasbösc  00752  00752                % 03156 AVL---
+200407010 Cessange, Rue de Leu  00753  00753                % 03156 AVL---
+200407001 Cessange, Am Eck      00754  00754                % 03156 AVL---
+200407006 Cessange, Duerf       00755  00755                % 03156 AVL---
+200407008 Cessange, Kierch      00756  00756                % 03156 AVL---
+200407007 Cessange, Fischerhaf  00756  00756                % 03156 AVL---
+200407003 Cessange, Artisans    00758  00758                % 03156 AVL---
+200407004 Cessange, Barrès      00759  00759                % 03156 AVL---
+200415002 Hollerich, Assurance  00800  00800                % 03156 AVL---
+200415010 Hollerich, Pierre &   00800  00800                % 03156 AVL---
+200415003 Hollerich, Fonderie   00802  00802                % 03156 AVL---
+200405035 Luxembourg, Gare Cen  00804  00804                % 03156 AVL---
+200405026 Luxembourg/Centre, P  00806  00806                % 03156 AVL---
+200405023 Centre, Martyrs       00807  00807                % 03156 AVL---
+200405025 Luxembourg/Centre, M  00810                       % 03156 AVL---
+*Z 03157 AVL---       011 060                               % 03157 AVL---
+*L 4        200405020 220701006  00815  00837               % 03157 AVL---
+*A BE 200405020 220701006 000023  00815  00837              % 03157 AVL---
+*R 2 220701006 200405020 220701006  00815  00837            % 03157 AVL---
+*G AVS 200405020 220701006  00815  00837                    % 03157 AVL---
+*A VE 200405020 220701006 000023  00815  00837              % 03157 AVL---
+200405020 Hamilius                     00815                % 03157 AVL---
+200405023 Centre, Martyrs       00816  00816                % 03157 AVL---
+200405026 Luxembourg/Centre, P  00818  00818                % 03157 AVL---
+200405002 Luxembourg, Gare Cen  00820  00820                % 03157 AVL---
+200415003 Hollerich, Fonderie   00822  00822                % 03157 AVL---
+200415002 Hollerich, Assurance  00823  00823                % 03157 AVL---
+200407004 Cessange, Barrès      00825  00825                % 03157 AVL---
+200407003 Cessange, Artisans    00826  00826                % 03157 AVL---
+200407007 Cessange, Fischerhaf  00827  00827                % 03157 AVL---
+200407008 Cessange, Kierch      00827  00827                % 03157 AVL---
+200407006 Cessange, Duerf       00828  00828                % 03157 AVL---
+200407001 Cessange, Am Eck      00829  00829                % 03157 AVL---
+200407010 Cessange, Rue de Leu  00830  00830                % 03157 AVL---
+220701007 Leudelange, Grasbösc  00831  00831                % 03157 AVL---
+220701019 Leudelange, Schaefer  00832  00832                % 03157 AVL---
+220701015 Leudelange, Stiédswe  00833  00833                % 03157 AVL---
+220701013 Leudelange, Queesche  00835  00835                % 03157 AVL---
+220701004 Leudelange, Galgebös  00835  00835                % 03157 AVL---
+220701006 Leudelange, Gemeng    00837                       % 03157 AVL---
+*Z 03158 AVL---       010 020                               % 03158 AVL---
+*L 4        200419022 220701006  00831  00912               % 03158 AVL---
+*A BE 200419022 220701006 000014  00831  00912              % 03158 AVL---
+*R 2 220701006 200419022 220701006  00831  00912            % 03158 AVL---
+*G AVG 200419022 220701006  00831  00912                    % 03158 AVL---
+*A VE 200419022 220701006 000014  00831  00912              % 03158 AVL---
+200419022 Limpertsberg, Lycée          00831                % 03158 AVL---
+200419007 Limpertsberg, Avenir  00833  00833                % 03158 AVL---
+200419035 Limpertsberg, Waasse  00834  00834                % 03158 AVL---
+200419034 Limpertsberg, Square  00835  00835                % 03158 AVL---
+200419002 Limpertsberg, Alen T  00836  00836                % 03158 AVL---
+200419025 Limpertsberg, Lycée   00837  00837                % 03158 AVL---
+200419026 Limpertsberg, Theate  00839  00839                % 03158 AVL---
+200405014 Centre, Fondation Pe  00840  00840                % 03158 AVL---
+200405020 Hamilius              00845  00845                % 03158 AVL---
+200405023 Centre, Martyrs       00846  00846                % 03158 AVL---
+200405026 Luxembourg/Centre, P  00848  00848                % 03158 AVL---
+200405002 Luxembourg, Gare Cen  00851  00851                % 03158 AVL---
+200415003 Hollerich, Fonderie   00853  00853                % 03158 AVL---
+200415002 Hollerich, Assurance  00856  00856                % 03158 AVL---
+200407004 Cessange, Barrès      00857  00857                % 03158 AVL---
+200407003 Cessange, Artisans    00859  00859                % 03158 AVL---
+200407007 Cessange, Fischerhaf  00900  00900                % 03158 AVL---
+200407008 Cessange, Kierch      00901  00901                % 03158 AVL---
+200407006 Cessange, Duerf       00902  00902                % 03158 AVL---
+200407001 Cessange, Am Eck      00903  00903                % 03158 AVL---
+200407010 Cessange, Rue de Leu  00903  00903                % 03158 AVL---
+220701007 Leudelange, Grasbösc  00904  00904                % 03158 AVL---
+220701019 Leudelange, Schaefer  00906  00906                % 03158 AVL---
+220701015 Leudelange, Stiédswe  00907  00907                % 03158 AVL---
+220701013 Leudelange, Queesche  00909  00909                % 03158 AVL---
+220701004 Leudelange, Galgebös  00910  00910                % 03158 AVL---
+220701006 Leudelange, Gemeng    00912                       % 03158 AVL---
+*Z 03159 AVL---       001 140                               % 03159 AVL---
+*L 4        200419022 220701006  01231  01312               % 03159 AVL---
+*A BE 200419022 220701006 000014  01231  01312              % 03159 AVL---
+*R 2 220701006 200419022 220701006  01231  01312            % 03159 AVL---
+*G AVG 200419022 220701006  01231  01312                    % 03159 AVL---
+*A VE 200419022 220701006 000014  01231  01312              % 03159 AVL---
+200419022 Limpertsberg, Lycée          01231                % 03159 AVL---
+200419007 Limpertsberg, Avenir  01233  01233                % 03159 AVL---
+200419035 Limpertsberg, Waasse  01234  01234                % 03159 AVL---
+200419034 Limpertsberg, Square  01235  01235                % 03159 AVL---
+200419002 Limpertsberg, Alen T  01236  01236                % 03159 AVL---
+200419025 Limpertsberg, Lycée   01237  01237                % 03159 AVL---
+200419026 Limpertsberg, Theate  01239  01239                % 03159 AVL---
+200405014 Centre, Fondation Pe  01240  01240                % 03159 AVL---
+200405020 Hamilius              01245  01245                % 03159 AVL---
+200405023 Centre, Martyrs       01246  01246                % 03159 AVL---
+200405026 Luxembourg/Centre, P  01248  01248                % 03159 AVL---
+200405002 Luxembourg, Gare Cen  01251  01251                % 03159 AVL---
+200415003 Hollerich, Fonderie   01253  01253                % 03159 AVL---
+200415002 Hollerich, Assurance  01256  01256                % 03159 AVL---
+200407004 Cessange, Barrès      01257  01257                % 03159 AVL---
+200407003 Cessange, Artisans    01259  01259                % 03159 AVL---
+200407007 Cessange, Fischerhaf  01300  01300                % 03159 AVL---
+200407008 Cessange, Kierch      01301  01301                % 03159 AVL---
+200407006 Cessange, Duerf       01302  01302                % 03159 AVL---
+200407001 Cessange, Am Eck      01303  01303                % 03159 AVL---
+200407010 Cessange, Rue de Leu  01303  01303                % 03159 AVL---
+220701007 Leudelange, Grasbösc  01304  01304                % 03159 AVL---
+220701019 Leudelange, Schaefer  01306  01306                % 03159 AVL---
+220701015 Leudelange, Stiédswe  01307  01307                % 03159 AVL---
+220701013 Leudelange, Queesche  01309  01309                % 03159 AVL---
+220701004 Leudelange, Galgebös  01310  01310                % 03159 AVL---
+220701006 Leudelange, Gemeng    01312                       % 03159 AVL---
+*Z 03160 AVL---       009 020                               % 03160 AVL---
+*L 4        200419022 220701006  01511  01552               % 03160 AVL---
+*A BE 200419022 220701006 000014  01511  01552              % 03160 AVL---
+*R 2 220701006 200419022 220701006  01511  01552            % 03160 AVL---
+*G AVG 200419022 220701006  01511  01552                    % 03160 AVL---
+*A VE 200419022 220701006 000014  01511  01552              % 03160 AVL---
+200419022 Limpertsberg, Lycée          01511                % 03160 AVL---
+200419007 Limpertsberg, Avenir  01513  01513                % 03160 AVL---
+200419035 Limpertsberg, Waasse  01514  01514                % 03160 AVL---
+200419034 Limpertsberg, Square  01515  01515                % 03160 AVL---
+200419002 Limpertsberg, Alen T  01516  01516                % 03160 AVL---
+200419025 Limpertsberg, Lycée   01517  01517                % 03160 AVL---
+200419026 Limpertsberg, Theate  01519  01519                % 03160 AVL---
+200405014 Centre, Fondation Pe  01520  01520                % 03160 AVL---
+200405020 Hamilius              01525  01525                % 03160 AVL---
+200405023 Centre, Martyrs       01526  01526                % 03160 AVL---
+200405026 Luxembourg/Centre, P  01528  01528                % 03160 AVL---
+200405002 Luxembourg, Gare Cen  01531  01531                % 03160 AVL---
+200415003 Hollerich, Fonderie   01533  01533                % 03160 AVL---
+200415002 Hollerich, Assurance  01536  01536                % 03160 AVL---
+200407004 Cessange, Barrès      01537  01537                % 03160 AVL---
+200407003 Cessange, Artisans    01539  01539                % 03160 AVL---
+200407007 Cessange, Fischerhaf  01540  01540                % 03160 AVL---
+200407008 Cessange, Kierch      01541  01541                % 03160 AVL---
+200407006 Cessange, Duerf       01542  01542                % 03160 AVL---
+200407001 Cessange, Am Eck      01543  01543                % 03160 AVL---
+200407010 Cessange, Rue de Leu  01543  01543                % 03160 AVL---
+220701007 Leudelange, Grasbösc  01544  01544                % 03160 AVL---
+220701019 Leudelange, Schaefer  01546  01546                % 03160 AVL---
+220701015 Leudelange, Stiédswe  01547  01547                % 03160 AVL---
+220701013 Leudelange, Queesche  01549  01549                % 03160 AVL---
+220701004 Leudelange, Galgebös  01550  01550                % 03160 AVL---
+220701006 Leudelange, Gemeng    01552                       % 03160 AVL---
+*Z 03161 AVL---                                             % 03161 AVL---
+*L 4        200419022 220701006  01851  01932               % 03161 AVL---
+*A BE 200419022 220701006 000014  01851  01932              % 03161 AVL---
+*R 2 220701006 200419022 220701006  01851  01932            % 03161 AVL---
+*G AVG 200419022 220701006  01851  01932                    % 03161 AVL---
+*A VE 200419022 220701006 000014  01851  01932              % 03161 AVL---
+200419022 Limpertsberg, Lycée          01851                % 03161 AVL---
+200419007 Limpertsberg, Avenir  01853  01853                % 03161 AVL---
+200419035 Limpertsberg, Waasse  01854  01854                % 03161 AVL---
+200419034 Limpertsberg, Square  01855  01855                % 03161 AVL---
+200419002 Limpertsberg, Alen T  01856  01856                % 03161 AVL---
+200419025 Limpertsberg, Lycée   01857  01857                % 03161 AVL---
+200419026 Limpertsberg, Theate  01859  01859                % 03161 AVL---
+200405014 Centre, Fondation Pe  01900  01900                % 03161 AVL---
+200405020 Hamilius              01905  01905                % 03161 AVL---
+200405023 Centre, Martyrs       01906  01906                % 03161 AVL---
+200405026 Luxembourg/Centre, P  01908  01908                % 03161 AVL---
+200405002 Luxembourg, Gare Cen  01911  01911                % 03161 AVL---
+200415003 Hollerich, Fonderie   01913  01913                % 03161 AVL---
+200415002 Hollerich, Assurance  01916  01916                % 03161 AVL---
+200407004 Cessange, Barrès      01917  01917                % 03161 AVL---
+200407003 Cessange, Artisans    01919  01919                % 03161 AVL---
+200407007 Cessange, Fischerhaf  01920  01920                % 03161 AVL---
+200407008 Cessange, Kierch      01921  01921                % 03161 AVL---
+200407006 Cessange, Duerf       01922  01922                % 03161 AVL---
+200407001 Cessange, Am Eck      01923  01923                % 03161 AVL---
+200407010 Cessange, Rue de Leu  01923  01923                % 03161 AVL---
+220701007 Leudelange, Grasbösc  01924  01924                % 03161 AVL---
+220701019 Leudelange, Schaefer  01926  01926                % 03161 AVL---
+220701015 Leudelange, Stiédswe  01927  01927                % 03161 AVL---
+220701013 Leudelange, Queesche  01929  01929                % 03161 AVL---
+220701004 Leudelange, Galgebös  01930  01930                % 03161 AVL---
+220701006 Leudelange, Gemeng    01932                       % 03161 AVL---
+*Z 03162 AVL---                                             % 03162 AVL---
+*L 4        200419022 220701006  00615  00646               % 03162 AVL---
+*A BE 200419022 220701006 000014  00615  00646              % 03162 AVL---
+*R 2 220701006 200419022 220701006  00615  00646            % 03162 AVL---
+*G AVG 200419022 220701006  00615  00646                    % 03162 AVL---
+*A VE 200419022 220701006 000014  00615  00646              % 03162 AVL---
+200419022 Limpertsberg, Lycée          00615                % 03162 AVL---
+200419007 Limpertsberg, Avenir  00616  00616                % 03162 AVL---
+200419035 Limpertsberg, Waasse  00617  00617                % 03162 AVL---
+200419034 Limpertsberg, Square  00618  00618                % 03162 AVL---
+200419002 Limpertsberg, Alen T  00619  00619                % 03162 AVL---
+200419025 Limpertsberg, Lycée   00619  00619                % 03162 AVL---
+200419026 Limpertsberg, Theate  00620  00620                % 03162 AVL---
+200405014 Centre, Fondation Pe  00622  00622                % 03162 AVL---
+200405020 Hamilius              00625  00625                % 03162 AVL---
+200405023 Centre, Martyrs       00626  00626                % 03162 AVL---
+200405026 Luxembourg/Centre, P  00627  00627                % 03162 AVL---
+200405002 Luxembourg, Gare Cen  00629  00629                % 03162 AVL---
+200415003 Hollerich, Fonderie   00631  00631                % 03162 AVL---
+200415002 Hollerich, Assurance  00633  00633                % 03162 AVL---
+200407004 Cessange, Barrès      00634  00634                % 03162 AVL---
+200407003 Cessange, Artisans    00635  00635                % 03162 AVL---
+200407007 Cessange, Fischerhaf  00636  00636                % 03162 AVL---
+200407008 Cessange, Kierch      00637  00637                % 03162 AVL---
+200407006 Cessange, Duerf       00638  00638                % 03162 AVL---
+200407001 Cessange, Am Eck      00638  00638                % 03162 AVL---
+200407010 Cessange, Rue de Leu  00639  00639                % 03162 AVL---
+220701007 Leudelange, Grasbösc  00640  00640                % 03162 AVL---
+220701019 Leudelange, Schaefer  00641  00641                % 03162 AVL---
+220701015 Leudelange, Stiédswe  00642  00642                % 03162 AVL---
+220701013 Leudelange, Queesche  00644  00644                % 03162 AVL---
+220701004 Leudelange, Galgebös  00644  00644                % 03162 AVL---
+220701006 Leudelange, Gemeng    00646                       % 03162 AVL---
+*Z 03163 AVL---                                             % 03163 AVL---
+*L 4        200405020 220701006  02015  02036               % 03163 AVL---
+*A BE 200405020 220701006 000023  02015  02036              % 03163 AVL---
+*R 2 220701006 200405020 220701006  02015  02036            % 03163 AVL---
+*G AVS 200405020 220701006  02015  02036                    % 03163 AVL---
+*A VE 200405020 220701006 000023  02015  02036              % 03163 AVL---
+200405020 Hamilius                     02015                % 03163 AVL---
+200405023 Centre, Martyrs       02016  02016                % 03163 AVL---
+200405026 Luxembourg/Centre, P  02017  02017                % 03163 AVL---
+200405002 Luxembourg, Gare Cen  02019  02019                % 03163 AVL---
+200415003 Hollerich, Fonderie   02021  02021                % 03163 AVL---
+200415002 Hollerich, Assurance  02023  02023                % 03163 AVL---
+200407004 Cessange, Barrès      02024  02024                % 03163 AVL---
+200407003 Cessange, Artisans    02025  02025                % 03163 AVL---
+200407007 Cessange, Fischerhaf  02026  02026                % 03163 AVL---
+200407008 Cessange, Kierch      02027  02027                % 03163 AVL---
+200407006 Cessange, Duerf       02028  02028                % 03163 AVL---
+200407001 Cessange, Am Eck      02028  02028                % 03163 AVL---
+200407010 Cessange, Rue de Leu  02029  02029                % 03163 AVL---
+220701007 Leudelange, Grasbösc  02030  02030                % 03163 AVL---
+220701019 Leudelange, Schaefer  02031  02031                % 03163 AVL---
+220701015 Leudelange, Stiédswe  02032  02032                % 03163 AVL---
+220701013 Leudelange, Queesche  02034  02034                % 03163 AVL---
+220701004 Leudelange, Galgebös  02034  02034                % 03163 AVL---
+220701006 Leudelange, Gemeng    02036                       % 03163 AVL---
+*Z 03164 AVL---       001 140                               % 03164 AVL---
+*L 4        220701006 200419022  00709  00747               % 03164 AVL---
+*A BE 220701006 200419022 000013  00709  00747              % 03164 AVL---
+*R 1 200419022 220701006 200419022  00709  00747            % 03164 AVL---
+*G AVG 220701006 200419022  00709  00747                    % 03164 AVL---
+*A VE 220701006 200419022 000013  00709  00747              % 03164 AVL---
+220701006 Leudelange, Gemeng           00709                % 03164 AVL---
+220701015 Leudelange, Stiédswe  00710  00710                % 03164 AVL---
+220701019 Leudelange, Schaefer  00712  00712                % 03164 AVL---
+220701007 Leudelange, Grasbösc  00713  00713                % 03164 AVL---
+200407010 Cessange, Rue de Leu  00714  00714                % 03164 AVL---
+200407001 Cessange, Am Eck      00716  00716                % 03164 AVL---
+200407006 Cessange, Duerf       00716  00716                % 03164 AVL---
+200407008 Cessange, Kierch      00718  00718                % 03164 AVL---
+200407007 Cessange, Fischerhaf  00718  00718                % 03164 AVL---
+200407003 Cessange, Artisans    00720  00720                % 03164 AVL---
+200407004 Cessange, Barrès      00721  00721                % 03164 AVL---
+200415002 Hollerich, Assurance  00722  00722                % 03164 AVL---
+200415010 Hollerich, Pierre &   00723  00723                % 03164 AVL---
+200415003 Hollerich, Fonderie   00724  00724                % 03164 AVL---
+200405035 Luxembourg, Gare Cen  00728  00728                % 03164 AVL---
+200405026 Luxembourg/Centre, P  00731  00731                % 03164 AVL---
+200405023 Centre, Martyrs       00732  00732                % 03164 AVL---
+200405020 Hamilius              00735  00735                % 03164 AVL---
+200405014 Centre, Fondation Pe  00738  00738                % 03164 AVL---
+200419026 Limpertsberg, Theate  00740  00740                % 03164 AVL---
+200419025 Limpertsberg, Lycée   00741  00741                % 03164 AVL---
+200419002 Limpertsberg, Alen T  00742  00742                % 03164 AVL---
+200419034 Limpertsberg, Square  00743  00743                % 03164 AVL---
+200419035 Limpertsberg, Waasse  00744  00744                % 03164 AVL---
+200419007 Limpertsberg, Avenir  00745  00745                % 03164 AVL---
+200419015 Luxembourg, Siggy vu  00746  00746                % 03164 AVL---
+200419022 Limpertsberg, Lycée   00747                       % 03164 AVL---
+*Z 03165 AVL---       009 020                               % 03165 AVL---
+*L 4        220701006 200419022  00949  01027               % 03165 AVL---
+*A BE 220701006 200419022 000013  00949  01027              % 03165 AVL---
+*R 1 200419022 220701006 200419022  00949  01027            % 03165 AVL---
+*G AVG 220701006 200419022  00949  01027                    % 03165 AVL---
+*A VE 220701006 200419022 000013  00949  01027              % 03165 AVL---
+220701006 Leudelange, Gemeng           00949                % 03165 AVL---
+220701015 Leudelange, Stiédswe  00950  00950                % 03165 AVL---
+220701019 Leudelange, Schaefer  00952  00952                % 03165 AVL---
+220701007 Leudelange, Grasbösc  00953  00953                % 03165 AVL---
+200407010 Cessange, Rue de Leu  00954  00954                % 03165 AVL---
+200407001 Cessange, Am Eck      00956  00956                % 03165 AVL---
+200407006 Cessange, Duerf       00956  00956                % 03165 AVL---
+200407008 Cessange, Kierch      00958  00958                % 03165 AVL---
+200407007 Cessange, Fischerhaf  00958  00958                % 03165 AVL---
+200407003 Cessange, Artisans    01000  01000                % 03165 AVL---
+200407004 Cessange, Barrès      01001  01001                % 03165 AVL---
+200415002 Hollerich, Assurance  01002  01002                % 03165 AVL---
+200415010 Hollerich, Pierre &   01003  01003                % 03165 AVL---
+200415003 Hollerich, Fonderie   01004  01004                % 03165 AVL---
+200405035 Luxembourg, Gare Cen  01008  01008                % 03165 AVL---
+200405026 Luxembourg/Centre, P  01011  01011                % 03165 AVL---
+200405023 Centre, Martyrs       01012  01012                % 03165 AVL---
+200405020 Hamilius              01015  01015                % 03165 AVL---
+200405014 Centre, Fondation Pe  01018  01018                % 03165 AVL---
+200419026 Limpertsberg, Theate  01020  01020                % 03165 AVL---
+200419025 Limpertsberg, Lycée   01021  01021                % 03165 AVL---
+200419002 Limpertsberg, Alen T  01022  01022                % 03165 AVL---
+200419034 Limpertsberg, Square  01023  01023                % 03165 AVL---
+200419035 Limpertsberg, Waasse  01024  01024                % 03165 AVL---
+200419007 Limpertsberg, Avenir  01025  01025                % 03165 AVL---
+200419015 Luxembourg, Siggy vu  01026  01026                % 03165 AVL---
+200419022 Limpertsberg, Lycée   01027                       % 03165 AVL---
+*Z 03166 AVL---       001 140                               % 03166 AVL---
+*L 4        220701006 200419022  01329  01407               % 03166 AVL---
+*A BE 220701006 200419022 000013  01329  01407              % 03166 AVL---
+*R 1 200419022 220701006 200419022  01329  01407            % 03166 AVL---
+*G AVG 220701006 200419022  01329  01407                    % 03166 AVL---
+*A VE 220701006 200419022 000013  01329  01407              % 03166 AVL---
+220701006 Leudelange, Gemeng           01329                % 03166 AVL---
+220701015 Leudelange, Stiédswe  01330  01330                % 03166 AVL---
+220701019 Leudelange, Schaefer  01332  01332                % 03166 AVL---
+220701007 Leudelange, Grasbösc  01333  01333                % 03166 AVL---
+200407010 Cessange, Rue de Leu  01334  01334                % 03166 AVL---
+200407001 Cessange, Am Eck      01336  01336                % 03166 AVL---
+200407006 Cessange, Duerf       01336  01336                % 03166 AVL---
+200407008 Cessange, Kierch      01338  01338                % 03166 AVL---
+200407007 Cessange, Fischerhaf  01338  01338                % 03166 AVL---
+200407003 Cessange, Artisans    01340  01340                % 03166 AVL---
+200407004 Cessange, Barrès      01341  01341                % 03166 AVL---
+200415002 Hollerich, Assurance  01342  01342                % 03166 AVL---
+200415010 Hollerich, Pierre &   01343  01343                % 03166 AVL---
+200415003 Hollerich, Fonderie   01344  01344                % 03166 AVL---
+200405035 Luxembourg, Gare Cen  01348  01348                % 03166 AVL---
+200405026 Luxembourg/Centre, P  01351  01351                % 03166 AVL---
+200405023 Centre, Martyrs       01352  01352                % 03166 AVL---
+200405020 Hamilius              01355  01355                % 03166 AVL---
+200405014 Centre, Fondation Pe  01358  01358                % 03166 AVL---
+200419026 Limpertsberg, Theate  01400  01400                % 03166 AVL---
+200419025 Limpertsberg, Lycée   01401  01401                % 03166 AVL---
+200419002 Limpertsberg, Alen T  01402  01402                % 03166 AVL---
+200419034 Limpertsberg, Square  01403  01403                % 03166 AVL---
+200419035 Limpertsberg, Waasse  01404  01404                % 03166 AVL---
+200419007 Limpertsberg, Avenir  01405  01405                % 03166 AVL---
+200419015 Luxembourg, Siggy vu  01406  01406                % 03166 AVL---
+200419022 Limpertsberg, Lycée   01407                       % 03166 AVL---
+*Z 03167 AVL---       009 020                               % 03167 AVL---
+*L 4        220701006 200419022  01609  01647               % 03167 AVL---
+*A BE 220701006 200419022 000013  01609  01647              % 03167 AVL---
+*R 1 200419022 220701006 200419022  01609  01647            % 03167 AVL---
+*G AVG 220701006 200419022  01609  01647                    % 03167 AVL---
+*A VE 220701006 200419022 000013  01609  01647              % 03167 AVL---
+220701006 Leudelange, Gemeng           01609                % 03167 AVL---
+220701015 Leudelange, Stiédswe  01610  01610                % 03167 AVL---
+220701019 Leudelange, Schaefer  01612  01612                % 03167 AVL---
+220701007 Leudelange, Grasbösc  01613  01613                % 03167 AVL---
+200407010 Cessange, Rue de Leu  01614  01614                % 03167 AVL---
+200407001 Cessange, Am Eck      01616  01616                % 03167 AVL---
+200407006 Cessange, Duerf       01616  01616                % 03167 AVL---
+200407008 Cessange, Kierch      01618  01618                % 03167 AVL---
+200407007 Cessange, Fischerhaf  01618  01618                % 03167 AVL---
+200407003 Cessange, Artisans    01620  01620                % 03167 AVL---
+200407004 Cessange, Barrès      01621  01621                % 03167 AVL---
+200415002 Hollerich, Assurance  01622  01622                % 03167 AVL---
+200415010 Hollerich, Pierre &   01623  01623                % 03167 AVL---
+200415003 Hollerich, Fonderie   01624  01624                % 03167 AVL---
+200405035 Luxembourg, Gare Cen  01628  01628                % 03167 AVL---
+200405026 Luxembourg/Centre, P  01631  01631                % 03167 AVL---
+200405023 Centre, Martyrs       01632  01632                % 03167 AVL---
+200405020 Hamilius              01635  01635                % 03167 AVL---
+200405014 Centre, Fondation Pe  01638  01638                % 03167 AVL---
+200419026 Limpertsberg, Theate  01640  01640                % 03167 AVL---
+200419025 Limpertsberg, Lycée   01641  01641                % 03167 AVL---
+200419002 Limpertsberg, Alen T  01642  01642                % 03167 AVL---
+200419034 Limpertsberg, Square  01643  01643                % 03167 AVL---
+200419035 Limpertsberg, Waasse  01644  01644                % 03167 AVL---
+200419007 Limpertsberg, Avenir  01645  01645                % 03167 AVL---
+200419015 Luxembourg, Siggy vu  01646  01646                % 03167 AVL---
+200419022 Limpertsberg, Lycée   01647                       % 03167 AVL---
+*Z 03168 AVL---       001 072                               % 03168 AVL---
+*L 4        220701006 200419022  00523  00552               % 03168 AVL---
+*A BE 220701006 200419022 000013  00523  00552              % 03168 AVL---
+*R 1 200419022 220701006 200419022  00523  00552            % 03168 AVL---
+*G AVG 220701006 200419022  00523  00552                    % 03168 AVL---
+*A VE 220701006 200419022 000013  00523  00552              % 03168 AVL---
+220701006 Leudelange, Gemeng           00523                % 03168 AVL---
+220701015 Leudelange, Stiédswe  00524  00524                % 03168 AVL---
+220701019 Leudelange, Schaefer  00526  00526                % 03168 AVL---
+220701007 Leudelange, Grasbösc  00527  00527                % 03168 AVL---
+200407010 Cessange, Rue de Leu  00528  00528                % 03168 AVL---
+200407001 Cessange, Am Eck      00529  00529                % 03168 AVL---
+200407006 Cessange, Duerf       00529  00529                % 03168 AVL---
+200407008 Cessange, Kierch      00530  00530                % 03168 AVL---
+200407007 Cessange, Fischerhaf  00531  00531                % 03168 AVL---
+200407003 Cessange, Artisans    00531  00531                % 03168 AVL---
+200407004 Cessange, Barrès      00532  00532                % 03168 AVL---
+200415002 Hollerich, Assurance  00533  00533                % 03168 AVL---
+200415010 Hollerich, Pierre &   00534  00534                % 03168 AVL---
+200415003 Hollerich, Fonderie   00535  00535                % 03168 AVL---
+200405035 Luxembourg, Gare Cen  00537  00537                % 03168 AVL---
+200405026 Luxembourg/Centre, P  00539  00539                % 03168 AVL---
+200405023 Centre, Martyrs       00540  00540                % 03168 AVL---
+200405020 Hamilius              00543  00543                % 03168 AVL---
+200405014 Centre, Fondation Pe  00545  00545                % 03168 AVL---
+200419026 Limpertsberg, Theate  00546  00546                % 03168 AVL---
+200419025 Limpertsberg, Lycée   00547  00547                % 03168 AVL---
+200419002 Limpertsberg, Alen T  00548  00548                % 03168 AVL---
+200419034 Limpertsberg, Square  00549  00549                % 03168 AVL---
+200419035 Limpertsberg, Waasse  00549  00549                % 03168 AVL---
+200419007 Limpertsberg, Avenir  00550  00550                % 03168 AVL---
+200419015 Luxembourg, Siggy vu  00552  00552                % 03168 AVL---
+200419022 Limpertsberg, Lycée   00552                       % 03168 AVL---
+*Z 03169 AVL---                                             % 03169 AVL---
+*L 4        220701006 200419022  01955  02024               % 03169 AVL---
+*A BE 220701006 200419022 000013  01955  02024              % 03169 AVL---
+*R 1 200419022 220701006 200419022  01955  02024            % 03169 AVL---
+*G AVG 220701006 200419022  01955  02024                    % 03169 AVL---
+*A VE 220701006 200419022 000013  01955  02024              % 03169 AVL---
+220701006 Leudelange, Gemeng           01955                % 03169 AVL---
+220701015 Leudelange, Stiédswe  01956  01956                % 03169 AVL---
+220701019 Leudelange, Schaefer  01958  01958                % 03169 AVL---
+220701007 Leudelange, Grasbösc  01959  01959                % 03169 AVL---
+200407010 Cessange, Rue de Leu  02000  02000                % 03169 AVL---
+200407001 Cessange, Am Eck      02001  02001                % 03169 AVL---
+200407006 Cessange, Duerf       02001  02001                % 03169 AVL---
+200407008 Cessange, Kierch      02002  02002                % 03169 AVL---
+200407007 Cessange, Fischerhaf  02003  02003                % 03169 AVL---
+200407003 Cessange, Artisans    02003  02003                % 03169 AVL---
+200407004 Cessange, Barrès      02004  02004                % 03169 AVL---
+200415002 Hollerich, Assurance  02005  02005                % 03169 AVL---
+200415010 Hollerich, Pierre &   02006  02006                % 03169 AVL---
+200415003 Hollerich, Fonderie   02007  02007                % 03169 AVL---
+200405035 Luxembourg, Gare Cen  02009  02009                % 03169 AVL---
+200405026 Luxembourg/Centre, P  02011  02011                % 03169 AVL---
+200405023 Centre, Martyrs       02012  02012                % 03169 AVL---
+200405020 Hamilius              02015  02015                % 03169 AVL---
+200405014 Centre, Fondation Pe  02017  02017                % 03169 AVL---
+200419026 Limpertsberg, Theate  02018  02018                % 03169 AVL---
+200419025 Limpertsberg, Lycée   02019  02019                % 03169 AVL---
+200419002 Limpertsberg, Alen T  02020  02020                % 03169 AVL---
+200419034 Limpertsberg, Square  02021  02021                % 03169 AVL---
+200419035 Limpertsberg, Waasse  02021  02021                % 03169 AVL---
+200419007 Limpertsberg, Avenir  02022  02022                % 03169 AVL---
+200419015 Luxembourg, Siggy vu  02024  02024                % 03169 AVL---
+200419022 Limpertsberg, Lycée   02024                       % 03169 AVL---
+*Z 03170 AVL---                                             % 03170 AVL---
+*L 4        220701006 200405025  01950  02010               % 03170 AVL---
+*A BE 220701006 200405025 000022  01950  02010              % 03170 AVL---
+*R 1 200405025 220701006 200405025  01950  02010            % 03170 AVL---
+*G AVS 220701006 200405025  01950  02010                    % 03170 AVL---
+*A VE 220701006 200405025 000022  01950  02010              % 03170 AVL---
+220701006 Leudelange, Gemeng           01950                % 03170 AVL---
+220701015 Leudelange, Stiédswe  01951  01951                % 03170 AVL---
+220701019 Leudelange, Schaefer  01953  01953                % 03170 AVL---
+220701007 Leudelange, Grasbösc  01954  01954                % 03170 AVL---
+200407010 Cessange, Rue de Leu  01955  01955                % 03170 AVL---
+200407001 Cessange, Am Eck      01956  01956                % 03170 AVL---
+200407006 Cessange, Duerf       01956  01956                % 03170 AVL---
+200407008 Cessange, Kierch      01957  01957                % 03170 AVL---
+200407007 Cessange, Fischerhaf  01958  01958                % 03170 AVL---
+200407003 Cessange, Artisans    01958  01958                % 03170 AVL---
+200407004 Cessange, Barrès      01959  01959                % 03170 AVL---
+200415002 Hollerich, Assurance  02000  02000                % 03170 AVL---
+200415010 Hollerich, Pierre &   02001  02001                % 03170 AVL---
+200415003 Hollerich, Fonderie   02002  02002                % 03170 AVL---
+200405035 Luxembourg, Gare Cen  02004  02004                % 03170 AVL---
+200405026 Luxembourg/Centre, P  02006  02006                % 03170 AVL---
+200405023 Centre, Martyrs       02007  02007                % 03170 AVL---
+200405025 Luxembourg/Centre, M  02010                       % 03170 AVL---
+*Z 03171 AVL---       011 060                               % 03171 AVL---
+*L 4        220701006 200405025  00748  00810               % 03171 AVL---
+*A BE 220701006 200405025 000022  00748  00810              % 03171 AVL---
+*R 1 200405025 220701006 200405025  00748  00810            % 03171 AVL---
+*G AVS 220701006 200405025  00748  00810                    % 03171 AVL---
+*A VE 220701006 200405025 000022  00748  00810              % 03171 AVL---
+220701006 Leudelange, Gemeng           00748                % 03171 AVL---
+220701015 Leudelange, Stiédswe  00749  00749                % 03171 AVL---
+220701019 Leudelange, Schaefer  00751  00751                % 03171 AVL---
+220701007 Leudelange, Grasbösc  00752  00752                % 03171 AVL---
+200407010 Cessange, Rue de Leu  00753  00753                % 03171 AVL---
+200407001 Cessange, Am Eck      00754  00754                % 03171 AVL---
+200407006 Cessange, Duerf       00755  00755                % 03171 AVL---
+200407008 Cessange, Kierch      00756  00756                % 03171 AVL---
+200407007 Cessange, Fischerhaf  00756  00756                % 03171 AVL---
+200407003 Cessange, Artisans    00758  00758                % 03171 AVL---
+200407004 Cessange, Barrès      00759  00759                % 03171 AVL---
+200415002 Hollerich, Assurance  00800  00800                % 03171 AVL---
+200415010 Hollerich, Pierre &   00800  00800                % 03171 AVL---
+200415003 Hollerich, Fonderie   00802  00802                % 03171 AVL---
+200405035 Luxembourg, Gare Cen  00804  00804                % 03171 AVL---
+200405026 Luxembourg/Centre, P  00806  00806                % 03171 AVL---
+200405023 Centre, Martyrs       00807  00807                % 03171 AVL---
+200405025 Luxembourg/Centre, M  00810                       % 03171 AVL---
+*Z 03172 AVL---       010 020                               % 03172 AVL---
+*L 4        200419022 220701006  00831  00912               % 03172 AVL---
+*A BE 200419022 220701006 000013  00831  00912              % 03172 AVL---
+*R 2 220701006 200419022 220701006  00831  00912            % 03172 AVL---
+*G AVG 200419022 220701006  00831  00912                    % 03172 AVL---
+*A VE 200419022 220701006 000013  00831  00912              % 03172 AVL---
+200419022 Limpertsberg, Lycée          00831                % 03172 AVL---
+200419007 Limpertsberg, Avenir  00833  00833                % 03172 AVL---
+200419035 Limpertsberg, Waasse  00834  00834                % 03172 AVL---
+200419034 Limpertsberg, Square  00835  00835                % 03172 AVL---
+200419002 Limpertsberg, Alen T  00836  00836                % 03172 AVL---
+200419025 Limpertsberg, Lycée   00837  00837                % 03172 AVL---
+200419026 Limpertsberg, Theate  00839  00839                % 03172 AVL---
+200405014 Centre, Fondation Pe  00840  00840                % 03172 AVL---
+200405020 Hamilius              00845  00845                % 03172 AVL---
+200405023 Centre, Martyrs       00846  00846                % 03172 AVL---
+200405026 Luxembourg/Centre, P  00848  00848                % 03172 AVL---
+200405002 Luxembourg, Gare Cen  00851  00851                % 03172 AVL---
+200415003 Hollerich, Fonderie   00853  00853                % 03172 AVL---
+200415002 Hollerich, Assurance  00856  00856                % 03172 AVL---
+200407004 Cessange, Barrès      00857  00857                % 03172 AVL---
+200407003 Cessange, Artisans    00859  00859                % 03172 AVL---
+200407007 Cessange, Fischerhaf  00900  00900                % 03172 AVL---
+200407008 Cessange, Kierch      00901  00901                % 03172 AVL---
+200407006 Cessange, Duerf       00902  00902                % 03172 AVL---
+200407001 Cessange, Am Eck      00903  00903                % 03172 AVL---
+200407010 Cessange, Rue de Leu  00903  00903                % 03172 AVL---
+220701007 Leudelange, Grasbösc  00904  00904                % 03172 AVL---
+220701019 Leudelange, Schaefer  00906  00906                % 03172 AVL---
+220701015 Leudelange, Stiédswe  00907  00907                % 03172 AVL---
+220701013 Leudelange, Queesche  00909  00909                % 03172 AVL---
+220701004 Leudelange, Galgebös  00910  00910                % 03172 AVL---
+220701006 Leudelange, Gemeng    00912                       % 03172 AVL---
+*Z 03173 AVL---       001 140                               % 03173 AVL---
+*L 4        200419022 220701006  01231  01312               % 03173 AVL---
+*A BE 200419022 220701006 000013  01231  01312              % 03173 AVL---
+*R 2 220701006 200419022 220701006  01231  01312            % 03173 AVL---
+*G AVG 200419022 220701006  01231  01312                    % 03173 AVL---
+*A VE 200419022 220701006 000013  01231  01312              % 03173 AVL---
+200419022 Limpertsberg, Lycée          01231                % 03173 AVL---
+200419007 Limpertsberg, Avenir  01233  01233                % 03173 AVL---
+200419035 Limpertsberg, Waasse  01234  01234                % 03173 AVL---
+200419034 Limpertsberg, Square  01235  01235                % 03173 AVL---
+200419002 Limpertsberg, Alen T  01236  01236                % 03173 AVL---
+200419025 Limpertsberg, Lycée   01237  01237                % 03173 AVL---
+200419026 Limpertsberg, Theate  01239  01239                % 03173 AVL---
+200405014 Centre, Fondation Pe  01240  01240                % 03173 AVL---
+200405020 Hamilius              01245  01245                % 03173 AVL---
+200405023 Centre, Martyrs       01246  01246                % 03173 AVL---
+200405026 Luxembourg/Centre, P  01248  01248                % 03173 AVL---
+200405002 Luxembourg, Gare Cen  01251  01251                % 03173 AVL---
+200415003 Hollerich, Fonderie   01253  01253                % 03173 AVL---
+200415002 Hollerich, Assurance  01256  01256                % 03173 AVL---
+200407004 Cessange, Barrès      01257  01257                % 03173 AVL---
+200407003 Cessange, Artisans    01259  01259                % 03173 AVL---
+200407007 Cessange, Fischerhaf  01300  01300                % 03173 AVL---
+200407008 Cessange, Kierch      01301  01301                % 03173 AVL---
+200407006 Cessange, Duerf       01302  01302                % 03173 AVL---
+200407001 Cessange, Am Eck      01303  01303                % 03173 AVL---
+200407010 Cessange, Rue de Leu  01303  01303                % 03173 AVL---
+220701007 Leudelange, Grasbösc  01304  01304                % 03173 AVL---
+220701019 Leudelange, Schaefer  01306  01306                % 03173 AVL---
+220701015 Leudelange, Stiédswe  01307  01307                % 03173 AVL---
+220701013 Leudelange, Queesche  01309  01309                % 03173 AVL---
+220701004 Leudelange, Galgebös  01310  01310                % 03173 AVL---
+220701006 Leudelange, Gemeng    01312                       % 03173 AVL---
+*Z 03174 AVL---       009 020                               % 03174 AVL---
+*L 4        200419022 220701006  01511  01552               % 03174 AVL---
+*A BE 200419022 220701006 000013  01511  01552              % 03174 AVL---
+*R 2 220701006 200419022 220701006  01511  01552            % 03174 AVL---
+*G AVG 200419022 220701006  01511  01552                    % 03174 AVL---
+*A VE 200419022 220701006 000013  01511  01552              % 03174 AVL---
+200419022 Limpertsberg, Lycée          01511                % 03174 AVL---
+200419007 Limpertsberg, Avenir  01513  01513                % 03174 AVL---
+200419035 Limpertsberg, Waasse  01514  01514                % 03174 AVL---
+200419034 Limpertsberg, Square  01515  01515                % 03174 AVL---
+200419002 Limpertsberg, Alen T  01516  01516                % 03174 AVL---
+200419025 Limpertsberg, Lycée   01517  01517                % 03174 AVL---
+200419026 Limpertsberg, Theate  01519  01519                % 03174 AVL---
+200405014 Centre, Fondation Pe  01520  01520                % 03174 AVL---
+200405020 Hamilius              01525  01525                % 03174 AVL---
+200405023 Centre, Martyrs       01526  01526                % 03174 AVL---
+200405026 Luxembourg/Centre, P  01528  01528                % 03174 AVL---
+200405002 Luxembourg, Gare Cen  01531  01531                % 03174 AVL---
+200415003 Hollerich, Fonderie   01533  01533                % 03174 AVL---
+200415002 Hollerich, Assurance  01536  01536                % 03174 AVL---
+200407004 Cessange, Barrès      01537  01537                % 03174 AVL---
+200407003 Cessange, Artisans    01539  01539                % 03174 AVL---
+200407007 Cessange, Fischerhaf  01540  01540                % 03174 AVL---
+200407008 Cessange, Kierch      01541  01541                % 03174 AVL---
+200407006 Cessange, Duerf       01542  01542                % 03174 AVL---
+200407001 Cessange, Am Eck      01543  01543                % 03174 AVL---
+200407010 Cessange, Rue de Leu  01543  01543                % 03174 AVL---
+220701007 Leudelange, Grasbösc  01544  01544                % 03174 AVL---
+220701019 Leudelange, Schaefer  01546  01546                % 03174 AVL---
+220701015 Leudelange, Stiédswe  01547  01547                % 03174 AVL---
+220701013 Leudelange, Queesche  01549  01549                % 03174 AVL---
+220701004 Leudelange, Galgebös  01550  01550                % 03174 AVL---
+220701006 Leudelange, Gemeng    01552                       % 03174 AVL---
+*Z 03175 AVL---                                             % 03175 AVL---
+*L 4        200419022 220701006  01851  01932               % 03175 AVL---
+*A BE 200419022 220701006 000013  01851  01932              % 03175 AVL---
+*R 2 220701006 200419022 220701006  01851  01932            % 03175 AVL---
+*G AVG 200419022 220701006  01851  01932                    % 03175 AVL---
+*A VE 200419022 220701006 000013  01851  01932              % 03175 AVL---
+200419022 Limpertsberg, Lycée          01851                % 03175 AVL---
+200419007 Limpertsberg, Avenir  01853  01853                % 03175 AVL---
+200419035 Limpertsberg, Waasse  01854  01854                % 03175 AVL---
+200419034 Limpertsberg, Square  01855  01855                % 03175 AVL---
+200419002 Limpertsberg, Alen T  01856  01856                % 03175 AVL---
+200419025 Limpertsberg, Lycée   01857  01857                % 03175 AVL---
+200419026 Limpertsberg, Theate  01859  01859                % 03175 AVL---
+200405014 Centre, Fondation Pe  01900  01900                % 03175 AVL---
+200405020 Hamilius              01905  01905                % 03175 AVL---
+200405023 Centre, Martyrs       01906  01906                % 03175 AVL---
+200405026 Luxembourg/Centre, P  01908  01908                % 03175 AVL---
+200405002 Luxembourg, Gare Cen  01911  01911                % 03175 AVL---
+200415003 Hollerich, Fonderie   01913  01913                % 03175 AVL---
+200415002 Hollerich, Assurance  01916  01916                % 03175 AVL---
+200407004 Cessange, Barrès      01917  01917                % 03175 AVL---
+200407003 Cessange, Artisans    01919  01919                % 03175 AVL---
+200407007 Cessange, Fischerhaf  01920  01920                % 03175 AVL---
+200407008 Cessange, Kierch      01921  01921                % 03175 AVL---
+200407006 Cessange, Duerf       01922  01922                % 03175 AVL---
+200407001 Cessange, Am Eck      01923  01923                % 03175 AVL---
+200407010 Cessange, Rue de Leu  01923  01923                % 03175 AVL---
+220701007 Leudelange, Grasbösc  01924  01924                % 03175 AVL---
+220701019 Leudelange, Schaefer  01926  01926                % 03175 AVL---
+220701015 Leudelange, Stiédswe  01927  01927                % 03175 AVL---
+220701013 Leudelange, Queesche  01929  01929                % 03175 AVL---
+220701004 Leudelange, Galgebös  01930  01930                % 03175 AVL---
+220701006 Leudelange, Gemeng    01932                       % 03175 AVL---
+*Z 03176 AVL---       011 060                               % 03176 AVL---
+*L 4        200405020 220701006  00815  00837               % 03176 AVL---
+*A BE 200405020 220701006 000022  00815  00837              % 03176 AVL---
+*R 2 220701006 200405020 220701006  00815  00837            % 03176 AVL---
+*G AVS 200405020 220701006  00815  00837                    % 03176 AVL---
+*A VE 200405020 220701006 000022  00815  00837              % 03176 AVL---
+200405020 Hamilius                     00815                % 03176 AVL---
+200405023 Centre, Martyrs       00816  00816                % 03176 AVL---
+200405026 Luxembourg/Centre, P  00818  00818                % 03176 AVL---
+200405002 Luxembourg, Gare Cen  00820  00820                % 03176 AVL---
+200415003 Hollerich, Fonderie   00822  00822                % 03176 AVL---
+200415002 Hollerich, Assurance  00823  00823                % 03176 AVL---
+200407004 Cessange, Barrès      00825  00825                % 03176 AVL---
+200407003 Cessange, Artisans    00826  00826                % 03176 AVL---
+200407007 Cessange, Fischerhaf  00827  00827                % 03176 AVL---
+200407008 Cessange, Kierch      00827  00827                % 03176 AVL---
+200407006 Cessange, Duerf       00828  00828                % 03176 AVL---
+200407001 Cessange, Am Eck      00829  00829                % 03176 AVL---
+200407010 Cessange, Rue de Leu  00830  00830                % 03176 AVL---
+220701007 Leudelange, Grasbösc  00831  00831                % 03176 AVL---
+220701019 Leudelange, Schaefer  00832  00832                % 03176 AVL---
+220701015 Leudelange, Stiédswe  00833  00833                % 03176 AVL---
+220701013 Leudelange, Queesche  00835  00835                % 03176 AVL---
+220701004 Leudelange, Galgebös  00835  00835                % 03176 AVL---
+220701006 Leudelange, Gemeng    00837                       % 03176 AVL---
+*Z 03177 AVL---                                             % 03177 AVL---
+*L 4        200419022 220701006  00615  00646               % 03177 AVL---
+*A BE 200419022 220701006 000013  00615  00646              % 03177 AVL---
+*R 2 220701006 200419022 220701006  00615  00646            % 03177 AVL---
+*G AVG 200419022 220701006  00615  00646                    % 03177 AVL---
+*A VE 200419022 220701006 000013  00615  00646              % 03177 AVL---
+200419022 Limpertsberg, Lycée          00615                % 03177 AVL---
+200419007 Limpertsberg, Avenir  00616  00616                % 03177 AVL---
+200419035 Limpertsberg, Waasse  00617  00617                % 03177 AVL---
+200419034 Limpertsberg, Square  00618  00618                % 03177 AVL---
+200419002 Limpertsberg, Alen T  00619  00619                % 03177 AVL---
+200419025 Limpertsberg, Lycée   00619  00619                % 03177 AVL---
+200419026 Limpertsberg, Theate  00620  00620                % 03177 AVL---
+200405014 Centre, Fondation Pe  00622  00622                % 03177 AVL---
+200405020 Hamilius              00625  00625                % 03177 AVL---
+200405023 Centre, Martyrs       00626  00626                % 03177 AVL---
+200405026 Luxembourg/Centre, P  00627  00627                % 03177 AVL---
+200405002 Luxembourg, Gare Cen  00629  00629                % 03177 AVL---
+200415003 Hollerich, Fonderie   00631  00631                % 03177 AVL---
+200415002 Hollerich, Assurance  00633  00633                % 03177 AVL---
+200407004 Cessange, Barrès      00634  00634                % 03177 AVL---
+200407003 Cessange, Artisans    00635  00635                % 03177 AVL---
+200407007 Cessange, Fischerhaf  00636  00636                % 03177 AVL---
+200407008 Cessange, Kierch      00637  00637                % 03177 AVL---
+200407006 Cessange, Duerf       00638  00638                % 03177 AVL---
+200407001 Cessange, Am Eck      00638  00638                % 03177 AVL---
+200407010 Cessange, Rue de Leu  00639  00639                % 03177 AVL---
+220701007 Leudelange, Grasbösc  00640  00640                % 03177 AVL---
+220701019 Leudelange, Schaefer  00641  00641                % 03177 AVL---
+220701015 Leudelange, Stiédswe  00642  00642                % 03177 AVL---
+220701013 Leudelange, Queesche  00644  00644                % 03177 AVL---
+220701004 Leudelange, Galgebös  00644  00644                % 03177 AVL---
+220701006 Leudelange, Gemeng    00646                       % 03177 AVL---
+*Z 03178 AVL---                                             % 03178 AVL---
+*L 4        200405020 220701006  02015  02036               % 03178 AVL---
+*A BE 200405020 220701006 000022  02015  02036              % 03178 AVL---
+*R 2 220701006 200405020 220701006  02015  02036            % 03178 AVL---
+*G AVS 200405020 220701006  02015  02036                    % 03178 AVL---
+*A VE 200405020 220701006 000022  02015  02036              % 03178 AVL---
+200405020 Hamilius                     02015                % 03178 AVL---
+200405023 Centre, Martyrs       02016  02016                % 03178 AVL---
+200405026 Luxembourg/Centre, P  02017  02017                % 03178 AVL---
+200405002 Luxembourg, Gare Cen  02019  02019                % 03178 AVL---
+200415003 Hollerich, Fonderie   02021  02021                % 03178 AVL---
+200415002 Hollerich, Assurance  02023  02023                % 03178 AVL---
+200407004 Cessange, Barrès      02024  02024                % 03178 AVL---
+200407003 Cessange, Artisans    02025  02025                % 03178 AVL---
+200407007 Cessange, Fischerhaf  02026  02026                % 03178 AVL---
+200407008 Cessange, Kierch      02027  02027                % 03178 AVL---
+200407006 Cessange, Duerf       02028  02028                % 03178 AVL---
+200407001 Cessange, Am Eck      02028  02028                % 03178 AVL---
+200407010 Cessange, Rue de Leu  02029  02029                % 03178 AVL---
+220701007 Leudelange, Grasbösc  02030  02030                % 03178 AVL---
+220701019 Leudelange, Schaefer  02031  02031                % 03178 AVL---
+220701015 Leudelange, Stiédswe  02032  02032                % 03178 AVL---
+220701013 Leudelange, Queesche  02034  02034                % 03178 AVL---
+220701004 Leudelange, Galgebös  02034  02034                % 03178 AVL---
+220701006 Leudelange, Gemeng    02036                       % 03178 AVL---

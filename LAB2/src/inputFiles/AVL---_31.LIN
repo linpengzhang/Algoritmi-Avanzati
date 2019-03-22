@@ -1,0 +1,847 @@
+*F 03 2
+*Z 04271 AVL---       011 060                               % 04271 AVL---
+*L 31       200405035 200901036  00839  00858               % 04271 AVL---
+*A BE 200405035 200901036 000021  00839  00858              % 04271 AVL---
+*R 1 200901036 200405035 200901036  00839  00858            % 04271 AVL---
+*G AVM 200405035 200901036  00839  00858                    % 04271 AVL---
+*A VE 200405035 200901036 000021  00839  00858              % 04271 AVL---
+200405035 Luxembourg, Gare Cen         00839                % 04271 AVL---
+200405026 Luxembourg/Centre, P  00841  00841                % 04271 AVL---
+200405023 Centre, Martyrs       00842  00842                % 04271 AVL---
+200405025 Luxembourg/Centre, M  00845  00845                % 04271 AVL---
+200405045 Centre, Stäreplaz /   00848  00848                % 04271 AVL---
+200425005 Rollingergrund, Biis  00849  00849                % 04271 AVL---
+200425003 Rollingergrund, Bei   00849  00849                % 04271 AVL---
+200425004 Rollingergrund, Beim  00850  00850                % 04271 AVL---
+200425010 Rollingergrund, Val   00851  00851                % 04271 AVL---
+200425011 Rollingergrund, Val   00852  00852                % 04271 AVL---
+200425006 Rollingergrund, Roud  00853  00853                % 04271 AVL---
+200425008 Rollingergrund, Stan  00854  00854                % 04271 AVL---
+200425009 Rollingergrund, Stee  00854  00854                % 04271 AVL---
+200425002 Reckenthal, Gäertner  00855  00855                % 04271 AVL---
+200901034 Strassen, Schafsstra  00856  00856                % 04271 AVL---
+200901035 Strassen, Cité Pesch  00857  00857                % 04271 AVL---
+200901036 Strassen, Oricher-Ho  00858                       % 04271 AVL---
+*Z 04272 AVL---       011 060                               % 04272 AVL---
+*L 31       200405035 200901036  00738  00800               % 04272 AVL---
+*A BE 200405035 200901036 000015  00738  00800              % 04272 AVL---
+*R 1 200901036 200405035 200901036  00738  00800            % 04272 AVL---
+*G AVM 200405035 200901036  00738  00800                    % 04272 AVL---
+*A VE 200405035 200901036 000015  00738  00800              % 04272 AVL---
+200405035 Luxembourg, Gare Cen         00738                % 04272 AVL---
+200405026 Luxembourg/Centre, P  00741  00741                % 04272 AVL---
+200405023 Centre, Martyrs       00742  00742                % 04272 AVL---
+200405025 Luxembourg/Centre, M  00745  00745                % 04272 AVL---
+200405045 Centre, Stäreplaz /   00748  00748                % 04272 AVL---
+200425005 Rollingergrund, Biis  00749  00749                % 04272 AVL---
+200425003 Rollingergrund, Bei   00750  00750                % 04272 AVL---
+200425004 Rollingergrund, Beim  00751  00751                % 04272 AVL---
+200425010 Rollingergrund, Val   00751  00751                % 04272 AVL---
+200425011 Rollingergrund, Val   00752  00752                % 04272 AVL---
+200425006 Rollingergrund, Roud  00753  00753                % 04272 AVL---
+200425008 Rollingergrund, Stan  00755  00755                % 04272 AVL---
+200425009 Rollingergrund, Stee  00755  00755                % 04272 AVL---
+200425002 Reckenthal, Gäertner  00756  00756                % 04272 AVL---
+200901034 Strassen, Schafsstra  00757  00757                % 04272 AVL---
+200901035 Strassen, Cité Pesch  00759  00759                % 04272 AVL---
+200901036 Strassen, Oricher-Ho  00800                       % 04272 AVL---
+*Z 04273 AVL---                                             % 04273 AVL---
+*L 31       200405035 200901036  01943  02005               % 04273 AVL---
+*A BE 200405035 200901036 000015  01943  02005              % 04273 AVL---
+*R 1 200901036 200405035 200901036  01943  02005            % 04273 AVL---
+*G AVM 200405035 200901036  01943  02005                    % 04273 AVL---
+*A VE 200405035 200901036 000015  01943  02005              % 04273 AVL---
+200405035 Luxembourg, Gare Cen         01943                % 04273 AVL---
+200405026 Luxembourg/Centre, P  01946  01946                % 04273 AVL---
+200405023 Centre, Martyrs       01947  01947                % 04273 AVL---
+200405025 Luxembourg/Centre, M  01950  01950                % 04273 AVL---
+200405045 Centre, Stäreplaz /   01953  01953                % 04273 AVL---
+200425005 Rollingergrund, Biis  01954  01954                % 04273 AVL---
+200425003 Rollingergrund, Bei   01955  01955                % 04273 AVL---
+200425004 Rollingergrund, Beim  01956  01956                % 04273 AVL---
+200425010 Rollingergrund, Val   01956  01956                % 04273 AVL---
+200425011 Rollingergrund, Val   01957  01957                % 04273 AVL---
+200425006 Rollingergrund, Roud  01958  01958                % 04273 AVL---
+200425008 Rollingergrund, Stan  02000  02000                % 04273 AVL---
+200425009 Rollingergrund, Stee  02000  02000                % 04273 AVL---
+200425002 Reckenthal, Gäertner  02001  02001                % 04273 AVL---
+200901034 Strassen, Schafsstra  02002  02002                % 04273 AVL---
+200901035 Strassen, Cité Pesch  02004  02004                % 04273 AVL---
+200901036 Strassen, Oricher-Ho  02005                       % 04273 AVL---
+*Z 04274 AVL---                                             % 04274 AVL---
+*L 31       200405035 200901036  00640  00658               % 04274 AVL---
+*A BE 200405035 200901036 000012  00640  00658              % 04274 AVL---
+*R 1 200901036 200405035 200901036  00640  00658            % 04274 AVL---
+*G AVM 200405035 200901036  00640  00658                    % 04274 AVL---
+*A VE 200405035 200901036 000012  00640  00658              % 04274 AVL---
+200405035 Luxembourg, Gare Cen         00640                % 04274 AVL---
+200405026 Luxembourg/Centre, P  00641  00641                % 04274 AVL---
+200405023 Centre, Martyrs       00642  00642                % 04274 AVL---
+200405025 Luxembourg/Centre, M  00645  00645                % 04274 AVL---
+200405045 Centre, Stäreplaz /   00648  00648                % 04274 AVL---
+200425005 Rollingergrund, Biis  00649  00649                % 04274 AVL---
+200425003 Rollingergrund, Bei   00649  00649                % 04274 AVL---
+200425004 Rollingergrund, Beim  00650  00650                % 04274 AVL---
+200425010 Rollingergrund, Val   00650  00650                % 04274 AVL---
+200425011 Rollingergrund, Val   00651  00651                % 04274 AVL---
+200425006 Rollingergrund, Roud  00652  00652                % 04274 AVL---
+200425008 Rollingergrund, Stan  00653  00653                % 04274 AVL---
+200425009 Rollingergrund, Stee  00654  00654                % 04274 AVL---
+200425002 Reckenthal, Gäertner  00655  00655                % 04274 AVL---
+200901034 Strassen, Schafsstra  00656  00656                % 04274 AVL---
+200901035 Strassen, Cité Pesch  00657  00657                % 04274 AVL---
+200901036 Strassen, Oricher-Ho  00658                       % 04274 AVL---
+*Z 04275 AVL---                                             % 04275 AVL---
+*L 31       200405035 200901036  00540  00558               % 04275 AVL---
+*A BE 200405035 200901036 000015  00540  00558              % 04275 AVL---
+*R 1 200901036 200405035 200901036  00540  00558            % 04275 AVL---
+*G AVM 200405035 200901036  00540  00558                    % 04275 AVL---
+*A VE 200405035 200901036 000015  00540  00558              % 04275 AVL---
+200405035 Luxembourg, Gare Cen         00540                % 04275 AVL---
+200405026 Luxembourg/Centre, P  00541  00541                % 04275 AVL---
+200405023 Centre, Martyrs       00542  00542                % 04275 AVL---
+200405025 Luxembourg/Centre, M  00545  00545                % 04275 AVL---
+200405045 Centre, Stäreplaz /   00548  00548                % 04275 AVL---
+200425005 Rollingergrund, Biis  00549  00549                % 04275 AVL---
+200425003 Rollingergrund, Bei   00549  00549                % 04275 AVL---
+200425004 Rollingergrund, Beim  00550  00550                % 04275 AVL---
+200425010 Rollingergrund, Val   00550  00550                % 04275 AVL---
+200425011 Rollingergrund, Val   00551  00551                % 04275 AVL---
+200425006 Rollingergrund, Roud  00552  00552                % 04275 AVL---
+200425008 Rollingergrund, Stan  00553  00553                % 04275 AVL---
+200425009 Rollingergrund, Stee  00554  00554                % 04275 AVL---
+200425002 Reckenthal, Gäertner  00555  00555                % 04275 AVL---
+200901034 Strassen, Schafsstra  00556  00556                % 04275 AVL---
+200901035 Strassen, Cité Pesch  00557  00557                % 04275 AVL---
+200901036 Strassen, Oricher-Ho  00558                       % 04275 AVL---
+*Z 04276 AVL---                                             % 04276 AVL---
+*L 31       200405035 200901036  00740  00758               % 04276 AVL---
+*A BE 200405035 200901036 000021  00740  00758              % 04276 AVL---
+*R 1 200901036 200405035 200901036  00740  00758            % 04276 AVL---
+*G AVM 200405035 200901036  00740  00758                    % 04276 AVL---
+*A VE 200405035 200901036 000021  00740  00758              % 04276 AVL---
+200405035 Luxembourg, Gare Cen         00740                % 04276 AVL---
+200405026 Luxembourg/Centre, P  00741  00741                % 04276 AVL---
+200405023 Centre, Martyrs       00742  00742                % 04276 AVL---
+200405025 Luxembourg/Centre, M  00745  00745                % 04276 AVL---
+200405045 Centre, Stäreplaz /   00748  00748                % 04276 AVL---
+200425005 Rollingergrund, Biis  00749  00749                % 04276 AVL---
+200425003 Rollingergrund, Bei   00749  00749                % 04276 AVL---
+200425004 Rollingergrund, Beim  00750  00750                % 04276 AVL---
+200425010 Rollingergrund, Val   00750  00750                % 04276 AVL---
+200425011 Rollingergrund, Val   00751  00751                % 04276 AVL---
+200425006 Rollingergrund, Roud  00752  00752                % 04276 AVL---
+200425008 Rollingergrund, Stan  00753  00753                % 04276 AVL---
+200425009 Rollingergrund, Stee  00754  00754                % 04276 AVL---
+200425002 Reckenthal, Gäertner  00755  00755                % 04276 AVL---
+200901034 Strassen, Schafsstra  00756  00756                % 04276 AVL---
+200901035 Strassen, Cité Pesch  00757  00757                % 04276 AVL---
+200901036 Strassen, Oricher-Ho  00758                       % 04276 AVL---
+*Z 04277 AVL---                                             % 04277 AVL---
+*L 31       200901036 200405035  00611  00629               % 04277 AVL---
+*A BE 200901036 200405035 000015  00611  00629              % 04277 AVL---
+*R 2 200405035 200901036 200405035  00611  00629            % 04277 AVL---
+*G AVM 200901036 200405035  00611  00629                    % 04277 AVL---
+*A VE 200901036 200405035 000015  00611  00629              % 04277 AVL---
+200901036 Strassen, Oricher-Ho         00611                % 04277 AVL---
+200901035 Strassen, Cité Pesch  00612  00612                % 04277 AVL---
+200901034 Strassen, Schafsstra  00613  00613                % 04277 AVL---
+200425002 Reckenthal, Gäertner  00614  00614                % 04277 AVL---
+200425009 Rollingergrund, Stee  00615  00615                % 04277 AVL---
+200425008 Rollingergrund, Stan  00616  00616                % 04277 AVL---
+200425006 Rollingergrund, Roud  00617  00617                % 04277 AVL---
+200425011 Rollingergrund, Val   00618  00618                % 04277 AVL---
+200425010 Rollingergrund, Val   00619  00619                % 04277 AVL---
+200425004 Rollingergrund, Beim  00619  00619                % 04277 AVL---
+200425003 Rollingergrund, Bei   00620  00620                % 04277 AVL---
+200425005 Rollingergrund, Biis  00620  00620                % 04277 AVL---
+200405045 Centre, Stäreplaz /   00621  00621                % 04277 AVL---
+200403020 Belair, Wampach       00623  00623                % 04277 AVL---
+200405025 Luxembourg/Centre, M  00625  00625                % 04277 AVL---
+200405023 Centre, Martyrs       00626  00626                % 04277 AVL---
+200405026 Luxembourg/Centre, P  00627  00627                % 04277 AVL---
+200405035 Luxembourg, Gare Cen  00629                       % 04277 AVL---
+*Z 04278 AVL---                                             % 04278 AVL---
+*L 31       200901036 200405035  00711  00729               % 04278 AVL---
+*A BE 200901036 200405035 000021  00711  00729              % 04278 AVL---
+*R 2 200405035 200901036 200405035  00711  00729            % 04278 AVL---
+*G AVM 200901036 200405035  00711  00729                    % 04278 AVL---
+*A VE 200901036 200405035 000021  00711  00729              % 04278 AVL---
+200901036 Strassen, Oricher-Ho         00711                % 04278 AVL---
+200901035 Strassen, Cité Pesch  00712  00712                % 04278 AVL---
+200901034 Strassen, Schafsstra  00713  00713                % 04278 AVL---
+200425002 Reckenthal, Gäertner  00714  00714                % 04278 AVL---
+200425009 Rollingergrund, Stee  00715  00715                % 04278 AVL---
+200425008 Rollingergrund, Stan  00716  00716                % 04278 AVL---
+200425006 Rollingergrund, Roud  00717  00717                % 04278 AVL---
+200425011 Rollingergrund, Val   00718  00718                % 04278 AVL---
+200425010 Rollingergrund, Val   00719  00719                % 04278 AVL---
+200425004 Rollingergrund, Beim  00719  00719                % 04278 AVL---
+200425003 Rollingergrund, Bei   00720  00720                % 04278 AVL---
+200425005 Rollingergrund, Biis  00720  00720                % 04278 AVL---
+200405045 Centre, Stäreplaz /   00721  00721                % 04278 AVL---
+200403020 Belair, Wampach       00723  00723                % 04278 AVL---
+200405025 Luxembourg/Centre, M  00725  00725                % 04278 AVL---
+200405023 Centre, Martyrs       00726  00726                % 04278 AVL---
+200405026 Luxembourg/Centre, P  00727  00727                % 04278 AVL---
+200405035 Luxembourg, Gare Cen  00729                       % 04278 AVL---
+*Z 04279 AVL---       010 060                               % 04279 AVL---
+*L 31       200901036 200405035  00810  00830               % 04279 AVL---
+*A BE 200901036 200405035 000021  00810  00830              % 04279 AVL---
+*R 2 200405035 200901036 200405035  00810  00830            % 04279 AVL---
+*G AVM 200901036 200405035  00810  00830                    % 04279 AVL---
+*A VE 200901036 200405035 000021  00810  00830              % 04279 AVL---
+200901036 Strassen, Oricher-Ho         00810                % 04279 AVL---
+200901035 Strassen, Cité Pesch  00811  00811                % 04279 AVL---
+200901034 Strassen, Schafsstra  00812  00812                % 04279 AVL---
+200425002 Reckenthal, Gäertner  00813  00813                % 04279 AVL---
+200425009 Rollingergrund, Stee  00814  00814                % 04279 AVL---
+200425008 Rollingergrund, Stan  00815  00815                % 04279 AVL---
+200425006 Rollingergrund, Roud  00816  00816                % 04279 AVL---
+200425011 Rollingergrund, Val   00817  00817                % 04279 AVL---
+200425010 Rollingergrund, Val   00818  00818                % 04279 AVL---
+200425004 Rollingergrund, Beim  00819  00819                % 04279 AVL---
+200425003 Rollingergrund, Bei   00819  00819                % 04279 AVL---
+200425005 Rollingergrund, Biis  00820  00820                % 04279 AVL---
+200405045 Centre, Stäreplaz /   00821  00821                % 04279 AVL---
+200403020 Belair, Wampach       00823  00823                % 04279 AVL---
+200405025 Luxembourg/Centre, M  00825  00825                % 04279 AVL---
+200405023 Centre, Martyrs       00827  00827                % 04279 AVL---
+200405026 Luxembourg/Centre, P  00828  00828                % 04279 AVL---
+200405035 Luxembourg, Gare Cen  00830                       % 04279 AVL---
+*Z 04280 AVL---                                             % 04280 AVL---
+*L 31       200901036 200405035  01913  01933               % 04280 AVL---
+*A BE 200901036 200405035 000021  01913  01933              % 04280 AVL---
+*R 2 200405035 200901036 200405035  01913  01933            % 04280 AVL---
+*G AVM 200901036 200405035  01913  01933                    % 04280 AVL---
+*A VE 200901036 200405035 000021  01913  01933              % 04280 AVL---
+200901036 Strassen, Oricher-Ho         01913                % 04280 AVL---
+200901035 Strassen, Cité Pesch  01914  01914                % 04280 AVL---
+200901034 Strassen, Schafsstra  01915  01915                % 04280 AVL---
+200425002 Reckenthal, Gäertner  01916  01916                % 04280 AVL---
+200425009 Rollingergrund, Stee  01917  01917                % 04280 AVL---
+200425008 Rollingergrund, Stan  01918  01918                % 04280 AVL---
+200425006 Rollingergrund, Roud  01919  01919                % 04280 AVL---
+200425011 Rollingergrund, Val   01920  01920                % 04280 AVL---
+200425010 Rollingergrund, Val   01921  01921                % 04280 AVL---
+200425004 Rollingergrund, Beim  01922  01922                % 04280 AVL---
+200425003 Rollingergrund, Bei   01922  01922                % 04280 AVL---
+200425005 Rollingergrund, Biis  01923  01923                % 04280 AVL---
+200405045 Centre, Stäreplaz /   01924  01924                % 04280 AVL---
+200403020 Belair, Wampach       01926  01926                % 04280 AVL---
+200405025 Luxembourg/Centre, M  01928  01928                % 04280 AVL---
+200405023 Centre, Martyrs       01930  01930                % 04280 AVL---
+200405026 Luxembourg/Centre, P  01931  01931                % 04280 AVL---
+200405035 Luxembourg, Gare Cen  01933                       % 04280 AVL---
+*Z 04281 AVL---       011 060                               % 04281 AVL---
+*L 31       200901036 200405035  00707  00731               % 04281 AVL---
+*A BE 200901036 200405035 000015  00707  00731              % 04281 AVL---
+*R 2 200405035 200901036 200405035  00707  00731            % 04281 AVL---
+*G AVM 200901036 200405035  00707  00731                    % 04281 AVL---
+*A VE 200901036 200405035 000015  00707  00731              % 04281 AVL---
+200901036 Strassen, Oricher-Ho         00707                % 04281 AVL---
+200901035 Strassen, Cité Pesch  00708  00708                % 04281 AVL---
+200901034 Strassen, Schafsstra  00709  00709                % 04281 AVL---
+200425002 Reckenthal, Gäertner  00710  00710                % 04281 AVL---
+200425009 Rollingergrund, Stee  00711  00711                % 04281 AVL---
+200425008 Rollingergrund, Stan  00712  00712                % 04281 AVL---
+200425006 Rollingergrund, Roud  00714  00714                % 04281 AVL---
+200425011 Rollingergrund, Val   00715  00715                % 04281 AVL---
+200425010 Rollingergrund, Val   00716  00716                % 04281 AVL---
+200425004 Rollingergrund, Beim  00717  00717                % 04281 AVL---
+200425003 Rollingergrund, Bei   00717  00717                % 04281 AVL---
+200425005 Rollingergrund, Biis  00718  00718                % 04281 AVL---
+200405045 Centre, Stäreplaz /   00721  00721                % 04281 AVL---
+200403020 Belair, Wampach       00723  00723                % 04281 AVL---
+200405025 Luxembourg/Centre, M  00725  00725                % 04281 AVL---
+200405023 Centre, Martyrs       00727  00727                % 04281 AVL---
+200405026 Luxembourg/Centre, P  00729  00729                % 04281 AVL---
+200405035 Luxembourg, Gare Cen  00731                       % 04281 AVL---
+*Z 04282 AVL---                                             % 04282 AVL---
+*L 31       200901036 200405035  01910  01934               % 04282 AVL---
+*A BE 200901036 200405035 000015  01910  01934              % 04282 AVL---
+*R 2 200405035 200901036 200405035  01910  01934            % 04282 AVL---
+*G AVM 200901036 200405035  01910  01934                    % 04282 AVL---
+*A VE 200901036 200405035 000015  01910  01934              % 04282 AVL---
+200901036 Strassen, Oricher-Ho         01910                % 04282 AVL---
+200901035 Strassen, Cité Pesch  01911  01911                % 04282 AVL---
+200901034 Strassen, Schafsstra  01912  01912                % 04282 AVL---
+200425002 Reckenthal, Gäertner  01913  01913                % 04282 AVL---
+200425009 Rollingergrund, Stee  01914  01914                % 04282 AVL---
+200425008 Rollingergrund, Stan  01915  01915                % 04282 AVL---
+200425006 Rollingergrund, Roud  01917  01917                % 04282 AVL---
+200425011 Rollingergrund, Val   01918  01918                % 04282 AVL---
+200425010 Rollingergrund, Val   01919  01919                % 04282 AVL---
+200425004 Rollingergrund, Beim  01920  01920                % 04282 AVL---
+200425003 Rollingergrund, Bei   01920  01920                % 04282 AVL---
+200425005 Rollingergrund, Biis  01921  01921                % 04282 AVL---
+200405045 Centre, Stäreplaz /   01924  01924                % 04282 AVL---
+200403020 Belair, Wampach       01926  01926                % 04282 AVL---
+200405025 Luxembourg/Centre, M  01928  01928                % 04282 AVL---
+200405023 Centre, Martyrs       01930  01930                % 04282 AVL---
+200405026 Luxembourg/Centre, P  01932  01932                % 04282 AVL---
+200405035 Luxembourg, Gare Cen  01934                       % 04282 AVL---
+*Z 04283 AVL---       011 060                               % 04283 AVL---
+*L 31       200405035 200901036  00738  00800               % 04283 AVL---
+*A BE 200405035 200901036 000014  00738  00800              % 04283 AVL---
+*R 1 200901036 200405035 200901036  00738  00800            % 04283 AVL---
+*G AVM 200405035 200901036  00738  00800                    % 04283 AVL---
+*A VE 200405035 200901036 000014  00738  00800              % 04283 AVL---
+200405035 Luxembourg, Gare Cen         00738                % 04283 AVL---
+200405026 Luxembourg/Centre, P  00741  00741                % 04283 AVL---
+200405023 Centre, Martyrs       00742  00742                % 04283 AVL---
+200405025 Luxembourg/Centre, M  00745  00745                % 04283 AVL---
+200405045 Centre, Stäreplaz /   00748  00748                % 04283 AVL---
+200425005 Rollingergrund, Biis  00749  00749                % 04283 AVL---
+200425003 Rollingergrund, Bei   00750  00750                % 04283 AVL---
+200425004 Rollingergrund, Beim  00751  00751                % 04283 AVL---
+200425010 Rollingergrund, Val   00751  00751                % 04283 AVL---
+200425011 Rollingergrund, Val   00752  00752                % 04283 AVL---
+200425006 Rollingergrund, Roud  00753  00753                % 04283 AVL---
+200425008 Rollingergrund, Stan  00755  00755                % 04283 AVL---
+200425009 Rollingergrund, Stee  00755  00755                % 04283 AVL---
+200425002 Reckenthal, Gäertner  00756  00756                % 04283 AVL---
+200901034 Strassen, Schafsstra  00757  00757                % 04283 AVL---
+200901035 Strassen, Cité Pesch  00759  00759                % 04283 AVL---
+200901036 Strassen, Oricher-Ho  00800                       % 04283 AVL---
+*Z 04284 AVL---                                             % 04284 AVL---
+*L 31       200405035 200901036  01943  02005               % 04284 AVL---
+*A BE 200405035 200901036 000014  01943  02005              % 04284 AVL---
+*R 1 200901036 200405035 200901036  01943  02005            % 04284 AVL---
+*G AVM 200405035 200901036  01943  02005                    % 04284 AVL---
+*A VE 200405035 200901036 000014  01943  02005              % 04284 AVL---
+200405035 Luxembourg, Gare Cen         01943                % 04284 AVL---
+200405026 Luxembourg/Centre, P  01946  01946                % 04284 AVL---
+200405023 Centre, Martyrs       01947  01947                % 04284 AVL---
+200405025 Luxembourg/Centre, M  01950  01950                % 04284 AVL---
+200405045 Centre, Stäreplaz /   01953  01953                % 04284 AVL---
+200425005 Rollingergrund, Biis  01954  01954                % 04284 AVL---
+200425003 Rollingergrund, Bei   01955  01955                % 04284 AVL---
+200425004 Rollingergrund, Beim  01956  01956                % 04284 AVL---
+200425010 Rollingergrund, Val   01956  01956                % 04284 AVL---
+200425011 Rollingergrund, Val   01957  01957                % 04284 AVL---
+200425006 Rollingergrund, Roud  01958  01958                % 04284 AVL---
+200425008 Rollingergrund, Stan  02000  02000                % 04284 AVL---
+200425009 Rollingergrund, Stee  02000  02000                % 04284 AVL---
+200425002 Reckenthal, Gäertner  02001  02001                % 04284 AVL---
+200901034 Strassen, Schafsstra  02002  02002                % 04284 AVL---
+200901035 Strassen, Cité Pesch  02004  02004                % 04284 AVL---
+200901036 Strassen, Oricher-Ho  02005                       % 04284 AVL---
+*Z 04285 AVL---       011 060                               % 04285 AVL---
+*L 31       200405035 200901036  00839  00858               % 04285 AVL---
+*A BE 200405035 200901036 000023  00839  00858              % 04285 AVL---
+*R 1 200901036 200405035 200901036  00839  00858            % 04285 AVL---
+*G AVM 200405035 200901036  00839  00858                    % 04285 AVL---
+*A VE 200405035 200901036 000023  00839  00858              % 04285 AVL---
+200405035 Luxembourg, Gare Cen         00839                % 04285 AVL---
+200405026 Luxembourg/Centre, P  00841  00841                % 04285 AVL---
+200405023 Centre, Martyrs       00842  00842                % 04285 AVL---
+200405025 Luxembourg/Centre, M  00845  00845                % 04285 AVL---
+200405045 Centre, Stäreplaz /   00848  00848                % 04285 AVL---
+200425005 Rollingergrund, Biis  00849  00849                % 04285 AVL---
+200425003 Rollingergrund, Bei   00849  00849                % 04285 AVL---
+200425004 Rollingergrund, Beim  00850  00850                % 04285 AVL---
+200425010 Rollingergrund, Val   00851  00851                % 04285 AVL---
+200425011 Rollingergrund, Val   00852  00852                % 04285 AVL---
+200425006 Rollingergrund, Roud  00853  00853                % 04285 AVL---
+200425008 Rollingergrund, Stan  00854  00854                % 04285 AVL---
+200425009 Rollingergrund, Stee  00854  00854                % 04285 AVL---
+200425002 Reckenthal, Gäertner  00855  00855                % 04285 AVL---
+200901034 Strassen, Schafsstra  00856  00856                % 04285 AVL---
+200901035 Strassen, Cité Pesch  00857  00857                % 04285 AVL---
+200901036 Strassen, Oricher-Ho  00858                       % 04285 AVL---
+*Z 04286 AVL---                                             % 04286 AVL---
+*L 31       200405035 200901036  00740  00758               % 04286 AVL---
+*A BE 200405035 200901036 000023  00740  00758              % 04286 AVL---
+*R 1 200901036 200405035 200901036  00740  00758            % 04286 AVL---
+*G AVM 200405035 200901036  00740  00758                    % 04286 AVL---
+*A VE 200405035 200901036 000023  00740  00758              % 04286 AVL---
+200405035 Luxembourg, Gare Cen         00740                % 04286 AVL---
+200405026 Luxembourg/Centre, P  00741  00741                % 04286 AVL---
+200405023 Centre, Martyrs       00742  00742                % 04286 AVL---
+200405025 Luxembourg/Centre, M  00745  00745                % 04286 AVL---
+200405045 Centre, Stäreplaz /   00748  00748                % 04286 AVL---
+200425005 Rollingergrund, Biis  00749  00749                % 04286 AVL---
+200425003 Rollingergrund, Bei   00749  00749                % 04286 AVL---
+200425004 Rollingergrund, Beim  00750  00750                % 04286 AVL---
+200425010 Rollingergrund, Val   00750  00750                % 04286 AVL---
+200425011 Rollingergrund, Val   00751  00751                % 04286 AVL---
+200425006 Rollingergrund, Roud  00752  00752                % 04286 AVL---
+200425008 Rollingergrund, Stan  00753  00753                % 04286 AVL---
+200425009 Rollingergrund, Stee  00754  00754                % 04286 AVL---
+200425002 Reckenthal, Gäertner  00755  00755                % 04286 AVL---
+200901034 Strassen, Schafsstra  00756  00756                % 04286 AVL---
+200901035 Strassen, Cité Pesch  00757  00757                % 04286 AVL---
+200901036 Strassen, Oricher-Ho  00758                       % 04286 AVL---
+*Z 04287 AVL---                                             % 04287 AVL---
+*L 31       200405035 200901036  00540  00558               % 04287 AVL---
+*A BE 200405035 200901036 000014  00540  00558              % 04287 AVL---
+*R 1 200901036 200405035 200901036  00540  00558            % 04287 AVL---
+*G AVM 200405035 200901036  00540  00558                    % 04287 AVL---
+*A VE 200405035 200901036 000014  00540  00558              % 04287 AVL---
+200405035 Luxembourg, Gare Cen         00540                % 04287 AVL---
+200405026 Luxembourg/Centre, P  00541  00541                % 04287 AVL---
+200405023 Centre, Martyrs       00542  00542                % 04287 AVL---
+200405025 Luxembourg/Centre, M  00545  00545                % 04287 AVL---
+200405045 Centre, Stäreplaz /   00548  00548                % 04287 AVL---
+200425005 Rollingergrund, Biis  00549  00549                % 04287 AVL---
+200425003 Rollingergrund, Bei   00549  00549                % 04287 AVL---
+200425004 Rollingergrund, Beim  00550  00550                % 04287 AVL---
+200425010 Rollingergrund, Val   00550  00550                % 04287 AVL---
+200425011 Rollingergrund, Val   00551  00551                % 04287 AVL---
+200425006 Rollingergrund, Roud  00552  00552                % 04287 AVL---
+200425008 Rollingergrund, Stan  00553  00553                % 04287 AVL---
+200425009 Rollingergrund, Stee  00554  00554                % 04287 AVL---
+200425002 Reckenthal, Gäertner  00555  00555                % 04287 AVL---
+200901034 Strassen, Schafsstra  00556  00556                % 04287 AVL---
+200901035 Strassen, Cité Pesch  00557  00557                % 04287 AVL---
+200901036 Strassen, Oricher-Ho  00558                       % 04287 AVL---
+*Z 04288 AVL---                                             % 04288 AVL---
+*L 31       200405035 200901036  00640  00658               % 04288 AVL---
+*A BE 200405035 200901036 000047  00640  00658              % 04288 AVL---
+*R 1 200901036 200405035 200901036  00640  00658            % 04288 AVL---
+*G AVM 200405035 200901036  00640  00658                    % 04288 AVL---
+*A VE 200405035 200901036 000047  00640  00658              % 04288 AVL---
+200405035 Luxembourg, Gare Cen         00640                % 04288 AVL---
+200405026 Luxembourg/Centre, P  00641  00641                % 04288 AVL---
+200405023 Centre, Martyrs       00642  00642                % 04288 AVL---
+200405025 Luxembourg/Centre, M  00645  00645                % 04288 AVL---
+200405045 Centre, Stäreplaz /   00648  00648                % 04288 AVL---
+200425005 Rollingergrund, Biis  00649  00649                % 04288 AVL---
+200425003 Rollingergrund, Bei   00649  00649                % 04288 AVL---
+200425004 Rollingergrund, Beim  00650  00650                % 04288 AVL---
+200425010 Rollingergrund, Val   00650  00650                % 04288 AVL---
+200425011 Rollingergrund, Val   00651  00651                % 04288 AVL---
+200425006 Rollingergrund, Roud  00652  00652                % 04288 AVL---
+200425008 Rollingergrund, Stan  00653  00653                % 04288 AVL---
+200425009 Rollingergrund, Stee  00654  00654                % 04288 AVL---
+200425002 Reckenthal, Gäertner  00655  00655                % 04288 AVL---
+200901034 Strassen, Schafsstra  00656  00656                % 04288 AVL---
+200901035 Strassen, Cité Pesch  00657  00657                % 04288 AVL---
+200901036 Strassen, Oricher-Ho  00658                       % 04288 AVL---
+*Z 04289 AVL---       011 060                               % 04289 AVL---
+*L 31       200901036 200405035  00707  00731               % 04289 AVL---
+*A BE 200901036 200405035 000014  00707  00731              % 04289 AVL---
+*R 2 200405035 200901036 200405035  00707  00731            % 04289 AVL---
+*G AVM 200901036 200405035  00707  00731                    % 04289 AVL---
+*A VE 200901036 200405035 000014  00707  00731              % 04289 AVL---
+200901036 Strassen, Oricher-Ho         00707                % 04289 AVL---
+200901035 Strassen, Cité Pesch  00708  00708                % 04289 AVL---
+200901034 Strassen, Schafsstra  00709  00709                % 04289 AVL---
+200425002 Reckenthal, Gäertner  00710  00710                % 04289 AVL---
+200425009 Rollingergrund, Stee  00711  00711                % 04289 AVL---
+200425008 Rollingergrund, Stan  00712  00712                % 04289 AVL---
+200425006 Rollingergrund, Roud  00714  00714                % 04289 AVL---
+200425011 Rollingergrund, Val   00715  00715                % 04289 AVL---
+200425010 Rollingergrund, Val   00716  00716                % 04289 AVL---
+200425004 Rollingergrund, Beim  00717  00717                % 04289 AVL---
+200425003 Rollingergrund, Bei   00717  00717                % 04289 AVL---
+200425005 Rollingergrund, Biis  00718  00718                % 04289 AVL---
+200405045 Centre, Stäreplaz /   00721  00721                % 04289 AVL---
+200403020 Belair, Wampach       00723  00723                % 04289 AVL---
+200405025 Luxembourg/Centre, M  00725  00725                % 04289 AVL---
+200405023 Centre, Martyrs       00727  00727                % 04289 AVL---
+200405026 Luxembourg/Centre, P  00729  00729                % 04289 AVL---
+200405035 Luxembourg, Gare Cen  00731                       % 04289 AVL---
+*Z 04290 AVL---                                             % 04290 AVL---
+*L 31       200901036 200405035  01910  01934               % 04290 AVL---
+*A BE 200901036 200405035 000014  01910  01934              % 04290 AVL---
+*R 2 200405035 200901036 200405035  01910  01934            % 04290 AVL---
+*G AVM 200901036 200405035  01910  01934                    % 04290 AVL---
+*A VE 200901036 200405035 000014  01910  01934              % 04290 AVL---
+200901036 Strassen, Oricher-Ho         01910                % 04290 AVL---
+200901035 Strassen, Cité Pesch  01911  01911                % 04290 AVL---
+200901034 Strassen, Schafsstra  01912  01912                % 04290 AVL---
+200425002 Reckenthal, Gäertner  01913  01913                % 04290 AVL---
+200425009 Rollingergrund, Stee  01914  01914                % 04290 AVL---
+200425008 Rollingergrund, Stan  01915  01915                % 04290 AVL---
+200425006 Rollingergrund, Roud  01917  01917                % 04290 AVL---
+200425011 Rollingergrund, Val   01918  01918                % 04290 AVL---
+200425010 Rollingergrund, Val   01919  01919                % 04290 AVL---
+200425004 Rollingergrund, Beim  01920  01920                % 04290 AVL---
+200425003 Rollingergrund, Bei   01920  01920                % 04290 AVL---
+200425005 Rollingergrund, Biis  01921  01921                % 04290 AVL---
+200405045 Centre, Stäreplaz /   01924  01924                % 04290 AVL---
+200403020 Belair, Wampach       01926  01926                % 04290 AVL---
+200405025 Luxembourg/Centre, M  01928  01928                % 04290 AVL---
+200405023 Centre, Martyrs       01930  01930                % 04290 AVL---
+200405026 Luxembourg/Centre, P  01932  01932                % 04290 AVL---
+200405035 Luxembourg, Gare Cen  01934                       % 04290 AVL---
+*Z 04291 AVL---       010 060                               % 04291 AVL---
+*L 31       200901036 200405035  00810  00830               % 04291 AVL---
+*A BE 200901036 200405035 000023  00810  00830              % 04291 AVL---
+*R 2 200405035 200901036 200405035  00810  00830            % 04291 AVL---
+*G AVM 200901036 200405035  00810  00830                    % 04291 AVL---
+*A VE 200901036 200405035 000023  00810  00830              % 04291 AVL---
+200901036 Strassen, Oricher-Ho         00810                % 04291 AVL---
+200901035 Strassen, Cité Pesch  00811  00811                % 04291 AVL---
+200901034 Strassen, Schafsstra  00812  00812                % 04291 AVL---
+200425002 Reckenthal, Gäertner  00813  00813                % 04291 AVL---
+200425009 Rollingergrund, Stee  00814  00814                % 04291 AVL---
+200425008 Rollingergrund, Stan  00815  00815                % 04291 AVL---
+200425006 Rollingergrund, Roud  00816  00816                % 04291 AVL---
+200425011 Rollingergrund, Val   00817  00817                % 04291 AVL---
+200425010 Rollingergrund, Val   00818  00818                % 04291 AVL---
+200425004 Rollingergrund, Beim  00819  00819                % 04291 AVL---
+200425003 Rollingergrund, Bei   00819  00819                % 04291 AVL---
+200425005 Rollingergrund, Biis  00820  00820                % 04291 AVL---
+200405045 Centre, Stäreplaz /   00821  00821                % 04291 AVL---
+200403020 Belair, Wampach       00823  00823                % 04291 AVL---
+200405025 Luxembourg/Centre, M  00825  00825                % 04291 AVL---
+200405023 Centre, Martyrs       00827  00827                % 04291 AVL---
+200405026 Luxembourg/Centre, P  00828  00828                % 04291 AVL---
+200405035 Luxembourg, Gare Cen  00830                       % 04291 AVL---
+*Z 04292 AVL---                                             % 04292 AVL---
+*L 31       200901036 200405035  01913  01933               % 04292 AVL---
+*A BE 200901036 200405035 000023  01913  01933              % 04292 AVL---
+*R 2 200405035 200901036 200405035  01913  01933            % 04292 AVL---
+*G AVM 200901036 200405035  01913  01933                    % 04292 AVL---
+*A VE 200901036 200405035 000023  01913  01933              % 04292 AVL---
+200901036 Strassen, Oricher-Ho         01913                % 04292 AVL---
+200901035 Strassen, Cité Pesch  01914  01914                % 04292 AVL---
+200901034 Strassen, Schafsstra  01915  01915                % 04292 AVL---
+200425002 Reckenthal, Gäertner  01916  01916                % 04292 AVL---
+200425009 Rollingergrund, Stee  01917  01917                % 04292 AVL---
+200425008 Rollingergrund, Stan  01918  01918                % 04292 AVL---
+200425006 Rollingergrund, Roud  01919  01919                % 04292 AVL---
+200425011 Rollingergrund, Val   01920  01920                % 04292 AVL---
+200425010 Rollingergrund, Val   01921  01921                % 04292 AVL---
+200425004 Rollingergrund, Beim  01922  01922                % 04292 AVL---
+200425003 Rollingergrund, Bei   01922  01922                % 04292 AVL---
+200425005 Rollingergrund, Biis  01923  01923                % 04292 AVL---
+200405045 Centre, Stäreplaz /   01924  01924                % 04292 AVL---
+200403020 Belair, Wampach       01926  01926                % 04292 AVL---
+200405025 Luxembourg/Centre, M  01928  01928                % 04292 AVL---
+200405023 Centre, Martyrs       01930  01930                % 04292 AVL---
+200405026 Luxembourg/Centre, P  01931  01931                % 04292 AVL---
+200405035 Luxembourg, Gare Cen  01933                       % 04292 AVL---
+*Z 04293 AVL---                                             % 04293 AVL---
+*L 31       200901036 200405035  00711  00729               % 04293 AVL---
+*A BE 200901036 200405035 000023  00711  00729              % 04293 AVL---
+*R 2 200405035 200901036 200405035  00711  00729            % 04293 AVL---
+*G AVM 200901036 200405035  00711  00729                    % 04293 AVL---
+*A VE 200901036 200405035 000023  00711  00729              % 04293 AVL---
+200901036 Strassen, Oricher-Ho         00711                % 04293 AVL---
+200901035 Strassen, Cité Pesch  00712  00712                % 04293 AVL---
+200901034 Strassen, Schafsstra  00713  00713                % 04293 AVL---
+200425002 Reckenthal, Gäertner  00714  00714                % 04293 AVL---
+200425009 Rollingergrund, Stee  00715  00715                % 04293 AVL---
+200425008 Rollingergrund, Stan  00716  00716                % 04293 AVL---
+200425006 Rollingergrund, Roud  00717  00717                % 04293 AVL---
+200425011 Rollingergrund, Val   00718  00718                % 04293 AVL---
+200425010 Rollingergrund, Val   00719  00719                % 04293 AVL---
+200425004 Rollingergrund, Beim  00719  00719                % 04293 AVL---
+200425003 Rollingergrund, Bei   00720  00720                % 04293 AVL---
+200425005 Rollingergrund, Biis  00720  00720                % 04293 AVL---
+200405045 Centre, Stäreplaz /   00721  00721                % 04293 AVL---
+200403020 Belair, Wampach       00723  00723                % 04293 AVL---
+200405025 Luxembourg/Centre, M  00725  00725                % 04293 AVL---
+200405023 Centre, Martyrs       00726  00726                % 04293 AVL---
+200405026 Luxembourg/Centre, P  00727  00727                % 04293 AVL---
+200405035 Luxembourg, Gare Cen  00729                       % 04293 AVL---
+*Z 04294 AVL---                                             % 04294 AVL---
+*L 31       200901036 200405035  00611  00629               % 04294 AVL---
+*A BE 200901036 200405035 000014  00611  00629              % 04294 AVL---
+*R 2 200405035 200901036 200405035  00611  00629            % 04294 AVL---
+*G AVM 200901036 200405035  00611  00629                    % 04294 AVL---
+*A VE 200901036 200405035 000014  00611  00629              % 04294 AVL---
+200901036 Strassen, Oricher-Ho         00611                % 04294 AVL---
+200901035 Strassen, Cité Pesch  00612  00612                % 04294 AVL---
+200901034 Strassen, Schafsstra  00613  00613                % 04294 AVL---
+200425002 Reckenthal, Gäertner  00614  00614                % 04294 AVL---
+200425009 Rollingergrund, Stee  00615  00615                % 04294 AVL---
+200425008 Rollingergrund, Stan  00616  00616                % 04294 AVL---
+200425006 Rollingergrund, Roud  00617  00617                % 04294 AVL---
+200425011 Rollingergrund, Val   00618  00618                % 04294 AVL---
+200425010 Rollingergrund, Val   00619  00619                % 04294 AVL---
+200425004 Rollingergrund, Beim  00619  00619                % 04294 AVL---
+200425003 Rollingergrund, Bei   00620  00620                % 04294 AVL---
+200425005 Rollingergrund, Biis  00620  00620                % 04294 AVL---
+200405045 Centre, Stäreplaz /   00621  00621                % 04294 AVL---
+200403020 Belair, Wampach       00623  00623                % 04294 AVL---
+200405025 Luxembourg/Centre, M  00625  00625                % 04294 AVL---
+200405023 Centre, Martyrs       00626  00626                % 04294 AVL---
+200405026 Luxembourg/Centre, P  00627  00627                % 04294 AVL---
+200405035 Luxembourg, Gare Cen  00629                       % 04294 AVL---
+*Z 04295 AVL---       011 060                               % 04295 AVL---
+*L 31       200405035 200901036  00839  00858               % 04295 AVL---
+*A BE 200405035 200901036 000022  00839  00858              % 04295 AVL---
+*R 1 200901036 200405035 200901036  00839  00858            % 04295 AVL---
+*G AVM 200405035 200901036  00839  00858                    % 04295 AVL---
+*A VE 200405035 200901036 000022  00839  00858              % 04295 AVL---
+200405035 Luxembourg, Gare Cen         00839                % 04295 AVL---
+200405026 Luxembourg/Centre, P  00841  00841                % 04295 AVL---
+200405023 Centre, Martyrs       00842  00842                % 04295 AVL---
+200405025 Luxembourg/Centre, M  00845  00845                % 04295 AVL---
+200405045 Centre, Stäreplaz /   00848  00848                % 04295 AVL---
+200425005 Rollingergrund, Biis  00849  00849                % 04295 AVL---
+200425003 Rollingergrund, Bei   00849  00849                % 04295 AVL---
+200425004 Rollingergrund, Beim  00850  00850                % 04295 AVL---
+200425010 Rollingergrund, Val   00851  00851                % 04295 AVL---
+200425011 Rollingergrund, Val   00852  00852                % 04295 AVL---
+200425006 Rollingergrund, Roud  00853  00853                % 04295 AVL---
+200425008 Rollingergrund, Stan  00854  00854                % 04295 AVL---
+200425009 Rollingergrund, Stee  00854  00854                % 04295 AVL---
+200425002 Reckenthal, Gäertner  00855  00855                % 04295 AVL---
+200901034 Strassen, Schafsstra  00856  00856                % 04295 AVL---
+200901035 Strassen, Cité Pesch  00857  00857                % 04295 AVL---
+200901036 Strassen, Oricher-Ho  00858                       % 04295 AVL---
+*Z 04296 AVL---                                             % 04296 AVL---
+*L 31       200405035 200901036  00740  00758               % 04296 AVL---
+*A BE 200405035 200901036 000022  00740  00758              % 04296 AVL---
+*R 1 200901036 200405035 200901036  00740  00758            % 04296 AVL---
+*G AVM 200405035 200901036  00740  00758                    % 04296 AVL---
+*A VE 200405035 200901036 000022  00740  00758              % 04296 AVL---
+200405035 Luxembourg, Gare Cen         00740                % 04296 AVL---
+200405026 Luxembourg/Centre, P  00741  00741                % 04296 AVL---
+200405023 Centre, Martyrs       00742  00742                % 04296 AVL---
+200405025 Luxembourg/Centre, M  00745  00745                % 04296 AVL---
+200405045 Centre, Stäreplaz /   00748  00748                % 04296 AVL---
+200425005 Rollingergrund, Biis  00749  00749                % 04296 AVL---
+200425003 Rollingergrund, Bei   00749  00749                % 04296 AVL---
+200425004 Rollingergrund, Beim  00750  00750                % 04296 AVL---
+200425010 Rollingergrund, Val   00750  00750                % 04296 AVL---
+200425011 Rollingergrund, Val   00751  00751                % 04296 AVL---
+200425006 Rollingergrund, Roud  00752  00752                % 04296 AVL---
+200425008 Rollingergrund, Stan  00753  00753                % 04296 AVL---
+200425009 Rollingergrund, Stee  00754  00754                % 04296 AVL---
+200425002 Reckenthal, Gäertner  00755  00755                % 04296 AVL---
+200901034 Strassen, Schafsstra  00756  00756                % 04296 AVL---
+200901035 Strassen, Cité Pesch  00757  00757                % 04296 AVL---
+200901036 Strassen, Oricher-Ho  00758                       % 04296 AVL---
+*Z 04297 AVL---                                             % 04297 AVL---
+*L 31       200405035 200901036  00540  00558               % 04297 AVL---
+*A BE 200405035 200901036 000013  00540  00558              % 04297 AVL---
+*R 1 200901036 200405035 200901036  00540  00558            % 04297 AVL---
+*G AVM 200405035 200901036  00540  00558                    % 04297 AVL---
+*A VE 200405035 200901036 000013  00540  00558              % 04297 AVL---
+200405035 Luxembourg, Gare Cen         00540                % 04297 AVL---
+200405026 Luxembourg/Centre, P  00541  00541                % 04297 AVL---
+200405023 Centre, Martyrs       00542  00542                % 04297 AVL---
+200405025 Luxembourg/Centre, M  00545  00545                % 04297 AVL---
+200405045 Centre, Stäreplaz /   00548  00548                % 04297 AVL---
+200425005 Rollingergrund, Biis  00549  00549                % 04297 AVL---
+200425003 Rollingergrund, Bei   00549  00549                % 04297 AVL---
+200425004 Rollingergrund, Beim  00550  00550                % 04297 AVL---
+200425010 Rollingergrund, Val   00550  00550                % 04297 AVL---
+200425011 Rollingergrund, Val   00551  00551                % 04297 AVL---
+200425006 Rollingergrund, Roud  00552  00552                % 04297 AVL---
+200425008 Rollingergrund, Stan  00553  00553                % 04297 AVL---
+200425009 Rollingergrund, Stee  00554  00554                % 04297 AVL---
+200425002 Reckenthal, Gäertner  00555  00555                % 04297 AVL---
+200901034 Strassen, Schafsstra  00556  00556                % 04297 AVL---
+200901035 Strassen, Cité Pesch  00557  00557                % 04297 AVL---
+200901036 Strassen, Oricher-Ho  00558                       % 04297 AVL---
+*Z 04298 AVL---                                             % 04298 AVL---
+*L 31       200405035 200901036  00640  00658               % 04298 AVL---
+*A BE 200405035 200901036 000046  00640  00658              % 04298 AVL---
+*R 1 200901036 200405035 200901036  00640  00658            % 04298 AVL---
+*G AVM 200405035 200901036  00640  00658                    % 04298 AVL---
+*A VE 200405035 200901036 000046  00640  00658              % 04298 AVL---
+200405035 Luxembourg, Gare Cen         00640                % 04298 AVL---
+200405026 Luxembourg/Centre, P  00641  00641                % 04298 AVL---
+200405023 Centre, Martyrs       00642  00642                % 04298 AVL---
+200405025 Luxembourg/Centre, M  00645  00645                % 04298 AVL---
+200405045 Centre, Stäreplaz /   00648  00648                % 04298 AVL---
+200425005 Rollingergrund, Biis  00649  00649                % 04298 AVL---
+200425003 Rollingergrund, Bei   00649  00649                % 04298 AVL---
+200425004 Rollingergrund, Beim  00650  00650                % 04298 AVL---
+200425010 Rollingergrund, Val   00650  00650                % 04298 AVL---
+200425011 Rollingergrund, Val   00651  00651                % 04298 AVL---
+200425006 Rollingergrund, Roud  00652  00652                % 04298 AVL---
+200425008 Rollingergrund, Stan  00653  00653                % 04298 AVL---
+200425009 Rollingergrund, Stee  00654  00654                % 04298 AVL---
+200425002 Reckenthal, Gäertner  00655  00655                % 04298 AVL---
+200901034 Strassen, Schafsstra  00656  00656                % 04298 AVL---
+200901035 Strassen, Cité Pesch  00657  00657                % 04298 AVL---
+200901036 Strassen, Oricher-Ho  00658                       % 04298 AVL---
+*Z 04299 AVL---       011 060                               % 04299 AVL---
+*L 31       200405035 200901036  00738  00800               % 04299 AVL---
+*A BE 200405035 200901036 000013  00738  00800              % 04299 AVL---
+*R 1 200901036 200405035 200901036  00738  00800            % 04299 AVL---
+*G AVM 200405035 200901036  00738  00800                    % 04299 AVL---
+*A VE 200405035 200901036 000013  00738  00800              % 04299 AVL---
+200405035 Luxembourg, Gare Cen         00738                % 04299 AVL---
+200405026 Luxembourg/Centre, P  00741  00741                % 04299 AVL---
+200405023 Centre, Martyrs       00742  00742                % 04299 AVL---
+200405025 Luxembourg/Centre, M  00745  00745                % 04299 AVL---
+200405045 Centre, Stäreplaz /   00748  00748                % 04299 AVL---
+200425005 Rollingergrund, Biis  00749  00749                % 04299 AVL---
+200425003 Rollingergrund, Bei   00750  00750                % 04299 AVL---
+200425004 Rollingergrund, Beim  00751  00751                % 04299 AVL---
+200425010 Rollingergrund, Val   00751  00751                % 04299 AVL---
+200425011 Rollingergrund, Val   00752  00752                % 04299 AVL---
+200425006 Rollingergrund, Roud  00753  00753                % 04299 AVL---
+200425008 Rollingergrund, Stan  00755  00755                % 04299 AVL---
+200425009 Rollingergrund, Stee  00755  00755                % 04299 AVL---
+200425002 Reckenthal, Gäertner  00756  00756                % 04299 AVL---
+200901034 Strassen, Schafsstra  00757  00757                % 04299 AVL---
+200901035 Strassen, Cité Pesch  00759  00759                % 04299 AVL---
+200901036 Strassen, Oricher-Ho  00800                       % 04299 AVL---
+*Z 04300 AVL---                                             % 04300 AVL---
+*L 31       200405035 200901036  01943  02005               % 04300 AVL---
+*A BE 200405035 200901036 000013  01943  02005              % 04300 AVL---
+*R 1 200901036 200405035 200901036  01943  02005            % 04300 AVL---
+*G AVM 200405035 200901036  01943  02005                    % 04300 AVL---
+*A VE 200405035 200901036 000013  01943  02005              % 04300 AVL---
+200405035 Luxembourg, Gare Cen         01943                % 04300 AVL---
+200405026 Luxembourg/Centre, P  01946  01946                % 04300 AVL---
+200405023 Centre, Martyrs       01947  01947                % 04300 AVL---
+200405025 Luxembourg/Centre, M  01950  01950                % 04300 AVL---
+200405045 Centre, Stäreplaz /   01953  01953                % 04300 AVL---
+200425005 Rollingergrund, Biis  01954  01954                % 04300 AVL---
+200425003 Rollingergrund, Bei   01955  01955                % 04300 AVL---
+200425004 Rollingergrund, Beim  01956  01956                % 04300 AVL---
+200425010 Rollingergrund, Val   01956  01956                % 04300 AVL---
+200425011 Rollingergrund, Val   01957  01957                % 04300 AVL---
+200425006 Rollingergrund, Roud  01958  01958                % 04300 AVL---
+200425008 Rollingergrund, Stan  02000  02000                % 04300 AVL---
+200425009 Rollingergrund, Stee  02000  02000                % 04300 AVL---
+200425002 Reckenthal, Gäertner  02001  02001                % 04300 AVL---
+200901034 Strassen, Schafsstra  02002  02002                % 04300 AVL---
+200901035 Strassen, Cité Pesch  02004  02004                % 04300 AVL---
+200901036 Strassen, Oricher-Ho  02005                       % 04300 AVL---
+*Z 04301 AVL---                                             % 04301 AVL---
+*L 31       200901036 200405035  00711  00729               % 04301 AVL---
+*A BE 200901036 200405035 000022  00711  00729              % 04301 AVL---
+*R 2 200405035 200901036 200405035  00711  00729            % 04301 AVL---
+*G AVM 200901036 200405035  00711  00729                    % 04301 AVL---
+*A VE 200901036 200405035 000022  00711  00729              % 04301 AVL---
+200901036 Strassen, Oricher-Ho         00711                % 04301 AVL---
+200901035 Strassen, Cité Pesch  00712  00712                % 04301 AVL---
+200901034 Strassen, Schafsstra  00713  00713                % 04301 AVL---
+200425002 Reckenthal, Gäertner  00714  00714                % 04301 AVL---
+200425009 Rollingergrund, Stee  00715  00715                % 04301 AVL---
+200425008 Rollingergrund, Stan  00716  00716                % 04301 AVL---
+200425006 Rollingergrund, Roud  00717  00717                % 04301 AVL---
+200425011 Rollingergrund, Val   00718  00718                % 04301 AVL---
+200425010 Rollingergrund, Val   00719  00719                % 04301 AVL---
+200425004 Rollingergrund, Beim  00719  00719                % 04301 AVL---
+200425003 Rollingergrund, Bei   00720  00720                % 04301 AVL---
+200425005 Rollingergrund, Biis  00720  00720                % 04301 AVL---
+200405045 Centre, Stäreplaz /   00721  00721                % 04301 AVL---
+200403020 Belair, Wampach       00723  00723                % 04301 AVL---
+200405025 Luxembourg/Centre, M  00725  00725                % 04301 AVL---
+200405023 Centre, Martyrs       00726  00726                % 04301 AVL---
+200405026 Luxembourg/Centre, P  00727  00727                % 04301 AVL---
+200405035 Luxembourg, Gare Cen  00729                       % 04301 AVL---
+*Z 04302 AVL---                                             % 04302 AVL---
+*L 31       200901036 200405035  00611  00629               % 04302 AVL---
+*A BE 200901036 200405035 000013  00611  00629              % 04302 AVL---
+*R 2 200405035 200901036 200405035  00611  00629            % 04302 AVL---
+*G AVM 200901036 200405035  00611  00629                    % 04302 AVL---
+*A VE 200901036 200405035 000013  00611  00629              % 04302 AVL---
+200901036 Strassen, Oricher-Ho         00611                % 04302 AVL---
+200901035 Strassen, Cité Pesch  00612  00612                % 04302 AVL---
+200901034 Strassen, Schafsstra  00613  00613                % 04302 AVL---
+200425002 Reckenthal, Gäertner  00614  00614                % 04302 AVL---
+200425009 Rollingergrund, Stee  00615  00615                % 04302 AVL---
+200425008 Rollingergrund, Stan  00616  00616                % 04302 AVL---
+200425006 Rollingergrund, Roud  00617  00617                % 04302 AVL---
+200425011 Rollingergrund, Val   00618  00618                % 04302 AVL---
+200425010 Rollingergrund, Val   00619  00619                % 04302 AVL---
+200425004 Rollingergrund, Beim  00619  00619                % 04302 AVL---
+200425003 Rollingergrund, Bei   00620  00620                % 04302 AVL---
+200425005 Rollingergrund, Biis  00620  00620                % 04302 AVL---
+200405045 Centre, Stäreplaz /   00621  00621                % 04302 AVL---
+200403020 Belair, Wampach       00623  00623                % 04302 AVL---
+200405025 Luxembourg/Centre, M  00625  00625                % 04302 AVL---
+200405023 Centre, Martyrs       00626  00626                % 04302 AVL---
+200405026 Luxembourg/Centre, P  00627  00627                % 04302 AVL---
+200405035 Luxembourg, Gare Cen  00629                       % 04302 AVL---
+*Z 04303 AVL---       011 060                               % 04303 AVL---
+*L 31       200901036 200405035  00707  00731               % 04303 AVL---
+*A BE 200901036 200405035 000013  00707  00731              % 04303 AVL---
+*R 2 200405035 200901036 200405035  00707  00731            % 04303 AVL---
+*G AVM 200901036 200405035  00707  00731                    % 04303 AVL---
+*A VE 200901036 200405035 000013  00707  00731              % 04303 AVL---
+200901036 Strassen, Oricher-Ho         00707                % 04303 AVL---
+200901035 Strassen, Cité Pesch  00708  00708                % 04303 AVL---
+200901034 Strassen, Schafsstra  00709  00709                % 04303 AVL---
+200425002 Reckenthal, Gäertner  00710  00710                % 04303 AVL---
+200425009 Rollingergrund, Stee  00711  00711                % 04303 AVL---
+200425008 Rollingergrund, Stan  00712  00712                % 04303 AVL---
+200425006 Rollingergrund, Roud  00714  00714                % 04303 AVL---
+200425011 Rollingergrund, Val   00715  00715                % 04303 AVL---
+200425010 Rollingergrund, Val   00716  00716                % 04303 AVL---
+200425004 Rollingergrund, Beim  00717  00717                % 04303 AVL---
+200425003 Rollingergrund, Bei   00717  00717                % 04303 AVL---
+200425005 Rollingergrund, Biis  00718  00718                % 04303 AVL---
+200405045 Centre, Stäreplaz /   00721  00721                % 04303 AVL---
+200403020 Belair, Wampach       00723  00723                % 04303 AVL---
+200405025 Luxembourg/Centre, M  00725  00725                % 04303 AVL---
+200405023 Centre, Martyrs       00727  00727                % 04303 AVL---
+200405026 Luxembourg/Centre, P  00729  00729                % 04303 AVL---
+200405035 Luxembourg, Gare Cen  00731                       % 04303 AVL---
+*Z 04304 AVL---                                             % 04304 AVL---
+*L 31       200901036 200405035  01910  01934               % 04304 AVL---
+*A BE 200901036 200405035 000013  01910  01934              % 04304 AVL---
+*R 2 200405035 200901036 200405035  01910  01934            % 04304 AVL---
+*G AVM 200901036 200405035  01910  01934                    % 04304 AVL---
+*A VE 200901036 200405035 000013  01910  01934              % 04304 AVL---
+200901036 Strassen, Oricher-Ho         01910                % 04304 AVL---
+200901035 Strassen, Cité Pesch  01911  01911                % 04304 AVL---
+200901034 Strassen, Schafsstra  01912  01912                % 04304 AVL---
+200425002 Reckenthal, Gäertner  01913  01913                % 04304 AVL---
+200425009 Rollingergrund, Stee  01914  01914                % 04304 AVL---
+200425008 Rollingergrund, Stan  01915  01915                % 04304 AVL---
+200425006 Rollingergrund, Roud  01917  01917                % 04304 AVL---
+200425011 Rollingergrund, Val   01918  01918                % 04304 AVL---
+200425010 Rollingergrund, Val   01919  01919                % 04304 AVL---
+200425004 Rollingergrund, Beim  01920  01920                % 04304 AVL---
+200425003 Rollingergrund, Bei   01920  01920                % 04304 AVL---
+200425005 Rollingergrund, Biis  01921  01921                % 04304 AVL---
+200405045 Centre, Stäreplaz /   01924  01924                % 04304 AVL---
+200403020 Belair, Wampach       01926  01926                % 04304 AVL---
+200405025 Luxembourg/Centre, M  01928  01928                % 04304 AVL---
+200405023 Centre, Martyrs       01930  01930                % 04304 AVL---
+200405026 Luxembourg/Centre, P  01932  01932                % 04304 AVL---
+200405035 Luxembourg, Gare Cen  01934                       % 04304 AVL---
+*Z 04305 AVL---       010 060                               % 04305 AVL---
+*L 31       200901036 200405035  00810  00830               % 04305 AVL---
+*A BE 200901036 200405035 000022  00810  00830              % 04305 AVL---
+*R 2 200405035 200901036 200405035  00810  00830            % 04305 AVL---
+*G AVM 200901036 200405035  00810  00830                    % 04305 AVL---
+*A VE 200901036 200405035 000022  00810  00830              % 04305 AVL---
+200901036 Strassen, Oricher-Ho         00810                % 04305 AVL---
+200901035 Strassen, Cité Pesch  00811  00811                % 04305 AVL---
+200901034 Strassen, Schafsstra  00812  00812                % 04305 AVL---
+200425002 Reckenthal, Gäertner  00813  00813                % 04305 AVL---
+200425009 Rollingergrund, Stee  00814  00814                % 04305 AVL---
+200425008 Rollingergrund, Stan  00815  00815                % 04305 AVL---
+200425006 Rollingergrund, Roud  00816  00816                % 04305 AVL---
+200425011 Rollingergrund, Val   00817  00817                % 04305 AVL---
+200425010 Rollingergrund, Val   00818  00818                % 04305 AVL---
+200425004 Rollingergrund, Beim  00819  00819                % 04305 AVL---
+200425003 Rollingergrund, Bei   00819  00819                % 04305 AVL---
+200425005 Rollingergrund, Biis  00820  00820                % 04305 AVL---
+200405045 Centre, Stäreplaz /   00821  00821                % 04305 AVL---
+200403020 Belair, Wampach       00823  00823                % 04305 AVL---
+200405025 Luxembourg/Centre, M  00825  00825                % 04305 AVL---
+200405023 Centre, Martyrs       00827  00827                % 04305 AVL---
+200405026 Luxembourg/Centre, P  00828  00828                % 04305 AVL---
+200405035 Luxembourg, Gare Cen  00830                       % 04305 AVL---
+*Z 04306 AVL---                                             % 04306 AVL---
+*L 31       200901036 200405035  01913  01933               % 04306 AVL---
+*A BE 200901036 200405035 000022  01913  01933              % 04306 AVL---
+*R 2 200405035 200901036 200405035  01913  01933            % 04306 AVL---
+*G AVM 200901036 200405035  01913  01933                    % 04306 AVL---
+*A VE 200901036 200405035 000022  01913  01933              % 04306 AVL---
+200901036 Strassen, Oricher-Ho         01913                % 04306 AVL---
+200901035 Strassen, Cité Pesch  01914  01914                % 04306 AVL---
+200901034 Strassen, Schafsstra  01915  01915                % 04306 AVL---
+200425002 Reckenthal, Gäertner  01916  01916                % 04306 AVL---
+200425009 Rollingergrund, Stee  01917  01917                % 04306 AVL---
+200425008 Rollingergrund, Stan  01918  01918                % 04306 AVL---
+200425006 Rollingergrund, Roud  01919  01919                % 04306 AVL---
+200425011 Rollingergrund, Val   01920  01920                % 04306 AVL---
+200425010 Rollingergrund, Val   01921  01921                % 04306 AVL---
+200425004 Rollingergrund, Beim  01922  01922                % 04306 AVL---
+200425003 Rollingergrund, Bei   01922  01922                % 04306 AVL---
+200425005 Rollingergrund, Biis  01923  01923                % 04306 AVL---
+200405045 Centre, Stäreplaz /   01924  01924                % 04306 AVL---
+200403020 Belair, Wampach       01926  01926                % 04306 AVL---
+200405025 Luxembourg/Centre, M  01928  01928                % 04306 AVL---
+200405023 Centre, Martyrs       01930  01930                % 04306 AVL---
+200405026 Luxembourg/Centre, P  01931  01931                % 04306 AVL---
+200405035 Luxembourg, Gare Cen  01933                       % 04306 AVL---

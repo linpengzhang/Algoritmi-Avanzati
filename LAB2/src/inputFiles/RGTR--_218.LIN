@@ -1,0 +1,631 @@
+*F 03 2
+*Z 05334 RGTR--                                             % 05334 RGTR--
+*L 218      200405045 300000043  01215  01304               % 05334 RGTR--
+*A as 200405045 300000043 000016  01215  01304              % 05334 RGTR--
+*A mo 200405045 300000043 000016  01215  01304              % 05334 RGTR--
+*R 1 300000043 200405045 300000043  01215  01304            % 05334 RGTR--
+*G RGB 200405045 300000043  01215  01304                    % 05334 RGTR--
+*A VE 200405045 300000043 000016  01215  01304              % 05334 RGTR--
+*I FD 200405045 300000043        0001803  01215  01304      % 05334 RGTR--
+200405045 Centre, Stäreplaz /          01215                % 05334 RGTR--
+200403021 Belair, Wandmillen   -01217  01217                % 05334 RGTR--
+200901020 Strassen, Benelux    -01222  01222                % 05334 RGTR--
+200901017 Strassen, Kesseler   -01223  01223                % 05334 RGTR--
+200101002 Bertrange, Belle Eto -01226  01226                % 05334 RGTR--
+190903013 Mamer, Tossebierg     01228  01228                % 05334 RGTR--
+190903007 Mamer, Gaaschtbierg   01228  01228                % 05334 RGTR--
+300000049 Sterpenich, Passage   01241  01241                % 05334 RGTR--
+300000050 Sterpenich, Église    01243  01243                % 05334 RGTR--
+300000087 Barnich, Ecole        01244  01244                % 05334 RGTR--
+300000051 Barnich-Autelbas, Eg  01245  01245                % 05334 RGTR--
+300000088 Autelbas, Centre      01246  01246                % 05334 RGTR--
+300000089 Autelbas, rue d'Aute  01246  01246                % 05334 RGTR--
+300000052 Autelhaut, Eglise     01249  01249                % 05334 RGTR--
+300000053 Hondelange, Chemin d  01251  01251                % 05334 RGTR--
+300000054 Hondelange, rue de l  01252  01252                % 05334 RGTR--
+300000055 Hondelange, Centre (  01254  01254                % 05334 RGTR--
+300000056 Hondelange, rue du P  01255  01255                % 05334 RGTR--
+300000057 Sélange, rue du Bois  01257  01257                % 05334 RGTR--
+300000045 Sélange, Eglise       01258  01258                % 05334 RGTR--
+300000059 Sélange, rue de Clem  01258  01258                % 05334 RGTR--
+300000060 Messancy, rue de Lux  01301  01301                % 05334 RGTR--
+300000090 Messancy, rue de Lux  01302  01302                % 05334 RGTR--
+300000062 Messancy, Cités       01302  01302                % 05334 RGTR--
+300000061 Messancy, rue du Châ  01303  01303                % 05334 RGTR--
+300000091 Messancy, Promenade   01303  01303                % 05334 RGTR--
+300000043 Messancy, Gare        01304                       % 05334 RGTR--
+*Z 05335 RGTR--                                             % 05335 RGTR--
+*L 218      200405045 300000043  01415  01504               % 05335 RGTR--
+*A as 200405045 300000043 000016  01415  01504              % 05335 RGTR--
+*A mo 200405045 300000043 000016  01415  01504              % 05335 RGTR--
+*R 1 300000043 200405045 300000043  01415  01504            % 05335 RGTR--
+*G RGB 200405045 300000043  01415  01504                    % 05335 RGTR--
+*A VE 200405045 300000043 000016  01415  01504              % 05335 RGTR--
+*I FD 200405045 300000043        0001804  01415  01504      % 05335 RGTR--
+200405045 Centre, Stäreplaz /          01415                % 05335 RGTR--
+200403021 Belair, Wandmillen   -01417  01417                % 05335 RGTR--
+200901020 Strassen, Benelux    -01422  01422                % 05335 RGTR--
+200901017 Strassen, Kesseler   -01423  01423                % 05335 RGTR--
+200101002 Bertrange, Belle Eto -01426  01426                % 05335 RGTR--
+190903013 Mamer, Tossebierg     01428  01428                % 05335 RGTR--
+190903007 Mamer, Gaaschtbierg   01428  01428                % 05335 RGTR--
+300000049 Sterpenich, Passage   01441  01441                % 05335 RGTR--
+300000050 Sterpenich, Église    01443  01443                % 05335 RGTR--
+300000087 Barnich, Ecole        01444  01444                % 05335 RGTR--
+300000051 Barnich-Autelbas, Eg  01445  01445                % 05335 RGTR--
+300000088 Autelbas, Centre      01446  01446                % 05335 RGTR--
+300000089 Autelbas, rue d'Aute  01446  01446                % 05335 RGTR--
+300000052 Autelhaut, Eglise     01449  01449                % 05335 RGTR--
+300000053 Hondelange, Chemin d  01451  01451                % 05335 RGTR--
+300000054 Hondelange, rue de l  01452  01452                % 05335 RGTR--
+300000055 Hondelange, Centre (  01454  01454                % 05335 RGTR--
+300000056 Hondelange, rue du P  01455  01455                % 05335 RGTR--
+300000057 Sélange, rue du Bois  01457  01457                % 05335 RGTR--
+300000045 Sélange, Eglise       01458  01458                % 05335 RGTR--
+300000059 Sélange, rue de Clem  01458  01458                % 05335 RGTR--
+300000060 Messancy, rue de Lux  01501  01501                % 05335 RGTR--
+300000090 Messancy, rue de Lux  01502  01502                % 05335 RGTR--
+300000062 Messancy, Cités       01502  01502                % 05335 RGTR--
+300000061 Messancy, rue du Châ  01503  01503                % 05335 RGTR--
+300000091 Messancy, Promenade   01503  01503                % 05335 RGTR--
+300000043 Messancy, Gare        01504                       % 05335 RGTR--
+*Z 05336 RGTR--                                             % 05336 RGTR--
+*L 218      200405045 300000043  01915  02004               % 05336 RGTR--
+*A as 200405045 300000043 000016  01915  02004              % 05336 RGTR--
+*A mo 200405045 300000043 000016  01915  02004              % 05336 RGTR--
+*R 1 300000043 200405045 300000043  01915  02004            % 05336 RGTR--
+*G RGB 200405045 300000043  01915  02004                    % 05336 RGTR--
+*A VE 200405045 300000043 000016  01915  02004              % 05336 RGTR--
+*I FD 200405045 300000043        0001808  01915  02004      % 05336 RGTR--
+200405045 Centre, Stäreplaz /          01915                % 05336 RGTR--
+200403021 Belair, Wandmillen   -01917  01917                % 05336 RGTR--
+200901020 Strassen, Benelux    -01922  01922                % 05336 RGTR--
+200901017 Strassen, Kesseler   -01923  01923                % 05336 RGTR--
+200101002 Bertrange, Belle Eto -01926  01926                % 05336 RGTR--
+190903013 Mamer, Tossebierg     01928  01928                % 05336 RGTR--
+190903007 Mamer, Gaaschtbierg   01928  01928                % 05336 RGTR--
+300000049 Sterpenich, Passage   01941  01941                % 05336 RGTR--
+300000050 Sterpenich, Église    01943  01943                % 05336 RGTR--
+300000087 Barnich, Ecole        01944  01944                % 05336 RGTR--
+300000051 Barnich-Autelbas, Eg  01945  01945                % 05336 RGTR--
+300000088 Autelbas, Centre      01946  01946                % 05336 RGTR--
+300000089 Autelbas, rue d'Aute  01946  01946                % 05336 RGTR--
+300000052 Autelhaut, Eglise     01949  01949                % 05336 RGTR--
+300000053 Hondelange, Chemin d  01951  01951                % 05336 RGTR--
+300000054 Hondelange, rue de l  01952  01952                % 05336 RGTR--
+300000055 Hondelange, Centre (  01954  01954                % 05336 RGTR--
+300000056 Hondelange, rue du P  01955  01955                % 05336 RGTR--
+300000057 Sélange, rue du Bois  01957  01957                % 05336 RGTR--
+300000045 Sélange, Eglise       01958  01958                % 05336 RGTR--
+300000059 Sélange, rue de Clem  01958  01958                % 05336 RGTR--
+300000060 Messancy, rue de Lux  02001  02001                % 05336 RGTR--
+300000090 Messancy, rue de Lux  02002  02002                % 05336 RGTR--
+300000062 Messancy, Cités       02002  02002                % 05336 RGTR--
+300000061 Messancy, rue du Châ  02003  02003                % 05336 RGTR--
+300000091 Messancy, Promenade   02003  02003                % 05336 RGTR--
+300000043 Messancy, Gare        02004                       % 05336 RGTR--
+*Z 05337 RGTR--                                             % 05337 RGTR--
+*L 218      200405045 300000043  02015  02104               % 05337 RGTR--
+*A as 200405045 300000043 000016  02015  02104              % 05337 RGTR--
+*A mo 200405045 300000043 000016  02015  02104              % 05337 RGTR--
+*R 1 300000043 200405045 300000043  02015  02104            % 05337 RGTR--
+*G RGB 200405045 300000043  02015  02104                    % 05337 RGTR--
+*A VE 200405045 300000043 000016  02015  02104              % 05337 RGTR--
+*I FD 200405045 300000043        0001805  02015  02104      % 05337 RGTR--
+200405045 Centre, Stäreplaz /          02015                % 05337 RGTR--
+200403021 Belair, Wandmillen   -02017  02017                % 05337 RGTR--
+200901020 Strassen, Benelux    -02022  02022                % 05337 RGTR--
+200901017 Strassen, Kesseler   -02023  02023                % 05337 RGTR--
+200101002 Bertrange, Belle Eto -02026  02026                % 05337 RGTR--
+190903013 Mamer, Tossebierg     02028  02028                % 05337 RGTR--
+190903007 Mamer, Gaaschtbierg   02028  02028                % 05337 RGTR--
+300000049 Sterpenich, Passage   02041  02041                % 05337 RGTR--
+300000050 Sterpenich, Église    02043  02043                % 05337 RGTR--
+300000087 Barnich, Ecole        02044  02044                % 05337 RGTR--
+300000051 Barnich-Autelbas, Eg  02045  02045                % 05337 RGTR--
+300000088 Autelbas, Centre      02046  02046                % 05337 RGTR--
+300000089 Autelbas, rue d'Aute  02046  02046                % 05337 RGTR--
+300000052 Autelhaut, Eglise     02049  02049                % 05337 RGTR--
+300000053 Hondelange, Chemin d  02051  02051                % 05337 RGTR--
+300000054 Hondelange, rue de l  02052  02052                % 05337 RGTR--
+300000055 Hondelange, Centre (  02054  02054                % 05337 RGTR--
+300000056 Hondelange, rue du P  02055  02055                % 05337 RGTR--
+300000057 Sélange, rue du Bois  02057  02057                % 05337 RGTR--
+300000045 Sélange, Eglise       02058  02058                % 05337 RGTR--
+300000059 Sélange, rue de Clem  02058  02058                % 05337 RGTR--
+300000060 Messancy, rue de Lux  02101  02101                % 05337 RGTR--
+300000090 Messancy, rue de Lux  02102  02102                % 05337 RGTR--
+300000062 Messancy, Cités       02102  02102                % 05337 RGTR--
+300000061 Messancy, rue du Châ  02103  02103                % 05337 RGTR--
+300000091 Messancy, Promenade   02103  02103                % 05337 RGTR--
+300000043 Messancy, Gare        02104                       % 05337 RGTR--
+*Z 05338 RGTR--                                             % 05338 RGTR--
+*L 218      200405045 300000043  01615  01712               % 05338 RGTR--
+*A as 200405045 300000043 000016  01615  01712              % 05338 RGTR--
+*A mo 200405045 300000043 000016  01615  01712              % 05338 RGTR--
+*R 1 300000043 200405045 300000043  01615  01712            % 05338 RGTR--
+*G RGB 200405045 300000043  01615  01712                    % 05338 RGTR--
+*A VE 200405045 300000043 000016  01615  01712              % 05338 RGTR--
+*I FD 200405045 300000043        0001811  01615  01712      % 05338 RGTR--
+200405045 Centre, Stäreplaz /          01615                % 05338 RGTR--
+200403021 Belair, Wandmillen   -01618  01618                % 05338 RGTR--
+200901020 Strassen, Benelux    -01623  01623                % 05338 RGTR--
+200901017 Strassen, Kesseler   -01625  01625                % 05338 RGTR--
+200101002 Bertrange, Belle Eto -01630  01630                % 05338 RGTR--
+190903013 Mamer, Tossebierg     01632  01632                % 05338 RGTR--
+190903007 Mamer, Gaaschtbierg   01633  01633                % 05338 RGTR--
+300000049 Sterpenich, Passage   01647  01647                % 05338 RGTR--
+300000050 Sterpenich, Église    01649  01649                % 05338 RGTR--
+300000087 Barnich, Ecole        01650  01650                % 05338 RGTR--
+300000051 Barnich-Autelbas, Eg  01651  01651                % 05338 RGTR--
+300000088 Autelbas, Centre      01652  01652                % 05338 RGTR--
+300000089 Autelbas, rue d'Aute  01653  01653                % 05338 RGTR--
+300000052 Autelhaut, Eglise     01656  01656                % 05338 RGTR--
+300000053 Hondelange, Chemin d  01658  01658                % 05338 RGTR--
+300000054 Hondelange, rue de l  01659  01659                % 05338 RGTR--
+300000055 Hondelange, Centre (  01701  01701                % 05338 RGTR--
+300000056 Hondelange, rue du P  01702  01702                % 05338 RGTR--
+300000057 Sélange, rue du Bois  01704  01704                % 05338 RGTR--
+300000045 Sélange, Eglise       01705  01705                % 05338 RGTR--
+300000059 Sélange, rue de Clem  01706  01706                % 05338 RGTR--
+300000060 Messancy, rue de Lux  01709  01709                % 05338 RGTR--
+300000090 Messancy, rue de Lux  01709  01709                % 05338 RGTR--
+300000062 Messancy, Cités       01710  01710                % 05338 RGTR--
+300000061 Messancy, rue du Châ  01710  01710                % 05338 RGTR--
+300000091 Messancy, Promenade   01711  01711                % 05338 RGTR--
+300000043 Messancy, Gare        01712                       % 05338 RGTR--
+*Z 05339 RGTR--                                             % 05339 RGTR--
+*L 218      200405045 300000043  01645  01742               % 05339 RGTR--
+*A as 200405045 300000043 000016  01645  01742              % 05339 RGTR--
+*A mo 200405045 300000043 000016  01645  01742              % 05339 RGTR--
+*R 1 300000043 200405045 300000043  01645  01742            % 05339 RGTR--
+*G RGB 200405045 300000043  01645  01742                    % 05339 RGTR--
+*A VE 200405045 300000043 000016  01645  01742              % 05339 RGTR--
+*I FD 200405045 300000043        0001367  01645  01742      % 05339 RGTR--
+200405045 Centre, Stäreplaz /          01645                % 05339 RGTR--
+200403021 Belair, Wandmillen   -01648  01648                % 05339 RGTR--
+200901020 Strassen, Benelux    -01653  01653                % 05339 RGTR--
+200901017 Strassen, Kesseler   -01655  01655                % 05339 RGTR--
+200101002 Bertrange, Belle Eto -01700  01700                % 05339 RGTR--
+190903013 Mamer, Tossebierg     01702  01702                % 05339 RGTR--
+190903007 Mamer, Gaaschtbierg   01703  01703                % 05339 RGTR--
+300000049 Sterpenich, Passage   01717  01717                % 05339 RGTR--
+300000050 Sterpenich, Église    01719  01719                % 05339 RGTR--
+300000087 Barnich, Ecole        01720  01720                % 05339 RGTR--
+300000051 Barnich-Autelbas, Eg  01721  01721                % 05339 RGTR--
+300000088 Autelbas, Centre      01722  01722                % 05339 RGTR--
+300000089 Autelbas, rue d'Aute  01723  01723                % 05339 RGTR--
+300000052 Autelhaut, Eglise     01726  01726                % 05339 RGTR--
+300000053 Hondelange, Chemin d  01728  01728                % 05339 RGTR--
+300000054 Hondelange, rue de l  01729  01729                % 05339 RGTR--
+300000055 Hondelange, Centre (  01731  01731                % 05339 RGTR--
+300000056 Hondelange, rue du P  01732  01732                % 05339 RGTR--
+300000057 Sélange, rue du Bois  01734  01734                % 05339 RGTR--
+300000045 Sélange, Eglise       01735  01735                % 05339 RGTR--
+300000059 Sélange, rue de Clem  01736  01736                % 05339 RGTR--
+300000060 Messancy, rue de Lux  01739  01739                % 05339 RGTR--
+300000090 Messancy, rue de Lux  01739  01739                % 05339 RGTR--
+300000062 Messancy, Cités       01740  01740                % 05339 RGTR--
+300000061 Messancy, rue du Châ  01740  01740                % 05339 RGTR--
+300000091 Messancy, Promenade   01741  01741                % 05339 RGTR--
+300000043 Messancy, Gare        01742                       % 05339 RGTR--
+*Z 05340 RGTR--                                             % 05340 RGTR--
+*L 218      200405045 300000043  01715  01812               % 05340 RGTR--
+*A as 200405045 300000043 000016  01715  01812              % 05340 RGTR--
+*A mo 200405045 300000043 000016  01715  01812              % 05340 RGTR--
+*R 1 300000043 200405045 300000043  01715  01812            % 05340 RGTR--
+*G RGB 200405045 300000043  01715  01812                    % 05340 RGTR--
+*A VE 200405045 300000043 000016  01715  01812              % 05340 RGTR--
+*I FD 200405045 300000043        0001812  01715  01812      % 05340 RGTR--
+200405045 Centre, Stäreplaz /          01715                % 05340 RGTR--
+200403021 Belair, Wandmillen   -01718  01718                % 05340 RGTR--
+200901020 Strassen, Benelux    -01723  01723                % 05340 RGTR--
+200901017 Strassen, Kesseler   -01725  01725                % 05340 RGTR--
+200101002 Bertrange, Belle Eto -01730  01730                % 05340 RGTR--
+190903013 Mamer, Tossebierg     01732  01732                % 05340 RGTR--
+190903007 Mamer, Gaaschtbierg   01733  01733                % 05340 RGTR--
+300000049 Sterpenich, Passage   01747  01747                % 05340 RGTR--
+300000050 Sterpenich, Église    01749  01749                % 05340 RGTR--
+300000087 Barnich, Ecole        01750  01750                % 05340 RGTR--
+300000051 Barnich-Autelbas, Eg  01751  01751                % 05340 RGTR--
+300000088 Autelbas, Centre      01752  01752                % 05340 RGTR--
+300000089 Autelbas, rue d'Aute  01753  01753                % 05340 RGTR--
+300000052 Autelhaut, Eglise     01756  01756                % 05340 RGTR--
+300000053 Hondelange, Chemin d  01758  01758                % 05340 RGTR--
+300000054 Hondelange, rue de l  01759  01759                % 05340 RGTR--
+300000055 Hondelange, Centre (  01801  01801                % 05340 RGTR--
+300000056 Hondelange, rue du P  01802  01802                % 05340 RGTR--
+300000057 Sélange, rue du Bois  01804  01804                % 05340 RGTR--
+300000045 Sélange, Eglise       01805  01805                % 05340 RGTR--
+300000059 Sélange, rue de Clem  01806  01806                % 05340 RGTR--
+300000060 Messancy, rue de Lux  01809  01809                % 05340 RGTR--
+300000090 Messancy, rue de Lux  01809  01809                % 05340 RGTR--
+300000062 Messancy, Cités       01810  01810                % 05340 RGTR--
+300000061 Messancy, rue du Châ  01810  01810                % 05340 RGTR--
+300000091 Messancy, Promenade   01811  01811                % 05340 RGTR--
+300000043 Messancy, Gare        01812                       % 05340 RGTR--
+*Z 05341 RGTR--                                             % 05341 RGTR--
+*L 218      200405045 300000043  01745  01842               % 05341 RGTR--
+*A as 200405045 300000043 000016  01745  01842              % 05341 RGTR--
+*A mo 200405045 300000043 000016  01745  01842              % 05341 RGTR--
+*R 1 300000043 200405045 300000043  01745  01842            % 05341 RGTR--
+*G RGB 200405045 300000043  01745  01842                    % 05341 RGTR--
+*A VE 200405045 300000043 000016  01745  01842              % 05341 RGTR--
+*I FD 200405045 300000043        0002203  01745  01842      % 05341 RGTR--
+200405045 Centre, Stäreplaz /          01745                % 05341 RGTR--
+200403021 Belair, Wandmillen   -01748  01748                % 05341 RGTR--
+200901020 Strassen, Benelux    -01753  01753                % 05341 RGTR--
+200901017 Strassen, Kesseler   -01755  01755                % 05341 RGTR--
+200101002 Bertrange, Belle Eto -01800  01800                % 05341 RGTR--
+190903013 Mamer, Tossebierg     01802  01802                % 05341 RGTR--
+190903007 Mamer, Gaaschtbierg   01803  01803                % 05341 RGTR--
+300000049 Sterpenich, Passage   01817  01817                % 05341 RGTR--
+300000050 Sterpenich, Église    01819  01819                % 05341 RGTR--
+300000087 Barnich, Ecole        01820  01820                % 05341 RGTR--
+300000051 Barnich-Autelbas, Eg  01821  01821                % 05341 RGTR--
+300000088 Autelbas, Centre      01822  01822                % 05341 RGTR--
+300000089 Autelbas, rue d'Aute  01823  01823                % 05341 RGTR--
+300000052 Autelhaut, Eglise     01826  01826                % 05341 RGTR--
+300000053 Hondelange, Chemin d  01828  01828                % 05341 RGTR--
+300000054 Hondelange, rue de l  01829  01829                % 05341 RGTR--
+300000055 Hondelange, Centre (  01831  01831                % 05341 RGTR--
+300000056 Hondelange, rue du P  01832  01832                % 05341 RGTR--
+300000057 Sélange, rue du Bois  01834  01834                % 05341 RGTR--
+300000045 Sélange, Eglise       01835  01835                % 05341 RGTR--
+300000059 Sélange, rue de Clem  01836  01836                % 05341 RGTR--
+300000060 Messancy, rue de Lux  01839  01839                % 05341 RGTR--
+300000090 Messancy, rue de Lux  01839  01839                % 05341 RGTR--
+300000062 Messancy, Cités       01840  01840                % 05341 RGTR--
+300000061 Messancy, rue du Châ  01840  01840                % 05341 RGTR--
+300000091 Messancy, Promenade   01841  01841                % 05341 RGTR--
+300000043 Messancy, Gare        01842                       % 05341 RGTR--
+*Z 05342 RGTR--                                             % 05342 RGTR--
+*L 218      200405045 300000043  01815  01912               % 05342 RGTR--
+*A as 200405045 300000043 000016  01815  01912              % 05342 RGTR--
+*A mo 200405045 300000043 000016  01815  01912              % 05342 RGTR--
+*R 1 300000043 200405045 300000043  01815  01912            % 05342 RGTR--
+*G RGB 200405045 300000043  01815  01912                    % 05342 RGTR--
+*A VE 200405045 300000043 000016  01815  01912              % 05342 RGTR--
+*I FD 200405045 300000043        0002194  01815  01912      % 05342 RGTR--
+200405045 Centre, Stäreplaz /          01815                % 05342 RGTR--
+200403021 Belair, Wandmillen   -01818  01818                % 05342 RGTR--
+200901020 Strassen, Benelux    -01823  01823                % 05342 RGTR--
+200901017 Strassen, Kesseler   -01825  01825                % 05342 RGTR--
+200101002 Bertrange, Belle Eto -01830  01830                % 05342 RGTR--
+190903013 Mamer, Tossebierg     01832  01832                % 05342 RGTR--
+190903007 Mamer, Gaaschtbierg   01833  01833                % 05342 RGTR--
+300000049 Sterpenich, Passage   01847  01847                % 05342 RGTR--
+300000050 Sterpenich, Église    01849  01849                % 05342 RGTR--
+300000087 Barnich, Ecole        01850  01850                % 05342 RGTR--
+300000051 Barnich-Autelbas, Eg  01851  01851                % 05342 RGTR--
+300000088 Autelbas, Centre      01852  01852                % 05342 RGTR--
+300000089 Autelbas, rue d'Aute  01853  01853                % 05342 RGTR--
+300000052 Autelhaut, Eglise     01856  01856                % 05342 RGTR--
+300000053 Hondelange, Chemin d  01858  01858                % 05342 RGTR--
+300000054 Hondelange, rue de l  01859  01859                % 05342 RGTR--
+300000055 Hondelange, Centre (  01901  01901                % 05342 RGTR--
+300000056 Hondelange, rue du P  01902  01902                % 05342 RGTR--
+300000057 Sélange, rue du Bois  01904  01904                % 05342 RGTR--
+300000045 Sélange, Eglise       01905  01905                % 05342 RGTR--
+300000059 Sélange, rue de Clem  01906  01906                % 05342 RGTR--
+300000060 Messancy, rue de Lux  01909  01909                % 05342 RGTR--
+300000090 Messancy, rue de Lux  01909  01909                % 05342 RGTR--
+300000062 Messancy, Cités       01910  01910                % 05342 RGTR--
+300000061 Messancy, rue du Châ  01910  01910                % 05342 RGTR--
+300000091 Messancy, Promenade   01911  01911                % 05342 RGTR--
+300000043 Messancy, Gare        01912                       % 05342 RGTR--
+*Z 05343 RGTR--                                             % 05343 RGTR--
+*L 218      300000043 200405045  00610  00710               % 05343 RGTR--
+*A as 300000043 200405045 000016  00610  00710              % 05343 RGTR--
+*A ig 300000043 200405045 000016  00610  00710              % 05343 RGTR--
+*R 2 200405045 300000043 200405045  00610  00710            % 05343 RGTR--
+*G RGB 300000043 200405045  00610  00710                    % 05343 RGTR--
+*A VE 300000043 200405045 000016  00610  00710              % 05343 RGTR--
+*I FD 300000043 200405045        0002191  00610  00710      % 05343 RGTR--
+300000043 Messancy, Gare               00610                % 05343 RGTR--
+300000091 Messancy, Promenade   00610  00610                % 05343 RGTR--
+300000061 Messancy, rue du Châ  00611  00611                % 05343 RGTR--
+300000062 Messancy, Cités       00611  00611                % 05343 RGTR--
+300000090 Messancy, rue de Lux  00613  00613                % 05343 RGTR--
+300000060 Messancy, rue de Lux  00613  00613                % 05343 RGTR--
+300000059 Sélange, rue de Clem  00617  00617                % 05343 RGTR--
+300000045 Sélange, Eglise       00617  00617                % 05343 RGTR--
+300000057 Sélange, rue du Bois  00618  00618                % 05343 RGTR--
+300000056 Hondelange, rue du P  00621  00621                % 05343 RGTR--
+300000055 Hondelange, Centre (  00622  00622                % 05343 RGTR--
+300000054 Hondelange, rue de l  00624  00624                % 05343 RGTR--
+300000053 Hondelange, Chemin d  00625  00625                % 05343 RGTR--
+300000052 Autelhaut, Eglise     00627  00627                % 05343 RGTR--
+300000089 Autelbas, rue d'Aute  00629  00629                % 05343 RGTR--
+300000088 Autelbas, Centre      00630  00630                % 05343 RGTR--
+300000051 Barnich-Autelbas, Eg  00631  00631                % 05343 RGTR--
+300000087 Barnich, Ecole        00632  00632                % 05343 RGTR--
+300000050 Sterpenich, Église    00634  00634                % 05343 RGTR--
+300000049 Sterpenich, Passage   00635  00635                % 05343 RGTR--
+190903007 Mamer, Gaaschtbierg   00654  00654                % 05343 RGTR--
+190903013 Mamer, Tossebierg     00655  00655                % 05343 RGTR--
+200101002 Bertrange, Belle Eto  00657 -00657                % 05343 RGTR--
+200901017 Strassen, Kesseler    00700 -00700                % 05343 RGTR--
+200901020 Strassen, Benelux     00702 -00702                % 05343 RGTR--
+200403021 Belair, Wandmillen    00707 -00707                % 05343 RGTR--
+200405045 Centre, Stäreplaz /   00710                       % 05343 RGTR--
+*Z 05344 RGTR--                                             % 05344 RGTR--
+*L 218      300000043 200405045  00640  00740               % 05344 RGTR--
+*A as 300000043 200405045 000016  00640  00740              % 05344 RGTR--
+*A ig 300000043 200405045 000016  00640  00740              % 05344 RGTR--
+*R 2 200405045 300000043 200405045  00640  00740            % 05344 RGTR--
+*G RGB 300000043 200405045  00640  00740                    % 05344 RGTR--
+*A VE 300000043 200405045 000016  00640  00740              % 05344 RGTR--
+*I FD 300000043 200405045        0000919  00640  00740      % 05344 RGTR--
+300000043 Messancy, Gare               00640                % 05344 RGTR--
+300000091 Messancy, Promenade   00640  00640                % 05344 RGTR--
+300000061 Messancy, rue du Châ  00641  00641                % 05344 RGTR--
+300000062 Messancy, Cités       00641  00641                % 05344 RGTR--
+300000090 Messancy, rue de Lux  00643  00643                % 05344 RGTR--
+300000060 Messancy, rue de Lux  00643  00643                % 05344 RGTR--
+300000059 Sélange, rue de Clem  00647  00647                % 05344 RGTR--
+300000045 Sélange, Eglise       00647  00647                % 05344 RGTR--
+300000057 Sélange, rue du Bois  00648  00648                % 05344 RGTR--
+300000056 Hondelange, rue du P  00651  00651                % 05344 RGTR--
+300000055 Hondelange, Centre (  00652  00652                % 05344 RGTR--
+300000054 Hondelange, rue de l  00654  00654                % 05344 RGTR--
+300000053 Hondelange, Chemin d  00655  00655                % 05344 RGTR--
+300000052 Autelhaut, Eglise     00657  00657                % 05344 RGTR--
+300000089 Autelbas, rue d'Aute  00659  00659                % 05344 RGTR--
+300000088 Autelbas, Centre      00700  00700                % 05344 RGTR--
+300000051 Barnich-Autelbas, Eg  00701  00701                % 05344 RGTR--
+300000087 Barnich, Ecole        00702  00702                % 05344 RGTR--
+300000050 Sterpenich, Église    00704  00704                % 05344 RGTR--
+300000049 Sterpenich, Passage   00705  00705                % 05344 RGTR--
+190903007 Mamer, Gaaschtbierg   00724  00724                % 05344 RGTR--
+190903013 Mamer, Tossebierg     00725  00725                % 05344 RGTR--
+200101002 Bertrange, Belle Eto  00727 -00727                % 05344 RGTR--
+200901017 Strassen, Kesseler    00730 -00730                % 05344 RGTR--
+200901020 Strassen, Benelux     00732 -00732                % 05344 RGTR--
+200403021 Belair, Wandmillen    00737 -00737                % 05344 RGTR--
+200405045 Centre, Stäreplaz /   00740                       % 05344 RGTR--
+*Z 05345 RGTR--                                             % 05345 RGTR--
+*L 218      300000043 200405045  00710  00810               % 05345 RGTR--
+*A as 300000043 200405045 000016  00710  00810              % 05345 RGTR--
+*A ig 300000043 200405045 000016  00710  00810              % 05345 RGTR--
+*R 2 200405045 300000043 200405045  00710  00810            % 05345 RGTR--
+*G RGB 300000043 200405045  00710  00810                    % 05345 RGTR--
+*A VE 300000043 200405045 000016  00710  00810              % 05345 RGTR--
+*I FD 300000043 200405045        0002035  00710  00810      % 05345 RGTR--
+300000043 Messancy, Gare               00710                % 05345 RGTR--
+300000091 Messancy, Promenade   00710  00710                % 05345 RGTR--
+300000061 Messancy, rue du Châ  00711  00711                % 05345 RGTR--
+300000062 Messancy, Cités       00711  00711                % 05345 RGTR--
+300000090 Messancy, rue de Lux  00713  00713                % 05345 RGTR--
+300000060 Messancy, rue de Lux  00713  00713                % 05345 RGTR--
+300000059 Sélange, rue de Clem  00717  00717                % 05345 RGTR--
+300000045 Sélange, Eglise       00717  00717                % 05345 RGTR--
+300000057 Sélange, rue du Bois  00718  00718                % 05345 RGTR--
+300000056 Hondelange, rue du P  00721  00721                % 05345 RGTR--
+300000055 Hondelange, Centre (  00722  00722                % 05345 RGTR--
+300000054 Hondelange, rue de l  00724  00724                % 05345 RGTR--
+300000053 Hondelange, Chemin d  00725  00725                % 05345 RGTR--
+300000052 Autelhaut, Eglise     00727  00727                % 05345 RGTR--
+300000089 Autelbas, rue d'Aute  00729  00729                % 05345 RGTR--
+300000088 Autelbas, Centre      00730  00730                % 05345 RGTR--
+300000051 Barnich-Autelbas, Eg  00731  00731                % 05345 RGTR--
+300000087 Barnich, Ecole        00732  00732                % 05345 RGTR--
+300000050 Sterpenich, Église    00734  00734                % 05345 RGTR--
+300000049 Sterpenich, Passage   00735  00735                % 05345 RGTR--
+190903007 Mamer, Gaaschtbierg   00754  00754                % 05345 RGTR--
+190903013 Mamer, Tossebierg     00755  00755                % 05345 RGTR--
+200101002 Bertrange, Belle Eto  00757 -00757                % 05345 RGTR--
+200901017 Strassen, Kesseler    00800 -00800                % 05345 RGTR--
+200901020 Strassen, Benelux     00802 -00802                % 05345 RGTR--
+200403021 Belair, Wandmillen    00807 -00807                % 05345 RGTR--
+200405045 Centre, Stäreplaz /   00810                       % 05345 RGTR--
+*Z 05346 RGTR--                                             % 05346 RGTR--
+*L 218      300000043 200405045  00740  00840               % 05346 RGTR--
+*A as 300000043 200405045 000016  00740  00840              % 05346 RGTR--
+*A ig 300000043 200405045 000016  00740  00840              % 05346 RGTR--
+*R 2 200405045 300000043 200405045  00740  00840            % 05346 RGTR--
+*G RGB 300000043 200405045  00740  00840                    % 05346 RGTR--
+*A VE 300000043 200405045 000016  00740  00840              % 05346 RGTR--
+*I FD 300000043 200405045        0001952  00740  00840      % 05346 RGTR--
+300000043 Messancy, Gare               00740                % 05346 RGTR--
+300000091 Messancy, Promenade   00740  00740                % 05346 RGTR--
+300000061 Messancy, rue du Châ  00741  00741                % 05346 RGTR--
+300000062 Messancy, Cités       00741  00741                % 05346 RGTR--
+300000090 Messancy, rue de Lux  00743  00743                % 05346 RGTR--
+300000060 Messancy, rue de Lux  00743  00743                % 05346 RGTR--
+300000059 Sélange, rue de Clem  00747  00747                % 05346 RGTR--
+300000045 Sélange, Eglise       00747  00747                % 05346 RGTR--
+300000057 Sélange, rue du Bois  00748  00748                % 05346 RGTR--
+300000056 Hondelange, rue du P  00751  00751                % 05346 RGTR--
+300000055 Hondelange, Centre (  00752  00752                % 05346 RGTR--
+300000054 Hondelange, rue de l  00754  00754                % 05346 RGTR--
+300000053 Hondelange, Chemin d  00755  00755                % 05346 RGTR--
+300000052 Autelhaut, Eglise     00757  00757                % 05346 RGTR--
+300000089 Autelbas, rue d'Aute  00759  00759                % 05346 RGTR--
+300000088 Autelbas, Centre      00800  00800                % 05346 RGTR--
+300000051 Barnich-Autelbas, Eg  00801  00801                % 05346 RGTR--
+300000087 Barnich, Ecole        00802  00802                % 05346 RGTR--
+300000050 Sterpenich, Église    00804  00804                % 05346 RGTR--
+300000049 Sterpenich, Passage   00805  00805                % 05346 RGTR--
+190903007 Mamer, Gaaschtbierg   00824  00824                % 05346 RGTR--
+190903013 Mamer, Tossebierg     00825  00825                % 05346 RGTR--
+200101002 Bertrange, Belle Eto  00827 -00827                % 05346 RGTR--
+200901017 Strassen, Kesseler    00830 -00830                % 05346 RGTR--
+200901020 Strassen, Benelux     00832 -00832                % 05346 RGTR--
+200403021 Belair, Wandmillen    00837 -00837                % 05346 RGTR--
+200405045 Centre, Stäreplaz /   00840                       % 05346 RGTR--
+*Z 05347 RGTR--                                             % 05347 RGTR--
+*L 218      300000043 200405045  00810  00910               % 05347 RGTR--
+*A as 300000043 200405045 000016  00810  00910              % 05347 RGTR--
+*A ig 300000043 200405045 000016  00810  00910              % 05347 RGTR--
+*R 2 200405045 300000043 200405045  00810  00910            % 05347 RGTR--
+*G RGB 300000043 200405045  00810  00910                    % 05347 RGTR--
+*A VE 300000043 200405045 000016  00810  00910              % 05347 RGTR--
+*I FD 300000043 200405045        0002052  00810  00910      % 05347 RGTR--
+300000043 Messancy, Gare               00810                % 05347 RGTR--
+300000091 Messancy, Promenade   00810  00810                % 05347 RGTR--
+300000061 Messancy, rue du Châ  00811  00811                % 05347 RGTR--
+300000062 Messancy, Cités       00811  00811                % 05347 RGTR--
+300000090 Messancy, rue de Lux  00813  00813                % 05347 RGTR--
+300000060 Messancy, rue de Lux  00813  00813                % 05347 RGTR--
+300000059 Sélange, rue de Clem  00817  00817                % 05347 RGTR--
+300000045 Sélange, Eglise       00817  00817                % 05347 RGTR--
+300000057 Sélange, rue du Bois  00818  00818                % 05347 RGTR--
+300000056 Hondelange, rue du P  00821  00821                % 05347 RGTR--
+300000055 Hondelange, Centre (  00822  00822                % 05347 RGTR--
+300000054 Hondelange, rue de l  00824  00824                % 05347 RGTR--
+300000053 Hondelange, Chemin d  00825  00825                % 05347 RGTR--
+300000052 Autelhaut, Eglise     00827  00827                % 05347 RGTR--
+300000089 Autelbas, rue d'Aute  00829  00829                % 05347 RGTR--
+300000088 Autelbas, Centre      00830  00830                % 05347 RGTR--
+300000051 Barnich-Autelbas, Eg  00831  00831                % 05347 RGTR--
+300000087 Barnich, Ecole        00832  00832                % 05347 RGTR--
+300000050 Sterpenich, Église    00834  00834                % 05347 RGTR--
+300000049 Sterpenich, Passage   00835  00835                % 05347 RGTR--
+190903007 Mamer, Gaaschtbierg   00854  00854                % 05347 RGTR--
+190903013 Mamer, Tossebierg     00855  00855                % 05347 RGTR--
+200101002 Bertrange, Belle Eto  00857 -00857                % 05347 RGTR--
+200901017 Strassen, Kesseler    00900 -00900                % 05347 RGTR--
+200901020 Strassen, Benelux     00902 -00902                % 05347 RGTR--
+200403021 Belair, Wandmillen    00907 -00907                % 05347 RGTR--
+200405045 Centre, Stäreplaz /   00910                       % 05347 RGTR--
+*Z 05348 RGTR--                                             % 05348 RGTR--
+*L 218      300000043 200405045  00840  00940               % 05348 RGTR--
+*A as 300000043 200405045 000016  00840  00940              % 05348 RGTR--
+*A ig 300000043 200405045 000016  00840  00940              % 05348 RGTR--
+*R 2 200405045 300000043 200405045  00840  00940            % 05348 RGTR--
+*G RGB 300000043 200405045  00840  00940                    % 05348 RGTR--
+*A VE 300000043 200405045 000016  00840  00940              % 05348 RGTR--
+*I FD 300000043 200405045        0001954  00840  00940      % 05348 RGTR--
+300000043 Messancy, Gare               00840                % 05348 RGTR--
+300000091 Messancy, Promenade   00840  00840                % 05348 RGTR--
+300000061 Messancy, rue du Châ  00841  00841                % 05348 RGTR--
+300000062 Messancy, Cités       00841  00841                % 05348 RGTR--
+300000090 Messancy, rue de Lux  00843  00843                % 05348 RGTR--
+300000060 Messancy, rue de Lux  00843  00843                % 05348 RGTR--
+300000059 Sélange, rue de Clem  00847  00847                % 05348 RGTR--
+300000045 Sélange, Eglise       00847  00847                % 05348 RGTR--
+300000057 Sélange, rue du Bois  00848  00848                % 05348 RGTR--
+300000056 Hondelange, rue du P  00851  00851                % 05348 RGTR--
+300000055 Hondelange, Centre (  00852  00852                % 05348 RGTR--
+300000054 Hondelange, rue de l  00854  00854                % 05348 RGTR--
+300000053 Hondelange, Chemin d  00855  00855                % 05348 RGTR--
+300000052 Autelhaut, Eglise     00857  00857                % 05348 RGTR--
+300000089 Autelbas, rue d'Aute  00859  00859                % 05348 RGTR--
+300000088 Autelbas, Centre      00900  00900                % 05348 RGTR--
+300000051 Barnich-Autelbas, Eg  00901  00901                % 05348 RGTR--
+300000087 Barnich, Ecole        00902  00902                % 05348 RGTR--
+300000050 Sterpenich, Église    00904  00904                % 05348 RGTR--
+300000049 Sterpenich, Passage   00905  00905                % 05348 RGTR--
+190903007 Mamer, Gaaschtbierg   00924  00924                % 05348 RGTR--
+190903013 Mamer, Tossebierg     00925  00925                % 05348 RGTR--
+200101002 Bertrange, Belle Eto  00927 -00927                % 05348 RGTR--
+200901017 Strassen, Kesseler    00930 -00930                % 05348 RGTR--
+200901020 Strassen, Benelux     00932 -00932                % 05348 RGTR--
+200403021 Belair, Wandmillen    00937 -00937                % 05348 RGTR--
+200405045 Centre, Stäreplaz /   00940                       % 05348 RGTR--
+*Z 05349 RGTR--                                             % 05349 RGTR--
+*L 218      300000043 200405045  00540  00629               % 05349 RGTR--
+*A as 300000043 200405045 000016  00540  00629              % 05349 RGTR--
+*A ig 300000043 200405045 000016  00540  00629              % 05349 RGTR--
+*R 2 200405045 300000043 200405045  00540  00629            % 05349 RGTR--
+*G RGB 300000043 200405045  00540  00629                    % 05349 RGTR--
+*A VE 300000043 200405045 000016  00540  00629              % 05349 RGTR--
+*I FD 300000043 200405045        0000936  00540  00629      % 05349 RGTR--
+300000043 Messancy, Gare               00540                % 05349 RGTR--
+300000091 Messancy, Promenade   00540  00540                % 05349 RGTR--
+300000061 Messancy, rue du Châ  00541  00541                % 05349 RGTR--
+300000062 Messancy, Cités       00541  00541                % 05349 RGTR--
+300000090 Messancy, rue de Lux  00542  00542                % 05349 RGTR--
+300000060 Messancy, rue de Lux  00543  00543                % 05349 RGTR--
+300000059 Sélange, rue de Clem  00546  00546                % 05349 RGTR--
+300000045 Sélange, Eglise       00547  00547                % 05349 RGTR--
+300000057 Sélange, rue du Bois  00547  00547                % 05349 RGTR--
+300000056 Hondelange, rue du P  00550  00550                % 05349 RGTR--
+300000055 Hondelange, Centre (  00551  00551                % 05349 RGTR--
+300000054 Hondelange, rue de l  00553  00553                % 05349 RGTR--
+300000053 Hondelange, Chemin d  00554  00554                % 05349 RGTR--
+300000052 Autelhaut, Eglise     00556  00556                % 05349 RGTR--
+300000089 Autelbas, rue d'Aute  00558  00558                % 05349 RGTR--
+300000088 Autelbas, Centre      00559  00559                % 05349 RGTR--
+300000051 Barnich-Autelbas, Eg  00600  00600                % 05349 RGTR--
+300000087 Barnich, Ecole        00601  00601                % 05349 RGTR--
+300000050 Sterpenich, Église    00603  00603                % 05349 RGTR--
+300000049 Sterpenich, Passage   00604  00604                % 05349 RGTR--
+190903007 Mamer, Gaaschtbierg   00616  00616                % 05349 RGTR--
+190903013 Mamer, Tossebierg     00617  00617                % 05349 RGTR--
+200101002 Bertrange, Belle Eto  00619 -00619                % 05349 RGTR--
+200901017 Strassen, Kesseler    00621 -00621                % 05349 RGTR--
+200901020 Strassen, Benelux     00623 -00623                % 05349 RGTR--
+200403021 Belair, Wandmillen    00627 -00627                % 05349 RGTR--
+200405045 Centre, Stäreplaz /   00629                       % 05349 RGTR--
+*Z 05350 RGTR--                                             % 05350 RGTR--
+*L 218      300000043 200405045  01310  01359               % 05350 RGTR--
+*A as 300000043 200405045 000016  01310  01359              % 05350 RGTR--
+*A ig 300000043 200405045 000016  01310  01359              % 05350 RGTR--
+*R 2 200405045 300000043 200405045  01310  01359            % 05350 RGTR--
+*G RGB 300000043 200405045  01310  01359                    % 05350 RGTR--
+*A VE 300000043 200405045 000016  01310  01359              % 05350 RGTR--
+*I FD 300000043 200405045        0002042  01310  01359      % 05350 RGTR--
+300000043 Messancy, Gare               01310                % 05350 RGTR--
+300000091 Messancy, Promenade   01310  01310                % 05350 RGTR--
+300000061 Messancy, rue du Châ  01311  01311                % 05350 RGTR--
+300000062 Messancy, Cités       01311  01311                % 05350 RGTR--
+300000090 Messancy, rue de Lux  01312  01312                % 05350 RGTR--
+300000060 Messancy, rue de Lux  01313  01313                % 05350 RGTR--
+300000059 Sélange, rue de Clem  01316  01316                % 05350 RGTR--
+300000045 Sélange, Eglise       01317  01317                % 05350 RGTR--
+300000057 Sélange, rue du Bois  01317  01317                % 05350 RGTR--
+300000056 Hondelange, rue du P  01320  01320                % 05350 RGTR--
+300000055 Hondelange, Centre (  01321  01321                % 05350 RGTR--
+300000054 Hondelange, rue de l  01323  01323                % 05350 RGTR--
+300000053 Hondelange, Chemin d  01324  01324                % 05350 RGTR--
+300000052 Autelhaut, Eglise     01326  01326                % 05350 RGTR--
+300000089 Autelbas, rue d'Aute  01328  01328                % 05350 RGTR--
+300000088 Autelbas, Centre      01329  01329                % 05350 RGTR--
+300000051 Barnich-Autelbas, Eg  01330  01330                % 05350 RGTR--
+300000087 Barnich, Ecole        01331  01331                % 05350 RGTR--
+300000050 Sterpenich, Église    01333  01333                % 05350 RGTR--
+300000049 Sterpenich, Passage   01334  01334                % 05350 RGTR--
+190903007 Mamer, Gaaschtbierg   01346  01346                % 05350 RGTR--
+190903013 Mamer, Tossebierg     01347  01347                % 05350 RGTR--
+200101002 Bertrange, Belle Eto  01349 -01349                % 05350 RGTR--
+200901017 Strassen, Kesseler    01351 -01351                % 05350 RGTR--
+200901020 Strassen, Benelux     01353 -01353                % 05350 RGTR--
+200403021 Belair, Wandmillen    01357 -01357                % 05350 RGTR--
+200405045 Centre, Stäreplaz /   01359                       % 05350 RGTR--
+*Z 05351 RGTR--                                             % 05351 RGTR--
+*L 218      300000043 200405045  01510  01559               % 05351 RGTR--
+*A as 300000043 200405045 000016  01510  01559              % 05351 RGTR--
+*A ig 300000043 200405045 000016  01510  01559              % 05351 RGTR--
+*R 2 200405045 300000043 200405045  01510  01559            % 05351 RGTR--
+*G RGB 300000043 200405045  01510  01559                    % 05351 RGTR--
+*A VE 300000043 200405045 000016  01510  01559              % 05351 RGTR--
+*I FD 300000043 200405045        0002043  01510  01559      % 05351 RGTR--
+300000043 Messancy, Gare               01510                % 05351 RGTR--
+300000091 Messancy, Promenade   01510  01510                % 05351 RGTR--
+300000061 Messancy, rue du Châ  01511  01511                % 05351 RGTR--
+300000062 Messancy, Cités       01511  01511                % 05351 RGTR--
+300000090 Messancy, rue de Lux  01512  01512                % 05351 RGTR--
+300000060 Messancy, rue de Lux  01513  01513                % 05351 RGTR--
+300000059 Sélange, rue de Clem  01516  01516                % 05351 RGTR--
+300000045 Sélange, Eglise       01517  01517                % 05351 RGTR--
+300000057 Sélange, rue du Bois  01517  01517                % 05351 RGTR--
+300000056 Hondelange, rue du P  01520  01520                % 05351 RGTR--
+300000055 Hondelange, Centre (  01521  01521                % 05351 RGTR--
+300000054 Hondelange, rue de l  01523  01523                % 05351 RGTR--
+300000053 Hondelange, Chemin d  01524  01524                % 05351 RGTR--
+300000052 Autelhaut, Eglise     01526  01526                % 05351 RGTR--
+300000089 Autelbas, rue d'Aute  01528  01528                % 05351 RGTR--
+300000088 Autelbas, Centre      01529  01529                % 05351 RGTR--
+300000051 Barnich-Autelbas, Eg  01530  01530                % 05351 RGTR--
+300000087 Barnich, Ecole        01531  01531                % 05351 RGTR--
+300000050 Sterpenich, Église    01533  01533                % 05351 RGTR--
+300000049 Sterpenich, Passage   01534  01534                % 05351 RGTR--
+190903007 Mamer, Gaaschtbierg   01546  01546                % 05351 RGTR--
+190903013 Mamer, Tossebierg     01547  01547                % 05351 RGTR--
+200101002 Bertrange, Belle Eto  01549 -01549                % 05351 RGTR--
+200901017 Strassen, Kesseler    01551 -01551                % 05351 RGTR--
+200901020 Strassen, Benelux     01553 -01553                % 05351 RGTR--
+200403021 Belair, Wandmillen    01557 -01557                % 05351 RGTR--
+200405045 Centre, Stäreplaz /   01559                       % 05351 RGTR--

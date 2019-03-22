@@ -1,0 +1,162 @@
+*F 03 2
+*Z 00589 CFLBUS                                             % 00589 CFLBUS
+*L 113      200419021 170501016  01403  01458               % 00589 CFLBUS
+*A vm 200419021 170501016 000035  01403  01458              % 00589 CFLBUS
+*A vu 200419021 170501016 000035  01403  01458              % 00589 CFLBUS
+*A ad 200419021 170501016 000035  01403  01458              % 00589 CFLBUS
+*R 2 170501016 200419021 170501016  01403  01458            % 00589 CFLBUS
+*G RGB 200419021 170501016  01403  01458                    % 00589 CFLBUS
+*A VE 200419021 170501016 000035  01403  01458              % 00589 CFLBUS
+*I FD 200419021 170501016        0002413  01403  01458      % 00589 CFLBUS
+200419021 Limpertsberg, L.T.C.         01403                % 00589 CFLBUS
+200419025 Limpertsberg, Lycée   01407  01407                % 00589 CFLBUS
+200419009 Limpertsberg, Bd.P.   01410  01410                % 00589 CFLBUS
+200410003 Eich, Eecher Plaz     01413  01413                % 00589 CFLBUS
+200409005 Dommeldange, Contour  01414  01414                % 00589 CFLBUS
+200409006 Dommeldange, Dauschb  01415  01415                % 00589 CFLBUS
+200509001 Waldhaff              01418  01418                % 00589 CFLBUS
+180508001 Gonderange, Am Duerf  01423  01423                % 00589 CFLBUS
+180508003 Gonderange, Mierchen  01424  01424                % 00589 CFLBUS
+180511009 Junglinster, Op der   01425  01425                % 00589 CFLBUS
+180511005 Junglinster, Um Lei   01426  01426                % 00589 CFLBUS
+180511002 Junglinster, Op der   01427  01427                % 00589 CFLBUS
+180511007 Junglinster, Um Reil  01429  01429                % 00589 CFLBUS
+180509002 Graulinster, Haaptst  01433  01433                % 00589 CFLBUS
+170205001 Rippig, Rippigerkopp  01435  01435                % 00589 CFLBUS
+170201005 Altrier, Kreizenhéic  01436  01436                % 00589 CFLBUS
+170201002 Altrier, Heeschbrege  01436  01436                % 00589 CFLBUS
+170204001 Hersberg/Heeschbreg   01437  01437                % 00589 CFLBUS
+170402001 Consdorf, Gare        01440  01440                % 00589 CFLBUS
+170402005 Consdorf, Post        01441  01441                % 00589 CFLBUS
+170402002 Consdorf, Haenricht   01443  01443                % 00589 CFLBUS
+170402003 Consdorf, Kraizstroo  01443  01443                % 00589 CFLBUS
+170402004 Consdorf, Melickshec  01444  01444                % 00589 CFLBUS
+170305001 Bif. Kalkesbach       01446  01446                % 00589 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01448  01448                % 00589 CFLBUS
+170301004 Berdorf, Duerfplaz    01449  01449                % 00589 CFLBUS
+170301002 Berdorf, Hotel Herbe  01450  01450                % 00589 CFLBUS
+170301003 Berdorf, Hôtel Perek  01451  01451                % 00589 CFLBUS
+170501002 Echternach, Bel Air   01454  01454                % 00589 CFLBUS
+170501007 Echternach, Fielsmil  01455  01455                % 00589 CFLBUS
+170501016 Echternach, Gare Cen  01458                       % 00589 CFLBUS
+*Z 00590 CFLBUS                                             % 00590 CFLBUS
+*L 113      200419021 170501016  01403  01458               % 00590 CFLBUS
+*A bi 200419021 170501016 000034  01403  01458              % 00590 CFLBUS
+*A vm 200419021 170501016 000034  01403  01458              % 00590 CFLBUS
+*A vu 200419021 170501016 000034  01403  01458              % 00590 CFLBUS
+*A ad 200419021 170501016 000034  01403  01458              % 00590 CFLBUS
+*R 2 170501016 200419021 170501016  01403  01458            % 00590 CFLBUS
+*G RGB 200419021 170501016  01403  01458                    % 00590 CFLBUS
+*A VE 200419021 170501016 000034  01403  01458              % 00590 CFLBUS
+*I FD 200419021 170501016        0002413  01403  01458      % 00590 CFLBUS
+200419021 Limpertsberg, L.T.C.         01403                % 00590 CFLBUS
+200419025 Limpertsberg, Lycée   01407  01407                % 00590 CFLBUS
+200419009 Limpertsberg, Bd.P.   01410  01410                % 00590 CFLBUS
+200410003 Eich, Eecher Plaz     01413  01413                % 00590 CFLBUS
+200409005 Dommeldange, Contour  01414  01414                % 00590 CFLBUS
+200409006 Dommeldange, Dauschb  01415  01415                % 00590 CFLBUS
+200509001 Waldhaff              01418  01418                % 00590 CFLBUS
+180508001 Gonderange, Am Duerf  01423  01423                % 00590 CFLBUS
+180508003 Gonderange, Mierchen  01424  01424                % 00590 CFLBUS
+180511009 Junglinster, Op der   01425  01425                % 00590 CFLBUS
+180511005 Junglinster, Um Lei   01426  01426                % 00590 CFLBUS
+180511002 Junglinster, Op der   01427  01427                % 00590 CFLBUS
+180511007 Junglinster, Um Reil  01429  01429                % 00590 CFLBUS
+180509002 Graulinster, Haaptst  01433  01433                % 00590 CFLBUS
+170205001 Rippig, Rippigerkopp  01435  01435                % 00590 CFLBUS
+170201005 Altrier, Kreizenhéic  01436  01436                % 00590 CFLBUS
+170201002 Altrier, Heeschbrege  01436  01436                % 00590 CFLBUS
+170204001 Hersberg/Heeschbreg   01437  01437                % 00590 CFLBUS
+170402001 Consdorf, Gare        01440  01440                % 00590 CFLBUS
+170402005 Consdorf, Post        01441  01441                % 00590 CFLBUS
+170402002 Consdorf, Haenricht   01443  01443                % 00590 CFLBUS
+170402003 Consdorf, Kraizstroo  01443  01443                % 00590 CFLBUS
+170402004 Consdorf, Melickshec  01444  01444                % 00590 CFLBUS
+170305001 Bif. Kalkesbach       01446  01446                % 00590 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01448  01448                % 00590 CFLBUS
+170301004 Berdorf, Duerfplaz    01449  01449                % 00590 CFLBUS
+170301002 Berdorf, Hotel Herbe  01450  01450                % 00590 CFLBUS
+170301003 Berdorf, Hôtel Perek  01451  01451                % 00590 CFLBUS
+170501002 Echternach, Bel Air   01454  01454                % 00590 CFLBUS
+170501007 Echternach, Fielsmil  01455  01455                % 00590 CFLBUS
+170501016 Echternach, Gare Cen  01458                       % 00590 CFLBUS
+*Z 00591 CFLBUS                                             % 00591 CFLBUS
+*L 113      200419021 170501016  01403  01458               % 00591 CFLBUS
+*A vm 200419021 170501016 000025  01403  01458              % 00591 CFLBUS
+*A vu 200419021 170501016 000025  01403  01458              % 00591 CFLBUS
+*A ad 200419021 170501016 000025  01403  01458              % 00591 CFLBUS
+*R 2 170501016 200419021 170501016  01403  01458            % 00591 CFLBUS
+*G RGB 200419021 170501016  01403  01458                    % 00591 CFLBUS
+*A VE 200419021 170501016 000025  01403  01458              % 00591 CFLBUS
+*I FD 200419021 170501016        0002413  01403  01458      % 00591 CFLBUS
+200419021 Limpertsberg, L.T.C.         01403                % 00591 CFLBUS
+200419025 Limpertsberg, Lycée   01407  01407                % 00591 CFLBUS
+200419009 Limpertsberg, Bd.P.   01410  01410                % 00591 CFLBUS
+200410003 Eich, Eecher Plaz     01413  01413                % 00591 CFLBUS
+200409005 Dommeldange, Contour  01414  01414                % 00591 CFLBUS
+200409006 Dommeldange, Dauschb  01415  01415                % 00591 CFLBUS
+200509001 Waldhaff              01418  01418                % 00591 CFLBUS
+180508001 Gonderange, Am Duerf  01423  01423                % 00591 CFLBUS
+180508003 Gonderange, Mierchen  01424  01424                % 00591 CFLBUS
+180511009 Junglinster, Op der   01425  01425                % 00591 CFLBUS
+180511005 Junglinster, Um Lei   01426  01426                % 00591 CFLBUS
+180511002 Junglinster, Op der   01427  01427                % 00591 CFLBUS
+180511007 Junglinster, Um Reil  01429  01429                % 00591 CFLBUS
+180509002 Graulinster, Haaptst  01433  01433                % 00591 CFLBUS
+170205001 Rippig, Rippigerkopp  01435  01435                % 00591 CFLBUS
+170201005 Altrier, Kreizenhéic  01436  01436                % 00591 CFLBUS
+170201002 Altrier, Heeschbrege  01436  01436                % 00591 CFLBUS
+170204001 Hersberg/Heeschbreg   01437  01437                % 00591 CFLBUS
+170402001 Consdorf, Gare        01440  01440                % 00591 CFLBUS
+170402005 Consdorf, Post        01441  01441                % 00591 CFLBUS
+170402002 Consdorf, Haenricht   01443  01443                % 00591 CFLBUS
+170402003 Consdorf, Kraizstroo  01443  01443                % 00591 CFLBUS
+170402004 Consdorf, Melickshec  01444  01444                % 00591 CFLBUS
+170305001 Bif. Kalkesbach       01446  01446                % 00591 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01448  01448                % 00591 CFLBUS
+170301004 Berdorf, Duerfplaz    01449  01449                % 00591 CFLBUS
+170301002 Berdorf, Hotel Herbe  01450  01450                % 00591 CFLBUS
+170301003 Berdorf, Hôtel Perek  01451  01451                % 00591 CFLBUS
+170501002 Echternach, Bel Air   01454  01454                % 00591 CFLBUS
+170501007 Echternach, Fielsmil  01455  01455                % 00591 CFLBUS
+170501016 Echternach, Gare Cen  01458                       % 00591 CFLBUS
+*Z 00592 CFLBUS                                             % 00592 CFLBUS
+*L 113      200419021 170501016  01402  01458               % 00592 CFLBUS
+*A vm 200419021 170501016 000032  01402  01458              % 00592 CFLBUS
+*A vu 200419021 170501016 000032  01402  01458              % 00592 CFLBUS
+*A ad 200419021 170501016 000032  01402  01458              % 00592 CFLBUS
+*R 2 170501016 200419021 170501016  01402  01458            % 00592 CFLBUS
+*G RGB 200419021 170501016  01402  01458                    % 00592 CFLBUS
+*A VE 200419021 170501016 000032  01402  01458              % 00592 CFLBUS
+*I FD 200419021 170501016        0002413  01402  01458      % 00592 CFLBUS
+200419021 Limpertsberg, L.T.C.         01402                % 00592 CFLBUS
+200419025 Limpertsberg, Lycée   01406  01406                % 00592 CFLBUS
+200419009 Limpertsberg, Bd.P.   01409  01409                % 00592 CFLBUS
+200410003 Eich, Eecher Plaz     01412  01412                % 00592 CFLBUS
+200409005 Dommeldange, Contour  01413  01413                % 00592 CFLBUS
+200409006 Dommeldange, Dauschb  01415  01415                % 00592 CFLBUS
+200509001 Waldhaff              01418  01418                % 00592 CFLBUS
+180508001 Gonderange, Am Duerf  01423  01423                % 00592 CFLBUS
+180508003 Gonderange, Mierchen  01424  01424                % 00592 CFLBUS
+180511009 Junglinster, Op der   01425  01425                % 00592 CFLBUS
+180511005 Junglinster, Um Lei   01425  01425                % 00592 CFLBUS
+180511002 Junglinster, Op der   01426  01426                % 00592 CFLBUS
+180511007 Junglinster, Um Reil  01429  01429                % 00592 CFLBUS
+180509002 Graulinster, Haaptst  01433  01433                % 00592 CFLBUS
+170205001 Rippig, Rippigerkopp  01434  01434                % 00592 CFLBUS
+170201005 Altrier, Kreizenhéic  01435  01435                % 00592 CFLBUS
+170201002 Altrier, Heeschbrege  01436  01436                % 00592 CFLBUS
+170204001 Hersberg/Heeschbreg   01437  01437                % 00592 CFLBUS
+170402001 Consdorf, Gare        01440  01440                % 00592 CFLBUS
+170402005 Consdorf, Post        01441  01441                % 00592 CFLBUS
+170402002 Consdorf, Haenricht   01442  01442                % 00592 CFLBUS
+170402003 Consdorf, Kraizstroo  01443  01443                % 00592 CFLBUS
+170402004 Consdorf, Melickshec  01444  01444                % 00592 CFLBUS
+170305001 Bif. Kalkesbach       01446  01446                % 00592 CFLBUS
+170301001 Berdorf, Bif. Heisbi  01448  01448                % 00592 CFLBUS
+170301004 Berdorf, Duerfplaz    01449  01449                % 00592 CFLBUS
+170301002 Berdorf, Hotel Herbe  01449  01449                % 00592 CFLBUS
+170301003 Berdorf, Hôtel Perek  01450  01450                % 00592 CFLBUS
+170501002 Echternach, Bel Air   01453  01453                % 00592 CFLBUS
+170501007 Echternach, Fielsmil  01454  01454                % 00592 CFLBUS
+170501016 Echternach, Gare Cen  01458                       % 00592 CFLBUS

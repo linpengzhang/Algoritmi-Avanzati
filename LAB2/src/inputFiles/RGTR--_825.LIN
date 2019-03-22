@@ -1,0 +1,229 @@
+*F 03 2
+*Z 02171 RGTR--                                             % 02171 RGTR--
+*L 825      120301002 160102002  00440  00529               % 02171 RGTR--
+*A da 120301002 160102002 000006  00440  00529              % 02171 RGTR--
+*A hi 120301002 160102002 000006  00440  00529              % 02171 RGTR--
+*A hj 120301002 160102002 000006  00440  00529              % 02171 RGTR--
+*A HB 120301002 160102002 000006  00440  00529              % 02171 RGTR--
+*R 1 160102002 120301002 160102002  00440  00529            % 02171 RGTR--
+*G RGB 120301002 160102002  00440  00529                    % 02171 RGTR--
+*A VE 120301002 160102002 000006  00440  00529              % 02171 RGTR--
+*I FD 120301002 160102002        0002811  00440  00529      % 02171 RGTR--
+120301002 Erpeldange/Eschweile         00440                % 02171 RGTR--
+120902001 Weidingen, Erpeldang  00441  00441                % 02171 RGTR--
+120903040 Weidingen, Wegdicher  00441  00441                % 02171 RGTR--
+120903041 Wiltz, Wéinebeerig    00442  00442                % 02171 RGTR--
+120903021 Wiltz, Lann           00443  00443                % 02171 RGTR--
+120903039 Wiltz, Schwemm        00445  00445                % 02171 RGTR--
+120903011 Wiltz, Clinique       00447  00447                % 02171 RGTR--
+120903006 Wiltz, Brandbau       00448  00448                % 02171 RGTR--
+120903005 Wiltz, Belle Vue      00449  00449                % 02171 RGTR--
+120903003 Wiltz, Batzendelt     00450  00450                % 02171 RGTR--
+120402002 Büderscheid, Village  00455  00455                % 02171 RGTR--
+120503001 Heischtergronn, Beim  00458  00458                % 02171 RGTR--
+120501002 Eschdorf, Mairie      00503  00503                % 02171 RGTR--
+120501001 Eschdorf, Braas       00504  00504                % 02171 RGTR--
+120501003 Eschdorf, Quatre Ven  00504  00504                % 02171 RGTR--
+140801005 Niederfeulen, Atelie  00512  00512                % 02171 RGTR--
+140801001 Niederfeulen, Belle   00513  00513                % 02171 RGTR--
+140801002 Niederfeulen, Faubou  00514  00514                % 02171 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00518  00518                % 02171 RGTR--
+140701026 Ettelbruck, Rond Poi  00519  00519                % 02171 RGTR--
+140701018 Ettelbruck, H.v.Land  00520  00520                % 02171 RGTR--
+160301002 Colmar, Centre        00524  00524                % 02171 RGTR--
+160301007 Colmar, Usines        00525  00525                % 02171 RGTR--
+160301001 Colmar, C. Administr  00526  00526                % 02171 RGTR--
+160301006 Colmar, Raedelsboesc  00527  00527                % 02171 RGTR--
+160102001 Roost, Mold Plant     00528  00528                % 02171 RGTR--
+160102002 Rouscht               00529                       % 02171 RGTR--
+*Z 02172 RGTR--                                             % 02172 RGTR--
+*L 825      120301002 160102002  01240  01329               % 02172 RGTR--
+*A da 120301002 160102002 000006  01240  01329              % 02172 RGTR--
+*A hi 120301002 160102002 000006  01240  01329              % 02172 RGTR--
+*A hj 120301002 160102002 000006  01240  01329              % 02172 RGTR--
+*A HB 120301002 160102002 000006  01240  01329              % 02172 RGTR--
+*R 1 160102002 120301002 160102002  01240  01329            % 02172 RGTR--
+*G RGB 120301002 160102002  01240  01329                    % 02172 RGTR--
+*A VE 120301002 160102002 000006  01240  01329              % 02172 RGTR--
+*I FD 120301002 160102002        0001277  01240  01329      % 02172 RGTR--
+120301002 Erpeldange/Eschweile         01240                % 02172 RGTR--
+120902001 Weidingen, Erpeldang  01241  01241                % 02172 RGTR--
+120903040 Weidingen, Wegdicher  01241  01241                % 02172 RGTR--
+120903041 Wiltz, Wéinebeerig    01242  01242                % 02172 RGTR--
+120903021 Wiltz, Lann           01243  01243                % 02172 RGTR--
+120903039 Wiltz, Schwemm        01245  01245                % 02172 RGTR--
+120903011 Wiltz, Clinique       01247  01247                % 02172 RGTR--
+120903006 Wiltz, Brandbau       01248  01248                % 02172 RGTR--
+120903005 Wiltz, Belle Vue      01249  01249                % 02172 RGTR--
+120903003 Wiltz, Batzendelt     01250  01250                % 02172 RGTR--
+120402002 Büderscheid, Village  01255  01255                % 02172 RGTR--
+120503001 Heischtergronn, Beim  01258  01258                % 02172 RGTR--
+120501002 Eschdorf, Mairie      01303  01303                % 02172 RGTR--
+120501001 Eschdorf, Braas       01304  01304                % 02172 RGTR--
+120501003 Eschdorf, Quatre Ven  01304  01304                % 02172 RGTR--
+140801005 Niederfeulen, Atelie  01312  01312                % 02172 RGTR--
+140801001 Niederfeulen, Belle   01313  01313                % 02172 RGTR--
+140801002 Niederfeulen, Faubou  01314  01314                % 02172 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01318  01318                % 02172 RGTR--
+140701026 Ettelbruck, Rond Poi  01319  01319                % 02172 RGTR--
+140701018 Ettelbruck, H.v.Land  01320  01320                % 02172 RGTR--
+160301002 Colmar, Centre        01324  01324                % 02172 RGTR--
+160301007 Colmar, Usines        01325  01325                % 02172 RGTR--
+160301001 Colmar, C. Administr  01326  01326                % 02172 RGTR--
+160301006 Colmar, Raedelsboesc  01327  01327                % 02172 RGTR--
+160102001 Roost, Mold Plant     01328  01328                % 02172 RGTR--
+160102002 Rouscht               01329                       % 02172 RGTR--
+*Z 02173 RGTR--                                             % 02173 RGTR--
+*L 825      120301002 160102002  02040  02129               % 02173 RGTR--
+*A da 120301002 160102002 000006  02040  02129              % 02173 RGTR--
+*A hi 120301002 160102002 000006  02040  02129              % 02173 RGTR--
+*A hj 120301002 160102002 000006  02040  02129              % 02173 RGTR--
+*A HB 120301002 160102002 000006  02040  02129              % 02173 RGTR--
+*R 1 160102002 120301002 160102002  02040  02129            % 02173 RGTR--
+*G RGB 120301002 160102002  02040  02129                    % 02173 RGTR--
+*A VE 120301002 160102002 000006  02040  02129              % 02173 RGTR--
+*I FD 120301002 160102002        0002812  02040  02129      % 02173 RGTR--
+120301002 Erpeldange/Eschweile         02040                % 02173 RGTR--
+120902001 Weidingen, Erpeldang  02041  02041                % 02173 RGTR--
+120903040 Weidingen, Wegdicher  02041  02041                % 02173 RGTR--
+120903041 Wiltz, Wéinebeerig    02042  02042                % 02173 RGTR--
+120903021 Wiltz, Lann           02043  02043                % 02173 RGTR--
+120903039 Wiltz, Schwemm        02045  02045                % 02173 RGTR--
+120903011 Wiltz, Clinique       02047  02047                % 02173 RGTR--
+120903006 Wiltz, Brandbau       02048  02048                % 02173 RGTR--
+120903005 Wiltz, Belle Vue      02049  02049                % 02173 RGTR--
+120903003 Wiltz, Batzendelt     02050  02050                % 02173 RGTR--
+120402002 Büderscheid, Village  02055  02055                % 02173 RGTR--
+120503001 Heischtergronn, Beim  02058  02058                % 02173 RGTR--
+120501002 Eschdorf, Mairie      02103  02103                % 02173 RGTR--
+120501001 Eschdorf, Braas       02104  02104                % 02173 RGTR--
+120501003 Eschdorf, Quatre Ven  02104  02104                % 02173 RGTR--
+140801005 Niederfeulen, Atelie  02112  02112                % 02173 RGTR--
+140801001 Niederfeulen, Belle   02113  02113                % 02173 RGTR--
+140801002 Niederfeulen, Faubou  02114  02114                % 02173 RGTR--
+140701025 Ettelbruck, Pl.du Ma  02118  02118                % 02173 RGTR--
+140701026 Ettelbruck, Rond Poi  02119  02119                % 02173 RGTR--
+140701018 Ettelbruck, H.v.Land  02120  02120                % 02173 RGTR--
+160301002 Colmar, Centre        02124  02124                % 02173 RGTR--
+160301007 Colmar, Usines        02125  02125                % 02173 RGTR--
+160301001 Colmar, C. Administr  02126  02126                % 02173 RGTR--
+160301006 Colmar, Raedelsboesc  02127  02127                % 02173 RGTR--
+160102001 Roost, Mold Plant     02128  02128                % 02173 RGTR--
+160102002 Rouscht               02129                       % 02173 RGTR--
+*Z 02174 RGTR--                                             % 02174 RGTR--
+*L 825      160102002 120301002  01406  01503               % 02174 RGTR--
+*A da 160102002 120301002 000006  01406  01503              % 02174 RGTR--
+*A gz 160102002 120301002 000006  01406  01503              % 02174 RGTR--
+*A hj 160102002 120301002 000006  01406  01503              % 02174 RGTR--
+*A hk 160102002 120301002 000006  01406  01503              % 02174 RGTR--
+*R 2 120301002 160102002 120301002  01406  01503            % 02174 RGTR--
+*G RGB 160102002 120301002  01406  01503                    % 02174 RGTR--
+*A VE 160102002 120301002 000006  01406  01503              % 02174 RGTR--
+*I FD 160102002 120301002        0002126  01406  01503      % 02174 RGTR--
+160102002 Rouscht                      01406                % 02174 RGTR--
+160102001 Roost, Mold Plant     01408  01408                % 02174 RGTR--
+160301006 Colmar, Raedelsboesc  01408  01408                % 02174 RGTR--
+160301001 Colmar, C. Administr  01410  01410                % 02174 RGTR--
+160301007 Colmar, Usines        01410  01415                % 02174 RGTR--
+160301002 Colmar, Centre        01417  01417                % 02174 RGTR--
+140701018 Ettelbruck, H.v.Land  01421  01421                % 02174 RGTR--
+140701026 Ettelbruck, Rond Poi  01422  01422                % 02174 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01423  01423                % 02174 RGTR--
+140701009 Ettelbruck, Cité Pat  01425  01425                % 02174 RGTR--
+140701008 Ettelbruck, Cité Lop  01426  01426                % 02174 RGTR--
+140801002 Niederfeulen, Faubou  01428  01428                % 02174 RGTR--
+140801003 Niederfeulen, Mairie  01429  01429                % 02174 RGTR--
+140801005 Niederfeulen, Atelie  01430  01430                % 02174 RGTR--
+120501003 Eschdorf, Quatre Ven  01437  01437                % 02174 RGTR--
+120501001 Eschdorf, Braas       01438  01438                % 02174 RGTR--
+120501002 Eschdorf, Mairie      01438  01438                % 02174 RGTR--
+120503001 Heischtergronn, Beim  01443  01443                % 02174 RGTR--
+120402002 Büderscheid, Village  01447  01447                % 02174 RGTR--
+120903003 Wiltz, Batzendelt     01451  01451                % 02174 RGTR--
+120903005 Wiltz, Belle Vue      01452  01452                % 02174 RGTR--
+120903006 Wiltz, Brandbau       01454  01454                % 02174 RGTR--
+120903011 Wiltz, Clinique       01455  01455                % 02174 RGTR--
+120903039 Wiltz, Schwemm        01457  01457                % 02174 RGTR--
+120903021 Wiltz, Lann           01459  01459                % 02174 RGTR--
+120903041 Wiltz, Wéinebeerig    01500  01500                % 02174 RGTR--
+120903040 Weidingen, Wegdicher  01501  01501                % 02174 RGTR--
+120902001 Weidingen, Erpeldang  01502  01502                % 02174 RGTR--
+120301002 Erpeldange/Eschweile  01503                       % 02174 RGTR--
+*Z 02175 RGTR--                                             % 02175 RGTR--
+*L 825      160102002 120301002  02206  02303               % 02175 RGTR--
+*A da 160102002 120301002 000006  02206  02303              % 02175 RGTR--
+*A gz 160102002 120301002 000006  02206  02303              % 02175 RGTR--
+*A hj 160102002 120301002 000006  02206  02303              % 02175 RGTR--
+*A hk 160102002 120301002 000006  02206  02303              % 02175 RGTR--
+*R 2 120301002 160102002 120301002  02206  02303            % 02175 RGTR--
+*G RGB 160102002 120301002  02206  02303                    % 02175 RGTR--
+*A VE 160102002 120301002 000006  02206  02303              % 02175 RGTR--
+*I FD 160102002 120301002        0002813  02206  02303      % 02175 RGTR--
+160102002 Rouscht                      02206                % 02175 RGTR--
+160102001 Roost, Mold Plant     02208  02208                % 02175 RGTR--
+160301006 Colmar, Raedelsboesc  02208  02208                % 02175 RGTR--
+160301001 Colmar, C. Administr  02210  02210                % 02175 RGTR--
+160301007 Colmar, Usines        02210  02215                % 02175 RGTR--
+160301002 Colmar, Centre        02217  02217                % 02175 RGTR--
+140701018 Ettelbruck, H.v.Land  02221  02221                % 02175 RGTR--
+140701026 Ettelbruck, Rond Poi  02222  02222                % 02175 RGTR--
+140701025 Ettelbruck, Pl.du Ma  02223  02223                % 02175 RGTR--
+140701009 Ettelbruck, Cité Pat  02225  02225                % 02175 RGTR--
+140701008 Ettelbruck, Cité Lop  02226  02226                % 02175 RGTR--
+140801002 Niederfeulen, Faubou  02228  02228                % 02175 RGTR--
+140801003 Niederfeulen, Mairie  02229  02229                % 02175 RGTR--
+140801005 Niederfeulen, Atelie  02230  02230                % 02175 RGTR--
+120501003 Eschdorf, Quatre Ven  02237  02237                % 02175 RGTR--
+120501001 Eschdorf, Braas       02238  02238                % 02175 RGTR--
+120501002 Eschdorf, Mairie      02238  02238                % 02175 RGTR--
+120503001 Heischtergronn, Beim  02243  02243                % 02175 RGTR--
+120402002 Büderscheid, Village  02247  02247                % 02175 RGTR--
+120903003 Wiltz, Batzendelt     02251  02251                % 02175 RGTR--
+120903005 Wiltz, Belle Vue      02252  02252                % 02175 RGTR--
+120903006 Wiltz, Brandbau       02254  02254                % 02175 RGTR--
+120903011 Wiltz, Clinique       02255  02255                % 02175 RGTR--
+120903039 Wiltz, Schwemm        02257  02257                % 02175 RGTR--
+120903021 Wiltz, Lann           02259  02259                % 02175 RGTR--
+120903041 Wiltz, Wéinebeerig    02300  02300                % 02175 RGTR--
+120903040 Weidingen, Wegdicher  02301  02301                % 02175 RGTR--
+120902001 Weidingen, Erpeldang  02302  02302                % 02175 RGTR--
+120301002 Erpeldange/Eschweile  02303                       % 02175 RGTR--
+*Z 02176 RGTR--                                             % 02176 RGTR--
+*L 825      160102002 120301002  00606  00703               % 02176 RGTR--
+*A da 160102002 120301002 000036  00606  00703              % 02176 RGTR--
+*A gz 160102002 120301002 000036  00606  00703              % 02176 RGTR--
+*A hj 160102002 120301002 000036  00606  00703              % 02176 RGTR--
+*A hk 160102002 120301002 000036  00606  00703              % 02176 RGTR--
+*R 2 120301002 160102002 120301002  00606  00703            % 02176 RGTR--
+*G RGB 160102002 120301002  00606  00703                    % 02176 RGTR--
+*A VE 160102002 120301002 000036  00606  00703              % 02176 RGTR--
+*I FD 160102002 120301002        0002814  00606  00703      % 02176 RGTR--
+160102002 Rouscht                      00606                % 02176 RGTR--
+160102001 Roost, Mold Plant     00608  00608                % 02176 RGTR--
+160301006 Colmar, Raedelsboesc  00608  00608                % 02176 RGTR--
+160301001 Colmar, C. Administr  00610  00610                % 02176 RGTR--
+160301007 Colmar, Usines        00610  00615                % 02176 RGTR--
+160301002 Colmar, Centre        00617  00617                % 02176 RGTR--
+140701018 Ettelbruck, H.v.Land  00621  00621                % 02176 RGTR--
+140701026 Ettelbruck, Rond Poi  00622  00622                % 02176 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00623  00623                % 02176 RGTR--
+140701009 Ettelbruck, Cité Pat  00625  00625                % 02176 RGTR--
+140701008 Ettelbruck, Cité Lop  00626  00626                % 02176 RGTR--
+140801002 Niederfeulen, Faubou  00628  00628                % 02176 RGTR--
+140801003 Niederfeulen, Mairie  00629  00629                % 02176 RGTR--
+140801005 Niederfeulen, Atelie  00630  00630                % 02176 RGTR--
+120501003 Eschdorf, Quatre Ven  00637  00637                % 02176 RGTR--
+120501001 Eschdorf, Braas       00638  00638                % 02176 RGTR--
+120501002 Eschdorf, Mairie      00638  00638                % 02176 RGTR--
+120503001 Heischtergronn, Beim  00643  00643                % 02176 RGTR--
+120402002 Büderscheid, Village  00647  00647                % 02176 RGTR--
+120903003 Wiltz, Batzendelt     00651  00651                % 02176 RGTR--
+120903005 Wiltz, Belle Vue      00652  00652                % 02176 RGTR--
+120903006 Wiltz, Brandbau       00654  00654                % 02176 RGTR--
+120903011 Wiltz, Clinique       00655  00655                % 02176 RGTR--
+120903039 Wiltz, Schwemm        00657  00657                % 02176 RGTR--
+120903021 Wiltz, Lann           00659  00659                % 02176 RGTR--
+120903041 Wiltz, Wéinebeerig    00700  00700                % 02176 RGTR--
+120903040 Weidingen, Wegdicher  00701  00701                % 02176 RGTR--
+120902001 Weidingen, Erpeldang  00702  00702                % 02176 RGTR--
+120301002 Erpeldange/Eschweile  00703                       % 02176 RGTR--

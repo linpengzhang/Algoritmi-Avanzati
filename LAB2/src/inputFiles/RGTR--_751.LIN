@@ -1,0 +1,172 @@
+*F 03 2
+*Z 09003 RGTR--                                             % 09003 RGTR--
+*L 751      220903008 200801009  00505  00550               % 09003 RGTR--
+*A as 220903008 200801009 000016  00505  00550              % 09003 RGTR--
+*A hh 220903008 200801009 000016  00505  00550              % 09003 RGTR--
+*R 1 200801009 220903008 200801009  00505  00550            % 09003 RGTR--
+*G RGB 220903008 200801009  00505  00550                    % 09003 RGTR--
+*A VE 220903008 200801009 000016  00505  00550              % 09003 RGTR--
+*I FD 220903008 200801009        0003371  00505  00550      % 09003 RGTR--
+220903008 Rodange, Gare                00505                % 09003 RGTR--
+220902013 Pétange, Maartplaz    00508  00508                % 09003 RGTR--
+190101018 Bascharage, R.P. And  00510  00510                % 09003 RGTR--
+190101007 Bascharage, Treff/Op  00511  00511                % 09003 RGTR--
+190101006 Bascharage, Brasseri  00512  00512                % 09003 RGTR--
+190303001 Schouweiler, Bei der  00517  00517                % 09003 RGTR--
+190304003 Sprinkange, Um Kierk  00518  00518                % 09003 RGTR--
+190302002 Dippach, Bei der Kap  00519  00519                % 09003 RGTR--
+190302003 Dippëcherbierg        00520  00520                % 09003 RGTR--
+200102004 Helfenterbréck        00528  00528                % 09003 RGTR--
+200420010 Merl, Op der Millen   00529  00529                % 09003 RGTR--
+200403013 Belair, Place de Fra  00532  00532                % 09003 RGTR--
+200425012 Rollingergrund, Vill  00536  00536                % 09003 RGTR--
+200410003 Eich, Eecher Plaz     00538  00538                % 09003 RGTR--
+200410004 Eich, Klinik          00539  00539                % 09003 RGTR--
+200409007 Dommeldange, Emile M  00540  00540                % 09003 RGTR--
+200409001 Dommeldange, Arcelor  00542  00542                % 09003 RGTR--
+200402001 Beggen, Bastogne      00544  00544                % 09003 RGTR--
+200402007 Beggen, Rue du Pont   00544  00544                % 09003 RGTR--
+201001002 Bereldange, Police    00545  00545                % 09003 RGTR--
+200801009 Steinsel, Zone Indus  00550                       % 09003 RGTR--
+*Z 09004 RGTR--                                             % 09004 RGTR--
+*L 751      220903008 200801009  02105  02150               % 09004 RGTR--
+*A as 220903008 200801009 000016  02105  02150              % 09004 RGTR--
+*A hh 220903008 200801009 000016  02105  02150              % 09004 RGTR--
+*R 1 200801009 220903008 200801009  02105  02150            % 09004 RGTR--
+*G RGB 220903008 200801009  02105  02150                    % 09004 RGTR--
+*A VE 220903008 200801009 000016  02105  02150              % 09004 RGTR--
+*I FD 220903008 200801009        0002114  02105  02150      % 09004 RGTR--
+220903008 Rodange, Gare                02105                % 09004 RGTR--
+220902013 Pétange, Maartplaz    02108  02108                % 09004 RGTR--
+190101018 Bascharage, R.P. And  02110  02110                % 09004 RGTR--
+190101007 Bascharage, Treff/Op  02111  02111                % 09004 RGTR--
+190101006 Bascharage, Brasseri  02112  02112                % 09004 RGTR--
+190303001 Schouweiler, Bei der  02117  02117                % 09004 RGTR--
+190304003 Sprinkange, Um Kierk  02118  02118                % 09004 RGTR--
+190302002 Dippach, Bei der Kap  02119  02119                % 09004 RGTR--
+190302003 Dippëcherbierg        02120  02120                % 09004 RGTR--
+200102004 Helfenterbréck        02128  02128                % 09004 RGTR--
+200420010 Merl, Op der Millen   02129  02129                % 09004 RGTR--
+200403013 Belair, Place de Fra  02132  02132                % 09004 RGTR--
+200425012 Rollingergrund, Vill  02136  02136                % 09004 RGTR--
+200410003 Eich, Eecher Plaz     02138  02138                % 09004 RGTR--
+200410004 Eich, Klinik          02139  02139                % 09004 RGTR--
+200409007 Dommeldange, Emile M  02140  02140                % 09004 RGTR--
+200409001 Dommeldange, Arcelor  02142  02142                % 09004 RGTR--
+200402001 Beggen, Bastogne      02144  02144                % 09004 RGTR--
+200402007 Beggen, Rue du Pont   02144  02144                % 09004 RGTR--
+201001002 Bereldange, Police    02145  02145                % 09004 RGTR--
+200801009 Steinsel, Zone Indus  02150                       % 09004 RGTR--
+*Z 09005 RGTR--                                             % 09005 RGTR--
+*L 751      220903008 200801009  01250  01343               % 09005 RGTR--
+*A as 220903008 200801009 000016  01250  01343              % 09005 RGTR--
+*A hh 220903008 200801009 000016  01250  01343              % 09005 RGTR--
+*R 1 200801009 220903008 200801009  01250  01343            % 09005 RGTR--
+*G RGB 220903008 200801009  01250  01343                    % 09005 RGTR--
+*A VE 220903008 200801009 000016  01250  01343              % 09005 RGTR--
+*I FD 220903008 200801009        0001885  01250  01343      % 09005 RGTR--
+220903008 Rodange, Gare                01250                % 09005 RGTR--
+220902013 Pétange, Maartplaz    01254  01254                % 09005 RGTR--
+190101018 Bascharage, R.P. And  01256  01256                % 09005 RGTR--
+190101007 Bascharage, Treff/Op  01258  01258                % 09005 RGTR--
+190101006 Bascharage, Brasseri  01300  01300                % 09005 RGTR--
+190303001 Schouweiler, Bei der  01305  01305                % 09005 RGTR--
+190304003 Sprinkange, Um Kierk  01306  01306                % 09005 RGTR--
+190302002 Dippach, Bei der Kap  01307  01307                % 09005 RGTR--
+190302003 Dippëcherbierg        01308  01308                % 09005 RGTR--
+200102004 Helfenterbréck        01316  01316                % 09005 RGTR--
+200420010 Merl, Op der Millen   01318  01318                % 09005 RGTR--
+200403013 Belair, Place de Fra  01321  01321                % 09005 RGTR--
+200425012 Rollingergrund, Vill  01326  01326                % 09005 RGTR--
+200410003 Eich, Eecher Plaz     01328  01328                % 09005 RGTR--
+200410004 Eich, Klinik          01329  01329                % 09005 RGTR--
+200409007 Dommeldange, Emile M  01330  01330                % 09005 RGTR--
+200409001 Dommeldange, Arcelor  01332  01332                % 09005 RGTR--
+200402001 Beggen, Bastogne      01334  01334                % 09005 RGTR--
+200402007 Beggen, Rue du Pont   01335  01335                % 09005 RGTR--
+201001002 Bereldange, Police    01337  01337                % 09005 RGTR--
+200801009 Steinsel, Zone Indus  01343                       % 09005 RGTR--
+*Z 09006 RGTR--                                             % 09006 RGTR--
+*L 751      200801009 220903008  02207  02257               % 09006 RGTR--
+*A as 200801009 220903008 000016  02207  02257              % 09006 RGTR--
+*A qn 200801009 220903008 000016  02207  02257              % 09006 RGTR--
+*R 2 220903008 200801009 220903008  02207  02257            % 09006 RGTR--
+*G RGB 200801009 220903008  02207  02257                    % 09006 RGTR--
+*A VE 200801009 220903008 000016  02207  02257              % 09006 RGTR--
+*I FD 200801009 220903008        0002131  02207  02257      % 09006 RGTR--
+200801009 Steinsel, Zone Indus         02207                % 09006 RGTR--
+201001002 Bereldange, Police    02210  02210                % 09006 RGTR--
+200402007 Beggen, Rue du Pont   02212  02212                % 09006 RGTR--
+200402001 Beggen, Bastogne      02213  02213                % 09006 RGTR--
+200409001 Dommeldange, Arcelor  02214  02214                % 09006 RGTR--
+200409007 Dommeldange, Emile M  02216  02216                % 09006 RGTR--
+200410004 Eich, Klinik          02217  02217                % 09006 RGTR--
+200410003 Eich, Eecher Plaz     02218  02218                % 09006 RGTR--
+200425012 Rollingergrund, Vill  02220  02220                % 09006 RGTR--
+200403013 Belair, Place de Fra  02227  02227                % 09006 RGTR--
+200420010 Merl, Op der Millen   02230  02230                % 09006 RGTR--
+200102003 Helfenterbréck, Plet  02232  02232                % 09006 RGTR--
+190302003 Dippëcherbierg        02240  02240                % 09006 RGTR--
+190302002 Dippach, Bei der Kap  02242  02242                % 09006 RGTR--
+190303009 Schouweiler, Bei der  02244  02244                % 09006 RGTR--
+190101006 Bascharage, Brasseri  02249  02249                % 09006 RGTR--
+190101007 Bascharage, Treff/Op  02250  02250                % 09006 RGTR--
+190101018 Bascharage, R.P. And  02252  02252                % 09006 RGTR--
+220902003 Pétange, Gemeng       02253  02253                % 09006 RGTR--
+220903008 Rodange, Gare         02257                       % 09006 RGTR--
+*Z 09007 RGTR--                                             % 09007 RGTR--
+*L 751      200801009 220903008  00607  00657               % 09007 RGTR--
+*A as 200801009 220903008 000168  00607  00657              % 09007 RGTR--
+*A qn 200801009 220903008 000168  00607  00657              % 09007 RGTR--
+*R 2 220903008 200801009 220903008  00607  00657            % 09007 RGTR--
+*G RGB 200801009 220903008  00607  00657                    % 09007 RGTR--
+*A VE 200801009 220903008 000168  00607  00657              % 09007 RGTR--
+*I FD 200801009 220903008        0002120  00607  00657      % 09007 RGTR--
+200801009 Steinsel, Zone Indus         00607                % 09007 RGTR--
+201001002 Bereldange, Police    00610  00610                % 09007 RGTR--
+200402007 Beggen, Rue du Pont   00612  00612                % 09007 RGTR--
+200402001 Beggen, Bastogne      00613  00613                % 09007 RGTR--
+200409001 Dommeldange, Arcelor  00614  00614                % 09007 RGTR--
+200409007 Dommeldange, Emile M  00616  00616                % 09007 RGTR--
+200410004 Eich, Klinik          00617  00617                % 09007 RGTR--
+200410003 Eich, Eecher Plaz     00618  00618                % 09007 RGTR--
+200425012 Rollingergrund, Vill  00620  00620                % 09007 RGTR--
+200403013 Belair, Place de Fra  00627  00627                % 09007 RGTR--
+200420010 Merl, Op der Millen   00630  00630                % 09007 RGTR--
+200102003 Helfenterbréck, Plet  00632  00632                % 09007 RGTR--
+190302003 Dippëcherbierg        00640  00640                % 09007 RGTR--
+190302002 Dippach, Bei der Kap  00642  00642                % 09007 RGTR--
+190303009 Schouweiler, Bei der  00644  00644                % 09007 RGTR--
+190101006 Bascharage, Brasseri  00649  00649                % 09007 RGTR--
+190101007 Bascharage, Treff/Op  00650  00650                % 09007 RGTR--
+190101018 Bascharage, R.P. And  00652  00652                % 09007 RGTR--
+220902003 Pétange, Gemeng       00653  00653                % 09007 RGTR--
+220903008 Rodange, Gare         00657                       % 09007 RGTR--
+*Z 09008 RGTR--                                             % 09008 RGTR--
+*L 751      200801009 220903008  01407  01502               % 09008 RGTR--
+*A as 200801009 220903008 000016  01407  01502              % 09008 RGTR--
+*A qn 200801009 220903008 000016  01407  01502              % 09008 RGTR--
+*R 2 220903008 200801009 220903008  01407  01502            % 09008 RGTR--
+*G RGB 200801009 220903008  01407  01502                    % 09008 RGTR--
+*A VE 200801009 220903008 000016  01407  01502              % 09008 RGTR--
+*I FD 200801009 220903008        0002126  01407  01502      % 09008 RGTR--
+200801009 Steinsel, Zone Indus         01407                % 09008 RGTR--
+201001002 Bereldange, Police    01411  01411                % 09008 RGTR--
+200402007 Beggen, Rue du Pont   01413  01413                % 09008 RGTR--
+200402001 Beggen, Bastogne      01413  01413                % 09008 RGTR--
+200409001 Dommeldange, Arcelor  01415  01415                % 09008 RGTR--
+200409007 Dommeldange, Emile M  01417  01417                % 09008 RGTR--
+200410004 Eich, Klinik          01418  01418                % 09008 RGTR--
+200410003 Eich, Eecher Plaz     01421  01421                % 09008 RGTR--
+200425012 Rollingergrund, Vill  01423  01423                % 09008 RGTR--
+200403013 Belair, Place de Fra  01430  01430                % 09008 RGTR--
+200420010 Merl, Op der Millen   01434  01434                % 09008 RGTR--
+200102003 Helfenterbréck, Plet  01436  01436                % 09008 RGTR--
+190302003 Dippëcherbierg        01444  01444                % 09008 RGTR--
+190302002 Dippach, Bei der Kap  01446  01446                % 09008 RGTR--
+190303009 Schouweiler, Bei der  01448  01448                % 09008 RGTR--
+190101006 Bascharage, Brasseri  01454  01454                % 09008 RGTR--
+190101007 Bascharage, Treff/Op  01455  01455                % 09008 RGTR--
+190101018 Bascharage, R.P. And  01457  01457                % 09008 RGTR--
+220902003 Pétange, Gemeng       01459  01459                % 09008 RGTR--
+220903008 Rodange, Gare         01502                       % 09008 RGTR--

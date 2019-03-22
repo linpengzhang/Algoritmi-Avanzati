@@ -1,4 +1,5 @@
 # Algoritmi Avanzati - Laboratorio 1
+## Resilienza di una rete di comunicazione
 
 To read the assignment's instructions see [TASK.md](TASK.md).
 

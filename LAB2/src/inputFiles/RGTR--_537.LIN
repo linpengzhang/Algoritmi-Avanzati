@@ -1,0 +1,1745 @@
+*F 03 2
+*Z 07625 RGTR--                                             % 07625 RGTR--
+*L 537      140701023 120903038  02210  02254               % 07625 RGTR--
+*A py 140701023 120903038 000006  02210  02254              % 07625 RGTR--
+*A pz 140701023 120903038 000006  02210  02254              % 07625 RGTR--
+*R 1 120903038 140701023 120903038  02210  02254            % 07625 RGTR--
+*G RGB 140701023 120903038  02210  02254                    % 07625 RGTR--
+*A VE 140701023 120903038 000006  02210  02254              % 07625 RGTR--
+*I FD 140701023 120903038        0002945  02210  02254      % 07625 RGTR--
+140701023 Ettelbruck, Lycée Te         02210                % 07625 RGTR--
+140701024 Ettelbruck, Pensionn  02211  02211                % 07625 RGTR--
+140701025 Ettelbruck, Pl.du Ma  02214  02214                % 07625 RGTR--
+140701009 Ettelbruck, Cité Pat  02216  02216                % 07625 RGTR--
+140701008 Ettelbruck, Cité Lop  02216  02216                % 07625 RGTR--
+140801002 Niederfeulen, Faubou  02219  02219                % 07625 RGTR--
+140801003 Niederfeulen, Mairie  02219  02219                % 07625 RGTR--
+140801005 Niederfeulen, Atelie  02220  02220                % 07625 RGTR--
+120502001 Heiderscheid, Fuusse  02224  02224                % 07625 RGTR--
+120502003 Heiderscheid, Zone C  02225  02225                % 07625 RGTR--
+120502002 Heiderscheid          02226  02226                % 07625 RGTR--
+120503001 Heischtergronn, Beim  02231  02231                % 07625 RGTR--
+120402002 Büderscheid, Village  02234  02234                % 07625 RGTR--
+120903003 Wiltz, Batzendelt     02239  02239                % 07625 RGTR--
+120903005 Wiltz, Belle Vue      02240  02240                % 07625 RGTR--
+120903006 Wiltz, Brandbau       02241  02241                % 07625 RGTR--
+120903011 Wiltz, Clinique       02242  02242                % 07625 RGTR--
+120903039 Wiltz, Schwemm        02245  02245                % 07625 RGTR--
+120903021 Wiltz, Lann           02246  02246                % 07625 RGTR--
+120903008 Wiltz, Pompjeesbau    02248  02248                % 07625 RGTR--
+120903025 Wiltz, Wanselerstro.  02248  02248                % 07625 RGTR--
+120903010 Wiltz, Follmillen     02249  02249                % 07625 RGTR--
+120903036 Wiltz, Salzbaach      02250  02250                % 07625 RGTR--
+120903001 Wiltz, Aalen Tipp     02251  02251                % 07625 RGTR--
+120903038 Wiltz, Schumann       02254                       % 07625 RGTR--
+*Z 07626 RGTR--                                             % 07626 RGTR--
+*L 537      140701023 300000026  00710  00816               % 07626 RGTR--
+*A py 140701023 300000026 000006  00710  00816              % 07626 RGTR--
+*A qa 140701023 300000026 000006  00710  00816              % 07626 RGTR--
+*R 1 300000026 140701023 300000026  00710  00816            % 07626 RGTR--
+*G RGB 140701023 300000026  00710  00816                    % 07626 RGTR--
+*A VE 140701023 300000026 000006  00710  00816              % 07626 RGTR--
+*I FD 140701023 300000026        0002143  00710  00816      % 07626 RGTR--
+140701023 Ettelbruck, Lycée Te         00710                % 07626 RGTR--
+140701024 Ettelbruck, Pensionn  00711  00711                % 07626 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00714  00714                % 07626 RGTR--
+140701009 Ettelbruck, Cité Pat  00716  00716                % 07626 RGTR--
+140701008 Ettelbruck, Cité Lop  00717  00717                % 07626 RGTR--
+140801002 Niederfeulen, Faubou  00719  00719                % 07626 RGTR--
+140801003 Niederfeulen, Mairie  00720  00720                % 07626 RGTR--
+140801005 Niederfeulen, Atelie  00721  00721                % 07626 RGTR--
+120502001 Heiderscheid, Fuusse  00725  00725                % 07626 RGTR--
+120502003 Heiderscheid, Zone C  00726  00726                % 07626 RGTR--
+120502002 Heiderscheid          00727  00727                % 07626 RGTR--
+120503001 Heischtergronn, Beim  00732  00732                % 07626 RGTR--
+120402002 Büderscheid, Village  00736  00736                % 07626 RGTR--
+120903003 Wiltz, Batzendelt     00740  00740                % 07626 RGTR--
+120903005 Wiltz, Belle Vue      00741  00741                % 07626 RGTR--
+120903006 Wiltz, Brandbau       00743  00743                % 07626 RGTR--
+120903011 Wiltz, Clinique       00744  00744                % 07626 RGTR--
+120903039 Wiltz, Schwemm        00746  00746                % 07626 RGTR--
+120903021 Wiltz, Lann           00748  00748                % 07626 RGTR--
+120903008 Wiltz, Pompjeesbau    00750  00750                % 07626 RGTR--
+120903025 Wiltz, Wanselerstro.  00751  00751                % 07626 RGTR--
+120903010 Wiltz, Follmillen     00751  00751                % 07626 RGTR--
+120903036 Wiltz, Salzbaach      00752  00752                % 07626 RGTR--
+120903001 Wiltz, Aalen Tipp     00753  00753                % 07626 RGTR--
+120903038 Wiltz, Schumann       00756  00756                % 07626 RGTR--
+121006001 Pommerlach, Theis     00759  00759                % 07626 RGTR--
+121006003 Pommerlach (Knauf)    00759  00759                % 07626 RGTR--
+300000029 Bras, Carrefour       00804  00804                % 07626 RGTR--
+300000047 Wardin, rue de Wiltz  00806  00806                % 07626 RGTR--
+300000042 Marvie, rue de Wiltz  00809  00809                % 07626 RGTR--
+300000027 Bastogne, Home Marke  00811  00811                % 07626 RGTR--
+300000022 Bastogne, Pl. McAuli  00813  00813                % 07626 RGTR--
+300000026 Bastogne, Renval      00816                       % 07626 RGTR--
+*Z 07627 RGTR--                                             % 07627 RGTR--
+*L 537      140701023 300000026  00810  00916               % 07627 RGTR--
+*A gu 140701023 300000026 000006  00810  00916              % 07627 RGTR--
+*A qa 140701023 300000026 000006  00810  00916              % 07627 RGTR--
+*R 1 300000026 140701023 300000026  00810  00916            % 07627 RGTR--
+*G RGB 140701023 300000026  00810  00916                    % 07627 RGTR--
+*A VE 140701023 300000026 000006  00810  00916              % 07627 RGTR--
+*I FD 140701023 300000026        0001874  00810  00916      % 07627 RGTR--
+140701023 Ettelbruck, Lycée Te         00810                % 07627 RGTR--
+140701024 Ettelbruck, Pensionn  00811  00811                % 07627 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00814  00814                % 07627 RGTR--
+140701009 Ettelbruck, Cité Pat  00816  00816                % 07627 RGTR--
+140701008 Ettelbruck, Cité Lop  00817  00817                % 07627 RGTR--
+140801002 Niederfeulen, Faubou  00819  00819                % 07627 RGTR--
+140801003 Niederfeulen, Mairie  00820  00820                % 07627 RGTR--
+140801005 Niederfeulen, Atelie  00821  00821                % 07627 RGTR--
+120502001 Heiderscheid, Fuusse  00825  00825                % 07627 RGTR--
+120502003 Heiderscheid, Zone C  00826  00826                % 07627 RGTR--
+120502002 Heiderscheid          00827  00827                % 07627 RGTR--
+120503001 Heischtergronn, Beim  00832  00832                % 07627 RGTR--
+120402002 Büderscheid, Village  00836  00836                % 07627 RGTR--
+120903003 Wiltz, Batzendelt     00840  00840                % 07627 RGTR--
+120903005 Wiltz, Belle Vue      00841  00841                % 07627 RGTR--
+120903006 Wiltz, Brandbau       00843  00843                % 07627 RGTR--
+120903011 Wiltz, Clinique       00844  00844                % 07627 RGTR--
+120903039 Wiltz, Schwemm        00846  00846                % 07627 RGTR--
+120903021 Wiltz, Lann           00848  00848                % 07627 RGTR--
+120903008 Wiltz, Pompjeesbau    00850  00850                % 07627 RGTR--
+120903025 Wiltz, Wanselerstro.  00851  00851                % 07627 RGTR--
+120903010 Wiltz, Follmillen     00851  00851                % 07627 RGTR--
+120903036 Wiltz, Salzbaach      00852  00852                % 07627 RGTR--
+120903001 Wiltz, Aalen Tipp     00853  00853                % 07627 RGTR--
+120903038 Wiltz, Schumann       00856  00856                % 07627 RGTR--
+121006001 Pommerlach, Theis     00859  00859                % 07627 RGTR--
+121006003 Pommerlach (Knauf)    00859  00859                % 07627 RGTR--
+300000029 Bras, Carrefour       00904  00904                % 07627 RGTR--
+300000047 Wardin, rue de Wiltz  00906  00906                % 07627 RGTR--
+300000042 Marvie, rue de Wiltz  00909  00909                % 07627 RGTR--
+300000027 Bastogne, Home Marke  00911  00911                % 07627 RGTR--
+300000022 Bastogne, Pl. McAuli  00913  00913                % 07627 RGTR--
+300000026 Bastogne, Renval      00916                       % 07627 RGTR--
+*Z 07628 RGTR--                                             % 07628 RGTR--
+*L 537      140701023 300000026  00910  01016               % 07628 RGTR--
+*A py 140701023 300000026 000006  00910  01016              % 07628 RGTR--
+*A qa 140701023 300000026 000006  00910  01016              % 07628 RGTR--
+*R 1 300000026 140701023 300000026  00910  01016            % 07628 RGTR--
+*G RGB 140701023 300000026  00910  01016                    % 07628 RGTR--
+*A VE 140701023 300000026 000006  00910  01016              % 07628 RGTR--
+*I FD 140701023 300000026        0001876  00910  01016      % 07628 RGTR--
+140701023 Ettelbruck, Lycée Te         00910                % 07628 RGTR--
+140701024 Ettelbruck, Pensionn  00911  00911                % 07628 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00914  00914                % 07628 RGTR--
+140701009 Ettelbruck, Cité Pat  00916  00916                % 07628 RGTR--
+140701008 Ettelbruck, Cité Lop  00917  00917                % 07628 RGTR--
+140801002 Niederfeulen, Faubou  00919  00919                % 07628 RGTR--
+140801003 Niederfeulen, Mairie  00920  00920                % 07628 RGTR--
+140801005 Niederfeulen, Atelie  00921  00921                % 07628 RGTR--
+120502001 Heiderscheid, Fuusse  00925  00925                % 07628 RGTR--
+120502003 Heiderscheid, Zone C  00926  00926                % 07628 RGTR--
+120502002 Heiderscheid          00927  00927                % 07628 RGTR--
+120503001 Heischtergronn, Beim  00932  00932                % 07628 RGTR--
+120402002 Büderscheid, Village  00936  00936                % 07628 RGTR--
+120903003 Wiltz, Batzendelt     00940  00940                % 07628 RGTR--
+120903005 Wiltz, Belle Vue      00941  00941                % 07628 RGTR--
+120903006 Wiltz, Brandbau       00943  00943                % 07628 RGTR--
+120903011 Wiltz, Clinique       00944  00944                % 07628 RGTR--
+120903039 Wiltz, Schwemm        00946  00946                % 07628 RGTR--
+120903021 Wiltz, Lann           00948  00948                % 07628 RGTR--
+120903008 Wiltz, Pompjeesbau    00950  00950                % 07628 RGTR--
+120903025 Wiltz, Wanselerstro.  00951  00951                % 07628 RGTR--
+120903010 Wiltz, Follmillen     00951  00951                % 07628 RGTR--
+120903036 Wiltz, Salzbaach      00952  00952                % 07628 RGTR--
+120903001 Wiltz, Aalen Tipp     00953  00953                % 07628 RGTR--
+120903038 Wiltz, Schumann       00956  00956                % 07628 RGTR--
+121006001 Pommerlach, Theis     00959  00959                % 07628 RGTR--
+121006003 Pommerlach (Knauf)    00959  00959                % 07628 RGTR--
+300000029 Bras, Carrefour       01004  01004                % 07628 RGTR--
+300000047 Wardin, rue de Wiltz  01006  01006                % 07628 RGTR--
+300000042 Marvie, rue de Wiltz  01009  01009                % 07628 RGTR--
+300000027 Bastogne, Home Marke  01011  01011                % 07628 RGTR--
+300000022 Bastogne, Pl. McAuli  01013  01013                % 07628 RGTR--
+300000026 Bastogne, Renval      01016                       % 07628 RGTR--
+*Z 07629 RGTR--                                             % 07629 RGTR--
+*L 537      140701023 300000026  01610  01716               % 07629 RGTR--
+*A py 140701023 300000026 000006  01610  01716              % 07629 RGTR--
+*A qa 140701023 300000026 000006  01610  01716              % 07629 RGTR--
+*R 1 300000026 140701023 300000026  01610  01716            % 07629 RGTR--
+*G RGB 140701023 300000026  01610  01716                    % 07629 RGTR--
+*A VE 140701023 300000026 000006  01610  01716              % 07629 RGTR--
+*I FD 140701023 300000026        0001895  01610  01716      % 07629 RGTR--
+140701023 Ettelbruck, Lycée Te         01610                % 07629 RGTR--
+140701024 Ettelbruck, Pensionn  01611  01611                % 07629 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01614  01614                % 07629 RGTR--
+140701009 Ettelbruck, Cité Pat  01616  01616                % 07629 RGTR--
+140701008 Ettelbruck, Cité Lop  01617  01617                % 07629 RGTR--
+140801002 Niederfeulen, Faubou  01619  01619                % 07629 RGTR--
+140801003 Niederfeulen, Mairie  01620  01620                % 07629 RGTR--
+140801005 Niederfeulen, Atelie  01621  01621                % 07629 RGTR--
+120502001 Heiderscheid, Fuusse  01625  01625                % 07629 RGTR--
+120502003 Heiderscheid, Zone C  01626  01626                % 07629 RGTR--
+120502002 Heiderscheid          01627  01627                % 07629 RGTR--
+120503001 Heischtergronn, Beim  01632  01632                % 07629 RGTR--
+120402002 Büderscheid, Village  01636  01636                % 07629 RGTR--
+120903003 Wiltz, Batzendelt     01640  01640                % 07629 RGTR--
+120903005 Wiltz, Belle Vue      01641  01641                % 07629 RGTR--
+120903006 Wiltz, Brandbau       01643  01643                % 07629 RGTR--
+120903011 Wiltz, Clinique       01644  01644                % 07629 RGTR--
+120903039 Wiltz, Schwemm        01646  01646                % 07629 RGTR--
+120903021 Wiltz, Lann           01648  01648                % 07629 RGTR--
+120903008 Wiltz, Pompjeesbau    01650  01650                % 07629 RGTR--
+120903025 Wiltz, Wanselerstro.  01651  01651                % 07629 RGTR--
+120903010 Wiltz, Follmillen     01651  01651                % 07629 RGTR--
+120903036 Wiltz, Salzbaach      01652  01652                % 07629 RGTR--
+120903001 Wiltz, Aalen Tipp     01653  01653                % 07629 RGTR--
+120903038 Wiltz, Schumann       01656  01656                % 07629 RGTR--
+121006001 Pommerlach, Theis     01659  01659                % 07629 RGTR--
+121006003 Pommerlach (Knauf)    01659  01659                % 07629 RGTR--
+300000029 Bras, Carrefour       01704  01704                % 07629 RGTR--
+300000047 Wardin, rue de Wiltz  01706  01706                % 07629 RGTR--
+300000042 Marvie, rue de Wiltz  01709  01709                % 07629 RGTR--
+300000027 Bastogne, Home Marke  01711  01711                % 07629 RGTR--
+300000022 Bastogne, Pl. McAuli  01713  01713                % 07629 RGTR--
+300000026 Bastogne, Renval      01716                       % 07629 RGTR--
+*Z 07630 RGTR--                                             % 07630 RGTR--
+*L 537      140701023 300000026  01640  01746               % 07630 RGTR--
+*A gu 140701023 300000026 000006  01640  01746              % 07630 RGTR--
+*A qa 140701023 300000026 000006  01640  01746              % 07630 RGTR--
+*R 1 300000026 140701023 300000026  01640  01746            % 07630 RGTR--
+*G RGB 140701023 300000026  01640  01746                    % 07630 RGTR--
+*A VE 140701023 300000026 000006  01640  01746              % 07630 RGTR--
+*I FD 140701023 300000026        0002068  01640  01746      % 07630 RGTR--
+140701023 Ettelbruck, Lycée Te         01640                % 07630 RGTR--
+140701024 Ettelbruck, Pensionn  01641  01641                % 07630 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01644  01644                % 07630 RGTR--
+140701009 Ettelbruck, Cité Pat  01646  01646                % 07630 RGTR--
+140701008 Ettelbruck, Cité Lop  01647  01647                % 07630 RGTR--
+140801002 Niederfeulen, Faubou  01649  01649                % 07630 RGTR--
+140801003 Niederfeulen, Mairie  01650  01650                % 07630 RGTR--
+140801005 Niederfeulen, Atelie  01651  01651                % 07630 RGTR--
+120502001 Heiderscheid, Fuusse  01655  01655                % 07630 RGTR--
+120502003 Heiderscheid, Zone C  01656  01656                % 07630 RGTR--
+120502002 Heiderscheid          01657  01657                % 07630 RGTR--
+120503001 Heischtergronn, Beim  01702  01702                % 07630 RGTR--
+120402002 Büderscheid, Village  01706  01706                % 07630 RGTR--
+120903003 Wiltz, Batzendelt     01710  01710                % 07630 RGTR--
+120903005 Wiltz, Belle Vue      01711  01711                % 07630 RGTR--
+120903006 Wiltz, Brandbau       01713  01713                % 07630 RGTR--
+120903011 Wiltz, Clinique       01714  01714                % 07630 RGTR--
+120903039 Wiltz, Schwemm        01716  01716                % 07630 RGTR--
+120903021 Wiltz, Lann           01718  01718                % 07630 RGTR--
+120903008 Wiltz, Pompjeesbau    01720  01720                % 07630 RGTR--
+120903025 Wiltz, Wanselerstro.  01721  01721                % 07630 RGTR--
+120903010 Wiltz, Follmillen     01721  01721                % 07630 RGTR--
+120903036 Wiltz, Salzbaach      01722  01722                % 07630 RGTR--
+120903001 Wiltz, Aalen Tipp     01723  01723                % 07630 RGTR--
+120903038 Wiltz, Schumann       01726  01726                % 07630 RGTR--
+121006001 Pommerlach, Theis     01729  01729                % 07630 RGTR--
+121006003 Pommerlach (Knauf)    01729  01729                % 07630 RGTR--
+300000029 Bras, Carrefour       01734  01734                % 07630 RGTR--
+300000047 Wardin, rue de Wiltz  01736  01736                % 07630 RGTR--
+300000042 Marvie, rue de Wiltz  01739  01739                % 07630 RGTR--
+300000027 Bastogne, Home Marke  01741  01741                % 07630 RGTR--
+300000022 Bastogne, Pl. McAuli  01743  01743                % 07630 RGTR--
+300000026 Bastogne, Renval      01746                       % 07630 RGTR--
+*Z 07631 RGTR--                                             % 07631 RGTR--
+*L 537      140701023 300000026  01710  01816               % 07631 RGTR--
+*A gu 140701023 300000026 000006  01710  01816              % 07631 RGTR--
+*A qa 140701023 300000026 000006  01710  01816              % 07631 RGTR--
+*R 1 300000026 140701023 300000026  01710  01816            % 07631 RGTR--
+*G RGB 140701023 300000026  01710  01816                    % 07631 RGTR--
+*A VE 140701023 300000026 000006  01710  01816              % 07631 RGTR--
+*I FD 140701023 300000026        0001897  01710  01816      % 07631 RGTR--
+140701023 Ettelbruck, Lycée Te         01710                % 07631 RGTR--
+140701024 Ettelbruck, Pensionn  01711  01711                % 07631 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01714  01714                % 07631 RGTR--
+140701009 Ettelbruck, Cité Pat  01716  01716                % 07631 RGTR--
+140701008 Ettelbruck, Cité Lop  01717  01717                % 07631 RGTR--
+140801002 Niederfeulen, Faubou  01719  01719                % 07631 RGTR--
+140801003 Niederfeulen, Mairie  01720  01720                % 07631 RGTR--
+140801005 Niederfeulen, Atelie  01721  01721                % 07631 RGTR--
+120502001 Heiderscheid, Fuusse  01725  01725                % 07631 RGTR--
+120502003 Heiderscheid, Zone C  01726  01726                % 07631 RGTR--
+120502002 Heiderscheid          01727  01727                % 07631 RGTR--
+120503001 Heischtergronn, Beim  01732  01732                % 07631 RGTR--
+120402002 Büderscheid, Village  01736  01736                % 07631 RGTR--
+120903003 Wiltz, Batzendelt     01740  01740                % 07631 RGTR--
+120903005 Wiltz, Belle Vue      01741  01741                % 07631 RGTR--
+120903006 Wiltz, Brandbau       01743  01743                % 07631 RGTR--
+120903011 Wiltz, Clinique       01744  01744                % 07631 RGTR--
+120903039 Wiltz, Schwemm        01746  01746                % 07631 RGTR--
+120903021 Wiltz, Lann           01748  01748                % 07631 RGTR--
+120903008 Wiltz, Pompjeesbau    01750  01750                % 07631 RGTR--
+120903025 Wiltz, Wanselerstro.  01751  01751                % 07631 RGTR--
+120903010 Wiltz, Follmillen     01751  01751                % 07631 RGTR--
+120903036 Wiltz, Salzbaach      01752  01752                % 07631 RGTR--
+120903001 Wiltz, Aalen Tipp     01753  01753                % 07631 RGTR--
+120903038 Wiltz, Schumann       01756  01756                % 07631 RGTR--
+121006001 Pommerlach, Theis     01759  01759                % 07631 RGTR--
+121006003 Pommerlach (Knauf)    01759  01759                % 07631 RGTR--
+300000029 Bras, Carrefour       01804  01804                % 07631 RGTR--
+300000047 Wardin, rue de Wiltz  01806  01806                % 07631 RGTR--
+300000042 Marvie, rue de Wiltz  01809  01809                % 07631 RGTR--
+300000027 Bastogne, Home Marke  01811  01811                % 07631 RGTR--
+300000022 Bastogne, Pl. McAuli  01813  01813                % 07631 RGTR--
+300000026 Bastogne, Renval      01816                       % 07631 RGTR--
+*Z 07632 RGTR--                                             % 07632 RGTR--
+*L 537      140701023 300000026  01740  01846               % 07632 RGTR--
+*A py 140701023 300000026 000006  01740  01846              % 07632 RGTR--
+*A qa 140701023 300000026 000006  01740  01846              % 07632 RGTR--
+*R 1 300000026 140701023 300000026  01740  01846            % 07632 RGTR--
+*G RGB 140701023 300000026  01740  01846                    % 07632 RGTR--
+*A VE 140701023 300000026 000006  01740  01846              % 07632 RGTR--
+*I FD 140701023 300000026        0002069  01740  01846      % 07632 RGTR--
+140701023 Ettelbruck, Lycée Te         01740                % 07632 RGTR--
+140701024 Ettelbruck, Pensionn  01741  01741                % 07632 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01744  01744                % 07632 RGTR--
+140701009 Ettelbruck, Cité Pat  01746  01746                % 07632 RGTR--
+140701008 Ettelbruck, Cité Lop  01747  01747                % 07632 RGTR--
+140801002 Niederfeulen, Faubou  01749  01749                % 07632 RGTR--
+140801003 Niederfeulen, Mairie  01750  01750                % 07632 RGTR--
+140801005 Niederfeulen, Atelie  01751  01751                % 07632 RGTR--
+120502001 Heiderscheid, Fuusse  01755  01755                % 07632 RGTR--
+120502003 Heiderscheid, Zone C  01756  01756                % 07632 RGTR--
+120502002 Heiderscheid          01757  01757                % 07632 RGTR--
+120503001 Heischtergronn, Beim  01802  01802                % 07632 RGTR--
+120402002 Büderscheid, Village  01806  01806                % 07632 RGTR--
+120903003 Wiltz, Batzendelt     01810  01810                % 07632 RGTR--
+120903005 Wiltz, Belle Vue      01811  01811                % 07632 RGTR--
+120903006 Wiltz, Brandbau       01813  01813                % 07632 RGTR--
+120903011 Wiltz, Clinique       01814  01814                % 07632 RGTR--
+120903039 Wiltz, Schwemm        01816  01816                % 07632 RGTR--
+120903021 Wiltz, Lann           01818  01818                % 07632 RGTR--
+120903008 Wiltz, Pompjeesbau    01820  01820                % 07632 RGTR--
+120903025 Wiltz, Wanselerstro.  01821  01821                % 07632 RGTR--
+120903010 Wiltz, Follmillen     01821  01821                % 07632 RGTR--
+120903036 Wiltz, Salzbaach      01822  01822                % 07632 RGTR--
+120903001 Wiltz, Aalen Tipp     01823  01823                % 07632 RGTR--
+120903038 Wiltz, Schumann       01826  01826                % 07632 RGTR--
+121006001 Pommerlach, Theis     01829  01829                % 07632 RGTR--
+121006003 Pommerlach (Knauf)    01829  01829                % 07632 RGTR--
+300000029 Bras, Carrefour       01834  01834                % 07632 RGTR--
+300000047 Wardin, rue de Wiltz  01836  01836                % 07632 RGTR--
+300000042 Marvie, rue de Wiltz  01839  01839                % 07632 RGTR--
+300000027 Bastogne, Home Marke  01841  01841                % 07632 RGTR--
+300000022 Bastogne, Pl. McAuli  01843  01843                % 07632 RGTR--
+300000026 Bastogne, Renval      01846                       % 07632 RGTR--
+*Z 07633 RGTR--                                             % 07633 RGTR--
+*L 537      140701023 300000026  01810  01916               % 07633 RGTR--
+*A py 140701023 300000026 000006  01810  01916              % 07633 RGTR--
+*A qa 140701023 300000026 000006  01810  01916              % 07633 RGTR--
+*R 1 300000026 140701023 300000026  01810  01916            % 07633 RGTR--
+*G RGB 140701023 300000026  01810  01916                    % 07633 RGTR--
+*A VE 140701023 300000026 000006  01810  01916              % 07633 RGTR--
+*I FD 140701023 300000026        0001900  01810  01916      % 07633 RGTR--
+140701023 Ettelbruck, Lycée Te         01810                % 07633 RGTR--
+140701024 Ettelbruck, Pensionn  01811  01811                % 07633 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01814  01814                % 07633 RGTR--
+140701009 Ettelbruck, Cité Pat  01816  01816                % 07633 RGTR--
+140701008 Ettelbruck, Cité Lop  01817  01817                % 07633 RGTR--
+140801002 Niederfeulen, Faubou  01819  01819                % 07633 RGTR--
+140801003 Niederfeulen, Mairie  01820  01820                % 07633 RGTR--
+140801005 Niederfeulen, Atelie  01821  01821                % 07633 RGTR--
+120502001 Heiderscheid, Fuusse  01825  01825                % 07633 RGTR--
+120502003 Heiderscheid, Zone C  01826  01826                % 07633 RGTR--
+120502002 Heiderscheid          01827  01827                % 07633 RGTR--
+120503001 Heischtergronn, Beim  01832  01832                % 07633 RGTR--
+120402002 Büderscheid, Village  01836  01836                % 07633 RGTR--
+120903003 Wiltz, Batzendelt     01840  01840                % 07633 RGTR--
+120903005 Wiltz, Belle Vue      01841  01841                % 07633 RGTR--
+120903006 Wiltz, Brandbau       01843  01843                % 07633 RGTR--
+120903011 Wiltz, Clinique       01844  01844                % 07633 RGTR--
+120903039 Wiltz, Schwemm        01846  01846                % 07633 RGTR--
+120903021 Wiltz, Lann           01848  01848                % 07633 RGTR--
+120903008 Wiltz, Pompjeesbau    01850  01850                % 07633 RGTR--
+120903025 Wiltz, Wanselerstro.  01851  01851                % 07633 RGTR--
+120903010 Wiltz, Follmillen     01851  01851                % 07633 RGTR--
+120903036 Wiltz, Salzbaach      01852  01852                % 07633 RGTR--
+120903001 Wiltz, Aalen Tipp     01853  01853                % 07633 RGTR--
+120903038 Wiltz, Schumann       01856  01856                % 07633 RGTR--
+121006001 Pommerlach, Theis     01859  01859                % 07633 RGTR--
+121006003 Pommerlach (Knauf)    01859  01859                % 07633 RGTR--
+300000029 Bras, Carrefour       01904  01904                % 07633 RGTR--
+300000047 Wardin, rue de Wiltz  01906  01906                % 07633 RGTR--
+300000042 Marvie, rue de Wiltz  01909  01909                % 07633 RGTR--
+300000027 Bastogne, Home Marke  01911  01911                % 07633 RGTR--
+300000022 Bastogne, Pl. McAuli  01913  01913                % 07633 RGTR--
+300000026 Bastogne, Renval      01916                       % 07633 RGTR--
+*Z 07634 RGTR--                                             % 07634 RGTR--
+*L 537      140701023 300000026  01210  01314               % 07634 RGTR--
+*A py 140701023 300000026 000001  01210  01314              % 07634 RGTR--
+*A qa 140701023 300000026 000001  01210  01314              % 07634 RGTR--
+*R 1 300000026 140701023 300000026  01210  01314            % 07634 RGTR--
+*G RGB 140701023 300000026  01210  01314                    % 07634 RGTR--
+*A VE 140701023 300000026 000001  01210  01314              % 07634 RGTR--
+*I FD 140701023 300000026        0001883  01210  01314      % 07634 RGTR--
+140701023 Ettelbruck, Lycée Te         01210                % 07634 RGTR--
+140701024 Ettelbruck, Pensionn  01211  01211                % 07634 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01214  01214                % 07634 RGTR--
+140701009 Ettelbruck, Cité Pat  01216  01216                % 07634 RGTR--
+140701008 Ettelbruck, Cité Lop  01216  01216                % 07634 RGTR--
+140801002 Niederfeulen, Faubou  01219  01219                % 07634 RGTR--
+140801003 Niederfeulen, Mairie  01219  01219                % 07634 RGTR--
+140801005 Niederfeulen, Atelie  01220  01220                % 07634 RGTR--
+120502001 Heiderscheid, Fuusse  01224  01224                % 07634 RGTR--
+120502003 Heiderscheid, Zone C  01225  01225                % 07634 RGTR--
+120502002 Heiderscheid          01226  01226                % 07634 RGTR--
+120503001 Heischtergronn, Beim  01231  01231                % 07634 RGTR--
+120402002 Büderscheid, Village  01234  01234                % 07634 RGTR--
+120903003 Wiltz, Batzendelt     01239  01239                % 07634 RGTR--
+120903005 Wiltz, Belle Vue      01240  01240                % 07634 RGTR--
+120903006 Wiltz, Brandbau       01241  01241                % 07634 RGTR--
+120903011 Wiltz, Clinique       01242  01242                % 07634 RGTR--
+120903039 Wiltz, Schwemm        01245  01245                % 07634 RGTR--
+120903021 Wiltz, Lann           01246  01246                % 07634 RGTR--
+120903008 Wiltz, Pompjeesbau    01248  01248                % 07634 RGTR--
+120903025 Wiltz, Wanselerstro.  01248  01248                % 07634 RGTR--
+120903010 Wiltz, Follmillen     01249  01249                % 07634 RGTR--
+120903036 Wiltz, Salzbaach      01250  01250                % 07634 RGTR--
+120903001 Wiltz, Aalen Tipp     01251  01251                % 07634 RGTR--
+120903038 Wiltz, Schumann       01254  01254                % 07634 RGTR--
+121006001 Pommerlach, Theis     01256  01256                % 07634 RGTR--
+121006003 Pommerlach (Knauf)    01257  01257                % 07634 RGTR--
+300000029 Bras, Carrefour       01301  01301                % 07634 RGTR--
+300000047 Wardin, rue de Wiltz  01303  01303                % 07634 RGTR--
+300000042 Marvie, rue de Wiltz  01307  01307                % 07634 RGTR--
+300000027 Bastogne, Home Marke  01308  01308                % 07634 RGTR--
+300000022 Bastogne, Pl. McAuli  01310  01310                % 07634 RGTR--
+300000026 Bastogne, Renval      01314                       % 07634 RGTR--
+*Z 07635 RGTR--                                             % 07635 RGTR--
+*L 537      140701023 300000026  01510  01614               % 07635 RGTR--
+*A py 140701023 300000026 000001  01510  01614              % 07635 RGTR--
+*A qa 140701023 300000026 000001  01510  01614              % 07635 RGTR--
+*R 1 300000026 140701023 300000026  01510  01614            % 07635 RGTR--
+*G RGB 140701023 300000026  01510  01614                    % 07635 RGTR--
+*A VE 140701023 300000026 000001  01510  01614              % 07635 RGTR--
+*I FD 140701023 300000026        0001892  01510  01614      % 07635 RGTR--
+140701023 Ettelbruck, Lycée Te         01510                % 07635 RGTR--
+140701024 Ettelbruck, Pensionn  01511  01511                % 07635 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01514  01514                % 07635 RGTR--
+140701009 Ettelbruck, Cité Pat  01516  01516                % 07635 RGTR--
+140701008 Ettelbruck, Cité Lop  01516  01516                % 07635 RGTR--
+140801002 Niederfeulen, Faubou  01519  01519                % 07635 RGTR--
+140801003 Niederfeulen, Mairie  01519  01519                % 07635 RGTR--
+140801005 Niederfeulen, Atelie  01520  01520                % 07635 RGTR--
+120502001 Heiderscheid, Fuusse  01524  01524                % 07635 RGTR--
+120502003 Heiderscheid, Zone C  01525  01525                % 07635 RGTR--
+120502002 Heiderscheid          01526  01526                % 07635 RGTR--
+120503001 Heischtergronn, Beim  01531  01531                % 07635 RGTR--
+120402002 Büderscheid, Village  01534  01534                % 07635 RGTR--
+120903003 Wiltz, Batzendelt     01539  01539                % 07635 RGTR--
+120903005 Wiltz, Belle Vue      01540  01540                % 07635 RGTR--
+120903006 Wiltz, Brandbau       01541  01541                % 07635 RGTR--
+120903011 Wiltz, Clinique       01542  01542                % 07635 RGTR--
+120903039 Wiltz, Schwemm        01545  01545                % 07635 RGTR--
+120903021 Wiltz, Lann           01546  01546                % 07635 RGTR--
+120903008 Wiltz, Pompjeesbau    01548  01548                % 07635 RGTR--
+120903025 Wiltz, Wanselerstro.  01548  01548                % 07635 RGTR--
+120903010 Wiltz, Follmillen     01549  01549                % 07635 RGTR--
+120903036 Wiltz, Salzbaach      01550  01550                % 07635 RGTR--
+120903001 Wiltz, Aalen Tipp     01551  01551                % 07635 RGTR--
+120903038 Wiltz, Schumann       01554  01554                % 07635 RGTR--
+121006001 Pommerlach, Theis     01556  01556                % 07635 RGTR--
+121006003 Pommerlach (Knauf)    01557  01557                % 07635 RGTR--
+300000029 Bras, Carrefour       01601  01601                % 07635 RGTR--
+300000047 Wardin, rue de Wiltz  01603  01603                % 07635 RGTR--
+300000042 Marvie, rue de Wiltz  01607  01607                % 07635 RGTR--
+300000027 Bastogne, Home Marke  01608  01608                % 07635 RGTR--
+300000022 Bastogne, Pl. McAuli  01610  01610                % 07635 RGTR--
+300000026 Bastogne, Renval      01614                       % 07635 RGTR--
+*Z 07636 RGTR--                                             % 07636 RGTR--
+*L 537      140701023 300000026  01010  01114               % 07636 RGTR--
+*A py 140701023 300000026 000006  01010  01114              % 07636 RGTR--
+*A qa 140701023 300000026 000006  01010  01114              % 07636 RGTR--
+*R 1 300000026 140701023 300000026  01010  01114            % 07636 RGTR--
+*G RGB 140701023 300000026  01010  01114                    % 07636 RGTR--
+*A VE 140701023 300000026 000006  01010  01114              % 07636 RGTR--
+*I FD 140701023 300000026        0001878  01010  01114      % 07636 RGTR--
+140701023 Ettelbruck, Lycée Te         01010                % 07636 RGTR--
+140701024 Ettelbruck, Pensionn  01011  01011                % 07636 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01014  01014                % 07636 RGTR--
+140701009 Ettelbruck, Cité Pat  01016  01016                % 07636 RGTR--
+140701008 Ettelbruck, Cité Lop  01016  01016                % 07636 RGTR--
+140801002 Niederfeulen, Faubou  01019  01019                % 07636 RGTR--
+140801003 Niederfeulen, Mairie  01019  01019                % 07636 RGTR--
+140801005 Niederfeulen, Atelie  01020  01020                % 07636 RGTR--
+120502001 Heiderscheid, Fuusse  01024  01024                % 07636 RGTR--
+120502003 Heiderscheid, Zone C  01025  01025                % 07636 RGTR--
+120502002 Heiderscheid          01026  01026                % 07636 RGTR--
+120503001 Heischtergronn, Beim  01031  01031                % 07636 RGTR--
+120402002 Büderscheid, Village  01034  01034                % 07636 RGTR--
+120903003 Wiltz, Batzendelt     01039  01039                % 07636 RGTR--
+120903005 Wiltz, Belle Vue      01040  01040                % 07636 RGTR--
+120903006 Wiltz, Brandbau       01041  01041                % 07636 RGTR--
+120903011 Wiltz, Clinique       01042  01042                % 07636 RGTR--
+120903039 Wiltz, Schwemm        01045  01045                % 07636 RGTR--
+120903021 Wiltz, Lann           01046  01046                % 07636 RGTR--
+120903008 Wiltz, Pompjeesbau    01048  01048                % 07636 RGTR--
+120903025 Wiltz, Wanselerstro.  01048  01048                % 07636 RGTR--
+120903010 Wiltz, Follmillen     01049  01049                % 07636 RGTR--
+120903036 Wiltz, Salzbaach      01050  01050                % 07636 RGTR--
+120903001 Wiltz, Aalen Tipp     01051  01051                % 07636 RGTR--
+120903038 Wiltz, Schumann       01054  01054                % 07636 RGTR--
+121006001 Pommerlach, Theis     01056  01056                % 07636 RGTR--
+121006003 Pommerlach (Knauf)    01057  01057                % 07636 RGTR--
+300000029 Bras, Carrefour       01101  01101                % 07636 RGTR--
+300000047 Wardin, rue de Wiltz  01103  01103                % 07636 RGTR--
+300000042 Marvie, rue de Wiltz  01107  01107                % 07636 RGTR--
+300000027 Bastogne, Home Marke  01108  01108                % 07636 RGTR--
+300000022 Bastogne, Pl. McAuli  01110  01110                % 07636 RGTR--
+300000026 Bastogne, Renval      01114                       % 07636 RGTR--
+*Z 07637 RGTR--                                             % 07637 RGTR--
+*L 537      140701023 300000026  01110  01214               % 07637 RGTR--
+*A gu 140701023 300000026 000006  01110  01214              % 07637 RGTR--
+*A qa 140701023 300000026 000006  01110  01214              % 07637 RGTR--
+*R 1 300000026 140701023 300000026  01110  01214            % 07637 RGTR--
+*G RGB 140701023 300000026  01110  01214                    % 07637 RGTR--
+*A VE 140701023 300000026 000006  01110  01214              % 07637 RGTR--
+*I FD 140701023 300000026        0001167  01110  01214      % 07637 RGTR--
+140701023 Ettelbruck, Lycée Te         01110                % 07637 RGTR--
+140701024 Ettelbruck, Pensionn  01111  01111                % 07637 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01114  01114                % 07637 RGTR--
+140701009 Ettelbruck, Cité Pat  01116  01116                % 07637 RGTR--
+140701008 Ettelbruck, Cité Lop  01116  01116                % 07637 RGTR--
+140801002 Niederfeulen, Faubou  01119  01119                % 07637 RGTR--
+140801003 Niederfeulen, Mairie  01119  01119                % 07637 RGTR--
+140801005 Niederfeulen, Atelie  01120  01120                % 07637 RGTR--
+120502001 Heiderscheid, Fuusse  01124  01124                % 07637 RGTR--
+120502003 Heiderscheid, Zone C  01125  01125                % 07637 RGTR--
+120502002 Heiderscheid          01126  01126                % 07637 RGTR--
+120503001 Heischtergronn, Beim  01131  01131                % 07637 RGTR--
+120402002 Büderscheid, Village  01134  01134                % 07637 RGTR--
+120903003 Wiltz, Batzendelt     01139  01139                % 07637 RGTR--
+120903005 Wiltz, Belle Vue      01140  01140                % 07637 RGTR--
+120903006 Wiltz, Brandbau       01141  01141                % 07637 RGTR--
+120903011 Wiltz, Clinique       01142  01142                % 07637 RGTR--
+120903039 Wiltz, Schwemm        01145  01145                % 07637 RGTR--
+120903021 Wiltz, Lann           01146  01146                % 07637 RGTR--
+120903008 Wiltz, Pompjeesbau    01148  01148                % 07637 RGTR--
+120903025 Wiltz, Wanselerstro.  01148  01148                % 07637 RGTR--
+120903010 Wiltz, Follmillen     01149  01149                % 07637 RGTR--
+120903036 Wiltz, Salzbaach      01150  01150                % 07637 RGTR--
+120903001 Wiltz, Aalen Tipp     01151  01151                % 07637 RGTR--
+120903038 Wiltz, Schumann       01154  01154                % 07637 RGTR--
+121006001 Pommerlach, Theis     01156  01156                % 07637 RGTR--
+121006003 Pommerlach (Knauf)    01157  01157                % 07637 RGTR--
+300000029 Bras, Carrefour       01201  01201                % 07637 RGTR--
+300000047 Wardin, rue de Wiltz  01203  01203                % 07637 RGTR--
+300000042 Marvie, rue de Wiltz  01207  01207                % 07637 RGTR--
+300000027 Bastogne, Home Marke  01208  01208                % 07637 RGTR--
+300000022 Bastogne, Pl. McAuli  01210  01210                % 07637 RGTR--
+300000026 Bastogne, Renval      01214                       % 07637 RGTR--
+*Z 07638 RGTR--                                             % 07638 RGTR--
+*L 537      140701023 300000026  01310  01414               % 07638 RGTR--
+*A py 140701023 300000026 000006  01310  01414              % 07638 RGTR--
+*A qa 140701023 300000026 000006  01310  01414              % 07638 RGTR--
+*R 1 300000026 140701023 300000026  01310  01414            % 07638 RGTR--
+*G RGB 140701023 300000026  01310  01414                    % 07638 RGTR--
+*A VE 140701023 300000026 000006  01310  01414              % 07638 RGTR--
+*I FD 140701023 300000026        0001886  01310  01414      % 07638 RGTR--
+140701023 Ettelbruck, Lycée Te         01310                % 07638 RGTR--
+140701024 Ettelbruck, Pensionn  01311  01311                % 07638 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01314  01314                % 07638 RGTR--
+140701009 Ettelbruck, Cité Pat  01316  01316                % 07638 RGTR--
+140701008 Ettelbruck, Cité Lop  01316  01316                % 07638 RGTR--
+140801002 Niederfeulen, Faubou  01319  01319                % 07638 RGTR--
+140801003 Niederfeulen, Mairie  01319  01319                % 07638 RGTR--
+140801005 Niederfeulen, Atelie  01320  01320                % 07638 RGTR--
+120502001 Heiderscheid, Fuusse  01324  01324                % 07638 RGTR--
+120502003 Heiderscheid, Zone C  01325  01325                % 07638 RGTR--
+120502002 Heiderscheid          01326  01326                % 07638 RGTR--
+120503001 Heischtergronn, Beim  01331  01331                % 07638 RGTR--
+120402002 Büderscheid, Village  01334  01334                % 07638 RGTR--
+120903003 Wiltz, Batzendelt     01339  01339                % 07638 RGTR--
+120903005 Wiltz, Belle Vue      01340  01340                % 07638 RGTR--
+120903006 Wiltz, Brandbau       01341  01341                % 07638 RGTR--
+120903011 Wiltz, Clinique       01342  01342                % 07638 RGTR--
+120903039 Wiltz, Schwemm        01345  01345                % 07638 RGTR--
+120903021 Wiltz, Lann           01346  01346                % 07638 RGTR--
+120903008 Wiltz, Pompjeesbau    01348  01348                % 07638 RGTR--
+120903025 Wiltz, Wanselerstro.  01348  01348                % 07638 RGTR--
+120903010 Wiltz, Follmillen     01349  01349                % 07638 RGTR--
+120903036 Wiltz, Salzbaach      01350  01350                % 07638 RGTR--
+120903001 Wiltz, Aalen Tipp     01351  01351                % 07638 RGTR--
+120903038 Wiltz, Schumann       01354  01354                % 07638 RGTR--
+121006001 Pommerlach, Theis     01356  01356                % 07638 RGTR--
+121006003 Pommerlach (Knauf)    01357  01357                % 07638 RGTR--
+300000029 Bras, Carrefour       01401  01401                % 07638 RGTR--
+300000047 Wardin, rue de Wiltz  01403  01403                % 07638 RGTR--
+300000042 Marvie, rue de Wiltz  01407  01407                % 07638 RGTR--
+300000027 Bastogne, Home Marke  01408  01408                % 07638 RGTR--
+300000022 Bastogne, Pl. McAuli  01410  01410                % 07638 RGTR--
+300000026 Bastogne, Renval      01414                       % 07638 RGTR--
+*Z 07639 RGTR--                                             % 07639 RGTR--
+*L 537      140701023 300000026  01410  01514               % 07639 RGTR--
+*A gu 140701023 300000026 000006  01410  01514              % 07639 RGTR--
+*A qa 140701023 300000026 000006  01410  01514              % 07639 RGTR--
+*R 1 300000026 140701023 300000026  01410  01514            % 07639 RGTR--
+*G RGB 140701023 300000026  01410  01514                    % 07639 RGTR--
+*A VE 140701023 300000026 000006  01410  01514              % 07639 RGTR--
+*I FD 140701023 300000026        0001889  01410  01514      % 07639 RGTR--
+140701023 Ettelbruck, Lycée Te         01410                % 07639 RGTR--
+140701024 Ettelbruck, Pensionn  01411  01411                % 07639 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01414  01414                % 07639 RGTR--
+140701009 Ettelbruck, Cité Pat  01416  01416                % 07639 RGTR--
+140701008 Ettelbruck, Cité Lop  01416  01416                % 07639 RGTR--
+140801002 Niederfeulen, Faubou  01419  01419                % 07639 RGTR--
+140801003 Niederfeulen, Mairie  01419  01419                % 07639 RGTR--
+140801005 Niederfeulen, Atelie  01420  01420                % 07639 RGTR--
+120502001 Heiderscheid, Fuusse  01424  01424                % 07639 RGTR--
+120502003 Heiderscheid, Zone C  01425  01425                % 07639 RGTR--
+120502002 Heiderscheid          01426  01426                % 07639 RGTR--
+120503001 Heischtergronn, Beim  01431  01431                % 07639 RGTR--
+120402002 Büderscheid, Village  01434  01434                % 07639 RGTR--
+120903003 Wiltz, Batzendelt     01439  01439                % 07639 RGTR--
+120903005 Wiltz, Belle Vue      01440  01440                % 07639 RGTR--
+120903006 Wiltz, Brandbau       01441  01441                % 07639 RGTR--
+120903011 Wiltz, Clinique       01442  01442                % 07639 RGTR--
+120903039 Wiltz, Schwemm        01445  01445                % 07639 RGTR--
+120903021 Wiltz, Lann           01446  01446                % 07639 RGTR--
+120903008 Wiltz, Pompjeesbau    01448  01448                % 07639 RGTR--
+120903025 Wiltz, Wanselerstro.  01448  01448                % 07639 RGTR--
+120903010 Wiltz, Follmillen     01449  01449                % 07639 RGTR--
+120903036 Wiltz, Salzbaach      01450  01450                % 07639 RGTR--
+120903001 Wiltz, Aalen Tipp     01451  01451                % 07639 RGTR--
+120903038 Wiltz, Schumann       01454  01454                % 07639 RGTR--
+121006001 Pommerlach, Theis     01456  01456                % 07639 RGTR--
+121006003 Pommerlach (Knauf)    01457  01457                % 07639 RGTR--
+300000029 Bras, Carrefour       01501  01501                % 07639 RGTR--
+300000047 Wardin, rue de Wiltz  01503  01503                % 07639 RGTR--
+300000042 Marvie, rue de Wiltz  01507  01507                % 07639 RGTR--
+300000027 Bastogne, Home Marke  01508  01508                % 07639 RGTR--
+300000022 Bastogne, Pl. McAuli  01510  01510                % 07639 RGTR--
+300000026 Bastogne, Renval      01514                       % 07639 RGTR--
+*Z 07640 RGTR--                                             % 07640 RGTR--
+*L 537      140701023 300000026  01840  01944               % 07640 RGTR--
+*A gu 140701023 300000026 000006  01840  01944              % 07640 RGTR--
+*A qa 140701023 300000026 000006  01840  01944              % 07640 RGTR--
+*R 1 300000026 140701023 300000026  01840  01944            % 07640 RGTR--
+*G RGB 140701023 300000026  01840  01944                    % 07640 RGTR--
+*A VE 140701023 300000026 000006  01840  01944              % 07640 RGTR--
+*I FD 140701023 300000026        0001489  01840  01944      % 07640 RGTR--
+140701023 Ettelbruck, Lycée Te         01840                % 07640 RGTR--
+140701024 Ettelbruck, Pensionn  01841  01841                % 07640 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01844  01844                % 07640 RGTR--
+140701009 Ettelbruck, Cité Pat  01846  01846                % 07640 RGTR--
+140701008 Ettelbruck, Cité Lop  01846  01846                % 07640 RGTR--
+140801002 Niederfeulen, Faubou  01849  01849                % 07640 RGTR--
+140801003 Niederfeulen, Mairie  01849  01849                % 07640 RGTR--
+140801005 Niederfeulen, Atelie  01850  01850                % 07640 RGTR--
+120502001 Heiderscheid, Fuusse  01854  01854                % 07640 RGTR--
+120502003 Heiderscheid, Zone C  01855  01855                % 07640 RGTR--
+120502002 Heiderscheid          01856  01856                % 07640 RGTR--
+120503001 Heischtergronn, Beim  01901  01901                % 07640 RGTR--
+120402002 Büderscheid, Village  01904  01904                % 07640 RGTR--
+120903003 Wiltz, Batzendelt     01909  01909                % 07640 RGTR--
+120903005 Wiltz, Belle Vue      01910  01910                % 07640 RGTR--
+120903006 Wiltz, Brandbau       01911  01911                % 07640 RGTR--
+120903011 Wiltz, Clinique       01912  01912                % 07640 RGTR--
+120903039 Wiltz, Schwemm        01915  01915                % 07640 RGTR--
+120903021 Wiltz, Lann           01916  01916                % 07640 RGTR--
+120903008 Wiltz, Pompjeesbau    01918  01918                % 07640 RGTR--
+120903025 Wiltz, Wanselerstro.  01918  01918                % 07640 RGTR--
+120903010 Wiltz, Follmillen     01919  01919                % 07640 RGTR--
+120903036 Wiltz, Salzbaach      01920  01920                % 07640 RGTR--
+120903001 Wiltz, Aalen Tipp     01921  01921                % 07640 RGTR--
+120903038 Wiltz, Schumann       01924  01924                % 07640 RGTR--
+121006001 Pommerlach, Theis     01926  01926                % 07640 RGTR--
+121006003 Pommerlach (Knauf)    01927  01927                % 07640 RGTR--
+300000029 Bras, Carrefour       01931  01931                % 07640 RGTR--
+300000047 Wardin, rue de Wiltz  01933  01933                % 07640 RGTR--
+300000042 Marvie, rue de Wiltz  01937  01937                % 07640 RGTR--
+300000027 Bastogne, Home Marke  01938  01938                % 07640 RGTR--
+300000022 Bastogne, Pl. McAuli  01940  01940                % 07640 RGTR--
+300000026 Bastogne, Renval      01944                       % 07640 RGTR--
+*Z 07641 RGTR--                                             % 07641 RGTR--
+*L 537      140701023 300000026  01910  02014               % 07641 RGTR--
+*A py 140701023 300000026 000006  01910  02014              % 07641 RGTR--
+*A qa 140701023 300000026 000006  01910  02014              % 07641 RGTR--
+*R 1 300000026 140701023 300000026  01910  02014            % 07641 RGTR--
+*G RGB 140701023 300000026  01910  02014                    % 07641 RGTR--
+*A VE 140701023 300000026 000006  01910  02014              % 07641 RGTR--
+*I FD 140701023 300000026        0001903  01910  02014      % 07641 RGTR--
+140701023 Ettelbruck, Lycée Te         01910                % 07641 RGTR--
+140701024 Ettelbruck, Pensionn  01911  01911                % 07641 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01914  01914                % 07641 RGTR--
+140701009 Ettelbruck, Cité Pat  01916  01916                % 07641 RGTR--
+140701008 Ettelbruck, Cité Lop  01916  01916                % 07641 RGTR--
+140801002 Niederfeulen, Faubou  01919  01919                % 07641 RGTR--
+140801003 Niederfeulen, Mairie  01919  01919                % 07641 RGTR--
+140801005 Niederfeulen, Atelie  01920  01920                % 07641 RGTR--
+120502001 Heiderscheid, Fuusse  01924  01924                % 07641 RGTR--
+120502003 Heiderscheid, Zone C  01925  01925                % 07641 RGTR--
+120502002 Heiderscheid          01926  01926                % 07641 RGTR--
+120503001 Heischtergronn, Beim  01931  01931                % 07641 RGTR--
+120402002 Büderscheid, Village  01934  01934                % 07641 RGTR--
+120903003 Wiltz, Batzendelt     01939  01939                % 07641 RGTR--
+120903005 Wiltz, Belle Vue      01940  01940                % 07641 RGTR--
+120903006 Wiltz, Brandbau       01941  01941                % 07641 RGTR--
+120903011 Wiltz, Clinique       01942  01942                % 07641 RGTR--
+120903039 Wiltz, Schwemm        01945  01945                % 07641 RGTR--
+120903021 Wiltz, Lann           01946  01946                % 07641 RGTR--
+120903008 Wiltz, Pompjeesbau    01948  01948                % 07641 RGTR--
+120903025 Wiltz, Wanselerstro.  01948  01948                % 07641 RGTR--
+120903010 Wiltz, Follmillen     01949  01949                % 07641 RGTR--
+120903036 Wiltz, Salzbaach      01950  01950                % 07641 RGTR--
+120903001 Wiltz, Aalen Tipp     01951  01951                % 07641 RGTR--
+120903038 Wiltz, Schumann       01954  01954                % 07641 RGTR--
+121006001 Pommerlach, Theis     01956  01956                % 07641 RGTR--
+121006003 Pommerlach (Knauf)    01957  01957                % 07641 RGTR--
+300000029 Bras, Carrefour       02001  02001                % 07641 RGTR--
+300000047 Wardin, rue de Wiltz  02003  02003                % 07641 RGTR--
+300000042 Marvie, rue de Wiltz  02007  02007                % 07641 RGTR--
+300000027 Bastogne, Home Marke  02008  02008                % 07641 RGTR--
+300000022 Bastogne, Pl. McAuli  02010  02010                % 07641 RGTR--
+300000026 Bastogne, Renval      02014                       % 07641 RGTR--
+*Z 07642 RGTR--                                             % 07642 RGTR--
+*L 537      140701023 300000026  02010  02114               % 07642 RGTR--
+*A gu 140701023 300000026 000006  02010  02114              % 07642 RGTR--
+*A qa 140701023 300000026 000006  02010  02114              % 07642 RGTR--
+*R 1 300000026 140701023 300000026  02010  02114            % 07642 RGTR--
+*G RGB 140701023 300000026  02010  02114                    % 07642 RGTR--
+*A VE 140701023 300000026 000006  02010  02114              % 07642 RGTR--
+*I FD 140701023 300000026        0002943  02010  02114      % 07642 RGTR--
+140701023 Ettelbruck, Lycée Te         02010                % 07642 RGTR--
+140701024 Ettelbruck, Pensionn  02011  02011                % 07642 RGTR--
+140701025 Ettelbruck, Pl.du Ma  02014  02014                % 07642 RGTR--
+140701009 Ettelbruck, Cité Pat  02016  02016                % 07642 RGTR--
+140701008 Ettelbruck, Cité Lop  02016  02016                % 07642 RGTR--
+140801002 Niederfeulen, Faubou  02019  02019                % 07642 RGTR--
+140801003 Niederfeulen, Mairie  02019  02019                % 07642 RGTR--
+140801005 Niederfeulen, Atelie  02020  02020                % 07642 RGTR--
+120502001 Heiderscheid, Fuusse  02024  02024                % 07642 RGTR--
+120502003 Heiderscheid, Zone C  02025  02025                % 07642 RGTR--
+120502002 Heiderscheid          02026  02026                % 07642 RGTR--
+120503001 Heischtergronn, Beim  02031  02031                % 07642 RGTR--
+120402002 Büderscheid, Village  02034  02034                % 07642 RGTR--
+120903003 Wiltz, Batzendelt     02039  02039                % 07642 RGTR--
+120903005 Wiltz, Belle Vue      02040  02040                % 07642 RGTR--
+120903006 Wiltz, Brandbau       02041  02041                % 07642 RGTR--
+120903011 Wiltz, Clinique       02042  02042                % 07642 RGTR--
+120903039 Wiltz, Schwemm        02045  02045                % 07642 RGTR--
+120903021 Wiltz, Lann           02046  02046                % 07642 RGTR--
+120903008 Wiltz, Pompjeesbau    02048  02048                % 07642 RGTR--
+120903025 Wiltz, Wanselerstro.  02048  02048                % 07642 RGTR--
+120903010 Wiltz, Follmillen     02049  02049                % 07642 RGTR--
+120903036 Wiltz, Salzbaach      02050  02050                % 07642 RGTR--
+120903001 Wiltz, Aalen Tipp     02051  02051                % 07642 RGTR--
+120903038 Wiltz, Schumann       02054  02054                % 07642 RGTR--
+121006001 Pommerlach, Theis     02056  02056                % 07642 RGTR--
+121006003 Pommerlach (Knauf)    02057  02057                % 07642 RGTR--
+300000029 Bras, Carrefour       02101  02101                % 07642 RGTR--
+300000047 Wardin, rue de Wiltz  02103  02103                % 07642 RGTR--
+300000042 Marvie, rue de Wiltz  02107  02107                % 07642 RGTR--
+300000027 Bastogne, Home Marke  02108  02108                % 07642 RGTR--
+300000022 Bastogne, Pl. McAuli  02110  02110                % 07642 RGTR--
+300000026 Bastogne, Renval      02114                       % 07642 RGTR--
+*Z 07643 RGTR--                                             % 07643 RGTR--
+*L 537      140701023 300000026  02110  02214               % 07643 RGTR--
+*A py 140701023 300000026 000006  02110  02214              % 07643 RGTR--
+*A qa 140701023 300000026 000006  02110  02214              % 07643 RGTR--
+*R 1 300000026 140701023 300000026  02110  02214            % 07643 RGTR--
+*G RGB 140701023 300000026  02110  02214                    % 07643 RGTR--
+*A VE 140701023 300000026 000006  02110  02214              % 07643 RGTR--
+*I FD 140701023 300000026        0002944  02110  02214      % 07643 RGTR--
+140701023 Ettelbruck, Lycée Te         02110                % 07643 RGTR--
+140701024 Ettelbruck, Pensionn  02111  02111                % 07643 RGTR--
+140701025 Ettelbruck, Pl.du Ma  02114  02114                % 07643 RGTR--
+140701009 Ettelbruck, Cité Pat  02116  02116                % 07643 RGTR--
+140701008 Ettelbruck, Cité Lop  02116  02116                % 07643 RGTR--
+140801002 Niederfeulen, Faubou  02119  02119                % 07643 RGTR--
+140801003 Niederfeulen, Mairie  02119  02119                % 07643 RGTR--
+140801005 Niederfeulen, Atelie  02120  02120                % 07643 RGTR--
+120502001 Heiderscheid, Fuusse  02124  02124                % 07643 RGTR--
+120502003 Heiderscheid, Zone C  02125  02125                % 07643 RGTR--
+120502002 Heiderscheid          02126  02126                % 07643 RGTR--
+120503001 Heischtergronn, Beim  02131  02131                % 07643 RGTR--
+120402002 Büderscheid, Village  02134  02134                % 07643 RGTR--
+120903003 Wiltz, Batzendelt     02139  02139                % 07643 RGTR--
+120903005 Wiltz, Belle Vue      02140  02140                % 07643 RGTR--
+120903006 Wiltz, Brandbau       02141  02141                % 07643 RGTR--
+120903011 Wiltz, Clinique       02142  02142                % 07643 RGTR--
+120903039 Wiltz, Schwemm        02145  02145                % 07643 RGTR--
+120903021 Wiltz, Lann           02146  02146                % 07643 RGTR--
+120903008 Wiltz, Pompjeesbau    02148  02148                % 07643 RGTR--
+120903025 Wiltz, Wanselerstro.  02148  02148                % 07643 RGTR--
+120903010 Wiltz, Follmillen     02149  02149                % 07643 RGTR--
+120903036 Wiltz, Salzbaach      02150  02150                % 07643 RGTR--
+120903001 Wiltz, Aalen Tipp     02151  02151                % 07643 RGTR--
+120903038 Wiltz, Schumann       02154  02154                % 07643 RGTR--
+121006001 Pommerlach, Theis     02156  02156                % 07643 RGTR--
+121006003 Pommerlach (Knauf)    02157  02157                % 07643 RGTR--
+300000029 Bras, Carrefour       02201  02201                % 07643 RGTR--
+300000047 Wardin, rue de Wiltz  02203  02203                % 07643 RGTR--
+300000042 Marvie, rue de Wiltz  02207  02207                % 07643 RGTR--
+300000027 Bastogne, Home Marke  02208  02208                % 07643 RGTR--
+300000022 Bastogne, Pl. McAuli  02210  02210                % 07643 RGTR--
+300000026 Bastogne, Renval      02214                       % 07643 RGTR--
+*Z 07644 RGTR--                                             % 07644 RGTR--
+*L 537      140701023 300000026  01810  01914               % 07644 RGTR--
+*A py 140701023 300000026 000156  01810  01914              % 07644 RGTR--
+*A qa 140701023 300000026 000156  01810  01914              % 07644 RGTR--
+*R 1 300000026 140701023 300000026  01810  01914            % 07644 RGTR--
+*G RGB 140701023 300000026  01810  01914                    % 07644 RGTR--
+*A VE 140701023 300000026 000156  01810  01914              % 07644 RGTR--
+*I FD 140701023 300000026        0001900  01810  01914      % 07644 RGTR--
+140701023 Ettelbruck, Lycée Te         01810                % 07644 RGTR--
+140701024 Ettelbruck, Pensionn  01811  01811                % 07644 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01814  01814                % 07644 RGTR--
+140701009 Ettelbruck, Cité Pat  01816  01816                % 07644 RGTR--
+140701008 Ettelbruck, Cité Lop  01816  01816                % 07644 RGTR--
+140801002 Niederfeulen, Faubou  01819  01819                % 07644 RGTR--
+140801003 Niederfeulen, Mairie  01819  01819                % 07644 RGTR--
+140801005 Niederfeulen, Atelie  01820  01820                % 07644 RGTR--
+120502001 Heiderscheid, Fuusse  01824  01824                % 07644 RGTR--
+120502003 Heiderscheid, Zone C  01825  01825                % 07644 RGTR--
+120502002 Heiderscheid          01826  01826                % 07644 RGTR--
+120503001 Heischtergronn, Beim  01831  01831                % 07644 RGTR--
+120402002 Büderscheid, Village  01834  01834                % 07644 RGTR--
+120903003 Wiltz, Batzendelt     01839  01839                % 07644 RGTR--
+120903005 Wiltz, Belle Vue      01840  01840                % 07644 RGTR--
+120903006 Wiltz, Brandbau       01841  01841                % 07644 RGTR--
+120903011 Wiltz, Clinique       01842  01842                % 07644 RGTR--
+120903039 Wiltz, Schwemm        01845  01845                % 07644 RGTR--
+120903021 Wiltz, Lann           01846  01846                % 07644 RGTR--
+120903008 Wiltz, Pompjeesbau    01848  01848                % 07644 RGTR--
+120903025 Wiltz, Wanselerstro.  01848  01848                % 07644 RGTR--
+120903010 Wiltz, Follmillen     01849  01849                % 07644 RGTR--
+120903036 Wiltz, Salzbaach      01850  01850                % 07644 RGTR--
+120903001 Wiltz, Aalen Tipp     01851  01851                % 07644 RGTR--
+120903038 Wiltz, Schumann       01854  01854                % 07644 RGTR--
+121006001 Pommerlach, Theis     01856  01856                % 07644 RGTR--
+121006003 Pommerlach (Knauf)    01857  01857                % 07644 RGTR--
+300000029 Bras, Carrefour       01901  01901                % 07644 RGTR--
+300000047 Wardin, rue de Wiltz  01903  01903                % 07644 RGTR--
+300000042 Marvie, rue de Wiltz  01907  01907                % 07644 RGTR--
+300000027 Bastogne, Home Marke  01908  01908                % 07644 RGTR--
+300000022 Bastogne, Pl. McAuli  01910  01910                % 07644 RGTR--
+300000026 Bastogne, Renval      01914                       % 07644 RGTR--
+*Z 07645 RGTR--                                             % 07645 RGTR--
+*L 537      120402002 300000026  00636  00716               % 07645 RGTR--
+*A py 120402002 300000026 000006  00636  00716              % 07645 RGTR--
+*A qa 120402002 300000026 000006  00636  00716              % 07645 RGTR--
+*R 1 300000026 120402002 300000026  00636  00716            % 07645 RGTR--
+*G RGB 120402002 300000026  00636  00716                    % 07645 RGTR--
+*A VE 120402002 300000026 000006  00636  00716              % 07645 RGTR--
+*I FD 120402002 300000026        0003020  00636  00716      % 07645 RGTR--
+120402002 Büderscheid, Village         00636                % 07645 RGTR--
+120903003 Wiltz, Batzendelt     00640  00640                % 07645 RGTR--
+120903005 Wiltz, Belle Vue      00641  00641                % 07645 RGTR--
+120903006 Wiltz, Brandbau       00643  00643                % 07645 RGTR--
+120903011 Wiltz, Clinique       00644  00644                % 07645 RGTR--
+120903039 Wiltz, Schwemm        00646  00646                % 07645 RGTR--
+120903021 Wiltz, Lann           00648  00648                % 07645 RGTR--
+120903008 Wiltz, Pompjeesbau    00650  00650                % 07645 RGTR--
+120903025 Wiltz, Wanselerstro.  00651  00651                % 07645 RGTR--
+120903010 Wiltz, Follmillen     00651  00651                % 07645 RGTR--
+120903036 Wiltz, Salzbaach      00652  00652                % 07645 RGTR--
+120903001 Wiltz, Aalen Tipp     00653  00653                % 07645 RGTR--
+120903038 Wiltz, Schumann       00656  00656                % 07645 RGTR--
+121006001 Pommerlach, Theis     00659  00659                % 07645 RGTR--
+121006003 Pommerlach (Knauf)    00659  00659                % 07645 RGTR--
+300000029 Bras, Carrefour       00704  00704                % 07645 RGTR--
+300000047 Wardin, rue de Wiltz  00706  00706                % 07645 RGTR--
+300000042 Marvie, rue de Wiltz  00709  00709                % 07645 RGTR--
+300000027 Bastogne, Home Marke  00711  00711                % 07645 RGTR--
+300000022 Bastogne, Pl. McAuli  00713  00713                % 07645 RGTR--
+300000026 Bastogne, Renval      00716                       % 07645 RGTR--
+*Z 07646 RGTR--                                             % 07646 RGTR--
+*L 537      300000026 140701023  00630  00738               % 07646 RGTR--
+*A gu 300000026 140701023 000006  00630  00738              % 07646 RGTR--
+*A cz 300000026 140701023 000006  00630  00738              % 07646 RGTR--
+*R 2 140701023 300000026 140701023  00630  00738            % 07646 RGTR--
+*G RGB 300000026 140701023  00630  00738                    % 07646 RGTR--
+*A VE 300000026 140701023 000006  00630  00738              % 07646 RGTR--
+*I FD 300000026 140701023        0000990  00630  00738      % 07646 RGTR--
+300000026 Bastogne, Renval             00630                % 07646 RGTR--
+300000023 Bastogne, Place Merc  00632  00632                % 07646 RGTR--
+300000027 Bastogne, Home Marke  00634  00634                % 07646 RGTR--
+300000042 Marvie, rue de Wiltz  00636  00636                % 07646 RGTR--
+300000047 Wardin, rue de Wiltz  00639  00639                % 07646 RGTR--
+300000029 Bras, Carrefour       00641  00641                % 07646 RGTR--
+121006003 Pommerlach (Knauf)    00645  00645                % 07646 RGTR--
+121006001 Pommerlach, Theis     00646  00646                % 07646 RGTR--
+120903038 Wiltz, Schumann       00649  00649                % 07646 RGTR--
+120903039 Wiltz, Schwemm        00653  00653                % 07646 RGTR--
+120903021 Wiltz, Lann           00655  00655                % 07646 RGTR--
+120903008 Wiltz, Pompjeesbau    00656  00656                % 07646 RGTR--
+120903025 Wiltz, Wanselerstro.  00657  00657                % 07646 RGTR--
+120903010 Wiltz, Follmillen     00658  00658                % 07646 RGTR--
+120903036 Wiltz, Salzbaach      00659  00659                % 07646 RGTR--
+120903001 Wiltz, Aalen Tipp     00659  00659                % 07646 RGTR--
+120903031 Wiltz, Huuschtewee/P  00702  00702                % 07646 RGTR--
+120903035 Wiltz, Huuschtewee    00702  00702                % 07646 RGTR--
+120903011 Wiltz, Clinique       00703  00703                % 07646 RGTR--
+120903006 Wiltz, Brandbau       00704  00704                % 07646 RGTR--
+120903005 Wiltz, Belle Vue      00705  00705                % 07646 RGTR--
+120903003 Wiltz, Batzendelt     00706  00706                % 07646 RGTR--
+120402002 Büderscheid, Village  00710  00710                % 07646 RGTR--
+120503001 Heischtergronn, Beim  00714  00714                % 07646 RGTR--
+120502002 Heiderscheid          00720  00720                % 07646 RGTR--
+120502003 Heiderscheid, Zone C  00721  00721                % 07646 RGTR--
+120502001 Heiderscheid, Fuusse  00722  00722                % 07646 RGTR--
+140801005 Niederfeulen, Atelie  00725  00725                % 07646 RGTR--
+140801001 Niederfeulen, Belle   00726  00726                % 07646 RGTR--
+140801002 Niederfeulen, Faubou  00727  00727                % 07646 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00732  00732                % 07646 RGTR--
+140701015 Ettelbruck, Ecole Pr  00734  00734                % 07646 RGTR--
+140701016 Ettelbruck, Gare      00736  00736                % 07646 RGTR--
+140701001 Ettelbruck, Anc. Cli  00737  00737                % 07646 RGTR--
+140701023 Ettelbruck, Lycée Te  00738                       % 07646 RGTR--
+*Z 07647 RGTR--                                             % 07647 RGTR--
+*L 537      300000026 140701023  00700  00808               % 07647 RGTR--
+*A py 300000026 140701023 000006  00700  00808              % 07647 RGTR--
+*A cz 300000026 140701023 000006  00700  00808              % 07647 RGTR--
+*R 2 140701023 300000026 140701023  00700  00808            % 07647 RGTR--
+*G RGB 300000026 140701023  00700  00808                    % 07647 RGTR--
+*A VE 300000026 140701023 000006  00700  00808              % 07647 RGTR--
+*I FD 300000026 140701023        0002152  00700  00808      % 07647 RGTR--
+300000026 Bastogne, Renval             00700                % 07647 RGTR--
+300000023 Bastogne, Place Merc  00702  00702                % 07647 RGTR--
+300000027 Bastogne, Home Marke  00704  00704                % 07647 RGTR--
+300000042 Marvie, rue de Wiltz  00706  00706                % 07647 RGTR--
+300000047 Wardin, rue de Wiltz  00709  00709                % 07647 RGTR--
+300000029 Bras, Carrefour       00711  00711                % 07647 RGTR--
+121006003 Pommerlach (Knauf)    00715  00715                % 07647 RGTR--
+121006001 Pommerlach, Theis     00716  00716                % 07647 RGTR--
+120903038 Wiltz, Schumann       00719  00719                % 07647 RGTR--
+120903039 Wiltz, Schwemm        00723  00723                % 07647 RGTR--
+120903021 Wiltz, Lann           00725  00725                % 07647 RGTR--
+120903008 Wiltz, Pompjeesbau    00726  00726                % 07647 RGTR--
+120903025 Wiltz, Wanselerstro.  00727  00727                % 07647 RGTR--
+120903010 Wiltz, Follmillen     00728  00728                % 07647 RGTR--
+120903036 Wiltz, Salzbaach      00729  00729                % 07647 RGTR--
+120903001 Wiltz, Aalen Tipp     00729  00729                % 07647 RGTR--
+120903031 Wiltz, Huuschtewee/P  00732  00732                % 07647 RGTR--
+120903035 Wiltz, Huuschtewee    00732  00732                % 07647 RGTR--
+120903011 Wiltz, Clinique       00733  00733                % 07647 RGTR--
+120903006 Wiltz, Brandbau       00734  00734                % 07647 RGTR--
+120903005 Wiltz, Belle Vue      00735  00735                % 07647 RGTR--
+120903003 Wiltz, Batzendelt     00736  00736                % 07647 RGTR--
+120402002 Büderscheid, Village  00740  00740                % 07647 RGTR--
+120503001 Heischtergronn, Beim  00744  00744                % 07647 RGTR--
+120502002 Heiderscheid          00750  00750                % 07647 RGTR--
+120502003 Heiderscheid, Zone C  00751  00751                % 07647 RGTR--
+120502001 Heiderscheid, Fuusse  00752  00752                % 07647 RGTR--
+140801005 Niederfeulen, Atelie  00755  00755                % 07647 RGTR--
+140801001 Niederfeulen, Belle   00756  00756                % 07647 RGTR--
+140801002 Niederfeulen, Faubou  00757  00757                % 07647 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00802  00802                % 07647 RGTR--
+140701015 Ettelbruck, Ecole Pr  00804  00804                % 07647 RGTR--
+140701016 Ettelbruck, Gare      00806  00806                % 07647 RGTR--
+140701001 Ettelbruck, Anc. Cli  00807  00807                % 07647 RGTR--
+140701023 Ettelbruck, Lycée Te  00808                       % 07647 RGTR--
+*Z 07648 RGTR--                                             % 07648 RGTR--
+*L 537      300000026 140701023  00730  00838               % 07648 RGTR--
+*A py 300000026 140701023 000006  00730  00838              % 07648 RGTR--
+*A cz 300000026 140701023 000006  00730  00838              % 07648 RGTR--
+*R 2 140701023 300000026 140701023  00730  00838            % 07648 RGTR--
+*G RGB 300000026 140701023  00730  00838                    % 07648 RGTR--
+*A VE 300000026 140701023 000006  00730  00838              % 07648 RGTR--
+*I FD 300000026 140701023        0002405  00730  00838      % 07648 RGTR--
+300000026 Bastogne, Renval             00730                % 07648 RGTR--
+300000023 Bastogne, Place Merc  00732  00732                % 07648 RGTR--
+300000027 Bastogne, Home Marke  00734  00734                % 07648 RGTR--
+300000042 Marvie, rue de Wiltz  00736  00736                % 07648 RGTR--
+300000047 Wardin, rue de Wiltz  00739  00739                % 07648 RGTR--
+300000029 Bras, Carrefour       00741  00741                % 07648 RGTR--
+121006003 Pommerlach (Knauf)    00745  00745                % 07648 RGTR--
+121006001 Pommerlach, Theis     00746  00746                % 07648 RGTR--
+120903038 Wiltz, Schumann       00749  00749                % 07648 RGTR--
+120903039 Wiltz, Schwemm        00753  00753                % 07648 RGTR--
+120903021 Wiltz, Lann           00755  00755                % 07648 RGTR--
+120903008 Wiltz, Pompjeesbau    00756  00756                % 07648 RGTR--
+120903025 Wiltz, Wanselerstro.  00757  00757                % 07648 RGTR--
+120903010 Wiltz, Follmillen     00758  00758                % 07648 RGTR--
+120903036 Wiltz, Salzbaach      00759  00759                % 07648 RGTR--
+120903001 Wiltz, Aalen Tipp     00759  00759                % 07648 RGTR--
+120903031 Wiltz, Huuschtewee/P  00802  00802                % 07648 RGTR--
+120903035 Wiltz, Huuschtewee    00802  00802                % 07648 RGTR--
+120903011 Wiltz, Clinique       00803  00803                % 07648 RGTR--
+120903006 Wiltz, Brandbau       00804  00804                % 07648 RGTR--
+120903005 Wiltz, Belle Vue      00805  00805                % 07648 RGTR--
+120903003 Wiltz, Batzendelt     00806  00806                % 07648 RGTR--
+120402002 Büderscheid, Village  00810  00810                % 07648 RGTR--
+120503001 Heischtergronn, Beim  00814  00814                % 07648 RGTR--
+120502002 Heiderscheid          00820  00820                % 07648 RGTR--
+120502003 Heiderscheid, Zone C  00821  00821                % 07648 RGTR--
+120502001 Heiderscheid, Fuusse  00822  00822                % 07648 RGTR--
+140801005 Niederfeulen, Atelie  00825  00825                % 07648 RGTR--
+140801001 Niederfeulen, Belle   00826  00826                % 07648 RGTR--
+140801002 Niederfeulen, Faubou  00827  00827                % 07648 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00832  00832                % 07648 RGTR--
+140701015 Ettelbruck, Ecole Pr  00834  00834                % 07648 RGTR--
+140701016 Ettelbruck, Gare      00836  00836                % 07648 RGTR--
+140701001 Ettelbruck, Anc. Cli  00837  00837                % 07648 RGTR--
+140701023 Ettelbruck, Lycée Te  00838                       % 07648 RGTR--
+*Z 07649 RGTR--                                             % 07649 RGTR--
+*L 537      300000026 140701023  00830  00938               % 07649 RGTR--
+*A py 300000026 140701023 000006  00830  00938              % 07649 RGTR--
+*A cz 300000026 140701023 000006  00830  00938              % 07649 RGTR--
+*R 2 140701023 300000026 140701023  00830  00938            % 07649 RGTR--
+*G RGB 300000026 140701023  00830  00938                    % 07649 RGTR--
+*A VE 300000026 140701023 000006  00830  00938              % 07649 RGTR--
+*I FD 300000026 140701023        0001038  00830  00938      % 07649 RGTR--
+300000026 Bastogne, Renval             00830                % 07649 RGTR--
+300000023 Bastogne, Place Merc  00832  00832                % 07649 RGTR--
+300000027 Bastogne, Home Marke  00834  00834                % 07649 RGTR--
+300000042 Marvie, rue de Wiltz  00836  00836                % 07649 RGTR--
+300000047 Wardin, rue de Wiltz  00839  00839                % 07649 RGTR--
+300000029 Bras, Carrefour       00841  00841                % 07649 RGTR--
+121006003 Pommerlach (Knauf)    00845  00845                % 07649 RGTR--
+121006001 Pommerlach, Theis     00846  00846                % 07649 RGTR--
+120903038 Wiltz, Schumann       00849  00849                % 07649 RGTR--
+120903039 Wiltz, Schwemm        00853  00853                % 07649 RGTR--
+120903021 Wiltz, Lann           00855  00855                % 07649 RGTR--
+120903008 Wiltz, Pompjeesbau    00856  00856                % 07649 RGTR--
+120903025 Wiltz, Wanselerstro.  00857  00857                % 07649 RGTR--
+120903010 Wiltz, Follmillen     00858  00858                % 07649 RGTR--
+120903036 Wiltz, Salzbaach      00859  00859                % 07649 RGTR--
+120903001 Wiltz, Aalen Tipp     00859  00859                % 07649 RGTR--
+120903031 Wiltz, Huuschtewee/P  00902  00902                % 07649 RGTR--
+120903035 Wiltz, Huuschtewee    00902  00902                % 07649 RGTR--
+120903011 Wiltz, Clinique       00903  00903                % 07649 RGTR--
+120903006 Wiltz, Brandbau       00904  00904                % 07649 RGTR--
+120903005 Wiltz, Belle Vue      00905  00905                % 07649 RGTR--
+120903003 Wiltz, Batzendelt     00906  00906                % 07649 RGTR--
+120402002 Büderscheid, Village  00910  00910                % 07649 RGTR--
+120503001 Heischtergronn, Beim  00914  00914                % 07649 RGTR--
+120502002 Heiderscheid          00920  00920                % 07649 RGTR--
+120502003 Heiderscheid, Zone C  00921  00921                % 07649 RGTR--
+120502001 Heiderscheid, Fuusse  00922  00922                % 07649 RGTR--
+140801005 Niederfeulen, Atelie  00925  00925                % 07649 RGTR--
+140801001 Niederfeulen, Belle   00926  00926                % 07649 RGTR--
+140801002 Niederfeulen, Faubou  00927  00927                % 07649 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00932  00932                % 07649 RGTR--
+140701015 Ettelbruck, Ecole Pr  00934  00934                % 07649 RGTR--
+140701016 Ettelbruck, Gare      00936  00936                % 07649 RGTR--
+140701001 Ettelbruck, Anc. Cli  00937  00937                % 07649 RGTR--
+140701023 Ettelbruck, Lycée Te  00938                       % 07649 RGTR--
+*Z 07650 RGTR--                                             % 07650 RGTR--
+*L 537      300000026 140701023  01600  01708               % 07650 RGTR--
+*A py 300000026 140701023 000006  01600  01708              % 07650 RGTR--
+*A cz 300000026 140701023 000006  01600  01708              % 07650 RGTR--
+*R 2 140701023 300000026 140701023  01600  01708            % 07650 RGTR--
+*G RGB 300000026 140701023  01600  01708                    % 07650 RGTR--
+*A VE 300000026 140701023 000006  01600  01708              % 07650 RGTR--
+*I FD 300000026 140701023        0001975  01600  01708      % 07650 RGTR--
+300000026 Bastogne, Renval             01600                % 07650 RGTR--
+300000023 Bastogne, Place Merc  01602  01602                % 07650 RGTR--
+300000027 Bastogne, Home Marke  01604  01604                % 07650 RGTR--
+300000042 Marvie, rue de Wiltz  01606  01606                % 07650 RGTR--
+300000047 Wardin, rue de Wiltz  01609  01609                % 07650 RGTR--
+300000029 Bras, Carrefour       01611  01611                % 07650 RGTR--
+121006003 Pommerlach (Knauf)    01615  01615                % 07650 RGTR--
+121006001 Pommerlach, Theis     01616  01616                % 07650 RGTR--
+120903038 Wiltz, Schumann       01619  01619                % 07650 RGTR--
+120903039 Wiltz, Schwemm        01623  01623                % 07650 RGTR--
+120903021 Wiltz, Lann           01625  01625                % 07650 RGTR--
+120903008 Wiltz, Pompjeesbau    01626  01626                % 07650 RGTR--
+120903025 Wiltz, Wanselerstro.  01627  01627                % 07650 RGTR--
+120903010 Wiltz, Follmillen     01628  01628                % 07650 RGTR--
+120903036 Wiltz, Salzbaach      01629  01629                % 07650 RGTR--
+120903001 Wiltz, Aalen Tipp     01629  01629                % 07650 RGTR--
+120903031 Wiltz, Huuschtewee/P  01632  01632                % 07650 RGTR--
+120903035 Wiltz, Huuschtewee    01632  01632                % 07650 RGTR--
+120903011 Wiltz, Clinique       01633  01633                % 07650 RGTR--
+120903006 Wiltz, Brandbau       01634  01634                % 07650 RGTR--
+120903005 Wiltz, Belle Vue      01635  01635                % 07650 RGTR--
+120903003 Wiltz, Batzendelt     01636  01636                % 07650 RGTR--
+120402002 Büderscheid, Village  01640  01640                % 07650 RGTR--
+120503001 Heischtergronn, Beim  01644  01644                % 07650 RGTR--
+120502002 Heiderscheid          01650  01650                % 07650 RGTR--
+120502003 Heiderscheid, Zone C  01651  01651                % 07650 RGTR--
+120502001 Heiderscheid, Fuusse  01652  01652                % 07650 RGTR--
+140801005 Niederfeulen, Atelie  01655  01655                % 07650 RGTR--
+140801001 Niederfeulen, Belle   01656  01656                % 07650 RGTR--
+140801002 Niederfeulen, Faubou  01657  01657                % 07650 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01702  01702                % 07650 RGTR--
+140701015 Ettelbruck, Ecole Pr  01704  01704                % 07650 RGTR--
+140701016 Ettelbruck, Gare      01706  01706                % 07650 RGTR--
+140701001 Ettelbruck, Anc. Cli  01707  01707                % 07650 RGTR--
+140701023 Ettelbruck, Lycée Te  01708                       % 07650 RGTR--
+*Z 07651 RGTR--                                             % 07651 RGTR--
+*L 537      300000026 140701023  01630  01738               % 07651 RGTR--
+*A py 300000026 140701023 000006  01630  01738              % 07651 RGTR--
+*A cz 300000026 140701023 000006  01630  01738              % 07651 RGTR--
+*R 2 140701023 300000026 140701023  01630  01738            % 07651 RGTR--
+*G RGB 300000026 140701023  01630  01738                    % 07651 RGTR--
+*A VE 300000026 140701023 000006  01630  01738              % 07651 RGTR--
+*I FD 300000026 140701023        0002082  01630  01738      % 07651 RGTR--
+300000026 Bastogne, Renval             01630                % 07651 RGTR--
+300000023 Bastogne, Place Merc  01632  01632                % 07651 RGTR--
+300000027 Bastogne, Home Marke  01634  01634                % 07651 RGTR--
+300000042 Marvie, rue de Wiltz  01636  01636                % 07651 RGTR--
+300000047 Wardin, rue de Wiltz  01639  01639                % 07651 RGTR--
+300000029 Bras, Carrefour       01641  01641                % 07651 RGTR--
+121006003 Pommerlach (Knauf)    01645  01645                % 07651 RGTR--
+121006001 Pommerlach, Theis     01646  01646                % 07651 RGTR--
+120903038 Wiltz, Schumann       01649  01649                % 07651 RGTR--
+120903039 Wiltz, Schwemm        01653  01653                % 07651 RGTR--
+120903021 Wiltz, Lann           01655  01655                % 07651 RGTR--
+120903008 Wiltz, Pompjeesbau    01656  01656                % 07651 RGTR--
+120903025 Wiltz, Wanselerstro.  01657  01657                % 07651 RGTR--
+120903010 Wiltz, Follmillen     01658  01658                % 07651 RGTR--
+120903036 Wiltz, Salzbaach      01659  01659                % 07651 RGTR--
+120903001 Wiltz, Aalen Tipp     01659  01659                % 07651 RGTR--
+120903031 Wiltz, Huuschtewee/P  01702  01702                % 07651 RGTR--
+120903035 Wiltz, Huuschtewee    01702  01702                % 07651 RGTR--
+120903011 Wiltz, Clinique       01703  01703                % 07651 RGTR--
+120903006 Wiltz, Brandbau       01704  01704                % 07651 RGTR--
+120903005 Wiltz, Belle Vue      01705  01705                % 07651 RGTR--
+120903003 Wiltz, Batzendelt     01706  01706                % 07651 RGTR--
+120402002 Büderscheid, Village  01710  01710                % 07651 RGTR--
+120503001 Heischtergronn, Beim  01714  01714                % 07651 RGTR--
+120502002 Heiderscheid          01720  01720                % 07651 RGTR--
+120502003 Heiderscheid, Zone C  01721  01721                % 07651 RGTR--
+120502001 Heiderscheid, Fuusse  01722  01722                % 07651 RGTR--
+140801005 Niederfeulen, Atelie  01725  01725                % 07651 RGTR--
+140801001 Niederfeulen, Belle   01726  01726                % 07651 RGTR--
+140801002 Niederfeulen, Faubou  01727  01727                % 07651 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01732  01732                % 07651 RGTR--
+140701015 Ettelbruck, Ecole Pr  01734  01734                % 07651 RGTR--
+140701016 Ettelbruck, Gare      01736  01736                % 07651 RGTR--
+140701001 Ettelbruck, Anc. Cli  01737  01737                % 07651 RGTR--
+140701023 Ettelbruck, Lycée Te  01738                       % 07651 RGTR--
+*Z 07652 RGTR--                                             % 07652 RGTR--
+*L 537      300000026 140701023  01730  01838               % 07652 RGTR--
+*A py 300000026 140701023 000006  01730  01838              % 07652 RGTR--
+*A cz 300000026 140701023 000006  01730  01838              % 07652 RGTR--
+*R 2 140701023 300000026 140701023  01730  01838            % 07652 RGTR--
+*G RGB 300000026 140701023  01730  01838                    % 07652 RGTR--
+*A VE 300000026 140701023 000006  01730  01838              % 07652 RGTR--
+*I FD 300000026 140701023        0002083  01730  01838      % 07652 RGTR--
+300000026 Bastogne, Renval             01730                % 07652 RGTR--
+300000023 Bastogne, Place Merc  01732  01732                % 07652 RGTR--
+300000027 Bastogne, Home Marke  01734  01734                % 07652 RGTR--
+300000042 Marvie, rue de Wiltz  01736  01736                % 07652 RGTR--
+300000047 Wardin, rue de Wiltz  01739  01739                % 07652 RGTR--
+300000029 Bras, Carrefour       01741  01741                % 07652 RGTR--
+121006003 Pommerlach (Knauf)    01745  01745                % 07652 RGTR--
+121006001 Pommerlach, Theis     01746  01746                % 07652 RGTR--
+120903038 Wiltz, Schumann       01749  01749                % 07652 RGTR--
+120903039 Wiltz, Schwemm        01753  01753                % 07652 RGTR--
+120903021 Wiltz, Lann           01755  01755                % 07652 RGTR--
+120903008 Wiltz, Pompjeesbau    01756  01756                % 07652 RGTR--
+120903025 Wiltz, Wanselerstro.  01757  01757                % 07652 RGTR--
+120903010 Wiltz, Follmillen     01758  01758                % 07652 RGTR--
+120903036 Wiltz, Salzbaach      01759  01759                % 07652 RGTR--
+120903001 Wiltz, Aalen Tipp     01759  01759                % 07652 RGTR--
+120903031 Wiltz, Huuschtewee/P  01802  01802                % 07652 RGTR--
+120903035 Wiltz, Huuschtewee    01802  01802                % 07652 RGTR--
+120903011 Wiltz, Clinique       01803  01803                % 07652 RGTR--
+120903006 Wiltz, Brandbau       01804  01804                % 07652 RGTR--
+120903005 Wiltz, Belle Vue      01805  01805                % 07652 RGTR--
+120903003 Wiltz, Batzendelt     01806  01806                % 07652 RGTR--
+120402002 Büderscheid, Village  01810  01810                % 07652 RGTR--
+120503001 Heischtergronn, Beim  01814  01814                % 07652 RGTR--
+120502002 Heiderscheid          01820  01820                % 07652 RGTR--
+120502003 Heiderscheid, Zone C  01821  01821                % 07652 RGTR--
+120502001 Heiderscheid, Fuusse  01822  01822                % 07652 RGTR--
+140801005 Niederfeulen, Atelie  01825  01825                % 07652 RGTR--
+140801001 Niederfeulen, Belle   01826  01826                % 07652 RGTR--
+140801002 Niederfeulen, Faubou  01827  01827                % 07652 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01832  01832                % 07652 RGTR--
+140701015 Ettelbruck, Ecole Pr  01834  01834                % 07652 RGTR--
+140701016 Ettelbruck, Gare      01836  01836                % 07652 RGTR--
+140701001 Ettelbruck, Anc. Cli  01837  01837                % 07652 RGTR--
+140701023 Ettelbruck, Lycée Te  01838                       % 07652 RGTR--
+*Z 07653 RGTR--                                             % 07653 RGTR--
+*L 537      300000026 140701023  01030  01135               % 07653 RGTR--
+*A py 300000026 140701023 000001  01030  01135              % 07653 RGTR--
+*A cz 300000026 140701023 000001  01030  01135              % 07653 RGTR--
+*R 2 140701023 300000026 140701023  01030  01135            % 07653 RGTR--
+*G RGB 300000026 140701023  01030  01135                    % 07653 RGTR--
+*A VE 300000026 140701023 000001  01030  01135              % 07653 RGTR--
+*I FD 300000026 140701023        0002596  01030  01135      % 07653 RGTR--
+300000026 Bastogne, Renval             01030                % 07653 RGTR--
+300000023 Bastogne, Place Merc  01032  01032                % 07653 RGTR--
+300000027 Bastogne, Home Marke  01034  01034                % 07653 RGTR--
+300000042 Marvie, rue de Wiltz  01035  01035                % 07653 RGTR--
+300000047 Wardin, rue de Wiltz  01038  01038                % 07653 RGTR--
+300000029 Bras, Carrefour       01040  01040                % 07653 RGTR--
+121006003 Pommerlach (Knauf)    01044  01044                % 07653 RGTR--
+121006001 Pommerlach, Theis     01045  01045                % 07653 RGTR--
+120903038 Wiltz, Schumann       01048  01048                % 07653 RGTR--
+120903039 Wiltz, Schwemm        01052  01052                % 07653 RGTR--
+120903021 Wiltz, Lann           01053  01053                % 07653 RGTR--
+120903008 Wiltz, Pompjeesbau    01054  01054                % 07653 RGTR--
+120903025 Wiltz, Wanselerstro.  01055  01055                % 07653 RGTR--
+120903010 Wiltz, Follmillen     01056  01056                % 07653 RGTR--
+120903036 Wiltz, Salzbaach      01057  01057                % 07653 RGTR--
+120903001 Wiltz, Aalen Tipp     01057  01057                % 07653 RGTR--
+120903031 Wiltz, Huuschtewee/P  01100  01100                % 07653 RGTR--
+120903035 Wiltz, Huuschtewee    01100  01100                % 07653 RGTR--
+120903011 Wiltz, Clinique       01101  01101                % 07653 RGTR--
+120903006 Wiltz, Brandbau       01102  01102                % 07653 RGTR--
+120903005 Wiltz, Belle Vue      01103  01103                % 07653 RGTR--
+120903003 Wiltz, Batzendelt     01104  01104                % 07653 RGTR--
+120402002 Büderscheid, Village  01108  01108                % 07653 RGTR--
+120503001 Heischtergronn, Beim  01112  01112                % 07653 RGTR--
+120502002 Heiderscheid          01117  01117                % 07653 RGTR--
+120502003 Heiderscheid, Zone C  01118  01118                % 07653 RGTR--
+120502001 Heiderscheid, Fuusse  01120  01120                % 07653 RGTR--
+140801005 Niederfeulen, Atelie  01123  01123                % 07653 RGTR--
+140801001 Niederfeulen, Belle   01124  01124                % 07653 RGTR--
+140801002 Niederfeulen, Faubou  01125  01125                % 07653 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01129  01129                % 07653 RGTR--
+140701015 Ettelbruck, Ecole Pr  01131  01131                % 07653 RGTR--
+140701016 Ettelbruck, Gare      01133  01133                % 07653 RGTR--
+140701001 Ettelbruck, Anc. Cli  01133  01133                % 07653 RGTR--
+140701023 Ettelbruck, Lycée Te  01135                       % 07653 RGTR--
+*Z 07654 RGTR--                                             % 07654 RGTR--
+*L 537      300000026 140701023  01330  01435               % 07654 RGTR--
+*A py 300000026 140701023 000001  01330  01435              % 07654 RGTR--
+*A cz 300000026 140701023 000001  01330  01435              % 07654 RGTR--
+*R 2 140701023 300000026 140701023  01330  01435            % 07654 RGTR--
+*G RGB 300000026 140701023  01330  01435                    % 07654 RGTR--
+*A VE 300000026 140701023 000001  01330  01435              % 07654 RGTR--
+*I FD 300000026 140701023        0002762  01330  01435      % 07654 RGTR--
+300000026 Bastogne, Renval             01330                % 07654 RGTR--
+300000023 Bastogne, Place Merc  01332  01332                % 07654 RGTR--
+300000027 Bastogne, Home Marke  01334  01334                % 07654 RGTR--
+300000042 Marvie, rue de Wiltz  01335  01335                % 07654 RGTR--
+300000047 Wardin, rue de Wiltz  01338  01338                % 07654 RGTR--
+300000029 Bras, Carrefour       01340  01340                % 07654 RGTR--
+121006003 Pommerlach (Knauf)    01344  01344                % 07654 RGTR--
+121006001 Pommerlach, Theis     01345  01345                % 07654 RGTR--
+120903038 Wiltz, Schumann       01348  01348                % 07654 RGTR--
+120903039 Wiltz, Schwemm        01352  01352                % 07654 RGTR--
+120903021 Wiltz, Lann           01353  01353                % 07654 RGTR--
+120903008 Wiltz, Pompjeesbau    01354  01354                % 07654 RGTR--
+120903025 Wiltz, Wanselerstro.  01355  01355                % 07654 RGTR--
+120903010 Wiltz, Follmillen     01356  01356                % 07654 RGTR--
+120903036 Wiltz, Salzbaach      01357  01357                % 07654 RGTR--
+120903001 Wiltz, Aalen Tipp     01357  01357                % 07654 RGTR--
+120903031 Wiltz, Huuschtewee/P  01400  01400                % 07654 RGTR--
+120903035 Wiltz, Huuschtewee    01400  01400                % 07654 RGTR--
+120903011 Wiltz, Clinique       01401  01401                % 07654 RGTR--
+120903006 Wiltz, Brandbau       01402  01402                % 07654 RGTR--
+120903005 Wiltz, Belle Vue      01403  01403                % 07654 RGTR--
+120903003 Wiltz, Batzendelt     01404  01404                % 07654 RGTR--
+120402002 Büderscheid, Village  01408  01408                % 07654 RGTR--
+120503001 Heischtergronn, Beim  01412  01412                % 07654 RGTR--
+120502002 Heiderscheid          01417  01417                % 07654 RGTR--
+120502003 Heiderscheid, Zone C  01418  01418                % 07654 RGTR--
+120502001 Heiderscheid, Fuusse  01420  01420                % 07654 RGTR--
+140801005 Niederfeulen, Atelie  01423  01423                % 07654 RGTR--
+140801001 Niederfeulen, Belle   01424  01424                % 07654 RGTR--
+140801002 Niederfeulen, Faubou  01425  01425                % 07654 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01429  01429                % 07654 RGTR--
+140701015 Ettelbruck, Ecole Pr  01431  01431                % 07654 RGTR--
+140701016 Ettelbruck, Gare      01433  01433                % 07654 RGTR--
+140701001 Ettelbruck, Anc. Cli  01433  01433                % 07654 RGTR--
+140701023 Ettelbruck, Lycée Te  01435                       % 07654 RGTR--
+*Z 07655 RGTR--                                             % 07655 RGTR--
+*L 537      300000026 140701023  00530  00635               % 07655 RGTR--
+*A py 300000026 140701023 000006  00530  00635              % 07655 RGTR--
+*A cz 300000026 140701023 000006  00530  00635              % 07655 RGTR--
+*R 2 140701023 300000026 140701023  00530  00635            % 07655 RGTR--
+*G RGB 300000026 140701023  00530  00635                    % 07655 RGTR--
+*A VE 300000026 140701023 000006  00530  00635              % 07655 RGTR--
+*I FD 300000026 140701023        0002407  00530  00635      % 07655 RGTR--
+300000026 Bastogne, Renval             00530                % 07655 RGTR--
+300000023 Bastogne, Place Merc  00532  00532                % 07655 RGTR--
+300000027 Bastogne, Home Marke  00534  00534                % 07655 RGTR--
+300000042 Marvie, rue de Wiltz  00535  00535                % 07655 RGTR--
+300000047 Wardin, rue de Wiltz  00538  00538                % 07655 RGTR--
+300000029 Bras, Carrefour       00540  00540                % 07655 RGTR--
+121006003 Pommerlach (Knauf)    00544  00544                % 07655 RGTR--
+121006001 Pommerlach, Theis     00545  00545                % 07655 RGTR--
+120903038 Wiltz, Schumann       00548  00548                % 07655 RGTR--
+120903039 Wiltz, Schwemm        00552  00552                % 07655 RGTR--
+120903021 Wiltz, Lann           00553  00553                % 07655 RGTR--
+120903008 Wiltz, Pompjeesbau    00554  00554                % 07655 RGTR--
+120903025 Wiltz, Wanselerstro.  00555  00555                % 07655 RGTR--
+120903010 Wiltz, Follmillen     00556  00556                % 07655 RGTR--
+120903036 Wiltz, Salzbaach      00557  00557                % 07655 RGTR--
+120903001 Wiltz, Aalen Tipp     00557  00557                % 07655 RGTR--
+120903031 Wiltz, Huuschtewee/P  00600  00600                % 07655 RGTR--
+120903035 Wiltz, Huuschtewee    00600  00600                % 07655 RGTR--
+120903011 Wiltz, Clinique       00601  00601                % 07655 RGTR--
+120903006 Wiltz, Brandbau       00602  00602                % 07655 RGTR--
+120903005 Wiltz, Belle Vue      00603  00603                % 07655 RGTR--
+120903003 Wiltz, Batzendelt     00604  00604                % 07655 RGTR--
+120402002 Büderscheid, Village  00608  00608                % 07655 RGTR--
+120503001 Heischtergronn, Beim  00612  00612                % 07655 RGTR--
+120502002 Heiderscheid          00617  00617                % 07655 RGTR--
+120502003 Heiderscheid, Zone C  00618  00618                % 07655 RGTR--
+120502001 Heiderscheid, Fuusse  00620  00620                % 07655 RGTR--
+140801005 Niederfeulen, Atelie  00623  00623                % 07655 RGTR--
+140801001 Niederfeulen, Belle   00624  00624                % 07655 RGTR--
+140801002 Niederfeulen, Faubou  00625  00625                % 07655 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00629  00629                % 07655 RGTR--
+140701015 Ettelbruck, Ecole Pr  00631  00631                % 07655 RGTR--
+140701016 Ettelbruck, Gare      00633  00633                % 07655 RGTR--
+140701001 Ettelbruck, Anc. Cli  00633  00633                % 07655 RGTR--
+140701023 Ettelbruck, Lycée Te  00635                       % 07655 RGTR--
+*Z 07656 RGTR--                                             % 07656 RGTR--
+*L 537      300000026 140701023  00600  00705               % 07656 RGTR--
+*A gu 300000026 140701023 000006  00600  00705              % 07656 RGTR--
+*A cz 300000026 140701023 000006  00600  00705              % 07656 RGTR--
+*R 2 140701023 300000026 140701023  00600  00705            % 07656 RGTR--
+*G RGB 300000026 140701023  00600  00705                    % 07656 RGTR--
+*A VE 300000026 140701023 000006  00600  00705              % 07656 RGTR--
+*I FD 300000026 140701023        0002155  00600  00705      % 07656 RGTR--
+300000026 Bastogne, Renval             00600                % 07656 RGTR--
+300000023 Bastogne, Place Merc  00602  00602                % 07656 RGTR--
+300000027 Bastogne, Home Marke  00604  00604                % 07656 RGTR--
+300000042 Marvie, rue de Wiltz  00605  00605                % 07656 RGTR--
+300000047 Wardin, rue de Wiltz  00608  00608                % 07656 RGTR--
+300000029 Bras, Carrefour       00610  00610                % 07656 RGTR--
+121006003 Pommerlach (Knauf)    00614  00614                % 07656 RGTR--
+121006001 Pommerlach, Theis     00615  00615                % 07656 RGTR--
+120903038 Wiltz, Schumann       00618  00618                % 07656 RGTR--
+120903039 Wiltz, Schwemm        00622  00622                % 07656 RGTR--
+120903021 Wiltz, Lann           00623  00623                % 07656 RGTR--
+120903008 Wiltz, Pompjeesbau    00624  00624                % 07656 RGTR--
+120903025 Wiltz, Wanselerstro.  00625  00625                % 07656 RGTR--
+120903010 Wiltz, Follmillen     00626  00626                % 07656 RGTR--
+120903036 Wiltz, Salzbaach      00627  00627                % 07656 RGTR--
+120903001 Wiltz, Aalen Tipp     00627  00627                % 07656 RGTR--
+120903031 Wiltz, Huuschtewee/P  00630  00630                % 07656 RGTR--
+120903035 Wiltz, Huuschtewee    00630  00630                % 07656 RGTR--
+120903011 Wiltz, Clinique       00631  00631                % 07656 RGTR--
+120903006 Wiltz, Brandbau       00632  00632                % 07656 RGTR--
+120903005 Wiltz, Belle Vue      00633  00633                % 07656 RGTR--
+120903003 Wiltz, Batzendelt     00634  00634                % 07656 RGTR--
+120402002 Büderscheid, Village  00638  00638                % 07656 RGTR--
+120503001 Heischtergronn, Beim  00642  00642                % 07656 RGTR--
+120502002 Heiderscheid          00647  00647                % 07656 RGTR--
+120502003 Heiderscheid, Zone C  00648  00648                % 07656 RGTR--
+120502001 Heiderscheid, Fuusse  00650  00650                % 07656 RGTR--
+140801005 Niederfeulen, Atelie  00653  00653                % 07656 RGTR--
+140801001 Niederfeulen, Belle   00654  00654                % 07656 RGTR--
+140801002 Niederfeulen, Faubou  00655  00655                % 07656 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00659  00659                % 07656 RGTR--
+140701015 Ettelbruck, Ecole Pr  00701  00701                % 07656 RGTR--
+140701016 Ettelbruck, Gare      00703  00703                % 07656 RGTR--
+140701001 Ettelbruck, Anc. Cli  00703  00703                % 07656 RGTR--
+140701023 Ettelbruck, Lycée Te  00705                       % 07656 RGTR--
+*Z 07657 RGTR--                                             % 07657 RGTR--
+*L 537      300000026 140701023  00930  01035               % 07657 RGTR--
+*A gu 300000026 140701023 000006  00930  01035              % 07657 RGTR--
+*A cz 300000026 140701023 000006  00930  01035              % 07657 RGTR--
+*R 2 140701023 300000026 140701023  00930  01035            % 07657 RGTR--
+*G RGB 300000026 140701023  00930  01035                    % 07657 RGTR--
+*A VE 300000026 140701023 000006  00930  01035              % 07657 RGTR--
+*I FD 300000026 140701023        0001084  00930  01035      % 07657 RGTR--
+300000026 Bastogne, Renval             00930                % 07657 RGTR--
+300000023 Bastogne, Place Merc  00932  00932                % 07657 RGTR--
+300000027 Bastogne, Home Marke  00934  00934                % 07657 RGTR--
+300000042 Marvie, rue de Wiltz  00935  00935                % 07657 RGTR--
+300000047 Wardin, rue de Wiltz  00938  00938                % 07657 RGTR--
+300000029 Bras, Carrefour       00940  00940                % 07657 RGTR--
+121006003 Pommerlach (Knauf)    00944  00944                % 07657 RGTR--
+121006001 Pommerlach, Theis     00945  00945                % 07657 RGTR--
+120903038 Wiltz, Schumann       00948  00948                % 07657 RGTR--
+120903039 Wiltz, Schwemm        00952  00952                % 07657 RGTR--
+120903021 Wiltz, Lann           00953  00953                % 07657 RGTR--
+120903008 Wiltz, Pompjeesbau    00954  00954                % 07657 RGTR--
+120903025 Wiltz, Wanselerstro.  00955  00955                % 07657 RGTR--
+120903010 Wiltz, Follmillen     00956  00956                % 07657 RGTR--
+120903036 Wiltz, Salzbaach      00957  00957                % 07657 RGTR--
+120903001 Wiltz, Aalen Tipp     00957  00957                % 07657 RGTR--
+120903031 Wiltz, Huuschtewee/P  01000  01000                % 07657 RGTR--
+120903035 Wiltz, Huuschtewee    01000  01000                % 07657 RGTR--
+120903011 Wiltz, Clinique       01001  01001                % 07657 RGTR--
+120903006 Wiltz, Brandbau       01002  01002                % 07657 RGTR--
+120903005 Wiltz, Belle Vue      01003  01003                % 07657 RGTR--
+120903003 Wiltz, Batzendelt     01004  01004                % 07657 RGTR--
+120402002 Büderscheid, Village  01008  01008                % 07657 RGTR--
+120503001 Heischtergronn, Beim  01012  01012                % 07657 RGTR--
+120502002 Heiderscheid          01017  01017                % 07657 RGTR--
+120502003 Heiderscheid, Zone C  01018  01018                % 07657 RGTR--
+120502001 Heiderscheid, Fuusse  01020  01020                % 07657 RGTR--
+140801005 Niederfeulen, Atelie  01023  01023                % 07657 RGTR--
+140801001 Niederfeulen, Belle   01024  01024                % 07657 RGTR--
+140801002 Niederfeulen, Faubou  01025  01025                % 07657 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01029  01029                % 07657 RGTR--
+140701015 Ettelbruck, Ecole Pr  01031  01031                % 07657 RGTR--
+140701016 Ettelbruck, Gare      01033  01033                % 07657 RGTR--
+140701001 Ettelbruck, Anc. Cli  01033  01033                % 07657 RGTR--
+140701023 Ettelbruck, Lycée Te  01035                       % 07657 RGTR--
+*Z 07658 RGTR--                                             % 07658 RGTR--
+*L 537      300000026 140701023  01130  01235               % 07658 RGTR--
+*A py 300000026 140701023 000006  01130  01235              % 07658 RGTR--
+*A cz 300000026 140701023 000006  01130  01235              % 07658 RGTR--
+*R 2 140701023 300000026 140701023  01130  01235            % 07658 RGTR--
+*G RGB 300000026 140701023  01130  01235                    % 07658 RGTR--
+*A VE 300000026 140701023 000006  01130  01235              % 07658 RGTR--
+*I FD 300000026 140701023        0002761  01130  01235      % 07658 RGTR--
+300000026 Bastogne, Renval             01130                % 07658 RGTR--
+300000023 Bastogne, Place Merc  01132  01132                % 07658 RGTR--
+300000027 Bastogne, Home Marke  01134  01134                % 07658 RGTR--
+300000042 Marvie, rue de Wiltz  01135  01135                % 07658 RGTR--
+300000047 Wardin, rue de Wiltz  01138  01138                % 07658 RGTR--
+300000029 Bras, Carrefour       01140  01140                % 07658 RGTR--
+121006003 Pommerlach (Knauf)    01144  01144                % 07658 RGTR--
+121006001 Pommerlach, Theis     01145  01145                % 07658 RGTR--
+120903038 Wiltz, Schumann       01148  01148                % 07658 RGTR--
+120903039 Wiltz, Schwemm        01152  01152                % 07658 RGTR--
+120903021 Wiltz, Lann           01153  01153                % 07658 RGTR--
+120903008 Wiltz, Pompjeesbau    01154  01154                % 07658 RGTR--
+120903025 Wiltz, Wanselerstro.  01155  01155                % 07658 RGTR--
+120903010 Wiltz, Follmillen     01156  01156                % 07658 RGTR--
+120903036 Wiltz, Salzbaach      01157  01157                % 07658 RGTR--
+120903001 Wiltz, Aalen Tipp     01157  01157                % 07658 RGTR--
+120903031 Wiltz, Huuschtewee/P  01200  01200                % 07658 RGTR--
+120903035 Wiltz, Huuschtewee    01200  01200                % 07658 RGTR--
+120903011 Wiltz, Clinique       01201  01201                % 07658 RGTR--
+120903006 Wiltz, Brandbau       01202  01202                % 07658 RGTR--
+120903005 Wiltz, Belle Vue      01203  01203                % 07658 RGTR--
+120903003 Wiltz, Batzendelt     01204  01204                % 07658 RGTR--
+120402002 Büderscheid, Village  01208  01208                % 07658 RGTR--
+120503001 Heischtergronn, Beim  01212  01212                % 07658 RGTR--
+120502002 Heiderscheid          01217  01217                % 07658 RGTR--
+120502003 Heiderscheid, Zone C  01218  01218                % 07658 RGTR--
+120502001 Heiderscheid, Fuusse  01220  01220                % 07658 RGTR--
+140801005 Niederfeulen, Atelie  01223  01223                % 07658 RGTR--
+140801001 Niederfeulen, Belle   01224  01224                % 07658 RGTR--
+140801002 Niederfeulen, Faubou  01225  01225                % 07658 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01229  01229                % 07658 RGTR--
+140701015 Ettelbruck, Ecole Pr  01231  01231                % 07658 RGTR--
+140701016 Ettelbruck, Gare      01233  01233                % 07658 RGTR--
+140701001 Ettelbruck, Anc. Cli  01233  01233                % 07658 RGTR--
+140701023 Ettelbruck, Lycée Te  01235                       % 07658 RGTR--
+*Z 07659 RGTR--                                             % 07659 RGTR--
+*L 537      300000026 140701023  01230  01335               % 07659 RGTR--
+*A gu 300000026 140701023 000006  01230  01335              % 07659 RGTR--
+*A cz 300000026 140701023 000006  01230  01335              % 07659 RGTR--
+*R 2 140701023 300000026 140701023  01230  01335            % 07659 RGTR--
+*G RGB 300000026 140701023  01230  01335                    % 07659 RGTR--
+*A VE 300000026 140701023 000006  01230  01335              % 07659 RGTR--
+*I FD 300000026 140701023        0001287  01230  01335      % 07659 RGTR--
+300000026 Bastogne, Renval             01230                % 07659 RGTR--
+300000023 Bastogne, Place Merc  01232  01232                % 07659 RGTR--
+300000027 Bastogne, Home Marke  01234  01234                % 07659 RGTR--
+300000042 Marvie, rue de Wiltz  01235  01235                % 07659 RGTR--
+300000047 Wardin, rue de Wiltz  01238  01238                % 07659 RGTR--
+300000029 Bras, Carrefour       01240  01240                % 07659 RGTR--
+121006003 Pommerlach (Knauf)    01244  01244                % 07659 RGTR--
+121006001 Pommerlach, Theis     01245  01245                % 07659 RGTR--
+120903038 Wiltz, Schumann       01248  01248                % 07659 RGTR--
+120903039 Wiltz, Schwemm        01252  01252                % 07659 RGTR--
+120903021 Wiltz, Lann           01253  01253                % 07659 RGTR--
+120903008 Wiltz, Pompjeesbau    01254  01254                % 07659 RGTR--
+120903025 Wiltz, Wanselerstro.  01255  01255                % 07659 RGTR--
+120903010 Wiltz, Follmillen     01256  01256                % 07659 RGTR--
+120903036 Wiltz, Salzbaach      01257  01257                % 07659 RGTR--
+120903001 Wiltz, Aalen Tipp     01257  01257                % 07659 RGTR--
+120903031 Wiltz, Huuschtewee/P  01300  01300                % 07659 RGTR--
+120903035 Wiltz, Huuschtewee    01300  01300                % 07659 RGTR--
+120903011 Wiltz, Clinique       01301  01301                % 07659 RGTR--
+120903006 Wiltz, Brandbau       01302  01302                % 07659 RGTR--
+120903005 Wiltz, Belle Vue      01303  01303                % 07659 RGTR--
+120903003 Wiltz, Batzendelt     01304  01304                % 07659 RGTR--
+120402002 Büderscheid, Village  01308  01308                % 07659 RGTR--
+120503001 Heischtergronn, Beim  01312  01312                % 07659 RGTR--
+120502002 Heiderscheid          01317  01317                % 07659 RGTR--
+120502003 Heiderscheid, Zone C  01318  01318                % 07659 RGTR--
+120502001 Heiderscheid, Fuusse  01320  01320                % 07659 RGTR--
+140801005 Niederfeulen, Atelie  01323  01323                % 07659 RGTR--
+140801001 Niederfeulen, Belle   01324  01324                % 07659 RGTR--
+140801002 Niederfeulen, Faubou  01325  01325                % 07659 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01329  01329                % 07659 RGTR--
+140701015 Ettelbruck, Ecole Pr  01331  01331                % 07659 RGTR--
+140701016 Ettelbruck, Gare      01333  01333                % 07659 RGTR--
+140701001 Ettelbruck, Anc. Cli  01333  01333                % 07659 RGTR--
+140701023 Ettelbruck, Lycée Te  01335                       % 07659 RGTR--
+*Z 07660 RGTR--                                             % 07660 RGTR--
+*L 537      300000026 140701023  01300  01405               % 07660 RGTR--
+*A py 300000026 140701023 000006  01300  01405              % 07660 RGTR--
+*A cz 300000026 140701023 000006  01300  01405              % 07660 RGTR--
+*R 2 140701023 300000026 140701023  01300  01405            % 07660 RGTR--
+*G RGB 300000026 140701023  01300  01405                    % 07660 RGTR--
+*A VE 300000026 140701023 000006  01300  01405              % 07660 RGTR--
+*I FD 300000026 140701023        0001966  01300  01405      % 07660 RGTR--
+300000026 Bastogne, Renval             01300                % 07660 RGTR--
+300000023 Bastogne, Place Merc  01302  01302                % 07660 RGTR--
+300000027 Bastogne, Home Marke  01304  01304                % 07660 RGTR--
+300000042 Marvie, rue de Wiltz  01305  01305                % 07660 RGTR--
+300000047 Wardin, rue de Wiltz  01308  01308                % 07660 RGTR--
+300000029 Bras, Carrefour       01310  01310                % 07660 RGTR--
+121006003 Pommerlach (Knauf)    01314  01314                % 07660 RGTR--
+121006001 Pommerlach, Theis     01315  01315                % 07660 RGTR--
+120903038 Wiltz, Schumann       01318  01318                % 07660 RGTR--
+120903039 Wiltz, Schwemm        01322  01322                % 07660 RGTR--
+120903021 Wiltz, Lann           01323  01323                % 07660 RGTR--
+120903008 Wiltz, Pompjeesbau    01324  01324                % 07660 RGTR--
+120903025 Wiltz, Wanselerstro.  01325  01325                % 07660 RGTR--
+120903010 Wiltz, Follmillen     01326  01326                % 07660 RGTR--
+120903036 Wiltz, Salzbaach      01327  01327                % 07660 RGTR--
+120903001 Wiltz, Aalen Tipp     01327  01327                % 07660 RGTR--
+120903031 Wiltz, Huuschtewee/P  01330  01330                % 07660 RGTR--
+120903035 Wiltz, Huuschtewee    01330  01330                % 07660 RGTR--
+120903011 Wiltz, Clinique       01331  01331                % 07660 RGTR--
+120903006 Wiltz, Brandbau       01332  01332                % 07660 RGTR--
+120903005 Wiltz, Belle Vue      01333  01333                % 07660 RGTR--
+120903003 Wiltz, Batzendelt     01334  01334                % 07660 RGTR--
+120402002 Büderscheid, Village  01338  01338                % 07660 RGTR--
+120503001 Heischtergronn, Beim  01342  01342                % 07660 RGTR--
+120502002 Heiderscheid          01347  01347                % 07660 RGTR--
+120502003 Heiderscheid, Zone C  01348  01348                % 07660 RGTR--
+120502001 Heiderscheid, Fuusse  01350  01350                % 07660 RGTR--
+140801005 Niederfeulen, Atelie  01353  01353                % 07660 RGTR--
+140801001 Niederfeulen, Belle   01354  01354                % 07660 RGTR--
+140801002 Niederfeulen, Faubou  01355  01355                % 07660 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01359  01359                % 07660 RGTR--
+140701015 Ettelbruck, Ecole Pr  01401  01401                % 07660 RGTR--
+140701016 Ettelbruck, Gare      01403  01403                % 07660 RGTR--
+140701001 Ettelbruck, Anc. Cli  01403  01403                % 07660 RGTR--
+140701023 Ettelbruck, Lycée Te  01405                       % 07660 RGTR--
+*Z 07661 RGTR--                                             % 07661 RGTR--
+*L 537      300000026 140701023  01430  01535               % 07661 RGTR--
+*A py 300000026 140701023 000006  01430  01535              % 07661 RGTR--
+*A cz 300000026 140701023 000006  01430  01535              % 07661 RGTR--
+*R 2 140701023 300000026 140701023  01430  01535            % 07661 RGTR--
+*G RGB 300000026 140701023  01430  01535                    % 07661 RGTR--
+*A VE 300000026 140701023 000006  01430  01535              % 07661 RGTR--
+*I FD 300000026 140701023        0002763  01430  01535      % 07661 RGTR--
+300000026 Bastogne, Renval             01430                % 07661 RGTR--
+300000023 Bastogne, Place Merc  01432  01432                % 07661 RGTR--
+300000027 Bastogne, Home Marke  01434  01434                % 07661 RGTR--
+300000042 Marvie, rue de Wiltz  01435  01435                % 07661 RGTR--
+300000047 Wardin, rue de Wiltz  01438  01438                % 07661 RGTR--
+300000029 Bras, Carrefour       01440  01440                % 07661 RGTR--
+121006003 Pommerlach (Knauf)    01444  01444                % 07661 RGTR--
+121006001 Pommerlach, Theis     01445  01445                % 07661 RGTR--
+120903038 Wiltz, Schumann       01448  01448                % 07661 RGTR--
+120903039 Wiltz, Schwemm        01452  01452                % 07661 RGTR--
+120903021 Wiltz, Lann           01453  01453                % 07661 RGTR--
+120903008 Wiltz, Pompjeesbau    01454  01454                % 07661 RGTR--
+120903025 Wiltz, Wanselerstro.  01455  01455                % 07661 RGTR--
+120903010 Wiltz, Follmillen     01456  01456                % 07661 RGTR--
+120903036 Wiltz, Salzbaach      01457  01457                % 07661 RGTR--
+120903001 Wiltz, Aalen Tipp     01457  01457                % 07661 RGTR--
+120903031 Wiltz, Huuschtewee/P  01500  01500                % 07661 RGTR--
+120903035 Wiltz, Huuschtewee    01500  01500                % 07661 RGTR--
+120903011 Wiltz, Clinique       01501  01501                % 07661 RGTR--
+120903006 Wiltz, Brandbau       01502  01502                % 07661 RGTR--
+120903005 Wiltz, Belle Vue      01503  01503                % 07661 RGTR--
+120903003 Wiltz, Batzendelt     01504  01504                % 07661 RGTR--
+120402002 Büderscheid, Village  01508  01508                % 07661 RGTR--
+120503001 Heischtergronn, Beim  01512  01512                % 07661 RGTR--
+120502002 Heiderscheid          01517  01517                % 07661 RGTR--
+120502003 Heiderscheid, Zone C  01518  01518                % 07661 RGTR--
+120502001 Heiderscheid, Fuusse  01520  01520                % 07661 RGTR--
+140801005 Niederfeulen, Atelie  01523  01523                % 07661 RGTR--
+140801001 Niederfeulen, Belle   01524  01524                % 07661 RGTR--
+140801002 Niederfeulen, Faubou  01525  01525                % 07661 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01529  01529                % 07661 RGTR--
+140701015 Ettelbruck, Ecole Pr  01531  01531                % 07661 RGTR--
+140701016 Ettelbruck, Gare      01533  01533                % 07661 RGTR--
+140701001 Ettelbruck, Anc. Cli  01533  01533                % 07661 RGTR--
+140701023 Ettelbruck, Lycée Te  01535                       % 07661 RGTR--
+*Z 07662 RGTR--                                             % 07662 RGTR--
+*L 537      300000026 140701023  01530  01635               % 07662 RGTR--
+*A gu 300000026 140701023 000006  01530  01635              % 07662 RGTR--
+*A cz 300000026 140701023 000006  01530  01635              % 07662 RGTR--
+*R 2 140701023 300000026 140701023  01530  01635            % 07662 RGTR--
+*G RGB 300000026 140701023  01530  01635                    % 07662 RGTR--
+*A VE 300000026 140701023 000006  01530  01635              % 07662 RGTR--
+*I FD 300000026 140701023        0002764  01530  01635      % 07662 RGTR--
+300000026 Bastogne, Renval             01530                % 07662 RGTR--
+300000023 Bastogne, Place Merc  01532  01532                % 07662 RGTR--
+300000027 Bastogne, Home Marke  01534  01534                % 07662 RGTR--
+300000042 Marvie, rue de Wiltz  01535  01535                % 07662 RGTR--
+300000047 Wardin, rue de Wiltz  01538  01538                % 07662 RGTR--
+300000029 Bras, Carrefour       01540  01540                % 07662 RGTR--
+121006003 Pommerlach (Knauf)    01544  01544                % 07662 RGTR--
+121006001 Pommerlach, Theis     01545  01545                % 07662 RGTR--
+120903038 Wiltz, Schumann       01548  01548                % 07662 RGTR--
+120903039 Wiltz, Schwemm        01552  01552                % 07662 RGTR--
+120903021 Wiltz, Lann           01553  01553                % 07662 RGTR--
+120903008 Wiltz, Pompjeesbau    01554  01554                % 07662 RGTR--
+120903025 Wiltz, Wanselerstro.  01555  01555                % 07662 RGTR--
+120903010 Wiltz, Follmillen     01556  01556                % 07662 RGTR--
+120903036 Wiltz, Salzbaach      01557  01557                % 07662 RGTR--
+120903001 Wiltz, Aalen Tipp     01557  01557                % 07662 RGTR--
+120903031 Wiltz, Huuschtewee/P  01600  01600                % 07662 RGTR--
+120903035 Wiltz, Huuschtewee    01600  01600                % 07662 RGTR--
+120903011 Wiltz, Clinique       01601  01601                % 07662 RGTR--
+120903006 Wiltz, Brandbau       01602  01602                % 07662 RGTR--
+120903005 Wiltz, Belle Vue      01603  01603                % 07662 RGTR--
+120903003 Wiltz, Batzendelt     01604  01604                % 07662 RGTR--
+120402002 Büderscheid, Village  01608  01608                % 07662 RGTR--
+120503001 Heischtergronn, Beim  01612  01612                % 07662 RGTR--
+120502002 Heiderscheid          01617  01617                % 07662 RGTR--
+120502003 Heiderscheid, Zone C  01618  01618                % 07662 RGTR--
+120502001 Heiderscheid, Fuusse  01620  01620                % 07662 RGTR--
+140801005 Niederfeulen, Atelie  01623  01623                % 07662 RGTR--
+140801001 Niederfeulen, Belle   01624  01624                % 07662 RGTR--
+140801002 Niederfeulen, Faubou  01625  01625                % 07662 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01629  01629                % 07662 RGTR--
+140701015 Ettelbruck, Ecole Pr  01631  01631                % 07662 RGTR--
+140701016 Ettelbruck, Gare      01633  01633                % 07662 RGTR--
+140701001 Ettelbruck, Anc. Cli  01633  01633                % 07662 RGTR--
+140701023 Ettelbruck, Lycée Te  01635                       % 07662 RGTR--
+*Z 07663 RGTR--                                             % 07663 RGTR--
+*L 537      300000026 140701023  01830  01935               % 07663 RGTR--
+*A gu 300000026 140701023 000006  01830  01935              % 07663 RGTR--
+*A cz 300000026 140701023 000006  01830  01935              % 07663 RGTR--
+*R 2 140701023 300000026 140701023  01830  01935            % 07663 RGTR--
+*G RGB 300000026 140701023  01830  01935                    % 07663 RGTR--
+*A VE 300000026 140701023 000006  01830  01935              % 07663 RGTR--
+*I FD 300000026 140701023        0002765  01830  01935      % 07663 RGTR--
+300000026 Bastogne, Renval             01830                % 07663 RGTR--
+300000023 Bastogne, Place Merc  01832  01832                % 07663 RGTR--
+300000027 Bastogne, Home Marke  01834  01834                % 07663 RGTR--
+300000042 Marvie, rue de Wiltz  01835  01835                % 07663 RGTR--
+300000047 Wardin, rue de Wiltz  01838  01838                % 07663 RGTR--
+300000029 Bras, Carrefour       01840  01840                % 07663 RGTR--
+121006003 Pommerlach (Knauf)    01844  01844                % 07663 RGTR--
+121006001 Pommerlach, Theis     01845  01845                % 07663 RGTR--
+120903038 Wiltz, Schumann       01848  01848                % 07663 RGTR--
+120903039 Wiltz, Schwemm        01852  01852                % 07663 RGTR--
+120903021 Wiltz, Lann           01853  01853                % 07663 RGTR--
+120903008 Wiltz, Pompjeesbau    01854  01854                % 07663 RGTR--
+120903025 Wiltz, Wanselerstro.  01855  01855                % 07663 RGTR--
+120903010 Wiltz, Follmillen     01856  01856                % 07663 RGTR--
+120903036 Wiltz, Salzbaach      01857  01857                % 07663 RGTR--
+120903001 Wiltz, Aalen Tipp     01857  01857                % 07663 RGTR--
+120903031 Wiltz, Huuschtewee/P  01900  01900                % 07663 RGTR--
+120903035 Wiltz, Huuschtewee    01900  01900                % 07663 RGTR--
+120903011 Wiltz, Clinique       01901  01901                % 07663 RGTR--
+120903006 Wiltz, Brandbau       01902  01902                % 07663 RGTR--
+120903005 Wiltz, Belle Vue      01903  01903                % 07663 RGTR--
+120903003 Wiltz, Batzendelt     01904  01904                % 07663 RGTR--
+120402002 Büderscheid, Village  01908  01908                % 07663 RGTR--
+120503001 Heischtergronn, Beim  01912  01912                % 07663 RGTR--
+120502002 Heiderscheid          01917  01917                % 07663 RGTR--
+120502003 Heiderscheid, Zone C  01918  01918                % 07663 RGTR--
+120502001 Heiderscheid, Fuusse  01920  01920                % 07663 RGTR--
+140801005 Niederfeulen, Atelie  01923  01923                % 07663 RGTR--
+140801001 Niederfeulen, Belle   01924  01924                % 07663 RGTR--
+140801002 Niederfeulen, Faubou  01925  01925                % 07663 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01929  01929                % 07663 RGTR--
+140701015 Ettelbruck, Ecole Pr  01931  01931                % 07663 RGTR--
+140701016 Ettelbruck, Gare      01933  01933                % 07663 RGTR--
+140701001 Ettelbruck, Anc. Cli  01933  01933                % 07663 RGTR--
+140701023 Ettelbruck, Lycée Te  01935                       % 07663 RGTR--
+*Z 07664 RGTR--                                             % 07664 RGTR--
+*L 537      300000026 140701023  01930  02035               % 07664 RGTR--
+*A py 300000026 140701023 000006  01930  02035              % 07664 RGTR--
+*A cz 300000026 140701023 000006  01930  02035              % 07664 RGTR--
+*R 2 140701023 300000026 140701023  01930  02035            % 07664 RGTR--
+*G RGB 300000026 140701023  01930  02035                    % 07664 RGTR--
+*A VE 300000026 140701023 000006  01930  02035              % 07664 RGTR--
+*I FD 300000026 140701023        0001509  01930  02035      % 07664 RGTR--
+300000026 Bastogne, Renval             01930                % 07664 RGTR--
+300000023 Bastogne, Place Merc  01932  01932                % 07664 RGTR--
+300000027 Bastogne, Home Marke  01934  01934                % 07664 RGTR--
+300000042 Marvie, rue de Wiltz  01935  01935                % 07664 RGTR--
+300000047 Wardin, rue de Wiltz  01938  01938                % 07664 RGTR--
+300000029 Bras, Carrefour       01940  01940                % 07664 RGTR--
+121006003 Pommerlach (Knauf)    01944  01944                % 07664 RGTR--
+121006001 Pommerlach, Theis     01945  01945                % 07664 RGTR--
+120903038 Wiltz, Schumann       01948  01948                % 07664 RGTR--
+120903039 Wiltz, Schwemm        01952  01952                % 07664 RGTR--
+120903021 Wiltz, Lann           01953  01953                % 07664 RGTR--
+120903008 Wiltz, Pompjeesbau    01954  01954                % 07664 RGTR--
+120903025 Wiltz, Wanselerstro.  01955  01955                % 07664 RGTR--
+120903010 Wiltz, Follmillen     01956  01956                % 07664 RGTR--
+120903036 Wiltz, Salzbaach      01957  01957                % 07664 RGTR--
+120903001 Wiltz, Aalen Tipp     01957  01957                % 07664 RGTR--
+120903031 Wiltz, Huuschtewee/P  02000  02000                % 07664 RGTR--
+120903035 Wiltz, Huuschtewee    02000  02000                % 07664 RGTR--
+120903011 Wiltz, Clinique       02001  02001                % 07664 RGTR--
+120903006 Wiltz, Brandbau       02002  02002                % 07664 RGTR--
+120903005 Wiltz, Belle Vue      02003  02003                % 07664 RGTR--
+120903003 Wiltz, Batzendelt     02004  02004                % 07664 RGTR--
+120402002 Büderscheid, Village  02008  02008                % 07664 RGTR--
+120503001 Heischtergronn, Beim  02012  02012                % 07664 RGTR--
+120502002 Heiderscheid          02017  02017                % 07664 RGTR--
+120502003 Heiderscheid, Zone C  02018  02018                % 07664 RGTR--
+120502001 Heiderscheid, Fuusse  02020  02020                % 07664 RGTR--
+140801005 Niederfeulen, Atelie  02023  02023                % 07664 RGTR--
+140801001 Niederfeulen, Belle   02024  02024                % 07664 RGTR--
+140801002 Niederfeulen, Faubou  02025  02025                % 07664 RGTR--
+140701025 Ettelbruck, Pl.du Ma  02029  02029                % 07664 RGTR--
+140701015 Ettelbruck, Ecole Pr  02031  02031                % 07664 RGTR--
+140701016 Ettelbruck, Gare      02033  02033                % 07664 RGTR--
+140701001 Ettelbruck, Anc. Cli  02033  02033                % 07664 RGTR--
+140701023 Ettelbruck, Lycée Te  02035                       % 07664 RGTR--
+*Z 07665 RGTR--                                             % 07665 RGTR--
+*L 537      300000026 140701023  02030  02135               % 07665 RGTR--
+*A py 300000026 140701023 000006  02030  02135              % 07665 RGTR--
+*A cz 300000026 140701023 000006  02030  02135              % 07665 RGTR--
+*R 2 140701023 300000026 140701023  02030  02135            % 07665 RGTR--
+*G RGB 300000026 140701023  02030  02135                    % 07665 RGTR--
+*A VE 300000026 140701023 000006  02030  02135              % 07665 RGTR--
+*I FD 300000026 140701023        0003627  02030  02135      % 07665 RGTR--
+300000026 Bastogne, Renval             02030                % 07665 RGTR--
+300000023 Bastogne, Place Merc  02032  02032                % 07665 RGTR--
+300000027 Bastogne, Home Marke  02034  02034                % 07665 RGTR--
+300000042 Marvie, rue de Wiltz  02035  02035                % 07665 RGTR--
+300000047 Wardin, rue de Wiltz  02038  02038                % 07665 RGTR--
+300000029 Bras, Carrefour       02040  02040                % 07665 RGTR--
+121006003 Pommerlach (Knauf)    02044  02044                % 07665 RGTR--
+121006001 Pommerlach, Theis     02045  02045                % 07665 RGTR--
+120903038 Wiltz, Schumann       02048  02048                % 07665 RGTR--
+120903039 Wiltz, Schwemm        02052  02052                % 07665 RGTR--
+120903021 Wiltz, Lann           02053  02053                % 07665 RGTR--
+120903008 Wiltz, Pompjeesbau    02054  02054                % 07665 RGTR--
+120903025 Wiltz, Wanselerstro.  02055  02055                % 07665 RGTR--
+120903010 Wiltz, Follmillen     02056  02056                % 07665 RGTR--
+120903036 Wiltz, Salzbaach      02057  02057                % 07665 RGTR--
+120903001 Wiltz, Aalen Tipp     02057  02057                % 07665 RGTR--
+120903031 Wiltz, Huuschtewee/P  02100  02100                % 07665 RGTR--
+120903035 Wiltz, Huuschtewee    02100  02100                % 07665 RGTR--
+120903011 Wiltz, Clinique       02101  02101                % 07665 RGTR--
+120903006 Wiltz, Brandbau       02102  02102                % 07665 RGTR--
+120903005 Wiltz, Belle Vue      02103  02103                % 07665 RGTR--
+120903003 Wiltz, Batzendelt     02104  02104                % 07665 RGTR--
+120402002 Büderscheid, Village  02108  02108                % 07665 RGTR--
+120503001 Heischtergronn, Beim  02112  02112                % 07665 RGTR--
+120502002 Heiderscheid          02117  02117                % 07665 RGTR--
+120502003 Heiderscheid, Zone C  02118  02118                % 07665 RGTR--
+120502001 Heiderscheid, Fuusse  02120  02120                % 07665 RGTR--
+140801005 Niederfeulen, Atelie  02123  02123                % 07665 RGTR--
+140801001 Niederfeulen, Belle   02124  02124                % 07665 RGTR--
+140801002 Niederfeulen, Faubou  02125  02125                % 07665 RGTR--
+140701025 Ettelbruck, Pl.du Ma  02129  02129                % 07665 RGTR--
+140701015 Ettelbruck, Ecole Pr  02131  02131                % 07665 RGTR--
+140701016 Ettelbruck, Gare      02133  02133                % 07665 RGTR--
+140701001 Ettelbruck, Anc. Cli  02133  02133                % 07665 RGTR--
+140701023 Ettelbruck, Lycée Te  02135                       % 07665 RGTR--
+*Z 07666 RGTR--                                             % 07666 RGTR--
+*L 537      300000026 140701023  01630  01735               % 07666 RGTR--
+*A py 300000026 140701023 000156  01630  01735              % 07666 RGTR--
+*A cz 300000026 140701023 000156  01630  01735              % 07666 RGTR--
+*R 2 140701023 300000026 140701023  01630  01735            % 07666 RGTR--
+*G RGB 300000026 140701023  01630  01735                    % 07666 RGTR--
+*A VE 300000026 140701023 000156  01630  01735              % 07666 RGTR--
+*I FD 300000026 140701023        0002082  01630  01735      % 07666 RGTR--
+300000026 Bastogne, Renval             01630                % 07666 RGTR--
+300000023 Bastogne, Place Merc  01632  01632                % 07666 RGTR--
+300000027 Bastogne, Home Marke  01634  01634                % 07666 RGTR--
+300000042 Marvie, rue de Wiltz  01635  01635                % 07666 RGTR--
+300000047 Wardin, rue de Wiltz  01638  01638                % 07666 RGTR--
+300000029 Bras, Carrefour       01640  01640                % 07666 RGTR--
+121006003 Pommerlach (Knauf)    01644  01644                % 07666 RGTR--
+121006001 Pommerlach, Theis     01645  01645                % 07666 RGTR--
+120903038 Wiltz, Schumann       01648  01648                % 07666 RGTR--
+120903039 Wiltz, Schwemm        01652  01652                % 07666 RGTR--
+120903021 Wiltz, Lann           01653  01653                % 07666 RGTR--
+120903008 Wiltz, Pompjeesbau    01654  01654                % 07666 RGTR--
+120903025 Wiltz, Wanselerstro.  01655  01655                % 07666 RGTR--
+120903010 Wiltz, Follmillen     01656  01656                % 07666 RGTR--
+120903036 Wiltz, Salzbaach      01657  01657                % 07666 RGTR--
+120903001 Wiltz, Aalen Tipp     01657  01657                % 07666 RGTR--
+120903031 Wiltz, Huuschtewee/P  01700  01700                % 07666 RGTR--
+120903035 Wiltz, Huuschtewee    01700  01700                % 07666 RGTR--
+120903011 Wiltz, Clinique       01701  01701                % 07666 RGTR--
+120903006 Wiltz, Brandbau       01702  01702                % 07666 RGTR--
+120903005 Wiltz, Belle Vue      01703  01703                % 07666 RGTR--
+120903003 Wiltz, Batzendelt     01704  01704                % 07666 RGTR--
+120402002 Büderscheid, Village  01708  01708                % 07666 RGTR--
+120503001 Heischtergronn, Beim  01712  01712                % 07666 RGTR--
+120502002 Heiderscheid          01717  01717                % 07666 RGTR--
+120502003 Heiderscheid, Zone C  01718  01718                % 07666 RGTR--
+120502001 Heiderscheid, Fuusse  01720  01720                % 07666 RGTR--
+140801005 Niederfeulen, Atelie  01723  01723                % 07666 RGTR--
+140801001 Niederfeulen, Belle   01724  01724                % 07666 RGTR--
+140801002 Niederfeulen, Faubou  01725  01725                % 07666 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01729  01729                % 07666 RGTR--
+140701015 Ettelbruck, Ecole Pr  01731  01731                % 07666 RGTR--
+140701016 Ettelbruck, Gare      01733  01733                % 07666 RGTR--
+140701001 Ettelbruck, Anc. Cli  01733  01733                % 07666 RGTR--
+140701023 Ettelbruck, Lycée Te  01735                       % 07666 RGTR--

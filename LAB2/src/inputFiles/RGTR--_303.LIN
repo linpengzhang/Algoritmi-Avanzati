@@ -1,0 +1,1261 @@
+*F 03 2
+*Z 07749 RGTR--                                             % 07749 RGTR--
+*L 303      400000069 200417048  00440  00541               % 07749 RGTR--
+*A ax 400000069 200417048 000016  00440  00541              % 07749 RGTR--
+*A bg 400000069 200417048 000016  00440  00541              % 07749 RGTR--
+*R 1 200417048 400000069 200417048  00440  00541            % 07749 RGTR--
+*G RGB 400000069 200417048  00440  00541                    % 07749 RGTR--
+*A VE 400000069 200417048 000016  00440  00541              % 07749 RGTR--
+*I FD 400000069 200417048        0002811  00440  00541      % 07749 RGTR--
+400000069 Manom, Centre Commer         00440                % 07749 RGTR--
+400000011 Garche, rte de Mondo  00445  00445                % 07749 RGTR--
+400000124 Garche, Chênaie       00446  00446                % 07749 RGTR--
+400000007 Cattenom, Gendarmeri  00449  00449                % 07749 RGTR--
+400000083 Sentzich, Cimetière   00451  00451                % 07749 RGTR--
+210503003 Mondorf, Christophor  00502  00502                % 07749 RGTR--
+210503002 Mondorf, Casino 2000  00503  00503                % 07749 RGTR--
+210503007 Mondorf, Stade John   00504  00504                % 07749 RGTR--
+220502006 Frisange, Cité Aalue  00512  00512                % 07749 RGTR--
+220502001 Frisange, Aal Gemeng  00513  00513                % 07749 RGTR--
+220502003 Frisange, Hau         00514  00514                % 07749 RGTR--
+201103004 Weiler-la-Tour, Schl  00515  00515                % 07749 RGTR--
+200301002 Alzingen, Hondsbréck  00519  00519                % 07749 RGTR--
+200301003 Alzingen, Trapeneck   00520  00520                % 07749 RGTR--
+200303006 Hesperange, Urbengss  00521  00521                % 07749 RGTR--
+200201008 Contern, Rond Point   00527  00527                % 07749 RGTR--
+200201007 Contern, Weiergewan   00527  00527                % 07749 RGTR--
+200601009 Sandweiler, Schaedha  00529  00529                % 07749 RGTR--
+200417040 Kirchberg, Hugo Gern  00537  00537                % 07749 RGTR--
+200417039 Kirchberg, Avalon     00539  00539                % 07749 RGTR--
+200417019 Kirchberg, Konrad Ad  00539  00539                % 07749 RGTR--
+200417005 Kirchberg, Antoine d  00540  00540                % 07749 RGTR--
+200417048 Kirchberg, Europe Ga  00541                       % 07749 RGTR--
+*Z 07750 RGTR--                                             % 07750 RGTR--
+*L 303      400000069 200417048  00540  00641               % 07750 RGTR--
+*A ax 400000069 200417048 000016  00540  00641              % 07750 RGTR--
+*A bg 400000069 200417048 000016  00540  00641              % 07750 RGTR--
+*R 1 200417048 400000069 200417048  00540  00641            % 07750 RGTR--
+*G RGB 400000069 200417048  00540  00641                    % 07750 RGTR--
+*A VE 400000069 200417048 000016  00540  00641              % 07750 RGTR--
+*I FD 400000069 200417048        0000909  00540  00641      % 07750 RGTR--
+400000069 Manom, Centre Commer         00540                % 07750 RGTR--
+400000011 Garche, rte de Mondo  00545  00545                % 07750 RGTR--
+400000124 Garche, Chênaie       00546  00546                % 07750 RGTR--
+400000007 Cattenom, Gendarmeri  00549  00549                % 07750 RGTR--
+400000083 Sentzich, Cimetière   00551  00551                % 07750 RGTR--
+210503003 Mondorf, Christophor  00602  00602                % 07750 RGTR--
+210503002 Mondorf, Casino 2000  00603  00603                % 07750 RGTR--
+210503007 Mondorf, Stade John   00604  00604                % 07750 RGTR--
+220502006 Frisange, Cité Aalue  00612  00612                % 07750 RGTR--
+220502001 Frisange, Aal Gemeng  00613  00613                % 07750 RGTR--
+220502003 Frisange, Hau         00614  00614                % 07750 RGTR--
+201103004 Weiler-la-Tour, Schl  00615  00615                % 07750 RGTR--
+200301002 Alzingen, Hondsbréck  00619  00619                % 07750 RGTR--
+200301003 Alzingen, Trapeneck   00620  00620                % 07750 RGTR--
+200303006 Hesperange, Urbengss  00621  00621                % 07750 RGTR--
+200201008 Contern, Rond Point   00627  00627                % 07750 RGTR--
+200201007 Contern, Weiergewan   00627  00627                % 07750 RGTR--
+200601009 Sandweiler, Schaedha  00629  00629                % 07750 RGTR--
+200417040 Kirchberg, Hugo Gern  00637  00637                % 07750 RGTR--
+200417039 Kirchberg, Avalon     00639  00639                % 07750 RGTR--
+200417019 Kirchberg, Konrad Ad  00639  00639                % 07750 RGTR--
+200417005 Kirchberg, Antoine d  00640  00640                % 07750 RGTR--
+200417048 Kirchberg, Europe Ga  00641                       % 07750 RGTR--
+*Z 07751 RGTR--                                             % 07751 RGTR--
+*L 303      400000069 200417048  00840  00941               % 07751 RGTR--
+*A ax 400000069 200417048 000016  00840  00941              % 07751 RGTR--
+*A bg 400000069 200417048 000016  00840  00941              % 07751 RGTR--
+*R 1 200417048 400000069 200417048  00840  00941            % 07751 RGTR--
+*G RGB 400000069 200417048  00840  00941                    % 07751 RGTR--
+*A VE 400000069 200417048 000016  00840  00941              % 07751 RGTR--
+*I FD 400000069 200417048        0002848  00840  00941      % 07751 RGTR--
+400000069 Manom, Centre Commer         00840                % 07751 RGTR--
+400000011 Garche, rte de Mondo  00845  00845                % 07751 RGTR--
+400000124 Garche, Chênaie       00846  00846                % 07751 RGTR--
+400000007 Cattenom, Gendarmeri  00849  00849                % 07751 RGTR--
+400000083 Sentzich, Cimetière   00851  00851                % 07751 RGTR--
+210503003 Mondorf, Christophor  00902  00902                % 07751 RGTR--
+210503002 Mondorf, Casino 2000  00903  00903                % 07751 RGTR--
+210503007 Mondorf, Stade John   00904  00904                % 07751 RGTR--
+220502006 Frisange, Cité Aalue  00912  00912                % 07751 RGTR--
+220502001 Frisange, Aal Gemeng  00913  00913                % 07751 RGTR--
+220502003 Frisange, Hau         00914  00914                % 07751 RGTR--
+201103004 Weiler-la-Tour, Schl  00915  00915                % 07751 RGTR--
+200301002 Alzingen, Hondsbréck  00919  00919                % 07751 RGTR--
+200301003 Alzingen, Trapeneck   00920  00920                % 07751 RGTR--
+200303006 Hesperange, Urbengss  00921  00921                % 07751 RGTR--
+200201008 Contern, Rond Point   00927  00927                % 07751 RGTR--
+200201007 Contern, Weiergewan   00927  00927                % 07751 RGTR--
+200601009 Sandweiler, Schaedha  00929  00929                % 07751 RGTR--
+200417040 Kirchberg, Hugo Gern  00937  00937                % 07751 RGTR--
+200417039 Kirchberg, Avalon     00939  00939                % 07751 RGTR--
+200417019 Kirchberg, Konrad Ad  00939  00939                % 07751 RGTR--
+200417005 Kirchberg, Antoine d  00940  00940                % 07751 RGTR--
+200417048 Kirchberg, Europe Ga  00941                       % 07751 RGTR--
+*Z 07752 RGTR--                                             % 07752 RGTR--
+*L 303      400000069 200417048  00940  01041               % 07752 RGTR--
+*A ax 400000069 200417048 000016  00940  01041              % 07752 RGTR--
+*A bg 400000069 200417048 000016  00940  01041              % 07752 RGTR--
+*R 1 200417048 400000069 200417048  00940  01041            % 07752 RGTR--
+*G RGB 400000069 200417048  00940  01041                    % 07752 RGTR--
+*A VE 400000069 200417048 000016  00940  01041              % 07752 RGTR--
+*I FD 400000069 200417048        0001129  00940  01041      % 07752 RGTR--
+400000069 Manom, Centre Commer         00940                % 07752 RGTR--
+400000011 Garche, rte de Mondo  00945  00945                % 07752 RGTR--
+400000124 Garche, Chênaie       00946  00946                % 07752 RGTR--
+400000007 Cattenom, Gendarmeri  00949  00949                % 07752 RGTR--
+400000083 Sentzich, Cimetière   00951  00951                % 07752 RGTR--
+210503003 Mondorf, Christophor  01002  01002                % 07752 RGTR--
+210503002 Mondorf, Casino 2000  01003  01003                % 07752 RGTR--
+210503007 Mondorf, Stade John   01004  01004                % 07752 RGTR--
+220502006 Frisange, Cité Aalue  01012  01012                % 07752 RGTR--
+220502001 Frisange, Aal Gemeng  01013  01013                % 07752 RGTR--
+220502003 Frisange, Hau         01014  01014                % 07752 RGTR--
+201103004 Weiler-la-Tour, Schl  01015  01015                % 07752 RGTR--
+200301002 Alzingen, Hondsbréck  01019  01019                % 07752 RGTR--
+200301003 Alzingen, Trapeneck   01020  01020                % 07752 RGTR--
+200303006 Hesperange, Urbengss  01021  01021                % 07752 RGTR--
+200201008 Contern, Rond Point   01027  01027                % 07752 RGTR--
+200201007 Contern, Weiergewan   01027  01027                % 07752 RGTR--
+200601009 Sandweiler, Schaedha  01029  01029                % 07752 RGTR--
+200417040 Kirchberg, Hugo Gern  01037  01037                % 07752 RGTR--
+200417039 Kirchberg, Avalon     01039  01039                % 07752 RGTR--
+200417019 Kirchberg, Konrad Ad  01039  01039                % 07752 RGTR--
+200417005 Kirchberg, Antoine d  01040  01040                % 07752 RGTR--
+200417048 Kirchberg, Europe Ga  01041                       % 07752 RGTR--
+*Z 07753 RGTR--                                             % 07753 RGTR--
+*L 303      400000069 200417048  01040  01141               % 07753 RGTR--
+*A ax 400000069 200417048 000016  01040  01141              % 07753 RGTR--
+*A bg 400000069 200417048 000016  01040  01141              % 07753 RGTR--
+*R 1 200417048 400000069 200417048  01040  01141            % 07753 RGTR--
+*G RGB 400000069 200417048  01040  01141                    % 07753 RGTR--
+*A VE 400000069 200417048 000016  01040  01141              % 07753 RGTR--
+*I FD 400000069 200417048        0002850  01040  01141      % 07753 RGTR--
+400000069 Manom, Centre Commer         01040                % 07753 RGTR--
+400000011 Garche, rte de Mondo  01045  01045                % 07753 RGTR--
+400000124 Garche, Chênaie       01046  01046                % 07753 RGTR--
+400000007 Cattenom, Gendarmeri  01049  01049                % 07753 RGTR--
+400000083 Sentzich, Cimetière   01051  01051                % 07753 RGTR--
+210503003 Mondorf, Christophor  01102  01102                % 07753 RGTR--
+210503002 Mondorf, Casino 2000  01103  01103                % 07753 RGTR--
+210503007 Mondorf, Stade John   01104  01104                % 07753 RGTR--
+220502006 Frisange, Cité Aalue  01112  01112                % 07753 RGTR--
+220502001 Frisange, Aal Gemeng  01113  01113                % 07753 RGTR--
+220502003 Frisange, Hau         01114  01114                % 07753 RGTR--
+201103004 Weiler-la-Tour, Schl  01115  01115                % 07753 RGTR--
+200301002 Alzingen, Hondsbréck  01119  01119                % 07753 RGTR--
+200301003 Alzingen, Trapeneck   01120  01120                % 07753 RGTR--
+200303006 Hesperange, Urbengss  01121  01121                % 07753 RGTR--
+200201008 Contern, Rond Point   01127  01127                % 07753 RGTR--
+200201007 Contern, Weiergewan   01127  01127                % 07753 RGTR--
+200601009 Sandweiler, Schaedha  01129  01129                % 07753 RGTR--
+200417040 Kirchberg, Hugo Gern  01137  01137                % 07753 RGTR--
+200417039 Kirchberg, Avalon     01139  01139                % 07753 RGTR--
+200417019 Kirchberg, Konrad Ad  01139  01139                % 07753 RGTR--
+200417005 Kirchberg, Antoine d  01140  01140                % 07753 RGTR--
+200417048 Kirchberg, Europe Ga  01141                       % 07753 RGTR--
+*Z 07754 RGTR--                                             % 07754 RGTR--
+*L 303      400000069 200417048  01140  01241               % 07754 RGTR--
+*A ax 400000069 200417048 000016  01140  01241              % 07754 RGTR--
+*A bg 400000069 200417048 000016  01140  01241              % 07754 RGTR--
+*R 1 200417048 400000069 200417048  01140  01241            % 07754 RGTR--
+*G RGB 400000069 200417048  01140  01241                    % 07754 RGTR--
+*A VE 400000069 200417048 000016  01140  01241              % 07754 RGTR--
+*I FD 400000069 200417048        0002592  01140  01241      % 07754 RGTR--
+400000069 Manom, Centre Commer         01140                % 07754 RGTR--
+400000011 Garche, rte de Mondo  01145  01145                % 07754 RGTR--
+400000124 Garche, Chênaie       01146  01146                % 07754 RGTR--
+400000007 Cattenom, Gendarmeri  01149  01149                % 07754 RGTR--
+400000083 Sentzich, Cimetière   01151  01151                % 07754 RGTR--
+210503003 Mondorf, Christophor  01202  01202                % 07754 RGTR--
+210503002 Mondorf, Casino 2000  01203  01203                % 07754 RGTR--
+210503007 Mondorf, Stade John   01204  01204                % 07754 RGTR--
+220502006 Frisange, Cité Aalue  01212  01212                % 07754 RGTR--
+220502001 Frisange, Aal Gemeng  01213  01213                % 07754 RGTR--
+220502003 Frisange, Hau         01214  01214                % 07754 RGTR--
+201103004 Weiler-la-Tour, Schl  01215  01215                % 07754 RGTR--
+200301002 Alzingen, Hondsbréck  01219  01219                % 07754 RGTR--
+200301003 Alzingen, Trapeneck   01220  01220                % 07754 RGTR--
+200303006 Hesperange, Urbengss  01221  01221                % 07754 RGTR--
+200201008 Contern, Rond Point   01227  01227                % 07754 RGTR--
+200201007 Contern, Weiergewan   01227  01227                % 07754 RGTR--
+200601009 Sandweiler, Schaedha  01229  01229                % 07754 RGTR--
+200417040 Kirchberg, Hugo Gern  01237  01237                % 07754 RGTR--
+200417039 Kirchberg, Avalon     01239  01239                % 07754 RGTR--
+200417019 Kirchberg, Konrad Ad  01239  01239                % 07754 RGTR--
+200417005 Kirchberg, Antoine d  01240  01240                % 07754 RGTR--
+200417048 Kirchberg, Europe Ga  01241                       % 07754 RGTR--
+*Z 07755 RGTR--                                             % 07755 RGTR--
+*L 303      400000069 200417048  01240  01341               % 07755 RGTR--
+*A ax 400000069 200417048 000016  01240  01341              % 07755 RGTR--
+*A bg 400000069 200417048 000016  01240  01341              % 07755 RGTR--
+*R 1 200417048 400000069 200417048  01240  01341            % 07755 RGTR--
+*G RGB 400000069 200417048  01240  01341                    % 07755 RGTR--
+*A VE 400000069 200417048 000016  01240  01341              % 07755 RGTR--
+*I FD 400000069 200417048        0001277  01240  01341      % 07755 RGTR--
+400000069 Manom, Centre Commer         01240                % 07755 RGTR--
+400000011 Garche, rte de Mondo  01245  01245                % 07755 RGTR--
+400000124 Garche, Chênaie       01246  01246                % 07755 RGTR--
+400000007 Cattenom, Gendarmeri  01249  01249                % 07755 RGTR--
+400000083 Sentzich, Cimetière   01251  01251                % 07755 RGTR--
+210503003 Mondorf, Christophor  01302  01302                % 07755 RGTR--
+210503002 Mondorf, Casino 2000  01303  01303                % 07755 RGTR--
+210503007 Mondorf, Stade John   01304  01304                % 07755 RGTR--
+220502006 Frisange, Cité Aalue  01312  01312                % 07755 RGTR--
+220502001 Frisange, Aal Gemeng  01313  01313                % 07755 RGTR--
+220502003 Frisange, Hau         01314  01314                % 07755 RGTR--
+201103004 Weiler-la-Tour, Schl  01315  01315                % 07755 RGTR--
+200301002 Alzingen, Hondsbréck  01319  01319                % 07755 RGTR--
+200301003 Alzingen, Trapeneck   01320  01320                % 07755 RGTR--
+200303006 Hesperange, Urbengss  01321  01321                % 07755 RGTR--
+200201008 Contern, Rond Point   01327  01327                % 07755 RGTR--
+200201007 Contern, Weiergewan   01327  01327                % 07755 RGTR--
+200601009 Sandweiler, Schaedha  01329  01329                % 07755 RGTR--
+200417040 Kirchberg, Hugo Gern  01337  01337                % 07755 RGTR--
+200417039 Kirchberg, Avalon     01339  01339                % 07755 RGTR--
+200417019 Kirchberg, Konrad Ad  01339  01339                % 07755 RGTR--
+200417005 Kirchberg, Antoine d  01340  01340                % 07755 RGTR--
+200417048 Kirchberg, Europe Ga  01341                       % 07755 RGTR--
+*Z 07756 RGTR--                                             % 07756 RGTR--
+*L 303      400000069 200417048  01340  01441               % 07756 RGTR--
+*A ax 400000069 200417048 000016  01340  01441              % 07756 RGTR--
+*A bg 400000069 200417048 000016  01340  01441              % 07756 RGTR--
+*R 1 200417048 400000069 200417048  01340  01441            % 07756 RGTR--
+*G RGB 400000069 200417048  01340  01441                    % 07756 RGTR--
+*A VE 400000069 200417048 000016  01340  01441              % 07756 RGTR--
+*I FD 400000069 200417048        0002851  01340  01441      % 07756 RGTR--
+400000069 Manom, Centre Commer         01340                % 07756 RGTR--
+400000011 Garche, rte de Mondo  01345  01345                % 07756 RGTR--
+400000124 Garche, Chênaie       01346  01346                % 07756 RGTR--
+400000007 Cattenom, Gendarmeri  01349  01349                % 07756 RGTR--
+400000083 Sentzich, Cimetière   01351  01351                % 07756 RGTR--
+210503003 Mondorf, Christophor  01402  01402                % 07756 RGTR--
+210503002 Mondorf, Casino 2000  01403  01403                % 07756 RGTR--
+210503007 Mondorf, Stade John   01404  01404                % 07756 RGTR--
+220502006 Frisange, Cité Aalue  01412  01412                % 07756 RGTR--
+220502001 Frisange, Aal Gemeng  01413  01413                % 07756 RGTR--
+220502003 Frisange, Hau         01414  01414                % 07756 RGTR--
+201103004 Weiler-la-Tour, Schl  01415  01415                % 07756 RGTR--
+200301002 Alzingen, Hondsbréck  01419  01419                % 07756 RGTR--
+200301003 Alzingen, Trapeneck   01420  01420                % 07756 RGTR--
+200303006 Hesperange, Urbengss  01421  01421                % 07756 RGTR--
+200201008 Contern, Rond Point   01427  01427                % 07756 RGTR--
+200201007 Contern, Weiergewan   01427  01427                % 07756 RGTR--
+200601009 Sandweiler, Schaedha  01429  01429                % 07756 RGTR--
+200417040 Kirchberg, Hugo Gern  01437  01437                % 07756 RGTR--
+200417039 Kirchberg, Avalon     01439  01439                % 07756 RGTR--
+200417019 Kirchberg, Konrad Ad  01439  01439                % 07756 RGTR--
+200417005 Kirchberg, Antoine d  01440  01440                % 07756 RGTR--
+200417048 Kirchberg, Europe Ga  01441                       % 07756 RGTR--
+*Z 07757 RGTR--                                             % 07757 RGTR--
+*L 303      400000069 200417048  01440  01541               % 07757 RGTR--
+*A ax 400000069 200417048 000016  01440  01541              % 07757 RGTR--
+*A bg 400000069 200417048 000016  01440  01541              % 07757 RGTR--
+*R 1 200417048 400000069 200417048  01440  01541            % 07757 RGTR--
+*G RGB 400000069 200417048  01440  01541                    % 07757 RGTR--
+*A VE 400000069 200417048 000016  01440  01541              % 07757 RGTR--
+*I FD 400000069 200417048        0002852  01440  01541      % 07757 RGTR--
+400000069 Manom, Centre Commer         01440                % 07757 RGTR--
+400000011 Garche, rte de Mondo  01445  01445                % 07757 RGTR--
+400000124 Garche, Chênaie       01446  01446                % 07757 RGTR--
+400000007 Cattenom, Gendarmeri  01449  01449                % 07757 RGTR--
+400000083 Sentzich, Cimetière   01451  01451                % 07757 RGTR--
+210503003 Mondorf, Christophor  01502  01502                % 07757 RGTR--
+210503002 Mondorf, Casino 2000  01503  01503                % 07757 RGTR--
+210503007 Mondorf, Stade John   01504  01504                % 07757 RGTR--
+220502006 Frisange, Cité Aalue  01512  01512                % 07757 RGTR--
+220502001 Frisange, Aal Gemeng  01513  01513                % 07757 RGTR--
+220502003 Frisange, Hau         01514  01514                % 07757 RGTR--
+201103004 Weiler-la-Tour, Schl  01515  01515                % 07757 RGTR--
+200301002 Alzingen, Hondsbréck  01519  01519                % 07757 RGTR--
+200301003 Alzingen, Trapeneck   01520  01520                % 07757 RGTR--
+200303006 Hesperange, Urbengss  01521  01521                % 07757 RGTR--
+200201008 Contern, Rond Point   01527  01527                % 07757 RGTR--
+200201007 Contern, Weiergewan   01527  01527                % 07757 RGTR--
+200601009 Sandweiler, Schaedha  01529  01529                % 07757 RGTR--
+200417040 Kirchberg, Hugo Gern  01537  01537                % 07757 RGTR--
+200417039 Kirchberg, Avalon     01539  01539                % 07757 RGTR--
+200417019 Kirchberg, Konrad Ad  01539  01539                % 07757 RGTR--
+200417005 Kirchberg, Antoine d  01540  01540                % 07757 RGTR--
+200417048 Kirchberg, Europe Ga  01541                       % 07757 RGTR--
+*Z 07758 RGTR--                                             % 07758 RGTR--
+*L 303      400000069 200417048  01540  01641               % 07758 RGTR--
+*A ax 400000069 200417048 000016  01540  01641              % 07758 RGTR--
+*A bg 400000069 200417048 000016  01540  01641              % 07758 RGTR--
+*R 1 200417048 400000069 200417048  01540  01641            % 07758 RGTR--
+*G RGB 400000069 200417048  01540  01641                    % 07758 RGTR--
+*A VE 400000069 200417048 000016  01540  01641              % 07758 RGTR--
+*I FD 400000069 200417048        0002853  01540  01641      % 07758 RGTR--
+400000069 Manom, Centre Commer         01540                % 07758 RGTR--
+400000011 Garche, rte de Mondo  01545  01545                % 07758 RGTR--
+400000124 Garche, Chênaie       01546  01546                % 07758 RGTR--
+400000007 Cattenom, Gendarmeri  01549  01549                % 07758 RGTR--
+400000083 Sentzich, Cimetière   01551  01551                % 07758 RGTR--
+210503003 Mondorf, Christophor  01602  01602                % 07758 RGTR--
+210503002 Mondorf, Casino 2000  01603  01603                % 07758 RGTR--
+210503007 Mondorf, Stade John   01604  01604                % 07758 RGTR--
+220502006 Frisange, Cité Aalue  01612  01612                % 07758 RGTR--
+220502001 Frisange, Aal Gemeng  01613  01613                % 07758 RGTR--
+220502003 Frisange, Hau         01614  01614                % 07758 RGTR--
+201103004 Weiler-la-Tour, Schl  01615  01615                % 07758 RGTR--
+200301002 Alzingen, Hondsbréck  01619  01619                % 07758 RGTR--
+200301003 Alzingen, Trapeneck   01620  01620                % 07758 RGTR--
+200303006 Hesperange, Urbengss  01621  01621                % 07758 RGTR--
+200201008 Contern, Rond Point   01627  01627                % 07758 RGTR--
+200201007 Contern, Weiergewan   01627  01627                % 07758 RGTR--
+200601009 Sandweiler, Schaedha  01629  01629                % 07758 RGTR--
+200417040 Kirchberg, Hugo Gern  01637  01637                % 07758 RGTR--
+200417039 Kirchberg, Avalon     01639  01639                % 07758 RGTR--
+200417019 Kirchberg, Konrad Ad  01639  01639                % 07758 RGTR--
+200417005 Kirchberg, Antoine d  01640  01640                % 07758 RGTR--
+200417048 Kirchberg, Europe Ga  01641                       % 07758 RGTR--
+*Z 07759 RGTR--                                             % 07759 RGTR--
+*L 303      400000069 200417048  01640  01741               % 07759 RGTR--
+*A ax 400000069 200417048 000016  01640  01741              % 07759 RGTR--
+*A bg 400000069 200417048 000016  01640  01741              % 07759 RGTR--
+*R 1 200417048 400000069 200417048  01640  01741            % 07759 RGTR--
+*G RGB 400000069 200417048  01640  01741                    % 07759 RGTR--
+*A VE 400000069 200417048 000016  01640  01741              % 07759 RGTR--
+*I FD 400000069 200417048        0002068  01640  01741      % 07759 RGTR--
+400000069 Manom, Centre Commer         01640                % 07759 RGTR--
+400000011 Garche, rte de Mondo  01645  01645                % 07759 RGTR--
+400000124 Garche, Chênaie       01646  01646                % 07759 RGTR--
+400000007 Cattenom, Gendarmeri  01649  01649                % 07759 RGTR--
+400000083 Sentzich, Cimetière   01651  01651                % 07759 RGTR--
+210503003 Mondorf, Christophor  01702  01702                % 07759 RGTR--
+210503002 Mondorf, Casino 2000  01703  01703                % 07759 RGTR--
+210503007 Mondorf, Stade John   01704  01704                % 07759 RGTR--
+220502006 Frisange, Cité Aalue  01712  01712                % 07759 RGTR--
+220502001 Frisange, Aal Gemeng  01713  01713                % 07759 RGTR--
+220502003 Frisange, Hau         01714  01714                % 07759 RGTR--
+201103004 Weiler-la-Tour, Schl  01715  01715                % 07759 RGTR--
+200301002 Alzingen, Hondsbréck  01719  01719                % 07759 RGTR--
+200301003 Alzingen, Trapeneck   01720  01720                % 07759 RGTR--
+200303006 Hesperange, Urbengss  01721  01721                % 07759 RGTR--
+200201008 Contern, Rond Point   01727  01727                % 07759 RGTR--
+200201007 Contern, Weiergewan   01727  01727                % 07759 RGTR--
+200601009 Sandweiler, Schaedha  01729  01729                % 07759 RGTR--
+200417040 Kirchberg, Hugo Gern  01737  01737                % 07759 RGTR--
+200417039 Kirchberg, Avalon     01739  01739                % 07759 RGTR--
+200417019 Kirchberg, Konrad Ad  01739  01739                % 07759 RGTR--
+200417005 Kirchberg, Antoine d  01740  01740                % 07759 RGTR--
+200417048 Kirchberg, Europe Ga  01741                       % 07759 RGTR--
+*Z 07760 RGTR--                                             % 07760 RGTR--
+*L 303      400000069 200417048  01740  01841               % 07760 RGTR--
+*A ax 400000069 200417048 000016  01740  01841              % 07760 RGTR--
+*A bg 400000069 200417048 000016  01740  01841              % 07760 RGTR--
+*R 1 200417048 400000069 200417048  01740  01841            % 07760 RGTR--
+*G RGB 400000069 200417048  01740  01841                    % 07760 RGTR--
+*A VE 400000069 200417048 000016  01740  01841              % 07760 RGTR--
+*I FD 400000069 200417048        0002069  01740  01841      % 07760 RGTR--
+400000069 Manom, Centre Commer         01740                % 07760 RGTR--
+400000011 Garche, rte de Mondo  01745  01745                % 07760 RGTR--
+400000124 Garche, Chênaie       01746  01746                % 07760 RGTR--
+400000007 Cattenom, Gendarmeri  01749  01749                % 07760 RGTR--
+400000083 Sentzich, Cimetière   01751  01751                % 07760 RGTR--
+210503003 Mondorf, Christophor  01802  01802                % 07760 RGTR--
+210503002 Mondorf, Casino 2000  01803  01803                % 07760 RGTR--
+210503007 Mondorf, Stade John   01804  01804                % 07760 RGTR--
+220502006 Frisange, Cité Aalue  01812  01812                % 07760 RGTR--
+220502001 Frisange, Aal Gemeng  01813  01813                % 07760 RGTR--
+220502003 Frisange, Hau         01814  01814                % 07760 RGTR--
+201103004 Weiler-la-Tour, Schl  01815  01815                % 07760 RGTR--
+200301002 Alzingen, Hondsbréck  01819  01819                % 07760 RGTR--
+200301003 Alzingen, Trapeneck   01820  01820                % 07760 RGTR--
+200303006 Hesperange, Urbengss  01821  01821                % 07760 RGTR--
+200201008 Contern, Rond Point   01827  01827                % 07760 RGTR--
+200201007 Contern, Weiergewan   01827  01827                % 07760 RGTR--
+200601009 Sandweiler, Schaedha  01829  01829                % 07760 RGTR--
+200417040 Kirchberg, Hugo Gern  01837  01837                % 07760 RGTR--
+200417039 Kirchberg, Avalon     01839  01839                % 07760 RGTR--
+200417019 Kirchberg, Konrad Ad  01839  01839                % 07760 RGTR--
+200417005 Kirchberg, Antoine d  01840  01840                % 07760 RGTR--
+200417048 Kirchberg, Europe Ga  01841                       % 07760 RGTR--
+*Z 07761 RGTR--                                             % 07761 RGTR--
+*L 303      400000069 200417048  01840  01941               % 07761 RGTR--
+*A ax 400000069 200417048 000016  01840  01941              % 07761 RGTR--
+*A bg 400000069 200417048 000016  01840  01941              % 07761 RGTR--
+*R 1 200417048 400000069 200417048  01840  01941            % 07761 RGTR--
+*G RGB 400000069 200417048  01840  01941                    % 07761 RGTR--
+*A VE 400000069 200417048 000016  01840  01941              % 07761 RGTR--
+*I FD 400000069 200417048        0001489  01840  01941      % 07761 RGTR--
+400000069 Manom, Centre Commer         01840                % 07761 RGTR--
+400000011 Garche, rte de Mondo  01845  01845                % 07761 RGTR--
+400000124 Garche, Chênaie       01846  01846                % 07761 RGTR--
+400000007 Cattenom, Gendarmeri  01849  01849                % 07761 RGTR--
+400000083 Sentzich, Cimetière   01851  01851                % 07761 RGTR--
+210503003 Mondorf, Christophor  01902  01902                % 07761 RGTR--
+210503002 Mondorf, Casino 2000  01903  01903                % 07761 RGTR--
+210503007 Mondorf, Stade John   01904  01904                % 07761 RGTR--
+220502006 Frisange, Cité Aalue  01912  01912                % 07761 RGTR--
+220502001 Frisange, Aal Gemeng  01913  01913                % 07761 RGTR--
+220502003 Frisange, Hau         01914  01914                % 07761 RGTR--
+201103004 Weiler-la-Tour, Schl  01915  01915                % 07761 RGTR--
+200301002 Alzingen, Hondsbréck  01919  01919                % 07761 RGTR--
+200301003 Alzingen, Trapeneck   01920  01920                % 07761 RGTR--
+200303006 Hesperange, Urbengss  01921  01921                % 07761 RGTR--
+200201008 Contern, Rond Point   01927  01927                % 07761 RGTR--
+200201007 Contern, Weiergewan   01927  01927                % 07761 RGTR--
+200601009 Sandweiler, Schaedha  01929  01929                % 07761 RGTR--
+200417040 Kirchberg, Hugo Gern  01937  01937                % 07761 RGTR--
+200417039 Kirchberg, Avalon     01939  01939                % 07761 RGTR--
+200417019 Kirchberg, Konrad Ad  01939  01939                % 07761 RGTR--
+200417005 Kirchberg, Antoine d  01940  01940                % 07761 RGTR--
+200417048 Kirchberg, Europe Ga  01941                       % 07761 RGTR--
+*Z 07762 RGTR--                                             % 07762 RGTR--
+*L 303      400000069 200417048  01940  02041               % 07762 RGTR--
+*A ax 400000069 200417048 000016  01940  02041              % 07762 RGTR--
+*A bg 400000069 200417048 000016  01940  02041              % 07762 RGTR--
+*R 1 200417048 400000069 200417048  01940  02041            % 07762 RGTR--
+*G RGB 400000069 200417048  01940  02041                    % 07762 RGTR--
+*A VE 400000069 200417048 000016  01940  02041              % 07762 RGTR--
+*I FD 400000069 200417048        0002588  01940  02041      % 07762 RGTR--
+400000069 Manom, Centre Commer         01940                % 07762 RGTR--
+400000011 Garche, rte de Mondo  01945  01945                % 07762 RGTR--
+400000124 Garche, Chênaie       01946  01946                % 07762 RGTR--
+400000007 Cattenom, Gendarmeri  01949  01949                % 07762 RGTR--
+400000083 Sentzich, Cimetière   01951  01951                % 07762 RGTR--
+210503003 Mondorf, Christophor  02002  02002                % 07762 RGTR--
+210503002 Mondorf, Casino 2000  02003  02003                % 07762 RGTR--
+210503007 Mondorf, Stade John   02004  02004                % 07762 RGTR--
+220502006 Frisange, Cité Aalue  02012  02012                % 07762 RGTR--
+220502001 Frisange, Aal Gemeng  02013  02013                % 07762 RGTR--
+220502003 Frisange, Hau         02014  02014                % 07762 RGTR--
+201103004 Weiler-la-Tour, Schl  02015  02015                % 07762 RGTR--
+200301002 Alzingen, Hondsbréck  02019  02019                % 07762 RGTR--
+200301003 Alzingen, Trapeneck   02020  02020                % 07762 RGTR--
+200303006 Hesperange, Urbengss  02021  02021                % 07762 RGTR--
+200201008 Contern, Rond Point   02027  02027                % 07762 RGTR--
+200201007 Contern, Weiergewan   02027  02027                % 07762 RGTR--
+200601009 Sandweiler, Schaedha  02029  02029                % 07762 RGTR--
+200417040 Kirchberg, Hugo Gern  02037  02037                % 07762 RGTR--
+200417039 Kirchberg, Avalon     02039  02039                % 07762 RGTR--
+200417019 Kirchberg, Konrad Ad  02039  02039                % 07762 RGTR--
+200417005 Kirchberg, Antoine d  02040  02040                % 07762 RGTR--
+200417048 Kirchberg, Europe Ga  02041                       % 07762 RGTR--
+*Z 07763 RGTR--                                             % 07763 RGTR--
+*L 303      400000069 200417048  02040  02141               % 07763 RGTR--
+*A ax 400000069 200417048 000016  02040  02141              % 07763 RGTR--
+*A bg 400000069 200417048 000016  02040  02141              % 07763 RGTR--
+*R 1 200417048 400000069 200417048  02040  02141            % 07763 RGTR--
+*G RGB 400000069 200417048  02040  02141                    % 07763 RGTR--
+*A VE 400000069 200417048 000016  02040  02141              % 07763 RGTR--
+*I FD 400000069 200417048        0002812  02040  02141      % 07763 RGTR--
+400000069 Manom, Centre Commer         02040                % 07763 RGTR--
+400000011 Garche, rte de Mondo  02045  02045                % 07763 RGTR--
+400000124 Garche, Chênaie       02046  02046                % 07763 RGTR--
+400000007 Cattenom, Gendarmeri  02049  02049                % 07763 RGTR--
+400000083 Sentzich, Cimetière   02051  02051                % 07763 RGTR--
+210503003 Mondorf, Christophor  02102  02102                % 07763 RGTR--
+210503002 Mondorf, Casino 2000  02103  02103                % 07763 RGTR--
+210503007 Mondorf, Stade John   02104  02104                % 07763 RGTR--
+220502006 Frisange, Cité Aalue  02112  02112                % 07763 RGTR--
+220502001 Frisange, Aal Gemeng  02113  02113                % 07763 RGTR--
+220502003 Frisange, Hau         02114  02114                % 07763 RGTR--
+201103004 Weiler-la-Tour, Schl  02115  02115                % 07763 RGTR--
+200301002 Alzingen, Hondsbréck  02119  02119                % 07763 RGTR--
+200301003 Alzingen, Trapeneck   02120  02120                % 07763 RGTR--
+200303006 Hesperange, Urbengss  02121  02121                % 07763 RGTR--
+200201008 Contern, Rond Point   02127  02127                % 07763 RGTR--
+200201007 Contern, Weiergewan   02127  02127                % 07763 RGTR--
+200601009 Sandweiler, Schaedha  02129  02129                % 07763 RGTR--
+200417040 Kirchberg, Hugo Gern  02137  02137                % 07763 RGTR--
+200417039 Kirchberg, Avalon     02139  02139                % 07763 RGTR--
+200417019 Kirchberg, Konrad Ad  02139  02139                % 07763 RGTR--
+200417005 Kirchberg, Antoine d  02140  02140                % 07763 RGTR--
+200417048 Kirchberg, Europe Ga  02141                       % 07763 RGTR--
+*Z 07764 RGTR--                                             % 07764 RGTR--
+*L 303      400000069 200417048  02140  02241               % 07764 RGTR--
+*A ax 400000069 200417048 000016  02140  02241              % 07764 RGTR--
+*A bg 400000069 200417048 000016  02140  02241              % 07764 RGTR--
+*R 1 200417048 400000069 200417048  02140  02241            % 07764 RGTR--
+*G RGB 400000069 200417048  02140  02241                    % 07764 RGTR--
+*A VE 400000069 200417048 000016  02140  02241              % 07764 RGTR--
+*I FD 400000069 200417048        0003635  02140  02241      % 07764 RGTR--
+400000069 Manom, Centre Commer         02140                % 07764 RGTR--
+400000011 Garche, rte de Mondo  02145  02145                % 07764 RGTR--
+400000124 Garche, Chênaie       02146  02146                % 07764 RGTR--
+400000007 Cattenom, Gendarmeri  02149  02149                % 07764 RGTR--
+400000083 Sentzich, Cimetière   02151  02151                % 07764 RGTR--
+210503003 Mondorf, Christophor  02202  02202                % 07764 RGTR--
+210503002 Mondorf, Casino 2000  02203  02203                % 07764 RGTR--
+210503007 Mondorf, Stade John   02204  02204                % 07764 RGTR--
+220502006 Frisange, Cité Aalue  02212  02212                % 07764 RGTR--
+220502001 Frisange, Aal Gemeng  02213  02213                % 07764 RGTR--
+220502003 Frisange, Hau         02214  02214                % 07764 RGTR--
+201103004 Weiler-la-Tour, Schl  02215  02215                % 07764 RGTR--
+200301002 Alzingen, Hondsbréck  02219  02219                % 07764 RGTR--
+200301003 Alzingen, Trapeneck   02220  02220                % 07764 RGTR--
+200303006 Hesperange, Urbengss  02221  02221                % 07764 RGTR--
+200201008 Contern, Rond Point   02227  02227                % 07764 RGTR--
+200201007 Contern, Weiergewan   02227  02227                % 07764 RGTR--
+200601009 Sandweiler, Schaedha  02229  02229                % 07764 RGTR--
+200417040 Kirchberg, Hugo Gern  02237  02237                % 07764 RGTR--
+200417039 Kirchberg, Avalon     02239  02239                % 07764 RGTR--
+200417019 Kirchberg, Konrad Ad  02239  02239                % 07764 RGTR--
+200417005 Kirchberg, Antoine d  02240  02240                % 07764 RGTR--
+200417048 Kirchberg, Europe Ga  02241                       % 07764 RGTR--
+*Z 07765 RGTR--                                             % 07765 RGTR--
+*L 303      400000069 200417048  00610  00719               % 07765 RGTR--
+*A ax 400000069 200417048 000016  00610  00719              % 07765 RGTR--
+*A bg 400000069 200417048 000016  00610  00719              % 07765 RGTR--
+*R 1 200417048 400000069 200417048  00610  00719            % 07765 RGTR--
+*G RGB 400000069 200417048  00610  00719                    % 07765 RGTR--
+*A VE 400000069 200417048 000016  00610  00719              % 07765 RGTR--
+*I FD 400000069 200417048        0002147  00610  00719      % 07765 RGTR--
+400000069 Manom, Centre Commer         00610                % 07765 RGTR--
+400000011 Garche, rte de Mondo  00615  00615                % 07765 RGTR--
+400000124 Garche, Chênaie       00616  00616                % 07765 RGTR--
+400000007 Cattenom, Gendarmeri  00619  00619                % 07765 RGTR--
+400000083 Sentzich, Cimetière   00621  00621                % 07765 RGTR--
+210503003 Mondorf, Christophor  00632  00632                % 07765 RGTR--
+210503002 Mondorf, Casino 2000  00633  00633                % 07765 RGTR--
+210503007 Mondorf, Stade John   00634  00634                % 07765 RGTR--
+220502006 Frisange, Cité Aalue  00643  00643                % 07765 RGTR--
+220502001 Frisange, Aal Gemeng  00644  00644                % 07765 RGTR--
+220502003 Frisange, Hau         00645  00645                % 07765 RGTR--
+201103004 Weiler-la-Tour, Schl  00647  00647                % 07765 RGTR--
+200301002 Alzingen, Hondsbréck  00651  00651                % 07765 RGTR--
+200301003 Alzingen, Trapeneck   00652  00652                % 07765 RGTR--
+200303006 Hesperange, Urbengss  00653  00653                % 07765 RGTR--
+200201008 Contern, Rond Point   00700  00700                % 07765 RGTR--
+200201007 Contern, Weiergewan   00701  00701                % 07765 RGTR--
+200601009 Sandweiler, Schaedha  00703  00703                % 07765 RGTR--
+200417040 Kirchberg, Hugo Gern  00713  00713                % 07765 RGTR--
+200417039 Kirchberg, Avalon     00716  00716                % 07765 RGTR--
+200417019 Kirchberg, Konrad Ad  00717  00717                % 07765 RGTR--
+200417005 Kirchberg, Antoine d  00718  00718                % 07765 RGTR--
+200417048 Kirchberg, Europe Ga  00719                       % 07765 RGTR--
+*Z 07766 RGTR--                                             % 07766 RGTR--
+*L 303      400000069 200417048  00640  00749               % 07766 RGTR--
+*A ax 400000069 200417048 000016  00640  00749              % 07766 RGTR--
+*A bg 400000069 200417048 000016  00640  00749              % 07766 RGTR--
+*R 1 200417048 400000069 200417048  00640  00749            % 07766 RGTR--
+*G RGB 400000069 200417048  00640  00749                    % 07766 RGTR--
+*A VE 400000069 200417048 000016  00640  00749              % 07766 RGTR--
+*I FD 400000069 200417048        0002332  00640  00749      % 07766 RGTR--
+400000069 Manom, Centre Commer         00640                % 07766 RGTR--
+400000011 Garche, rte de Mondo  00645  00645                % 07766 RGTR--
+400000124 Garche, Chênaie       00646  00646                % 07766 RGTR--
+400000007 Cattenom, Gendarmeri  00649  00649                % 07766 RGTR--
+400000083 Sentzich, Cimetière   00651  00651                % 07766 RGTR--
+210503003 Mondorf, Christophor  00702  00702                % 07766 RGTR--
+210503002 Mondorf, Casino 2000  00703  00703                % 07766 RGTR--
+210503007 Mondorf, Stade John   00704  00704                % 07766 RGTR--
+220502006 Frisange, Cité Aalue  00713  00713                % 07766 RGTR--
+220502001 Frisange, Aal Gemeng  00714  00714                % 07766 RGTR--
+220502003 Frisange, Hau         00715  00715                % 07766 RGTR--
+201103004 Weiler-la-Tour, Schl  00717  00717                % 07766 RGTR--
+200301002 Alzingen, Hondsbréck  00721  00721                % 07766 RGTR--
+200301003 Alzingen, Trapeneck   00722  00722                % 07766 RGTR--
+200303006 Hesperange, Urbengss  00723  00723                % 07766 RGTR--
+200201008 Contern, Rond Point   00730  00730                % 07766 RGTR--
+200201007 Contern, Weiergewan   00731  00731                % 07766 RGTR--
+200601009 Sandweiler, Schaedha  00733  00733                % 07766 RGTR--
+200417040 Kirchberg, Hugo Gern  00743  00743                % 07766 RGTR--
+200417039 Kirchberg, Avalon     00746  00746                % 07766 RGTR--
+200417019 Kirchberg, Konrad Ad  00747  00747                % 07766 RGTR--
+200417005 Kirchberg, Antoine d  00748  00748                % 07766 RGTR--
+200417048 Kirchberg, Europe Ga  00749                       % 07766 RGTR--
+*Z 07767 RGTR--                                             % 07767 RGTR--
+*L 303      400000069 200417048  00710  00819               % 07767 RGTR--
+*A ax 400000069 200417048 000016  00710  00819              % 07767 RGTR--
+*A bg 400000069 200417048 000016  00710  00819              % 07767 RGTR--
+*R 1 200417048 400000069 200417048  00710  00819            % 07767 RGTR--
+*G RGB 400000069 200417048  00710  00819                    % 07767 RGTR--
+*A VE 400000069 200417048 000016  00710  00819              % 07767 RGTR--
+*I FD 400000069 200417048        0002143  00710  00819      % 07767 RGTR--
+400000069 Manom, Centre Commer         00710                % 07767 RGTR--
+400000011 Garche, rte de Mondo  00715  00715                % 07767 RGTR--
+400000124 Garche, Chênaie       00716  00716                % 07767 RGTR--
+400000007 Cattenom, Gendarmeri  00719  00719                % 07767 RGTR--
+400000083 Sentzich, Cimetière   00721  00721                % 07767 RGTR--
+210503003 Mondorf, Christophor  00732  00732                % 07767 RGTR--
+210503002 Mondorf, Casino 2000  00733  00733                % 07767 RGTR--
+210503007 Mondorf, Stade John   00734  00734                % 07767 RGTR--
+220502006 Frisange, Cité Aalue  00743  00743                % 07767 RGTR--
+220502001 Frisange, Aal Gemeng  00744  00744                % 07767 RGTR--
+220502003 Frisange, Hau         00745  00745                % 07767 RGTR--
+201103004 Weiler-la-Tour, Schl  00747  00747                % 07767 RGTR--
+200301002 Alzingen, Hondsbréck  00751  00751                % 07767 RGTR--
+200301003 Alzingen, Trapeneck   00752  00752                % 07767 RGTR--
+200303006 Hesperange, Urbengss  00753  00753                % 07767 RGTR--
+200201008 Contern, Rond Point   00800  00800                % 07767 RGTR--
+200201007 Contern, Weiergewan   00801  00801                % 07767 RGTR--
+200601009 Sandweiler, Schaedha  00803  00803                % 07767 RGTR--
+200417040 Kirchberg, Hugo Gern  00813  00813                % 07767 RGTR--
+200417039 Kirchberg, Avalon     00816  00816                % 07767 RGTR--
+200417019 Kirchberg, Konrad Ad  00817  00817                % 07767 RGTR--
+200417005 Kirchberg, Antoine d  00818  00818                % 07767 RGTR--
+200417048 Kirchberg, Europe Ga  00819                       % 07767 RGTR--
+*Z 07768 RGTR--                                             % 07768 RGTR--
+*L 303      400000069 200417048  00740  00849               % 07768 RGTR--
+*A ax 400000069 200417048 000016  00740  00849              % 07768 RGTR--
+*A bg 400000069 200417048 000016  00740  00849              % 07768 RGTR--
+*R 1 200417048 400000069 200417048  00740  00849            % 07768 RGTR--
+*G RGB 400000069 200417048  00740  00849                    % 07768 RGTR--
+*A VE 400000069 200417048 000016  00740  00849              % 07768 RGTR--
+*I FD 400000069 200417048        0002847  00740  00849      % 07768 RGTR--
+400000069 Manom, Centre Commer         00740                % 07768 RGTR--
+400000011 Garche, rte de Mondo  00745  00745                % 07768 RGTR--
+400000124 Garche, Chênaie       00746  00746                % 07768 RGTR--
+400000007 Cattenom, Gendarmeri  00749  00749                % 07768 RGTR--
+400000083 Sentzich, Cimetière   00751  00751                % 07768 RGTR--
+210503003 Mondorf, Christophor  00802  00802                % 07768 RGTR--
+210503002 Mondorf, Casino 2000  00803  00803                % 07768 RGTR--
+210503007 Mondorf, Stade John   00804  00804                % 07768 RGTR--
+220502006 Frisange, Cité Aalue  00813  00813                % 07768 RGTR--
+220502001 Frisange, Aal Gemeng  00814  00814                % 07768 RGTR--
+220502003 Frisange, Hau         00815  00815                % 07768 RGTR--
+201103004 Weiler-la-Tour, Schl  00817  00817                % 07768 RGTR--
+200301002 Alzingen, Hondsbréck  00821  00821                % 07768 RGTR--
+200301003 Alzingen, Trapeneck   00822  00822                % 07768 RGTR--
+200303006 Hesperange, Urbengss  00823  00823                % 07768 RGTR--
+200201008 Contern, Rond Point   00830  00830                % 07768 RGTR--
+200201007 Contern, Weiergewan   00831  00831                % 07768 RGTR--
+200601009 Sandweiler, Schaedha  00833  00833                % 07768 RGTR--
+200417040 Kirchberg, Hugo Gern  00843  00843                % 07768 RGTR--
+200417039 Kirchberg, Avalon     00846  00846                % 07768 RGTR--
+200417019 Kirchberg, Konrad Ad  00847  00847                % 07768 RGTR--
+200417005 Kirchberg, Antoine d  00848  00848                % 07768 RGTR--
+200417048 Kirchberg, Europe Ga  00849                       % 07768 RGTR--
+*Z 07769 RGTR--                                             % 07769 RGTR--
+*L 303      200417048 400000069  01611  01723               % 07769 RGTR--
+*A ax 200417048 400000069 000016  01611  01723              % 07769 RGTR--
+*A qk 200417048 400000069 000016  01611  01723              % 07769 RGTR--
+*R 2 400000069 200417048 400000069  01611  01723            % 07769 RGTR--
+*G RGB 200417048 400000069  01611  01723                    % 07769 RGTR--
+*A VE 200417048 400000069 000016  01611  01723              % 07769 RGTR--
+*I FD 200417048 400000069        0002048  01611  01723      % 07769 RGTR--
+200417048 Kirchberg, Europe Ga         01611                % 07769 RGTR--
+200417005 Kirchberg, Antoine d  01612  01612                % 07769 RGTR--
+200417019 Kirchberg, Konrad Ad  01613  01613                % 07769 RGTR--
+200417039 Kirchberg, Avalon     01614  01614                % 07769 RGTR--
+200417033 Kirchberg, Poutty St  01615  01615                % 07769 RGTR--
+200417044 Kirchberg, Luxexpo Q  01617  01617                % 07769 RGTR--
+200601009 Sandweiler, Schaedha  01627  01627                % 07769 RGTR--
+200201007 Contern, Weiergewan   01629  01629                % 07769 RGTR--
+200201008 Contern, Rond Point   01630  01630                % 07769 RGTR--
+200303006 Hesperange, Urbengss  01637  01637                % 07769 RGTR--
+200301003 Alzingen, Trapeneck   01638  01638                % 07769 RGTR--
+200301002 Alzingen, Hondsbréck  01639  01639                % 07769 RGTR--
+201103004 Weiler-la-Tour, Schl  01644  01644                % 07769 RGTR--
+220502003 Frisange, Hau         01645  01645                % 07769 RGTR--
+220502001 Frisange, Aal Gemeng  01647  01647                % 07769 RGTR--
+220502004 Frisange, Op der Krä  01647  01647                % 07769 RGTR--
+210503006 Mondorf, Réimecherst  01657  01657                % 07769 RGTR--
+210503002 Mondorf, Casino 2000  01658  01658                % 07769 RGTR--
+210503003 Mondorf, Christophor  01659  01659                % 07769 RGTR--
+400000083 Sentzich, Cimetière   01711  01711                % 07769 RGTR--
+400000007 Cattenom, Gendarmeri  01714  01714                % 07769 RGTR--
+400000124 Garche, Chênaie       01717  01717                % 07769 RGTR--
+400000011 Garche, rte de Mondo  01718  01718                % 07769 RGTR--
+400000069 Manom, Centre Commer  01723                       % 07769 RGTR--
+*Z 07770 RGTR--                                             % 07770 RGTR--
+*L 303      200417048 400000069  01641  01753               % 07770 RGTR--
+*A ax 200417048 400000069 000016  01641  01753              % 07770 RGTR--
+*A qk 200417048 400000069 000016  01641  01753              % 07770 RGTR--
+*R 2 400000069 200417048 400000069  01641  01753            % 07770 RGTR--
+*G RGB 200417048 400000069  01641  01753                    % 07770 RGTR--
+*A VE 200417048 400000069 000016  01641  01753              % 07770 RGTR--
+*I FD 200417048 400000069        0001342  01641  01753      % 07770 RGTR--
+200417048 Kirchberg, Europe Ga         01641                % 07770 RGTR--
+200417005 Kirchberg, Antoine d  01642  01642                % 07770 RGTR--
+200417019 Kirchberg, Konrad Ad  01643  01643                % 07770 RGTR--
+200417039 Kirchberg, Avalon     01644  01644                % 07770 RGTR--
+200417033 Kirchberg, Poutty St  01645  01645                % 07770 RGTR--
+200417044 Kirchberg, Luxexpo Q  01647  01647                % 07770 RGTR--
+200601009 Sandweiler, Schaedha  01657  01657                % 07770 RGTR--
+200201007 Contern, Weiergewan   01659  01659                % 07770 RGTR--
+200201008 Contern, Rond Point   01700  01700                % 07770 RGTR--
+200303006 Hesperange, Urbengss  01707  01707                % 07770 RGTR--
+200301003 Alzingen, Trapeneck   01708  01708                % 07770 RGTR--
+200301002 Alzingen, Hondsbréck  01709  01709                % 07770 RGTR--
+201103004 Weiler-la-Tour, Schl  01714  01714                % 07770 RGTR--
+220502003 Frisange, Hau         01715  01715                % 07770 RGTR--
+220502001 Frisange, Aal Gemeng  01717  01717                % 07770 RGTR--
+220502004 Frisange, Op der Krä  01717  01717                % 07770 RGTR--
+210503006 Mondorf, Réimecherst  01727  01727                % 07770 RGTR--
+210503002 Mondorf, Casino 2000  01728  01728                % 07770 RGTR--
+210503003 Mondorf, Christophor  01729  01729                % 07770 RGTR--
+400000083 Sentzich, Cimetière   01741  01741                % 07770 RGTR--
+400000007 Cattenom, Gendarmeri  01744  01744                % 07770 RGTR--
+400000124 Garche, Chênaie       01747  01747                % 07770 RGTR--
+400000011 Garche, rte de Mondo  01748  01748                % 07770 RGTR--
+400000069 Manom, Centre Commer  01753                       % 07770 RGTR--
+*Z 07771 RGTR--                                             % 07771 RGTR--
+*L 303      200417048 400000069  01711  01823               % 07771 RGTR--
+*A ax 200417048 400000069 000016  01711  01823              % 07771 RGTR--
+*A qk 200417048 400000069 000016  01711  01823              % 07771 RGTR--
+*R 2 400000069 200417048 400000069  01711  01823            % 07771 RGTR--
+*G RGB 200417048 400000069  01711  01823                    % 07771 RGTR--
+*A VE 200417048 400000069 000016  01711  01823              % 07771 RGTR--
+*I FD 200417048 400000069        0002054  01711  01823      % 07771 RGTR--
+200417048 Kirchberg, Europe Ga         01711                % 07771 RGTR--
+200417005 Kirchberg, Antoine d  01712  01712                % 07771 RGTR--
+200417019 Kirchberg, Konrad Ad  01713  01713                % 07771 RGTR--
+200417039 Kirchberg, Avalon     01714  01714                % 07771 RGTR--
+200417033 Kirchberg, Poutty St  01715  01715                % 07771 RGTR--
+200417044 Kirchberg, Luxexpo Q  01717  01717                % 07771 RGTR--
+200601009 Sandweiler, Schaedha  01727  01727                % 07771 RGTR--
+200201007 Contern, Weiergewan   01729  01729                % 07771 RGTR--
+200201008 Contern, Rond Point   01730  01730                % 07771 RGTR--
+200303006 Hesperange, Urbengss  01737  01737                % 07771 RGTR--
+200301003 Alzingen, Trapeneck   01738  01738                % 07771 RGTR--
+200301002 Alzingen, Hondsbréck  01739  01739                % 07771 RGTR--
+201103004 Weiler-la-Tour, Schl  01744  01744                % 07771 RGTR--
+220502003 Frisange, Hau         01745  01745                % 07771 RGTR--
+220502001 Frisange, Aal Gemeng  01747  01747                % 07771 RGTR--
+220502004 Frisange, Op der Krä  01747  01747                % 07771 RGTR--
+210503006 Mondorf, Réimecherst  01757  01757                % 07771 RGTR--
+210503002 Mondorf, Casino 2000  01758  01758                % 07771 RGTR--
+210503003 Mondorf, Christophor  01759  01759                % 07771 RGTR--
+400000083 Sentzich, Cimetière   01811  01811                % 07771 RGTR--
+400000007 Cattenom, Gendarmeri  01814  01814                % 07771 RGTR--
+400000124 Garche, Chênaie       01817  01817                % 07771 RGTR--
+400000011 Garche, rte de Mondo  01818  01818                % 07771 RGTR--
+400000069 Manom, Centre Commer  01823                       % 07771 RGTR--
+*Z 07772 RGTR--                                             % 07772 RGTR--
+*L 303      200417048 400000069  01741  01853               % 07772 RGTR--
+*A ax 200417048 400000069 000016  01741  01853              % 07772 RGTR--
+*A qk 200417048 400000069 000016  01741  01853              % 07772 RGTR--
+*R 2 400000069 200417048 400000069  01741  01853            % 07772 RGTR--
+*G RGB 200417048 400000069  01741  01853                    % 07772 RGTR--
+*A VE 200417048 400000069 000016  01741  01853              % 07772 RGTR--
+*I FD 200417048 400000069        0001979  01741  01853      % 07772 RGTR--
+200417048 Kirchberg, Europe Ga         01741                % 07772 RGTR--
+200417005 Kirchberg, Antoine d  01742  01742                % 07772 RGTR--
+200417019 Kirchberg, Konrad Ad  01743  01743                % 07772 RGTR--
+200417039 Kirchberg, Avalon     01744  01744                % 07772 RGTR--
+200417033 Kirchberg, Poutty St  01745  01745                % 07772 RGTR--
+200417044 Kirchberg, Luxexpo Q  01747  01747                % 07772 RGTR--
+200601009 Sandweiler, Schaedha  01757  01757                % 07772 RGTR--
+200201007 Contern, Weiergewan   01759  01759                % 07772 RGTR--
+200201008 Contern, Rond Point   01800  01800                % 07772 RGTR--
+200303006 Hesperange, Urbengss  01807  01807                % 07772 RGTR--
+200301003 Alzingen, Trapeneck   01808  01808                % 07772 RGTR--
+200301002 Alzingen, Hondsbréck  01809  01809                % 07772 RGTR--
+201103004 Weiler-la-Tour, Schl  01814  01814                % 07772 RGTR--
+220502003 Frisange, Hau         01815  01815                % 07772 RGTR--
+220502001 Frisange, Aal Gemeng  01817  01817                % 07772 RGTR--
+220502004 Frisange, Op der Krä  01817  01817                % 07772 RGTR--
+210503006 Mondorf, Réimecherst  01827  01827                % 07772 RGTR--
+210503002 Mondorf, Casino 2000  01828  01828                % 07772 RGTR--
+210503003 Mondorf, Christophor  01829  01829                % 07772 RGTR--
+400000083 Sentzich, Cimetière   01841  01841                % 07772 RGTR--
+400000007 Cattenom, Gendarmeri  01844  01844                % 07772 RGTR--
+400000124 Garche, Chênaie       01847  01847                % 07772 RGTR--
+400000011 Garche, rte de Mondo  01848  01848                % 07772 RGTR--
+400000069 Manom, Centre Commer  01853                       % 07772 RGTR--
+*Z 07773 RGTR--                                             % 07773 RGTR--
+*L 303      200417048 400000069  01811  01923               % 07773 RGTR--
+*A ax 200417048 400000069 000016  01811  01923              % 07773 RGTR--
+*A qk 200417048 400000069 000016  01811  01923              % 07773 RGTR--
+*R 2 400000069 200417048 400000069  01811  01923            % 07773 RGTR--
+*G RGB 200417048 400000069  01811  01923                    % 07773 RGTR--
+*A VE 200417048 400000069 000016  01811  01923              % 07773 RGTR--
+*I FD 200417048 400000069        0002049  01811  01923      % 07773 RGTR--
+200417048 Kirchberg, Europe Ga         01811                % 07773 RGTR--
+200417005 Kirchberg, Antoine d  01812  01812                % 07773 RGTR--
+200417019 Kirchberg, Konrad Ad  01813  01813                % 07773 RGTR--
+200417039 Kirchberg, Avalon     01814  01814                % 07773 RGTR--
+200417033 Kirchberg, Poutty St  01815  01815                % 07773 RGTR--
+200417044 Kirchberg, Luxexpo Q  01817  01817                % 07773 RGTR--
+200601009 Sandweiler, Schaedha  01827  01827                % 07773 RGTR--
+200201007 Contern, Weiergewan   01829  01829                % 07773 RGTR--
+200201008 Contern, Rond Point   01830  01830                % 07773 RGTR--
+200303006 Hesperange, Urbengss  01837  01837                % 07773 RGTR--
+200301003 Alzingen, Trapeneck   01838  01838                % 07773 RGTR--
+200301002 Alzingen, Hondsbréck  01839  01839                % 07773 RGTR--
+201103004 Weiler-la-Tour, Schl  01844  01844                % 07773 RGTR--
+220502003 Frisange, Hau         01845  01845                % 07773 RGTR--
+220502001 Frisange, Aal Gemeng  01847  01847                % 07773 RGTR--
+220502004 Frisange, Op der Krä  01847  01847                % 07773 RGTR--
+210503006 Mondorf, Réimecherst  01857  01857                % 07773 RGTR--
+210503002 Mondorf, Casino 2000  01858  01858                % 07773 RGTR--
+210503003 Mondorf, Christophor  01859  01859                % 07773 RGTR--
+400000083 Sentzich, Cimetière   01911  01911                % 07773 RGTR--
+400000007 Cattenom, Gendarmeri  01914  01914                % 07773 RGTR--
+400000124 Garche, Chênaie       01917  01917                % 07773 RGTR--
+400000011 Garche, rte de Mondo  01918  01918                % 07773 RGTR--
+400000069 Manom, Centre Commer  01923                       % 07773 RGTR--
+*Z 07774 RGTR--                                             % 07774 RGTR--
+*L 303      200417048 400000069  01841  01953               % 07774 RGTR--
+*A ax 200417048 400000069 000016  01841  01953              % 07774 RGTR--
+*A qk 200417048 400000069 000016  01841  01953              % 07774 RGTR--
+*R 2 400000069 200417048 400000069  01841  01953            % 07774 RGTR--
+*G RGB 200417048 400000069  01841  01953                    % 07774 RGTR--
+*A VE 200417048 400000069 000016  01841  01953              % 07774 RGTR--
+*I FD 200417048 400000069        0001440  01841  01953      % 07774 RGTR--
+200417048 Kirchberg, Europe Ga         01841                % 07774 RGTR--
+200417005 Kirchberg, Antoine d  01842  01842                % 07774 RGTR--
+200417019 Kirchberg, Konrad Ad  01843  01843                % 07774 RGTR--
+200417039 Kirchberg, Avalon     01844  01844                % 07774 RGTR--
+200417033 Kirchberg, Poutty St  01845  01845                % 07774 RGTR--
+200417044 Kirchberg, Luxexpo Q  01847  01847                % 07774 RGTR--
+200601009 Sandweiler, Schaedha  01857  01857                % 07774 RGTR--
+200201007 Contern, Weiergewan   01859  01859                % 07774 RGTR--
+200201008 Contern, Rond Point   01900  01900                % 07774 RGTR--
+200303006 Hesperange, Urbengss  01907  01907                % 07774 RGTR--
+200301003 Alzingen, Trapeneck   01908  01908                % 07774 RGTR--
+200301002 Alzingen, Hondsbréck  01909  01909                % 07774 RGTR--
+201103004 Weiler-la-Tour, Schl  01914  01914                % 07774 RGTR--
+220502003 Frisange, Hau         01915  01915                % 07774 RGTR--
+220502001 Frisange, Aal Gemeng  01917  01917                % 07774 RGTR--
+220502004 Frisange, Op der Krä  01917  01917                % 07774 RGTR--
+210503006 Mondorf, Réimecherst  01927  01927                % 07774 RGTR--
+210503002 Mondorf, Casino 2000  01928  01928                % 07774 RGTR--
+210503003 Mondorf, Christophor  01929  01929                % 07774 RGTR--
+400000083 Sentzich, Cimetière   01941  01941                % 07774 RGTR--
+400000007 Cattenom, Gendarmeri  01944  01944                % 07774 RGTR--
+400000124 Garche, Chênaie       01947  01947                % 07774 RGTR--
+400000011 Garche, rte de Mondo  01948  01948                % 07774 RGTR--
+400000069 Manom, Centre Commer  01953                       % 07774 RGTR--
+*Z 07775 RGTR--                                             % 07775 RGTR--
+*L 303      200417048 400000069  00711  00814               % 07775 RGTR--
+*A ax 200417048 400000069 000016  00711  00814              % 07775 RGTR--
+*A qk 200417048 400000069 000016  00711  00814              % 07775 RGTR--
+*R 2 400000069 200417048 400000069  00711  00814            % 07775 RGTR--
+*G RGB 200417048 400000069  00711  00814                    % 07775 RGTR--
+*A VE 200417048 400000069 000016  00711  00814              % 07775 RGTR--
+*I FD 200417048 400000069        0002035  00711  00814      % 07775 RGTR--
+200417048 Kirchberg, Europe Ga         00711                % 07775 RGTR--
+200417005 Kirchberg, Antoine d  00711  00711                % 07775 RGTR--
+200417019 Kirchberg, Konrad Ad  00712  00712                % 07775 RGTR--
+200417039 Kirchberg, Avalon     00713  00713                % 07775 RGTR--
+200417033 Kirchberg, Poutty St  00714  00714                % 07775 RGTR--
+200417044 Kirchberg, Luxexpo Q  00716  00716                % 07775 RGTR--
+200601009 Sandweiler, Schaedha  00724  00724                % 07775 RGTR--
+200201007 Contern, Weiergewan   00726  00726                % 07775 RGTR--
+200201008 Contern, Rond Point   00727  00727                % 07775 RGTR--
+200303006 Hesperange, Urbengss  00733  00733                % 07775 RGTR--
+200301003 Alzingen, Trapeneck   00734  00734                % 07775 RGTR--
+200301002 Alzingen, Hondsbréck  00734  00734                % 07775 RGTR--
+201103004 Weiler-la-Tour, Schl  00738  00738                % 07775 RGTR--
+220502003 Frisange, Hau         00740  00740                % 07775 RGTR--
+220502001 Frisange, Aal Gemeng  00741  00741                % 07775 RGTR--
+220502004 Frisange, Op der Krä  00741  00741                % 07775 RGTR--
+210503006 Mondorf, Réimecherst  00750  00750                % 07775 RGTR--
+210503002 Mondorf, Casino 2000  00751  00751                % 07775 RGTR--
+210503003 Mondorf, Christophor  00752  00752                % 07775 RGTR--
+400000083 Sentzich, Cimetière   00803  00803                % 07775 RGTR--
+400000007 Cattenom, Gendarmeri  00806  00806                % 07775 RGTR--
+400000124 Garche, Chênaie       00809  00809                % 07775 RGTR--
+400000011 Garche, rte de Mondo  00810  00810                % 07775 RGTR--
+400000069 Manom, Centre Commer  00814                       % 07775 RGTR--
+*Z 07776 RGTR--                                             % 07776 RGTR--
+*L 303      200417048 400000069  00811  00914               % 07776 RGTR--
+*A ax 200417048 400000069 000016  00811  00914              % 07776 RGTR--
+*A qk 200417048 400000069 000016  00811  00914              % 07776 RGTR--
+*R 2 400000069 200417048 400000069  00811  00914            % 07776 RGTR--
+*G RGB 200417048 400000069  00811  00914                    % 07776 RGTR--
+*A VE 200417048 400000069 000016  00811  00914              % 07776 RGTR--
+*I FD 200417048 400000069        0002052  00811  00914      % 07776 RGTR--
+200417048 Kirchberg, Europe Ga         00811                % 07776 RGTR--
+200417005 Kirchberg, Antoine d  00811  00811                % 07776 RGTR--
+200417019 Kirchberg, Konrad Ad  00812  00812                % 07776 RGTR--
+200417039 Kirchberg, Avalon     00813  00813                % 07776 RGTR--
+200417033 Kirchberg, Poutty St  00814  00814                % 07776 RGTR--
+200417044 Kirchberg, Luxexpo Q  00816  00816                % 07776 RGTR--
+200601009 Sandweiler, Schaedha  00824  00824                % 07776 RGTR--
+200201007 Contern, Weiergewan   00826  00826                % 07776 RGTR--
+200201008 Contern, Rond Point   00827  00827                % 07776 RGTR--
+200303006 Hesperange, Urbengss  00833  00833                % 07776 RGTR--
+200301003 Alzingen, Trapeneck   00834  00834                % 07776 RGTR--
+200301002 Alzingen, Hondsbréck  00834  00834                % 07776 RGTR--
+201103004 Weiler-la-Tour, Schl  00838  00838                % 07776 RGTR--
+220502003 Frisange, Hau         00840  00840                % 07776 RGTR--
+220502001 Frisange, Aal Gemeng  00841  00841                % 07776 RGTR--
+220502004 Frisange, Op der Krä  00841  00841                % 07776 RGTR--
+210503006 Mondorf, Réimecherst  00850  00850                % 07776 RGTR--
+210503002 Mondorf, Casino 2000  00851  00851                % 07776 RGTR--
+210503003 Mondorf, Christophor  00852  00852                % 07776 RGTR--
+400000083 Sentzich, Cimetière   00903  00903                % 07776 RGTR--
+400000007 Cattenom, Gendarmeri  00906  00906                % 07776 RGTR--
+400000124 Garche, Chênaie       00909  00909                % 07776 RGTR--
+400000011 Garche, rte de Mondo  00910  00910                % 07776 RGTR--
+400000069 Manom, Centre Commer  00914                       % 07776 RGTR--
+*Z 07777 RGTR--                                             % 07777 RGTR--
+*L 303      200417048 400000069  00911  01014               % 07777 RGTR--
+*A ax 200417048 400000069 000016  00911  01014              % 07777 RGTR--
+*A qk 200417048 400000069 000016  00911  01014              % 07777 RGTR--
+*R 2 400000069 200417048 400000069  00911  01014            % 07777 RGTR--
+*G RGB 200417048 400000069  00911  01014                    % 07777 RGTR--
+*A VE 200417048 400000069 000016  00911  01014              % 07777 RGTR--
+*I FD 200417048 400000069        0002053  00911  01014      % 07777 RGTR--
+200417048 Kirchberg, Europe Ga         00911                % 07777 RGTR--
+200417005 Kirchberg, Antoine d  00911  00911                % 07777 RGTR--
+200417019 Kirchberg, Konrad Ad  00912  00912                % 07777 RGTR--
+200417039 Kirchberg, Avalon     00913  00913                % 07777 RGTR--
+200417033 Kirchberg, Poutty St  00914  00914                % 07777 RGTR--
+200417044 Kirchberg, Luxexpo Q  00916  00916                % 07777 RGTR--
+200601009 Sandweiler, Schaedha  00924  00924                % 07777 RGTR--
+200201007 Contern, Weiergewan   00926  00926                % 07777 RGTR--
+200201008 Contern, Rond Point   00927  00927                % 07777 RGTR--
+200303006 Hesperange, Urbengss  00933  00933                % 07777 RGTR--
+200301003 Alzingen, Trapeneck   00934  00934                % 07777 RGTR--
+200301002 Alzingen, Hondsbréck  00934  00934                % 07777 RGTR--
+201103004 Weiler-la-Tour, Schl  00938  00938                % 07777 RGTR--
+220502003 Frisange, Hau         00940  00940                % 07777 RGTR--
+220502001 Frisange, Aal Gemeng  00941  00941                % 07777 RGTR--
+220502004 Frisange, Op der Krä  00941  00941                % 07777 RGTR--
+210503006 Mondorf, Réimecherst  00950  00950                % 07777 RGTR--
+210503002 Mondorf, Casino 2000  00951  00951                % 07777 RGTR--
+210503003 Mondorf, Christophor  00952  00952                % 07777 RGTR--
+400000083 Sentzich, Cimetière   01003  01003                % 07777 RGTR--
+400000007 Cattenom, Gendarmeri  01006  01006                % 07777 RGTR--
+400000124 Garche, Chênaie       01009  01009                % 07777 RGTR--
+400000011 Garche, rte de Mondo  01010  01010                % 07777 RGTR--
+400000069 Manom, Centre Commer  01014                       % 07777 RGTR--
+*Z 07778 RGTR--                                             % 07778 RGTR--
+*L 303      200417048 400000069  01011  01114               % 07778 RGTR--
+*A ax 200417048 400000069 000016  01011  01114              % 07778 RGTR--
+*A qk 200417048 400000069 000016  01011  01114              % 07778 RGTR--
+*R 2 400000069 200417048 400000069  01011  01114            % 07778 RGTR--
+*G RGB 200417048 400000069  01011  01114                    % 07778 RGTR--
+*A VE 200417048 400000069 000016  01011  01114              % 07778 RGTR--
+*I FD 200417048 400000069        0002036  01011  01114      % 07778 RGTR--
+200417048 Kirchberg, Europe Ga         01011                % 07778 RGTR--
+200417005 Kirchberg, Antoine d  01011  01011                % 07778 RGTR--
+200417019 Kirchberg, Konrad Ad  01012  01012                % 07778 RGTR--
+200417039 Kirchberg, Avalon     01013  01013                % 07778 RGTR--
+200417033 Kirchberg, Poutty St  01014  01014                % 07778 RGTR--
+200417044 Kirchberg, Luxexpo Q  01016  01016                % 07778 RGTR--
+200601009 Sandweiler, Schaedha  01024  01024                % 07778 RGTR--
+200201007 Contern, Weiergewan   01026  01026                % 07778 RGTR--
+200201008 Contern, Rond Point   01027  01027                % 07778 RGTR--
+200303006 Hesperange, Urbengss  01033  01033                % 07778 RGTR--
+200301003 Alzingen, Trapeneck   01034  01034                % 07778 RGTR--
+200301002 Alzingen, Hondsbréck  01034  01034                % 07778 RGTR--
+201103004 Weiler-la-Tour, Schl  01038  01038                % 07778 RGTR--
+220502003 Frisange, Hau         01040  01040                % 07778 RGTR--
+220502001 Frisange, Aal Gemeng  01041  01041                % 07778 RGTR--
+220502004 Frisange, Op der Krä  01041  01041                % 07778 RGTR--
+210503006 Mondorf, Réimecherst  01050  01050                % 07778 RGTR--
+210503002 Mondorf, Casino 2000  01051  01051                % 07778 RGTR--
+210503003 Mondorf, Christophor  01052  01052                % 07778 RGTR--
+400000083 Sentzich, Cimetière   01103  01103                % 07778 RGTR--
+400000007 Cattenom, Gendarmeri  01106  01106                % 07778 RGTR--
+400000124 Garche, Chênaie       01109  01109                % 07778 RGTR--
+400000011 Garche, rte de Mondo  01110  01110                % 07778 RGTR--
+400000069 Manom, Centre Commer  01114                       % 07778 RGTR--
+*Z 07779 RGTR--                                             % 07779 RGTR--
+*L 303      200417048 400000069  01111  01214               % 07779 RGTR--
+*A ax 200417048 400000069 000016  01111  01214              % 07779 RGTR--
+*A qk 200417048 400000069 000016  01111  01214              % 07779 RGTR--
+*R 2 400000069 200417048 400000069  01111  01214            % 07779 RGTR--
+*G RGB 200417048 400000069  01111  01214                    % 07779 RGTR--
+*A VE 200417048 400000069 000016  01111  01214              % 07779 RGTR--
+*I FD 200417048 400000069        0001168  01111  01214      % 07779 RGTR--
+200417048 Kirchberg, Europe Ga         01111                % 07779 RGTR--
+200417005 Kirchberg, Antoine d  01111  01111                % 07779 RGTR--
+200417019 Kirchberg, Konrad Ad  01112  01112                % 07779 RGTR--
+200417039 Kirchberg, Avalon     01113  01113                % 07779 RGTR--
+200417033 Kirchberg, Poutty St  01114  01114                % 07779 RGTR--
+200417044 Kirchberg, Luxexpo Q  01116  01116                % 07779 RGTR--
+200601009 Sandweiler, Schaedha  01124  01124                % 07779 RGTR--
+200201007 Contern, Weiergewan   01126  01126                % 07779 RGTR--
+200201008 Contern, Rond Point   01127  01127                % 07779 RGTR--
+200303006 Hesperange, Urbengss  01133  01133                % 07779 RGTR--
+200301003 Alzingen, Trapeneck   01134  01134                % 07779 RGTR--
+200301002 Alzingen, Hondsbréck  01134  01134                % 07779 RGTR--
+201103004 Weiler-la-Tour, Schl  01138  01138                % 07779 RGTR--
+220502003 Frisange, Hau         01140  01140                % 07779 RGTR--
+220502001 Frisange, Aal Gemeng  01141  01141                % 07779 RGTR--
+220502004 Frisange, Op der Krä  01141  01141                % 07779 RGTR--
+210503006 Mondorf, Réimecherst  01150  01150                % 07779 RGTR--
+210503002 Mondorf, Casino 2000  01151  01151                % 07779 RGTR--
+210503003 Mondorf, Christophor  01152  01152                % 07779 RGTR--
+400000083 Sentzich, Cimetière   01203  01203                % 07779 RGTR--
+400000007 Cattenom, Gendarmeri  01206  01206                % 07779 RGTR--
+400000124 Garche, Chênaie       01209  01209                % 07779 RGTR--
+400000011 Garche, rte de Mondo  01210  01210                % 07779 RGTR--
+400000069 Manom, Centre Commer  01214                       % 07779 RGTR--
+*Z 07780 RGTR--                                             % 07780 RGTR--
+*L 303      200417048 400000069  01211  01314               % 07780 RGTR--
+*A ax 200417048 400000069 000016  01211  01314              % 07780 RGTR--
+*A qk 200417048 400000069 000016  01211  01314              % 07780 RGTR--
+*R 2 400000069 200417048 400000069  01211  01314            % 07780 RGTR--
+*G RGB 200417048 400000069  01211  01314                    % 07780 RGTR--
+*A VE 200417048 400000069 000016  01211  01314              % 07780 RGTR--
+*I FD 200417048 400000069        0002037  01211  01314      % 07780 RGTR--
+200417048 Kirchberg, Europe Ga         01211                % 07780 RGTR--
+200417005 Kirchberg, Antoine d  01211  01211                % 07780 RGTR--
+200417019 Kirchberg, Konrad Ad  01212  01212                % 07780 RGTR--
+200417039 Kirchberg, Avalon     01213  01213                % 07780 RGTR--
+200417033 Kirchberg, Poutty St  01214  01214                % 07780 RGTR--
+200417044 Kirchberg, Luxexpo Q  01216  01216                % 07780 RGTR--
+200601009 Sandweiler, Schaedha  01224  01224                % 07780 RGTR--
+200201007 Contern, Weiergewan   01226  01226                % 07780 RGTR--
+200201008 Contern, Rond Point   01227  01227                % 07780 RGTR--
+200303006 Hesperange, Urbengss  01233  01233                % 07780 RGTR--
+200301003 Alzingen, Trapeneck   01234  01234                % 07780 RGTR--
+200301002 Alzingen, Hondsbréck  01234  01234                % 07780 RGTR--
+201103004 Weiler-la-Tour, Schl  01238  01238                % 07780 RGTR--
+220502003 Frisange, Hau         01240  01240                % 07780 RGTR--
+220502001 Frisange, Aal Gemeng  01241  01241                % 07780 RGTR--
+220502004 Frisange, Op der Krä  01241  01241                % 07780 RGTR--
+210503006 Mondorf, Réimecherst  01250  01250                % 07780 RGTR--
+210503002 Mondorf, Casino 2000  01251  01251                % 07780 RGTR--
+210503003 Mondorf, Christophor  01252  01252                % 07780 RGTR--
+400000083 Sentzich, Cimetière   01303  01303                % 07780 RGTR--
+400000007 Cattenom, Gendarmeri  01306  01306                % 07780 RGTR--
+400000124 Garche, Chênaie       01309  01309                % 07780 RGTR--
+400000011 Garche, rte de Mondo  01310  01310                % 07780 RGTR--
+400000069 Manom, Centre Commer  01314                       % 07780 RGTR--
+*Z 07781 RGTR--                                             % 07781 RGTR--
+*L 303      200417048 400000069  01311  01414               % 07781 RGTR--
+*A ax 200417048 400000069 000016  01311  01414              % 07781 RGTR--
+*A qk 200417048 400000069 000016  01311  01414              % 07781 RGTR--
+*R 2 400000069 200417048 400000069  01311  01414            % 07781 RGTR--
+*G RGB 200417048 400000069  01311  01414                    % 07781 RGTR--
+*A VE 200417048 400000069 000016  01311  01414              % 07781 RGTR--
+*I FD 200417048 400000069        0002042  01311  01414      % 07781 RGTR--
+200417048 Kirchberg, Europe Ga         01311                % 07781 RGTR--
+200417005 Kirchberg, Antoine d  01311  01311                % 07781 RGTR--
+200417019 Kirchberg, Konrad Ad  01312  01312                % 07781 RGTR--
+200417039 Kirchberg, Avalon     01313  01313                % 07781 RGTR--
+200417033 Kirchberg, Poutty St  01314  01314                % 07781 RGTR--
+200417044 Kirchberg, Luxexpo Q  01316  01316                % 07781 RGTR--
+200601009 Sandweiler, Schaedha  01324  01324                % 07781 RGTR--
+200201007 Contern, Weiergewan   01326  01326                % 07781 RGTR--
+200201008 Contern, Rond Point   01327  01327                % 07781 RGTR--
+200303006 Hesperange, Urbengss  01333  01333                % 07781 RGTR--
+200301003 Alzingen, Trapeneck   01334  01334                % 07781 RGTR--
+200301002 Alzingen, Hondsbréck  01334  01334                % 07781 RGTR--
+201103004 Weiler-la-Tour, Schl  01338  01338                % 07781 RGTR--
+220502003 Frisange, Hau         01340  01340                % 07781 RGTR--
+220502001 Frisange, Aal Gemeng  01341  01341                % 07781 RGTR--
+220502004 Frisange, Op der Krä  01341  01341                % 07781 RGTR--
+210503006 Mondorf, Réimecherst  01350  01350                % 07781 RGTR--
+210503002 Mondorf, Casino 2000  01351  01351                % 07781 RGTR--
+210503003 Mondorf, Christophor  01352  01352                % 07781 RGTR--
+400000083 Sentzich, Cimetière   01403  01403                % 07781 RGTR--
+400000007 Cattenom, Gendarmeri  01406  01406                % 07781 RGTR--
+400000124 Garche, Chênaie       01409  01409                % 07781 RGTR--
+400000011 Garche, rte de Mondo  01410  01410                % 07781 RGTR--
+400000069 Manom, Centre Commer  01414                       % 07781 RGTR--
+*Z 07782 RGTR--                                             % 07782 RGTR--
+*L 303      200417048 400000069  01411  01514               % 07782 RGTR--
+*A ax 200417048 400000069 000016  01411  01514              % 07782 RGTR--
+*A qk 200417048 400000069 000016  01411  01514              % 07782 RGTR--
+*R 2 400000069 200417048 400000069  01411  01514            % 07782 RGTR--
+*G RGB 200417048 400000069  01411  01514                    % 07782 RGTR--
+*A VE 200417048 400000069 000016  01411  01514              % 07782 RGTR--
+*I FD 200417048 400000069        0002038  01411  01514      % 07782 RGTR--
+200417048 Kirchberg, Europe Ga         01411                % 07782 RGTR--
+200417005 Kirchberg, Antoine d  01411  01411                % 07782 RGTR--
+200417019 Kirchberg, Konrad Ad  01412  01412                % 07782 RGTR--
+200417039 Kirchberg, Avalon     01413  01413                % 07782 RGTR--
+200417033 Kirchberg, Poutty St  01414  01414                % 07782 RGTR--
+200417044 Kirchberg, Luxexpo Q  01416  01416                % 07782 RGTR--
+200601009 Sandweiler, Schaedha  01424  01424                % 07782 RGTR--
+200201007 Contern, Weiergewan   01426  01426                % 07782 RGTR--
+200201008 Contern, Rond Point   01427  01427                % 07782 RGTR--
+200303006 Hesperange, Urbengss  01433  01433                % 07782 RGTR--
+200301003 Alzingen, Trapeneck   01434  01434                % 07782 RGTR--
+200301002 Alzingen, Hondsbréck  01434  01434                % 07782 RGTR--
+201103004 Weiler-la-Tour, Schl  01438  01438                % 07782 RGTR--
+220502003 Frisange, Hau         01440  01440                % 07782 RGTR--
+220502001 Frisange, Aal Gemeng  01441  01441                % 07782 RGTR--
+220502004 Frisange, Op der Krä  01441  01441                % 07782 RGTR--
+210503006 Mondorf, Réimecherst  01450  01450                % 07782 RGTR--
+210503002 Mondorf, Casino 2000  01451  01451                % 07782 RGTR--
+210503003 Mondorf, Christophor  01452  01452                % 07782 RGTR--
+400000083 Sentzich, Cimetière   01503  01503                % 07782 RGTR--
+400000007 Cattenom, Gendarmeri  01506  01506                % 07782 RGTR--
+400000124 Garche, Chênaie       01509  01509                % 07782 RGTR--
+400000011 Garche, rte de Mondo  01510  01510                % 07782 RGTR--
+400000069 Manom, Centre Commer  01514                       % 07782 RGTR--
+*Z 07783 RGTR--                                             % 07783 RGTR--
+*L 303      200417048 400000069  01511  01614               % 07783 RGTR--
+*A ax 200417048 400000069 000016  01511  01614              % 07783 RGTR--
+*A qk 200417048 400000069 000016  01511  01614              % 07783 RGTR--
+*R 2 400000069 200417048 400000069  01511  01614            % 07783 RGTR--
+*G RGB 200417048 400000069  01511  01614                    % 07783 RGTR--
+*A VE 200417048 400000069 000016  01511  01614              % 07783 RGTR--
+*I FD 200417048 400000069        0002043  01511  01614      % 07783 RGTR--
+200417048 Kirchberg, Europe Ga         01511                % 07783 RGTR--
+200417005 Kirchberg, Antoine d  01511  01511                % 07783 RGTR--
+200417019 Kirchberg, Konrad Ad  01512  01512                % 07783 RGTR--
+200417039 Kirchberg, Avalon     01513  01513                % 07783 RGTR--
+200417033 Kirchberg, Poutty St  01514  01514                % 07783 RGTR--
+200417044 Kirchberg, Luxexpo Q  01516  01516                % 07783 RGTR--
+200601009 Sandweiler, Schaedha  01524  01524                % 07783 RGTR--
+200201007 Contern, Weiergewan   01526  01526                % 07783 RGTR--
+200201008 Contern, Rond Point   01527  01527                % 07783 RGTR--
+200303006 Hesperange, Urbengss  01533  01533                % 07783 RGTR--
+200301003 Alzingen, Trapeneck   01534  01534                % 07783 RGTR--
+200301002 Alzingen, Hondsbréck  01534  01534                % 07783 RGTR--
+201103004 Weiler-la-Tour, Schl  01538  01538                % 07783 RGTR--
+220502003 Frisange, Hau         01540  01540                % 07783 RGTR--
+220502001 Frisange, Aal Gemeng  01541  01541                % 07783 RGTR--
+220502004 Frisange, Op der Krä  01541  01541                % 07783 RGTR--
+210503006 Mondorf, Réimecherst  01550  01550                % 07783 RGTR--
+210503002 Mondorf, Casino 2000  01551  01551                % 07783 RGTR--
+210503003 Mondorf, Christophor  01552  01552                % 07783 RGTR--
+400000083 Sentzich, Cimetière   01603  01603                % 07783 RGTR--
+400000007 Cattenom, Gendarmeri  01606  01606                % 07783 RGTR--
+400000124 Garche, Chênaie       01609  01609                % 07783 RGTR--
+400000011 Garche, rte de Mondo  01610  01610                % 07783 RGTR--
+400000069 Manom, Centre Commer  01614                       % 07783 RGTR--
+*Z 07784 RGTR--                                             % 07784 RGTR--
+*L 303      200417048 400000069  01911  02014               % 07784 RGTR--
+*A ax 200417048 400000069 000016  01911  02014              % 07784 RGTR--
+*A qk 200417048 400000069 000016  01911  02014              % 07784 RGTR--
+*R 2 400000069 200417048 400000069  01911  02014            % 07784 RGTR--
+*G RGB 200417048 400000069  01911  02014                    % 07784 RGTR--
+*A VE 200417048 400000069 000016  01911  02014              % 07784 RGTR--
+*I FD 200417048 400000069        0002044  01911  02014      % 07784 RGTR--
+200417048 Kirchberg, Europe Ga         01911                % 07784 RGTR--
+200417005 Kirchberg, Antoine d  01911  01911                % 07784 RGTR--
+200417019 Kirchberg, Konrad Ad  01912  01912                % 07784 RGTR--
+200417039 Kirchberg, Avalon     01913  01913                % 07784 RGTR--
+200417033 Kirchberg, Poutty St  01914  01914                % 07784 RGTR--
+200417044 Kirchberg, Luxexpo Q  01916  01916                % 07784 RGTR--
+200601009 Sandweiler, Schaedha  01924  01924                % 07784 RGTR--
+200201007 Contern, Weiergewan   01926  01926                % 07784 RGTR--
+200201008 Contern, Rond Point   01927  01927                % 07784 RGTR--
+200303006 Hesperange, Urbengss  01933  01933                % 07784 RGTR--
+200301003 Alzingen, Trapeneck   01934  01934                % 07784 RGTR--
+200301002 Alzingen, Hondsbréck  01934  01934                % 07784 RGTR--
+201103004 Weiler-la-Tour, Schl  01938  01938                % 07784 RGTR--
+220502003 Frisange, Hau         01940  01940                % 07784 RGTR--
+220502001 Frisange, Aal Gemeng  01941  01941                % 07784 RGTR--
+220502004 Frisange, Op der Krä  01941  01941                % 07784 RGTR--
+210503006 Mondorf, Réimecherst  01950  01950                % 07784 RGTR--
+210503002 Mondorf, Casino 2000  01951  01951                % 07784 RGTR--
+210503003 Mondorf, Christophor  01952  01952                % 07784 RGTR--
+400000083 Sentzich, Cimetière   02003  02003                % 07784 RGTR--
+400000007 Cattenom, Gendarmeri  02006  02006                % 07784 RGTR--
+400000124 Garche, Chênaie       02009  02009                % 07784 RGTR--
+400000011 Garche, rte de Mondo  02010  02010                % 07784 RGTR--
+400000069 Manom, Centre Commer  02014                       % 07784 RGTR--
+*Z 07785 RGTR--                                             % 07785 RGTR--
+*L 303      200417048 400000069  02011  02114               % 07785 RGTR--
+*A ax 200417048 400000069 000016  02011  02114              % 07785 RGTR--
+*A qk 200417048 400000069 000016  02011  02114              % 07785 RGTR--
+*R 2 400000069 200417048 400000069  02011  02114            % 07785 RGTR--
+*G RGB 200417048 400000069  02011  02114                    % 07785 RGTR--
+*A VE 200417048 400000069 000016  02011  02114              % 07785 RGTR--
+*I FD 200417048 400000069        0002045  02011  02114      % 07785 RGTR--
+200417048 Kirchberg, Europe Ga         02011                % 07785 RGTR--
+200417005 Kirchberg, Antoine d  02011  02011                % 07785 RGTR--
+200417019 Kirchberg, Konrad Ad  02012  02012                % 07785 RGTR--
+200417039 Kirchberg, Avalon     02013  02013                % 07785 RGTR--
+200417033 Kirchberg, Poutty St  02014  02014                % 07785 RGTR--
+200417044 Kirchberg, Luxexpo Q  02016  02016                % 07785 RGTR--
+200601009 Sandweiler, Schaedha  02024  02024                % 07785 RGTR--
+200201007 Contern, Weiergewan   02026  02026                % 07785 RGTR--
+200201008 Contern, Rond Point   02027  02027                % 07785 RGTR--
+200303006 Hesperange, Urbengss  02033  02033                % 07785 RGTR--
+200301003 Alzingen, Trapeneck   02034  02034                % 07785 RGTR--
+200301002 Alzingen, Hondsbréck  02034  02034                % 07785 RGTR--
+201103004 Weiler-la-Tour, Schl  02038  02038                % 07785 RGTR--
+220502003 Frisange, Hau         02040  02040                % 07785 RGTR--
+220502001 Frisange, Aal Gemeng  02041  02041                % 07785 RGTR--
+220502004 Frisange, Op der Krä  02041  02041                % 07785 RGTR--
+210503006 Mondorf, Réimecherst  02050  02050                % 07785 RGTR--
+210503002 Mondorf, Casino 2000  02051  02051                % 07785 RGTR--
+210503003 Mondorf, Christophor  02052  02052                % 07785 RGTR--
+400000083 Sentzich, Cimetière   02103  02103                % 07785 RGTR--
+400000007 Cattenom, Gendarmeri  02106  02106                % 07785 RGTR--
+400000124 Garche, Chênaie       02109  02109                % 07785 RGTR--
+400000011 Garche, rte de Mondo  02110  02110                % 07785 RGTR--
+400000069 Manom, Centre Commer  02114                       % 07785 RGTR--
+*Z 07786 RGTR--                                             % 07786 RGTR--
+*L 303      200417048 400000069  02111  02214               % 07786 RGTR--
+*A ax 200417048 400000069 000016  02111  02214              % 07786 RGTR--
+*A qk 200417048 400000069 000016  02111  02214              % 07786 RGTR--
+*R 2 400000069 200417048 400000069  02111  02214            % 07786 RGTR--
+*G RGB 200417048 400000069  02111  02214                    % 07786 RGTR--
+*A VE 200417048 400000069 000016  02111  02214              % 07786 RGTR--
+*I FD 200417048 400000069        0002046  02111  02214      % 07786 RGTR--
+200417048 Kirchberg, Europe Ga         02111                % 07786 RGTR--
+200417005 Kirchberg, Antoine d  02111  02111                % 07786 RGTR--
+200417019 Kirchberg, Konrad Ad  02112  02112                % 07786 RGTR--
+200417039 Kirchberg, Avalon     02113  02113                % 07786 RGTR--
+200417033 Kirchberg, Poutty St  02114  02114                % 07786 RGTR--
+200417044 Kirchberg, Luxexpo Q  02116  02116                % 07786 RGTR--
+200601009 Sandweiler, Schaedha  02124  02124                % 07786 RGTR--
+200201007 Contern, Weiergewan   02126  02126                % 07786 RGTR--
+200201008 Contern, Rond Point   02127  02127                % 07786 RGTR--
+200303006 Hesperange, Urbengss  02133  02133                % 07786 RGTR--
+200301003 Alzingen, Trapeneck   02134  02134                % 07786 RGTR--
+200301002 Alzingen, Hondsbréck  02134  02134                % 07786 RGTR--
+201103004 Weiler-la-Tour, Schl  02138  02138                % 07786 RGTR--
+220502003 Frisange, Hau         02140  02140                % 07786 RGTR--
+220502001 Frisange, Aal Gemeng  02141  02141                % 07786 RGTR--
+220502004 Frisange, Op der Krä  02141  02141                % 07786 RGTR--
+210503006 Mondorf, Réimecherst  02150  02150                % 07786 RGTR--
+210503002 Mondorf, Casino 2000  02151  02151                % 07786 RGTR--
+210503003 Mondorf, Christophor  02152  02152                % 07786 RGTR--
+400000083 Sentzich, Cimetière   02203  02203                % 07786 RGTR--
+400000007 Cattenom, Gendarmeri  02206  02206                % 07786 RGTR--
+400000124 Garche, Chênaie       02209  02209                % 07786 RGTR--
+400000011 Garche, rte de Mondo  02210  02210                % 07786 RGTR--
+400000069 Manom, Centre Commer  02214                       % 07786 RGTR--
+*Z 07787 RGTR--                                             % 07787 RGTR--
+*L 303      200417048 400000069  02211  02314               % 07787 RGTR--
+*A ax 200417048 400000069 000016  02211  02314              % 07787 RGTR--
+*A qk 200417048 400000069 000016  02211  02314              % 07787 RGTR--
+*R 2 400000069 200417048 400000069  02211  02314            % 07787 RGTR--
+*G RGB 200417048 400000069  02211  02314                    % 07787 RGTR--
+*A VE 200417048 400000069 000016  02211  02314              % 07787 RGTR--
+*I FD 200417048 400000069        0002047  02211  02314      % 07787 RGTR--
+200417048 Kirchberg, Europe Ga         02211                % 07787 RGTR--
+200417005 Kirchberg, Antoine d  02211  02211                % 07787 RGTR--
+200417019 Kirchberg, Konrad Ad  02212  02212                % 07787 RGTR--
+200417039 Kirchberg, Avalon     02213  02213                % 07787 RGTR--
+200417033 Kirchberg, Poutty St  02214  02214                % 07787 RGTR--
+200417044 Kirchberg, Luxexpo Q  02216  02216                % 07787 RGTR--
+200601009 Sandweiler, Schaedha  02224  02224                % 07787 RGTR--
+200201007 Contern, Weiergewan   02226  02226                % 07787 RGTR--
+200201008 Contern, Rond Point   02227  02227                % 07787 RGTR--
+200303006 Hesperange, Urbengss  02233  02233                % 07787 RGTR--
+200301003 Alzingen, Trapeneck   02234  02234                % 07787 RGTR--
+200301002 Alzingen, Hondsbréck  02234  02234                % 07787 RGTR--
+201103004 Weiler-la-Tour, Schl  02238  02238                % 07787 RGTR--
+220502003 Frisange, Hau         02240  02240                % 07787 RGTR--
+220502001 Frisange, Aal Gemeng  02241  02241                % 07787 RGTR--
+220502004 Frisange, Op der Krä  02241  02241                % 07787 RGTR--
+210503006 Mondorf, Réimecherst  02250  02250                % 07787 RGTR--
+210503002 Mondorf, Casino 2000  02251  02251                % 07787 RGTR--
+210503003 Mondorf, Christophor  02252  02252                % 07787 RGTR--
+400000083 Sentzich, Cimetière   02303  02303                % 07787 RGTR--
+400000007 Cattenom, Gendarmeri  02306  02306                % 07787 RGTR--
+400000124 Garche, Chênaie       02309  02309                % 07787 RGTR--
+400000011 Garche, rte de Mondo  02310  02310                % 07787 RGTR--
+400000069 Manom, Centre Commer  02314                       % 07787 RGTR--
+*Z 07788 RGTR--                                             % 07788 RGTR--
+*L 303      200417048 400000069  02311  02414               % 07788 RGTR--
+*A ax 200417048 400000069 000016  02311  02414              % 07788 RGTR--
+*A qk 200417048 400000069 000016  02311  02414              % 07788 RGTR--
+*R 2 400000069 200417048 400000069  02311  02414            % 07788 RGTR--
+*G RGB 200417048 400000069  02311  02414                    % 07788 RGTR--
+*A VE 200417048 400000069 000016  02311  02414              % 07788 RGTR--
+*I FD 200417048 400000069        0002192  02311  02414      % 07788 RGTR--
+200417048 Kirchberg, Europe Ga         02311                % 07788 RGTR--
+200417005 Kirchberg, Antoine d  02311  02311                % 07788 RGTR--
+200417019 Kirchberg, Konrad Ad  02312  02312                % 07788 RGTR--
+200417039 Kirchberg, Avalon     02313  02313                % 07788 RGTR--
+200417033 Kirchberg, Poutty St  02314  02314                % 07788 RGTR--
+200417044 Kirchberg, Luxexpo Q  02316  02316                % 07788 RGTR--
+200601009 Sandweiler, Schaedha  02324  02324                % 07788 RGTR--
+200201007 Contern, Weiergewan   02326  02326                % 07788 RGTR--
+200201008 Contern, Rond Point   02327  02327                % 07788 RGTR--
+200303006 Hesperange, Urbengss  02333  02333                % 07788 RGTR--
+200301003 Alzingen, Trapeneck   02334  02334                % 07788 RGTR--
+200301002 Alzingen, Hondsbréck  02334  02334                % 07788 RGTR--
+201103004 Weiler-la-Tour, Schl  02338  02338                % 07788 RGTR--
+220502003 Frisange, Hau         02340  02340                % 07788 RGTR--
+220502001 Frisange, Aal Gemeng  02341  02341                % 07788 RGTR--
+220502004 Frisange, Op der Krä  02341  02341                % 07788 RGTR--
+210503006 Mondorf, Réimecherst  02350  02350                % 07788 RGTR--
+210503002 Mondorf, Casino 2000  02351  02351                % 07788 RGTR--
+210503003 Mondorf, Christophor  02352  02352                % 07788 RGTR--
+400000083 Sentzich, Cimetière   02403  02403                % 07788 RGTR--
+400000007 Cattenom, Gendarmeri  02406  02406                % 07788 RGTR--
+400000124 Garche, Chênaie       02409  02409                % 07788 RGTR--
+400000011 Garche, rte de Mondo  02410  02410                % 07788 RGTR--
+400000069 Manom, Centre Commer  02414                       % 07788 RGTR--

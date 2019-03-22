@@ -1,0 +1,245 @@
+*F 03 2
+*Z 06255 RGTR--                                             % 06255 RGTR--
+*L 740      200405036 200703005  00720  00754               % 06255 RGTR--
+*A ag 200405036 200703005 000016  00720  00754              % 06255 RGTR--
+*A ol 200405036 200703005 000016  00720  00754              % 06255 RGTR--
+*R 1 200703005 200405036 200703005  00720  00754            % 06255 RGTR--
+*G RGB 200405036 200703005  00720  00754                    % 06255 RGTR--
+*A VE 200405036 200703005 000016  00720  00754              % 06255 RGTR--
+*I FD 200405036 200703005        0002364  00720  00754      % 06255 RGTR--
+200405036 Luxembourg, Gare rou         00720                % 06255 RGTR--
+200405028 Centre, Rousegaertch -00724  00724                % 06255 RGTR--
+200405020 Hamilius             -00727  00727                % 06255 RGTR--
+200405014 Centre, Fondation Pe -00729  00729                % 06255 RGTR--
+200417047 Kirchberg, Rout Bréc -00731  00731                % 06255 RGTR--
+200417007 Kirchberg, B.E.I.    -00732  00732                % 06255 RGTR--
+200417016 Kirchberg, Jean Monn -00734  00734                % 06255 RGTR--
+200417005 Kirchberg, Antoine d -00735  00735                % 06255 RGTR--
+200417019 Kirchberg, Konrad Ad -00736  00736                % 06255 RGTR--
+200417039 Kirchberg, Avalon    -00737  00737                % 06255 RGTR--
+200417033 Kirchberg, Poutty St -00738  00738                % 06255 RGTR--
+200417044 Kirchberg, Luxexpo Q -00740  00740                % 06255 RGTR--
+200703004 P.A.S.-Bombicht       00750  00750                % 06255 RGTR--
+200703001 P.A.S.-Aalbaach       00751  00751                % 06255 RGTR--
+200703003 P.A.S.-Bekassin       00752  00752                % 06255 RGTR--
+200701006 Munsbach, Aisvull     00753  00753                % 06255 RGTR--
+200703005 P.A.S.-Stackint       00754                       % 06255 RGTR--
+*Z 06256 RGTR--                                             % 06256 RGTR--
+*L 740      200405036 200703005  00735  00809               % 06256 RGTR--
+*A ag 200405036 200703005 000016  00735  00809              % 06256 RGTR--
+*A ol 200405036 200703005 000016  00735  00809              % 06256 RGTR--
+*R 1 200703005 200405036 200703005  00735  00809            % 06256 RGTR--
+*G RGB 200405036 200703005  00735  00809                    % 06256 RGTR--
+*A VE 200405036 200703005 000016  00735  00809              % 06256 RGTR--
+*I FD 200405036 200703005        0002093  00735  00809      % 06256 RGTR--
+200405036 Luxembourg, Gare rou         00735                % 06256 RGTR--
+200405028 Centre, Rousegaertch -00739  00739                % 06256 RGTR--
+200405020 Hamilius             -00742  00742                % 06256 RGTR--
+200405014 Centre, Fondation Pe -00744  00744                % 06256 RGTR--
+200417047 Kirchberg, Rout Bréc -00746  00746                % 06256 RGTR--
+200417007 Kirchberg, B.E.I.    -00747  00747                % 06256 RGTR--
+200417016 Kirchberg, Jean Monn -00749  00749                % 06256 RGTR--
+200417005 Kirchberg, Antoine d -00750  00750                % 06256 RGTR--
+200417019 Kirchberg, Konrad Ad -00751  00751                % 06256 RGTR--
+200417039 Kirchberg, Avalon    -00752  00752                % 06256 RGTR--
+200417033 Kirchberg, Poutty St -00753  00753                % 06256 RGTR--
+200417044 Kirchberg, Luxexpo Q -00755  00755                % 06256 RGTR--
+200703004 P.A.S.-Bombicht       00805  00805                % 06256 RGTR--
+200703001 P.A.S.-Aalbaach       00806  00806                % 06256 RGTR--
+200703003 P.A.S.-Bekassin       00807  00807                % 06256 RGTR--
+200701006 Munsbach, Aisvull     00808  00808                % 06256 RGTR--
+200703005 P.A.S.-Stackint       00809                       % 06256 RGTR--
+*Z 06257 RGTR--                                             % 06257 RGTR--
+*L 740      200405036 200703005  00750  00824               % 06257 RGTR--
+*A ag 200405036 200703005 000016  00750  00824              % 06257 RGTR--
+*A ol 200405036 200703005 000016  00750  00824              % 06257 RGTR--
+*R 1 200703005 200405036 200703005  00750  00824            % 06257 RGTR--
+*G RGB 200405036 200703005  00750  00824                    % 06257 RGTR--
+*A VE 200405036 200703005 000016  00750  00824              % 06257 RGTR--
+*I FD 200405036 200703005        0001873  00750  00824      % 06257 RGTR--
+200405036 Luxembourg, Gare rou         00750                % 06257 RGTR--
+200405028 Centre, Rousegaertch -00754  00754                % 06257 RGTR--
+200405020 Hamilius             -00757  00757                % 06257 RGTR--
+200405014 Centre, Fondation Pe -00759  00759                % 06257 RGTR--
+200417047 Kirchberg, Rout Bréc -00801  00801                % 06257 RGTR--
+200417007 Kirchberg, B.E.I.    -00802  00802                % 06257 RGTR--
+200417016 Kirchberg, Jean Monn -00804  00804                % 06257 RGTR--
+200417005 Kirchberg, Antoine d -00805  00805                % 06257 RGTR--
+200417019 Kirchberg, Konrad Ad -00806  00806                % 06257 RGTR--
+200417039 Kirchberg, Avalon    -00807  00807                % 06257 RGTR--
+200417033 Kirchberg, Poutty St -00808  00808                % 06257 RGTR--
+200417044 Kirchberg, Luxexpo Q -00810  00810                % 06257 RGTR--
+200703004 P.A.S.-Bombicht       00820  00820                % 06257 RGTR--
+200703001 P.A.S.-Aalbaach       00821  00821                % 06257 RGTR--
+200703003 P.A.S.-Bekassin       00822  00822                % 06257 RGTR--
+200701006 Munsbach, Aisvull     00823  00823                % 06257 RGTR--
+200703005 P.A.S.-Stackint       00824                       % 06257 RGTR--
+*Z 06258 RGTR--                                             % 06258 RGTR--
+*L 740      200405036 200703005  00820  00854               % 06258 RGTR--
+*A ag 200405036 200703005 000016  00820  00854              % 06258 RGTR--
+*A ol 200405036 200703005 000016  00820  00854              % 06258 RGTR--
+*R 1 200703005 200405036 200703005  00820  00854            % 06258 RGTR--
+*G RGB 200405036 200703005  00820  00854                    % 06258 RGTR--
+*A VE 200405036 200703005 000016  00820  00854              % 06258 RGTR--
+*I FD 200405036 200703005        0002803  00820  00854      % 06258 RGTR--
+200405036 Luxembourg, Gare rou         00820                % 06258 RGTR--
+200405028 Centre, Rousegaertch -00824  00824                % 06258 RGTR--
+200405020 Hamilius             -00827  00827                % 06258 RGTR--
+200405014 Centre, Fondation Pe -00829  00829                % 06258 RGTR--
+200417047 Kirchberg, Rout Bréc -00831  00831                % 06258 RGTR--
+200417007 Kirchberg, B.E.I.    -00832  00832                % 06258 RGTR--
+200417016 Kirchberg, Jean Monn -00834  00834                % 06258 RGTR--
+200417005 Kirchberg, Antoine d -00835  00835                % 06258 RGTR--
+200417019 Kirchberg, Konrad Ad -00836  00836                % 06258 RGTR--
+200417039 Kirchberg, Avalon    -00837  00837                % 06258 RGTR--
+200417033 Kirchberg, Poutty St -00838  00838                % 06258 RGTR--
+200417044 Kirchberg, Luxexpo Q -00840  00840                % 06258 RGTR--
+200703004 P.A.S.-Bombicht       00850  00850                % 06258 RGTR--
+200703001 P.A.S.-Aalbaach       00851  00851                % 06258 RGTR--
+200703003 P.A.S.-Bekassin       00852  00852                % 06258 RGTR--
+200701006 Munsbach, Aisvull     00853  00853                % 06258 RGTR--
+200703005 P.A.S.-Stackint       00854                       % 06258 RGTR--
+*Z 06259 RGTR--                                             % 06259 RGTR--
+*L 740      200703004 200405036  01651  01727               % 06259 RGTR--
+*A ag 200703004 200405036 000016  01651  01727              % 06259 RGTR--
+*A ht 200703004 200405036 000016  01651  01727              % 06259 RGTR--
+*R 2 200405036 200703004 200405036  01651  01727            % 06259 RGTR--
+*G RGB 200703004 200405036  01651  01727                    % 06259 RGTR--
+*A VE 200703004 200405036 000016  01651  01727              % 06259 RGTR--
+*I FD 200703004 200405036        0001419  01651  01727      % 06259 RGTR--
+200703004 P.A.S.-Bombicht              01651                % 06259 RGTR--
+200703001 P.A.S.-Aalbaach       01651  01651                % 06259 RGTR--
+200703003 P.A.S.-Bekassin       01652  01652                % 06259 RGTR--
+200701006 Munsbach, Aisvull     01653  01653                % 06259 RGTR--
+200703005 P.A.S.-Stackint       01654  01654                % 06259 RGTR--
+200417040 Kirchberg, Hugo Gern  01705 -01705                % 06259 RGTR--
+200417039 Kirchberg, Avalon     01708 -01708                % 06259 RGTR--
+200417019 Kirchberg, Konrad Ad  01709 -01709                % 06259 RGTR--
+200417005 Kirchberg, Antoine d  01710 -01710                % 06259 RGTR--
+200417016 Kirchberg, Jean Monn  01711 -01711                % 06259 RGTR--
+200417007 Kirchberg, B.E.I.     01712 -01712                % 06259 RGTR--
+200417047 Kirchberg, Rout Bréc  01714 -01714                % 06259 RGTR--
+200405014 Centre, Fondation Pe  01717 -01717                % 06259 RGTR--
+200405029 Luxembourg/Centre, R  01720 -01720                % 06259 RGTR--
+200405028 Centre, Rousegaertch  01723 -01723                % 06259 RGTR--
+200405036 Luxembourg, Gare rou  01727                       % 06259 RGTR--
+*Z 06260 RGTR--                                             % 06260 RGTR--
+*L 740      200703004 200405036  01705  01741               % 06260 RGTR--
+*A ag 200703004 200405036 000016  01705  01741              % 06260 RGTR--
+*A ht 200703004 200405036 000016  01705  01741              % 06260 RGTR--
+*R 2 200405036 200703004 200405036  01705  01741            % 06260 RGTR--
+*G RGB 200703004 200405036  01705  01741                    % 06260 RGTR--
+*A VE 200703004 200405036 000016  01705  01741              % 06260 RGTR--
+*I FD 200703004 200405036        0002254  01705  01741      % 06260 RGTR--
+200703004 P.A.S.-Bombicht              01705                % 06260 RGTR--
+200703001 P.A.S.-Aalbaach       01705  01705                % 06260 RGTR--
+200703003 P.A.S.-Bekassin       01706  01706                % 06260 RGTR--
+200701006 Munsbach, Aisvull     01707  01707                % 06260 RGTR--
+200703005 P.A.S.-Stackint       01708  01708                % 06260 RGTR--
+200417040 Kirchberg, Hugo Gern  01719 -01719                % 06260 RGTR--
+200417039 Kirchberg, Avalon     01722 -01722                % 06260 RGTR--
+200417019 Kirchberg, Konrad Ad  01723 -01723                % 06260 RGTR--
+200417005 Kirchberg, Antoine d  01724 -01724                % 06260 RGTR--
+200417016 Kirchberg, Jean Monn  01725 -01725                % 06260 RGTR--
+200417007 Kirchberg, B.E.I.     01726 -01726                % 06260 RGTR--
+200417047 Kirchberg, Rout Bréc  01728 -01728                % 06260 RGTR--
+200405014 Centre, Fondation Pe  01731 -01731                % 06260 RGTR--
+200405029 Luxembourg/Centre, R  01734 -01734                % 06260 RGTR--
+200405028 Centre, Rousegaertch  01737 -01737                % 06260 RGTR--
+200405036 Luxembourg, Gare rou  01741                       % 06260 RGTR--
+*Z 06261 RGTR--                                             % 06261 RGTR--
+*L 740      200703004 200405036  01751  01827               % 06261 RGTR--
+*A ag 200703004 200405036 000016  01751  01827              % 06261 RGTR--
+*A ht 200703004 200405036 000016  01751  01827              % 06261 RGTR--
+*R 2 200405036 200703004 200405036  01751  01827            % 06261 RGTR--
+*G RGB 200703004 200405036  01751  01827                    % 06261 RGTR--
+*A VE 200703004 200405036 000016  01751  01827              % 06261 RGTR--
+*I FD 200703004 200405036        0002279  01751  01827      % 06261 RGTR--
+200703004 P.A.S.-Bombicht              01751                % 06261 RGTR--
+200703001 P.A.S.-Aalbaach       01751  01751                % 06261 RGTR--
+200703003 P.A.S.-Bekassin       01752  01752                % 06261 RGTR--
+200701006 Munsbach, Aisvull     01753  01753                % 06261 RGTR--
+200703005 P.A.S.-Stackint       01754  01754                % 06261 RGTR--
+200417040 Kirchberg, Hugo Gern  01805 -01805                % 06261 RGTR--
+200417039 Kirchberg, Avalon     01808 -01808                % 06261 RGTR--
+200417019 Kirchberg, Konrad Ad  01809 -01809                % 06261 RGTR--
+200417005 Kirchberg, Antoine d  01810 -01810                % 06261 RGTR--
+200417016 Kirchberg, Jean Monn  01811 -01811                % 06261 RGTR--
+200417007 Kirchberg, B.E.I.     01812 -01812                % 06261 RGTR--
+200417047 Kirchberg, Rout Bréc  01814 -01814                % 06261 RGTR--
+200405014 Centre, Fondation Pe  01817 -01817                % 06261 RGTR--
+200405029 Luxembourg/Centre, R  01820 -01820                % 06261 RGTR--
+200405028 Centre, Rousegaertch  01823 -01823                % 06261 RGTR--
+200405036 Luxembourg, Gare rou  01827                       % 06261 RGTR--
+*Z 06262 RGTR--                                             % 06262 RGTR--
+*L 740      200703004 200405036  01805  01841               % 06262 RGTR--
+*A ag 200703004 200405036 000016  01805  01841              % 06262 RGTR--
+*A ht 200703004 200405036 000016  01805  01841              % 06262 RGTR--
+*R 2 200405036 200703004 200405036  01805  01841            % 06262 RGTR--
+*G RGB 200703004 200405036  01805  01841                    % 06262 RGTR--
+*A VE 200703004 200405036 000016  01805  01841              % 06262 RGTR--
+*I FD 200703004 200405036        0002255  01805  01841      % 06262 RGTR--
+200703004 P.A.S.-Bombicht              01805                % 06262 RGTR--
+200703001 P.A.S.-Aalbaach       01805  01805                % 06262 RGTR--
+200703003 P.A.S.-Bekassin       01806  01806                % 06262 RGTR--
+200701006 Munsbach, Aisvull     01807  01807                % 06262 RGTR--
+200703005 P.A.S.-Stackint       01808  01808                % 06262 RGTR--
+200417040 Kirchberg, Hugo Gern  01819 -01819                % 06262 RGTR--
+200417039 Kirchberg, Avalon     01822 -01822                % 06262 RGTR--
+200417019 Kirchberg, Konrad Ad  01823 -01823                % 06262 RGTR--
+200417005 Kirchberg, Antoine d  01824 -01824                % 06262 RGTR--
+200417016 Kirchberg, Jean Monn  01825 -01825                % 06262 RGTR--
+200417007 Kirchberg, B.E.I.     01826 -01826                % 06262 RGTR--
+200417047 Kirchberg, Rout Bréc  01828 -01828                % 06262 RGTR--
+200405014 Centre, Fondation Pe  01831 -01831                % 06262 RGTR--
+200405029 Luxembourg/Centre, R  01834 -01834                % 06262 RGTR--
+200405028 Centre, Rousegaertch  01837 -01837                % 06262 RGTR--
+200405036 Luxembourg, Gare rou  01841                       % 06262 RGTR--
+*Z 06263 RGTR--                                             % 06263 RGTR--
+*L 740      200703004 200405036  01205  01238               % 06263 RGTR--
+*A ag 200703004 200405036 000016  01205  01238              % 06263 RGTR--
+*A ht 200703004 200405036 000016  01205  01238              % 06263 RGTR--
+*R 2 200405036 200703004 200405036  01205  01238            % 06263 RGTR--
+*G RGB 200703004 200405036  01205  01238                    % 06263 RGTR--
+*A VE 200703004 200405036 000016  01205  01238              % 06263 RGTR--
+*I FD 200703004 200405036        0002647  01205  01238      % 06263 RGTR--
+200703004 P.A.S.-Bombicht              01205                % 06263 RGTR--
+200703001 P.A.S.-Aalbaach       01205  01205                % 06263 RGTR--
+200703003 P.A.S.-Bekassin       01206  01206                % 06263 RGTR--
+200701006 Munsbach, Aisvull     01207  01207                % 06263 RGTR--
+200703005 P.A.S.-Stackint       01208  01208                % 06263 RGTR--
+200417040 Kirchberg, Hugo Gern  01219 -01219                % 06263 RGTR--
+200417039 Kirchberg, Avalon     01221 -01221                % 06263 RGTR--
+200417019 Kirchberg, Konrad Ad  01222 -01222                % 06263 RGTR--
+200417005 Kirchberg, Antoine d  01222 -01222                % 06263 RGTR--
+200417016 Kirchberg, Jean Monn  01223 -01223                % 06263 RGTR--
+200417007 Kirchberg, B.E.I.     01224 -01224                % 06263 RGTR--
+200417047 Kirchberg, Rout Bréc  01226 -01226                % 06263 RGTR--
+200405014 Centre, Fondation Pe  01229 -01229                % 06263 RGTR--
+200405029 Luxembourg/Centre, R  01231 -01231                % 06263 RGTR--
+200405028 Centre, Rousegaertch  01234 -01234                % 06263 RGTR--
+200405036 Luxembourg, Gare rou  01238                       % 06263 RGTR--
+*Z 06264 RGTR--                                             % 06264 RGTR--
+*L 740      200703004 200405036  01905  01938               % 06264 RGTR--
+*A ag 200703004 200405036 000016  01905  01938              % 06264 RGTR--
+*A ht 200703004 200405036 000016  01905  01938              % 06264 RGTR--
+*R 2 200405036 200703004 200405036  01905  01938            % 06264 RGTR--
+*G RGB 200703004 200405036  01905  01938                    % 06264 RGTR--
+*A VE 200703004 200405036 000016  01905  01938              % 06264 RGTR--
+*I FD 200703004 200405036        0002650  01905  01938      % 06264 RGTR--
+200703004 P.A.S.-Bombicht              01905                % 06264 RGTR--
+200703001 P.A.S.-Aalbaach       01905  01905                % 06264 RGTR--
+200703003 P.A.S.-Bekassin       01906  01906                % 06264 RGTR--
+200701006 Munsbach, Aisvull     01907  01907                % 06264 RGTR--
+200703005 P.A.S.-Stackint       01908  01908                % 06264 RGTR--
+200417040 Kirchberg, Hugo Gern  01919 -01919                % 06264 RGTR--
+200417039 Kirchberg, Avalon     01921 -01921                % 06264 RGTR--
+200417019 Kirchberg, Konrad Ad  01922 -01922                % 06264 RGTR--
+200417005 Kirchberg, Antoine d  01922 -01922                % 06264 RGTR--
+200417016 Kirchberg, Jean Monn  01923 -01923                % 06264 RGTR--
+200417007 Kirchberg, B.E.I.     01924 -01924                % 06264 RGTR--
+200417047 Kirchberg, Rout Bréc  01926 -01926                % 06264 RGTR--
+200405014 Centre, Fondation Pe  01929 -01929                % 06264 RGTR--
+200405029 Luxembourg/Centre, R  01931 -01931                % 06264 RGTR--
+200405028 Centre, Rousegaertch  01934 -01934                % 06264 RGTR--
+200405036 Luxembourg, Gare rou  01938                       % 06264 RGTR--

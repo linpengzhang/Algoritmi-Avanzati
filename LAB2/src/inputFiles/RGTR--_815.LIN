@@ -1,0 +1,439 @@
+*F 03 2
+*Z 09030 RGTR--                                             % 09030 RGTR--
+*L 815      300000001 160102001  00442  00528               % 09030 RGTR--
+*A ey 300000001 160102001 000156  00442  00528              % 09030 RGTR--
+*A jb 300000001 160102001 000156  00442  00528              % 09030 RGTR--
+*A hj 300000001 160102001 000156  00442  00528              % 09030 RGTR--
+*R 1 160102001 300000001 160102001  00442  00528            % 09030 RGTR--
+*G RGB 300000001 160102001  00442  00528                    % 09030 RGTR--
+*A VE 300000001 160102001 000156  00442  00528              % 09030 RGTR--
+*I FD 300000001 160102001        0003719  00442  00528      % 09030 RGTR--
+300000001 Arlon, Square Astrid         00442                % 09030 RGTR--
+300000006 Arlon, rue Léon Cast  00442  00442                % 09030 RGTR--
+300000004 Arlon, INDA           00444  00444                % 09030 RGTR--
+300000005 Arlon, Pl.des Chasse  00445  00445                % 09030 RGTR--
+300000002 Arlon, Cimetière      00446  00446                % 09030 RGTR--
+300000031 Frassem, Carrefour    00448  00448                % 09030 RGTR--
+150107002 Oberpallen, Schnudde  00453  00453                % 09030 RGTR--
+150105002 Lévelange, Kalek      00455  00455                % 09030 RGTR--
+150101001 Beckerich, Bei Schma  00456  00456                % 09030 RGTR--
+150101002 Beckerich, Fraiheets  00457  00457                % 09030 RGTR--
+150103002 Hovelange, Halt       00458  00458                % 09030 RGTR--
+150103001 Hovelange, Bei Bitze  00500  00500                % 09030 RGTR--
+150102002 Elvange/Beckerich, S  00500  00500                % 09030 RGTR--
+150106005 Noerdange, Scheiwesw  00503  00503                % 09030 RGTR--
+150106003 Noerdange, Beim Kiir  00503  00503                % 09030 RGTR--
+150106001 Noerdange, Ale Pompj  00504  00504                % 09030 RGTR--
+150802001 Rippweiler, Beim Nös  00506  00506                % 09030 RGTR--
+150804001 Useldange, Beim Gärd  00509  00509                % 09030 RGTR--
+150804003 Useldange, Spuerkees  00510  00510                % 09030 RGTR--
+150804002 Useldange, Raiffeise  00511  00511                % 09030 RGTR--
+160201003 Boevange, Gare        00514  00514                % 09030 RGTR--
+160201002 Boevange/Attert, Mil  00514  00514                % 09030 RGTR--
+160101008 Bissen, Um Sand       00520  00520                % 09030 RGTR--
+160101002 Bissen, Kräizung      00521  00521                % 09030 RGTR--
+160101003 Bissen, Geiwels       00522  00522                % 09030 RGTR--
+160101005 Bissen, Op der Mille  00522  00522                % 09030 RGTR--
+160301007 Colmar, Usines        00525  00525                % 09030 RGTR--
+160102001 Roost, Mold Plant     00528                       % 09030 RGTR--
+*Z 09031 RGTR--                                             % 09031 RGTR--
+*L 815      300000001 160102001  01242  01328               % 09031 RGTR--
+*A ey 300000001 160102001 000156  01242  01328              % 09031 RGTR--
+*A jb 300000001 160102001 000156  01242  01328              % 09031 RGTR--
+*A hj 300000001 160102001 000156  01242  01328              % 09031 RGTR--
+*R 1 160102001 300000001 160102001  01242  01328            % 09031 RGTR--
+*G RGB 300000001 160102001  01242  01328                    % 09031 RGTR--
+*A VE 300000001 160102001 000156  01242  01328              % 09031 RGTR--
+*I FD 300000001 160102001        0001286  01242  01328      % 09031 RGTR--
+300000001 Arlon, Square Astrid         01242                % 09031 RGTR--
+300000006 Arlon, rue Léon Cast  01242  01242                % 09031 RGTR--
+300000004 Arlon, INDA           01244  01244                % 09031 RGTR--
+300000005 Arlon, Pl.des Chasse  01245  01245                % 09031 RGTR--
+300000002 Arlon, Cimetière      01246  01246                % 09031 RGTR--
+300000031 Frassem, Carrefour    01248  01248                % 09031 RGTR--
+150107002 Oberpallen, Schnudde  01253  01253                % 09031 RGTR--
+150105002 Lévelange, Kalek      01255  01255                % 09031 RGTR--
+150101001 Beckerich, Bei Schma  01256  01256                % 09031 RGTR--
+150101002 Beckerich, Fraiheets  01257  01257                % 09031 RGTR--
+150103002 Hovelange, Halt       01258  01258                % 09031 RGTR--
+150103001 Hovelange, Bei Bitze  01300  01300                % 09031 RGTR--
+150102002 Elvange/Beckerich, S  01300  01300                % 09031 RGTR--
+150106005 Noerdange, Scheiwesw  01303  01303                % 09031 RGTR--
+150106003 Noerdange, Beim Kiir  01303  01303                % 09031 RGTR--
+150106001 Noerdange, Ale Pompj  01304  01304                % 09031 RGTR--
+150802001 Rippweiler, Beim Nös  01306  01306                % 09031 RGTR--
+150804001 Useldange, Beim Gärd  01309  01309                % 09031 RGTR--
+150804003 Useldange, Spuerkees  01310  01310                % 09031 RGTR--
+150804002 Useldange, Raiffeise  01311  01311                % 09031 RGTR--
+160201003 Boevange, Gare        01314  01314                % 09031 RGTR--
+160201002 Boevange/Attert, Mil  01314  01314                % 09031 RGTR--
+160101008 Bissen, Um Sand       01320  01320                % 09031 RGTR--
+160101002 Bissen, Kräizung      01321  01321                % 09031 RGTR--
+160101003 Bissen, Geiwels       01322  01322                % 09031 RGTR--
+160101005 Bissen, Op der Mille  01322  01322                % 09031 RGTR--
+160301007 Colmar, Usines        01325  01325                % 09031 RGTR--
+160102001 Roost, Mold Plant     01328                       % 09031 RGTR--
+*Z 09032 RGTR--                                             % 09032 RGTR--
+*L 815      300000001 160102001  02042  02128               % 09032 RGTR--
+*A ey 300000001 160102001 000156  02042  02128              % 09032 RGTR--
+*A jb 300000001 160102001 000156  02042  02128              % 09032 RGTR--
+*A hj 300000001 160102001 000156  02042  02128              % 09032 RGTR--
+*R 1 160102001 300000001 160102001  02042  02128            % 09032 RGTR--
+*G RGB 300000001 160102001  02042  02128                    % 09032 RGTR--
+*A VE 300000001 160102001 000156  02042  02128              % 09032 RGTR--
+*I FD 300000001 160102001        0003720  02042  02128      % 09032 RGTR--
+300000001 Arlon, Square Astrid         02042                % 09032 RGTR--
+300000006 Arlon, rue Léon Cast  02042  02042                % 09032 RGTR--
+300000004 Arlon, INDA           02044  02044                % 09032 RGTR--
+300000005 Arlon, Pl.des Chasse  02045  02045                % 09032 RGTR--
+300000002 Arlon, Cimetière      02046  02046                % 09032 RGTR--
+300000031 Frassem, Carrefour    02048  02048                % 09032 RGTR--
+150107002 Oberpallen, Schnudde  02053  02053                % 09032 RGTR--
+150105002 Lévelange, Kalek      02055  02055                % 09032 RGTR--
+150101001 Beckerich, Bei Schma  02056  02056                % 09032 RGTR--
+150101002 Beckerich, Fraiheets  02057  02057                % 09032 RGTR--
+150103002 Hovelange, Halt       02058  02058                % 09032 RGTR--
+150103001 Hovelange, Bei Bitze  02100  02100                % 09032 RGTR--
+150102002 Elvange/Beckerich, S  02100  02100                % 09032 RGTR--
+150106005 Noerdange, Scheiwesw  02103  02103                % 09032 RGTR--
+150106003 Noerdange, Beim Kiir  02103  02103                % 09032 RGTR--
+150106001 Noerdange, Ale Pompj  02104  02104                % 09032 RGTR--
+150802001 Rippweiler, Beim Nös  02106  02106                % 09032 RGTR--
+150804001 Useldange, Beim Gärd  02109  02109                % 09032 RGTR--
+150804003 Useldange, Spuerkees  02110  02110                % 09032 RGTR--
+150804002 Useldange, Raiffeise  02111  02111                % 09032 RGTR--
+160201003 Boevange, Gare        02114  02114                % 09032 RGTR--
+160201002 Boevange/Attert, Mil  02114  02114                % 09032 RGTR--
+160101008 Bissen, Um Sand       02120  02120                % 09032 RGTR--
+160101002 Bissen, Kräizung      02121  02121                % 09032 RGTR--
+160101003 Bissen, Geiwels       02122  02122                % 09032 RGTR--
+160101005 Bissen, Op der Mille  02122  02122                % 09032 RGTR--
+160301007 Colmar, Usines        02125  02125                % 09032 RGTR--
+160102001 Roost, Mold Plant     02128                       % 09032 RGTR--
+*Z 09033 RGTR--                                             % 09033 RGTR--
+*L 815      300000001 160301007  00442  00525               % 09033 RGTR--
+*A ey 300000001 160301007 000006  00442  00525              % 09033 RGTR--
+*A jd 300000001 160301007 000006  00442  00525              % 09033 RGTR--
+*A hj 300000001 160301007 000006  00442  00525              % 09033 RGTR--
+*A si 300000001 160301007 000006  00442  00525              % 09033 RGTR--
+*R 1 160301007 300000001 160301007  00442  00525            % 09033 RGTR--
+*G RGB 300000001 160301007  00442  00525                    % 09033 RGTR--
+*A VE 300000001 160301007 000006  00442  00525              % 09033 RGTR--
+*I FD 300000001 160301007        0003719  00442  00525      % 09033 RGTR--
+300000001 Arlon, Square Astrid         00442                % 09033 RGTR--
+300000006 Arlon, rue Léon Cast  00442  00442                % 09033 RGTR--
+300000004 Arlon, INDA           00444  00444                % 09033 RGTR--
+300000005 Arlon, Pl.des Chasse  00445  00445                % 09033 RGTR--
+300000002 Arlon, Cimetière      00446  00446                % 09033 RGTR--
+300000031 Frassem, Carrefour    00448  00448                % 09033 RGTR--
+150107002 Oberpallen, Schnudde  00453  00453                % 09033 RGTR--
+150105002 Lévelange, Kalek      00455  00455                % 09033 RGTR--
+150101001 Beckerich, Bei Schma  00456  00456                % 09033 RGTR--
+150101002 Beckerich, Fraiheets  00457  00457                % 09033 RGTR--
+150103002 Hovelange, Halt       00458  00458                % 09033 RGTR--
+150103001 Hovelange, Bei Bitze  00500  00500                % 09033 RGTR--
+150102002 Elvange/Beckerich, S  00500  00500                % 09033 RGTR--
+150106005 Noerdange, Scheiwesw  00503  00503                % 09033 RGTR--
+150106003 Noerdange, Beim Kiir  00503  00503                % 09033 RGTR--
+150106001 Noerdange, Ale Pompj  00504  00504                % 09033 RGTR--
+150802001 Rippweiler, Beim Nös  00506  00506                % 09033 RGTR--
+150804001 Useldange, Beim Gärd  00509  00509                % 09033 RGTR--
+150804003 Useldange, Spuerkees  00510  00510                % 09033 RGTR--
+150804002 Useldange, Raiffeise  00511  00511                % 09033 RGTR--
+160201003 Boevange, Gare        00514  00514                % 09033 RGTR--
+160201002 Boevange/Attert, Mil  00514  00514                % 09033 RGTR--
+160101008 Bissen, Um Sand       00520  00520                % 09033 RGTR--
+160101002 Bissen, Kräizung      00521  00521                % 09033 RGTR--
+160101003 Bissen, Geiwels       00522  00522                % 09033 RGTR--
+160101005 Bissen, Op der Mille  00522  00522                % 09033 RGTR--
+160301007 Colmar, Usines        00525                       % 09033 RGTR--
+*Z 09034 RGTR--                                             % 09034 RGTR--
+*L 815      300000001 160301007  01242  01325               % 09034 RGTR--
+*A ey 300000001 160301007 000006  01242  01325              % 09034 RGTR--
+*A jd 300000001 160301007 000006  01242  01325              % 09034 RGTR--
+*A hj 300000001 160301007 000006  01242  01325              % 09034 RGTR--
+*A si 300000001 160301007 000006  01242  01325              % 09034 RGTR--
+*R 1 160301007 300000001 160301007  01242  01325            % 09034 RGTR--
+*G RGB 300000001 160301007  01242  01325                    % 09034 RGTR--
+*A VE 300000001 160301007 000006  01242  01325              % 09034 RGTR--
+*I FD 300000001 160301007        0001286  01242  01325      % 09034 RGTR--
+300000001 Arlon, Square Astrid         01242                % 09034 RGTR--
+300000006 Arlon, rue Léon Cast  01242  01242                % 09034 RGTR--
+300000004 Arlon, INDA           01244  01244                % 09034 RGTR--
+300000005 Arlon, Pl.des Chasse  01245  01245                % 09034 RGTR--
+300000002 Arlon, Cimetière      01246  01246                % 09034 RGTR--
+300000031 Frassem, Carrefour    01248  01248                % 09034 RGTR--
+150107002 Oberpallen, Schnudde  01253  01253                % 09034 RGTR--
+150105002 Lévelange, Kalek      01255  01255                % 09034 RGTR--
+150101001 Beckerich, Bei Schma  01256  01256                % 09034 RGTR--
+150101002 Beckerich, Fraiheets  01257  01257                % 09034 RGTR--
+150103002 Hovelange, Halt       01258  01258                % 09034 RGTR--
+150103001 Hovelange, Bei Bitze  01300  01300                % 09034 RGTR--
+150102002 Elvange/Beckerich, S  01300  01300                % 09034 RGTR--
+150106005 Noerdange, Scheiwesw  01303  01303                % 09034 RGTR--
+150106003 Noerdange, Beim Kiir  01303  01303                % 09034 RGTR--
+150106001 Noerdange, Ale Pompj  01304  01304                % 09034 RGTR--
+150802001 Rippweiler, Beim Nös  01306  01306                % 09034 RGTR--
+150804001 Useldange, Beim Gärd  01309  01309                % 09034 RGTR--
+150804003 Useldange, Spuerkees  01310  01310                % 09034 RGTR--
+150804002 Useldange, Raiffeise  01311  01311                % 09034 RGTR--
+160201003 Boevange, Gare        01314  01314                % 09034 RGTR--
+160201002 Boevange/Attert, Mil  01314  01314                % 09034 RGTR--
+160101008 Bissen, Um Sand       01320  01320                % 09034 RGTR--
+160101002 Bissen, Kräizung      01321  01321                % 09034 RGTR--
+160101003 Bissen, Geiwels       01322  01322                % 09034 RGTR--
+160101005 Bissen, Op der Mille  01322  01322                % 09034 RGTR--
+160301007 Colmar, Usines        01325                       % 09034 RGTR--
+*Z 00254 RGTR--                                             % 00254 RGTR--
+*L 815      300000001 160301007  02042  02125               % 00254 RGTR--
+*A ey 300000001 160301007 000006  02042  02125              % 00254 RGTR--
+*A jd 300000001 160301007 000006  02042  02125              % 00254 RGTR--
+*A hj 300000001 160301007 000006  02042  02125              % 00254 RGTR--
+*A si 300000001 160301007 000006  02042  02125              % 00254 RGTR--
+*R 1 160301007 300000001 160301007  02042  02125            % 00254 RGTR--
+*G RGB 300000001 160301007  02042  02125                    % 00254 RGTR--
+*A VE 300000001 160301007 000006  02042  02125              % 00254 RGTR--
+*I FD 300000001 160301007        0003720  02042  02125      % 00254 RGTR--
+300000001 Arlon, Square Astrid         02042                % 00254 RGTR--
+300000006 Arlon, rue Léon Cast  02042  02042                % 00254 RGTR--
+300000004 Arlon, INDA           02044  02044                % 00254 RGTR--
+300000005 Arlon, Pl.des Chasse  02045  02045                % 00254 RGTR--
+300000002 Arlon, Cimetière      02046  02046                % 00254 RGTR--
+300000031 Frassem, Carrefour    02048  02048                % 00254 RGTR--
+150107002 Oberpallen, Schnudde  02053  02053                % 00254 RGTR--
+150105002 Lévelange, Kalek      02055  02055                % 00254 RGTR--
+150101001 Beckerich, Bei Schma  02056  02056                % 00254 RGTR--
+150101002 Beckerich, Fraiheets  02057  02057                % 00254 RGTR--
+150103002 Hovelange, Halt       02058  02058                % 00254 RGTR--
+150103001 Hovelange, Bei Bitze  02100  02100                % 00254 RGTR--
+150102002 Elvange/Beckerich, S  02100  02100                % 00254 RGTR--
+150106005 Noerdange, Scheiwesw  02103  02103                % 00254 RGTR--
+150106003 Noerdange, Beim Kiir  02103  02103                % 00254 RGTR--
+150106001 Noerdange, Ale Pompj  02104  02104                % 00254 RGTR--
+150802001 Rippweiler, Beim Nös  02106  02106                % 00254 RGTR--
+150804001 Useldange, Beim Gärd  02109  02109                % 00254 RGTR--
+150804003 Useldange, Spuerkees  02110  02110                % 00254 RGTR--
+150804002 Useldange, Raiffeise  02111  02111                % 00254 RGTR--
+160201003 Boevange, Gare        02114  02114                % 00254 RGTR--
+160201002 Boevange/Attert, Mil  02114  02114                % 00254 RGTR--
+160101008 Bissen, Um Sand       02120  02120                % 00254 RGTR--
+160101002 Bissen, Kräizung      02121  02121                % 00254 RGTR--
+160101003 Bissen, Geiwels       02122  02122                % 00254 RGTR--
+160101005 Bissen, Op der Mille  02122  02122                % 00254 RGTR--
+160301007 Colmar, Usines        02125                       % 00254 RGTR--
+*Z 09035 RGTR--                                             % 09035 RGTR--
+*L 815      160102001 300000005  01411  01457               % 09035 RGTR--
+*A ey 160102001 300000005 000156  01411  01457              % 09035 RGTR--
+*A sj 160102001 300000005 000156  01411  01457              % 09035 RGTR--
+*A hj 160102001 300000005 000156  01411  01457              % 09035 RGTR--
+*R 2 300000005 160102001 300000005  01411  01457            % 09035 RGTR--
+*G RGB 160102001 300000005  01411  01457                    % 09035 RGTR--
+*A VE 160102001 300000005 000156  01411  01457              % 09035 RGTR--
+*I FD 160102001 300000005        0003471  01411  01457      % 09035 RGTR--
+160102001 Roost, Mold Plant            01411                % 09035 RGTR--
+160301007 Colmar, Usines        01415  01415                % 09035 RGTR--
+160101005 Bissen, Op der Mille  01417  01417                % 09035 RGTR--
+160101003 Bissen, Geiwels       01418  01418                % 09035 RGTR--
+160101002 Bissen, Kräizung      01419  01419                % 09035 RGTR--
+160201002 Boevange/Attert, Mil  01423  01423                % 09035 RGTR--
+160201003 Boevange, Gare        01424  01424                % 09035 RGTR--
+150804002 Useldange, Raiffeise  01427  01427                % 09035 RGTR--
+150804003 Useldange, Spuerkees  01428  01428                % 09035 RGTR--
+150804001 Useldange, Beim Gärd  01429  01429                % 09035 RGTR--
+150802001 Rippweiler, Beim Nös  01431  01431                % 09035 RGTR--
+150106001 Noerdange, Ale Pompj  01434  01434                % 09035 RGTR--
+150106003 Noerdange, Beim Kiir  01435  01435                % 09035 RGTR--
+150106005 Noerdange, Scheiwesw  01436  01436                % 09035 RGTR--
+150102002 Elvange/Beckerich, S  01438  01438                % 09035 RGTR--
+150103001 Hovelange, Bei Bitze  01439  01439                % 09035 RGTR--
+150103002 Hovelange, Halt       01440  01440                % 09035 RGTR--
+150101002 Beckerich, Fraiheets  01441  01441                % 09035 RGTR--
+150101001 Beckerich, Bei Schma  01443  01443                % 09035 RGTR--
+150105002 Lévelange, Kalek      01444  01444                % 09035 RGTR--
+150107002 Oberpallen, Schnudde  01446  01446                % 09035 RGTR--
+300000031 Frassem, Carrefour    01450  01450                % 09035 RGTR--
+300000002 Arlon, Cimetière      01452  01452                % 09035 RGTR--
+300000001 Arlon, Square Astrid  01454  01454                % 09035 RGTR--
+300000006 Arlon, rue Léon Cast  01455  01455                % 09035 RGTR--
+300000004 Arlon, INDA           01456  01456                % 09035 RGTR--
+300000005 Arlon, Pl.des Chasse  01457                       % 09035 RGTR--
+*Z 09036 RGTR--                                             % 09036 RGTR--
+*L 815      160102001 300000005  02211  02257               % 09036 RGTR--
+*A ey 160102001 300000005 000156  02211  02257              % 09036 RGTR--
+*A sj 160102001 300000005 000156  02211  02257              % 09036 RGTR--
+*A hj 160102001 300000005 000156  02211  02257              % 09036 RGTR--
+*R 2 300000005 160102001 300000005  02211  02257            % 09036 RGTR--
+*G RGB 160102001 300000005  02211  02257                    % 09036 RGTR--
+*A VE 160102001 300000005 000156  02211  02257              % 09036 RGTR--
+*I FD 160102001 300000005        0003721  02211  02257      % 09036 RGTR--
+160102001 Roost, Mold Plant            02211                % 09036 RGTR--
+160301007 Colmar, Usines        02215  02215                % 09036 RGTR--
+160101005 Bissen, Op der Mille  02217  02217                % 09036 RGTR--
+160101003 Bissen, Geiwels       02218  02218                % 09036 RGTR--
+160101002 Bissen, Kräizung      02219  02219                % 09036 RGTR--
+160201002 Boevange/Attert, Mil  02223  02223                % 09036 RGTR--
+160201003 Boevange, Gare        02224  02224                % 09036 RGTR--
+150804002 Useldange, Raiffeise  02227  02227                % 09036 RGTR--
+150804003 Useldange, Spuerkees  02228  02228                % 09036 RGTR--
+150804001 Useldange, Beim Gärd  02229  02229                % 09036 RGTR--
+150802001 Rippweiler, Beim Nös  02231  02231                % 09036 RGTR--
+150106001 Noerdange, Ale Pompj  02234  02234                % 09036 RGTR--
+150106003 Noerdange, Beim Kiir  02235  02235                % 09036 RGTR--
+150106005 Noerdange, Scheiwesw  02236  02236                % 09036 RGTR--
+150102002 Elvange/Beckerich, S  02238  02238                % 09036 RGTR--
+150103001 Hovelange, Bei Bitze  02239  02239                % 09036 RGTR--
+150103002 Hovelange, Halt       02240  02240                % 09036 RGTR--
+150101002 Beckerich, Fraiheets  02241  02241                % 09036 RGTR--
+150101001 Beckerich, Bei Schma  02243  02243                % 09036 RGTR--
+150105002 Lévelange, Kalek      02244  02244                % 09036 RGTR--
+150107002 Oberpallen, Schnudde  02246  02246                % 09036 RGTR--
+300000031 Frassem, Carrefour    02250  02250                % 09036 RGTR--
+300000002 Arlon, Cimetière      02252  02252                % 09036 RGTR--
+300000001 Arlon, Square Astrid  02254  02254                % 09036 RGTR--
+300000006 Arlon, rue Léon Cast  02255  02255                % 09036 RGTR--
+300000004 Arlon, INDA           02256  02256                % 09036 RGTR--
+300000005 Arlon, Pl.des Chasse  02257                       % 09036 RGTR--
+*Z 09037 RGTR--                                             % 09037 RGTR--
+*L 815      160102001 300000005  00611  00657               % 09037 RGTR--
+*A ey 160102001 300000005 000178  00611  00657              % 09037 RGTR--
+*A sj 160102001 300000005 000178  00611  00657              % 09037 RGTR--
+*A hj 160102001 300000005 000178  00611  00657              % 09037 RGTR--
+*R 2 300000005 160102001 300000005  00611  00657            % 09037 RGTR--
+*G RGB 160102001 300000005  00611  00657                    % 09037 RGTR--
+*A VE 160102001 300000005 000178  00611  00657              % 09037 RGTR--
+*I FD 160102001 300000005        0002636  00611  00657      % 09037 RGTR--
+160102001 Roost, Mold Plant            00611                % 09037 RGTR--
+160301007 Colmar, Usines        00615  00615                % 09037 RGTR--
+160101005 Bissen, Op der Mille  00617  00617                % 09037 RGTR--
+160101003 Bissen, Geiwels       00618  00618                % 09037 RGTR--
+160101002 Bissen, Kräizung      00619  00619                % 09037 RGTR--
+160201002 Boevange/Attert, Mil  00623  00623                % 09037 RGTR--
+160201003 Boevange, Gare        00624  00624                % 09037 RGTR--
+150804002 Useldange, Raiffeise  00627  00627                % 09037 RGTR--
+150804003 Useldange, Spuerkees  00628  00628                % 09037 RGTR--
+150804001 Useldange, Beim Gärd  00629  00629                % 09037 RGTR--
+150802001 Rippweiler, Beim Nös  00631  00631                % 09037 RGTR--
+150106001 Noerdange, Ale Pompj  00634  00634                % 09037 RGTR--
+150106003 Noerdange, Beim Kiir  00635  00635                % 09037 RGTR--
+150106005 Noerdange, Scheiwesw  00636  00636                % 09037 RGTR--
+150102002 Elvange/Beckerich, S  00638  00638                % 09037 RGTR--
+150103001 Hovelange, Bei Bitze  00639  00639                % 09037 RGTR--
+150103002 Hovelange, Halt       00640  00640                % 09037 RGTR--
+150101002 Beckerich, Fraiheets  00641  00641                % 09037 RGTR--
+150101001 Beckerich, Bei Schma  00643  00643                % 09037 RGTR--
+150105002 Lévelange, Kalek      00644  00644                % 09037 RGTR--
+150107002 Oberpallen, Schnudde  00646  00646                % 09037 RGTR--
+300000031 Frassem, Carrefour    00650  00650                % 09037 RGTR--
+300000002 Arlon, Cimetière      00652  00652                % 09037 RGTR--
+300000001 Arlon, Square Astrid  00654  00654                % 09037 RGTR--
+300000006 Arlon, rue Léon Cast  00655  00655                % 09037 RGTR--
+300000004 Arlon, INDA           00656  00656                % 09037 RGTR--
+300000005 Arlon, Pl.des Chasse  00657                       % 09037 RGTR--
+*Z 09038 RGTR--                                             % 09038 RGTR--
+*L 815      160301007 300000005  01415  01457               % 09038 RGTR--
+*A ey 160301007 300000005 000006  01415  01457              % 09038 RGTR--
+*A sj 160301007 300000005 000006  01415  01457              % 09038 RGTR--
+*A hj 160301007 300000005 000006  01415  01457              % 09038 RGTR--
+*A RS 160301007 300000005 000006  01415  01457              % 09038 RGTR--
+*R 2 300000005 160301007 300000005  01415  01457            % 09038 RGTR--
+*G RGB 160301007 300000005  01415  01457                    % 09038 RGTR--
+*A VE 160301007 300000005 000006  01415  01457              % 09038 RGTR--
+*I FD 160301007 300000005        0002794  01415  01457      % 09038 RGTR--
+160301007 Colmar, Usines               01415                % 09038 RGTR--
+160101005 Bissen, Op der Mille  01417  01417                % 09038 RGTR--
+160101003 Bissen, Geiwels       01418  01418                % 09038 RGTR--
+160101002 Bissen, Kräizung      01419  01419                % 09038 RGTR--
+160201002 Boevange/Attert, Mil  01423  01423                % 09038 RGTR--
+160201003 Boevange, Gare        01424  01424                % 09038 RGTR--
+150804002 Useldange, Raiffeise  01427  01427                % 09038 RGTR--
+150804003 Useldange, Spuerkees  01428  01428                % 09038 RGTR--
+150804001 Useldange, Beim Gärd  01429  01429                % 09038 RGTR--
+150802001 Rippweiler, Beim Nös  01431  01431                % 09038 RGTR--
+150106001 Noerdange, Ale Pompj  01434  01434                % 09038 RGTR--
+150106003 Noerdange, Beim Kiir  01435  01435                % 09038 RGTR--
+150106005 Noerdange, Scheiwesw  01436  01436                % 09038 RGTR--
+150102002 Elvange/Beckerich, S  01438  01438                % 09038 RGTR--
+150103001 Hovelange, Bei Bitze  01439  01439                % 09038 RGTR--
+150103002 Hovelange, Halt       01440  01440                % 09038 RGTR--
+150101002 Beckerich, Fraiheets  01441  01441                % 09038 RGTR--
+150101001 Beckerich, Bei Schma  01443  01443                % 09038 RGTR--
+150105002 Lévelange, Kalek      01444  01444                % 09038 RGTR--
+150107002 Oberpallen, Schnudde  01446  01446                % 09038 RGTR--
+300000031 Frassem, Carrefour    01450  01450                % 09038 RGTR--
+300000002 Arlon, Cimetière      01452  01452                % 09038 RGTR--
+300000001 Arlon, Square Astrid  01454  01454                % 09038 RGTR--
+300000006 Arlon, rue Léon Cast  01455  01455                % 09038 RGTR--
+300000004 Arlon, INDA           01456  01456                % 09038 RGTR--
+300000005 Arlon, Pl.des Chasse  01457                       % 09038 RGTR--
+*Z 09039 RGTR--                                             % 09039 RGTR--
+*L 815      160301007 300000005  00615  00657               % 09039 RGTR--
+*A ey 160301007 300000005 000036  00615  00657              % 09039 RGTR--
+*A sj 160301007 300000005 000036  00615  00657              % 09039 RGTR--
+*A hj 160301007 300000005 000036  00615  00657              % 09039 RGTR--
+*A RS 160301007 300000005 000036  00615  00657              % 09039 RGTR--
+*R 2 300000005 160301007 300000005  00615  00657            % 09039 RGTR--
+*G RGB 160301007 300000005  00615  00657                    % 09039 RGTR--
+*A VE 160301007 300000005 000036  00615  00657              % 09039 RGTR--
+*I FD 160301007 300000005        0002408  00615  00657      % 09039 RGTR--
+160301007 Colmar, Usines               00615                % 09039 RGTR--
+160101005 Bissen, Op der Mille  00617  00617                % 09039 RGTR--
+160101003 Bissen, Geiwels       00618  00618                % 09039 RGTR--
+160101002 Bissen, Kräizung      00619  00619                % 09039 RGTR--
+160201002 Boevange/Attert, Mil  00623  00623                % 09039 RGTR--
+160201003 Boevange, Gare        00624  00624                % 09039 RGTR--
+150804002 Useldange, Raiffeise  00627  00627                % 09039 RGTR--
+150804003 Useldange, Spuerkees  00628  00628                % 09039 RGTR--
+150804001 Useldange, Beim Gärd  00629  00629                % 09039 RGTR--
+150802001 Rippweiler, Beim Nös  00631  00631                % 09039 RGTR--
+150106001 Noerdange, Ale Pompj  00634  00634                % 09039 RGTR--
+150106003 Noerdange, Beim Kiir  00635  00635                % 09039 RGTR--
+150106005 Noerdange, Scheiwesw  00636  00636                % 09039 RGTR--
+150102002 Elvange/Beckerich, S  00638  00638                % 09039 RGTR--
+150103001 Hovelange, Bei Bitze  00639  00639                % 09039 RGTR--
+150103002 Hovelange, Halt       00640  00640                % 09039 RGTR--
+150101002 Beckerich, Fraiheets  00641  00641                % 09039 RGTR--
+150101001 Beckerich, Bei Schma  00643  00643                % 09039 RGTR--
+150105002 Lévelange, Kalek      00644  00644                % 09039 RGTR--
+150107002 Oberpallen, Schnudde  00646  00646                % 09039 RGTR--
+300000031 Frassem, Carrefour    00650  00650                % 09039 RGTR--
+300000002 Arlon, Cimetière      00652  00652                % 09039 RGTR--
+300000001 Arlon, Square Astrid  00654  00654                % 09039 RGTR--
+300000006 Arlon, rue Léon Cast  00655  00655                % 09039 RGTR--
+300000004 Arlon, INDA           00656  00656                % 09039 RGTR--
+300000005 Arlon, Pl.des Chasse  00657                       % 09039 RGTR--
+*Z 00261 RGTR--                                             % 00261 RGTR--
+*L 815      160301007 300000005  02215  02257               % 00261 RGTR--
+*A ey 160301007 300000005 000006  02215  02257              % 00261 RGTR--
+*A sj 160301007 300000005 000006  02215  02257              % 00261 RGTR--
+*A hj 160301007 300000005 000006  02215  02257              % 00261 RGTR--
+*A RS 160301007 300000005 000006  02215  02257              % 00261 RGTR--
+*R 2 300000005 160301007 300000005  02215  02257            % 00261 RGTR--
+*G RGB 160301007 300000005  02215  02257                    % 00261 RGTR--
+*A VE 160301007 300000005 000006  02215  02257              % 00261 RGTR--
+*I FD 160301007 300000005        0001581  02215  02257      % 00261 RGTR--
+160301007 Colmar, Usines               02215                % 00261 RGTR--
+160101005 Bissen, Op der Mille  02217  02217                % 00261 RGTR--
+160101003 Bissen, Geiwels       02218  02218                % 00261 RGTR--
+160101002 Bissen, Kräizung      02219  02219                % 00261 RGTR--
+160201002 Boevange/Attert, Mil  02223  02223                % 00261 RGTR--
+160201003 Boevange, Gare        02224  02224                % 00261 RGTR--
+150804002 Useldange, Raiffeise  02227  02227                % 00261 RGTR--
+150804003 Useldange, Spuerkees  02228  02228                % 00261 RGTR--
+150804001 Useldange, Beim Gärd  02229  02229                % 00261 RGTR--
+150802001 Rippweiler, Beim Nös  02231  02231                % 00261 RGTR--
+150106001 Noerdange, Ale Pompj  02234  02234                % 00261 RGTR--
+150106003 Noerdange, Beim Kiir  02235  02235                % 00261 RGTR--
+150106005 Noerdange, Scheiwesw  02236  02236                % 00261 RGTR--
+150102002 Elvange/Beckerich, S  02238  02238                % 00261 RGTR--
+150103001 Hovelange, Bei Bitze  02239  02239                % 00261 RGTR--
+150103002 Hovelange, Halt       02240  02240                % 00261 RGTR--
+150101002 Beckerich, Fraiheets  02241  02241                % 00261 RGTR--
+150101001 Beckerich, Bei Schma  02243  02243                % 00261 RGTR--
+150105002 Lévelange, Kalek      02244  02244                % 00261 RGTR--
+150107002 Oberpallen, Schnudde  02246  02246                % 00261 RGTR--
+300000031 Frassem, Carrefour    02250  02250                % 00261 RGTR--
+300000002 Arlon, Cimetière      02252  02252                % 00261 RGTR--
+300000001 Arlon, Square Astrid  02254  02254                % 00261 RGTR--
+300000006 Arlon, rue Léon Cast  02255  02255                % 00261 RGTR--
+300000004 Arlon, INDA           02256  02256                % 00261 RGTR--
+300000005 Arlon, Pl.des Chasse  02257                       % 00261 RGTR--

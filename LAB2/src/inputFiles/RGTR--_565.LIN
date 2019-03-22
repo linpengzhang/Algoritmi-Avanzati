@@ -1,0 +1,621 @@
+*F 03 2
+*Z 01903 RGTR--                                             % 01903 RGTR--
+*L 565      140701023 130301001  01510  01553               % 01903 RGTR--
+*A da 140701023 130301001 000006  01510  01553              % 01903 RGTR--
+*A gm 140701023 130301001 000006  01510  01553              % 01903 RGTR--
+*A NV 140701023 130301001 000006  01510  01553              % 01903 RGTR--
+*R 1 130301001 140701023 130301001  01510  01553            % 01903 RGTR--
+*G RGB 140701023 130301001  01510  01553                    % 01903 RGTR--
+*A VE 140701023 130301001 000006  01510  01553              % 01903 RGTR--
+*I FD 140701023 130301001        0001892  01510  01553      % 01903 RGTR--
+140701023 Ettelbruck, Lycée Te         01510                % 01903 RGTR--
+140701024 Ettelbruck, Pensionn  01511  01511                % 01903 RGTR--
+140701016 Ettelbruck, Gare      01513  01513                % 01903 RGTR--
+140602008 Erpeldange/Sûre, Um   01515  01515                % 01903 RGTR--
+140603002 Ingeldorf, Café de l  01517  01517                % 01903 RGTR--
+140401008 Diekirch, Lorentzwue  01518  01518                % 01903 RGTR--
+140401004 Diekirch, Gare        01519  01519                % 01903 RGTR--
+140401001 Diekirch, Altersheem  01521  01521                % 01903 RGTR--
+140401007 Diekirch, rue Merten  01522  01522                % 01903 RGTR--
+140203002 Gilsdorf, Schoul      01524  01524                % 01903 RGTR--
+140203001 Gilsdorf, An der Klé  01525  01525                % 01903 RGTR--
+140202001 Bleesbréck            01526  01526                % 01903 RGTR--
+140205002 Selz                  01527  01527                % 01903 RGTR--
+140205001 Selz, An der Lengt    01528  01528                % 01903 RGTR--
+130201002 Bastendorf, Ge'erwee  01529  01529                % 01903 RGTR--
+130201003 Bastendorf, Lann      01530  01530                % 01903 RGTR--
+130201001 Bastendorf, Beim Ter  01531  01531                % 01903 RGTR--
+130203003 Brandenbourg, Laangw  01534  01534                % 01903 RGTR--
+130203002 Brandenbourg, Kapell  01534  01534                % 01903 RGTR--
+130203001 Brandenbourg, Bakes   01535  01535                % 01903 RGTR--
+130105002 Putscheid, Gemengeba  01547  01547                % 01903 RGTR--
+130104001 Nachtmanderscheid, K  01549  01549                % 01903 RGTR--
+130104002 Nachtmanderscheid, P  01550  01550                % 01903 RGTR--
+130108003 Groësteen             01551  01551                % 01903 RGTR--
+130301001 Mont St. Nicolas      01553                       % 01903 RGTR--
+*Z 01904 RGTR--                                             % 01904 RGTR--
+*L 565      140701023 130301001  01155  01238               % 01904 RGTR--
+*A da 140701023 130301001 000030  01155  01238              % 01904 RGTR--
+*A gm 140701023 130301001 000030  01155  01238              % 01904 RGTR--
+*A NV 140701023 130301001 000030  01155  01238              % 01904 RGTR--
+*R 1 130301001 140701023 130301001  01155  01238            % 01904 RGTR--
+*G RGB 140701023 130301001  01155  01238                    % 01904 RGTR--
+*A VE 140701023 130301001 000030  01155  01238              % 01904 RGTR--
+*I FD 140701023 130301001        0002603  01155  01238      % 01904 RGTR--
+140701023 Ettelbruck, Lycée Te         01155                % 01904 RGTR--
+140701024 Ettelbruck, Pensionn  01156  01156                % 01904 RGTR--
+140701016 Ettelbruck, Gare      01158  01158                % 01904 RGTR--
+140602008 Erpeldange/Sûre, Um   01200  01200                % 01904 RGTR--
+140603002 Ingeldorf, Café de l  01202  01202                % 01904 RGTR--
+140401008 Diekirch, Lorentzwue  01203  01203                % 01904 RGTR--
+140401004 Diekirch, Gare        01204  01204                % 01904 RGTR--
+140401001 Diekirch, Altersheem  01206  01206                % 01904 RGTR--
+140401007 Diekirch, rue Merten  01207  01207                % 01904 RGTR--
+140203002 Gilsdorf, Schoul      01209  01209                % 01904 RGTR--
+140203001 Gilsdorf, An der Klé  01210  01210                % 01904 RGTR--
+140202001 Bleesbréck            01211  01211                % 01904 RGTR--
+140205002 Selz                  01212  01212                % 01904 RGTR--
+140205001 Selz, An der Lengt    01213  01213                % 01904 RGTR--
+130201002 Bastendorf, Ge'erwee  01214  01214                % 01904 RGTR--
+130201003 Bastendorf, Lann      01215  01215                % 01904 RGTR--
+130201001 Bastendorf, Beim Ter  01216  01216                % 01904 RGTR--
+130203003 Brandenbourg, Laangw  01219  01219                % 01904 RGTR--
+130203002 Brandenbourg, Kapell  01219  01219                % 01904 RGTR--
+130203001 Brandenbourg, Bakes   01220  01220                % 01904 RGTR--
+130105002 Putscheid, Gemengeba  01232  01232                % 01904 RGTR--
+130104001 Nachtmanderscheid, K  01234  01234                % 01904 RGTR--
+130104002 Nachtmanderscheid, P  01235  01235                % 01904 RGTR--
+130108003 Groësteen             01236  01236                % 01904 RGTR--
+130301001 Mont St. Nicolas      01238                       % 01904 RGTR--
+*Z 01905 RGTR--                                             % 01905 RGTR--
+*L 565      140701023 130301001  01410  01453               % 01905 RGTR--
+*A da 140701023 130301001 000030  01410  01453              % 01905 RGTR--
+*A gm 140701023 130301001 000030  01410  01453              % 01905 RGTR--
+*A NV 140701023 130301001 000030  01410  01453              % 01905 RGTR--
+*R 1 130301001 140701023 130301001  01410  01453            % 01905 RGTR--
+*G RGB 140701023 130301001  01410  01453                    % 01905 RGTR--
+*A VE 140701023 130301001 000030  01410  01453              % 01905 RGTR--
+*I FD 140701023 130301001        0001889  01410  01453      % 01905 RGTR--
+140701023 Ettelbruck, Lycée Te         01410                % 01905 RGTR--
+140701024 Ettelbruck, Pensionn  01411  01411                % 01905 RGTR--
+140701016 Ettelbruck, Gare      01413  01413                % 01905 RGTR--
+140602008 Erpeldange/Sûre, Um   01415  01415                % 01905 RGTR--
+140603002 Ingeldorf, Café de l  01417  01417                % 01905 RGTR--
+140401008 Diekirch, Lorentzwue  01418  01418                % 01905 RGTR--
+140401004 Diekirch, Gare        01419  01419                % 01905 RGTR--
+140401001 Diekirch, Altersheem  01421  01421                % 01905 RGTR--
+140401007 Diekirch, rue Merten  01422  01422                % 01905 RGTR--
+140203002 Gilsdorf, Schoul      01424  01424                % 01905 RGTR--
+140203001 Gilsdorf, An der Klé  01425  01425                % 01905 RGTR--
+140202001 Bleesbréck            01426  01426                % 01905 RGTR--
+140205002 Selz                  01427  01427                % 01905 RGTR--
+140205001 Selz, An der Lengt    01428  01428                % 01905 RGTR--
+130201002 Bastendorf, Ge'erwee  01429  01429                % 01905 RGTR--
+130201003 Bastendorf, Lann      01430  01430                % 01905 RGTR--
+130201001 Bastendorf, Beim Ter  01431  01431                % 01905 RGTR--
+130203003 Brandenbourg, Laangw  01434  01434                % 01905 RGTR--
+130203002 Brandenbourg, Kapell  01434  01434                % 01905 RGTR--
+130203001 Brandenbourg, Bakes   01435  01435                % 01905 RGTR--
+130105002 Putscheid, Gemengeba  01447  01447                % 01905 RGTR--
+130104001 Nachtmanderscheid, K  01449  01449                % 01905 RGTR--
+130104002 Nachtmanderscheid, P  01450  01450                % 01905 RGTR--
+130108003 Groësteen             01451  01451                % 01905 RGTR--
+130301001 Mont St. Nicolas      01453                       % 01905 RGTR--
+*Z 01906 RGTR--                                             % 01906 RGTR--
+*L 565      140701023 130301001  01600  01645               % 01906 RGTR--
+*A da 140701023 130301001 000030  01600  01645              % 01906 RGTR--
+*A gm 140701023 130301001 000030  01600  01645              % 01906 RGTR--
+*A NV 140701023 130301001 000030  01600  01645              % 01906 RGTR--
+*R 1 130301001 140701023 130301001  01600  01645            % 01906 RGTR--
+*G RGB 140701023 130301001  01600  01645                    % 01906 RGTR--
+*A VE 140701023 130301001 000030  01600  01645              % 01906 RGTR--
+*I FD 140701023 130301001        0002236  01600  01645      % 01906 RGTR--
+140701023 Ettelbruck, Lycée Te         01600                % 01906 RGTR--
+140701024 Ettelbruck, Pensionn  01601  01601                % 01906 RGTR--
+140701016 Ettelbruck, Gare      01603  01603                % 01906 RGTR--
+140602008 Erpeldange/Sûre, Um   01605  01605                % 01906 RGTR--
+140603002 Ingeldorf, Café de l  01607  01607                % 01906 RGTR--
+140401008 Diekirch, Lorentzwue  01609  01609                % 01906 RGTR--
+140401004 Diekirch, Gare        01610  01610                % 01906 RGTR--
+140401001 Diekirch, Altersheem  01612  01612                % 01906 RGTR--
+140401007 Diekirch, rue Merten  01613  01613                % 01906 RGTR--
+140203002 Gilsdorf, Schoul      01615  01615                % 01906 RGTR--
+140203001 Gilsdorf, An der Klé  01616  01616                % 01906 RGTR--
+140202001 Bleesbréck            01617  01617                % 01906 RGTR--
+140205002 Selz                  01619  01619                % 01906 RGTR--
+140205001 Selz, An der Lengt    01619  01619                % 01906 RGTR--
+130201002 Bastendorf, Ge'erwee  01620  01620                % 01906 RGTR--
+130201003 Bastendorf, Lann      01622  01622                % 01906 RGTR--
+130201001 Bastendorf, Beim Ter  01622  01622                % 01906 RGTR--
+130203003 Brandenbourg, Laangw  01625  01625                % 01906 RGTR--
+130203002 Brandenbourg, Kapell  01626  01626                % 01906 RGTR--
+130203001 Brandenbourg, Bakes   01626  01626                % 01906 RGTR--
+130105002 Putscheid, Gemengeba  01638  01638                % 01906 RGTR--
+130104001 Nachtmanderscheid, K  01641  01641                % 01906 RGTR--
+130104002 Nachtmanderscheid, P  01642  01642                % 01906 RGTR--
+130108003 Groësteen             01643  01643                % 01906 RGTR--
+130301001 Mont St. Nicolas      01645                       % 01906 RGTR--
+*Z 01907 RGTR--                                             % 01907 RGTR--
+*L 565      140401004 130301001  01445  01519               % 01907 RGTR--
+*A da 140401004 130301001 000030  01445  01519              % 01907 RGTR--
+*A gm 140401004 130301001 000030  01445  01519              % 01907 RGTR--
+*A NV 140401004 130301001 000030  01445  01519              % 01907 RGTR--
+*R 1 130301001 140401004 130301001  01445  01519            % 01907 RGTR--
+*G RGB 140401004 130301001  01445  01519                    % 01907 RGTR--
+*A VE 140401004 130301001 000030  01445  01519              % 01907 RGTR--
+*I FD 140401004 130301001        0002586  01445  01519      % 01907 RGTR--
+140401004 Diekirch, Gare               01445                % 01907 RGTR--
+140401001 Diekirch, Altersheem  01446  01446                % 01907 RGTR--
+140401007 Diekirch, rue Merten  01448  01448                % 01907 RGTR--
+140203002 Gilsdorf, Schoul      01449  01449                % 01907 RGTR--
+140203001 Gilsdorf, An der Klé  01451  01451                % 01907 RGTR--
+140202001 Bleesbréck            01451  01451                % 01907 RGTR--
+140205002 Selz                  01453  01453                % 01907 RGTR--
+140205001 Selz, An der Lengt    01453  01453                % 01907 RGTR--
+130201002 Bastendorf, Ge'erwee  01454  01454                % 01907 RGTR--
+130201003 Bastendorf, Lann      01455  01455                % 01907 RGTR--
+130201001 Bastendorf, Beim Ter  01456  01456                % 01907 RGTR--
+130203003 Brandenbourg, Laangw  01459  01459                % 01907 RGTR--
+130203002 Brandenbourg, Kapell  01459  01459                % 01907 RGTR--
+130203001 Brandenbourg, Bakes   01500  01500                % 01907 RGTR--
+130105002 Putscheid, Gemengeba  01512  01512                % 01907 RGTR--
+130104001 Nachtmanderscheid, K  01514  01514                % 01907 RGTR--
+130104002 Nachtmanderscheid, P  01515  01515                % 01907 RGTR--
+130108003 Groësteen             01517  01517                % 01907 RGTR--
+130301001 Mont St. Nicolas      01519                       % 01907 RGTR--
+*Z 01908 RGTR--                                             % 01908 RGTR--
+*L 565      140701016 130301001  00916  00958               % 01908 RGTR--
+*A da 140701016 130301001 000006  00916  00958              % 01908 RGTR--
+*A gm 140701016 130301001 000006  00916  00958              % 01908 RGTR--
+*R 1 130301001 140701016 130301001  00916  00958            % 01908 RGTR--
+*G RGB 140701016 130301001  00916  00958                    % 01908 RGTR--
+*A VE 140701016 130301001 000006  00916  00958              % 01908 RGTR--
+*I FD 140701016 130301001        0002708  00916  00958      % 01908 RGTR--
+140701016 Ettelbruck, Gare             00916                % 01908 RGTR--
+140602008 Erpeldange/Sûre, Um   00918  00918                % 01908 RGTR--
+140603002 Ingeldorf, Café de l  00920  00920                % 01908 RGTR--
+140401008 Diekirch, Lorentzwue  00921  00921                % 01908 RGTR--
+140401004 Diekirch, Gare        00923  00923                % 01908 RGTR--
+140401001 Diekirch, Altersheem  00924  00924                % 01908 RGTR--
+140401007 Diekirch, rue Merten  00926  00926                % 01908 RGTR--
+140203002 Gilsdorf, Schoul      00928  00928                % 01908 RGTR--
+140203001 Gilsdorf, An der Klé  00929  00929                % 01908 RGTR--
+140202001 Bleesbréck            00930  00930                % 01908 RGTR--
+140205002 Selz                  00931  00931                % 01908 RGTR--
+140205001 Selz, An der Lengt    00932  00932                % 01908 RGTR--
+130201002 Bastendorf, Ge'erwee  00933  00933                % 01908 RGTR--
+130201003 Bastendorf, Lann      00934  00934                % 01908 RGTR--
+130201001 Bastendorf, Beim Ter  00935  00935                % 01908 RGTR--
+130203003 Brandenbourg, Laangw  00938  00938                % 01908 RGTR--
+130203002 Brandenbourg, Kapell  00938  00938                % 01908 RGTR--
+130203001 Brandenbourg, Bakes   00939  00939                % 01908 RGTR--
+130105002 Putscheid, Gemengeba  00951  00951                % 01908 RGTR--
+130104001 Nachtmanderscheid, K  00953  00953                % 01908 RGTR--
+130104002 Nachtmanderscheid, P  00954  00954                % 01908 RGTR--
+130108003 Groësteen             00956  00956                % 01908 RGTR--
+130301001 Mont St. Nicolas      00958                       % 01908 RGTR--
+*Z 01909 RGTR--                                             % 01909 RGTR--
+*L 565      140701016 130301001  01716  01758               % 01909 RGTR--
+*A da 140701016 130301001 000006  01716  01758              % 01909 RGTR--
+*A gm 140701016 130301001 000006  01716  01758              % 01909 RGTR--
+*A NV 140701016 130301001 000006  01716  01758              % 01909 RGTR--
+*R 1 130301001 140701016 130301001  01716  01758            % 01909 RGTR--
+*G RGB 140701016 130301001  01716  01758                    % 01909 RGTR--
+*A VE 140701016 130301001 000006  01716  01758              % 01909 RGTR--
+*I FD 140701016 130301001        0002709  01716  01758      % 01909 RGTR--
+140701016 Ettelbruck, Gare             01716                % 01909 RGTR--
+140602008 Erpeldange/Sûre, Um   01718  01718                % 01909 RGTR--
+140603002 Ingeldorf, Café de l  01720  01720                % 01909 RGTR--
+140401008 Diekirch, Lorentzwue  01721  01721                % 01909 RGTR--
+140401004 Diekirch, Gare        01723  01723                % 01909 RGTR--
+140401001 Diekirch, Altersheem  01724  01724                % 01909 RGTR--
+140401007 Diekirch, rue Merten  01726  01726                % 01909 RGTR--
+140203002 Gilsdorf, Schoul      01728  01728                % 01909 RGTR--
+140203001 Gilsdorf, An der Klé  01729  01729                % 01909 RGTR--
+140202001 Bleesbréck            01730  01730                % 01909 RGTR--
+140205002 Selz                  01731  01731                % 01909 RGTR--
+140205001 Selz, An der Lengt    01732  01732                % 01909 RGTR--
+130201002 Bastendorf, Ge'erwee  01733  01733                % 01909 RGTR--
+130201003 Bastendorf, Lann      01734  01734                % 01909 RGTR--
+130201001 Bastendorf, Beim Ter  01735  01735                % 01909 RGTR--
+130203003 Brandenbourg, Laangw  01738  01738                % 01909 RGTR--
+130203002 Brandenbourg, Kapell  01738  01738                % 01909 RGTR--
+130203001 Brandenbourg, Bakes   01739  01739                % 01909 RGTR--
+130105002 Putscheid, Gemengeba  01751  01751                % 01909 RGTR--
+130104001 Nachtmanderscheid, K  01753  01753                % 01909 RGTR--
+130104002 Nachtmanderscheid, P  01754  01754                % 01909 RGTR--
+130108003 Groësteen             01756  01756                % 01909 RGTR--
+130301001 Mont St. Nicolas      01758                       % 01909 RGTR--
+*Z 01910 RGTR--                                             % 01910 RGTR--
+*L 565      140701016 130301001  01118  01158               % 01910 RGTR--
+*A da 140701016 130301001 000006  01118  01158              % 01910 RGTR--
+*A gm 140701016 130301001 000006  01118  01158              % 01910 RGTR--
+*R 1 130301001 140701016 130301001  01118  01158            % 01910 RGTR--
+*G RGB 140701016 130301001  01118  01158                    % 01910 RGTR--
+*A VE 140701016 130301001 000006  01118  01158              % 01910 RGTR--
+*I FD 140701016 130301001        0001227  01118  01158      % 01910 RGTR--
+140701016 Ettelbruck, Gare             01118                % 01910 RGTR--
+140602008 Erpeldange/Sûre, Um   01120  01120                % 01910 RGTR--
+140603002 Ingeldorf, Café de l  01122  01122                % 01910 RGTR--
+140401008 Diekirch, Lorentzwue  01123  01123                % 01910 RGTR--
+140401004 Diekirch, Gare        01124  01124                % 01910 RGTR--
+140401001 Diekirch, Altersheem  01126  01126                % 01910 RGTR--
+140401007 Diekirch, rue Merten  01127  01127                % 01910 RGTR--
+140203002 Gilsdorf, Schoul      01129  01129                % 01910 RGTR--
+140203001 Gilsdorf, An der Klé  01130  01130                % 01910 RGTR--
+140202001 Bleesbréck            01131  01131                % 01910 RGTR--
+140205002 Selz                  01132  01132                % 01910 RGTR--
+140205001 Selz, An der Lengt    01133  01133                % 01910 RGTR--
+130201002 Bastendorf, Ge'erwee  01134  01134                % 01910 RGTR--
+130201003 Bastendorf, Lann      01135  01135                % 01910 RGTR--
+130201001 Bastendorf, Beim Ter  01136  01136                % 01910 RGTR--
+130203003 Brandenbourg, Laangw  01139  01139                % 01910 RGTR--
+130203002 Brandenbourg, Kapell  01139  01139                % 01910 RGTR--
+130203001 Brandenbourg, Bakes   01140  01140                % 01910 RGTR--
+130105002 Putscheid, Gemengeba  01152  01152                % 01910 RGTR--
+130104001 Nachtmanderscheid, K  01154  01154                % 01910 RGTR--
+130104002 Nachtmanderscheid, P  01155  01155                % 01910 RGTR--
+130108003 Groësteen             01156  01156                % 01910 RGTR--
+130301001 Mont St. Nicolas      01158                       % 01910 RGTR--
+*Z 01911 RGTR--                                             % 01911 RGTR--
+*L 565      140701016 130301001  01318  01358               % 01911 RGTR--
+*A da 140701016 130301001 000006  01318  01358              % 01911 RGTR--
+*A gm 140701016 130301001 000006  01318  01358              % 01911 RGTR--
+*R 1 130301001 140701016 130301001  01318  01358            % 01911 RGTR--
+*G RGB 140701016 130301001  01318  01358                    % 01911 RGTR--
+*A VE 140701016 130301001 000006  01318  01358              % 01911 RGTR--
+*I FD 140701016 130301001        0002710  01318  01358      % 01911 RGTR--
+140701016 Ettelbruck, Gare             01318                % 01911 RGTR--
+140602008 Erpeldange/Sûre, Um   01320  01320                % 01911 RGTR--
+140603002 Ingeldorf, Café de l  01322  01322                % 01911 RGTR--
+140401008 Diekirch, Lorentzwue  01323  01323                % 01911 RGTR--
+140401004 Diekirch, Gare        01324  01324                % 01911 RGTR--
+140401001 Diekirch, Altersheem  01326  01326                % 01911 RGTR--
+140401007 Diekirch, rue Merten  01327  01327                % 01911 RGTR--
+140203002 Gilsdorf, Schoul      01329  01329                % 01911 RGTR--
+140203001 Gilsdorf, An der Klé  01330  01330                % 01911 RGTR--
+140202001 Bleesbréck            01331  01331                % 01911 RGTR--
+140205002 Selz                  01332  01332                % 01911 RGTR--
+140205001 Selz, An der Lengt    01333  01333                % 01911 RGTR--
+130201002 Bastendorf, Ge'erwee  01334  01334                % 01911 RGTR--
+130201003 Bastendorf, Lann      01335  01335                % 01911 RGTR--
+130201001 Bastendorf, Beim Ter  01336  01336                % 01911 RGTR--
+130203003 Brandenbourg, Laangw  01339  01339                % 01911 RGTR--
+130203002 Brandenbourg, Kapell  01339  01339                % 01911 RGTR--
+130203001 Brandenbourg, Bakes   01340  01340                % 01911 RGTR--
+130105002 Putscheid, Gemengeba  01352  01352                % 01911 RGTR--
+130104001 Nachtmanderscheid, K  01354  01354                % 01911 RGTR--
+130104002 Nachtmanderscheid, P  01355  01355                % 01911 RGTR--
+130108003 Groësteen             01356  01356                % 01911 RGTR--
+130301001 Mont St. Nicolas      01358                       % 01911 RGTR--
+*Z 01912 RGTR--                                             % 01912 RGTR--
+*L 565      140701016 130301001  01918  01958               % 01912 RGTR--
+*A da 140701016 130301001 000006  01918  01958              % 01912 RGTR--
+*A gm 140701016 130301001 000006  01918  01958              % 01912 RGTR--
+*R 1 130301001 140701016 130301001  01918  01958            % 01912 RGTR--
+*G RGB 140701016 130301001  01918  01958                    % 01912 RGTR--
+*A VE 140701016 130301001 000006  01918  01958              % 01912 RGTR--
+*I FD 140701016 130301001        0002711  01918  01958      % 01912 RGTR--
+140701016 Ettelbruck, Gare             01918                % 01912 RGTR--
+140602008 Erpeldange/Sûre, Um   01920  01920                % 01912 RGTR--
+140603002 Ingeldorf, Café de l  01922  01922                % 01912 RGTR--
+140401008 Diekirch, Lorentzwue  01923  01923                % 01912 RGTR--
+140401004 Diekirch, Gare        01924  01924                % 01912 RGTR--
+140401001 Diekirch, Altersheem  01926  01926                % 01912 RGTR--
+140401007 Diekirch, rue Merten  01927  01927                % 01912 RGTR--
+140203002 Gilsdorf, Schoul      01929  01929                % 01912 RGTR--
+140203001 Gilsdorf, An der Klé  01930  01930                % 01912 RGTR--
+140202001 Bleesbréck            01931  01931                % 01912 RGTR--
+140205002 Selz                  01932  01932                % 01912 RGTR--
+140205001 Selz, An der Lengt    01933  01933                % 01912 RGTR--
+130201002 Bastendorf, Ge'erwee  01934  01934                % 01912 RGTR--
+130201003 Bastendorf, Lann      01935  01935                % 01912 RGTR--
+130201001 Bastendorf, Beim Ter  01936  01936                % 01912 RGTR--
+130203003 Brandenbourg, Laangw  01939  01939                % 01912 RGTR--
+130203002 Brandenbourg, Kapell  01939  01939                % 01912 RGTR--
+130203001 Brandenbourg, Bakes   01940  01940                % 01912 RGTR--
+130105002 Putscheid, Gemengeba  01952  01952                % 01912 RGTR--
+130104001 Nachtmanderscheid, K  01954  01954                % 01912 RGTR--
+130104002 Nachtmanderscheid, P  01955  01955                % 01912 RGTR--
+130108003 Groësteen             01956  01956                % 01912 RGTR--
+130301001 Mont St. Nicolas      01958                       % 01912 RGTR--
+*Z 01913 RGTR--                                             % 01913 RGTR--
+*L 565      130301001 140401004  00701  00736               % 01913 RGTR--
+*A da 130301001 140401004 000006  00701  00736              % 01913 RGTR--
+*A ca 130301001 140401004 000006  00701  00736              % 01913 RGTR--
+*R 2 140401004 130301001 140401004  00701  00736            % 01913 RGTR--
+*G RGB 130301001 140401004  00701  00736                    % 01913 RGTR--
+*A VE 130301001 140401004 000006  00701  00736              % 01913 RGTR--
+*I FD 130301001 140401004        0002220  00701  00736      % 01913 RGTR--
+130301001 Mont St. Nicolas             00701                % 01913 RGTR--
+130108003 Groësteen             00702  00702                % 01913 RGTR--
+130104002 Nachtmanderscheid, P  00703  00703                % 01913 RGTR--
+130104001 Nachtmanderscheid, K  00704  00704                % 01913 RGTR--
+130105002 Putscheid, Gemengeba  00707  00707                % 01913 RGTR--
+130203001 Brandenbourg, Bakes   00719  00719                % 01913 RGTR--
+130203005 Brandenbourg, Verein  00719  00719                % 01913 RGTR--
+130203002 Brandenbourg, Kapell  00719  00719                % 01913 RGTR--
+130203003 Brandenbourg, Laangw  00720  00720                % 01913 RGTR--
+130201001 Bastendorf, Beim Ter  00723  00723                % 01913 RGTR--
+130201003 Bastendorf, Lann      00723  00723                % 01913 RGTR--
+130201002 Bastendorf, Ge'erwee  00724  00724                % 01913 RGTR--
+140205001 Selz, An der Lengt    00726  00726                % 01913 RGTR--
+140205002 Selz                  00726  00726                % 01913 RGTR--
+140202001 Bleesbréck            00727  00727                % 01913 RGTR--
+140203001 Gilsdorf, An der Klé  00728  00728                % 01913 RGTR--
+140203002 Gilsdorf, Schoul      00729  00729                % 01913 RGTR--
+140401007 Diekirch, rue Merten  00731  00731                % 01913 RGTR--
+140401011 Diekirch, Alexis Hec  00733  00733                % 01913 RGTR--
+140401006 Diekirch, Kluuster    00734  00734                % 01913 RGTR--
+140401004 Diekirch, Gare        00736                       % 01913 RGTR--
+*Z 01914 RGTR--                                             % 01914 RGTR--
+*L 565      130301001 140401004  00610  00644               % 01914 RGTR--
+*A da 130301001 140401004 000006  00610  00644              % 01914 RGTR--
+*A ca 130301001 140401004 000006  00610  00644              % 01914 RGTR--
+*R 2 140401004 130301001 140401004  00610  00644            % 01914 RGTR--
+*G RGB 130301001 140401004  00610  00644                    % 01914 RGTR--
+*A VE 130301001 140401004 000006  00610  00644              % 01914 RGTR--
+*I FD 130301001 140401004        0002191  00610  00644      % 01914 RGTR--
+130301001 Mont St. Nicolas             00610                % 01914 RGTR--
+130108003 Groësteen             00611  00611                % 01914 RGTR--
+130104002 Nachtmanderscheid, P  00612  00612                % 01914 RGTR--
+130104001 Nachtmanderscheid, K  00613  00613                % 01914 RGTR--
+130105002 Putscheid, Gemengeba  00615  00615                % 01914 RGTR--
+130203001 Brandenbourg, Bakes   00627  00627                % 01914 RGTR--
+130203005 Brandenbourg, Verein  00628  00628                % 01914 RGTR--
+130203002 Brandenbourg, Kapell  00628  00628                % 01914 RGTR--
+130203003 Brandenbourg, Laangw  00628  00628                % 01914 RGTR--
+130201001 Bastendorf, Beim Ter  00631  00631                % 01914 RGTR--
+130201003 Bastendorf, Lann      00632  00632                % 01914 RGTR--
+130201002 Bastendorf, Ge'erwee  00633  00633                % 01914 RGTR--
+140205001 Selz, An der Lengt    00634  00634                % 01914 RGTR--
+140205002 Selz                  00634  00634                % 01914 RGTR--
+140202001 Bleesbréck            00636  00636                % 01914 RGTR--
+140203001 Gilsdorf, An der Klé  00636  00636                % 01914 RGTR--
+140203002 Gilsdorf, Schoul      00637  00637                % 01914 RGTR--
+140401007 Diekirch, rue Merten  00639  00639                % 01914 RGTR--
+140401011 Diekirch, Alexis Hec  00641  00641                % 01914 RGTR--
+140401006 Diekirch, Kluuster    00642  00642                % 01914 RGTR--
+140401004 Diekirch, Gare        00644                       % 01914 RGTR--
+*Z 01915 RGTR--                                             % 01915 RGTR--
+*L 565      130301001 140701016  00801  00846               % 01915 RGTR--
+*A da 130301001 140701016 000006  00801  00846              % 01915 RGTR--
+*A ea 130301001 140701016 000006  00801  00846              % 01915 RGTR--
+*A NV 130301001 140701016 000006  00801  00846              % 01915 RGTR--
+*R 2 140701016 130301001 140701016  00801  00846            % 01915 RGTR--
+*G RGB 130301001 140701016  00801  00846                    % 01915 RGTR--
+*A VE 130301001 140701016 000006  00801  00846              % 01915 RGTR--
+*I FD 130301001 140701016        0002275  00801  00846      % 01915 RGTR--
+130301001 Mont St. Nicolas             00801                % 01915 RGTR--
+130108003 Groësteen             00802  00802                % 01915 RGTR--
+130104002 Nachtmanderscheid, P  00803  00803                % 01915 RGTR--
+130104001 Nachtmanderscheid, K  00804  00804                % 01915 RGTR--
+130105002 Putscheid, Gemengeba  00807  00807                % 01915 RGTR--
+130203001 Brandenbourg, Bakes   00819  00819                % 01915 RGTR--
+130203005 Brandenbourg, Verein  00819  00819                % 01915 RGTR--
+130203002 Brandenbourg, Kapell  00819  00819                % 01915 RGTR--
+130203003 Brandenbourg, Laangw  00820  00820                % 01915 RGTR--
+130201001 Bastendorf, Beim Ter  00823  00823                % 01915 RGTR--
+130201003 Bastendorf, Lann      00823  00823                % 01915 RGTR--
+130201002 Bastendorf, Ge'erwee  00824  00824                % 01915 RGTR--
+140205001 Selz, An der Lengt    00826  00826                % 01915 RGTR--
+140205002 Selz                  00826  00826                % 01915 RGTR--
+140202001 Bleesbréck            00827  00827                % 01915 RGTR--
+140203001 Gilsdorf, An der Klé  00828  00828                % 01915 RGTR--
+140203002 Gilsdorf, Schoul      00829  00829                % 01915 RGTR--
+140401007 Diekirch, rue Merten  00831  00831                % 01915 RGTR--
+140401011 Diekirch, Alexis Hec  00833  00833                % 01915 RGTR--
+140401006 Diekirch, Kluuster    00834  00834                % 01915 RGTR--
+140401004 Diekirch, Gare        00836  00836                % 01915 RGTR--
+140401008 Diekirch, Lorentzwue  00838  00838                % 01915 RGTR--
+140603002 Ingeldorf, Café de l  00840  00840                % 01915 RGTR--
+140602008 Erpeldange/Sûre, Um   00842  00842                % 01915 RGTR--
+140701024 Ettelbruck, Pensionn  00845  00845                % 01915 RGTR--
+140701016 Ettelbruck, Gare      00846                       % 01915 RGTR--
+*Z 01916 RGTR--                                             % 01916 RGTR--
+*L 565      130301001 140701016  01601  01646               % 01916 RGTR--
+*A da 130301001 140701016 000006  01601  01646              % 01916 RGTR--
+*A ea 130301001 140701016 000006  01601  01646              % 01916 RGTR--
+*A NV 130301001 140701016 000006  01601  01646              % 01916 RGTR--
+*R 2 140701016 130301001 140701016  01601  01646            % 01916 RGTR--
+*G RGB 130301001 140701016  01601  01646                    % 01916 RGTR--
+*A VE 130301001 140701016 000006  01601  01646              % 01916 RGTR--
+*I FD 130301001 140701016        0002712  01601  01646      % 01916 RGTR--
+130301001 Mont St. Nicolas             01601                % 01916 RGTR--
+130108003 Groësteen             01602  01602                % 01916 RGTR--
+130104002 Nachtmanderscheid, P  01603  01603                % 01916 RGTR--
+130104001 Nachtmanderscheid, K  01604  01604                % 01916 RGTR--
+130105002 Putscheid, Gemengeba  01607  01607                % 01916 RGTR--
+130203001 Brandenbourg, Bakes   01619  01619                % 01916 RGTR--
+130203005 Brandenbourg, Verein  01619  01619                % 01916 RGTR--
+130203002 Brandenbourg, Kapell  01619  01619                % 01916 RGTR--
+130203003 Brandenbourg, Laangw  01620  01620                % 01916 RGTR--
+130201001 Bastendorf, Beim Ter  01623  01623                % 01916 RGTR--
+130201003 Bastendorf, Lann      01623  01623                % 01916 RGTR--
+130201002 Bastendorf, Ge'erwee  01624  01624                % 01916 RGTR--
+140205001 Selz, An der Lengt    01626  01626                % 01916 RGTR--
+140205002 Selz                  01626  01626                % 01916 RGTR--
+140202001 Bleesbréck            01627  01627                % 01916 RGTR--
+140203001 Gilsdorf, An der Klé  01628  01628                % 01916 RGTR--
+140203002 Gilsdorf, Schoul      01629  01629                % 01916 RGTR--
+140401007 Diekirch, rue Merten  01631  01631                % 01916 RGTR--
+140401011 Diekirch, Alexis Hec  01633  01633                % 01916 RGTR--
+140401006 Diekirch, Kluuster    01634  01634                % 01916 RGTR--
+140401004 Diekirch, Gare        01636  01636                % 01916 RGTR--
+140401008 Diekirch, Lorentzwue  01638  01638                % 01916 RGTR--
+140603002 Ingeldorf, Café de l  01640  01640                % 01916 RGTR--
+140602008 Erpeldange/Sûre, Um   01642  01642                % 01916 RGTR--
+140701024 Ettelbruck, Pensionn  01645  01645                % 01916 RGTR--
+140701016 Ettelbruck, Gare      01646                       % 01916 RGTR--
+*Z 01917 RGTR--                                             % 01917 RGTR--
+*L 565      130301001 140701016  01801  01846               % 01917 RGTR--
+*A da 130301001 140701016 000006  01801  01846              % 01917 RGTR--
+*A ea 130301001 140701016 000006  01801  01846              % 01917 RGTR--
+*R 2 140701016 130301001 140701016  01801  01846            % 01917 RGTR--
+*G RGB 130301001 140701016  01801  01846                    % 01917 RGTR--
+*A VE 130301001 140701016 000006  01801  01846              % 01917 RGTR--
+*I FD 130301001 140701016        0002615  01801  01846      % 01917 RGTR--
+130301001 Mont St. Nicolas             01801                % 01917 RGTR--
+130108003 Groësteen             01802  01802                % 01917 RGTR--
+130104002 Nachtmanderscheid, P  01803  01803                % 01917 RGTR--
+130104001 Nachtmanderscheid, K  01804  01804                % 01917 RGTR--
+130105002 Putscheid, Gemengeba  01807  01807                % 01917 RGTR--
+130203001 Brandenbourg, Bakes   01819  01819                % 01917 RGTR--
+130203005 Brandenbourg, Verein  01819  01819                % 01917 RGTR--
+130203002 Brandenbourg, Kapell  01819  01819                % 01917 RGTR--
+130203003 Brandenbourg, Laangw  01820  01820                % 01917 RGTR--
+130201001 Bastendorf, Beim Ter  01823  01823                % 01917 RGTR--
+130201003 Bastendorf, Lann      01823  01823                % 01917 RGTR--
+130201002 Bastendorf, Ge'erwee  01824  01824                % 01917 RGTR--
+140205001 Selz, An der Lengt    01826  01826                % 01917 RGTR--
+140205002 Selz                  01826  01826                % 01917 RGTR--
+140202001 Bleesbréck            01827  01827                % 01917 RGTR--
+140203001 Gilsdorf, An der Klé  01828  01828                % 01917 RGTR--
+140203002 Gilsdorf, Schoul      01829  01829                % 01917 RGTR--
+140401007 Diekirch, rue Merten  01831  01831                % 01917 RGTR--
+140401011 Diekirch, Alexis Hec  01833  01833                % 01917 RGTR--
+140401006 Diekirch, Kluuster    01834  01834                % 01917 RGTR--
+140401004 Diekirch, Gare        01836  01836                % 01917 RGTR--
+140401008 Diekirch, Lorentzwue  01838  01838                % 01917 RGTR--
+140603002 Ingeldorf, Café de l  01840  01840                % 01917 RGTR--
+140602008 Erpeldange/Sûre, Um   01842  01842                % 01917 RGTR--
+140701024 Ettelbruck, Pensionn  01845  01845                % 01917 RGTR--
+140701016 Ettelbruck, Gare      01846                       % 01917 RGTR--
+*Z 01918 RGTR--                                             % 01918 RGTR--
+*L 565      130301001 140701016  01001  01043               % 01918 RGTR--
+*A da 130301001 140701016 000006  01001  01043              % 01918 RGTR--
+*A ea 130301001 140701016 000006  01001  01043              % 01918 RGTR--
+*R 2 140701016 130301001 140701016  01001  01043            % 01918 RGTR--
+*G RGB 130301001 140701016  01001  01043                    % 01918 RGTR--
+*A VE 130301001 140701016 000006  01001  01043              % 01918 RGTR--
+*I FD 130301001 140701016        0002713  01001  01043      % 01918 RGTR--
+130301001 Mont St. Nicolas             01001                % 01918 RGTR--
+130108003 Groësteen             01002  01002                % 01918 RGTR--
+130104002 Nachtmanderscheid, P  01003  01003                % 01918 RGTR--
+130104001 Nachtmanderscheid, K  01004  01004                % 01918 RGTR--
+130105002 Putscheid, Gemengeba  01006  01006                % 01918 RGTR--
+130203001 Brandenbourg, Bakes   01018  01018                % 01918 RGTR--
+130203005 Brandenbourg, Verein  01019  01019                % 01918 RGTR--
+130203002 Brandenbourg, Kapell  01019  01019                % 01918 RGTR--
+130203003 Brandenbourg, Laangw  01019  01019                % 01918 RGTR--
+130201001 Bastendorf, Beim Ter  01022  01022                % 01918 RGTR--
+130201003 Bastendorf, Lann      01023  01023                % 01918 RGTR--
+130201002 Bastendorf, Ge'erwee  01024  01024                % 01918 RGTR--
+140205001 Selz, An der Lengt    01025  01025                % 01918 RGTR--
+140205002 Selz                  01025  01025                % 01918 RGTR--
+140202001 Bleesbréck            01027  01027                % 01918 RGTR--
+140203001 Gilsdorf, An der Klé  01027  01027                % 01918 RGTR--
+140203002 Gilsdorf, Schoul      01028  01028                % 01918 RGTR--
+140401007 Diekirch, rue Merten  01030  01030                % 01918 RGTR--
+140401011 Diekirch, Alexis Hec  01032  01032                % 01918 RGTR--
+140401006 Diekirch, Kluuster    01033  01033                % 01918 RGTR--
+140401004 Diekirch, Gare        01035  01035                % 01918 RGTR--
+140401008 Diekirch, Lorentzwue  01036  01036                % 01918 RGTR--
+140603002 Ingeldorf, Café de l  01038  01038                % 01918 RGTR--
+140602008 Erpeldange/Sûre, Um   01039  01039                % 01918 RGTR--
+140701024 Ettelbruck, Pensionn  01042  01042                % 01918 RGTR--
+140701016 Ettelbruck, Gare      01043                       % 01918 RGTR--
+*Z 01919 RGTR--                                             % 01919 RGTR--
+*L 565      130301001 140701016  01201  01243               % 01919 RGTR--
+*A da 130301001 140701016 000006  01201  01243              % 01919 RGTR--
+*A ea 130301001 140701016 000006  01201  01243              % 01919 RGTR--
+*A NV 130301001 140701016 000006  01201  01243              % 01919 RGTR--
+*R 2 140701016 130301001 140701016  01201  01243            % 01919 RGTR--
+*G RGB 130301001 140701016  01201  01243                    % 01919 RGTR--
+*A VE 130301001 140701016 000006  01201  01243              % 01919 RGTR--
+*I FD 130301001 140701016        0002714  01201  01243      % 01919 RGTR--
+130301001 Mont St. Nicolas             01201                % 01919 RGTR--
+130108003 Groësteen             01202  01202                % 01919 RGTR--
+130104002 Nachtmanderscheid, P  01203  01203                % 01919 RGTR--
+130104001 Nachtmanderscheid, K  01204  01204                % 01919 RGTR--
+130105002 Putscheid, Gemengeba  01206  01206                % 01919 RGTR--
+130203001 Brandenbourg, Bakes   01218  01218                % 01919 RGTR--
+130203005 Brandenbourg, Verein  01219  01219                % 01919 RGTR--
+130203002 Brandenbourg, Kapell  01219  01219                % 01919 RGTR--
+130203003 Brandenbourg, Laangw  01219  01219                % 01919 RGTR--
+130201001 Bastendorf, Beim Ter  01222  01222                % 01919 RGTR--
+130201003 Bastendorf, Lann      01223  01223                % 01919 RGTR--
+130201002 Bastendorf, Ge'erwee  01224  01224                % 01919 RGTR--
+140205001 Selz, An der Lengt    01225  01225                % 01919 RGTR--
+140205002 Selz                  01225  01225                % 01919 RGTR--
+140202001 Bleesbréck            01227  01227                % 01919 RGTR--
+140203001 Gilsdorf, An der Klé  01227  01227                % 01919 RGTR--
+140203002 Gilsdorf, Schoul      01228  01228                % 01919 RGTR--
+140401007 Diekirch, rue Merten  01230  01230                % 01919 RGTR--
+140401011 Diekirch, Alexis Hec  01232  01232                % 01919 RGTR--
+140401006 Diekirch, Kluuster    01233  01233                % 01919 RGTR--
+140401004 Diekirch, Gare        01235  01235                % 01919 RGTR--
+140401008 Diekirch, Lorentzwue  01236  01236                % 01919 RGTR--
+140603002 Ingeldorf, Café de l  01238  01238                % 01919 RGTR--
+140602008 Erpeldange/Sûre, Um   01239  01239                % 01919 RGTR--
+140701024 Ettelbruck, Pensionn  01242  01242                % 01919 RGTR--
+140701016 Ettelbruck, Gare      01243                       % 01919 RGTR--
+*Z 01920 RGTR--                                             % 01920 RGTR--
+*L 565      130301001 140701016  01401  01443               % 01920 RGTR--
+*A da 130301001 140701016 000006  01401  01443              % 01920 RGTR--
+*A ea 130301001 140701016 000006  01401  01443              % 01920 RGTR--
+*A NV 130301001 140701016 000006  01401  01443              % 01920 RGTR--
+*R 2 140701016 130301001 140701016  01401  01443            % 01920 RGTR--
+*G RGB 130301001 140701016  01401  01443                    % 01920 RGTR--
+*A VE 130301001 140701016 000006  01401  01443              % 01920 RGTR--
+*I FD 130301001 140701016        0002537  01401  01443      % 01920 RGTR--
+130301001 Mont St. Nicolas             01401                % 01920 RGTR--
+130108003 Groësteen             01402  01402                % 01920 RGTR--
+130104002 Nachtmanderscheid, P  01403  01403                % 01920 RGTR--
+130104001 Nachtmanderscheid, K  01404  01404                % 01920 RGTR--
+130105002 Putscheid, Gemengeba  01406  01406                % 01920 RGTR--
+130203001 Brandenbourg, Bakes   01418  01418                % 01920 RGTR--
+130203005 Brandenbourg, Verein  01419  01419                % 01920 RGTR--
+130203002 Brandenbourg, Kapell  01419  01419                % 01920 RGTR--
+130203003 Brandenbourg, Laangw  01419  01419                % 01920 RGTR--
+130201001 Bastendorf, Beim Ter  01422  01422                % 01920 RGTR--
+130201003 Bastendorf, Lann      01423  01423                % 01920 RGTR--
+130201002 Bastendorf, Ge'erwee  01424  01424                % 01920 RGTR--
+140205001 Selz, An der Lengt    01425  01425                % 01920 RGTR--
+140205002 Selz                  01425  01425                % 01920 RGTR--
+140202001 Bleesbréck            01427  01427                % 01920 RGTR--
+140203001 Gilsdorf, An der Klé  01427  01427                % 01920 RGTR--
+140203002 Gilsdorf, Schoul      01428  01428                % 01920 RGTR--
+140401007 Diekirch, rue Merten  01430  01430                % 01920 RGTR--
+140401011 Diekirch, Alexis Hec  01432  01432                % 01920 RGTR--
+140401006 Diekirch, Kluuster    01433  01433                % 01920 RGTR--
+140401004 Diekirch, Gare        01435  01435                % 01920 RGTR--
+140401008 Diekirch, Lorentzwue  01436  01436                % 01920 RGTR--
+140603002 Ingeldorf, Café de l  01438  01438                % 01920 RGTR--
+140602008 Erpeldange/Sûre, Um   01439  01439                % 01920 RGTR--
+140701024 Ettelbruck, Pensionn  01442  01442                % 01920 RGTR--
+140701016 Ettelbruck, Gare      01443                       % 01920 RGTR--
+*Z 01921 RGTR--                                             % 01921 RGTR--
+*L 565      130301001 140701016  01301  01343               % 01921 RGTR--
+*A da 130301001 140701016 000030  01301  01343              % 01921 RGTR--
+*A ea 130301001 140701016 000030  01301  01343              % 01921 RGTR--
+*R 2 140701016 130301001 140701016  01301  01343            % 01921 RGTR--
+*G RGB 130301001 140701016  01301  01343                    % 01921 RGTR--
+*A VE 130301001 140701016 000030  01301  01343              % 01921 RGTR--
+*I FD 130301001 140701016        0002538  01301  01343      % 01921 RGTR--
+130301001 Mont St. Nicolas             01301                % 01921 RGTR--
+130108003 Groësteen             01302  01302                % 01921 RGTR--
+130104002 Nachtmanderscheid, P  01303  01303                % 01921 RGTR--
+130104001 Nachtmanderscheid, K  01304  01304                % 01921 RGTR--
+130105002 Putscheid, Gemengeba  01306  01306                % 01921 RGTR--
+130203001 Brandenbourg, Bakes   01318  01318                % 01921 RGTR--
+130203005 Brandenbourg, Verein  01319  01319                % 01921 RGTR--
+130203002 Brandenbourg, Kapell  01319  01319                % 01921 RGTR--
+130203003 Brandenbourg, Laangw  01319  01319                % 01921 RGTR--
+130201001 Bastendorf, Beim Ter  01322  01322                % 01921 RGTR--
+130201003 Bastendorf, Lann      01323  01323                % 01921 RGTR--
+130201002 Bastendorf, Ge'erwee  01324  01324                % 01921 RGTR--
+140205001 Selz, An der Lengt    01325  01325                % 01921 RGTR--
+140205002 Selz                  01325  01325                % 01921 RGTR--
+140202001 Bleesbréck            01327  01327                % 01921 RGTR--
+140203001 Gilsdorf, An der Klé  01327  01327                % 01921 RGTR--
+140203002 Gilsdorf, Schoul      01328  01328                % 01921 RGTR--
+140401007 Diekirch, rue Merten  01330  01330                % 01921 RGTR--
+140401011 Diekirch, Alexis Hec  01332  01332                % 01921 RGTR--
+140401006 Diekirch, Kluuster    01333  01333                % 01921 RGTR--
+140401004 Diekirch, Gare        01335  01335                % 01921 RGTR--
+140401008 Diekirch, Lorentzwue  01336  01336                % 01921 RGTR--
+140603002 Ingeldorf, Café de l  01338  01338                % 01921 RGTR--
+140602008 Erpeldange/Sûre, Um   01339  01339                % 01921 RGTR--
+140701024 Ettelbruck, Pensionn  01342  01342                % 01921 RGTR--
+140701016 Ettelbruck, Gare      01343                       % 01921 RGTR--

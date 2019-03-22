@@ -1,0 +1,153 @@
+*F 03 2
+*Z 09461 RGTR--                                             % 09461 RGTR--
+*L 492      180401003 170501016  01403  01502               % 09461 RGTR--
+*A bi 180401003 170501016 000030  01403  01502              % 09461 RGTR--
+*A FR 180401003 170501016 000030  01403  01502              % 09461 RGTR--
+*A cn 180401003 170501016 000030  01403  01502              % 09461 RGTR--
+*A us 180401003 170501016 000030  01403  01502              % 09461 RGTR--
+*A ad 180401003 170501016 000030  01403  01502              % 09461 RGTR--
+*R 1 170501016 180401003 170501016  01403  01502            % 09461 RGTR--
+*G RGB 180401003 170501016  01403  01502                    % 09461 RGTR--
+*A VE 180401003 170501016 000030  01403  01502              % 09461 RGTR--
+*I FD 180401003 170501016        0002413  01403  01502      % 09461 RGTR--
+180401003 Grevenmacher, Gare r         01403                % 09461 RGTR--
+180401010 Grevenmacher, Schoul  01405  01405                % 09461 RGTR--
+180604001 Munschecker           01408  01408                % 09461 RGTR--
+180603001 Manternach, Gare      01412  01412                % 09461 RGTR--
+180602001 Lellig                01416  01416                % 09461 RGTR--
+170607002 Hierber Millen        01420  01420                % 09461 RGTR--
+170604001 Herborn, Kiercheplaz  01421  01421                % 09461 RGTR--
+170606001 Mompach, Ieweschtstr  01426  01426                % 09461 RGTR--
+170603001 Givenich, Am Duerf    01427  01427                % 09461 RGTR--
+170602001 Boursdorf, Am Duerf   01431  01431                % 09461 RGTR--
+170607005 Mompach, Buerschdrëf  01432  01432                % 09461 RGTR--
+170607003 Pafebierg             01435  01435                % 09461 RGTR--
+170701001 Dickweiler, Duerfpla  01439  01439                % 09461 RGTR--
+170702002 Girst 2               01442  01442                % 09461 RGTR--
+170702001 Girst                 01443  01443                % 09461 RGTR--
+170703002 Hinkel                01447  01447                % 09461 RGTR--
+170703003 Hinkel, Schiltzhaus   01448  01448                % 09461 RGTR--
+170704002 Rosport, Centr.Elect  01448  01448                % 09461 RGTR--
+170704003 Rosport, Lokal        01450  01450                % 09461 RGTR--
+170704001 Rosport, Camping      01451  01451                % 09461 RGTR--
+170704005 Rosport, Source       01452  01452                % 09461 RGTR--
+170705002 Steinheim, Maeleck    01453  01453                % 09461 RGTR--
+170705003 Steinheim, Spillscho  01454  01454                % 09461 RGTR--
+170501015 Echternach, Ste Croi  01459  01459                % 09461 RGTR--
+170501011 Echternach, Morgenst  01500  01500                % 09461 RGTR--
+170501013 Echternach, Remparts  01501  01501                % 09461 RGTR--
+170501016 Echternach, Gare Cen  01502                       % 09461 RGTR--
+*Z 09462 RGTR--                                             % 09462 RGTR--
+*L 492      180401003 170501016  01633  01732               % 09462 RGTR--
+*A bi 180401003 170501016 000030  01633  01732              % 09462 RGTR--
+*A FR 180401003 170501016 000030  01633  01732              % 09462 RGTR--
+*A cn 180401003 170501016 000030  01633  01732              % 09462 RGTR--
+*A ad 180401003 170501016 000030  01633  01732              % 09462 RGTR--
+*R 1 170501016 180401003 170501016  01633  01732            % 09462 RGTR--
+*G RGB 180401003 170501016  01633  01732                    % 09462 RGTR--
+*A VE 180401003 170501016 000030  01633  01732              % 09462 RGTR--
+*I FD 180401003 170501016        0002272  01633  01732      % 09462 RGTR--
+180401003 Grevenmacher, Gare r         01633                % 09462 RGTR--
+180401010 Grevenmacher, Schoul  01635  01635                % 09462 RGTR--
+180604001 Munschecker           01638  01638                % 09462 RGTR--
+180603001 Manternach, Gare      01642  01642                % 09462 RGTR--
+180602001 Lellig                01646  01646                % 09462 RGTR--
+170607002 Hierber Millen        01650  01650                % 09462 RGTR--
+170604001 Herborn, Kiercheplaz  01651  01651                % 09462 RGTR--
+170606001 Mompach, Ieweschtstr  01656  01656                % 09462 RGTR--
+170603001 Givenich, Am Duerf    01657  01657                % 09462 RGTR--
+170602001 Boursdorf, Am Duerf   01701  01701                % 09462 RGTR--
+170607005 Mompach, Buerschdrëf  01702  01702                % 09462 RGTR--
+170607003 Pafebierg             01705  01705                % 09462 RGTR--
+170701001 Dickweiler, Duerfpla  01709  01709                % 09462 RGTR--
+170702002 Girst 2               01712  01712                % 09462 RGTR--
+170702001 Girst                 01713  01713                % 09462 RGTR--
+170703002 Hinkel                01717  01717                % 09462 RGTR--
+170703003 Hinkel, Schiltzhaus   01718  01718                % 09462 RGTR--
+170704002 Rosport, Centr.Elect  01718  01718                % 09462 RGTR--
+170704003 Rosport, Lokal        01720  01720                % 09462 RGTR--
+170704001 Rosport, Camping      01721  01721                % 09462 RGTR--
+170704005 Rosport, Source       01722  01722                % 09462 RGTR--
+170705002 Steinheim, Maeleck    01723  01723                % 09462 RGTR--
+170705003 Steinheim, Spillscho  01724  01724                % 09462 RGTR--
+170501015 Echternach, Ste Croi  01729  01729                % 09462 RGTR--
+170501011 Echternach, Morgenst  01730  01730                % 09462 RGTR--
+170501013 Echternach, Remparts  01731  01731                % 09462 RGTR--
+170501016 Echternach, Gare Cen  01732                       % 09462 RGTR--
+*Z 09463 RGTR--                                             % 09463 RGTR--
+*L 492      170501016 180401003  00615  00719               % 09463 RGTR--
+*A bi 170501016 180401003 000033  00615  00719              % 09463 RGTR--
+*A FR 170501016 180401003 000033  00615  00719              % 09463 RGTR--
+*A HR 170501016 180401003 000033  00615  00719              % 09463 RGTR--
+*A al 170501016 180401003 000033  00615  00719              % 09463 RGTR--
+*A ad 170501016 180401003 000033  00615  00719              % 09463 RGTR--
+*R 2 180401003 170501016 180401003  00615  00719            % 09463 RGTR--
+*G RGB 170501016 180401003  00615  00719                    % 09463 RGTR--
+*A VE 170501016 180401003 000033  00615  00719              % 09463 RGTR--
+*I FD 170501016 180401003        0002408  00615  00719      % 09463 RGTR--
+170501016 Echternach, Gare Cen         00615                % 09463 RGTR--
+170501013 Echternach, Remparts  00615  00615                % 09463 RGTR--
+170501011 Echternach, Morgenst  00616  00616                % 09463 RGTR--
+170501015 Echternach, Ste Croi  00617  00617                % 09463 RGTR--
+170705001 Steinheim, An der Ue  00621  00621                % 09463 RGTR--
+170705002 Steinheim, Maeleck    00622  00622                % 09463 RGTR--
+170704005 Rosport, Source       00624  00624                % 09463 RGTR--
+170704001 Rosport, Camping      00625  00625                % 09463 RGTR--
+170704003 Rosport, Lokal        00626  00626                % 09463 RGTR--
+170704002 Rosport, Centr.Elect  00627  00627                % 09463 RGTR--
+170703003 Hinkel, Schiltzhaus   00628  00628                % 09463 RGTR--
+170703002 Hinkel                00629  00629                % 09463 RGTR--
+170702001 Girst                 00632  00632                % 09463 RGTR--
+170702002 Girst 2               00633  00633                % 09463 RGTR--
+170701001 Dickweiler, Duerfpla  00637  00637                % 09463 RGTR--
+170607003 Pafebierg             00641  00641                % 09463 RGTR--
+170607004 Mompach, Kléngelbaac  00643  00643                % 09463 RGTR--
+170606001 Mompach, Ieweschtstr  00643  00643                % 09463 RGTR--
+170603001 Givenich, Am Duerf    00645  00645                % 09463 RGTR--
+170602001 Boursdorf, Am Duerf   00650  00650                % 09463 RGTR--
+170607005 Mompach, Buerschdrëf  00652  00652                % 09463 RGTR--
+170604001 Herborn, Kiercheplaz  00656  00656                % 09463 RGTR--
+170607002 Hierber Millen        00657  00657                % 09463 RGTR--
+180602001 Lellig                00702  00702                % 09463 RGTR--
+180603001 Manternach, Gare      00705  00709                % 09463 RGTR--
+180604001 Munschecker           00712  00712                % 09463 RGTR--
+180401003 Grevenmacher, Gare r  00719                       % 09463 RGTR--
+*Z 09464 RGTR--                                             % 09464 RGTR--
+*L 492      170501016 180401003  00615  00719               % 09464 RGTR--
+*A FR 170501016 180401003 000030  00615  00719              % 09464 RGTR--
+*A HR 170501016 180401003 000030  00615  00719              % 09464 RGTR--
+*A nq 170501016 180401003 000030  00615  00719              % 09464 RGTR--
+*A ut 170501016 180401003 000030  00615  00719              % 09464 RGTR--
+*A ad 170501016 180401003 000030  00615  00719              % 09464 RGTR--
+*R 2 180401003 170501016 180401003  00615  00719            % 09464 RGTR--
+*G RGB 170501016 180401003  00615  00719                    % 09464 RGTR--
+*A VE 170501016 180401003 000030  00615  00719              % 09464 RGTR--
+*I FD 170501016 180401003        0003744  00615  00719      % 09464 RGTR--
+170501016 Echternach, Gare Cen         00615                % 09464 RGTR--
+170501013 Echternach, Remparts  00615  00615                % 09464 RGTR--
+170501011 Echternach, Morgenst  00616  00616                % 09464 RGTR--
+170501015 Echternach, Ste Croi  00617  00617                % 09464 RGTR--
+170705001 Steinheim, An der Ue  00621  00621                % 09464 RGTR--
+170705002 Steinheim, Maeleck    00622  00622                % 09464 RGTR--
+170704005 Rosport, Source       00624  00624                % 09464 RGTR--
+170704001 Rosport, Camping      00625  00625                % 09464 RGTR--
+170704003 Rosport, Lokal        00626  00626                % 09464 RGTR--
+170704002 Rosport, Centr.Elect  00627  00627                % 09464 RGTR--
+170703003 Hinkel, Schiltzhaus   00628  00628                % 09464 RGTR--
+170703002 Hinkel                00629  00629                % 09464 RGTR--
+170702001 Girst                 00632  00632                % 09464 RGTR--
+170702002 Girst 2               00633  00633                % 09464 RGTR--
+170701001 Dickweiler, Duerfpla  00637  00637                % 09464 RGTR--
+170607003 Pafebierg             00641  00641                % 09464 RGTR--
+170607004 Mompach, Kléngelbaac  00643  00643                % 09464 RGTR--
+170606001 Mompach, Ieweschtstr  00643  00643                % 09464 RGTR--
+170603001 Givenich, Am Duerf    00645  00645                % 09464 RGTR--
+170602001 Boursdorf, Am Duerf   00650  00650                % 09464 RGTR--
+170607005 Mompach, Buerschdrëf  00652  00652                % 09464 RGTR--
+170604001 Herborn, Kiercheplaz  00656  00656                % 09464 RGTR--
+170607002 Hierber Millen        00657  00657                % 09464 RGTR--
+180602001 Lellig                00702  00702                % 09464 RGTR--
+180603001 Manternach, Gare      00705  00709                % 09464 RGTR--
+180604001 Munschecker           00712  00712                % 09464 RGTR--
+180401006 Grevenmacher, Schoul  00718  00718                % 09464 RGTR--
+180401003 Grevenmacher, Gare r  00719                       % 09464 RGTR--

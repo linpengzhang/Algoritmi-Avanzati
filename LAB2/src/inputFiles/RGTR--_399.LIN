@@ -1,0 +1,1441 @@
+*F 03 2
+*Z 08879 RGTR--                                             % 08879 RGTR--
+*L 399      220903008 400000080  00757  00826               % 08879 RGTR--
+*A rw 220903008 400000080 000006  00757  00826              % 08879 RGTR--
+*A ry 220903008 400000080 000006  00757  00826              % 08879 RGTR--
+*R 1 400000080 220903008 400000080  00757  00826            % 08879 RGTR--
+*G RGB 220903008 400000080  00757  00826                    % 08879 RGTR--
+*A VE 220903008 400000080 000006  00757  00826              % 08879 RGTR--
+*I FD 220903008 400000080        0002821  00757  00826      % 08879 RGTR--
+220903008 Rodange, Gare                00757                % 08879 RGTR--
+220903009 Rodange, Gendarmerie  00758  00758                % 08879 RGTR--
+220903020 Rodange, Schlackenmi  00759  00759                % 08879 RGTR--
+220903004 Rodange, Fonderie     00801  00801                % 08879 RGTR--
+220903006 Rodange, Frontière    00803  00803                % 08879 RGTR--
+400000028 Longlaville, Rue des  00804  00804                % 08879 RGTR--
+400000025 Longlaville, Elsa Tr  00805  00805                % 08879 RGTR--
+400000027 Longlaville, Maison   00806  00806                % 08879 RGTR--
+400000026 Longlaville, Mairie   00807  00807                % 08879 RGTR--
+400000143 Longlaville, Marcell  00807  00807                % 08879 RGTR--
+400000034 Longwy, Lebrun Besse  00810  00810                % 08879 RGTR--
+400000146 Longwy, Kinépolis Ca  00810  00810                % 08879 RGTR--
+400000147 Longwy, Saintignon P  00811  00811                % 08879 RGTR--
+400000031 Longwy, Espace Saint  00812  00812                % 08879 RGTR--
+400000038 Longwy, Récollets     00813  00813                % 08879 RGTR--
+400000041 Longwy, St. Louis     00815  00815                % 08879 RGTR--
+400000021 Herserange, St. Eloi  00816  00816                % 08879 RGTR--
+400000019 Herserange, Mairie    00817  00817                % 08879 RGTR--
+400000017 Herserange, La Folie  00818  00818                % 08879 RGTR--
+400000148 Herserange, Paris     00819  00819                % 08879 RGTR--
+400000149 Herserange, Godfroy   00820  00820                % 08879 RGTR--
+400000016 Herserange, Concorde  00821  00821                % 08879 RGTR--
+400000020 Herserange, Quatre V  00822  00822                % 08879 RGTR--
+400000078 Saulnes, Allée des R  00822  00822                % 08879 RGTR--
+400000081 Saulnes, Les Pierret  00823  00823                % 08879 RGTR--
+400000082 Saulnes, Salvador Al  00824  00824                % 08879 RGTR--
+400000079 Saulnes, Auguste Ras  00825  00825                % 08879 RGTR--
+400000080 Saulnes, Place        00826                       % 08879 RGTR--
+*Z 08880 RGTR--                                             % 08880 RGTR--
+*L 399      220903008 400000080  00902  00931               % 08880 RGTR--
+*A as 220903008 400000080 000006  00902  00931              % 08880 RGTR--
+*A ry 220903008 400000080 000006  00902  00931              % 08880 RGTR--
+*R 1 400000080 220903008 400000080  00902  00931            % 08880 RGTR--
+*G RGB 220903008 400000080  00902  00931                    % 08880 RGTR--
+*A VE 220903008 400000080 000006  00902  00931              % 08880 RGTR--
+*I FD 220903008 400000080        0002462  00902  00931      % 08880 RGTR--
+220903008 Rodange, Gare                00902                % 08880 RGTR--
+220903009 Rodange, Gendarmerie  00903  00903                % 08880 RGTR--
+220903020 Rodange, Schlackenmi  00904  00904                % 08880 RGTR--
+220903004 Rodange, Fonderie     00906  00906                % 08880 RGTR--
+220903006 Rodange, Frontière    00908  00908                % 08880 RGTR--
+400000028 Longlaville, Rue des  00909  00909                % 08880 RGTR--
+400000025 Longlaville, Elsa Tr  00910  00910                % 08880 RGTR--
+400000027 Longlaville, Maison   00911  00911                % 08880 RGTR--
+400000026 Longlaville, Mairie   00912  00912                % 08880 RGTR--
+400000143 Longlaville, Marcell  00912  00912                % 08880 RGTR--
+400000034 Longwy, Lebrun Besse  00915  00915                % 08880 RGTR--
+400000146 Longwy, Kinépolis Ca  00915  00915                % 08880 RGTR--
+400000147 Longwy, Saintignon P  00916  00916                % 08880 RGTR--
+400000031 Longwy, Espace Saint  00917  00917                % 08880 RGTR--
+400000038 Longwy, Récollets     00918  00918                % 08880 RGTR--
+400000041 Longwy, St. Louis     00920  00920                % 08880 RGTR--
+400000021 Herserange, St. Eloi  00921  00921                % 08880 RGTR--
+400000019 Herserange, Mairie    00922  00922                % 08880 RGTR--
+400000017 Herserange, La Folie  00923  00923                % 08880 RGTR--
+400000148 Herserange, Paris     00924  00924                % 08880 RGTR--
+400000149 Herserange, Godfroy   00925  00925                % 08880 RGTR--
+400000016 Herserange, Concorde  00926  00926                % 08880 RGTR--
+400000020 Herserange, Quatre V  00927  00927                % 08880 RGTR--
+400000078 Saulnes, Allée des R  00927  00927                % 08880 RGTR--
+400000081 Saulnes, Les Pierret  00928  00928                % 08880 RGTR--
+400000082 Saulnes, Salvador Al  00929  00929                % 08880 RGTR--
+400000079 Saulnes, Auguste Ras  00930  00930                % 08880 RGTR--
+400000080 Saulnes, Place        00931                       % 08880 RGTR--
+*Z 08881 RGTR--                                             % 08881 RGTR--
+*L 399      220903008 400000080  01602  01631               % 08881 RGTR--
+*A rw 220903008 400000080 000006  01602  01631              % 08881 RGTR--
+*A ry 220903008 400000080 000006  01602  01631              % 08881 RGTR--
+*R 1 400000080 220903008 400000080  01602  01631            % 08881 RGTR--
+*G RGB 220903008 400000080  01602  01631                    % 08881 RGTR--
+*A VE 220903008 400000080 000006  01602  01631              % 08881 RGTR--
+*I FD 220903008 400000080        0002729  01602  01631      % 08881 RGTR--
+220903008 Rodange, Gare                01602                % 08881 RGTR--
+220903009 Rodange, Gendarmerie  01603  01603                % 08881 RGTR--
+220903020 Rodange, Schlackenmi  01604  01604                % 08881 RGTR--
+220903004 Rodange, Fonderie     01606  01606                % 08881 RGTR--
+220903006 Rodange, Frontière    01608  01608                % 08881 RGTR--
+400000028 Longlaville, Rue des  01609  01609                % 08881 RGTR--
+400000025 Longlaville, Elsa Tr  01610  01610                % 08881 RGTR--
+400000027 Longlaville, Maison   01611  01611                % 08881 RGTR--
+400000026 Longlaville, Mairie   01612  01612                % 08881 RGTR--
+400000143 Longlaville, Marcell  01612  01612                % 08881 RGTR--
+400000034 Longwy, Lebrun Besse  01615  01615                % 08881 RGTR--
+400000146 Longwy, Kinépolis Ca  01615  01615                % 08881 RGTR--
+400000147 Longwy, Saintignon P  01616  01616                % 08881 RGTR--
+400000031 Longwy, Espace Saint  01617  01617                % 08881 RGTR--
+400000038 Longwy, Récollets     01618  01618                % 08881 RGTR--
+400000041 Longwy, St. Louis     01620  01620                % 08881 RGTR--
+400000021 Herserange, St. Eloi  01621  01621                % 08881 RGTR--
+400000019 Herserange, Mairie    01622  01622                % 08881 RGTR--
+400000017 Herserange, La Folie  01623  01623                % 08881 RGTR--
+400000148 Herserange, Paris     01624  01624                % 08881 RGTR--
+400000149 Herserange, Godfroy   01625  01625                % 08881 RGTR--
+400000016 Herserange, Concorde  01626  01626                % 08881 RGTR--
+400000020 Herserange, Quatre V  01627  01627                % 08881 RGTR--
+400000078 Saulnes, Allée des R  01627  01627                % 08881 RGTR--
+400000081 Saulnes, Les Pierret  01628  01628                % 08881 RGTR--
+400000082 Saulnes, Salvador Al  01629  01629                % 08881 RGTR--
+400000079 Saulnes, Auguste Ras  01630  01630                % 08881 RGTR--
+400000080 Saulnes, Place        01631                       % 08881 RGTR--
+*Z 08882 RGTR--                                             % 08882 RGTR--
+*L 399      220903008 400000080  01702  01731               % 08882 RGTR--
+*A as 220903008 400000080 000006  01702  01731              % 08882 RGTR--
+*A ry 220903008 400000080 000006  01702  01731              % 08882 RGTR--
+*R 1 400000080 220903008 400000080  01702  01731            % 08882 RGTR--
+*G RGB 220903008 400000080  01702  01731                    % 08882 RGTR--
+*A VE 220903008 400000080 000006  01702  01731              % 08882 RGTR--
+*I FD 220903008 400000080        0002880  01702  01731      % 08882 RGTR--
+220903008 Rodange, Gare                01702                % 08882 RGTR--
+220903009 Rodange, Gendarmerie  01703  01703                % 08882 RGTR--
+220903020 Rodange, Schlackenmi  01704  01704                % 08882 RGTR--
+220903004 Rodange, Fonderie     01706  01706                % 08882 RGTR--
+220903006 Rodange, Frontière    01708  01708                % 08882 RGTR--
+400000028 Longlaville, Rue des  01709  01709                % 08882 RGTR--
+400000025 Longlaville, Elsa Tr  01710  01710                % 08882 RGTR--
+400000027 Longlaville, Maison   01711  01711                % 08882 RGTR--
+400000026 Longlaville, Mairie   01712  01712                % 08882 RGTR--
+400000143 Longlaville, Marcell  01712  01712                % 08882 RGTR--
+400000034 Longwy, Lebrun Besse  01715  01715                % 08882 RGTR--
+400000146 Longwy, Kinépolis Ca  01715  01715                % 08882 RGTR--
+400000147 Longwy, Saintignon P  01716  01716                % 08882 RGTR--
+400000031 Longwy, Espace Saint  01717  01717                % 08882 RGTR--
+400000038 Longwy, Récollets     01718  01718                % 08882 RGTR--
+400000041 Longwy, St. Louis     01720  01720                % 08882 RGTR--
+400000021 Herserange, St. Eloi  01721  01721                % 08882 RGTR--
+400000019 Herserange, Mairie    01722  01722                % 08882 RGTR--
+400000017 Herserange, La Folie  01723  01723                % 08882 RGTR--
+400000148 Herserange, Paris     01724  01724                % 08882 RGTR--
+400000149 Herserange, Godfroy   01725  01725                % 08882 RGTR--
+400000016 Herserange, Concorde  01726  01726                % 08882 RGTR--
+400000020 Herserange, Quatre V  01727  01727                % 08882 RGTR--
+400000078 Saulnes, Allée des R  01727  01727                % 08882 RGTR--
+400000081 Saulnes, Les Pierret  01728  01728                % 08882 RGTR--
+400000082 Saulnes, Salvador Al  01729  01729                % 08882 RGTR--
+400000079 Saulnes, Auguste Ras  01730  01730                % 08882 RGTR--
+400000080 Saulnes, Place        01731                       % 08882 RGTR--
+*Z 08883 RGTR--                                             % 08883 RGTR--
+*L 399      220903008 400000080  01757  01826               % 08883 RGTR--
+*A rw 220903008 400000080 000006  01757  01826              % 08883 RGTR--
+*A ry 220903008 400000080 000006  01757  01826              % 08883 RGTR--
+*R 1 400000080 220903008 400000080  01757  01826            % 08883 RGTR--
+*G RGB 220903008 400000080  01757  01826                    % 08883 RGTR--
+*A VE 220903008 400000080 000006  01757  01826              % 08883 RGTR--
+*I FD 220903008 400000080        0003296  01757  01826      % 08883 RGTR--
+220903008 Rodange, Gare                01757                % 08883 RGTR--
+220903009 Rodange, Gendarmerie  01758  01758                % 08883 RGTR--
+220903020 Rodange, Schlackenmi  01759  01759                % 08883 RGTR--
+220903004 Rodange, Fonderie     01801  01801                % 08883 RGTR--
+220903006 Rodange, Frontière    01803  01803                % 08883 RGTR--
+400000028 Longlaville, Rue des  01804  01804                % 08883 RGTR--
+400000025 Longlaville, Elsa Tr  01805  01805                % 08883 RGTR--
+400000027 Longlaville, Maison   01806  01806                % 08883 RGTR--
+400000026 Longlaville, Mairie   01807  01807                % 08883 RGTR--
+400000143 Longlaville, Marcell  01807  01807                % 08883 RGTR--
+400000034 Longwy, Lebrun Besse  01810  01810                % 08883 RGTR--
+400000146 Longwy, Kinépolis Ca  01810  01810                % 08883 RGTR--
+400000147 Longwy, Saintignon P  01811  01811                % 08883 RGTR--
+400000031 Longwy, Espace Saint  01812  01812                % 08883 RGTR--
+400000038 Longwy, Récollets     01813  01813                % 08883 RGTR--
+400000041 Longwy, St. Louis     01815  01815                % 08883 RGTR--
+400000021 Herserange, St. Eloi  01816  01816                % 08883 RGTR--
+400000019 Herserange, Mairie    01817  01817                % 08883 RGTR--
+400000017 Herserange, La Folie  01818  01818                % 08883 RGTR--
+400000148 Herserange, Paris     01819  01819                % 08883 RGTR--
+400000149 Herserange, Godfroy   01820  01820                % 08883 RGTR--
+400000016 Herserange, Concorde  01821  01821                % 08883 RGTR--
+400000020 Herserange, Quatre V  01822  01822                % 08883 RGTR--
+400000078 Saulnes, Allée des R  01822  01822                % 08883 RGTR--
+400000081 Saulnes, Les Pierret  01823  01823                % 08883 RGTR--
+400000082 Saulnes, Salvador Al  01824  01824                % 08883 RGTR--
+400000079 Saulnes, Auguste Ras  01825  01825                % 08883 RGTR--
+400000080 Saulnes, Place        01826                       % 08883 RGTR--
+*Z 08884 RGTR--                                             % 08884 RGTR--
+*L 399      220903008 400000080  01642  01711               % 08884 RGTR--
+*A as 220903008 400000080 000016  01642  01711              % 08884 RGTR--
+*A ry 220903008 400000080 000016  01642  01711              % 08884 RGTR--
+*R 1 400000080 220903008 400000080  01642  01711            % 08884 RGTR--
+*G RGB 220903008 400000080  01642  01711                    % 08884 RGTR--
+*A VE 220903008 400000080 000016  01642  01711              % 08884 RGTR--
+*I FD 220903008 400000080        0001408  01642  01711      % 08884 RGTR--
+220903008 Rodange, Gare                01642                % 08884 RGTR--
+220903009 Rodange, Gendarmerie  01643  01643                % 08884 RGTR--
+220903020 Rodange, Schlackenmi  01644  01644                % 08884 RGTR--
+220903004 Rodange, Fonderie     01646  01646                % 08884 RGTR--
+220903006 Rodange, Frontière    01648  01648                % 08884 RGTR--
+400000028 Longlaville, Rue des  01649  01649                % 08884 RGTR--
+400000025 Longlaville, Elsa Tr  01650  01650                % 08884 RGTR--
+400000027 Longlaville, Maison   01651  01651                % 08884 RGTR--
+400000026 Longlaville, Mairie   01652  01652                % 08884 RGTR--
+400000143 Longlaville, Marcell  01652  01652                % 08884 RGTR--
+400000034 Longwy, Lebrun Besse  01655  01655                % 08884 RGTR--
+400000146 Longwy, Kinépolis Ca  01655  01655                % 08884 RGTR--
+400000147 Longwy, Saintignon P  01656  01656                % 08884 RGTR--
+400000031 Longwy, Espace Saint  01657  01657                % 08884 RGTR--
+400000038 Longwy, Récollets     01658  01658                % 08884 RGTR--
+400000041 Longwy, St. Louis     01700  01700                % 08884 RGTR--
+400000021 Herserange, St. Eloi  01701  01701                % 08884 RGTR--
+400000019 Herserange, Mairie    01702  01702                % 08884 RGTR--
+400000017 Herserange, La Folie  01703  01703                % 08884 RGTR--
+400000148 Herserange, Paris     01704  01704                % 08884 RGTR--
+400000149 Herserange, Godfroy   01705  01705                % 08884 RGTR--
+400000016 Herserange, Concorde  01706  01706                % 08884 RGTR--
+400000020 Herserange, Quatre V  01707  01707                % 08884 RGTR--
+400000078 Saulnes, Allée des R  01707  01707                % 08884 RGTR--
+400000081 Saulnes, Les Pierret  01708  01708                % 08884 RGTR--
+400000082 Saulnes, Salvador Al  01709  01709                % 08884 RGTR--
+400000079 Saulnes, Auguste Ras  01710  01710                % 08884 RGTR--
+400000080 Saulnes, Place        01711                       % 08884 RGTR--
+*Z 08885 RGTR--                                             % 08885 RGTR--
+*L 399      220903008 400000080  01742  01811               % 08885 RGTR--
+*A as 220903008 400000080 000016  01742  01811              % 08885 RGTR--
+*A ry 220903008 400000080 000016  01742  01811              % 08885 RGTR--
+*R 1 400000080 220903008 400000080  01742  01811            % 08885 RGTR--
+*G RGB 220903008 400000080  01742  01811                    % 08885 RGTR--
+*A VE 220903008 400000080 000016  01742  01811              % 08885 RGTR--
+*I FD 220903008 400000080        0002320  01742  01811      % 08885 RGTR--
+220903008 Rodange, Gare                01742                % 08885 RGTR--
+220903009 Rodange, Gendarmerie  01743  01743                % 08885 RGTR--
+220903020 Rodange, Schlackenmi  01744  01744                % 08885 RGTR--
+220903004 Rodange, Fonderie     01746  01746                % 08885 RGTR--
+220903006 Rodange, Frontière    01748  01748                % 08885 RGTR--
+400000028 Longlaville, Rue des  01749  01749                % 08885 RGTR--
+400000025 Longlaville, Elsa Tr  01750  01750                % 08885 RGTR--
+400000027 Longlaville, Maison   01751  01751                % 08885 RGTR--
+400000026 Longlaville, Mairie   01752  01752                % 08885 RGTR--
+400000143 Longlaville, Marcell  01752  01752                % 08885 RGTR--
+400000034 Longwy, Lebrun Besse  01755  01755                % 08885 RGTR--
+400000146 Longwy, Kinépolis Ca  01755  01755                % 08885 RGTR--
+400000147 Longwy, Saintignon P  01756  01756                % 08885 RGTR--
+400000031 Longwy, Espace Saint  01757  01757                % 08885 RGTR--
+400000038 Longwy, Récollets     01758  01758                % 08885 RGTR--
+400000041 Longwy, St. Louis     01800  01800                % 08885 RGTR--
+400000021 Herserange, St. Eloi  01801  01801                % 08885 RGTR--
+400000019 Herserange, Mairie    01802  01802                % 08885 RGTR--
+400000017 Herserange, La Folie  01803  01803                % 08885 RGTR--
+400000148 Herserange, Paris     01804  01804                % 08885 RGTR--
+400000149 Herserange, Godfroy   01805  01805                % 08885 RGTR--
+400000016 Herserange, Concorde  01806  01806                % 08885 RGTR--
+400000020 Herserange, Quatre V  01807  01807                % 08885 RGTR--
+400000078 Saulnes, Allée des R  01807  01807                % 08885 RGTR--
+400000081 Saulnes, Les Pierret  01808  01808                % 08885 RGTR--
+400000082 Saulnes, Salvador Al  01809  01809                % 08885 RGTR--
+400000079 Saulnes, Auguste Ras  01810  01810                % 08885 RGTR--
+400000080 Saulnes, Place        01811                       % 08885 RGTR--
+*Z 08886 RGTR--                                             % 08886 RGTR--
+*L 399      220903008 400000080  01002  01026               % 08886 RGTR--
+*A rw 220903008 400000080 000006  01002  01026              % 08886 RGTR--
+*A ry 220903008 400000080 000006  01002  01026              % 08886 RGTR--
+*R 1 400000080 220903008 400000080  01002  01026            % 08886 RGTR--
+*G RGB 220903008 400000080  01002  01026                    % 08886 RGTR--
+*A VE 220903008 400000080 000006  01002  01026              % 08886 RGTR--
+*I FD 220903008 400000080        0002463  01002  01026      % 08886 RGTR--
+220903008 Rodange, Gare                01002                % 08886 RGTR--
+220903009 Rodange, Gendarmerie  01003  01003                % 08886 RGTR--
+220903020 Rodange, Schlackenmi  01004  01004                % 08886 RGTR--
+220903004 Rodange, Fonderie     01005  01005                % 08886 RGTR--
+220903006 Rodange, Frontière    01006  01006                % 08886 RGTR--
+400000028 Longlaville, Rue des  01008  01008                % 08886 RGTR--
+400000025 Longlaville, Elsa Tr  01008  01008                % 08886 RGTR--
+400000027 Longlaville, Maison   01009  01009                % 08886 RGTR--
+400000026 Longlaville, Mairie   01010  01010                % 08886 RGTR--
+400000143 Longlaville, Marcell  01010  01010                % 08886 RGTR--
+400000034 Longwy, Lebrun Besse  01012  01012                % 08886 RGTR--
+400000146 Longwy, Kinépolis Ca  01013  01013                % 08886 RGTR--
+400000147 Longwy, Saintignon P  01014  01014                % 08886 RGTR--
+400000031 Longwy, Espace Saint  01015  01015                % 08886 RGTR--
+400000038 Longwy, Récollets     01015  01015                % 08886 RGTR--
+400000041 Longwy, St. Louis     01017  01017                % 08886 RGTR--
+400000021 Herserange, St. Eloi  01018  01018                % 08886 RGTR--
+400000019 Herserange, Mairie    01018  01018                % 08886 RGTR--
+400000017 Herserange, La Folie  01019  01019                % 08886 RGTR--
+400000148 Herserange, Paris     01020  01020                % 08886 RGTR--
+400000149 Herserange, Godfroy   01021  01021                % 08886 RGTR--
+400000016 Herserange, Concorde  01022  01022                % 08886 RGTR--
+400000020 Herserange, Quatre V  01022  01022                % 08886 RGTR--
+400000078 Saulnes, Allée des R  01023  01023                % 08886 RGTR--
+400000081 Saulnes, Les Pierret  01023  01023                % 08886 RGTR--
+400000082 Saulnes, Salvador Al  01024  01024                % 08886 RGTR--
+400000079 Saulnes, Auguste Ras  01025  01025                % 08886 RGTR--
+400000080 Saulnes, Place        01026                       % 08886 RGTR--
+*Z 08887 RGTR--                                             % 08887 RGTR--
+*L 399      220903008 400000080  01102  01126               % 08887 RGTR--
+*A as 220903008 400000080 000006  01102  01126              % 08887 RGTR--
+*A ry 220903008 400000080 000006  01102  01126              % 08887 RGTR--
+*R 1 400000080 220903008 400000080  01102  01126            % 08887 RGTR--
+*G RGB 220903008 400000080  01102  01126                    % 08887 RGTR--
+*A VE 220903008 400000080 000006  01102  01126              % 08887 RGTR--
+*I FD 220903008 400000080        0002464  01102  01126      % 08887 RGTR--
+220903008 Rodange, Gare                01102                % 08887 RGTR--
+220903009 Rodange, Gendarmerie  01103  01103                % 08887 RGTR--
+220903020 Rodange, Schlackenmi  01104  01104                % 08887 RGTR--
+220903004 Rodange, Fonderie     01105  01105                % 08887 RGTR--
+220903006 Rodange, Frontière    01106  01106                % 08887 RGTR--
+400000028 Longlaville, Rue des  01108  01108                % 08887 RGTR--
+400000025 Longlaville, Elsa Tr  01108  01108                % 08887 RGTR--
+400000027 Longlaville, Maison   01109  01109                % 08887 RGTR--
+400000026 Longlaville, Mairie   01110  01110                % 08887 RGTR--
+400000143 Longlaville, Marcell  01110  01110                % 08887 RGTR--
+400000034 Longwy, Lebrun Besse  01112  01112                % 08887 RGTR--
+400000146 Longwy, Kinépolis Ca  01113  01113                % 08887 RGTR--
+400000147 Longwy, Saintignon P  01114  01114                % 08887 RGTR--
+400000031 Longwy, Espace Saint  01115  01115                % 08887 RGTR--
+400000038 Longwy, Récollets     01115  01115                % 08887 RGTR--
+400000041 Longwy, St. Louis     01117  01117                % 08887 RGTR--
+400000021 Herserange, St. Eloi  01118  01118                % 08887 RGTR--
+400000019 Herserange, Mairie    01118  01118                % 08887 RGTR--
+400000017 Herserange, La Folie  01119  01119                % 08887 RGTR--
+400000148 Herserange, Paris     01120  01120                % 08887 RGTR--
+400000149 Herserange, Godfroy   01121  01121                % 08887 RGTR--
+400000016 Herserange, Concorde  01122  01122                % 08887 RGTR--
+400000020 Herserange, Quatre V  01122  01122                % 08887 RGTR--
+400000078 Saulnes, Allée des R  01123  01123                % 08887 RGTR--
+400000081 Saulnes, Les Pierret  01123  01123                % 08887 RGTR--
+400000082 Saulnes, Salvador Al  01124  01124                % 08887 RGTR--
+400000079 Saulnes, Auguste Ras  01125  01125                % 08887 RGTR--
+400000080 Saulnes, Place        01126                       % 08887 RGTR--
+*Z 08888 RGTR--                                             % 08888 RGTR--
+*L 399      220903008 400000080  01202  01226               % 08888 RGTR--
+*A rw 220903008 400000080 000006  01202  01226              % 08888 RGTR--
+*A ry 220903008 400000080 000006  01202  01226              % 08888 RGTR--
+*R 1 400000080 220903008 400000080  01202  01226            % 08888 RGTR--
+*G RGB 220903008 400000080  01202  01226                    % 08888 RGTR--
+*A VE 220903008 400000080 000006  01202  01226              % 08888 RGTR--
+*I FD 220903008 400000080        0002286  01202  01226      % 08888 RGTR--
+220903008 Rodange, Gare                01202                % 08888 RGTR--
+220903009 Rodange, Gendarmerie  01203  01203                % 08888 RGTR--
+220903020 Rodange, Schlackenmi  01204  01204                % 08888 RGTR--
+220903004 Rodange, Fonderie     01205  01205                % 08888 RGTR--
+220903006 Rodange, Frontière    01206  01206                % 08888 RGTR--
+400000028 Longlaville, Rue des  01208  01208                % 08888 RGTR--
+400000025 Longlaville, Elsa Tr  01208  01208                % 08888 RGTR--
+400000027 Longlaville, Maison   01209  01209                % 08888 RGTR--
+400000026 Longlaville, Mairie   01210  01210                % 08888 RGTR--
+400000143 Longlaville, Marcell  01210  01210                % 08888 RGTR--
+400000034 Longwy, Lebrun Besse  01212  01212                % 08888 RGTR--
+400000146 Longwy, Kinépolis Ca  01213  01213                % 08888 RGTR--
+400000147 Longwy, Saintignon P  01214  01214                % 08888 RGTR--
+400000031 Longwy, Espace Saint  01215  01215                % 08888 RGTR--
+400000038 Longwy, Récollets     01215  01215                % 08888 RGTR--
+400000041 Longwy, St. Louis     01217  01217                % 08888 RGTR--
+400000021 Herserange, St. Eloi  01218  01218                % 08888 RGTR--
+400000019 Herserange, Mairie    01218  01218                % 08888 RGTR--
+400000017 Herserange, La Folie  01219  01219                % 08888 RGTR--
+400000148 Herserange, Paris     01220  01220                % 08888 RGTR--
+400000149 Herserange, Godfroy   01221  01221                % 08888 RGTR--
+400000016 Herserange, Concorde  01222  01222                % 08888 RGTR--
+400000020 Herserange, Quatre V  01222  01222                % 08888 RGTR--
+400000078 Saulnes, Allée des R  01223  01223                % 08888 RGTR--
+400000081 Saulnes, Les Pierret  01223  01223                % 08888 RGTR--
+400000082 Saulnes, Salvador Al  01224  01224                % 08888 RGTR--
+400000079 Saulnes, Auguste Ras  01225  01225                % 08888 RGTR--
+400000080 Saulnes, Place        01226                       % 08888 RGTR--
+*Z 08889 RGTR--                                             % 08889 RGTR--
+*L 399      220903008 400000080  01242  01306               % 08889 RGTR--
+*A as 220903008 400000080 000006  01242  01306              % 08889 RGTR--
+*A ry 220903008 400000080 000006  01242  01306              % 08889 RGTR--
+*R 1 400000080 220903008 400000080  01242  01306            % 08889 RGTR--
+*G RGB 220903008 400000080  01242  01306                    % 08889 RGTR--
+*A VE 220903008 400000080 000006  01242  01306              % 08889 RGTR--
+*I FD 220903008 400000080        0001286  01242  01306      % 08889 RGTR--
+220903008 Rodange, Gare                01242                % 08889 RGTR--
+220903009 Rodange, Gendarmerie  01243  01243                % 08889 RGTR--
+220903020 Rodange, Schlackenmi  01244  01244                % 08889 RGTR--
+220903004 Rodange, Fonderie     01245  01245                % 08889 RGTR--
+220903006 Rodange, Frontière    01246  01246                % 08889 RGTR--
+400000028 Longlaville, Rue des  01248  01248                % 08889 RGTR--
+400000025 Longlaville, Elsa Tr  01248  01248                % 08889 RGTR--
+400000027 Longlaville, Maison   01249  01249                % 08889 RGTR--
+400000026 Longlaville, Mairie   01250  01250                % 08889 RGTR--
+400000143 Longlaville, Marcell  01250  01250                % 08889 RGTR--
+400000034 Longwy, Lebrun Besse  01252  01252                % 08889 RGTR--
+400000146 Longwy, Kinépolis Ca  01253  01253                % 08889 RGTR--
+400000147 Longwy, Saintignon P  01254  01254                % 08889 RGTR--
+400000031 Longwy, Espace Saint  01255  01255                % 08889 RGTR--
+400000038 Longwy, Récollets     01255  01255                % 08889 RGTR--
+400000041 Longwy, St. Louis     01257  01257                % 08889 RGTR--
+400000021 Herserange, St. Eloi  01258  01258                % 08889 RGTR--
+400000019 Herserange, Mairie    01258  01258                % 08889 RGTR--
+400000017 Herserange, La Folie  01259  01259                % 08889 RGTR--
+400000148 Herserange, Paris     01300  01300                % 08889 RGTR--
+400000149 Herserange, Godfroy   01301  01301                % 08889 RGTR--
+400000016 Herserange, Concorde  01302  01302                % 08889 RGTR--
+400000020 Herserange, Quatre V  01302  01302                % 08889 RGTR--
+400000078 Saulnes, Allée des R  01303  01303                % 08889 RGTR--
+400000081 Saulnes, Les Pierret  01303  01303                % 08889 RGTR--
+400000082 Saulnes, Salvador Al  01304  01304                % 08889 RGTR--
+400000079 Saulnes, Auguste Ras  01305  01305                % 08889 RGTR--
+400000080 Saulnes, Place        01306                       % 08889 RGTR--
+*Z 08890 RGTR--                                             % 08890 RGTR--
+*L 399      220903008 400000080  01302  01326               % 08890 RGTR--
+*A rw 220903008 400000080 000006  01302  01326              % 08890 RGTR--
+*A ry 220903008 400000080 000006  01302  01326              % 08890 RGTR--
+*R 1 400000080 220903008 400000080  01302  01326            % 08890 RGTR--
+*G RGB 220903008 400000080  01302  01326                    % 08890 RGTR--
+*A VE 220903008 400000080 000006  01302  01326              % 08890 RGTR--
+*I FD 220903008 400000080        0002465  01302  01326      % 08890 RGTR--
+220903008 Rodange, Gare                01302                % 08890 RGTR--
+220903009 Rodange, Gendarmerie  01303  01303                % 08890 RGTR--
+220903020 Rodange, Schlackenmi  01304  01304                % 08890 RGTR--
+220903004 Rodange, Fonderie     01305  01305                % 08890 RGTR--
+220903006 Rodange, Frontière    01306  01306                % 08890 RGTR--
+400000028 Longlaville, Rue des  01308  01308                % 08890 RGTR--
+400000025 Longlaville, Elsa Tr  01308  01308                % 08890 RGTR--
+400000027 Longlaville, Maison   01309  01309                % 08890 RGTR--
+400000026 Longlaville, Mairie   01310  01310                % 08890 RGTR--
+400000143 Longlaville, Marcell  01310  01310                % 08890 RGTR--
+400000034 Longwy, Lebrun Besse  01312  01312                % 08890 RGTR--
+400000146 Longwy, Kinépolis Ca  01313  01313                % 08890 RGTR--
+400000147 Longwy, Saintignon P  01314  01314                % 08890 RGTR--
+400000031 Longwy, Espace Saint  01315  01315                % 08890 RGTR--
+400000038 Longwy, Récollets     01315  01315                % 08890 RGTR--
+400000041 Longwy, St. Louis     01317  01317                % 08890 RGTR--
+400000021 Herserange, St. Eloi  01318  01318                % 08890 RGTR--
+400000019 Herserange, Mairie    01318  01318                % 08890 RGTR--
+400000017 Herserange, La Folie  01319  01319                % 08890 RGTR--
+400000148 Herserange, Paris     01320  01320                % 08890 RGTR--
+400000149 Herserange, Godfroy   01321  01321                % 08890 RGTR--
+400000016 Herserange, Concorde  01322  01322                % 08890 RGTR--
+400000020 Herserange, Quatre V  01322  01322                % 08890 RGTR--
+400000078 Saulnes, Allée des R  01323  01323                % 08890 RGTR--
+400000081 Saulnes, Les Pierret  01323  01323                % 08890 RGTR--
+400000082 Saulnes, Salvador Al  01324  01324                % 08890 RGTR--
+400000079 Saulnes, Auguste Ras  01325  01325                % 08890 RGTR--
+400000080 Saulnes, Place        01326                       % 08890 RGTR--
+*Z 08891 RGTR--                                             % 08891 RGTR--
+*L 399      220903008 400000080  01402  01426               % 08891 RGTR--
+*A rw 220903008 400000080 000006  01402  01426              % 08891 RGTR--
+*A ry 220903008 400000080 000006  01402  01426              % 08891 RGTR--
+*R 1 400000080 220903008 400000080  01402  01426            % 08891 RGTR--
+*G RGB 220903008 400000080  01402  01426                    % 08891 RGTR--
+*A VE 220903008 400000080 000006  01402  01426              % 08891 RGTR--
+*I FD 220903008 400000080        0002466  01402  01426      % 08891 RGTR--
+220903008 Rodange, Gare                01402                % 08891 RGTR--
+220903009 Rodange, Gendarmerie  01403  01403                % 08891 RGTR--
+220903020 Rodange, Schlackenmi  01404  01404                % 08891 RGTR--
+220903004 Rodange, Fonderie     01405  01405                % 08891 RGTR--
+220903006 Rodange, Frontière    01406  01406                % 08891 RGTR--
+400000028 Longlaville, Rue des  01408  01408                % 08891 RGTR--
+400000025 Longlaville, Elsa Tr  01408  01408                % 08891 RGTR--
+400000027 Longlaville, Maison   01409  01409                % 08891 RGTR--
+400000026 Longlaville, Mairie   01410  01410                % 08891 RGTR--
+400000143 Longlaville, Marcell  01410  01410                % 08891 RGTR--
+400000034 Longwy, Lebrun Besse  01412  01412                % 08891 RGTR--
+400000146 Longwy, Kinépolis Ca  01413  01413                % 08891 RGTR--
+400000147 Longwy, Saintignon P  01414  01414                % 08891 RGTR--
+400000031 Longwy, Espace Saint  01415  01415                % 08891 RGTR--
+400000038 Longwy, Récollets     01415  01415                % 08891 RGTR--
+400000041 Longwy, St. Louis     01417  01417                % 08891 RGTR--
+400000021 Herserange, St. Eloi  01418  01418                % 08891 RGTR--
+400000019 Herserange, Mairie    01418  01418                % 08891 RGTR--
+400000017 Herserange, La Folie  01419  01419                % 08891 RGTR--
+400000148 Herserange, Paris     01420  01420                % 08891 RGTR--
+400000149 Herserange, Godfroy   01421  01421                % 08891 RGTR--
+400000016 Herserange, Concorde  01422  01422                % 08891 RGTR--
+400000020 Herserange, Quatre V  01422  01422                % 08891 RGTR--
+400000078 Saulnes, Allée des R  01423  01423                % 08891 RGTR--
+400000081 Saulnes, Les Pierret  01423  01423                % 08891 RGTR--
+400000082 Saulnes, Salvador Al  01424  01424                % 08891 RGTR--
+400000079 Saulnes, Auguste Ras  01425  01425                % 08891 RGTR--
+400000080 Saulnes, Place        01426                       % 08891 RGTR--
+*Z 08892 RGTR--                                             % 08892 RGTR--
+*L 399      220903008 400000080  01502  01526               % 08892 RGTR--
+*A as 220903008 400000080 000006  01502  01526              % 08892 RGTR--
+*A ry 220903008 400000080 000006  01502  01526              % 08892 RGTR--
+*R 1 400000080 220903008 400000080  01502  01526            % 08892 RGTR--
+*G RGB 220903008 400000080  01502  01526                    % 08892 RGTR--
+*A VE 220903008 400000080 000006  01502  01526              % 08892 RGTR--
+*I FD 220903008 400000080        0002697  01502  01526      % 08892 RGTR--
+220903008 Rodange, Gare                01502                % 08892 RGTR--
+220903009 Rodange, Gendarmerie  01503  01503                % 08892 RGTR--
+220903020 Rodange, Schlackenmi  01504  01504                % 08892 RGTR--
+220903004 Rodange, Fonderie     01505  01505                % 08892 RGTR--
+220903006 Rodange, Frontière    01506  01506                % 08892 RGTR--
+400000028 Longlaville, Rue des  01508  01508                % 08892 RGTR--
+400000025 Longlaville, Elsa Tr  01508  01508                % 08892 RGTR--
+400000027 Longlaville, Maison   01509  01509                % 08892 RGTR--
+400000026 Longlaville, Mairie   01510  01510                % 08892 RGTR--
+400000143 Longlaville, Marcell  01510  01510                % 08892 RGTR--
+400000034 Longwy, Lebrun Besse  01512  01512                % 08892 RGTR--
+400000146 Longwy, Kinépolis Ca  01513  01513                % 08892 RGTR--
+400000147 Longwy, Saintignon P  01514  01514                % 08892 RGTR--
+400000031 Longwy, Espace Saint  01515  01515                % 08892 RGTR--
+400000038 Longwy, Récollets     01515  01515                % 08892 RGTR--
+400000041 Longwy, St. Louis     01517  01517                % 08892 RGTR--
+400000021 Herserange, St. Eloi  01518  01518                % 08892 RGTR--
+400000019 Herserange, Mairie    01518  01518                % 08892 RGTR--
+400000017 Herserange, La Folie  01519  01519                % 08892 RGTR--
+400000148 Herserange, Paris     01520  01520                % 08892 RGTR--
+400000149 Herserange, Godfroy   01521  01521                % 08892 RGTR--
+400000016 Herserange, Concorde  01522  01522                % 08892 RGTR--
+400000020 Herserange, Quatre V  01522  01522                % 08892 RGTR--
+400000078 Saulnes, Allée des R  01523  01523                % 08892 RGTR--
+400000081 Saulnes, Les Pierret  01523  01523                % 08892 RGTR--
+400000082 Saulnes, Salvador Al  01524  01524                % 08892 RGTR--
+400000079 Saulnes, Auguste Ras  01525  01525                % 08892 RGTR--
+400000080 Saulnes, Place        01526                       % 08892 RGTR--
+*Z 08893 RGTR--                                             % 08893 RGTR--
+*L 399      220903008 400000080  01842  01906               % 08893 RGTR--
+*A as 220903008 400000080 000006  01842  01906              % 08893 RGTR--
+*A ry 220903008 400000080 000006  01842  01906              % 08893 RGTR--
+*R 1 400000080 220903008 400000080  01842  01906            % 08893 RGTR--
+*G RGB 220903008 400000080  01842  01906                    % 08893 RGTR--
+*A VE 220903008 400000080 000006  01842  01906              % 08893 RGTR--
+*I FD 220903008 400000080        0001449  01842  01906      % 08893 RGTR--
+220903008 Rodange, Gare                01842                % 08893 RGTR--
+220903009 Rodange, Gendarmerie  01843  01843                % 08893 RGTR--
+220903020 Rodange, Schlackenmi  01844  01844                % 08893 RGTR--
+220903004 Rodange, Fonderie     01845  01845                % 08893 RGTR--
+220903006 Rodange, Frontière    01846  01846                % 08893 RGTR--
+400000028 Longlaville, Rue des  01848  01848                % 08893 RGTR--
+400000025 Longlaville, Elsa Tr  01848  01848                % 08893 RGTR--
+400000027 Longlaville, Maison   01849  01849                % 08893 RGTR--
+400000026 Longlaville, Mairie   01850  01850                % 08893 RGTR--
+400000143 Longlaville, Marcell  01850  01850                % 08893 RGTR--
+400000034 Longwy, Lebrun Besse  01852  01852                % 08893 RGTR--
+400000146 Longwy, Kinépolis Ca  01853  01853                % 08893 RGTR--
+400000147 Longwy, Saintignon P  01854  01854                % 08893 RGTR--
+400000031 Longwy, Espace Saint  01855  01855                % 08893 RGTR--
+400000038 Longwy, Récollets     01855  01855                % 08893 RGTR--
+400000041 Longwy, St. Louis     01857  01857                % 08893 RGTR--
+400000021 Herserange, St. Eloi  01858  01858                % 08893 RGTR--
+400000019 Herserange, Mairie    01858  01858                % 08893 RGTR--
+400000017 Herserange, La Folie  01859  01859                % 08893 RGTR--
+400000148 Herserange, Paris     01900  01900                % 08893 RGTR--
+400000149 Herserange, Godfroy   01901  01901                % 08893 RGTR--
+400000016 Herserange, Concorde  01902  01902                % 08893 RGTR--
+400000020 Herserange, Quatre V  01902  01902                % 08893 RGTR--
+400000078 Saulnes, Allée des R  01903  01903                % 08893 RGTR--
+400000081 Saulnes, Les Pierret  01903  01903                % 08893 RGTR--
+400000082 Saulnes, Salvador Al  01904  01904                % 08893 RGTR--
+400000079 Saulnes, Auguste Ras  01905  01905                % 08893 RGTR--
+400000080 Saulnes, Place        01906                       % 08893 RGTR--
+*Z 08894 RGTR--                                             % 08894 RGTR--
+*L 399      220903008 400000080  01902  01926               % 08894 RGTR--
+*A rw 220903008 400000080 000006  01902  01926              % 08894 RGTR--
+*A ry 220903008 400000080 000006  01902  01926              % 08894 RGTR--
+*R 1 400000080 220903008 400000080  01902  01926            % 08894 RGTR--
+*G RGB 220903008 400000080  01902  01926                    % 08894 RGTR--
+*A VE 220903008 400000080 000006  01902  01926              % 08894 RGTR--
+*I FD 220903008 400000080        0002468  01902  01926      % 08894 RGTR--
+220903008 Rodange, Gare                01902                % 08894 RGTR--
+220903009 Rodange, Gendarmerie  01903  01903                % 08894 RGTR--
+220903020 Rodange, Schlackenmi  01904  01904                % 08894 RGTR--
+220903004 Rodange, Fonderie     01905  01905                % 08894 RGTR--
+220903006 Rodange, Frontière    01906  01906                % 08894 RGTR--
+400000028 Longlaville, Rue des  01908  01908                % 08894 RGTR--
+400000025 Longlaville, Elsa Tr  01908  01908                % 08894 RGTR--
+400000027 Longlaville, Maison   01909  01909                % 08894 RGTR--
+400000026 Longlaville, Mairie   01910  01910                % 08894 RGTR--
+400000143 Longlaville, Marcell  01910  01910                % 08894 RGTR--
+400000034 Longwy, Lebrun Besse  01912  01912                % 08894 RGTR--
+400000146 Longwy, Kinépolis Ca  01913  01913                % 08894 RGTR--
+400000147 Longwy, Saintignon P  01914  01914                % 08894 RGTR--
+400000031 Longwy, Espace Saint  01915  01915                % 08894 RGTR--
+400000038 Longwy, Récollets     01915  01915                % 08894 RGTR--
+400000041 Longwy, St. Louis     01917  01917                % 08894 RGTR--
+400000021 Herserange, St. Eloi  01918  01918                % 08894 RGTR--
+400000019 Herserange, Mairie    01918  01918                % 08894 RGTR--
+400000017 Herserange, La Folie  01919  01919                % 08894 RGTR--
+400000148 Herserange, Paris     01920  01920                % 08894 RGTR--
+400000149 Herserange, Godfroy   01921  01921                % 08894 RGTR--
+400000016 Herserange, Concorde  01922  01922                % 08894 RGTR--
+400000020 Herserange, Quatre V  01922  01922                % 08894 RGTR--
+400000078 Saulnes, Allée des R  01923  01923                % 08894 RGTR--
+400000081 Saulnes, Les Pierret  01923  01923                % 08894 RGTR--
+400000082 Saulnes, Salvador Al  01924  01924                % 08894 RGTR--
+400000079 Saulnes, Auguste Ras  01925  01925                % 08894 RGTR--
+400000080 Saulnes, Place        01926                       % 08894 RGTR--
+*Z 08895 RGTR--                                             % 08895 RGTR--
+*L 399      220903008 400000080  02002  02026               % 08895 RGTR--
+*A as 220903008 400000080 000006  02002  02026              % 08895 RGTR--
+*A ry 220903008 400000080 000006  02002  02026              % 08895 RGTR--
+*R 1 400000080 220903008 400000080  02002  02026            % 08895 RGTR--
+*G RGB 220903008 400000080  02002  02026                    % 08895 RGTR--
+*A VE 220903008 400000080 000006  02002  02026              % 08895 RGTR--
+*I FD 220903008 400000080        0003254  02002  02026      % 08895 RGTR--
+220903008 Rodange, Gare                02002                % 08895 RGTR--
+220903009 Rodange, Gendarmerie  02003  02003                % 08895 RGTR--
+220903020 Rodange, Schlackenmi  02004  02004                % 08895 RGTR--
+220903004 Rodange, Fonderie     02005  02005                % 08895 RGTR--
+220903006 Rodange, Frontière    02006  02006                % 08895 RGTR--
+400000028 Longlaville, Rue des  02008  02008                % 08895 RGTR--
+400000025 Longlaville, Elsa Tr  02008  02008                % 08895 RGTR--
+400000027 Longlaville, Maison   02009  02009                % 08895 RGTR--
+400000026 Longlaville, Mairie   02010  02010                % 08895 RGTR--
+400000143 Longlaville, Marcell  02010  02010                % 08895 RGTR--
+400000034 Longwy, Lebrun Besse  02012  02012                % 08895 RGTR--
+400000146 Longwy, Kinépolis Ca  02013  02013                % 08895 RGTR--
+400000147 Longwy, Saintignon P  02014  02014                % 08895 RGTR--
+400000031 Longwy, Espace Saint  02015  02015                % 08895 RGTR--
+400000038 Longwy, Récollets     02015  02015                % 08895 RGTR--
+400000041 Longwy, St. Louis     02017  02017                % 08895 RGTR--
+400000021 Herserange, St. Eloi  02018  02018                % 08895 RGTR--
+400000019 Herserange, Mairie    02018  02018                % 08895 RGTR--
+400000017 Herserange, La Folie  02019  02019                % 08895 RGTR--
+400000148 Herserange, Paris     02020  02020                % 08895 RGTR--
+400000149 Herserange, Godfroy   02021  02021                % 08895 RGTR--
+400000016 Herserange, Concorde  02022  02022                % 08895 RGTR--
+400000020 Herserange, Quatre V  02022  02022                % 08895 RGTR--
+400000078 Saulnes, Allée des R  02023  02023                % 08895 RGTR--
+400000081 Saulnes, Les Pierret  02023  02023                % 08895 RGTR--
+400000082 Saulnes, Salvador Al  02024  02024                % 08895 RGTR--
+400000079 Saulnes, Auguste Ras  02025  02025                % 08895 RGTR--
+400000080 Saulnes, Place        02026                       % 08895 RGTR--
+*Z 08896 RGTR--                                             % 08896 RGTR--
+*L 399      220903008 400000080  02102  02126               % 08896 RGTR--
+*A as 220903008 400000080 000006  02102  02126              % 08896 RGTR--
+*A ry 220903008 400000080 000006  02102  02126              % 08896 RGTR--
+*R 1 400000080 220903008 400000080  02102  02126            % 08896 RGTR--
+*G RGB 220903008 400000080  02102  02126                    % 08896 RGTR--
+*A VE 220903008 400000080 000006  02102  02126              % 08896 RGTR--
+*I FD 220903008 400000080        0003374  02102  02126      % 08896 RGTR--
+220903008 Rodange, Gare                02102                % 08896 RGTR--
+220903009 Rodange, Gendarmerie  02103  02103                % 08896 RGTR--
+220903020 Rodange, Schlackenmi  02104  02104                % 08896 RGTR--
+220903004 Rodange, Fonderie     02105  02105                % 08896 RGTR--
+220903006 Rodange, Frontière    02106  02106                % 08896 RGTR--
+400000028 Longlaville, Rue des  02108  02108                % 08896 RGTR--
+400000025 Longlaville, Elsa Tr  02108  02108                % 08896 RGTR--
+400000027 Longlaville, Maison   02109  02109                % 08896 RGTR--
+400000026 Longlaville, Mairie   02110  02110                % 08896 RGTR--
+400000143 Longlaville, Marcell  02110  02110                % 08896 RGTR--
+400000034 Longwy, Lebrun Besse  02112  02112                % 08896 RGTR--
+400000146 Longwy, Kinépolis Ca  02113  02113                % 08896 RGTR--
+400000147 Longwy, Saintignon P  02114  02114                % 08896 RGTR--
+400000031 Longwy, Espace Saint  02115  02115                % 08896 RGTR--
+400000038 Longwy, Récollets     02115  02115                % 08896 RGTR--
+400000041 Longwy, St. Louis     02117  02117                % 08896 RGTR--
+400000021 Herserange, St. Eloi  02118  02118                % 08896 RGTR--
+400000019 Herserange, Mairie    02118  02118                % 08896 RGTR--
+400000017 Herserange, La Folie  02119  02119                % 08896 RGTR--
+400000148 Herserange, Paris     02120  02120                % 08896 RGTR--
+400000149 Herserange, Godfroy   02121  02121                % 08896 RGTR--
+400000016 Herserange, Concorde  02122  02122                % 08896 RGTR--
+400000020 Herserange, Quatre V  02122  02122                % 08896 RGTR--
+400000078 Saulnes, Allée des R  02123  02123                % 08896 RGTR--
+400000081 Saulnes, Les Pierret  02123  02123                % 08896 RGTR--
+400000082 Saulnes, Salvador Al  02124  02124                % 08896 RGTR--
+400000079 Saulnes, Auguste Ras  02125  02125                % 08896 RGTR--
+400000080 Saulnes, Place        02126                       % 08896 RGTR--
+*Z 08897 RGTR--                                             % 08897 RGTR--
+*L 399      220903008 400000080  02202  02226               % 08897 RGTR--
+*A as 220903008 400000080 000006  02202  02226              % 08897 RGTR--
+*A ry 220903008 400000080 000006  02202  02226              % 08897 RGTR--
+*R 1 400000080 220903008 400000080  02202  02226            % 08897 RGTR--
+*G RGB 220903008 400000080  02202  02226                    % 08897 RGTR--
+*A VE 220903008 400000080 000006  02202  02226              % 08897 RGTR--
+*I FD 220903008 400000080        0003708  02202  02226      % 08897 RGTR--
+220903008 Rodange, Gare                02202                % 08897 RGTR--
+220903009 Rodange, Gendarmerie  02203  02203                % 08897 RGTR--
+220903020 Rodange, Schlackenmi  02204  02204                % 08897 RGTR--
+220903004 Rodange, Fonderie     02205  02205                % 08897 RGTR--
+220903006 Rodange, Frontière    02206  02206                % 08897 RGTR--
+400000028 Longlaville, Rue des  02208  02208                % 08897 RGTR--
+400000025 Longlaville, Elsa Tr  02208  02208                % 08897 RGTR--
+400000027 Longlaville, Maison   02209  02209                % 08897 RGTR--
+400000026 Longlaville, Mairie   02210  02210                % 08897 RGTR--
+400000143 Longlaville, Marcell  02210  02210                % 08897 RGTR--
+400000034 Longwy, Lebrun Besse  02212  02212                % 08897 RGTR--
+400000146 Longwy, Kinépolis Ca  02213  02213                % 08897 RGTR--
+400000147 Longwy, Saintignon P  02214  02214                % 08897 RGTR--
+400000031 Longwy, Espace Saint  02215  02215                % 08897 RGTR--
+400000038 Longwy, Récollets     02215  02215                % 08897 RGTR--
+400000041 Longwy, St. Louis     02217  02217                % 08897 RGTR--
+400000021 Herserange, St. Eloi  02218  02218                % 08897 RGTR--
+400000019 Herserange, Mairie    02218  02218                % 08897 RGTR--
+400000017 Herserange, La Folie  02219  02219                % 08897 RGTR--
+400000148 Herserange, Paris     02220  02220                % 08897 RGTR--
+400000149 Herserange, Godfroy   02221  02221                % 08897 RGTR--
+400000016 Herserange, Concorde  02222  02222                % 08897 RGTR--
+400000020 Herserange, Quatre V  02222  02222                % 08897 RGTR--
+400000078 Saulnes, Allée des R  02223  02223                % 08897 RGTR--
+400000081 Saulnes, Les Pierret  02223  02223                % 08897 RGTR--
+400000082 Saulnes, Salvador Al  02224  02224                % 08897 RGTR--
+400000079 Saulnes, Auguste Ras  02225  02225                % 08897 RGTR--
+400000080 Saulnes, Place        02226                       % 08897 RGTR--
+*Z 08898 RGTR--                                             % 08898 RGTR--
+*L 399      220903008 400000080  02302  02326               % 08898 RGTR--
+*A as 220903008 400000080 000006  02302  02326              % 08898 RGTR--
+*A ry 220903008 400000080 000006  02302  02326              % 08898 RGTR--
+*R 1 400000080 220903008 400000080  02302  02326            % 08898 RGTR--
+*G RGB 220903008 400000080  02302  02326                    % 08898 RGTR--
+*A VE 220903008 400000080 000006  02302  02326              % 08898 RGTR--
+*I FD 220903008 400000080        0003709  02302  02326      % 08898 RGTR--
+220903008 Rodange, Gare                02302                % 08898 RGTR--
+220903009 Rodange, Gendarmerie  02303  02303                % 08898 RGTR--
+220903020 Rodange, Schlackenmi  02304  02304                % 08898 RGTR--
+220903004 Rodange, Fonderie     02305  02305                % 08898 RGTR--
+220903006 Rodange, Frontière    02306  02306                % 08898 RGTR--
+400000028 Longlaville, Rue des  02308  02308                % 08898 RGTR--
+400000025 Longlaville, Elsa Tr  02308  02308                % 08898 RGTR--
+400000027 Longlaville, Maison   02309  02309                % 08898 RGTR--
+400000026 Longlaville, Mairie   02310  02310                % 08898 RGTR--
+400000143 Longlaville, Marcell  02310  02310                % 08898 RGTR--
+400000034 Longwy, Lebrun Besse  02312  02312                % 08898 RGTR--
+400000146 Longwy, Kinépolis Ca  02313  02313                % 08898 RGTR--
+400000147 Longwy, Saintignon P  02314  02314                % 08898 RGTR--
+400000031 Longwy, Espace Saint  02315  02315                % 08898 RGTR--
+400000038 Longwy, Récollets     02315  02315                % 08898 RGTR--
+400000041 Longwy, St. Louis     02317  02317                % 08898 RGTR--
+400000021 Herserange, St. Eloi  02318  02318                % 08898 RGTR--
+400000019 Herserange, Mairie    02318  02318                % 08898 RGTR--
+400000017 Herserange, La Folie  02319  02319                % 08898 RGTR--
+400000148 Herserange, Paris     02320  02320                % 08898 RGTR--
+400000149 Herserange, Godfroy   02321  02321                % 08898 RGTR--
+400000016 Herserange, Concorde  02322  02322                % 08898 RGTR--
+400000020 Herserange, Quatre V  02322  02322                % 08898 RGTR--
+400000078 Saulnes, Allée des R  02323  02323                % 08898 RGTR--
+400000081 Saulnes, Les Pierret  02323  02323                % 08898 RGTR--
+400000082 Saulnes, Salvador Al  02324  02324                % 08898 RGTR--
+400000079 Saulnes, Auguste Ras  02325  02325                % 08898 RGTR--
+400000080 Saulnes, Place        02326                       % 08898 RGTR--
+*Z 08899 RGTR--                                             % 08899 RGTR--
+*L 399      220903008 400000080  01825  01849               % 08899 RGTR--
+*A as 220903008 400000080 000016  01825  01849              % 08899 RGTR--
+*A ry 220903008 400000080 000016  01825  01849              % 08899 RGTR--
+*R 1 400000080 220903008 400000080  01825  01849            % 08899 RGTR--
+*G RGB 220903008 400000080  01825  01849                    % 08899 RGTR--
+*A VE 220903008 400000080 000016  01825  01849              % 08899 RGTR--
+*I FD 220903008 400000080        0002589  01825  01849      % 08899 RGTR--
+220903008 Rodange, Gare                01825                % 08899 RGTR--
+220903009 Rodange, Gendarmerie  01826  01826                % 08899 RGTR--
+220903020 Rodange, Schlackenmi  01827  01827                % 08899 RGTR--
+220903004 Rodange, Fonderie     01828  01828                % 08899 RGTR--
+220903006 Rodange, Frontière    01829  01829                % 08899 RGTR--
+400000028 Longlaville, Rue des  01831  01831                % 08899 RGTR--
+400000025 Longlaville, Elsa Tr  01831  01831                % 08899 RGTR--
+400000027 Longlaville, Maison   01832  01832                % 08899 RGTR--
+400000026 Longlaville, Mairie   01833  01833                % 08899 RGTR--
+400000143 Longlaville, Marcell  01833  01833                % 08899 RGTR--
+400000034 Longwy, Lebrun Besse  01835  01835                % 08899 RGTR--
+400000146 Longwy, Kinépolis Ca  01836  01836                % 08899 RGTR--
+400000147 Longwy, Saintignon P  01837  01837                % 08899 RGTR--
+400000031 Longwy, Espace Saint  01838  01838                % 08899 RGTR--
+400000038 Longwy, Récollets     01838  01838                % 08899 RGTR--
+400000041 Longwy, St. Louis     01840  01840                % 08899 RGTR--
+400000021 Herserange, St. Eloi  01841  01841                % 08899 RGTR--
+400000019 Herserange, Mairie    01841  01841                % 08899 RGTR--
+400000017 Herserange, La Folie  01842  01842                % 08899 RGTR--
+400000148 Herserange, Paris     01843  01843                % 08899 RGTR--
+400000149 Herserange, Godfroy   01844  01844                % 08899 RGTR--
+400000016 Herserange, Concorde  01845  01845                % 08899 RGTR--
+400000020 Herserange, Quatre V  01845  01845                % 08899 RGTR--
+400000078 Saulnes, Allée des R  01846  01846                % 08899 RGTR--
+400000081 Saulnes, Les Pierret  01846  01846                % 08899 RGTR--
+400000082 Saulnes, Salvador Al  01847  01847                % 08899 RGTR--
+400000079 Saulnes, Auguste Ras  01848  01848                % 08899 RGTR--
+400000080 Saulnes, Place        01849                       % 08899 RGTR--
+*Z 08900 RGTR--                                             % 08900 RGTR--
+*L 399      220903008 400000080  01942  02006               % 08900 RGTR--
+*A as 220903008 400000080 000016  01942  02006              % 08900 RGTR--
+*A ry 220903008 400000080 000016  01942  02006              % 08900 RGTR--
+*R 1 400000080 220903008 400000080  01942  02006            % 08900 RGTR--
+*G RGB 220903008 400000080  01942  02006                    % 08900 RGTR--
+*A VE 220903008 400000080 000016  01942  02006              % 08900 RGTR--
+*I FD 220903008 400000080        0003710  01942  02006      % 08900 RGTR--
+220903008 Rodange, Gare                01942                % 08900 RGTR--
+220903009 Rodange, Gendarmerie  01943  01943                % 08900 RGTR--
+220903020 Rodange, Schlackenmi  01944  01944                % 08900 RGTR--
+220903004 Rodange, Fonderie     01945  01945                % 08900 RGTR--
+220903006 Rodange, Frontière    01946  01946                % 08900 RGTR--
+400000028 Longlaville, Rue des  01948  01948                % 08900 RGTR--
+400000025 Longlaville, Elsa Tr  01948  01948                % 08900 RGTR--
+400000027 Longlaville, Maison   01949  01949                % 08900 RGTR--
+400000026 Longlaville, Mairie   01950  01950                % 08900 RGTR--
+400000143 Longlaville, Marcell  01950  01950                % 08900 RGTR--
+400000034 Longwy, Lebrun Besse  01952  01952                % 08900 RGTR--
+400000146 Longwy, Kinépolis Ca  01953  01953                % 08900 RGTR--
+400000147 Longwy, Saintignon P  01954  01954                % 08900 RGTR--
+400000031 Longwy, Espace Saint  01955  01955                % 08900 RGTR--
+400000038 Longwy, Récollets     01955  01955                % 08900 RGTR--
+400000041 Longwy, St. Louis     01957  01957                % 08900 RGTR--
+400000021 Herserange, St. Eloi  01958  01958                % 08900 RGTR--
+400000019 Herserange, Mairie    01958  01958                % 08900 RGTR--
+400000017 Herserange, La Folie  01959  01959                % 08900 RGTR--
+400000148 Herserange, Paris     02000  02000                % 08900 RGTR--
+400000149 Herserange, Godfroy   02001  02001                % 08900 RGTR--
+400000016 Herserange, Concorde  02002  02002                % 08900 RGTR--
+400000020 Herserange, Quatre V  02002  02002                % 08900 RGTR--
+400000078 Saulnes, Allée des R  02003  02003                % 08900 RGTR--
+400000081 Saulnes, Les Pierret  02003  02003                % 08900 RGTR--
+400000082 Saulnes, Salvador Al  02004  02004                % 08900 RGTR--
+400000079 Saulnes, Auguste Ras  02005  02005                % 08900 RGTR--
+400000080 Saulnes, Place        02006                       % 08900 RGTR--
+*Z 08901 RGTR--                                             % 08901 RGTR--
+*L 399      400000080 220903008  00700  00729               % 08901 RGTR--
+*A rw 400000080 220903008 000006  00700  00729              % 08901 RGTR--
+*A rz 400000080 220903008 000006  00700  00729              % 08901 RGTR--
+*R 2 220903008 400000080 220903008  00700  00729            % 08901 RGTR--
+*G RGB 400000080 220903008  00700  00729                    % 08901 RGTR--
+*A VE 400000080 220903008 000006  00700  00729              % 08901 RGTR--
+*I FD 400000080 220903008        0002152  00700  00729      % 08901 RGTR--
+400000080 Saulnes, Place               00700                % 08901 RGTR--
+400000079 Saulnes, Auguste Ras  00701  00701                % 08901 RGTR--
+400000082 Saulnes, Salvador Al  00702  00702                % 08901 RGTR--
+400000081 Saulnes, Les Pierret  00702  00702                % 08901 RGTR--
+400000078 Saulnes, Allée des R  00703  00703                % 08901 RGTR--
+400000020 Herserange, Quatre V  00703  00703                % 08901 RGTR--
+400000016 Herserange, Concorde  00704  00704                % 08901 RGTR--
+400000149 Herserange, Godfroy   00705  00705                % 08901 RGTR--
+400000148 Herserange, Paris     00706  00706                % 08901 RGTR--
+400000017 Herserange, La Folie  00707  00707                % 08901 RGTR--
+400000019 Herserange, Mairie    00708  00708                % 08901 RGTR--
+400000021 Herserange, St. Eloi  00709  00709                % 08901 RGTR--
+400000041 Longwy, St. Louis     00710  00710                % 08901 RGTR--
+400000038 Longwy, Récollets     00712  00712                % 08901 RGTR--
+400000031 Longwy, Espace Saint  00712  00712                % 08901 RGTR--
+400000147 Longwy, Saintignon P  00713  00713                % 08901 RGTR--
+400000146 Longwy, Kinépolis Ca  00714  00714                % 08901 RGTR--
+400000034 Longwy, Lebrun Besse  00715  00715                % 08901 RGTR--
+400000143 Longlaville, Marcell  00717  00717                % 08901 RGTR--
+400000026 Longlaville, Mairie   00718  00718                % 08901 RGTR--
+400000027 Longlaville, Maison   00719  00719                % 08901 RGTR--
+400000025 Longlaville, Elsa Tr  00720  00720                % 08901 RGTR--
+400000028 Longlaville, Rue des  00721  00721                % 08901 RGTR--
+220903006 Rodange, Frontière    00723  00723                % 08901 RGTR--
+220903004 Rodange, Fonderie     00725  00725                % 08901 RGTR--
+220903020 Rodange, Schlackenmi  00727  00727                % 08901 RGTR--
+220903009 Rodange, Gendarmerie  00728  00728                % 08901 RGTR--
+220903008 Rodange, Gare         00729                       % 08901 RGTR--
+*Z 08902 RGTR--                                             % 08902 RGTR--
+*L 399      400000080 220903008  00730  00759               % 08902 RGTR--
+*A as 400000080 220903008 000006  00730  00759              % 08902 RGTR--
+*A rz 400000080 220903008 000006  00730  00759              % 08902 RGTR--
+*R 2 220903008 400000080 220903008  00730  00759            % 08902 RGTR--
+*G RGB 400000080 220903008  00730  00759                    % 08902 RGTR--
+*A VE 400000080 220903008 000006  00730  00759              % 08902 RGTR--
+*I FD 400000080 220903008        0002405  00730  00759      % 08902 RGTR--
+400000080 Saulnes, Place               00730                % 08902 RGTR--
+400000079 Saulnes, Auguste Ras  00731  00731                % 08902 RGTR--
+400000082 Saulnes, Salvador Al  00732  00732                % 08902 RGTR--
+400000081 Saulnes, Les Pierret  00732  00732                % 08902 RGTR--
+400000078 Saulnes, Allée des R  00733  00733                % 08902 RGTR--
+400000020 Herserange, Quatre V  00733  00733                % 08902 RGTR--
+400000016 Herserange, Concorde  00734  00734                % 08902 RGTR--
+400000149 Herserange, Godfroy   00735  00735                % 08902 RGTR--
+400000148 Herserange, Paris     00736  00736                % 08902 RGTR--
+400000017 Herserange, La Folie  00737  00737                % 08902 RGTR--
+400000019 Herserange, Mairie    00738  00738                % 08902 RGTR--
+400000021 Herserange, St. Eloi  00739  00739                % 08902 RGTR--
+400000041 Longwy, St. Louis     00740  00740                % 08902 RGTR--
+400000038 Longwy, Récollets     00742  00742                % 08902 RGTR--
+400000031 Longwy, Espace Saint  00742  00742                % 08902 RGTR--
+400000147 Longwy, Saintignon P  00743  00743                % 08902 RGTR--
+400000146 Longwy, Kinépolis Ca  00744  00744                % 08902 RGTR--
+400000034 Longwy, Lebrun Besse  00745  00745                % 08902 RGTR--
+400000143 Longlaville, Marcell  00747  00747                % 08902 RGTR--
+400000026 Longlaville, Mairie   00748  00748                % 08902 RGTR--
+400000027 Longlaville, Maison   00749  00749                % 08902 RGTR--
+400000025 Longlaville, Elsa Tr  00750  00750                % 08902 RGTR--
+400000028 Longlaville, Rue des  00751  00751                % 08902 RGTR--
+220903006 Rodange, Frontière    00753  00753                % 08902 RGTR--
+220903004 Rodange, Fonderie     00755  00755                % 08902 RGTR--
+220903020 Rodange, Schlackenmi  00757  00757                % 08902 RGTR--
+220903009 Rodange, Gendarmerie  00758  00758                % 08902 RGTR--
+220903008 Rodange, Gare         00759                       % 08902 RGTR--
+*Z 08903 RGTR--                                             % 08903 RGTR--
+*L 399      400000080 220903008  00830  00859               % 08903 RGTR--
+*A rw 400000080 220903008 000006  00830  00859              % 08903 RGTR--
+*A rz 400000080 220903008 000006  00830  00859              % 08903 RGTR--
+*R 2 220903008 400000080 220903008  00830  00859            % 08903 RGTR--
+*G RGB 400000080 220903008  00830  00859                    % 08903 RGTR--
+*A VE 400000080 220903008 000006  00830  00859              % 08903 RGTR--
+*I FD 400000080 220903008        0001038  00830  00859      % 08903 RGTR--
+400000080 Saulnes, Place               00830                % 08903 RGTR--
+400000079 Saulnes, Auguste Ras  00831  00831                % 08903 RGTR--
+400000082 Saulnes, Salvador Al  00832  00832                % 08903 RGTR--
+400000081 Saulnes, Les Pierret  00832  00832                % 08903 RGTR--
+400000078 Saulnes, Allée des R  00833  00833                % 08903 RGTR--
+400000020 Herserange, Quatre V  00833  00833                % 08903 RGTR--
+400000016 Herserange, Concorde  00834  00834                % 08903 RGTR--
+400000149 Herserange, Godfroy   00835  00835                % 08903 RGTR--
+400000148 Herserange, Paris     00836  00836                % 08903 RGTR--
+400000017 Herserange, La Folie  00837  00837                % 08903 RGTR--
+400000019 Herserange, Mairie    00838  00838                % 08903 RGTR--
+400000021 Herserange, St. Eloi  00839  00839                % 08903 RGTR--
+400000041 Longwy, St. Louis     00840  00840                % 08903 RGTR--
+400000038 Longwy, Récollets     00842  00842                % 08903 RGTR--
+400000031 Longwy, Espace Saint  00842  00842                % 08903 RGTR--
+400000147 Longwy, Saintignon P  00843  00843                % 08903 RGTR--
+400000146 Longwy, Kinépolis Ca  00844  00844                % 08903 RGTR--
+400000034 Longwy, Lebrun Besse  00845  00845                % 08903 RGTR--
+400000143 Longlaville, Marcell  00847  00847                % 08903 RGTR--
+400000026 Longlaville, Mairie   00848  00848                % 08903 RGTR--
+400000027 Longlaville, Maison   00849  00849                % 08903 RGTR--
+400000025 Longlaville, Elsa Tr  00850  00850                % 08903 RGTR--
+400000028 Longlaville, Rue des  00851  00851                % 08903 RGTR--
+220903006 Rodange, Frontière    00853  00853                % 08903 RGTR--
+220903004 Rodange, Fonderie     00855  00855                % 08903 RGTR--
+220903020 Rodange, Schlackenmi  00857  00857                % 08903 RGTR--
+220903009 Rodange, Gendarmerie  00858  00858                % 08903 RGTR--
+220903008 Rodange, Gare         00859                       % 08903 RGTR--
+*Z 08904 RGTR--                                             % 08904 RGTR--
+*L 399      400000080 220903008  01634  01703               % 08904 RGTR--
+*A rw 400000080 220903008 000006  01634  01703              % 08904 RGTR--
+*A rz 400000080 220903008 000006  01634  01703              % 08904 RGTR--
+*R 2 220903008 400000080 220903008  01634  01703            % 08904 RGTR--
+*G RGB 400000080 220903008  01634  01703                    % 08904 RGTR--
+*A VE 400000080 220903008 000006  01634  01703              % 08904 RGTR--
+*I FD 400000080 220903008        0002218  01634  01703      % 08904 RGTR--
+400000080 Saulnes, Place               01634                % 08904 RGTR--
+400000079 Saulnes, Auguste Ras  01635  01635                % 08904 RGTR--
+400000082 Saulnes, Salvador Al  01636  01636                % 08904 RGTR--
+400000081 Saulnes, Les Pierret  01636  01636                % 08904 RGTR--
+400000078 Saulnes, Allée des R  01637  01637                % 08904 RGTR--
+400000020 Herserange, Quatre V  01637  01637                % 08904 RGTR--
+400000016 Herserange, Concorde  01638  01638                % 08904 RGTR--
+400000149 Herserange, Godfroy   01639  01639                % 08904 RGTR--
+400000148 Herserange, Paris     01640  01640                % 08904 RGTR--
+400000017 Herserange, La Folie  01641  01641                % 08904 RGTR--
+400000019 Herserange, Mairie    01642  01642                % 08904 RGTR--
+400000021 Herserange, St. Eloi  01643  01643                % 08904 RGTR--
+400000041 Longwy, St. Louis     01644  01644                % 08904 RGTR--
+400000038 Longwy, Récollets     01646  01646                % 08904 RGTR--
+400000031 Longwy, Espace Saint  01646  01646                % 08904 RGTR--
+400000147 Longwy, Saintignon P  01647  01647                % 08904 RGTR--
+400000146 Longwy, Kinépolis Ca  01648  01648                % 08904 RGTR--
+400000034 Longwy, Lebrun Besse  01649  01649                % 08904 RGTR--
+400000143 Longlaville, Marcell  01651  01651                % 08904 RGTR--
+400000026 Longlaville, Mairie   01652  01652                % 08904 RGTR--
+400000027 Longlaville, Maison   01653  01653                % 08904 RGTR--
+400000025 Longlaville, Elsa Tr  01654  01654                % 08904 RGTR--
+400000028 Longlaville, Rue des  01655  01655                % 08904 RGTR--
+220903006 Rodange, Frontière    01657  01657                % 08904 RGTR--
+220903004 Rodange, Fonderie     01659  01659                % 08904 RGTR--
+220903020 Rodange, Schlackenmi  01701  01701                % 08904 RGTR--
+220903009 Rodange, Gendarmerie  01702  01702                % 08904 RGTR--
+220903008 Rodange, Gare         01703                       % 08904 RGTR--
+*Z 08905 RGTR--                                             % 08905 RGTR--
+*L 399      400000080 220903008  01735  01804               % 08905 RGTR--
+*A as 400000080 220903008 000006  01735  01804              % 08905 RGTR--
+*A rz 400000080 220903008 000006  01735  01804              % 08905 RGTR--
+*R 2 220903008 400000080 220903008  01735  01804            % 08905 RGTR--
+*G RGB 400000080 220903008  01735  01804                    % 08905 RGTR--
+*A VE 400000080 220903008 000006  01735  01804              % 08905 RGTR--
+*I FD 400000080 220903008        0002896  01735  01804      % 08905 RGTR--
+400000080 Saulnes, Place               01735                % 08905 RGTR--
+400000079 Saulnes, Auguste Ras  01736  01736                % 08905 RGTR--
+400000082 Saulnes, Salvador Al  01737  01737                % 08905 RGTR--
+400000081 Saulnes, Les Pierret  01737  01737                % 08905 RGTR--
+400000078 Saulnes, Allée des R  01738  01738                % 08905 RGTR--
+400000020 Herserange, Quatre V  01738  01738                % 08905 RGTR--
+400000016 Herserange, Concorde  01739  01739                % 08905 RGTR--
+400000149 Herserange, Godfroy   01740  01740                % 08905 RGTR--
+400000148 Herserange, Paris     01741  01741                % 08905 RGTR--
+400000017 Herserange, La Folie  01742  01742                % 08905 RGTR--
+400000019 Herserange, Mairie    01743  01743                % 08905 RGTR--
+400000021 Herserange, St. Eloi  01744  01744                % 08905 RGTR--
+400000041 Longwy, St. Louis     01745  01745                % 08905 RGTR--
+400000038 Longwy, Récollets     01747  01747                % 08905 RGTR--
+400000031 Longwy, Espace Saint  01747  01747                % 08905 RGTR--
+400000147 Longwy, Saintignon P  01748  01748                % 08905 RGTR--
+400000146 Longwy, Kinépolis Ca  01749  01749                % 08905 RGTR--
+400000034 Longwy, Lebrun Besse  01750  01750                % 08905 RGTR--
+400000143 Longlaville, Marcell  01752  01752                % 08905 RGTR--
+400000026 Longlaville, Mairie   01753  01753                % 08905 RGTR--
+400000027 Longlaville, Maison   01754  01754                % 08905 RGTR--
+400000025 Longlaville, Elsa Tr  01755  01755                % 08905 RGTR--
+400000028 Longlaville, Rue des  01756  01756                % 08905 RGTR--
+220903006 Rodange, Frontière    01758  01758                % 08905 RGTR--
+220903004 Rodange, Fonderie     01800  01800                % 08905 RGTR--
+220903020 Rodange, Schlackenmi  01802  01802                % 08905 RGTR--
+220903009 Rodange, Gendarmerie  01803  01803                % 08905 RGTR--
+220903008 Rodange, Gare         01804                       % 08905 RGTR--
+*Z 08906 RGTR--                                             % 08906 RGTR--
+*L 399      400000080 220903008  00634  00703               % 08906 RGTR--
+*A as 400000080 220903008 000016  00634  00703              % 08906 RGTR--
+*A rz 400000080 220903008 000016  00634  00703              % 08906 RGTR--
+*R 2 220903008 400000080 220903008  00634  00703            % 08906 RGTR--
+*G RGB 400000080 220903008  00634  00703                    % 08906 RGTR--
+*A VE 400000080 220903008 000016  00634  00703              % 08906 RGTR--
+*I FD 400000080 220903008        0002797  00634  00703      % 08906 RGTR--
+400000080 Saulnes, Place               00634                % 08906 RGTR--
+400000079 Saulnes, Auguste Ras  00635  00635                % 08906 RGTR--
+400000082 Saulnes, Salvador Al  00636  00636                % 08906 RGTR--
+400000081 Saulnes, Les Pierret  00636  00636                % 08906 RGTR--
+400000078 Saulnes, Allée des R  00637  00637                % 08906 RGTR--
+400000020 Herserange, Quatre V  00637  00637                % 08906 RGTR--
+400000016 Herserange, Concorde  00638  00638                % 08906 RGTR--
+400000149 Herserange, Godfroy   00639  00639                % 08906 RGTR--
+400000148 Herserange, Paris     00640  00640                % 08906 RGTR--
+400000017 Herserange, La Folie  00641  00641                % 08906 RGTR--
+400000019 Herserange, Mairie    00642  00642                % 08906 RGTR--
+400000021 Herserange, St. Eloi  00643  00643                % 08906 RGTR--
+400000041 Longwy, St. Louis     00644  00644                % 08906 RGTR--
+400000038 Longwy, Récollets     00646  00646                % 08906 RGTR--
+400000031 Longwy, Espace Saint  00646  00646                % 08906 RGTR--
+400000147 Longwy, Saintignon P  00647  00647                % 08906 RGTR--
+400000146 Longwy, Kinépolis Ca  00648  00648                % 08906 RGTR--
+400000034 Longwy, Lebrun Besse  00649  00649                % 08906 RGTR--
+400000143 Longlaville, Marcell  00651  00651                % 08906 RGTR--
+400000026 Longlaville, Mairie   00652  00652                % 08906 RGTR--
+400000027 Longlaville, Maison   00653  00653                % 08906 RGTR--
+400000025 Longlaville, Elsa Tr  00654  00654                % 08906 RGTR--
+400000028 Longlaville, Rue des  00655  00655                % 08906 RGTR--
+220903006 Rodange, Frontière    00657  00657                % 08906 RGTR--
+220903004 Rodange, Fonderie     00659  00659                % 08906 RGTR--
+220903020 Rodange, Schlackenmi  00701  00701                % 08906 RGTR--
+220903009 Rodange, Gendarmerie  00702  00702                % 08906 RGTR--
+220903008 Rodange, Gare         00703                       % 08906 RGTR--
+*Z 08907 RGTR--                                             % 08907 RGTR--
+*L 399      400000080 220903008  00530  00555               % 08907 RGTR--
+*A rw 400000080 220903008 000006  00530  00555              % 08907 RGTR--
+*A rz 400000080 220903008 000006  00530  00555              % 08907 RGTR--
+*R 2 220903008 400000080 220903008  00530  00555            % 08907 RGTR--
+*G RGB 400000080 220903008  00530  00555                    % 08907 RGTR--
+*A VE 400000080 220903008 000006  00530  00555              % 08907 RGTR--
+*I FD 400000080 220903008        0002407  00530  00555      % 08907 RGTR--
+400000080 Saulnes, Place               00530                % 08907 RGTR--
+400000079 Saulnes, Auguste Ras  00530  00530                % 08907 RGTR--
+400000082 Saulnes, Salvador Al  00531  00531                % 08907 RGTR--
+400000081 Saulnes, Les Pierret  00532  00532                % 08907 RGTR--
+400000078 Saulnes, Allée des R  00532  00532                % 08907 RGTR--
+400000020 Herserange, Quatre V  00533  00533                % 08907 RGTR--
+400000016 Herserange, Concorde  00534  00534                % 08907 RGTR--
+400000149 Herserange, Godfroy   00534  00534                % 08907 RGTR--
+400000148 Herserange, Paris     00535  00535                % 08907 RGTR--
+400000017 Herserange, La Folie  00536  00536                % 08907 RGTR--
+400000019 Herserange, Mairie    00537  00537                % 08907 RGTR--
+400000021 Herserange, St. Eloi  00538  00538                % 08907 RGTR--
+400000041 Longwy, St. Louis     00539  00539                % 08907 RGTR--
+400000038 Longwy, Récollets     00540  00540                % 08907 RGTR--
+400000031 Longwy, Espace Saint  00541  00541                % 08907 RGTR--
+400000147 Longwy, Saintignon P  00542  00542                % 08907 RGTR--
+400000146 Longwy, Kinépolis Ca  00543  00543                % 08907 RGTR--
+400000034 Longwy, Lebrun Besse  00543  00543                % 08907 RGTR--
+400000143 Longlaville, Marcell  00545  00545                % 08907 RGTR--
+400000026 Longlaville, Mairie   00546  00546                % 08907 RGTR--
+400000027 Longlaville, Maison   00547  00547                % 08907 RGTR--
+400000025 Longlaville, Elsa Tr  00548  00548                % 08907 RGTR--
+400000028 Longlaville, Rue des  00549  00549                % 08907 RGTR--
+220903006 Rodange, Frontière    00550  00550                % 08907 RGTR--
+220903004 Rodange, Fonderie     00552  00552                % 08907 RGTR--
+220903020 Rodange, Schlackenmi  00553  00553                % 08907 RGTR--
+220903009 Rodange, Gendarmerie  00554  00554                % 08907 RGTR--
+220903008 Rodange, Gare         00555                       % 08907 RGTR--
+*Z 08908 RGTR--                                             % 08908 RGTR--
+*L 399      400000080 220903008  00604  00629               % 08908 RGTR--
+*A as 400000080 220903008 000006  00604  00629              % 08908 RGTR--
+*A rz 400000080 220903008 000006  00604  00629              % 08908 RGTR--
+*R 2 220903008 400000080 220903008  00604  00629            % 08908 RGTR--
+*G RGB 400000080 220903008  00604  00629                    % 08908 RGTR--
+*A VE 400000080 220903008 000006  00604  00629              % 08908 RGTR--
+*I FD 400000080 220903008        0003233  00604  00629      % 08908 RGTR--
+400000080 Saulnes, Place               00604                % 08908 RGTR--
+400000079 Saulnes, Auguste Ras  00604  00604                % 08908 RGTR--
+400000082 Saulnes, Salvador Al  00605  00605                % 08908 RGTR--
+400000081 Saulnes, Les Pierret  00606  00606                % 08908 RGTR--
+400000078 Saulnes, Allée des R  00606  00606                % 08908 RGTR--
+400000020 Herserange, Quatre V  00607  00607                % 08908 RGTR--
+400000016 Herserange, Concorde  00608  00608                % 08908 RGTR--
+400000149 Herserange, Godfroy   00608  00608                % 08908 RGTR--
+400000148 Herserange, Paris     00609  00609                % 08908 RGTR--
+400000017 Herserange, La Folie  00610  00610                % 08908 RGTR--
+400000019 Herserange, Mairie    00611  00611                % 08908 RGTR--
+400000021 Herserange, St. Eloi  00612  00612                % 08908 RGTR--
+400000041 Longwy, St. Louis     00613  00613                % 08908 RGTR--
+400000038 Longwy, Récollets     00614  00614                % 08908 RGTR--
+400000031 Longwy, Espace Saint  00615  00615                % 08908 RGTR--
+400000147 Longwy, Saintignon P  00616  00616                % 08908 RGTR--
+400000146 Longwy, Kinépolis Ca  00617  00617                % 08908 RGTR--
+400000034 Longwy, Lebrun Besse  00617  00617                % 08908 RGTR--
+400000143 Longlaville, Marcell  00619  00619                % 08908 RGTR--
+400000026 Longlaville, Mairie   00620  00620                % 08908 RGTR--
+400000027 Longlaville, Maison   00621  00621                % 08908 RGTR--
+400000025 Longlaville, Elsa Tr  00622  00622                % 08908 RGTR--
+400000028 Longlaville, Rue des  00623  00623                % 08908 RGTR--
+220903006 Rodange, Frontière    00624  00624                % 08908 RGTR--
+220903004 Rodange, Fonderie     00626  00626                % 08908 RGTR--
+220903020 Rodange, Schlackenmi  00627  00627                % 08908 RGTR--
+220903009 Rodange, Gendarmerie  00628  00628                % 08908 RGTR--
+220903008 Rodange, Gare         00629                       % 08908 RGTR--
+*Z 08909 RGTR--                                             % 08909 RGTR--
+*L 399      400000080 220903008  00935  01000               % 08909 RGTR--
+*A as 400000080 220903008 000006  00935  01000              % 08909 RGTR--
+*A rz 400000080 220903008 000006  00935  01000              % 08909 RGTR--
+*R 2 220903008 400000080 220903008  00935  01000            % 08909 RGTR--
+*G RGB 400000080 220903008  00935  01000                    % 08909 RGTR--
+*A VE 400000080 220903008 000006  00935  01000              % 08909 RGTR--
+*I FD 400000080 220903008        0001108  00935  01000      % 08909 RGTR--
+400000080 Saulnes, Place               00935                % 08909 RGTR--
+400000079 Saulnes, Auguste Ras  00935  00935                % 08909 RGTR--
+400000082 Saulnes, Salvador Al  00936  00936                % 08909 RGTR--
+400000081 Saulnes, Les Pierret  00937  00937                % 08909 RGTR--
+400000078 Saulnes, Allée des R  00937  00937                % 08909 RGTR--
+400000020 Herserange, Quatre V  00938  00938                % 08909 RGTR--
+400000016 Herserange, Concorde  00939  00939                % 08909 RGTR--
+400000149 Herserange, Godfroy   00939  00939                % 08909 RGTR--
+400000148 Herserange, Paris     00940  00940                % 08909 RGTR--
+400000017 Herserange, La Folie  00941  00941                % 08909 RGTR--
+400000019 Herserange, Mairie    00942  00942                % 08909 RGTR--
+400000021 Herserange, St. Eloi  00943  00943                % 08909 RGTR--
+400000041 Longwy, St. Louis     00944  00944                % 08909 RGTR--
+400000038 Longwy, Récollets     00945  00945                % 08909 RGTR--
+400000031 Longwy, Espace Saint  00946  00946                % 08909 RGTR--
+400000147 Longwy, Saintignon P  00947  00947                % 08909 RGTR--
+400000146 Longwy, Kinépolis Ca  00948  00948                % 08909 RGTR--
+400000034 Longwy, Lebrun Besse  00948  00948                % 08909 RGTR--
+400000143 Longlaville, Marcell  00950  00950                % 08909 RGTR--
+400000026 Longlaville, Mairie   00951  00951                % 08909 RGTR--
+400000027 Longlaville, Maison   00952  00952                % 08909 RGTR--
+400000025 Longlaville, Elsa Tr  00953  00953                % 08909 RGTR--
+400000028 Longlaville, Rue des  00954  00954                % 08909 RGTR--
+220903006 Rodange, Frontière    00955  00955                % 08909 RGTR--
+220903004 Rodange, Fonderie     00957  00957                % 08909 RGTR--
+220903020 Rodange, Schlackenmi  00958  00958                % 08909 RGTR--
+220903009 Rodange, Gendarmerie  00959  00959                % 08909 RGTR--
+220903008 Rodange, Gare         01000                       % 08909 RGTR--
+*Z 08910 RGTR--                                             % 08910 RGTR--
+*L 399      400000080 220903008  01030  01055               % 08910 RGTR--
+*A rw 400000080 220903008 000006  01030  01055              % 08910 RGTR--
+*A rz 400000080 220903008 000006  01030  01055              % 08910 RGTR--
+*R 2 220903008 400000080 220903008  01030  01055            % 08910 RGTR--
+*G RGB 400000080 220903008  01030  01055                    % 08910 RGTR--
+*A VE 400000080 220903008 000006  01030  01055              % 08910 RGTR--
+*I FD 400000080 220903008        0002596  01030  01055      % 08910 RGTR--
+400000080 Saulnes, Place               01030                % 08910 RGTR--
+400000079 Saulnes, Auguste Ras  01030  01030                % 08910 RGTR--
+400000082 Saulnes, Salvador Al  01031  01031                % 08910 RGTR--
+400000081 Saulnes, Les Pierret  01032  01032                % 08910 RGTR--
+400000078 Saulnes, Allée des R  01032  01032                % 08910 RGTR--
+400000020 Herserange, Quatre V  01033  01033                % 08910 RGTR--
+400000016 Herserange, Concorde  01034  01034                % 08910 RGTR--
+400000149 Herserange, Godfroy   01034  01034                % 08910 RGTR--
+400000148 Herserange, Paris     01035  01035                % 08910 RGTR--
+400000017 Herserange, La Folie  01036  01036                % 08910 RGTR--
+400000019 Herserange, Mairie    01037  01037                % 08910 RGTR--
+400000021 Herserange, St. Eloi  01038  01038                % 08910 RGTR--
+400000041 Longwy, St. Louis     01039  01039                % 08910 RGTR--
+400000038 Longwy, Récollets     01040  01040                % 08910 RGTR--
+400000031 Longwy, Espace Saint  01041  01041                % 08910 RGTR--
+400000147 Longwy, Saintignon P  01042  01042                % 08910 RGTR--
+400000146 Longwy, Kinépolis Ca  01043  01043                % 08910 RGTR--
+400000034 Longwy, Lebrun Besse  01043  01043                % 08910 RGTR--
+400000143 Longlaville, Marcell  01045  01045                % 08910 RGTR--
+400000026 Longlaville, Mairie   01046  01046                % 08910 RGTR--
+400000027 Longlaville, Maison   01047  01047                % 08910 RGTR--
+400000025 Longlaville, Elsa Tr  01048  01048                % 08910 RGTR--
+400000028 Longlaville, Rue des  01049  01049                % 08910 RGTR--
+220903006 Rodange, Frontière    01050  01050                % 08910 RGTR--
+220903004 Rodange, Fonderie     01052  01052                % 08910 RGTR--
+220903020 Rodange, Schlackenmi  01053  01053                % 08910 RGTR--
+220903009 Rodange, Gendarmerie  01054  01054                % 08910 RGTR--
+220903008 Rodange, Gare         01055                       % 08910 RGTR--
+*Z 08911 RGTR--                                             % 08911 RGTR--
+*L 399      400000080 220903008  01130  01155               % 08911 RGTR--
+*A as 400000080 220903008 000006  01130  01155              % 08911 RGTR--
+*A rz 400000080 220903008 000006  01130  01155              % 08911 RGTR--
+*R 2 220903008 400000080 220903008  01130  01155            % 08911 RGTR--
+*G RGB 400000080 220903008  01130  01155                    % 08911 RGTR--
+*A VE 400000080 220903008 000006  01130  01155              % 08911 RGTR--
+*I FD 400000080 220903008        0002761  01130  01155      % 08911 RGTR--
+400000080 Saulnes, Place               01130                % 08911 RGTR--
+400000079 Saulnes, Auguste Ras  01130  01130                % 08911 RGTR--
+400000082 Saulnes, Salvador Al  01131  01131                % 08911 RGTR--
+400000081 Saulnes, Les Pierret  01132  01132                % 08911 RGTR--
+400000078 Saulnes, Allée des R  01132  01132                % 08911 RGTR--
+400000020 Herserange, Quatre V  01133  01133                % 08911 RGTR--
+400000016 Herserange, Concorde  01134  01134                % 08911 RGTR--
+400000149 Herserange, Godfroy   01134  01134                % 08911 RGTR--
+400000148 Herserange, Paris     01135  01135                % 08911 RGTR--
+400000017 Herserange, La Folie  01136  01136                % 08911 RGTR--
+400000019 Herserange, Mairie    01137  01137                % 08911 RGTR--
+400000021 Herserange, St. Eloi  01138  01138                % 08911 RGTR--
+400000041 Longwy, St. Louis     01139  01139                % 08911 RGTR--
+400000038 Longwy, Récollets     01140  01140                % 08911 RGTR--
+400000031 Longwy, Espace Saint  01141  01141                % 08911 RGTR--
+400000147 Longwy, Saintignon P  01142  01142                % 08911 RGTR--
+400000146 Longwy, Kinépolis Ca  01143  01143                % 08911 RGTR--
+400000034 Longwy, Lebrun Besse  01143  01143                % 08911 RGTR--
+400000143 Longlaville, Marcell  01145  01145                % 08911 RGTR--
+400000026 Longlaville, Mairie   01146  01146                % 08911 RGTR--
+400000027 Longlaville, Maison   01147  01147                % 08911 RGTR--
+400000025 Longlaville, Elsa Tr  01148  01148                % 08911 RGTR--
+400000028 Longlaville, Rue des  01149  01149                % 08911 RGTR--
+220903006 Rodange, Frontière    01150  01150                % 08911 RGTR--
+220903004 Rodange, Fonderie     01152  01152                % 08911 RGTR--
+220903020 Rodange, Schlackenmi  01153  01153                % 08911 RGTR--
+220903009 Rodange, Gendarmerie  01154  01154                % 08911 RGTR--
+220903008 Rodange, Gare         01155                       % 08911 RGTR--
+*Z 08912 RGTR--                                             % 08912 RGTR--
+*L 399      400000080 220903008  01230  01255               % 08912 RGTR--
+*A rw 400000080 220903008 000006  01230  01255              % 08912 RGTR--
+*A rz 400000080 220903008 000006  01230  01255              % 08912 RGTR--
+*R 2 220903008 400000080 220903008  01230  01255            % 08912 RGTR--
+*G RGB 400000080 220903008  01230  01255                    % 08912 RGTR--
+*A VE 400000080 220903008 000006  01230  01255              % 08912 RGTR--
+*I FD 400000080 220903008        0001287  01230  01255      % 08912 RGTR--
+400000080 Saulnes, Place               01230                % 08912 RGTR--
+400000079 Saulnes, Auguste Ras  01230  01230                % 08912 RGTR--
+400000082 Saulnes, Salvador Al  01231  01231                % 08912 RGTR--
+400000081 Saulnes, Les Pierret  01232  01232                % 08912 RGTR--
+400000078 Saulnes, Allée des R  01232  01232                % 08912 RGTR--
+400000020 Herserange, Quatre V  01233  01233                % 08912 RGTR--
+400000016 Herserange, Concorde  01234  01234                % 08912 RGTR--
+400000149 Herserange, Godfroy   01234  01234                % 08912 RGTR--
+400000148 Herserange, Paris     01235  01235                % 08912 RGTR--
+400000017 Herserange, La Folie  01236  01236                % 08912 RGTR--
+400000019 Herserange, Mairie    01237  01237                % 08912 RGTR--
+400000021 Herserange, St. Eloi  01238  01238                % 08912 RGTR--
+400000041 Longwy, St. Louis     01239  01239                % 08912 RGTR--
+400000038 Longwy, Récollets     01240  01240                % 08912 RGTR--
+400000031 Longwy, Espace Saint  01241  01241                % 08912 RGTR--
+400000147 Longwy, Saintignon P  01242  01242                % 08912 RGTR--
+400000146 Longwy, Kinépolis Ca  01243  01243                % 08912 RGTR--
+400000034 Longwy, Lebrun Besse  01243  01243                % 08912 RGTR--
+400000143 Longlaville, Marcell  01245  01245                % 08912 RGTR--
+400000026 Longlaville, Mairie   01246  01246                % 08912 RGTR--
+400000027 Longlaville, Maison   01247  01247                % 08912 RGTR--
+400000025 Longlaville, Elsa Tr  01248  01248                % 08912 RGTR--
+400000028 Longlaville, Rue des  01249  01249                % 08912 RGTR--
+220903006 Rodange, Frontière    01250  01250                % 08912 RGTR--
+220903004 Rodange, Fonderie     01252  01252                % 08912 RGTR--
+220903020 Rodange, Schlackenmi  01253  01253                % 08912 RGTR--
+220903009 Rodange, Gendarmerie  01254  01254                % 08912 RGTR--
+220903008 Rodange, Gare         01255                       % 08912 RGTR--
+*Z 08913 RGTR--                                             % 08913 RGTR--
+*L 399      400000080 220903008  01250  01315               % 08913 RGTR--
+*A rw 400000080 220903008 000006  01250  01315              % 08913 RGTR--
+*A rz 400000080 220903008 000006  01250  01315              % 08913 RGTR--
+*R 2 220903008 400000080 220903008  01250  01315            % 08913 RGTR--
+*G RGB 400000080 220903008  01250  01315                    % 08913 RGTR--
+*A VE 400000080 220903008 000006  01250  01315              % 08913 RGTR--
+*I FD 400000080 220903008        0001290  01250  01315      % 08913 RGTR--
+400000080 Saulnes, Place               01250                % 08913 RGTR--
+400000079 Saulnes, Auguste Ras  01250  01250                % 08913 RGTR--
+400000082 Saulnes, Salvador Al  01251  01251                % 08913 RGTR--
+400000081 Saulnes, Les Pierret  01252  01252                % 08913 RGTR--
+400000078 Saulnes, Allée des R  01252  01252                % 08913 RGTR--
+400000020 Herserange, Quatre V  01253  01253                % 08913 RGTR--
+400000016 Herserange, Concorde  01254  01254                % 08913 RGTR--
+400000149 Herserange, Godfroy   01254  01254                % 08913 RGTR--
+400000148 Herserange, Paris     01255  01255                % 08913 RGTR--
+400000017 Herserange, La Folie  01256  01256                % 08913 RGTR--
+400000019 Herserange, Mairie    01257  01257                % 08913 RGTR--
+400000021 Herserange, St. Eloi  01258  01258                % 08913 RGTR--
+400000041 Longwy, St. Louis     01259  01259                % 08913 RGTR--
+400000038 Longwy, Récollets     01300  01300                % 08913 RGTR--
+400000031 Longwy, Espace Saint  01301  01301                % 08913 RGTR--
+400000147 Longwy, Saintignon P  01302  01302                % 08913 RGTR--
+400000146 Longwy, Kinépolis Ca  01303  01303                % 08913 RGTR--
+400000034 Longwy, Lebrun Besse  01303  01303                % 08913 RGTR--
+400000143 Longlaville, Marcell  01305  01305                % 08913 RGTR--
+400000026 Longlaville, Mairie   01306  01306                % 08913 RGTR--
+400000027 Longlaville, Maison   01307  01307                % 08913 RGTR--
+400000025 Longlaville, Elsa Tr  01308  01308                % 08913 RGTR--
+400000028 Longlaville, Rue des  01309  01309                % 08913 RGTR--
+220903006 Rodange, Frontière    01310  01310                % 08913 RGTR--
+220903004 Rodange, Fonderie     01312  01312                % 08913 RGTR--
+220903020 Rodange, Schlackenmi  01313  01313                % 08913 RGTR--
+220903009 Rodange, Gendarmerie  01314  01314                % 08913 RGTR--
+220903008 Rodange, Gare         01315                       % 08913 RGTR--
+*Z 08914 RGTR--                                             % 08914 RGTR--
+*L 399      400000080 220903008  01330  01355               % 08914 RGTR--
+*A as 400000080 220903008 000006  01330  01355              % 08914 RGTR--
+*A rz 400000080 220903008 000006  01330  01355              % 08914 RGTR--
+*R 2 220903008 400000080 220903008  01330  01355            % 08914 RGTR--
+*G RGB 400000080 220903008  01330  01355                    % 08914 RGTR--
+*A VE 400000080 220903008 000006  01330  01355              % 08914 RGTR--
+*I FD 400000080 220903008        0002762  01330  01355      % 08914 RGTR--
+400000080 Saulnes, Place               01330                % 08914 RGTR--
+400000079 Saulnes, Auguste Ras  01330  01330                % 08914 RGTR--
+400000082 Saulnes, Salvador Al  01331  01331                % 08914 RGTR--
+400000081 Saulnes, Les Pierret  01332  01332                % 08914 RGTR--
+400000078 Saulnes, Allée des R  01332  01332                % 08914 RGTR--
+400000020 Herserange, Quatre V  01333  01333                % 08914 RGTR--
+400000016 Herserange, Concorde  01334  01334                % 08914 RGTR--
+400000149 Herserange, Godfroy   01334  01334                % 08914 RGTR--
+400000148 Herserange, Paris     01335  01335                % 08914 RGTR--
+400000017 Herserange, La Folie  01336  01336                % 08914 RGTR--
+400000019 Herserange, Mairie    01337  01337                % 08914 RGTR--
+400000021 Herserange, St. Eloi  01338  01338                % 08914 RGTR--
+400000041 Longwy, St. Louis     01339  01339                % 08914 RGTR--
+400000038 Longwy, Récollets     01340  01340                % 08914 RGTR--
+400000031 Longwy, Espace Saint  01341  01341                % 08914 RGTR--
+400000147 Longwy, Saintignon P  01342  01342                % 08914 RGTR--
+400000146 Longwy, Kinépolis Ca  01343  01343                % 08914 RGTR--
+400000034 Longwy, Lebrun Besse  01343  01343                % 08914 RGTR--
+400000143 Longlaville, Marcell  01345  01345                % 08914 RGTR--
+400000026 Longlaville, Mairie   01346  01346                % 08914 RGTR--
+400000027 Longlaville, Maison   01347  01347                % 08914 RGTR--
+400000025 Longlaville, Elsa Tr  01348  01348                % 08914 RGTR--
+400000028 Longlaville, Rue des  01349  01349                % 08914 RGTR--
+220903006 Rodange, Frontière    01350  01350                % 08914 RGTR--
+220903004 Rodange, Fonderie     01352  01352                % 08914 RGTR--
+220903020 Rodange, Schlackenmi  01353  01353                % 08914 RGTR--
+220903009 Rodange, Gendarmerie  01354  01354                % 08914 RGTR--
+220903008 Rodange, Gare         01355                       % 08914 RGTR--
+*Z 08915 RGTR--                                             % 08915 RGTR--
+*L 399      400000080 220903008  01430  01455               % 08915 RGTR--
+*A rw 400000080 220903008 000006  01430  01455              % 08915 RGTR--
+*A rz 400000080 220903008 000006  01430  01455              % 08915 RGTR--
+*R 2 220903008 400000080 220903008  01430  01455            % 08915 RGTR--
+*G RGB 400000080 220903008  01430  01455                    % 08915 RGTR--
+*A VE 400000080 220903008 000006  01430  01455              % 08915 RGTR--
+*I FD 400000080 220903008        0002763  01430  01455      % 08915 RGTR--
+400000080 Saulnes, Place               01430                % 08915 RGTR--
+400000079 Saulnes, Auguste Ras  01430  01430                % 08915 RGTR--
+400000082 Saulnes, Salvador Al  01431  01431                % 08915 RGTR--
+400000081 Saulnes, Les Pierret  01432  01432                % 08915 RGTR--
+400000078 Saulnes, Allée des R  01432  01432                % 08915 RGTR--
+400000020 Herserange, Quatre V  01433  01433                % 08915 RGTR--
+400000016 Herserange, Concorde  01434  01434                % 08915 RGTR--
+400000149 Herserange, Godfroy   01434  01434                % 08915 RGTR--
+400000148 Herserange, Paris     01435  01435                % 08915 RGTR--
+400000017 Herserange, La Folie  01436  01436                % 08915 RGTR--
+400000019 Herserange, Mairie    01437  01437                % 08915 RGTR--
+400000021 Herserange, St. Eloi  01438  01438                % 08915 RGTR--
+400000041 Longwy, St. Louis     01439  01439                % 08915 RGTR--
+400000038 Longwy, Récollets     01440  01440                % 08915 RGTR--
+400000031 Longwy, Espace Saint  01441  01441                % 08915 RGTR--
+400000147 Longwy, Saintignon P  01442  01442                % 08915 RGTR--
+400000146 Longwy, Kinépolis Ca  01443  01443                % 08915 RGTR--
+400000034 Longwy, Lebrun Besse  01443  01443                % 08915 RGTR--
+400000143 Longlaville, Marcell  01445  01445                % 08915 RGTR--
+400000026 Longlaville, Mairie   01446  01446                % 08915 RGTR--
+400000027 Longlaville, Maison   01447  01447                % 08915 RGTR--
+400000025 Longlaville, Elsa Tr  01448  01448                % 08915 RGTR--
+400000028 Longlaville, Rue des  01449  01449                % 08915 RGTR--
+220903006 Rodange, Frontière    01450  01450                % 08915 RGTR--
+220903004 Rodange, Fonderie     01452  01452                % 08915 RGTR--
+220903020 Rodange, Schlackenmi  01453  01453                % 08915 RGTR--
+220903009 Rodange, Gendarmerie  01454  01454                % 08915 RGTR--
+220903008 Rodange, Gare         01455                       % 08915 RGTR--
+*Z 08916 RGTR--                                             % 08916 RGTR--
+*L 399      400000080 220903008  01530  01555               % 08916 RGTR--
+*A as 400000080 220903008 000006  01530  01555              % 08916 RGTR--
+*A rz 400000080 220903008 000006  01530  01555              % 08916 RGTR--
+*R 2 220903008 400000080 220903008  01530  01555            % 08916 RGTR--
+*G RGB 400000080 220903008  01530  01555                    % 08916 RGTR--
+*A VE 400000080 220903008 000006  01530  01555              % 08916 RGTR--
+*I FD 400000080 220903008        0002764  01530  01555      % 08916 RGTR--
+400000080 Saulnes, Place               01530                % 08916 RGTR--
+400000079 Saulnes, Auguste Ras  01530  01530                % 08916 RGTR--
+400000082 Saulnes, Salvador Al  01531  01531                % 08916 RGTR--
+400000081 Saulnes, Les Pierret  01532  01532                % 08916 RGTR--
+400000078 Saulnes, Allée des R  01532  01532                % 08916 RGTR--
+400000020 Herserange, Quatre V  01533  01533                % 08916 RGTR--
+400000016 Herserange, Concorde  01534  01534                % 08916 RGTR--
+400000149 Herserange, Godfroy   01534  01534                % 08916 RGTR--
+400000148 Herserange, Paris     01535  01535                % 08916 RGTR--
+400000017 Herserange, La Folie  01536  01536                % 08916 RGTR--
+400000019 Herserange, Mairie    01537  01537                % 08916 RGTR--
+400000021 Herserange, St. Eloi  01538  01538                % 08916 RGTR--
+400000041 Longwy, St. Louis     01539  01539                % 08916 RGTR--
+400000038 Longwy, Récollets     01540  01540                % 08916 RGTR--
+400000031 Longwy, Espace Saint  01541  01541                % 08916 RGTR--
+400000147 Longwy, Saintignon P  01542  01542                % 08916 RGTR--
+400000146 Longwy, Kinépolis Ca  01543  01543                % 08916 RGTR--
+400000034 Longwy, Lebrun Besse  01543  01543                % 08916 RGTR--
+400000143 Longlaville, Marcell  01545  01545                % 08916 RGTR--
+400000026 Longlaville, Mairie   01546  01546                % 08916 RGTR--
+400000027 Longlaville, Maison   01547  01547                % 08916 RGTR--
+400000025 Longlaville, Elsa Tr  01548  01548                % 08916 RGTR--
+400000028 Longlaville, Rue des  01549  01549                % 08916 RGTR--
+220903006 Rodange, Frontière    01550  01550                % 08916 RGTR--
+220903004 Rodange, Fonderie     01552  01552                % 08916 RGTR--
+220903020 Rodange, Schlackenmi  01553  01553                % 08916 RGTR--
+220903009 Rodange, Gendarmerie  01554  01554                % 08916 RGTR--
+220903008 Rodange, Gare         01555                       % 08916 RGTR--
+*Z 08917 RGTR--                                             % 08917 RGTR--
+*L 399      400000080 220903008  01830  01855               % 08917 RGTR--
+*A rw 400000080 220903008 000006  01830  01855              % 08917 RGTR--
+*A rz 400000080 220903008 000006  01830  01855              % 08917 RGTR--
+*R 2 220903008 400000080 220903008  01830  01855            % 08917 RGTR--
+*G RGB 400000080 220903008  01830  01855                    % 08917 RGTR--
+*A VE 400000080 220903008 000006  01830  01855              % 08917 RGTR--
+*I FD 400000080 220903008        0002765  01830  01855      % 08917 RGTR--
+400000080 Saulnes, Place               01830                % 08917 RGTR--
+400000079 Saulnes, Auguste Ras  01830  01830                % 08917 RGTR--
+400000082 Saulnes, Salvador Al  01831  01831                % 08917 RGTR--
+400000081 Saulnes, Les Pierret  01832  01832                % 08917 RGTR--
+400000078 Saulnes, Allée des R  01832  01832                % 08917 RGTR--
+400000020 Herserange, Quatre V  01833  01833                % 08917 RGTR--
+400000016 Herserange, Concorde  01834  01834                % 08917 RGTR--
+400000149 Herserange, Godfroy   01834  01834                % 08917 RGTR--
+400000148 Herserange, Paris     01835  01835                % 08917 RGTR--
+400000017 Herserange, La Folie  01836  01836                % 08917 RGTR--
+400000019 Herserange, Mairie    01837  01837                % 08917 RGTR--
+400000021 Herserange, St. Eloi  01838  01838                % 08917 RGTR--
+400000041 Longwy, St. Louis     01839  01839                % 08917 RGTR--
+400000038 Longwy, Récollets     01840  01840                % 08917 RGTR--
+400000031 Longwy, Espace Saint  01841  01841                % 08917 RGTR--
+400000147 Longwy, Saintignon P  01842  01842                % 08917 RGTR--
+400000146 Longwy, Kinépolis Ca  01843  01843                % 08917 RGTR--
+400000034 Longwy, Lebrun Besse  01843  01843                % 08917 RGTR--
+400000143 Longlaville, Marcell  01845  01845                % 08917 RGTR--
+400000026 Longlaville, Mairie   01846  01846                % 08917 RGTR--
+400000027 Longlaville, Maison   01847  01847                % 08917 RGTR--
+400000025 Longlaville, Elsa Tr  01848  01848                % 08917 RGTR--
+400000028 Longlaville, Rue des  01849  01849                % 08917 RGTR--
+220903006 Rodange, Frontière    01850  01850                % 08917 RGTR--
+220903004 Rodange, Fonderie     01852  01852                % 08917 RGTR--
+220903020 Rodange, Schlackenmi  01853  01853                % 08917 RGTR--
+220903009 Rodange, Gendarmerie  01854  01854                % 08917 RGTR--
+220903008 Rodange, Gare         01855                       % 08917 RGTR--
+*Z 08918 RGTR--                                             % 08918 RGTR--
+*L 399      400000080 220903008  01930  01955               % 08918 RGTR--
+*A as 400000080 220903008 000006  01930  01955              % 08918 RGTR--
+*A rz 400000080 220903008 000006  01930  01955              % 08918 RGTR--
+*R 2 220903008 400000080 220903008  01930  01955            % 08918 RGTR--
+*G RGB 400000080 220903008  01930  01955                    % 08918 RGTR--
+*A VE 400000080 220903008 000006  01930  01955              % 08918 RGTR--
+*I FD 400000080 220903008        0001509  01930  01955      % 08918 RGTR--
+400000080 Saulnes, Place               01930                % 08918 RGTR--
+400000079 Saulnes, Auguste Ras  01930  01930                % 08918 RGTR--
+400000082 Saulnes, Salvador Al  01931  01931                % 08918 RGTR--
+400000081 Saulnes, Les Pierret  01932  01932                % 08918 RGTR--
+400000078 Saulnes, Allée des R  01932  01932                % 08918 RGTR--
+400000020 Herserange, Quatre V  01933  01933                % 08918 RGTR--
+400000016 Herserange, Concorde  01934  01934                % 08918 RGTR--
+400000149 Herserange, Godfroy   01934  01934                % 08918 RGTR--
+400000148 Herserange, Paris     01935  01935                % 08918 RGTR--
+400000017 Herserange, La Folie  01936  01936                % 08918 RGTR--
+400000019 Herserange, Mairie    01937  01937                % 08918 RGTR--
+400000021 Herserange, St. Eloi  01938  01938                % 08918 RGTR--
+400000041 Longwy, St. Louis     01939  01939                % 08918 RGTR--
+400000038 Longwy, Récollets     01940  01940                % 08918 RGTR--
+400000031 Longwy, Espace Saint  01941  01941                % 08918 RGTR--
+400000147 Longwy, Saintignon P  01942  01942                % 08918 RGTR--
+400000146 Longwy, Kinépolis Ca  01943  01943                % 08918 RGTR--
+400000034 Longwy, Lebrun Besse  01943  01943                % 08918 RGTR--
+400000143 Longlaville, Marcell  01945  01945                % 08918 RGTR--
+400000026 Longlaville, Mairie   01946  01946                % 08918 RGTR--
+400000027 Longlaville, Maison   01947  01947                % 08918 RGTR--
+400000025 Longlaville, Elsa Tr  01948  01948                % 08918 RGTR--
+400000028 Longlaville, Rue des  01949  01949                % 08918 RGTR--
+220903006 Rodange, Frontière    01950  01950                % 08918 RGTR--
+220903004 Rodange, Fonderie     01952  01952                % 08918 RGTR--
+220903020 Rodange, Schlackenmi  01953  01953                % 08918 RGTR--
+220903009 Rodange, Gendarmerie  01954  01954                % 08918 RGTR--
+220903008 Rodange, Gare         01955                       % 08918 RGTR--

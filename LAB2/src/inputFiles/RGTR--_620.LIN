@@ -1,0 +1,1192 @@
+*F 03 2
+*Z 06157 RGTR--                                             % 06157 RGTR--
+*L 620      120903022 150512006  01158  01255               % 06157 RGTR--
+*A fj 120903022 150512006 000042  01158  01255              % 06157 RGTR--
+*A km 120903022 150512006 000042  01158  01255              % 06157 RGTR--
+*A oe 120903022 150512006 000042  01158  01255              % 06157 RGTR--
+*R 1 150512006 120903022 150512006  01158  01255            % 06157 RGTR--
+*G RGB 120903022 150512006  01158  01255                    % 06157 RGTR--
+*A VE 120903022 150512006 000042  01158  01255              % 06157 RGTR--
+*I FD 120903022 150512006        0002007  01158  01255      % 06157 RGTR--
+120903022 Wiltz, Lycée (navett         01158                % 06157 RGTR--
+120903031 Wiltz, Huuschtewee/P  01200  01200                % 06157 RGTR--
+120903035 Wiltz, Huuschtewee    01201  01201                % 06157 RGTR--
+120903011 Wiltz, Clinique       01202  01202                % 06157 RGTR--
+120903037 Wiltz, Schlass        01203  01203                % 06157 RGTR--
+120903033 Wiltz, Post           01204  01204                % 06157 RGTR--
+120903021 Wiltz, Lann           01205  01205                % 06157 RGTR--
+120903018 Wiltz, Gare           01206  01206                % 06157 RGTR--
+120903008 Wiltz, Pompjeesbau    01208  01208                % 06157 RGTR--
+120903023 Wiltz, Lycée du Nord  01209  01209                % 06157 RGTR--
+120903038 Wiltz, Schumann       01213  01213                % 06157 RGTR--
+120707003 Nothum, Schumann      01214  01214                % 06157 RGTR--
+120707002 Nothum, Molkerei      01215  01215                % 06157 RGTR--
+120707001 Nothum, Duerfstrooss  01215  01215                % 06157 RGTR--
+120704001 Kaundorf, An der Hie  01220  01220                % 06157 RGTR--
+120705001 Liefrange, Kiirch     01224  01224                % 06157 RGTR--
+120701001 Bavigne, Gemeng       01231  01231                % 06157 RGTR--
+120102002 Surré, Gënzebierg     01238  01238                % 06157 RGTR--
+120102001 Surré, Bei der Bréck  01238  01238                % 06157 RGTR--
+120103002 Hareler Poteau        01241  01241                % 06157 RGTR--
+120101004 Boulaide, Post        01241  01241                % 06157 RGTR--
+150501005 Arsdorf, Misärshaff   01246  01246                % 06157 RGTR--
+150501004 Arsdorf, Um Knupp     01248  01248                % 06157 RGTR--
+150501001 Arsdorf, Am Duerf     01249  01249                % 06157 RGTR--
+150501003 Arsdorf, An der Gaas  01250  01250                % 06157 RGTR--
+150509001 Koetschette, Rond-Po  01252  01252                % 06157 RGTR--
+150512005 Rambrouch, Schlass    01254  01254                % 06157 RGTR--
+150512006 Rambrouch, Gare       01255                       % 06157 RGTR--
+*Z 06158 RGTR--                                             % 06158 RGTR--
+*L 620      120903022 120903023  00654  00705               % 06158 RGTR--
+*A fj 120903022 120903023 000006  00654  00705              % 06158 RGTR--
+*A bl 120903022 120903023 000006  00654  00705              % 06158 RGTR--
+*R 1 120903023 120903022 120903023  00654  00705            % 06158 RGTR--
+*G RGB 120903022 120903023  00654  00705                    % 06158 RGTR--
+*A VE 120903022 120903023 000006  00654  00705              % 06158 RGTR--
+*I FD 120903022 120903023        0003529  00654  00705      % 06158 RGTR--
+120903022 Wiltz, Lycée (navett         00654                % 06158 RGTR--
+120903031 Wiltz, Huuschtewee/P  00656  00656                % 06158 RGTR--
+120903035 Wiltz, Huuschtewee    00657  00657                % 06158 RGTR--
+120903011 Wiltz, Clinique       00658  00658                % 06158 RGTR--
+120903037 Wiltz, Schlass        00659  00659                % 06158 RGTR--
+120903033 Wiltz, Post           00700  00700                % 06158 RGTR--
+120903021 Wiltz, Lann           00701  00701                % 06158 RGTR--
+120903018 Wiltz, Gare           00703  00703                % 06158 RGTR--
+120903008 Wiltz, Pompjeesbau    00704  00704                % 06158 RGTR--
+120903023 Wiltz, Lycée du Nord  00705                       % 06158 RGTR--
+*Z 06159 RGTR--                                             % 06159 RGTR--
+*L 620      120903023 150512006  01615  01650               % 06159 RGTR--
+*A fj 120903023 150512006 000045  01615  01650              % 06159 RGTR--
+*A km 120903023 150512006 000045  01615  01650              % 06159 RGTR--
+*R 1 150512006 120903023 150512006  01615  01650            % 06159 RGTR--
+*G RGB 120903023 150512006  01615  01650                    % 06159 RGTR--
+*A VE 120903023 150512006 000045  01615  01650              % 06159 RGTR--
+*I FD 120903023 150512006        0001811  01615  01650      % 06159 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 06159 RGTR--
+120903038 Wiltz, Schumann       01619  01619                % 06159 RGTR--
+120707003 Nothum, Schumann      01620  01620                % 06159 RGTR--
+120707002 Nothum, Molkerei      01621  01621                % 06159 RGTR--
+120707001 Nothum, Duerfstrooss  01621  01621                % 06159 RGTR--
+120701001 Bavigne, Gemeng       01627  01627                % 06159 RGTR--
+120103002 Hareler Poteau        01631  01631                % 06159 RGTR--
+120101002 Baschleiden, Kiirch   01633  01633                % 06159 RGTR--
+120101001 Baschleiden, Elber    01634  01634                % 06159 RGTR--
+120101003 Boulaide, Camping     01635  01635                % 06159 RGTR--
+120101004 Boulaide, Post        01636  01636                % 06159 RGTR--
+150501005 Arsdorf, Misärshaff   01640  01640                % 06159 RGTR--
+150501004 Arsdorf, Um Knupp     01643  01643                % 06159 RGTR--
+150501001 Arsdorf, Am Duerf     01644  01644                % 06159 RGTR--
+150501003 Arsdorf, An der Gaas  01645  01645                % 06159 RGTR--
+150509001 Koetschette, Rond-Po  01648  01648                % 06159 RGTR--
+150512005 Rambrouch, Schlass    01649  01649                % 06159 RGTR--
+150512006 Rambrouch, Gare       01650                       % 06159 RGTR--
+*Z 06160 RGTR--                                             % 06160 RGTR--
+*L 620      120903022 150501001  01554  01656               % 06160 RGTR--
+*A fj 120903022 150501001 000045  01554  01656              % 06160 RGTR--
+*A of 120903022 150501001 000045  01554  01656              % 06160 RGTR--
+*R 1 150501001 120903022 150501001  01554  01656            % 06160 RGTR--
+*G RGB 120903022 150501001  01554  01656                    % 06160 RGTR--
+*A VE 120903022 150501001 000045  01554  01656              % 06160 RGTR--
+*I FD 120903022 150501001        0003530  01554  01656      % 06160 RGTR--
+120903022 Wiltz, Lycée (navett         01554                % 06160 RGTR--
+120903031 Wiltz, Huuschtewee/P  01556  01556                % 06160 RGTR--
+120903035 Wiltz, Huuschtewee    01557  01557                % 06160 RGTR--
+120903011 Wiltz, Clinique       01558  01558                % 06160 RGTR--
+120903037 Wiltz, Schlass        01559  01559                % 06160 RGTR--
+120903033 Wiltz, Post           01600  01600                % 06160 RGTR--
+120903021 Wiltz, Lann           01601  01601                % 06160 RGTR--
+120903018 Wiltz, Gare           01603  01603                % 06160 RGTR--
+120903008 Wiltz, Pompjeesbau    01604  01604                % 06160 RGTR--
+120903023 Wiltz, Lycée du Nord  01605  01615                % 06160 RGTR--
+120903038 Wiltz, Schumann       01619  01619                % 06160 RGTR--
+120707003 Nothum, Schumann      01620  01620                % 06160 RGTR--
+120707002 Nothum, Molkerei      01621  01621                % 06160 RGTR--
+120707001 Nothum, Duerfstrooss  01621  01621                % 06160 RGTR--
+120704001 Kaundorf, An der Hie  01626  01626                % 06160 RGTR--
+120705001 Liefrange, Kiirch     01630  01630                % 06160 RGTR--
+120701001 Bavigne, Gemeng       01637  01637                % 06160 RGTR--
+120102002 Surré, Gënzebierg     01644  01644                % 06160 RGTR--
+120102001 Surré, Bei der Bréck  01645  01645                % 06160 RGTR--
+120103002 Hareler Poteau        01648  01648                % 06160 RGTR--
+120101004 Boulaide, Post        01648  01648                % 06160 RGTR--
+150501005 Arsdorf, Misärshaff   01652  01652                % 06160 RGTR--
+150501004 Arsdorf, Um Knupp     01655  01655                % 06160 RGTR--
+150501001 Arsdorf, Am Duerf     01656                       % 06160 RGTR--
+*Z 06161 RGTR--                                             % 06161 RGTR--
+*L 620      120704001 150512006  00716  00757               % 06161 RGTR--
+*A fj 120704001 150512006 000006  00716  00757              % 06161 RGTR--
+*A km 120704001 150512006 000006  00716  00757              % 06161 RGTR--
+*A oe 120704001 150512006 000006  00716  00757              % 06161 RGTR--
+*R 1 150512006 120704001 150512006  00716  00757            % 06161 RGTR--
+*G RGB 120704001 150512006  00716  00757                    % 06161 RGTR--
+*A VE 120704001 150512006 000006  00716  00757              % 06161 RGTR--
+*I FD 120704001 150512006        0003064  00716  00757      % 06161 RGTR--
+120704001 Kaundorf, An der Hie         00716                % 06161 RGTR--
+120705001 Liefrange, Kiirch     00720  00720                % 06161 RGTR--
+120701001 Bavigne, Gemeng       00727  00727                % 06161 RGTR--
+120102002 Surré, Gënzebierg     00734  00734                % 06161 RGTR--
+120102001 Surré, Bei der Bréck  00735  00735                % 06161 RGTR--
+120103002 Hareler Poteau        00738  00738                % 06161 RGTR--
+120101002 Baschleiden, Kiirch   00740  00740                % 06161 RGTR--
+120101001 Baschleiden, Elber    00741  00741                % 06161 RGTR--
+120101003 Boulaide, Camping     00742  00742                % 06161 RGTR--
+120101004 Boulaide, Post        00742  00742                % 06161 RGTR--
+150501005 Arsdorf, Misärshaff   00747  00747                % 06161 RGTR--
+150501004 Arsdorf, Um Knupp     00749  00749                % 06161 RGTR--
+150501001 Arsdorf, Am Duerf     00750  00750                % 06161 RGTR--
+150501003 Arsdorf, An der Gaas  00751  00751                % 06161 RGTR--
+150509001 Koetschette, Rond-Po  00754  00754                % 06161 RGTR--
+150512005 Rambrouch, Schlass    00756  00756                % 06161 RGTR--
+150512006 Rambrouch, Gare       00757                       % 06161 RGTR--
+*Z 06162 RGTR--                                             % 06162 RGTR--
+*L 620      120704001 150512006  00502  00541               % 06162 RGTR--
+*A fj 120704001 150512006 000006  00502  00541              % 06162 RGTR--
+*A km 120704001 150512006 000006  00502  00541              % 06162 RGTR--
+*R 1 150512006 120704001 150512006  00502  00541            % 06162 RGTR--
+*G RGB 120704001 150512006  00502  00541                    % 06162 RGTR--
+*A VE 120704001 150512006 000006  00502  00541              % 06162 RGTR--
+*I FD 120704001 150512006        0003531  00502  00541      % 06162 RGTR--
+120704001 Kaundorf, An der Hie         00502                % 06162 RGTR--
+120705001 Liefrange, Kiirch     00506  00506                % 06162 RGTR--
+120701001 Bavigne, Gemeng       00513  00513                % 06162 RGTR--
+120102002 Surré, Gënzebierg     00519  00519                % 06162 RGTR--
+120102001 Surré, Bei der Bréck  00520  00520                % 06162 RGTR--
+120103002 Hareler Poteau        00523  00523                % 06162 RGTR--
+120101002 Baschleiden, Kiirch   00525  00525                % 06162 RGTR--
+120101001 Baschleiden, Elber    00526  00526                % 06162 RGTR--
+120101003 Boulaide, Camping     00527  00527                % 06162 RGTR--
+120101004 Boulaide, Post        00528  00528                % 06162 RGTR--
+150501005 Arsdorf, Misärshaff   00532  00532                % 06162 RGTR--
+150501004 Arsdorf, Um Knupp     00535  00535                % 06162 RGTR--
+150501001 Arsdorf, Am Duerf     00536  00536                % 06162 RGTR--
+150501003 Arsdorf, An der Gaas  00536  00536                % 06162 RGTR--
+150509001 Koetschette, Rond-Po  00539  00539                % 06162 RGTR--
+150512005 Rambrouch, Schlass    00540  00540                % 06162 RGTR--
+150512006 Rambrouch, Gare       00541                       % 06162 RGTR--
+*Z 06163 RGTR--                                             % 06163 RGTR--
+*L 620      120704001 150512006  00546  00625               % 06163 RGTR--
+*A fj 120704001 150512006 000006  00546  00625              % 06163 RGTR--
+*A km 120704001 150512006 000006  00546  00625              % 06163 RGTR--
+*R 1 150512006 120704001 150512006  00546  00625            % 06163 RGTR--
+*G RGB 120704001 150512006  00546  00625                    % 06163 RGTR--
+*A VE 120704001 150512006 000006  00546  00625              % 06163 RGTR--
+*I FD 120704001 150512006        0003532  00546  00625      % 06163 RGTR--
+120704001 Kaundorf, An der Hie         00546                % 06163 RGTR--
+120705001 Liefrange, Kiirch     00550  00550                % 06163 RGTR--
+120701001 Bavigne, Gemeng       00557  00557                % 06163 RGTR--
+120102002 Surré, Gënzebierg     00603  00603                % 06163 RGTR--
+120102001 Surré, Bei der Bréck  00604  00604                % 06163 RGTR--
+120103002 Hareler Poteau        00607  00607                % 06163 RGTR--
+120101002 Baschleiden, Kiirch   00609  00609                % 06163 RGTR--
+120101001 Baschleiden, Elber    00610  00610                % 06163 RGTR--
+120101003 Boulaide, Camping     00611  00611                % 06163 RGTR--
+120101004 Boulaide, Post        00612  00612                % 06163 RGTR--
+150501005 Arsdorf, Misärshaff   00616  00616                % 06163 RGTR--
+150501004 Arsdorf, Um Knupp     00619  00619                % 06163 RGTR--
+150501001 Arsdorf, Am Duerf     00620  00620                % 06163 RGTR--
+150501003 Arsdorf, An der Gaas  00620  00620                % 06163 RGTR--
+150509001 Koetschette, Rond-Po  00623  00623                % 06163 RGTR--
+150512005 Rambrouch, Schlass    00624  00624                % 06163 RGTR--
+150512006 Rambrouch, Gare       00625                       % 06163 RGTR--
+*Z 06164 RGTR--                                             % 06164 RGTR--
+*L 620      120903022 150512006  00754  00858               % 06164 RGTR--
+*A fj 120903022 150512006 000006  00754  00858              % 06164 RGTR--
+*A km 120903022 150512006 000006  00754  00858              % 06164 RGTR--
+*A oe 120903022 150512006 000006  00754  00858              % 06164 RGTR--
+*R 1 150512006 120903022 150512006  00754  00858            % 06164 RGTR--
+*G RGB 120903022 150512006  00754  00858                    % 06164 RGTR--
+*A VE 120903022 150512006 000006  00754  00858              % 06164 RGTR--
+*I FD 120903022 150512006        0003404  00754  00858      % 06164 RGTR--
+120903022 Wiltz, Lycée (navett         00754                % 06164 RGTR--
+120903031 Wiltz, Huuschtewee/P  00756  00756                % 06164 RGTR--
+120903035 Wiltz, Huuschtewee    00757  00757                % 06164 RGTR--
+120903011 Wiltz, Clinique       00758  00758                % 06164 RGTR--
+120903037 Wiltz, Schlass        00759  00759                % 06164 RGTR--
+120903033 Wiltz, Post           00800  00800                % 06164 RGTR--
+120903021 Wiltz, Lann           00801  00801                % 06164 RGTR--
+120903018 Wiltz, Gare           00803  00803                % 06164 RGTR--
+120903008 Wiltz, Pompjeesbau    00804  00804                % 06164 RGTR--
+120903023 Wiltz, Lycée du Nord  00805  00805                % 06164 RGTR--
+120903038 Wiltz, Schumann       00810  00810                % 06164 RGTR--
+120707003 Nothum, Schumann      00811  00811                % 06164 RGTR--
+120707002 Nothum, Molkerei      00811  00811                % 06164 RGTR--
+120707001 Nothum, Duerfstrooss  00812  00812                % 06164 RGTR--
+120704001 Kaundorf, An der Hie  00816  00816                % 06164 RGTR--
+120705001 Liefrange, Kiirch     00821  00821                % 06164 RGTR--
+120701001 Bavigne, Gemeng       00828  00828                % 06164 RGTR--
+120102002 Surré, Gënzebierg     00835  00835                % 06164 RGTR--
+120102001 Surré, Bei der Bréck  00835  00835                % 06164 RGTR--
+120103002 Hareler Poteau        00839  00839                % 06164 RGTR--
+120101002 Baschleiden, Kiirch   00841  00841                % 06164 RGTR--
+120101001 Baschleiden, Elber    00842  00842                % 06164 RGTR--
+120101003 Boulaide, Camping     00842  00842                % 06164 RGTR--
+120101004 Boulaide, Post        00843  00843                % 06164 RGTR--
+150501005 Arsdorf, Misärshaff   00848  00848                % 06164 RGTR--
+150501004 Arsdorf, Um Knupp     00850  00850                % 06164 RGTR--
+150501001 Arsdorf, Am Duerf     00851  00851                % 06164 RGTR--
+150501003 Arsdorf, An der Gaas  00852  00852                % 06164 RGTR--
+150509001 Koetschette, Rond-Po  00855  00855                % 06164 RGTR--
+150512005 Rambrouch, Schlass    00857  00857                % 06164 RGTR--
+150512006 Rambrouch, Gare       00858                       % 06164 RGTR--
+*Z 06165 RGTR--                                             % 06165 RGTR--
+*L 620      120903022 150512006  00854  00958               % 06165 RGTR--
+*A fj 120903022 150512006 000006  00854  00958              % 06165 RGTR--
+*A km 120903022 150512006 000006  00854  00958              % 06165 RGTR--
+*A oe 120903022 150512006 000006  00854  00958              % 06165 RGTR--
+*R 1 150512006 120903022 150512006  00854  00958            % 06165 RGTR--
+*G RGB 120903022 150512006  00854  00958                    % 06165 RGTR--
+*A VE 120903022 150512006 000006  00854  00958              % 06165 RGTR--
+*I FD 120903022 150512006        0003411  00854  00958      % 06165 RGTR--
+120903022 Wiltz, Lycée (navett         00854                % 06165 RGTR--
+120903031 Wiltz, Huuschtewee/P  00856  00856                % 06165 RGTR--
+120903035 Wiltz, Huuschtewee    00857  00857                % 06165 RGTR--
+120903011 Wiltz, Clinique       00858  00858                % 06165 RGTR--
+120903037 Wiltz, Schlass        00859  00859                % 06165 RGTR--
+120903033 Wiltz, Post           00900  00900                % 06165 RGTR--
+120903021 Wiltz, Lann           00901  00901                % 06165 RGTR--
+120903018 Wiltz, Gare           00903  00903                % 06165 RGTR--
+120903008 Wiltz, Pompjeesbau    00904  00904                % 06165 RGTR--
+120903023 Wiltz, Lycée du Nord  00905  00905                % 06165 RGTR--
+120903038 Wiltz, Schumann       00910  00910                % 06165 RGTR--
+120707003 Nothum, Schumann      00911  00911                % 06165 RGTR--
+120707002 Nothum, Molkerei      00911  00911                % 06165 RGTR--
+120707001 Nothum, Duerfstrooss  00912  00912                % 06165 RGTR--
+120704001 Kaundorf, An der Hie  00916  00916                % 06165 RGTR--
+120705001 Liefrange, Kiirch     00921  00921                % 06165 RGTR--
+120701001 Bavigne, Gemeng       00928  00928                % 06165 RGTR--
+120102002 Surré, Gënzebierg     00935  00935                % 06165 RGTR--
+120102001 Surré, Bei der Bréck  00935  00935                % 06165 RGTR--
+120103002 Hareler Poteau        00939  00939                % 06165 RGTR--
+120101002 Baschleiden, Kiirch   00941  00941                % 06165 RGTR--
+120101001 Baschleiden, Elber    00942  00942                % 06165 RGTR--
+120101003 Boulaide, Camping     00942  00942                % 06165 RGTR--
+120101004 Boulaide, Post        00943  00943                % 06165 RGTR--
+150501005 Arsdorf, Misärshaff   00948  00948                % 06165 RGTR--
+150501004 Arsdorf, Um Knupp     00950  00950                % 06165 RGTR--
+150501001 Arsdorf, Am Duerf     00951  00951                % 06165 RGTR--
+150501003 Arsdorf, An der Gaas  00952  00952                % 06165 RGTR--
+150509001 Koetschette, Rond-Po  00955  00955                % 06165 RGTR--
+150512005 Rambrouch, Schlass    00957  00957                % 06165 RGTR--
+150512006 Rambrouch, Gare       00958                       % 06165 RGTR--
+*Z 06166 RGTR--                                             % 06166 RGTR--
+*L 620      120903022 150512006  01654  01758               % 06166 RGTR--
+*A fj 120903022 150512006 000006  01654  01758              % 06166 RGTR--
+*A km 120903022 150512006 000006  01654  01758              % 06166 RGTR--
+*A oe 120903022 150512006 000006  01654  01758              % 06166 RGTR--
+*R 1 150512006 120903022 150512006  01654  01758            % 06166 RGTR--
+*G RGB 120903022 150512006  01654  01758                    % 06166 RGTR--
+*A VE 120903022 150512006 000006  01654  01758              % 06166 RGTR--
+*I FD 120903022 150512006        0003502  01654  01758      % 06166 RGTR--
+120903022 Wiltz, Lycée (navett         01654                % 06166 RGTR--
+120903031 Wiltz, Huuschtewee/P  01656  01656                % 06166 RGTR--
+120903035 Wiltz, Huuschtewee    01657  01657                % 06166 RGTR--
+120903011 Wiltz, Clinique       01658  01658                % 06166 RGTR--
+120903037 Wiltz, Schlass        01659  01659                % 06166 RGTR--
+120903033 Wiltz, Post           01700  01700                % 06166 RGTR--
+120903021 Wiltz, Lann           01701  01701                % 06166 RGTR--
+120903018 Wiltz, Gare           01703  01703                % 06166 RGTR--
+120903008 Wiltz, Pompjeesbau    01704  01704                % 06166 RGTR--
+120903023 Wiltz, Lycée du Nord  01705  01705                % 06166 RGTR--
+120903038 Wiltz, Schumann       01710  01710                % 06166 RGTR--
+120707003 Nothum, Schumann      01711  01711                % 06166 RGTR--
+120707002 Nothum, Molkerei      01711  01711                % 06166 RGTR--
+120707001 Nothum, Duerfstrooss  01712  01712                % 06166 RGTR--
+120704001 Kaundorf, An der Hie  01716  01716                % 06166 RGTR--
+120705001 Liefrange, Kiirch     01721  01721                % 06166 RGTR--
+120701001 Bavigne, Gemeng       01728  01728                % 06166 RGTR--
+120102002 Surré, Gënzebierg     01735  01735                % 06166 RGTR--
+120102001 Surré, Bei der Bréck  01735  01735                % 06166 RGTR--
+120103002 Hareler Poteau        01739  01739                % 06166 RGTR--
+120101002 Baschleiden, Kiirch   01741  01741                % 06166 RGTR--
+120101001 Baschleiden, Elber    01742  01742                % 06166 RGTR--
+120101003 Boulaide, Camping     01742  01742                % 06166 RGTR--
+120101004 Boulaide, Post        01743  01743                % 06166 RGTR--
+150501005 Arsdorf, Misärshaff   01748  01748                % 06166 RGTR--
+150501004 Arsdorf, Um Knupp     01750  01750                % 06166 RGTR--
+150501001 Arsdorf, Am Duerf     01751  01751                % 06166 RGTR--
+150501003 Arsdorf, An der Gaas  01752  01752                % 06166 RGTR--
+150509001 Koetschette, Rond-Po  01755  01755                % 06166 RGTR--
+150512005 Rambrouch, Schlass    01757  01757                % 06166 RGTR--
+150512006 Rambrouch, Gare       01758                       % 06166 RGTR--
+*Z 06167 RGTR--                                             % 06167 RGTR--
+*L 620      120903022 150512006  01754  01858               % 06167 RGTR--
+*A fj 120903022 150512006 000006  01754  01858              % 06167 RGTR--
+*A km 120903022 150512006 000006  01754  01858              % 06167 RGTR--
+*R 1 150512006 120903022 150512006  01754  01858            % 06167 RGTR--
+*G RGB 120903022 150512006  01754  01858                    % 06167 RGTR--
+*A VE 120903022 150512006 000006  01754  01858              % 06167 RGTR--
+*I FD 120903022 150512006        0003503  01754  01858      % 06167 RGTR--
+120903022 Wiltz, Lycée (navett         01754                % 06167 RGTR--
+120903031 Wiltz, Huuschtewee/P  01756  01756                % 06167 RGTR--
+120903035 Wiltz, Huuschtewee    01757  01757                % 06167 RGTR--
+120903011 Wiltz, Clinique       01758  01758                % 06167 RGTR--
+120903037 Wiltz, Schlass        01759  01759                % 06167 RGTR--
+120903033 Wiltz, Post           01800  01800                % 06167 RGTR--
+120903021 Wiltz, Lann           01801  01801                % 06167 RGTR--
+120903018 Wiltz, Gare           01803  01803                % 06167 RGTR--
+120903008 Wiltz, Pompjeesbau    01804  01804                % 06167 RGTR--
+120903023 Wiltz, Lycée du Nord  01805  01805                % 06167 RGTR--
+120903038 Wiltz, Schumann       01810  01810                % 06167 RGTR--
+120707003 Nothum, Schumann      01811  01811                % 06167 RGTR--
+120707002 Nothum, Molkerei      01811  01811                % 06167 RGTR--
+120707001 Nothum, Duerfstrooss  01812  01812                % 06167 RGTR--
+120704001 Kaundorf, An der Hie  01816  01816                % 06167 RGTR--
+120705001 Liefrange, Kiirch     01821  01821                % 06167 RGTR--
+120701001 Bavigne, Gemeng       01828  01828                % 06167 RGTR--
+120102002 Surré, Gënzebierg     01835  01835                % 06167 RGTR--
+120102001 Surré, Bei der Bréck  01835  01835                % 06167 RGTR--
+120103002 Hareler Poteau        01839  01839                % 06167 RGTR--
+120101002 Baschleiden, Kiirch   01841  01841                % 06167 RGTR--
+120101001 Baschleiden, Elber    01842  01842                % 06167 RGTR--
+120101003 Boulaide, Camping     01842  01842                % 06167 RGTR--
+120101004 Boulaide, Post        01843  01843                % 06167 RGTR--
+150501005 Arsdorf, Misärshaff   01848  01848                % 06167 RGTR--
+150501004 Arsdorf, Um Knupp     01850  01850                % 06167 RGTR--
+150501001 Arsdorf, Am Duerf     01851  01851                % 06167 RGTR--
+150501003 Arsdorf, An der Gaas  01852  01852                % 06167 RGTR--
+150509001 Koetschette, Rond-Po  01855  01855                % 06167 RGTR--
+150512005 Rambrouch, Schlass    01857  01857                % 06167 RGTR--
+150512006 Rambrouch, Gare       01858                       % 06167 RGTR--
+*Z 06168 RGTR--                                             % 06168 RGTR--
+*L 620      120903022 150512006  00954  01055               % 06168 RGTR--
+*A fj 120903022 150512006 000006  00954  01055              % 06168 RGTR--
+*A km 120903022 150512006 000006  00954  01055              % 06168 RGTR--
+*A oe 120903022 150512006 000006  00954  01055              % 06168 RGTR--
+*R 1 150512006 120903022 150512006  00954  01055            % 06168 RGTR--
+*G RGB 120903022 150512006  00954  01055                    % 06168 RGTR--
+*A VE 120903022 150512006 000006  00954  01055              % 06168 RGTR--
+*I FD 120903022 150512006        0003533  00954  01055      % 06168 RGTR--
+120903022 Wiltz, Lycée (navett         00954                % 06168 RGTR--
+120903031 Wiltz, Huuschtewee/P  00956  00956                % 06168 RGTR--
+120903035 Wiltz, Huuschtewee    00957  00957                % 06168 RGTR--
+120903011 Wiltz, Clinique       00958  00958                % 06168 RGTR--
+120903037 Wiltz, Schlass        00959  00959                % 06168 RGTR--
+120903033 Wiltz, Post           01000  01000                % 06168 RGTR--
+120903021 Wiltz, Lann           01001  01001                % 06168 RGTR--
+120903018 Wiltz, Gare           01002  01002                % 06168 RGTR--
+120903008 Wiltz, Pompjeesbau    01004  01004                % 06168 RGTR--
+120903023 Wiltz, Lycée du Nord  01005  01005                % 06168 RGTR--
+120903038 Wiltz, Schumann       01009  01009                % 06168 RGTR--
+120707003 Nothum, Schumann      01010  01010                % 06168 RGTR--
+120707002 Nothum, Molkerei      01011  01011                % 06168 RGTR--
+120707001 Nothum, Duerfstrooss  01011  01011                % 06168 RGTR--
+120704001 Kaundorf, An der Hie  01016  01016                % 06168 RGTR--
+120705001 Liefrange, Kiirch     01020  01020                % 06168 RGTR--
+120701001 Bavigne, Gemeng       01027  01027                % 06168 RGTR--
+120102002 Surré, Gënzebierg     01034  01034                % 06168 RGTR--
+120102001 Surré, Bei der Bréck  01034  01034                % 06168 RGTR--
+120103002 Hareler Poteau        01037  01037                % 06168 RGTR--
+120101002 Baschleiden, Kiirch   01040  01040                % 06168 RGTR--
+120101001 Baschleiden, Elber    01040  01040                % 06168 RGTR--
+120101003 Boulaide, Camping     01041  01041                % 06168 RGTR--
+120101004 Boulaide, Post        01042  01042                % 06168 RGTR--
+150501005 Arsdorf, Misärshaff   01046  01046                % 06168 RGTR--
+150501004 Arsdorf, Um Knupp     01049  01049                % 06168 RGTR--
+150501001 Arsdorf, Am Duerf     01050  01050                % 06168 RGTR--
+150501003 Arsdorf, An der Gaas  01050  01050                % 06168 RGTR--
+150509001 Koetschette, Rond-Po  01053  01053                % 06168 RGTR--
+150512005 Rambrouch, Schlass    01054  01054                % 06168 RGTR--
+150512006 Rambrouch, Gare       01055                       % 06168 RGTR--
+*Z 06169 RGTR--                                             % 06169 RGTR--
+*L 620      120903022 150512006  01054  01155               % 06169 RGTR--
+*A fj 120903022 150512006 000006  01054  01155              % 06169 RGTR--
+*A km 120903022 150512006 000006  01054  01155              % 06169 RGTR--
+*A oe 120903022 150512006 000006  01054  01155              % 06169 RGTR--
+*R 1 150512006 120903022 150512006  01054  01155            % 06169 RGTR--
+*G RGB 120903022 150512006  01054  01155                    % 06169 RGTR--
+*A VE 120903022 150512006 000006  01054  01155              % 06169 RGTR--
+*I FD 120903022 150512006        0003534  01054  01155      % 06169 RGTR--
+120903022 Wiltz, Lycée (navett         01054                % 06169 RGTR--
+120903031 Wiltz, Huuschtewee/P  01056  01056                % 06169 RGTR--
+120903035 Wiltz, Huuschtewee    01057  01057                % 06169 RGTR--
+120903011 Wiltz, Clinique       01058  01058                % 06169 RGTR--
+120903037 Wiltz, Schlass        01059  01059                % 06169 RGTR--
+120903033 Wiltz, Post           01100  01100                % 06169 RGTR--
+120903021 Wiltz, Lann           01101  01101                % 06169 RGTR--
+120903018 Wiltz, Gare           01102  01102                % 06169 RGTR--
+120903008 Wiltz, Pompjeesbau    01104  01104                % 06169 RGTR--
+120903023 Wiltz, Lycée du Nord  01105  01105                % 06169 RGTR--
+120903038 Wiltz, Schumann       01109  01109                % 06169 RGTR--
+120707003 Nothum, Schumann      01110  01110                % 06169 RGTR--
+120707002 Nothum, Molkerei      01111  01111                % 06169 RGTR--
+120707001 Nothum, Duerfstrooss  01111  01111                % 06169 RGTR--
+120704001 Kaundorf, An der Hie  01116  01116                % 06169 RGTR--
+120705001 Liefrange, Kiirch     01120  01120                % 06169 RGTR--
+120701001 Bavigne, Gemeng       01127  01127                % 06169 RGTR--
+120102002 Surré, Gënzebierg     01134  01134                % 06169 RGTR--
+120102001 Surré, Bei der Bréck  01134  01134                % 06169 RGTR--
+120103002 Hareler Poteau        01137  01137                % 06169 RGTR--
+120101002 Baschleiden, Kiirch   01140  01140                % 06169 RGTR--
+120101001 Baschleiden, Elber    01140  01140                % 06169 RGTR--
+120101003 Boulaide, Camping     01141  01141                % 06169 RGTR--
+120101004 Boulaide, Post        01142  01142                % 06169 RGTR--
+150501005 Arsdorf, Misärshaff   01146  01146                % 06169 RGTR--
+150501004 Arsdorf, Um Knupp     01149  01149                % 06169 RGTR--
+150501001 Arsdorf, Am Duerf     01150  01150                % 06169 RGTR--
+150501003 Arsdorf, An der Gaas  01150  01150                % 06169 RGTR--
+150509001 Koetschette, Rond-Po  01153  01153                % 06169 RGTR--
+150512005 Rambrouch, Schlass    01154  01154                % 06169 RGTR--
+150512006 Rambrouch, Gare       01155                       % 06169 RGTR--
+*Z 06170 RGTR--                                             % 06170 RGTR--
+*L 620      120903022 150512006  01254  01355               % 06170 RGTR--
+*A fj 120903022 150512006 000006  01254  01355              % 06170 RGTR--
+*A km 120903022 150512006 000006  01254  01355              % 06170 RGTR--
+*A oe 120903022 150512006 000006  01254  01355              % 06170 RGTR--
+*R 1 150512006 120903022 150512006  01254  01355            % 06170 RGTR--
+*G RGB 120903022 150512006  01254  01355                    % 06170 RGTR--
+*A VE 120903022 150512006 000006  01254  01355              % 06170 RGTR--
+*I FD 120903022 150512006        0003535  01254  01355      % 06170 RGTR--
+120903022 Wiltz, Lycée (navett         01254                % 06170 RGTR--
+120903031 Wiltz, Huuschtewee/P  01256  01256                % 06170 RGTR--
+120903035 Wiltz, Huuschtewee    01257  01257                % 06170 RGTR--
+120903011 Wiltz, Clinique       01258  01258                % 06170 RGTR--
+120903037 Wiltz, Schlass        01259  01259                % 06170 RGTR--
+120903033 Wiltz, Post           01300  01300                % 06170 RGTR--
+120903021 Wiltz, Lann           01301  01301                % 06170 RGTR--
+120903018 Wiltz, Gare           01302  01302                % 06170 RGTR--
+120903008 Wiltz, Pompjeesbau    01304  01304                % 06170 RGTR--
+120903023 Wiltz, Lycée du Nord  01305  01305                % 06170 RGTR--
+120903038 Wiltz, Schumann       01309  01309                % 06170 RGTR--
+120707003 Nothum, Schumann      01310  01310                % 06170 RGTR--
+120707002 Nothum, Molkerei      01311  01311                % 06170 RGTR--
+120707001 Nothum, Duerfstrooss  01311  01311                % 06170 RGTR--
+120704001 Kaundorf, An der Hie  01316  01316                % 06170 RGTR--
+120705001 Liefrange, Kiirch     01320  01320                % 06170 RGTR--
+120701001 Bavigne, Gemeng       01327  01327                % 06170 RGTR--
+120102002 Surré, Gënzebierg     01334  01334                % 06170 RGTR--
+120102001 Surré, Bei der Bréck  01334  01334                % 06170 RGTR--
+120103002 Hareler Poteau        01337  01337                % 06170 RGTR--
+120101002 Baschleiden, Kiirch   01340  01340                % 06170 RGTR--
+120101001 Baschleiden, Elber    01340  01340                % 06170 RGTR--
+120101003 Boulaide, Camping     01341  01341                % 06170 RGTR--
+120101004 Boulaide, Post        01342  01342                % 06170 RGTR--
+150501005 Arsdorf, Misärshaff   01346  01346                % 06170 RGTR--
+150501004 Arsdorf, Um Knupp     01349  01349                % 06170 RGTR--
+150501001 Arsdorf, Am Duerf     01350  01350                % 06170 RGTR--
+150501003 Arsdorf, An der Gaas  01350  01350                % 06170 RGTR--
+150509001 Koetschette, Rond-Po  01353  01353                % 06170 RGTR--
+150512005 Rambrouch, Schlass    01354  01354                % 06170 RGTR--
+150512006 Rambrouch, Gare       01355                       % 06170 RGTR--
+*Z 06171 RGTR--                                             % 06171 RGTR--
+*L 620      120903022 150512006  01354  01455               % 06171 RGTR--
+*A fj 120903022 150512006 000006  01354  01455              % 06171 RGTR--
+*A km 120903022 150512006 000006  01354  01455              % 06171 RGTR--
+*A oe 120903022 150512006 000006  01354  01455              % 06171 RGTR--
+*R 1 150512006 120903022 150512006  01354  01455            % 06171 RGTR--
+*G RGB 120903022 150512006  01354  01455                    % 06171 RGTR--
+*A VE 120903022 150512006 000006  01354  01455              % 06171 RGTR--
+*I FD 120903022 150512006        0001314  01354  01455      % 06171 RGTR--
+120903022 Wiltz, Lycée (navett         01354                % 06171 RGTR--
+120903031 Wiltz, Huuschtewee/P  01356  01356                % 06171 RGTR--
+120903035 Wiltz, Huuschtewee    01357  01357                % 06171 RGTR--
+120903011 Wiltz, Clinique       01358  01358                % 06171 RGTR--
+120903037 Wiltz, Schlass        01359  01359                % 06171 RGTR--
+120903033 Wiltz, Post           01400  01400                % 06171 RGTR--
+120903021 Wiltz, Lann           01401  01401                % 06171 RGTR--
+120903018 Wiltz, Gare           01402  01402                % 06171 RGTR--
+120903008 Wiltz, Pompjeesbau    01404  01404                % 06171 RGTR--
+120903023 Wiltz, Lycée du Nord  01405  01405                % 06171 RGTR--
+120903038 Wiltz, Schumann       01409  01409                % 06171 RGTR--
+120707003 Nothum, Schumann      01410  01410                % 06171 RGTR--
+120707002 Nothum, Molkerei      01411  01411                % 06171 RGTR--
+120707001 Nothum, Duerfstrooss  01411  01411                % 06171 RGTR--
+120704001 Kaundorf, An der Hie  01416  01416                % 06171 RGTR--
+120705001 Liefrange, Kiirch     01420  01420                % 06171 RGTR--
+120701001 Bavigne, Gemeng       01427  01427                % 06171 RGTR--
+120102002 Surré, Gënzebierg     01434  01434                % 06171 RGTR--
+120102001 Surré, Bei der Bréck  01434  01434                % 06171 RGTR--
+120103002 Hareler Poteau        01437  01437                % 06171 RGTR--
+120101002 Baschleiden, Kiirch   01440  01440                % 06171 RGTR--
+120101001 Baschleiden, Elber    01440  01440                % 06171 RGTR--
+120101003 Boulaide, Camping     01441  01441                % 06171 RGTR--
+120101004 Boulaide, Post        01442  01442                % 06171 RGTR--
+150501005 Arsdorf, Misärshaff   01446  01446                % 06171 RGTR--
+150501004 Arsdorf, Um Knupp     01449  01449                % 06171 RGTR--
+150501001 Arsdorf, Am Duerf     01450  01450                % 06171 RGTR--
+150501003 Arsdorf, An der Gaas  01450  01450                % 06171 RGTR--
+150509001 Koetschette, Rond-Po  01453  01453                % 06171 RGTR--
+150512005 Rambrouch, Schlass    01454  01454                % 06171 RGTR--
+150512006 Rambrouch, Gare       01455                       % 06171 RGTR--
+*Z 06172 RGTR--                                             % 06172 RGTR--
+*L 620      120903022 150512006  01454  01555               % 06172 RGTR--
+*A fj 120903022 150512006 000006  01454  01555              % 06172 RGTR--
+*A km 120903022 150512006 000006  01454  01555              % 06172 RGTR--
+*A oe 120903022 150512006 000006  01454  01555              % 06172 RGTR--
+*R 1 150512006 120903022 150512006  01454  01555            % 06172 RGTR--
+*G RGB 120903022 150512006  01454  01555                    % 06172 RGTR--
+*A VE 120903022 150512006 000006  01454  01555              % 06172 RGTR--
+*I FD 120903022 150512006        0003536  01454  01555      % 06172 RGTR--
+120903022 Wiltz, Lycée (navett         01454                % 06172 RGTR--
+120903031 Wiltz, Huuschtewee/P  01456  01456                % 06172 RGTR--
+120903035 Wiltz, Huuschtewee    01457  01457                % 06172 RGTR--
+120903011 Wiltz, Clinique       01458  01458                % 06172 RGTR--
+120903037 Wiltz, Schlass        01459  01459                % 06172 RGTR--
+120903033 Wiltz, Post           01500  01500                % 06172 RGTR--
+120903021 Wiltz, Lann           01501  01501                % 06172 RGTR--
+120903018 Wiltz, Gare           01502  01502                % 06172 RGTR--
+120903008 Wiltz, Pompjeesbau    01504  01504                % 06172 RGTR--
+120903023 Wiltz, Lycée du Nord  01505  01505                % 06172 RGTR--
+120903038 Wiltz, Schumann       01509  01509                % 06172 RGTR--
+120707003 Nothum, Schumann      01510  01510                % 06172 RGTR--
+120707002 Nothum, Molkerei      01511  01511                % 06172 RGTR--
+120707001 Nothum, Duerfstrooss  01511  01511                % 06172 RGTR--
+120704001 Kaundorf, An der Hie  01516  01516                % 06172 RGTR--
+120705001 Liefrange, Kiirch     01520  01520                % 06172 RGTR--
+120701001 Bavigne, Gemeng       01527  01527                % 06172 RGTR--
+120102002 Surré, Gënzebierg     01534  01534                % 06172 RGTR--
+120102001 Surré, Bei der Bréck  01534  01534                % 06172 RGTR--
+120103002 Hareler Poteau        01537  01537                % 06172 RGTR--
+120101002 Baschleiden, Kiirch   01540  01540                % 06172 RGTR--
+120101001 Baschleiden, Elber    01540  01540                % 06172 RGTR--
+120101003 Boulaide, Camping     01541  01541                % 06172 RGTR--
+120101004 Boulaide, Post        01542  01542                % 06172 RGTR--
+150501005 Arsdorf, Misärshaff   01546  01546                % 06172 RGTR--
+150501004 Arsdorf, Um Knupp     01549  01549                % 06172 RGTR--
+150501001 Arsdorf, Am Duerf     01550  01550                % 06172 RGTR--
+150501003 Arsdorf, An der Gaas  01550  01550                % 06172 RGTR--
+150509001 Koetschette, Rond-Po  01553  01553                % 06172 RGTR--
+150512005 Rambrouch, Schlass    01554  01554                % 06172 RGTR--
+150512006 Rambrouch, Gare       01555                       % 06172 RGTR--
+*Z 06173 RGTR--                                             % 06173 RGTR--
+*L 620      120903022 150512006  01859  02000               % 06173 RGTR--
+*A fj 120903022 150512006 000006  01859  02000              % 06173 RGTR--
+*A km 120903022 150512006 000006  01859  02000              % 06173 RGTR--
+*R 1 150512006 120903022 150512006  01859  02000            % 06173 RGTR--
+*G RGB 120903022 150512006  01859  02000                    % 06173 RGTR--
+*A VE 120903022 150512006 000006  01859  02000              % 06173 RGTR--
+*I FD 120903022 150512006        0002264  01859  02000      % 06173 RGTR--
+120903022 Wiltz, Lycée (navett         01859                % 06173 RGTR--
+120903031 Wiltz, Huuschtewee/P  01901  01901                % 06173 RGTR--
+120903035 Wiltz, Huuschtewee    01902  01902                % 06173 RGTR--
+120903011 Wiltz, Clinique       01903  01903                % 06173 RGTR--
+120903037 Wiltz, Schlass        01904  01904                % 06173 RGTR--
+120903033 Wiltz, Post           01905  01905                % 06173 RGTR--
+120903021 Wiltz, Lann           01906  01906                % 06173 RGTR--
+120903018 Wiltz, Gare           01907  01907                % 06173 RGTR--
+120903008 Wiltz, Pompjeesbau    01909  01909                % 06173 RGTR--
+120903023 Wiltz, Lycée du Nord  01910  01910                % 06173 RGTR--
+120903038 Wiltz, Schumann       01914  01914                % 06173 RGTR--
+120707003 Nothum, Schumann      01915  01915                % 06173 RGTR--
+120707002 Nothum, Molkerei      01916  01916                % 06173 RGTR--
+120707001 Nothum, Duerfstrooss  01916  01916                % 06173 RGTR--
+120704001 Kaundorf, An der Hie  01921  01921                % 06173 RGTR--
+120705001 Liefrange, Kiirch     01925  01925                % 06173 RGTR--
+120701001 Bavigne, Gemeng       01932  01932                % 06173 RGTR--
+120102002 Surré, Gënzebierg     01939  01939                % 06173 RGTR--
+120102001 Surré, Bei der Bréck  01939  01939                % 06173 RGTR--
+120103002 Hareler Poteau        01942  01942                % 06173 RGTR--
+120101002 Baschleiden, Kiirch   01945  01945                % 06173 RGTR--
+120101001 Baschleiden, Elber    01945  01945                % 06173 RGTR--
+120101003 Boulaide, Camping     01946  01946                % 06173 RGTR--
+120101004 Boulaide, Post        01947  01947                % 06173 RGTR--
+150501005 Arsdorf, Misärshaff   01951  01951                % 06173 RGTR--
+150501004 Arsdorf, Um Knupp     01954  01954                % 06173 RGTR--
+150501001 Arsdorf, Am Duerf     01955  01955                % 06173 RGTR--
+150501003 Arsdorf, An der Gaas  01955  01955                % 06173 RGTR--
+150509001 Koetschette, Rond-Po  01958  01958                % 06173 RGTR--
+150512005 Rambrouch, Schlass    01959  01959                % 06173 RGTR--
+150512006 Rambrouch, Gare       02000                       % 06173 RGTR--
+*Z 06174 RGTR--                                             % 06174 RGTR--
+*L 620      120903022 150512006  01154  01255               % 06174 RGTR--
+*A fj 120903022 150512006 000158  01154  01255              % 06174 RGTR--
+*A km 120903022 150512006 000158  01154  01255              % 06174 RGTR--
+*A oe 120903022 150512006 000158  01154  01255              % 06174 RGTR--
+*R 1 150512006 120903022 150512006  01154  01255            % 06174 RGTR--
+*G RGB 120903022 150512006  01154  01255                    % 06174 RGTR--
+*A VE 120903022 150512006 000158  01154  01255              % 06174 RGTR--
+*I FD 120903022 150512006        0003537  01154  01255      % 06174 RGTR--
+120903022 Wiltz, Lycée (navett         01154                % 06174 RGTR--
+120903031 Wiltz, Huuschtewee/P  01156  01156                % 06174 RGTR--
+120903035 Wiltz, Huuschtewee    01157  01157                % 06174 RGTR--
+120903011 Wiltz, Clinique       01158  01158                % 06174 RGTR--
+120903037 Wiltz, Schlass        01159  01159                % 06174 RGTR--
+120903033 Wiltz, Post           01200  01200                % 06174 RGTR--
+120903021 Wiltz, Lann           01201  01201                % 06174 RGTR--
+120903018 Wiltz, Gare           01202  01202                % 06174 RGTR--
+120903008 Wiltz, Pompjeesbau    01204  01204                % 06174 RGTR--
+120903023 Wiltz, Lycée du Nord  01205  01205                % 06174 RGTR--
+120903038 Wiltz, Schumann       01209  01209                % 06174 RGTR--
+120707003 Nothum, Schumann      01210  01210                % 06174 RGTR--
+120707002 Nothum, Molkerei      01211  01211                % 06174 RGTR--
+120707001 Nothum, Duerfstrooss  01211  01211                % 06174 RGTR--
+120704001 Kaundorf, An der Hie  01216  01216                % 06174 RGTR--
+120705001 Liefrange, Kiirch     01220  01220                % 06174 RGTR--
+120701001 Bavigne, Gemeng       01227  01227                % 06174 RGTR--
+120102002 Surré, Gënzebierg     01234  01234                % 06174 RGTR--
+120102001 Surré, Bei der Bréck  01234  01234                % 06174 RGTR--
+120103002 Hareler Poteau        01237  01237                % 06174 RGTR--
+120101002 Baschleiden, Kiirch   01240  01240                % 06174 RGTR--
+120101001 Baschleiden, Elber    01240  01240                % 06174 RGTR--
+120101003 Boulaide, Camping     01241  01241                % 06174 RGTR--
+120101004 Boulaide, Post        01242  01242                % 06174 RGTR--
+150501005 Arsdorf, Misärshaff   01246  01246                % 06174 RGTR--
+150501004 Arsdorf, Um Knupp     01249  01249                % 06174 RGTR--
+150501001 Arsdorf, Am Duerf     01250  01250                % 06174 RGTR--
+150501003 Arsdorf, An der Gaas  01250  01250                % 06174 RGTR--
+150509001 Koetschette, Rond-Po  01253  01253                % 06174 RGTR--
+150512005 Rambrouch, Schlass    01254  01254                % 06174 RGTR--
+150512006 Rambrouch, Gare       01255                       % 06174 RGTR--
+*Z 06175 RGTR--                                             % 06175 RGTR--
+*L 620      120903022 150512006  01554  01707               % 06175 RGTR--
+*A fj 120903022 150512006 000159  01554  01707              % 06175 RGTR--
+*A km 120903022 150512006 000159  01554  01707              % 06175 RGTR--
+*A oe 120903022 150512006 000159  01554  01707              % 06175 RGTR--
+*R 1 150512006 120903022 150512006  01554  01707            % 06175 RGTR--
+*G RGB 120903022 150512006  01554  01707                    % 06175 RGTR--
+*A VE 120903022 150512006 000159  01554  01707              % 06175 RGTR--
+*I FD 120903022 150512006        0003530  01554  01707      % 06175 RGTR--
+120903022 Wiltz, Lycée (navett         01554                % 06175 RGTR--
+120903031 Wiltz, Huuschtewee/P  01556  01556                % 06175 RGTR--
+120903035 Wiltz, Huuschtewee    01557  01557                % 06175 RGTR--
+120903011 Wiltz, Clinique       01558  01558                % 06175 RGTR--
+120903037 Wiltz, Schlass        01559  01559                % 06175 RGTR--
+120903033 Wiltz, Post           01600  01600                % 06175 RGTR--
+120903021 Wiltz, Lann           01601  01601                % 06175 RGTR--
+120903018 Wiltz, Gare           01603  01603                % 06175 RGTR--
+120903008 Wiltz, Pompjeesbau    01604  01604                % 06175 RGTR--
+120903023 Wiltz, Lycée du Nord  01605  01615                % 06175 RGTR--
+120903038 Wiltz, Schumann       01619  01619                % 06175 RGTR--
+120707003 Nothum, Schumann      01620  01620                % 06175 RGTR--
+120707002 Nothum, Molkerei      01621  01621                % 06175 RGTR--
+120707001 Nothum, Duerfstrooss  01621  01621                % 06175 RGTR--
+120704001 Kaundorf, An der Hie  01626  01626                % 06175 RGTR--
+120705001 Liefrange, Kiirch     01630  01630                % 06175 RGTR--
+120701001 Bavigne, Gemeng       01637  01637                % 06175 RGTR--
+120102002 Surré, Gënzebierg     01644  01644                % 06175 RGTR--
+120102001 Surré, Bei der Bréck  01645  01645                % 06175 RGTR--
+120103002 Hareler Poteau        01648  01648                % 06175 RGTR--
+120101002 Baschleiden, Kiirch   01650  01650                % 06175 RGTR--
+120101001 Baschleiden, Elber    01651  01651                % 06175 RGTR--
+120101003 Boulaide, Camping     01652  01652                % 06175 RGTR--
+120101004 Boulaide, Post        01652  01652                % 06175 RGTR--
+150501005 Arsdorf, Misärshaff   01657  01657                % 06175 RGTR--
+150501004 Arsdorf, Um Knupp     01659  01659                % 06175 RGTR--
+150501001 Arsdorf, Am Duerf     01700  01700                % 06175 RGTR--
+150501003 Arsdorf, An der Gaas  01701  01701                % 06175 RGTR--
+150509001 Koetschette, Rond-Po  01704  01704                % 06175 RGTR--
+150512005 Rambrouch, Schlass    01706  01706                % 06175 RGTR--
+150512006 Rambrouch, Gare       01707                       % 06175 RGTR--
+*Z 06176 RGTR--                                             % 06176 RGTR--
+*L 620      120903023 120101004  01208  01228               % 06176 RGTR--
+*A fj 120903023 120101004 000042  01208  01228              % 06176 RGTR--
+*A og 120903023 120101004 000042  01208  01228              % 06176 RGTR--
+*R 1 120101004 120903023 120101004  01208  01228            % 06176 RGTR--
+*G RGB 120903023 120101004  01208  01228                    % 06176 RGTR--
+*A VE 120903023 120101004 000042  01208  01228              % 06176 RGTR--
+*I FD 120903023 120101004        0002222  01208  01228      % 06176 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 06176 RGTR--
+120903038 Wiltz, Schumann       01212  01212                % 06176 RGTR--
+120707003 Nothum, Schumann      01212  01212                % 06176 RGTR--
+120707002 Nothum, Molkerei      01213  01213                % 06176 RGTR--
+120707001 Nothum, Duerfstrooss  01214  01214                % 06176 RGTR--
+120701001 Bavigne, Gemeng       01220  01220                % 06176 RGTR--
+120103002 Hareler Poteau        01224  01224                % 06176 RGTR--
+120101002 Baschleiden, Kiirch   01226  01226                % 06176 RGTR--
+120101001 Baschleiden, Elber    01227  01227                % 06176 RGTR--
+120101003 Boulaide, Camping     01228  01228                % 06176 RGTR--
+120101004 Boulaide, Post        01228                       % 06176 RGTR--
+*Z 06177 RGTR--                                             % 06177 RGTR--
+*L 620      120704001 150501001  00616  00650               % 06177 RGTR--
+*A fj 120704001 150501001 000006  00616  00650              % 06177 RGTR--
+*A of 120704001 150501001 000006  00616  00650              % 06177 RGTR--
+*R 1 150501001 120704001 150501001  00616  00650            % 06177 RGTR--
+*G RGB 120704001 150501001  00616  00650                    % 06177 RGTR--
+*A VE 120704001 150501001 000006  00616  00650              % 06177 RGTR--
+*I FD 120704001 150501001        0003538  00616  00650      % 06177 RGTR--
+120704001 Kaundorf, An der Hie         00616                % 06177 RGTR--
+120705001 Liefrange, Kiirch     00620  00620                % 06177 RGTR--
+120701001 Bavigne, Gemeng       00627  00627                % 06177 RGTR--
+120102002 Surré, Gënzebierg     00633  00633                % 06177 RGTR--
+120102001 Surré, Bei der Bréck  00634  00634                % 06177 RGTR--
+120103002 Hareler Poteau        00637  00637                % 06177 RGTR--
+120101002 Baschleiden, Kiirch   00639  00639                % 06177 RGTR--
+120101001 Baschleiden, Elber    00640  00640                % 06177 RGTR--
+120101003 Boulaide, Camping     00641  00641                % 06177 RGTR--
+120101004 Boulaide, Post        00642  00642                % 06177 RGTR--
+150501005 Arsdorf, Misärshaff   00646  00646                % 06177 RGTR--
+150501004 Arsdorf, Um Knupp     00649  00649                % 06177 RGTR--
+150501001 Arsdorf, Am Duerf     00650                       % 06177 RGTR--
+*Z 00060 RGTR--                                             % 00060 RGTR--
+*L 620      120102001 150512006  00657  00720               % 00060 RGTR--
+*A fj 120102001 150512006 000030  00657  00720              % 00060 RGTR--
+*A km 120102001 150512006 000030  00657  00720              % 00060 RGTR--
+*R 1 150512006 120102001 150512006  00657  00720            % 00060 RGTR--
+*G RGB 120102001 150512006  00657  00720                    % 00060 RGTR--
+*A VE 120102001 150512006 000030  00657  00720              % 00060 RGTR--
+*I FD 120102001 150512006        0003539  00657  00720      % 00060 RGTR--
+120102001 Surré, Bei der Bréck         00657                % 00060 RGTR--
+120103002 Hareler Poteau        00700  00700                % 00060 RGTR--
+120101002 Baschleiden, Kiirch   00703  00703                % 00060 RGTR--
+120101001 Baschleiden, Elber    00703  00703                % 00060 RGTR--
+120101003 Boulaide, Camping     00704  00704                % 00060 RGTR--
+120101004 Boulaide, Post        00705  00705                % 00060 RGTR--
+150501005 Arsdorf, Misärshaff   00709  00709                % 00060 RGTR--
+150501004 Arsdorf, Um Knupp     00712  00712                % 00060 RGTR--
+150501001 Arsdorf, Am Duerf     00713  00713                % 00060 RGTR--
+150501003 Arsdorf, An der Gaas  00714  00714                % 00060 RGTR--
+150509001 Koetschette, Rond-Po  00717  00717                % 00060 RGTR--
+150512005 Rambrouch, Schlass    00718  00718                % 00060 RGTR--
+150512006 Rambrouch, Gare       00720                       % 00060 RGTR--
+*Z 06178 RGTR--                                             % 06178 RGTR--
+*L 620      150501001 120903023  00655  00741               % 06178 RGTR--
+*A fj 150501001 120903023 000006  00655  00741              % 06178 RGTR--
+*A bl 150501001 120903023 000006  00655  00741              % 06178 RGTR--
+*R 2 120903023 150501001 120903023  00655  00741            % 06178 RGTR--
+*G RGB 150501001 120903023  00655  00741                    % 06178 RGTR--
+*A VE 150501001 120903023 000006  00655  00741              % 06178 RGTR--
+*I FD 150501001 120903023        0002063  00655  00741      % 06178 RGTR--
+150501001 Arsdorf, Am Duerf            00655                % 06178 RGTR--
+150501004 Arsdorf, Um Knupp     00656  00656                % 06178 RGTR--
+150501005 Arsdorf, Misärshaff   00658  00658                % 06178 RGTR--
+120101004 Boulaide, Post        00703  00703                % 06178 RGTR--
+120101003 Boulaide, Camping     00704  00704                % 06178 RGTR--
+120101001 Baschleiden, Elber    00705  00705                % 06178 RGTR--
+120101002 Baschleiden, Kiirch   00706  00706                % 06178 RGTR--
+120103002 Hareler Poteau        00708  00708                % 06178 RGTR--
+120102002 Surré, Gënzebierg     00711  00711                % 06178 RGTR--
+120102001 Surré, Bei der Bréck  00711  00711                % 06178 RGTR--
+120701001 Bavigne, Gemeng       00719  00719                % 06178 RGTR--
+120705001 Liefrange, Kiirch     00725  00725                % 06178 RGTR--
+120704001 Kaundorf, An der Hie  00732  00732                % 06178 RGTR--
+120707001 Nothum, Duerfstrooss  00735  00735                % 06178 RGTR--
+120707002 Nothum, Molkerei      00736  00736                % 06178 RGTR--
+120707003 Nothum, Schumann      00736  00736                % 06178 RGTR--
+120903038 Wiltz, Schumann       00737  00737                % 06178 RGTR--
+120903023 Wiltz, Lycée du Nord  00741                       % 06178 RGTR--
+*Z 06179 RGTR--                                             % 06179 RGTR--
+*L 620      150501001 120903023  01707  01753               % 06179 RGTR--
+*A fj 150501001 120903023 000045  01707  01753              % 06179 RGTR--
+*A bl 150501001 120903023 000045  01707  01753              % 06179 RGTR--
+*R 2 120903023 150501001 120903023  01707  01753            % 06179 RGTR--
+*G RGB 150501001 120903023  01707  01753                    % 06179 RGTR--
+*A VE 150501001 120903023 000045  01707  01753              % 06179 RGTR--
+*I FD 150501001 120903023        0002134  01707  01753      % 06179 RGTR--
+150501001 Arsdorf, Am Duerf            01707                % 06179 RGTR--
+150501004 Arsdorf, Um Knupp     01708  01708                % 06179 RGTR--
+150501005 Arsdorf, Misärshaff   01710  01710                % 06179 RGTR--
+120101004 Boulaide, Post        01715  01715                % 06179 RGTR--
+120101003 Boulaide, Camping     01716  01716                % 06179 RGTR--
+120101001 Baschleiden, Elber    01717  01717                % 06179 RGTR--
+120101002 Baschleiden, Kiirch   01718  01718                % 06179 RGTR--
+120103002 Hareler Poteau        01720  01720                % 06179 RGTR--
+120102002 Surré, Gënzebierg     01723  01723                % 06179 RGTR--
+120102001 Surré, Bei der Bréck  01723  01723                % 06179 RGTR--
+120701001 Bavigne, Gemeng       01731  01731                % 06179 RGTR--
+120705001 Liefrange, Kiirch     01737  01737                % 06179 RGTR--
+120704001 Kaundorf, An der Hie  01744  01744                % 06179 RGTR--
+120707001 Nothum, Duerfstrooss  01747  01747                % 06179 RGTR--
+120707002 Nothum, Molkerei      01748  01748                % 06179 RGTR--
+120707003 Nothum, Schumann      01748  01748                % 06179 RGTR--
+120903038 Wiltz, Schumann       01749  01749                % 06179 RGTR--
+120903023 Wiltz, Lycée du Nord  01753                       % 06179 RGTR--
+*Z 06180 RGTR--                                             % 06180 RGTR--
+*L 620      150512006 120903023  01001  01051               % 06180 RGTR--
+*A fj 150512006 120903023 000006  01001  01051              % 06180 RGTR--
+*A bl 150512006 120903023 000006  01001  01051              % 06180 RGTR--
+*A PA 150512006 120903023 000006  01001  01051              % 06180 RGTR--
+*R 2 120903023 150512006 120903023  01001  01051            % 06180 RGTR--
+*G RGB 150512006 120903023  01001  01051                    % 06180 RGTR--
+*A VE 150512006 120903023 000006  01001  01051              % 06180 RGTR--
+*I FD 150512006 120903023        0002713  01001  01051      % 06180 RGTR--
+150512006 Rambrouch, Gare              01001                % 06180 RGTR--
+150512005 Rambrouch, Schlass    01002  01002                % 06180 RGTR--
+150509001 Koetschette, Rond-Po  01003  01003                % 06180 RGTR--
+150501003 Arsdorf, An der Gaas  01006  01006                % 06180 RGTR--
+150501001 Arsdorf, Am Duerf     01006  01006                % 06180 RGTR--
+150501004 Arsdorf, Um Knupp     01007  01007                % 06180 RGTR--
+150501005 Arsdorf, Misärshaff   01010  01010                % 06180 RGTR--
+120101004 Boulaide, Post        01015  01015                % 06180 RGTR--
+120101003 Boulaide, Camping     01015  01015                % 06180 RGTR--
+120101001 Baschleiden, Elber    01016  01016                % 06180 RGTR--
+120101002 Baschleiden, Kiirch   01017  01017                % 06180 RGTR--
+120103002 Hareler Poteau        01019  01019                % 06180 RGTR--
+120102002 Surré, Gënzebierg     01022  01022                % 06180 RGTR--
+120102001 Surré, Bei der Bréck  01023  01023                % 06180 RGTR--
+120701001 Bavigne, Gemeng       01030  01030                % 06180 RGTR--
+120705001 Liefrange, Kiirch     01036  01036                % 06180 RGTR--
+120704001 Kaundorf, An der Hie  01042  01042                % 06180 RGTR--
+120707001 Nothum, Duerfstrooss  01046  01046                % 06180 RGTR--
+120707002 Nothum, Molkerei      01046  01046                % 06180 RGTR--
+120707003 Nothum, Schumann      01047  01047                % 06180 RGTR--
+120903038 Wiltz, Schumann       01047  01047                % 06180 RGTR--
+120903023 Wiltz, Lycée du Nord  01051                       % 06180 RGTR--
+*Z 06181 RGTR--                                             % 06181 RGTR--
+*L 620      150512006 120903023  01101  01151               % 06181 RGTR--
+*A fj 150512006 120903023 000006  01101  01151              % 06181 RGTR--
+*A bl 150512006 120903023 000006  01101  01151              % 06181 RGTR--
+*A PA 150512006 120903023 000006  01101  01151              % 06181 RGTR--
+*R 2 120903023 150512006 120903023  01101  01151            % 06181 RGTR--
+*G RGB 150512006 120903023  01101  01151                    % 06181 RGTR--
+*A VE 150512006 120903023 000006  01101  01151              % 06181 RGTR--
+*I FD 150512006 120903023        0002505  01101  01151      % 06181 RGTR--
+150512006 Rambrouch, Gare              01101                % 06181 RGTR--
+150512005 Rambrouch, Schlass    01102  01102                % 06181 RGTR--
+150509001 Koetschette, Rond-Po  01103  01103                % 06181 RGTR--
+150501003 Arsdorf, An der Gaas  01106  01106                % 06181 RGTR--
+150501001 Arsdorf, Am Duerf     01106  01106                % 06181 RGTR--
+150501004 Arsdorf, Um Knupp     01107  01107                % 06181 RGTR--
+150501005 Arsdorf, Misärshaff   01110  01110                % 06181 RGTR--
+120101004 Boulaide, Post        01115  01115                % 06181 RGTR--
+120101003 Boulaide, Camping     01115  01115                % 06181 RGTR--
+120101001 Baschleiden, Elber    01116  01116                % 06181 RGTR--
+120101002 Baschleiden, Kiirch   01117  01117                % 06181 RGTR--
+120103002 Hareler Poteau        01119  01119                % 06181 RGTR--
+120102002 Surré, Gënzebierg     01122  01122                % 06181 RGTR--
+120102001 Surré, Bei der Bréck  01123  01123                % 06181 RGTR--
+120701001 Bavigne, Gemeng       01130  01130                % 06181 RGTR--
+120705001 Liefrange, Kiirch     01136  01136                % 06181 RGTR--
+120704001 Kaundorf, An der Hie  01142  01142                % 06181 RGTR--
+120707001 Nothum, Duerfstrooss  01146  01146                % 06181 RGTR--
+120707002 Nothum, Molkerei      01146  01146                % 06181 RGTR--
+120707003 Nothum, Schumann      01147  01147                % 06181 RGTR--
+120903038 Wiltz, Schumann       01147  01147                % 06181 RGTR--
+120903023 Wiltz, Lycée du Nord  01151                       % 06181 RGTR--
+*Z 06182 RGTR--                                             % 06182 RGTR--
+*L 620      150512006 120903023  01201  01251               % 06182 RGTR--
+*A fj 150512006 120903023 000006  01201  01251              % 06182 RGTR--
+*A bl 150512006 120903023 000006  01201  01251              % 06182 RGTR--
+*A PA 150512006 120903023 000006  01201  01251              % 06182 RGTR--
+*R 2 120903023 150512006 120903023  01201  01251            % 06182 RGTR--
+*G RGB 150512006 120903023  01201  01251                    % 06182 RGTR--
+*A VE 150512006 120903023 000006  01201  01251              % 06182 RGTR--
+*I FD 150512006 120903023        0002714  01201  01251      % 06182 RGTR--
+150512006 Rambrouch, Gare              01201                % 06182 RGTR--
+150512005 Rambrouch, Schlass    01202  01202                % 06182 RGTR--
+150509001 Koetschette, Rond-Po  01203  01203                % 06182 RGTR--
+150501003 Arsdorf, An der Gaas  01206  01206                % 06182 RGTR--
+150501001 Arsdorf, Am Duerf     01206  01206                % 06182 RGTR--
+150501004 Arsdorf, Um Knupp     01207  01207                % 06182 RGTR--
+150501005 Arsdorf, Misärshaff   01210  01210                % 06182 RGTR--
+120101004 Boulaide, Post        01215  01215                % 06182 RGTR--
+120101003 Boulaide, Camping     01215  01215                % 06182 RGTR--
+120101001 Baschleiden, Elber    01216  01216                % 06182 RGTR--
+120101002 Baschleiden, Kiirch   01217  01217                % 06182 RGTR--
+120103002 Hareler Poteau        01219  01219                % 06182 RGTR--
+120102002 Surré, Gënzebierg     01222  01222                % 06182 RGTR--
+120102001 Surré, Bei der Bréck  01223  01223                % 06182 RGTR--
+120701001 Bavigne, Gemeng       01230  01230                % 06182 RGTR--
+120705001 Liefrange, Kiirch     01236  01236                % 06182 RGTR--
+120704001 Kaundorf, An der Hie  01242  01242                % 06182 RGTR--
+120707001 Nothum, Duerfstrooss  01246  01246                % 06182 RGTR--
+120707002 Nothum, Molkerei      01246  01246                % 06182 RGTR--
+120707003 Nothum, Schumann      01247  01247                % 06182 RGTR--
+120903038 Wiltz, Schumann       01247  01247                % 06182 RGTR--
+120903023 Wiltz, Lycée du Nord  01251                       % 06182 RGTR--
+*Z 06183 RGTR--                                             % 06183 RGTR--
+*L 620      150512006 120903023  01301  01351               % 06183 RGTR--
+*A fj 150512006 120903023 000006  01301  01351              % 06183 RGTR--
+*A bl 150512006 120903023 000006  01301  01351              % 06183 RGTR--
+*A PA 150512006 120903023 000006  01301  01351              % 06183 RGTR--
+*R 2 120903023 150512006 120903023  01301  01351            % 06183 RGTR--
+*G RGB 150512006 120903023  01301  01351                    % 06183 RGTR--
+*A VE 150512006 120903023 000006  01301  01351              % 06183 RGTR--
+*I FD 150512006 120903023        0002538  01301  01351      % 06183 RGTR--
+150512006 Rambrouch, Gare              01301                % 06183 RGTR--
+150512005 Rambrouch, Schlass    01302  01302                % 06183 RGTR--
+150509001 Koetschette, Rond-Po  01303  01303                % 06183 RGTR--
+150501003 Arsdorf, An der Gaas  01306  01306                % 06183 RGTR--
+150501001 Arsdorf, Am Duerf     01306  01306                % 06183 RGTR--
+150501004 Arsdorf, Um Knupp     01307  01307                % 06183 RGTR--
+150501005 Arsdorf, Misärshaff   01310  01310                % 06183 RGTR--
+120101004 Boulaide, Post        01315  01315                % 06183 RGTR--
+120101003 Boulaide, Camping     01315  01315                % 06183 RGTR--
+120101001 Baschleiden, Elber    01316  01316                % 06183 RGTR--
+120101002 Baschleiden, Kiirch   01317  01317                % 06183 RGTR--
+120103002 Hareler Poteau        01319  01319                % 06183 RGTR--
+120102002 Surré, Gënzebierg     01322  01322                % 06183 RGTR--
+120102001 Surré, Bei der Bréck  01323  01323                % 06183 RGTR--
+120701001 Bavigne, Gemeng       01330  01330                % 06183 RGTR--
+120705001 Liefrange, Kiirch     01336  01336                % 06183 RGTR--
+120704001 Kaundorf, An der Hie  01342  01342                % 06183 RGTR--
+120707001 Nothum, Duerfstrooss  01346  01346                % 06183 RGTR--
+120707002 Nothum, Molkerei      01346  01346                % 06183 RGTR--
+120707003 Nothum, Schumann      01347  01347                % 06183 RGTR--
+120903038 Wiltz, Schumann       01347  01347                % 06183 RGTR--
+120903023 Wiltz, Lycée du Nord  01351                       % 06183 RGTR--
+*Z 06184 RGTR--                                             % 06184 RGTR--
+*L 620      150512006 120903023  01401  01451               % 06184 RGTR--
+*A fj 150512006 120903023 000006  01401  01451              % 06184 RGTR--
+*A bl 150512006 120903023 000006  01401  01451              % 06184 RGTR--
+*A PA 150512006 120903023 000006  01401  01451              % 06184 RGTR--
+*R 2 120903023 150512006 120903023  01401  01451            % 06184 RGTR--
+*G RGB 150512006 120903023  01401  01451                    % 06184 RGTR--
+*A VE 150512006 120903023 000006  01401  01451              % 06184 RGTR--
+*I FD 150512006 120903023        0002537  01401  01451      % 06184 RGTR--
+150512006 Rambrouch, Gare              01401                % 06184 RGTR--
+150512005 Rambrouch, Schlass    01402  01402                % 06184 RGTR--
+150509001 Koetschette, Rond-Po  01403  01403                % 06184 RGTR--
+150501003 Arsdorf, An der Gaas  01406  01406                % 06184 RGTR--
+150501001 Arsdorf, Am Duerf     01406  01406                % 06184 RGTR--
+150501004 Arsdorf, Um Knupp     01407  01407                % 06184 RGTR--
+150501005 Arsdorf, Misärshaff   01410  01410                % 06184 RGTR--
+120101004 Boulaide, Post        01415  01415                % 06184 RGTR--
+120101003 Boulaide, Camping     01415  01415                % 06184 RGTR--
+120101001 Baschleiden, Elber    01416  01416                % 06184 RGTR--
+120101002 Baschleiden, Kiirch   01417  01417                % 06184 RGTR--
+120103002 Hareler Poteau        01419  01419                % 06184 RGTR--
+120102002 Surré, Gënzebierg     01422  01422                % 06184 RGTR--
+120102001 Surré, Bei der Bréck  01423  01423                % 06184 RGTR--
+120701001 Bavigne, Gemeng       01430  01430                % 06184 RGTR--
+120705001 Liefrange, Kiirch     01436  01436                % 06184 RGTR--
+120704001 Kaundorf, An der Hie  01442  01442                % 06184 RGTR--
+120707001 Nothum, Duerfstrooss  01446  01446                % 06184 RGTR--
+120707002 Nothum, Molkerei      01446  01446                % 06184 RGTR--
+120707003 Nothum, Schumann      01447  01447                % 06184 RGTR--
+120903038 Wiltz, Schumann       01447  01447                % 06184 RGTR--
+120903023 Wiltz, Lycée du Nord  01451                       % 06184 RGTR--
+*Z 06185 RGTR--                                             % 06185 RGTR--
+*L 620      150512006 120903023  01501  01551               % 06185 RGTR--
+*A fj 150512006 120903023 000006  01501  01551              % 06185 RGTR--
+*A bl 150512006 120903023 000006  01501  01551              % 06185 RGTR--
+*A PA 150512006 120903023 000006  01501  01551              % 06185 RGTR--
+*R 2 120903023 150512006 120903023  01501  01551            % 06185 RGTR--
+*G RGB 150512006 120903023  01501  01551                    % 06185 RGTR--
+*A VE 150512006 120903023 000006  01501  01551              % 06185 RGTR--
+*I FD 150512006 120903023        0003307  01501  01551      % 06185 RGTR--
+150512006 Rambrouch, Gare              01501                % 06185 RGTR--
+150512005 Rambrouch, Schlass    01502  01502                % 06185 RGTR--
+150509001 Koetschette, Rond-Po  01503  01503                % 06185 RGTR--
+150501003 Arsdorf, An der Gaas  01506  01506                % 06185 RGTR--
+150501001 Arsdorf, Am Duerf     01506  01506                % 06185 RGTR--
+150501004 Arsdorf, Um Knupp     01507  01507                % 06185 RGTR--
+150501005 Arsdorf, Misärshaff   01510  01510                % 06185 RGTR--
+120101004 Boulaide, Post        01515  01515                % 06185 RGTR--
+120101003 Boulaide, Camping     01515  01515                % 06185 RGTR--
+120101001 Baschleiden, Elber    01516  01516                % 06185 RGTR--
+120101002 Baschleiden, Kiirch   01517  01517                % 06185 RGTR--
+120103002 Hareler Poteau        01519  01519                % 06185 RGTR--
+120102002 Surré, Gënzebierg     01522  01522                % 06185 RGTR--
+120102001 Surré, Bei der Bréck  01523  01523                % 06185 RGTR--
+120701001 Bavigne, Gemeng       01530  01530                % 06185 RGTR--
+120705001 Liefrange, Kiirch     01536  01536                % 06185 RGTR--
+120704001 Kaundorf, An der Hie  01542  01542                % 06185 RGTR--
+120707001 Nothum, Duerfstrooss  01546  01546                % 06185 RGTR--
+120707002 Nothum, Molkerei      01546  01546                % 06185 RGTR--
+120707003 Nothum, Schumann      01547  01547                % 06185 RGTR--
+120903038 Wiltz, Schumann       01547  01547                % 06185 RGTR--
+120903023 Wiltz, Lycée du Nord  01551                       % 06185 RGTR--
+*Z 06186 RGTR--                                             % 06186 RGTR--
+*L 620      150512006 120903023  00800  00852               % 06186 RGTR--
+*A fj 150512006 120903023 000006  00800  00852              % 06186 RGTR--
+*A bl 150512006 120903023 000006  00800  00852              % 06186 RGTR--
+*R 2 120903023 150512006 120903023  00800  00852            % 06186 RGTR--
+*G RGB 150512006 120903023  00800  00852                    % 06186 RGTR--
+*A VE 150512006 120903023 000006  00800  00852              % 06186 RGTR--
+*I FD 150512006 120903023        0001953  00800  00852      % 06186 RGTR--
+150512006 Rambrouch, Gare              00800                % 06186 RGTR--
+150512005 Rambrouch, Schlass    00801  00801                % 06186 RGTR--
+150509001 Koetschette, Rond-Po  00802  00802                % 06186 RGTR--
+150501003 Arsdorf, An der Gaas  00805  00805                % 06186 RGTR--
+150501001 Arsdorf, Am Duerf     00806  00806                % 06186 RGTR--
+150501004 Arsdorf, Um Knupp     00807  00807                % 06186 RGTR--
+150501005 Arsdorf, Misärshaff   00809  00809                % 06186 RGTR--
+120101004 Boulaide, Post        00814  00814                % 06186 RGTR--
+120101003 Boulaide, Camping     00815  00815                % 06186 RGTR--
+120101001 Baschleiden, Elber    00816  00816                % 06186 RGTR--
+120101002 Baschleiden, Kiirch   00817  00817                % 06186 RGTR--
+120103002 Hareler Poteau        00819  00819                % 06186 RGTR--
+120102002 Surré, Gënzebierg     00822  00822                % 06186 RGTR--
+120102001 Surré, Bei der Bréck  00822  00822                % 06186 RGTR--
+120701001 Bavigne, Gemeng       00830  00830                % 06186 RGTR--
+120705001 Liefrange, Kiirch     00836  00836                % 06186 RGTR--
+120704001 Kaundorf, An der Hie  00843  00843                % 06186 RGTR--
+120707001 Nothum, Duerfstrooss  00846  00846                % 06186 RGTR--
+120707002 Nothum, Molkerei      00847  00847                % 06186 RGTR--
+120707003 Nothum, Schumann      00847  00847                % 06186 RGTR--
+120903038 Wiltz, Schumann       00848  00848                % 06186 RGTR--
+120903023 Wiltz, Lycée du Nord  00852                       % 06186 RGTR--
+*Z 06187 RGTR--                                             % 06187 RGTR--
+*L 620      150512006 120903023  00905  00957               % 06187 RGTR--
+*A fj 150512006 120903023 000006  00905  00957              % 06187 RGTR--
+*A bl 150512006 120903023 000006  00905  00957              % 06187 RGTR--
+*A PA 150512006 120903023 000006  00905  00957              % 06187 RGTR--
+*R 2 120903023 150512006 120903023  00905  00957            % 06187 RGTR--
+*G RGB 150512006 120903023  00905  00957                    % 06187 RGTR--
+*A VE 150512006 120903023 000006  00905  00957              % 06187 RGTR--
+*I FD 150512006 120903023        0002252  00905  00957      % 06187 RGTR--
+150512006 Rambrouch, Gare              00905                % 06187 RGTR--
+150512005 Rambrouch, Schlass    00906  00906                % 06187 RGTR--
+150509001 Koetschette, Rond-Po  00907  00907                % 06187 RGTR--
+150501003 Arsdorf, An der Gaas  00910  00910                % 06187 RGTR--
+150501001 Arsdorf, Am Duerf     00911  00911                % 06187 RGTR--
+150501004 Arsdorf, Um Knupp     00912  00912                % 06187 RGTR--
+150501005 Arsdorf, Misärshaff   00914  00914                % 06187 RGTR--
+120101004 Boulaide, Post        00919  00919                % 06187 RGTR--
+120101003 Boulaide, Camping     00920  00920                % 06187 RGTR--
+120101001 Baschleiden, Elber    00921  00921                % 06187 RGTR--
+120101002 Baschleiden, Kiirch   00922  00922                % 06187 RGTR--
+120103002 Hareler Poteau        00924  00924                % 06187 RGTR--
+120102002 Surré, Gënzebierg     00927  00927                % 06187 RGTR--
+120102001 Surré, Bei der Bréck  00927  00927                % 06187 RGTR--
+120701001 Bavigne, Gemeng       00935  00935                % 06187 RGTR--
+120705001 Liefrange, Kiirch     00941  00941                % 06187 RGTR--
+120704001 Kaundorf, An der Hie  00948  00948                % 06187 RGTR--
+120707001 Nothum, Duerfstrooss  00951  00951                % 06187 RGTR--
+120707002 Nothum, Molkerei      00952  00952                % 06187 RGTR--
+120707003 Nothum, Schumann      00952  00952                % 06187 RGTR--
+120903038 Wiltz, Schumann       00953  00953                % 06187 RGTR--
+120903023 Wiltz, Lycée du Nord  00957                       % 06187 RGTR--
+*Z 06188 RGTR--                                             % 06188 RGTR--
+*L 620      150512006 120903023  01601  01653               % 06188 RGTR--
+*A fj 150512006 120903023 000006  01601  01653              % 06188 RGTR--
+*A bl 150512006 120903023 000006  01601  01653              % 06188 RGTR--
+*A PA 150512006 120903023 000006  01601  01653              % 06188 RGTR--
+*R 2 120903023 150512006 120903023  01601  01653            % 06188 RGTR--
+*G RGB 150512006 120903023  01601  01653                    % 06188 RGTR--
+*A VE 150512006 120903023 000006  01601  01653              % 06188 RGTR--
+*I FD 150512006 120903023        0002712  01601  01653      % 06188 RGTR--
+150512006 Rambrouch, Gare              01601                % 06188 RGTR--
+150512005 Rambrouch, Schlass    01602  01602                % 06188 RGTR--
+150509001 Koetschette, Rond-Po  01603  01603                % 06188 RGTR--
+150501003 Arsdorf, An der Gaas  01606  01606                % 06188 RGTR--
+150501001 Arsdorf, Am Duerf     01607  01607                % 06188 RGTR--
+150501004 Arsdorf, Um Knupp     01608  01608                % 06188 RGTR--
+150501005 Arsdorf, Misärshaff   01610  01610                % 06188 RGTR--
+120101004 Boulaide, Post        01615  01615                % 06188 RGTR--
+120101003 Boulaide, Camping     01616  01616                % 06188 RGTR--
+120101001 Baschleiden, Elber    01617  01617                % 06188 RGTR--
+120101002 Baschleiden, Kiirch   01618  01618                % 06188 RGTR--
+120103002 Hareler Poteau        01620  01620                % 06188 RGTR--
+120102002 Surré, Gënzebierg     01623  01623                % 06188 RGTR--
+120102001 Surré, Bei der Bréck  01623  01623                % 06188 RGTR--
+120701001 Bavigne, Gemeng       01631  01631                % 06188 RGTR--
+120705001 Liefrange, Kiirch     01637  01637                % 06188 RGTR--
+120704001 Kaundorf, An der Hie  01644  01644                % 06188 RGTR--
+120707001 Nothum, Duerfstrooss  01647  01647                % 06188 RGTR--
+120707002 Nothum, Molkerei      01648  01648                % 06188 RGTR--
+120707003 Nothum, Schumann      01648  01648                % 06188 RGTR--
+120903038 Wiltz, Schumann       01649  01649                % 06188 RGTR--
+120903023 Wiltz, Lycée du Nord  01653                       % 06188 RGTR--
+*Z 06189 RGTR--                                             % 06189 RGTR--
+*L 620      150512006 120903023  01805  01857               % 06189 RGTR--
+*A fj 150512006 120903023 000006  01805  01857              % 06189 RGTR--
+*A bl 150512006 120903023 000006  01805  01857              % 06189 RGTR--
+*A PA 150512006 120903023 000006  01805  01857              % 06189 RGTR--
+*R 2 120903023 150512006 120903023  01805  01857            % 06189 RGTR--
+*G RGB 150512006 120903023  01805  01857                    % 06189 RGTR--
+*A VE 150512006 120903023 000006  01805  01857              % 06189 RGTR--
+*I FD 150512006 120903023        0002255  01805  01857      % 06189 RGTR--
+150512006 Rambrouch, Gare              01805                % 06189 RGTR--
+150512005 Rambrouch, Schlass    01806  01806                % 06189 RGTR--
+150509001 Koetschette, Rond-Po  01807  01807                % 06189 RGTR--
+150501003 Arsdorf, An der Gaas  01810  01810                % 06189 RGTR--
+150501001 Arsdorf, Am Duerf     01811  01811                % 06189 RGTR--
+150501004 Arsdorf, Um Knupp     01812  01812                % 06189 RGTR--
+150501005 Arsdorf, Misärshaff   01814  01814                % 06189 RGTR--
+120101004 Boulaide, Post        01819  01819                % 06189 RGTR--
+120101003 Boulaide, Camping     01820  01820                % 06189 RGTR--
+120101001 Baschleiden, Elber    01821  01821                % 06189 RGTR--
+120101002 Baschleiden, Kiirch   01822  01822                % 06189 RGTR--
+120103002 Hareler Poteau        01824  01824                % 06189 RGTR--
+120102002 Surré, Gënzebierg     01827  01827                % 06189 RGTR--
+120102001 Surré, Bei der Bréck  01827  01827                % 06189 RGTR--
+120701001 Bavigne, Gemeng       01835  01835                % 06189 RGTR--
+120705001 Liefrange, Kiirch     01841  01841                % 06189 RGTR--
+120704001 Kaundorf, An der Hie  01848  01848                % 06189 RGTR--
+120707001 Nothum, Duerfstrooss  01851  01851                % 06189 RGTR--
+120707002 Nothum, Molkerei      01852  01852                % 06189 RGTR--
+120707003 Nothum, Schumann      01852  01852                % 06189 RGTR--
+120903038 Wiltz, Schumann       01853  01853                % 06189 RGTR--
+120903023 Wiltz, Lycée du Nord  01857                       % 06189 RGTR--
+*Z 06190 RGTR--                                             % 06190 RGTR--
+*L 620      150512006 120903023  01701  01753               % 06190 RGTR--
+*A fj 150512006 120903023 000159  01701  01753              % 06190 RGTR--
+*A bl 150512006 120903023 000159  01701  01753              % 06190 RGTR--
+*A PA 150512006 120903023 000159  01701  01753              % 06190 RGTR--
+*R 2 120903023 150512006 120903023  01701  01753            % 06190 RGTR--
+*G RGB 150512006 120903023  01701  01753                    % 06190 RGTR--
+*A VE 150512006 120903023 000159  01701  01753              % 06190 RGTR--
+*I FD 150512006 120903023        0002614  01701  01753      % 06190 RGTR--
+150512006 Rambrouch, Gare              01701                % 06190 RGTR--
+150512005 Rambrouch, Schlass    01702  01702                % 06190 RGTR--
+150509001 Koetschette, Rond-Po  01703  01703                % 06190 RGTR--
+150501003 Arsdorf, An der Gaas  01706  01706                % 06190 RGTR--
+150501001 Arsdorf, Am Duerf     01707  01707                % 06190 RGTR--
+150501004 Arsdorf, Um Knupp     01708  01708                % 06190 RGTR--
+150501005 Arsdorf, Misärshaff   01710  01710                % 06190 RGTR--
+120101004 Boulaide, Post        01715  01715                % 06190 RGTR--
+120101003 Boulaide, Camping     01716  01716                % 06190 RGTR--
+120101001 Baschleiden, Elber    01717  01717                % 06190 RGTR--
+120101002 Baschleiden, Kiirch   01718  01718                % 06190 RGTR--
+120103002 Hareler Poteau        01720  01720                % 06190 RGTR--
+120102002 Surré, Gënzebierg     01723  01723                % 06190 RGTR--
+120102001 Surré, Bei der Bréck  01723  01723                % 06190 RGTR--
+120701001 Bavigne, Gemeng       01731  01731                % 06190 RGTR--
+120705001 Liefrange, Kiirch     01737  01737                % 06190 RGTR--
+120704001 Kaundorf, An der Hie  01744  01744                % 06190 RGTR--
+120707001 Nothum, Duerfstrooss  01747  01747                % 06190 RGTR--
+120707002 Nothum, Molkerei      01748  01748                % 06190 RGTR--
+120707003 Nothum, Schumann      01748  01748                % 06190 RGTR--
+120903038 Wiltz, Schumann       01749  01749                % 06190 RGTR--
+120903023 Wiltz, Lycée du Nord  01753                       % 06190 RGTR--
+*Z 00046 RGTR--                                             % 00046 RGTR--
+*L 620      120101004 120903023  00714  00733               % 00046 RGTR--
+*A fj 120101004 120903023 000030  00714  00733              % 00046 RGTR--
+*A bl 120101004 120903023 000030  00714  00733              % 00046 RGTR--
+*R 2 120903023 120101004 120903023  00714  00733            % 00046 RGTR--
+*G RGB 120101004 120903023  00714  00733                    % 00046 RGTR--
+*A VE 120101004 120903023 000030  00714  00733              % 00046 RGTR--
+*I FD 120101004 120903023        0003540  00714  00733      % 00046 RGTR--
+120101004 Boulaide, Post               00714                % 00046 RGTR--
+120101003 Boulaide, Camping     00714  00714                % 00046 RGTR--
+120101001 Baschleiden, Elber    00715  00715                % 00046 RGTR--
+120101002 Baschleiden, Kiirch   00716  00716                % 00046 RGTR--
+120103002 Hareler Poteau        00718  00718                % 00046 RGTR--
+120701001 Bavigne, Gemeng       00722  00722                % 00046 RGTR--
+120707001 Nothum, Duerfstrooss  00727  00727                % 00046 RGTR--
+120707002 Nothum, Molkerei      00728  00728                % 00046 RGTR--
+120707003 Nothum, Schumann      00728  00728                % 00046 RGTR--
+120903038 Wiltz, Schumann       00729  00729                % 00046 RGTR--
+120903023 Wiltz, Lycée du Nord  00733                       % 00046 RGTR--
+*Z 06191 RGTR--                                             % 06191 RGTR--
+*L 620      150512006 120704001  01905  01946               % 06191 RGTR--
+*A fj 150512006 120704001 000006  01905  01946              % 06191 RGTR--
+*A oh 150512006 120704001 000006  01905  01946              % 06191 RGTR--
+*A PA 150512006 120704001 000006  01905  01946              % 06191 RGTR--
+*R 2 120704001 150512006 120704001  01905  01946            % 06191 RGTR--
+*G RGB 150512006 120704001  01905  01946                    % 06191 RGTR--
+*A VE 150512006 120704001 000006  01905  01946              % 06191 RGTR--
+*I FD 150512006 120704001        0002650  01905  01946      % 06191 RGTR--
+150512006 Rambrouch, Gare              01905                % 06191 RGTR--
+150512005 Rambrouch, Schlass    01906  01906                % 06191 RGTR--
+150509001 Koetschette, Rond-Po  01907  01907                % 06191 RGTR--
+150501003 Arsdorf, An der Gaas  01910  01910                % 06191 RGTR--
+150501001 Arsdorf, Am Duerf     01910  01910                % 06191 RGTR--
+150501004 Arsdorf, Um Knupp     01911  01911                % 06191 RGTR--
+150501005 Arsdorf, Misärshaff   01914  01914                % 06191 RGTR--
+120101004 Boulaide, Post        01919  01919                % 06191 RGTR--
+120101003 Boulaide, Camping     01919  01919                % 06191 RGTR--
+120101001 Baschleiden, Elber    01920  01920                % 06191 RGTR--
+120101002 Baschleiden, Kiirch   01921  01921                % 06191 RGTR--
+120103002 Hareler Poteau        01923  01923                % 06191 RGTR--
+120102002 Surré, Gënzebierg     01926  01926                % 06191 RGTR--
+120102001 Surré, Bei der Bréck  01927  01927                % 06191 RGTR--
+120701001 Bavigne, Gemeng       01934  01934                % 06191 RGTR--
+120705001 Liefrange, Kiirch     01940  01940                % 06191 RGTR--
+120704001 Kaundorf, An der Hie  01946                       % 06191 RGTR--
+*Z 06192 RGTR--                                             % 06192 RGTR--
+*L 620      150512006 120704001  02005  02046               % 06192 RGTR--
+*A fj 150512006 120704001 000006  02005  02046              % 06192 RGTR--
+*A oh 150512006 120704001 000006  02005  02046              % 06192 RGTR--
+*A PA 150512006 120704001 000006  02005  02046              % 06192 RGTR--
+*R 2 120704001 150512006 120704001  02005  02046            % 06192 RGTR--
+*G RGB 150512006 120704001  02005  02046                    % 06192 RGTR--
+*A VE 150512006 120704001 000006  02005  02046              % 06192 RGTR--
+*I FD 150512006 120704001        0002949  02005  02046      % 06192 RGTR--
+150512006 Rambrouch, Gare              02005                % 06192 RGTR--
+150512005 Rambrouch, Schlass    02006  02006                % 06192 RGTR--
+150509001 Koetschette, Rond-Po  02007  02007                % 06192 RGTR--
+150501003 Arsdorf, An der Gaas  02010  02010                % 06192 RGTR--
+150501001 Arsdorf, Am Duerf     02010  02010                % 06192 RGTR--
+150501004 Arsdorf, Um Knupp     02011  02011                % 06192 RGTR--
+150501005 Arsdorf, Misärshaff   02014  02014                % 06192 RGTR--
+120101004 Boulaide, Post        02019  02019                % 06192 RGTR--
+120101003 Boulaide, Camping     02019  02019                % 06192 RGTR--
+120101001 Baschleiden, Elber    02020  02020                % 06192 RGTR--
+120101002 Baschleiden, Kiirch   02021  02021                % 06192 RGTR--
+120103002 Hareler Poteau        02023  02023                % 06192 RGTR--
+120102002 Surré, Gënzebierg     02026  02026                % 06192 RGTR--
+120102001 Surré, Bei der Bréck  02027  02027                % 06192 RGTR--
+120701001 Bavigne, Gemeng       02034  02034                % 06192 RGTR--
+120705001 Liefrange, Kiirch     02040  02040                % 06192 RGTR--
+120704001 Kaundorf, An der Hie  02046                       % 06192 RGTR--

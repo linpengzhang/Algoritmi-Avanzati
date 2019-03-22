@@ -1,0 +1,185 @@
+*F 03 2
+*Z 01625 RGTR--                                             % 01625 RGTR--
+*L 503      140701023 170101003  01600  01635               % 01625 RGTR--
+*A bi 140701023 170101003 000045  01600  01635              % 01625 RGTR--
+*A da 140701023 170101003 000045  01600  01635              % 01625 RGTR--
+*A ae 140701023 170101003 000045  01600  01635              % 01625 RGTR--
+*A ad 140701023 170101003 000045  01600  01635              % 01625 RGTR--
+*R 1 170101003 140701023 170101003  01600  01635            % 01625 RGTR--
+*G RGB 140701023 170101003  01600  01635                    % 01625 RGTR--
+*A VE 140701023 170101003 000045  01600  01635              % 01625 RGTR--
+*I FD 140701023 170101003        0002236  01600  01635      % 01625 RGTR--
+140701023 Ettelbruck, Lycée Te         01600                % 01625 RGTR--
+140701024 Ettelbruck, Pensionn  01601  01601                % 01625 RGTR--
+140602008 Erpeldange/Sûre, Um   01604  01604                % 01625 RGTR--
+140603002 Ingeldorf, Café de l  01606  01606                % 01625 RGTR--
+140401008 Diekirch, Lorentzwue  01607  01607                % 01625 RGTR--
+140401004 Diekirch, Gare        01609  01609                % 01625 RGTR--
+140401001 Diekirch, Altersheem  01610  01610                % 01625 RGTR--
+140401007 Diekirch, rue Merten  01612  01612                % 01625 RGTR--
+140203002 Gilsdorf, Schoul      01614  01614                % 01625 RGTR--
+140203001 Gilsdorf, An der Klé  01615  01615                % 01625 RGTR--
+140202001 Bleesbréck            01616  01616                % 01625 RGTR--
+140201001 Bettendorf, Elick     01618  01618                % 01625 RGTR--
+140201002 Bettendorf, Gemeng    01618  01618                % 01625 RGTR--
+140201003 Bettendorf, Schlass   01619  01619                % 01625 RGTR--
+140204003 Moestroff, Wangerten  01620  01620                % 01625 RGTR--
+140204002 Moestroff, Bréck      01621  01621                % 01625 RGTR--
+140204001 Moestroff, An der Ga  01622  01622                % 01625 RGTR--
+141203004 Reisdorf, Cité J. Hi  01623  01623                % 01625 RGTR--
+141203002 Reisdorf, Bei der Ga  01624  01624                % 01625 RGTR--
+141203003 Reisdorf, Beim Gober  01627  01627                % 01625 RGTR--
+141203005 Reisdorf, Duddwee     01627  01627                % 01625 RGTR--
+170101005 Beaufort, Iewescht H  01630  01630                % 01625 RGTR--
+170101007 Beaufort, Reisduerfe  01631  01631                % 01625 RGTR--
+170101009 Beaufort, Um Bierg    01632  01632                % 01625 RGTR--
+170101001 Beaufort, Aispist     01633  01633                % 01625 RGTR--
+170101006 Beaufort, Op der Gar  01634  01634                % 01625 RGTR--
+170101003 Beaufort, Härewiss    01635                       % 01625 RGTR--
+*Z 01626 RGTR--                                             % 01626 RGTR--
+*L 503      140701023 170101003  01155  01228               % 01626 RGTR--
+*A bi 140701023 170101003 000030  01155  01228              % 01626 RGTR--
+*A da 140701023 170101003 000030  01155  01228              % 01626 RGTR--
+*A ae 140701023 170101003 000030  01155  01228              % 01626 RGTR--
+*A ad 140701023 170101003 000030  01155  01228              % 01626 RGTR--
+*R 1 170101003 140701023 170101003  01155  01228            % 01626 RGTR--
+*G RGB 140701023 170101003  01155  01228                    % 01626 RGTR--
+*A VE 140701023 170101003 000030  01155  01228              % 01626 RGTR--
+*I FD 140701023 170101003        0002603  01155  01228      % 01626 RGTR--
+140701023 Ettelbruck, Lycée Te         01155                % 01626 RGTR--
+140701024 Ettelbruck, Pensionn  01156  01156                % 01626 RGTR--
+140602008 Erpeldange/Sûre, Um   01158  01158                % 01626 RGTR--
+140603002 Ingeldorf, Café de l  01200  01200                % 01626 RGTR--
+140401008 Diekirch, Lorentzwue  01202  01202                % 01626 RGTR--
+140401004 Diekirch, Gare        01203  01203                % 01626 RGTR--
+140401001 Diekirch, Altersheem  01205  01205                % 01626 RGTR--
+140401007 Diekirch, rue Merten  01206  01206                % 01626 RGTR--
+140203002 Gilsdorf, Schoul      01208  01208                % 01626 RGTR--
+140203001 Gilsdorf, An der Klé  01209  01209                % 01626 RGTR--
+140202001 Bleesbréck            01210  01210                % 01626 RGTR--
+140201001 Bettendorf, Elick     01212  01212                % 01626 RGTR--
+140201002 Bettendorf, Gemeng    01212  01212                % 01626 RGTR--
+140201003 Bettendorf, Schlass   01213  01213                % 01626 RGTR--
+140204003 Moestroff, Wangerten  01214  01214                % 01626 RGTR--
+140204002 Moestroff, Bréck      01215  01215                % 01626 RGTR--
+140204001 Moestroff, An der Ga  01216  01216                % 01626 RGTR--
+141203004 Reisdorf, Cité J. Hi  01217  01217                % 01626 RGTR--
+141203002 Reisdorf, Bei der Ga  01218  01218                % 01626 RGTR--
+141203003 Reisdorf, Beim Gober  01221  01221                % 01626 RGTR--
+141203005 Reisdorf, Duddwee     01221  01221                % 01626 RGTR--
+170101005 Beaufort, Iewescht H  01224  01224                % 01626 RGTR--
+170101007 Beaufort, Reisduerfe  01225  01225                % 01626 RGTR--
+170101009 Beaufort, Um Bierg    01226  01226                % 01626 RGTR--
+170101001 Beaufort, Aispist     01226  01226                % 01626 RGTR--
+170101006 Beaufort, Op der Gar  01227  01227                % 01626 RGTR--
+170101003 Beaufort, Härewiss    01228                       % 01626 RGTR--
+*Z 01627 RGTR--                                             % 01627 RGTR--
+*L 503      140701023 170101003  01410  01444               % 01627 RGTR--
+*A da 140701023 170101003 000030  01410  01444              % 01627 RGTR--
+*A ae 140701023 170101003 000030  01410  01444              % 01627 RGTR--
+*A ad 140701023 170101003 000030  01410  01444              % 01627 RGTR--
+*R 1 170101003 140701023 170101003  01410  01444            % 01627 RGTR--
+*G RGB 140701023 170101003  01410  01444                    % 01627 RGTR--
+*A VE 140701023 170101003 000030  01410  01444              % 01627 RGTR--
+*I FD 140701023 170101003        0001889  01410  01444      % 01627 RGTR--
+140701023 Ettelbruck, Lycée Te         01410                % 01627 RGTR--
+140701024 Ettelbruck, Pensionn  01411  01411                % 01627 RGTR--
+140701016 Ettelbruck, Gare      01413  01413                % 01627 RGTR--
+140603002 Ingeldorf, Café de l  01416  01416                % 01627 RGTR--
+140401008 Diekirch, Lorentzwue  01418  01418                % 01627 RGTR--
+140401004 Diekirch, Gare        01419  01419                % 01627 RGTR--
+140401001 Diekirch, Altersheem  01420  01420                % 01627 RGTR--
+140401007 Diekirch, rue Merten  01422  01422                % 01627 RGTR--
+140203002 Gilsdorf, Schoul      01424  01424                % 01627 RGTR--
+140203001 Gilsdorf, An der Klé  01425  01425                % 01627 RGTR--
+140202001 Bleesbréck            01426  01426                % 01627 RGTR--
+140201001 Bettendorf, Elick     01427  01427                % 01627 RGTR--
+140201002 Bettendorf, Gemeng    01428  01428                % 01627 RGTR--
+140201003 Bettendorf, Schlass   01428  01428                % 01627 RGTR--
+140204003 Moestroff, Wangerten  01430  01430                % 01627 RGTR--
+140204002 Moestroff, Bréck      01431  01431                % 01627 RGTR--
+140204001 Moestroff, An der Ga  01431  01431                % 01627 RGTR--
+141203004 Reisdorf, Cité J. Hi  01433  01433                % 01627 RGTR--
+141203002 Reisdorf, Bei der Ga  01434  01434                % 01627 RGTR--
+141203003 Reisdorf, Beim Gober  01436  01436                % 01627 RGTR--
+141203005 Reisdorf, Duddwee     01437  01437                % 01627 RGTR--
+170101005 Beaufort, Iewescht H  01440  01440                % 01627 RGTR--
+170101007 Beaufort, Reisduerfe  01440  01440                % 01627 RGTR--
+170101009 Beaufort, Um Bierg    01441  01441                % 01627 RGTR--
+170101001 Beaufort, Aispist     01442  01442                % 01627 RGTR--
+170101006 Beaufort, Op der Gar  01443  01443                % 01627 RGTR--
+170101003 Beaufort, Härewiss    01444                       % 01627 RGTR--
+*Z 01628 RGTR--                                             % 01628 RGTR--
+*L 503      170101003 140701023  01310  01346               % 01628 RGTR--
+*A bi 170101003 140701023 000030  01310  01346              % 01628 RGTR--
+*A da 170101003 140701023 000030  01310  01346              % 01628 RGTR--
+*A cz 170101003 140701023 000030  01310  01346              % 01628 RGTR--
+*A ad 170101003 140701023 000030  01310  01346              % 01628 RGTR--
+*R 2 140701023 170101003 140701023  01310  01346            % 01628 RGTR--
+*G RGB 170101003 140701023  01310  01346                    % 01628 RGTR--
+*A VE 170101003 140701023 000030  01310  01346              % 01628 RGTR--
+*I FD 170101003 140701023        0002042  01310  01346      % 01628 RGTR--
+170101003 Beaufort, Härewiss           01310                % 01628 RGTR--
+170101006 Beaufort, Op der Gar  01311  01311                % 01628 RGTR--
+170101001 Beaufort, Aispist     01312  01312                % 01628 RGTR--
+170101009 Beaufort, Um Bierg    01312  01312                % 01628 RGTR--
+170101007 Beaufort, Reisduerfe  01313  01313                % 01628 RGTR--
+170101005 Beaufort, Iewescht H  01314  01314                % 01628 RGTR--
+141203005 Reisdorf, Duddwee     01317  01317                % 01628 RGTR--
+141203003 Reisdorf, Beim Gober  01317  01317                % 01628 RGTR--
+141203002 Reisdorf, Bei der Ga  01320  01320                % 01628 RGTR--
+141203004 Reisdorf, Cité J. Hi  01321  01321                % 01628 RGTR--
+140204001 Moestroff, An der Ga  01322  01322                % 01628 RGTR--
+140204002 Moestroff, Bréck      01323  01323                % 01628 RGTR--
+140204003 Moestroff, Wangerten  01324  01324                % 01628 RGTR--
+140201003 Bettendorf, Schlass   01326  01326                % 01628 RGTR--
+140201002 Bettendorf, Gemeng    01326  01326                % 01628 RGTR--
+140201001 Bettendorf, Elick     01327  01327                % 01628 RGTR--
+140202001 Bleesbréck            01329  01329                % 01628 RGTR--
+140203001 Gilsdorf, An der Klé  01330  01330                % 01628 RGTR--
+140203002 Gilsdorf, Schoul      01331  01331                % 01628 RGTR--
+140401007 Diekirch, rue Merten  01332  01332                % 01628 RGTR--
+140401006 Diekirch, Kluuster    01335  01335                % 01628 RGTR--
+140401004 Diekirch, Gare        01337  01337                % 01628 RGTR--
+140401008 Diekirch, Lorentzwue  01339  01339                % 01628 RGTR--
+140603002 Ingeldorf, Café de l  01340  01340                % 01628 RGTR--
+140602008 Erpeldange/Sûre, Um   01342  01342                % 01628 RGTR--
+140701001 Ettelbruck, Anc. Cli  01345  01345                % 01628 RGTR--
+140701023 Ettelbruck, Lycée Te  01346                       % 01628 RGTR--
+*Z 01629 RGTR--                                             % 01629 RGTR--
+*L 503      170101003 140701023  00700  00739               % 01629 RGTR--
+*A bi 170101003 140701023 000030  00700  00739              % 01629 RGTR--
+*A da 170101003 140701023 000030  00700  00739              % 01629 RGTR--
+*A cz 170101003 140701023 000030  00700  00739              % 01629 RGTR--
+*A ad 170101003 140701023 000030  00700  00739              % 01629 RGTR--
+*R 2 140701023 170101003 140701023  00700  00739            % 01629 RGTR--
+*G RGB 170101003 140701023  00700  00739                    % 01629 RGTR--
+*A VE 170101003 140701023 000030  00700  00739              % 01629 RGTR--
+*I FD 170101003 140701023        0002152  00700  00739      % 01629 RGTR--
+170101003 Beaufort, Härewiss           00700                % 01629 RGTR--
+170101006 Beaufort, Op der Gar  00701  00701                % 01629 RGTR--
+170101001 Beaufort, Aispist     00702  00702                % 01629 RGTR--
+170101009 Beaufort, Um Bierg    00702  00702                % 01629 RGTR--
+170101007 Beaufort, Reisduerfe  00703  00703                % 01629 RGTR--
+170101005 Beaufort, Iewescht H  00704  00704                % 01629 RGTR--
+141203005 Reisdorf, Duddwee     00707  00707                % 01629 RGTR--
+141203003 Reisdorf, Beim Gober  00707  00707                % 01629 RGTR--
+141203002 Reisdorf, Bei der Ga  00710  00710                % 01629 RGTR--
+141203004 Reisdorf, Cité J. Hi  00711  00711                % 01629 RGTR--
+140204001 Moestroff, An der Ga  00713  00713                % 01629 RGTR--
+140204002 Moestroff, Bréck      00714  00714                % 01629 RGTR--
+140204003 Moestroff, Wangerten  00714  00714                % 01629 RGTR--
+140201003 Bettendorf, Schlass   00716  00716                % 01629 RGTR--
+140201002 Bettendorf, Gemeng    00717  00717                % 01629 RGTR--
+140201001 Bettendorf, Elick     00717  00717                % 01629 RGTR--
+140202001 Bleesbréck            00720  00720                % 01629 RGTR--
+140203001 Gilsdorf, An der Klé  00721  00721                % 01629 RGTR--
+140203002 Gilsdorf, Schoul      00722  00722                % 01629 RGTR--
+140401007 Diekirch, rue Merten  00723  00723                % 01629 RGTR--
+140401006 Diekirch, Kluuster    00727  00727                % 01629 RGTR--
+140401004 Diekirch, Gare        00729  00729                % 01629 RGTR--
+140401008 Diekirch, Lorentzwue  00731  00731                % 01629 RGTR--
+140603002 Ingeldorf, Café de l  00732  00732                % 01629 RGTR--
+140602008 Erpeldange/Sûre, Um   00734  00734                % 01629 RGTR--
+140701001 Ettelbruck, Anc. Cli  00737  00737                % 01629 RGTR--
+140701023 Ettelbruck, Lycée Te  00739                       % 01629 RGTR--

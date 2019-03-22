@@ -1,0 +1,339 @@
+*F 03 2
+*Z 02833 CFLBUS                                             % 02833 CFLBUS
+*L 503      140701016 170501016  00650  00744               % 02833 CFLBUS
+*A vm 140701016 170501016 000035  00650  00744              % 02833 CFLBUS
+*A ad 140701016 170501016 000035  00650  00744              % 02833 CFLBUS
+*R 1 170501016 140701016 170501016  00650  00744            % 02833 CFLBUS
+*G RGB 140701016 170501016  00650  00744                    % 02833 CFLBUS
+*A VE 140701016 170501016 000035  00650  00744              % 02833 CFLBUS
+*I FD 140701016 170501016        0001906  00650  00744      % 02833 CFLBUS
+140701016 Ettelbruck, Gare             00650                % 02833 CFLBUS
+140602008 Erpeldange/Sûre, Um   00652  00652                % 02833 CFLBUS
+140603002 Ingeldorf, Café de l  00654  00654                % 02833 CFLBUS
+140401008 Diekirch, Lorentzwue  00655  00655                % 02833 CFLBUS
+140401004 Diekirch, Gare        00657  00657                % 02833 CFLBUS
+140401001 Diekirch, Altersheem  00658  00658                % 02833 CFLBUS
+140401007 Diekirch, rue Merten  00700  00700                % 02833 CFLBUS
+140203002 Gilsdorf, Schoul      00702  00702                % 02833 CFLBUS
+140203001 Gilsdorf, An der Klé  00703  00703                % 02833 CFLBUS
+140202001 Bleesbréck            00704  00704                % 02833 CFLBUS
+140201001 Bettendorf, Elick     00706  00706                % 02833 CFLBUS
+140201002 Bettendorf, Gemeng    00706  00706                % 02833 CFLBUS
+140201003 Bettendorf, Schlass   00707  00707                % 02833 CFLBUS
+140204003 Moestroff, Wangerten  00708  00708                % 02833 CFLBUS
+140204002 Moestroff, Bréck      00709  00709                % 02833 CFLBUS
+140204001 Moestroff, An der Ga  00710  00710                % 02833 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00711  00711                % 02833 CFLBUS
+141203002 Reisdorf, Bei der Ga  00712  00712                % 02833 CFLBUS
+141203003 Reisdorf, Beim Gober  00715  00715                % 02833 CFLBUS
+141203005 Reisdorf, Duddwee     00715  00715                % 02833 CFLBUS
+170101005 Beaufort, Iewescht H  00718  00718                % 02833 CFLBUS
+170101007 Beaufort, Reisduerfe  00719  00719                % 02833 CFLBUS
+170101009 Beaufort, Um Bierg    00720  00720                % 02833 CFLBUS
+170101001 Beaufort, Aispist     00721  00721                % 02833 CFLBUS
+170101006 Beaufort, Op der Gar  00722  00722                % 02833 CFLBUS
+170101003 Beaufort, Härewiss    00723  00723                % 02833 CFLBUS
+170101004 Beaufort, Huelewee    00724  00724                % 02833 CFLBUS
+170103002 Vugelsmillen          00728  00728                % 02833 CFLBUS
+170301004 Berdorf, Duerfplaz    00734  00734                % 02833 CFLBUS
+170301002 Berdorf, Hotel Herbe  00735  00735                % 02833 CFLBUS
+170301003 Berdorf, Hôtel Perek  00736  00736                % 02833 CFLBUS
+170501002 Echternach, Bel Air   00739  00739                % 02833 CFLBUS
+170501007 Echternach, Fielsmil  00740  00740                % 02833 CFLBUS
+170501016 Echternach, Gare Cen  00744                       % 02833 CFLBUS
+*Z 02834 CFLBUS                                             % 02834 CFLBUS
+*L 503      140701016 170501016  01415  01507               % 02834 CFLBUS
+*A vm 140701016 170501016 000035  01415  01507              % 02834 CFLBUS
+*A ad 140701016 170501016 000035  01415  01507              % 02834 CFLBUS
+*R 1 170501016 140701016 170501016  01415  01507            % 02834 CFLBUS
+*G RGB 140701016 170501016  01415  01507                    % 02834 CFLBUS
+*A VE 140701016 170501016 000035  01415  01507              % 02834 CFLBUS
+*I FD 140701016 170501016        0001804  01415  01507      % 02834 CFLBUS
+140701016 Ettelbruck, Gare             01415                % 02834 CFLBUS
+140602008 Erpeldange/Sûre, Um   01417  01417                % 02834 CFLBUS
+140603002 Ingeldorf, Café de l  01419  01419                % 02834 CFLBUS
+140401008 Diekirch, Lorentzwue  01420  01420                % 02834 CFLBUS
+140401004 Diekirch, Gare        01421  01421                % 02834 CFLBUS
+140401001 Diekirch, Altersheem  01423  01423                % 02834 CFLBUS
+140401007 Diekirch, rue Merten  01424  01424                % 02834 CFLBUS
+140203002 Gilsdorf, Schoul      01426  01426                % 02834 CFLBUS
+140203001 Gilsdorf, An der Klé  01427  01427                % 02834 CFLBUS
+140202001 Bleesbréck            01428  01428                % 02834 CFLBUS
+140201001 Bettendorf, Elick     01430  01430                % 02834 CFLBUS
+140201002 Bettendorf, Gemeng    01430  01430                % 02834 CFLBUS
+140201003 Bettendorf, Schlass   01431  01431                % 02834 CFLBUS
+140204003 Moestroff, Wangerten  01433  01433                % 02834 CFLBUS
+140204002 Moestroff, Bréck      01433  01433                % 02834 CFLBUS
+140204001 Moestroff, An der Ga  01434  01434                % 02834 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01436  01436                % 02834 CFLBUS
+141203002 Reisdorf, Bei der Ga  01436  01436                % 02834 CFLBUS
+141203003 Reisdorf, Beim Gober  01439  01439                % 02834 CFLBUS
+141203005 Reisdorf, Duddwee     01439  01439                % 02834 CFLBUS
+170101005 Beaufort, Iewescht H  01442  01442                % 02834 CFLBUS
+170101007 Beaufort, Reisduerfe  01443  01443                % 02834 CFLBUS
+170101009 Beaufort, Um Bierg    01444  01444                % 02834 CFLBUS
+170101001 Beaufort, Aispist     01444  01444                % 02834 CFLBUS
+170101006 Beaufort, Op der Gar  01445  01445                % 02834 CFLBUS
+170101003 Beaufort, Härewiss    01446  01446                % 02834 CFLBUS
+170101004 Beaufort, Huelewee    01447  01447                % 02834 CFLBUS
+170103002 Vugelsmillen          01451  01451                % 02834 CFLBUS
+170301004 Berdorf, Duerfplaz    01457  01457                % 02834 CFLBUS
+170301002 Berdorf, Hotel Herbe  01458  01458                % 02834 CFLBUS
+170301003 Berdorf, Hôtel Perek  01459  01459                % 02834 CFLBUS
+170501002 Echternach, Bel Air   01502  01502                % 02834 CFLBUS
+170501007 Echternach, Fielsmil  01503  01503                % 02834 CFLBUS
+170501016 Echternach, Gare Cen  01507                       % 02834 CFLBUS
+*Z 02835 CFLBUS                                             % 02835 CFLBUS
+*L 503      140701016 170501016  00650  00744               % 02835 CFLBUS
+*A bi 140701016 170501016 000034  00650  00744              % 02835 CFLBUS
+*A vm 140701016 170501016 000034  00650  00744              % 02835 CFLBUS
+*A ad 140701016 170501016 000034  00650  00744              % 02835 CFLBUS
+*R 1 170501016 140701016 170501016  00650  00744            % 02835 CFLBUS
+*G RGB 140701016 170501016  00650  00744                    % 02835 CFLBUS
+*A VE 140701016 170501016 000034  00650  00744              % 02835 CFLBUS
+*I FD 140701016 170501016        0001906  00650  00744      % 02835 CFLBUS
+140701016 Ettelbruck, Gare             00650                % 02835 CFLBUS
+140602008 Erpeldange/Sûre, Um   00652  00652                % 02835 CFLBUS
+140603002 Ingeldorf, Café de l  00654  00654                % 02835 CFLBUS
+140401008 Diekirch, Lorentzwue  00655  00655                % 02835 CFLBUS
+140401004 Diekirch, Gare        00657  00657                % 02835 CFLBUS
+140401001 Diekirch, Altersheem  00658  00658                % 02835 CFLBUS
+140401007 Diekirch, rue Merten  00700  00700                % 02835 CFLBUS
+140203002 Gilsdorf, Schoul      00702  00702                % 02835 CFLBUS
+140203001 Gilsdorf, An der Klé  00703  00703                % 02835 CFLBUS
+140202001 Bleesbréck            00704  00704                % 02835 CFLBUS
+140201001 Bettendorf, Elick     00706  00706                % 02835 CFLBUS
+140201002 Bettendorf, Gemeng    00706  00706                % 02835 CFLBUS
+140201003 Bettendorf, Schlass   00707  00707                % 02835 CFLBUS
+140204003 Moestroff, Wangerten  00708  00708                % 02835 CFLBUS
+140204002 Moestroff, Bréck      00709  00709                % 02835 CFLBUS
+140204001 Moestroff, An der Ga  00710  00710                % 02835 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00711  00711                % 02835 CFLBUS
+141203002 Reisdorf, Bei der Ga  00712  00712                % 02835 CFLBUS
+141203003 Reisdorf, Beim Gober  00715  00715                % 02835 CFLBUS
+141203005 Reisdorf, Duddwee     00715  00715                % 02835 CFLBUS
+170101005 Beaufort, Iewescht H  00718  00718                % 02835 CFLBUS
+170101007 Beaufort, Reisduerfe  00719  00719                % 02835 CFLBUS
+170101009 Beaufort, Um Bierg    00720  00720                % 02835 CFLBUS
+170101001 Beaufort, Aispist     00721  00721                % 02835 CFLBUS
+170101006 Beaufort, Op der Gar  00722  00722                % 02835 CFLBUS
+170101003 Beaufort, Härewiss    00723  00723                % 02835 CFLBUS
+170101004 Beaufort, Huelewee    00724  00724                % 02835 CFLBUS
+170103002 Vugelsmillen          00728  00728                % 02835 CFLBUS
+170301004 Berdorf, Duerfplaz    00734  00734                % 02835 CFLBUS
+170301002 Berdorf, Hotel Herbe  00735  00735                % 02835 CFLBUS
+170301003 Berdorf, Hôtel Perek  00736  00736                % 02835 CFLBUS
+170501002 Echternach, Bel Air   00739  00739                % 02835 CFLBUS
+170501007 Echternach, Fielsmil  00740  00740                % 02835 CFLBUS
+170501016 Echternach, Gare Cen  00744                       % 02835 CFLBUS
+*Z 02836 CFLBUS                                             % 02836 CFLBUS
+*L 503      140701016 170501016  01415  01507               % 02836 CFLBUS
+*A bi 140701016 170501016 000034  01415  01507              % 02836 CFLBUS
+*A vm 140701016 170501016 000034  01415  01507              % 02836 CFLBUS
+*A ad 140701016 170501016 000034  01415  01507              % 02836 CFLBUS
+*R 1 170501016 140701016 170501016  01415  01507            % 02836 CFLBUS
+*G RGB 140701016 170501016  01415  01507                    % 02836 CFLBUS
+*A VE 140701016 170501016 000034  01415  01507              % 02836 CFLBUS
+*I FD 140701016 170501016        0001804  01415  01507      % 02836 CFLBUS
+140701016 Ettelbruck, Gare             01415                % 02836 CFLBUS
+140602008 Erpeldange/Sûre, Um   01417  01417                % 02836 CFLBUS
+140603002 Ingeldorf, Café de l  01419  01419                % 02836 CFLBUS
+140401008 Diekirch, Lorentzwue  01420  01420                % 02836 CFLBUS
+140401004 Diekirch, Gare        01421  01421                % 02836 CFLBUS
+140401001 Diekirch, Altersheem  01423  01423                % 02836 CFLBUS
+140401007 Diekirch, rue Merten  01424  01424                % 02836 CFLBUS
+140203002 Gilsdorf, Schoul      01426  01426                % 02836 CFLBUS
+140203001 Gilsdorf, An der Klé  01427  01427                % 02836 CFLBUS
+140202001 Bleesbréck            01428  01428                % 02836 CFLBUS
+140201001 Bettendorf, Elick     01430  01430                % 02836 CFLBUS
+140201002 Bettendorf, Gemeng    01430  01430                % 02836 CFLBUS
+140201003 Bettendorf, Schlass   01431  01431                % 02836 CFLBUS
+140204003 Moestroff, Wangerten  01433  01433                % 02836 CFLBUS
+140204002 Moestroff, Bréck      01433  01433                % 02836 CFLBUS
+140204001 Moestroff, An der Ga  01434  01434                % 02836 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01436  01436                % 02836 CFLBUS
+141203002 Reisdorf, Bei der Ga  01436  01436                % 02836 CFLBUS
+141203003 Reisdorf, Beim Gober  01439  01439                % 02836 CFLBUS
+141203005 Reisdorf, Duddwee     01439  01439                % 02836 CFLBUS
+170101005 Beaufort, Iewescht H  01442  01442                % 02836 CFLBUS
+170101007 Beaufort, Reisduerfe  01443  01443                % 02836 CFLBUS
+170101009 Beaufort, Um Bierg    01444  01444                % 02836 CFLBUS
+170101001 Beaufort, Aispist     01444  01444                % 02836 CFLBUS
+170101006 Beaufort, Op der Gar  01445  01445                % 02836 CFLBUS
+170101003 Beaufort, Härewiss    01446  01446                % 02836 CFLBUS
+170101004 Beaufort, Huelewee    01447  01447                % 02836 CFLBUS
+170103002 Vugelsmillen          01451  01451                % 02836 CFLBUS
+170301004 Berdorf, Duerfplaz    01457  01457                % 02836 CFLBUS
+170301002 Berdorf, Hotel Herbe  01458  01458                % 02836 CFLBUS
+170301003 Berdorf, Hôtel Perek  01459  01459                % 02836 CFLBUS
+170501002 Echternach, Bel Air   01502  01502                % 02836 CFLBUS
+170501007 Echternach, Fielsmil  01503  01503                % 02836 CFLBUS
+170501016 Echternach, Gare Cen  01507                       % 02836 CFLBUS
+*Z 02837 CFLBUS                                             % 02837 CFLBUS
+*L 503      140701016 170501016  00650  00744               % 02837 CFLBUS
+*A vm 140701016 170501016 000025  00650  00744              % 02837 CFLBUS
+*A ad 140701016 170501016 000025  00650  00744              % 02837 CFLBUS
+*R 1 170501016 140701016 170501016  00650  00744            % 02837 CFLBUS
+*G RGB 140701016 170501016  00650  00744                    % 02837 CFLBUS
+*A VE 140701016 170501016 000025  00650  00744              % 02837 CFLBUS
+*I FD 140701016 170501016        0001906  00650  00744      % 02837 CFLBUS
+140701016 Ettelbruck, Gare             00650                % 02837 CFLBUS
+140602008 Erpeldange/Sûre, Um   00652  00652                % 02837 CFLBUS
+140603002 Ingeldorf, Café de l  00654  00654                % 02837 CFLBUS
+140401008 Diekirch, Lorentzwue  00655  00655                % 02837 CFLBUS
+140401004 Diekirch, Gare        00657  00657                % 02837 CFLBUS
+140401001 Diekirch, Altersheem  00658  00658                % 02837 CFLBUS
+140401007 Diekirch, rue Merten  00700  00700                % 02837 CFLBUS
+140203002 Gilsdorf, Schoul      00702  00702                % 02837 CFLBUS
+140203001 Gilsdorf, An der Klé  00703  00703                % 02837 CFLBUS
+140202001 Bleesbréck            00704  00704                % 02837 CFLBUS
+140201001 Bettendorf, Elick     00706  00706                % 02837 CFLBUS
+140201002 Bettendorf, Gemeng    00706  00706                % 02837 CFLBUS
+140201003 Bettendorf, Schlass   00707  00707                % 02837 CFLBUS
+140204003 Moestroff, Wangerten  00708  00708                % 02837 CFLBUS
+140204002 Moestroff, Bréck      00709  00709                % 02837 CFLBUS
+140204001 Moestroff, An der Ga  00710  00710                % 02837 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00711  00711                % 02837 CFLBUS
+141203002 Reisdorf, Bei der Ga  00712  00712                % 02837 CFLBUS
+141203003 Reisdorf, Beim Gober  00715  00715                % 02837 CFLBUS
+141203005 Reisdorf, Duddwee     00715  00715                % 02837 CFLBUS
+170101005 Beaufort, Iewescht H  00718  00718                % 02837 CFLBUS
+170101007 Beaufort, Reisduerfe  00719  00719                % 02837 CFLBUS
+170101009 Beaufort, Um Bierg    00720  00720                % 02837 CFLBUS
+170101001 Beaufort, Aispist     00721  00721                % 02837 CFLBUS
+170101006 Beaufort, Op der Gar  00722  00722                % 02837 CFLBUS
+170101003 Beaufort, Härewiss    00723  00723                % 02837 CFLBUS
+170101004 Beaufort, Huelewee    00724  00724                % 02837 CFLBUS
+170103002 Vugelsmillen          00728  00728                % 02837 CFLBUS
+170301004 Berdorf, Duerfplaz    00734  00734                % 02837 CFLBUS
+170301002 Berdorf, Hotel Herbe  00735  00735                % 02837 CFLBUS
+170301003 Berdorf, Hôtel Perek  00736  00736                % 02837 CFLBUS
+170501002 Echternach, Bel Air   00739  00739                % 02837 CFLBUS
+170501007 Echternach, Fielsmil  00740  00740                % 02837 CFLBUS
+170501016 Echternach, Gare Cen  00744                       % 02837 CFLBUS
+*Z 02838 CFLBUS                                             % 02838 CFLBUS
+*L 503      140701016 170501016  01415  01507               % 02838 CFLBUS
+*A vm 140701016 170501016 000025  01415  01507              % 02838 CFLBUS
+*A ad 140701016 170501016 000025  01415  01507              % 02838 CFLBUS
+*R 1 170501016 140701016 170501016  01415  01507            % 02838 CFLBUS
+*G RGB 140701016 170501016  01415  01507                    % 02838 CFLBUS
+*A VE 140701016 170501016 000025  01415  01507              % 02838 CFLBUS
+*I FD 140701016 170501016        0001804  01415  01507      % 02838 CFLBUS
+140701016 Ettelbruck, Gare             01415                % 02838 CFLBUS
+140602008 Erpeldange/Sûre, Um   01417  01417                % 02838 CFLBUS
+140603002 Ingeldorf, Café de l  01419  01419                % 02838 CFLBUS
+140401008 Diekirch, Lorentzwue  01420  01420                % 02838 CFLBUS
+140401004 Diekirch, Gare        01421  01421                % 02838 CFLBUS
+140401001 Diekirch, Altersheem  01423  01423                % 02838 CFLBUS
+140401007 Diekirch, rue Merten  01424  01424                % 02838 CFLBUS
+140203002 Gilsdorf, Schoul      01426  01426                % 02838 CFLBUS
+140203001 Gilsdorf, An der Klé  01427  01427                % 02838 CFLBUS
+140202001 Bleesbréck            01428  01428                % 02838 CFLBUS
+140201001 Bettendorf, Elick     01430  01430                % 02838 CFLBUS
+140201002 Bettendorf, Gemeng    01430  01430                % 02838 CFLBUS
+140201003 Bettendorf, Schlass   01431  01431                % 02838 CFLBUS
+140204003 Moestroff, Wangerten  01433  01433                % 02838 CFLBUS
+140204002 Moestroff, Bréck      01433  01433                % 02838 CFLBUS
+140204001 Moestroff, An der Ga  01434  01434                % 02838 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01436  01436                % 02838 CFLBUS
+141203002 Reisdorf, Bei der Ga  01436  01436                % 02838 CFLBUS
+141203003 Reisdorf, Beim Gober  01439  01439                % 02838 CFLBUS
+141203005 Reisdorf, Duddwee     01439  01439                % 02838 CFLBUS
+170101005 Beaufort, Iewescht H  01442  01442                % 02838 CFLBUS
+170101007 Beaufort, Reisduerfe  01443  01443                % 02838 CFLBUS
+170101009 Beaufort, Um Bierg    01444  01444                % 02838 CFLBUS
+170101001 Beaufort, Aispist     01444  01444                % 02838 CFLBUS
+170101006 Beaufort, Op der Gar  01445  01445                % 02838 CFLBUS
+170101003 Beaufort, Härewiss    01446  01446                % 02838 CFLBUS
+170101004 Beaufort, Huelewee    01447  01447                % 02838 CFLBUS
+170103002 Vugelsmillen          01451  01451                % 02838 CFLBUS
+170301004 Berdorf, Duerfplaz    01457  01457                % 02838 CFLBUS
+170301002 Berdorf, Hotel Herbe  01458  01458                % 02838 CFLBUS
+170301003 Berdorf, Hôtel Perek  01459  01459                % 02838 CFLBUS
+170501002 Echternach, Bel Air   01502  01502                % 02838 CFLBUS
+170501007 Echternach, Fielsmil  01503  01503                % 02838 CFLBUS
+170501016 Echternach, Gare Cen  01507                       % 02838 CFLBUS
+*Z 02839 CFLBUS                                             % 02839 CFLBUS
+*L 503      140701016 170501016  00650  00742               % 02839 CFLBUS
+*A vm 140701016 170501016 000032  00650  00742              % 02839 CFLBUS
+*A ad 140701016 170501016 000032  00650  00742              % 02839 CFLBUS
+*R 1 170501016 140701016 170501016  00650  00742            % 02839 CFLBUS
+*G RGB 140701016 170501016  00650  00742                    % 02839 CFLBUS
+*A VE 140701016 170501016 000032  00650  00742              % 02839 CFLBUS
+*I FD 140701016 170501016        0001906  00650  00742      % 02839 CFLBUS
+140701016 Ettelbruck, Gare             00650                % 02839 CFLBUS
+140602008 Erpeldange/Sûre, Um   00652  00652                % 02839 CFLBUS
+140603002 Ingeldorf, Café de l  00654  00654                % 02839 CFLBUS
+140401008 Diekirch, Lorentzwue  00656  00656                % 02839 CFLBUS
+140401004 Diekirch, Gare        00657  00657                % 02839 CFLBUS
+140401001 Diekirch, Altersheem  00658  00658                % 02839 CFLBUS
+140401007 Diekirch, rue Merten  00700  00700                % 02839 CFLBUS
+140203002 Gilsdorf, Schoul      00702  00702                % 02839 CFLBUS
+140203001 Gilsdorf, An der Klé  00703  00703                % 02839 CFLBUS
+140202001 Bleesbréck            00704  00704                % 02839 CFLBUS
+140201001 Bettendorf, Elick     00705  00705                % 02839 CFLBUS
+140201002 Bettendorf, Gemeng    00706  00706                % 02839 CFLBUS
+140201003 Bettendorf, Schlass   00706  00706                % 02839 CFLBUS
+140204003 Moestroff, Wangerten  00708  00708                % 02839 CFLBUS
+140204002 Moestroff, Bréck      00709  00709                % 02839 CFLBUS
+140204001 Moestroff, An der Ga  00709  00709                % 02839 CFLBUS
+141203004 Reisdorf, Cité J. Hi  00711  00711                % 02839 CFLBUS
+141203002 Reisdorf, Bei der Ga  00712  00712                % 02839 CFLBUS
+141203003 Reisdorf, Beim Gober  00714  00714                % 02839 CFLBUS
+141203005 Reisdorf, Duddwee     00715  00715                % 02839 CFLBUS
+170101005 Beaufort, Iewescht H  00718  00718                % 02839 CFLBUS
+170101007 Beaufort, Reisduerfe  00719  00719                % 02839 CFLBUS
+170101009 Beaufort, Um Bierg    00719  00719                % 02839 CFLBUS
+170101001 Beaufort, Aispist     00720  00720                % 02839 CFLBUS
+170101006 Beaufort, Op der Gar  00721  00721                % 02839 CFLBUS
+170101003 Beaufort, Härewiss    00722  00722                % 02839 CFLBUS
+170101004 Beaufort, Huelewee    00723  00723                % 02839 CFLBUS
+170103002 Vugelsmillen          00727  00727                % 02839 CFLBUS
+170301004 Berdorf, Duerfplaz    00733  00733                % 02839 CFLBUS
+170301002 Berdorf, Hotel Herbe  00733  00733                % 02839 CFLBUS
+170301003 Berdorf, Hôtel Perek  00734  00734                % 02839 CFLBUS
+170501002 Echternach, Bel Air   00737  00737                % 02839 CFLBUS
+170501007 Echternach, Fielsmil  00738  00738                % 02839 CFLBUS
+170501016 Echternach, Gare Cen  00742                       % 02839 CFLBUS
+*Z 02840 CFLBUS                                             % 02840 CFLBUS
+*L 503      140701016 170501016  01415  01507               % 02840 CFLBUS
+*A vm 140701016 170501016 000032  01415  01507              % 02840 CFLBUS
+*A ad 140701016 170501016 000032  01415  01507              % 02840 CFLBUS
+*R 1 170501016 140701016 170501016  01415  01507            % 02840 CFLBUS
+*G RGB 140701016 170501016  01415  01507                    % 02840 CFLBUS
+*A VE 140701016 170501016 000032  01415  01507              % 02840 CFLBUS
+*I FD 140701016 170501016        0001804  01415  01507      % 02840 CFLBUS
+140701016 Ettelbruck, Gare             01415                % 02840 CFLBUS
+140602008 Erpeldange/Sûre, Um   01417  01417                % 02840 CFLBUS
+140603002 Ingeldorf, Café de l  01419  01419                % 02840 CFLBUS
+140401008 Diekirch, Lorentzwue  01421  01421                % 02840 CFLBUS
+140401004 Diekirch, Gare        01422  01422                % 02840 CFLBUS
+140401001 Diekirch, Altersheem  01423  01423                % 02840 CFLBUS
+140401007 Diekirch, rue Merten  01425  01425                % 02840 CFLBUS
+140203002 Gilsdorf, Schoul      01427  01427                % 02840 CFLBUS
+140203001 Gilsdorf, An der Klé  01428  01428                % 02840 CFLBUS
+140202001 Bleesbréck            01429  01429                % 02840 CFLBUS
+140201001 Bettendorf, Elick     01430  01430                % 02840 CFLBUS
+140201002 Bettendorf, Gemeng    01431  01431                % 02840 CFLBUS
+140201003 Bettendorf, Schlass   01431  01431                % 02840 CFLBUS
+140204003 Moestroff, Wangerten  01433  01433                % 02840 CFLBUS
+140204002 Moestroff, Bréck      01434  01434                % 02840 CFLBUS
+140204001 Moestroff, An der Ga  01434  01434                % 02840 CFLBUS
+141203004 Reisdorf, Cité J. Hi  01436  01436                % 02840 CFLBUS
+141203002 Reisdorf, Bei der Ga  01437  01437                % 02840 CFLBUS
+141203003 Reisdorf, Beim Gober  01439  01439                % 02840 CFLBUS
+141203005 Reisdorf, Duddwee     01440  01440                % 02840 CFLBUS
+170101005 Beaufort, Iewescht H  01443  01443                % 02840 CFLBUS
+170101007 Beaufort, Reisduerfe  01444  01444                % 02840 CFLBUS
+170101009 Beaufort, Um Bierg    01444  01444                % 02840 CFLBUS
+170101001 Beaufort, Aispist     01445  01445                % 02840 CFLBUS
+170101006 Beaufort, Op der Gar  01446  01446                % 02840 CFLBUS
+170101003 Beaufort, Härewiss    01447  01447                % 02840 CFLBUS
+170101004 Beaufort, Huelewee    01448  01448                % 02840 CFLBUS
+170103002 Vugelsmillen          01452  01452                % 02840 CFLBUS
+170301004 Berdorf, Duerfplaz    01458  01458                % 02840 CFLBUS
+170301002 Berdorf, Hotel Herbe  01458  01458                % 02840 CFLBUS
+170301003 Berdorf, Hôtel Perek  01459  01459                % 02840 CFLBUS
+170501002 Echternach, Bel Air   01502  01502                % 02840 CFLBUS
+170501007 Echternach, Fielsmil  01503  01503                % 02840 CFLBUS
+170501016 Echternach, Gare Cen  01507                       % 02840 CFLBUS

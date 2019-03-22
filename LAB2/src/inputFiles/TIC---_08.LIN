@@ -1,0 +1,1923 @@
+*F 03 2
+*Z 01351 TIC---                                             % 01351 TIC---
+*L 8        220301027 220301054  00903  00915               % 01351 TIC---
+*R 1 220301054 220301027 220301054  00903  00915            % 01351 TIC---
+*G TIB 220301027 220301054  00903  00915                    % 01351 TIC---
+*A VE 220301027 220301054 000000  00903  00915              % 01351 TIC---
+*I FD 220301027 220301054        0001503  00903  00915      % 01351 TIC---
+220301027 Dudelange, Greisenda         00903                % 01351 TIC---
+220301049 Dudelange, Schlacken  00903  00903                % 01351 TIC---
+220301050 Dudelange, Schmelz    00904  00904                % 01351 TIC---
+220301070 Dudelange, Rue Grand  00905  00905                % 01351 TIC---
+220301028 Dudelange, Spidol     00907  00907                % 01351 TIC---
+220301014 Dudelange, Casino     00907  00907                % 01351 TIC---
+220301056 Dudelange, Centre Cu  00908  00908                % 01351 TIC---
+220301038 Dudelange, Rue de la  00909  00909                % 01351 TIC---
+220301085 Dudelange, Strutzbie  00909  00909                % 01351 TIC---
+220301029 Dudelange, Kiirch     00910  00910                % 01351 TIC---
+220301078 Dudelange, Square Ma  00911  00911                % 01351 TIC---
+220301022 Dudelange, Gare       00911  00911                % 01351 TIC---
+220301037 Dudelange, Nudelsfab  00912  00912                % 01351 TIC---
+220301042 Dudelange, Route de   00913  00913                % 01351 TIC---
+220301041 Dudelange, Rue Ribes  00914  00914                % 01351 TIC---
+220301054 Dudelange, Soibelkau  00915                       % 01351 TIC---
+*Z 01352 TIC---                                             % 01352 TIC---
+*L 8        220301027 220301054  01003  01015               % 01352 TIC---
+*R 1 220301054 220301027 220301054  01003  01015            % 01352 TIC---
+*G TIB 220301027 220301054  01003  01015                    % 01352 TIC---
+*A VE 220301027 220301054 000000  01003  01015              % 01352 TIC---
+*I FD 220301027 220301054        0001504  01003  01015      % 01352 TIC---
+220301027 Dudelange, Greisenda         01003                % 01352 TIC---
+220301049 Dudelange, Schlacken  01003  01003                % 01352 TIC---
+220301050 Dudelange, Schmelz    01004  01004                % 01352 TIC---
+220301070 Dudelange, Rue Grand  01005  01005                % 01352 TIC---
+220301028 Dudelange, Spidol     01007  01007                % 01352 TIC---
+220301014 Dudelange, Casino     01007  01007                % 01352 TIC---
+220301056 Dudelange, Centre Cu  01008  01008                % 01352 TIC---
+220301038 Dudelange, Rue de la  01009  01009                % 01352 TIC---
+220301085 Dudelange, Strutzbie  01009  01009                % 01352 TIC---
+220301029 Dudelange, Kiirch     01010  01010                % 01352 TIC---
+220301078 Dudelange, Square Ma  01011  01011                % 01352 TIC---
+220301022 Dudelange, Gare       01011  01011                % 01352 TIC---
+220301037 Dudelange, Nudelsfab  01012  01012                % 01352 TIC---
+220301042 Dudelange, Route de   01013  01013                % 01352 TIC---
+220301041 Dudelange, Rue Ribes  01014  01014                % 01352 TIC---
+220301054 Dudelange, Soibelkau  01015                       % 01352 TIC---
+*Z 01353 TIC---                                             % 01353 TIC---
+*L 8        220301027 220301054  01103  01115               % 01353 TIC---
+*R 1 220301054 220301027 220301054  01103  01115            % 01353 TIC---
+*G TIB 220301027 220301054  01103  01115                    % 01353 TIC---
+*A VE 220301027 220301054 000000  01103  01115              % 01353 TIC---
+*I FD 220301027 220301054        0001505  01103  01115      % 01353 TIC---
+220301027 Dudelange, Greisenda         01103                % 01353 TIC---
+220301049 Dudelange, Schlacken  01103  01103                % 01353 TIC---
+220301050 Dudelange, Schmelz    01104  01104                % 01353 TIC---
+220301070 Dudelange, Rue Grand  01105  01105                % 01353 TIC---
+220301028 Dudelange, Spidol     01107  01107                % 01353 TIC---
+220301014 Dudelange, Casino     01107  01107                % 01353 TIC---
+220301056 Dudelange, Centre Cu  01108  01108                % 01353 TIC---
+220301038 Dudelange, Rue de la  01109  01109                % 01353 TIC---
+220301085 Dudelange, Strutzbie  01109  01109                % 01353 TIC---
+220301029 Dudelange, Kiirch     01110  01110                % 01353 TIC---
+220301078 Dudelange, Square Ma  01111  01111                % 01353 TIC---
+220301022 Dudelange, Gare       01111  01111                % 01353 TIC---
+220301037 Dudelange, Nudelsfab  01112  01112                % 01353 TIC---
+220301042 Dudelange, Route de   01113  01113                % 01353 TIC---
+220301041 Dudelange, Rue Ribes  01114  01114                % 01353 TIC---
+220301054 Dudelange, Soibelkau  01115                       % 01353 TIC---
+*Z 01354 TIC---                                             % 01354 TIC---
+*L 8        220301027 220301054  01203  01215               % 01354 TIC---
+*R 1 220301054 220301027 220301054  01203  01215            % 01354 TIC---
+*G TIB 220301027 220301054  01203  01215                    % 01354 TIC---
+*A VE 220301027 220301054 000000  01203  01215              % 01354 TIC---
+*I FD 220301027 220301054        0001506  01203  01215      % 01354 TIC---
+220301027 Dudelange, Greisenda         01203                % 01354 TIC---
+220301049 Dudelange, Schlacken  01203  01203                % 01354 TIC---
+220301050 Dudelange, Schmelz    01204  01204                % 01354 TIC---
+220301070 Dudelange, Rue Grand  01205  01205                % 01354 TIC---
+220301028 Dudelange, Spidol     01207  01207                % 01354 TIC---
+220301014 Dudelange, Casino     01207  01207                % 01354 TIC---
+220301056 Dudelange, Centre Cu  01208  01208                % 01354 TIC---
+220301038 Dudelange, Rue de la  01209  01209                % 01354 TIC---
+220301085 Dudelange, Strutzbie  01209  01209                % 01354 TIC---
+220301029 Dudelange, Kiirch     01210  01210                % 01354 TIC---
+220301078 Dudelange, Square Ma  01211  01211                % 01354 TIC---
+220301022 Dudelange, Gare       01211  01211                % 01354 TIC---
+220301037 Dudelange, Nudelsfab  01212  01212                % 01354 TIC---
+220301042 Dudelange, Route de   01213  01213                % 01354 TIC---
+220301041 Dudelange, Rue Ribes  01214  01214                % 01354 TIC---
+220301054 Dudelange, Soibelkau  01215                       % 01354 TIC---
+*Z 01355 TIC---                                             % 01355 TIC---
+*L 8        220301027 220301054  01303  01315               % 01355 TIC---
+*R 1 220301054 220301027 220301054  01303  01315            % 01355 TIC---
+*G TIB 220301027 220301054  01303  01315                    % 01355 TIC---
+*A VE 220301027 220301054 000000  01303  01315              % 01355 TIC---
+*I FD 220301027 220301054        0001507  01303  01315      % 01355 TIC---
+220301027 Dudelange, Greisenda         01303                % 01355 TIC---
+220301049 Dudelange, Schlacken  01303  01303                % 01355 TIC---
+220301050 Dudelange, Schmelz    01304  01304                % 01355 TIC---
+220301070 Dudelange, Rue Grand  01305  01305                % 01355 TIC---
+220301028 Dudelange, Spidol     01307  01307                % 01355 TIC---
+220301014 Dudelange, Casino     01307  01307                % 01355 TIC---
+220301056 Dudelange, Centre Cu  01308  01308                % 01355 TIC---
+220301038 Dudelange, Rue de la  01309  01309                % 01355 TIC---
+220301085 Dudelange, Strutzbie  01309  01309                % 01355 TIC---
+220301029 Dudelange, Kiirch     01310  01310                % 01355 TIC---
+220301078 Dudelange, Square Ma  01311  01311                % 01355 TIC---
+220301022 Dudelange, Gare       01311  01311                % 01355 TIC---
+220301037 Dudelange, Nudelsfab  01312  01312                % 01355 TIC---
+220301042 Dudelange, Route de   01313  01313                % 01355 TIC---
+220301041 Dudelange, Rue Ribes  01314  01314                % 01355 TIC---
+220301054 Dudelange, Soibelkau  01315                       % 01355 TIC---
+*Z 01356 TIC---                                             % 01356 TIC---
+*L 8        220301027 220301054  01403  01415               % 01356 TIC---
+*R 1 220301054 220301027 220301054  01403  01415            % 01356 TIC---
+*G TIB 220301027 220301054  01403  01415                    % 01356 TIC---
+*A VE 220301027 220301054 000000  01403  01415              % 01356 TIC---
+*I FD 220301027 220301054        0001508  01403  01415      % 01356 TIC---
+220301027 Dudelange, Greisenda         01403                % 01356 TIC---
+220301049 Dudelange, Schlacken  01403  01403                % 01356 TIC---
+220301050 Dudelange, Schmelz    01404  01404                % 01356 TIC---
+220301070 Dudelange, Rue Grand  01405  01405                % 01356 TIC---
+220301028 Dudelange, Spidol     01407  01407                % 01356 TIC---
+220301014 Dudelange, Casino     01407  01407                % 01356 TIC---
+220301056 Dudelange, Centre Cu  01408  01408                % 01356 TIC---
+220301038 Dudelange, Rue de la  01409  01409                % 01356 TIC---
+220301085 Dudelange, Strutzbie  01409  01409                % 01356 TIC---
+220301029 Dudelange, Kiirch     01410  01410                % 01356 TIC---
+220301078 Dudelange, Square Ma  01411  01411                % 01356 TIC---
+220301022 Dudelange, Gare       01411  01411                % 01356 TIC---
+220301037 Dudelange, Nudelsfab  01412  01412                % 01356 TIC---
+220301042 Dudelange, Route de   01413  01413                % 01356 TIC---
+220301041 Dudelange, Rue Ribes  01414  01414                % 01356 TIC---
+220301054 Dudelange, Soibelkau  01415                       % 01356 TIC---
+*Z 01357 TIC---                                             % 01357 TIC---
+*L 8        220301027 220301054  01503  01515               % 01357 TIC---
+*R 1 220301054 220301027 220301054  01503  01515            % 01357 TIC---
+*G TIB 220301027 220301054  01503  01515                    % 01357 TIC---
+*A VE 220301027 220301054 000000  01503  01515              % 01357 TIC---
+*I FD 220301027 220301054        0001509  01503  01515      % 01357 TIC---
+220301027 Dudelange, Greisenda         01503                % 01357 TIC---
+220301049 Dudelange, Schlacken  01503  01503                % 01357 TIC---
+220301050 Dudelange, Schmelz    01504  01504                % 01357 TIC---
+220301070 Dudelange, Rue Grand  01505  01505                % 01357 TIC---
+220301028 Dudelange, Spidol     01507  01507                % 01357 TIC---
+220301014 Dudelange, Casino     01507  01507                % 01357 TIC---
+220301056 Dudelange, Centre Cu  01508  01508                % 01357 TIC---
+220301038 Dudelange, Rue de la  01509  01509                % 01357 TIC---
+220301085 Dudelange, Strutzbie  01509  01509                % 01357 TIC---
+220301029 Dudelange, Kiirch     01510  01510                % 01357 TIC---
+220301078 Dudelange, Square Ma  01511  01511                % 01357 TIC---
+220301022 Dudelange, Gare       01511  01511                % 01357 TIC---
+220301037 Dudelange, Nudelsfab  01512  01512                % 01357 TIC---
+220301042 Dudelange, Route de   01513  01513                % 01357 TIC---
+220301041 Dudelange, Rue Ribes  01514  01514                % 01357 TIC---
+220301054 Dudelange, Soibelkau  01515                       % 01357 TIC---
+*Z 01358 TIC---                                             % 01358 TIC---
+*L 8        220301027 220301054  01603  01615               % 01358 TIC---
+*R 1 220301054 220301027 220301054  01603  01615            % 01358 TIC---
+*G TIB 220301027 220301054  01603  01615                    % 01358 TIC---
+*A VE 220301027 220301054 000000  01603  01615              % 01358 TIC---
+*I FD 220301027 220301054        0001510  01603  01615      % 01358 TIC---
+220301027 Dudelange, Greisenda         01603                % 01358 TIC---
+220301049 Dudelange, Schlacken  01603  01603                % 01358 TIC---
+220301050 Dudelange, Schmelz    01604  01604                % 01358 TIC---
+220301070 Dudelange, Rue Grand  01605  01605                % 01358 TIC---
+220301028 Dudelange, Spidol     01607  01607                % 01358 TIC---
+220301014 Dudelange, Casino     01607  01607                % 01358 TIC---
+220301056 Dudelange, Centre Cu  01608  01608                % 01358 TIC---
+220301038 Dudelange, Rue de la  01609  01609                % 01358 TIC---
+220301085 Dudelange, Strutzbie  01609  01609                % 01358 TIC---
+220301029 Dudelange, Kiirch     01610  01610                % 01358 TIC---
+220301078 Dudelange, Square Ma  01611  01611                % 01358 TIC---
+220301022 Dudelange, Gare       01611  01611                % 01358 TIC---
+220301037 Dudelange, Nudelsfab  01612  01612                % 01358 TIC---
+220301042 Dudelange, Route de   01613  01613                % 01358 TIC---
+220301041 Dudelange, Rue Ribes  01614  01614                % 01358 TIC---
+220301054 Dudelange, Soibelkau  01615                       % 01358 TIC---
+*Z 01359 TIC---                                             % 01359 TIC---
+*L 8        220301027 220301054  01703  01715               % 01359 TIC---
+*R 1 220301054 220301027 220301054  01703  01715            % 01359 TIC---
+*G TIB 220301027 220301054  01703  01715                    % 01359 TIC---
+*A VE 220301027 220301054 000000  01703  01715              % 01359 TIC---
+*I FD 220301027 220301054        0001511  01703  01715      % 01359 TIC---
+220301027 Dudelange, Greisenda         01703                % 01359 TIC---
+220301049 Dudelange, Schlacken  01703  01703                % 01359 TIC---
+220301050 Dudelange, Schmelz    01704  01704                % 01359 TIC---
+220301070 Dudelange, Rue Grand  01705  01705                % 01359 TIC---
+220301028 Dudelange, Spidol     01707  01707                % 01359 TIC---
+220301014 Dudelange, Casino     01707  01707                % 01359 TIC---
+220301056 Dudelange, Centre Cu  01708  01708                % 01359 TIC---
+220301038 Dudelange, Rue de la  01709  01709                % 01359 TIC---
+220301085 Dudelange, Strutzbie  01709  01709                % 01359 TIC---
+220301029 Dudelange, Kiirch     01710  01710                % 01359 TIC---
+220301078 Dudelange, Square Ma  01711  01711                % 01359 TIC---
+220301022 Dudelange, Gare       01711  01711                % 01359 TIC---
+220301037 Dudelange, Nudelsfab  01712  01712                % 01359 TIC---
+220301042 Dudelange, Route de   01713  01713                % 01359 TIC---
+220301041 Dudelange, Rue Ribes  01714  01714                % 01359 TIC---
+220301054 Dudelange, Soibelkau  01715                       % 01359 TIC---
+*Z 01360 TIC---                                             % 01360 TIC---
+*L 8        220301027 220301054  01803  01815               % 01360 TIC---
+*R 1 220301054 220301027 220301054  01803  01815            % 01360 TIC---
+*G TIB 220301027 220301054  01803  01815                    % 01360 TIC---
+*A VE 220301027 220301054 000000  01803  01815              % 01360 TIC---
+*I FD 220301027 220301054        0001512  01803  01815      % 01360 TIC---
+220301027 Dudelange, Greisenda         01803                % 01360 TIC---
+220301049 Dudelange, Schlacken  01803  01803                % 01360 TIC---
+220301050 Dudelange, Schmelz    01804  01804                % 01360 TIC---
+220301070 Dudelange, Rue Grand  01805  01805                % 01360 TIC---
+220301028 Dudelange, Spidol     01807  01807                % 01360 TIC---
+220301014 Dudelange, Casino     01807  01807                % 01360 TIC---
+220301056 Dudelange, Centre Cu  01808  01808                % 01360 TIC---
+220301038 Dudelange, Rue de la  01809  01809                % 01360 TIC---
+220301085 Dudelange, Strutzbie  01809  01809                % 01360 TIC---
+220301029 Dudelange, Kiirch     01810  01810                % 01360 TIC---
+220301078 Dudelange, Square Ma  01811  01811                % 01360 TIC---
+220301022 Dudelange, Gare       01811  01811                % 01360 TIC---
+220301037 Dudelange, Nudelsfab  01812  01812                % 01360 TIC---
+220301042 Dudelange, Route de   01813  01813                % 01360 TIC---
+220301041 Dudelange, Rue Ribes  01814  01814                % 01360 TIC---
+220301054 Dudelange, Soibelkau  01815                       % 01360 TIC---
+*Z 01361 TIC---                                             % 01361 TIC---
+*L 8        220301027 220301054  01903  01915               % 01361 TIC---
+*R 1 220301054 220301027 220301054  01903  01915            % 01361 TIC---
+*G TIB 220301027 220301054  01903  01915                    % 01361 TIC---
+*A VE 220301027 220301054 000000  01903  01915              % 01361 TIC---
+*I FD 220301027 220301054        0001513  01903  01915      % 01361 TIC---
+220301027 Dudelange, Greisenda         01903                % 01361 TIC---
+220301049 Dudelange, Schlacken  01903  01903                % 01361 TIC---
+220301050 Dudelange, Schmelz    01904  01904                % 01361 TIC---
+220301070 Dudelange, Rue Grand  01905  01905                % 01361 TIC---
+220301028 Dudelange, Spidol     01907  01907                % 01361 TIC---
+220301014 Dudelange, Casino     01907  01907                % 01361 TIC---
+220301056 Dudelange, Centre Cu  01908  01908                % 01361 TIC---
+220301038 Dudelange, Rue de la  01909  01909                % 01361 TIC---
+220301085 Dudelange, Strutzbie  01909  01909                % 01361 TIC---
+220301029 Dudelange, Kiirch     01910  01910                % 01361 TIC---
+220301078 Dudelange, Square Ma  01911  01911                % 01361 TIC---
+220301022 Dudelange, Gare       01911  01911                % 01361 TIC---
+220301037 Dudelange, Nudelsfab  01912  01912                % 01361 TIC---
+220301042 Dudelange, Route de   01913  01913                % 01361 TIC---
+220301041 Dudelange, Rue Ribes  01914  01914                % 01361 TIC---
+220301054 Dudelange, Soibelkau  01915                       % 01361 TIC---
+*Z 01362 TIC---                                             % 01362 TIC---
+*L 8        220301027 220301054  02003  02015               % 01362 TIC---
+*R 1 220301054 220301027 220301054  02003  02015            % 01362 TIC---
+*G TIB 220301027 220301054  02003  02015                    % 01362 TIC---
+*A VE 220301027 220301054 000084  02003  02015              % 01362 TIC---
+*I FD 220301027 220301054        0001514  02003  02015      % 01362 TIC---
+220301027 Dudelange, Greisenda         02003                % 01362 TIC---
+220301049 Dudelange, Schlacken  02003  02003                % 01362 TIC---
+220301050 Dudelange, Schmelz    02004  02004                % 01362 TIC---
+220301070 Dudelange, Rue Grand  02005  02005                % 01362 TIC---
+220301028 Dudelange, Spidol     02007  02007                % 01362 TIC---
+220301014 Dudelange, Casino     02007  02007                % 01362 TIC---
+220301056 Dudelange, Centre Cu  02008  02008                % 01362 TIC---
+220301038 Dudelange, Rue de la  02009  02009                % 01362 TIC---
+220301085 Dudelange, Strutzbie  02009  02009                % 01362 TIC---
+220301029 Dudelange, Kiirch     02010  02010                % 01362 TIC---
+220301078 Dudelange, Square Ma  02011  02011                % 01362 TIC---
+220301022 Dudelange, Gare       02011  02011                % 01362 TIC---
+220301037 Dudelange, Nudelsfab  02012  02012                % 01362 TIC---
+220301042 Dudelange, Route de   02013  02013                % 01362 TIC---
+220301041 Dudelange, Rue Ribes  02014  02014                % 01362 TIC---
+220301054 Dudelange, Soibelkau  02015                       % 01362 TIC---
+*Z 01363 TIC---                                             % 01363 TIC---
+*L 8        220301027 220301054  02033  02045               % 01363 TIC---
+*R 1 220301054 220301027 220301054  02033  02045            % 01363 TIC---
+*G TIB 220301027 220301054  02033  02045                    % 01363 TIC---
+*A VE 220301027 220301054 000084  02033  02045              % 01363 TIC---
+*I FD 220301027 220301054        0001515  02033  02045      % 01363 TIC---
+220301027 Dudelange, Greisenda         02033                % 01363 TIC---
+220301049 Dudelange, Schlacken  02033  02033                % 01363 TIC---
+220301050 Dudelange, Schmelz    02034  02034                % 01363 TIC---
+220301070 Dudelange, Rue Grand  02035  02035                % 01363 TIC---
+220301028 Dudelange, Spidol     02037  02037                % 01363 TIC---
+220301014 Dudelange, Casino     02037  02037                % 01363 TIC---
+220301056 Dudelange, Centre Cu  02038  02038                % 01363 TIC---
+220301038 Dudelange, Rue de la  02039  02039                % 01363 TIC---
+220301085 Dudelange, Strutzbie  02039  02039                % 01363 TIC---
+220301029 Dudelange, Kiirch     02040  02040                % 01363 TIC---
+220301078 Dudelange, Square Ma  02041  02041                % 01363 TIC---
+220301022 Dudelange, Gare       02041  02041                % 01363 TIC---
+220301037 Dudelange, Nudelsfab  02042  02042                % 01363 TIC---
+220301042 Dudelange, Route de   02043  02043                % 01363 TIC---
+220301041 Dudelange, Rue Ribes  02044  02044                % 01363 TIC---
+220301054 Dudelange, Soibelkau  02045                       % 01363 TIC---
+*Z 01364 TIC---                                             % 01364 TIC---
+*L 8        220301027 220301054  00503  00515               % 01364 TIC---
+*R 1 220301054 220301027 220301054  00503  00515            % 01364 TIC---
+*G TIB 220301027 220301054  00503  00515                    % 01364 TIC---
+*A VE 220301027 220301054 000084  00503  00515              % 01364 TIC---
+*I FD 220301027 220301054        0001516  00503  00515      % 01364 TIC---
+220301027 Dudelange, Greisenda         00503                % 01364 TIC---
+220301049 Dudelange, Schlacken  00503  00503                % 01364 TIC---
+220301050 Dudelange, Schmelz    00504  00504                % 01364 TIC---
+220301070 Dudelange, Rue Grand  00505  00505                % 01364 TIC---
+220301028 Dudelange, Spidol     00507  00507                % 01364 TIC---
+220301014 Dudelange, Casino     00507  00507                % 01364 TIC---
+220301056 Dudelange, Centre Cu  00508  00508                % 01364 TIC---
+220301038 Dudelange, Rue de la  00509  00509                % 01364 TIC---
+220301085 Dudelange, Strutzbie  00509  00509                % 01364 TIC---
+220301029 Dudelange, Kiirch     00510  00510                % 01364 TIC---
+220301078 Dudelange, Square Ma  00511  00511                % 01364 TIC---
+220301022 Dudelange, Gare       00511  00511                % 01364 TIC---
+220301037 Dudelange, Nudelsfab  00512  00512                % 01364 TIC---
+220301042 Dudelange, Route de   00513  00513                % 01364 TIC---
+220301041 Dudelange, Rue Ribes  00514  00514                % 01364 TIC---
+220301054 Dudelange, Soibelkau  00515                       % 01364 TIC---
+*Z 01365 TIC---                                             % 01365 TIC---
+*L 8        220301027 220301054  00533  00545               % 01365 TIC---
+*R 1 220301054 220301027 220301054  00533  00545            % 01365 TIC---
+*G TIB 220301027 220301054  00533  00545                    % 01365 TIC---
+*A VE 220301027 220301054 000084  00533  00545              % 01365 TIC---
+*I FD 220301027 220301054        0001517  00533  00545      % 01365 TIC---
+220301027 Dudelange, Greisenda         00533                % 01365 TIC---
+220301049 Dudelange, Schlacken  00533  00533                % 01365 TIC---
+220301050 Dudelange, Schmelz    00534  00534                % 01365 TIC---
+220301070 Dudelange, Rue Grand  00535  00535                % 01365 TIC---
+220301028 Dudelange, Spidol     00537  00537                % 01365 TIC---
+220301014 Dudelange, Casino     00537  00537                % 01365 TIC---
+220301056 Dudelange, Centre Cu  00538  00538                % 01365 TIC---
+220301038 Dudelange, Rue de la  00539  00539                % 01365 TIC---
+220301085 Dudelange, Strutzbie  00539  00539                % 01365 TIC---
+220301029 Dudelange, Kiirch     00540  00540                % 01365 TIC---
+220301078 Dudelange, Square Ma  00541  00541                % 01365 TIC---
+220301022 Dudelange, Gare       00541  00541                % 01365 TIC---
+220301037 Dudelange, Nudelsfab  00542  00542                % 01365 TIC---
+220301042 Dudelange, Route de   00543  00543                % 01365 TIC---
+220301041 Dudelange, Rue Ribes  00544  00544                % 01365 TIC---
+220301054 Dudelange, Soibelkau  00545                       % 01365 TIC---
+*Z 01366 TIC---                                             % 01366 TIC---
+*L 8        220301027 220301054  00603  00615               % 01366 TIC---
+*R 1 220301054 220301027 220301054  00603  00615            % 01366 TIC---
+*G TIB 220301027 220301054  00603  00615                    % 01366 TIC---
+*A VE 220301027 220301054 000084  00603  00615              % 01366 TIC---
+*I FD 220301027 220301054        0001518  00603  00615      % 01366 TIC---
+220301027 Dudelange, Greisenda         00603                % 01366 TIC---
+220301049 Dudelange, Schlacken  00603  00603                % 01366 TIC---
+220301050 Dudelange, Schmelz    00604  00604                % 01366 TIC---
+220301070 Dudelange, Rue Grand  00605  00605                % 01366 TIC---
+220301028 Dudelange, Spidol     00607  00607                % 01366 TIC---
+220301014 Dudelange, Casino     00607  00607                % 01366 TIC---
+220301056 Dudelange, Centre Cu  00608  00608                % 01366 TIC---
+220301038 Dudelange, Rue de la  00609  00609                % 01366 TIC---
+220301085 Dudelange, Strutzbie  00609  00609                % 01366 TIC---
+220301029 Dudelange, Kiirch     00610  00610                % 01366 TIC---
+220301078 Dudelange, Square Ma  00611  00611                % 01366 TIC---
+220301022 Dudelange, Gare       00611  00611                % 01366 TIC---
+220301037 Dudelange, Nudelsfab  00612  00612                % 01366 TIC---
+220301042 Dudelange, Route de   00613  00613                % 01366 TIC---
+220301041 Dudelange, Rue Ribes  00614  00614                % 01366 TIC---
+220301054 Dudelange, Soibelkau  00615                       % 01366 TIC---
+*Z 01367 TIC---                                             % 01367 TIC---
+*L 8        220301027 220301054  00633  00645               % 01367 TIC---
+*R 1 220301054 220301027 220301054  00633  00645            % 01367 TIC---
+*G TIB 220301027 220301054  00633  00645                    % 01367 TIC---
+*A VE 220301027 220301054 000084  00633  00645              % 01367 TIC---
+*I FD 220301027 220301054        0001519  00633  00645      % 01367 TIC---
+220301027 Dudelange, Greisenda         00633                % 01367 TIC---
+220301049 Dudelange, Schlacken  00633  00633                % 01367 TIC---
+220301050 Dudelange, Schmelz    00634  00634                % 01367 TIC---
+220301070 Dudelange, Rue Grand  00635  00635                % 01367 TIC---
+220301028 Dudelange, Spidol     00637  00637                % 01367 TIC---
+220301014 Dudelange, Casino     00637  00637                % 01367 TIC---
+220301056 Dudelange, Centre Cu  00638  00638                % 01367 TIC---
+220301038 Dudelange, Rue de la  00639  00639                % 01367 TIC---
+220301085 Dudelange, Strutzbie  00639  00639                % 01367 TIC---
+220301029 Dudelange, Kiirch     00640  00640                % 01367 TIC---
+220301078 Dudelange, Square Ma  00641  00641                % 01367 TIC---
+220301022 Dudelange, Gare       00641  00641                % 01367 TIC---
+220301037 Dudelange, Nudelsfab  00642  00642                % 01367 TIC---
+220301042 Dudelange, Route de   00643  00643                % 01367 TIC---
+220301041 Dudelange, Rue Ribes  00644  00644                % 01367 TIC---
+220301054 Dudelange, Soibelkau  00645                       % 01367 TIC---
+*Z 01368 TIC---                                             % 01368 TIC---
+*L 8        220301027 220301054  00703  00715               % 01368 TIC---
+*R 1 220301054 220301027 220301054  00703  00715            % 01368 TIC---
+*G TIB 220301027 220301054  00703  00715                    % 01368 TIC---
+*A VE 220301027 220301054 000084  00703  00715              % 01368 TIC---
+*I FD 220301027 220301054        0001520  00703  00715      % 01368 TIC---
+220301027 Dudelange, Greisenda         00703                % 01368 TIC---
+220301049 Dudelange, Schlacken  00703  00703                % 01368 TIC---
+220301050 Dudelange, Schmelz    00704  00704                % 01368 TIC---
+220301070 Dudelange, Rue Grand  00705  00705                % 01368 TIC---
+220301028 Dudelange, Spidol     00707  00707                % 01368 TIC---
+220301014 Dudelange, Casino     00707  00707                % 01368 TIC---
+220301056 Dudelange, Centre Cu  00708  00708                % 01368 TIC---
+220301038 Dudelange, Rue de la  00709  00709                % 01368 TIC---
+220301085 Dudelange, Strutzbie  00709  00709                % 01368 TIC---
+220301029 Dudelange, Kiirch     00710  00710                % 01368 TIC---
+220301078 Dudelange, Square Ma  00711  00711                % 01368 TIC---
+220301022 Dudelange, Gare       00711  00711                % 01368 TIC---
+220301037 Dudelange, Nudelsfab  00712  00712                % 01368 TIC---
+220301042 Dudelange, Route de   00713  00713                % 01368 TIC---
+220301041 Dudelange, Rue Ribes  00714  00714                % 01368 TIC---
+220301054 Dudelange, Soibelkau  00715                       % 01368 TIC---
+*Z 01369 TIC---                                             % 01369 TIC---
+*L 8        220301027 220301054  00733  00745               % 01369 TIC---
+*R 1 220301054 220301027 220301054  00733  00745            % 01369 TIC---
+*G TIB 220301027 220301054  00733  00745                    % 01369 TIC---
+*A VE 220301027 220301054 000084  00733  00745              % 01369 TIC---
+*I FD 220301027 220301054        0001521  00733  00745      % 01369 TIC---
+220301027 Dudelange, Greisenda         00733                % 01369 TIC---
+220301049 Dudelange, Schlacken  00733  00733                % 01369 TIC---
+220301050 Dudelange, Schmelz    00734  00734                % 01369 TIC---
+220301070 Dudelange, Rue Grand  00735  00735                % 01369 TIC---
+220301028 Dudelange, Spidol     00737  00737                % 01369 TIC---
+220301014 Dudelange, Casino     00737  00737                % 01369 TIC---
+220301056 Dudelange, Centre Cu  00738  00738                % 01369 TIC---
+220301038 Dudelange, Rue de la  00739  00739                % 01369 TIC---
+220301085 Dudelange, Strutzbie  00739  00739                % 01369 TIC---
+220301029 Dudelange, Kiirch     00740  00740                % 01369 TIC---
+220301078 Dudelange, Square Ma  00741  00741                % 01369 TIC---
+220301022 Dudelange, Gare       00741  00741                % 01369 TIC---
+220301037 Dudelange, Nudelsfab  00742  00742                % 01369 TIC---
+220301042 Dudelange, Route de   00743  00743                % 01369 TIC---
+220301041 Dudelange, Rue Ribes  00744  00744                % 01369 TIC---
+220301054 Dudelange, Soibelkau  00745                       % 01369 TIC---
+*Z 01370 TIC---                                             % 01370 TIC---
+*L 8        220301027 220301054  00803  00815               % 01370 TIC---
+*R 1 220301054 220301027 220301054  00803  00815            % 01370 TIC---
+*G TIB 220301027 220301054  00803  00815                    % 01370 TIC---
+*A VE 220301027 220301054 000084  00803  00815              % 01370 TIC---
+*I FD 220301027 220301054        0001522  00803  00815      % 01370 TIC---
+220301027 Dudelange, Greisenda         00803                % 01370 TIC---
+220301049 Dudelange, Schlacken  00803  00803                % 01370 TIC---
+220301050 Dudelange, Schmelz    00804  00804                % 01370 TIC---
+220301070 Dudelange, Rue Grand  00805  00805                % 01370 TIC---
+220301028 Dudelange, Spidol     00807  00807                % 01370 TIC---
+220301014 Dudelange, Casino     00807  00807                % 01370 TIC---
+220301056 Dudelange, Centre Cu  00808  00808                % 01370 TIC---
+220301038 Dudelange, Rue de la  00809  00809                % 01370 TIC---
+220301085 Dudelange, Strutzbie  00809  00809                % 01370 TIC---
+220301029 Dudelange, Kiirch     00810  00810                % 01370 TIC---
+220301078 Dudelange, Square Ma  00811  00811                % 01370 TIC---
+220301022 Dudelange, Gare       00811  00811                % 01370 TIC---
+220301037 Dudelange, Nudelsfab  00812  00812                % 01370 TIC---
+220301042 Dudelange, Route de   00813  00813                % 01370 TIC---
+220301041 Dudelange, Rue Ribes  00814  00814                % 01370 TIC---
+220301054 Dudelange, Soibelkau  00815                       % 01370 TIC---
+*Z 01371 TIC---                                             % 01371 TIC---
+*L 8        220301027 220301054  00833  00845               % 01371 TIC---
+*R 1 220301054 220301027 220301054  00833  00845            % 01371 TIC---
+*G TIB 220301027 220301054  00833  00845                    % 01371 TIC---
+*A VE 220301027 220301054 000084  00833  00845              % 01371 TIC---
+*I FD 220301027 220301054        0001523  00833  00845      % 01371 TIC---
+220301027 Dudelange, Greisenda         00833                % 01371 TIC---
+220301049 Dudelange, Schlacken  00833  00833                % 01371 TIC---
+220301050 Dudelange, Schmelz    00834  00834                % 01371 TIC---
+220301070 Dudelange, Rue Grand  00835  00835                % 01371 TIC---
+220301028 Dudelange, Spidol     00837  00837                % 01371 TIC---
+220301014 Dudelange, Casino     00837  00837                % 01371 TIC---
+220301056 Dudelange, Centre Cu  00838  00838                % 01371 TIC---
+220301038 Dudelange, Rue de la  00839  00839                % 01371 TIC---
+220301085 Dudelange, Strutzbie  00839  00839                % 01371 TIC---
+220301029 Dudelange, Kiirch     00840  00840                % 01371 TIC---
+220301078 Dudelange, Square Ma  00841  00841                % 01371 TIC---
+220301022 Dudelange, Gare       00841  00841                % 01371 TIC---
+220301037 Dudelange, Nudelsfab  00842  00842                % 01371 TIC---
+220301042 Dudelange, Route de   00843  00843                % 01371 TIC---
+220301041 Dudelange, Rue Ribes  00844  00844                % 01371 TIC---
+220301054 Dudelange, Soibelkau  00845                       % 01371 TIC---
+*Z 01372 TIC---                                             % 01372 TIC---
+*L 8        220301027 220301054  00933  00945               % 01372 TIC---
+*R 1 220301054 220301027 220301054  00933  00945            % 01372 TIC---
+*G TIB 220301027 220301054  00933  00945                    % 01372 TIC---
+*A VE 220301027 220301054 000084  00933  00945              % 01372 TIC---
+*I FD 220301027 220301054        0001524  00933  00945      % 01372 TIC---
+220301027 Dudelange, Greisenda         00933                % 01372 TIC---
+220301049 Dudelange, Schlacken  00933  00933                % 01372 TIC---
+220301050 Dudelange, Schmelz    00934  00934                % 01372 TIC---
+220301070 Dudelange, Rue Grand  00935  00935                % 01372 TIC---
+220301028 Dudelange, Spidol     00937  00937                % 01372 TIC---
+220301014 Dudelange, Casino     00937  00937                % 01372 TIC---
+220301056 Dudelange, Centre Cu  00938  00938                % 01372 TIC---
+220301038 Dudelange, Rue de la  00939  00939                % 01372 TIC---
+220301085 Dudelange, Strutzbie  00939  00939                % 01372 TIC---
+220301029 Dudelange, Kiirch     00940  00940                % 01372 TIC---
+220301078 Dudelange, Square Ma  00941  00941                % 01372 TIC---
+220301022 Dudelange, Gare       00941  00941                % 01372 TIC---
+220301037 Dudelange, Nudelsfab  00942  00942                % 01372 TIC---
+220301042 Dudelange, Route de   00943  00943                % 01372 TIC---
+220301041 Dudelange, Rue Ribes  00944  00944                % 01372 TIC---
+220301054 Dudelange, Soibelkau  00945                       % 01372 TIC---
+*Z 01373 TIC---                                             % 01373 TIC---
+*L 8        220301027 220301054  01033  01045               % 01373 TIC---
+*R 1 220301054 220301027 220301054  01033  01045            % 01373 TIC---
+*G TIB 220301027 220301054  01033  01045                    % 01373 TIC---
+*A VE 220301027 220301054 000084  01033  01045              % 01373 TIC---
+*I FD 220301027 220301054        0001525  01033  01045      % 01373 TIC---
+220301027 Dudelange, Greisenda         01033                % 01373 TIC---
+220301049 Dudelange, Schlacken  01033  01033                % 01373 TIC---
+220301050 Dudelange, Schmelz    01034  01034                % 01373 TIC---
+220301070 Dudelange, Rue Grand  01035  01035                % 01373 TIC---
+220301028 Dudelange, Spidol     01037  01037                % 01373 TIC---
+220301014 Dudelange, Casino     01037  01037                % 01373 TIC---
+220301056 Dudelange, Centre Cu  01038  01038                % 01373 TIC---
+220301038 Dudelange, Rue de la  01039  01039                % 01373 TIC---
+220301085 Dudelange, Strutzbie  01039  01039                % 01373 TIC---
+220301029 Dudelange, Kiirch     01040  01040                % 01373 TIC---
+220301078 Dudelange, Square Ma  01041  01041                % 01373 TIC---
+220301022 Dudelange, Gare       01041  01041                % 01373 TIC---
+220301037 Dudelange, Nudelsfab  01042  01042                % 01373 TIC---
+220301042 Dudelange, Route de   01043  01043                % 01373 TIC---
+220301041 Dudelange, Rue Ribes  01044  01044                % 01373 TIC---
+220301054 Dudelange, Soibelkau  01045                       % 01373 TIC---
+*Z 01374 TIC---                                             % 01374 TIC---
+*L 8        220301027 220301054  01133  01145               % 01374 TIC---
+*R 1 220301054 220301027 220301054  01133  01145            % 01374 TIC---
+*G TIB 220301027 220301054  01133  01145                    % 01374 TIC---
+*A VE 220301027 220301054 000084  01133  01145              % 01374 TIC---
+*I FD 220301027 220301054        0001526  01133  01145      % 01374 TIC---
+220301027 Dudelange, Greisenda         01133                % 01374 TIC---
+220301049 Dudelange, Schlacken  01133  01133                % 01374 TIC---
+220301050 Dudelange, Schmelz    01134  01134                % 01374 TIC---
+220301070 Dudelange, Rue Grand  01135  01135                % 01374 TIC---
+220301028 Dudelange, Spidol     01137  01137                % 01374 TIC---
+220301014 Dudelange, Casino     01137  01137                % 01374 TIC---
+220301056 Dudelange, Centre Cu  01138  01138                % 01374 TIC---
+220301038 Dudelange, Rue de la  01139  01139                % 01374 TIC---
+220301085 Dudelange, Strutzbie  01139  01139                % 01374 TIC---
+220301029 Dudelange, Kiirch     01140  01140                % 01374 TIC---
+220301078 Dudelange, Square Ma  01141  01141                % 01374 TIC---
+220301022 Dudelange, Gare       01141  01141                % 01374 TIC---
+220301037 Dudelange, Nudelsfab  01142  01142                % 01374 TIC---
+220301042 Dudelange, Route de   01143  01143                % 01374 TIC---
+220301041 Dudelange, Rue Ribes  01144  01144                % 01374 TIC---
+220301054 Dudelange, Soibelkau  01145                       % 01374 TIC---
+*Z 01375 TIC---                                             % 01375 TIC---
+*L 8        220301027 220301054  01233  01245               % 01375 TIC---
+*R 1 220301054 220301027 220301054  01233  01245            % 01375 TIC---
+*G TIB 220301027 220301054  01233  01245                    % 01375 TIC---
+*A VE 220301027 220301054 000084  01233  01245              % 01375 TIC---
+*I FD 220301027 220301054        0001527  01233  01245      % 01375 TIC---
+220301027 Dudelange, Greisenda         01233                % 01375 TIC---
+220301049 Dudelange, Schlacken  01233  01233                % 01375 TIC---
+220301050 Dudelange, Schmelz    01234  01234                % 01375 TIC---
+220301070 Dudelange, Rue Grand  01235  01235                % 01375 TIC---
+220301028 Dudelange, Spidol     01237  01237                % 01375 TIC---
+220301014 Dudelange, Casino     01237  01237                % 01375 TIC---
+220301056 Dudelange, Centre Cu  01238  01238                % 01375 TIC---
+220301038 Dudelange, Rue de la  01239  01239                % 01375 TIC---
+220301085 Dudelange, Strutzbie  01239  01239                % 01375 TIC---
+220301029 Dudelange, Kiirch     01240  01240                % 01375 TIC---
+220301078 Dudelange, Square Ma  01241  01241                % 01375 TIC---
+220301022 Dudelange, Gare       01241  01241                % 01375 TIC---
+220301037 Dudelange, Nudelsfab  01242  01242                % 01375 TIC---
+220301042 Dudelange, Route de   01243  01243                % 01375 TIC---
+220301041 Dudelange, Rue Ribes  01244  01244                % 01375 TIC---
+220301054 Dudelange, Soibelkau  01245                       % 01375 TIC---
+*Z 01376 TIC---                                             % 01376 TIC---
+*L 8        220301027 220301054  01333  01345               % 01376 TIC---
+*R 1 220301054 220301027 220301054  01333  01345            % 01376 TIC---
+*G TIB 220301027 220301054  01333  01345                    % 01376 TIC---
+*A VE 220301027 220301054 000084  01333  01345              % 01376 TIC---
+*I FD 220301027 220301054        0001528  01333  01345      % 01376 TIC---
+220301027 Dudelange, Greisenda         01333                % 01376 TIC---
+220301049 Dudelange, Schlacken  01333  01333                % 01376 TIC---
+220301050 Dudelange, Schmelz    01334  01334                % 01376 TIC---
+220301070 Dudelange, Rue Grand  01335  01335                % 01376 TIC---
+220301028 Dudelange, Spidol     01337  01337                % 01376 TIC---
+220301014 Dudelange, Casino     01337  01337                % 01376 TIC---
+220301056 Dudelange, Centre Cu  01338  01338                % 01376 TIC---
+220301038 Dudelange, Rue de la  01339  01339                % 01376 TIC---
+220301085 Dudelange, Strutzbie  01339  01339                % 01376 TIC---
+220301029 Dudelange, Kiirch     01340  01340                % 01376 TIC---
+220301078 Dudelange, Square Ma  01341  01341                % 01376 TIC---
+220301022 Dudelange, Gare       01341  01341                % 01376 TIC---
+220301037 Dudelange, Nudelsfab  01342  01342                % 01376 TIC---
+220301042 Dudelange, Route de   01343  01343                % 01376 TIC---
+220301041 Dudelange, Rue Ribes  01344  01344                % 01376 TIC---
+220301054 Dudelange, Soibelkau  01345                       % 01376 TIC---
+*Z 01377 TIC---                                             % 01377 TIC---
+*L 8        220301027 220301054  01433  01445               % 01377 TIC---
+*R 1 220301054 220301027 220301054  01433  01445            % 01377 TIC---
+*G TIB 220301027 220301054  01433  01445                    % 01377 TIC---
+*A VE 220301027 220301054 000084  01433  01445              % 01377 TIC---
+*I FD 220301027 220301054        0001529  01433  01445      % 01377 TIC---
+220301027 Dudelange, Greisenda         01433                % 01377 TIC---
+220301049 Dudelange, Schlacken  01433  01433                % 01377 TIC---
+220301050 Dudelange, Schmelz    01434  01434                % 01377 TIC---
+220301070 Dudelange, Rue Grand  01435  01435                % 01377 TIC---
+220301028 Dudelange, Spidol     01437  01437                % 01377 TIC---
+220301014 Dudelange, Casino     01437  01437                % 01377 TIC---
+220301056 Dudelange, Centre Cu  01438  01438                % 01377 TIC---
+220301038 Dudelange, Rue de la  01439  01439                % 01377 TIC---
+220301085 Dudelange, Strutzbie  01439  01439                % 01377 TIC---
+220301029 Dudelange, Kiirch     01440  01440                % 01377 TIC---
+220301078 Dudelange, Square Ma  01441  01441                % 01377 TIC---
+220301022 Dudelange, Gare       01441  01441                % 01377 TIC---
+220301037 Dudelange, Nudelsfab  01442  01442                % 01377 TIC---
+220301042 Dudelange, Route de   01443  01443                % 01377 TIC---
+220301041 Dudelange, Rue Ribes  01444  01444                % 01377 TIC---
+220301054 Dudelange, Soibelkau  01445                       % 01377 TIC---
+*Z 01378 TIC---                                             % 01378 TIC---
+*L 8        220301027 220301054  01533  01545               % 01378 TIC---
+*R 1 220301054 220301027 220301054  01533  01545            % 01378 TIC---
+*G TIB 220301027 220301054  01533  01545                    % 01378 TIC---
+*A VE 220301027 220301054 000084  01533  01545              % 01378 TIC---
+*I FD 220301027 220301054        0001530  01533  01545      % 01378 TIC---
+220301027 Dudelange, Greisenda         01533                % 01378 TIC---
+220301049 Dudelange, Schlacken  01533  01533                % 01378 TIC---
+220301050 Dudelange, Schmelz    01534  01534                % 01378 TIC---
+220301070 Dudelange, Rue Grand  01535  01535                % 01378 TIC---
+220301028 Dudelange, Spidol     01537  01537                % 01378 TIC---
+220301014 Dudelange, Casino     01537  01537                % 01378 TIC---
+220301056 Dudelange, Centre Cu  01538  01538                % 01378 TIC---
+220301038 Dudelange, Rue de la  01539  01539                % 01378 TIC---
+220301085 Dudelange, Strutzbie  01539  01539                % 01378 TIC---
+220301029 Dudelange, Kiirch     01540  01540                % 01378 TIC---
+220301078 Dudelange, Square Ma  01541  01541                % 01378 TIC---
+220301022 Dudelange, Gare       01541  01541                % 01378 TIC---
+220301037 Dudelange, Nudelsfab  01542  01542                % 01378 TIC---
+220301042 Dudelange, Route de   01543  01543                % 01378 TIC---
+220301041 Dudelange, Rue Ribes  01544  01544                % 01378 TIC---
+220301054 Dudelange, Soibelkau  01545                       % 01378 TIC---
+*Z 01379 TIC---                                             % 01379 TIC---
+*L 8        220301027 220301054  01633  01645               % 01379 TIC---
+*R 1 220301054 220301027 220301054  01633  01645            % 01379 TIC---
+*G TIB 220301027 220301054  01633  01645                    % 01379 TIC---
+*A VE 220301027 220301054 000084  01633  01645              % 01379 TIC---
+*I FD 220301027 220301054        0001531  01633  01645      % 01379 TIC---
+220301027 Dudelange, Greisenda         01633                % 01379 TIC---
+220301049 Dudelange, Schlacken  01633  01633                % 01379 TIC---
+220301050 Dudelange, Schmelz    01634  01634                % 01379 TIC---
+220301070 Dudelange, Rue Grand  01635  01635                % 01379 TIC---
+220301028 Dudelange, Spidol     01637  01637                % 01379 TIC---
+220301014 Dudelange, Casino     01637  01637                % 01379 TIC---
+220301056 Dudelange, Centre Cu  01638  01638                % 01379 TIC---
+220301038 Dudelange, Rue de la  01639  01639                % 01379 TIC---
+220301085 Dudelange, Strutzbie  01639  01639                % 01379 TIC---
+220301029 Dudelange, Kiirch     01640  01640                % 01379 TIC---
+220301078 Dudelange, Square Ma  01641  01641                % 01379 TIC---
+220301022 Dudelange, Gare       01641  01641                % 01379 TIC---
+220301037 Dudelange, Nudelsfab  01642  01642                % 01379 TIC---
+220301042 Dudelange, Route de   01643  01643                % 01379 TIC---
+220301041 Dudelange, Rue Ribes  01644  01644                % 01379 TIC---
+220301054 Dudelange, Soibelkau  01645                       % 01379 TIC---
+*Z 01380 TIC---                                             % 01380 TIC---
+*L 8        220301027 220301054  01733  01745               % 01380 TIC---
+*R 1 220301054 220301027 220301054  01733  01745            % 01380 TIC---
+*G TIB 220301027 220301054  01733  01745                    % 01380 TIC---
+*A VE 220301027 220301054 000084  01733  01745              % 01380 TIC---
+*I FD 220301027 220301054        0001532  01733  01745      % 01380 TIC---
+220301027 Dudelange, Greisenda         01733                % 01380 TIC---
+220301049 Dudelange, Schlacken  01733  01733                % 01380 TIC---
+220301050 Dudelange, Schmelz    01734  01734                % 01380 TIC---
+220301070 Dudelange, Rue Grand  01735  01735                % 01380 TIC---
+220301028 Dudelange, Spidol     01737  01737                % 01380 TIC---
+220301014 Dudelange, Casino     01737  01737                % 01380 TIC---
+220301056 Dudelange, Centre Cu  01738  01738                % 01380 TIC---
+220301038 Dudelange, Rue de la  01739  01739                % 01380 TIC---
+220301085 Dudelange, Strutzbie  01739  01739                % 01380 TIC---
+220301029 Dudelange, Kiirch     01740  01740                % 01380 TIC---
+220301078 Dudelange, Square Ma  01741  01741                % 01380 TIC---
+220301022 Dudelange, Gare       01741  01741                % 01380 TIC---
+220301037 Dudelange, Nudelsfab  01742  01742                % 01380 TIC---
+220301042 Dudelange, Route de   01743  01743                % 01380 TIC---
+220301041 Dudelange, Rue Ribes  01744  01744                % 01380 TIC---
+220301054 Dudelange, Soibelkau  01745                       % 01380 TIC---
+*Z 01381 TIC---                                             % 01381 TIC---
+*L 8        220301027 220301054  01833  01845               % 01381 TIC---
+*R 1 220301054 220301027 220301054  01833  01845            % 01381 TIC---
+*G TIB 220301027 220301054  01833  01845                    % 01381 TIC---
+*A VE 220301027 220301054 000084  01833  01845              % 01381 TIC---
+*I FD 220301027 220301054        0001533  01833  01845      % 01381 TIC---
+220301027 Dudelange, Greisenda         01833                % 01381 TIC---
+220301049 Dudelange, Schlacken  01833  01833                % 01381 TIC---
+220301050 Dudelange, Schmelz    01834  01834                % 01381 TIC---
+220301070 Dudelange, Rue Grand  01835  01835                % 01381 TIC---
+220301028 Dudelange, Spidol     01837  01837                % 01381 TIC---
+220301014 Dudelange, Casino     01837  01837                % 01381 TIC---
+220301056 Dudelange, Centre Cu  01838  01838                % 01381 TIC---
+220301038 Dudelange, Rue de la  01839  01839                % 01381 TIC---
+220301085 Dudelange, Strutzbie  01839  01839                % 01381 TIC---
+220301029 Dudelange, Kiirch     01840  01840                % 01381 TIC---
+220301078 Dudelange, Square Ma  01841  01841                % 01381 TIC---
+220301022 Dudelange, Gare       01841  01841                % 01381 TIC---
+220301037 Dudelange, Nudelsfab  01842  01842                % 01381 TIC---
+220301042 Dudelange, Route de   01843  01843                % 01381 TIC---
+220301041 Dudelange, Rue Ribes  01844  01844                % 01381 TIC---
+220301054 Dudelange, Soibelkau  01845                       % 01381 TIC---
+*Z 01382 TIC---                                             % 01382 TIC---
+*L 8        220301027 220301054  01933  01945               % 01382 TIC---
+*R 1 220301054 220301027 220301054  01933  01945            % 01382 TIC---
+*G TIB 220301027 220301054  01933  01945                    % 01382 TIC---
+*A VE 220301027 220301054 000084  01933  01945              % 01382 TIC---
+*I FD 220301027 220301054        0001534  01933  01945      % 01382 TIC---
+220301027 Dudelange, Greisenda         01933                % 01382 TIC---
+220301049 Dudelange, Schlacken  01933  01933                % 01382 TIC---
+220301050 Dudelange, Schmelz    01934  01934                % 01382 TIC---
+220301070 Dudelange, Rue Grand  01935  01935                % 01382 TIC---
+220301028 Dudelange, Spidol     01937  01937                % 01382 TIC---
+220301014 Dudelange, Casino     01937  01937                % 01382 TIC---
+220301056 Dudelange, Centre Cu  01938  01938                % 01382 TIC---
+220301038 Dudelange, Rue de la  01939  01939                % 01382 TIC---
+220301085 Dudelange, Strutzbie  01939  01939                % 01382 TIC---
+220301029 Dudelange, Kiirch     01940  01940                % 01382 TIC---
+220301078 Dudelange, Square Ma  01941  01941                % 01382 TIC---
+220301022 Dudelange, Gare       01941  01941                % 01382 TIC---
+220301037 Dudelange, Nudelsfab  01942  01942                % 01382 TIC---
+220301042 Dudelange, Route de   01943  01943                % 01382 TIC---
+220301041 Dudelange, Rue Ribes  01944  01944                % 01382 TIC---
+220301054 Dudelange, Soibelkau  01945                       % 01382 TIC---
+*Z 01383 TIC---                                             % 01383 TIC---
+*L 8        220301027 220301054  02103  02115               % 01383 TIC---
+*R 1 220301054 220301027 220301054  02103  02115            % 01383 TIC---
+*G TIB 220301027 220301054  02103  02115                    % 01383 TIC---
+*A VE 220301027 220301054 000000  02103  02115              % 01383 TIC---
+*I FD 220301027 220301054        0001535  02103  02115      % 01383 TIC---
+220301027 Dudelange, Greisenda         02103                % 01383 TIC---
+220301049 Dudelange, Schlacken  02103  02103                % 01383 TIC---
+220301050 Dudelange, Schmelz    02104  02104                % 01383 TIC---
+220301070 Dudelange, Rue Grand  02105  02105                % 01383 TIC---
+220301028 Dudelange, Spidol     02107  02107                % 01383 TIC---
+220301014 Dudelange, Casino     02107  02107                % 01383 TIC---
+220301056 Dudelange, Centre Cu  02108  02108                % 01383 TIC---
+220301038 Dudelange, Rue de la  02109  02109                % 01383 TIC---
+220301085 Dudelange, Strutzbie  02109  02109                % 01383 TIC---
+220301029 Dudelange, Kiirch     02110  02110                % 01383 TIC---
+220301078 Dudelange, Square Ma  02111  02111                % 01383 TIC---
+220301022 Dudelange, Gare       02111  02111                % 01383 TIC---
+220301037 Dudelange, Nudelsfab  02112  02112                % 01383 TIC---
+220301042 Dudelange, Route de   02113  02113                % 01383 TIC---
+220301041 Dudelange, Rue Ribes  02114  02114                % 01383 TIC---
+220301054 Dudelange, Soibelkau  02115                       % 01383 TIC---
+*Z 01384 TIC---                                             % 01384 TIC---
+*L 8        220301027 220301054  02133  02144               % 01384 TIC---
+*R 1 220301054 220301027 220301054  02133  02144            % 01384 TIC---
+*G TIB 220301027 220301054  02133  02144                    % 01384 TIC---
+*A VE 220301027 220301054 000084  02133  02144              % 01384 TIC---
+*I FD 220301027 220301054        0001536  02133  02144      % 01384 TIC---
+220301027 Dudelange, Greisenda         02133                % 01384 TIC---
+220301049 Dudelange, Schlacken  02133  02133                % 01384 TIC---
+220301050 Dudelange, Schmelz    02134  02134                % 01384 TIC---
+220301070 Dudelange, Rue Grand  02135  02135                % 01384 TIC---
+220301028 Dudelange, Spidol     02137  02137                % 01384 TIC---
+220301014 Dudelange, Casino     02137  02137                % 01384 TIC---
+220301056 Dudelange, Centre Cu  02138  02138                % 01384 TIC---
+220301038 Dudelange, Rue de la  02138  02138                % 01384 TIC---
+220301085 Dudelange, Strutzbie  02138  02138                % 01384 TIC---
+220301029 Dudelange, Kiirch     02139  02139                % 01384 TIC---
+220301078 Dudelange, Square Ma  02140  02140                % 01384 TIC---
+220301022 Dudelange, Gare       02140  02140                % 01384 TIC---
+220301037 Dudelange, Nudelsfab  02141  02141                % 01384 TIC---
+220301042 Dudelange, Route de   02142  02142                % 01384 TIC---
+220301041 Dudelange, Rue Ribes  02143  02143                % 01384 TIC---
+220301054 Dudelange, Soibelkau  02144                       % 01384 TIC---
+*Z 01385 TIC---                                             % 01385 TIC---
+*L 8        220301027 220301054  02203  02214               % 01385 TIC---
+*R 1 220301054 220301027 220301054  02203  02214            % 01385 TIC---
+*G TIB 220301027 220301054  02203  02214                    % 01385 TIC---
+*A VE 220301027 220301054 000084  02203  02214              % 01385 TIC---
+*I FD 220301027 220301054        0001537  02203  02214      % 01385 TIC---
+220301027 Dudelange, Greisenda         02203                % 01385 TIC---
+220301049 Dudelange, Schlacken  02203  02203                % 01385 TIC---
+220301050 Dudelange, Schmelz    02204  02204                % 01385 TIC---
+220301070 Dudelange, Rue Grand  02205  02205                % 01385 TIC---
+220301028 Dudelange, Spidol     02207  02207                % 01385 TIC---
+220301014 Dudelange, Casino     02207  02207                % 01385 TIC---
+220301056 Dudelange, Centre Cu  02208  02208                % 01385 TIC---
+220301038 Dudelange, Rue de la  02208  02208                % 01385 TIC---
+220301085 Dudelange, Strutzbie  02208  02208                % 01385 TIC---
+220301029 Dudelange, Kiirch     02209  02209                % 01385 TIC---
+220301078 Dudelange, Square Ma  02210  02210                % 01385 TIC---
+220301022 Dudelange, Gare       02210  02210                % 01385 TIC---
+220301037 Dudelange, Nudelsfab  02211  02211                % 01385 TIC---
+220301042 Dudelange, Route de   02212  02212                % 01385 TIC---
+220301041 Dudelange, Rue Ribes  02213  02213                % 01385 TIC---
+220301054 Dudelange, Soibelkau  02214                       % 01385 TIC---
+*Z 01386 TIC---                                             % 01386 TIC---
+*L 8        220301027 220301054  02233  02244               % 01386 TIC---
+*R 1 220301054 220301027 220301054  02233  02244            % 01386 TIC---
+*G TIB 220301027 220301054  02233  02244                    % 01386 TIC---
+*A VE 220301027 220301054 000084  02233  02244              % 01386 TIC---
+*I FD 220301027 220301054        0001538  02233  02244      % 01386 TIC---
+220301027 Dudelange, Greisenda         02233                % 01386 TIC---
+220301049 Dudelange, Schlacken  02233  02233                % 01386 TIC---
+220301050 Dudelange, Schmelz    02234  02234                % 01386 TIC---
+220301070 Dudelange, Rue Grand  02235  02235                % 01386 TIC---
+220301028 Dudelange, Spidol     02237  02237                % 01386 TIC---
+220301014 Dudelange, Casino     02237  02237                % 01386 TIC---
+220301056 Dudelange, Centre Cu  02238  02238                % 01386 TIC---
+220301038 Dudelange, Rue de la  02238  02238                % 01386 TIC---
+220301085 Dudelange, Strutzbie  02238  02238                % 01386 TIC---
+220301029 Dudelange, Kiirch     02239  02239                % 01386 TIC---
+220301078 Dudelange, Square Ma  02240  02240                % 01386 TIC---
+220301022 Dudelange, Gare       02240  02240                % 01386 TIC---
+220301037 Dudelange, Nudelsfab  02241  02241                % 01386 TIC---
+220301042 Dudelange, Route de   02242  02242                % 01386 TIC---
+220301041 Dudelange, Rue Ribes  02243  02243                % 01386 TIC---
+220301054 Dudelange, Soibelkau  02244                       % 01386 TIC---
+*Z 01387 TIC---                                             % 01387 TIC---
+*L 8        220301027 220301054  02333  02344               % 01387 TIC---
+*R 1 220301054 220301027 220301054  02333  02344            % 01387 TIC---
+*G TIB 220301027 220301054  02333  02344                    % 01387 TIC---
+*A VE 220301027 220301054 000084  02333  02344              % 01387 TIC---
+*I FD 220301027 220301054        0001539  02333  02344      % 01387 TIC---
+220301027 Dudelange, Greisenda         02333                % 01387 TIC---
+220301049 Dudelange, Schlacken  02333  02333                % 01387 TIC---
+220301050 Dudelange, Schmelz    02334  02334                % 01387 TIC---
+220301070 Dudelange, Rue Grand  02335  02335                % 01387 TIC---
+220301028 Dudelange, Spidol     02337  02337                % 01387 TIC---
+220301014 Dudelange, Casino     02337  02337                % 01387 TIC---
+220301056 Dudelange, Centre Cu  02338  02338                % 01387 TIC---
+220301038 Dudelange, Rue de la  02338  02338                % 01387 TIC---
+220301085 Dudelange, Strutzbie  02338  02338                % 01387 TIC---
+220301029 Dudelange, Kiirch     02339  02339                % 01387 TIC---
+220301078 Dudelange, Square Ma  02340  02340                % 01387 TIC---
+220301022 Dudelange, Gare       02340  02340                % 01387 TIC---
+220301037 Dudelange, Nudelsfab  02341  02341                % 01387 TIC---
+220301042 Dudelange, Route de   02342  02342                % 01387 TIC---
+220301041 Dudelange, Rue Ribes  02343  02343                % 01387 TIC---
+220301054 Dudelange, Soibelkau  02344                       % 01387 TIC---
+*Z 01388 TIC---                                             % 01388 TIC---
+*L 8        220301027 220301054  02403  02414               % 01388 TIC---
+*R 1 220301054 220301027 220301054  02403  02414            % 01388 TIC---
+*G TIB 220301027 220301054  02403  02414                    % 01388 TIC---
+*A VE 220301027 220301054 000084  02403  02414              % 01388 TIC---
+*I FD 220301027 220301054        0001540  02403  02414      % 01388 TIC---
+220301027 Dudelange, Greisenda         02403                % 01388 TIC---
+220301049 Dudelange, Schlacken  02403  02403                % 01388 TIC---
+220301050 Dudelange, Schmelz    02404  02404                % 01388 TIC---
+220301070 Dudelange, Rue Grand  02405  02405                % 01388 TIC---
+220301028 Dudelange, Spidol     02407  02407                % 01388 TIC---
+220301014 Dudelange, Casino     02407  02407                % 01388 TIC---
+220301056 Dudelange, Centre Cu  02408  02408                % 01388 TIC---
+220301038 Dudelange, Rue de la  02408  02408                % 01388 TIC---
+220301085 Dudelange, Strutzbie  02408  02408                % 01388 TIC---
+220301029 Dudelange, Kiirch     02409  02409                % 01388 TIC---
+220301078 Dudelange, Square Ma  02410  02410                % 01388 TIC---
+220301022 Dudelange, Gare       02410  02410                % 01388 TIC---
+220301037 Dudelange, Nudelsfab  02411  02411                % 01388 TIC---
+220301042 Dudelange, Route de   02412  02412                % 01388 TIC---
+220301041 Dudelange, Rue Ribes  02413  02413                % 01388 TIC---
+220301054 Dudelange, Soibelkau  02414                       % 01388 TIC---
+*Z 01389 TIC---                                             % 01389 TIC---
+*L 8        220301027 220301054  02303  02314               % 01389 TIC---
+*R 1 220301054 220301027 220301054  02303  02314            % 01389 TIC---
+*G TIB 220301027 220301054  02303  02314                    % 01389 TIC---
+*A VE 220301027 220301054 000000  02303  02314              % 01389 TIC---
+*I FD 220301027 220301054        0001541  02303  02314      % 01389 TIC---
+220301027 Dudelange, Greisenda         02303                % 01389 TIC---
+220301049 Dudelange, Schlacken  02303  02303                % 01389 TIC---
+220301050 Dudelange, Schmelz    02304  02304                % 01389 TIC---
+220301070 Dudelange, Rue Grand  02305  02305                % 01389 TIC---
+220301028 Dudelange, Spidol     02307  02307                % 01389 TIC---
+220301014 Dudelange, Casino     02307  02307                % 01389 TIC---
+220301056 Dudelange, Centre Cu  02308  02308                % 01389 TIC---
+220301038 Dudelange, Rue de la  02308  02308                % 01389 TIC---
+220301085 Dudelange, Strutzbie  02308  02308                % 01389 TIC---
+220301029 Dudelange, Kiirch     02309  02309                % 01389 TIC---
+220301078 Dudelange, Square Ma  02310  02310                % 01389 TIC---
+220301022 Dudelange, Gare       02310  02310                % 01389 TIC---
+220301037 Dudelange, Nudelsfab  02311  02311                % 01389 TIC---
+220301042 Dudelange, Route de   02312  02312                % 01389 TIC---
+220301041 Dudelange, Rue Ribes  02313  02313                % 01389 TIC---
+220301054 Dudelange, Soibelkau  02314                       % 01389 TIC---
+*Z 01390 TIC---                                             % 01390 TIC---
+*L 8        220301054 220301027  00915  00934               % 01390 TIC---
+*R 2 220301027 220301054 220301027  00915  00934            % 01390 TIC---
+*G TIB 220301054 220301027  00915  00934                    % 01390 TIC---
+*A VE 220301054 220301027 000000  00915  00934              % 01390 TIC---
+*I FD 220301054 220301027        0001542  00915  00934      % 01390 TIC---
+220301054 Dudelange, Soibelkau         00915                % 01390 TIC---
+220301044 Dudelange, Rue des L  00916  00916                % 01390 TIC---
+220301066 Dudelange, Rue des B  00917  00917                % 01390 TIC---
+220301045 Dudelange, Rue des M  00918  00918                % 01390 TIC---
+220301021 Dudelange, Rue des M  00919  00919                % 01390 TIC---
+220301084 Dudelange, Schoul Ri  00920  00920                % 01390 TIC---
+220301041 Dudelange, Rue Ribes  00921  00921                % 01390 TIC---
+220301010 Dudelange, Rue Jean   00922  00922                % 01390 TIC---
+220301086 Dudelange, Rue Marce  00922  00922                % 01390 TIC---
+220301064 Dudelange, Route de   00923  00923                % 01390 TIC---
+220301022 Dudelange, Gare       00924  00924                % 01390 TIC---
+220301036 Dudelange, Niddeschg  00925  00925                % 01390 TIC---
+220301024 Dudelange, Gemeng     00926  00926                % 01390 TIC---
+220301079 Dudelange, Fohrmann   00927  00927                % 01390 TIC---
+220301038 Dudelange, Rue de la  00928  00928                % 01390 TIC---
+220301056 Dudelange, Centre Cu  00929  00929                % 01390 TIC---
+220301014 Dudelange, Casino     00929  00929                % 01390 TIC---
+220301028 Dudelange, Spidol     00931  00931                % 01390 TIC---
+220301070 Dudelange, Rue Grand  00932  00932                % 01390 TIC---
+220301050 Dudelange, Schmelz    00932  00932                % 01390 TIC---
+220301049 Dudelange, Schlacken  00933  00933                % 01390 TIC---
+220301027 Dudelange, Greisenda  00934                       % 01390 TIC---
+*Z 01391 TIC---                                             % 01391 TIC---
+*L 8        220301054 220301027  01015  01034               % 01391 TIC---
+*R 2 220301027 220301054 220301027  01015  01034            % 01391 TIC---
+*G TIB 220301054 220301027  01015  01034                    % 01391 TIC---
+*A VE 220301054 220301027 000000  01015  01034              % 01391 TIC---
+*I FD 220301054 220301027        0001543  01015  01034      % 01391 TIC---
+220301054 Dudelange, Soibelkau         01015                % 01391 TIC---
+220301044 Dudelange, Rue des L  01016  01016                % 01391 TIC---
+220301066 Dudelange, Rue des B  01017  01017                % 01391 TIC---
+220301045 Dudelange, Rue des M  01018  01018                % 01391 TIC---
+220301021 Dudelange, Rue des M  01019  01019                % 01391 TIC---
+220301084 Dudelange, Schoul Ri  01020  01020                % 01391 TIC---
+220301041 Dudelange, Rue Ribes  01021  01021                % 01391 TIC---
+220301010 Dudelange, Rue Jean   01022  01022                % 01391 TIC---
+220301086 Dudelange, Rue Marce  01022  01022                % 01391 TIC---
+220301064 Dudelange, Route de   01023  01023                % 01391 TIC---
+220301022 Dudelange, Gare       01024  01024                % 01391 TIC---
+220301036 Dudelange, Niddeschg  01025  01025                % 01391 TIC---
+220301024 Dudelange, Gemeng     01026  01026                % 01391 TIC---
+220301079 Dudelange, Fohrmann   01027  01027                % 01391 TIC---
+220301038 Dudelange, Rue de la  01028  01028                % 01391 TIC---
+220301056 Dudelange, Centre Cu  01029  01029                % 01391 TIC---
+220301014 Dudelange, Casino     01029  01029                % 01391 TIC---
+220301028 Dudelange, Spidol     01031  01031                % 01391 TIC---
+220301070 Dudelange, Rue Grand  01032  01032                % 01391 TIC---
+220301050 Dudelange, Schmelz    01032  01032                % 01391 TIC---
+220301049 Dudelange, Schlacken  01033  01033                % 01391 TIC---
+220301027 Dudelange, Greisenda  01034                       % 01391 TIC---
+*Z 01392 TIC---                                             % 01392 TIC---
+*L 8        220301054 220301027  01115  01134               % 01392 TIC---
+*R 2 220301027 220301054 220301027  01115  01134            % 01392 TIC---
+*G TIB 220301054 220301027  01115  01134                    % 01392 TIC---
+*A VE 220301054 220301027 000000  01115  01134              % 01392 TIC---
+*I FD 220301054 220301027        0001544  01115  01134      % 01392 TIC---
+220301054 Dudelange, Soibelkau         01115                % 01392 TIC---
+220301044 Dudelange, Rue des L  01116  01116                % 01392 TIC---
+220301066 Dudelange, Rue des B  01117  01117                % 01392 TIC---
+220301045 Dudelange, Rue des M  01118  01118                % 01392 TIC---
+220301021 Dudelange, Rue des M  01119  01119                % 01392 TIC---
+220301084 Dudelange, Schoul Ri  01120  01120                % 01392 TIC---
+220301041 Dudelange, Rue Ribes  01121  01121                % 01392 TIC---
+220301010 Dudelange, Rue Jean   01122  01122                % 01392 TIC---
+220301086 Dudelange, Rue Marce  01122  01122                % 01392 TIC---
+220301064 Dudelange, Route de   01123  01123                % 01392 TIC---
+220301022 Dudelange, Gare       01124  01124                % 01392 TIC---
+220301036 Dudelange, Niddeschg  01125  01125                % 01392 TIC---
+220301024 Dudelange, Gemeng     01126  01126                % 01392 TIC---
+220301079 Dudelange, Fohrmann   01127  01127                % 01392 TIC---
+220301038 Dudelange, Rue de la  01128  01128                % 01392 TIC---
+220301056 Dudelange, Centre Cu  01129  01129                % 01392 TIC---
+220301014 Dudelange, Casino     01129  01129                % 01392 TIC---
+220301028 Dudelange, Spidol     01131  01131                % 01392 TIC---
+220301070 Dudelange, Rue Grand  01132  01132                % 01392 TIC---
+220301050 Dudelange, Schmelz    01132  01132                % 01392 TIC---
+220301049 Dudelange, Schlacken  01133  01133                % 01392 TIC---
+220301027 Dudelange, Greisenda  01134                       % 01392 TIC---
+*Z 01393 TIC---                                             % 01393 TIC---
+*L 8        220301054 220301027  01215  01234               % 01393 TIC---
+*R 2 220301027 220301054 220301027  01215  01234            % 01393 TIC---
+*G TIB 220301054 220301027  01215  01234                    % 01393 TIC---
+*A VE 220301054 220301027 000000  01215  01234              % 01393 TIC---
+*I FD 220301054 220301027        0001545  01215  01234      % 01393 TIC---
+220301054 Dudelange, Soibelkau         01215                % 01393 TIC---
+220301044 Dudelange, Rue des L  01216  01216                % 01393 TIC---
+220301066 Dudelange, Rue des B  01217  01217                % 01393 TIC---
+220301045 Dudelange, Rue des M  01218  01218                % 01393 TIC---
+220301021 Dudelange, Rue des M  01219  01219                % 01393 TIC---
+220301084 Dudelange, Schoul Ri  01220  01220                % 01393 TIC---
+220301041 Dudelange, Rue Ribes  01221  01221                % 01393 TIC---
+220301010 Dudelange, Rue Jean   01222  01222                % 01393 TIC---
+220301086 Dudelange, Rue Marce  01222  01222                % 01393 TIC---
+220301064 Dudelange, Route de   01223  01223                % 01393 TIC---
+220301022 Dudelange, Gare       01224  01224                % 01393 TIC---
+220301036 Dudelange, Niddeschg  01225  01225                % 01393 TIC---
+220301024 Dudelange, Gemeng     01226  01226                % 01393 TIC---
+220301079 Dudelange, Fohrmann   01227  01227                % 01393 TIC---
+220301038 Dudelange, Rue de la  01228  01228                % 01393 TIC---
+220301056 Dudelange, Centre Cu  01229  01229                % 01393 TIC---
+220301014 Dudelange, Casino     01229  01229                % 01393 TIC---
+220301028 Dudelange, Spidol     01231  01231                % 01393 TIC---
+220301070 Dudelange, Rue Grand  01232  01232                % 01393 TIC---
+220301050 Dudelange, Schmelz    01232  01232                % 01393 TIC---
+220301049 Dudelange, Schlacken  01233  01233                % 01393 TIC---
+220301027 Dudelange, Greisenda  01234                       % 01393 TIC---
+*Z 01394 TIC---                                             % 01394 TIC---
+*L 8        220301054 220301027  01315  01334               % 01394 TIC---
+*R 2 220301027 220301054 220301027  01315  01334            % 01394 TIC---
+*G TIB 220301054 220301027  01315  01334                    % 01394 TIC---
+*A VE 220301054 220301027 000000  01315  01334              % 01394 TIC---
+*I FD 220301054 220301027        0001546  01315  01334      % 01394 TIC---
+220301054 Dudelange, Soibelkau         01315                % 01394 TIC---
+220301044 Dudelange, Rue des L  01316  01316                % 01394 TIC---
+220301066 Dudelange, Rue des B  01317  01317                % 01394 TIC---
+220301045 Dudelange, Rue des M  01318  01318                % 01394 TIC---
+220301021 Dudelange, Rue des M  01319  01319                % 01394 TIC---
+220301084 Dudelange, Schoul Ri  01320  01320                % 01394 TIC---
+220301041 Dudelange, Rue Ribes  01321  01321                % 01394 TIC---
+220301010 Dudelange, Rue Jean   01322  01322                % 01394 TIC---
+220301086 Dudelange, Rue Marce  01322  01322                % 01394 TIC---
+220301064 Dudelange, Route de   01323  01323                % 01394 TIC---
+220301022 Dudelange, Gare       01324  01324                % 01394 TIC---
+220301036 Dudelange, Niddeschg  01325  01325                % 01394 TIC---
+220301024 Dudelange, Gemeng     01326  01326                % 01394 TIC---
+220301079 Dudelange, Fohrmann   01327  01327                % 01394 TIC---
+220301038 Dudelange, Rue de la  01328  01328                % 01394 TIC---
+220301056 Dudelange, Centre Cu  01329  01329                % 01394 TIC---
+220301014 Dudelange, Casino     01329  01329                % 01394 TIC---
+220301028 Dudelange, Spidol     01331  01331                % 01394 TIC---
+220301070 Dudelange, Rue Grand  01332  01332                % 01394 TIC---
+220301050 Dudelange, Schmelz    01332  01332                % 01394 TIC---
+220301049 Dudelange, Schlacken  01333  01333                % 01394 TIC---
+220301027 Dudelange, Greisenda  01334                       % 01394 TIC---
+*Z 01395 TIC---                                             % 01395 TIC---
+*L 8        220301054 220301027  01415  01434               % 01395 TIC---
+*R 2 220301027 220301054 220301027  01415  01434            % 01395 TIC---
+*G TIB 220301054 220301027  01415  01434                    % 01395 TIC---
+*A VE 220301054 220301027 000000  01415  01434              % 01395 TIC---
+*I FD 220301054 220301027        0001547  01415  01434      % 01395 TIC---
+220301054 Dudelange, Soibelkau         01415                % 01395 TIC---
+220301044 Dudelange, Rue des L  01416  01416                % 01395 TIC---
+220301066 Dudelange, Rue des B  01417  01417                % 01395 TIC---
+220301045 Dudelange, Rue des M  01418  01418                % 01395 TIC---
+220301021 Dudelange, Rue des M  01419  01419                % 01395 TIC---
+220301084 Dudelange, Schoul Ri  01420  01420                % 01395 TIC---
+220301041 Dudelange, Rue Ribes  01421  01421                % 01395 TIC---
+220301010 Dudelange, Rue Jean   01422  01422                % 01395 TIC---
+220301086 Dudelange, Rue Marce  01422  01422                % 01395 TIC---
+220301064 Dudelange, Route de   01423  01423                % 01395 TIC---
+220301022 Dudelange, Gare       01424  01424                % 01395 TIC---
+220301036 Dudelange, Niddeschg  01425  01425                % 01395 TIC---
+220301024 Dudelange, Gemeng     01426  01426                % 01395 TIC---
+220301079 Dudelange, Fohrmann   01427  01427                % 01395 TIC---
+220301038 Dudelange, Rue de la  01428  01428                % 01395 TIC---
+220301056 Dudelange, Centre Cu  01429  01429                % 01395 TIC---
+220301014 Dudelange, Casino     01429  01429                % 01395 TIC---
+220301028 Dudelange, Spidol     01431  01431                % 01395 TIC---
+220301070 Dudelange, Rue Grand  01432  01432                % 01395 TIC---
+220301050 Dudelange, Schmelz    01432  01432                % 01395 TIC---
+220301049 Dudelange, Schlacken  01433  01433                % 01395 TIC---
+220301027 Dudelange, Greisenda  01434                       % 01395 TIC---
+*Z 01396 TIC---                                             % 01396 TIC---
+*L 8        220301054 220301027  01515  01534               % 01396 TIC---
+*R 2 220301027 220301054 220301027  01515  01534            % 01396 TIC---
+*G TIB 220301054 220301027  01515  01534                    % 01396 TIC---
+*A VE 220301054 220301027 000000  01515  01534              % 01396 TIC---
+*I FD 220301054 220301027        0001548  01515  01534      % 01396 TIC---
+220301054 Dudelange, Soibelkau         01515                % 01396 TIC---
+220301044 Dudelange, Rue des L  01516  01516                % 01396 TIC---
+220301066 Dudelange, Rue des B  01517  01517                % 01396 TIC---
+220301045 Dudelange, Rue des M  01518  01518                % 01396 TIC---
+220301021 Dudelange, Rue des M  01519  01519                % 01396 TIC---
+220301084 Dudelange, Schoul Ri  01520  01520                % 01396 TIC---
+220301041 Dudelange, Rue Ribes  01521  01521                % 01396 TIC---
+220301010 Dudelange, Rue Jean   01522  01522                % 01396 TIC---
+220301086 Dudelange, Rue Marce  01522  01522                % 01396 TIC---
+220301064 Dudelange, Route de   01523  01523                % 01396 TIC---
+220301022 Dudelange, Gare       01524  01524                % 01396 TIC---
+220301036 Dudelange, Niddeschg  01525  01525                % 01396 TIC---
+220301024 Dudelange, Gemeng     01526  01526                % 01396 TIC---
+220301079 Dudelange, Fohrmann   01527  01527                % 01396 TIC---
+220301038 Dudelange, Rue de la  01528  01528                % 01396 TIC---
+220301056 Dudelange, Centre Cu  01529  01529                % 01396 TIC---
+220301014 Dudelange, Casino     01529  01529                % 01396 TIC---
+220301028 Dudelange, Spidol     01531  01531                % 01396 TIC---
+220301070 Dudelange, Rue Grand  01532  01532                % 01396 TIC---
+220301050 Dudelange, Schmelz    01532  01532                % 01396 TIC---
+220301049 Dudelange, Schlacken  01533  01533                % 01396 TIC---
+220301027 Dudelange, Greisenda  01534                       % 01396 TIC---
+*Z 01397 TIC---                                             % 01397 TIC---
+*L 8        220301054 220301027  01615  01634               % 01397 TIC---
+*R 2 220301027 220301054 220301027  01615  01634            % 01397 TIC---
+*G TIB 220301054 220301027  01615  01634                    % 01397 TIC---
+*A VE 220301054 220301027 000000  01615  01634              % 01397 TIC---
+*I FD 220301054 220301027        0001549  01615  01634      % 01397 TIC---
+220301054 Dudelange, Soibelkau         01615                % 01397 TIC---
+220301044 Dudelange, Rue des L  01616  01616                % 01397 TIC---
+220301066 Dudelange, Rue des B  01617  01617                % 01397 TIC---
+220301045 Dudelange, Rue des M  01618  01618                % 01397 TIC---
+220301021 Dudelange, Rue des M  01619  01619                % 01397 TIC---
+220301084 Dudelange, Schoul Ri  01620  01620                % 01397 TIC---
+220301041 Dudelange, Rue Ribes  01621  01621                % 01397 TIC---
+220301010 Dudelange, Rue Jean   01622  01622                % 01397 TIC---
+220301086 Dudelange, Rue Marce  01622  01622                % 01397 TIC---
+220301064 Dudelange, Route de   01623  01623                % 01397 TIC---
+220301022 Dudelange, Gare       01624  01624                % 01397 TIC---
+220301036 Dudelange, Niddeschg  01625  01625                % 01397 TIC---
+220301024 Dudelange, Gemeng     01626  01626                % 01397 TIC---
+220301079 Dudelange, Fohrmann   01627  01627                % 01397 TIC---
+220301038 Dudelange, Rue de la  01628  01628                % 01397 TIC---
+220301056 Dudelange, Centre Cu  01629  01629                % 01397 TIC---
+220301014 Dudelange, Casino     01629  01629                % 01397 TIC---
+220301028 Dudelange, Spidol     01631  01631                % 01397 TIC---
+220301070 Dudelange, Rue Grand  01632  01632                % 01397 TIC---
+220301050 Dudelange, Schmelz    01632  01632                % 01397 TIC---
+220301049 Dudelange, Schlacken  01633  01633                % 01397 TIC---
+220301027 Dudelange, Greisenda  01634                       % 01397 TIC---
+*Z 01398 TIC---                                             % 01398 TIC---
+*L 8        220301054 220301027  01715  01734               % 01398 TIC---
+*R 2 220301027 220301054 220301027  01715  01734            % 01398 TIC---
+*G TIB 220301054 220301027  01715  01734                    % 01398 TIC---
+*A VE 220301054 220301027 000000  01715  01734              % 01398 TIC---
+*I FD 220301054 220301027        0001550  01715  01734      % 01398 TIC---
+220301054 Dudelange, Soibelkau         01715                % 01398 TIC---
+220301044 Dudelange, Rue des L  01716  01716                % 01398 TIC---
+220301066 Dudelange, Rue des B  01717  01717                % 01398 TIC---
+220301045 Dudelange, Rue des M  01718  01718                % 01398 TIC---
+220301021 Dudelange, Rue des M  01719  01719                % 01398 TIC---
+220301084 Dudelange, Schoul Ri  01720  01720                % 01398 TIC---
+220301041 Dudelange, Rue Ribes  01721  01721                % 01398 TIC---
+220301010 Dudelange, Rue Jean   01722  01722                % 01398 TIC---
+220301086 Dudelange, Rue Marce  01722  01722                % 01398 TIC---
+220301064 Dudelange, Route de   01723  01723                % 01398 TIC---
+220301022 Dudelange, Gare       01724  01724                % 01398 TIC---
+220301036 Dudelange, Niddeschg  01725  01725                % 01398 TIC---
+220301024 Dudelange, Gemeng     01726  01726                % 01398 TIC---
+220301079 Dudelange, Fohrmann   01727  01727                % 01398 TIC---
+220301038 Dudelange, Rue de la  01728  01728                % 01398 TIC---
+220301056 Dudelange, Centre Cu  01729  01729                % 01398 TIC---
+220301014 Dudelange, Casino     01729  01729                % 01398 TIC---
+220301028 Dudelange, Spidol     01731  01731                % 01398 TIC---
+220301070 Dudelange, Rue Grand  01732  01732                % 01398 TIC---
+220301050 Dudelange, Schmelz    01732  01732                % 01398 TIC---
+220301049 Dudelange, Schlacken  01733  01733                % 01398 TIC---
+220301027 Dudelange, Greisenda  01734                       % 01398 TIC---
+*Z 01399 TIC---                                             % 01399 TIC---
+*L 8        220301054 220301027  01815  01834               % 01399 TIC---
+*R 2 220301027 220301054 220301027  01815  01834            % 01399 TIC---
+*G TIB 220301054 220301027  01815  01834                    % 01399 TIC---
+*A VE 220301054 220301027 000000  01815  01834              % 01399 TIC---
+*I FD 220301054 220301027        0001551  01815  01834      % 01399 TIC---
+220301054 Dudelange, Soibelkau         01815                % 01399 TIC---
+220301044 Dudelange, Rue des L  01816  01816                % 01399 TIC---
+220301066 Dudelange, Rue des B  01817  01817                % 01399 TIC---
+220301045 Dudelange, Rue des M  01818  01818                % 01399 TIC---
+220301021 Dudelange, Rue des M  01819  01819                % 01399 TIC---
+220301084 Dudelange, Schoul Ri  01820  01820                % 01399 TIC---
+220301041 Dudelange, Rue Ribes  01821  01821                % 01399 TIC---
+220301010 Dudelange, Rue Jean   01822  01822                % 01399 TIC---
+220301086 Dudelange, Rue Marce  01822  01822                % 01399 TIC---
+220301064 Dudelange, Route de   01823  01823                % 01399 TIC---
+220301022 Dudelange, Gare       01824  01824                % 01399 TIC---
+220301036 Dudelange, Niddeschg  01825  01825                % 01399 TIC---
+220301024 Dudelange, Gemeng     01826  01826                % 01399 TIC---
+220301079 Dudelange, Fohrmann   01827  01827                % 01399 TIC---
+220301038 Dudelange, Rue de la  01828  01828                % 01399 TIC---
+220301056 Dudelange, Centre Cu  01829  01829                % 01399 TIC---
+220301014 Dudelange, Casino     01829  01829                % 01399 TIC---
+220301028 Dudelange, Spidol     01831  01831                % 01399 TIC---
+220301070 Dudelange, Rue Grand  01832  01832                % 01399 TIC---
+220301050 Dudelange, Schmelz    01832  01832                % 01399 TIC---
+220301049 Dudelange, Schlacken  01833  01833                % 01399 TIC---
+220301027 Dudelange, Greisenda  01834                       % 01399 TIC---
+*Z 01400 TIC---                                             % 01400 TIC---
+*L 8        220301054 220301027  01915  01934               % 01400 TIC---
+*R 2 220301027 220301054 220301027  01915  01934            % 01400 TIC---
+*G TIB 220301054 220301027  01915  01934                    % 01400 TIC---
+*A VE 220301054 220301027 000000  01915  01934              % 01400 TIC---
+*I FD 220301054 220301027        0001552  01915  01934      % 01400 TIC---
+220301054 Dudelange, Soibelkau         01915                % 01400 TIC---
+220301044 Dudelange, Rue des L  01916  01916                % 01400 TIC---
+220301066 Dudelange, Rue des B  01917  01917                % 01400 TIC---
+220301045 Dudelange, Rue des M  01918  01918                % 01400 TIC---
+220301021 Dudelange, Rue des M  01919  01919                % 01400 TIC---
+220301084 Dudelange, Schoul Ri  01920  01920                % 01400 TIC---
+220301041 Dudelange, Rue Ribes  01921  01921                % 01400 TIC---
+220301010 Dudelange, Rue Jean   01922  01922                % 01400 TIC---
+220301086 Dudelange, Rue Marce  01922  01922                % 01400 TIC---
+220301064 Dudelange, Route de   01923  01923                % 01400 TIC---
+220301022 Dudelange, Gare       01924  01924                % 01400 TIC---
+220301036 Dudelange, Niddeschg  01925  01925                % 01400 TIC---
+220301024 Dudelange, Gemeng     01926  01926                % 01400 TIC---
+220301079 Dudelange, Fohrmann   01927  01927                % 01400 TIC---
+220301038 Dudelange, Rue de la  01928  01928                % 01400 TIC---
+220301056 Dudelange, Centre Cu  01929  01929                % 01400 TIC---
+220301014 Dudelange, Casino     01929  01929                % 01400 TIC---
+220301028 Dudelange, Spidol     01931  01931                % 01400 TIC---
+220301070 Dudelange, Rue Grand  01932  01932                % 01400 TIC---
+220301050 Dudelange, Schmelz    01932  01932                % 01400 TIC---
+220301049 Dudelange, Schlacken  01933  01933                % 01400 TIC---
+220301027 Dudelange, Greisenda  01934                       % 01400 TIC---
+*Z 01401 TIC---                                             % 01401 TIC---
+*L 8        220301054 220301027  02015  02034               % 01401 TIC---
+*R 2 220301027 220301054 220301027  02015  02034            % 01401 TIC---
+*G TIB 220301054 220301027  02015  02034                    % 01401 TIC---
+*A VE 220301054 220301027 000084  02015  02034              % 01401 TIC---
+*I FD 220301054 220301027        0001553  02015  02034      % 01401 TIC---
+220301054 Dudelange, Soibelkau         02015                % 01401 TIC---
+220301044 Dudelange, Rue des L  02016  02016                % 01401 TIC---
+220301066 Dudelange, Rue des B  02017  02017                % 01401 TIC---
+220301045 Dudelange, Rue des M  02018  02018                % 01401 TIC---
+220301021 Dudelange, Rue des M  02019  02019                % 01401 TIC---
+220301084 Dudelange, Schoul Ri  02020  02020                % 01401 TIC---
+220301041 Dudelange, Rue Ribes  02021  02021                % 01401 TIC---
+220301010 Dudelange, Rue Jean   02022  02022                % 01401 TIC---
+220301086 Dudelange, Rue Marce  02022  02022                % 01401 TIC---
+220301064 Dudelange, Route de   02023  02023                % 01401 TIC---
+220301022 Dudelange, Gare       02024  02024                % 01401 TIC---
+220301036 Dudelange, Niddeschg  02025  02025                % 01401 TIC---
+220301024 Dudelange, Gemeng     02026  02026                % 01401 TIC---
+220301079 Dudelange, Fohrmann   02027  02027                % 01401 TIC---
+220301038 Dudelange, Rue de la  02028  02028                % 01401 TIC---
+220301056 Dudelange, Centre Cu  02029  02029                % 01401 TIC---
+220301014 Dudelange, Casino     02029  02029                % 01401 TIC---
+220301028 Dudelange, Spidol     02031  02031                % 01401 TIC---
+220301070 Dudelange, Rue Grand  02032  02032                % 01401 TIC---
+220301050 Dudelange, Schmelz    02032  02032                % 01401 TIC---
+220301049 Dudelange, Schlacken  02033  02033                % 01401 TIC---
+220301027 Dudelange, Greisenda  02034                       % 01401 TIC---
+*Z 01402 TIC---                                             % 01402 TIC---
+*L 8        220301054 220301027  02045  02104               % 01402 TIC---
+*R 2 220301027 220301054 220301027  02045  02104            % 01402 TIC---
+*G TIB 220301054 220301027  02045  02104                    % 01402 TIC---
+*A VE 220301054 220301027 000084  02045  02104              % 01402 TIC---
+*I FD 220301054 220301027        0001554  02045  02104      % 01402 TIC---
+220301054 Dudelange, Soibelkau         02045                % 01402 TIC---
+220301044 Dudelange, Rue des L  02046  02046                % 01402 TIC---
+220301066 Dudelange, Rue des B  02047  02047                % 01402 TIC---
+220301045 Dudelange, Rue des M  02048  02048                % 01402 TIC---
+220301021 Dudelange, Rue des M  02049  02049                % 01402 TIC---
+220301084 Dudelange, Schoul Ri  02050  02050                % 01402 TIC---
+220301041 Dudelange, Rue Ribes  02051  02051                % 01402 TIC---
+220301010 Dudelange, Rue Jean   02052  02052                % 01402 TIC---
+220301086 Dudelange, Rue Marce  02052  02052                % 01402 TIC---
+220301064 Dudelange, Route de   02053  02053                % 01402 TIC---
+220301022 Dudelange, Gare       02054  02054                % 01402 TIC---
+220301036 Dudelange, Niddeschg  02055  02055                % 01402 TIC---
+220301024 Dudelange, Gemeng     02056  02056                % 01402 TIC---
+220301079 Dudelange, Fohrmann   02057  02057                % 01402 TIC---
+220301038 Dudelange, Rue de la  02058  02058                % 01402 TIC---
+220301056 Dudelange, Centre Cu  02059  02059                % 01402 TIC---
+220301014 Dudelange, Casino     02059  02059                % 01402 TIC---
+220301028 Dudelange, Spidol     02101  02101                % 01402 TIC---
+220301070 Dudelange, Rue Grand  02102  02102                % 01402 TIC---
+220301050 Dudelange, Schmelz    02102  02102                % 01402 TIC---
+220301049 Dudelange, Schlacken  02103  02103                % 01402 TIC---
+220301027 Dudelange, Greisenda  02104                       % 01402 TIC---
+*Z 01403 TIC---                                             % 01403 TIC---
+*L 8        220301054 220301027  00515  00534               % 01403 TIC---
+*R 2 220301027 220301054 220301027  00515  00534            % 01403 TIC---
+*G TIB 220301054 220301027  00515  00534                    % 01403 TIC---
+*A VE 220301054 220301027 000084  00515  00534              % 01403 TIC---
+*I FD 220301054 220301027        0001555  00515  00534      % 01403 TIC---
+220301054 Dudelange, Soibelkau         00515                % 01403 TIC---
+220301044 Dudelange, Rue des L  00516  00516                % 01403 TIC---
+220301066 Dudelange, Rue des B  00517  00517                % 01403 TIC---
+220301045 Dudelange, Rue des M  00518  00518                % 01403 TIC---
+220301021 Dudelange, Rue des M  00519  00519                % 01403 TIC---
+220301084 Dudelange, Schoul Ri  00520  00520                % 01403 TIC---
+220301041 Dudelange, Rue Ribes  00521  00521                % 01403 TIC---
+220301010 Dudelange, Rue Jean   00522  00522                % 01403 TIC---
+220301086 Dudelange, Rue Marce  00522  00522                % 01403 TIC---
+220301064 Dudelange, Route de   00523  00523                % 01403 TIC---
+220301022 Dudelange, Gare       00524  00524                % 01403 TIC---
+220301036 Dudelange, Niddeschg  00525  00525                % 01403 TIC---
+220301024 Dudelange, Gemeng     00526  00526                % 01403 TIC---
+220301079 Dudelange, Fohrmann   00527  00527                % 01403 TIC---
+220301038 Dudelange, Rue de la  00528  00528                % 01403 TIC---
+220301056 Dudelange, Centre Cu  00529  00529                % 01403 TIC---
+220301014 Dudelange, Casino     00529  00529                % 01403 TIC---
+220301028 Dudelange, Spidol     00531  00531                % 01403 TIC---
+220301070 Dudelange, Rue Grand  00532  00532                % 01403 TIC---
+220301050 Dudelange, Schmelz    00532  00532                % 01403 TIC---
+220301049 Dudelange, Schlacken  00533  00533                % 01403 TIC---
+220301027 Dudelange, Greisenda  00534                       % 01403 TIC---
+*Z 01404 TIC---                                             % 01404 TIC---
+*L 8        220301054 220301027  00545  00604               % 01404 TIC---
+*R 2 220301027 220301054 220301027  00545  00604            % 01404 TIC---
+*G TIB 220301054 220301027  00545  00604                    % 01404 TIC---
+*A VE 220301054 220301027 000084  00545  00604              % 01404 TIC---
+*I FD 220301054 220301027        0001556  00545  00604      % 01404 TIC---
+220301054 Dudelange, Soibelkau         00545                % 01404 TIC---
+220301044 Dudelange, Rue des L  00546  00546                % 01404 TIC---
+220301066 Dudelange, Rue des B  00547  00547                % 01404 TIC---
+220301045 Dudelange, Rue des M  00548  00548                % 01404 TIC---
+220301021 Dudelange, Rue des M  00549  00549                % 01404 TIC---
+220301084 Dudelange, Schoul Ri  00550  00550                % 01404 TIC---
+220301041 Dudelange, Rue Ribes  00551  00551                % 01404 TIC---
+220301010 Dudelange, Rue Jean   00552  00552                % 01404 TIC---
+220301086 Dudelange, Rue Marce  00552  00552                % 01404 TIC---
+220301064 Dudelange, Route de   00553  00553                % 01404 TIC---
+220301022 Dudelange, Gare       00554  00554                % 01404 TIC---
+220301036 Dudelange, Niddeschg  00555  00555                % 01404 TIC---
+220301024 Dudelange, Gemeng     00556  00556                % 01404 TIC---
+220301079 Dudelange, Fohrmann   00557  00557                % 01404 TIC---
+220301038 Dudelange, Rue de la  00558  00558                % 01404 TIC---
+220301056 Dudelange, Centre Cu  00559  00559                % 01404 TIC---
+220301014 Dudelange, Casino     00559  00559                % 01404 TIC---
+220301028 Dudelange, Spidol     00601  00601                % 01404 TIC---
+220301070 Dudelange, Rue Grand  00602  00602                % 01404 TIC---
+220301050 Dudelange, Schmelz    00602  00602                % 01404 TIC---
+220301049 Dudelange, Schlacken  00603  00603                % 01404 TIC---
+220301027 Dudelange, Greisenda  00604                       % 01404 TIC---
+*Z 01405 TIC---                                             % 01405 TIC---
+*L 8        220301054 220301027  00615  00634               % 01405 TIC---
+*R 2 220301027 220301054 220301027  00615  00634            % 01405 TIC---
+*G TIB 220301054 220301027  00615  00634                    % 01405 TIC---
+*A VE 220301054 220301027 000084  00615  00634              % 01405 TIC---
+*I FD 220301054 220301027        0001557  00615  00634      % 01405 TIC---
+220301054 Dudelange, Soibelkau         00615                % 01405 TIC---
+220301044 Dudelange, Rue des L  00616  00616                % 01405 TIC---
+220301066 Dudelange, Rue des B  00617  00617                % 01405 TIC---
+220301045 Dudelange, Rue des M  00618  00618                % 01405 TIC---
+220301021 Dudelange, Rue des M  00619  00619                % 01405 TIC---
+220301084 Dudelange, Schoul Ri  00620  00620                % 01405 TIC---
+220301041 Dudelange, Rue Ribes  00621  00621                % 01405 TIC---
+220301010 Dudelange, Rue Jean   00622  00622                % 01405 TIC---
+220301086 Dudelange, Rue Marce  00622  00622                % 01405 TIC---
+220301064 Dudelange, Route de   00623  00623                % 01405 TIC---
+220301022 Dudelange, Gare       00624  00624                % 01405 TIC---
+220301036 Dudelange, Niddeschg  00625  00625                % 01405 TIC---
+220301024 Dudelange, Gemeng     00626  00626                % 01405 TIC---
+220301079 Dudelange, Fohrmann   00627  00627                % 01405 TIC---
+220301038 Dudelange, Rue de la  00628  00628                % 01405 TIC---
+220301056 Dudelange, Centre Cu  00629  00629                % 01405 TIC---
+220301014 Dudelange, Casino     00629  00629                % 01405 TIC---
+220301028 Dudelange, Spidol     00631  00631                % 01405 TIC---
+220301070 Dudelange, Rue Grand  00632  00632                % 01405 TIC---
+220301050 Dudelange, Schmelz    00632  00632                % 01405 TIC---
+220301049 Dudelange, Schlacken  00633  00633                % 01405 TIC---
+220301027 Dudelange, Greisenda  00634                       % 01405 TIC---
+*Z 01406 TIC---                                             % 01406 TIC---
+*L 8        220301054 220301027  00645  00704               % 01406 TIC---
+*R 2 220301027 220301054 220301027  00645  00704            % 01406 TIC---
+*G TIB 220301054 220301027  00645  00704                    % 01406 TIC---
+*A VE 220301054 220301027 000084  00645  00704              % 01406 TIC---
+*I FD 220301054 220301027        0001558  00645  00704      % 01406 TIC---
+220301054 Dudelange, Soibelkau         00645                % 01406 TIC---
+220301044 Dudelange, Rue des L  00646  00646                % 01406 TIC---
+220301066 Dudelange, Rue des B  00647  00647                % 01406 TIC---
+220301045 Dudelange, Rue des M  00648  00648                % 01406 TIC---
+220301021 Dudelange, Rue des M  00649  00649                % 01406 TIC---
+220301084 Dudelange, Schoul Ri  00650  00650                % 01406 TIC---
+220301041 Dudelange, Rue Ribes  00651  00651                % 01406 TIC---
+220301010 Dudelange, Rue Jean   00652  00652                % 01406 TIC---
+220301086 Dudelange, Rue Marce  00652  00652                % 01406 TIC---
+220301064 Dudelange, Route de   00653  00653                % 01406 TIC---
+220301022 Dudelange, Gare       00654  00654                % 01406 TIC---
+220301036 Dudelange, Niddeschg  00655  00655                % 01406 TIC---
+220301024 Dudelange, Gemeng     00656  00656                % 01406 TIC---
+220301079 Dudelange, Fohrmann   00657  00657                % 01406 TIC---
+220301038 Dudelange, Rue de la  00658  00658                % 01406 TIC---
+220301056 Dudelange, Centre Cu  00659  00659                % 01406 TIC---
+220301014 Dudelange, Casino     00659  00659                % 01406 TIC---
+220301028 Dudelange, Spidol     00701  00701                % 01406 TIC---
+220301070 Dudelange, Rue Grand  00702  00702                % 01406 TIC---
+220301050 Dudelange, Schmelz    00702  00702                % 01406 TIC---
+220301049 Dudelange, Schlacken  00703  00703                % 01406 TIC---
+220301027 Dudelange, Greisenda  00704                       % 01406 TIC---
+*Z 01407 TIC---                                             % 01407 TIC---
+*L 8        220301054 220301027  00715  00734               % 01407 TIC---
+*R 2 220301027 220301054 220301027  00715  00734            % 01407 TIC---
+*G TIB 220301054 220301027  00715  00734                    % 01407 TIC---
+*A VE 220301054 220301027 000084  00715  00734              % 01407 TIC---
+*I FD 220301054 220301027        0001559  00715  00734      % 01407 TIC---
+220301054 Dudelange, Soibelkau         00715                % 01407 TIC---
+220301044 Dudelange, Rue des L  00716  00716                % 01407 TIC---
+220301066 Dudelange, Rue des B  00717  00717                % 01407 TIC---
+220301045 Dudelange, Rue des M  00718  00718                % 01407 TIC---
+220301021 Dudelange, Rue des M  00719  00719                % 01407 TIC---
+220301084 Dudelange, Schoul Ri  00720  00720                % 01407 TIC---
+220301041 Dudelange, Rue Ribes  00721  00721                % 01407 TIC---
+220301010 Dudelange, Rue Jean   00722  00722                % 01407 TIC---
+220301086 Dudelange, Rue Marce  00722  00722                % 01407 TIC---
+220301064 Dudelange, Route de   00723  00723                % 01407 TIC---
+220301022 Dudelange, Gare       00724  00724                % 01407 TIC---
+220301036 Dudelange, Niddeschg  00725  00725                % 01407 TIC---
+220301024 Dudelange, Gemeng     00726  00726                % 01407 TIC---
+220301079 Dudelange, Fohrmann   00727  00727                % 01407 TIC---
+220301038 Dudelange, Rue de la  00728  00728                % 01407 TIC---
+220301056 Dudelange, Centre Cu  00729  00729                % 01407 TIC---
+220301014 Dudelange, Casino     00729  00729                % 01407 TIC---
+220301028 Dudelange, Spidol     00731  00731                % 01407 TIC---
+220301070 Dudelange, Rue Grand  00732  00732                % 01407 TIC---
+220301050 Dudelange, Schmelz    00732  00732                % 01407 TIC---
+220301049 Dudelange, Schlacken  00733  00733                % 01407 TIC---
+220301027 Dudelange, Greisenda  00734                       % 01407 TIC---
+*Z 01408 TIC---                                             % 01408 TIC---
+*L 8        220301054 220301027  00745  00804               % 01408 TIC---
+*R 2 220301027 220301054 220301027  00745  00804            % 01408 TIC---
+*G TIB 220301054 220301027  00745  00804                    % 01408 TIC---
+*A VE 220301054 220301027 000084  00745  00804              % 01408 TIC---
+*I FD 220301054 220301027        0001560  00745  00804      % 01408 TIC---
+220301054 Dudelange, Soibelkau         00745                % 01408 TIC---
+220301044 Dudelange, Rue des L  00746  00746                % 01408 TIC---
+220301066 Dudelange, Rue des B  00747  00747                % 01408 TIC---
+220301045 Dudelange, Rue des M  00748  00748                % 01408 TIC---
+220301021 Dudelange, Rue des M  00749  00749                % 01408 TIC---
+220301084 Dudelange, Schoul Ri  00750  00750                % 01408 TIC---
+220301041 Dudelange, Rue Ribes  00751  00751                % 01408 TIC---
+220301010 Dudelange, Rue Jean   00752  00752                % 01408 TIC---
+220301086 Dudelange, Rue Marce  00752  00752                % 01408 TIC---
+220301064 Dudelange, Route de   00753  00753                % 01408 TIC---
+220301022 Dudelange, Gare       00754  00754                % 01408 TIC---
+220301036 Dudelange, Niddeschg  00755  00755                % 01408 TIC---
+220301024 Dudelange, Gemeng     00756  00756                % 01408 TIC---
+220301079 Dudelange, Fohrmann   00757  00757                % 01408 TIC---
+220301038 Dudelange, Rue de la  00758  00758                % 01408 TIC---
+220301056 Dudelange, Centre Cu  00759  00759                % 01408 TIC---
+220301014 Dudelange, Casino     00759  00759                % 01408 TIC---
+220301028 Dudelange, Spidol     00801  00801                % 01408 TIC---
+220301070 Dudelange, Rue Grand  00802  00802                % 01408 TIC---
+220301050 Dudelange, Schmelz    00802  00802                % 01408 TIC---
+220301049 Dudelange, Schlacken  00803  00803                % 01408 TIC---
+220301027 Dudelange, Greisenda  00804                       % 01408 TIC---
+*Z 01409 TIC---                                             % 01409 TIC---
+*L 8        220301054 220301027  00815  00834               % 01409 TIC---
+*R 2 220301027 220301054 220301027  00815  00834            % 01409 TIC---
+*G TIB 220301054 220301027  00815  00834                    % 01409 TIC---
+*A VE 220301054 220301027 000084  00815  00834              % 01409 TIC---
+*I FD 220301054 220301027        0001561  00815  00834      % 01409 TIC---
+220301054 Dudelange, Soibelkau         00815                % 01409 TIC---
+220301044 Dudelange, Rue des L  00816  00816                % 01409 TIC---
+220301066 Dudelange, Rue des B  00817  00817                % 01409 TIC---
+220301045 Dudelange, Rue des M  00818  00818                % 01409 TIC---
+220301021 Dudelange, Rue des M  00819  00819                % 01409 TIC---
+220301084 Dudelange, Schoul Ri  00820  00820                % 01409 TIC---
+220301041 Dudelange, Rue Ribes  00821  00821                % 01409 TIC---
+220301010 Dudelange, Rue Jean   00822  00822                % 01409 TIC---
+220301086 Dudelange, Rue Marce  00822  00822                % 01409 TIC---
+220301064 Dudelange, Route de   00823  00823                % 01409 TIC---
+220301022 Dudelange, Gare       00824  00824                % 01409 TIC---
+220301036 Dudelange, Niddeschg  00825  00825                % 01409 TIC---
+220301024 Dudelange, Gemeng     00826  00826                % 01409 TIC---
+220301079 Dudelange, Fohrmann   00827  00827                % 01409 TIC---
+220301038 Dudelange, Rue de la  00828  00828                % 01409 TIC---
+220301056 Dudelange, Centre Cu  00829  00829                % 01409 TIC---
+220301014 Dudelange, Casino     00829  00829                % 01409 TIC---
+220301028 Dudelange, Spidol     00831  00831                % 01409 TIC---
+220301070 Dudelange, Rue Grand  00832  00832                % 01409 TIC---
+220301050 Dudelange, Schmelz    00832  00832                % 01409 TIC---
+220301049 Dudelange, Schlacken  00833  00833                % 01409 TIC---
+220301027 Dudelange, Greisenda  00834                       % 01409 TIC---
+*Z 01410 TIC---                                             % 01410 TIC---
+*L 8        220301054 220301027  00845  00904               % 01410 TIC---
+*R 2 220301027 220301054 220301027  00845  00904            % 01410 TIC---
+*G TIB 220301054 220301027  00845  00904                    % 01410 TIC---
+*A VE 220301054 220301027 000084  00845  00904              % 01410 TIC---
+*I FD 220301054 220301027        0001562  00845  00904      % 01410 TIC---
+220301054 Dudelange, Soibelkau         00845                % 01410 TIC---
+220301044 Dudelange, Rue des L  00846  00846                % 01410 TIC---
+220301066 Dudelange, Rue des B  00847  00847                % 01410 TIC---
+220301045 Dudelange, Rue des M  00848  00848                % 01410 TIC---
+220301021 Dudelange, Rue des M  00849  00849                % 01410 TIC---
+220301084 Dudelange, Schoul Ri  00850  00850                % 01410 TIC---
+220301041 Dudelange, Rue Ribes  00851  00851                % 01410 TIC---
+220301010 Dudelange, Rue Jean   00852  00852                % 01410 TIC---
+220301086 Dudelange, Rue Marce  00852  00852                % 01410 TIC---
+220301064 Dudelange, Route de   00853  00853                % 01410 TIC---
+220301022 Dudelange, Gare       00854  00854                % 01410 TIC---
+220301036 Dudelange, Niddeschg  00855  00855                % 01410 TIC---
+220301024 Dudelange, Gemeng     00856  00856                % 01410 TIC---
+220301079 Dudelange, Fohrmann   00857  00857                % 01410 TIC---
+220301038 Dudelange, Rue de la  00858  00858                % 01410 TIC---
+220301056 Dudelange, Centre Cu  00859  00859                % 01410 TIC---
+220301014 Dudelange, Casino     00859  00859                % 01410 TIC---
+220301028 Dudelange, Spidol     00901  00901                % 01410 TIC---
+220301070 Dudelange, Rue Grand  00902  00902                % 01410 TIC---
+220301050 Dudelange, Schmelz    00902  00902                % 01410 TIC---
+220301049 Dudelange, Schlacken  00903  00903                % 01410 TIC---
+220301027 Dudelange, Greisenda  00904                       % 01410 TIC---
+*Z 01411 TIC---                                             % 01411 TIC---
+*L 8        220301054 220301027  00945  01004               % 01411 TIC---
+*R 2 220301027 220301054 220301027  00945  01004            % 01411 TIC---
+*G TIB 220301054 220301027  00945  01004                    % 01411 TIC---
+*A VE 220301054 220301027 000084  00945  01004              % 01411 TIC---
+*I FD 220301054 220301027        0001563  00945  01004      % 01411 TIC---
+220301054 Dudelange, Soibelkau         00945                % 01411 TIC---
+220301044 Dudelange, Rue des L  00946  00946                % 01411 TIC---
+220301066 Dudelange, Rue des B  00947  00947                % 01411 TIC---
+220301045 Dudelange, Rue des M  00948  00948                % 01411 TIC---
+220301021 Dudelange, Rue des M  00949  00949                % 01411 TIC---
+220301084 Dudelange, Schoul Ri  00950  00950                % 01411 TIC---
+220301041 Dudelange, Rue Ribes  00951  00951                % 01411 TIC---
+220301010 Dudelange, Rue Jean   00952  00952                % 01411 TIC---
+220301086 Dudelange, Rue Marce  00952  00952                % 01411 TIC---
+220301064 Dudelange, Route de   00953  00953                % 01411 TIC---
+220301022 Dudelange, Gare       00954  00954                % 01411 TIC---
+220301036 Dudelange, Niddeschg  00955  00955                % 01411 TIC---
+220301024 Dudelange, Gemeng     00956  00956                % 01411 TIC---
+220301079 Dudelange, Fohrmann   00957  00957                % 01411 TIC---
+220301038 Dudelange, Rue de la  00958  00958                % 01411 TIC---
+220301056 Dudelange, Centre Cu  00959  00959                % 01411 TIC---
+220301014 Dudelange, Casino     00959  00959                % 01411 TIC---
+220301028 Dudelange, Spidol     01001  01001                % 01411 TIC---
+220301070 Dudelange, Rue Grand  01002  01002                % 01411 TIC---
+220301050 Dudelange, Schmelz    01002  01002                % 01411 TIC---
+220301049 Dudelange, Schlacken  01003  01003                % 01411 TIC---
+220301027 Dudelange, Greisenda  01004                       % 01411 TIC---
+*Z 01412 TIC---                                             % 01412 TIC---
+*L 8        220301054 220301027  01045  01104               % 01412 TIC---
+*R 2 220301027 220301054 220301027  01045  01104            % 01412 TIC---
+*G TIB 220301054 220301027  01045  01104                    % 01412 TIC---
+*A VE 220301054 220301027 000084  01045  01104              % 01412 TIC---
+*I FD 220301054 220301027        0001564  01045  01104      % 01412 TIC---
+220301054 Dudelange, Soibelkau         01045                % 01412 TIC---
+220301044 Dudelange, Rue des L  01046  01046                % 01412 TIC---
+220301066 Dudelange, Rue des B  01047  01047                % 01412 TIC---
+220301045 Dudelange, Rue des M  01048  01048                % 01412 TIC---
+220301021 Dudelange, Rue des M  01049  01049                % 01412 TIC---
+220301084 Dudelange, Schoul Ri  01050  01050                % 01412 TIC---
+220301041 Dudelange, Rue Ribes  01051  01051                % 01412 TIC---
+220301010 Dudelange, Rue Jean   01052  01052                % 01412 TIC---
+220301086 Dudelange, Rue Marce  01052  01052                % 01412 TIC---
+220301064 Dudelange, Route de   01053  01053                % 01412 TIC---
+220301022 Dudelange, Gare       01054  01054                % 01412 TIC---
+220301036 Dudelange, Niddeschg  01055  01055                % 01412 TIC---
+220301024 Dudelange, Gemeng     01056  01056                % 01412 TIC---
+220301079 Dudelange, Fohrmann   01057  01057                % 01412 TIC---
+220301038 Dudelange, Rue de la  01058  01058                % 01412 TIC---
+220301056 Dudelange, Centre Cu  01059  01059                % 01412 TIC---
+220301014 Dudelange, Casino     01059  01059                % 01412 TIC---
+220301028 Dudelange, Spidol     01101  01101                % 01412 TIC---
+220301070 Dudelange, Rue Grand  01102  01102                % 01412 TIC---
+220301050 Dudelange, Schmelz    01102  01102                % 01412 TIC---
+220301049 Dudelange, Schlacken  01103  01103                % 01412 TIC---
+220301027 Dudelange, Greisenda  01104                       % 01412 TIC---
+*Z 01413 TIC---                                             % 01413 TIC---
+*L 8        220301054 220301027  01145  01204               % 01413 TIC---
+*R 2 220301027 220301054 220301027  01145  01204            % 01413 TIC---
+*G TIB 220301054 220301027  01145  01204                    % 01413 TIC---
+*A VE 220301054 220301027 000084  01145  01204              % 01413 TIC---
+*I FD 220301054 220301027        0001565  01145  01204      % 01413 TIC---
+220301054 Dudelange, Soibelkau         01145                % 01413 TIC---
+220301044 Dudelange, Rue des L  01146  01146                % 01413 TIC---
+220301066 Dudelange, Rue des B  01147  01147                % 01413 TIC---
+220301045 Dudelange, Rue des M  01148  01148                % 01413 TIC---
+220301021 Dudelange, Rue des M  01149  01149                % 01413 TIC---
+220301084 Dudelange, Schoul Ri  01150  01150                % 01413 TIC---
+220301041 Dudelange, Rue Ribes  01151  01151                % 01413 TIC---
+220301010 Dudelange, Rue Jean   01152  01152                % 01413 TIC---
+220301086 Dudelange, Rue Marce  01152  01152                % 01413 TIC---
+220301064 Dudelange, Route de   01153  01153                % 01413 TIC---
+220301022 Dudelange, Gare       01154  01154                % 01413 TIC---
+220301036 Dudelange, Niddeschg  01155  01155                % 01413 TIC---
+220301024 Dudelange, Gemeng     01156  01156                % 01413 TIC---
+220301079 Dudelange, Fohrmann   01157  01157                % 01413 TIC---
+220301038 Dudelange, Rue de la  01158  01158                % 01413 TIC---
+220301056 Dudelange, Centre Cu  01159  01159                % 01413 TIC---
+220301014 Dudelange, Casino     01159  01159                % 01413 TIC---
+220301028 Dudelange, Spidol     01201  01201                % 01413 TIC---
+220301070 Dudelange, Rue Grand  01202  01202                % 01413 TIC---
+220301050 Dudelange, Schmelz    01202  01202                % 01413 TIC---
+220301049 Dudelange, Schlacken  01203  01203                % 01413 TIC---
+220301027 Dudelange, Greisenda  01204                       % 01413 TIC---
+*Z 01414 TIC---                                             % 01414 TIC---
+*L 8        220301054 220301027  01245  01304               % 01414 TIC---
+*R 2 220301027 220301054 220301027  01245  01304            % 01414 TIC---
+*G TIB 220301054 220301027  01245  01304                    % 01414 TIC---
+*A VE 220301054 220301027 000084  01245  01304              % 01414 TIC---
+*I FD 220301054 220301027        0001566  01245  01304      % 01414 TIC---
+220301054 Dudelange, Soibelkau         01245                % 01414 TIC---
+220301044 Dudelange, Rue des L  01246  01246                % 01414 TIC---
+220301066 Dudelange, Rue des B  01247  01247                % 01414 TIC---
+220301045 Dudelange, Rue des M  01248  01248                % 01414 TIC---
+220301021 Dudelange, Rue des M  01249  01249                % 01414 TIC---
+220301084 Dudelange, Schoul Ri  01250  01250                % 01414 TIC---
+220301041 Dudelange, Rue Ribes  01251  01251                % 01414 TIC---
+220301010 Dudelange, Rue Jean   01252  01252                % 01414 TIC---
+220301086 Dudelange, Rue Marce  01252  01252                % 01414 TIC---
+220301064 Dudelange, Route de   01253  01253                % 01414 TIC---
+220301022 Dudelange, Gare       01254  01254                % 01414 TIC---
+220301036 Dudelange, Niddeschg  01255  01255                % 01414 TIC---
+220301024 Dudelange, Gemeng     01256  01256                % 01414 TIC---
+220301079 Dudelange, Fohrmann   01257  01257                % 01414 TIC---
+220301038 Dudelange, Rue de la  01258  01258                % 01414 TIC---
+220301056 Dudelange, Centre Cu  01259  01259                % 01414 TIC---
+220301014 Dudelange, Casino     01259  01259                % 01414 TIC---
+220301028 Dudelange, Spidol     01301  01301                % 01414 TIC---
+220301070 Dudelange, Rue Grand  01302  01302                % 01414 TIC---
+220301050 Dudelange, Schmelz    01302  01302                % 01414 TIC---
+220301049 Dudelange, Schlacken  01303  01303                % 01414 TIC---
+220301027 Dudelange, Greisenda  01304                       % 01414 TIC---
+*Z 01415 TIC---                                             % 01415 TIC---
+*L 8        220301054 220301027  01345  01404               % 01415 TIC---
+*R 2 220301027 220301054 220301027  01345  01404            % 01415 TIC---
+*G TIB 220301054 220301027  01345  01404                    % 01415 TIC---
+*A VE 220301054 220301027 000084  01345  01404              % 01415 TIC---
+*I FD 220301054 220301027        0001567  01345  01404      % 01415 TIC---
+220301054 Dudelange, Soibelkau         01345                % 01415 TIC---
+220301044 Dudelange, Rue des L  01346  01346                % 01415 TIC---
+220301066 Dudelange, Rue des B  01347  01347                % 01415 TIC---
+220301045 Dudelange, Rue des M  01348  01348                % 01415 TIC---
+220301021 Dudelange, Rue des M  01349  01349                % 01415 TIC---
+220301084 Dudelange, Schoul Ri  01350  01350                % 01415 TIC---
+220301041 Dudelange, Rue Ribes  01351  01351                % 01415 TIC---
+220301010 Dudelange, Rue Jean   01352  01352                % 01415 TIC---
+220301086 Dudelange, Rue Marce  01352  01352                % 01415 TIC---
+220301064 Dudelange, Route de   01353  01353                % 01415 TIC---
+220301022 Dudelange, Gare       01354  01354                % 01415 TIC---
+220301036 Dudelange, Niddeschg  01355  01355                % 01415 TIC---
+220301024 Dudelange, Gemeng     01356  01356                % 01415 TIC---
+220301079 Dudelange, Fohrmann   01357  01357                % 01415 TIC---
+220301038 Dudelange, Rue de la  01358  01358                % 01415 TIC---
+220301056 Dudelange, Centre Cu  01359  01359                % 01415 TIC---
+220301014 Dudelange, Casino     01359  01359                % 01415 TIC---
+220301028 Dudelange, Spidol     01401  01401                % 01415 TIC---
+220301070 Dudelange, Rue Grand  01402  01402                % 01415 TIC---
+220301050 Dudelange, Schmelz    01402  01402                % 01415 TIC---
+220301049 Dudelange, Schlacken  01403  01403                % 01415 TIC---
+220301027 Dudelange, Greisenda  01404                       % 01415 TIC---
+*Z 01416 TIC---                                             % 01416 TIC---
+*L 8        220301054 220301027  01445  01504               % 01416 TIC---
+*R 2 220301027 220301054 220301027  01445  01504            % 01416 TIC---
+*G TIB 220301054 220301027  01445  01504                    % 01416 TIC---
+*A VE 220301054 220301027 000084  01445  01504              % 01416 TIC---
+*I FD 220301054 220301027        0001568  01445  01504      % 01416 TIC---
+220301054 Dudelange, Soibelkau         01445                % 01416 TIC---
+220301044 Dudelange, Rue des L  01446  01446                % 01416 TIC---
+220301066 Dudelange, Rue des B  01447  01447                % 01416 TIC---
+220301045 Dudelange, Rue des M  01448  01448                % 01416 TIC---
+220301021 Dudelange, Rue des M  01449  01449                % 01416 TIC---
+220301084 Dudelange, Schoul Ri  01450  01450                % 01416 TIC---
+220301041 Dudelange, Rue Ribes  01451  01451                % 01416 TIC---
+220301010 Dudelange, Rue Jean   01452  01452                % 01416 TIC---
+220301086 Dudelange, Rue Marce  01452  01452                % 01416 TIC---
+220301064 Dudelange, Route de   01453  01453                % 01416 TIC---
+220301022 Dudelange, Gare       01454  01454                % 01416 TIC---
+220301036 Dudelange, Niddeschg  01455  01455                % 01416 TIC---
+220301024 Dudelange, Gemeng     01456  01456                % 01416 TIC---
+220301079 Dudelange, Fohrmann   01457  01457                % 01416 TIC---
+220301038 Dudelange, Rue de la  01458  01458                % 01416 TIC---
+220301056 Dudelange, Centre Cu  01459  01459                % 01416 TIC---
+220301014 Dudelange, Casino     01459  01459                % 01416 TIC---
+220301028 Dudelange, Spidol     01501  01501                % 01416 TIC---
+220301070 Dudelange, Rue Grand  01502  01502                % 01416 TIC---
+220301050 Dudelange, Schmelz    01502  01502                % 01416 TIC---
+220301049 Dudelange, Schlacken  01503  01503                % 01416 TIC---
+220301027 Dudelange, Greisenda  01504                       % 01416 TIC---
+*Z 01417 TIC---                                             % 01417 TIC---
+*L 8        220301054 220301027  01545  01604               % 01417 TIC---
+*R 2 220301027 220301054 220301027  01545  01604            % 01417 TIC---
+*G TIB 220301054 220301027  01545  01604                    % 01417 TIC---
+*A VE 220301054 220301027 000084  01545  01604              % 01417 TIC---
+*I FD 220301054 220301027        0001569  01545  01604      % 01417 TIC---
+220301054 Dudelange, Soibelkau         01545                % 01417 TIC---
+220301044 Dudelange, Rue des L  01546  01546                % 01417 TIC---
+220301066 Dudelange, Rue des B  01547  01547                % 01417 TIC---
+220301045 Dudelange, Rue des M  01548  01548                % 01417 TIC---
+220301021 Dudelange, Rue des M  01549  01549                % 01417 TIC---
+220301084 Dudelange, Schoul Ri  01550  01550                % 01417 TIC---
+220301041 Dudelange, Rue Ribes  01551  01551                % 01417 TIC---
+220301010 Dudelange, Rue Jean   01552  01552                % 01417 TIC---
+220301086 Dudelange, Rue Marce  01552  01552                % 01417 TIC---
+220301064 Dudelange, Route de   01553  01553                % 01417 TIC---
+220301022 Dudelange, Gare       01554  01554                % 01417 TIC---
+220301036 Dudelange, Niddeschg  01555  01555                % 01417 TIC---
+220301024 Dudelange, Gemeng     01556  01556                % 01417 TIC---
+220301079 Dudelange, Fohrmann   01557  01557                % 01417 TIC---
+220301038 Dudelange, Rue de la  01558  01558                % 01417 TIC---
+220301056 Dudelange, Centre Cu  01559  01559                % 01417 TIC---
+220301014 Dudelange, Casino     01559  01559                % 01417 TIC---
+220301028 Dudelange, Spidol     01601  01601                % 01417 TIC---
+220301070 Dudelange, Rue Grand  01602  01602                % 01417 TIC---
+220301050 Dudelange, Schmelz    01602  01602                % 01417 TIC---
+220301049 Dudelange, Schlacken  01603  01603                % 01417 TIC---
+220301027 Dudelange, Greisenda  01604                       % 01417 TIC---
+*Z 01418 TIC---                                             % 01418 TIC---
+*L 8        220301054 220301027  01645  01704               % 01418 TIC---
+*R 2 220301027 220301054 220301027  01645  01704            % 01418 TIC---
+*G TIB 220301054 220301027  01645  01704                    % 01418 TIC---
+*A VE 220301054 220301027 000084  01645  01704              % 01418 TIC---
+*I FD 220301054 220301027        0001570  01645  01704      % 01418 TIC---
+220301054 Dudelange, Soibelkau         01645                % 01418 TIC---
+220301044 Dudelange, Rue des L  01646  01646                % 01418 TIC---
+220301066 Dudelange, Rue des B  01647  01647                % 01418 TIC---
+220301045 Dudelange, Rue des M  01648  01648                % 01418 TIC---
+220301021 Dudelange, Rue des M  01649  01649                % 01418 TIC---
+220301084 Dudelange, Schoul Ri  01650  01650                % 01418 TIC---
+220301041 Dudelange, Rue Ribes  01651  01651                % 01418 TIC---
+220301010 Dudelange, Rue Jean   01652  01652                % 01418 TIC---
+220301086 Dudelange, Rue Marce  01652  01652                % 01418 TIC---
+220301064 Dudelange, Route de   01653  01653                % 01418 TIC---
+220301022 Dudelange, Gare       01654  01654                % 01418 TIC---
+220301036 Dudelange, Niddeschg  01655  01655                % 01418 TIC---
+220301024 Dudelange, Gemeng     01656  01656                % 01418 TIC---
+220301079 Dudelange, Fohrmann   01657  01657                % 01418 TIC---
+220301038 Dudelange, Rue de la  01658  01658                % 01418 TIC---
+220301056 Dudelange, Centre Cu  01659  01659                % 01418 TIC---
+220301014 Dudelange, Casino     01659  01659                % 01418 TIC---
+220301028 Dudelange, Spidol     01701  01701                % 01418 TIC---
+220301070 Dudelange, Rue Grand  01702  01702                % 01418 TIC---
+220301050 Dudelange, Schmelz    01702  01702                % 01418 TIC---
+220301049 Dudelange, Schlacken  01703  01703                % 01418 TIC---
+220301027 Dudelange, Greisenda  01704                       % 01418 TIC---
+*Z 01419 TIC---                                             % 01419 TIC---
+*L 8        220301054 220301027  01745  01804               % 01419 TIC---
+*R 2 220301027 220301054 220301027  01745  01804            % 01419 TIC---
+*G TIB 220301054 220301027  01745  01804                    % 01419 TIC---
+*A VE 220301054 220301027 000084  01745  01804              % 01419 TIC---
+*I FD 220301054 220301027        0001571  01745  01804      % 01419 TIC---
+220301054 Dudelange, Soibelkau         01745                % 01419 TIC---
+220301044 Dudelange, Rue des L  01746  01746                % 01419 TIC---
+220301066 Dudelange, Rue des B  01747  01747                % 01419 TIC---
+220301045 Dudelange, Rue des M  01748  01748                % 01419 TIC---
+220301021 Dudelange, Rue des M  01749  01749                % 01419 TIC---
+220301084 Dudelange, Schoul Ri  01750  01750                % 01419 TIC---
+220301041 Dudelange, Rue Ribes  01751  01751                % 01419 TIC---
+220301010 Dudelange, Rue Jean   01752  01752                % 01419 TIC---
+220301086 Dudelange, Rue Marce  01752  01752                % 01419 TIC---
+220301064 Dudelange, Route de   01753  01753                % 01419 TIC---
+220301022 Dudelange, Gare       01754  01754                % 01419 TIC---
+220301036 Dudelange, Niddeschg  01755  01755                % 01419 TIC---
+220301024 Dudelange, Gemeng     01756  01756                % 01419 TIC---
+220301079 Dudelange, Fohrmann   01757  01757                % 01419 TIC---
+220301038 Dudelange, Rue de la  01758  01758                % 01419 TIC---
+220301056 Dudelange, Centre Cu  01759  01759                % 01419 TIC---
+220301014 Dudelange, Casino     01759  01759                % 01419 TIC---
+220301028 Dudelange, Spidol     01801  01801                % 01419 TIC---
+220301070 Dudelange, Rue Grand  01802  01802                % 01419 TIC---
+220301050 Dudelange, Schmelz    01802  01802                % 01419 TIC---
+220301049 Dudelange, Schlacken  01803  01803                % 01419 TIC---
+220301027 Dudelange, Greisenda  01804                       % 01419 TIC---
+*Z 01420 TIC---                                             % 01420 TIC---
+*L 8        220301054 220301027  01845  01904               % 01420 TIC---
+*R 2 220301027 220301054 220301027  01845  01904            % 01420 TIC---
+*G TIB 220301054 220301027  01845  01904                    % 01420 TIC---
+*A VE 220301054 220301027 000084  01845  01904              % 01420 TIC---
+*I FD 220301054 220301027        0001572  01845  01904      % 01420 TIC---
+220301054 Dudelange, Soibelkau         01845                % 01420 TIC---
+220301044 Dudelange, Rue des L  01846  01846                % 01420 TIC---
+220301066 Dudelange, Rue des B  01847  01847                % 01420 TIC---
+220301045 Dudelange, Rue des M  01848  01848                % 01420 TIC---
+220301021 Dudelange, Rue des M  01849  01849                % 01420 TIC---
+220301084 Dudelange, Schoul Ri  01850  01850                % 01420 TIC---
+220301041 Dudelange, Rue Ribes  01851  01851                % 01420 TIC---
+220301010 Dudelange, Rue Jean   01852  01852                % 01420 TIC---
+220301086 Dudelange, Rue Marce  01852  01852                % 01420 TIC---
+220301064 Dudelange, Route de   01853  01853                % 01420 TIC---
+220301022 Dudelange, Gare       01854  01854                % 01420 TIC---
+220301036 Dudelange, Niddeschg  01855  01855                % 01420 TIC---
+220301024 Dudelange, Gemeng     01856  01856                % 01420 TIC---
+220301079 Dudelange, Fohrmann   01857  01857                % 01420 TIC---
+220301038 Dudelange, Rue de la  01858  01858                % 01420 TIC---
+220301056 Dudelange, Centre Cu  01859  01859                % 01420 TIC---
+220301014 Dudelange, Casino     01859  01859                % 01420 TIC---
+220301028 Dudelange, Spidol     01901  01901                % 01420 TIC---
+220301070 Dudelange, Rue Grand  01902  01902                % 01420 TIC---
+220301050 Dudelange, Schmelz    01902  01902                % 01420 TIC---
+220301049 Dudelange, Schlacken  01903  01903                % 01420 TIC---
+220301027 Dudelange, Greisenda  01904                       % 01420 TIC---
+*Z 01421 TIC---                                             % 01421 TIC---
+*L 8        220301054 220301027  01945  02004               % 01421 TIC---
+*R 2 220301027 220301054 220301027  01945  02004            % 01421 TIC---
+*G TIB 220301054 220301027  01945  02004                    % 01421 TIC---
+*A VE 220301054 220301027 000084  01945  02004              % 01421 TIC---
+*I FD 220301054 220301027        0001573  01945  02004      % 01421 TIC---
+220301054 Dudelange, Soibelkau         01945                % 01421 TIC---
+220301044 Dudelange, Rue des L  01946  01946                % 01421 TIC---
+220301066 Dudelange, Rue des B  01947  01947                % 01421 TIC---
+220301045 Dudelange, Rue des M  01948  01948                % 01421 TIC---
+220301021 Dudelange, Rue des M  01949  01949                % 01421 TIC---
+220301084 Dudelange, Schoul Ri  01950  01950                % 01421 TIC---
+220301041 Dudelange, Rue Ribes  01951  01951                % 01421 TIC---
+220301010 Dudelange, Rue Jean   01952  01952                % 01421 TIC---
+220301086 Dudelange, Rue Marce  01952  01952                % 01421 TIC---
+220301064 Dudelange, Route de   01953  01953                % 01421 TIC---
+220301022 Dudelange, Gare       01954  01954                % 01421 TIC---
+220301036 Dudelange, Niddeschg  01955  01955                % 01421 TIC---
+220301024 Dudelange, Gemeng     01956  01956                % 01421 TIC---
+220301079 Dudelange, Fohrmann   01957  01957                % 01421 TIC---
+220301038 Dudelange, Rue de la  01958  01958                % 01421 TIC---
+220301056 Dudelange, Centre Cu  01959  01959                % 01421 TIC---
+220301014 Dudelange, Casino     01959  01959                % 01421 TIC---
+220301028 Dudelange, Spidol     02001  02001                % 01421 TIC---
+220301070 Dudelange, Rue Grand  02002  02002                % 01421 TIC---
+220301050 Dudelange, Schmelz    02002  02002                % 01421 TIC---
+220301049 Dudelange, Schlacken  02003  02003                % 01421 TIC---
+220301027 Dudelange, Greisenda  02004                       % 01421 TIC---
+*Z 01422 TIC---                                             % 01422 TIC---
+*L 8        220301054 220301027  02115  02134               % 01422 TIC---
+*R 2 220301027 220301054 220301027  02115  02134            % 01422 TIC---
+*G TIB 220301054 220301027  02115  02134                    % 01422 TIC---
+*A VE 220301054 220301027 000000  02115  02134              % 01422 TIC---
+*I FD 220301054 220301027        0001574  02115  02134      % 01422 TIC---
+220301054 Dudelange, Soibelkau         02115                % 01422 TIC---
+220301044 Dudelange, Rue des L  02116  02116                % 01422 TIC---
+220301066 Dudelange, Rue des B  02117  02117                % 01422 TIC---
+220301045 Dudelange, Rue des M  02118  02118                % 01422 TIC---
+220301021 Dudelange, Rue des M  02119  02119                % 01422 TIC---
+220301084 Dudelange, Schoul Ri  02120  02120                % 01422 TIC---
+220301041 Dudelange, Rue Ribes  02121  02121                % 01422 TIC---
+220301010 Dudelange, Rue Jean   02122  02122                % 01422 TIC---
+220301086 Dudelange, Rue Marce  02122  02122                % 01422 TIC---
+220301064 Dudelange, Route de   02123  02123                % 01422 TIC---
+220301022 Dudelange, Gare       02124  02124                % 01422 TIC---
+220301036 Dudelange, Niddeschg  02125  02125                % 01422 TIC---
+220301024 Dudelange, Gemeng     02126  02126                % 01422 TIC---
+220301079 Dudelange, Fohrmann   02127  02127                % 01422 TIC---
+220301038 Dudelange, Rue de la  02128  02128                % 01422 TIC---
+220301056 Dudelange, Centre Cu  02129  02129                % 01422 TIC---
+220301014 Dudelange, Casino     02129  02129                % 01422 TIC---
+220301028 Dudelange, Spidol     02131  02131                % 01422 TIC---
+220301070 Dudelange, Rue Grand  02132  02132                % 01422 TIC---
+220301050 Dudelange, Schmelz    02132  02132                % 01422 TIC---
+220301049 Dudelange, Schlacken  02133  02133                % 01422 TIC---
+220301027 Dudelange, Greisenda  02134                       % 01422 TIC---
+*Z 01423 TIC---                                             % 01423 TIC---
+*L 8        220301054 220301027  02144  02201               % 01423 TIC---
+*R 2 220301027 220301054 220301027  02144  02201            % 01423 TIC---
+*G TIB 220301054 220301027  02144  02201                    % 01423 TIC---
+*A VE 220301054 220301027 000084  02144  02201              % 01423 TIC---
+*I FD 220301054 220301027        0001575  02144  02201      % 01423 TIC---
+220301054 Dudelange, Soibelkau         02144                % 01423 TIC---
+220301044 Dudelange, Rue des L  02144  02144                % 01423 TIC---
+220301066 Dudelange, Rue des B  02145  02145                % 01423 TIC---
+220301045 Dudelange, Rue des M  02146  02146                % 01423 TIC---
+220301021 Dudelange, Rue des M  02147  02147                % 01423 TIC---
+220301084 Dudelange, Schoul Ri  02148  02148                % 01423 TIC---
+220301041 Dudelange, Rue Ribes  02149  02149                % 01423 TIC---
+220301010 Dudelange, Rue Jean   02150  02150                % 01423 TIC---
+220301086 Dudelange, Rue Marce  02150  02150                % 01423 TIC---
+220301064 Dudelange, Route de   02151  02151                % 01423 TIC---
+220301022 Dudelange, Gare       02152  02152                % 01423 TIC---
+220301036 Dudelange, Niddeschg  02153  02153                % 01423 TIC---
+220301024 Dudelange, Gemeng     02154  02154                % 01423 TIC---
+220301079 Dudelange, Fohrmann   02155  02155                % 01423 TIC---
+220301038 Dudelange, Rue de la  02155  02155                % 01423 TIC---
+220301056 Dudelange, Centre Cu  02156  02156                % 01423 TIC---
+220301014 Dudelange, Casino     02156  02156                % 01423 TIC---
+220301028 Dudelange, Spidol     02158  02158                % 01423 TIC---
+220301070 Dudelange, Rue Grand  02159  02159                % 01423 TIC---
+220301050 Dudelange, Schmelz    02159  02159                % 01423 TIC---
+220301049 Dudelange, Schlacken  02200  02200                % 01423 TIC---
+220301027 Dudelange, Greisenda  02201                       % 01423 TIC---
+*Z 01424 TIC---                                             % 01424 TIC---
+*L 8        220301054 220301027  02214  02231               % 01424 TIC---
+*R 2 220301027 220301054 220301027  02214  02231            % 01424 TIC---
+*G TIB 220301054 220301027  02214  02231                    % 01424 TIC---
+*A VE 220301054 220301027 000084  02214  02231              % 01424 TIC---
+*I FD 220301054 220301027        0001576  02214  02231      % 01424 TIC---
+220301054 Dudelange, Soibelkau         02214                % 01424 TIC---
+220301044 Dudelange, Rue des L  02214  02214                % 01424 TIC---
+220301066 Dudelange, Rue des B  02215  02215                % 01424 TIC---
+220301045 Dudelange, Rue des M  02216  02216                % 01424 TIC---
+220301021 Dudelange, Rue des M  02217  02217                % 01424 TIC---
+220301084 Dudelange, Schoul Ri  02218  02218                % 01424 TIC---
+220301041 Dudelange, Rue Ribes  02219  02219                % 01424 TIC---
+220301010 Dudelange, Rue Jean   02220  02220                % 01424 TIC---
+220301086 Dudelange, Rue Marce  02220  02220                % 01424 TIC---
+220301064 Dudelange, Route de   02221  02221                % 01424 TIC---
+220301022 Dudelange, Gare       02222  02222                % 01424 TIC---
+220301036 Dudelange, Niddeschg  02223  02223                % 01424 TIC---
+220301024 Dudelange, Gemeng     02224  02224                % 01424 TIC---
+220301079 Dudelange, Fohrmann   02225  02225                % 01424 TIC---
+220301038 Dudelange, Rue de la  02225  02225                % 01424 TIC---
+220301056 Dudelange, Centre Cu  02226  02226                % 01424 TIC---
+220301014 Dudelange, Casino     02226  02226                % 01424 TIC---
+220301028 Dudelange, Spidol     02228  02228                % 01424 TIC---
+220301070 Dudelange, Rue Grand  02229  02229                % 01424 TIC---
+220301050 Dudelange, Schmelz    02229  02229                % 01424 TIC---
+220301049 Dudelange, Schlacken  02230  02230                % 01424 TIC---
+220301027 Dudelange, Greisenda  02231                       % 01424 TIC---
+*Z 01425 TIC---                                             % 01425 TIC---
+*L 8        220301054 220301027  02244  02301               % 01425 TIC---
+*R 2 220301027 220301054 220301027  02244  02301            % 01425 TIC---
+*G TIB 220301054 220301027  02244  02301                    % 01425 TIC---
+*A VE 220301054 220301027 000084  02244  02301              % 01425 TIC---
+*I FD 220301054 220301027        0001577  02244  02301      % 01425 TIC---
+220301054 Dudelange, Soibelkau         02244                % 01425 TIC---
+220301044 Dudelange, Rue des L  02244  02244                % 01425 TIC---
+220301066 Dudelange, Rue des B  02245  02245                % 01425 TIC---
+220301045 Dudelange, Rue des M  02246  02246                % 01425 TIC---
+220301021 Dudelange, Rue des M  02247  02247                % 01425 TIC---
+220301084 Dudelange, Schoul Ri  02248  02248                % 01425 TIC---
+220301041 Dudelange, Rue Ribes  02249  02249                % 01425 TIC---
+220301010 Dudelange, Rue Jean   02250  02250                % 01425 TIC---
+220301086 Dudelange, Rue Marce  02250  02250                % 01425 TIC---
+220301064 Dudelange, Route de   02251  02251                % 01425 TIC---
+220301022 Dudelange, Gare       02252  02252                % 01425 TIC---
+220301036 Dudelange, Niddeschg  02253  02253                % 01425 TIC---
+220301024 Dudelange, Gemeng     02254  02254                % 01425 TIC---
+220301079 Dudelange, Fohrmann   02255  02255                % 01425 TIC---
+220301038 Dudelange, Rue de la  02255  02255                % 01425 TIC---
+220301056 Dudelange, Centre Cu  02256  02256                % 01425 TIC---
+220301014 Dudelange, Casino     02256  02256                % 01425 TIC---
+220301028 Dudelange, Spidol     02258  02258                % 01425 TIC---
+220301070 Dudelange, Rue Grand  02259  02259                % 01425 TIC---
+220301050 Dudelange, Schmelz    02259  02259                % 01425 TIC---
+220301049 Dudelange, Schlacken  02300  02300                % 01425 TIC---
+220301027 Dudelange, Greisenda  02301                       % 01425 TIC---
+*Z 01426 TIC---                                             % 01426 TIC---
+*L 8        220301054 220301027  02344  02401               % 01426 TIC---
+*R 2 220301027 220301054 220301027  02344  02401            % 01426 TIC---
+*G TIB 220301054 220301027  02344  02401                    % 01426 TIC---
+*A VE 220301054 220301027 000084  02344  02401              % 01426 TIC---
+*I FD 220301054 220301027        0001578  02344  02401      % 01426 TIC---
+220301054 Dudelange, Soibelkau         02344                % 01426 TIC---
+220301044 Dudelange, Rue des L  02344  02344                % 01426 TIC---
+220301066 Dudelange, Rue des B  02345  02345                % 01426 TIC---
+220301045 Dudelange, Rue des M  02346  02346                % 01426 TIC---
+220301021 Dudelange, Rue des M  02347  02347                % 01426 TIC---
+220301084 Dudelange, Schoul Ri  02348  02348                % 01426 TIC---
+220301041 Dudelange, Rue Ribes  02349  02349                % 01426 TIC---
+220301010 Dudelange, Rue Jean   02350  02350                % 01426 TIC---
+220301086 Dudelange, Rue Marce  02350  02350                % 01426 TIC---
+220301064 Dudelange, Route de   02351  02351                % 01426 TIC---
+220301022 Dudelange, Gare       02352  02352                % 01426 TIC---
+220301036 Dudelange, Niddeschg  02353  02353                % 01426 TIC---
+220301024 Dudelange, Gemeng     02354  02354                % 01426 TIC---
+220301079 Dudelange, Fohrmann   02355  02355                % 01426 TIC---
+220301038 Dudelange, Rue de la  02355  02355                % 01426 TIC---
+220301056 Dudelange, Centre Cu  02356  02356                % 01426 TIC---
+220301014 Dudelange, Casino     02356  02356                % 01426 TIC---
+220301028 Dudelange, Spidol     02358  02358                % 01426 TIC---
+220301070 Dudelange, Rue Grand  02359  02359                % 01426 TIC---
+220301050 Dudelange, Schmelz    02359  02359                % 01426 TIC---
+220301049 Dudelange, Schlacken  02400  02400                % 01426 TIC---
+220301027 Dudelange, Greisenda  02401                       % 01426 TIC---
+*Z 01427 TIC---                                             % 01427 TIC---
+*L 8        220301054 220301027  02314  02331               % 01427 TIC---
+*R 2 220301027 220301054 220301027  02314  02331            % 01427 TIC---
+*G TIB 220301054 220301027  02314  02331                    % 01427 TIC---
+*A VE 220301054 220301027 000000  02314  02331              % 01427 TIC---
+*I FD 220301054 220301027        0001579  02314  02331      % 01427 TIC---
+220301054 Dudelange, Soibelkau         02314                % 01427 TIC---
+220301044 Dudelange, Rue des L  02314  02314                % 01427 TIC---
+220301066 Dudelange, Rue des B  02315  02315                % 01427 TIC---
+220301045 Dudelange, Rue des M  02316  02316                % 01427 TIC---
+220301021 Dudelange, Rue des M  02317  02317                % 01427 TIC---
+220301084 Dudelange, Schoul Ri  02318  02318                % 01427 TIC---
+220301041 Dudelange, Rue Ribes  02319  02319                % 01427 TIC---
+220301010 Dudelange, Rue Jean   02320  02320                % 01427 TIC---
+220301086 Dudelange, Rue Marce  02320  02320                % 01427 TIC---
+220301064 Dudelange, Route de   02321  02321                % 01427 TIC---
+220301022 Dudelange, Gare       02322  02322                % 01427 TIC---
+220301036 Dudelange, Niddeschg  02323  02323                % 01427 TIC---
+220301024 Dudelange, Gemeng     02324  02324                % 01427 TIC---
+220301079 Dudelange, Fohrmann   02325  02325                % 01427 TIC---
+220301038 Dudelange, Rue de la  02325  02325                % 01427 TIC---
+220301056 Dudelange, Centre Cu  02326  02326                % 01427 TIC---
+220301014 Dudelange, Casino     02326  02326                % 01427 TIC---
+220301028 Dudelange, Spidol     02328  02328                % 01427 TIC---
+220301070 Dudelange, Rue Grand  02329  02329                % 01427 TIC---
+220301050 Dudelange, Schmelz    02329  02329                % 01427 TIC---
+220301049 Dudelange, Schlacken  02330  02330                % 01427 TIC---
+220301027 Dudelange, Greisenda  02331                       % 01427 TIC---

@@ -1,0 +1,334 @@
+*F 03 2
+*Z 03450 RGTR--                                             % 03450 RGTR--
+*L 655      110411001 110403001  00800  00803               % 03450 RGTR--
+*A gy 110411001 110403001 000030  00800  00803              % 03450 RGTR--
+*A TB 110411001 110403001 000030  00800  00803              % 03450 RGTR--
+*R 1 110403001 110411001 110403001  00800  00803            % 03450 RGTR--
+*G RGB 110411001 110403001  00800  00803                    % 03450 RGTR--
+*A VE 110411001 110403001 000030  00800  00803              % 03450 RGTR--
+*I FD 110411001 110403001        0002014  00800  00803      % 03450 RGTR--
+110411001 Bockholtz/Hosingen,          00800                % 03450 RGTR--
+110403001 Hosingen, Eesberwee   00803                       % 03450 RGTR--
+*Z 03451 RGTR--                                             % 03451 RGTR--
+*L 655      110411001 110403005  00651  00658               % 03451 RGTR--
+*A gy 110411001 110403005 000030  00651  00658              % 03451 RGTR--
+*A fw 110411001 110403005 000030  00651  00658              % 03451 RGTR--
+*R 1 110403005 110411001 110403005  00651  00658            % 03451 RGTR--
+*G RGB 110411001 110403005  00651  00658                    % 03451 RGTR--
+*A VE 110411001 110403005 000030  00651  00658              % 03451 RGTR--
+*I FD 110411001 110403005        0002209  00651  00658      % 03451 RGTR--
+110411001 Bockholtz/Hosingen,          00651                % 03451 RGTR--
+110403001 Hosingen, Eesberwee   00654  00654                % 03451 RGTR--
+110403002 Hosingen, Ewescht Du  00655  00655                % 03451 RGTR--
+110403005 Hosingen, Bei der Ki  00658                       % 03451 RGTR--
+*Z 03452 RGTR--                                             % 03452 RGTR--
+*L 655      120903023 110403004  01015  01056               % 03452 RGTR--
+*A gy 120903023 110403004 000006  01015  01056              % 03452 RGTR--
+*A fw 120903023 110403004 000006  01015  01056              % 03452 RGTR--
+*R 1 110403004 120903023 110403004  01015  01056            % 03452 RGTR--
+*G RGB 120903023 110403004  01015  01056                    % 03452 RGTR--
+*A VE 120903023 110403004 000006  01015  01056              % 03452 RGTR--
+*I FD 120903023 110403004        0001802  01015  01056      % 03452 RGTR--
+120903023 Wiltz, Lycée du Nord         01015                % 03452 RGTR--
+120903021 Wiltz, Lann           01017  01017                % 03452 RGTR--
+120903041 Wiltz, Wéinebeerig    01018  01018                % 03452 RGTR--
+120903040 Weidingen, Wegdicher  01019  01019                % 03452 RGTR--
+120902001 Weidingen, Erpeldang  01020  01020                % 03452 RGTR--
+120301002 Erpeldange/Eschweile  01021  01021                % 03452 RGTR--
+110501003 Drauffelt, Op der Lé  01028  01028                % 03452 RGTR--
+110501002 Drauffelt, Op der Ga  01029  01029                % 03452 RGTR--
+120602001 Enscherange, Bei Ste  01033  01033                % 03452 RGTR--
+120602002 Enscherange, Loumill  01034  01034                % 03452 RGTR--
+120606001 Wilwerwiltz, Gare     01035  01035                % 03452 RGTR--
+120606002 Wilwerwiltz, Tomm     01036  01036                % 03452 RGTR--
+120605001 Pintsch, An der Kéie  01037  01037                % 03452 RGTR--
+110411001 Bockholtz/Hosingen,   01043  01043                % 03452 RGTR--
+110403001 Hosingen, Eesberwee   01047  01047                % 03452 RGTR--
+110403002 Hosingen, Ewescht Du  01048  01048                % 03452 RGTR--
+110403005 Hosingen, Bei der Ki  01050  01050                % 03452 RGTR--
+110203003 Um Schinker           01053  01053                % 03452 RGTR--
+110412004 Wahlhausen, Beim Cha  01054  01054                % 03452 RGTR--
+110403004 Hosingen, Parc House  01056                       % 03452 RGTR--
+*Z 03453 RGTR--                                             % 03453 RGTR--
+*L 655      120903023 110403004  01208  01249               % 03453 RGTR--
+*A gy 120903023 110403004 000006  01208  01249              % 03453 RGTR--
+*A fw 120903023 110403004 000006  01208  01249              % 03453 RGTR--
+*R 1 110403004 120903023 110403004  01208  01249            % 03453 RGTR--
+*G RGB 120903023 110403004  01208  01249                    % 03453 RGTR--
+*A VE 120903023 110403004 000006  01208  01249              % 03453 RGTR--
+*I FD 120903023 110403004        0002222  01208  01249      % 03453 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 03453 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 03453 RGTR--
+120903041 Wiltz, Wéinebeerig    01211  01211                % 03453 RGTR--
+120903040 Weidingen, Wegdicher  01212  01212                % 03453 RGTR--
+120902001 Weidingen, Erpeldang  01213  01213                % 03453 RGTR--
+120301002 Erpeldange/Eschweile  01214  01214                % 03453 RGTR--
+110501003 Drauffelt, Op der Lé  01221  01221                % 03453 RGTR--
+110501002 Drauffelt, Op der Ga  01222  01222                % 03453 RGTR--
+120602001 Enscherange, Bei Ste  01226  01226                % 03453 RGTR--
+120602002 Enscherange, Loumill  01227  01227                % 03453 RGTR--
+120606001 Wilwerwiltz, Gare     01228  01228                % 03453 RGTR--
+120606002 Wilwerwiltz, Tomm     01229  01229                % 03453 RGTR--
+120605001 Pintsch, An der Kéie  01230  01230                % 03453 RGTR--
+110411001 Bockholtz/Hosingen,   01236  01236                % 03453 RGTR--
+110403001 Hosingen, Eesberwee   01240  01240                % 03453 RGTR--
+110403002 Hosingen, Ewescht Du  01241  01241                % 03453 RGTR--
+110403005 Hosingen, Bei der Ki  01243  01243                % 03453 RGTR--
+110203003 Um Schinker           01246  01246                % 03453 RGTR--
+110412004 Wahlhausen, Beim Cha  01247  01247                % 03453 RGTR--
+110403004 Hosingen, Parc House  01249                       % 03453 RGTR--
+*Z 03454 RGTR--                                             % 03454 RGTR--
+*L 655      120903023 110403004  01415  01456               % 03454 RGTR--
+*A gy 120903023 110403004 000006  01415  01456              % 03454 RGTR--
+*A fw 120903023 110403004 000006  01415  01456              % 03454 RGTR--
+*R 1 110403004 120903023 110403004  01415  01456            % 03454 RGTR--
+*G RGB 120903023 110403004  01415  01456                    % 03454 RGTR--
+*A VE 120903023 110403004 000006  01415  01456              % 03454 RGTR--
+*I FD 120903023 110403004        0001804  01415  01456      % 03454 RGTR--
+120903023 Wiltz, Lycée du Nord         01415                % 03454 RGTR--
+120903021 Wiltz, Lann           01417  01417                % 03454 RGTR--
+120903041 Wiltz, Wéinebeerig    01418  01418                % 03454 RGTR--
+120903040 Weidingen, Wegdicher  01419  01419                % 03454 RGTR--
+120902001 Weidingen, Erpeldang  01420  01420                % 03454 RGTR--
+120301002 Erpeldange/Eschweile  01421  01421                % 03454 RGTR--
+110501003 Drauffelt, Op der Lé  01428  01428                % 03454 RGTR--
+110501002 Drauffelt, Op der Ga  01429  01429                % 03454 RGTR--
+120602001 Enscherange, Bei Ste  01433  01433                % 03454 RGTR--
+120602002 Enscherange, Loumill  01434  01434                % 03454 RGTR--
+120606001 Wilwerwiltz, Gare     01435  01435                % 03454 RGTR--
+120606002 Wilwerwiltz, Tomm     01436  01436                % 03454 RGTR--
+120605001 Pintsch, An der Kéie  01437  01437                % 03454 RGTR--
+110411001 Bockholtz/Hosingen,   01443  01443                % 03454 RGTR--
+110403001 Hosingen, Eesberwee   01447  01447                % 03454 RGTR--
+110403002 Hosingen, Ewescht Du  01448  01448                % 03454 RGTR--
+110403005 Hosingen, Bei der Ki  01450  01450                % 03454 RGTR--
+110203003 Um Schinker           01453  01453                % 03454 RGTR--
+110412004 Wahlhausen, Beim Cha  01454  01454                % 03454 RGTR--
+110403004 Hosingen, Parc House  01456                       % 03454 RGTR--
+*Z 03455 RGTR--                                             % 03455 RGTR--
+*L 655      120903023 110403004  00815  00859               % 03455 RGTR--
+*A gy 120903023 110403004 000006  00815  00859              % 03455 RGTR--
+*A fw 120903023 110403004 000006  00815  00859              % 03455 RGTR--
+*R 1 110403004 120903023 110403004  00815  00859            % 03455 RGTR--
+*G RGB 120903023 110403004  00815  00859                    % 03455 RGTR--
+*A VE 120903023 110403004 000006  00815  00859              % 03455 RGTR--
+*I FD 120903023 110403004        0001810  00815  00859      % 03455 RGTR--
+120903023 Wiltz, Lycée du Nord         00815                % 03455 RGTR--
+120903021 Wiltz, Lann           00818  00818                % 03455 RGTR--
+120903041 Wiltz, Wéinebeerig    00819  00819                % 03455 RGTR--
+120903040 Weidingen, Wegdicher  00820  00820                % 03455 RGTR--
+120902001 Weidingen, Erpeldang  00821  00821                % 03455 RGTR--
+120301002 Erpeldange/Eschweile  00822  00822                % 03455 RGTR--
+110501003 Drauffelt, Op der Lé  00829  00829                % 03455 RGTR--
+110501002 Drauffelt, Op der Ga  00831  00831                % 03455 RGTR--
+120602001 Enscherange, Bei Ste  00835  00835                % 03455 RGTR--
+120602002 Enscherange, Loumill  00836  00836                % 03455 RGTR--
+120606001 Wilwerwiltz, Gare     00837  00837                % 03455 RGTR--
+120606002 Wilwerwiltz, Tomm     00838  00838                % 03455 RGTR--
+120605001 Pintsch, An der Kéie  00839  00839                % 03455 RGTR--
+110411001 Bockholtz/Hosingen,   00846  00846                % 03455 RGTR--
+110403001 Hosingen, Eesberwee   00849  00849                % 03455 RGTR--
+110403002 Hosingen, Ewescht Du  00850  00850                % 03455 RGTR--
+110403005 Hosingen, Bei der Ki  00853  00853                % 03455 RGTR--
+110203003 Um Schinker           00857  00857                % 03455 RGTR--
+110412004 Wahlhausen, Beim Cha  00858  00858                % 03455 RGTR--
+110403004 Hosingen, Parc House  00859                       % 03455 RGTR--
+*Z 03456 RGTR--                                             % 03456 RGTR--
+*L 655      120903023 110403004  01615  01659               % 03456 RGTR--
+*A gy 120903023 110403004 000006  01615  01659              % 03456 RGTR--
+*A fw 120903023 110403004 000006  01615  01659              % 03456 RGTR--
+*R 1 110403004 120903023 110403004  01615  01659            % 03456 RGTR--
+*G RGB 120903023 110403004  01615  01659                    % 03456 RGTR--
+*A VE 120903023 110403004 000006  01615  01659              % 03456 RGTR--
+*I FD 120903023 110403004        0001811  01615  01659      % 03456 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 03456 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 03456 RGTR--
+120903041 Wiltz, Wéinebeerig    01619  01619                % 03456 RGTR--
+120903040 Weidingen, Wegdicher  01620  01620                % 03456 RGTR--
+120902001 Weidingen, Erpeldang  01621  01621                % 03456 RGTR--
+120301002 Erpeldange/Eschweile  01622  01622                % 03456 RGTR--
+110501003 Drauffelt, Op der Lé  01629  01629                % 03456 RGTR--
+110501002 Drauffelt, Op der Ga  01631  01631                % 03456 RGTR--
+120602001 Enscherange, Bei Ste  01635  01635                % 03456 RGTR--
+120602002 Enscherange, Loumill  01636  01636                % 03456 RGTR--
+120606001 Wilwerwiltz, Gare     01637  01637                % 03456 RGTR--
+120606002 Wilwerwiltz, Tomm     01638  01638                % 03456 RGTR--
+120605001 Pintsch, An der Kéie  01639  01639                % 03456 RGTR--
+110411001 Bockholtz/Hosingen,   01646  01646                % 03456 RGTR--
+110403001 Hosingen, Eesberwee   01649  01649                % 03456 RGTR--
+110403002 Hosingen, Ewescht Du  01650  01650                % 03456 RGTR--
+110403005 Hosingen, Bei der Ki  01653  01653                % 03456 RGTR--
+110203003 Um Schinker           01657  01657                % 03456 RGTR--
+110412004 Wahlhausen, Beim Cha  01658  01658                % 03456 RGTR--
+110403004 Hosingen, Parc House  01659                       % 03456 RGTR--
+*Z 03457 RGTR--                                             % 03457 RGTR--
+*L 655      110403005 120903023  00703  00739               % 03457 RGTR--
+*A gy 110403005 120903023 000030  00703  00739              % 03457 RGTR--
+*A MN 110403005 120903023 000030  00703  00739              % 03457 RGTR--
+*A bl 110403005 120903023 000030  00703  00739              % 03457 RGTR--
+*R 2 120903023 110403005 120903023  00703  00739            % 03457 RGTR--
+*G RGB 110403005 120903023  00703  00739                    % 03457 RGTR--
+*A VE 110403005 120903023 000030  00703  00739              % 03457 RGTR--
+*I FD 110403005 120903023        0002342  00703  00739      % 03457 RGTR--
+110403005 Hosingen, Bei der Ki         00703                % 03457 RGTR--
+110403001 Hosingen, Eesberwee   00704  00704                % 03457 RGTR--
+110411001 Bockholtz/Hosingen,   00707  00707                % 03457 RGTR--
+120605001 Pintsch, An der Kéie  00714  00714                % 03457 RGTR--
+120606002 Wilwerwiltz, Tomm     00715  00715                % 03457 RGTR--
+120606001 Wilwerwiltz, Gare     00716  00716                % 03457 RGTR--
+120602002 Enscherange, Loumill  00718  00718                % 03457 RGTR--
+120602001 Enscherange, Bei Ste  00719  00719                % 03457 RGTR--
+110501002 Drauffelt, Op der Ga  00723  00723                % 03457 RGTR--
+120301002 Erpeldange/Eschweile  00732  00732                % 03457 RGTR--
+120902001 Weidingen, Erpeldang  00734  00734                % 03457 RGTR--
+120903040 Weidingen, Wegdicher  00734  00734                % 03457 RGTR--
+120903041 Wiltz, Wéinebeerig    00735  00735                % 03457 RGTR--
+120903021 Wiltz, Lann           00736  00736                % 03457 RGTR--
+120903008 Wiltz, Pompjeesbau    00738  00738                % 03457 RGTR--
+120903023 Wiltz, Lycée du Nord  00739                       % 03457 RGTR--
+*Z 03458 RGTR--                                             % 03458 RGTR--
+*L 655      110403005 120903023  00715  00751               % 03458 RGTR--
+*A gy 110403005 120903023 000033  00715  00751              % 03458 RGTR--
+*A bl 110403005 120903023 000033  00715  00751              % 03458 RGTR--
+*R 2 120903023 110403005 120903023  00715  00751            % 03458 RGTR--
+*G RGB 110403005 120903023  00715  00751                    % 03458 RGTR--
+*A VE 110403005 120903023 000033  00715  00751              % 03458 RGTR--
+*I FD 110403005 120903023        0002067  00715  00751      % 03458 RGTR--
+110403005 Hosingen, Bei der Ki         00715                % 03458 RGTR--
+110403001 Hosingen, Eesberwee   00716  00716                % 03458 RGTR--
+110411001 Bockholtz/Hosingen,   00719  00719                % 03458 RGTR--
+120605001 Pintsch, An der Kéie  00726  00726                % 03458 RGTR--
+120606002 Wilwerwiltz, Tomm     00727  00727                % 03458 RGTR--
+120606001 Wilwerwiltz, Gare     00728  00728                % 03458 RGTR--
+120602002 Enscherange, Loumill  00730  00730                % 03458 RGTR--
+120602001 Enscherange, Bei Ste  00731  00731                % 03458 RGTR--
+110501002 Drauffelt, Op der Ga  00735  00735                % 03458 RGTR--
+120301002 Erpeldange/Eschweile  00744  00744                % 03458 RGTR--
+120902001 Weidingen, Erpeldang  00746  00746                % 03458 RGTR--
+120903040 Weidingen, Wegdicher  00746  00746                % 03458 RGTR--
+120903041 Wiltz, Wéinebeerig    00747  00747                % 03458 RGTR--
+120903021 Wiltz, Lann           00748  00748                % 03458 RGTR--
+120903008 Wiltz, Pompjeesbau    00750  00750                % 03458 RGTR--
+120903023 Wiltz, Lycée du Nord  00751                       % 03458 RGTR--
+*Z 03459 RGTR--                                             % 03459 RGTR--
+*L 655      110403001 110411001  01655  01658               % 03459 RGTR--
+*A gy 110403001 110411001 000030  01655  01658              % 03459 RGTR--
+*A TC 110403001 110411001 000030  01655  01658              % 03459 RGTR--
+*R 2 110411001 110403001 110411001  01655  01658            % 03459 RGTR--
+*G RGB 110403001 110411001  01655  01658                    % 03459 RGTR--
+*A VE 110403001 110411001 000030  01655  01658              % 03459 RGTR--
+*I FD 110403001 110411001        0003119  01655  01658      % 03459 RGTR--
+110403001 Hosingen, Eesberwee          01655                % 03459 RGTR--
+110411001 Bockholtz/Hosingen,   01658                       % 03459 RGTR--
+*Z 03460 RGTR--                                             % 03460 RGTR--
+*L 655      110403004 120903023  00907  00949               % 03460 RGTR--
+*A gy 110403004 120903023 000006  00907  00949              % 03460 RGTR--
+*A bl 110403004 120903023 000006  00907  00949              % 03460 RGTR--
+*R 2 120903023 110403004 120903023  00907  00949            % 03460 RGTR--
+*G RGB 110403004 120903023  00907  00949                    % 03460 RGTR--
+*A VE 110403004 120903023 000006  00907  00949              % 03460 RGTR--
+*I FD 110403004 120903023        0002133  00907  00949      % 03460 RGTR--
+110403004 Hosingen, Parc House         00907                % 03460 RGTR--
+110412004 Wahlhausen, Beim Cha  00908  00908                % 03460 RGTR--
+110203003 Um Schinker           00908  00908                % 03460 RGTR--
+110403002 Hosingen, Ewescht Du  00912  00912                % 03460 RGTR--
+110403005 Hosingen, Bei der Ki  00914  00914                % 03460 RGTR--
+110403001 Hosingen, Eesberwee   00915  00915                % 03460 RGTR--
+110411001 Bockholtz/Hosingen,   00919  00919                % 03460 RGTR--
+120605001 Pintsch, An der Kéie  00925  00925                % 03460 RGTR--
+120606002 Wilwerwiltz, Tomm     00926  00926                % 03460 RGTR--
+120606001 Wilwerwiltz, Gare     00927  00927                % 03460 RGTR--
+120602002 Enscherange, Loumill  00929  00929                % 03460 RGTR--
+120602001 Enscherange, Bei Ste  00930  00930                % 03460 RGTR--
+110501002 Drauffelt, Op der Ga  00934  00934                % 03460 RGTR--
+120301002 Erpeldange/Eschweile  00943  00943                % 03460 RGTR--
+120902001 Weidingen, Erpeldang  00944  00944                % 03460 RGTR--
+120903040 Weidingen, Wegdicher  00944  00944                % 03460 RGTR--
+120903041 Wiltz, Wéinebeerig    00945  00945                % 03460 RGTR--
+120903021 Wiltz, Lann           00946  00946                % 03460 RGTR--
+120903008 Wiltz, Pompjeesbau    00948  00948                % 03460 RGTR--
+120903023 Wiltz, Lycée du Nord  00949                       % 03460 RGTR--
+*Z 03461 RGTR--                                             % 03461 RGTR--
+*L 655      110403004 120903023  01107  01149               % 03461 RGTR--
+*A gy 110403004 120903023 000006  01107  01149              % 03461 RGTR--
+*A bl 110403004 120903023 000006  01107  01149              % 03461 RGTR--
+*R 2 120903023 110403004 120903023  01107  01149            % 03461 RGTR--
+*G RGB 110403004 120903023  01107  01149                    % 03461 RGTR--
+*A VE 110403004 120903023 000006  01107  01149              % 03461 RGTR--
+*I FD 110403004 120903023        0001209  01107  01149      % 03461 RGTR--
+110403004 Hosingen, Parc House         01107                % 03461 RGTR--
+110412004 Wahlhausen, Beim Cha  01108  01108                % 03461 RGTR--
+110203003 Um Schinker           01108  01108                % 03461 RGTR--
+110403002 Hosingen, Ewescht Du  01112  01112                % 03461 RGTR--
+110403005 Hosingen, Bei der Ki  01114  01114                % 03461 RGTR--
+110403001 Hosingen, Eesberwee   01115  01115                % 03461 RGTR--
+110411001 Bockholtz/Hosingen,   01119  01119                % 03461 RGTR--
+120605001 Pintsch, An der Kéie  01125  01125                % 03461 RGTR--
+120606002 Wilwerwiltz, Tomm     01126  01126                % 03461 RGTR--
+120606001 Wilwerwiltz, Gare     01127  01127                % 03461 RGTR--
+120602002 Enscherange, Loumill  01129  01129                % 03461 RGTR--
+120602001 Enscherange, Bei Ste  01130  01130                % 03461 RGTR--
+110501002 Drauffelt, Op der Ga  01134  01134                % 03461 RGTR--
+120301002 Erpeldange/Eschweile  01143  01143                % 03461 RGTR--
+120902001 Weidingen, Erpeldang  01144  01144                % 03461 RGTR--
+120903040 Weidingen, Wegdicher  01144  01144                % 03461 RGTR--
+120903041 Wiltz, Wéinebeerig    01145  01145                % 03461 RGTR--
+120903021 Wiltz, Lann           01146  01146                % 03461 RGTR--
+120903008 Wiltz, Pompjeesbau    01148  01148                % 03461 RGTR--
+120903023 Wiltz, Lycée du Nord  01149                       % 03461 RGTR--
+*Z 03462 RGTR--                                             % 03462 RGTR--
+*L 655      110403004 120903023  01307  01349               % 03462 RGTR--
+*A gy 110403004 120903023 000006  01307  01349              % 03462 RGTR--
+*A bl 110403004 120903023 000006  01307  01349              % 03462 RGTR--
+*R 2 120903023 110403004 120903023  01307  01349            % 03462 RGTR--
+*G RGB 110403004 120903023  01307  01349                    % 03462 RGTR--
+*A VE 110403004 120903023 000006  01307  01349              % 03462 RGTR--
+*I FD 110403004 120903023        0002117  01307  01349      % 03462 RGTR--
+110403004 Hosingen, Parc House         01307                % 03462 RGTR--
+110412004 Wahlhausen, Beim Cha  01308  01308                % 03462 RGTR--
+110203003 Um Schinker           01308  01308                % 03462 RGTR--
+110403002 Hosingen, Ewescht Du  01312  01312                % 03462 RGTR--
+110403005 Hosingen, Bei der Ki  01314  01314                % 03462 RGTR--
+110403001 Hosingen, Eesberwee   01315  01315                % 03462 RGTR--
+110411001 Bockholtz/Hosingen,   01319  01319                % 03462 RGTR--
+120605001 Pintsch, An der Kéie  01325  01325                % 03462 RGTR--
+120606002 Wilwerwiltz, Tomm     01326  01326                % 03462 RGTR--
+120606001 Wilwerwiltz, Gare     01327  01327                % 03462 RGTR--
+120602002 Enscherange, Loumill  01329  01329                % 03462 RGTR--
+120602001 Enscherange, Bei Ste  01330  01330                % 03462 RGTR--
+110501002 Drauffelt, Op der Ga  01334  01334                % 03462 RGTR--
+120301002 Erpeldange/Eschweile  01343  01343                % 03462 RGTR--
+120902001 Weidingen, Erpeldang  01344  01344                % 03462 RGTR--
+120903040 Weidingen, Wegdicher  01344  01344                % 03462 RGTR--
+120903041 Wiltz, Wéinebeerig    01345  01345                % 03462 RGTR--
+120903021 Wiltz, Lann           01346  01346                % 03462 RGTR--
+120903008 Wiltz, Pompjeesbau    01348  01348                % 03462 RGTR--
+120903023 Wiltz, Lycée du Nord  01349                       % 03462 RGTR--
+*Z 03463 RGTR--                                             % 03463 RGTR--
+*L 655      110403004 120903023  01507  01549               % 03463 RGTR--
+*A gy 110403004 120903023 000006  01507  01549              % 03463 RGTR--
+*A bl 110403004 120903023 000006  01507  01549              % 03463 RGTR--
+*R 2 120903023 110403004 120903023  01507  01549            % 03463 RGTR--
+*G RGB 110403004 120903023  01507  01549                    % 03463 RGTR--
+*A VE 110403004 120903023 000006  01507  01549              % 03463 RGTR--
+*I FD 110403004 120903023        0002118  01507  01549      % 03463 RGTR--
+110403004 Hosingen, Parc House         01507                % 03463 RGTR--
+110412004 Wahlhausen, Beim Cha  01508  01508                % 03463 RGTR--
+110203003 Um Schinker           01508  01508                % 03463 RGTR--
+110403002 Hosingen, Ewescht Du  01512  01512                % 03463 RGTR--
+110403005 Hosingen, Bei der Ki  01514  01514                % 03463 RGTR--
+110403001 Hosingen, Eesberwee   01515  01515                % 03463 RGTR--
+110411001 Bockholtz/Hosingen,   01519  01519                % 03463 RGTR--
+120605001 Pintsch, An der Kéie  01525  01525                % 03463 RGTR--
+120606002 Wilwerwiltz, Tomm     01526  01526                % 03463 RGTR--
+120606001 Wilwerwiltz, Gare     01527  01527                % 03463 RGTR--
+120602002 Enscherange, Loumill  01529  01529                % 03463 RGTR--
+120602001 Enscherange, Bei Ste  01530  01530                % 03463 RGTR--
+110501002 Drauffelt, Op der Ga  01534  01534                % 03463 RGTR--
+120301002 Erpeldange/Eschweile  01543  01543                % 03463 RGTR--
+120902001 Weidingen, Erpeldang  01544  01544                % 03463 RGTR--
+120903040 Weidingen, Wegdicher  01544  01544                % 03463 RGTR--
+120903041 Wiltz, Wéinebeerig    01545  01545                % 03463 RGTR--
+120903021 Wiltz, Lann           01546  01546                % 03463 RGTR--
+120903008 Wiltz, Pompjeesbau    01548  01548                % 03463 RGTR--
+120903023 Wiltz, Lycée du Nord  01549                       % 03463 RGTR--

@@ -1,0 +1,590 @@
+*F 03 2
+*Z 04859 RGTR--                                             % 04859 RGTR--
+*L 142      200417050 200203005  00829  00858               % 04859 RGTR--
+*A ag 200417050 200203005 000006  00829  00858              % 04859 RGTR--
+*A mg 200417050 200203005 000006  00829  00858              % 04859 RGTR--
+*R 1 200203005 200417050 200203005  00829  00858            % 04859 RGTR--
+*G RGB 200417050 200203005  00829  00858                    % 04859 RGTR--
+*A VE 200417050 200203005 000006  00829  00858              % 04859 RGTR--
+*I FD 200417050 200203005        0001810  00829  00858      % 04859 RGTR--
+200417050 Kirchberg, Gare rout         00829                % 04859 RGTR--
+200508011 Senningerberg, Rue d  00836  00836                % 04859 RGTR--
+200508006 Senningerberg, Kapel  00838  00838                % 04859 RGTR--
+200508004 Senningerberg, Groms  00838  00838                % 04859 RGTR--
+200508010 Senningerberg, Rue d  00839  00839                % 04859 RGTR--
+200508009 Senningerberg, Rue d  00840  00840                % 04859 RGTR--
+200507003 Senningen, Um Kiem    00841  00841                % 04859 RGTR--
+200507002 Senningen, Kierch     00841  00841                % 04859 RGTR--
+200504006 Niederanven, Routsch  00842  00842                % 04859 RGTR--
+200504004 Niederanven, Minsbec  00843  00843                % 04859 RGTR--
+200504003 Niederanven, Millen   00844  00844                % 04859 RGTR--
+200504010 Niederanven, Jacques  00845  00845                % 04859 RGTR--
+200701005 Munsbach, Parc d'Act  00846  00846                % 04859 RGTR--
+200701003 Munsbach, Minsber Ba  00847  00847                % 04859 RGTR--
+200701002 Munsbach, Kulturzent  00848  00848                % 04859 RGTR--
+200705004 Schuttrange, Kierche  00850  00850                % 04859 RGTR--
+200705005 Schuttrange, Kreizun  00850  00850                % 04859 RGTR--
+200705007 Schuttrange, Um Grou  00851  00851                % 04859 RGTR--
+200704003 Schrassig, Schwaarz   00852  00852                % 04859 RGTR--
+200704001 Schrassig, Bastenhaf  00853  00853                % 04859 RGTR--
+200204001 Oetrange, Gare        00854  00854                % 04859 RGTR--
+200204002 Oetrange, Kurzebierg  00856  00856                % 04859 RGTR--
+200203005 Moutfort, Syrbréck    00858                       % 04859 RGTR--
+*Z 04860 RGTR--                                             % 04860 RGTR--
+*L 142      200417050 200203005  01629  01658               % 04860 RGTR--
+*A ag 200417050 200203005 000006  01629  01658              % 04860 RGTR--
+*A mg 200417050 200203005 000006  01629  01658              % 04860 RGTR--
+*R 1 200203005 200417050 200203005  01629  01658            % 04860 RGTR--
+*G RGB 200417050 200203005  01629  01658                    % 04860 RGTR--
+*A VE 200417050 200203005 000006  01629  01658              % 04860 RGTR--
+*I FD 200417050 200203005        0001811  01629  01658      % 04860 RGTR--
+200417050 Kirchberg, Gare rout         01629                % 04860 RGTR--
+200508011 Senningerberg, Rue d  01636  01636                % 04860 RGTR--
+200508006 Senningerberg, Kapel  01638  01638                % 04860 RGTR--
+200508004 Senningerberg, Groms  01638  01638                % 04860 RGTR--
+200508010 Senningerberg, Rue d  01639  01639                % 04860 RGTR--
+200508009 Senningerberg, Rue d  01640  01640                % 04860 RGTR--
+200507003 Senningen, Um Kiem    01641  01641                % 04860 RGTR--
+200507002 Senningen, Kierch     01641  01641                % 04860 RGTR--
+200504006 Niederanven, Routsch  01642  01642                % 04860 RGTR--
+200504004 Niederanven, Minsbec  01643  01643                % 04860 RGTR--
+200504003 Niederanven, Millen   01644  01644                % 04860 RGTR--
+200504010 Niederanven, Jacques  01645  01645                % 04860 RGTR--
+200701005 Munsbach, Parc d'Act  01646  01646                % 04860 RGTR--
+200701003 Munsbach, Minsber Ba  01647  01647                % 04860 RGTR--
+200701002 Munsbach, Kulturzent  01648  01648                % 04860 RGTR--
+200705004 Schuttrange, Kierche  01650  01650                % 04860 RGTR--
+200705005 Schuttrange, Kreizun  01650  01650                % 04860 RGTR--
+200705007 Schuttrange, Um Grou  01651  01651                % 04860 RGTR--
+200704003 Schrassig, Schwaarz   01652  01652                % 04860 RGTR--
+200704001 Schrassig, Bastenhaf  01653  01653                % 04860 RGTR--
+200204001 Oetrange, Gare        01654  01654                % 04860 RGTR--
+200204002 Oetrange, Kurzebierg  01656  01656                % 04860 RGTR--
+200203005 Moutfort, Syrbréck    01658                       % 04860 RGTR--
+*Z 04861 RGTR--                                             % 04861 RGTR--
+*L 142      200417050 200203005  01729  01758               % 04861 RGTR--
+*A ag 200417050 200203005 000006  01729  01758              % 04861 RGTR--
+*A mg 200417050 200203005 000006  01729  01758              % 04861 RGTR--
+*R 1 200203005 200417050 200203005  01729  01758            % 04861 RGTR--
+*G RGB 200417050 200203005  01729  01758                    % 04861 RGTR--
+*A VE 200417050 200203005 000006  01729  01758              % 04861 RGTR--
+*I FD 200417050 200203005        0001812  01729  01758      % 04861 RGTR--
+200417050 Kirchberg, Gare rout         01729                % 04861 RGTR--
+200508011 Senningerberg, Rue d  01736  01736                % 04861 RGTR--
+200508006 Senningerberg, Kapel  01738  01738                % 04861 RGTR--
+200508004 Senningerberg, Groms  01738  01738                % 04861 RGTR--
+200508010 Senningerberg, Rue d  01739  01739                % 04861 RGTR--
+200508009 Senningerberg, Rue d  01740  01740                % 04861 RGTR--
+200507003 Senningen, Um Kiem    01741  01741                % 04861 RGTR--
+200507002 Senningen, Kierch     01741  01741                % 04861 RGTR--
+200504006 Niederanven, Routsch  01742  01742                % 04861 RGTR--
+200504004 Niederanven, Minsbec  01743  01743                % 04861 RGTR--
+200504003 Niederanven, Millen   01744  01744                % 04861 RGTR--
+200504010 Niederanven, Jacques  01745  01745                % 04861 RGTR--
+200701005 Munsbach, Parc d'Act  01746  01746                % 04861 RGTR--
+200701003 Munsbach, Minsber Ba  01747  01747                % 04861 RGTR--
+200701002 Munsbach, Kulturzent  01748  01748                % 04861 RGTR--
+200705004 Schuttrange, Kierche  01750  01750                % 04861 RGTR--
+200705005 Schuttrange, Kreizun  01750  01750                % 04861 RGTR--
+200705007 Schuttrange, Um Grou  01751  01751                % 04861 RGTR--
+200704003 Schrassig, Schwaarz   01752  01752                % 04861 RGTR--
+200704001 Schrassig, Bastenhaf  01753  01753                % 04861 RGTR--
+200204001 Oetrange, Gare        01754  01754                % 04861 RGTR--
+200204002 Oetrange, Kurzebierg  01756  01756                % 04861 RGTR--
+200203005 Moutfort, Syrbréck    01758                       % 04861 RGTR--
+*Z 04862 RGTR--                                             % 04862 RGTR--
+*L 142      200417050 200203005  01829  01858               % 04862 RGTR--
+*A ag 200417050 200203005 000006  01829  01858              % 04862 RGTR--
+*A mg 200417050 200203005 000006  01829  01858              % 04862 RGTR--
+*R 1 200203005 200417050 200203005  01829  01858            % 04862 RGTR--
+*G RGB 200417050 200203005  01829  01858                    % 04862 RGTR--
+*A VE 200417050 200203005 000006  01829  01858              % 04862 RGTR--
+*I FD 200417050 200203005        0002194  01829  01858      % 04862 RGTR--
+200417050 Kirchberg, Gare rout         01829                % 04862 RGTR--
+200508011 Senningerberg, Rue d  01836  01836                % 04862 RGTR--
+200508006 Senningerberg, Kapel  01838  01838                % 04862 RGTR--
+200508004 Senningerberg, Groms  01838  01838                % 04862 RGTR--
+200508010 Senningerberg, Rue d  01839  01839                % 04862 RGTR--
+200508009 Senningerberg, Rue d  01840  01840                % 04862 RGTR--
+200507003 Senningen, Um Kiem    01841  01841                % 04862 RGTR--
+200507002 Senningen, Kierch     01841  01841                % 04862 RGTR--
+200504006 Niederanven, Routsch  01842  01842                % 04862 RGTR--
+200504004 Niederanven, Minsbec  01843  01843                % 04862 RGTR--
+200504003 Niederanven, Millen   01844  01844                % 04862 RGTR--
+200504010 Niederanven, Jacques  01845  01845                % 04862 RGTR--
+200701005 Munsbach, Parc d'Act  01846  01846                % 04862 RGTR--
+200701003 Munsbach, Minsber Ba  01847  01847                % 04862 RGTR--
+200701002 Munsbach, Kulturzent  01848  01848                % 04862 RGTR--
+200705004 Schuttrange, Kierche  01850  01850                % 04862 RGTR--
+200705005 Schuttrange, Kreizun  01850  01850                % 04862 RGTR--
+200705007 Schuttrange, Um Grou  01851  01851                % 04862 RGTR--
+200704003 Schrassig, Schwaarz   01852  01852                % 04862 RGTR--
+200704001 Schrassig, Bastenhaf  01853  01853                % 04862 RGTR--
+200204001 Oetrange, Gare        01854  01854                % 04862 RGTR--
+200204002 Oetrange, Kurzebierg  01856  01856                % 04862 RGTR--
+200203005 Moutfort, Syrbréck    01858                       % 04862 RGTR--
+*Z 04863 RGTR--                                             % 04863 RGTR--
+*L 142      200417050 200203005  01026  01053               % 04863 RGTR--
+*A ag 200417050 200203005 000001  01026  01053              % 04863 RGTR--
+*A mg 200417050 200203005 000001  01026  01053              % 04863 RGTR--
+*R 1 200203005 200417050 200203005  01026  01053            % 04863 RGTR--
+*G RGB 200417050 200203005  01026  01053                    % 04863 RGTR--
+*A VE 200417050 200203005 000001  01026  01053              % 04863 RGTR--
+*I FD 200417050 200203005        0001802  01026  01053      % 04863 RGTR--
+200417050 Kirchberg, Gare rout         01026                % 04863 RGTR--
+200508011 Senningerberg, Rue d  01033  01033                % 04863 RGTR--
+200508006 Senningerberg, Kapel  01034  01034                % 04863 RGTR--
+200508004 Senningerberg, Groms  01035  01035                % 04863 RGTR--
+200508010 Senningerberg, Rue d  01036  01036                % 04863 RGTR--
+200508009 Senningerberg, Rue d  01036  01036                % 04863 RGTR--
+200507003 Senningen, Um Kiem    01037  01037                % 04863 RGTR--
+200507002 Senningen, Kierch     01038  01038                % 04863 RGTR--
+200504006 Niederanven, Routsch  01039  01039                % 04863 RGTR--
+200504004 Niederanven, Minsbec  01039  01039                % 04863 RGTR--
+200504003 Niederanven, Millen   01040  01040                % 04863 RGTR--
+200504010 Niederanven, Jacques  01041  01041                % 04863 RGTR--
+200701005 Munsbach, Parc d'Act  01042  01042                % 04863 RGTR--
+200701003 Munsbach, Minsber Ba  01043  01043                % 04863 RGTR--
+200701002 Munsbach, Kulturzent  01044  01044                % 04863 RGTR--
+200705004 Schuttrange, Kierche  01045  01045                % 04863 RGTR--
+200705005 Schuttrange, Kreizun  01046  01046                % 04863 RGTR--
+200705007 Schuttrange, Um Grou  01046  01046                % 04863 RGTR--
+200704003 Schrassig, Schwaarz   01047  01047                % 04863 RGTR--
+200704001 Schrassig, Bastenhaf  01048  01048                % 04863 RGTR--
+200204001 Oetrange, Gare        01049  01049                % 04863 RGTR--
+200204002 Oetrange, Kurzebierg  01051  01051                % 04863 RGTR--
+200203005 Moutfort, Syrbréck    01053                       % 04863 RGTR--
+*Z 04864 RGTR--                                             % 04864 RGTR--
+*L 142      200417050 200203005  01226  01253               % 04864 RGTR--
+*A ag 200417050 200203005 000001  01226  01253              % 04864 RGTR--
+*A mg 200417050 200203005 000001  01226  01253              % 04864 RGTR--
+*R 1 200203005 200417050 200203005  01226  01253            % 04864 RGTR--
+*G RGB 200417050 200203005  01226  01253                    % 04864 RGTR--
+*A VE 200417050 200203005 000001  01226  01253              % 04864 RGTR--
+*I FD 200417050 200203005        0001803  01226  01253      % 04864 RGTR--
+200417050 Kirchberg, Gare rout         01226                % 04864 RGTR--
+200508011 Senningerberg, Rue d  01233  01233                % 04864 RGTR--
+200508006 Senningerberg, Kapel  01234  01234                % 04864 RGTR--
+200508004 Senningerberg, Groms  01235  01235                % 04864 RGTR--
+200508010 Senningerberg, Rue d  01236  01236                % 04864 RGTR--
+200508009 Senningerberg, Rue d  01236  01236                % 04864 RGTR--
+200507003 Senningen, Um Kiem    01237  01237                % 04864 RGTR--
+200507002 Senningen, Kierch     01238  01238                % 04864 RGTR--
+200504006 Niederanven, Routsch  01239  01239                % 04864 RGTR--
+200504004 Niederanven, Minsbec  01239  01239                % 04864 RGTR--
+200504003 Niederanven, Millen   01240  01240                % 04864 RGTR--
+200504010 Niederanven, Jacques  01241  01241                % 04864 RGTR--
+200701005 Munsbach, Parc d'Act  01242  01242                % 04864 RGTR--
+200701003 Munsbach, Minsber Ba  01243  01243                % 04864 RGTR--
+200701002 Munsbach, Kulturzent  01244  01244                % 04864 RGTR--
+200705004 Schuttrange, Kierche  01245  01245                % 04864 RGTR--
+200705005 Schuttrange, Kreizun  01246  01246                % 04864 RGTR--
+200705007 Schuttrange, Um Grou  01246  01246                % 04864 RGTR--
+200704003 Schrassig, Schwaarz   01247  01247                % 04864 RGTR--
+200704001 Schrassig, Bastenhaf  01248  01248                % 04864 RGTR--
+200204001 Oetrange, Gare        01249  01249                % 04864 RGTR--
+200204002 Oetrange, Kurzebierg  01251  01251                % 04864 RGTR--
+200203005 Moutfort, Syrbréck    01253                       % 04864 RGTR--
+*Z 04865 RGTR--                                             % 04865 RGTR--
+*L 142      200417050 200203005  01426  01453               % 04865 RGTR--
+*A ag 200417050 200203005 000001  01426  01453              % 04865 RGTR--
+*A mg 200417050 200203005 000001  01426  01453              % 04865 RGTR--
+*R 1 200203005 200417050 200203005  01426  01453            % 04865 RGTR--
+*G RGB 200417050 200203005  01426  01453                    % 04865 RGTR--
+*A VE 200417050 200203005 000001  01426  01453              % 04865 RGTR--
+*I FD 200417050 200203005        0001804  01426  01453      % 04865 RGTR--
+200417050 Kirchberg, Gare rout         01426                % 04865 RGTR--
+200508011 Senningerberg, Rue d  01433  01433                % 04865 RGTR--
+200508006 Senningerberg, Kapel  01434  01434                % 04865 RGTR--
+200508004 Senningerberg, Groms  01435  01435                % 04865 RGTR--
+200508010 Senningerberg, Rue d  01436  01436                % 04865 RGTR--
+200508009 Senningerberg, Rue d  01436  01436                % 04865 RGTR--
+200507003 Senningen, Um Kiem    01437  01437                % 04865 RGTR--
+200507002 Senningen, Kierch     01438  01438                % 04865 RGTR--
+200504006 Niederanven, Routsch  01439  01439                % 04865 RGTR--
+200504004 Niederanven, Minsbec  01439  01439                % 04865 RGTR--
+200504003 Niederanven, Millen   01440  01440                % 04865 RGTR--
+200504010 Niederanven, Jacques  01441  01441                % 04865 RGTR--
+200701005 Munsbach, Parc d'Act  01442  01442                % 04865 RGTR--
+200701003 Munsbach, Minsber Ba  01443  01443                % 04865 RGTR--
+200701002 Munsbach, Kulturzent  01444  01444                % 04865 RGTR--
+200705004 Schuttrange, Kierche  01445  01445                % 04865 RGTR--
+200705005 Schuttrange, Kreizun  01446  01446                % 04865 RGTR--
+200705007 Schuttrange, Um Grou  01446  01446                % 04865 RGTR--
+200704003 Schrassig, Schwaarz   01447  01447                % 04865 RGTR--
+200704001 Schrassig, Bastenhaf  01448  01448                % 04865 RGTR--
+200204001 Oetrange, Gare        01449  01449                % 04865 RGTR--
+200204002 Oetrange, Kurzebierg  01451  01451                % 04865 RGTR--
+200203005 Moutfort, Syrbréck    01453                       % 04865 RGTR--
+*Z 04866 RGTR--                                             % 04866 RGTR--
+*L 142      200417050 200203005  01626  01653               % 04866 RGTR--
+*A ag 200417050 200203005 000156  01626  01653              % 04866 RGTR--
+*A mg 200417050 200203005 000156  01626  01653              % 04866 RGTR--
+*R 1 200203005 200417050 200203005  01626  01653            % 04866 RGTR--
+*G RGB 200417050 200203005  01626  01653                    % 04866 RGTR--
+*A VE 200417050 200203005 000156  01626  01653              % 04866 RGTR--
+*I FD 200417050 200203005        0001811  01626  01653      % 04866 RGTR--
+200417050 Kirchberg, Gare rout         01626                % 04866 RGTR--
+200508011 Senningerberg, Rue d  01633  01633                % 04866 RGTR--
+200508006 Senningerberg, Kapel  01634  01634                % 04866 RGTR--
+200508004 Senningerberg, Groms  01635  01635                % 04866 RGTR--
+200508010 Senningerberg, Rue d  01636  01636                % 04866 RGTR--
+200508009 Senningerberg, Rue d  01636  01636                % 04866 RGTR--
+200507003 Senningen, Um Kiem    01637  01637                % 04866 RGTR--
+200507002 Senningen, Kierch     01638  01638                % 04866 RGTR--
+200504006 Niederanven, Routsch  01639  01639                % 04866 RGTR--
+200504004 Niederanven, Minsbec  01639  01639                % 04866 RGTR--
+200504003 Niederanven, Millen   01640  01640                % 04866 RGTR--
+200504010 Niederanven, Jacques  01641  01641                % 04866 RGTR--
+200701005 Munsbach, Parc d'Act  01642  01642                % 04866 RGTR--
+200701003 Munsbach, Minsber Ba  01643  01643                % 04866 RGTR--
+200701002 Munsbach, Kulturzent  01644  01644                % 04866 RGTR--
+200705004 Schuttrange, Kierche  01645  01645                % 04866 RGTR--
+200705005 Schuttrange, Kreizun  01646  01646                % 04866 RGTR--
+200705007 Schuttrange, Um Grou  01646  01646                % 04866 RGTR--
+200704003 Schrassig, Schwaarz   01647  01647                % 04866 RGTR--
+200704001 Schrassig, Bastenhaf  01648  01648                % 04866 RGTR--
+200204001 Oetrange, Gare        01649  01649                % 04866 RGTR--
+200204002 Oetrange, Kurzebierg  01651  01651                % 04866 RGTR--
+200203005 Moutfort, Syrbréck    01653                       % 04866 RGTR--
+*Z 04867 RGTR--                                             % 04867 RGTR--
+*L 142      200417050 200203005  01826  01853               % 04867 RGTR--
+*A ag 200417050 200203005 000156  01826  01853              % 04867 RGTR--
+*A mg 200417050 200203005 000156  01826  01853              % 04867 RGTR--
+*R 1 200203005 200417050 200203005  01826  01853            % 04867 RGTR--
+*G RGB 200417050 200203005  01826  01853                    % 04867 RGTR--
+*A VE 200417050 200203005 000156  01826  01853              % 04867 RGTR--
+*I FD 200417050 200203005        0002194  01826  01853      % 04867 RGTR--
+200417050 Kirchberg, Gare rout         01826                % 04867 RGTR--
+200508011 Senningerberg, Rue d  01833  01833                % 04867 RGTR--
+200508006 Senningerberg, Kapel  01834  01834                % 04867 RGTR--
+200508004 Senningerberg, Groms  01835  01835                % 04867 RGTR--
+200508010 Senningerberg, Rue d  01836  01836                % 04867 RGTR--
+200508009 Senningerberg, Rue d  01836  01836                % 04867 RGTR--
+200507003 Senningen, Um Kiem    01837  01837                % 04867 RGTR--
+200507002 Senningen, Kierch     01838  01838                % 04867 RGTR--
+200504006 Niederanven, Routsch  01839  01839                % 04867 RGTR--
+200504004 Niederanven, Minsbec  01839  01839                % 04867 RGTR--
+200504003 Niederanven, Millen   01840  01840                % 04867 RGTR--
+200504010 Niederanven, Jacques  01841  01841                % 04867 RGTR--
+200701005 Munsbach, Parc d'Act  01842  01842                % 04867 RGTR--
+200701003 Munsbach, Minsber Ba  01843  01843                % 04867 RGTR--
+200701002 Munsbach, Kulturzent  01844  01844                % 04867 RGTR--
+200705004 Schuttrange, Kierche  01845  01845                % 04867 RGTR--
+200705005 Schuttrange, Kreizun  01846  01846                % 04867 RGTR--
+200705007 Schuttrange, Um Grou  01846  01846                % 04867 RGTR--
+200704003 Schrassig, Schwaarz   01847  01847                % 04867 RGTR--
+200704001 Schrassig, Bastenhaf  01848  01848                % 04867 RGTR--
+200204001 Oetrange, Gare        01849  01849                % 04867 RGTR--
+200204002 Oetrange, Kurzebierg  01851  01851                % 04867 RGTR--
+200203005 Moutfort, Syrbréck    01853                       % 04867 RGTR--
+*Z 04868 RGTR--                                             % 04868 RGTR--
+*L 142      200203005 200417050  01057  01124               % 04868 RGTR--
+*A ag 200203005 200417050 000001  01057  01124              % 04868 RGTR--
+*A af 200203005 200417050 000001  01057  01124              % 04868 RGTR--
+*R 2 200417050 200203005 200417050  01057  01124            % 04868 RGTR--
+*G RGB 200203005 200417050  01057  01124                    % 04868 RGTR--
+*A VE 200203005 200417050 000001  01057  01124              % 04868 RGTR--
+*I FD 200203005 200417050        0002567  01057  01124      % 04868 RGTR--
+200203005 Moutfort, Syrbréck           01057                % 04868 RGTR--
+200204002 Oetrange, Kurzebierg  01058  01058                % 04868 RGTR--
+200204001 Oetrange, Gare        01100  01100                % 04868 RGTR--
+200704001 Schrassig, Bastenhaf  01102  01102                % 04868 RGTR--
+200704003 Schrassig, Schwaarz   01102  01102                % 04868 RGTR--
+200705007 Schuttrange, Um Grou  01103  01103                % 04868 RGTR--
+200705005 Schuttrange, Kreizun  01104  01104                % 04868 RGTR--
+200705004 Schuttrange, Kierche  01104  01104                % 04868 RGTR--
+200701002 Munsbach, Kulturzent  01105  01105                % 04868 RGTR--
+200701003 Munsbach, Minsber Ba  01106  01106                % 04868 RGTR--
+200701005 Munsbach, Parc d'Act  01107  01107                % 04868 RGTR--
+200504010 Niederanven, Jacques  01108  01108                % 04868 RGTR--
+200504003 Niederanven, Millen   01109  01109                % 04868 RGTR--
+200504004 Niederanven, Minsbec  01110  01110                % 04868 RGTR--
+200504006 Niederanven, Routsch  01110  01110                % 04868 RGTR--
+200507002 Senningen, Kierch     01111  01111                % 04868 RGTR--
+200507003 Senningen, Um Kiem    01112  01112                % 04868 RGTR--
+200508009 Senningerberg, Rue d  01112  01112                % 04868 RGTR--
+200508010 Senningerberg, Rue d  01113  01113                % 04868 RGTR--
+200508004 Senningerberg, Groms  01114  01114                % 04868 RGTR--
+200508006 Senningerberg, Kapel  01115  01115                % 04868 RGTR--
+200508011 Senningerberg, Rue d  01116  01116                % 04868 RGTR--
+200417050 Kirchberg, Gare rout  01124                       % 04868 RGTR--
+*Z 04869 RGTR--                                             % 04869 RGTR--
+*L 142      200203005 200417050  01257  01324               % 04869 RGTR--
+*A ag 200203005 200417050 000001  01257  01324              % 04869 RGTR--
+*A af 200203005 200417050 000001  01257  01324              % 04869 RGTR--
+*R 2 200417050 200203005 200417050  01257  01324            % 04869 RGTR--
+*G RGB 200203005 200417050  01257  01324                    % 04869 RGTR--
+*A VE 200203005 200417050 000001  01257  01324              % 04869 RGTR--
+*I FD 200203005 200417050        0002569  01257  01324      % 04869 RGTR--
+200203005 Moutfort, Syrbréck           01257                % 04869 RGTR--
+200204002 Oetrange, Kurzebierg  01258  01258                % 04869 RGTR--
+200204001 Oetrange, Gare        01300  01300                % 04869 RGTR--
+200704001 Schrassig, Bastenhaf  01302  01302                % 04869 RGTR--
+200704003 Schrassig, Schwaarz   01302  01302                % 04869 RGTR--
+200705007 Schuttrange, Um Grou  01303  01303                % 04869 RGTR--
+200705005 Schuttrange, Kreizun  01304  01304                % 04869 RGTR--
+200705004 Schuttrange, Kierche  01304  01304                % 04869 RGTR--
+200701002 Munsbach, Kulturzent  01305  01305                % 04869 RGTR--
+200701003 Munsbach, Minsber Ba  01306  01306                % 04869 RGTR--
+200701005 Munsbach, Parc d'Act  01307  01307                % 04869 RGTR--
+200504010 Niederanven, Jacques  01308  01308                % 04869 RGTR--
+200504003 Niederanven, Millen   01309  01309                % 04869 RGTR--
+200504004 Niederanven, Minsbec  01310  01310                % 04869 RGTR--
+200504006 Niederanven, Routsch  01310  01310                % 04869 RGTR--
+200507002 Senningen, Kierch     01311  01311                % 04869 RGTR--
+200507003 Senningen, Um Kiem    01312  01312                % 04869 RGTR--
+200508009 Senningerberg, Rue d  01312  01312                % 04869 RGTR--
+200508010 Senningerberg, Rue d  01313  01313                % 04869 RGTR--
+200508004 Senningerberg, Groms  01314  01314                % 04869 RGTR--
+200508006 Senningerberg, Kapel  01315  01315                % 04869 RGTR--
+200508011 Senningerberg, Rue d  01316  01316                % 04869 RGTR--
+200417050 Kirchberg, Gare rout  01324                       % 04869 RGTR--
+*Z 04870 RGTR--                                             % 04870 RGTR--
+*L 142      200203005 200417050  01457  01524               % 04870 RGTR--
+*A ag 200203005 200417050 000001  01457  01524              % 04870 RGTR--
+*A af 200203005 200417050 000001  01457  01524              % 04870 RGTR--
+*R 2 200417050 200203005 200417050  01457  01524            % 04870 RGTR--
+*G RGB 200203005 200417050  01457  01524                    % 04870 RGTR--
+*A VE 200203005 200417050 000001  01457  01524              % 04870 RGTR--
+*I FD 200203005 200417050        0002571  01457  01524      % 04870 RGTR--
+200203005 Moutfort, Syrbréck           01457                % 04870 RGTR--
+200204002 Oetrange, Kurzebierg  01458  01458                % 04870 RGTR--
+200204001 Oetrange, Gare        01500  01500                % 04870 RGTR--
+200704001 Schrassig, Bastenhaf  01502  01502                % 04870 RGTR--
+200704003 Schrassig, Schwaarz   01502  01502                % 04870 RGTR--
+200705007 Schuttrange, Um Grou  01503  01503                % 04870 RGTR--
+200705005 Schuttrange, Kreizun  01504  01504                % 04870 RGTR--
+200705004 Schuttrange, Kierche  01504  01504                % 04870 RGTR--
+200701002 Munsbach, Kulturzent  01505  01505                % 04870 RGTR--
+200701003 Munsbach, Minsber Ba  01506  01506                % 04870 RGTR--
+200701005 Munsbach, Parc d'Act  01507  01507                % 04870 RGTR--
+200504010 Niederanven, Jacques  01508  01508                % 04870 RGTR--
+200504003 Niederanven, Millen   01509  01509                % 04870 RGTR--
+200504004 Niederanven, Minsbec  01510  01510                % 04870 RGTR--
+200504006 Niederanven, Routsch  01510  01510                % 04870 RGTR--
+200507002 Senningen, Kierch     01511  01511                % 04870 RGTR--
+200507003 Senningen, Um Kiem    01512  01512                % 04870 RGTR--
+200508009 Senningerberg, Rue d  01512  01512                % 04870 RGTR--
+200508010 Senningerberg, Rue d  01513  01513                % 04870 RGTR--
+200508004 Senningerberg, Groms  01514  01514                % 04870 RGTR--
+200508006 Senningerberg, Kapel  01515  01515                % 04870 RGTR--
+200508011 Senningerberg, Rue d  01516  01516                % 04870 RGTR--
+200417050 Kirchberg, Gare rout  01524                       % 04870 RGTR--
+*Z 04871 RGTR--                                             % 04871 RGTR--
+*L 142      200203005 200417050  00557  00624               % 04871 RGTR--
+*A ag 200203005 200417050 000006  00557  00624              % 04871 RGTR--
+*A af 200203005 200417050 000006  00557  00624              % 04871 RGTR--
+*R 2 200417050 200203005 200417050  00557  00624            % 04871 RGTR--
+*G RGB 200203005 200417050  00557  00624                    % 04871 RGTR--
+*A VE 200203005 200417050 000006  00557  00624              % 04871 RGTR--
+*I FD 200203005 200417050        0002986  00557  00624      % 04871 RGTR--
+200203005 Moutfort, Syrbréck           00557                % 04871 RGTR--
+200204002 Oetrange, Kurzebierg  00558  00558                % 04871 RGTR--
+200204001 Oetrange, Gare        00600  00600                % 04871 RGTR--
+200704001 Schrassig, Bastenhaf  00602  00602                % 04871 RGTR--
+200704003 Schrassig, Schwaarz   00602  00602                % 04871 RGTR--
+200705007 Schuttrange, Um Grou  00603  00603                % 04871 RGTR--
+200705005 Schuttrange, Kreizun  00604  00604                % 04871 RGTR--
+200705004 Schuttrange, Kierche  00604  00604                % 04871 RGTR--
+200701002 Munsbach, Kulturzent  00605  00605                % 04871 RGTR--
+200701003 Munsbach, Minsber Ba  00606  00606                % 04871 RGTR--
+200701005 Munsbach, Parc d'Act  00607  00607                % 04871 RGTR--
+200504010 Niederanven, Jacques  00608  00608                % 04871 RGTR--
+200504003 Niederanven, Millen   00609  00609                % 04871 RGTR--
+200504004 Niederanven, Minsbec  00610  00610                % 04871 RGTR--
+200504006 Niederanven, Routsch  00610  00610                % 04871 RGTR--
+200507002 Senningen, Kierch     00611  00611                % 04871 RGTR--
+200507003 Senningen, Um Kiem    00612  00612                % 04871 RGTR--
+200508009 Senningerberg, Rue d  00612  00612                % 04871 RGTR--
+200508010 Senningerberg, Rue d  00613  00613                % 04871 RGTR--
+200508004 Senningerberg, Groms  00614  00614                % 04871 RGTR--
+200508006 Senningerberg, Kapel  00615  00615                % 04871 RGTR--
+200508011 Senningerberg, Rue d  00616  00616                % 04871 RGTR--
+200417050 Kirchberg, Gare rout  00624                       % 04871 RGTR--
+*Z 04872 RGTR--                                             % 04872 RGTR--
+*L 142      200203005 200417050  00857  00924               % 04872 RGTR--
+*A ag 200203005 200417050 000156  00857  00924              % 04872 RGTR--
+*A af 200203005 200417050 000156  00857  00924              % 04872 RGTR--
+*R 2 200417050 200203005 200417050  00857  00924            % 04872 RGTR--
+*G RGB 200203005 200417050  00857  00924                    % 04872 RGTR--
+*A VE 200203005 200417050 000156  00857  00924              % 04872 RGTR--
+*I FD 200203005 200417050        0003270  00857  00924      % 04872 RGTR--
+200203005 Moutfort, Syrbréck           00857                % 04872 RGTR--
+200204002 Oetrange, Kurzebierg  00858  00858                % 04872 RGTR--
+200204001 Oetrange, Gare        00900  00900                % 04872 RGTR--
+200704001 Schrassig, Bastenhaf  00902  00902                % 04872 RGTR--
+200704003 Schrassig, Schwaarz   00902  00902                % 04872 RGTR--
+200705007 Schuttrange, Um Grou  00903  00903                % 04872 RGTR--
+200705005 Schuttrange, Kreizun  00904  00904                % 04872 RGTR--
+200705004 Schuttrange, Kierche  00904  00904                % 04872 RGTR--
+200701002 Munsbach, Kulturzent  00905  00905                % 04872 RGTR--
+200701003 Munsbach, Minsber Ba  00906  00906                % 04872 RGTR--
+200701005 Munsbach, Parc d'Act  00907  00907                % 04872 RGTR--
+200504010 Niederanven, Jacques  00908  00908                % 04872 RGTR--
+200504003 Niederanven, Millen   00909  00909                % 04872 RGTR--
+200504004 Niederanven, Minsbec  00910  00910                % 04872 RGTR--
+200504006 Niederanven, Routsch  00910  00910                % 04872 RGTR--
+200507002 Senningen, Kierch     00911  00911                % 04872 RGTR--
+200507003 Senningen, Um Kiem    00912  00912                % 04872 RGTR--
+200508009 Senningerberg, Rue d  00912  00912                % 04872 RGTR--
+200508010 Senningerberg, Rue d  00913  00913                % 04872 RGTR--
+200508004 Senningerberg, Groms  00914  00914                % 04872 RGTR--
+200508006 Senningerberg, Kapel  00915  00915                % 04872 RGTR--
+200508011 Senningerberg, Rue d  00916  00916                % 04872 RGTR--
+200417050 Kirchberg, Gare rout  00924                       % 04872 RGTR--
+*Z 04873 RGTR--                                             % 04873 RGTR--
+*L 142      200203005 200417050  01657  01724               % 04873 RGTR--
+*A ag 200203005 200417050 000156  01657  01724              % 04873 RGTR--
+*A af 200203005 200417050 000156  01657  01724              % 04873 RGTR--
+*R 2 200417050 200203005 200417050  01657  01724            % 04873 RGTR--
+*G RGB 200203005 200417050  01657  01724                    % 04873 RGTR--
+*A VE 200203005 200417050 000156  01657  01724              % 04873 RGTR--
+*I FD 200203005 200417050        0002541  01657  01724      % 04873 RGTR--
+200203005 Moutfort, Syrbréck           01657                % 04873 RGTR--
+200204002 Oetrange, Kurzebierg  01658  01658                % 04873 RGTR--
+200204001 Oetrange, Gare        01700  01700                % 04873 RGTR--
+200704001 Schrassig, Bastenhaf  01702  01702                % 04873 RGTR--
+200704003 Schrassig, Schwaarz   01702  01702                % 04873 RGTR--
+200705007 Schuttrange, Um Grou  01703  01703                % 04873 RGTR--
+200705005 Schuttrange, Kreizun  01704  01704                % 04873 RGTR--
+200705004 Schuttrange, Kierche  01704  01704                % 04873 RGTR--
+200701002 Munsbach, Kulturzent  01705  01705                % 04873 RGTR--
+200701003 Munsbach, Minsber Ba  01706  01706                % 04873 RGTR--
+200701005 Munsbach, Parc d'Act  01707  01707                % 04873 RGTR--
+200504010 Niederanven, Jacques  01708  01708                % 04873 RGTR--
+200504003 Niederanven, Millen   01709  01709                % 04873 RGTR--
+200504004 Niederanven, Minsbec  01710  01710                % 04873 RGTR--
+200504006 Niederanven, Routsch  01710  01710                % 04873 RGTR--
+200507002 Senningen, Kierch     01711  01711                % 04873 RGTR--
+200507003 Senningen, Um Kiem    01712  01712                % 04873 RGTR--
+200508009 Senningerberg, Rue d  01712  01712                % 04873 RGTR--
+200508010 Senningerberg, Rue d  01713  01713                % 04873 RGTR--
+200508004 Senningerberg, Groms  01714  01714                % 04873 RGTR--
+200508006 Senningerberg, Kapel  01715  01715                % 04873 RGTR--
+200508011 Senningerberg, Rue d  01716  01716                % 04873 RGTR--
+200417050 Kirchberg, Gare rout  01724                       % 04873 RGTR--
+*Z 04874 RGTR--                                             % 04874 RGTR--
+*L 142      200203005 200417050  00657  00726               % 04874 RGTR--
+*A ag 200203005 200417050 000006  00657  00726              % 04874 RGTR--
+*A af 200203005 200417050 000006  00657  00726              % 04874 RGTR--
+*R 2 200417050 200203005 200417050  00657  00726            % 04874 RGTR--
+*G RGB 200203005 200417050  00657  00726                    % 04874 RGTR--
+*A VE 200203005 200417050 000006  00657  00726              % 04874 RGTR--
+*I FD 200203005 200417050        0002501  00657  00726      % 04874 RGTR--
+200203005 Moutfort, Syrbréck           00657                % 04874 RGTR--
+200204002 Oetrange, Kurzebierg  00658  00658                % 04874 RGTR--
+200204001 Oetrange, Gare        00700  00700                % 04874 RGTR--
+200704001 Schrassig, Bastenhaf  00702  00702                % 04874 RGTR--
+200704003 Schrassig, Schwaarz   00702  00702                % 04874 RGTR--
+200705007 Schuttrange, Um Grou  00703  00703                % 04874 RGTR--
+200705005 Schuttrange, Kreizun  00704  00704                % 04874 RGTR--
+200705004 Schuttrange, Kierche  00705  00705                % 04874 RGTR--
+200701002 Munsbach, Kulturzent  00706  00706                % 04874 RGTR--
+200701003 Munsbach, Minsber Ba  00707  00707                % 04874 RGTR--
+200701005 Munsbach, Parc d'Act  00708  00708                % 04874 RGTR--
+200504010 Niederanven, Jacques  00709  00709                % 04874 RGTR--
+200504003 Niederanven, Millen   00710  00710                % 04874 RGTR--
+200504004 Niederanven, Minsbec  00711  00711                % 04874 RGTR--
+200504006 Niederanven, Routsch  00712  00712                % 04874 RGTR--
+200507002 Senningen, Kierch     00712  00712                % 04874 RGTR--
+200507003 Senningen, Um Kiem    00713  00713                % 04874 RGTR--
+200508009 Senningerberg, Rue d  00714  00714                % 04874 RGTR--
+200508010 Senningerberg, Rue d  00714  00714                % 04874 RGTR--
+200508004 Senningerberg, Groms  00715  00715                % 04874 RGTR--
+200508006 Senningerberg, Kapel  00716  00716                % 04874 RGTR--
+200508011 Senningerberg, Rue d  00718  00718                % 04874 RGTR--
+200417050 Kirchberg, Gare rout  00726                       % 04874 RGTR--
+*Z 04875 RGTR--                                             % 04875 RGTR--
+*L 142      200203005 200417050  00757  00826               % 04875 RGTR--
+*A ag 200203005 200417050 000006  00757  00826              % 04875 RGTR--
+*A af 200203005 200417050 000006  00757  00826              % 04875 RGTR--
+*R 2 200417050 200203005 200417050  00757  00826            % 04875 RGTR--
+*G RGB 200203005 200417050  00757  00826                    % 04875 RGTR--
+*A VE 200203005 200417050 000006  00757  00826              % 04875 RGTR--
+*I FD 200203005 200417050        0003269  00757  00826      % 04875 RGTR--
+200203005 Moutfort, Syrbréck           00757                % 04875 RGTR--
+200204002 Oetrange, Kurzebierg  00758  00758                % 04875 RGTR--
+200204001 Oetrange, Gare        00800  00800                % 04875 RGTR--
+200704001 Schrassig, Bastenhaf  00802  00802                % 04875 RGTR--
+200704003 Schrassig, Schwaarz   00802  00802                % 04875 RGTR--
+200705007 Schuttrange, Um Grou  00803  00803                % 04875 RGTR--
+200705005 Schuttrange, Kreizun  00804  00804                % 04875 RGTR--
+200705004 Schuttrange, Kierche  00805  00805                % 04875 RGTR--
+200701002 Munsbach, Kulturzent  00806  00806                % 04875 RGTR--
+200701003 Munsbach, Minsber Ba  00807  00807                % 04875 RGTR--
+200701005 Munsbach, Parc d'Act  00808  00808                % 04875 RGTR--
+200504010 Niederanven, Jacques  00809  00809                % 04875 RGTR--
+200504003 Niederanven, Millen   00810  00810                % 04875 RGTR--
+200504004 Niederanven, Minsbec  00811  00811                % 04875 RGTR--
+200504006 Niederanven, Routsch  00812  00812                % 04875 RGTR--
+200507002 Senningen, Kierch     00812  00812                % 04875 RGTR--
+200507003 Senningen, Um Kiem    00813  00813                % 04875 RGTR--
+200508009 Senningerberg, Rue d  00814  00814                % 04875 RGTR--
+200508010 Senningerberg, Rue d  00814  00814                % 04875 RGTR--
+200508004 Senningerberg, Groms  00815  00815                % 04875 RGTR--
+200508006 Senningerberg, Kapel  00816  00816                % 04875 RGTR--
+200508011 Senningerberg, Rue d  00818  00818                % 04875 RGTR--
+200417050 Kirchberg, Gare rout  00826                       % 04875 RGTR--
+*Z 04876 RGTR--                                             % 04876 RGTR--
+*L 142      200203005 200417050  00857  00926               % 04876 RGTR--
+*A ag 200203005 200417050 000006  00857  00926              % 04876 RGTR--
+*A af 200203005 200417050 000006  00857  00926              % 04876 RGTR--
+*R 2 200417050 200203005 200417050  00857  00926            % 04876 RGTR--
+*G RGB 200203005 200417050  00857  00926                    % 04876 RGTR--
+*A VE 200203005 200417050 000006  00857  00926              % 04876 RGTR--
+*I FD 200203005 200417050        0003270  00857  00926      % 04876 RGTR--
+200203005 Moutfort, Syrbréck           00857                % 04876 RGTR--
+200204002 Oetrange, Kurzebierg  00858  00858                % 04876 RGTR--
+200204001 Oetrange, Gare        00900  00900                % 04876 RGTR--
+200704001 Schrassig, Bastenhaf  00902  00902                % 04876 RGTR--
+200704003 Schrassig, Schwaarz   00902  00902                % 04876 RGTR--
+200705007 Schuttrange, Um Grou  00903  00903                % 04876 RGTR--
+200705005 Schuttrange, Kreizun  00904  00904                % 04876 RGTR--
+200705004 Schuttrange, Kierche  00905  00905                % 04876 RGTR--
+200701002 Munsbach, Kulturzent  00906  00906                % 04876 RGTR--
+200701003 Munsbach, Minsber Ba  00907  00907                % 04876 RGTR--
+200701005 Munsbach, Parc d'Act  00908  00908                % 04876 RGTR--
+200504010 Niederanven, Jacques  00909  00909                % 04876 RGTR--
+200504003 Niederanven, Millen   00910  00910                % 04876 RGTR--
+200504004 Niederanven, Minsbec  00911  00911                % 04876 RGTR--
+200504006 Niederanven, Routsch  00912  00912                % 04876 RGTR--
+200507002 Senningen, Kierch     00912  00912                % 04876 RGTR--
+200507003 Senningen, Um Kiem    00913  00913                % 04876 RGTR--
+200508009 Senningerberg, Rue d  00914  00914                % 04876 RGTR--
+200508010 Senningerberg, Rue d  00914  00914                % 04876 RGTR--
+200508004 Senningerberg, Groms  00915  00915                % 04876 RGTR--
+200508006 Senningerberg, Kapel  00916  00916                % 04876 RGTR--
+200508011 Senningerberg, Rue d  00918  00918                % 04876 RGTR--
+200417050 Kirchberg, Gare rout  00926                       % 04876 RGTR--
+*Z 04877 RGTR--                                             % 04877 RGTR--
+*L 142      200203005 200417050  01657  01726               % 04877 RGTR--
+*A ag 200203005 200417050 000006  01657  01726              % 04877 RGTR--
+*A af 200203005 200417050 000006  01657  01726              % 04877 RGTR--
+*R 2 200417050 200203005 200417050  01657  01726            % 04877 RGTR--
+*G RGB 200203005 200417050  01657  01726                    % 04877 RGTR--
+*A VE 200203005 200417050 000006  01657  01726              % 04877 RGTR--
+*I FD 200203005 200417050        0002541  01657  01726      % 04877 RGTR--
+200203005 Moutfort, Syrbréck           01657                % 04877 RGTR--
+200204002 Oetrange, Kurzebierg  01658  01658                % 04877 RGTR--
+200204001 Oetrange, Gare        01700  01700                % 04877 RGTR--
+200704001 Schrassig, Bastenhaf  01702  01702                % 04877 RGTR--
+200704003 Schrassig, Schwaarz   01702  01702                % 04877 RGTR--
+200705007 Schuttrange, Um Grou  01703  01703                % 04877 RGTR--
+200705005 Schuttrange, Kreizun  01704  01704                % 04877 RGTR--
+200705004 Schuttrange, Kierche  01705  01705                % 04877 RGTR--
+200701002 Munsbach, Kulturzent  01706  01706                % 04877 RGTR--
+200701003 Munsbach, Minsber Ba  01707  01707                % 04877 RGTR--
+200701005 Munsbach, Parc d'Act  01708  01708                % 04877 RGTR--
+200504010 Niederanven, Jacques  01709  01709                % 04877 RGTR--
+200504003 Niederanven, Millen   01710  01710                % 04877 RGTR--
+200504004 Niederanven, Minsbec  01711  01711                % 04877 RGTR--
+200504006 Niederanven, Routsch  01712  01712                % 04877 RGTR--
+200507002 Senningen, Kierch     01712  01712                % 04877 RGTR--
+200507003 Senningen, Um Kiem    01713  01713                % 04877 RGTR--
+200508009 Senningerberg, Rue d  01714  01714                % 04877 RGTR--
+200508010 Senningerberg, Rue d  01714  01714                % 04877 RGTR--
+200508004 Senningerberg, Groms  01715  01715                % 04877 RGTR--
+200508006 Senningerberg, Kapel  01716  01716                % 04877 RGTR--
+200508011 Senningerberg, Rue d  01718  01718                % 04877 RGTR--
+200417050 Kirchberg, Gare rout  01726                       % 04877 RGTR--

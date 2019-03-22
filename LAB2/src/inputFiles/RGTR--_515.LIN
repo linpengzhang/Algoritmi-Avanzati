@@ -1,0 +1,569 @@
+*F 03 2
+*Z 08494 RGTR--                                             % 08494 RGTR--
+*L 515      140401009 150504001  01158  01255               % 08494 RGTR--
+*A lc 140401009 150504001 000006  01158  01255              % 08494 RGTR--
+*A JE 140401009 150504001 000006  01158  01255              % 08494 RGTR--
+*A qv 140401009 150504001 000006  01158  01255              % 08494 RGTR--
+*R 1 150504001 140401009 150504001  01158  01255            % 08494 RGTR--
+*G RGB 140401009 150504001  01158  01255                    % 08494 RGTR--
+*A VE 140401009 150504001 000006  01158  01255              % 08494 RGTR--
+*I FD 140401009 150504001        0002007  01158  01255      % 08494 RGTR--
+140401009 Diekirch, Neie Kolle         01158                % 08494 RGTR--
+140401011 Diekirch, Alexis Hec  01201  01201                % 08494 RGTR--
+140401006 Diekirch, Kluuster    01202  01202                % 08494 RGTR--
+140401004 Diekirch, Gare        01204  01204                % 08494 RGTR--
+140401008 Diekirch, Lorentzwue  01206  01206                % 08494 RGTR--
+140603003 Ingeldorf, Cité Long  01207  01207                % 08494 RGTR--
+140603001 Ingeldorf, Bei der B  01208  01208                % 08494 RGTR--
+140603004 Ingeldorf, Kiirchpla  01209  01209                % 08494 RGTR--
+140602008 Erpeldange/Sûre, Um   01211  01211                % 08494 RGTR--
+140701016 Ettelbruck, Gare      01213  01214                % 08494 RGTR--
+140701024 Ettelbruck, Pensionn  01215  01215                % 08494 RGTR--
+140701026 Ettelbruck, Rond Poi  01217  01217                % 08494 RGTR--
+140701018 Ettelbruck, H.v.Land  01218  01218                % 08494 RGTR--
+160301002 Colmar, Centre        01222  01222                % 08494 RGTR--
+160301007 Colmar, Usines        01224  01224                % 08494 RGTR--
+160101005 Bissen, Op der Mille  01226  01226                % 08494 RGTR--
+160101003 Bissen, Geiwels       01227  01227                % 08494 RGTR--
+160101002 Bissen, Kräizung      01228  01228                % 08494 RGTR--
+160201002 Boevange/Attert, Mil  01233  01233                % 08494 RGTR--
+160201003 Boevange, Gare        01233  01233                % 08494 RGTR--
+150804002 Useldange, Raiffeise  01237  01237                % 08494 RGTR--
+150804003 Useldange, Spuerkees  01237  01237                % 08494 RGTR--
+150801001 Everlange, Beim Enge  01240  01240                % 08494 RGTR--
+150805002 Everlange, Everlénge  01241  01241                % 08494 RGTR--
+150205001 Platen, Roudbach      01242  01242                % 08494 RGTR--
+150607001 Reichlange, Hostelle  01243  01243                % 08494 RGTR--
+150605001 Ospern, Kiirch        01245  01245                % 08494 RGTR--
+150605002 Ospern, Wäschbur      01246  01246                % 08494 RGTR--
+150508002 Hostert, Wäschbur     01250  01250                % 08494 RGTR--
+150508001 Hostert, Folschterwe  01250  01250                % 08494 RGTR--
+150506004 Folschette, Op der P  01252  01252                % 08494 RGTR--
+150506001 Folschette, An der G  01252  01252                % 08494 RGTR--
+150504001 Eschette, Duerf       01255                       % 08494 RGTR--
+*Z 08495 RGTR--                                             % 08495 RGTR--
+*L 515      140401009 150504001  01458  01555               % 08495 RGTR--
+*A lc 140401009 150504001 000030  01458  01555              % 08495 RGTR--
+*A qv 140401009 150504001 000030  01458  01555              % 08495 RGTR--
+*R 1 150504001 140401009 150504001  01458  01555            % 08495 RGTR--
+*G RGB 140401009 150504001  01458  01555                    % 08495 RGTR--
+*A VE 140401009 150504001 000030  01458  01555              % 08495 RGTR--
+*I FD 140401009 150504001        0002010  01458  01555      % 08495 RGTR--
+140401009 Diekirch, Neie Kolle         01458                % 08495 RGTR--
+140401011 Diekirch, Alexis Hec  01501  01501                % 08495 RGTR--
+140401006 Diekirch, Kluuster    01502  01502                % 08495 RGTR--
+140401004 Diekirch, Gare        01504  01504                % 08495 RGTR--
+140401008 Diekirch, Lorentzwue  01506  01506                % 08495 RGTR--
+140603003 Ingeldorf, Cité Long  01507  01507                % 08495 RGTR--
+140603001 Ingeldorf, Bei der B  01508  01508                % 08495 RGTR--
+140603004 Ingeldorf, Kiirchpla  01509  01509                % 08495 RGTR--
+140602008 Erpeldange/Sûre, Um   01511  01511                % 08495 RGTR--
+140701016 Ettelbruck, Gare      01513  01514                % 08495 RGTR--
+140701024 Ettelbruck, Pensionn  01515  01515                % 08495 RGTR--
+140701026 Ettelbruck, Rond Poi  01517  01517                % 08495 RGTR--
+140701018 Ettelbruck, H.v.Land  01518  01518                % 08495 RGTR--
+160301002 Colmar, Centre        01522  01522                % 08495 RGTR--
+160301007 Colmar, Usines        01524  01524                % 08495 RGTR--
+160101005 Bissen, Op der Mille  01526  01526                % 08495 RGTR--
+160101003 Bissen, Geiwels       01527  01527                % 08495 RGTR--
+160101002 Bissen, Kräizung      01528  01528                % 08495 RGTR--
+160201002 Boevange/Attert, Mil  01533  01533                % 08495 RGTR--
+160201003 Boevange, Gare        01533  01533                % 08495 RGTR--
+150804002 Useldange, Raiffeise  01537  01537                % 08495 RGTR--
+150804003 Useldange, Spuerkees  01537  01537                % 08495 RGTR--
+150801001 Everlange, Beim Enge  01540  01540                % 08495 RGTR--
+150805002 Everlange, Everlénge  01541  01541                % 08495 RGTR--
+150205001 Platen, Roudbach      01542  01542                % 08495 RGTR--
+150607001 Reichlange, Hostelle  01543  01543                % 08495 RGTR--
+150605001 Ospern, Kiirch        01545  01545                % 08495 RGTR--
+150605002 Ospern, Wäschbur      01546  01546                % 08495 RGTR--
+150508002 Hostert, Wäschbur     01550  01550                % 08495 RGTR--
+150508001 Hostert, Folschterwe  01550  01550                % 08495 RGTR--
+150506004 Folschette, Op der P  01552  01552                % 08495 RGTR--
+150506001 Folschette, An der G  01552  01552                % 08495 RGTR--
+150504001 Eschette, Duerf       01555                       % 08495 RGTR--
+*Z 08496 RGTR--                                             % 08496 RGTR--
+*L 515      140401009 150504001  01556  01657               % 08496 RGTR--
+*A lc 140401009 150504001 000006  01556  01657              % 08496 RGTR--
+*A JE 140401009 150504001 000006  01556  01657              % 08496 RGTR--
+*A qv 140401009 150504001 000006  01556  01657              % 08496 RGTR--
+*R 1 150504001 140401009 150504001  01556  01657            % 08496 RGTR--
+*G RGB 140401009 150504001  01556  01657                    % 08496 RGTR--
+*A VE 140401009 150504001 000006  01556  01657              % 08496 RGTR--
+*I FD 140401009 150504001        0002914  01556  01657      % 08496 RGTR--
+140401009 Diekirch, Neie Kolle         01556                % 08496 RGTR--
+140401011 Diekirch, Alexis Hec  01600  01600                % 08496 RGTR--
+140401006 Diekirch, Kluuster    01601  01601                % 08496 RGTR--
+140401004 Diekirch, Gare        01604  01604                % 08496 RGTR--
+140401008 Diekirch, Lorentzwue  01605  01605                % 08496 RGTR--
+140603003 Ingeldorf, Cité Long  01607  01607                % 08496 RGTR--
+140603001 Ingeldorf, Bei der B  01608  01608                % 08496 RGTR--
+140603004 Ingeldorf, Kiirchpla  01609  01609                % 08496 RGTR--
+140602008 Erpeldange/Sûre, Um   01611  01611                % 08496 RGTR--
+140701016 Ettelbruck, Gare      01613  01614                % 08496 RGTR--
+140701024 Ettelbruck, Pensionn  01615  01615                % 08496 RGTR--
+140701026 Ettelbruck, Rond Poi  01618  01618                % 08496 RGTR--
+140701018 Ettelbruck, H.v.Land  01619  01619                % 08496 RGTR--
+160301002 Colmar, Centre        01623  01623                % 08496 RGTR--
+160301007 Colmar, Usines        01625  01625                % 08496 RGTR--
+160101005 Bissen, Op der Mille  01627  01627                % 08496 RGTR--
+160101003 Bissen, Geiwels       01628  01628                % 08496 RGTR--
+160101002 Bissen, Kräizung      01629  01629                % 08496 RGTR--
+160201002 Boevange/Attert, Mil  01634  01634                % 08496 RGTR--
+160201003 Boevange, Gare        01635  01635                % 08496 RGTR--
+150804002 Useldange, Raiffeise  01638  01638                % 08496 RGTR--
+150804003 Useldange, Spuerkees  01638  01638                % 08496 RGTR--
+150801001 Everlange, Beim Enge  01641  01641                % 08496 RGTR--
+150805002 Everlange, Everlénge  01642  01642                % 08496 RGTR--
+150205001 Platen, Roudbach      01643  01643                % 08496 RGTR--
+150607001 Reichlange, Hostelle  01644  01644                % 08496 RGTR--
+150605001 Ospern, Kiirch        01646  01646                % 08496 RGTR--
+150605002 Ospern, Wäschbur      01647  01647                % 08496 RGTR--
+150508002 Hostert, Wäschbur     01651  01651                % 08496 RGTR--
+150508001 Hostert, Folschterwe  01652  01652                % 08496 RGTR--
+150506004 Folschette, Op der P  01653  01653                % 08496 RGTR--
+150506001 Folschette, An der G  01654  01654                % 08496 RGTR--
+150504001 Eschette, Duerf       01657                       % 08496 RGTR--
+*Z 08497 RGTR--                                             % 08497 RGTR--
+*L 515      140701016 150205001  01039  01107               % 08497 RGTR--
+*A lc 140701016 150205001 000006  01039  01107              % 08497 RGTR--
+*A qw 140701016 150205001 000006  01039  01107              % 08497 RGTR--
+*R 1 150205001 140701016 150205001  01039  01107            % 08497 RGTR--
+*G RGB 140701016 150205001  01039  01107                    % 08497 RGTR--
+*A VE 140701016 150205001 000006  01039  01107              % 08497 RGTR--
+*I FD 140701016 150205001        0003137  01039  01107      % 08497 RGTR--
+140701016 Ettelbruck, Gare             01039                % 08497 RGTR--
+140701024 Ettelbruck, Pensionn  01040  01040                % 08497 RGTR--
+140701026 Ettelbruck, Rond Poi  01042  01042                % 08497 RGTR--
+140701018 Ettelbruck, H.v.Land  01043  01043                % 08497 RGTR--
+160301002 Colmar, Centre        01047  01047                % 08497 RGTR--
+160301007 Colmar, Usines        01049  01049                % 08497 RGTR--
+160101005 Bissen, Op der Mille  01051  01051                % 08497 RGTR--
+160101003 Bissen, Geiwels       01052  01052                % 08497 RGTR--
+160101002 Bissen, Kräizung      01053  01053                % 08497 RGTR--
+160201002 Boevange/Attert, Mil  01058  01058                % 08497 RGTR--
+160201003 Boevange, Gare        01058  01058                % 08497 RGTR--
+150804002 Useldange, Raiffeise  01102  01102                % 08497 RGTR--
+150804003 Useldange, Spuerkees  01102  01102                % 08497 RGTR--
+150801001 Everlange, Beim Enge  01105  01105                % 08497 RGTR--
+150805002 Everlange, Everlénge  01106  01106                % 08497 RGTR--
+150205001 Platen, Roudbach      01107                       % 08497 RGTR--
+*Z 08498 RGTR--                                             % 08498 RGTR--
+*L 515      140401009 150205001  00800  00847               % 08498 RGTR--
+*A lc 140401009 150205001 000006  00800  00847              % 08498 RGTR--
+*A qw 140401009 150205001 000006  00800  00847              % 08498 RGTR--
+*R 1 150205001 140401009 150205001  00800  00847            % 08498 RGTR--
+*G RGB 140401009 150205001  00800  00847                    % 08498 RGTR--
+*A VE 140401009 150205001 000006  00800  00847              % 08498 RGTR--
+*I FD 140401009 150205001        0002014  00800  00847      % 08498 RGTR--
+140401009 Diekirch, Neie Kolle         00800                % 08498 RGTR--
+140401011 Diekirch, Alexis Hec  00804  00804                % 08498 RGTR--
+140401006 Diekirch, Kluuster    00805  00805                % 08498 RGTR--
+140401004 Diekirch, Gare        00807  00807                % 08498 RGTR--
+140401008 Diekirch, Lorentzwue  00809  00809                % 08498 RGTR--
+140603003 Ingeldorf, Cité Long  00810  00810                % 08498 RGTR--
+140603001 Ingeldorf, Bei der B  00811  00811                % 08498 RGTR--
+140603004 Ingeldorf, Kiirchpla  00812  00812                % 08498 RGTR--
+140602008 Erpeldange/Sûre, Um   00814  00814                % 08498 RGTR--
+140701016 Ettelbruck, Gare      00816  00818                % 08498 RGTR--
+140701024 Ettelbruck, Pensionn  00819  00819                % 08498 RGTR--
+140701026 Ettelbruck, Rond Poi  00822  00822                % 08498 RGTR--
+140701018 Ettelbruck, H.v.Land  00823  00823                % 08498 RGTR--
+160301002 Colmar, Centre        00827  00827                % 08498 RGTR--
+160301007 Colmar, Usines        00829  00829                % 08498 RGTR--
+160101005 Bissen, Op der Mille  00831  00831                % 08498 RGTR--
+160101003 Bissen, Geiwels       00832  00832                % 08498 RGTR--
+160101002 Bissen, Kräizung      00833  00833                % 08498 RGTR--
+160201002 Boevange/Attert, Mil  00838  00838                % 08498 RGTR--
+160201003 Boevange, Gare        00839  00839                % 08498 RGTR--
+150804002 Useldange, Raiffeise  00842  00842                % 08498 RGTR--
+150804003 Useldange, Spuerkees  00842  00842                % 08498 RGTR--
+150801001 Everlange, Beim Enge  00845  00845                % 08498 RGTR--
+150805002 Everlange, Everlénge  00846  00846                % 08498 RGTR--
+150205001 Platen, Roudbach      00847                       % 08498 RGTR--
+*Z 08499 RGTR--                                             % 08499 RGTR--
+*L 515      140401009 150504001  01423  01526               % 08499 RGTR--
+*A lc 140401009 150504001 000006  01423  01526              % 08499 RGTR--
+*A qv 140401009 150504001 000006  01423  01526              % 08499 RGTR--
+*R 1 150504001 140401009 150504001  01423  01526            % 08499 RGTR--
+*G RGB 140401009 150504001  01423  01526                    % 08499 RGTR--
+*A VE 140401009 150504001 000006  01423  01526              % 08499 RGTR--
+*I FD 140401009 150504001        0002242  01423  01526      % 08499 RGTR--
+140401009 Diekirch, Neie Kolle         01423                % 08499 RGTR--
+140401011 Diekirch, Alexis Hec  01426  01426                % 08499 RGTR--
+140401006 Diekirch, Kluuster    01427  01427                % 08499 RGTR--
+140401004 Diekirch, Gare        01429  01429                % 08499 RGTR--
+140401008 Diekirch, Lorentzwue  01431  01431                % 08499 RGTR--
+140603003 Ingeldorf, Cité Long  01432  01432                % 08499 RGTR--
+140603001 Ingeldorf, Bei der B  01433  01433                % 08499 RGTR--
+140603004 Ingeldorf, Kiirchpla  01434  01434                % 08499 RGTR--
+140602008 Erpeldange/Sûre, Um   01436  01436                % 08499 RGTR--
+140701016 Ettelbruck, Gare      01438  01438                % 08499 RGTR--
+140701024 Ettelbruck, Pensionn  01439  01439                % 08499 RGTR--
+140701026 Ettelbruck, Rond Poi  01441  01441                % 08499 RGTR--
+140701018 Ettelbruck, H.v.Land  01442  01442                % 08499 RGTR--
+160301002 Colmar, Centre        01446  01446                % 08499 RGTR--
+160301007 Colmar, Usines        01448  01448                % 08499 RGTR--
+160101005 Bissen, Op der Mille  01450  01450                % 08499 RGTR--
+160101003 Bissen, Geiwels       01451  01451                % 08499 RGTR--
+160101002 Bissen, Kräizung      01452  01452                % 08499 RGTR--
+160201002 Boevange/Attert, Mil  01457  01457                % 08499 RGTR--
+160201003 Boevange, Gare        01457  01457                % 08499 RGTR--
+150804002 Useldange, Raiffeise  01501  01501                % 08499 RGTR--
+150804003 Useldange, Spuerkees  01501  01501                % 08499 RGTR--
+150801001 Everlange, Beim Enge  01504  01504                % 08499 RGTR--
+150805002 Everlange, Everlénge  01505  01505                % 08499 RGTR--
+150205001 Platen, Roudbach      01506  01506                % 08499 RGTR--
+150607001 Reichlange, Hostelle  01507  01507                % 08499 RGTR--
+150606005 Redange, Lycée Atert  01511  01511                % 08499 RGTR--
+150606009 Redange, Schock       01512  01512                % 08499 RGTR--
+150606007 Redange, Osperstroos  01513  01513                % 08499 RGTR--
+150601001 Eltz                  01515  01515                % 08499 RGTR--
+150605002 Ospern, Wäschbur      01517  01517                % 08499 RGTR--
+150508002 Hostert, Wäschbur     01521  01521                % 08499 RGTR--
+150508001 Hostert, Folschterwe  01521  01521                % 08499 RGTR--
+150506004 Folschette, Op der P  01522  01522                % 08499 RGTR--
+150506001 Folschette, An der G  01523  01523                % 08499 RGTR--
+150504001 Eschette, Duerf       01526                       % 08499 RGTR--
+*Z 08500 RGTR--                                             % 08500 RGTR--
+*L 515      140701016 150504001  01918  02006               % 08500 RGTR--
+*A lc 140701016 150504001 000006  01918  02006              % 08500 RGTR--
+*A qv 140701016 150504001 000006  01918  02006              % 08500 RGTR--
+*R 1 150504001 140701016 150504001  01918  02006            % 08500 RGTR--
+*G RGB 140701016 150504001  01918  02006                    % 08500 RGTR--
+*A VE 140701016 150504001 000006  01918  02006              % 08500 RGTR--
+*I FD 140701016 150504001        0002711  01918  02006      % 08500 RGTR--
+140701016 Ettelbruck, Gare             01918                % 08500 RGTR--
+140701024 Ettelbruck, Pensionn  01919  01919                % 08500 RGTR--
+140701026 Ettelbruck, Rond Poi  01921  01921                % 08500 RGTR--
+140701018 Ettelbruck, H.v.Land  01922  01922                % 08500 RGTR--
+160301002 Colmar, Centre        01926  01926                % 08500 RGTR--
+160301007 Colmar, Usines        01928  01928                % 08500 RGTR--
+160101005 Bissen, Op der Mille  01930  01930                % 08500 RGTR--
+160101003 Bissen, Geiwels       01931  01931                % 08500 RGTR--
+160101002 Bissen, Kräizung      01932  01932                % 08500 RGTR--
+160201002 Boevange/Attert, Mil  01937  01937                % 08500 RGTR--
+160201003 Boevange, Gare        01937  01937                % 08500 RGTR--
+150804002 Useldange, Raiffeise  01941  01941                % 08500 RGTR--
+150804003 Useldange, Spuerkees  01941  01941                % 08500 RGTR--
+150801001 Everlange, Beim Enge  01944  01944                % 08500 RGTR--
+150805002 Everlange, Everlénge  01945  01945                % 08500 RGTR--
+150205001 Platen, Roudbach      01946  01946                % 08500 RGTR--
+150607001 Reichlange, Hostelle  01947  01947                % 08500 RGTR--
+150606005 Redange, Lycée Atert  01951  01951                % 08500 RGTR--
+150606009 Redange, Schock       01952  01952                % 08500 RGTR--
+150606007 Redange, Osperstroos  01953  01953                % 08500 RGTR--
+150601001 Eltz                  01955  01955                % 08500 RGTR--
+150605002 Ospern, Wäschbur      01957  01957                % 08500 RGTR--
+150508002 Hostert, Wäschbur     02001  02001                % 08500 RGTR--
+150508001 Hostert, Folschterwe  02001  02001                % 08500 RGTR--
+150506004 Folschette, Op der P  02002  02002                % 08500 RGTR--
+150506001 Folschette, An der G  02003  02003                % 08500 RGTR--
+150504001 Eschette, Duerf       02006                       % 08500 RGTR--
+*Z 08501 RGTR--                                             % 08501 RGTR--
+*L 515      140701016 150504001  01818  01908               % 08501 RGTR--
+*A lc 140701016 150504001 000006  01818  01908              % 08501 RGTR--
+*A qv 140701016 150504001 000006  01818  01908              % 08501 RGTR--
+*R 1 150504001 140701016 150504001  01818  01908            % 08501 RGTR--
+*G RGB 140701016 150504001  01818  01908                    % 08501 RGTR--
+*A VE 140701016 150504001 000006  01818  01908              % 08501 RGTR--
+*I FD 140701016 150504001        0002480  01818  01908      % 08501 RGTR--
+140701016 Ettelbruck, Gare             01818                % 08501 RGTR--
+140701024 Ettelbruck, Pensionn  01819  01819                % 08501 RGTR--
+140701026 Ettelbruck, Rond Poi  01822  01822                % 08501 RGTR--
+140701018 Ettelbruck, H.v.Land  01823  01823                % 08501 RGTR--
+160301002 Colmar, Centre        01827  01827                % 08501 RGTR--
+160301007 Colmar, Usines        01829  01829                % 08501 RGTR--
+160101005 Bissen, Op der Mille  01831  01831                % 08501 RGTR--
+160101003 Bissen, Geiwels       01832  01832                % 08501 RGTR--
+160101002 Bissen, Kräizung      01833  01833                % 08501 RGTR--
+160201002 Boevange/Attert, Mil  01838  01838                % 08501 RGTR--
+160201003 Boevange, Gare        01839  01839                % 08501 RGTR--
+150804002 Useldange, Raiffeise  01842  01842                % 08501 RGTR--
+150804003 Useldange, Spuerkees  01842  01842                % 08501 RGTR--
+150801001 Everlange, Beim Enge  01845  01845                % 08501 RGTR--
+150805002 Everlange, Everlénge  01846  01846                % 08501 RGTR--
+150205001 Platen, Roudbach      01847  01847                % 08501 RGTR--
+150607001 Reichlange, Hostelle  01848  01848                % 08501 RGTR--
+150606005 Redange, Lycée Atert  01852  01852                % 08501 RGTR--
+150606009 Redange, Schock       01854  01854                % 08501 RGTR--
+150606007 Redange, Osperstroos  01855  01855                % 08501 RGTR--
+150601001 Eltz                  01857  01857                % 08501 RGTR--
+150605002 Ospern, Wäschbur      01858  01858                % 08501 RGTR--
+150508002 Hostert, Wäschbur     01902  01902                % 08501 RGTR--
+150508001 Hostert, Folschterwe  01903  01903                % 08501 RGTR--
+150506004 Folschette, Op der P  01904  01904                % 08501 RGTR--
+150506001 Folschette, An der G  01905  01905                % 08501 RGTR--
+150504001 Eschette, Duerf       01908                       % 08501 RGTR--
+*Z 08502 RGTR--                                             % 08502 RGTR--
+*L 515      150606003 150504001  01627  01640               % 08502 RGTR--
+*A lc 150606003 150504001 000045  01627  01640              % 08502 RGTR--
+*A qv 150606003 150504001 000045  01627  01640              % 08502 RGTR--
+*R 1 150504001 150606003 150504001  01627  01640            % 08502 RGTR--
+*G RGB 150606003 150504001  01627  01640                    % 08502 RGTR--
+*A VE 150606003 150504001 000045  01627  01640              % 08502 RGTR--
+*I FD 150606003 150504001        0002536  01627  01640      % 08502 RGTR--
+150606003 Redange, Gare                01627                % 08502 RGTR--
+150606001 Redange/Attert, Bian  01627  01627                % 08502 RGTR--
+150601001 Eltz                  01629  01629                % 08502 RGTR--
+150605002 Ospern, Wäschbur      01631  01631                % 08502 RGTR--
+150508002 Hostert, Wäschbur     01635  01635                % 08502 RGTR--
+150508001 Hostert, Folschterwe  01635  01635                % 08502 RGTR--
+150506004 Folschette, Op der P  01637  01637                % 08502 RGTR--
+150506001 Folschette, An der G  01637  01637                % 08502 RGTR--
+150504001 Eschette, Duerf       01640                       % 08502 RGTR--
+*Z 00013 RGTR--                                             % 00013 RGTR--
+*L 515      150504001 150606003  00624  00636               % 00013 RGTR--
+*A lc 150504001 150606003 000030  00624  00636              % 00013 RGTR--
+*A fc 150504001 150606003 000030  00624  00636              % 00013 RGTR--
+*R 2 150606003 150504001 150606003  00624  00636            % 00013 RGTR--
+*G RGB 150504001 150606003  00624  00636                    % 00013 RGTR--
+*A VE 150504001 150606003 000030  00624  00636              % 00013 RGTR--
+*I FD 150504001 150606003        0000943  00624  00636      % 00013 RGTR--
+150504001 Eschette, Duerf              00624                % 00013 RGTR--
+150506001 Folschette, An der G  00626  00626                % 00013 RGTR--
+150506004 Folschette, Op der P  00627  00627                % 00013 RGTR--
+150508001 Hostert, Folschterwe  00628  00628                % 00013 RGTR--
+150508002 Hostert, Wäschbur     00629  00629                % 00013 RGTR--
+150506007 Brisenhaff            00630  00630                % 00013 RGTR--
+150605002 Ospern, Wäschbur      00633  00633                % 00013 RGTR--
+150601001 Eltz                  00634  00634                % 00013 RGTR--
+150606003 Redange, Gare         00636                       % 00013 RGTR--
+*Z 08503 RGTR--                                             % 08503 RGTR--
+*L 515      150504001 140401009  00650  00752               % 08503 RGTR--
+*A lc 150504001 140401009 000006  00650  00752              % 08503 RGTR--
+*A fe 150504001 140401009 000006  00650  00752              % 08503 RGTR--
+*R 2 140401009 150504001 140401009  00650  00752            % 08503 RGTR--
+*G RGB 150504001 140401009  00650  00752                    % 08503 RGTR--
+*A VE 150504001 140401009 000006  00650  00752              % 08503 RGTR--
+*I FD 150504001 140401009        0002154  00650  00752      % 08503 RGTR--
+150504001 Eschette, Duerf              00650                % 08503 RGTR--
+150506001 Folschette, An der G  00653  00653                % 08503 RGTR--
+150506004 Folschette, Op der P  00653  00653                % 08503 RGTR--
+150508001 Hostert, Folschterwe  00654  00654                % 08503 RGTR--
+150508002 Hostert, Wäschbur     00655  00655                % 08503 RGTR--
+150506007 Brisenhaff            00657  00657                % 08503 RGTR--
+150605002 Ospern, Wäschbur      00700  00700                % 08503 RGTR--
+150605001 Ospern, Kiirch        00701  00701                % 08503 RGTR--
+150607001 Reichlange, Hostelle  00703  00703                % 08503 RGTR--
+150205001 Platen, Roudbach      00704  00704                % 08503 RGTR--
+150805002 Everlange, Everlénge  00705  00705                % 08503 RGTR--
+150801001 Everlange, Beim Enge  00707  00707                % 08503 RGTR--
+150804003 Useldange, Spuerkees  00710  00710                % 08503 RGTR--
+160201003 Boevange, Gare        00713  00713                % 08503 RGTR--
+160201002 Boevange/Attert, Mil  00713  00713                % 08503 RGTR--
+160101002 Bissen, Kräizung      00718  00718                % 08503 RGTR--
+160101003 Bissen, Geiwels       00719  00719                % 08503 RGTR--
+160101005 Bissen, Op der Mille  00720  00720                % 08503 RGTR--
+160301007 Colmar, Usines        00723  00723                % 08503 RGTR--
+160301002 Colmar, Centre        00724  00724                % 08503 RGTR--
+140701018 Ettelbruck, H.v.Land  00728  00728                % 08503 RGTR--
+140701026 Ettelbruck, Rond Poi  00730  00730                % 08503 RGTR--
+140701015 Ettelbruck, Ecole Pr  00731  00731                % 08503 RGTR--
+140701016 Ettelbruck, Gare      00733  00739                % 08503 RGTR--
+140602008 Erpeldange/Sûre, Um   00741  00741                % 08503 RGTR--
+140603004 Ingeldorf, Kiirchpla  00742  00742                % 08503 RGTR--
+140603001 Ingeldorf, Bei der B  00743  00743                % 08503 RGTR--
+140603003 Ingeldorf, Cité Long  00745  00745                % 08503 RGTR--
+140401008 Diekirch, Lorentzwue  00746  00746                % 08503 RGTR--
+140401004 Diekirch, Gare        00747  00747                % 08503 RGTR--
+140401001 Diekirch, Altersheem  00749  00749                % 08503 RGTR--
+140401009 Diekirch, Neie Kolle  00752                       % 08503 RGTR--
+*Z 08504 RGTR--                                             % 08504 RGTR--
+*L 515      150504001 140401009  01306  01403               % 08504 RGTR--
+*A lc 150504001 140401009 000006  01306  01403              % 08504 RGTR--
+*A JH 150504001 140401009 000006  01306  01403              % 08504 RGTR--
+*A fe 150504001 140401009 000006  01306  01403              % 08504 RGTR--
+*R 2 140401009 150504001 140401009  01306  01403            % 08504 RGTR--
+*G RGB 150504001 140401009  01306  01403                    % 08504 RGTR--
+*A VE 150504001 140401009 000006  01306  01403              % 08504 RGTR--
+*I FD 150504001 140401009        0002507  01306  01403      % 08504 RGTR--
+150504001 Eschette, Duerf              01306                % 08504 RGTR--
+150506001 Folschette, An der G  01309  01309                % 08504 RGTR--
+150506004 Folschette, Op der P  01309  01309                % 08504 RGTR--
+150508001 Hostert, Folschterwe  01310  01310                % 08504 RGTR--
+150508002 Hostert, Wäschbur     01311  01311                % 08504 RGTR--
+150506007 Brisenhaff            01312  01312                % 08504 RGTR--
+150605002 Ospern, Wäschbur      01315  01315                % 08504 RGTR--
+150605001 Ospern, Kiirch        01316  01316                % 08504 RGTR--
+150607001 Reichlange, Hostelle  01318  01318                % 08504 RGTR--
+150205001 Platen, Roudbach      01319  01319                % 08504 RGTR--
+150805002 Everlange, Everlénge  01320  01320                % 08504 RGTR--
+150801001 Everlange, Beim Enge  01322  01322                % 08504 RGTR--
+150804003 Useldange, Spuerkees  01325  01325                % 08504 RGTR--
+160201003 Boevange, Gare        01328  01328                % 08504 RGTR--
+160201002 Boevange/Attert, Mil  01329  01329                % 08504 RGTR--
+160101002 Bissen, Kräizung      01333  01333                % 08504 RGTR--
+160101003 Bissen, Geiwels       01334  01334                % 08504 RGTR--
+160101005 Bissen, Op der Mille  01335  01335                % 08504 RGTR--
+160301007 Colmar, Usines        01338  01338                % 08504 RGTR--
+160301002 Colmar, Centre        01339  01339                % 08504 RGTR--
+140701018 Ettelbruck, H.v.Land  01343  01343                % 08504 RGTR--
+140701026 Ettelbruck, Rond Poi  01344  01344                % 08504 RGTR--
+140701015 Ettelbruck, Ecole Pr  01345  01345                % 08504 RGTR--
+140701016 Ettelbruck, Gare      01347  01351                % 08504 RGTR--
+140602008 Erpeldange/Sûre, Um   01353  01353                % 08504 RGTR--
+140603004 Ingeldorf, Kiirchpla  01354  01354                % 08504 RGTR--
+140603001 Ingeldorf, Bei der B  01355  01355                % 08504 RGTR--
+140603003 Ingeldorf, Cité Long  01356  01356                % 08504 RGTR--
+140401008 Diekirch, Lorentzwue  01357  01357                % 08504 RGTR--
+140401004 Diekirch, Gare        01358  01358                % 08504 RGTR--
+140401001 Diekirch, Altersheem  01400  01400                % 08504 RGTR--
+140401009 Diekirch, Neie Kolle  01403                       % 08504 RGTR--
+*Z 08505 RGTR--                                             % 08505 RGTR--
+*L 515      150504001 140701016  01721  01804               % 08505 RGTR--
+*A lc 150504001 140701016 000006  01721  01804              % 08505 RGTR--
+*A hq 150504001 140701016 000006  01721  01804              % 08505 RGTR--
+*R 2 140701016 150504001 140701016  01721  01804            % 08505 RGTR--
+*G RGB 150504001 140701016  01721  01804                    % 08505 RGTR--
+*A VE 150504001 140701016 000006  01721  01804              % 08505 RGTR--
+*I FD 150504001 140701016        0003310  01721  01804      % 08505 RGTR--
+150504001 Eschette, Duerf              01721                % 08505 RGTR--
+150506001 Folschette, An der G  01724  01724                % 08505 RGTR--
+150506004 Folschette, Op der P  01724  01724                % 08505 RGTR--
+150508001 Hostert, Folschterwe  01725  01725                % 08505 RGTR--
+150508002 Hostert, Wäschbur     01726  01726                % 08505 RGTR--
+150506007 Brisenhaff            01728  01728                % 08505 RGTR--
+150605002 Ospern, Wäschbur      01731  01731                % 08505 RGTR--
+150605001 Ospern, Kiirch        01732  01732                % 08505 RGTR--
+150607001 Reichlange, Hostelle  01734  01734                % 08505 RGTR--
+150205001 Platen, Roudbach      01735  01735                % 08505 RGTR--
+150805002 Everlange, Everlénge  01736  01736                % 08505 RGTR--
+150801001 Everlange, Beim Enge  01738  01738                % 08505 RGTR--
+150804003 Useldange, Spuerkees  01741  01741                % 08505 RGTR--
+160201003 Boevange, Gare        01744  01744                % 08505 RGTR--
+160201002 Boevange/Attert, Mil  01744  01744                % 08505 RGTR--
+160101002 Bissen, Kräizung      01749  01749                % 08505 RGTR--
+160101003 Bissen, Geiwels       01750  01750                % 08505 RGTR--
+160101005 Bissen, Op der Mille  01751  01751                % 08505 RGTR--
+160301007 Colmar, Usines        01754  01754                % 08505 RGTR--
+160301002 Colmar, Centre        01755  01755                % 08505 RGTR--
+140701018 Ettelbruck, H.v.Land  01759  01759                % 08505 RGTR--
+140701026 Ettelbruck, Rond Poi  01801  01801                % 08505 RGTR--
+140701015 Ettelbruck, Ecole Pr  01802  01802                % 08505 RGTR--
+140701016 Ettelbruck, Gare      01804                       % 08505 RGTR--
+*Z 08506 RGTR--                                             % 08506 RGTR--
+*L 515      150205001 140701016  00907  00936               % 08506 RGTR--
+*A lc 150205001 140701016 000006  00907  00936              % 08506 RGTR--
+*A hq 150205001 140701016 000006  00907  00936              % 08506 RGTR--
+*R 2 140701016 150205001 140701016  00907  00936            % 08506 RGTR--
+*G RGB 150205001 140701016  00907  00936                    % 08506 RGTR--
+*A VE 150205001 140701016 000006  00907  00936              % 08506 RGTR--
+*I FD 150205001 140701016        0003605  00907  00936      % 08506 RGTR--
+150205001 Platen, Roudbach             00907                % 08506 RGTR--
+150805002 Everlange, Everlénge  00908  00908                % 08506 RGTR--
+150801001 Everlange, Beim Enge  00910  00910                % 08506 RGTR--
+150804003 Useldange, Spuerkees  00913  00913                % 08506 RGTR--
+160201003 Boevange, Gare        00916  00916                % 08506 RGTR--
+160201002 Boevange/Attert, Mil  00916  00916                % 08506 RGTR--
+160101002 Bissen, Kräizung      00921  00921                % 08506 RGTR--
+160101003 Bissen, Geiwels       00922  00922                % 08506 RGTR--
+160101005 Bissen, Op der Mille  00923  00923                % 08506 RGTR--
+160301007 Colmar, Usines        00926  00926                % 08506 RGTR--
+160301002 Colmar, Centre        00927  00927                % 08506 RGTR--
+140701018 Ettelbruck, H.v.Land  00931  00931                % 08506 RGTR--
+140701026 Ettelbruck, Rond Poi  00933  00933                % 08506 RGTR--
+140701015 Ettelbruck, Ecole Pr  00934  00934                % 08506 RGTR--
+140701016 Ettelbruck, Gare      00936                       % 08506 RGTR--
+*Z 08507 RGTR--                                             % 08507 RGTR--
+*L 515      150205001 140401009  01112  01151               % 08507 RGTR--
+*A lc 150205001 140401009 000006  01112  01151              % 08507 RGTR--
+*A fe 150205001 140401009 000006  01112  01151              % 08507 RGTR--
+*R 2 140401009 150205001 140401009  01112  01151            % 08507 RGTR--
+*G RGB 150205001 140401009  01112  01151                    % 08507 RGTR--
+*A VE 150205001 140401009 000006  01112  01151              % 08507 RGTR--
+*I FD 150205001 140401009        0001220  01112  01151      % 08507 RGTR--
+150205001 Platen, Roudbach             01112                % 08507 RGTR--
+150805002 Everlange, Everlénge  01112  01112                % 08507 RGTR--
+150801001 Everlange, Beim Enge  01114  01114                % 08507 RGTR--
+150804003 Useldange, Spuerkees  01117  01117                % 08507 RGTR--
+160201003 Boevange, Gare        01120  01120                % 08507 RGTR--
+160201002 Boevange/Attert, Mil  01121  01121                % 08507 RGTR--
+160101002 Bissen, Kräizung      01126  01126                % 08507 RGTR--
+160101003 Bissen, Geiwels       01127  01127                % 08507 RGTR--
+160101005 Bissen, Op der Mille  01128  01128                % 08507 RGTR--
+160301007 Colmar, Usines        01130  01130                % 08507 RGTR--
+160301002 Colmar, Centre        01132  01132                % 08507 RGTR--
+140701018 Ettelbruck, H.v.Land  01136  01136                % 08507 RGTR--
+140701026 Ettelbruck, Rond Poi  01137  01137                % 08507 RGTR--
+140701015 Ettelbruck, Ecole Pr  01138  01138                % 08507 RGTR--
+140701016 Ettelbruck, Gare      01139  01139                % 08507 RGTR--
+140602008 Erpeldange/Sûre, Um   01141  01141                % 08507 RGTR--
+140603004 Ingeldorf, Kiirchpla  01143  01143                % 08507 RGTR--
+140603001 Ingeldorf, Bei der B  01143  01143                % 08507 RGTR--
+140603003 Ingeldorf, Cité Long  01145  01145                % 08507 RGTR--
+140401008 Diekirch, Lorentzwue  01146  01146                % 08507 RGTR--
+140401004 Diekirch, Gare        01147  01147                % 08507 RGTR--
+140401001 Diekirch, Altersheem  01148  01148                % 08507 RGTR--
+140401009 Diekirch, Neie Kolle  01151                       % 08507 RGTR--
+*Z 08508 RGTR--                                             % 08508 RGTR--
+*L 515      150205001 140401009  01509  01551               % 08508 RGTR--
+*A lc 150205001 140401009 000006  01509  01551              % 08508 RGTR--
+*A fe 150205001 140401009 000006  01509  01551              % 08508 RGTR--
+*R 2 140401009 150205001 140401009  01509  01551            % 08508 RGTR--
+*G RGB 150205001 140401009  01509  01551                    % 08508 RGTR--
+*A VE 150205001 140401009 000006  01509  01551              % 08508 RGTR--
+*I FD 150205001 140401009        0002948  01509  01551      % 08508 RGTR--
+150205001 Platen, Roudbach             01509                % 08508 RGTR--
+150805002 Everlange, Everlénge  01510  01510                % 08508 RGTR--
+150801001 Everlange, Beim Enge  01512  01512                % 08508 RGTR--
+150804003 Useldange, Spuerkees  01515  01515                % 08508 RGTR--
+160201003 Boevange, Gare        01518  01518                % 08508 RGTR--
+160201002 Boevange/Attert, Mil  01519  01519                % 08508 RGTR--
+160101002 Bissen, Kräizung      01523  01523                % 08508 RGTR--
+160101003 Bissen, Geiwels       01524  01524                % 08508 RGTR--
+160101005 Bissen, Op der Mille  01525  01525                % 08508 RGTR--
+160301007 Colmar, Usines        01528  01528                % 08508 RGTR--
+160301002 Colmar, Centre        01529  01529                % 08508 RGTR--
+140701018 Ettelbruck, H.v.Land  01533  01533                % 08508 RGTR--
+140701026 Ettelbruck, Rond Poi  01534  01534                % 08508 RGTR--
+140701015 Ettelbruck, Ecole Pr  01535  01535                % 08508 RGTR--
+140701016 Ettelbruck, Gare      01537  01539                % 08508 RGTR--
+140602008 Erpeldange/Sûre, Um   01541  01541                % 08508 RGTR--
+140603004 Ingeldorf, Kiirchpla  01542  01542                % 08508 RGTR--
+140603001 Ingeldorf, Bei der B  01543  01543                % 08508 RGTR--
+140603003 Ingeldorf, Cité Long  01544  01544                % 08508 RGTR--
+140401008 Diekirch, Lorentzwue  01545  01545                % 08508 RGTR--
+140401004 Diekirch, Gare        01546  01546                % 08508 RGTR--
+140401001 Diekirch, Altersheem  01548  01548                % 08508 RGTR--
+140401009 Diekirch, Neie Kolle  01551                       % 08508 RGTR--
+*Z 08509 RGTR--                                             % 08509 RGTR--
+*L 515      150506002 140401009  00647  00748               % 08509 RGTR--
+*A lc 150506002 140401009 000030  00647  00748              % 08509 RGTR--
+*A fe 150506002 140401009 000030  00647  00748              % 08509 RGTR--
+*R 2 140401009 150506002 140401009  00647  00748            % 08509 RGTR--
+*G RGB 150506002 140401009  00647  00748                    % 08509 RGTR--
+*A VE 150506002 140401009 000030  00647  00748              % 08509 RGTR--
+*I FD 150506002 140401009        0002385  00647  00748      % 08509 RGTR--
+150506002 Folschette, Bellevue         00647                % 08509 RGTR--
+150506005 Folschette, Rammeric  00647  00647                % 08509 RGTR--
+150506003 Folschette, Centre C  00648  00648                % 08509 RGTR--
+150508001 Hostert, Folschterwe  00649  00649                % 08509 RGTR--
+150508002 Hostert, Wäschbur     00650  00650                % 08509 RGTR--
+150506007 Brisenhaff            00652  00652                % 08509 RGTR--
+150605002 Ospern, Wäschbur      00655  00655                % 08509 RGTR--
+150605001 Ospern, Kiirch        00656  00656                % 08509 RGTR--
+150607001 Reichlange, Hostelle  00658  00658                % 08509 RGTR--
+150205001 Platen, Roudbach      00659  00659                % 08509 RGTR--
+150805002 Everlange, Everlénge  00700  00700                % 08509 RGTR--
+150801001 Everlange, Beim Enge  00702  00702                % 08509 RGTR--
+150804003 Useldange, Spuerkees  00705  00705                % 08509 RGTR--
+160201003 Boevange, Gare        00708  00708                % 08509 RGTR--
+160201002 Boevange/Attert, Mil  00708  00708                % 08509 RGTR--
+160101002 Bissen, Kräizung      00713  00713                % 08509 RGTR--
+160101003 Bissen, Geiwels       00714  00714                % 08509 RGTR--
+160101005 Bissen, Op der Mille  00715  00715                % 08509 RGTR--
+160301007 Colmar, Usines        00718  00718                % 08509 RGTR--
+160301002 Colmar, Centre        00719  00719                % 08509 RGTR--
+140701018 Ettelbruck, H.v.Land  00723  00723                % 08509 RGTR--
+140701026 Ettelbruck, Rond Poi  00725  00725                % 08509 RGTR--
+140701015 Ettelbruck, Ecole Pr  00726  00726                % 08509 RGTR--
+140701016 Ettelbruck, Gare      00728  00735                % 08509 RGTR--
+140602008 Erpeldange/Sûre, Um   00737  00737                % 08509 RGTR--
+140603004 Ingeldorf, Kiirchpla  00739  00739                % 08509 RGTR--
+140603001 Ingeldorf, Bei der B  00740  00740                % 08509 RGTR--
+140603003 Ingeldorf, Cité Long  00741  00741                % 08509 RGTR--
+140401008 Diekirch, Lorentzwue  00742  00742                % 08509 RGTR--
+140401004 Diekirch, Gare        00743  00743                % 08509 RGTR--
+140401001 Diekirch, Altersheem  00745  00745                % 08509 RGTR--
+140401009 Diekirch, Neie Kolle  00748                       % 08509 RGTR--

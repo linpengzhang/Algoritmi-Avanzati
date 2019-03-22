@@ -1,0 +1,765 @@
+*F 03 2
+*Z 08808 RGTR--                                             % 08808 RGTR--
+*L 394      220902006 220902006  00830  00858               % 08808 RGTR--
+*A pl 220902006 220902006 000006  00830  00858              % 08808 RGTR--
+*A pn 220902006 220902006 000006  00830  00858              % 08808 RGTR--
+*R 1 220902006 220902006 220902006  00830  00858            % 08808 RGTR--
+*G RGB 220902006 220902006  00830  00858                    % 08808 RGTR--
+*A VE 220902006 220902006 000006  00830  00858              % 08808 RGTR--
+*I FD 220902006 220902006        0001037  00830  00858      % 08808 RGTR--
+220902006 Pétange, Gare                00830                % 08808 RGTR--
+220902003 Pétange, Gemeng       00830  00830                % 08808 RGTR--
+220902004 Pétange, Cactus       00833  00833                % 08808 RGTR--
+220902019 Pétange, Porte Lamad  00833  00833                % 08808 RGTR--
+220901007 Lamadelaine, Rte de   00835  00835                % 08808 RGTR--
+220903018 Rodange, Raths        00836  00836                % 08808 RGTR--
+220903008 Rodange, Gare         00836  00836                % 08808 RGTR--
+220903009 Rodange, Gendarmerie  00838  00838                % 08808 RGTR--
+220903020 Rodange, Schlackenmi  00839  00839                % 08808 RGTR--
+220903004 Rodange, Fonderie     00841  00841                % 08808 RGTR--
+220903005 Rodange, Fontaine d'  00843  00843                % 08808 RGTR--
+220903022 Rodange, Siole        00843  00843                % 08808 RGTR--
+220903003 Rodange, Croix St. P  00844  00844                % 08808 RGTR--
+220903025 Rodange, Waeschbur    00844  00844                % 08808 RGTR--
+220903007 Rodange, Gaardestroo  00845  00845                % 08808 RGTR--
+220903017 Rodange, rue Philipp  00847  00847                % 08808 RGTR--
+220903015 Rodange, Niederredin  00848  00848                % 08808 RGTR--
+220903021 Rodange, Schwemm      00848  00848                % 08808 RGTR--
+220901010 Lamadelaine, Tëtelbi  00849  00849                % 08808 RGTR--
+220901003 Lamadelaine, Kierch   00850  00850                % 08808 RGTR--
+220901008 Lamadelaine, Schoul   00851  00851                % 08808 RGTR--
+220901013 Lamadelaine, Wisestr  00852  00852                % 08808 RGTR--
+220901012 Lamadelaine, Bei der  00853  00853                % 08808 RGTR--
+220902019 Pétange, Porte Lamad  00854  00854                % 08808 RGTR--
+220902004 Pétange, Cactus       00855  00855                % 08808 RGTR--
+220902013 Pétange, Maartplaz    00856  00856                % 08808 RGTR--
+220902006 Pétange, Gare         00858                       % 08808 RGTR--
+*Z 08809 RGTR--                                             % 08809 RGTR--
+*L 394      220903004 220902006  00653  00710               % 08809 RGTR--
+*A pl 220903004 220902006 000006  00653  00710              % 08809 RGTR--
+*A pn 220903004 220902006 000006  00653  00710              % 08809 RGTR--
+*R 1 220902006 220903004 220902006  00653  00710            % 08809 RGTR--
+*G RGB 220903004 220902006  00653  00710                    % 08809 RGTR--
+*A VE 220903004 220902006 000006  00653  00710              % 08809 RGTR--
+*I FD 220903004 220902006        0003289  00653  00710      % 08809 RGTR--
+220903004 Rodange, Fonderie            00653                % 08809 RGTR--
+220903005 Rodange, Fontaine d'  00654  00654                % 08809 RGTR--
+220903022 Rodange, Siole        00655  00655                % 08809 RGTR--
+220903003 Rodange, Croix St. P  00655  00655                % 08809 RGTR--
+220903025 Rodange, Waeschbur    00656  00656                % 08809 RGTR--
+220903007 Rodange, Gaardestroo  00657  00657                % 08809 RGTR--
+220903017 Rodange, rue Philipp  00659  00659                % 08809 RGTR--
+220903015 Rodange, Niederredin  00659  00659                % 08809 RGTR--
+220903021 Rodange, Schwemm      00700  00700                % 08809 RGTR--
+220901010 Lamadelaine, Tëtelbi  00701  00701                % 08809 RGTR--
+220901003 Lamadelaine, Kierch   00702  00702                % 08809 RGTR--
+220901008 Lamadelaine, Schoul   00703  00703                % 08809 RGTR--
+220901013 Lamadelaine, Wisestr  00704  00704                % 08809 RGTR--
+220901012 Lamadelaine, Bei der  00704  00704                % 08809 RGTR--
+220902019 Pétange, Porte Lamad  00706  00706                % 08809 RGTR--
+220902004 Pétange, Cactus       00707  00707                % 08809 RGTR--
+220902013 Pétange, Maartplaz    00708  00708                % 08809 RGTR--
+220902006 Pétange, Gare         00710                       % 08809 RGTR--
+*Z 08810 RGTR--                                             % 08810 RGTR--
+*L 394      220903004 220902006  00723  00740               % 08810 RGTR--
+*A pl 220903004 220902006 000006  00723  00740              % 08810 RGTR--
+*A pn 220903004 220902006 000006  00723  00740              % 08810 RGTR--
+*R 1 220902006 220903004 220902006  00723  00740            % 08810 RGTR--
+*G RGB 220903004 220902006  00723  00740                    % 08810 RGTR--
+*A VE 220903004 220902006 000006  00723  00740              % 08810 RGTR--
+*I FD 220903004 220902006        0002354  00723  00740      % 08810 RGTR--
+220903004 Rodange, Fonderie            00723                % 08810 RGTR--
+220903005 Rodange, Fontaine d'  00724  00724                % 08810 RGTR--
+220903022 Rodange, Siole        00725  00725                % 08810 RGTR--
+220903003 Rodange, Croix St. P  00725  00725                % 08810 RGTR--
+220903025 Rodange, Waeschbur    00726  00726                % 08810 RGTR--
+220903007 Rodange, Gaardestroo  00727  00727                % 08810 RGTR--
+220903017 Rodange, rue Philipp  00729  00729                % 08810 RGTR--
+220903015 Rodange, Niederredin  00729  00729                % 08810 RGTR--
+220903021 Rodange, Schwemm      00730  00730                % 08810 RGTR--
+220901010 Lamadelaine, Tëtelbi  00731  00731                % 08810 RGTR--
+220901003 Lamadelaine, Kierch   00732  00732                % 08810 RGTR--
+220901008 Lamadelaine, Schoul   00733  00733                % 08810 RGTR--
+220901013 Lamadelaine, Wisestr  00734  00734                % 08810 RGTR--
+220901012 Lamadelaine, Bei der  00734  00734                % 08810 RGTR--
+220902019 Pétange, Porte Lamad  00736  00736                % 08810 RGTR--
+220902004 Pétange, Cactus       00737  00737                % 08810 RGTR--
+220902013 Pétange, Maartplaz    00738  00738                % 08810 RGTR--
+220902006 Pétange, Gare         00740                       % 08810 RGTR--
+*Z 08811 RGTR--                                             % 08811 RGTR--
+*L 394      220903004 220902006  00810  00827               % 08811 RGTR--
+*A pl 220903004 220902006 000006  00810  00827              % 08811 RGTR--
+*A pn 220903004 220902006 000006  00810  00827              % 08811 RGTR--
+*R 1 220902006 220903004 220902006  00810  00827            % 08811 RGTR--
+*G RGB 220903004 220902006  00810  00827                    % 08811 RGTR--
+*A VE 220903004 220902006 000006  00810  00827              % 08811 RGTR--
+*I FD 220903004 220902006        0001874  00810  00827      % 08811 RGTR--
+220903004 Rodange, Fonderie            00810                % 08811 RGTR--
+220903005 Rodange, Fontaine d'  00811  00811                % 08811 RGTR--
+220903022 Rodange, Siole        00812  00812                % 08811 RGTR--
+220903003 Rodange, Croix St. P  00812  00812                % 08811 RGTR--
+220903025 Rodange, Waeschbur    00813  00813                % 08811 RGTR--
+220903007 Rodange, Gaardestroo  00814  00814                % 08811 RGTR--
+220903017 Rodange, rue Philipp  00816  00816                % 08811 RGTR--
+220903015 Rodange, Niederredin  00816  00816                % 08811 RGTR--
+220903021 Rodange, Schwemm      00817  00817                % 08811 RGTR--
+220901010 Lamadelaine, Tëtelbi  00818  00818                % 08811 RGTR--
+220901003 Lamadelaine, Kierch   00819  00819                % 08811 RGTR--
+220901008 Lamadelaine, Schoul   00820  00820                % 08811 RGTR--
+220901013 Lamadelaine, Wisestr  00821  00821                % 08811 RGTR--
+220901012 Lamadelaine, Bei der  00821  00821                % 08811 RGTR--
+220902019 Pétange, Porte Lamad  00823  00823                % 08811 RGTR--
+220902004 Pétange, Cactus       00824  00824                % 08811 RGTR--
+220902013 Pétange, Maartplaz    00825  00825                % 08811 RGTR--
+220902006 Pétange, Gare         00827                       % 08811 RGTR--
+*Z 08812 RGTR--                                             % 08812 RGTR--
+*L 394      220903004 220902006  01623  01640               % 08812 RGTR--
+*A pl 220903004 220902006 000016  01623  01640              % 08812 RGTR--
+*A pn 220903004 220902006 000016  01623  01640              % 08812 RGTR--
+*R 1 220902006 220903004 220902006  01623  01640            % 08812 RGTR--
+*G RGB 220903004 220902006  01623  01640                    % 08812 RGTR--
+*A VE 220903004 220902006 000016  01623  01640              % 08812 RGTR--
+*I FD 220903004 220902006        0002528  01623  01640      % 08812 RGTR--
+220903004 Rodange, Fonderie            01623                % 08812 RGTR--
+220903005 Rodange, Fontaine d'  01624  01624                % 08812 RGTR--
+220903022 Rodange, Siole        01625  01625                % 08812 RGTR--
+220903003 Rodange, Croix St. P  01625  01625                % 08812 RGTR--
+220903025 Rodange, Waeschbur    01626  01626                % 08812 RGTR--
+220903007 Rodange, Gaardestroo  01627  01627                % 08812 RGTR--
+220903017 Rodange, rue Philipp  01629  01629                % 08812 RGTR--
+220903015 Rodange, Niederredin  01629  01629                % 08812 RGTR--
+220903021 Rodange, Schwemm      01630  01630                % 08812 RGTR--
+220901010 Lamadelaine, Tëtelbi  01631  01631                % 08812 RGTR--
+220901003 Lamadelaine, Kierch   01632  01632                % 08812 RGTR--
+220901008 Lamadelaine, Schoul   01633  01633                % 08812 RGTR--
+220901013 Lamadelaine, Wisestr  01634  01634                % 08812 RGTR--
+220901012 Lamadelaine, Bei der  01634  01634                % 08812 RGTR--
+220902019 Pétange, Porte Lamad  01636  01636                % 08812 RGTR--
+220902004 Pétange, Cactus       01637  01637                % 08812 RGTR--
+220902013 Pétange, Maartplaz    01638  01638                % 08812 RGTR--
+220902006 Pétange, Gare         01640                       % 08812 RGTR--
+*Z 08813 RGTR--                                             % 08813 RGTR--
+*L 394      220903004 220902006  00553  00607               % 08813 RGTR--
+*A pl 220903004 220902006 000006  00553  00607              % 08813 RGTR--
+*A pn 220903004 220902006 000006  00553  00607              % 08813 RGTR--
+*R 1 220902006 220903004 220902006  00553  00607            % 08813 RGTR--
+*G RGB 220903004 220902006  00553  00607                    % 08813 RGTR--
+*A VE 220903004 220902006 000006  00553  00607              % 08813 RGTR--
+*I FD 220903004 220902006        0003162  00553  00607      % 08813 RGTR--
+220903004 Rodange, Fonderie            00553                % 08813 RGTR--
+220903005 Rodange, Fontaine d'  00554  00554                % 08813 RGTR--
+220903022 Rodange, Siole        00555  00555                % 08813 RGTR--
+220903003 Rodange, Croix St. P  00555  00555                % 08813 RGTR--
+220903025 Rodange, Waeschbur    00556  00556                % 08813 RGTR--
+220903007 Rodange, Gaardestroo  00557  00557                % 08813 RGTR--
+220903017 Rodange, rue Philipp  00558  00558                % 08813 RGTR--
+220903015 Rodange, Niederredin  00558  00558                % 08813 RGTR--
+220903021 Rodange, Schwemm      00559  00559                % 08813 RGTR--
+220901010 Lamadelaine, Tëtelbi  00600  00600                % 08813 RGTR--
+220901003 Lamadelaine, Kierch   00601  00601                % 08813 RGTR--
+220901008 Lamadelaine, Schoul   00601  00601                % 08813 RGTR--
+220901013 Lamadelaine, Wisestr  00602  00602                % 08813 RGTR--
+220901012 Lamadelaine, Bei der  00603  00603                % 08813 RGTR--
+220902019 Pétange, Porte Lamad  00604  00604                % 08813 RGTR--
+220902004 Pétange, Cactus       00605  00605                % 08813 RGTR--
+220902013 Pétange, Maartplaz    00606  00606                % 08813 RGTR--
+220902006 Pétange, Gare         00607                       % 08813 RGTR--
+*Z 08814 RGTR--                                             % 08814 RGTR--
+*L 394      220903004 220902006  00623  00637               % 08814 RGTR--
+*A pl 220903004 220902006 000006  00623  00637              % 08814 RGTR--
+*A pn 220903004 220902006 000006  00623  00637              % 08814 RGTR--
+*R 1 220902006 220903004 220902006  00623  00637            % 08814 RGTR--
+*G RGB 220903004 220902006  00623  00637                    % 08814 RGTR--
+*A VE 220903004 220902006 000006  00623  00637              % 08814 RGTR--
+*I FD 220903004 220902006        0002563  00623  00637      % 08814 RGTR--
+220903004 Rodange, Fonderie            00623                % 08814 RGTR--
+220903005 Rodange, Fontaine d'  00624  00624                % 08814 RGTR--
+220903022 Rodange, Siole        00625  00625                % 08814 RGTR--
+220903003 Rodange, Croix St. P  00625  00625                % 08814 RGTR--
+220903025 Rodange, Waeschbur    00626  00626                % 08814 RGTR--
+220903007 Rodange, Gaardestroo  00627  00627                % 08814 RGTR--
+220903017 Rodange, rue Philipp  00628  00628                % 08814 RGTR--
+220903015 Rodange, Niederredin  00628  00628                % 08814 RGTR--
+220903021 Rodange, Schwemm      00629  00629                % 08814 RGTR--
+220901010 Lamadelaine, Tëtelbi  00630  00630                % 08814 RGTR--
+220901003 Lamadelaine, Kierch   00631  00631                % 08814 RGTR--
+220901008 Lamadelaine, Schoul   00631  00631                % 08814 RGTR--
+220901013 Lamadelaine, Wisestr  00632  00632                % 08814 RGTR--
+220901012 Lamadelaine, Bei der  00633  00633                % 08814 RGTR--
+220902019 Pétange, Porte Lamad  00634  00634                % 08814 RGTR--
+220902004 Pétange, Cactus       00635  00635                % 08814 RGTR--
+220902013 Pétange, Maartplaz    00636  00636                % 08814 RGTR--
+220902006 Pétange, Gare         00637                       % 08814 RGTR--
+*Z 08815 RGTR--                                             % 08815 RGTR--
+*L 394      220903004 220902006  00953  01007               % 08815 RGTR--
+*A pl 220903004 220902006 000006  00953  01007              % 08815 RGTR--
+*A pn 220903004 220902006 000006  00953  01007              % 08815 RGTR--
+*R 1 220902006 220903004 220902006  00953  01007            % 08815 RGTR--
+*G RGB 220903004 220902006  00953  01007                    % 08815 RGTR--
+*A VE 220903004 220902006 000006  00953  01007              % 08815 RGTR--
+*I FD 220903004 220902006        0003073  00953  01007      % 08815 RGTR--
+220903004 Rodange, Fonderie            00953                % 08815 RGTR--
+220903005 Rodange, Fontaine d'  00954  00954                % 08815 RGTR--
+220903022 Rodange, Siole        00955  00955                % 08815 RGTR--
+220903003 Rodange, Croix St. P  00955  00955                % 08815 RGTR--
+220903025 Rodange, Waeschbur    00956  00956                % 08815 RGTR--
+220903007 Rodange, Gaardestroo  00957  00957                % 08815 RGTR--
+220903017 Rodange, rue Philipp  00958  00958                % 08815 RGTR--
+220903015 Rodange, Niederredin  00958  00958                % 08815 RGTR--
+220903021 Rodange, Schwemm      00959  00959                % 08815 RGTR--
+220901010 Lamadelaine, Tëtelbi  01000  01000                % 08815 RGTR--
+220901003 Lamadelaine, Kierch   01001  01001                % 08815 RGTR--
+220901008 Lamadelaine, Schoul   01001  01001                % 08815 RGTR--
+220901013 Lamadelaine, Wisestr  01002  01002                % 08815 RGTR--
+220901012 Lamadelaine, Bei der  01003  01003                % 08815 RGTR--
+220902019 Pétange, Porte Lamad  01004  01004                % 08815 RGTR--
+220902004 Pétange, Cactus       01005  01005                % 08815 RGTR--
+220902013 Pétange, Maartplaz    01006  01006                % 08815 RGTR--
+220902006 Pétange, Gare         01007                       % 08815 RGTR--
+*Z 08816 RGTR--                                             % 08816 RGTR--
+*L 394      220903004 220902006  01053  01107               % 08816 RGTR--
+*A pl 220903004 220902006 000006  01053  01107              % 08816 RGTR--
+*A pn 220903004 220902006 000006  01053  01107              % 08816 RGTR--
+*R 1 220902006 220903004 220902006  01053  01107            % 08816 RGTR--
+*G RGB 220903004 220902006  01053  01107                    % 08816 RGTR--
+*A VE 220903004 220902006 000006  01053  01107              % 08816 RGTR--
+*I FD 220903004 220902006        0003291  01053  01107      % 08816 RGTR--
+220903004 Rodange, Fonderie            01053                % 08816 RGTR--
+220903005 Rodange, Fontaine d'  01054  01054                % 08816 RGTR--
+220903022 Rodange, Siole        01055  01055                % 08816 RGTR--
+220903003 Rodange, Croix St. P  01055  01055                % 08816 RGTR--
+220903025 Rodange, Waeschbur    01056  01056                % 08816 RGTR--
+220903007 Rodange, Gaardestroo  01057  01057                % 08816 RGTR--
+220903017 Rodange, rue Philipp  01058  01058                % 08816 RGTR--
+220903015 Rodange, Niederredin  01058  01058                % 08816 RGTR--
+220903021 Rodange, Schwemm      01059  01059                % 08816 RGTR--
+220901010 Lamadelaine, Tëtelbi  01100  01100                % 08816 RGTR--
+220901003 Lamadelaine, Kierch   01101  01101                % 08816 RGTR--
+220901008 Lamadelaine, Schoul   01101  01101                % 08816 RGTR--
+220901013 Lamadelaine, Wisestr  01102  01102                % 08816 RGTR--
+220901012 Lamadelaine, Bei der  01103  01103                % 08816 RGTR--
+220902019 Pétange, Porte Lamad  01104  01104                % 08816 RGTR--
+220902004 Pétange, Cactus       01105  01105                % 08816 RGTR--
+220902013 Pétange, Maartplaz    01106  01106                % 08816 RGTR--
+220902006 Pétange, Gare         01107                       % 08816 RGTR--
+*Z 08817 RGTR--                                             % 08817 RGTR--
+*L 394      220903004 220902006  01153  01207               % 08817 RGTR--
+*A pl 220903004 220902006 000006  01153  01207              % 08817 RGTR--
+*A pn 220903004 220902006 000006  01153  01207              % 08817 RGTR--
+*R 1 220902006 220903004 220902006  01153  01207            % 08817 RGTR--
+*G RGB 220903004 220902006  01153  01207                    % 08817 RGTR--
+*A VE 220903004 220902006 000006  01153  01207              % 08817 RGTR--
+*I FD 220903004 220902006        0002642  01153  01207      % 08817 RGTR--
+220903004 Rodange, Fonderie            01153                % 08817 RGTR--
+220903005 Rodange, Fontaine d'  01154  01154                % 08817 RGTR--
+220903022 Rodange, Siole        01155  01155                % 08817 RGTR--
+220903003 Rodange, Croix St. P  01155  01155                % 08817 RGTR--
+220903025 Rodange, Waeschbur    01156  01156                % 08817 RGTR--
+220903007 Rodange, Gaardestroo  01157  01157                % 08817 RGTR--
+220903017 Rodange, rue Philipp  01158  01158                % 08817 RGTR--
+220903015 Rodange, Niederredin  01158  01158                % 08817 RGTR--
+220903021 Rodange, Schwemm      01159  01159                % 08817 RGTR--
+220901010 Lamadelaine, Tëtelbi  01200  01200                % 08817 RGTR--
+220901003 Lamadelaine, Kierch   01201  01201                % 08817 RGTR--
+220901008 Lamadelaine, Schoul   01201  01201                % 08817 RGTR--
+220901013 Lamadelaine, Wisestr  01202  01202                % 08817 RGTR--
+220901012 Lamadelaine, Bei der  01203  01203                % 08817 RGTR--
+220902019 Pétange, Porte Lamad  01204  01204                % 08817 RGTR--
+220902004 Pétange, Cactus       01205  01205                % 08817 RGTR--
+220902013 Pétange, Maartplaz    01206  01206                % 08817 RGTR--
+220902006 Pétange, Gare         01207                       % 08817 RGTR--
+*Z 08818 RGTR--                                             % 08818 RGTR--
+*L 394      220903004 220902006  01353  01407               % 08818 RGTR--
+*A pl 220903004 220902006 000016  01353  01407              % 08818 RGTR--
+*A pn 220903004 220902006 000016  01353  01407              % 08818 RGTR--
+*R 1 220902006 220903004 220902006  01353  01407            % 08818 RGTR--
+*G RGB 220903004 220902006  01353  01407                    % 08818 RGTR--
+*A VE 220903004 220902006 000016  01353  01407              % 08818 RGTR--
+*I FD 220903004 220902006        0003351  01353  01407      % 08818 RGTR--
+220903004 Rodange, Fonderie            01353                % 08818 RGTR--
+220903005 Rodange, Fontaine d'  01354  01354                % 08818 RGTR--
+220903022 Rodange, Siole        01355  01355                % 08818 RGTR--
+220903003 Rodange, Croix St. P  01355  01355                % 08818 RGTR--
+220903025 Rodange, Waeschbur    01356  01356                % 08818 RGTR--
+220903007 Rodange, Gaardestroo  01357  01357                % 08818 RGTR--
+220903017 Rodange, rue Philipp  01358  01358                % 08818 RGTR--
+220903015 Rodange, Niederredin  01358  01358                % 08818 RGTR--
+220903021 Rodange, Schwemm      01359  01359                % 08818 RGTR--
+220901010 Lamadelaine, Tëtelbi  01400  01400                % 08818 RGTR--
+220901003 Lamadelaine, Kierch   01401  01401                % 08818 RGTR--
+220901008 Lamadelaine, Schoul   01401  01401                % 08818 RGTR--
+220901013 Lamadelaine, Wisestr  01402  01402                % 08818 RGTR--
+220901012 Lamadelaine, Bei der  01403  01403                % 08818 RGTR--
+220902019 Pétange, Porte Lamad  01404  01404                % 08818 RGTR--
+220902004 Pétange, Cactus       01405  01405                % 08818 RGTR--
+220902013 Pétange, Maartplaz    01406  01406                % 08818 RGTR--
+220902006 Pétange, Gare         01407                       % 08818 RGTR--
+*Z 08819 RGTR--                                             % 08819 RGTR--
+*L 394      220903004 220902006  01823  01837               % 08819 RGTR--
+*A pl 220903004 220902006 000016  01823  01837              % 08819 RGTR--
+*A pn 220903004 220902006 000016  01823  01837              % 08819 RGTR--
+*R 1 220902006 220903004 220902006  01823  01837            % 08819 RGTR--
+*G RGB 220903004 220902006  01823  01837                    % 08819 RGTR--
+*A VE 220903004 220902006 000016  01823  01837              % 08819 RGTR--
+*I FD 220903004 220902006        0002235  01823  01837      % 08819 RGTR--
+220903004 Rodange, Fonderie            01823                % 08819 RGTR--
+220903005 Rodange, Fontaine d'  01824  01824                % 08819 RGTR--
+220903022 Rodange, Siole        01825  01825                % 08819 RGTR--
+220903003 Rodange, Croix St. P  01825  01825                % 08819 RGTR--
+220903025 Rodange, Waeschbur    01826  01826                % 08819 RGTR--
+220903007 Rodange, Gaardestroo  01827  01827                % 08819 RGTR--
+220903017 Rodange, rue Philipp  01828  01828                % 08819 RGTR--
+220903015 Rodange, Niederredin  01828  01828                % 08819 RGTR--
+220903021 Rodange, Schwemm      01829  01829                % 08819 RGTR--
+220901010 Lamadelaine, Tëtelbi  01830  01830                % 08819 RGTR--
+220901003 Lamadelaine, Kierch   01831  01831                % 08819 RGTR--
+220901008 Lamadelaine, Schoul   01831  01831                % 08819 RGTR--
+220901013 Lamadelaine, Wisestr  01832  01832                % 08819 RGTR--
+220901012 Lamadelaine, Bei der  01833  01833                % 08819 RGTR--
+220902019 Pétange, Porte Lamad  01834  01834                % 08819 RGTR--
+220902004 Pétange, Cactus       01835  01835                % 08819 RGTR--
+220902013 Pétange, Maartplaz    01836  01836                % 08819 RGTR--
+220902006 Pétange, Gare         01837                       % 08819 RGTR--
+*Z 08820 RGTR--                                             % 08820 RGTR--
+*L 394      220902006 220903004  01019  01033               % 08820 RGTR--
+*A pl 220902006 220903004 000006  01019  01033              % 08820 RGTR--
+*A qn 220902006 220903004 000006  01019  01033              % 08820 RGTR--
+*R 2 220903004 220902006 220903004  01019  01033            % 08820 RGTR--
+*G RGB 220902006 220903004  01019  01033                    % 08820 RGTR--
+*A VE 220902006 220903004 000006  01019  01033              % 08820 RGTR--
+*I FD 220902006 220903004        0002304  01019  01033      % 08820 RGTR--
+220902006 Pétange, Gare                01019                % 08820 RGTR--
+220902003 Pétange, Gemeng       01019  01019                % 08820 RGTR--
+220902004 Pétange, Cactus       01021  01021                % 08820 RGTR--
+220902019 Pétange, Porte Lamad  01021  01021                % 08820 RGTR--
+220901012 Lamadelaine, Bei der  01022  01022                % 08820 RGTR--
+220901013 Lamadelaine, Wisestr  01023  01023                % 08820 RGTR--
+220901008 Lamadelaine, Schoul   01024  01024                % 08820 RGTR--
+220901003 Lamadelaine, Kierch   01025  01025                % 08820 RGTR--
+220901010 Lamadelaine, Tëtelbi  01026  01026                % 08820 RGTR--
+220903021 Rodange, Schwemm      01027  01027                % 08820 RGTR--
+220903015 Rodange, Niederredin  01027  01027                % 08820 RGTR--
+220903017 Rodange, rue Philipp  01028  01028                % 08820 RGTR--
+220903007 Rodange, Gaardestroo  01029  01029                % 08820 RGTR--
+220903025 Rodange, Waeschbur    01030  01030                % 08820 RGTR--
+220903003 Rodange, Croix St. P  01030  01030                % 08820 RGTR--
+220903022 Rodange, Siole        01031  01031                % 08820 RGTR--
+220903005 Rodange, Fontaine d'  01032  01032                % 08820 RGTR--
+220903004 Rodange, Fonderie     01033                       % 08820 RGTR--
+*Z 08821 RGTR--                                             % 08821 RGTR--
+*L 394      220902006 220903004  01119  01133               % 08821 RGTR--
+*A pl 220902006 220903004 000006  01119  01133              % 08821 RGTR--
+*A qn 220902006 220903004 000006  01119  01133              % 08821 RGTR--
+*R 2 220903004 220902006 220903004  01119  01133            % 08821 RGTR--
+*G RGB 220902006 220903004  01119  01133                    % 08821 RGTR--
+*A VE 220902006 220903004 000006  01119  01133              % 08821 RGTR--
+*I FD 220902006 220903004        0002305  01119  01133      % 08821 RGTR--
+220902006 Pétange, Gare                01119                % 08821 RGTR--
+220902003 Pétange, Gemeng       01119  01119                % 08821 RGTR--
+220902004 Pétange, Cactus       01121  01121                % 08821 RGTR--
+220902019 Pétange, Porte Lamad  01121  01121                % 08821 RGTR--
+220901012 Lamadelaine, Bei der  01122  01122                % 08821 RGTR--
+220901013 Lamadelaine, Wisestr  01123  01123                % 08821 RGTR--
+220901008 Lamadelaine, Schoul   01124  01124                % 08821 RGTR--
+220901003 Lamadelaine, Kierch   01125  01125                % 08821 RGTR--
+220901010 Lamadelaine, Tëtelbi  01126  01126                % 08821 RGTR--
+220903021 Rodange, Schwemm      01127  01127                % 08821 RGTR--
+220903015 Rodange, Niederredin  01127  01127                % 08821 RGTR--
+220903017 Rodange, rue Philipp  01128  01128                % 08821 RGTR--
+220903007 Rodange, Gaardestroo  01129  01129                % 08821 RGTR--
+220903025 Rodange, Waeschbur    01130  01130                % 08821 RGTR--
+220903003 Rodange, Croix St. P  01130  01130                % 08821 RGTR--
+220903022 Rodange, Siole        01131  01131                % 08821 RGTR--
+220903005 Rodange, Fontaine d'  01132  01132                % 08821 RGTR--
+220903004 Rodange, Fonderie     01133                       % 08821 RGTR--
+*Z 08822 RGTR--                                             % 08822 RGTR--
+*L 394      220902006 220903004  01319  01333               % 08822 RGTR--
+*A pl 220902006 220903004 000016  01319  01333              % 08822 RGTR--
+*A qn 220902006 220903004 000016  01319  01333              % 08822 RGTR--
+*R 2 220903004 220902006 220903004  01319  01333            % 08822 RGTR--
+*G RGB 220902006 220903004  01319  01333                    % 08822 RGTR--
+*A VE 220902006 220903004 000016  01319  01333              % 08822 RGTR--
+*I FD 220902006 220903004        0002307  01319  01333      % 08822 RGTR--
+220902006 Pétange, Gare                01319                % 08822 RGTR--
+220902003 Pétange, Gemeng       01319  01319                % 08822 RGTR--
+220902004 Pétange, Cactus       01321  01321                % 08822 RGTR--
+220902019 Pétange, Porte Lamad  01321  01321                % 08822 RGTR--
+220901012 Lamadelaine, Bei der  01322  01322                % 08822 RGTR--
+220901013 Lamadelaine, Wisestr  01323  01323                % 08822 RGTR--
+220901008 Lamadelaine, Schoul   01324  01324                % 08822 RGTR--
+220901003 Lamadelaine, Kierch   01325  01325                % 08822 RGTR--
+220901010 Lamadelaine, Tëtelbi  01326  01326                % 08822 RGTR--
+220903021 Rodange, Schwemm      01327  01327                % 08822 RGTR--
+220903015 Rodange, Niederredin  01327  01327                % 08822 RGTR--
+220903017 Rodange, rue Philipp  01328  01328                % 08822 RGTR--
+220903007 Rodange, Gaardestroo  01329  01329                % 08822 RGTR--
+220903025 Rodange, Waeschbur    01330  01330                % 08822 RGTR--
+220903003 Rodange, Croix St. P  01330  01330                % 08822 RGTR--
+220903022 Rodange, Siole        01331  01331                % 08822 RGTR--
+220903005 Rodange, Fontaine d'  01332  01332                % 08822 RGTR--
+220903004 Rodange, Fonderie     01333                       % 08822 RGTR--
+*Z 08823 RGTR--                                             % 08823 RGTR--
+*L 394      220902006 220903004  01419  01433               % 08823 RGTR--
+*A pl 220902006 220903004 000016  01419  01433              % 08823 RGTR--
+*A qn 220902006 220903004 000016  01419  01433              % 08823 RGTR--
+*R 2 220903004 220902006 220903004  01419  01433            % 08823 RGTR--
+*G RGB 220902006 220903004  01419  01433                    % 08823 RGTR--
+*A VE 220902006 220903004 000016  01419  01433              % 08823 RGTR--
+*I FD 220902006 220903004        0002308  01419  01433      % 08823 RGTR--
+220902006 Pétange, Gare                01419                % 08823 RGTR--
+220902003 Pétange, Gemeng       01419  01419                % 08823 RGTR--
+220902004 Pétange, Cactus       01421  01421                % 08823 RGTR--
+220902019 Pétange, Porte Lamad  01421  01421                % 08823 RGTR--
+220901012 Lamadelaine, Bei der  01422  01422                % 08823 RGTR--
+220901013 Lamadelaine, Wisestr  01423  01423                % 08823 RGTR--
+220901008 Lamadelaine, Schoul   01424  01424                % 08823 RGTR--
+220901003 Lamadelaine, Kierch   01425  01425                % 08823 RGTR--
+220901010 Lamadelaine, Tëtelbi  01426  01426                % 08823 RGTR--
+220903021 Rodange, Schwemm      01427  01427                % 08823 RGTR--
+220903015 Rodange, Niederredin  01427  01427                % 08823 RGTR--
+220903017 Rodange, rue Philipp  01428  01428                % 08823 RGTR--
+220903007 Rodange, Gaardestroo  01429  01429                % 08823 RGTR--
+220903025 Rodange, Waeschbur    01430  01430                % 08823 RGTR--
+220903003 Rodange, Croix St. P  01430  01430                % 08823 RGTR--
+220903022 Rodange, Siole        01431  01431                % 08823 RGTR--
+220903005 Rodange, Fontaine d'  01432  01432                % 08823 RGTR--
+220903004 Rodange, Fonderie     01433                       % 08823 RGTR--
+*Z 08824 RGTR--                                             % 08824 RGTR--
+*L 394      220902006 220903004  01453  01507               % 08824 RGTR--
+*A pl 220902006 220903004 000016  01453  01507              % 08824 RGTR--
+*A qn 220902006 220903004 000016  01453  01507              % 08824 RGTR--
+*R 2 220903004 220902006 220903004  01453  01507            % 08824 RGTR--
+*G RGB 220902006 220903004  01453  01507                    % 08824 RGTR--
+*A VE 220902006 220903004 000016  01453  01507              % 08824 RGTR--
+*I FD 220902006 220903004        0001936  01453  01507      % 08824 RGTR--
+220902006 Pétange, Gare                01453                % 08824 RGTR--
+220902003 Pétange, Gemeng       01453  01453                % 08824 RGTR--
+220902004 Pétange, Cactus       01455  01455                % 08824 RGTR--
+220902019 Pétange, Porte Lamad  01455  01455                % 08824 RGTR--
+220901012 Lamadelaine, Bei der  01456  01456                % 08824 RGTR--
+220901013 Lamadelaine, Wisestr  01457  01457                % 08824 RGTR--
+220901008 Lamadelaine, Schoul   01458  01458                % 08824 RGTR--
+220901003 Lamadelaine, Kierch   01459  01459                % 08824 RGTR--
+220901010 Lamadelaine, Tëtelbi  01500  01500                % 08824 RGTR--
+220903021 Rodange, Schwemm      01501  01501                % 08824 RGTR--
+220903015 Rodange, Niederredin  01501  01501                % 08824 RGTR--
+220903017 Rodange, rue Philipp  01502  01502                % 08824 RGTR--
+220903007 Rodange, Gaardestroo  01503  01503                % 08824 RGTR--
+220903025 Rodange, Waeschbur    01504  01504                % 08824 RGTR--
+220903003 Rodange, Croix St. P  01504  01504                % 08824 RGTR--
+220903022 Rodange, Siole        01505  01505                % 08824 RGTR--
+220903005 Rodange, Fontaine d'  01506  01506                % 08824 RGTR--
+220903004 Rodange, Fonderie     01507                       % 08824 RGTR--
+*Z 08825 RGTR--                                             % 08825 RGTR--
+*L 394      220902006 220903004  01553  01607               % 08825 RGTR--
+*A pl 220902006 220903004 000016  01553  01607              % 08825 RGTR--
+*A qn 220902006 220903004 000016  01553  01607              % 08825 RGTR--
+*R 2 220903004 220902006 220903004  01553  01607            % 08825 RGTR--
+*G RGB 220902006 220903004  01553  01607                    % 08825 RGTR--
+*A VE 220902006 220903004 000016  01553  01607              % 08825 RGTR--
+*I FD 220902006 220903004        0001939  01553  01607      % 08825 RGTR--
+220902006 Pétange, Gare                01553                % 08825 RGTR--
+220902003 Pétange, Gemeng       01553  01553                % 08825 RGTR--
+220902004 Pétange, Cactus       01555  01555                % 08825 RGTR--
+220902019 Pétange, Porte Lamad  01555  01555                % 08825 RGTR--
+220901012 Lamadelaine, Bei der  01556  01556                % 08825 RGTR--
+220901013 Lamadelaine, Wisestr  01557  01557                % 08825 RGTR--
+220901008 Lamadelaine, Schoul   01558  01558                % 08825 RGTR--
+220901003 Lamadelaine, Kierch   01559  01559                % 08825 RGTR--
+220901010 Lamadelaine, Tëtelbi  01600  01600                % 08825 RGTR--
+220903021 Rodange, Schwemm      01601  01601                % 08825 RGTR--
+220903015 Rodange, Niederredin  01601  01601                % 08825 RGTR--
+220903017 Rodange, rue Philipp  01602  01602                % 08825 RGTR--
+220903007 Rodange, Gaardestroo  01603  01603                % 08825 RGTR--
+220903025 Rodange, Waeschbur    01604  01604                % 08825 RGTR--
+220903003 Rodange, Croix St. P  01604  01604                % 08825 RGTR--
+220903022 Rodange, Siole        01605  01605                % 08825 RGTR--
+220903005 Rodange, Fontaine d'  01606  01606                % 08825 RGTR--
+220903004 Rodange, Fonderie     01607                       % 08825 RGTR--
+*Z 08826 RGTR--                                             % 08826 RGTR--
+*L 394      220902006 220903004  01838  01852               % 08826 RGTR--
+*A pl 220902006 220903004 000016  01838  01852              % 08826 RGTR--
+*A qn 220902006 220903004 000016  01838  01852              % 08826 RGTR--
+*R 2 220903004 220902006 220903004  01838  01852            % 08826 RGTR--
+*G RGB 220902006 220903004  01838  01852                    % 08826 RGTR--
+*A VE 220902006 220903004 000016  01838  01852              % 08826 RGTR--
+*I FD 220902006 220903004        0001430  01838  01852      % 08826 RGTR--
+220902006 Pétange, Gare                01838                % 08826 RGTR--
+220902003 Pétange, Gemeng       01838  01838                % 08826 RGTR--
+220902004 Pétange, Cactus       01840  01840                % 08826 RGTR--
+220902019 Pétange, Porte Lamad  01840  01840                % 08826 RGTR--
+220901012 Lamadelaine, Bei der  01841  01841                % 08826 RGTR--
+220901013 Lamadelaine, Wisestr  01842  01842                % 08826 RGTR--
+220901008 Lamadelaine, Schoul   01843  01843                % 08826 RGTR--
+220901003 Lamadelaine, Kierch   01844  01844                % 08826 RGTR--
+220901010 Lamadelaine, Tëtelbi  01845  01845                % 08826 RGTR--
+220903021 Rodange, Schwemm      01846  01846                % 08826 RGTR--
+220903015 Rodange, Niederredin  01846  01846                % 08826 RGTR--
+220903017 Rodange, rue Philipp  01847  01847                % 08826 RGTR--
+220903007 Rodange, Gaardestroo  01848  01848                % 08826 RGTR--
+220903025 Rodange, Waeschbur    01849  01849                % 08826 RGTR--
+220903003 Rodange, Croix St. P  01849  01849                % 08826 RGTR--
+220903022 Rodange, Siole        01850  01850                % 08826 RGTR--
+220903005 Rodange, Fontaine d'  01851  01851                % 08826 RGTR--
+220903004 Rodange, Fonderie     01852                       % 08826 RGTR--
+*Z 08827 RGTR--                                             % 08827 RGTR--
+*L 394      220902006 220903004  01908  01922               % 08827 RGTR--
+*A pl 220902006 220903004 000016  01908  01922              % 08827 RGTR--
+*A qn 220902006 220903004 000016  01908  01922              % 08827 RGTR--
+*R 2 220903004 220902006 220903004  01908  01922            % 08827 RGTR--
+*G RGB 220902006 220903004  01908  01922                    % 08827 RGTR--
+*A VE 220902006 220903004 000016  01908  01922              % 08827 RGTR--
+*I FD 220902006 220903004        0003183  01908  01922      % 08827 RGTR--
+220902006 Pétange, Gare                01908                % 08827 RGTR--
+220902003 Pétange, Gemeng       01908  01908                % 08827 RGTR--
+220902004 Pétange, Cactus       01910  01910                % 08827 RGTR--
+220902019 Pétange, Porte Lamad  01910  01910                % 08827 RGTR--
+220901012 Lamadelaine, Bei der  01911  01911                % 08827 RGTR--
+220901013 Lamadelaine, Wisestr  01912  01912                % 08827 RGTR--
+220901008 Lamadelaine, Schoul   01913  01913                % 08827 RGTR--
+220901003 Lamadelaine, Kierch   01914  01914                % 08827 RGTR--
+220901010 Lamadelaine, Tëtelbi  01915  01915                % 08827 RGTR--
+220903021 Rodange, Schwemm      01916  01916                % 08827 RGTR--
+220903015 Rodange, Niederredin  01916  01916                % 08827 RGTR--
+220903017 Rodange, rue Philipp  01917  01917                % 08827 RGTR--
+220903007 Rodange, Gaardestroo  01918  01918                % 08827 RGTR--
+220903025 Rodange, Waeschbur    01919  01919                % 08827 RGTR--
+220903003 Rodange, Croix St. P  01919  01919                % 08827 RGTR--
+220903022 Rodange, Siole        01920  01920                % 08827 RGTR--
+220903005 Rodange, Fontaine d'  01921  01921                % 08827 RGTR--
+220903004 Rodange, Fonderie     01922                       % 08827 RGTR--
+*Z 08828 RGTR--                                             % 08828 RGTR--
+*L 394      220902006 220903004  00750  00805               % 08828 RGTR--
+*A pl 220902006 220903004 000006  00750  00805              % 08828 RGTR--
+*A qn 220902006 220903004 000006  00750  00805              % 08828 RGTR--
+*R 2 220903004 220902006 220903004  00750  00805            % 08828 RGTR--
+*G RGB 220902006 220903004  00750  00805                    % 08828 RGTR--
+*A VE 220902006 220903004 000006  00750  00805              % 08828 RGTR--
+*I FD 220902006 220903004        0002250  00750  00805      % 08828 RGTR--
+220902006 Pétange, Gare                00750                % 08828 RGTR--
+220902003 Pétange, Gemeng       00750  00750                % 08828 RGTR--
+220902004 Pétange, Cactus       00753  00753                % 08828 RGTR--
+220902019 Pétange, Porte Lamad  00753  00753                % 08828 RGTR--
+220901012 Lamadelaine, Bei der  00754  00754                % 08828 RGTR--
+220901013 Lamadelaine, Wisestr  00755  00755                % 08828 RGTR--
+220901008 Lamadelaine, Schoul   00756  00756                % 08828 RGTR--
+220901003 Lamadelaine, Kierch   00757  00757                % 08828 RGTR--
+220901010 Lamadelaine, Tëtelbi  00758  00758                % 08828 RGTR--
+220903021 Rodange, Schwemm      00758  00758                % 08828 RGTR--
+220903015 Rodange, Niederredin  00759  00759                % 08828 RGTR--
+220903017 Rodange, rue Philipp  00800  00800                % 08828 RGTR--
+220903007 Rodange, Gaardestroo  00801  00801                % 08828 RGTR--
+220903025 Rodange, Waeschbur    00802  00802                % 08828 RGTR--
+220903003 Rodange, Croix St. P  00803  00803                % 08828 RGTR--
+220903022 Rodange, Siole        00803  00803                % 08828 RGTR--
+220903005 Rodange, Fontaine d'  00804  00804                % 08828 RGTR--
+220903004 Rodange, Fonderie     00805                       % 08828 RGTR--
+*Z 08829 RGTR--                                             % 08829 RGTR--
+*L 394      220902006 220903004  00919  00934               % 08829 RGTR--
+*A pl 220902006 220903004 000006  00919  00934              % 08829 RGTR--
+*A qn 220902006 220903004 000006  00919  00934              % 08829 RGTR--
+*R 2 220903004 220902006 220903004  00919  00934            % 08829 RGTR--
+*G RGB 220902006 220903004  00919  00934                    % 08829 RGTR--
+*A VE 220902006 220903004 000006  00919  00934              % 08829 RGTR--
+*I FD 220902006 220903004        0003416  00919  00934      % 08829 RGTR--
+220902006 Pétange, Gare                00919                % 08829 RGTR--
+220902003 Pétange, Gemeng       00919  00919                % 08829 RGTR--
+220902004 Pétange, Cactus       00922  00922                % 08829 RGTR--
+220902019 Pétange, Porte Lamad  00922  00922                % 08829 RGTR--
+220901012 Lamadelaine, Bei der  00923  00923                % 08829 RGTR--
+220901013 Lamadelaine, Wisestr  00924  00924                % 08829 RGTR--
+220901008 Lamadelaine, Schoul   00925  00925                % 08829 RGTR--
+220901003 Lamadelaine, Kierch   00926  00926                % 08829 RGTR--
+220901010 Lamadelaine, Tëtelbi  00927  00927                % 08829 RGTR--
+220903021 Rodange, Schwemm      00927  00927                % 08829 RGTR--
+220903015 Rodange, Niederredin  00928  00928                % 08829 RGTR--
+220903017 Rodange, rue Philipp  00929  00929                % 08829 RGTR--
+220903007 Rodange, Gaardestroo  00930  00930                % 08829 RGTR--
+220903025 Rodange, Waeschbur    00931  00931                % 08829 RGTR--
+220903003 Rodange, Croix St. P  00932  00932                % 08829 RGTR--
+220903022 Rodange, Siole        00932  00932                % 08829 RGTR--
+220903005 Rodange, Fontaine d'  00933  00933                % 08829 RGTR--
+220903004 Rodange, Fonderie     00934                       % 08829 RGTR--
+*Z 08830 RGTR--                                             % 08830 RGTR--
+*L 394      220902006 220903004  01638  01653               % 08830 RGTR--
+*A pl 220902006 220903004 000016  01638  01653              % 08830 RGTR--
+*A qn 220902006 220903004 000016  01638  01653              % 08830 RGTR--
+*R 2 220903004 220902006 220903004  01638  01653            % 08830 RGTR--
+*G RGB 220902006 220903004  01638  01653                    % 08830 RGTR--
+*A VE 220902006 220903004 000016  01638  01653              % 08830 RGTR--
+*I FD 220902006 220903004        0002779  01638  01653      % 08830 RGTR--
+220902006 Pétange, Gare                01638                % 08830 RGTR--
+220902003 Pétange, Gemeng       01638  01638                % 08830 RGTR--
+220902004 Pétange, Cactus       01641  01641                % 08830 RGTR--
+220902019 Pétange, Porte Lamad  01641  01641                % 08830 RGTR--
+220901012 Lamadelaine, Bei der  01642  01642                % 08830 RGTR--
+220901013 Lamadelaine, Wisestr  01643  01643                % 08830 RGTR--
+220901008 Lamadelaine, Schoul   01644  01644                % 08830 RGTR--
+220901003 Lamadelaine, Kierch   01645  01645                % 08830 RGTR--
+220901010 Lamadelaine, Tëtelbi  01646  01646                % 08830 RGTR--
+220903021 Rodange, Schwemm      01646  01646                % 08830 RGTR--
+220903015 Rodange, Niederredin  01647  01647                % 08830 RGTR--
+220903017 Rodange, rue Philipp  01648  01648                % 08830 RGTR--
+220903007 Rodange, Gaardestroo  01649  01649                % 08830 RGTR--
+220903025 Rodange, Waeschbur    01650  01650                % 08830 RGTR--
+220903003 Rodange, Croix St. P  01651  01651                % 08830 RGTR--
+220903022 Rodange, Siole        01651  01651                % 08830 RGTR--
+220903005 Rodange, Fontaine d'  01652  01652                % 08830 RGTR--
+220903004 Rodange, Fonderie     01653                       % 08830 RGTR--
+*Z 08831 RGTR--                                             % 08831 RGTR--
+*L 394      220902006 220903004  01738  01753               % 08831 RGTR--
+*A pl 220902006 220903004 000016  01738  01753              % 08831 RGTR--
+*A qn 220902006 220903004 000016  01738  01753              % 08831 RGTR--
+*R 2 220903004 220902006 220903004  01738  01753            % 08831 RGTR--
+*G RGB 220902006 220903004  01738  01753                    % 08831 RGTR--
+*A VE 220902006 220903004 000016  01738  01753              % 08831 RGTR--
+*I FD 220902006 220903004        0002919  01738  01753      % 08831 RGTR--
+220902006 Pétange, Gare                01738                % 08831 RGTR--
+220902003 Pétange, Gemeng       01738  01738                % 08831 RGTR--
+220902004 Pétange, Cactus       01741  01741                % 08831 RGTR--
+220902019 Pétange, Porte Lamad  01741  01741                % 08831 RGTR--
+220901012 Lamadelaine, Bei der  01742  01742                % 08831 RGTR--
+220901013 Lamadelaine, Wisestr  01743  01743                % 08831 RGTR--
+220901008 Lamadelaine, Schoul   01744  01744                % 08831 RGTR--
+220901003 Lamadelaine, Kierch   01745  01745                % 08831 RGTR--
+220901010 Lamadelaine, Tëtelbi  01746  01746                % 08831 RGTR--
+220903021 Rodange, Schwemm      01746  01746                % 08831 RGTR--
+220903015 Rodange, Niederredin  01747  01747                % 08831 RGTR--
+220903017 Rodange, rue Philipp  01748  01748                % 08831 RGTR--
+220903007 Rodange, Gaardestroo  01749  01749                % 08831 RGTR--
+220903025 Rodange, Waeschbur    01750  01750                % 08831 RGTR--
+220903003 Rodange, Croix St. P  01751  01751                % 08831 RGTR--
+220903022 Rodange, Siole        01751  01751                % 08831 RGTR--
+220903005 Rodange, Fontaine d'  01752  01752                % 08831 RGTR--
+220903004 Rodange, Fonderie     01753                       % 08831 RGTR--
+*Z 08832 RGTR--                                             % 08832 RGTR--
+*L 394      220902006 220903004  01808  01823               % 08832 RGTR--
+*A pl 220902006 220903004 000016  01808  01823              % 08832 RGTR--
+*A qn 220902006 220903004 000016  01808  01823              % 08832 RGTR--
+*R 2 220903004 220902006 220903004  01808  01823            % 08832 RGTR--
+*G RGB 220902006 220903004  01808  01823                    % 08832 RGTR--
+*A VE 220902006 220903004 000016  01808  01823              % 08832 RGTR--
+*I FD 220902006 220903004        0003344  01808  01823      % 08832 RGTR--
+220902006 Pétange, Gare                01808                % 08832 RGTR--
+220902003 Pétange, Gemeng       01808  01808                % 08832 RGTR--
+220902004 Pétange, Cactus       01811  01811                % 08832 RGTR--
+220902019 Pétange, Porte Lamad  01811  01811                % 08832 RGTR--
+220901012 Lamadelaine, Bei der  01812  01812                % 08832 RGTR--
+220901013 Lamadelaine, Wisestr  01813  01813                % 08832 RGTR--
+220901008 Lamadelaine, Schoul   01814  01814                % 08832 RGTR--
+220901003 Lamadelaine, Kierch   01815  01815                % 08832 RGTR--
+220901010 Lamadelaine, Tëtelbi  01816  01816                % 08832 RGTR--
+220903021 Rodange, Schwemm      01816  01816                % 08832 RGTR--
+220903015 Rodange, Niederredin  01817  01817                % 08832 RGTR--
+220903017 Rodange, rue Philipp  01818  01818                % 08832 RGTR--
+220903007 Rodange, Gaardestroo  01819  01819                % 08832 RGTR--
+220903025 Rodange, Waeschbur    01820  01820                % 08832 RGTR--
+220903003 Rodange, Croix St. P  01821  01821                % 08832 RGTR--
+220903022 Rodange, Siole        01821  01821                % 08832 RGTR--
+220903005 Rodange, Fontaine d'  01822  01822                % 08832 RGTR--
+220903004 Rodange, Fonderie     01823                       % 08832 RGTR--
+*Z 08833 RGTR--                                             % 08833 RGTR--
+*L 394      220902006 220902006  01219  01242               % 08833 RGTR--
+*A pl 220902006 220902006 000006  01219  01242              % 08833 RGTR--
+*A pn 220902006 220902006 000006  01219  01242              % 08833 RGTR--
+*R 2 220902006 220902006 220902006  01219  01242            % 08833 RGTR--
+*G RGB 220902006 220902006  01219  01242                    % 08833 RGTR--
+*A VE 220902006 220902006 000006  01219  01242              % 08833 RGTR--
+*I FD 220902006 220902006        0002306  01219  01242      % 08833 RGTR--
+220902006 Pétange, Gare                01219                % 08833 RGTR--
+220902003 Pétange, Gemeng       01219  01219                % 08833 RGTR--
+220902004 Pétange, Cactus       01221  01221                % 08833 RGTR--
+220902019 Pétange, Porte Lamad  01221  01221                % 08833 RGTR--
+220901012 Lamadelaine, Bei der  01222  01222                % 08833 RGTR--
+220901013 Lamadelaine, Wisestr  01223  01223                % 08833 RGTR--
+220901008 Lamadelaine, Schoul   01224  01224                % 08833 RGTR--
+220901003 Lamadelaine, Kierch   01225  01225                % 08833 RGTR--
+220901010 Lamadelaine, Tëtelbi  01226  01226                % 08833 RGTR--
+220903021 Rodange, Schwemm      01227  01227                % 08833 RGTR--
+220903015 Rodange, Niederredin  01227  01227                % 08833 RGTR--
+220903017 Rodange, rue Philipp  01228  01228                % 08833 RGTR--
+220903007 Rodange, Gaardestroo  01229  01229                % 08833 RGTR--
+220903025 Rodange, Waeschbur    01230  01230                % 08833 RGTR--
+220903003 Rodange, Croix St. P  01230  01230                % 08833 RGTR--
+220903022 Rodange, Siole        01231  01231                % 08833 RGTR--
+220903005 Rodange, Fontaine d'  01232  01232                % 08833 RGTR--
+220903004 Rodange, Fonderie     01233  01233                % 08833 RGTR--
+220903020 Rodange, Schlackenmi  01234  01234                % 08833 RGTR--
+220903009 Rodange, Gendarmerie  01235  01235                % 08833 RGTR--
+220903008 Rodange, Gare         01236  01236                % 08833 RGTR--
+220903018 Rodange, Raths        01237  01237                % 08833 RGTR--
+220901007 Lamadelaine, Rte de   01238  01238                % 08833 RGTR--
+220902019 Pétange, Porte Lamad  01239  01239                % 08833 RGTR--
+220902004 Pétange, Cactus       01240  01240                % 08833 RGTR--
+220902013 Pétange, Maartplaz    01241  01241                % 08833 RGTR--
+220902006 Pétange, Gare         01242                       % 08833 RGTR--
+*Z 08834 RGTR--                                             % 08834 RGTR--
+*L 394      220902006 220902006  01248  01311               % 08834 RGTR--
+*A pl 220902006 220902006 000006  01248  01311              % 08834 RGTR--
+*A pn 220902006 220902006 000006  01248  01311              % 08834 RGTR--
+*R 2 220902006 220902006 220902006  01248  01311            % 08834 RGTR--
+*G RGB 220902006 220902006  01248  01311                    % 08834 RGTR--
+*A VE 220902006 220902006 000006  01248  01311              % 08834 RGTR--
+*I FD 220902006 220902006        0002942  01248  01311      % 08834 RGTR--
+220902006 Pétange, Gare                01248                % 08834 RGTR--
+220902003 Pétange, Gemeng       01248  01248                % 08834 RGTR--
+220902004 Pétange, Cactus       01250  01250                % 08834 RGTR--
+220902019 Pétange, Porte Lamad  01250  01250                % 08834 RGTR--
+220901012 Lamadelaine, Bei der  01251  01251                % 08834 RGTR--
+220901013 Lamadelaine, Wisestr  01252  01252                % 08834 RGTR--
+220901008 Lamadelaine, Schoul   01253  01253                % 08834 RGTR--
+220901003 Lamadelaine, Kierch   01254  01254                % 08834 RGTR--
+220901010 Lamadelaine, Tëtelbi  01255  01255                % 08834 RGTR--
+220903021 Rodange, Schwemm      01256  01256                % 08834 RGTR--
+220903015 Rodange, Niederredin  01256  01256                % 08834 RGTR--
+220903017 Rodange, rue Philipp  01257  01257                % 08834 RGTR--
+220903007 Rodange, Gaardestroo  01258  01258                % 08834 RGTR--
+220903025 Rodange, Waeschbur    01259  01259                % 08834 RGTR--
+220903003 Rodange, Croix St. P  01259  01259                % 08834 RGTR--
+220903022 Rodange, Siole        01300  01300                % 08834 RGTR--
+220903005 Rodange, Fontaine d'  01301  01301                % 08834 RGTR--
+220903004 Rodange, Fonderie     01302  01302                % 08834 RGTR--
+220903020 Rodange, Schlackenmi  01303  01303                % 08834 RGTR--
+220903009 Rodange, Gendarmerie  01304  01304                % 08834 RGTR--
+220903008 Rodange, Gare         01305  01305                % 08834 RGTR--
+220903018 Rodange, Raths        01306  01306                % 08834 RGTR--
+220901007 Lamadelaine, Rte de   01307  01307                % 08834 RGTR--
+220902019 Pétange, Porte Lamad  01308  01308                % 08834 RGTR--
+220902004 Pétange, Cactus       01309  01309                % 08834 RGTR--
+220902013 Pétange, Maartplaz    01310  01310                % 08834 RGTR--
+220902006 Pétange, Gare         01311                       % 08834 RGTR--
+*Z 08835 RGTR--                                             % 08835 RGTR--
+*L 394      220902006 220902006  01708  01734               % 08835 RGTR--
+*A pl 220902006 220902006 000016  01708  01734              % 08835 RGTR--
+*A pn 220902006 220902006 000016  01708  01734              % 08835 RGTR--
+*R 2 220902006 220902006 220902006  01708  01734            % 08835 RGTR--
+*G RGB 220902006 220902006  01708  01734                    % 08835 RGTR--
+*A VE 220902006 220902006 000016  01708  01734              % 08835 RGTR--
+*I FD 220902006 220902006        0003086  01708  01734      % 08835 RGTR--
+220902006 Pétange, Gare                01708                % 08835 RGTR--
+220902003 Pétange, Gemeng       01708  01708                % 08835 RGTR--
+220902004 Pétange, Cactus       01711  01711                % 08835 RGTR--
+220902019 Pétange, Porte Lamad  01711  01711                % 08835 RGTR--
+220901012 Lamadelaine, Bei der  01712  01712                % 08835 RGTR--
+220901013 Lamadelaine, Wisestr  01713  01713                % 08835 RGTR--
+220901008 Lamadelaine, Schoul   01714  01714                % 08835 RGTR--
+220901003 Lamadelaine, Kierch   01715  01715                % 08835 RGTR--
+220901010 Lamadelaine, Tëtelbi  01716  01716                % 08835 RGTR--
+220903021 Rodange, Schwemm      01716  01716                % 08835 RGTR--
+220903015 Rodange, Niederredin  01717  01717                % 08835 RGTR--
+220903017 Rodange, rue Philipp  01718  01718                % 08835 RGTR--
+220903007 Rodange, Gaardestroo  01719  01719                % 08835 RGTR--
+220903025 Rodange, Waeschbur    01720  01720                % 08835 RGTR--
+220903003 Rodange, Croix St. P  01721  01721                % 08835 RGTR--
+220903022 Rodange, Siole        01721  01721                % 08835 RGTR--
+220903005 Rodange, Fontaine d'  01722  01722                % 08835 RGTR--
+220903004 Rodange, Fonderie     01723  01723                % 08835 RGTR--
+220903020 Rodange, Schlackenmi  01724  01724                % 08835 RGTR--
+220903009 Rodange, Gendarmerie  01726  01726                % 08835 RGTR--
+220903008 Rodange, Gare         01727  01727                % 08835 RGTR--
+220903018 Rodange, Raths        01728  01728                % 08835 RGTR--
+220901007 Lamadelaine, Rte de   01729  01729                % 08835 RGTR--
+220902019 Pétange, Porte Lamad  01730  01730                % 08835 RGTR--
+220902004 Pétange, Cactus       01731  01731                % 08835 RGTR--
+220902013 Pétange, Maartplaz    01732  01732                % 08835 RGTR--
+220902006 Pétange, Gare         01734                       % 08835 RGTR--

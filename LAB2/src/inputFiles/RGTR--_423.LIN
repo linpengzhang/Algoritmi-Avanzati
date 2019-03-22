@@ -1,0 +1,111 @@
+*F 03 2
+*Z 09175 RGTR--                                             % 09175 RGTR--
+*L 423      210401007 160904007  00635  00806               % 09175 RGTR--
+*A bi 210401007 160904007 000030  00635  00806              % 09175 RGTR--
+*A ag 210401007 160904007 000030  00635  00806              % 09175 RGTR--
+*A dx 210401007 160904007 000030  00635  00806              % 09175 RGTR--
+*A UC 210401007 160904007 000030  00635  00806              % 09175 RGTR--
+*A ad 210401007 160904007 000030  00635  00806              % 09175 RGTR--
+*R 1 160904007 210401007 160904007  00635  00806            % 09175 RGTR--
+*G RGB 210401007 160904007  00635  00806                    % 09175 RGTR--
+*A VE 210401007 160904007 000030  00635  00806              % 09175 RGTR--
+*I FD 210401007 160904007        0002091  00635  00806      % 09175 RGTR--
+210401007 Canach, Z.A. Rëcksch         00635                % 09175 RGTR--
+210401002 Canach, Huehlgaass    00637  00637                % 09175 RGTR--
+210401006 Canach, Weber         00638  00638                % 09175 RGTR--
+210401004 Canach, Post          00638  00638                % 09175 RGTR--
+210401003 Canach, Op der Bréck  00639  00639                % 09175 RGTR--
+210401001 Canach, Am Stee       00640  00640                % 09175 RGTR--
+180304001 Gostingen, Am Ennerd  00643  00643                % 09175 RGTR--
+180304002 Gostingen, Kiirch     00643  00643                % 09175 RGTR--
+180304003 Gostingen, Festsall   00644  00644                % 09175 RGTR--
+180802005 Ehnen, Neie Wee       00649  00649                % 09175 RGTR--
+180804003 Wormeldange, Gewân    00651  00651                % 09175 RGTR--
+180804002 Wormeldange, Geméen   00652  00652                % 09175 RGTR--
+180804005 Wormeldange, Op der   00653  00653                % 09175 RGTR--
+180804004 Wormeldange, Kellere  00653  00653                % 09175 RGTR--
+180801001 Ahn, Beim Quai        00656  00656                % 09175 RGTR--
+180803005 Machtum, Bei der Sch  00659  00659                % 09175 RGTR--
+180305004 Niederdonven, Op der  00704  00704                % 09175 RGTR--
+180305003 Niederdonven, Bei de  00705  00705                % 09175 RGTR--
+180305001 Niederdonven, Beim F  00706  00706                % 09175 RGTR--
+180306001 Oberdonven            00709  00709                % 09175 RGTR--
+180302001 Flaxweiler, Buchholz  00712  00712                % 09175 RGTR--
+180302003 Flaxweiler, Am Faubo  00714  00714                % 09175 RGTR--
+180303001 Flaxweiler, Bei Knup  00715  00715                % 09175 RGTR--
+180303002 Flaxweiler, Op der B  00715  00715                % 09175 RGTR--
+180101001 Banzelt, Ort          00718  00718                % 09175 RGTR--
+180106001 Roodt/Syre, Barriär   00720  00720                % 09175 RGTR--
+180106007 Roodt/Syre, Bowengsb  00721  00721                % 09175 RGTR--
+180106008 Roodt/Syre, Rue d'Ol  00721  00721                % 09175 RGTR--
+180105003 Olingen, Rue de Rode  00724  00724                % 09175 RGTR--
+180105002 Olingen, Beim lescht  00726  00726                % 09175 RGTR--
+180512002 Rodenbourg, An der S  00727  00727                % 09175 RGTR--
+180512001 Rodenbourg, Am Duerf  00728  00728                % 09175 RGTR--
+180508002 Gonderange, Eeschële  00732  00732                % 09175 RGTR--
+180508003 Gonderange, Mierchen  00734  00734                % 09175 RGTR--
+180511009 Junglinster, Op der   00735  00735                % 09175 RGTR--
+180511005 Junglinster, Um Lei   00736  00736                % 09175 RGTR--
+180511007 Junglinster, Um Reil  00738  00738                % 09175 RGTR--
+180511006 Junglinster, Um Radi  00740  00740                % 09175 RGTR--
+180503001 Blumenthal/Blummenda  00743  00743                % 09175 RGTR--
+160502001 Reuland               00745  00745                % 09175 RGTR--
+160501004 Heffingen, Thommes    00747  00747                % 09175 RGTR--
+160501002 Heffingen, Centre     00748  00748                % 09175 RGTR--
+160601008 Larochette, Spuerkee  00752  00752                % 09175 RGTR--
+160904007 Mersch, Lycée Ermesi  00806                       % 09175 RGTR--
+*Z 09176 RGTR--                                             % 09176 RGTR--
+*L 423      160904007 210401007  01630  01802               % 09176 RGTR--
+*A bi 160904007 210401007 000030  01630  01802              % 09176 RGTR--
+*A ag 160904007 210401007 000030  01630  01802              % 09176 RGTR--
+*A mf 160904007 210401007 000030  01630  01802              % 09176 RGTR--
+*A ad 160904007 210401007 000030  01630  01802              % 09176 RGTR--
+*R 2 210401007 160904007 210401007  01630  01802            % 09176 RGTR--
+*G RGB 160904007 210401007  01630  01802                    % 09176 RGTR--
+*A VE 160904007 210401007 000030  01630  01802              % 09176 RGTR--
+*I FD 160904007 210401007        0002082  01630  01802      % 09176 RGTR--
+160904007 Mersch, Lycée Ermesi         01630                % 09176 RGTR--
+160601008 Larochette, Spuerkee  01644  01644                % 09176 RGTR--
+160501002 Heffingen, Centre     01648  01648                % 09176 RGTR--
+160501004 Heffingen, Thommes    01649  01649                % 09176 RGTR--
+160502001 Reuland               01651  01651                % 09176 RGTR--
+180503001 Blumenthal/Blummenda  01653  01653                % 09176 RGTR--
+180511006 Junglinster, Um Radi  01656  01656                % 09176 RGTR--
+180511007 Junglinster, Um Reil  01658  01658                % 09176 RGTR--
+180511005 Junglinster, Um Lei   01700  01700                % 09176 RGTR--
+180511009 Junglinster, Op der   01701  01701                % 09176 RGTR--
+180508003 Gonderange, Mierchen  01702  01702                % 09176 RGTR--
+180508004 Gonderange, Op der B  01703  01703                % 09176 RGTR--
+180508007 Gonderange, Op der G  01705  01705                % 09176 RGTR--
+180512001 Rodenbourg, Am Duerf  01708  01708                % 09176 RGTR--
+180512002 Rodenbourg, An der S  01709  01709                % 09176 RGTR--
+180105002 Olingen, Beim lescht  01712  01712                % 09176 RGTR--
+180105003 Olingen, Rue de Rode  01713  01713                % 09176 RGTR--
+180106008 Roodt/Syre, Rue d'Ol  01715  01715                % 09176 RGTR--
+180106007 Roodt/Syre, Bowengsb  01716  01716                % 09176 RGTR--
+180106001 Roodt/Syre, Barriär   01717  01717                % 09176 RGTR--
+180101001 Banzelt, Ort          01719  01719                % 09176 RGTR--
+180303002 Flaxweiler, Op der B  01721  01721                % 09176 RGTR--
+180303001 Flaxweiler, Bei Knup  01722  01722                % 09176 RGTR--
+180302003 Flaxweiler, Am Faubo  01723  01723                % 09176 RGTR--
+180302001 Flaxweiler, Buchholz  01724  01724                % 09176 RGTR--
+180306001 Oberdonven            01728  01728                % 09176 RGTR--
+180305004 Niederdonven, Op der  01730  01730                % 09176 RGTR--
+180305001 Niederdonven, Beim F  01731  01731                % 09176 RGTR--
+180305003 Niederdonven, Bei de  01732  01732                % 09176 RGTR--
+180803005 Machtum, Bei der Sch  01737  01737                % 09176 RGTR--
+180801001 Ahn, Beim Quai        01742  01742                % 09176 RGTR--
+180804004 Wormeldange, Kellere  01743  01743                % 09176 RGTR--
+180804001 Wormeldange, Erdkaul  01744  01744                % 09176 RGTR--
+180804002 Wormeldange, Geméen   01745  01745                % 09176 RGTR--
+180804003 Wormeldange, Gewân    01746  01746                % 09176 RGTR--
+180802005 Ehnen, Neie Wee       01748  01748                % 09176 RGTR--
+180304003 Gostingen, Festsall   01753  01753                % 09176 RGTR--
+180304002 Gostingen, Kiirch     01753  01753                % 09176 RGTR--
+180304001 Gostingen, Am Ennerd  01754  01754                % 09176 RGTR--
+210401001 Canach, Am Stee       01757  01757                % 09176 RGTR--
+210401003 Canach, Op der Bréck  01758  01758                % 09176 RGTR--
+210401004 Canach, Post          01759  01759                % 09176 RGTR--
+210401006 Canach, Weber         01759  01759                % 09176 RGTR--
+210401002 Canach, Huehlgaass    01801  01801                % 09176 RGTR--
+210401007 Canach, Z.A. Rëcksch  01802                       % 09176 RGTR--

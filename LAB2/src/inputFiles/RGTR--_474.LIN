@@ -1,0 +1,832 @@
+*F 03 2
+*Z 03261 RGTR--                                             % 03261 RGTR--
+*L 474      180401003 170604001  01205  01226               % 03261 RGTR--
+*A FR 180401003 170604001 000006  01205  01226              % 03261 RGTR--
+*A kb 180401003 170604001 000006  01205  01226              % 03261 RGTR--
+*R 1 170604001 180401003 170604001  01205  01226            % 03261 RGTR--
+*G RGB 180401003 170604001  01205  01226                    % 03261 RGTR--
+*A VE 180401003 170604001 000006  01205  01226              % 03261 RGTR--
+*I FD 180401003 170604001        0002102  01205  01226      % 03261 RGTR--
+180401003 Grevenmacher, Gare r         01205                % 03261 RGTR--
+180401008 Grevenmacher, Tanneu  01206  01206                % 03261 RGTR--
+180401001 Grevenmacher, Copal   01207  01207                % 03261 RGTR--
+180401007 Grevenmacher, Seiden  01208  01208                % 03261 RGTR--
+180402001 Potaschbierg          01210  01210                % 03261 RGTR--
+180402002 Potaschbierg, Z.I.    01210  01210                % 03261 RGTR--
+180207002 Wecker, Coboulux      01213  01213                % 03261 RGTR--
+180207003 Wecker, Eglise        01214  01214                % 03261 RGTR--
+180207004 Wecker, Gare          01215  01215                % 03261 RGTR--
+180207001 Wecker, An der Schmë  01216  01216                % 03261 RGTR--
+180601002 Berbourg, Kiirch      01221  01221                % 03261 RGTR--
+180601001 Berbourg, Schoulstro  01222  01222                % 03261 RGTR--
+170604001 Herborn, Kiercheplaz  01226                       % 03261 RGTR--
+*Z 03262 RGTR--                                             % 03262 RGTR--
+*L 474      180401003 170501016  01025  01100               % 03262 RGTR--
+*A FR 180401003 170501016 000006  01025  01100              % 03262 RGTR--
+*A cn 180401003 170501016 000006  01025  01100              % 03262 RGTR--
+*R 1 170501016 180401003 170501016  01025  01100            % 03262 RGTR--
+*G RGB 180401003 170501016  01025  01100                    % 03262 RGTR--
+*A VE 180401003 170501016 000006  01025  01100              % 03262 RGTR--
+*I FD 180401003 170501016        0002028  01025  01100      % 03262 RGTR--
+180401003 Grevenmacher, Gare r         01025                % 03262 RGTR--
+180401008 Grevenmacher, Tanneu  01026  01026                % 03262 RGTR--
+180401001 Grevenmacher, Copal   01027  01027                % 03262 RGTR--
+180401007 Grevenmacher, Seiden  01028  01028                % 03262 RGTR--
+180402001 Potaschbierg          01030  01030                % 03262 RGTR--
+180402002 Potaschbierg, Z.I.    01030  01030                % 03262 RGTR--
+180207002 Wecker, Coboulux      01033  01033                % 03262 RGTR--
+180207003 Wecker, Eglise        01034  01034                % 03262 RGTR--
+180207004 Wecker, Gare          01035  01035                % 03262 RGTR--
+180207001 Wecker, An der Schmë  01036  01036                % 03262 RGTR--
+180601002 Berbourg, Kiirch      01041  01041                % 03262 RGTR--
+180601001 Berbourg, Schoulstro  01042  01042                % 03262 RGTR--
+170604001 Herborn, Kiercheplaz  01046  01046                % 03262 RGTR--
+170706001 Osweiler, Duerfplaz   01051  01051                % 03262 RGTR--
+170706002 Osweiler, Haaptstroo  01052  01052                % 03262 RGTR--
+170501010 Echternach, Manertch  01055  01055                % 03262 RGTR--
+170501014 Echternach, rte.d'Os  01058  01058                % 03262 RGTR--
+170501011 Echternach, Morgenst  01059  01059                % 03262 RGTR--
+170501016 Echternach, Gare Cen  01100                       % 03262 RGTR--
+*Z 03263 RGTR--                                             % 03263 RGTR--
+*L 474      180401003 170501016  01724  01800               % 03263 RGTR--
+*A FR 180401003 170501016 000006  01724  01800              % 03263 RGTR--
+*A cn 180401003 170501016 000006  01724  01800              % 03263 RGTR--
+*A VH 180401003 170501016 000006  01724  01800              % 03263 RGTR--
+*R 1 170501016 180401003 170501016  01724  01800            % 03263 RGTR--
+*G RGB 180401003 170501016  01724  01800                    % 03263 RGTR--
+*A VE 180401003 170501016 000006  01724  01800              % 03263 RGTR--
+*I FD 180401003 170501016        0002018  01724  01800      % 03263 RGTR--
+180401003 Grevenmacher, Gare r         01724                % 03263 RGTR--
+180401008 Grevenmacher, Tanneu  01725  01725                % 03263 RGTR--
+180401001 Grevenmacher, Copal   01727  01727                % 03263 RGTR--
+180401007 Grevenmacher, Seiden  01728  01728                % 03263 RGTR--
+180402001 Potaschbierg          01730  01730                % 03263 RGTR--
+180402002 Potaschbierg, Z.I.    01730  01730                % 03263 RGTR--
+180207002 Wecker, Coboulux      01733  01733                % 03263 RGTR--
+180207003 Wecker, Eglise        01734  01734                % 03263 RGTR--
+180207004 Wecker, Gare          01735  01735                % 03263 RGTR--
+180207001 Wecker, An der Schmë  01736  01736                % 03263 RGTR--
+180601002 Berbourg, Kiirch      01741  01741                % 03263 RGTR--
+180601001 Berbourg, Schoulstro  01742  01742                % 03263 RGTR--
+170604001 Herborn, Kiercheplaz  01746  01746                % 03263 RGTR--
+170706001 Osweiler, Duerfplaz   01752  01752                % 03263 RGTR--
+170706002 Osweiler, Haaptstroo  01752  01752                % 03263 RGTR--
+170501010 Echternach, Manertch  01756  01756                % 03263 RGTR--
+170501014 Echternach, rte.d'Os  01758  01758                % 03263 RGTR--
+170501011 Echternach, Morgenst  01759  01759                % 03263 RGTR--
+170501016 Echternach, Gare Cen  01800                       % 03263 RGTR--
+*Z 03264 RGTR--                                             % 03264 RGTR--
+*L 474      180207004 170501016  01347  01414               % 03264 RGTR--
+*A FR 180207004 170501016 000006  01347  01414              % 03264 RGTR--
+*A cn 180207004 170501016 000006  01347  01414              % 03264 RGTR--
+*A VH 180207004 170501016 000006  01347  01414              % 03264 RGTR--
+*R 1 170501016 180207004 170501016  01347  01414            % 03264 RGTR--
+*G RGB 180207004 170501016  01347  01414                    % 03264 RGTR--
+*A VE 180207004 170501016 000006  01347  01414              % 03264 RGTR--
+*I FD 180207004 170501016        0002907  01347  01414      % 03264 RGTR--
+180207004 Wecker, Gare                 01347                % 03264 RGTR--
+180207001 Wecker, An der Schmë  01348  01348                % 03264 RGTR--
+180601002 Berbourg, Kiirch      01352  01352                % 03264 RGTR--
+180601001 Berbourg, Schoulstro  01353  01353                % 03264 RGTR--
+170604001 Herborn, Kiercheplaz  01357  01357                % 03264 RGTR--
+170706001 Osweiler, Duerfplaz   01403  01403                % 03264 RGTR--
+170706002 Osweiler, Haaptstroo  01404  01404                % 03264 RGTR--
+170501010 Echternach, Manertch  01407  01407                % 03264 RGTR--
+170501014 Echternach, rte.d'Os  01409  01409                % 03264 RGTR--
+170501015 Echternach, Ste Croi  01410  01410                % 03264 RGTR--
+170501009 Echternach, Lycée     01412  01412                % 03264 RGTR--
+170501005 Echternach, Centre V  01413  01413                % 03264 RGTR--
+170501016 Echternach, Gare Cen  01414                       % 03264 RGTR--
+*Z 03265 RGTR--                                             % 03265 RGTR--
+*L 474      180207004 170501016  01747  01812               % 03265 RGTR--
+*A FR 180207004 170501016 000006  01747  01812              % 03265 RGTR--
+*A cn 180207004 170501016 000006  01747  01812              % 03265 RGTR--
+*A VH 180207004 170501016 000006  01747  01812              % 03265 RGTR--
+*R 1 170501016 180207004 170501016  01747  01812            % 03265 RGTR--
+*G RGB 180207004 170501016  01747  01812                    % 03265 RGTR--
+*A VE 180207004 170501016 000006  01747  01812              % 03265 RGTR--
+*I FD 180207004 170501016        0003072  01747  01812      % 03265 RGTR--
+180207004 Wecker, Gare                 01747                % 03265 RGTR--
+180207001 Wecker, An der Schmë  01748  01748                % 03265 RGTR--
+180601002 Berbourg, Kiirch      01753  01753                % 03265 RGTR--
+180601001 Berbourg, Schoulstro  01753  01753                % 03265 RGTR--
+170604001 Herborn, Kiercheplaz  01758  01758                % 03265 RGTR--
+170706001 Osweiler, Duerfplaz   01803  01803                % 03265 RGTR--
+170706002 Osweiler, Haaptstroo  01804  01804                % 03265 RGTR--
+170501014 Echternach, rte.d'Os  01810  01810                % 03265 RGTR--
+170501011 Echternach, Morgenst  01811  01811                % 03265 RGTR--
+170501016 Echternach, Gare Cen  01812                       % 03265 RGTR--
+*Z 03266 RGTR--                                             % 03266 RGTR--
+*L 474      180207004 170501016  01704  01729               % 03266 RGTR--
+*A FR 180207004 170501016 000016  01704  01729              % 03266 RGTR--
+*A cn 180207004 170501016 000016  01704  01729              % 03266 RGTR--
+*A VH 180207004 170501016 000016  01704  01729              % 03266 RGTR--
+*R 1 170501016 180207004 170501016  01704  01729            % 03266 RGTR--
+*G RGB 180207004 170501016  01704  01729                    % 03266 RGTR--
+*A VE 180207004 170501016 000016  01704  01729              % 03266 RGTR--
+*I FD 180207004 170501016        0002187  01704  01729      % 03266 RGTR--
+180207004 Wecker, Gare                 01704                % 03266 RGTR--
+180207001 Wecker, An der Schmë  01705  01705                % 03266 RGTR--
+180601002 Berbourg, Kiirch      01710  01710                % 03266 RGTR--
+180601001 Berbourg, Schoulstro  01710  01710                % 03266 RGTR--
+170604001 Herborn, Kiercheplaz  01715  01715                % 03266 RGTR--
+170706001 Osweiler, Duerfplaz   01720  01720                % 03266 RGTR--
+170706002 Osweiler, Haaptstroo  01721  01721                % 03266 RGTR--
+170501014 Echternach, rte.d'Os  01727  01727                % 03266 RGTR--
+170501011 Echternach, Morgenst  01728  01728                % 03266 RGTR--
+170501016 Echternach, Gare Cen  01729                       % 03266 RGTR--
+*Z 03267 RGTR--                                             % 03267 RGTR--
+*L 474      180207004 170501016  01247  01311               % 03267 RGTR--
+*A FR 180207004 170501016 000006  01247  01311              % 03267 RGTR--
+*A cn 180207004 170501016 000006  01247  01311              % 03267 RGTR--
+*A VH 180207004 170501016 000006  01247  01311              % 03267 RGTR--
+*R 1 170501016 180207004 170501016  01247  01311            % 03267 RGTR--
+*G RGB 180207004 170501016  01247  01311                    % 03267 RGTR--
+*A VE 180207004 170501016 000006  01247  01311              % 03267 RGTR--
+*I FD 180207004 170501016        0001211  01247  01311      % 03267 RGTR--
+180207004 Wecker, Gare                 01247                % 03267 RGTR--
+180207001 Wecker, An der Schmë  01248  01248                % 03267 RGTR--
+180601002 Berbourg, Kiirch      01252  01252                % 03267 RGTR--
+180601001 Berbourg, Schoulstro  01253  01253                % 03267 RGTR--
+170604001 Herborn, Kiercheplaz  01257  01257                % 03267 RGTR--
+170706001 Osweiler, Duerfplaz   01303  01303                % 03267 RGTR--
+170706002 Osweiler, Haaptstroo  01304  01304                % 03267 RGTR--
+170501014 Echternach, rte.d'Os  01309  01309                % 03267 RGTR--
+170501011 Echternach, Morgenst  01310  01310                % 03267 RGTR--
+170501016 Echternach, Gare Cen  01311                       % 03267 RGTR--
+*Z 03268 RGTR--                                             % 03268 RGTR--
+*L 474      180401003 170501016  00953  01028               % 03268 RGTR--
+*A FR 180401003 170501016 000006  00953  01028              % 03268 RGTR--
+*A cn 180401003 170501016 000006  00953  01028              % 03268 RGTR--
+*R 1 170501016 180401003 170501016  00953  01028            % 03268 RGTR--
+*G RGB 180401003 170501016  00953  01028                    % 03268 RGTR--
+*A VE 180401003 170501016 000006  00953  01028              % 03268 RGTR--
+*I FD 180401003 170501016        0003073  00953  01028      % 03268 RGTR--
+180401003 Grevenmacher, Gare r         00953                % 03268 RGTR--
+180401008 Grevenmacher, Tanneu  00954  00954                % 03268 RGTR--
+180401001 Grevenmacher, Copal   00955  00955                % 03268 RGTR--
+180401007 Grevenmacher, Seiden  00956  00956                % 03268 RGTR--
+180402001 Potaschbierg          00958  00958                % 03268 RGTR--
+180402002 Potaschbierg, Z.I.    00958  00958                % 03268 RGTR--
+180207002 Wecker, Coboulux      01001  01001                % 03268 RGTR--
+180207003 Wecker, Eglise        01002  01002                % 03268 RGTR--
+180207004 Wecker, Gare          01003  01003                % 03268 RGTR--
+180207001 Wecker, An der Schmë  01004  01004                % 03268 RGTR--
+180601002 Berbourg, Kiirch      01009  01009                % 03268 RGTR--
+180601001 Berbourg, Schoulstro  01010  01010                % 03268 RGTR--
+170604001 Herborn, Kiercheplaz  01014  01014                % 03268 RGTR--
+170706001 Osweiler, Duerfplaz   01019  01019                % 03268 RGTR--
+170706002 Osweiler, Haaptstroo  01020  01020                % 03268 RGTR--
+170501014 Echternach, rte.d'Os  01026  01026                % 03268 RGTR--
+170501011 Echternach, Morgenst  01027  01027                % 03268 RGTR--
+170501016 Echternach, Gare Cen  01028                       % 03268 RGTR--
+*Z 03269 RGTR--                                             % 03269 RGTR--
+*L 474      180401003 170501016  01136  01211               % 03269 RGTR--
+*A FR 180401003 170501016 000006  01136  01211              % 03269 RGTR--
+*A cn 180401003 170501016 000006  01136  01211              % 03269 RGTR--
+*A VH 180401003 170501016 000006  01136  01211              % 03269 RGTR--
+*R 1 170501016 180401003 170501016  01136  01211            % 03269 RGTR--
+*G RGB 180401003 170501016  01136  01211                    % 03269 RGTR--
+*A VE 180401003 170501016 000006  01136  01211              % 03269 RGTR--
+*I FD 180401003 170501016        0003044  01136  01211      % 03269 RGTR--
+180401003 Grevenmacher, Gare r         01136                % 03269 RGTR--
+180401008 Grevenmacher, Tanneu  01137  01137                % 03269 RGTR--
+180401001 Grevenmacher, Copal   01138  01138                % 03269 RGTR--
+180401007 Grevenmacher, Seiden  01139  01139                % 03269 RGTR--
+180402001 Potaschbierg          01141  01141                % 03269 RGTR--
+180402002 Potaschbierg, Z.I.    01141  01141                % 03269 RGTR--
+180207002 Wecker, Coboulux      01144  01144                % 03269 RGTR--
+180207003 Wecker, Eglise        01145  01145                % 03269 RGTR--
+180207004 Wecker, Gare          01146  01146                % 03269 RGTR--
+180207001 Wecker, An der Schmë  01147  01147                % 03269 RGTR--
+180601002 Berbourg, Kiirch      01152  01152                % 03269 RGTR--
+180601001 Berbourg, Schoulstro  01153  01153                % 03269 RGTR--
+170604001 Herborn, Kiercheplaz  01157  01157                % 03269 RGTR--
+170706001 Osweiler, Duerfplaz   01202  01202                % 03269 RGTR--
+170706002 Osweiler, Haaptstroo  01203  01203                % 03269 RGTR--
+170501014 Echternach, rte.d'Os  01209  01209                % 03269 RGTR--
+170501011 Echternach, Morgenst  01210  01210                % 03269 RGTR--
+170501016 Echternach, Gare Cen  01211                       % 03269 RGTR--
+*Z 03270 RGTR--                                             % 03270 RGTR--
+*L 474      180401003 170501016  01535  01610               % 03270 RGTR--
+*A FR 180401003 170501016 000006  01535  01610              % 03270 RGTR--
+*A cn 180401003 170501016 000006  01535  01610              % 03270 RGTR--
+*R 1 170501016 180401003 170501016  01535  01610            % 03270 RGTR--
+*G RGB 180401003 170501016  01535  01610                    % 03270 RGTR--
+*A VE 180401003 170501016 000006  01535  01610              % 03270 RGTR--
+*I FD 180401003 170501016        0001336  01535  01610      % 03270 RGTR--
+180401003 Grevenmacher, Gare r         01535                % 03270 RGTR--
+180401008 Grevenmacher, Tanneu  01536  01536                % 03270 RGTR--
+180401001 Grevenmacher, Copal   01537  01537                % 03270 RGTR--
+180401007 Grevenmacher, Seiden  01538  01538                % 03270 RGTR--
+180402001 Potaschbierg          01540  01540                % 03270 RGTR--
+180402002 Potaschbierg, Z.I.    01540  01540                % 03270 RGTR--
+180207002 Wecker, Coboulux      01543  01543                % 03270 RGTR--
+180207003 Wecker, Eglise        01544  01544                % 03270 RGTR--
+180207004 Wecker, Gare          01545  01545                % 03270 RGTR--
+180207001 Wecker, An der Schmë  01546  01546                % 03270 RGTR--
+180601002 Berbourg, Kiirch      01551  01551                % 03270 RGTR--
+180601001 Berbourg, Schoulstro  01552  01552                % 03270 RGTR--
+170604001 Herborn, Kiercheplaz  01556  01556                % 03270 RGTR--
+170706001 Osweiler, Duerfplaz   01601  01601                % 03270 RGTR--
+170706002 Osweiler, Haaptstroo  01602  01602                % 03270 RGTR--
+170501014 Echternach, rte.d'Os  01608  01608                % 03270 RGTR--
+170501011 Echternach, Morgenst  01609  01609                % 03270 RGTR--
+170501016 Echternach, Gare Cen  01610                       % 03270 RGTR--
+*Z 03271 RGTR--                                             % 03271 RGTR--
+*L 474      180401003 170501016  01436  01517               % 03271 RGTR--
+*A FR 180401003 170501016 000006  01436  01517              % 03271 RGTR--
+*A cn 180401003 170501016 000006  01436  01517              % 03271 RGTR--
+*A VH 180401003 170501016 000006  01436  01517              % 03271 RGTR--
+*R 1 170501016 180401003 170501016  01436  01517            % 03271 RGTR--
+*G RGB 180401003 170501016  01436  01517                    % 03271 RGTR--
+*A VE 180401003 170501016 000006  01436  01517              % 03271 RGTR--
+*I FD 180401003 170501016        0002533  01436  01517      % 03271 RGTR--
+180401003 Grevenmacher, Gare r         01436                % 03271 RGTR--
+180401008 Grevenmacher, Tanneu  01437  01437                % 03271 RGTR--
+180401001 Grevenmacher, Copal   01438  01438                % 03271 RGTR--
+180401007 Grevenmacher, Seiden  01439  01439                % 03271 RGTR--
+180402001 Potaschbierg          01441  01441                % 03271 RGTR--
+180402002 Potaschbierg, Z.I.    01441  01441                % 03271 RGTR--
+180207002 Wecker, Coboulux      01444  01444                % 03271 RGTR--
+180207003 Wecker, Eglise        01445  01445                % 03271 RGTR--
+180207004 Wecker, Gare          01446  01446                % 03271 RGTR--
+180207001 Wecker, An der Schmë  01447  01447                % 03271 RGTR--
+180601002 Berbourg, Kiirch      01452  01452                % 03271 RGTR--
+180601001 Berbourg, Schoulstro  01453  01453                % 03271 RGTR--
+170202003 Bech, Béiwerwiss      01456  01456                % 03271 RGTR--
+170202001 Bech, Bei der Gemeng  01456  01456                % 03271 RGTR--
+170604001 Herborn, Kiercheplaz  01503  01503                % 03271 RGTR--
+170706001 Osweiler, Duerfplaz   01508  01508                % 03271 RGTR--
+170706002 Osweiler, Haaptstroo  01509  01509                % 03271 RGTR--
+170501014 Echternach, rte.d'Os  01515  01515                % 03271 RGTR--
+170501011 Echternach, Morgenst  01516  01516                % 03271 RGTR--
+170501016 Echternach, Gare Cen  01517                       % 03271 RGTR--
+*Z 03272 RGTR--                                             % 03272 RGTR--
+*L 474      180401003 170501016  01824  01905               % 03272 RGTR--
+*A FR 180401003 170501016 000006  01824  01905              % 03272 RGTR--
+*A cn 180401003 170501016 000006  01824  01905              % 03272 RGTR--
+*A VH 180401003 170501016 000006  01824  01905              % 03272 RGTR--
+*R 1 170501016 180401003 170501016  01824  01905            % 03272 RGTR--
+*G RGB 180401003 170501016  01824  01905                    % 03272 RGTR--
+*A VE 180401003 170501016 000006  01824  01905              % 03272 RGTR--
+*I FD 180401003 170501016        0002022  01824  01905      % 03272 RGTR--
+180401003 Grevenmacher, Gare r         01824                % 03272 RGTR--
+180401008 Grevenmacher, Tanneu  01825  01825                % 03272 RGTR--
+180401001 Grevenmacher, Copal   01826  01826                % 03272 RGTR--
+180401007 Grevenmacher, Seiden  01827  01827                % 03272 RGTR--
+180402001 Potaschbierg          01829  01829                % 03272 RGTR--
+180402002 Potaschbierg, Z.I.    01829  01829                % 03272 RGTR--
+180207002 Wecker, Coboulux      01832  01832                % 03272 RGTR--
+180207003 Wecker, Eglise        01833  01833                % 03272 RGTR--
+180207004 Wecker, Gare          01834  01834                % 03272 RGTR--
+180207001 Wecker, An der Schmë  01835  01835                % 03272 RGTR--
+180601002 Berbourg, Kiirch      01840  01840                % 03272 RGTR--
+180601001 Berbourg, Schoulstro  01841  01841                % 03272 RGTR--
+170202003 Bech, Béiwerwiss      01844  01844                % 03272 RGTR--
+170202001 Bech, Bei der Gemeng  01844  01844                % 03272 RGTR--
+170604001 Herborn, Kiercheplaz  01851  01851                % 03272 RGTR--
+170706001 Osweiler, Duerfplaz   01856  01856                % 03272 RGTR--
+170706002 Osweiler, Haaptstroo  01857  01857                % 03272 RGTR--
+170501014 Echternach, rte.d'Os  01903  01903                % 03272 RGTR--
+170501011 Echternach, Morgenst  01904  01904                % 03272 RGTR--
+170501016 Echternach, Gare Cen  01905                       % 03272 RGTR--
+*Z 03273 RGTR--                                             % 03273 RGTR--
+*L 474      180401003 170501016  01924  02005               % 03273 RGTR--
+*A FR 180401003 170501016 000006  01924  02005              % 03273 RGTR--
+*A cn 180401003 170501016 000006  01924  02005              % 03273 RGTR--
+*A VH 180401003 170501016 000006  01924  02005              % 03273 RGTR--
+*R 1 170501016 180401003 170501016  01924  02005            % 03273 RGTR--
+*G RGB 180401003 170501016  01924  02005                    % 03273 RGTR--
+*A VE 180401003 170501016 000006  01924  02005              % 03273 RGTR--
+*I FD 180401003 170501016        0003074  01924  02005      % 03273 RGTR--
+180401003 Grevenmacher, Gare r         01924                % 03273 RGTR--
+180401008 Grevenmacher, Tanneu  01925  01925                % 03273 RGTR--
+180401001 Grevenmacher, Copal   01926  01926                % 03273 RGTR--
+180401007 Grevenmacher, Seiden  01927  01927                % 03273 RGTR--
+180402001 Potaschbierg          01929  01929                % 03273 RGTR--
+180402002 Potaschbierg, Z.I.    01929  01929                % 03273 RGTR--
+180207002 Wecker, Coboulux      01932  01932                % 03273 RGTR--
+180207003 Wecker, Eglise        01933  01933                % 03273 RGTR--
+180207004 Wecker, Gare          01934  01934                % 03273 RGTR--
+180207001 Wecker, An der Schmë  01935  01935                % 03273 RGTR--
+180601002 Berbourg, Kiirch      01940  01940                % 03273 RGTR--
+180601001 Berbourg, Schoulstro  01941  01941                % 03273 RGTR--
+170202003 Bech, Béiwerwiss      01944  01944                % 03273 RGTR--
+170202001 Bech, Bei der Gemeng  01944  01944                % 03273 RGTR--
+170604001 Herborn, Kiercheplaz  01951  01951                % 03273 RGTR--
+170706001 Osweiler, Duerfplaz   01956  01956                % 03273 RGTR--
+170706002 Osweiler, Haaptstroo  01957  01957                % 03273 RGTR--
+170501010 Echternach, Manertch  02000  02000                % 03273 RGTR--
+170501014 Echternach, rte.d'Os  02003  02003                % 03273 RGTR--
+170501011 Echternach, Morgenst  02004  02004                % 03273 RGTR--
+170501016 Echternach, Gare Cen  02005                       % 03273 RGTR--
+*Z 03274 RGTR--                                             % 03274 RGTR--
+*L 474      180401003 170501016  02036  02117               % 03274 RGTR--
+*A FR 180401003 170501016 000006  02036  02117              % 03274 RGTR--
+*A cn 180401003 170501016 000006  02036  02117              % 03274 RGTR--
+*A VH 180401003 170501016 000006  02036  02117              % 03274 RGTR--
+*R 1 170501016 180401003 170501016  02036  02117            % 03274 RGTR--
+*G RGB 180401003 170501016  02036  02117                    % 03274 RGTR--
+*A VE 180401003 170501016 000006  02036  02117              % 03274 RGTR--
+*I FD 180401003 170501016        0002445  02036  02117      % 03274 RGTR--
+180401003 Grevenmacher, Gare r         02036                % 03274 RGTR--
+180401008 Grevenmacher, Tanneu  02037  02037                % 03274 RGTR--
+180401001 Grevenmacher, Copal   02038  02038                % 03274 RGTR--
+180401007 Grevenmacher, Seiden  02039  02039                % 03274 RGTR--
+180402001 Potaschbierg          02041  02041                % 03274 RGTR--
+180402002 Potaschbierg, Z.I.    02041  02041                % 03274 RGTR--
+180207002 Wecker, Coboulux      02044  02044                % 03274 RGTR--
+180207003 Wecker, Eglise        02045  02045                % 03274 RGTR--
+180207004 Wecker, Gare          02046  02046                % 03274 RGTR--
+180207001 Wecker, An der Schmë  02047  02047                % 03274 RGTR--
+180601002 Berbourg, Kiirch      02052  02052                % 03274 RGTR--
+180601001 Berbourg, Schoulstro  02053  02053                % 03274 RGTR--
+170202003 Bech, Béiwerwiss      02056  02056                % 03274 RGTR--
+170202001 Bech, Bei der Gemeng  02056  02056                % 03274 RGTR--
+170604001 Herborn, Kiercheplaz  02103  02103                % 03274 RGTR--
+170706001 Osweiler, Duerfplaz   02108  02108                % 03274 RGTR--
+170706002 Osweiler, Haaptstroo  02109  02109                % 03274 RGTR--
+170501010 Echternach, Manertch  02112  02112                % 03274 RGTR--
+170501014 Echternach, rte.d'Os  02115  02115                % 03274 RGTR--
+170501011 Echternach, Morgenst  02116  02116                % 03274 RGTR--
+170501016 Echternach, Gare Cen  02117                       % 03274 RGTR--
+*Z 03275 RGTR--                                             % 03275 RGTR--
+*L 474      180401003 170501016  00703  00742               % 03275 RGTR--
+*A FR 180401003 170501016 000006  00703  00742              % 03275 RGTR--
+*A cn 180401003 170501016 000006  00703  00742              % 03275 RGTR--
+*A HK 180401003 170501016 000006  00703  00742              % 03275 RGTR--
+*R 1 170501016 180401003 170501016  00703  00742            % 03275 RGTR--
+*G RGB 180401003 170501016  00703  00742                    % 03275 RGTR--
+*A VE 180401003 170501016 000006  00703  00742              % 03275 RGTR--
+*I FD 180401003 170501016        0003039  00703  00742      % 03275 RGTR--
+180401003 Grevenmacher, Gare r         00703                % 03275 RGTR--
+180401008 Grevenmacher, Tanneu  00704  00704                % 03275 RGTR--
+180401001 Grevenmacher, Copal   00706  00706                % 03275 RGTR--
+180401007 Grevenmacher, Seiden  00707  00707                % 03275 RGTR--
+180402001 Potaschbierg          00709  00709                % 03275 RGTR--
+180402002 Potaschbierg, Z.I.    00709  00709                % 03275 RGTR--
+180207002 Wecker, Coboulux      00712  00712                % 03275 RGTR--
+180207003 Wecker, Eglise        00713  00713                % 03275 RGTR--
+180207004 Wecker, Gare          00714  00714                % 03275 RGTR--
+180207001 Wecker, An der Schmë  00715  00715                % 03275 RGTR--
+180601002 Berbourg, Kiirch      00720  00720                % 03275 RGTR--
+180601001 Berbourg, Schoulstro  00721  00721                % 03275 RGTR--
+170604001 Herborn, Kiercheplaz  00725  00725                % 03275 RGTR--
+170607003 Pafebierg             00729  00729                % 03275 RGTR--
+170501014 Echternach, rte.d'Os  00736  00736                % 03275 RGTR--
+170501015 Echternach, Ste Croi  00737  00737                % 03275 RGTR--
+170501009 Echternach, Lycée     00739  00739                % 03275 RGTR--
+170501005 Echternach, Centre V  00741  00741                % 03275 RGTR--
+170501016 Echternach, Gare Cen  00742                       % 03275 RGTR--
+*Z 03276 RGTR--                                             % 03276 RGTR--
+*L 474      180207004 170501016  00829  00857               % 03276 RGTR--
+*A FR 180207004 170501016 000006  00829  00857              % 03276 RGTR--
+*A cn 180207004 170501016 000006  00829  00857              % 03276 RGTR--
+*A VH 180207004 170501016 000006  00829  00857              % 03276 RGTR--
+*R 1 170501016 180207004 170501016  00829  00857            % 03276 RGTR--
+*G RGB 180207004 170501016  00829  00857                    % 03276 RGTR--
+*A VE 180207004 170501016 000006  00829  00857              % 03276 RGTR--
+*I FD 180207004 170501016        0001062  00829  00857      % 03276 RGTR--
+180207004 Wecker, Gare                 00829                % 03276 RGTR--
+180207001 Wecker, An der Schmë  00830  00830                % 03276 RGTR--
+180601002 Berbourg, Kiirch      00835  00835                % 03276 RGTR--
+180601001 Berbourg, Schoulstro  00835  00835                % 03276 RGTR--
+170604001 Herborn, Kiercheplaz  00840  00840                % 03276 RGTR--
+170706001 Osweiler, Duerfplaz   00845  00845                % 03276 RGTR--
+170706002 Osweiler, Haaptstroo  00846  00846                % 03276 RGTR--
+170501014 Echternach, rte.d'Os  00852  00852                % 03276 RGTR--
+170501015 Echternach, Ste Croi  00852  00852                % 03276 RGTR--
+170501009 Echternach, Lycée     00854  00854                % 03276 RGTR--
+170501005 Echternach, Centre V  00856  00856                % 03276 RGTR--
+170501016 Echternach, Gare Cen  00857                       % 03276 RGTR--
+*Z 03277 RGTR--                                             % 03277 RGTR--
+*L 474      180207004 170501016  00626  00657               % 03277 RGTR--
+*A FR 180207004 170501016 000006  00626  00657              % 03277 RGTR--
+*A ef 180207004 170501016 000006  00626  00657              % 03277 RGTR--
+*A cn 180207004 170501016 000006  00626  00657              % 03277 RGTR--
+*R 1 170501016 180207004 170501016  00626  00657            % 03277 RGTR--
+*G RGB 180207004 170501016  00626  00657                    % 03277 RGTR--
+*A VE 180207004 170501016 000006  00626  00657              % 03277 RGTR--
+*I FD 180207004 170501016        0000950  00626  00657      % 03277 RGTR--
+180207004 Wecker, Gare                 00626                % 03277 RGTR--
+180207001 Wecker, An der Schmë  00627  00627                % 03277 RGTR--
+180601002 Berbourg, Kiirch      00632  00632                % 03277 RGTR--
+180601001 Berbourg, Schoulstro  00632  00632                % 03277 RGTR--
+170202003 Bech, Béiwerwiss      00636  00636                % 03277 RGTR--
+170202001 Bech, Bei der Gemeng  00636  00636                % 03277 RGTR--
+170604001 Herborn, Kiercheplaz  00643  00643                % 03277 RGTR--
+170706001 Osweiler, Duerfplaz   00648  00648                % 03277 RGTR--
+170706002 Osweiler, Haaptstroo  00649  00649                % 03277 RGTR--
+170501014 Echternach, rte.d'Os  00655  00655                % 03277 RGTR--
+170501011 Echternach, Morgenst  00656  00656                % 03277 RGTR--
+170501016 Echternach, Gare Cen  00657                       % 03277 RGTR--
+*Z 03278 RGTR--                                             % 03278 RGTR--
+*L 474      180207004 170501016  01847  01917               % 03278 RGTR--
+*A FR 180207004 170501016 000006  01847  01917              % 03278 RGTR--
+*A cn 180207004 170501016 000006  01847  01917              % 03278 RGTR--
+*A VH 180207004 170501016 000006  01847  01917              % 03278 RGTR--
+*R 1 170501016 180207004 170501016  01847  01917            % 03278 RGTR--
+*G RGB 180207004 170501016  01847  01917                    % 03278 RGTR--
+*A VE 180207004 170501016 000006  01847  01917              % 03278 RGTR--
+*I FD 180207004 170501016        0001473  01847  01917      % 03278 RGTR--
+180207004 Wecker, Gare                 01847                % 03278 RGTR--
+180207001 Wecker, An der Schmë  01848  01848                % 03278 RGTR--
+180601002 Berbourg, Kiirch      01852  01852                % 03278 RGTR--
+180601001 Berbourg, Schoulstro  01853  01853                % 03278 RGTR--
+170202003 Bech, Béiwerwiss      01856  01856                % 03278 RGTR--
+170202001 Bech, Bei der Gemeng  01857  01857                % 03278 RGTR--
+170604001 Herborn, Kiercheplaz  01904  01904                % 03278 RGTR--
+170706001 Osweiler, Duerfplaz   01909  01909                % 03278 RGTR--
+170706002 Osweiler, Haaptstroo  01910  01910                % 03278 RGTR--
+170501014 Echternach, rte.d'Os  01915  01915                % 03278 RGTR--
+170501011 Echternach, Morgenst  01916  01916                % 03278 RGTR--
+170501016 Echternach, Gare Cen  01917                       % 03278 RGTR--
+*Z 03279 RGTR--                                             % 03279 RGTR--
+*L 474      170501016 180401003  01315  01348               % 03279 RGTR--
+*A FR 170501016 180401003 000006  01315  01348              % 03279 RGTR--
+*A al 170501016 180401003 000006  01315  01348              % 03279 RGTR--
+*R 2 180401003 170501016 180401003  01315  01348            % 03279 RGTR--
+*G RGB 170501016 180401003  01315  01348                    % 03279 RGTR--
+*A VE 170501016 180401003 000006  01315  01348              % 03279 RGTR--
+*I FD 170501016 180401003        0002542  01315  01348      % 03279 RGTR--
+170501016 Echternach, Gare Cen         01315                % 03279 RGTR--
+170501011 Echternach, Morgenst  01316  01316                % 03279 RGTR--
+170501014 Echternach, rte.d'Os  01316  01316                % 03279 RGTR--
+170501010 Echternach, Manertch  01319  01319                % 03279 RGTR--
+170706002 Osweiler, Haaptstroo  01322  01322                % 03279 RGTR--
+170706001 Osweiler, Duerfplaz   01323  01323                % 03279 RGTR--
+170604001 Herborn, Kiercheplaz  01328  01328                % 03279 RGTR--
+180601001 Berbourg, Schoulstro  01331  01331                % 03279 RGTR--
+180601002 Berbourg, Kiirch      01332  01332                % 03279 RGTR--
+180207001 Wecker, An der Schmë  01336  01336                % 03279 RGTR--
+180207004 Wecker, Gare          01338  01338                % 03279 RGTR--
+180207003 Wecker, Eglise        01338  01338                % 03279 RGTR--
+180207002 Wecker, Coboulux      01339  01339                % 03279 RGTR--
+180402002 Potaschbierg, Z.I.    01342  01342                % 03279 RGTR--
+180402001 Potaschbierg          01342  01342                % 03279 RGTR--
+180401007 Grevenmacher, Seiden  01344  01344                % 03279 RGTR--
+180401001 Grevenmacher, Copal   01344  01344                % 03279 RGTR--
+180401008 Grevenmacher, Tanneu  01346  01346                % 03279 RGTR--
+180401003 Grevenmacher, Gare r  01348                       % 03279 RGTR--
+*Z 03280 RGTR--                                             % 03280 RGTR--
+*L 474      170501016 180401003  00710  00744               % 03280 RGTR--
+*A FR 170501016 180401003 000006  00710  00744              % 03280 RGTR--
+*A al 170501016 180401003 000006  00710  00744              % 03280 RGTR--
+*A VI 170501016 180401003 000006  00710  00744              % 03280 RGTR--
+*R 2 180401003 170501016 180401003  00710  00744            % 03280 RGTR--
+*G RGB 170501016 180401003  00710  00744                    % 03280 RGTR--
+*A VE 170501016 180401003 000006  00710  00744              % 03280 RGTR--
+*I FD 170501016 180401003        0002035  00710  00744      % 03280 RGTR--
+170501016 Echternach, Gare Cen         00710                % 03280 RGTR--
+170501011 Echternach, Morgenst  00711  00711                % 03280 RGTR--
+170501014 Echternach, rte.d'Os  00711  00711                % 03280 RGTR--
+170501010 Echternach, Manertch  00714  00714                % 03280 RGTR--
+170706002 Osweiler, Haaptstroo  00717  00717                % 03280 RGTR--
+170706001 Osweiler, Duerfplaz   00718  00718                % 03280 RGTR--
+170604001 Herborn, Kiercheplaz  00723  00723                % 03280 RGTR--
+180601001 Berbourg, Schoulstro  00727  00727                % 03280 RGTR--
+180601002 Berbourg, Kiirch      00728  00728                % 03280 RGTR--
+180207001 Wecker, An der Schmë  00732  00732                % 03280 RGTR--
+180207004 Wecker, Gare          00733  00733                % 03280 RGTR--
+180207003 Wecker, Eglise        00734  00734                % 03280 RGTR--
+180207002 Wecker, Coboulux      00734  00734                % 03280 RGTR--
+180402002 Potaschbierg, Z.I.    00737  00737                % 03280 RGTR--
+180402001 Potaschbierg          00738  00738                % 03280 RGTR--
+180401007 Grevenmacher, Seiden  00739  00739                % 03280 RGTR--
+180401001 Grevenmacher, Copal   00740  00740                % 03280 RGTR--
+180401008 Grevenmacher, Tanneu  00742  00742                % 03280 RGTR--
+180401003 Grevenmacher, Gare r  00744                       % 03280 RGTR--
+*Z 03281 RGTR--                                             % 03281 RGTR--
+*L 474      170501016 180401003  00845  00919               % 03281 RGTR--
+*A FR 170501016 180401003 000006  00845  00919              % 03281 RGTR--
+*A al 170501016 180401003 000006  00845  00919              % 03281 RGTR--
+*A VI 170501016 180401003 000006  00845  00919              % 03281 RGTR--
+*R 2 180401003 170501016 180401003  00845  00919            % 03281 RGTR--
+*G RGB 170501016 180401003  00845  00919                    % 03281 RGTR--
+*A VE 170501016 180401003 000006  00845  00919              % 03281 RGTR--
+*I FD 170501016 180401003        0002841  00845  00919      % 03281 RGTR--
+170501016 Echternach, Gare Cen         00845                % 03281 RGTR--
+170501011 Echternach, Morgenst  00846  00846                % 03281 RGTR--
+170501014 Echternach, rte.d'Os  00846  00846                % 03281 RGTR--
+170501010 Echternach, Manertch  00849  00849                % 03281 RGTR--
+170706002 Osweiler, Haaptstroo  00852  00852                % 03281 RGTR--
+170706001 Osweiler, Duerfplaz   00853  00853                % 03281 RGTR--
+170604001 Herborn, Kiercheplaz  00858  00858                % 03281 RGTR--
+180601001 Berbourg, Schoulstro  00902  00902                % 03281 RGTR--
+180601002 Berbourg, Kiirch      00903  00903                % 03281 RGTR--
+180207001 Wecker, An der Schmë  00907  00907                % 03281 RGTR--
+180207004 Wecker, Gare          00908  00908                % 03281 RGTR--
+180207003 Wecker, Eglise        00909  00909                % 03281 RGTR--
+180207002 Wecker, Coboulux      00909  00909                % 03281 RGTR--
+180402002 Potaschbierg, Z.I.    00912  00912                % 03281 RGTR--
+180402001 Potaschbierg          00913  00913                % 03281 RGTR--
+180401007 Grevenmacher, Seiden  00914  00914                % 03281 RGTR--
+180401001 Grevenmacher, Copal   00915  00915                % 03281 RGTR--
+180401008 Grevenmacher, Tanneu  00917  00917                % 03281 RGTR--
+180401003 Grevenmacher, Gare r  00919                       % 03281 RGTR--
+*Z 03282 RGTR--                                             % 03282 RGTR--
+*L 474      170501016 180207004  00530  00600               % 03282 RGTR--
+*A FR 170501016 180207004 000006  00530  00600              % 03282 RGTR--
+*A kc 170501016 180207004 000006  00530  00600              % 03282 RGTR--
+*A VI 170501016 180207004 000006  00530  00600              % 03282 RGTR--
+*R 2 180207004 170501016 180207004  00530  00600            % 03282 RGTR--
+*G RGB 170501016 180207004  00530  00600                    % 03282 RGTR--
+*A VE 170501016 180207004 000006  00530  00600              % 03282 RGTR--
+*I FD 170501016 180207004        0002407  00530  00600      % 03282 RGTR--
+170501016 Echternach, Gare Cen         00530                % 03282 RGTR--
+170501011 Echternach, Morgenst  00531  00531                % 03282 RGTR--
+170501014 Echternach, rte.d'Os  00531  00531                % 03282 RGTR--
+170706002 Osweiler, Haaptstroo  00537  00537                % 03282 RGTR--
+170706001 Osweiler, Duerfplaz   00538  00538                % 03282 RGTR--
+170604001 Herborn, Kiercheplaz  00543  00543                % 03282 RGTR--
+170202001 Bech, Bei der Gemeng  00550  00550                % 03282 RGTR--
+170202003 Bech, Béiwerwiss      00551  00551                % 03282 RGTR--
+180601001 Berbourg, Schoulstro  00554  00554                % 03282 RGTR--
+180601002 Berbourg, Kiirch      00555  00555                % 03282 RGTR--
+180207001 Wecker, An der Schmë  00559  00559                % 03282 RGTR--
+180207004 Wecker, Gare          00600                       % 03282 RGTR--
+*Z 03283 RGTR--                                             % 03283 RGTR--
+*L 474      170501016 180207004  00540  00610               % 03283 RGTR--
+*A FR 170501016 180207004 000016  00540  00610              % 03283 RGTR--
+*A kc 170501016 180207004 000016  00540  00610              % 03283 RGTR--
+*A VI 170501016 180207004 000016  00540  00610              % 03283 RGTR--
+*R 2 180207004 170501016 180207004  00540  00610            % 03283 RGTR--
+*G RGB 170501016 180207004  00540  00610                    % 03283 RGTR--
+*A VE 170501016 180207004 000016  00540  00610              % 03283 RGTR--
+*I FD 170501016 180207004        0000936  00540  00610      % 03283 RGTR--
+170501016 Echternach, Gare Cen         00540                % 03283 RGTR--
+170501011 Echternach, Morgenst  00541  00541                % 03283 RGTR--
+170501014 Echternach, rte.d'Os  00541  00541                % 03283 RGTR--
+170706002 Osweiler, Haaptstroo  00547  00547                % 03283 RGTR--
+170706001 Osweiler, Duerfplaz   00548  00548                % 03283 RGTR--
+170604001 Herborn, Kiercheplaz  00553  00553                % 03283 RGTR--
+170202001 Bech, Bei der Gemeng  00600  00600                % 03283 RGTR--
+170202003 Bech, Béiwerwiss      00601  00601                % 03283 RGTR--
+180601001 Berbourg, Schoulstro  00604  00604                % 03283 RGTR--
+180601002 Berbourg, Kiirch      00605  00605                % 03283 RGTR--
+180207001 Wecker, An der Schmë  00609  00609                % 03283 RGTR--
+180207004 Wecker, Gare          00610                       % 03283 RGTR--
+*Z 03284 RGTR--                                             % 03284 RGTR--
+*L 474      170501016 180207004  01045  01108               % 03284 RGTR--
+*A FR 170501016 180207004 000006  01045  01108              % 03284 RGTR--
+*A kc 170501016 180207004 000006  01045  01108              % 03284 RGTR--
+*A VI 170501016 180207004 000006  01045  01108              % 03284 RGTR--
+*R 2 180207004 170501016 180207004  01045  01108            % 03284 RGTR--
+*G RGB 170501016 180207004  01045  01108                    % 03284 RGTR--
+*A VE 170501016 180207004 000006  01045  01108              % 03284 RGTR--
+*I FD 170501016 180207004        0002846  01045  01108      % 03284 RGTR--
+170501016 Echternach, Gare Cen         01045                % 03284 RGTR--
+170501011 Echternach, Morgenst  01046  01046                % 03284 RGTR--
+170501014 Echternach, rte.d'Os  01046  01046                % 03284 RGTR--
+170706002 Osweiler, Haaptstroo  01052  01052                % 03284 RGTR--
+170706001 Osweiler, Duerfplaz   01053  01053                % 03284 RGTR--
+170604001 Herborn, Kiercheplaz  01058  01058                % 03284 RGTR--
+180601001 Berbourg, Schoulstro  01102  01102                % 03284 RGTR--
+180601002 Berbourg, Kiirch      01103  01103                % 03284 RGTR--
+180207001 Wecker, An der Schmë  01107  01107                % 03284 RGTR--
+180207004 Wecker, Gare          01108                       % 03284 RGTR--
+*Z 03285 RGTR--                                             % 03285 RGTR--
+*L 474      170501016 180207004  01145  01208               % 03285 RGTR--
+*A FR 170501016 180207004 000006  01145  01208              % 03285 RGTR--
+*A kc 170501016 180207004 000006  01145  01208              % 03285 RGTR--
+*A VI 170501016 180207004 000006  01145  01208              % 03285 RGTR--
+*R 2 180207004 170501016 180207004  01145  01208            % 03285 RGTR--
+*G RGB 170501016 180207004  01145  01208                    % 03285 RGTR--
+*A VE 170501016 180207004 000006  01145  01208              % 03285 RGTR--
+*I FD 170501016 180207004        0002818  01145  01208      % 03285 RGTR--
+170501016 Echternach, Gare Cen         01145                % 03285 RGTR--
+170501011 Echternach, Morgenst  01146  01146                % 03285 RGTR--
+170501014 Echternach, rte.d'Os  01146  01146                % 03285 RGTR--
+170706002 Osweiler, Haaptstroo  01152  01152                % 03285 RGTR--
+170706001 Osweiler, Duerfplaz   01153  01153                % 03285 RGTR--
+170604001 Herborn, Kiercheplaz  01158  01158                % 03285 RGTR--
+180601001 Berbourg, Schoulstro  01202  01202                % 03285 RGTR--
+180601002 Berbourg, Kiirch      01203  01203                % 03285 RGTR--
+180207001 Wecker, An der Schmë  01207  01207                % 03285 RGTR--
+180207004 Wecker, Gare          01208                       % 03285 RGTR--
+*Z 03286 RGTR--                                             % 03286 RGTR--
+*L 474      170501016 180207004  01230  01253               % 03286 RGTR--
+*A FR 170501016 180207004 000006  01230  01253              % 03286 RGTR--
+*A kc 170501016 180207004 000006  01230  01253              % 03286 RGTR--
+*A VI 170501016 180207004 000006  01230  01253              % 03286 RGTR--
+*R 2 180207004 170501016 180207004  01230  01253            % 03286 RGTR--
+*G RGB 170501016 180207004  01230  01253                    % 03286 RGTR--
+*A VE 170501016 180207004 000006  01230  01253              % 03286 RGTR--
+*I FD 170501016 180207004        0001287  01230  01253      % 03286 RGTR--
+170501016 Echternach, Gare Cen         01230                % 03286 RGTR--
+170501011 Echternach, Morgenst  01231  01231                % 03286 RGTR--
+170501014 Echternach, rte.d'Os  01231  01231                % 03286 RGTR--
+170706002 Osweiler, Haaptstroo  01237  01237                % 03286 RGTR--
+170706001 Osweiler, Duerfplaz   01238  01238                % 03286 RGTR--
+170604001 Herborn, Kiercheplaz  01243  01243                % 03286 RGTR--
+180601001 Berbourg, Schoulstro  01247  01247                % 03286 RGTR--
+180601002 Berbourg, Kiirch      01248  01248                % 03286 RGTR--
+180207001 Wecker, An der Schmë  01252  01252                % 03286 RGTR--
+180207004 Wecker, Gare          01253                       % 03286 RGTR--
+*Z 03287 RGTR--                                             % 03287 RGTR--
+*L 474      170501016 180207004  01915  01938               % 03287 RGTR--
+*A FR 170501016 180207004 000006  01915  01938              % 03287 RGTR--
+*A kc 170501016 180207004 000006  01915  01938              % 03287 RGTR--
+*R 2 180207004 170501016 180207004  01915  01938            % 03287 RGTR--
+*G RGB 170501016 180207004  01915  01938                    % 03287 RGTR--
+*A VE 170501016 180207004 000006  01915  01938              % 03287 RGTR--
+*I FD 170501016 180207004        0003075  01915  01938      % 03287 RGTR--
+170501016 Echternach, Gare Cen         01915                % 03287 RGTR--
+170501011 Echternach, Morgenst  01916  01916                % 03287 RGTR--
+170501014 Echternach, rte.d'Os  01916  01916                % 03287 RGTR--
+170706002 Osweiler, Haaptstroo  01922  01922                % 03287 RGTR--
+170706001 Osweiler, Duerfplaz   01923  01923                % 03287 RGTR--
+170604001 Herborn, Kiercheplaz  01928  01928                % 03287 RGTR--
+180601001 Berbourg, Schoulstro  01932  01932                % 03287 RGTR--
+180601002 Berbourg, Kiirch      01933  01933                % 03287 RGTR--
+180207001 Wecker, An der Schmë  01937  01937                % 03287 RGTR--
+180207004 Wecker, Gare          01938                       % 03287 RGTR--
+*Z 03288 RGTR--                                             % 03288 RGTR--
+*L 474      170501016 180401003  00605  00645               % 03288 RGTR--
+*A FR 170501016 180401003 000006  00605  00645              % 03288 RGTR--
+*A al 170501016 180401003 000006  00605  00645              % 03288 RGTR--
+*R 2 180401003 170501016 180401003  00605  00645            % 03288 RGTR--
+*G RGB 170501016 180401003  00605  00645                    % 03288 RGTR--
+*A VE 170501016 180401003 000006  00605  00645              % 03288 RGTR--
+*I FD 170501016 180401003        0002040  00605  00645      % 03288 RGTR--
+170501016 Echternach, Gare Cen         00605                % 03288 RGTR--
+170501011 Echternach, Morgenst  00606  00606                % 03288 RGTR--
+170501014 Echternach, rte.d'Os  00606  00606                % 03288 RGTR--
+170706002 Osweiler, Haaptstroo  00612  00612                % 03288 RGTR--
+170706001 Osweiler, Duerfplaz   00613  00613                % 03288 RGTR--
+170604001 Herborn, Kiercheplaz  00618  00618                % 03288 RGTR--
+170202001 Bech, Bei der Gemeng  00625  00625                % 03288 RGTR--
+170202003 Bech, Béiwerwiss      00626  00626                % 03288 RGTR--
+180601001 Berbourg, Schoulstro  00629  00629                % 03288 RGTR--
+180601002 Berbourg, Kiirch      00630  00630                % 03288 RGTR--
+180207001 Wecker, An der Schmë  00634  00634                % 03288 RGTR--
+180207004 Wecker, Gare          00635  00635                % 03288 RGTR--
+180207003 Wecker, Eglise        00636  00636                % 03288 RGTR--
+180207002 Wecker, Coboulux      00636  00636                % 03288 RGTR--
+180402002 Potaschbierg, Z.I.    00639  00639                % 03288 RGTR--
+180402001 Potaschbierg          00640  00640                % 03288 RGTR--
+180401007 Grevenmacher, Seiden  00641  00641                % 03288 RGTR--
+180401001 Grevenmacher, Copal   00642  00642                % 03288 RGTR--
+180401008 Grevenmacher, Tanneu  00643  00643                % 03288 RGTR--
+180401003 Grevenmacher, Gare r  00645                       % 03288 RGTR--
+*Z 03289 RGTR--                                             % 03289 RGTR--
+*L 474      170501016 180401003  00745  00820               % 03289 RGTR--
+*A FR 170501016 180401003 000006  00745  00820              % 03289 RGTR--
+*A al 170501016 180401003 000006  00745  00820              % 03289 RGTR--
+*A VI 170501016 180401003 000006  00745  00820              % 03289 RGTR--
+*R 2 180401003 170501016 180401003  00745  00820            % 03289 RGTR--
+*G RGB 170501016 180401003  00745  00820                    % 03289 RGTR--
+*A VE 170501016 180401003 000006  00745  00820              % 03289 RGTR--
+*I FD 170501016 180401003        0002291  00745  00820      % 03289 RGTR--
+170501016 Echternach, Gare Cen         00745                % 03289 RGTR--
+170501011 Echternach, Morgenst  00746  00746                % 03289 RGTR--
+170501014 Echternach, rte.d'Os  00746  00746                % 03289 RGTR--
+170706002 Osweiler, Haaptstroo  00753  00753                % 03289 RGTR--
+170706001 Osweiler, Duerfplaz   00754  00754                % 03289 RGTR--
+170604001 Herborn, Kiercheplaz  00759  00759                % 03289 RGTR--
+180601001 Berbourg, Schoulstro  00803  00803                % 03289 RGTR--
+180601002 Berbourg, Kiirch      00804  00804                % 03289 RGTR--
+180207001 Wecker, An der Schmë  00808  00808                % 03289 RGTR--
+180207004 Wecker, Gare          00809  00809                % 03289 RGTR--
+180207003 Wecker, Eglise        00810  00810                % 03289 RGTR--
+180207002 Wecker, Coboulux      00810  00810                % 03289 RGTR--
+180402002 Potaschbierg, Z.I.    00813  00813                % 03289 RGTR--
+180402001 Potaschbierg          00814  00814                % 03289 RGTR--
+180401007 Grevenmacher, Seiden  00815  00815                % 03289 RGTR--
+180401001 Grevenmacher, Copal   00816  00816                % 03289 RGTR--
+180401008 Grevenmacher, Tanneu  00818  00818                % 03289 RGTR--
+180401003 Grevenmacher, Gare r  00820                       % 03289 RGTR--
+*Z 03290 RGTR--                                             % 03290 RGTR--
+*L 474      170501016 180401003  01615  01650               % 03290 RGTR--
+*A FR 170501016 180401003 000006  01615  01650              % 03290 RGTR--
+*A al 170501016 180401003 000006  01615  01650              % 03290 RGTR--
+*A HL 170501016 180401003 000006  01615  01650              % 03290 RGTR--
+*R 2 180401003 170501016 180401003  01615  01650            % 03290 RGTR--
+*G RGB 170501016 180401003  01615  01650                    % 03290 RGTR--
+*A VE 170501016 180401003 000006  01615  01650              % 03290 RGTR--
+*I FD 170501016 180401003        0002288  01615  01650      % 03290 RGTR--
+170501016 Echternach, Gare Cen         01615                % 03290 RGTR--
+170501011 Echternach, Morgenst  01616  01616                % 03290 RGTR--
+170501014 Echternach, rte.d'Os  01616  01616                % 03290 RGTR--
+170706002 Osweiler, Haaptstroo  01623  01623                % 03290 RGTR--
+170706001 Osweiler, Duerfplaz   01624  01624                % 03290 RGTR--
+170604001 Herborn, Kiercheplaz  01629  01629                % 03290 RGTR--
+180601001 Berbourg, Schoulstro  01633  01633                % 03290 RGTR--
+180601002 Berbourg, Kiirch      01634  01634                % 03290 RGTR--
+180207001 Wecker, An der Schmë  01638  01638                % 03290 RGTR--
+180207004 Wecker, Gare          01639  01639                % 03290 RGTR--
+180207003 Wecker, Eglise        01640  01640                % 03290 RGTR--
+180207002 Wecker, Coboulux      01640  01640                % 03290 RGTR--
+180402002 Potaschbierg, Z.I.    01643  01643                % 03290 RGTR--
+180402001 Potaschbierg          01644  01644                % 03290 RGTR--
+180401007 Grevenmacher, Seiden  01645  01645                % 03290 RGTR--
+180401001 Grevenmacher, Copal   01646  01646                % 03290 RGTR--
+180401008 Grevenmacher, Tanneu  01648  01648                % 03290 RGTR--
+180401003 Grevenmacher, Gare r  01650                       % 03290 RGTR--
+*Z 03291 RGTR--                                             % 03291 RGTR--
+*L 474      170501016 180401003  01715  01750               % 03291 RGTR--
+*A FR 170501016 180401003 000006  01715  01750              % 03291 RGTR--
+*A al 170501016 180401003 000006  01715  01750              % 03291 RGTR--
+*R 2 180401003 170501016 180401003  01715  01750            % 03291 RGTR--
+*G RGB 170501016 180401003  01715  01750                    % 03291 RGTR--
+*A VE 170501016 180401003 000006  01715  01750              % 03291 RGTR--
+*I FD 170501016 180401003        0002594  01715  01750      % 03291 RGTR--
+170501016 Echternach, Gare Cen         01715                % 03291 RGTR--
+170501011 Echternach, Morgenst  01716  01716                % 03291 RGTR--
+170501014 Echternach, rte.d'Os  01716  01716                % 03291 RGTR--
+170706002 Osweiler, Haaptstroo  01723  01723                % 03291 RGTR--
+170706001 Osweiler, Duerfplaz   01724  01724                % 03291 RGTR--
+170604001 Herborn, Kiercheplaz  01729  01729                % 03291 RGTR--
+180601001 Berbourg, Schoulstro  01733  01733                % 03291 RGTR--
+180601002 Berbourg, Kiirch      01734  01734                % 03291 RGTR--
+180207001 Wecker, An der Schmë  01738  01738                % 03291 RGTR--
+180207004 Wecker, Gare          01739  01739                % 03291 RGTR--
+180207003 Wecker, Eglise        01740  01740                % 03291 RGTR--
+180207002 Wecker, Coboulux      01740  01740                % 03291 RGTR--
+180402002 Potaschbierg, Z.I.    01743  01743                % 03291 RGTR--
+180402001 Potaschbierg          01744  01744                % 03291 RGTR--
+180401007 Grevenmacher, Seiden  01745  01745                % 03291 RGTR--
+180401001 Grevenmacher, Copal   01746  01746                % 03291 RGTR--
+180401008 Grevenmacher, Tanneu  01748  01748                % 03291 RGTR--
+180401003 Grevenmacher, Gare r  01750                       % 03291 RGTR--
+*Z 03292 RGTR--                                             % 03292 RGTR--
+*L 474      170501016 180401003  00945  01018               % 03292 RGTR--
+*A FR 170501016 180401003 000006  00945  01018              % 03292 RGTR--
+*A al 170501016 180401003 000006  00945  01018              % 03292 RGTR--
+*A VI 170501016 180401003 000006  00945  01018              % 03292 RGTR--
+*R 2 180401003 170501016 180401003  00945  01018            % 03292 RGTR--
+*G RGB 170501016 180401003  00945  01018                    % 03292 RGTR--
+*A VE 170501016 180401003 000006  00945  01018              % 03292 RGTR--
+*I FD 170501016 180401003        0002842  00945  01018      % 03292 RGTR--
+170501016 Echternach, Gare Cen         00945                % 03292 RGTR--
+170501011 Echternach, Morgenst  00946  00946                % 03292 RGTR--
+170501014 Echternach, rte.d'Os  00946  00946                % 03292 RGTR--
+170706002 Osweiler, Haaptstroo  00952  00952                % 03292 RGTR--
+170706001 Osweiler, Duerfplaz   00953  00953                % 03292 RGTR--
+170604001 Herborn, Kiercheplaz  00958  00958                % 03292 RGTR--
+180601001 Berbourg, Schoulstro  01002  01002                % 03292 RGTR--
+180601002 Berbourg, Kiirch      01003  01003                % 03292 RGTR--
+180207001 Wecker, An der Schmë  01007  01007                % 03292 RGTR--
+180207004 Wecker, Gare          01008  01008                % 03292 RGTR--
+180207003 Wecker, Eglise        01009  01009                % 03292 RGTR--
+180207002 Wecker, Coboulux      01009  01009                % 03292 RGTR--
+180402002 Potaschbierg, Z.I.    01012  01012                % 03292 RGTR--
+180402001 Potaschbierg          01013  01013                % 03292 RGTR--
+180401007 Grevenmacher, Seiden  01014  01014                % 03292 RGTR--
+180401001 Grevenmacher, Copal   01015  01015                % 03292 RGTR--
+180401008 Grevenmacher, Tanneu  01017  01017                % 03292 RGTR--
+180401003 Grevenmacher, Gare r  01018                       % 03292 RGTR--
+*Z 03293 RGTR--                                             % 03293 RGTR--
+*L 474      170501016 180401003  01440  01513               % 03293 RGTR--
+*A FR 170501016 180401003 000006  01440  01513              % 03293 RGTR--
+*A al 170501016 180401003 000006  01440  01513              % 03293 RGTR--
+*A HM 170501016 180401003 000006  01440  01513              % 03293 RGTR--
+*R 2 180401003 170501016 180401003  01440  01513            % 03293 RGTR--
+*G RGB 170501016 180401003  01440  01513                    % 03293 RGTR--
+*A VE 170501016 180401003 000006  01440  01513              % 03293 RGTR--
+*I FD 170501016 180401003        0001971  01440  01513      % 03293 RGTR--
+170501016 Echternach, Gare Cen         01440                % 03293 RGTR--
+170501011 Echternach, Morgenst  01441  01441                % 03293 RGTR--
+170501014 Echternach, rte.d'Os  01441  01441                % 03293 RGTR--
+170706002 Osweiler, Haaptstroo  01447  01447                % 03293 RGTR--
+170706001 Osweiler, Duerfplaz   01448  01448                % 03293 RGTR--
+170604001 Herborn, Kiercheplaz  01453  01453                % 03293 RGTR--
+180601001 Berbourg, Schoulstro  01457  01457                % 03293 RGTR--
+180601002 Berbourg, Kiirch      01458  01458                % 03293 RGTR--
+180207001 Wecker, An der Schmë  01502  01502                % 03293 RGTR--
+180207004 Wecker, Gare          01503  01503                % 03293 RGTR--
+180207003 Wecker, Eglise        01504  01504                % 03293 RGTR--
+180207002 Wecker, Coboulux      01504  01504                % 03293 RGTR--
+180402002 Potaschbierg, Z.I.    01507  01507                % 03293 RGTR--
+180402001 Potaschbierg          01508  01508                % 03293 RGTR--
+180401007 Grevenmacher, Seiden  01509  01509                % 03293 RGTR--
+180401001 Grevenmacher, Copal   01510  01510                % 03293 RGTR--
+180401008 Grevenmacher, Tanneu  01512  01512                % 03293 RGTR--
+180401003 Grevenmacher, Gare r  01513                       % 03293 RGTR--
+*Z 03294 RGTR--                                             % 03294 RGTR--
+*L 474      170501016 180401003  01815  01848               % 03294 RGTR--
+*A FR 170501016 180401003 000006  01815  01848              % 03294 RGTR--
+*A al 170501016 180401003 000006  01815  01848              % 03294 RGTR--
+*R 2 180401003 170501016 180401003  01815  01848            % 03294 RGTR--
+*G RGB 170501016 180401003  01815  01848                    % 03294 RGTR--
+*A VE 170501016 180401003 000006  01815  01848              % 03294 RGTR--
+*I FD 170501016 180401003        0002289  01815  01848      % 03294 RGTR--
+170501016 Echternach, Gare Cen         01815                % 03294 RGTR--
+170501011 Echternach, Morgenst  01816  01816                % 03294 RGTR--
+170501014 Echternach, rte.d'Os  01816  01816                % 03294 RGTR--
+170706002 Osweiler, Haaptstroo  01822  01822                % 03294 RGTR--
+170706001 Osweiler, Duerfplaz   01823  01823                % 03294 RGTR--
+170604001 Herborn, Kiercheplaz  01828  01828                % 03294 RGTR--
+180601001 Berbourg, Schoulstro  01832  01832                % 03294 RGTR--
+180601002 Berbourg, Kiirch      01833  01833                % 03294 RGTR--
+180207001 Wecker, An der Schmë  01837  01837                % 03294 RGTR--
+180207004 Wecker, Gare          01838  01838                % 03294 RGTR--
+180207003 Wecker, Eglise        01839  01839                % 03294 RGTR--
+180207002 Wecker, Coboulux      01839  01839                % 03294 RGTR--
+180402002 Potaschbierg, Z.I.    01842  01842                % 03294 RGTR--
+180402001 Potaschbierg          01843  01843                % 03294 RGTR--
+180401007 Grevenmacher, Seiden  01844  01844                % 03294 RGTR--
+180401001 Grevenmacher, Copal   01845  01845                % 03294 RGTR--
+180401008 Grevenmacher, Tanneu  01847  01847                % 03294 RGTR--
+180401003 Grevenmacher, Gare r  01848                       % 03294 RGTR--

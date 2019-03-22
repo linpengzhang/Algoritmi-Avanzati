@@ -1,0 +1,83 @@
+*F 03 2
+*Z 01063 RGTR--                                             % 01063 RGTR--
+*L 111      200405036 170501016  00723  00822               % 01063 RGTR--
+*A FR 200405036 170501016 000006  00723  00822              % 01063 RGTR--
+*A cn 200405036 170501016 000006  00723  00822              % 01063 RGTR--
+*R 1 170501016 200405036 170501016  00723  00822            % 01063 RGTR--
+*G RGB 200405036 170501016  00723  00822                    % 01063 RGTR--
+*A VE 200405036 170501016 000006  00723  00822              % 01063 RGTR--
+*I FD 200405036 170501016        0002354  00723  00822      % 01063 RGTR--
+200405036 Luxembourg, Gare rou         00723                % 01063 RGTR--
+200405028 Centre, Rousegaertch -00727  00727                % 01063 RGTR--
+200405005 Centre, Badanstalt   -00733  00733                % 01063 RGTR--
+200410003 Eich, Eecher Plaz    -00737  00737                % 01063 RGTR--
+200409005 Dommeldange, Contour  00739  00739                % 01063 RGTR--
+200409006 Dommeldange, Dauschb  00741  00741                % 01063 RGTR--
+200509001 Waldhaff              00744  00744                % 01063 RGTR--
+180508001 Gonderange, Am Duerf  00749  00749                % 01063 RGTR--
+180508003 Gonderange, Mierchen  00751  00751                % 01063 RGTR--
+180511009 Junglinster, Op der   00751  00751                % 01063 RGTR--
+180511005 Junglinster, Um Lei   00752  00752                % 01063 RGTR--
+180511002 Junglinster, Op der   00753  00753                % 01063 RGTR--
+180511007 Junglinster, Um Reil  00755  00755                % 01063 RGTR--
+180512003 Junglinster, P+R      00757  00757                % 01063 RGTR--
+180509002 Graulinster, Haaptst  00800  00800                % 01063 RGTR--
+170205001 Rippig, Rippigerkopp  00802  00802                % 01063 RGTR--
+170201005 Altrier, Kreizenhéic  00803  00803                % 01063 RGTR--
+170201002 Altrier, Heeschbrege  00804  00804                % 01063 RGTR--
+170204001 Hersberg/Heeschbreg   00805  00805                % 01063 RGTR--
+170402001 Consdorf, Gare        00808  00808                % 01063 RGTR--
+170402005 Consdorf, Post        00809  00809                % 01063 RGTR--
+170402002 Consdorf, Haenricht   00811  00811                % 01063 RGTR--
+170402003 Consdorf, Kraizstroo  00811  00811                % 01063 RGTR--
+170403002 Scheidgen, Hotschent  00812  00812                % 01063 RGTR--
+170403003 Scheidgen, Veräinsba  00813  00813                % 01063 RGTR--
+170403001 Scheidgen, Biweschla  00814  00814                % 01063 RGTR--
+170502001 Lauterborn            00818  00818                % 01063 RGTR--
+170503001 Specksmillen          00818  00818                % 01063 RGTR--
+170501012 Echternach, Nonnenmi  00819  00819                % 01063 RGTR--
+170501004 Echternach, Centre d  00820  00820                % 01063 RGTR--
+170501006 Echternach, Charly's  00821  00821                % 01063 RGTR--
+170501016 Echternach, Gare Cen  00822                       % 01063 RGTR--
+*Z 01064 RGTR--                                             % 01064 RGTR--
+*L 111      200405036 170501016  00823  00922               % 01064 RGTR--
+*A FR 200405036 170501016 000006  00823  00922              % 01064 RGTR--
+*A co 200405036 170501016 000006  00823  00922              % 01064 RGTR--
+*A cn 200405036 170501016 000006  00823  00922              % 01064 RGTR--
+*A GU 200405036 170501016 000006  00823  00922              % 01064 RGTR--
+*R 1 170501016 200405036 170501016  00823  00922            % 01064 RGTR--
+*G RGB 200405036 170501016  00823  00922                    % 01064 RGTR--
+*A VE 200405036 170501016 000006  00823  00922              % 01064 RGTR--
+*I FD 200405036 170501016        0001004  00823  00922      % 01064 RGTR--
+200405036 Luxembourg, Gare rou         00823                % 01064 RGTR--
+200405028 Centre, Rousegaertch -00827  00827                % 01064 RGTR--
+200405005 Centre, Badanstalt   -00833  00833                % 01064 RGTR--
+200410003 Eich, Eecher Plaz    -00837  00837                % 01064 RGTR--
+200409005 Dommeldange, Contour  00839  00839                % 01064 RGTR--
+200409006 Dommeldange, Dauschb  00841  00841                % 01064 RGTR--
+200509001 Waldhaff              00844  00844                % 01064 RGTR--
+180508001 Gonderange, Am Duerf  00849  00849                % 01064 RGTR--
+180508003 Gonderange, Mierchen  00851  00851                % 01064 RGTR--
+180511009 Junglinster, Op der   00851  00851                % 01064 RGTR--
+180511005 Junglinster, Um Lei   00852  00852                % 01064 RGTR--
+180511002 Junglinster, Op der   00853  00853                % 01064 RGTR--
+180511007 Junglinster, Um Reil  00855  00855                % 01064 RGTR--
+180512003 Junglinster, P+R      00857  00857                % 01064 RGTR--
+180509002 Graulinster, Haaptst  00900  00900                % 01064 RGTR--
+170205001 Rippig, Rippigerkopp  00902  00902                % 01064 RGTR--
+170201005 Altrier, Kreizenhéic  00903  00903                % 01064 RGTR--
+170201002 Altrier, Heeschbrege  00904  00904                % 01064 RGTR--
+170204001 Hersberg/Heeschbreg   00905  00905                % 01064 RGTR--
+170402001 Consdorf, Gare        00908  00908                % 01064 RGTR--
+170402005 Consdorf, Post        00909  00909                % 01064 RGTR--
+170402002 Consdorf, Haenricht   00911  00911                % 01064 RGTR--
+170402003 Consdorf, Kraizstroo  00911  00911                % 01064 RGTR--
+170403002 Scheidgen, Hotschent  00912  00912                % 01064 RGTR--
+170403003 Scheidgen, Veräinsba  00913  00913                % 01064 RGTR--
+170403001 Scheidgen, Biweschla  00914  00914                % 01064 RGTR--
+170502001 Lauterborn            00918  00918                % 01064 RGTR--
+170503001 Specksmillen          00918  00918                % 01064 RGTR--
+170501012 Echternach, Nonnenmi  00919  00919                % 01064 RGTR--
+170501004 Echternach, Centre d  00920  00920                % 01064 RGTR--
+170501006 Echternach, Charly's  00921  00921                % 01064 RGTR--
+170501016 Echternach, Gare Cen  00922                       % 01064 RGTR--

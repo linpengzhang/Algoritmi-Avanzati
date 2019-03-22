@@ -1,0 +1,615 @@
+*F 03 2
+*Z 00173 RGTR--                                             % 00173 RGTR--
+*L 595      150606007 150512006  01512  01525               % 00173 RGTR--
+*A lc 150606007 150512006 000030  01512  01525              % 00173 RGTR--
+*A km 150606007 150512006 000030  01512  01525              % 00173 RGTR--
+*R 1 150512006 150606007 150512006  01512  01525            % 00173 RGTR--
+*G RGB 150606007 150512006  01512  01525                    % 00173 RGTR--
+*A VE 150606007 150512006 000030  01512  01525              % 00173 RGTR--
+*I FD 150606007 150512006        0002327  01512  01525      % 00173 RGTR--
+150606007 Redange, Osperstroos         01512                % 00173 RGTR--
+150601001 Eltz                  01513  01513                % 00173 RGTR--
+150605002 Ospern, Wäschbur      01515  01515                % 00173 RGTR--
+150508002 Hostert, Wäschbur     01519  01519                % 00173 RGTR--
+150508001 Hostert, Folschterwe  01519  01519                % 00173 RGTR--
+150506003 Folschette, Centre C  01521  01521                % 00173 RGTR--
+150506005 Folschette, Rammeric  01521  01521                % 00173 RGTR--
+150506002 Folschette, Bellevue  01522  01522                % 00173 RGTR--
+150512004 Rambrouch, Riesenknä  01524  01524                % 00173 RGTR--
+150512006 Rambrouch, Gare       01525                       % 00173 RGTR--
+*Z 06136 RGTR--                                             % 06136 RGTR--
+*L 595      150606005 150502004  01605  01632               % 06136 RGTR--
+*A fj 150606005 150502004 000006  01605  01632              % 06136 RGTR--
+*A mu 150606005 150502004 000006  01605  01632              % 06136 RGTR--
+*R 1 150502004 150606005 150502004  01605  01632            % 06136 RGTR--
+*G RGB 150606005 150502004  01605  01632                    % 06136 RGTR--
+*A VE 150606005 150502004 000006  01605  01632              % 06136 RGTR--
+*I FD 150606005 150502004        0002097  01605  01632      % 06136 RGTR--
+150606005 Redange, Lycée Atert         01605                % 06136 RGTR--
+150606009 Redange, Schock       01606  01606                % 06136 RGTR--
+150606007 Redange, Osperstroos  01607  01607                % 06136 RGTR--
+150601001 Eltz                  01609  01609                % 06136 RGTR--
+150605002 Ospern, Wäschbur      01610  01610                % 06136 RGTR--
+150508002 Hostert, Wäschbur     01615  01615                % 06136 RGTR--
+150508001 Hostert, Folschterwe  01615  01615                % 06136 RGTR--
+150506003 Folschette, Centre C  01617  01617                % 06136 RGTR--
+150506005 Folschette, Rammeric  01617  01617                % 06136 RGTR--
+150506002 Folschette, Bellevue  01618  01618                % 06136 RGTR--
+150512004 Rambrouch, Riesenknä  01620  01620                % 06136 RGTR--
+150512006 Rambrouch, Gare       01621  01621                % 06136 RGTR--
+150512005 Rambrouch, Schlass    01622  01622                % 06136 RGTR--
+150509001 Koetschette, Rond-Po  01623  01623                % 06136 RGTR--
+150513001 Riesenhaff            01625  01625                % 06136 RGTR--
+150505001 Flatzbour             01627  01627                % 06136 RGTR--
+150502003 Bigonville, Kimm      01628  01628                % 06136 RGTR--
+150502005 Bigonville, Réimerwe  01630  01630                % 06136 RGTR--
+150502006 Bigonville, Am Duerf  01630  01630                % 06136 RGTR--
+150502001 Bigonville, Huelgaas  01631  01631                % 06136 RGTR--
+150502004 Bigonville, Knupp     01632                       % 06136 RGTR--
+*Z 06137 RGTR--                                             % 06137 RGTR--
+*L 595      150606005 150502004  01720  01747               % 06137 RGTR--
+*A fj 150606005 150502004 000006  01720  01747              % 06137 RGTR--
+*A mu 150606005 150502004 000006  01720  01747              % 06137 RGTR--
+*R 1 150502004 150606005 150502004  01720  01747            % 06137 RGTR--
+*G RGB 150606005 150502004  01720  01747                    % 06137 RGTR--
+*A VE 150606005 150502004 000006  01720  01747              % 06137 RGTR--
+*I FD 150606005 150502004        0003342  01720  01747      % 06137 RGTR--
+150606005 Redange, Lycée Atert         01720                % 06137 RGTR--
+150606009 Redange, Schock       01721  01721                % 06137 RGTR--
+150606007 Redange, Osperstroos  01722  01722                % 06137 RGTR--
+150601001 Eltz                  01724  01724                % 06137 RGTR--
+150605002 Ospern, Wäschbur      01725  01725                % 06137 RGTR--
+150508002 Hostert, Wäschbur     01730  01730                % 06137 RGTR--
+150508001 Hostert, Folschterwe  01730  01730                % 06137 RGTR--
+150506003 Folschette, Centre C  01732  01732                % 06137 RGTR--
+150506005 Folschette, Rammeric  01732  01732                % 06137 RGTR--
+150506002 Folschette, Bellevue  01733  01733                % 06137 RGTR--
+150512004 Rambrouch, Riesenknä  01735  01735                % 06137 RGTR--
+150512006 Rambrouch, Gare       01736  01736                % 06137 RGTR--
+150512005 Rambrouch, Schlass    01737  01737                % 06137 RGTR--
+150509001 Koetschette, Rond-Po  01738  01738                % 06137 RGTR--
+150513001 Riesenhaff            01740  01740                % 06137 RGTR--
+150505001 Flatzbour             01742  01742                % 06137 RGTR--
+150502003 Bigonville, Kimm      01743  01743                % 06137 RGTR--
+150502005 Bigonville, Réimerwe  01745  01745                % 06137 RGTR--
+150502006 Bigonville, Am Duerf  01745  01745                % 06137 RGTR--
+150502001 Bigonville, Huelgaas  01746  01746                % 06137 RGTR--
+150502004 Bigonville, Knupp     01747                       % 06137 RGTR--
+*Z 06138 RGTR--                                             % 06138 RGTR--
+*L 595      150606005 150502004  00948  01014               % 06138 RGTR--
+*A fj 150606005 150502004 000006  00948  01014              % 06138 RGTR--
+*A LT 150606005 150502004 000006  00948  01014              % 06138 RGTR--
+*A mu 150606005 150502004 000006  00948  01014              % 06138 RGTR--
+*R 1 150502004 150606005 150502004  00948  01014            % 06138 RGTR--
+*G RGB 150606005 150502004  00948  01014                    % 06138 RGTR--
+*A VE 150606005 150502004 000006  00948  01014              % 06138 RGTR--
+*I FD 150606005 150502004        0002655  00948  01014      % 06138 RGTR--
+150606005 Redange, Lycée Atert         00948                % 06138 RGTR--
+150606009 Redange, Schock       00949  00949                % 06138 RGTR--
+150606007 Redange, Osperstroos  00950  00950                % 06138 RGTR--
+150601001 Eltz                  00952  00952                % 06138 RGTR--
+150605002 Ospern, Wäschbur      00953  00953                % 06138 RGTR--
+150508002 Hostert, Wäschbur     00957  00957                % 06138 RGTR--
+150508001 Hostert, Folschterwe  00958  00958                % 06138 RGTR--
+150506003 Folschette, Centre C  00959  00959                % 06138 RGTR--
+150506005 Folschette, Rammeric  01000  01000                % 06138 RGTR--
+150506002 Folschette, Bellevue  01001  01001                % 06138 RGTR--
+150512004 Rambrouch, Riesenknä  01002  01002                % 06138 RGTR--
+150512006 Rambrouch, Gare       01003  01003                % 06138 RGTR--
+150512005 Rambrouch, Schlass    01004  01004                % 06138 RGTR--
+150509001 Koetschette, Rond-Po  01006  01006                % 06138 RGTR--
+150513001 Riesenhaff            01008  01008                % 06138 RGTR--
+150505001 Flatzbour             01010  01010                % 06138 RGTR--
+150502003 Bigonville, Kimm      01011  01011                % 06138 RGTR--
+150502005 Bigonville, Réimerwe  01012  01012                % 06138 RGTR--
+150502006 Bigonville, Am Duerf  01013  01013                % 06138 RGTR--
+150502001 Bigonville, Huelgaas  01013  01013                % 06138 RGTR--
+150502004 Bigonville, Knupp     01014                       % 06138 RGTR--
+*Z 06139 RGTR--                                             % 06139 RGTR--
+*L 595      150606005 150502004  01133  01159               % 06139 RGTR--
+*A fj 150606005 150502004 000006  01133  01159              % 06139 RGTR--
+*A mu 150606005 150502004 000006  01133  01159              % 06139 RGTR--
+*R 1 150502004 150606005 150502004  01133  01159            % 06139 RGTR--
+*G RGB 150606005 150502004  01133  01159                    % 06139 RGTR--
+*A VE 150606005 150502004 000006  01133  01159              % 06139 RGTR--
+*I FD 150606005 150502004        0002274  01133  01159      % 06139 RGTR--
+150606005 Redange, Lycée Atert         01133                % 06139 RGTR--
+150606009 Redange, Schock       01134  01134                % 06139 RGTR--
+150606007 Redange, Osperstroos  01135  01135                % 06139 RGTR--
+150601001 Eltz                  01137  01137                % 06139 RGTR--
+150605002 Ospern, Wäschbur      01138  01138                % 06139 RGTR--
+150508002 Hostert, Wäschbur     01142  01142                % 06139 RGTR--
+150508001 Hostert, Folschterwe  01143  01143                % 06139 RGTR--
+150506003 Folschette, Centre C  01144  01144                % 06139 RGTR--
+150506005 Folschette, Rammeric  01145  01145                % 06139 RGTR--
+150506002 Folschette, Bellevue  01146  01146                % 06139 RGTR--
+150512004 Rambrouch, Riesenknä  01147  01147                % 06139 RGTR--
+150512006 Rambrouch, Gare       01148  01148                % 06139 RGTR--
+150512005 Rambrouch, Schlass    01149  01149                % 06139 RGTR--
+150509001 Koetschette, Rond-Po  01151  01151                % 06139 RGTR--
+150513001 Riesenhaff            01153  01153                % 06139 RGTR--
+150505001 Flatzbour             01155  01155                % 06139 RGTR--
+150502003 Bigonville, Kimm      01156  01156                % 06139 RGTR--
+150502005 Bigonville, Réimerwe  01157  01157                % 06139 RGTR--
+150502006 Bigonville, Am Duerf  01158  01158                % 06139 RGTR--
+150502001 Bigonville, Huelgaas  01158  01158                % 06139 RGTR--
+150502004 Bigonville, Knupp     01159                       % 06139 RGTR--
+*Z 06140 RGTR--                                             % 06140 RGTR--
+*L 595      150606005 150502004  01450  01516               % 06140 RGTR--
+*A fj 150606005 150502004 000006  01450  01516              % 06140 RGTR--
+*A mu 150606005 150502004 000006  01450  01516              % 06140 RGTR--
+*R 1 150502004 150606005 150502004  01450  01516            % 06140 RGTR--
+*G RGB 150606005 150502004  01450  01516                    % 06140 RGTR--
+*A VE 150606005 150502004 000006  01450  01516              % 06140 RGTR--
+*I FD 150606005 150502004        0001891  01450  01516      % 06140 RGTR--
+150606005 Redange, Lycée Atert         01450                % 06140 RGTR--
+150606009 Redange, Schock       01451  01451                % 06140 RGTR--
+150606007 Redange, Osperstroos  01452  01452                % 06140 RGTR--
+150601001 Eltz                  01454  01454                % 06140 RGTR--
+150605002 Ospern, Wäschbur      01455  01455                % 06140 RGTR--
+150508002 Hostert, Wäschbur     01459  01459                % 06140 RGTR--
+150508001 Hostert, Folschterwe  01500  01500                % 06140 RGTR--
+150506003 Folschette, Centre C  01501  01501                % 06140 RGTR--
+150506005 Folschette, Rammeric  01502  01502                % 06140 RGTR--
+150506002 Folschette, Bellevue  01503  01503                % 06140 RGTR--
+150512004 Rambrouch, Riesenknä  01504  01504                % 06140 RGTR--
+150512006 Rambrouch, Gare       01505  01505                % 06140 RGTR--
+150512005 Rambrouch, Schlass    01506  01506                % 06140 RGTR--
+150509001 Koetschette, Rond-Po  01508  01508                % 06140 RGTR--
+150513001 Riesenhaff            01510  01510                % 06140 RGTR--
+150505001 Flatzbour             01512  01512                % 06140 RGTR--
+150502003 Bigonville, Kimm      01513  01513                % 06140 RGTR--
+150502005 Bigonville, Réimerwe  01514  01514                % 06140 RGTR--
+150502006 Bigonville, Am Duerf  01515  01515                % 06140 RGTR--
+150502001 Bigonville, Huelgaas  01515  01515                % 06140 RGTR--
+150502004 Bigonville, Knupp     01516                       % 06140 RGTR--
+*Z 06141 RGTR--                                             % 06141 RGTR--
+*L 595      150606005 150502004  01900  01926               % 06141 RGTR--
+*A fj 150606005 150502004 000006  01900  01926              % 06141 RGTR--
+*A mu 150606005 150502004 000006  01900  01926              % 06141 RGTR--
+*R 1 150502004 150606005 150502004  01900  01926            % 06141 RGTR--
+*G RGB 150606005 150502004  01900  01926                    % 06141 RGTR--
+*A VE 150606005 150502004 000006  01900  01926              % 06141 RGTR--
+*I FD 150606005 150502004        0002355  01900  01926      % 06141 RGTR--
+150606005 Redange, Lycée Atert         01900                % 06141 RGTR--
+150606009 Redange, Schock       01901  01901                % 06141 RGTR--
+150606007 Redange, Osperstroos  01902  01902                % 06141 RGTR--
+150601001 Eltz                  01904  01904                % 06141 RGTR--
+150605002 Ospern, Wäschbur      01905  01905                % 06141 RGTR--
+150508002 Hostert, Wäschbur     01909  01909                % 06141 RGTR--
+150508001 Hostert, Folschterwe  01910  01910                % 06141 RGTR--
+150506003 Folschette, Centre C  01911  01911                % 06141 RGTR--
+150506005 Folschette, Rammeric  01912  01912                % 06141 RGTR--
+150506002 Folschette, Bellevue  01913  01913                % 06141 RGTR--
+150512004 Rambrouch, Riesenknä  01914  01914                % 06141 RGTR--
+150512006 Rambrouch, Gare       01915  01915                % 06141 RGTR--
+150512005 Rambrouch, Schlass    01916  01916                % 06141 RGTR--
+150509001 Koetschette, Rond-Po  01918  01918                % 06141 RGTR--
+150513001 Riesenhaff            01920  01920                % 06141 RGTR--
+150505001 Flatzbour             01922  01922                % 06141 RGTR--
+150502003 Bigonville, Kimm      01923  01923                % 06141 RGTR--
+150502005 Bigonville, Réimerwe  01924  01924                % 06141 RGTR--
+150502006 Bigonville, Am Duerf  01925  01925                % 06141 RGTR--
+150502001 Bigonville, Huelgaas  01925  01925                % 06141 RGTR--
+150502004 Bigonville, Knupp     01926                       % 06141 RGTR--
+*Z 06142 RGTR--                                             % 06142 RGTR--
+*L 595      150606005 150502004  01415  01441               % 06142 RGTR--
+*A lc 150606005 150502004 000042  01415  01441              % 06142 RGTR--
+*A LO 150606005 150502004 000042  01415  01441              % 06142 RGTR--
+*A mu 150606005 150502004 000042  01415  01441              % 06142 RGTR--
+*R 1 150502004 150606005 150502004  01415  01441            % 06142 RGTR--
+*G RGB 150606005 150502004  01415  01441                    % 06142 RGTR--
+*A VE 150606005 150502004 000042  01415  01441              % 06142 RGTR--
+*I FD 150606005 150502004        0001804  01415  01441      % 06142 RGTR--
+150606005 Redange, Lycée Atert         01415                % 06142 RGTR--
+150606009 Redange, Schock       01416  01416                % 06142 RGTR--
+150606007 Redange, Osperstroos  01417  01417                % 06142 RGTR--
+150601001 Eltz                  01419  01419                % 06142 RGTR--
+150605002 Ospern, Wäschbur      01420  01420                % 06142 RGTR--
+150508002 Hostert, Wäschbur     01424  01424                % 06142 RGTR--
+150508001 Hostert, Folschterwe  01425  01425                % 06142 RGTR--
+150506003 Folschette, Centre C  01426  01426                % 06142 RGTR--
+150506005 Folschette, Rammeric  01427  01427                % 06142 RGTR--
+150506002 Folschette, Bellevue  01428  01428                % 06142 RGTR--
+150512004 Rambrouch, Riesenknä  01429  01429                % 06142 RGTR--
+150512006 Rambrouch, Gare       01430  01430                % 06142 RGTR--
+150512005 Rambrouch, Schlass    01431  01431                % 06142 RGTR--
+150509001 Koetschette, Rond-Po  01433  01433                % 06142 RGTR--
+150513001 Riesenhaff            01435  01435                % 06142 RGTR--
+150505001 Flatzbour             01437  01437                % 06142 RGTR--
+150502003 Bigonville, Kimm      01438  01438                % 06142 RGTR--
+150502005 Bigonville, Réimerwe  01439  01439                % 06142 RGTR--
+150502006 Bigonville, Am Duerf  01440  01440                % 06142 RGTR--
+150502001 Bigonville, Huelgaas  01440  01440                % 06142 RGTR--
+150502004 Bigonville, Knupp     01441                       % 06142 RGTR--
+*Z 06143 RGTR--                                             % 06143 RGTR--
+*L 595      150606005 150502004  01225  01258               % 06143 RGTR--
+*A lc 150606005 150502004 000163  01225  01258              % 06143 RGTR--
+*A mv 150606005 150502004 000163  01225  01258              % 06143 RGTR--
+*A mu 150606005 150502004 000163  01225  01258              % 06143 RGTR--
+*R 1 150502004 150606005 150502004  01225  01258            % 06143 RGTR--
+*G RGB 150606005 150502004  01225  01258                    % 06143 RGTR--
+*A VE 150606005 150502004 000163  01225  01258              % 06143 RGTR--
+*I FD 150606005 150502004        0002029  01225  01258      % 06143 RGTR--
+150606005 Redange, Lycée Atert         01225                % 06143 RGTR--
+150606009 Redange, Schock       01226  01226                % 06143 RGTR--
+150606007 Redange, Osperstroos  01227  01227                % 06143 RGTR--
+150601001 Eltz                  01229  01229                % 06143 RGTR--
+150605002 Ospern, Wäschbur      01230  01230                % 06143 RGTR--
+150508002 Hostert, Wäschbur     01234  01234                % 06143 RGTR--
+150508001 Hostert, Folschterwe  01235  01235                % 06143 RGTR--
+150506003 Folschette, Centre C  01236  01236                % 06143 RGTR--
+150506005 Folschette, Rammeric  01237  01237                % 06143 RGTR--
+150506002 Folschette, Bellevue  01238  01238                % 06143 RGTR--
+150512004 Rambrouch, Riesenknä  01239  01239                % 06143 RGTR--
+150512006 Rambrouch, Gare       01240  01240                % 06143 RGTR--
+150512005 Rambrouch, Schlass    01241  01241                % 06143 RGTR--
+150509001 Koetschette, Rond-Po  01243  01243                % 06143 RGTR--
+150501003 Arsdorf, An der Gaas  01245  01245                % 06143 RGTR--
+150501001 Arsdorf, Am Duerf     01246  01246                % 06143 RGTR--
+150501004 Arsdorf, Um Knupp     01247  01247                % 06143 RGTR--
+150503001 Bilsdorf, Am Duerf    01249  01249                % 06143 RGTR--
+150513001 Riesenhaff            01252  01252                % 06143 RGTR--
+150505001 Flatzbour             01254  01254                % 06143 RGTR--
+150502003 Bigonville, Kimm      01255  01255                % 06143 RGTR--
+150502005 Bigonville, Réimerwe  01256  01256                % 06143 RGTR--
+150502006 Bigonville, Am Duerf  01257  01257                % 06143 RGTR--
+150502001 Bigonville, Huelgaas  01257  01257                % 06143 RGTR--
+150502004 Bigonville, Knupp     01258                       % 06143 RGTR--
+*Z 06144 RGTR--                                             % 06144 RGTR--
+*L 595      150606005 150502004  01540  01613               % 06144 RGTR--
+*A fj 150606005 150502004 000162  01540  01613              % 06144 RGTR--
+*A mv 150606005 150502004 000162  01540  01613              % 06144 RGTR--
+*A mu 150606005 150502004 000162  01540  01613              % 06144 RGTR--
+*R 1 150502004 150606005 150502004  01540  01613            % 06144 RGTR--
+*G RGB 150606005 150502004  01540  01613                    % 06144 RGTR--
+*A VE 150606005 150502004 000162  01540  01613              % 06144 RGTR--
+*I FD 150606005 150502004        0002853  01540  01613      % 06144 RGTR--
+150606005 Redange, Lycée Atert         01540                % 06144 RGTR--
+150606009 Redange, Schock       01541  01541                % 06144 RGTR--
+150606007 Redange, Osperstroos  01542  01542                % 06144 RGTR--
+150601001 Eltz                  01544  01544                % 06144 RGTR--
+150605002 Ospern, Wäschbur      01545  01545                % 06144 RGTR--
+150508002 Hostert, Wäschbur     01549  01549                % 06144 RGTR--
+150508001 Hostert, Folschterwe  01550  01550                % 06144 RGTR--
+150506003 Folschette, Centre C  01551  01551                % 06144 RGTR--
+150506005 Folschette, Rammeric  01552  01552                % 06144 RGTR--
+150506002 Folschette, Bellevue  01553  01553                % 06144 RGTR--
+150512004 Rambrouch, Riesenknä  01554  01554                % 06144 RGTR--
+150512006 Rambrouch, Gare       01555  01555                % 06144 RGTR--
+150512005 Rambrouch, Schlass    01556  01556                % 06144 RGTR--
+150509001 Koetschette, Rond-Po  01558  01558                % 06144 RGTR--
+150501003 Arsdorf, An der Gaas  01600  01600                % 06144 RGTR--
+150501001 Arsdorf, Am Duerf     01601  01601                % 06144 RGTR--
+150501004 Arsdorf, Um Knupp     01602  01602                % 06144 RGTR--
+150503001 Bilsdorf, Am Duerf    01604  01604                % 06144 RGTR--
+150513001 Riesenhaff            01607  01607                % 06144 RGTR--
+150505001 Flatzbour             01609  01609                % 06144 RGTR--
+150502003 Bigonville, Kimm      01610  01610                % 06144 RGTR--
+150502005 Bigonville, Réimerwe  01611  01611                % 06144 RGTR--
+150502006 Bigonville, Am Duerf  01612  01612                % 06144 RGTR--
+150502001 Bigonville, Huelgaas  01612  01612                % 06144 RGTR--
+150502004 Bigonville, Knupp     01613                       % 06144 RGTR--
+*Z 06145 RGTR--                                             % 06145 RGTR--
+*L 595      150606005 150605002  01302  01307               % 06145 RGTR--
+*A fj 150606005 150605002 000006  01302  01307              % 06145 RGTR--
+*A oa 150606005 150605002 000006  01302  01307              % 06145 RGTR--
+*A ob 150606005 150605002 000006  01302  01307              % 06145 RGTR--
+*R 1 150605002 150606005 150605002  01302  01307            % 06145 RGTR--
+*G RGB 150606005 150605002  01302  01307                    % 06145 RGTR--
+*A VE 150606005 150605002 000006  01302  01307              % 06145 RGTR--
+*I FD 150606005 150605002        0002465  01302  01307      % 06145 RGTR--
+150606005 Redange, Lycée Atert         01302                % 06145 RGTR--
+150606009 Redange, Schock       01303  01303                % 06145 RGTR--
+150606007 Redange, Osperstroos  01304  01304                % 06145 RGTR--
+150601001 Eltz                  01306  01306                % 06145 RGTR--
+150605002 Ospern, Wäschbur      01307                       % 06145 RGTR--
+*Z 06146 RGTR--                                             % 06146 RGTR--
+*L 595      150512006 150606001  00430  00444               % 06146 RGTR--
+*A lc 150512006 150606001 000006  00430  00444              % 06146 RGTR--
+*A oc 150512006 150606001 000006  00430  00444              % 06146 RGTR--
+*A kd 150512006 150606001 000006  00430  00444              % 06146 RGTR--
+*R 2 150606001 150512006 150606001  00430  00444            % 06146 RGTR--
+*G RGB 150512006 150606001  00430  00444                    % 06146 RGTR--
+*A VE 150512006 150606001 000006  00430  00444              % 06146 RGTR--
+*I FD 150512006 150606001        0003528  00430  00444      % 06146 RGTR--
+150512006 Rambrouch, Gare              00430                % 06146 RGTR--
+150512004 Rambrouch, Riesenknä  00431  00431                % 06146 RGTR--
+150506002 Folschette, Bellevue  00432  00432                % 06146 RGTR--
+150506005 Folschette, Rammeric  00433  00433                % 06146 RGTR--
+150506003 Folschette, Centre C  00433  00433                % 06146 RGTR--
+150508001 Hostert, Folschterwe  00435  00435                % 06146 RGTR--
+150508002 Hostert, Wäschbur     00435  00435                % 06146 RGTR--
+150506007 Brisenhaff            00437  00437                % 06146 RGTR--
+150605002 Ospern, Wäschbur      00439  00439                % 06146 RGTR--
+150601001 Eltz                  00441  00441                % 06146 RGTR--
+150606003 Redange, Gare         00443  00443                % 06146 RGTR--
+150606001 Redange/Attert, Bian  00444                       % 06146 RGTR--
+*Z 06147 RGTR--                                             % 06147 RGTR--
+*L 595      150502004 150606005  00630  00708               % 06147 RGTR--
+*A lc 150502004 150606005 000006  00630  00708              % 06147 RGTR--
+*A LV 150502004 150606005 000006  00630  00708              % 06147 RGTR--
+*A in 150502004 150606005 000006  00630  00708              % 06147 RGTR--
+*R 2 150606005 150502004 150606005  00630  00708            % 06147 RGTR--
+*G RGB 150502004 150606005  00630  00708                    % 06147 RGTR--
+*A VE 150502004 150606005 000006  00630  00708              % 06147 RGTR--
+*I FD 150502004 150606005        0000990  00630  00708      % 06147 RGTR--
+150502004 Bigonville, Knupp            00630                % 06147 RGTR--
+150502007 Bigonville, Haaptstr  00630  00630                % 06147 RGTR--
+150502002 Bigonville, Kéismaar  00631  00631                % 06147 RGTR--
+150502005 Bigonville, Réimerwe  00632  00632                % 06147 RGTR--
+150502003 Bigonville, Kimm      00634  00634                % 06147 RGTR--
+150505001 Flatzbour             00635  00635                % 06147 RGTR--
+150513001 Riesenhaff            00637  00637                % 06147 RGTR--
+150503001 Bilsdorf, Am Duerf    00640  00640                % 06147 RGTR--
+150501004 Arsdorf, Um Knupp     00643  00643                % 06147 RGTR--
+150501001 Arsdorf, Am Duerf     00644  00644                % 06147 RGTR--
+150501003 Arsdorf, An der Gaas  00645  00645                % 06147 RGTR--
+150509001 Koetschette, Rond-Po  00648  00648                % 06147 RGTR--
+150512005 Rambrouch, Schlass    00649  00649                % 06147 RGTR--
+150512006 Rambrouch, Gare       00650  00650                % 06147 RGTR--
+150512004 Rambrouch, Riesenknä  00652  00652                % 06147 RGTR--
+150506002 Folschette, Bellevue  00653  00653                % 06147 RGTR--
+150506005 Folschette, Rammeric  00654  00654                % 06147 RGTR--
+150506003 Folschette, Centre C  00654  00654                % 06147 RGTR--
+150508001 Hostert, Folschterwe  00656  00656                % 06147 RGTR--
+150508002 Hostert, Wäschbur     00657  00657                % 06147 RGTR--
+150506007 Brisenhaff            00658  00658                % 06147 RGTR--
+150605002 Ospern, Wäschbur      00701  00701                % 06147 RGTR--
+150601001 Eltz                  00702  00702                % 06147 RGTR--
+150606003 Redange, Gare         00705  00705                % 06147 RGTR--
+150606001 Redange/Attert, Bian  00706  00706                % 06147 RGTR--
+150606009 Redange, Schock       00707  00707                % 06147 RGTR--
+150606005 Redange, Lycée Atert  00708                       % 06147 RGTR--
+*Z 06148 RGTR--                                             % 06148 RGTR--
+*L 595      150502004 150606005  00712  00750               % 06148 RGTR--
+*A ey 150502004 150606005 000006  00712  00750              % 06148 RGTR--
+*A EK 150502004 150606005 000006  00712  00750              % 06148 RGTR--
+*A in 150502004 150606005 000006  00712  00750              % 06148 RGTR--
+*R 2 150606005 150502004 150606005  00712  00750            % 06148 RGTR--
+*G RGB 150502004 150606005  00712  00750                    % 06148 RGTR--
+*A VE 150502004 150606005 000006  00712  00750              % 06148 RGTR--
+*I FD 150502004 150606005        0002702  00712  00750      % 06148 RGTR--
+150502004 Bigonville, Knupp            00712                % 06148 RGTR--
+150502007 Bigonville, Haaptstr  00712  00712                % 06148 RGTR--
+150502002 Bigonville, Kéismaar  00713  00713                % 06148 RGTR--
+150502005 Bigonville, Réimerwe  00714  00714                % 06148 RGTR--
+150502003 Bigonville, Kimm      00716  00716                % 06148 RGTR--
+150505001 Flatzbour             00717  00717                % 06148 RGTR--
+150513001 Riesenhaff            00719  00719                % 06148 RGTR--
+150503001 Bilsdorf, Am Duerf    00722  00722                % 06148 RGTR--
+150501004 Arsdorf, Um Knupp     00725  00725                % 06148 RGTR--
+150501001 Arsdorf, Am Duerf     00726  00726                % 06148 RGTR--
+150501003 Arsdorf, An der Gaas  00727  00727                % 06148 RGTR--
+150509001 Koetschette, Rond-Po  00730  00730                % 06148 RGTR--
+150512005 Rambrouch, Schlass    00731  00731                % 06148 RGTR--
+150512006 Rambrouch, Gare       00732  00732                % 06148 RGTR--
+150512004 Rambrouch, Riesenknä  00734  00734                % 06148 RGTR--
+150506002 Folschette, Bellevue  00735  00735                % 06148 RGTR--
+150506005 Folschette, Rammeric  00736  00736                % 06148 RGTR--
+150506003 Folschette, Centre C  00736  00736                % 06148 RGTR--
+150508001 Hostert, Folschterwe  00738  00738                % 06148 RGTR--
+150508002 Hostert, Wäschbur     00739  00739                % 06148 RGTR--
+150506007 Brisenhaff            00740  00740                % 06148 RGTR--
+150605002 Ospern, Wäschbur      00743  00743                % 06148 RGTR--
+150601001 Eltz                  00744  00744                % 06148 RGTR--
+150606003 Redange, Gare         00747  00747                % 06148 RGTR--
+150606001 Redange/Attert, Bian  00748  00748                % 06148 RGTR--
+150606009 Redange, Schock       00749  00749                % 06148 RGTR--
+150606005 Redange, Lycée Atert  00750                       % 06148 RGTR--
+*Z 06149 RGTR--                                             % 06149 RGTR--
+*L 595      150502004 150606005  00816  00845               % 06149 RGTR--
+*A fj 150502004 150606005 000006  00816  00845              % 06149 RGTR--
+*A in 150502004 150606005 000006  00816  00845              % 06149 RGTR--
+*R 2 150606005 150502004 150606005  00816  00845            % 06149 RGTR--
+*G RGB 150502004 150606005  00816  00845                    % 06149 RGTR--
+*A VE 150502004 150606005 000006  00816  00845              % 06149 RGTR--
+*I FD 150502004 150606005        0003188  00816  00845      % 06149 RGTR--
+150502004 Bigonville, Knupp            00816                % 06149 RGTR--
+150502007 Bigonville, Haaptstr  00816  00816                % 06149 RGTR--
+150502002 Bigonville, Kéismaar  00817  00817                % 06149 RGTR--
+150502005 Bigonville, Réimerwe  00818  00818                % 06149 RGTR--
+150502003 Bigonville, Kimm      00820  00820                % 06149 RGTR--
+150505001 Flatzbour             00821  00821                % 06149 RGTR--
+150513001 Riesenhaff            00823  00823                % 06149 RGTR--
+150509001 Koetschette, Rond-Po  00825  00825                % 06149 RGTR--
+150512005 Rambrouch, Schlass    00826  00826                % 06149 RGTR--
+150512006 Rambrouch, Gare       00827  00827                % 06149 RGTR--
+150512004 Rambrouch, Riesenknä  00829  00829                % 06149 RGTR--
+150506002 Folschette, Bellevue  00830  00830                % 06149 RGTR--
+150506005 Folschette, Rammeric  00830  00830                % 06149 RGTR--
+150506003 Folschette, Centre C  00831  00831                % 06149 RGTR--
+150508001 Hostert, Folschterwe  00833  00833                % 06149 RGTR--
+150508002 Hostert, Wäschbur     00834  00834                % 06149 RGTR--
+150506007 Brisenhaff            00835  00835                % 06149 RGTR--
+150605002 Ospern, Wäschbur      00838  00838                % 06149 RGTR--
+150601001 Eltz                  00839  00839                % 06149 RGTR--
+150606003 Redange, Gare         00842  00842                % 06149 RGTR--
+150606001 Redange/Attert, Bian  00842  00842                % 06149 RGTR--
+150606009 Redange, Schock       00843  00843                % 06149 RGTR--
+150606005 Redange, Lycée Atert  00845                       % 06149 RGTR--
+*Z 06150 RGTR--                                             % 06150 RGTR--
+*L 595      150502004 150606005  01017  01046               % 06150 RGTR--
+*A fj 150502004 150606005 000006  01017  01046              % 06150 RGTR--
+*A in 150502004 150606005 000006  01017  01046              % 06150 RGTR--
+*R 2 150606005 150502004 150606005  01017  01046            % 06150 RGTR--
+*G RGB 150502004 150606005  01017  01046                    % 06150 RGTR--
+*A VE 150502004 150606005 000006  01017  01046              % 06150 RGTR--
+*I FD 150502004 150606005        0002368  01017  01046      % 06150 RGTR--
+150502004 Bigonville, Knupp            01017                % 06150 RGTR--
+150502007 Bigonville, Haaptstr  01017  01017                % 06150 RGTR--
+150502002 Bigonville, Kéismaar  01018  01018                % 06150 RGTR--
+150502005 Bigonville, Réimerwe  01019  01019                % 06150 RGTR--
+150502003 Bigonville, Kimm      01021  01021                % 06150 RGTR--
+150505001 Flatzbour             01022  01022                % 06150 RGTR--
+150513001 Riesenhaff            01024  01024                % 06150 RGTR--
+150509001 Koetschette, Rond-Po  01026  01026                % 06150 RGTR--
+150512005 Rambrouch, Schlass    01027  01027                % 06150 RGTR--
+150512006 Rambrouch, Gare       01028  01028                % 06150 RGTR--
+150512004 Rambrouch, Riesenknä  01030  01030                % 06150 RGTR--
+150506002 Folschette, Bellevue  01031  01031                % 06150 RGTR--
+150506005 Folschette, Rammeric  01031  01031                % 06150 RGTR--
+150506003 Folschette, Centre C  01032  01032                % 06150 RGTR--
+150508001 Hostert, Folschterwe  01034  01034                % 06150 RGTR--
+150508002 Hostert, Wäschbur     01035  01035                % 06150 RGTR--
+150506007 Brisenhaff            01036  01036                % 06150 RGTR--
+150605002 Ospern, Wäschbur      01039  01039                % 06150 RGTR--
+150601001 Eltz                  01040  01040                % 06150 RGTR--
+150606003 Redange, Gare         01043  01043                % 06150 RGTR--
+150606001 Redange/Attert, Bian  01043  01043                % 06150 RGTR--
+150606009 Redange, Schock       01044  01044                % 06150 RGTR--
+150606005 Redange, Lycée Atert  01046                       % 06150 RGTR--
+*Z 06151 RGTR--                                             % 06151 RGTR--
+*L 595      150502004 150606005  01320  01349               % 06151 RGTR--
+*A fj 150502004 150606005 000006  01320  01349              % 06151 RGTR--
+*A in 150502004 150606005 000006  01320  01349              % 06151 RGTR--
+*R 2 150606005 150502004 150606005  01320  01349            % 06151 RGTR--
+*G RGB 150502004 150606005  01320  01349                    % 06151 RGTR--
+*A VE 150502004 150606005 000006  01320  01349              % 06151 RGTR--
+*I FD 150502004 150606005        0001967  01320  01349      % 06151 RGTR--
+150502004 Bigonville, Knupp            01320                % 06151 RGTR--
+150502007 Bigonville, Haaptstr  01320  01320                % 06151 RGTR--
+150502002 Bigonville, Kéismaar  01321  01321                % 06151 RGTR--
+150502005 Bigonville, Réimerwe  01322  01322                % 06151 RGTR--
+150502003 Bigonville, Kimm      01324  01324                % 06151 RGTR--
+150505001 Flatzbour             01325  01325                % 06151 RGTR--
+150513001 Riesenhaff            01327  01327                % 06151 RGTR--
+150509001 Koetschette, Rond-Po  01329  01329                % 06151 RGTR--
+150512005 Rambrouch, Schlass    01330  01330                % 06151 RGTR--
+150512006 Rambrouch, Gare       01331  01331                % 06151 RGTR--
+150512004 Rambrouch, Riesenknä  01333  01333                % 06151 RGTR--
+150506002 Folschette, Bellevue  01334  01334                % 06151 RGTR--
+150506005 Folschette, Rammeric  01334  01334                % 06151 RGTR--
+150506003 Folschette, Centre C  01335  01335                % 06151 RGTR--
+150508001 Hostert, Folschterwe  01337  01337                % 06151 RGTR--
+150508002 Hostert, Wäschbur     01338  01338                % 06151 RGTR--
+150506007 Brisenhaff            01339  01339                % 06151 RGTR--
+150605002 Ospern, Wäschbur      01342  01342                % 06151 RGTR--
+150601001 Eltz                  01343  01343                % 06151 RGTR--
+150606003 Redange, Gare         01346  01346                % 06151 RGTR--
+150606001 Redange/Attert, Bian  01346  01346                % 06151 RGTR--
+150606009 Redange, Schock       01347  01347                % 06151 RGTR--
+150606005 Redange, Lycée Atert  01349                       % 06151 RGTR--
+*Z 06152 RGTR--                                             % 06152 RGTR--
+*L 595      150502004 150606005  01520  01549               % 06152 RGTR--
+*A fj 150502004 150606005 000006  01520  01549              % 06152 RGTR--
+*A in 150502004 150606005 000006  01520  01549              % 06152 RGTR--
+*R 2 150606005 150502004 150606005  01520  01549            % 06152 RGTR--
+*G RGB 150502004 150606005  01520  01549                    % 06152 RGTR--
+*A VE 150502004 150606005 000006  01520  01549              % 06152 RGTR--
+*I FD 150502004 150606005        0001973  01520  01549      % 06152 RGTR--
+150502004 Bigonville, Knupp            01520                % 06152 RGTR--
+150502007 Bigonville, Haaptstr  01520  01520                % 06152 RGTR--
+150502002 Bigonville, Kéismaar  01521  01521                % 06152 RGTR--
+150502005 Bigonville, Réimerwe  01522  01522                % 06152 RGTR--
+150502003 Bigonville, Kimm      01524  01524                % 06152 RGTR--
+150505001 Flatzbour             01525  01525                % 06152 RGTR--
+150513001 Riesenhaff            01527  01527                % 06152 RGTR--
+150509001 Koetschette, Rond-Po  01529  01529                % 06152 RGTR--
+150512005 Rambrouch, Schlass    01530  01530                % 06152 RGTR--
+150512006 Rambrouch, Gare       01531  01531                % 06152 RGTR--
+150512004 Rambrouch, Riesenknä  01533  01533                % 06152 RGTR--
+150506002 Folschette, Bellevue  01534  01534                % 06152 RGTR--
+150506005 Folschette, Rammeric  01534  01534                % 06152 RGTR--
+150506003 Folschette, Centre C  01535  01535                % 06152 RGTR--
+150508001 Hostert, Folschterwe  01537  01537                % 06152 RGTR--
+150508002 Hostert, Wäschbur     01538  01538                % 06152 RGTR--
+150506007 Brisenhaff            01539  01539                % 06152 RGTR--
+150605002 Ospern, Wäschbur      01542  01542                % 06152 RGTR--
+150601001 Eltz                  01543  01543                % 06152 RGTR--
+150606003 Redange, Gare         01546  01546                % 06152 RGTR--
+150606001 Redange/Attert, Bian  01546  01546                % 06152 RGTR--
+150606009 Redange, Schock       01547  01547                % 06152 RGTR--
+150606005 Redange, Lycée Atert  01549                       % 06152 RGTR--
+*Z 06153 RGTR--                                             % 06153 RGTR--
+*L 595      150502004 150606005  01755  01824               % 06153 RGTR--
+*A fj 150502004 150606005 000006  01755  01824              % 06153 RGTR--
+*A in 150502004 150606005 000006  01755  01824              % 06153 RGTR--
+*R 2 150606005 150502004 150606005  01755  01824            % 06153 RGTR--
+*G RGB 150502004 150606005  01755  01824                    % 06153 RGTR--
+*A VE 150502004 150606005 000006  01755  01824              % 06153 RGTR--
+*I FD 150502004 150606005        0003093  01755  01824      % 06153 RGTR--
+150502004 Bigonville, Knupp            01755                % 06153 RGTR--
+150502007 Bigonville, Haaptstr  01755  01755                % 06153 RGTR--
+150502002 Bigonville, Kéismaar  01756  01756                % 06153 RGTR--
+150502005 Bigonville, Réimerwe  01757  01757                % 06153 RGTR--
+150502003 Bigonville, Kimm      01759  01759                % 06153 RGTR--
+150505001 Flatzbour             01800  01800                % 06153 RGTR--
+150513001 Riesenhaff            01802  01802                % 06153 RGTR--
+150509001 Koetschette, Rond-Po  01804  01804                % 06153 RGTR--
+150512005 Rambrouch, Schlass    01805  01805                % 06153 RGTR--
+150512006 Rambrouch, Gare       01806  01806                % 06153 RGTR--
+150512004 Rambrouch, Riesenknä  01808  01808                % 06153 RGTR--
+150506002 Folschette, Bellevue  01809  01809                % 06153 RGTR--
+150506005 Folschette, Rammeric  01809  01809                % 06153 RGTR--
+150506003 Folschette, Centre C  01810  01810                % 06153 RGTR--
+150508001 Hostert, Folschterwe  01812  01812                % 06153 RGTR--
+150508002 Hostert, Wäschbur     01813  01813                % 06153 RGTR--
+150506007 Brisenhaff            01814  01814                % 06153 RGTR--
+150605002 Ospern, Wäschbur      01817  01817                % 06153 RGTR--
+150601001 Eltz                  01818  01818                % 06153 RGTR--
+150606003 Redange, Gare         01821  01821                % 06153 RGTR--
+150606001 Redange/Attert, Bian  01821  01821                % 06153 RGTR--
+150606009 Redange, Schock       01822  01822                % 06153 RGTR--
+150606005 Redange, Lycée Atert  01824                       % 06153 RGTR--
+*Z 06154 RGTR--                                             % 06154 RGTR--
+*L 595      150605002 150606005  01250  01256               % 06154 RGTR--
+*A fj 150605002 150606005 000006  01250  01256              % 06154 RGTR--
+*A od 150605002 150606005 000006  01250  01256              % 06154 RGTR--
+*A QD 150605002 150606005 000006  01250  01256              % 06154 RGTR--
+*A in 150605002 150606005 000006  01250  01256              % 06154 RGTR--
+*R 2 150606005 150605002 150606005  01250  01256            % 06154 RGTR--
+*G RGB 150605002 150606005  01250  01256                    % 06154 RGTR--
+*A VE 150605002 150606005 000006  01250  01256              % 06154 RGTR--
+*I FD 150605002 150606005        0001290  01250  01256      % 06154 RGTR--
+150605002 Ospern, Wäschbur             01250                % 06154 RGTR--
+150601001 Eltz                  01251  01251                % 06154 RGTR--
+150606003 Redange, Gare         01253  01253                % 06154 RGTR--
+150606001 Redange/Attert, Bian  01254  01254                % 06154 RGTR--
+150606009 Redange, Schock       01255  01255                % 06154 RGTR--
+150606005 Redange, Lycée Atert  01256                       % 06154 RGTR--
+*Z 06155 RGTR--                                             % 06155 RGTR--
+*L 595      150605002 150606005  01655  01702               % 06155 RGTR--
+*A lc 150605002 150606005 000030  01655  01702              % 06155 RGTR--
+*A od 150605002 150606005 000030  01655  01702              % 06155 RGTR--
+*A QD 150605002 150606005 000030  01655  01702              % 06155 RGTR--
+*A in 150605002 150606005 000030  01655  01702              % 06155 RGTR--
+*R 2 150606005 150605002 150606005  01655  01702            % 06155 RGTR--
+*G RGB 150605002 150606005  01655  01702                    % 06155 RGTR--
+*A VE 150605002 150606005 000030  01655  01702              % 06155 RGTR--
+*I FD 150605002 150606005        0003119  01655  01702      % 06155 RGTR--
+150605002 Ospern, Wäschbur             01655                % 06155 RGTR--
+150601001 Eltz                  01656  01656                % 06155 RGTR--
+150606003 Redange, Gare         01658  01658                % 06155 RGTR--
+150606001 Redange/Attert, Bian  01659  01659                % 06155 RGTR--
+150606009 Redange, Schock       01700  01700                % 06155 RGTR--
+150606005 Redange, Lycée Atert  01702                       % 06155 RGTR--
+*Z 06156 RGTR--                                             % 06156 RGTR--
+*L 595      150502004 150606001  00513  00537               % 06156 RGTR--
+*A fj 150502004 150606001 000006  00513  00537              % 06156 RGTR--
+*A kd 150502004 150606001 000006  00513  00537              % 06156 RGTR--
+*R 2 150606001 150502004 150606001  00513  00537            % 06156 RGTR--
+*G RGB 150502004 150606001  00513  00537                    % 06156 RGTR--
+*A VE 150502004 150606001 000006  00513  00537              % 06156 RGTR--
+*I FD 150502004 150606001        0003382  00513  00537      % 06156 RGTR--
+150502004 Bigonville, Knupp            00513                % 06156 RGTR--
+150502007 Bigonville, Haaptstr  00513  00513                % 06156 RGTR--
+150502002 Bigonville, Kéismaar  00514  00514                % 06156 RGTR--
+150502005 Bigonville, Réimerwe  00515  00515                % 06156 RGTR--
+150502003 Bigonville, Kimm      00516  00516                % 06156 RGTR--
+150505001 Flatzbour             00517  00517                % 06156 RGTR--
+150513001 Riesenhaff            00519  00519                % 06156 RGTR--
+150509001 Koetschette, Rond-Po  00521  00521                % 06156 RGTR--
+150512005 Rambrouch, Schlass    00522  00522                % 06156 RGTR--
+150512006 Rambrouch, Gare       00523  00523                % 06156 RGTR--
+150512004 Rambrouch, Riesenknä  00524  00524                % 06156 RGTR--
+150506002 Folschette, Bellevue  00525  00525                % 06156 RGTR--
+150506005 Folschette, Rammeric  00526  00526                % 06156 RGTR--
+150506003 Folschette, Centre C  00526  00526                % 06156 RGTR--
+150508001 Hostert, Folschterwe  00528  00528                % 06156 RGTR--
+150508002 Hostert, Wäschbur     00528  00528                % 06156 RGTR--
+150506007 Brisenhaff            00530  00530                % 06156 RGTR--
+150605002 Ospern, Wäschbur      00532  00532                % 06156 RGTR--
+150601001 Eltz                  00534  00534                % 06156 RGTR--
+150606003 Redange, Gare         00536  00536                % 06156 RGTR--
+150606001 Redange/Attert, Bian  00537                       % 06156 RGTR--

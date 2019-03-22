@@ -1,0 +1,1387 @@
+*F 03 2
+*Z 02066 RGTR--                                             % 02066 RGTR--
+*L 642      120903018 110101002  00742  00819               % 02066 RGTR--
+*A da 120903018 110101002 000030  00742  00819              % 02066 RGTR--
+*A bq 120903018 110101002 000030  00742  00819              % 02066 RGTR--
+*R 1 110101002 120903018 110101002  00742  00819            % 02066 RGTR--
+*G RGB 120903018 110101002  00742  00819                    % 02066 RGTR--
+*A VE 120903018 110101002 000030  00742  00819              % 02066 RGTR--
+*I FD 120903018 110101002        0002599  00742  00819      % 02066 RGTR--
+120903018 Wiltz, Gare                  00742                % 02066 RGTR--
+120903021 Wiltz, Lann           00743  00743                % 02066 RGTR--
+120903041 Wiltz, Wéinebeerig    00744  00744                % 02066 RGTR--
+120903040 Weidingen, Wegdicher  00745  00745                % 02066 RGTR--
+120902001 Weidingen, Erpeldang  00746  00746                % 02066 RGTR--
+120301002 Erpeldange/Eschweile  00747  00747                % 02066 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00749  00749                % 02066 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00751  00751                % 02066 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00752  00752                % 02066 RGTR--
+120304001 Selscheid, Dirwis     00756  00756                % 02066 RGTR--
+120304003 Selscheid, Roudebësc  00757  00757                % 02066 RGTR--
+120304002 Selscheid, Ennëscht   00757  00757                % 02066 RGTR--
+120303001 Knaphoscheid, Dahl    00800  00800                % 02066 RGTR--
+120303002 Knaphoscheid, Schent  00801  00801                % 02066 RGTR--
+120303001 Knaphoscheid, Dahl    00804  00804                % 02066 RGTR--
+120305001 Kleinhoscheid         00804  00804                % 02066 RGTR--
+110105003 Weicherdange, Kirels  00806  00806                % 02066 RGTR--
+110105001 Weicherdange, Café B  00808  00808                % 02066 RGTR--
+110105002 Weicherdange, Kierch  00809  00809                % 02066 RGTR--
+120706001 Mecher, Dueref        00813  00813                % 02066 RGTR--
+110101010 Clervaux, Police      00816  00816                % 02066 RGTR--
+110101008 Clervaux, Pl. de la   00816  00816                % 02066 RGTR--
+110101011 Clervaux, Postes      00818  00818                % 02066 RGTR--
+110101004 Clervaux, Maison de   00818  00818                % 02066 RGTR--
+110101002 Clervaux, Gare/Lycée  00819                       % 02066 RGTR--
+*Z 02067 RGTR--                                             % 02067 RGTR--
+*L 642      120903018 110101002  00655  00732               % 02067 RGTR--
+*A gy 120903018 110101002 000033  00655  00732              % 02067 RGTR--
+*A MU 120903018 110101002 000033  00655  00732              % 02067 RGTR--
+*A bq 120903018 110101002 000033  00655  00732              % 02067 RGTR--
+*R 1 110101002 120903018 110101002  00655  00732            % 02067 RGTR--
+*G RGB 120903018 110101002  00655  00732                    % 02067 RGTR--
+*A VE 120903018 110101002 000033  00655  00732              % 02067 RGTR--
+*I FD 120903018 110101002        0002780  00655  00732      % 02067 RGTR--
+120903018 Wiltz, Gare                  00655                % 02067 RGTR--
+120903021 Wiltz, Lann           00656  00656                % 02067 RGTR--
+120903041 Wiltz, Wéinebeerig    00657  00657                % 02067 RGTR--
+120903040 Weidingen, Wegdicher  00658  00658                % 02067 RGTR--
+120902001 Weidingen, Erpeldang  00659  00659                % 02067 RGTR--
+120301002 Erpeldange/Eschweile  00700  00700                % 02067 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00702  00702                % 02067 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00704  00704                % 02067 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00705  00705                % 02067 RGTR--
+120304001 Selscheid, Dirwis     00709  00709                % 02067 RGTR--
+120304003 Selscheid, Roudebësc  00710  00710                % 02067 RGTR--
+120304002 Selscheid, Ennëscht   00710  00710                % 02067 RGTR--
+120303001 Knaphoscheid, Dahl    00713  00713                % 02067 RGTR--
+120303002 Knaphoscheid, Schent  00714  00714                % 02067 RGTR--
+120303001 Knaphoscheid, Dahl    00717  00717                % 02067 RGTR--
+120305001 Kleinhoscheid         00717  00717                % 02067 RGTR--
+110105003 Weicherdange, Kirels  00719  00719                % 02067 RGTR--
+110105001 Weicherdange, Café B  00721  00721                % 02067 RGTR--
+110105002 Weicherdange, Kierch  00722  00722                % 02067 RGTR--
+120706001 Mecher, Dueref        00726  00726                % 02067 RGTR--
+110101010 Clervaux, Police      00729  00729                % 02067 RGTR--
+110101008 Clervaux, Pl. de la   00729  00729                % 02067 RGTR--
+110101011 Clervaux, Postes      00731  00731                % 02067 RGTR--
+110101004 Clervaux, Maison de   00731  00731                % 02067 RGTR--
+110101002 Clervaux, Gare/Lycée  00732                       % 02067 RGTR--
+*Z 02068 RGTR--                                             % 02068 RGTR--
+*L 642      120903018 110101002  00559  00635               % 02068 RGTR--
+*A da 120903018 110101002 000006  00559  00635              % 02068 RGTR--
+*A MU 120903018 110101002 000006  00559  00635              % 02068 RGTR--
+*A bq 120903018 110101002 000006  00559  00635              % 02068 RGTR--
+*R 1 110101002 120903018 110101002  00559  00635            % 02068 RGTR--
+*G RGB 120903018 110101002  00559  00635                    % 02068 RGTR--
+*A VE 120903018 110101002 000006  00559  00635              % 02068 RGTR--
+*I FD 120903018 110101002        0002781  00559  00635      % 02068 RGTR--
+120903018 Wiltz, Gare                  00559                % 02068 RGTR--
+120903021 Wiltz, Lann           00600  00600                % 02068 RGTR--
+120903041 Wiltz, Wéinebeerig    00601  00601                % 02068 RGTR--
+120903040 Weidingen, Wegdicher  00602  00602                % 02068 RGTR--
+120902001 Weidingen, Erpeldang  00602  00602                % 02068 RGTR--
+120301002 Erpeldange/Eschweile  00603  00603                % 02068 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00606  00606                % 02068 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00608  00608                % 02068 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00608  00608                % 02068 RGTR--
+120304001 Selscheid, Dirwis     00613  00613                % 02068 RGTR--
+120304003 Selscheid, Roudebësc  00613  00613                % 02068 RGTR--
+120304002 Selscheid, Ennëscht   00614  00614                % 02068 RGTR--
+120303001 Knaphoscheid, Dahl    00616  00616                % 02068 RGTR--
+120303002 Knaphoscheid, Schent  00617  00617                % 02068 RGTR--
+120303001 Knaphoscheid, Dahl    00620  00620                % 02068 RGTR--
+120305001 Kleinhoscheid         00620  00620                % 02068 RGTR--
+110105003 Weicherdange, Kirels  00622  00622                % 02068 RGTR--
+110105001 Weicherdange, Café B  00624  00624                % 02068 RGTR--
+110105002 Weicherdange, Kierch  00625  00625                % 02068 RGTR--
+120706001 Mecher, Dueref        00629  00629                % 02068 RGTR--
+110101010 Clervaux, Police      00632  00632                % 02068 RGTR--
+110101008 Clervaux, Pl. de la   00632  00632                % 02068 RGTR--
+110101011 Clervaux, Postes      00634  00634                % 02068 RGTR--
+110101004 Clervaux, Maison de   00634  00634                % 02068 RGTR--
+110101002 Clervaux, Gare/Lycée  00635                       % 02068 RGTR--
+*Z 02069 RGTR--                                             % 02069 RGTR--
+*L 642      120903023 110103001  01101  01144               % 02069 RGTR--
+*A gy 120903023 110103001 000030  01101  01144              % 02069 RGTR--
+*A br 120903023 110103001 000030  01101  01144              % 02069 RGTR--
+*R 1 110103001 120903023 110103001  01101  01144            % 02069 RGTR--
+*G RGB 120903023 110103001  01101  01144                    % 02069 RGTR--
+*A VE 120903023 110103001 000030  01101  01144              % 02069 RGTR--
+*I FD 120903023 110103001        0002782  01101  01144      % 02069 RGTR--
+120903023 Wiltz, Lycée du Nord         01101                % 02069 RGTR--
+120903021 Wiltz, Lann           01104  01104                % 02069 RGTR--
+120903041 Wiltz, Wéinebeerig    01105  01105                % 02069 RGTR--
+120903040 Weidingen, Wegdicher  01106  01106                % 02069 RGTR--
+120902001 Weidingen, Erpeldang  01107  01107                % 02069 RGTR--
+120301002 Erpeldange/Eschweile  01108  01108                % 02069 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01110  01110                % 02069 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01112  01112                % 02069 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01113  01113                % 02069 RGTR--
+120304001 Selscheid, Dirwis     01117  01117                % 02069 RGTR--
+120304003 Selscheid, Roudebësc  01118  01118                % 02069 RGTR--
+120304002 Selscheid, Ennëscht   01118  01118                % 02069 RGTR--
+120303001 Knaphoscheid, Dahl    01121  01121                % 02069 RGTR--
+120303002 Knaphoscheid, Schent  01122  01122                % 02069 RGTR--
+120303001 Knaphoscheid, Dahl    01124  01124                % 02069 RGTR--
+120305001 Kleinhoscheid         01125  01125                % 02069 RGTR--
+110105003 Weicherdange, Kirels  01127  01127                % 02069 RGTR--
+110105001 Weicherdange, Café B  01129  01129                % 02069 RGTR--
+110105002 Weicherdange, Kierch  01129  01129                % 02069 RGTR--
+120706001 Mecher, Dueref        01134  01134                % 02069 RGTR--
+110101010 Clervaux, Police      01136  01136                % 02069 RGTR--
+110101008 Clervaux, Pl. de la   01137  01137                % 02069 RGTR--
+110101011 Clervaux, Postes      01138  01138                % 02069 RGTR--
+110101004 Clervaux, Maison de   01139  01139                % 02069 RGTR--
+110101002 Clervaux, Gare/Lycée  01140  01140                % 02069 RGTR--
+110103001 Reuler, Centre Scola  01144                       % 02069 RGTR--
+*Z 02070 RGTR--                                             % 02070 RGTR--
+*L 642      120903023 110103001  01301  01344               % 02070 RGTR--
+*A gy 120903023 110103001 000045  01301  01344              % 02070 RGTR--
+*A br 120903023 110103001 000045  01301  01344              % 02070 RGTR--
+*R 1 110103001 120903023 110103001  01301  01344            % 02070 RGTR--
+*G RGB 120903023 110103001  01301  01344                    % 02070 RGTR--
+*A VE 120903023 110103001 000045  01301  01344              % 02070 RGTR--
+*I FD 120903023 110103001        0002783  01301  01344      % 02070 RGTR--
+120903023 Wiltz, Lycée du Nord         01301                % 02070 RGTR--
+120903021 Wiltz, Lann           01304  01304                % 02070 RGTR--
+120903041 Wiltz, Wéinebeerig    01305  01305                % 02070 RGTR--
+120903040 Weidingen, Wegdicher  01306  01306                % 02070 RGTR--
+120902001 Weidingen, Erpeldang  01307  01307                % 02070 RGTR--
+120301002 Erpeldange/Eschweile  01308  01308                % 02070 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01310  01310                % 02070 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01312  01312                % 02070 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01313  01313                % 02070 RGTR--
+120304001 Selscheid, Dirwis     01317  01317                % 02070 RGTR--
+120304003 Selscheid, Roudebësc  01318  01318                % 02070 RGTR--
+120304002 Selscheid, Ennëscht   01318  01318                % 02070 RGTR--
+120303001 Knaphoscheid, Dahl    01321  01321                % 02070 RGTR--
+120303002 Knaphoscheid, Schent  01322  01322                % 02070 RGTR--
+120303001 Knaphoscheid, Dahl    01324  01324                % 02070 RGTR--
+120305001 Kleinhoscheid         01325  01325                % 02070 RGTR--
+110105003 Weicherdange, Kirels  01327  01327                % 02070 RGTR--
+110105001 Weicherdange, Café B  01329  01329                % 02070 RGTR--
+110105002 Weicherdange, Kierch  01329  01329                % 02070 RGTR--
+120706001 Mecher, Dueref        01334  01334                % 02070 RGTR--
+110101010 Clervaux, Police      01336  01336                % 02070 RGTR--
+110101008 Clervaux, Pl. de la   01337  01337                % 02070 RGTR--
+110101011 Clervaux, Postes      01338  01338                % 02070 RGTR--
+110101004 Clervaux, Maison de   01339  01339                % 02070 RGTR--
+110101002 Clervaux, Gare/Lycée  01340  01340                % 02070 RGTR--
+110103001 Reuler, Centre Scola  01344                       % 02070 RGTR--
+*Z 02071 RGTR--                                             % 02071 RGTR--
+*L 642      120903023 110103001  01501  01544               % 02071 RGTR--
+*A gy 120903023 110103001 000045  01501  01544              % 02071 RGTR--
+*A br 120903023 110103001 000045  01501  01544              % 02071 RGTR--
+*R 1 110103001 120903023 110103001  01501  01544            % 02071 RGTR--
+*G RGB 120903023 110103001  01501  01544                    % 02071 RGTR--
+*A VE 120903023 110103001 000045  01501  01544              % 02071 RGTR--
+*I FD 120903023 110103001        0002784  01501  01544      % 02071 RGTR--
+120903023 Wiltz, Lycée du Nord         01501                % 02071 RGTR--
+120903021 Wiltz, Lann           01504  01504                % 02071 RGTR--
+120903041 Wiltz, Wéinebeerig    01505  01505                % 02071 RGTR--
+120903040 Weidingen, Wegdicher  01506  01506                % 02071 RGTR--
+120902001 Weidingen, Erpeldang  01507  01507                % 02071 RGTR--
+120301002 Erpeldange/Eschweile  01508  01508                % 02071 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01510  01510                % 02071 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01512  01512                % 02071 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01513  01513                % 02071 RGTR--
+120304001 Selscheid, Dirwis     01517  01517                % 02071 RGTR--
+120304003 Selscheid, Roudebësc  01518  01518                % 02071 RGTR--
+120304002 Selscheid, Ennëscht   01518  01518                % 02071 RGTR--
+120303001 Knaphoscheid, Dahl    01521  01521                % 02071 RGTR--
+120303002 Knaphoscheid, Schent  01522  01522                % 02071 RGTR--
+120303001 Knaphoscheid, Dahl    01524  01524                % 02071 RGTR--
+120305001 Kleinhoscheid         01525  01525                % 02071 RGTR--
+110105003 Weicherdange, Kirels  01527  01527                % 02071 RGTR--
+110105001 Weicherdange, Café B  01529  01529                % 02071 RGTR--
+110105002 Weicherdange, Kierch  01529  01529                % 02071 RGTR--
+120706001 Mecher, Dueref        01534  01534                % 02071 RGTR--
+110101010 Clervaux, Police      01536  01536                % 02071 RGTR--
+110101008 Clervaux, Pl. de la   01537  01537                % 02071 RGTR--
+110101011 Clervaux, Postes      01538  01538                % 02071 RGTR--
+110101004 Clervaux, Maison de   01539  01539                % 02071 RGTR--
+110101002 Clervaux, Gare/Lycée  01540  01540                % 02071 RGTR--
+110103001 Reuler, Centre Scola  01544                       % 02071 RGTR--
+*Z 02072 RGTR--                                             % 02072 RGTR--
+*L 642      120903029 120301002  01610  01622               % 02072 RGTR--
+*A da 120903029 120301002 000045  01610  01622              % 02072 RGTR--
+*A gz 120903029 120301002 000045  01610  01622              % 02072 RGTR--
+*R 1 120301002 120903029 120301002  01610  01622            % 02072 RGTR--
+*G RGB 120903029 120301002  01610  01622                    % 02072 RGTR--
+*A VE 120903029 120301002 000045  01610  01622              % 02072 RGTR--
+*I FD 120903029 120301002        0001895  01610  01622      % 02072 RGTR--
+120903029 Wiltz, Schoulbierg           01610                % 02072 RGTR--
+120903023 Wiltz, Lycée du Nord  01615  01615                % 02072 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 02072 RGTR--
+120903041 Wiltz, Wéinebeerig    01619  01619                % 02072 RGTR--
+120903040 Weidingen, Wegdicher  01620  01620                % 02072 RGTR--
+120902001 Weidingen, Erpeldang  01621  01621                % 02072 RGTR--
+120301002 Erpeldange/Eschweile  01622                       % 02072 RGTR--
+*Z 02073 RGTR--                                             % 02073 RGTR--
+*L 642      120903029 120301002  01155  01205               % 02073 RGTR--
+*A da 120903029 120301002 000045  01155  01205              % 02073 RGTR--
+*A gz 120903029 120301002 000045  01155  01205              % 02073 RGTR--
+*R 1 120301002 120903029 120301002  01155  01205            % 02073 RGTR--
+*G RGB 120903029 120301002  01155  01205                    % 02073 RGTR--
+*A VE 120903029 120301002 000045  01155  01205              % 02073 RGTR--
+*I FD 120903029 120301002        0002603  01155  01205      % 02073 RGTR--
+120903029 Wiltz, Schoulbierg           01155                % 02073 RGTR--
+120903023 Wiltz, Lycée du Nord  01159  01159                % 02073 RGTR--
+120903021 Wiltz, Lann           01201  01201                % 02073 RGTR--
+120903041 Wiltz, Wéinebeerig    01202  01202                % 02073 RGTR--
+120903040 Weidingen, Wegdicher  01203  01203                % 02073 RGTR--
+120902001 Weidingen, Erpeldang  01204  01204                % 02073 RGTR--
+120301002 Erpeldange/Eschweile  01205                       % 02073 RGTR--
+*Z 02074 RGTR--                                             % 02074 RGTR--
+*L 642      120903023 120301002  01208  01214               % 02074 RGTR--
+*A da 120903023 120301002 000042  01208  01214              % 02074 RGTR--
+*A gz 120903023 120301002 000042  01208  01214              % 02074 RGTR--
+*R 1 120301002 120903023 120301002  01208  01214            % 02074 RGTR--
+*G RGB 120903023 120301002  01208  01214                    % 02074 RGTR--
+*A VE 120903023 120301002 000042  01208  01214              % 02074 RGTR--
+*I FD 120903023 120301002        0002732  01208  01214      % 02074 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 02074 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 02074 RGTR--
+120903041 Wiltz, Wéinebeerig    01211  01211                % 02074 RGTR--
+120903040 Weidingen, Wegdicher  01212  01212                % 02074 RGTR--
+120902001 Weidingen, Erpeldang  01213  01213                % 02074 RGTR--
+120301002 Erpeldange/Eschweile  01214                       % 02074 RGTR--
+*Z 02075 RGTR--                                             % 02075 RGTR--
+*L 642      120903023 110101002  01001  01040               % 02075 RGTR--
+*A da 120903023 110101002 000006  01001  01040              % 02075 RGTR--
+*A bq 120903023 110101002 000006  01001  01040              % 02075 RGTR--
+*R 1 110101002 120903023 110101002  01001  01040            % 02075 RGTR--
+*G RGB 120903023 110101002  01001  01040                    % 02075 RGTR--
+*A VE 120903023 110101002 000006  01001  01040              % 02075 RGTR--
+*I FD 120903023 110101002        0002785  01001  01040      % 02075 RGTR--
+120903023 Wiltz, Lycée du Nord         01001                % 02075 RGTR--
+120903021 Wiltz, Lann           01004  01004                % 02075 RGTR--
+120903041 Wiltz, Wéinebeerig    01005  01005                % 02075 RGTR--
+120903040 Weidingen, Wegdicher  01006  01006                % 02075 RGTR--
+120902001 Weidingen, Erpeldang  01007  01007                % 02075 RGTR--
+120301002 Erpeldange/Eschweile  01008  01008                % 02075 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01010  01010                % 02075 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01012  01012                % 02075 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01013  01013                % 02075 RGTR--
+120304001 Selscheid, Dirwis     01017  01017                % 02075 RGTR--
+120304003 Selscheid, Roudebësc  01018  01018                % 02075 RGTR--
+120304002 Selscheid, Ennëscht   01018  01018                % 02075 RGTR--
+120303001 Knaphoscheid, Dahl    01021  01021                % 02075 RGTR--
+120303002 Knaphoscheid, Schent  01022  01022                % 02075 RGTR--
+120303001 Knaphoscheid, Dahl    01024  01024                % 02075 RGTR--
+120305001 Kleinhoscheid         01025  01025                % 02075 RGTR--
+110105003 Weicherdange, Kirels  01027  01027                % 02075 RGTR--
+110105001 Weicherdange, Café B  01029  01029                % 02075 RGTR--
+110105002 Weicherdange, Kierch  01029  01029                % 02075 RGTR--
+120706001 Mecher, Dueref        01034  01034                % 02075 RGTR--
+110101010 Clervaux, Police      01036  01036                % 02075 RGTR--
+110101008 Clervaux, Pl. de la   01037  01037                % 02075 RGTR--
+110101011 Clervaux, Postes      01038  01038                % 02075 RGTR--
+110101004 Clervaux, Maison de   01039  01039                % 02075 RGTR--
+110101002 Clervaux, Gare/Lycée  01040                       % 02075 RGTR--
+*Z 02076 RGTR--                                             % 02076 RGTR--
+*L 642      120903023 110101002  01208  01246               % 02076 RGTR--
+*A da 120903023 110101002 000006  01208  01246              % 02076 RGTR--
+*A bq 120903023 110101002 000006  01208  01246              % 02076 RGTR--
+*R 1 110101002 120903023 110101002  01208  01246            % 02076 RGTR--
+*G RGB 120903023 110101002  01208  01246                    % 02076 RGTR--
+*A VE 120903023 110101002 000006  01208  01246              % 02076 RGTR--
+*I FD 120903023 110101002        0002222  01208  01246      % 02076 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 02076 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 02076 RGTR--
+120903041 Wiltz, Wéinebeerig    01211  01211                % 02076 RGTR--
+120903040 Weidingen, Wegdicher  01212  01212                % 02076 RGTR--
+120902001 Weidingen, Erpeldang  01213  01213                % 02076 RGTR--
+120301002 Erpeldange/Eschweile  01214  01214                % 02076 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01216  01216                % 02076 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01218  01218                % 02076 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01219  01219                % 02076 RGTR--
+120304001 Selscheid, Dirwis     01224  01224                % 02076 RGTR--
+120304003 Selscheid, Roudebësc  01224  01224                % 02076 RGTR--
+120304002 Selscheid, Ennëscht   01224  01224                % 02076 RGTR--
+120303001 Knaphoscheid, Dahl    01227  01227                % 02076 RGTR--
+120303002 Knaphoscheid, Schent  01228  01228                % 02076 RGTR--
+120303001 Knaphoscheid, Dahl    01230  01230                % 02076 RGTR--
+120305001 Kleinhoscheid         01231  01231                % 02076 RGTR--
+110105003 Weicherdange, Kirels  01233  01233                % 02076 RGTR--
+110105001 Weicherdange, Café B  01235  01235                % 02076 RGTR--
+110105002 Weicherdange, Kierch  01235  01235                % 02076 RGTR--
+120706001 Mecher, Dueref        01240  01240                % 02076 RGTR--
+110101010 Clervaux, Police      01242  01242                % 02076 RGTR--
+110101008 Clervaux, Pl. de la   01243  01243                % 02076 RGTR--
+110101011 Clervaux, Postes      01244  01244                % 02076 RGTR--
+110101004 Clervaux, Maison de   01245  01245                % 02076 RGTR--
+110101002 Clervaux, Gare/Lycée  01246                       % 02076 RGTR--
+*Z 02077 RGTR--                                             % 02077 RGTR--
+*L 642      120903023 110101002  01401  01440               % 02077 RGTR--
+*A da 120903023 110101002 000006  01401  01440              % 02077 RGTR--
+*A bq 120903023 110101002 000006  01401  01440              % 02077 RGTR--
+*R 1 110101002 120903023 110101002  01401  01440            % 02077 RGTR--
+*G RGB 120903023 110101002  01401  01440                    % 02077 RGTR--
+*A VE 120903023 110101002 000006  01401  01440              % 02077 RGTR--
+*I FD 120903023 110101002        0002786  01401  01440      % 02077 RGTR--
+120903023 Wiltz, Lycée du Nord         01401                % 02077 RGTR--
+120903021 Wiltz, Lann           01404  01404                % 02077 RGTR--
+120903041 Wiltz, Wéinebeerig    01405  01405                % 02077 RGTR--
+120903040 Weidingen, Wegdicher  01406  01406                % 02077 RGTR--
+120902001 Weidingen, Erpeldang  01407  01407                % 02077 RGTR--
+120301002 Erpeldange/Eschweile  01408  01408                % 02077 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01410  01410                % 02077 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01412  01412                % 02077 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01413  01413                % 02077 RGTR--
+120304001 Selscheid, Dirwis     01417  01417                % 02077 RGTR--
+120304003 Selscheid, Roudebësc  01418  01418                % 02077 RGTR--
+120304002 Selscheid, Ennëscht   01418  01418                % 02077 RGTR--
+120303001 Knaphoscheid, Dahl    01421  01421                % 02077 RGTR--
+120303002 Knaphoscheid, Schent  01422  01422                % 02077 RGTR--
+120303001 Knaphoscheid, Dahl    01424  01424                % 02077 RGTR--
+120305001 Kleinhoscheid         01425  01425                % 02077 RGTR--
+110105003 Weicherdange, Kirels  01427  01427                % 02077 RGTR--
+110105001 Weicherdange, Café B  01429  01429                % 02077 RGTR--
+110105002 Weicherdange, Kierch  01429  01429                % 02077 RGTR--
+120706001 Mecher, Dueref        01434  01434                % 02077 RGTR--
+110101010 Clervaux, Police      01436  01436                % 02077 RGTR--
+110101008 Clervaux, Pl. de la   01437  01437                % 02077 RGTR--
+110101011 Clervaux, Postes      01438  01438                % 02077 RGTR--
+110101004 Clervaux, Maison de   01439  01439                % 02077 RGTR--
+110101002 Clervaux, Gare/Lycée  01440                       % 02077 RGTR--
+*Z 02078 RGTR--                                             % 02078 RGTR--
+*L 642      120903023 110101002  01901  01940               % 02078 RGTR--
+*A gy 120903023 110101002 000006  01901  01940              % 02078 RGTR--
+*A bq 120903023 110101002 000006  01901  01940              % 02078 RGTR--
+*R 1 110101002 120903023 110101002  01901  01940            % 02078 RGTR--
+*G RGB 120903023 110101002  01901  01940                    % 02078 RGTR--
+*A VE 120903023 110101002 000006  01901  01940              % 02078 RGTR--
+*I FD 120903023 110101002        0002787  01901  01940      % 02078 RGTR--
+120903023 Wiltz, Lycée du Nord         01901                % 02078 RGTR--
+120903021 Wiltz, Lann           01904  01904                % 02078 RGTR--
+120903041 Wiltz, Wéinebeerig    01905  01905                % 02078 RGTR--
+120903040 Weidingen, Wegdicher  01906  01906                % 02078 RGTR--
+120902001 Weidingen, Erpeldang  01907  01907                % 02078 RGTR--
+120301002 Erpeldange/Eschweile  01908  01908                % 02078 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01910  01910                % 02078 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01912  01912                % 02078 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01913  01913                % 02078 RGTR--
+120304001 Selscheid, Dirwis     01917  01917                % 02078 RGTR--
+120304003 Selscheid, Roudebësc  01918  01918                % 02078 RGTR--
+120304002 Selscheid, Ennëscht   01918  01918                % 02078 RGTR--
+120303001 Knaphoscheid, Dahl    01921  01921                % 02078 RGTR--
+120303002 Knaphoscheid, Schent  01922  01922                % 02078 RGTR--
+120303001 Knaphoscheid, Dahl    01924  01924                % 02078 RGTR--
+120305001 Kleinhoscheid         01925  01925                % 02078 RGTR--
+110105003 Weicherdange, Kirels  01927  01927                % 02078 RGTR--
+110105001 Weicherdange, Café B  01929  01929                % 02078 RGTR--
+110105002 Weicherdange, Kierch  01929  01929                % 02078 RGTR--
+120706001 Mecher, Dueref        01934  01934                % 02078 RGTR--
+110101010 Clervaux, Police      01936  01936                % 02078 RGTR--
+110101008 Clervaux, Pl. de la   01937  01937                % 02078 RGTR--
+110101011 Clervaux, Postes      01938  01938                % 02078 RGTR--
+110101004 Clervaux, Maison de   01939  01939                % 02078 RGTR--
+110101002 Clervaux, Gare/Lycée  01940                       % 02078 RGTR--
+*Z 02079 RGTR--                                             % 02079 RGTR--
+*L 642      120903023 110101002  01101  01140               % 02079 RGTR--
+*A gy 120903023 110101002 000033  01101  01140              % 02079 RGTR--
+*A bq 120903023 110101002 000033  01101  01140              % 02079 RGTR--
+*R 1 110101002 120903023 110101002  01101  01140            % 02079 RGTR--
+*G RGB 120903023 110101002  01101  01140                    % 02079 RGTR--
+*A VE 120903023 110101002 000033  01101  01140              % 02079 RGTR--
+*I FD 120903023 110101002        0002782  01101  01140      % 02079 RGTR--
+120903023 Wiltz, Lycée du Nord         01101                % 02079 RGTR--
+120903021 Wiltz, Lann           01104  01104                % 02079 RGTR--
+120903041 Wiltz, Wéinebeerig    01105  01105                % 02079 RGTR--
+120903040 Weidingen, Wegdicher  01106  01106                % 02079 RGTR--
+120902001 Weidingen, Erpeldang  01107  01107                % 02079 RGTR--
+120301002 Erpeldange/Eschweile  01108  01108                % 02079 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01110  01110                % 02079 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01112  01112                % 02079 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01113  01113                % 02079 RGTR--
+120304001 Selscheid, Dirwis     01117  01117                % 02079 RGTR--
+120304003 Selscheid, Roudebësc  01118  01118                % 02079 RGTR--
+120304002 Selscheid, Ennëscht   01118  01118                % 02079 RGTR--
+120303001 Knaphoscheid, Dahl    01121  01121                % 02079 RGTR--
+120303002 Knaphoscheid, Schent  01122  01122                % 02079 RGTR--
+120303001 Knaphoscheid, Dahl    01124  01124                % 02079 RGTR--
+120305001 Kleinhoscheid         01125  01125                % 02079 RGTR--
+110105003 Weicherdange, Kirels  01127  01127                % 02079 RGTR--
+110105001 Weicherdange, Café B  01129  01129                % 02079 RGTR--
+110105002 Weicherdange, Kierch  01129  01129                % 02079 RGTR--
+120706001 Mecher, Dueref        01134  01134                % 02079 RGTR--
+110101010 Clervaux, Police      01136  01136                % 02079 RGTR--
+110101008 Clervaux, Pl. de la   01137  01137                % 02079 RGTR--
+110101011 Clervaux, Postes      01138  01138                % 02079 RGTR--
+110101004 Clervaux, Maison de   01139  01139                % 02079 RGTR--
+110101002 Clervaux, Gare/Lycée  01140                       % 02079 RGTR--
+*Z 02080 RGTR--                                             % 02080 RGTR--
+*L 642      120903023 110101002  01301  01340               % 02080 RGTR--
+*A gy 120903023 110101002 000159  01301  01340              % 02080 RGTR--
+*A bq 120903023 110101002 000159  01301  01340              % 02080 RGTR--
+*R 1 110101002 120903023 110101002  01301  01340            % 02080 RGTR--
+*G RGB 120903023 110101002  01301  01340                    % 02080 RGTR--
+*A VE 120903023 110101002 000159  01301  01340              % 02080 RGTR--
+*I FD 120903023 110101002        0002783  01301  01340      % 02080 RGTR--
+120903023 Wiltz, Lycée du Nord         01301                % 02080 RGTR--
+120903021 Wiltz, Lann           01304  01304                % 02080 RGTR--
+120903041 Wiltz, Wéinebeerig    01305  01305                % 02080 RGTR--
+120903040 Weidingen, Wegdicher  01306  01306                % 02080 RGTR--
+120902001 Weidingen, Erpeldang  01307  01307                % 02080 RGTR--
+120301002 Erpeldange/Eschweile  01308  01308                % 02080 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01310  01310                % 02080 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01312  01312                % 02080 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01313  01313                % 02080 RGTR--
+120304001 Selscheid, Dirwis     01317  01317                % 02080 RGTR--
+120304003 Selscheid, Roudebësc  01318  01318                % 02080 RGTR--
+120304002 Selscheid, Ennëscht   01318  01318                % 02080 RGTR--
+120303001 Knaphoscheid, Dahl    01321  01321                % 02080 RGTR--
+120303002 Knaphoscheid, Schent  01322  01322                % 02080 RGTR--
+120303001 Knaphoscheid, Dahl    01324  01324                % 02080 RGTR--
+120305001 Kleinhoscheid         01325  01325                % 02080 RGTR--
+110105003 Weicherdange, Kirels  01327  01327                % 02080 RGTR--
+110105001 Weicherdange, Café B  01329  01329                % 02080 RGTR--
+110105002 Weicherdange, Kierch  01329  01329                % 02080 RGTR--
+120706001 Mecher, Dueref        01334  01334                % 02080 RGTR--
+110101010 Clervaux, Police      01336  01336                % 02080 RGTR--
+110101008 Clervaux, Pl. de la   01337  01337                % 02080 RGTR--
+110101011 Clervaux, Postes      01338  01338                % 02080 RGTR--
+110101004 Clervaux, Maison de   01339  01339                % 02080 RGTR--
+110101002 Clervaux, Gare/Lycée  01340                       % 02080 RGTR--
+*Z 02081 RGTR--                                             % 02081 RGTR--
+*L 642      120903023 110101002  01501  01540               % 02081 RGTR--
+*A gy 120903023 110101002 000159  01501  01540              % 02081 RGTR--
+*A bq 120903023 110101002 000159  01501  01540              % 02081 RGTR--
+*R 1 110101002 120903023 110101002  01501  01540            % 02081 RGTR--
+*G RGB 120903023 110101002  01501  01540                    % 02081 RGTR--
+*A VE 120903023 110101002 000159  01501  01540              % 02081 RGTR--
+*I FD 120903023 110101002        0002784  01501  01540      % 02081 RGTR--
+120903023 Wiltz, Lycée du Nord         01501                % 02081 RGTR--
+120903021 Wiltz, Lann           01504  01504                % 02081 RGTR--
+120903041 Wiltz, Wéinebeerig    01505  01505                % 02081 RGTR--
+120903040 Weidingen, Wegdicher  01506  01506                % 02081 RGTR--
+120902001 Weidingen, Erpeldang  01507  01507                % 02081 RGTR--
+120301002 Erpeldange/Eschweile  01508  01508                % 02081 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01510  01510                % 02081 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01512  01512                % 02081 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01513  01513                % 02081 RGTR--
+120304001 Selscheid, Dirwis     01517  01517                % 02081 RGTR--
+120304003 Selscheid, Roudebësc  01518  01518                % 02081 RGTR--
+120304002 Selscheid, Ennëscht   01518  01518                % 02081 RGTR--
+120303001 Knaphoscheid, Dahl    01521  01521                % 02081 RGTR--
+120303002 Knaphoscheid, Schent  01522  01522                % 02081 RGTR--
+120303001 Knaphoscheid, Dahl    01524  01524                % 02081 RGTR--
+120305001 Kleinhoscheid         01525  01525                % 02081 RGTR--
+110105003 Weicherdange, Kirels  01527  01527                % 02081 RGTR--
+110105001 Weicherdange, Café B  01529  01529                % 02081 RGTR--
+110105002 Weicherdange, Kierch  01529  01529                % 02081 RGTR--
+120706001 Mecher, Dueref        01534  01534                % 02081 RGTR--
+110101010 Clervaux, Police      01536  01536                % 02081 RGTR--
+110101008 Clervaux, Pl. de la   01537  01537                % 02081 RGTR--
+110101011 Clervaux, Postes      01538  01538                % 02081 RGTR--
+110101004 Clervaux, Maison de   01539  01539                % 02081 RGTR--
+110101002 Clervaux, Gare/Lycée  01540                       % 02081 RGTR--
+*Z 02082 RGTR--                                             % 02082 RGTR--
+*L 642      120903023 110101002  00800  00840               % 02082 RGTR--
+*A da 120903023 110101002 000006  00800  00840              % 02082 RGTR--
+*A bq 120903023 110101002 000006  00800  00840              % 02082 RGTR--
+*R 1 110101002 120903023 110101002  00800  00840            % 02082 RGTR--
+*G RGB 120903023 110101002  00800  00840                    % 02082 RGTR--
+*A VE 120903023 110101002 000006  00800  00840              % 02082 RGTR--
+*I FD 120903023 110101002        0002014  00800  00840      % 02082 RGTR--
+120903023 Wiltz, Lycée du Nord         00800                % 02082 RGTR--
+120903021 Wiltz, Lann           00803  00803                % 02082 RGTR--
+120903041 Wiltz, Wéinebeerig    00804  00804                % 02082 RGTR--
+120903040 Weidingen, Wegdicher  00805  00805                % 02082 RGTR--
+120902001 Weidingen, Erpeldang  00806  00806                % 02082 RGTR--
+120301002 Erpeldange/Eschweile  00807  00807                % 02082 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00809  00809                % 02082 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00811  00811                % 02082 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00812  00812                % 02082 RGTR--
+120304001 Selscheid, Dirwis     00817  00817                % 02082 RGTR--
+120304003 Selscheid, Roudebësc  00817  00817                % 02082 RGTR--
+120304002 Selscheid, Ennëscht   00818  00818                % 02082 RGTR--
+120303001 Knaphoscheid, Dahl    00820  00820                % 02082 RGTR--
+120303002 Knaphoscheid, Schent  00822  00822                % 02082 RGTR--
+120303001 Knaphoscheid, Dahl    00824  00824                % 02082 RGTR--
+120305001 Kleinhoscheid         00825  00825                % 02082 RGTR--
+110105003 Weicherdange, Kirels  00827  00827                % 02082 RGTR--
+110105001 Weicherdange, Café B  00829  00829                % 02082 RGTR--
+110105002 Weicherdange, Kierch  00829  00829                % 02082 RGTR--
+120706001 Mecher, Dueref        00834  00834                % 02082 RGTR--
+110101010 Clervaux, Police      00836  00836                % 02082 RGTR--
+110101008 Clervaux, Pl. de la   00837  00837                % 02082 RGTR--
+110101011 Clervaux, Postes      00838  00838                % 02082 RGTR--
+110101004 Clervaux, Maison de   00839  00839                % 02082 RGTR--
+110101002 Clervaux, Gare/Lycée  00840                       % 02082 RGTR--
+*Z 02083 RGTR--                                             % 02083 RGTR--
+*L 642      120903023 110101002  00900  00940               % 02083 RGTR--
+*A gy 120903023 110101002 000006  00900  00940              % 02083 RGTR--
+*A bq 120903023 110101002 000006  00900  00940              % 02083 RGTR--
+*R 1 110101002 120903023 110101002  00900  00940            % 02083 RGTR--
+*G RGB 120903023 110101002  00900  00940                    % 02083 RGTR--
+*A VE 120903023 110101002 000006  00900  00940              % 02083 RGTR--
+*I FD 120903023 110101002        0002015  00900  00940      % 02083 RGTR--
+120903023 Wiltz, Lycée du Nord         00900                % 02083 RGTR--
+120903021 Wiltz, Lann           00903  00903                % 02083 RGTR--
+120903041 Wiltz, Wéinebeerig    00904  00904                % 02083 RGTR--
+120903040 Weidingen, Wegdicher  00905  00905                % 02083 RGTR--
+120902001 Weidingen, Erpeldang  00906  00906                % 02083 RGTR--
+120301002 Erpeldange/Eschweile  00907  00907                % 02083 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00909  00909                % 02083 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00911  00911                % 02083 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00912  00912                % 02083 RGTR--
+120304001 Selscheid, Dirwis     00917  00917                % 02083 RGTR--
+120304003 Selscheid, Roudebësc  00917  00917                % 02083 RGTR--
+120304002 Selscheid, Ennëscht   00918  00918                % 02083 RGTR--
+120303001 Knaphoscheid, Dahl    00920  00920                % 02083 RGTR--
+120303002 Knaphoscheid, Schent  00922  00922                % 02083 RGTR--
+120303001 Knaphoscheid, Dahl    00924  00924                % 02083 RGTR--
+120305001 Kleinhoscheid         00925  00925                % 02083 RGTR--
+110105003 Weicherdange, Kirels  00927  00927                % 02083 RGTR--
+110105001 Weicherdange, Café B  00929  00929                % 02083 RGTR--
+110105002 Weicherdange, Kierch  00929  00929                % 02083 RGTR--
+120706001 Mecher, Dueref        00934  00934                % 02083 RGTR--
+110101010 Clervaux, Police      00936  00936                % 02083 RGTR--
+110101008 Clervaux, Pl. de la   00937  00937                % 02083 RGTR--
+110101011 Clervaux, Postes      00938  00938                % 02083 RGTR--
+110101004 Clervaux, Maison de   00939  00939                % 02083 RGTR--
+110101002 Clervaux, Gare/Lycée  00940                       % 02083 RGTR--
+*Z 02084 RGTR--                                             % 02084 RGTR--
+*L 642      120903023 110101002  01615  01654               % 02084 RGTR--
+*A da 120903023 110101002 000006  01615  01654              % 02084 RGTR--
+*A bq 120903023 110101002 000006  01615  01654              % 02084 RGTR--
+*R 1 110101002 120903023 110101002  01615  01654            % 02084 RGTR--
+*G RGB 120903023 110101002  01615  01654                    % 02084 RGTR--
+*A VE 120903023 110101002 000006  01615  01654              % 02084 RGTR--
+*I FD 120903023 110101002        0001811  01615  01654      % 02084 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 02084 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 02084 RGTR--
+120903041 Wiltz, Wéinebeerig    01619  01619                % 02084 RGTR--
+120903040 Weidingen, Wegdicher  01620  01620                % 02084 RGTR--
+120902001 Weidingen, Erpeldang  01621  01621                % 02084 RGTR--
+120301002 Erpeldange/Eschweile  01622  01622                % 02084 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01624  01624                % 02084 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01626  01626                % 02084 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01627  01627                % 02084 RGTR--
+120304001 Selscheid, Dirwis     01632  01632                % 02084 RGTR--
+120304003 Selscheid, Roudebësc  01632  01632                % 02084 RGTR--
+120304002 Selscheid, Ennëscht   01632  01632                % 02084 RGTR--
+120303001 Knaphoscheid, Dahl    01635  01635                % 02084 RGTR--
+120303002 Knaphoscheid, Schent  01636  01636                % 02084 RGTR--
+120303001 Knaphoscheid, Dahl    01639  01639                % 02084 RGTR--
+120305001 Kleinhoscheid         01639  01639                % 02084 RGTR--
+110105003 Weicherdange, Kirels  01641  01641                % 02084 RGTR--
+110105001 Weicherdange, Café B  01643  01643                % 02084 RGTR--
+110105002 Weicherdange, Kierch  01644  01644                % 02084 RGTR--
+120706001 Mecher, Dueref        01648  01648                % 02084 RGTR--
+110101010 Clervaux, Police      01651  01651                % 02084 RGTR--
+110101008 Clervaux, Pl. de la   01652  01652                % 02084 RGTR--
+110101011 Clervaux, Postes      01653  01653                % 02084 RGTR--
+110101004 Clervaux, Maison de   01654  01654                % 02084 RGTR--
+110101002 Clervaux, Gare/Lycée  01654                       % 02084 RGTR--
+*Z 02085 RGTR--                                             % 02085 RGTR--
+*L 642      120903023 110101002  01705  01745               % 02085 RGTR--
+*A gy 120903023 110101002 000006  01705  01745              % 02085 RGTR--
+*A bq 120903023 110101002 000006  01705  01745              % 02085 RGTR--
+*R 1 110101002 120903023 110101002  01705  01745            % 02085 RGTR--
+*G RGB 120903023 110101002  01705  01745                    % 02085 RGTR--
+*A VE 120903023 110101002 000006  01705  01745              % 02085 RGTR--
+*I FD 120903023 110101002        0002099  01705  01745      % 02085 RGTR--
+120903023 Wiltz, Lycée du Nord         01705                % 02085 RGTR--
+120903021 Wiltz, Lann           01708  01708                % 02085 RGTR--
+120903041 Wiltz, Wéinebeerig    01709  01709                % 02085 RGTR--
+120903040 Weidingen, Wegdicher  01710  01710                % 02085 RGTR--
+120902001 Weidingen, Erpeldang  01711  01711                % 02085 RGTR--
+120301002 Erpeldange/Eschweile  01712  01712                % 02085 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01714  01714                % 02085 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01716  01716                % 02085 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01717  01717                % 02085 RGTR--
+120304001 Selscheid, Dirwis     01722  01722                % 02085 RGTR--
+120304003 Selscheid, Roudebësc  01722  01722                % 02085 RGTR--
+120304002 Selscheid, Ennëscht   01723  01723                % 02085 RGTR--
+120303001 Knaphoscheid, Dahl    01725  01725                % 02085 RGTR--
+120303002 Knaphoscheid, Schent  01727  01727                % 02085 RGTR--
+120303001 Knaphoscheid, Dahl    01729  01729                % 02085 RGTR--
+120305001 Kleinhoscheid         01730  01730                % 02085 RGTR--
+110105003 Weicherdange, Kirels  01732  01732                % 02085 RGTR--
+110105001 Weicherdange, Café B  01734  01734                % 02085 RGTR--
+110105002 Weicherdange, Kierch  01734  01734                % 02085 RGTR--
+120706001 Mecher, Dueref        01739  01739                % 02085 RGTR--
+110101010 Clervaux, Police      01741  01741                % 02085 RGTR--
+110101008 Clervaux, Pl. de la   01742  01742                % 02085 RGTR--
+110101011 Clervaux, Postes      01743  01743                % 02085 RGTR--
+110101004 Clervaux, Maison de   01744  01744                % 02085 RGTR--
+110101002 Clervaux, Gare/Lycée  01745                       % 02085 RGTR--
+*Z 02086 RGTR--                                             % 02086 RGTR--
+*L 642      120903023 110101002  01802  01841               % 02086 RGTR--
+*A da 120903023 110101002 000006  01802  01841              % 02086 RGTR--
+*A bq 120903023 110101002 000006  01802  01841              % 02086 RGTR--
+*R 1 110101002 120903023 110101002  01802  01841            % 02086 RGTR--
+*G RGB 120903023 110101002  01802  01841                    % 02086 RGTR--
+*A VE 120903023 110101002 000006  01802  01841              % 02086 RGTR--
+*I FD 120903023 110101002        0002788  01802  01841      % 02086 RGTR--
+120903023 Wiltz, Lycée du Nord         01802                % 02086 RGTR--
+120903021 Wiltz, Lann           01805  01805                % 02086 RGTR--
+120903041 Wiltz, Wéinebeerig    01806  01806                % 02086 RGTR--
+120903040 Weidingen, Wegdicher  01807  01807                % 02086 RGTR--
+120902001 Weidingen, Erpeldang  01808  01808                % 02086 RGTR--
+120301002 Erpeldange/Eschweile  01809  01809                % 02086 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01811  01811                % 02086 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01813  01813                % 02086 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01814  01814                % 02086 RGTR--
+120304001 Selscheid, Dirwis     01819  01819                % 02086 RGTR--
+120304003 Selscheid, Roudebësc  01819  01819                % 02086 RGTR--
+120304002 Selscheid, Ennëscht   01819  01819                % 02086 RGTR--
+120303001 Knaphoscheid, Dahl    01822  01822                % 02086 RGTR--
+120303002 Knaphoscheid, Schent  01823  01823                % 02086 RGTR--
+120303001 Knaphoscheid, Dahl    01826  01826                % 02086 RGTR--
+120305001 Kleinhoscheid         01826  01826                % 02086 RGTR--
+110105003 Weicherdange, Kirels  01828  01828                % 02086 RGTR--
+110105001 Weicherdange, Café B  01830  01830                % 02086 RGTR--
+110105002 Weicherdange, Kierch  01831  01831                % 02086 RGTR--
+120706001 Mecher, Dueref        01835  01835                % 02086 RGTR--
+110101010 Clervaux, Police      01838  01838                % 02086 RGTR--
+110101008 Clervaux, Pl. de la   01839  01839                % 02086 RGTR--
+110101011 Clervaux, Postes      01840  01840                % 02086 RGTR--
+110101004 Clervaux, Maison de   01841  01841                % 02086 RGTR--
+110101002 Clervaux, Gare/Lycée  01841                       % 02086 RGTR--
+*Z 02087 RGTR--                                             % 02087 RGTR--
+*L 642      120903029 120301002  01230  01233               % 02087 RGTR--
+*A da 120903029 120301002 000042  01230  01233              % 02087 RGTR--
+*A gz 120903029 120301002 000042  01230  01233              % 02087 RGTR--
+*R 1 120301002 120903029 120301002  01230  01233            % 02087 RGTR--
+*G RGB 120903029 120301002  01230  01233                    % 02087 RGTR--
+*A VE 120903029 120301002 000042  01230  01233              % 02087 RGTR--
+*I FD 120903029 120301002        0001884  01230  01233      % 02087 RGTR--
+120903029 Wiltz, Schoulbierg           01230                % 02087 RGTR--
+120903041 Wiltz, Wéinebeerig    01231  01231                % 02087 RGTR--
+120903040 Weidingen, Wegdicher  01232  01232                % 02087 RGTR--
+120902001 Weidingen, Erpeldang  01232  01232                % 02087 RGTR--
+120301002 Erpeldange/Eschweile  01233                       % 02087 RGTR--
+*Z 02088 RGTR--                                             % 02088 RGTR--
+*L 642      120903018 110103001  00655  00737               % 02088 RGTR--
+*A gy 120903018 110103001 000030  00655  00737              % 02088 RGTR--
+*A MU 120903018 110103001 000030  00655  00737              % 02088 RGTR--
+*A br 120903018 110103001 000030  00655  00737              % 02088 RGTR--
+*R 1 110103001 120903018 110103001  00655  00737            % 02088 RGTR--
+*G RGB 120903018 110103001  00655  00737                    % 02088 RGTR--
+*A VE 120903018 110103001 000030  00655  00737              % 02088 RGTR--
+*I FD 120903018 110103001        0002780  00655  00737      % 02088 RGTR--
+120903018 Wiltz, Gare                  00655                % 02088 RGTR--
+120903021 Wiltz, Lann           00656  00656                % 02088 RGTR--
+120903041 Wiltz, Wéinebeerig    00657  00657                % 02088 RGTR--
+120903040 Weidingen, Wegdicher  00658  00658                % 02088 RGTR--
+120902001 Weidingen, Erpeldang  00659  00659                % 02088 RGTR--
+120301002 Erpeldange/Eschweile  00700  00700                % 02088 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00702  00702                % 02088 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00704  00704                % 02088 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00705  00705                % 02088 RGTR--
+120304001 Selscheid, Dirwis     00709  00709                % 02088 RGTR--
+120304003 Selscheid, Roudebësc  00710  00710                % 02088 RGTR--
+120304002 Selscheid, Ennëscht   00710  00710                % 02088 RGTR--
+120303001 Knaphoscheid, Dahl    00713  00713                % 02088 RGTR--
+120303002 Knaphoscheid, Schent  00714  00714                % 02088 RGTR--
+120303001 Knaphoscheid, Dahl    00717  00717                % 02088 RGTR--
+120305001 Kleinhoscheid         00717  00717                % 02088 RGTR--
+110105003 Weicherdange, Kirels  00719  00719                % 02088 RGTR--
+110105001 Weicherdange, Café B  00721  00721                % 02088 RGTR--
+110105002 Weicherdange, Kierch  00722  00722                % 02088 RGTR--
+120706001 Mecher, Dueref        00726  00726                % 02088 RGTR--
+110101010 Clervaux, Police      00729  00729                % 02088 RGTR--
+110101008 Clervaux, Pl. de la   00729  00729                % 02088 RGTR--
+110101011 Clervaux, Postes      00731  00731                % 02088 RGTR--
+110101004 Clervaux, Maison de   00731  00731                % 02088 RGTR--
+110101002 Clervaux, Gare/Lycée  00732  00732                % 02088 RGTR--
+110103001 Reuler, Centre Scola  00737                       % 02088 RGTR--
+*Z 02089 RGTR--                                             % 02089 RGTR--
+*L 642      110101002 120903023  01020  01058               % 02089 RGTR--
+*A gy 110101002 120903023 000006  01020  01058              % 02089 RGTR--
+*A bl 110101002 120903023 000006  01020  01058              % 02089 RGTR--
+*R 2 120903023 110101002 120903023  01020  01058            % 02089 RGTR--
+*G RGB 110101002 120903023  01020  01058                    % 02089 RGTR--
+*A VE 110101002 120903023 000006  01020  01058              % 02089 RGTR--
+*I FD 110101002 120903023        0001959  01020  01058      % 02089 RGTR--
+110101002 Clervaux, Gare/Lycée         01020                % 02089 RGTR--
+110101004 Clervaux, Maison de   01021  01021                % 02089 RGTR--
+110101009 Clervaux, Place Bene  01022  01022                % 02089 RGTR--
+110101010 Clervaux, Police      01023  01023                % 02089 RGTR--
+120706001 Mecher, Dueref        01025  01025                % 02089 RGTR--
+110105002 Weicherdange, Kierch  01030  01030                % 02089 RGTR--
+110105001 Weicherdange, Café B  01030  01030                % 02089 RGTR--
+110105003 Weicherdange, Kirels  01033  01033                % 02089 RGTR--
+120305001 Kleinhoscheid         01035  01035                % 02089 RGTR--
+120303001 Knaphoscheid, Dahl    01035  01035                % 02089 RGTR--
+120303002 Knaphoscheid, Schent  01036  01036                % 02089 RGTR--
+120303001 Knaphoscheid, Dahl    01039  01039                % 02089 RGTR--
+120304002 Selscheid, Ennëscht   01041  01041                % 02089 RGTR--
+120304003 Selscheid, Roudebësc  01042  01042                % 02089 RGTR--
+120304001 Selscheid, Dirwis     01042  01042                % 02089 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01047  01047                % 02089 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01048  01048                % 02089 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01050  01050                % 02089 RGTR--
+120301002 Erpeldange/Eschweile  01053  01053                % 02089 RGTR--
+120902001 Weidingen, Erpeldang  01054  01054                % 02089 RGTR--
+120903040 Weidingen, Wegdicher  01054  01054                % 02089 RGTR--
+120903041 Wiltz, Wéinebeerig    01055  01055                % 02089 RGTR--
+120903021 Wiltz, Lann           01056  01056                % 02089 RGTR--
+120903023 Wiltz, Lycée du Nord  01058                       % 02089 RGTR--
+*Z 02090 RGTR--                                             % 02090 RGTR--
+*L 642      110101002 120903023  01120  01158               % 02090 RGTR--
+*A da 110101002 120903023 000006  01120  01158              % 02090 RGTR--
+*A bl 110101002 120903023 000006  01120  01158              % 02090 RGTR--
+*R 2 120903023 110101002 120903023  01120  01158            % 02090 RGTR--
+*G RGB 110101002 120903023  01120  01158                    % 02090 RGTR--
+*A VE 110101002 120903023 000006  01120  01158              % 02090 RGTR--
+*I FD 110101002 120903023        0001962  01120  01158      % 02090 RGTR--
+110101002 Clervaux, Gare/Lycée         01120                % 02090 RGTR--
+110101004 Clervaux, Maison de   01121  01121                % 02090 RGTR--
+110101009 Clervaux, Place Bene  01122  01122                % 02090 RGTR--
+110101010 Clervaux, Police      01123  01123                % 02090 RGTR--
+120706001 Mecher, Dueref        01125  01125                % 02090 RGTR--
+110105002 Weicherdange, Kierch  01130  01130                % 02090 RGTR--
+110105001 Weicherdange, Café B  01130  01130                % 02090 RGTR--
+110105003 Weicherdange, Kirels  01133  01133                % 02090 RGTR--
+120305001 Kleinhoscheid         01135  01135                % 02090 RGTR--
+120303001 Knaphoscheid, Dahl    01135  01135                % 02090 RGTR--
+120303002 Knaphoscheid, Schent  01136  01136                % 02090 RGTR--
+120303001 Knaphoscheid, Dahl    01139  01139                % 02090 RGTR--
+120304002 Selscheid, Ennëscht   01141  01141                % 02090 RGTR--
+120304003 Selscheid, Roudebësc  01142  01142                % 02090 RGTR--
+120304001 Selscheid, Dirwis     01142  01142                % 02090 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01147  01147                % 02090 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01148  01148                % 02090 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01150  01150                % 02090 RGTR--
+120301002 Erpeldange/Eschweile  01153  01153                % 02090 RGTR--
+120902001 Weidingen, Erpeldang  01154  01154                % 02090 RGTR--
+120903040 Weidingen, Wegdicher  01154  01154                % 02090 RGTR--
+120903041 Wiltz, Wéinebeerig    01155  01155                % 02090 RGTR--
+120903021 Wiltz, Lann           01156  01156                % 02090 RGTR--
+120903023 Wiltz, Lycée du Nord  01158                       % 02090 RGTR--
+*Z 02091 RGTR--                                             % 02091 RGTR--
+*L 642      110101002 120903023  01320  01358               % 02091 RGTR--
+*A da 110101002 120903023 000006  01320  01358              % 02091 RGTR--
+*A bl 110101002 120903023 000006  01320  01358              % 02091 RGTR--
+*R 2 120903023 110101002 120903023  01320  01358            % 02091 RGTR--
+*G RGB 110101002 120903023  01320  01358                    % 02091 RGTR--
+*A VE 110101002 120903023 000006  01320  01358              % 02091 RGTR--
+*I FD 110101002 120903023        0001967  01320  01358      % 02091 RGTR--
+110101002 Clervaux, Gare/Lycée         01320                % 02091 RGTR--
+110101004 Clervaux, Maison de   01321  01321                % 02091 RGTR--
+110101009 Clervaux, Place Bene  01322  01322                % 02091 RGTR--
+110101010 Clervaux, Police      01323  01323                % 02091 RGTR--
+120706001 Mecher, Dueref        01325  01325                % 02091 RGTR--
+110105002 Weicherdange, Kierch  01330  01330                % 02091 RGTR--
+110105001 Weicherdange, Café B  01330  01330                % 02091 RGTR--
+110105003 Weicherdange, Kirels  01333  01333                % 02091 RGTR--
+120305001 Kleinhoscheid         01335  01335                % 02091 RGTR--
+120303001 Knaphoscheid, Dahl    01335  01335                % 02091 RGTR--
+120303002 Knaphoscheid, Schent  01336  01336                % 02091 RGTR--
+120303001 Knaphoscheid, Dahl    01339  01339                % 02091 RGTR--
+120304002 Selscheid, Ennëscht   01341  01341                % 02091 RGTR--
+120304003 Selscheid, Roudebësc  01342  01342                % 02091 RGTR--
+120304001 Selscheid, Dirwis     01342  01342                % 02091 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01347  01347                % 02091 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01348  01348                % 02091 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01350  01350                % 02091 RGTR--
+120301002 Erpeldange/Eschweile  01353  01353                % 02091 RGTR--
+120902001 Weidingen, Erpeldang  01354  01354                % 02091 RGTR--
+120903040 Weidingen, Wegdicher  01354  01354                % 02091 RGTR--
+120903041 Wiltz, Wéinebeerig    01355  01355                % 02091 RGTR--
+120903021 Wiltz, Lann           01356  01356                % 02091 RGTR--
+120903023 Wiltz, Lycée du Nord  01358                       % 02091 RGTR--
+*Z 02092 RGTR--                                             % 02092 RGTR--
+*L 642      110101002 120903023  01520  01558               % 02092 RGTR--
+*A da 110101002 120903023 000006  01520  01558              % 02092 RGTR--
+*A bl 110101002 120903023 000006  01520  01558              % 02092 RGTR--
+*R 2 120903023 110101002 120903023  01520  01558            % 02092 RGTR--
+*G RGB 110101002 120903023  01520  01558                    % 02092 RGTR--
+*A VE 110101002 120903023 000006  01520  01558              % 02092 RGTR--
+*I FD 110101002 120903023        0001973  01520  01558      % 02092 RGTR--
+110101002 Clervaux, Gare/Lycée         01520                % 02092 RGTR--
+110101004 Clervaux, Maison de   01521  01521                % 02092 RGTR--
+110101009 Clervaux, Place Bene  01522  01522                % 02092 RGTR--
+110101010 Clervaux, Police      01523  01523                % 02092 RGTR--
+120706001 Mecher, Dueref        01525  01525                % 02092 RGTR--
+110105002 Weicherdange, Kierch  01530  01530                % 02092 RGTR--
+110105001 Weicherdange, Café B  01530  01530                % 02092 RGTR--
+110105003 Weicherdange, Kirels  01533  01533                % 02092 RGTR--
+120305001 Kleinhoscheid         01535  01535                % 02092 RGTR--
+120303001 Knaphoscheid, Dahl    01535  01535                % 02092 RGTR--
+120303002 Knaphoscheid, Schent  01536  01536                % 02092 RGTR--
+120303001 Knaphoscheid, Dahl    01539  01539                % 02092 RGTR--
+120304002 Selscheid, Ennëscht   01541  01541                % 02092 RGTR--
+120304003 Selscheid, Roudebësc  01542  01542                % 02092 RGTR--
+120304001 Selscheid, Dirwis     01542  01542                % 02092 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01547  01547                % 02092 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01548  01548                % 02092 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01550  01550                % 02092 RGTR--
+120301002 Erpeldange/Eschweile  01553  01553                % 02092 RGTR--
+120902001 Weidingen, Erpeldang  01554  01554                % 02092 RGTR--
+120903040 Weidingen, Wegdicher  01554  01554                % 02092 RGTR--
+120903041 Wiltz, Wéinebeerig    01555  01555                % 02092 RGTR--
+120903021 Wiltz, Lann           01556  01556                % 02092 RGTR--
+120903023 Wiltz, Lycée du Nord  01558                       % 02092 RGTR--
+*Z 02093 RGTR--                                             % 02093 RGTR--
+*L 642      110101002 120903023  01820  01858               % 02093 RGTR--
+*A gy 110101002 120903023 000006  01820  01858              % 02093 RGTR--
+*A bl 110101002 120903023 000006  01820  01858              % 02093 RGTR--
+*R 2 120903023 110101002 120903023  01820  01858            % 02093 RGTR--
+*G RGB 110101002 120903023  01820  01858                    % 02093 RGTR--
+*A VE 110101002 120903023 000006  01820  01858              % 02093 RGTR--
+*I FD 110101002 120903023        0001981  01820  01858      % 02093 RGTR--
+110101002 Clervaux, Gare/Lycée         01820                % 02093 RGTR--
+110101004 Clervaux, Maison de   01821  01821                % 02093 RGTR--
+110101009 Clervaux, Place Bene  01822  01822                % 02093 RGTR--
+110101010 Clervaux, Police      01823  01823                % 02093 RGTR--
+120706001 Mecher, Dueref        01825  01825                % 02093 RGTR--
+110105002 Weicherdange, Kierch  01830  01830                % 02093 RGTR--
+110105001 Weicherdange, Café B  01830  01830                % 02093 RGTR--
+110105003 Weicherdange, Kirels  01833  01833                % 02093 RGTR--
+120305001 Kleinhoscheid         01835  01835                % 02093 RGTR--
+120303001 Knaphoscheid, Dahl    01835  01835                % 02093 RGTR--
+120303002 Knaphoscheid, Schent  01836  01836                % 02093 RGTR--
+120303001 Knaphoscheid, Dahl    01839  01839                % 02093 RGTR--
+120304002 Selscheid, Ennëscht   01841  01841                % 02093 RGTR--
+120304003 Selscheid, Roudebësc  01842  01842                % 02093 RGTR--
+120304001 Selscheid, Dirwis     01842  01842                % 02093 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01847  01847                % 02093 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01848  01848                % 02093 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01850  01850                % 02093 RGTR--
+120301002 Erpeldange/Eschweile  01853  01853                % 02093 RGTR--
+120902001 Weidingen, Erpeldang  01854  01854                % 02093 RGTR--
+120903040 Weidingen, Wegdicher  01854  01854                % 02093 RGTR--
+120903041 Wiltz, Wéinebeerig    01855  01855                % 02093 RGTR--
+120903021 Wiltz, Lann           01856  01856                % 02093 RGTR--
+120903023 Wiltz, Lycée du Nord  01858                       % 02093 RGTR--
+*Z 02094 RGTR--                                             % 02094 RGTR--
+*L 642      110101002 120903023  01920  01958               % 02094 RGTR--
+*A da 110101002 120903023 000006  01920  01958              % 02094 RGTR--
+*A bl 110101002 120903023 000006  01920  01958              % 02094 RGTR--
+*R 2 120903023 110101002 120903023  01920  01958            % 02094 RGTR--
+*G RGB 110101002 120903023  01920  01958                    % 02094 RGTR--
+*A VE 110101002 120903023 000006  01920  01958              % 02094 RGTR--
+*I FD 110101002 120903023        0002156  01920  01958      % 02094 RGTR--
+110101002 Clervaux, Gare/Lycée         01920                % 02094 RGTR--
+110101004 Clervaux, Maison de   01921  01921                % 02094 RGTR--
+110101009 Clervaux, Place Bene  01922  01922                % 02094 RGTR--
+110101010 Clervaux, Police      01923  01923                % 02094 RGTR--
+120706001 Mecher, Dueref        01925  01925                % 02094 RGTR--
+110105002 Weicherdange, Kierch  01930  01930                % 02094 RGTR--
+110105001 Weicherdange, Café B  01930  01930                % 02094 RGTR--
+110105003 Weicherdange, Kirels  01933  01933                % 02094 RGTR--
+120305001 Kleinhoscheid         01935  01935                % 02094 RGTR--
+120303001 Knaphoscheid, Dahl    01935  01935                % 02094 RGTR--
+120303002 Knaphoscheid, Schent  01936  01936                % 02094 RGTR--
+120303001 Knaphoscheid, Dahl    01939  01939                % 02094 RGTR--
+120304002 Selscheid, Ennëscht   01941  01941                % 02094 RGTR--
+120304003 Selscheid, Roudebësc  01942  01942                % 02094 RGTR--
+120304001 Selscheid, Dirwis     01942  01942                % 02094 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01947  01947                % 02094 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01948  01948                % 02094 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01950  01950                % 02094 RGTR--
+120301002 Erpeldange/Eschweile  01953  01953                % 02094 RGTR--
+120902001 Weidingen, Erpeldang  01954  01954                % 02094 RGTR--
+120903040 Weidingen, Wegdicher  01954  01954                % 02094 RGTR--
+120903041 Wiltz, Wéinebeerig    01955  01955                % 02094 RGTR--
+120903021 Wiltz, Lann           01956  01956                % 02094 RGTR--
+120903023 Wiltz, Lycée du Nord  01958                       % 02094 RGTR--
+*Z 02095 RGTR--                                             % 02095 RGTR--
+*L 642      110101002 120903023  01220  01258               % 02095 RGTR--
+*A gy 110101002 120903023 000033  01220  01258              % 02095 RGTR--
+*A bl 110101002 120903023 000033  01220  01258              % 02095 RGTR--
+*R 2 120903023 110101002 120903023  01220  01258            % 02095 RGTR--
+*G RGB 110101002 120903023  01220  01258                    % 02095 RGTR--
+*A VE 110101002 120903023 000033  01220  01258              % 02095 RGTR--
+*I FD 110101002 120903023        0001965  01220  01258      % 02095 RGTR--
+110101002 Clervaux, Gare/Lycée         01220                % 02095 RGTR--
+110101004 Clervaux, Maison de   01221  01221                % 02095 RGTR--
+110101009 Clervaux, Place Bene  01222  01222                % 02095 RGTR--
+110101010 Clervaux, Police      01223  01223                % 02095 RGTR--
+120706001 Mecher, Dueref        01225  01225                % 02095 RGTR--
+110105002 Weicherdange, Kierch  01230  01230                % 02095 RGTR--
+110105001 Weicherdange, Café B  01230  01230                % 02095 RGTR--
+110105003 Weicherdange, Kirels  01233  01233                % 02095 RGTR--
+120305001 Kleinhoscheid         01235  01235                % 02095 RGTR--
+120303001 Knaphoscheid, Dahl    01235  01235                % 02095 RGTR--
+120303002 Knaphoscheid, Schent  01236  01236                % 02095 RGTR--
+120303001 Knaphoscheid, Dahl    01239  01239                % 02095 RGTR--
+120304002 Selscheid, Ennëscht   01241  01241                % 02095 RGTR--
+120304003 Selscheid, Roudebësc  01242  01242                % 02095 RGTR--
+120304001 Selscheid, Dirwis     01242  01242                % 02095 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01247  01247                % 02095 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01248  01248                % 02095 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01250  01250                % 02095 RGTR--
+120301002 Erpeldange/Eschweile  01253  01253                % 02095 RGTR--
+120902001 Weidingen, Erpeldang  01254  01254                % 02095 RGTR--
+120903040 Weidingen, Wegdicher  01254  01254                % 02095 RGTR--
+120903041 Wiltz, Wéinebeerig    01255  01255                % 02095 RGTR--
+120903021 Wiltz, Lann           01256  01256                % 02095 RGTR--
+120903023 Wiltz, Lycée du Nord  01258                       % 02095 RGTR--
+*Z 02096 RGTR--                                             % 02096 RGTR--
+*L 642      110101002 120903023  01420  01458               % 02096 RGTR--
+*A gy 110101002 120903023 000159  01420  01458              % 02096 RGTR--
+*A bl 110101002 120903023 000159  01420  01458              % 02096 RGTR--
+*R 2 120903023 110101002 120903023  01420  01458            % 02096 RGTR--
+*G RGB 110101002 120903023  01420  01458                    % 02096 RGTR--
+*A VE 110101002 120903023 000159  01420  01458              % 02096 RGTR--
+*I FD 110101002 120903023        0001970  01420  01458      % 02096 RGTR--
+110101002 Clervaux, Gare/Lycée         01420                % 02096 RGTR--
+110101004 Clervaux, Maison de   01421  01421                % 02096 RGTR--
+110101009 Clervaux, Place Bene  01422  01422                % 02096 RGTR--
+110101010 Clervaux, Police      01423  01423                % 02096 RGTR--
+120706001 Mecher, Dueref        01425  01425                % 02096 RGTR--
+110105002 Weicherdange, Kierch  01430  01430                % 02096 RGTR--
+110105001 Weicherdange, Café B  01430  01430                % 02096 RGTR--
+110105003 Weicherdange, Kirels  01433  01433                % 02096 RGTR--
+120305001 Kleinhoscheid         01435  01435                % 02096 RGTR--
+120303001 Knaphoscheid, Dahl    01435  01435                % 02096 RGTR--
+120303002 Knaphoscheid, Schent  01436  01436                % 02096 RGTR--
+120303001 Knaphoscheid, Dahl    01439  01439                % 02096 RGTR--
+120304002 Selscheid, Ennëscht   01441  01441                % 02096 RGTR--
+120304003 Selscheid, Roudebësc  01442  01442                % 02096 RGTR--
+120304001 Selscheid, Dirwis     01442  01442                % 02096 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01447  01447                % 02096 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01448  01448                % 02096 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01450  01450                % 02096 RGTR--
+120301002 Erpeldange/Eschweile  01453  01453                % 02096 RGTR--
+120902001 Weidingen, Erpeldang  01454  01454                % 02096 RGTR--
+120903040 Weidingen, Wegdicher  01454  01454                % 02096 RGTR--
+120903041 Wiltz, Wéinebeerig    01455  01455                % 02096 RGTR--
+120903021 Wiltz, Lann           01456  01456                % 02096 RGTR--
+120903023 Wiltz, Lycée du Nord  01458                       % 02096 RGTR--
+*Z 02097 RGTR--                                             % 02097 RGTR--
+*L 642      110101002 120903023  00700  00740               % 02097 RGTR--
+*A da 110101002 120903023 000006  00700  00740              % 02097 RGTR--
+*A bl 110101002 120903023 000006  00700  00740              % 02097 RGTR--
+*R 2 120903023 110101002 120903023  00700  00740            % 02097 RGTR--
+*G RGB 110101002 120903023  00700  00740                    % 02097 RGTR--
+*A VE 110101002 120903023 000006  00700  00740              % 02097 RGTR--
+*I FD 110101002 120903023        0002152  00700  00740      % 02097 RGTR--
+110101002 Clervaux, Gare/Lycée         00700                % 02097 RGTR--
+110101004 Clervaux, Maison de   00701  00701                % 02097 RGTR--
+110101009 Clervaux, Place Bene  00702  00702                % 02097 RGTR--
+110101010 Clervaux, Police      00703  00703                % 02097 RGTR--
+120706001 Mecher, Dueref        00706  00706                % 02097 RGTR--
+110105002 Weicherdange, Kierch  00710  00710                % 02097 RGTR--
+110105001 Weicherdange, Café B  00711  00711                % 02097 RGTR--
+110105003 Weicherdange, Kirels  00713  00713                % 02097 RGTR--
+120305001 Kleinhoscheid         00715  00715                % 02097 RGTR--
+120303001 Knaphoscheid, Dahl    00716  00716                % 02097 RGTR--
+120303002 Knaphoscheid, Schent  00717  00717                % 02097 RGTR--
+120303001 Knaphoscheid, Dahl    00719  00719                % 02097 RGTR--
+120304002 Selscheid, Ennëscht   00722  00722                % 02097 RGTR--
+120304003 Selscheid, Roudebësc  00723  00723                % 02097 RGTR--
+120304001 Selscheid, Dirwis     00723  00723                % 02097 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00728  00728                % 02097 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00729  00729                % 02097 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00731  00731                % 02097 RGTR--
+120301002 Erpeldange/Eschweile  00734  00734                % 02097 RGTR--
+120902001 Weidingen, Erpeldang  00735  00735                % 02097 RGTR--
+120903040 Weidingen, Wegdicher  00735  00735                % 02097 RGTR--
+120903041 Wiltz, Wéinebeerig    00736  00736                % 02097 RGTR--
+120903021 Wiltz, Lann           00737  00737                % 02097 RGTR--
+120903023 Wiltz, Lycée du Nord  00740                       % 02097 RGTR--
+*Z 02098 RGTR--                                             % 02098 RGTR--
+*L 642      110101002 120903023  00920  01000               % 02098 RGTR--
+*A da 110101002 120903023 000006  00920  01000              % 02098 RGTR--
+*A bl 110101002 120903023 000006  00920  01000              % 02098 RGTR--
+*R 2 120903023 110101002 120903023  00920  01000            % 02098 RGTR--
+*G RGB 110101002 120903023  00920  01000                    % 02098 RGTR--
+*A VE 110101002 120903023 000006  00920  01000              % 02098 RGTR--
+*I FD 110101002 120903023        0001956  00920  01000      % 02098 RGTR--
+110101002 Clervaux, Gare/Lycée         00920                % 02098 RGTR--
+110101004 Clervaux, Maison de   00921  00921                % 02098 RGTR--
+110101009 Clervaux, Place Bene  00922  00922                % 02098 RGTR--
+110101010 Clervaux, Police      00923  00923                % 02098 RGTR--
+120706001 Mecher, Dueref        00926  00926                % 02098 RGTR--
+110105002 Weicherdange, Kierch  00930  00930                % 02098 RGTR--
+110105001 Weicherdange, Café B  00931  00931                % 02098 RGTR--
+110105003 Weicherdange, Kirels  00933  00933                % 02098 RGTR--
+120305001 Kleinhoscheid         00935  00935                % 02098 RGTR--
+120303001 Knaphoscheid, Dahl    00936  00936                % 02098 RGTR--
+120303002 Knaphoscheid, Schent  00937  00937                % 02098 RGTR--
+120303001 Knaphoscheid, Dahl    00939  00939                % 02098 RGTR--
+120304002 Selscheid, Ennëscht   00942  00942                % 02098 RGTR--
+120304003 Selscheid, Roudebësc  00943  00943                % 02098 RGTR--
+120304001 Selscheid, Dirwis     00943  00943                % 02098 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00948  00948                % 02098 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00949  00949                % 02098 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00951  00951                % 02098 RGTR--
+120301002 Erpeldange/Eschweile  00954  00954                % 02098 RGTR--
+120902001 Weidingen, Erpeldang  00955  00955                % 02098 RGTR--
+120903040 Weidingen, Wegdicher  00955  00955                % 02098 RGTR--
+120903041 Wiltz, Wéinebeerig    00956  00956                % 02098 RGTR--
+120903021 Wiltz, Lann           00957  00957                % 02098 RGTR--
+120903023 Wiltz, Lycée du Nord  01000                       % 02098 RGTR--
+*Z 02099 RGTR--                                             % 02099 RGTR--
+*L 642      110101002 120903023  01719  01759               % 02099 RGTR--
+*A da 110101002 120903023 000006  01719  01759              % 02099 RGTR--
+*A bl 110101002 120903023 000006  01719  01759              % 02099 RGTR--
+*R 2 120903023 110101002 120903023  01719  01759            % 02099 RGTR--
+*G RGB 110101002 120903023  01719  01759                    % 02099 RGTR--
+*A VE 110101002 120903023 000006  01719  01759              % 02099 RGTR--
+*I FD 110101002 120903023        0002789  01719  01759      % 02099 RGTR--
+110101002 Clervaux, Gare/Lycée         01719                % 02099 RGTR--
+110101004 Clervaux, Maison de   01720  01720                % 02099 RGTR--
+110101009 Clervaux, Place Bene  01721  01721                % 02099 RGTR--
+110101010 Clervaux, Police      01722  01722                % 02099 RGTR--
+120706001 Mecher, Dueref        01725  01725                % 02099 RGTR--
+110105002 Weicherdange, Kierch  01729  01729                % 02099 RGTR--
+110105001 Weicherdange, Café B  01730  01730                % 02099 RGTR--
+110105003 Weicherdange, Kirels  01732  01732                % 02099 RGTR--
+120305001 Kleinhoscheid         01734  01734                % 02099 RGTR--
+120303001 Knaphoscheid, Dahl    01735  01735                % 02099 RGTR--
+120303002 Knaphoscheid, Schent  01736  01736                % 02099 RGTR--
+120303001 Knaphoscheid, Dahl    01738  01738                % 02099 RGTR--
+120304002 Selscheid, Ennëscht   01741  01741                % 02099 RGTR--
+120304003 Selscheid, Roudebësc  01742  01742                % 02099 RGTR--
+120304001 Selscheid, Dirwis     01742  01742                % 02099 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01747  01747                % 02099 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01748  01748                % 02099 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01750  01750                % 02099 RGTR--
+120301002 Erpeldange/Eschweile  01753  01753                % 02099 RGTR--
+120902001 Weidingen, Erpeldang  01754  01754                % 02099 RGTR--
+120903040 Weidingen, Wegdicher  01754  01754                % 02099 RGTR--
+120903041 Wiltz, Wéinebeerig    01755  01755                % 02099 RGTR--
+120903021 Wiltz, Lann           01756  01756                % 02099 RGTR--
+120903023 Wiltz, Lycée du Nord  01759                       % 02099 RGTR--
+*Z 02100 RGTR--                                             % 02100 RGTR--
+*L 642      110101002 120903023  00815  00855               % 02100 RGTR--
+*A gy 110101002 120903023 000033  00815  00855              % 02100 RGTR--
+*A bl 110101002 120903023 000033  00815  00855              % 02100 RGTR--
+*R 2 120903023 110101002 120903023  00815  00855            % 02100 RGTR--
+*G RGB 110101002 120903023  00815  00855                    % 02100 RGTR--
+*A VE 110101002 120903023 000033  00815  00855              % 02100 RGTR--
+*I FD 110101002 120903023        0002287  00815  00855      % 02100 RGTR--
+110101002 Clervaux, Gare/Lycée         00815                % 02100 RGTR--
+110101004 Clervaux, Maison de   00816  00816                % 02100 RGTR--
+110101009 Clervaux, Place Bene  00817  00817                % 02100 RGTR--
+110101010 Clervaux, Police      00818  00818                % 02100 RGTR--
+120706001 Mecher, Dueref        00821  00821                % 02100 RGTR--
+110105002 Weicherdange, Kierch  00825  00825                % 02100 RGTR--
+110105001 Weicherdange, Café B  00826  00826                % 02100 RGTR--
+110105003 Weicherdange, Kirels  00828  00828                % 02100 RGTR--
+120305001 Kleinhoscheid         00830  00830                % 02100 RGTR--
+120303001 Knaphoscheid, Dahl    00831  00831                % 02100 RGTR--
+120303002 Knaphoscheid, Schent  00832  00832                % 02100 RGTR--
+120303001 Knaphoscheid, Dahl    00834  00834                % 02100 RGTR--
+120304002 Selscheid, Ennëscht   00837  00837                % 02100 RGTR--
+120304003 Selscheid, Roudebësc  00838  00838                % 02100 RGTR--
+120304001 Selscheid, Dirwis     00838  00838                % 02100 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00843  00843                % 02100 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00844  00844                % 02100 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00846  00846                % 02100 RGTR--
+120301002 Erpeldange/Eschweile  00849  00849                % 02100 RGTR--
+120902001 Weidingen, Erpeldang  00850  00850                % 02100 RGTR--
+120903040 Weidingen, Wegdicher  00850  00850                % 02100 RGTR--
+120903041 Wiltz, Wéinebeerig    00851  00851                % 02100 RGTR--
+120903021 Wiltz, Lann           00852  00852                % 02100 RGTR--
+120903023 Wiltz, Lycée du Nord  00855                       % 02100 RGTR--
+*Z 02101 RGTR--                                             % 02101 RGTR--
+*L 642      110101002 120903023  01620  01700               % 02101 RGTR--
+*A gy 110101002 120903023 000159  01620  01700              % 02101 RGTR--
+*A bl 110101002 120903023 000159  01620  01700              % 02101 RGTR--
+*R 2 120903023 110101002 120903023  01620  01700            % 02101 RGTR--
+*G RGB 110101002 120903023  01620  01700                    % 02101 RGTR--
+*A VE 110101002 120903023 000159  01620  01700              % 02101 RGTR--
+*I FD 110101002 120903023        0001976  01620  01700      % 02101 RGTR--
+110101002 Clervaux, Gare/Lycée         01620                % 02101 RGTR--
+110101004 Clervaux, Maison de   01621  01621                % 02101 RGTR--
+110101009 Clervaux, Place Bene  01622  01622                % 02101 RGTR--
+110101010 Clervaux, Police      01623  01623                % 02101 RGTR--
+120706001 Mecher, Dueref        01626  01626                % 02101 RGTR--
+110105002 Weicherdange, Kierch  01630  01630                % 02101 RGTR--
+110105001 Weicherdange, Café B  01631  01631                % 02101 RGTR--
+110105003 Weicherdange, Kirels  01633  01633                % 02101 RGTR--
+120305001 Kleinhoscheid         01635  01635                % 02101 RGTR--
+120303001 Knaphoscheid, Dahl    01636  01636                % 02101 RGTR--
+120303002 Knaphoscheid, Schent  01637  01637                % 02101 RGTR--
+120303001 Knaphoscheid, Dahl    01639  01639                % 02101 RGTR--
+120304002 Selscheid, Ennëscht   01642  01642                % 02101 RGTR--
+120304003 Selscheid, Roudebësc  01643  01643                % 02101 RGTR--
+120304001 Selscheid, Dirwis     01643  01643                % 02101 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01648  01648                % 02101 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01649  01649                % 02101 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01651  01651                % 02101 RGTR--
+120301002 Erpeldange/Eschweile  01654  01654                % 02101 RGTR--
+120902001 Weidingen, Erpeldang  01655  01655                % 02101 RGTR--
+120903040 Weidingen, Wegdicher  01655  01655                % 02101 RGTR--
+120903041 Wiltz, Wéinebeerig    01656  01656                % 02101 RGTR--
+120903021 Wiltz, Lann           01657  01657                % 02101 RGTR--
+120903023 Wiltz, Lycée du Nord  01700                       % 02101 RGTR--
+*Z 02102 RGTR--                                             % 02102 RGTR--
+*L 642      110101002 120903018  00501  00540               % 02102 RGTR--
+*A da 110101002 120903018 000006  00501  00540              % 02102 RGTR--
+*A gr 110101002 120903018 000006  00501  00540              % 02102 RGTR--
+*A XS 110101002 120903018 000006  00501  00540              % 02102 RGTR--
+*R 2 120903018 110101002 120903018  00501  00540            % 02102 RGTR--
+*G RGB 110101002 120903018  00501  00540                    % 02102 RGTR--
+*A VE 110101002 120903018 000006  00501  00540              % 02102 RGTR--
+*I FD 110101002 120903018        0002790  00501  00540      % 02102 RGTR--
+110101002 Clervaux, Gare/Lycée         00501                % 02102 RGTR--
+110101004 Clervaux, Maison de   00502  00502                % 02102 RGTR--
+110101009 Clervaux, Place Bene  00503  00503                % 02102 RGTR--
+110101010 Clervaux, Police      00505  00505                % 02102 RGTR--
+120706001 Mecher, Dueref        00507  00507                % 02102 RGTR--
+110105002 Weicherdange, Kierch  00512  00512                % 02102 RGTR--
+110105001 Weicherdange, Café B  00512  00512                % 02102 RGTR--
+110105003 Weicherdange, Kirels  00515  00515                % 02102 RGTR--
+120305001 Kleinhoscheid         00517  00517                % 02102 RGTR--
+120303001 Knaphoscheid, Dahl    00517  00517                % 02102 RGTR--
+120303002 Knaphoscheid, Schent  00518  00518                % 02102 RGTR--
+120303001 Knaphoscheid, Dahl    00520  00520                % 02102 RGTR--
+120304002 Selscheid, Ennëscht   00523  00523                % 02102 RGTR--
+120304003 Selscheid, Roudebësc  00524  00524                % 02102 RGTR--
+120304001 Selscheid, Dirwis     00524  00524                % 02102 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00529  00529                % 02102 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00530  00530                % 02102 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00532  00532                % 02102 RGTR--
+120301002 Erpeldange/Eschweile  00534  00534                % 02102 RGTR--
+120902001 Weidingen, Erpeldang  00536  00536                % 02102 RGTR--
+120903040 Weidingen, Wegdicher  00536  00536                % 02102 RGTR--
+120903041 Wiltz, Wéinebeerig    00537  00537                % 02102 RGTR--
+120903021 Wiltz, Lann           00538  00538                % 02102 RGTR--
+120903018 Wiltz, Gare           00540                       % 02102 RGTR--
+*Z 02103 RGTR--                                             % 02103 RGTR--
+*L 642      110101002 120903018  01455  01533               % 02103 RGTR--
+*A da 110101002 120903018 000030  01455  01533              % 02103 RGTR--
+*A gr 110101002 120903018 000030  01455  01533              % 02103 RGTR--
+*R 2 120903018 110101002 120903018  01455  01533            % 02103 RGTR--
+*G RGB 110101002 120903018  01455  01533                    % 02103 RGTR--
+*A VE 110101002 120903018 000030  01455  01533              % 02103 RGTR--
+*I FD 110101002 120903018        0002791  01455  01533      % 02103 RGTR--
+110101002 Clervaux, Gare/Lycée         01455                % 02103 RGTR--
+110101004 Clervaux, Maison de   01456  01456                % 02103 RGTR--
+110101009 Clervaux, Place Bene  01457  01457                % 02103 RGTR--
+110101010 Clervaux, Police      01458  01458                % 02103 RGTR--
+120706001 Mecher, Dueref        01500  01500                % 02103 RGTR--
+110105002 Weicherdange, Kierch  01505  01505                % 02103 RGTR--
+110105001 Weicherdange, Café B  01505  01505                % 02103 RGTR--
+110105003 Weicherdange, Kirels  01508  01508                % 02103 RGTR--
+120305001 Kleinhoscheid         01510  01510                % 02103 RGTR--
+120303001 Knaphoscheid, Dahl    01510  01510                % 02103 RGTR--
+120303002 Knaphoscheid, Schent  01511  01511                % 02103 RGTR--
+120303001 Knaphoscheid, Dahl    01514  01514                % 02103 RGTR--
+120304002 Selscheid, Ennëscht   01516  01516                % 02103 RGTR--
+120304003 Selscheid, Roudebësc  01517  01517                % 02103 RGTR--
+120304001 Selscheid, Dirwis     01517  01517                % 02103 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01522  01522                % 02103 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01523  01523                % 02103 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01525  01525                % 02103 RGTR--
+120301002 Erpeldange/Eschweile  01528  01528                % 02103 RGTR--
+120902001 Weidingen, Erpeldang  01529  01529                % 02103 RGTR--
+120903040 Weidingen, Wegdicher  01529  01529                % 02103 RGTR--
+120903041 Wiltz, Wéinebeerig    01530  01530                % 02103 RGTR--
+120903021 Wiltz, Lann           01531  01531                % 02103 RGTR--
+120903018 Wiltz, Gare           01533                       % 02103 RGTR--
+*Z 02104 RGTR--                                             % 02104 RGTR--
+*L 642      110101002 120903018  01650  01728               % 02104 RGTR--
+*A da 110101002 120903018 000030  01650  01728              % 02104 RGTR--
+*A gr 110101002 120903018 000030  01650  01728              % 02104 RGTR--
+*R 2 120903018 110101002 120903018  01650  01728            % 02104 RGTR--
+*G RGB 110101002 120903018  01650  01728                    % 02104 RGTR--
+*A VE 110101002 120903018 000030  01650  01728              % 02104 RGTR--
+*I FD 110101002 120903018        0001392  01650  01728      % 02104 RGTR--
+110101002 Clervaux, Gare/Lycée         01650                % 02104 RGTR--
+110101004 Clervaux, Maison de   01651  01651                % 02104 RGTR--
+110101009 Clervaux, Place Bene  01652  01652                % 02104 RGTR--
+110101010 Clervaux, Police      01653  01653                % 02104 RGTR--
+120706001 Mecher, Dueref        01655  01655                % 02104 RGTR--
+110105002 Weicherdange, Kierch  01700  01700                % 02104 RGTR--
+110105001 Weicherdange, Café B  01700  01700                % 02104 RGTR--
+110105003 Weicherdange, Kirels  01703  01703                % 02104 RGTR--
+120305001 Kleinhoscheid         01705  01705                % 02104 RGTR--
+120303001 Knaphoscheid, Dahl    01705  01705                % 02104 RGTR--
+120303002 Knaphoscheid, Schent  01706  01706                % 02104 RGTR--
+120303001 Knaphoscheid, Dahl    01709  01709                % 02104 RGTR--
+120304002 Selscheid, Ennëscht   01711  01711                % 02104 RGTR--
+120304003 Selscheid, Roudebësc  01712  01712                % 02104 RGTR--
+120304001 Selscheid, Dirwis     01712  01712                % 02104 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01717  01717                % 02104 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01718  01718                % 02104 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01720  01720                % 02104 RGTR--
+120301002 Erpeldange/Eschweile  01723  01723                % 02104 RGTR--
+120902001 Weidingen, Erpeldang  01724  01724                % 02104 RGTR--
+120903040 Weidingen, Wegdicher  01724  01724                % 02104 RGTR--
+120903041 Wiltz, Wéinebeerig    01725  01725                % 02104 RGTR--
+120903021 Wiltz, Lann           01726  01726                % 02104 RGTR--
+120903018 Wiltz, Gare           01728                       % 02104 RGTR--
+*Z 02105 RGTR--                                             % 02105 RGTR--
+*L 642      110101002 120903018  00603  00641               % 02105 RGTR--
+*A gy 110101002 120903018 000016  00603  00641              % 02105 RGTR--
+*A gr 110101002 120903018 000016  00603  00641              % 02105 RGTR--
+*A XS 110101002 120903018 000016  00603  00641              % 02105 RGTR--
+*R 2 120903018 110101002 120903018  00603  00641            % 02105 RGTR--
+*G RGB 110101002 120903018  00603  00641                    % 02105 RGTR--
+*A VE 110101002 120903018 000016  00603  00641              % 02105 RGTR--
+*I FD 110101002 120903018        0002792  00603  00641      % 02105 RGTR--
+110101002 Clervaux, Gare/Lycée         00603                % 02105 RGTR--
+110101004 Clervaux, Maison de   00604  00604                % 02105 RGTR--
+110101009 Clervaux, Place Bene  00605  00605                % 02105 RGTR--
+110101010 Clervaux, Police      00606  00606                % 02105 RGTR--
+120706001 Mecher, Dueref        00608  00608                % 02105 RGTR--
+110105002 Weicherdange, Kierch  00613  00613                % 02105 RGTR--
+110105001 Weicherdange, Café B  00613  00613                % 02105 RGTR--
+110105003 Weicherdange, Kirels  00616  00616                % 02105 RGTR--
+120305001 Kleinhoscheid         00618  00618                % 02105 RGTR--
+120303001 Knaphoscheid, Dahl    00618  00618                % 02105 RGTR--
+120303002 Knaphoscheid, Schent  00619  00619                % 02105 RGTR--
+120303001 Knaphoscheid, Dahl    00622  00622                % 02105 RGTR--
+120304002 Selscheid, Ennëscht   00624  00624                % 02105 RGTR--
+120304003 Selscheid, Roudebësc  00625  00625                % 02105 RGTR--
+120304001 Selscheid, Dirwis     00625  00625                % 02105 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00630  00630                % 02105 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00631  00631                % 02105 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00633  00633                % 02105 RGTR--
+120301002 Erpeldange/Eschweile  00636  00636                % 02105 RGTR--
+120902001 Weidingen, Erpeldang  00637  00637                % 02105 RGTR--
+120903040 Weidingen, Wegdicher  00637  00637                % 02105 RGTR--
+120903041 Wiltz, Wéinebeerig    00638  00638                % 02105 RGTR--
+120903021 Wiltz, Lann           00639  00639                % 02105 RGTR--
+120903018 Wiltz, Gare           00641                       % 02105 RGTR--
+*Z 02106 RGTR--                                             % 02106 RGTR--
+*L 642      120302001 120903018  00600  00610               % 02106 RGTR--
+*A da 120302001 120903018 000016  00600  00610              % 02106 RGTR--
+*A gr 120302001 120903018 000016  00600  00610              % 02106 RGTR--
+*A XS 120302001 120903018 000016  00600  00610              % 02106 RGTR--
+*R 2 120903018 120302001 120903018  00600  00610            % 02106 RGTR--
+*G RGB 120302001 120903018  00600  00610                    % 02106 RGTR--
+*A VE 120302001 120903018 000016  00600  00610              % 02106 RGTR--
+*I FD 120302001 120903018        0002155  00600  00610      % 02106 RGTR--
+120302001 Eschweiler/Wiltz, Ga         00600                % 02106 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00602  00602                % 02106 RGTR--
+120301002 Erpeldange/Eschweile  00604  00604                % 02106 RGTR--
+120902001 Weidingen, Erpeldang  00606  00606                % 02106 RGTR--
+120903040 Weidingen, Wegdicher  00606  00606                % 02106 RGTR--
+120903041 Wiltz, Wéinebeerig    00607  00607                % 02106 RGTR--
+120903021 Wiltz, Lann           00608  00608                % 02106 RGTR--
+120903018 Wiltz, Gare           00610                       % 02106 RGTR--
+*Z 02107 RGTR--                                             % 02107 RGTR--
+*L 642      110103001 120903023  01215  01258               % 02107 RGTR--
+*A gy 110103001 120903023 000030  01215  01258              % 02107 RGTR--
+*A bl 110103001 120903023 000030  01215  01258              % 02107 RGTR--
+*R 2 120903023 110103001 120903023  01215  01258            % 02107 RGTR--
+*G RGB 110103001 120903023  01215  01258                    % 02107 RGTR--
+*A VE 110103001 120903023 000030  01215  01258              % 02107 RGTR--
+*I FD 110103001 120903023        0002793  01215  01258      % 02107 RGTR--
+110103001 Reuler, Centre Scola         01215                % 02107 RGTR--
+110101002 Clervaux, Gare/Lycée  01220  01220                % 02107 RGTR--
+110101004 Clervaux, Maison de   01221  01221                % 02107 RGTR--
+110101009 Clervaux, Place Bene  01222  01222                % 02107 RGTR--
+110101010 Clervaux, Police      01223  01223                % 02107 RGTR--
+120706001 Mecher, Dueref        01225  01225                % 02107 RGTR--
+110105002 Weicherdange, Kierch  01230  01230                % 02107 RGTR--
+110105001 Weicherdange, Café B  01230  01230                % 02107 RGTR--
+110105003 Weicherdange, Kirels  01233  01233                % 02107 RGTR--
+120305001 Kleinhoscheid         01235  01235                % 02107 RGTR--
+120303001 Knaphoscheid, Dahl    01235  01235                % 02107 RGTR--
+120303002 Knaphoscheid, Schent  01236  01236                % 02107 RGTR--
+120303001 Knaphoscheid, Dahl    01239  01239                % 02107 RGTR--
+120304002 Selscheid, Ennëscht   01241  01241                % 02107 RGTR--
+120304003 Selscheid, Roudebësc  01242  01242                % 02107 RGTR--
+120304001 Selscheid, Dirwis     01242  01242                % 02107 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01247  01247                % 02107 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01248  01248                % 02107 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01250  01250                % 02107 RGTR--
+120301002 Erpeldange/Eschweile  01253  01253                % 02107 RGTR--
+120902001 Weidingen, Erpeldang  01254  01254                % 02107 RGTR--
+120903040 Weidingen, Wegdicher  01254  01254                % 02107 RGTR--
+120903041 Wiltz, Wéinebeerig    01255  01255                % 02107 RGTR--
+120903021 Wiltz, Lann           01256  01256                % 02107 RGTR--
+120903023 Wiltz, Lycée du Nord  01258                       % 02107 RGTR--
+*Z 02108 RGTR--                                             % 02108 RGTR--
+*L 642      110103001 120903023  01415  01458               % 02108 RGTR--
+*A gy 110103001 120903023 000045  01415  01458              % 02108 RGTR--
+*A bl 110103001 120903023 000045  01415  01458              % 02108 RGTR--
+*R 2 120903023 110103001 120903023  01415  01458            % 02108 RGTR--
+*G RGB 110103001 120903023  01415  01458                    % 02108 RGTR--
+*A VE 110103001 120903023 000045  01415  01458              % 02108 RGTR--
+*I FD 110103001 120903023        0002794  01415  01458      % 02108 RGTR--
+110103001 Reuler, Centre Scola         01415                % 02108 RGTR--
+110101002 Clervaux, Gare/Lycée  01420  01420                % 02108 RGTR--
+110101004 Clervaux, Maison de   01421  01421                % 02108 RGTR--
+110101009 Clervaux, Place Bene  01422  01422                % 02108 RGTR--
+110101010 Clervaux, Police      01423  01423                % 02108 RGTR--
+120706001 Mecher, Dueref        01425  01425                % 02108 RGTR--
+110105002 Weicherdange, Kierch  01430  01430                % 02108 RGTR--
+110105001 Weicherdange, Café B  01430  01430                % 02108 RGTR--
+110105003 Weicherdange, Kirels  01433  01433                % 02108 RGTR--
+120305001 Kleinhoscheid         01435  01435                % 02108 RGTR--
+120303001 Knaphoscheid, Dahl    01435  01435                % 02108 RGTR--
+120303002 Knaphoscheid, Schent  01436  01436                % 02108 RGTR--
+120303001 Knaphoscheid, Dahl    01439  01439                % 02108 RGTR--
+120304002 Selscheid, Ennëscht   01441  01441                % 02108 RGTR--
+120304003 Selscheid, Roudebësc  01442  01442                % 02108 RGTR--
+120304001 Selscheid, Dirwis     01442  01442                % 02108 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01447  01447                % 02108 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01448  01448                % 02108 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01450  01450                % 02108 RGTR--
+120301002 Erpeldange/Eschweile  01453  01453                % 02108 RGTR--
+120902001 Weidingen, Erpeldang  01454  01454                % 02108 RGTR--
+120903040 Weidingen, Wegdicher  01454  01454                % 02108 RGTR--
+120903041 Wiltz, Wéinebeerig    01455  01455                % 02108 RGTR--
+120903021 Wiltz, Lann           01456  01456                % 02108 RGTR--
+120903023 Wiltz, Lycée du Nord  01458                       % 02108 RGTR--
+*Z 02109 RGTR--                                             % 02109 RGTR--
+*L 642      110103001 120903023  00810  00855               % 02109 RGTR--
+*A gy 110103001 120903023 000030  00810  00855              % 02109 RGTR--
+*A bl 110103001 120903023 000030  00810  00855              % 02109 RGTR--
+*R 2 120903023 110103001 120903023  00810  00855            % 02109 RGTR--
+*G RGB 110103001 120903023  00810  00855                    % 02109 RGTR--
+*A VE 110103001 120903023 000030  00810  00855              % 02109 RGTR--
+*I FD 110103001 120903023        0002052  00810  00855      % 02109 RGTR--
+110103001 Reuler, Centre Scola         00810                % 02109 RGTR--
+110101002 Clervaux, Gare/Lycée  00815  00815                % 02109 RGTR--
+110101004 Clervaux, Maison de   00816  00816                % 02109 RGTR--
+110101009 Clervaux, Place Bene  00817  00817                % 02109 RGTR--
+110101010 Clervaux, Police      00818  00818                % 02109 RGTR--
+120706001 Mecher, Dueref        00821  00821                % 02109 RGTR--
+110105002 Weicherdange, Kierch  00825  00825                % 02109 RGTR--
+110105001 Weicherdange, Café B  00826  00826                % 02109 RGTR--
+110105003 Weicherdange, Kirels  00828  00828                % 02109 RGTR--
+120305001 Kleinhoscheid         00830  00830                % 02109 RGTR--
+120303001 Knaphoscheid, Dahl    00831  00831                % 02109 RGTR--
+120303002 Knaphoscheid, Schent  00832  00832                % 02109 RGTR--
+120303001 Knaphoscheid, Dahl    00834  00834                % 02109 RGTR--
+120304002 Selscheid, Ennëscht   00837  00837                % 02109 RGTR--
+120304003 Selscheid, Roudebësc  00838  00838                % 02109 RGTR--
+120304001 Selscheid, Dirwis     00838  00838                % 02109 RGTR--
+120302003 Eschweiler/Wiltz, Hi  00843  00843                % 02109 RGTR--
+120302001 Eschweiler/Wiltz, Ga  00844  00844                % 02109 RGTR--
+120302002 Eschweiler/Wiltz, Ha  00846  00846                % 02109 RGTR--
+120301002 Erpeldange/Eschweile  00849  00849                % 02109 RGTR--
+120902001 Weidingen, Erpeldang  00850  00850                % 02109 RGTR--
+120903040 Weidingen, Wegdicher  00850  00850                % 02109 RGTR--
+120903041 Wiltz, Wéinebeerig    00851  00851                % 02109 RGTR--
+120903021 Wiltz, Lann           00852  00852                % 02109 RGTR--
+120903023 Wiltz, Lycée du Nord  00855                       % 02109 RGTR--
+*Z 02110 RGTR--                                             % 02110 RGTR--
+*L 642      110103001 120903023  01615  01700               % 02110 RGTR--
+*A gy 110103001 120903023 000045  01615  01700              % 02110 RGTR--
+*A bl 110103001 120903023 000045  01615  01700              % 02110 RGTR--
+*R 2 120903023 110103001 120903023  01615  01700            % 02110 RGTR--
+*G RGB 110103001 120903023  01615  01700                    % 02110 RGTR--
+*A VE 110103001 120903023 000045  01615  01700              % 02110 RGTR--
+*I FD 110103001 120903023        0002288  01615  01700      % 02110 RGTR--
+110103001 Reuler, Centre Scola         01615                % 02110 RGTR--
+110101002 Clervaux, Gare/Lycée  01620  01620                % 02110 RGTR--
+110101004 Clervaux, Maison de   01621  01621                % 02110 RGTR--
+110101009 Clervaux, Place Bene  01622  01622                % 02110 RGTR--
+110101010 Clervaux, Police      01623  01623                % 02110 RGTR--
+120706001 Mecher, Dueref        01626  01626                % 02110 RGTR--
+110105002 Weicherdange, Kierch  01630  01630                % 02110 RGTR--
+110105001 Weicherdange, Café B  01631  01631                % 02110 RGTR--
+110105003 Weicherdange, Kirels  01633  01633                % 02110 RGTR--
+120305001 Kleinhoscheid         01635  01635                % 02110 RGTR--
+120303001 Knaphoscheid, Dahl    01636  01636                % 02110 RGTR--
+120303002 Knaphoscheid, Schent  01637  01637                % 02110 RGTR--
+120303001 Knaphoscheid, Dahl    01639  01639                % 02110 RGTR--
+120304002 Selscheid, Ennëscht   01642  01642                % 02110 RGTR--
+120304003 Selscheid, Roudebësc  01643  01643                % 02110 RGTR--
+120304001 Selscheid, Dirwis     01643  01643                % 02110 RGTR--
+120302003 Eschweiler/Wiltz, Hi  01648  01648                % 02110 RGTR--
+120302001 Eschweiler/Wiltz, Ga  01649  01649                % 02110 RGTR--
+120302002 Eschweiler/Wiltz, Ha  01651  01651                % 02110 RGTR--
+120301002 Erpeldange/Eschweile  01654  01654                % 02110 RGTR--
+120902001 Weidingen, Erpeldang  01655  01655                % 02110 RGTR--
+120903040 Weidingen, Wegdicher  01655  01655                % 02110 RGTR--
+120903041 Wiltz, Wéinebeerig    01656  01656                % 02110 RGTR--
+120903021 Wiltz, Lann           01657  01657                % 02110 RGTR--
+120903023 Wiltz, Lycée du Nord  01700                       % 02110 RGTR--

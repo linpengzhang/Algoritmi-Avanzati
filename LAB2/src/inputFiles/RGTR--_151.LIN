@@ -1,0 +1,443 @@
+*F 03 2
+*Z 08702 RGTR--                                             % 08702 RGTR--
+*L 151      200419021 180801001  01403  01456               % 08702 RGTR--
+*A bi 200419021 180801001 000030  01403  01456              % 08702 RGTR--
+*A ag 200419021 180801001 000030  01403  01456              % 08702 RGTR--
+*A CQ 200419021 180801001 000030  01403  01456              % 08702 RGTR--
+*A mh 200419021 180801001 000030  01403  01456              % 08702 RGTR--
+*A ad 200419021 180801001 000030  01403  01456              % 08702 RGTR--
+*R 1 180801001 200419021 180801001  01403  01456            % 08702 RGTR--
+*G RGB 200419021 180801001  01403  01456                    % 08702 RGTR--
+*A VE 200419021 180801001 000030  01403  01456              % 08702 RGTR--
+*I FD 200419021 180801001        0002413  01403  01456      % 08702 RGTR--
+200419021 Limpertsberg, L.T.C.         01403                % 08702 RGTR--
+200419025 Limpertsberg, Lycée   01407  01407                % 08702 RGTR--
+200601006 Sandweiler, Kontroll  01425  01425                % 08702 RGTR--
+200601004 Sandweiler, Hiel      01425  01425                % 08702 RGTR--
+200601005 Sandweiler, Kiirch    01426  01426                % 08702 RGTR--
+200601010 Sandweiler, Schiltzp  01426  01426                % 08702 RGTR--
+200601007 Sandweiler, Koschter  01427  01427                % 08702 RGTR--
+200204004 Oetrange, Prisong     01429  01429                % 08702 RGTR--
+200204006 Oetrange, Trengen Kn  01430  01430                % 08702 RGTR--
+200204003 Oetrange, Éiter       01433  01433                % 08702 RGTR--
+200204005 Oetrange, Staefeld    01434  01434                % 08702 RGTR--
+210402003 Lenningen, Hakenhaff  01434  01434                % 08702 RGTR--
+210401002 Canach, Huehlgaass    01437  01437                % 08702 RGTR--
+210401006 Canach, Weber         01438  01438                % 08702 RGTR--
+210401004 Canach, Post          01439  01439                % 08702 RGTR--
+210402001 Lenningen, Am Aker    01444  01444                % 08702 RGTR--
+210801003 Greiveldange, Neie W  01446  01446                % 08702 RGTR--
+210801001 Greiveldange, Keller  01447  01447                % 08702 RGTR--
+210802001 Hëttermillen          01448  01448                % 08702 RGTR--
+180802002 Ehnen, Bromelt        01449  01449                % 08702 RGTR--
+180802007 Ehnen, Puddel         01450  01450                % 08702 RGTR--
+180804003 Wormeldange, Gewân    01452  01452                % 08702 RGTR--
+180804002 Wormeldange, Geméen   01452  01452                % 08702 RGTR--
+180804005 Wormeldange, Op der   01454  01454                % 08702 RGTR--
+180804004 Wormeldange, Kellere  01454  01454                % 08702 RGTR--
+180801001 Ahn, Beim Quai        01456                       % 08702 RGTR--
+*Z 08703 RGTR--                                             % 08703 RGTR--
+*L 151      200419021 180801001  01510  01603               % 08703 RGTR--
+*A bi 200419021 180801001 000030  01510  01603              % 08703 RGTR--
+*A ag 200419021 180801001 000030  01510  01603              % 08703 RGTR--
+*A mh 200419021 180801001 000030  01510  01603              % 08703 RGTR--
+*A ad 200419021 180801001 000030  01510  01603              % 08703 RGTR--
+*R 1 180801001 200419021 180801001  01510  01603            % 08703 RGTR--
+*G RGB 200419021 180801001  01510  01603                    % 08703 RGTR--
+*A VE 200419021 180801001 000030  01510  01603              % 08703 RGTR--
+*I FD 200419021 180801001        0001892  01510  01603      % 08703 RGTR--
+200419021 Limpertsberg, L.T.C.         01510                % 08703 RGTR--
+200419025 Limpertsberg, Lycée   01514  01514                % 08703 RGTR--
+200601006 Sandweiler, Kontroll  01532  01532                % 08703 RGTR--
+200601004 Sandweiler, Hiel      01532  01532                % 08703 RGTR--
+200601005 Sandweiler, Kiirch    01533  01533                % 08703 RGTR--
+200601010 Sandweiler, Schiltzp  01533  01533                % 08703 RGTR--
+200601007 Sandweiler, Koschter  01534  01534                % 08703 RGTR--
+200204004 Oetrange, Prisong     01536  01536                % 08703 RGTR--
+200204006 Oetrange, Trengen Kn  01537  01537                % 08703 RGTR--
+200204003 Oetrange, Éiter       01540  01540                % 08703 RGTR--
+200204005 Oetrange, Staefeld    01541  01541                % 08703 RGTR--
+210402003 Lenningen, Hakenhaff  01541  01541                % 08703 RGTR--
+210401002 Canach, Huehlgaass    01544  01544                % 08703 RGTR--
+210401006 Canach, Weber         01545  01545                % 08703 RGTR--
+210401004 Canach, Post          01546  01546                % 08703 RGTR--
+210402001 Lenningen, Am Aker    01551  01551                % 08703 RGTR--
+210801003 Greiveldange, Neie W  01553  01553                % 08703 RGTR--
+210801001 Greiveldange, Keller  01554  01554                % 08703 RGTR--
+210802001 Hëttermillen          01555  01555                % 08703 RGTR--
+180802002 Ehnen, Bromelt        01556  01556                % 08703 RGTR--
+180802007 Ehnen, Puddel         01557  01557                % 08703 RGTR--
+180804003 Wormeldange, Gewân    01559  01559                % 08703 RGTR--
+180804002 Wormeldange, Geméen   01559  01559                % 08703 RGTR--
+180804005 Wormeldange, Op der   01601  01601                % 08703 RGTR--
+180804004 Wormeldange, Kellere  01601  01601                % 08703 RGTR--
+180801001 Ahn, Beim Quai        01603                       % 08703 RGTR--
+*Z 08704 RGTR--                                             % 08704 RGTR--
+*L 151      200419021 180801001  01145  01238               % 08704 RGTR--
+*A bi 200419021 180801001 000042  01145  01238              % 08704 RGTR--
+*A ag 200419021 180801001 000042  01145  01238              % 08704 RGTR--
+*A mh 200419021 180801001 000042  01145  01238              % 08704 RGTR--
+*A ad 200419021 180801001 000042  01145  01238              % 08704 RGTR--
+*R 1 180801001 200419021 180801001  01145  01238            % 08704 RGTR--
+*G RGB 200419021 180801001  01145  01238                    % 08704 RGTR--
+*A VE 200419021 180801001 000042  01145  01238              % 08704 RGTR--
+*I FD 200419021 180801001        0002414  01145  01238      % 08704 RGTR--
+200419021 Limpertsberg, L.T.C.         01145                % 08704 RGTR--
+200419025 Limpertsberg, Lycée   01149  01149                % 08704 RGTR--
+200601006 Sandweiler, Kontroll  01207  01207                % 08704 RGTR--
+200601004 Sandweiler, Hiel      01207  01207                % 08704 RGTR--
+200601005 Sandweiler, Kiirch    01208  01208                % 08704 RGTR--
+200601010 Sandweiler, Schiltzp  01208  01208                % 08704 RGTR--
+200601007 Sandweiler, Koschter  01209  01209                % 08704 RGTR--
+200204004 Oetrange, Prisong     01211  01211                % 08704 RGTR--
+200204006 Oetrange, Trengen Kn  01212  01212                % 08704 RGTR--
+200204003 Oetrange, Éiter       01215  01215                % 08704 RGTR--
+200204005 Oetrange, Staefeld    01216  01216                % 08704 RGTR--
+210402003 Lenningen, Hakenhaff  01216  01216                % 08704 RGTR--
+210401002 Canach, Huehlgaass    01219  01219                % 08704 RGTR--
+210401006 Canach, Weber         01220  01220                % 08704 RGTR--
+210401004 Canach, Post          01221  01221                % 08704 RGTR--
+210402001 Lenningen, Am Aker    01226  01226                % 08704 RGTR--
+210801003 Greiveldange, Neie W  01228  01228                % 08704 RGTR--
+210801001 Greiveldange, Keller  01229  01229                % 08704 RGTR--
+210802001 Hëttermillen          01230  01230                % 08704 RGTR--
+180802002 Ehnen, Bromelt        01231  01231                % 08704 RGTR--
+180802007 Ehnen, Puddel         01232  01232                % 08704 RGTR--
+180804003 Wormeldange, Gewân    01234  01234                % 08704 RGTR--
+180804002 Wormeldange, Geméen   01234  01234                % 08704 RGTR--
+180804005 Wormeldange, Op der   01236  01236                % 08704 RGTR--
+180804004 Wormeldange, Kellere  01236  01236                % 08704 RGTR--
+180801001 Ahn, Beim Quai        01238                       % 08704 RGTR--
+*Z 08705 RGTR--                                             % 08705 RGTR--
+*L 151      200419021 180801001  01535  01628               % 08705 RGTR--
+*A bi 200419021 180801001 000045  01535  01628              % 08705 RGTR--
+*A ag 200419021 180801001 000045  01535  01628              % 08705 RGTR--
+*A CQ 200419021 180801001 000045  01535  01628              % 08705 RGTR--
+*A mh 200419021 180801001 000045  01535  01628              % 08705 RGTR--
+*A ad 200419021 180801001 000045  01535  01628              % 08705 RGTR--
+*R 1 180801001 200419021 180801001  01535  01628            % 08705 RGTR--
+*G RGB 200419021 180801001  01535  01628                    % 08705 RGTR--
+*A VE 200419021 180801001 000045  01535  01628              % 08705 RGTR--
+*I FD 200419021 180801001        0001336  01535  01628      % 08705 RGTR--
+200419021 Limpertsberg, L.T.C.         01535                % 08705 RGTR--
+200419025 Limpertsberg, Lycée   01539  01539                % 08705 RGTR--
+200601006 Sandweiler, Kontroll  01557  01557                % 08705 RGTR--
+200601004 Sandweiler, Hiel      01557  01557                % 08705 RGTR--
+200601005 Sandweiler, Kiirch    01558  01558                % 08705 RGTR--
+200601010 Sandweiler, Schiltzp  01558  01558                % 08705 RGTR--
+200601007 Sandweiler, Koschter  01559  01559                % 08705 RGTR--
+200204004 Oetrange, Prisong     01601  01601                % 08705 RGTR--
+200204006 Oetrange, Trengen Kn  01602  01602                % 08705 RGTR--
+200204003 Oetrange, Éiter       01605  01605                % 08705 RGTR--
+200204005 Oetrange, Staefeld    01606  01606                % 08705 RGTR--
+210402003 Lenningen, Hakenhaff  01606  01606                % 08705 RGTR--
+210401002 Canach, Huehlgaass    01609  01609                % 08705 RGTR--
+210401006 Canach, Weber         01610  01610                % 08705 RGTR--
+210401004 Canach, Post          01611  01611                % 08705 RGTR--
+210402001 Lenningen, Am Aker    01616  01616                % 08705 RGTR--
+210801003 Greiveldange, Neie W  01618  01618                % 08705 RGTR--
+210801001 Greiveldange, Keller  01619  01619                % 08705 RGTR--
+210802001 Hëttermillen          01620  01620                % 08705 RGTR--
+180802002 Ehnen, Bromelt        01621  01621                % 08705 RGTR--
+180802007 Ehnen, Puddel         01622  01622                % 08705 RGTR--
+180804003 Wormeldange, Gewân    01624  01624                % 08705 RGTR--
+180804002 Wormeldange, Geméen   01624  01624                % 08705 RGTR--
+180804005 Wormeldange, Op der   01626  01626                % 08705 RGTR--
+180804004 Wormeldange, Kellere  01626  01626                % 08705 RGTR--
+180801001 Ahn, Beim Quai        01628                       % 08705 RGTR--
+*Z 08706 RGTR--                                             % 08706 RGTR--
+*L 151      200420006 180801001  01425  01511               % 08706 RGTR--
+*A ag 200420006 180801001 000030  01425  01511              % 08706 RGTR--
+*A mh 200420006 180801001 000030  01425  01511              % 08706 RGTR--
+*A ad 200420006 180801001 000030  01425  01511              % 08706 RGTR--
+*R 1 180801001 200420006 180801001  01425  01511            % 08706 RGTR--
+*G RGB 200420006 180801001  01425  01511                    % 08706 RGTR--
+*A VE 200420006 180801001 000030  01425  01511              % 08706 RGTR--
+*I FD 200420006 180801001        0002030  01425  01511      % 08706 RGTR--
+200420006 Merl, Geesseknäppche         01425                % 08706 RGTR--
+200601006 Sandweiler, Kontroll  01439  01439                % 08706 RGTR--
+200601004 Sandweiler, Hiel      01440  01440                % 08706 RGTR--
+200601005 Sandweiler, Kiirch    01441  01441                % 08706 RGTR--
+200601010 Sandweiler, Schiltzp  01441  01441                % 08706 RGTR--
+200601007 Sandweiler, Koschter  01442  01442                % 08706 RGTR--
+200204004 Oetrange, Prisong     01444  01444                % 08706 RGTR--
+200204006 Oetrange, Trengen Kn  01445  01445                % 08706 RGTR--
+200204003 Oetrange, Éiter       01448  01448                % 08706 RGTR--
+200204005 Oetrange, Staefeld    01448  01448                % 08706 RGTR--
+210402003 Lenningen, Hakenhaff  01449  01449                % 08706 RGTR--
+210401002 Canach, Huehlgaass    01452  01452                % 08706 RGTR--
+210401006 Canach, Weber         01453  01453                % 08706 RGTR--
+210401004 Canach, Post          01454  01454                % 08706 RGTR--
+210402001 Lenningen, Am Aker    01459  01459                % 08706 RGTR--
+210801003 Greiveldange, Neie W  01501  01501                % 08706 RGTR--
+210801001 Greiveldange, Keller  01501  01501                % 08706 RGTR--
+210802001 Hëttermillen          01502  01502                % 08706 RGTR--
+180802002 Ehnen, Bromelt        01504  01504                % 08706 RGTR--
+180802007 Ehnen, Puddel         01505  01505                % 08706 RGTR--
+180804003 Wormeldange, Gewân    01507  01507                % 08706 RGTR--
+180804002 Wormeldange, Geméen   01507  01507                % 08706 RGTR--
+180804005 Wormeldange, Op der   01508  01508                % 08706 RGTR--
+180804004 Wormeldange, Kellere  01509  01509                % 08706 RGTR--
+180801001 Ahn, Beim Quai        01511                       % 08706 RGTR--
+*Z 08707 RGTR--                                             % 08707 RGTR--
+*L 151      200420006 180801001  01250  01336               % 08707 RGTR--
+*A ag 200420006 180801001 000042  01250  01336              % 08707 RGTR--
+*A mh 200420006 180801001 000042  01250  01336              % 08707 RGTR--
+*A ad 200420006 180801001 000042  01250  01336              % 08707 RGTR--
+*R 1 180801001 200420006 180801001  01250  01336            % 08707 RGTR--
+*G RGB 200420006 180801001  01250  01336                    % 08707 RGTR--
+*A VE 200420006 180801001 000042  01250  01336              % 08707 RGTR--
+*I FD 200420006 180801001        0001885  01250  01336      % 08707 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 08707 RGTR--
+200601006 Sandweiler, Kontroll  01304  01304                % 08707 RGTR--
+200601004 Sandweiler, Hiel      01305  01305                % 08707 RGTR--
+200601005 Sandweiler, Kiirch    01306  01306                % 08707 RGTR--
+200601010 Sandweiler, Schiltzp  01306  01306                % 08707 RGTR--
+200601007 Sandweiler, Koschter  01307  01307                % 08707 RGTR--
+200204004 Oetrange, Prisong     01309  01309                % 08707 RGTR--
+200204006 Oetrange, Trengen Kn  01310  01310                % 08707 RGTR--
+200204003 Oetrange, Éiter       01313  01313                % 08707 RGTR--
+200204005 Oetrange, Staefeld    01313  01313                % 08707 RGTR--
+210402003 Lenningen, Hakenhaff  01314  01314                % 08707 RGTR--
+210401002 Canach, Huehlgaass    01317  01317                % 08707 RGTR--
+210401006 Canach, Weber         01318  01318                % 08707 RGTR--
+210401004 Canach, Post          01319  01319                % 08707 RGTR--
+210402001 Lenningen, Am Aker    01324  01324                % 08707 RGTR--
+210801003 Greiveldange, Neie W  01326  01326                % 08707 RGTR--
+210801001 Greiveldange, Keller  01326  01326                % 08707 RGTR--
+210802001 Hëttermillen          01327  01327                % 08707 RGTR--
+180802002 Ehnen, Bromelt        01329  01329                % 08707 RGTR--
+180802007 Ehnen, Puddel         01330  01330                % 08707 RGTR--
+180804003 Wormeldange, Gewân    01332  01332                % 08707 RGTR--
+180804002 Wormeldange, Geméen   01332  01332                % 08707 RGTR--
+180804005 Wormeldange, Op der   01333  01333                % 08707 RGTR--
+180804004 Wormeldange, Kellere  01334  01334                % 08707 RGTR--
+180801001 Ahn, Beim Quai        01336                       % 08707 RGTR--
+*Z 08708 RGTR--                                             % 08708 RGTR--
+*L 151      200420006 180801001  01550  01636               % 08708 RGTR--
+*A ag 200420006 180801001 000045  01550  01636              % 08708 RGTR--
+*A mh 200420006 180801001 000045  01550  01636              % 08708 RGTR--
+*A ad 200420006 180801001 000045  01550  01636              % 08708 RGTR--
+*R 1 180801001 200420006 180801001  01550  01636            % 08708 RGTR--
+*G RGB 200420006 180801001  01550  01636                    % 08708 RGTR--
+*A VE 200420006 180801001 000045  01550  01636              % 08708 RGTR--
+*I FD 200420006 180801001        0001894  01550  01636      % 08708 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 08708 RGTR--
+200601006 Sandweiler, Kontroll  01604  01604                % 08708 RGTR--
+200601004 Sandweiler, Hiel      01605  01605                % 08708 RGTR--
+200601005 Sandweiler, Kiirch    01606  01606                % 08708 RGTR--
+200601010 Sandweiler, Schiltzp  01606  01606                % 08708 RGTR--
+200601007 Sandweiler, Koschter  01607  01607                % 08708 RGTR--
+200204004 Oetrange, Prisong     01609  01609                % 08708 RGTR--
+200204006 Oetrange, Trengen Kn  01610  01610                % 08708 RGTR--
+200204003 Oetrange, Éiter       01613  01613                % 08708 RGTR--
+200204005 Oetrange, Staefeld    01613  01613                % 08708 RGTR--
+210402003 Lenningen, Hakenhaff  01614  01614                % 08708 RGTR--
+210401002 Canach, Huehlgaass    01617  01617                % 08708 RGTR--
+210401006 Canach, Weber         01618  01618                % 08708 RGTR--
+210401004 Canach, Post          01619  01619                % 08708 RGTR--
+210402001 Lenningen, Am Aker    01624  01624                % 08708 RGTR--
+210801003 Greiveldange, Neie W  01626  01626                % 08708 RGTR--
+210801001 Greiveldange, Keller  01626  01626                % 08708 RGTR--
+210802001 Hëttermillen          01627  01627                % 08708 RGTR--
+180802002 Ehnen, Bromelt        01629  01629                % 08708 RGTR--
+180802007 Ehnen, Puddel         01630  01630                % 08708 RGTR--
+180804003 Wormeldange, Gewân    01632  01632                % 08708 RGTR--
+180804002 Wormeldange, Geméen   01632  01632                % 08708 RGTR--
+180804005 Wormeldange, Op der   01633  01633                % 08708 RGTR--
+180804004 Wormeldange, Kellere  01634  01634                % 08708 RGTR--
+180801001 Ahn, Beim Quai        01636                       % 08708 RGTR--
+*Z 08709 RGTR--                                             % 08709 RGTR--
+*L 151      200419021 200601001  01403  01429               % 08709 RGTR--
+*A ag 200419021 200601001 000030  01403  01429              % 08709 RGTR--
+*A oj 200419021 200601001 000030  01403  01429              % 08709 RGTR--
+*A ad 200419021 200601001 000030  01403  01429              % 08709 RGTR--
+*R 1 200601001 200419021 200601001  01403  01429            % 08709 RGTR--
+*G RGB 200419021 200601001  01403  01429                    % 08709 RGTR--
+*A VE 200419021 200601001 000030  01403  01429              % 08709 RGTR--
+*I FD 200419021 200601001        0003706  01403  01429      % 08709 RGTR--
+200419021 Limpertsberg, L.T.C.         01403                % 08709 RGTR--
+200419025 Limpertsberg, Lycée   01407  01407                % 08709 RGTR--
+200601006 Sandweiler, Kontroll  01425  01425                % 08709 RGTR--
+200601004 Sandweiler, Hiel      01425  01425                % 08709 RGTR--
+200601005 Sandweiler, Kiirch    01426  01426                % 08709 RGTR--
+200601010 Sandweiler, Schiltzp  01426  01426                % 08709 RGTR--
+200601008 Sandweiler, Rue d'Oe  01427  01427                % 08709 RGTR--
+200601001 Sandweiler, Am Eck    01429                       % 08709 RGTR--
+*Z 08710 RGTR--                                             % 08710 RGTR--
+*L 151      200601001 200419021  00712  00737               % 08710 RGTR--
+*A bi 200601001 200419021 000030  00712  00737              % 08710 RGTR--
+*A ag 200601001 200419021 000030  00712  00737              % 08710 RGTR--
+*A dc 200601001 200419021 000030  00712  00737              % 08710 RGTR--
+*A ad 200601001 200419021 000030  00712  00737              % 08710 RGTR--
+*R 2 200419021 200601001 200419021  00712  00737            % 08710 RGTR--
+*G RGB 200601001 200419021  00712  00737                    % 08710 RGTR--
+*A VE 200601001 200419021 000030  00712  00737              % 08710 RGTR--
+*I FD 200601001 200419021        0002702  00712  00737      % 08710 RGTR--
+200601001 Sandweiler, Am Eck           00712                % 08710 RGTR--
+200601012 Sandweiler, rue d'It  00712  00712                % 08710 RGTR--
+200601002 Sandweiler, Apdikt    00713  00713                % 08710 RGTR--
+200601008 Sandweiler, Rue d'Oe  00714  00714                % 08710 RGTR--
+200601010 Sandweiler, Schiltzp  00715  00715                % 08710 RGTR--
+200601005 Sandweiler, Kiirch    00716  00716                % 08710 RGTR--
+200601014 Sandweiler, Kapelleb  00716  00716                % 08710 RGTR--
+200419026 Limpertsberg, Theate  00730  00730                % 08710 RGTR--
+200419025 Limpertsberg, Lycée   00733  00733                % 08710 RGTR--
+200419021 Limpertsberg, L.T.C.  00737                       % 08710 RGTR--
+*Z 00075 RGTR--                                             % 00075 RGTR--
+*L 151      200405013 200419021  00739  00752               % 00075 RGTR--
+*A ag 200405013 200419021 000030  00739  00752              % 00075 RGTR--
+*A dc 200405013 200419021 000030  00739  00752              % 00075 RGTR--
+*A ad 200405013 200419021 000030  00739  00752              % 00075 RGTR--
+*R 2 200419021 200405013 200419021  00739  00752            % 00075 RGTR--
+*G RGB 200405013 200419021  00739  00752                    % 00075 RGTR--
+*A VE 200405013 200419021 000030  00739  00752              % 00075 RGTR--
+*I FD 200405013 200419021        0003413  00739  00752      % 00075 RGTR--
+200405013 Centre, F.D. Rooseve         00739                % 00075 RGTR--
+200405020 Hamilius              00741  00741                % 00075 RGTR--
+200419026 Limpertsberg, Theate  00745  00745                % 00075 RGTR--
+200419025 Limpertsberg, Lycée   00748  00748                % 00075 RGTR--
+200419021 Limpertsberg, L.T.C.  00752                       % 00075 RGTR--
+*Z 08711 RGTR--                                             % 08711 RGTR--
+*L 151      210802001 200419021  00656  00746               % 08711 RGTR--
+*A ag 210802001 200419021 000030  00656  00746              % 08711 RGTR--
+*A dc 210802001 200419021 000030  00656  00746              % 08711 RGTR--
+*A ad 210802001 200419021 000030  00656  00746              % 08711 RGTR--
+*R 2 200419021 210802001 200419021  00656  00746            % 08711 RGTR--
+*G RGB 210802001 200419021  00656  00746                    % 08711 RGTR--
+*A VE 210802001 200419021 000030  00656  00746              % 08711 RGTR--
+*I FD 210802001 200419021        0002574  00656  00746      % 08711 RGTR--
+210802001 Hëttermillen                 00656                % 08711 RGTR--
+210801001 Greiveldange, Keller  00656  00656                % 08711 RGTR--
+210801003 Greiveldange, Neie W  00657  00657                % 08711 RGTR--
+210801005 Greiveldange, Schoul  00658  00658                % 08711 RGTR--
+210401004 Canach, Post          00703  00703                % 08711 RGTR--
+210401006 Canach, Weber         00704  00704                % 08711 RGTR--
+210401002 Canach, Huehlgaass    00705  00705                % 08711 RGTR--
+210402003 Lenningen, Hakenhaff  00709  00709                % 08711 RGTR--
+200204005 Oetrange, Staefeld    00711  00711                % 08711 RGTR--
+200204003 Oetrange, Éiter       00712  00712                % 08711 RGTR--
+200204006 Oetrange, Trengen Kn  00714  00714                % 08711 RGTR--
+200204004 Oetrange, Prisong     00717  00717                % 08711 RGTR--
+200601007 Sandweiler, Koschter  00719  00719                % 08711 RGTR--
+200601010 Sandweiler, Schiltzp  00720  00720                % 08711 RGTR--
+200601005 Sandweiler, Kiirch    00721  00721                % 08711 RGTR--
+200601014 Sandweiler, Kapelleb  00721  00721                % 08711 RGTR--
+200601006 Sandweiler, Kontroll  00722  00722                % 08711 RGTR--
+200404030 Verlorenkost, Généra  00728  00728                % 08711 RGTR--
+200404001 Verlorenkost, Al Mol  00730  00730                % 08711 RGTR--
+200405013 Centre, F.D. Rooseve  00733  00733                % 08711 RGTR--
+200405020 Hamilius              00736  00736                % 08711 RGTR--
+200405014 Centre, Fondation Pe  00738  00738                % 08711 RGTR--
+200419026 Limpertsberg, Theate  00740  00740                % 08711 RGTR--
+200419025 Limpertsberg, Lycée   00742  00742                % 08711 RGTR--
+200419021 Limpertsberg, L.T.C.  00746                       % 08711 RGTR--
+*Z 08712 RGTR--                                             % 08712 RGTR--
+*L 151      210401006 200419021  00701  00743               % 08712 RGTR--
+*A ag 210401006 200419021 000030  00701  00743              % 08712 RGTR--
+*A dc 210401006 200419021 000030  00701  00743              % 08712 RGTR--
+*A ad 210401006 200419021 000030  00701  00743              % 08712 RGTR--
+*R 2 200419021 210401006 200419021  00701  00743            % 08712 RGTR--
+*G RGB 210401006 200419021  00701  00743                    % 08712 RGTR--
+*A VE 210401006 200419021 000030  00701  00743              % 08712 RGTR--
+*I FD 210401006 200419021        0002220  00701  00743      % 08712 RGTR--
+210401006 Canach, Weber                00701                % 08712 RGTR--
+210401002 Canach, Huehlgaass    00702  00702                % 08712 RGTR--
+210402003 Lenningen, Hakenhaff  00706  00706                % 08712 RGTR--
+200204005 Oetrange, Staefeld    00707  00707                % 08712 RGTR--
+200204003 Oetrange, Éiter       00709  00709                % 08712 RGTR--
+200204006 Oetrange, Trengen Kn  00711  00711                % 08712 RGTR--
+200204004 Oetrange, Prisong     00713  00713                % 08712 RGTR--
+200601007 Sandweiler, Koschter  00716  00716                % 08712 RGTR--
+200601010 Sandweiler, Schiltzp  00717  00717                % 08712 RGTR--
+200601005 Sandweiler, Kiirch    00717  00717                % 08712 RGTR--
+200601014 Sandweiler, Kapelleb  00718  00718                % 08712 RGTR--
+200601006 Sandweiler, Kontroll  00718  00718                % 08712 RGTR--
+200404030 Verlorenkost, Généra  00725  00725                % 08712 RGTR--
+200404001 Verlorenkost, Al Mol  00726  00726                % 08712 RGTR--
+200405013 Centre, F.D. Rooseve  00730  00730                % 08712 RGTR--
+200405020 Hamilius              00732  00732                % 08712 RGTR--
+200419026 Limpertsberg, Theate  00736  00736                % 08712 RGTR--
+200419025 Limpertsberg, Lycée   00739  00739                % 08712 RGTR--
+200419021 Limpertsberg, L.T.C.  00743                       % 08712 RGTR--
+*Z 08713 RGTR--                                             % 08713 RGTR--
+*L 151      180802002 200420006  00658  00744               % 08713 RGTR--
+*A ag 180802002 200420006 000030  00658  00744              % 08713 RGTR--
+*A hs 180802002 200420006 000030  00658  00744              % 08713 RGTR--
+*A ad 180802002 200420006 000030  00658  00744              % 08713 RGTR--
+*R 2 200420006 180802002 200420006  00658  00744            % 08713 RGTR--
+*G RGB 180802002 200420006  00658  00744                    % 08713 RGTR--
+*A VE 180802002 200420006 000030  00658  00744              % 08713 RGTR--
+*I FD 180802002 200420006        0002437  00658  00744      % 08713 RGTR--
+180802002 Ehnen, Bromelt               00658                % 08713 RGTR--
+210802001 Hëttermillen          00659  00659                % 08713 RGTR--
+210801001 Greiveldange, Keller  00700  00700                % 08713 RGTR--
+210801003 Greiveldange, Neie W  00700  00700                % 08713 RGTR--
+210801005 Greiveldange, Schoul  00701  00701                % 08713 RGTR--
+210401004 Canach, Post          00706  00706                % 08713 RGTR--
+210401006 Canach, Weber         00707  00707                % 08713 RGTR--
+210401002 Canach, Huehlgaass    00708  00708                % 08713 RGTR--
+210402003 Lenningen, Hakenhaff  00713  00713                % 08713 RGTR--
+200204005 Oetrange, Staefeld    00714  00714                % 08713 RGTR--
+200204003 Oetrange, Éiter       00715  00715                % 08713 RGTR--
+200204006 Oetrange, Trengen Kn  00717  00717                % 08713 RGTR--
+200204004 Oetrange, Prisong     00720  00720                % 08713 RGTR--
+200601007 Sandweiler, Koschter  00723  00723                % 08713 RGTR--
+200601010 Sandweiler, Schiltzp  00723  00723                % 08713 RGTR--
+200601005 Sandweiler, Kiirch    00724  00724                % 08713 RGTR--
+200601014 Sandweiler, Kapelleb  00725  00725                % 08713 RGTR--
+200601006 Sandweiler, Kontroll  00725  00725                % 08713 RGTR--
+200420006 Merl, Geesseknäppche  00744                       % 08713 RGTR--
+*Z 08714 RGTR--                                             % 08714 RGTR--
+*L 151      180801001 200420006  00650  00741               % 08714 RGTR--
+*A ag 180801001 200420006 000030  00650  00741              % 08714 RGTR--
+*A hs 180801001 200420006 000030  00650  00741              % 08714 RGTR--
+*A ad 180801001 200420006 000030  00650  00741              % 08714 RGTR--
+*R 2 200420006 180801001 200420006  00650  00741            % 08714 RGTR--
+*G RGB 180801001 200420006  00650  00741                    % 08714 RGTR--
+*A VE 180801001 200420006 000030  00650  00741              % 08714 RGTR--
+*I FD 180801001 200420006        0002154  00650  00741      % 08714 RGTR--
+180801001 Ahn, Beim Quai               00650                % 08714 RGTR--
+180804004 Wormeldange, Kellere  00651  00651                % 08714 RGTR--
+180804001 Wormeldange, Erdkaul  00652  00652                % 08714 RGTR--
+180804002 Wormeldange, Geméen   00653  00653                % 08714 RGTR--
+180804003 Wormeldange, Gewân    00654  00654                % 08714 RGTR--
+180802003 Ehnen, Ieselsbreck    00655  00655                % 08714 RGTR--
+180802001 Ehnen, An den Aessen  00656  00656                % 08714 RGTR--
+210402002 Lenningen, Basilika   00658  00658                % 08714 RGTR--
+210401004 Canach, Post          00703  00703                % 08714 RGTR--
+210401006 Canach, Weber         00704  00704                % 08714 RGTR--
+210401002 Canach, Huehlgaass    00705  00705                % 08714 RGTR--
+210402003 Lenningen, Hakenhaff  00709  00709                % 08714 RGTR--
+200204005 Oetrange, Staefeld    00710  00710                % 08714 RGTR--
+200204003 Oetrange, Éiter       00712  00712                % 08714 RGTR--
+200204006 Oetrange, Trengen Kn  00714  00714                % 08714 RGTR--
+200204004 Oetrange, Prisong     00716  00716                % 08714 RGTR--
+200601007 Sandweiler, Koschter  00719  00719                % 08714 RGTR--
+200601010 Sandweiler, Schiltzp  00720  00720                % 08714 RGTR--
+200601005 Sandweiler, Kiirch    00720  00720                % 08714 RGTR--
+200601014 Sandweiler, Kapelleb  00721  00721                % 08714 RGTR--
+200601006 Sandweiler, Kontroll  00722  00722                % 08714 RGTR--
+200420006 Merl, Geesseknäppche  00741                       % 08714 RGTR--
+*Z 08715 RGTR--                                             % 08715 RGTR--
+*L 151      180804006 200419021  00650  00736               % 08715 RGTR--
+*A ag 180804006 200419021 000030  00650  00736              % 08715 RGTR--
+*A dc 180804006 200419021 000030  00650  00736              % 08715 RGTR--
+*A ad 180804006 200419021 000030  00650  00736              % 08715 RGTR--
+*R 2 200419021 180804006 200419021  00650  00736            % 08715 RGTR--
+*G RGB 180804006 200419021  00650  00736                    % 08715 RGTR--
+*A VE 180804006 200419021 000030  00650  00736              % 08715 RGTR--
+*I FD 180804006 200419021        0002898  00650  00736      % 08715 RGTR--
+180804006 Wormeldange/Haut, Hi         00650                % 08715 RGTR--
+180804007 Wormeldange/Haut, Kö  00650  00650                % 08715 RGTR--
+180802006 Ehnen, Lehboesch 2    00653  00653                % 08715 RGTR--
+180802004 Ehnen, Lehboesch      00654  00654                % 08715 RGTR--
+210402002 Lenningen, Basilika   00657  00657                % 08715 RGTR--
+200404030 Verlorenkost, Généra  00718  00718                % 08715 RGTR--
+200404001 Verlorenkost, Al Mol  00719  00719                % 08715 RGTR--
+200405013 Centre, F.D. Rooseve  00722  00722                % 08715 RGTR--
+200405020 Hamilius              00725  00725                % 08715 RGTR--
+200405014 Centre, Fondation Pe  00727  00727                % 08715 RGTR--
+200419026 Limpertsberg, Theate  00729  00729                % 08715 RGTR--
+200419025 Limpertsberg, Lycée   00732  00732                % 08715 RGTR--
+200419021 Limpertsberg, L.T.C.  00736                       % 08715 RGTR--

@@ -1,0 +1,683 @@
+*F 03 2
+*Z 08591 RGTR--                                             % 08591 RGTR--
+*L 552      140401009 110201001  01558  01635               % 08591 RGTR--
+*A jc 140401009 110201001 000006  01558  01635              % 08591 RGTR--
+*A KK 140401009 110201001 000006  01558  01635              % 08591 RGTR--
+*A rd 140401009 110201001 000006  01558  01635              % 08591 RGTR--
+*R 1 110201001 140401009 110201001  01558  01635            % 08591 RGTR--
+*G RGB 140401009 110201001  01558  01635                    % 08591 RGTR--
+*A VE 140401009 110201001 000006  01558  01635              % 08591 RGTR--
+*I FD 140401009 110201001        0002011  01558  01635      % 08591 RGTR--
+140401009 Diekirch, Neie Kolle         01558                % 08591 RGTR--
+140401006 Diekirch, Kluuster    01603  01603                % 08591 RGTR--
+140401004 Diekirch, Gare        01605  01605                % 08591 RGTR--
+140401008 Diekirch, Lorentzwue  01607  01607                % 08591 RGTR--
+140603002 Ingeldorf, Café de l  01609  01609                % 08591 RGTR--
+140602006 Erpeldange/Sûre, Lad  01610  01610                % 08591 RGTR--
+140602001 Erpeldange/Sûre, An   01611  01611                % 08591 RGTR--
+140602007 Erpeldange/Sûre, Bei  01611  01611                % 08591 RGTR--
+140602005 Erpeldange/Ettelbruc  01612  01612                % 08591 RGTR--
+140602004 Erpeldange/Ettelbruc  01613  01613                % 08591 RGTR--
+140402001 Fridhaff              01617  01617                % 08591 RGTR--
+140902001 Hoscheid-Dickt, Um P  01626  01626                % 08591 RGTR--
+140902002 Hoscheid-Dickt, Um W  01627  01627                % 08591 RGTR--
+110203001 Ennert Schinker       01628  01628                % 08591 RGTR--
+110203002 Schinker, Um Rank     01629  01629                % 08591 RGTR--
+110202004 Holzthum, Ferme Thev  01630  01630                % 08591 RGTR--
+110202003 Holzthum, Kiirfecht   01631  01631                % 08591 RGTR--
+110202002 Holzthum, Bei der Ki  01631  01631                % 08591 RGTR--
+110202001 Holzthum, Op der Hoe  01632  01632                % 08591 RGTR--
+110201002 Consthum, Kémel       01634  01634                % 08591 RGTR--
+110201003 Consthum, Knupp       01635  01635                % 08591 RGTR--
+110201001 Consthum, Ennescht D  01635                       % 08591 RGTR--
+*Z 08592 RGTR--                                             % 08592 RGTR--
+*L 552      140401009 110201001  01158  01234               % 08592 RGTR--
+*A jc 140401009 110201001 000006  01158  01234              % 08592 RGTR--
+*A KK 140401009 110201001 000006  01158  01234              % 08592 RGTR--
+*A rd 140401009 110201001 000006  01158  01234              % 08592 RGTR--
+*R 1 110201001 140401009 110201001  01158  01234            % 08592 RGTR--
+*G RGB 140401009 110201001  01158  01234                    % 08592 RGTR--
+*A VE 140401009 110201001 000006  01158  01234              % 08592 RGTR--
+*I FD 140401009 110201001        0002007  01158  01234      % 08592 RGTR--
+140401009 Diekirch, Neie Kolle         01158                % 08592 RGTR--
+140401006 Diekirch, Kluuster    01202  01202                % 08592 RGTR--
+140401004 Diekirch, Gare        01204  01204                % 08592 RGTR--
+140401008 Diekirch, Lorentzwue  01206  01206                % 08592 RGTR--
+140603002 Ingeldorf, Café de l  01207  01207                % 08592 RGTR--
+140602006 Erpeldange/Sûre, Lad  01208  01208                % 08592 RGTR--
+140602001 Erpeldange/Sûre, An   01209  01209                % 08592 RGTR--
+140602007 Erpeldange/Sûre, Bei  01210  01210                % 08592 RGTR--
+140602005 Erpeldange/Ettelbruc  01210  01210                % 08592 RGTR--
+140602004 Erpeldange/Ettelbruc  01211  01211                % 08592 RGTR--
+140402001 Fridhaff              01215  01215                % 08592 RGTR--
+140902001 Hoscheid-Dickt, Um P  01224  01224                % 08592 RGTR--
+140902002 Hoscheid-Dickt, Um W  01225  01225                % 08592 RGTR--
+110203001 Ennert Schinker       01226  01226                % 08592 RGTR--
+110203002 Schinker, Um Rank     01227  01227                % 08592 RGTR--
+110202004 Holzthum, Ferme Thev  01228  01228                % 08592 RGTR--
+110202003 Holzthum, Kiirfecht   01229  01229                % 08592 RGTR--
+110202002 Holzthum, Bei der Ki  01229  01229                % 08592 RGTR--
+110202001 Holzthum, Op der Hoe  01230  01230                % 08592 RGTR--
+110201002 Consthum, Kémel       01232  01232                % 08592 RGTR--
+110201003 Consthum, Knupp       01233  01233                % 08592 RGTR--
+110201001 Consthum, Ennescht D  01234                       % 08592 RGTR--
+*Z 08593 RGTR--                                             % 08593 RGTR--
+*L 552      140701016 110201001  00848  00915               % 08593 RGTR--
+*A jc 140701016 110201001 000006  00848  00915              % 08593 RGTR--
+*A rd 140701016 110201001 000006  00848  00915              % 08593 RGTR--
+*R 1 110201001 140701016 110201001  00848  00915            % 08593 RGTR--
+*G RGB 140701016 110201001  00848  00915                    % 08593 RGTR--
+*A VE 140701016 110201001 000006  00848  00915              % 08593 RGTR--
+*I FD 140701016 110201001        0002662  00848  00915      % 08593 RGTR--
+140701016 Ettelbruck, Gare             00848                % 08593 RGTR--
+140602002 Erpeldange/Sûre, Bei  00850  00850                % 08593 RGTR--
+140602007 Erpeldange/Sûre, Bei  00851  00851                % 08593 RGTR--
+140602005 Erpeldange/Ettelbruc  00851  00851                % 08593 RGTR--
+140602004 Erpeldange/Ettelbruc  00852  00852                % 08593 RGTR--
+140402001 Fridhaff              00856  00856                % 08593 RGTR--
+140902001 Hoscheid-Dickt, Um P  00905  00905                % 08593 RGTR--
+140902002 Hoscheid-Dickt, Um W  00906  00906                % 08593 RGTR--
+110203001 Ennert Schinker       00908  00908                % 08593 RGTR--
+110203002 Schinker, Um Rank     00909  00909                % 08593 RGTR--
+110202004 Holzthum, Ferme Thev  00909  00909                % 08593 RGTR--
+110202003 Holzthum, Kiirfecht   00910  00910                % 08593 RGTR--
+110202002 Holzthum, Bei der Ki  00911  00911                % 08593 RGTR--
+110202001 Holzthum, Op der Hoe  00911  00911                % 08593 RGTR--
+110201002 Consthum, Kémel       00913  00913                % 08593 RGTR--
+110201003 Consthum, Knupp       00914  00914                % 08593 RGTR--
+110201001 Consthum, Ennescht D  00915                       % 08593 RGTR--
+*Z 08594 RGTR--                                             % 08594 RGTR--
+*L 552      140701016 110201001  01648  01715               % 08594 RGTR--
+*A jc 140701016 110201001 000006  01648  01715              % 08594 RGTR--
+*A rd 140701016 110201001 000006  01648  01715              % 08594 RGTR--
+*R 1 110201001 140701016 110201001  01648  01715            % 08594 RGTR--
+*G RGB 140701016 110201001  01648  01715                    % 08594 RGTR--
+*A VE 140701016 110201001 000006  01648  01715              % 08594 RGTR--
+*I FD 140701016 110201001        0001381  01648  01715      % 08594 RGTR--
+140701016 Ettelbruck, Gare             01648                % 08594 RGTR--
+140602002 Erpeldange/Sûre, Bei  01650  01650                % 08594 RGTR--
+140602007 Erpeldange/Sûre, Bei  01651  01651                % 08594 RGTR--
+140602005 Erpeldange/Ettelbruc  01651  01651                % 08594 RGTR--
+140602004 Erpeldange/Ettelbruc  01652  01652                % 08594 RGTR--
+140402001 Fridhaff              01656  01656                % 08594 RGTR--
+140902001 Hoscheid-Dickt, Um P  01705  01705                % 08594 RGTR--
+140902002 Hoscheid-Dickt, Um W  01706  01706                % 08594 RGTR--
+110203001 Ennert Schinker       01708  01708                % 08594 RGTR--
+110203002 Schinker, Um Rank     01709  01709                % 08594 RGTR--
+110202004 Holzthum, Ferme Thev  01709  01709                % 08594 RGTR--
+110202003 Holzthum, Kiirfecht   01710  01710                % 08594 RGTR--
+110202002 Holzthum, Bei der Ki  01711  01711                % 08594 RGTR--
+110202001 Holzthum, Op der Hoe  01711  01711                % 08594 RGTR--
+110201002 Consthum, Kémel       01713  01713                % 08594 RGTR--
+110201003 Consthum, Knupp       01714  01714                % 08594 RGTR--
+110201001 Consthum, Ennescht D  01715                       % 08594 RGTR--
+*Z 08595 RGTR--                                             % 08595 RGTR--
+*L 552      140701016 110201001  01748  01815               % 08595 RGTR--
+*A jc 140701016 110201001 000006  01748  01815              % 08595 RGTR--
+*A rd 140701016 110201001 000006  01748  01815              % 08595 RGTR--
+*R 1 110201001 140701016 110201001  01748  01815            % 08595 RGTR--
+*G RGB 140701016 110201001  01748  01815                    % 08595 RGTR--
+*A VE 140701016 110201001 000006  01748  01815              % 08595 RGTR--
+*I FD 140701016 110201001        0002448  01748  01815      % 08595 RGTR--
+140701016 Ettelbruck, Gare             01748                % 08595 RGTR--
+140602002 Erpeldange/Sûre, Bei  01750  01750                % 08595 RGTR--
+140602007 Erpeldange/Sûre, Bei  01751  01751                % 08595 RGTR--
+140602005 Erpeldange/Ettelbruc  01751  01751                % 08595 RGTR--
+140602004 Erpeldange/Ettelbruc  01752  01752                % 08595 RGTR--
+140402001 Fridhaff              01756  01756                % 08595 RGTR--
+140902001 Hoscheid-Dickt, Um P  01805  01805                % 08595 RGTR--
+140902002 Hoscheid-Dickt, Um W  01806  01806                % 08595 RGTR--
+110203001 Ennert Schinker       01808  01808                % 08595 RGTR--
+110203002 Schinker, Um Rank     01809  01809                % 08595 RGTR--
+110202004 Holzthum, Ferme Thev  01809  01809                % 08595 RGTR--
+110202003 Holzthum, Kiirfecht   01810  01810                % 08595 RGTR--
+110202002 Holzthum, Bei der Ki  01811  01811                % 08595 RGTR--
+110202001 Holzthum, Op der Hoe  01811  01811                % 08595 RGTR--
+110201002 Consthum, Kémel       01813  01813                % 08595 RGTR--
+110201003 Consthum, Knupp       01814  01814                % 08595 RGTR--
+110201001 Consthum, Ennescht D  01815                       % 08595 RGTR--
+*Z 08596 RGTR--                                             % 08596 RGTR--
+*L 552      140701016 110201001  00648  00715               % 08596 RGTR--
+*A jc 140701016 110201001 000016  00648  00715              % 08596 RGTR--
+*A rd 140701016 110201001 000016  00648  00715              % 08596 RGTR--
+*R 1 110201001 140701016 110201001  00648  00715            % 08596 RGTR--
+*G RGB 140701016 110201001  00648  00715                    % 08596 RGTR--
+*A VE 140701016 110201001 000016  00648  00715              % 08596 RGTR--
+*I FD 140701016 110201001        0003096  00648  00715      % 08596 RGTR--
+140701016 Ettelbruck, Gare             00648                % 08596 RGTR--
+140602002 Erpeldange/Sûre, Bei  00650  00650                % 08596 RGTR--
+140602007 Erpeldange/Sûre, Bei  00651  00651                % 08596 RGTR--
+140602005 Erpeldange/Ettelbruc  00651  00651                % 08596 RGTR--
+140602004 Erpeldange/Ettelbruc  00652  00652                % 08596 RGTR--
+140402001 Fridhaff              00656  00656                % 08596 RGTR--
+140902001 Hoscheid-Dickt, Um P  00705  00705                % 08596 RGTR--
+140902002 Hoscheid-Dickt, Um W  00706  00706                % 08596 RGTR--
+110203001 Ennert Schinker       00708  00708                % 08596 RGTR--
+110203002 Schinker, Um Rank     00709  00709                % 08596 RGTR--
+110202004 Holzthum, Ferme Thev  00709  00709                % 08596 RGTR--
+110202003 Holzthum, Kiirfecht   00710  00710                % 08596 RGTR--
+110202002 Holzthum, Bei der Ki  00711  00711                % 08596 RGTR--
+110202001 Holzthum, Op der Hoe  00711  00711                % 08596 RGTR--
+110201002 Consthum, Kémel       00713  00713                % 08596 RGTR--
+110201003 Consthum, Knupp       00714  00714                % 08596 RGTR--
+110201001 Consthum, Ennescht D  00715                       % 08596 RGTR--
+*Z 08597 RGTR--                                             % 08597 RGTR--
+*L 552      140701016 110201001  00948  01015               % 08597 RGTR--
+*A jc 140701016 110201001 000006  00948  01015              % 08597 RGTR--
+*A rd 140701016 110201001 000006  00948  01015              % 08597 RGTR--
+*R 1 110201001 140701016 110201001  00948  01015            % 08597 RGTR--
+*G RGB 140701016 110201001  00948  01015                    % 08597 RGTR--
+*A VE 140701016 110201001 000006  00948  01015              % 08597 RGTR--
+*I FD 140701016 110201001        0002655  00948  01015      % 08597 RGTR--
+140701016 Ettelbruck, Gare             00948                % 08597 RGTR--
+140602002 Erpeldange/Sûre, Bei  00950  00950                % 08597 RGTR--
+140602007 Erpeldange/Sûre, Bei  00951  00951                % 08597 RGTR--
+140602005 Erpeldange/Ettelbruc  00951  00951                % 08597 RGTR--
+140602004 Erpeldange/Ettelbruc  00952  00952                % 08597 RGTR--
+140402001 Fridhaff              00956  00956                % 08597 RGTR--
+140902001 Hoscheid-Dickt, Um P  01005  01005                % 08597 RGTR--
+140902002 Hoscheid-Dickt, Um W  01006  01006                % 08597 RGTR--
+110203001 Ennert Schinker       01007  01007                % 08597 RGTR--
+110203002 Schinker, Um Rank     01008  01008                % 08597 RGTR--
+110202004 Holzthum, Ferme Thev  01009  01009                % 08597 RGTR--
+110202003 Holzthum, Kiirfecht   01010  01010                % 08597 RGTR--
+110202002 Holzthum, Bei der Ki  01010  01010                % 08597 RGTR--
+110202001 Holzthum, Op der Hoe  01011  01011                % 08597 RGTR--
+110201002 Consthum, Kémel       01013  01013                % 08597 RGTR--
+110201003 Consthum, Knupp       01014  01014                % 08597 RGTR--
+110201001 Consthum, Ennescht D  01015                       % 08597 RGTR--
+*Z 08598 RGTR--                                             % 08598 RGTR--
+*L 552      140701016 110201001  01048  01115               % 08598 RGTR--
+*A jc 140701016 110201001 000006  01048  01115              % 08598 RGTR--
+*A rd 140701016 110201001 000006  01048  01115              % 08598 RGTR--
+*R 1 110201001 140701016 110201001  01048  01115            % 08598 RGTR--
+*G RGB 140701016 110201001  01048  01115                    % 08598 RGTR--
+*A VE 140701016 110201001 000006  01048  01115              % 08598 RGTR--
+*I FD 140701016 110201001        0002652  01048  01115      % 08598 RGTR--
+140701016 Ettelbruck, Gare             01048                % 08598 RGTR--
+140602002 Erpeldange/Sûre, Bei  01050  01050                % 08598 RGTR--
+140602007 Erpeldange/Sûre, Bei  01051  01051                % 08598 RGTR--
+140602005 Erpeldange/Ettelbruc  01051  01051                % 08598 RGTR--
+140602004 Erpeldange/Ettelbruc  01052  01052                % 08598 RGTR--
+140402001 Fridhaff              01056  01056                % 08598 RGTR--
+140902001 Hoscheid-Dickt, Um P  01105  01105                % 08598 RGTR--
+140902002 Hoscheid-Dickt, Um W  01106  01106                % 08598 RGTR--
+110203001 Ennert Schinker       01107  01107                % 08598 RGTR--
+110203002 Schinker, Um Rank     01108  01108                % 08598 RGTR--
+110202004 Holzthum, Ferme Thev  01109  01109                % 08598 RGTR--
+110202003 Holzthum, Kiirfecht   01110  01110                % 08598 RGTR--
+110202002 Holzthum, Bei der Ki  01110  01110                % 08598 RGTR--
+110202001 Holzthum, Op der Hoe  01111  01111                % 08598 RGTR--
+110201002 Consthum, Kémel       01113  01113                % 08598 RGTR--
+110201003 Consthum, Knupp       01114  01114                % 08598 RGTR--
+110201001 Consthum, Ennescht D  01115                       % 08598 RGTR--
+*Z 08599 RGTR--                                             % 08599 RGTR--
+*L 552      140701016 110201001  01348  01415               % 08599 RGTR--
+*A jc 140701016 110201001 000006  01348  01415              % 08599 RGTR--
+*A rd 140701016 110201001 000006  01348  01415              % 08599 RGTR--
+*R 1 110201001 140701016 110201001  01348  01415            % 08599 RGTR--
+*G RGB 140701016 110201001  01348  01415                    % 08599 RGTR--
+*A VE 140701016 110201001 000006  01348  01415              % 08599 RGTR--
+*I FD 140701016 110201001        0002658  01348  01415      % 08599 RGTR--
+140701016 Ettelbruck, Gare             01348                % 08599 RGTR--
+140602002 Erpeldange/Sûre, Bei  01350  01350                % 08599 RGTR--
+140602007 Erpeldange/Sûre, Bei  01351  01351                % 08599 RGTR--
+140602005 Erpeldange/Ettelbruc  01351  01351                % 08599 RGTR--
+140602004 Erpeldange/Ettelbruc  01352  01352                % 08599 RGTR--
+140402001 Fridhaff              01356  01356                % 08599 RGTR--
+140902001 Hoscheid-Dickt, Um P  01405  01405                % 08599 RGTR--
+140902002 Hoscheid-Dickt, Um W  01406  01406                % 08599 RGTR--
+110203001 Ennert Schinker       01407  01407                % 08599 RGTR--
+110203002 Schinker, Um Rank     01408  01408                % 08599 RGTR--
+110202004 Holzthum, Ferme Thev  01409  01409                % 08599 RGTR--
+110202003 Holzthum, Kiirfecht   01410  01410                % 08599 RGTR--
+110202002 Holzthum, Bei der Ki  01410  01410                % 08599 RGTR--
+110202001 Holzthum, Op der Hoe  01411  01411                % 08599 RGTR--
+110201002 Consthum, Kémel       01413  01413                % 08599 RGTR--
+110201003 Consthum, Knupp       01414  01414                % 08599 RGTR--
+110201001 Consthum, Ennescht D  01415                       % 08599 RGTR--
+*Z 08600 RGTR--                                             % 08600 RGTR--
+*L 552      140701016 110201001  01448  01515               % 08600 RGTR--
+*A jc 140701016 110201001 000006  01448  01515              % 08600 RGTR--
+*A rd 140701016 110201001 000006  01448  01515              % 08600 RGTR--
+*R 1 110201001 140701016 110201001  01448  01515            % 08600 RGTR--
+*G RGB 140701016 110201001  01448  01515                    % 08600 RGTR--
+*A VE 140701016 110201001 000006  01448  01515              % 08600 RGTR--
+*I FD 140701016 110201001        0002654  01448  01515      % 08600 RGTR--
+140701016 Ettelbruck, Gare             01448                % 08600 RGTR--
+140602002 Erpeldange/Sûre, Bei  01450  01450                % 08600 RGTR--
+140602007 Erpeldange/Sûre, Bei  01451  01451                % 08600 RGTR--
+140602005 Erpeldange/Ettelbruc  01451  01451                % 08600 RGTR--
+140602004 Erpeldange/Ettelbruc  01452  01452                % 08600 RGTR--
+140402001 Fridhaff              01456  01456                % 08600 RGTR--
+140902001 Hoscheid-Dickt, Um P  01505  01505                % 08600 RGTR--
+140902002 Hoscheid-Dickt, Um W  01506  01506                % 08600 RGTR--
+110203001 Ennert Schinker       01507  01507                % 08600 RGTR--
+110203002 Schinker, Um Rank     01508  01508                % 08600 RGTR--
+110202004 Holzthum, Ferme Thev  01509  01509                % 08600 RGTR--
+110202003 Holzthum, Kiirfecht   01510  01510                % 08600 RGTR--
+110202002 Holzthum, Bei der Ki  01510  01510                % 08600 RGTR--
+110202001 Holzthum, Op der Hoe  01511  01511                % 08600 RGTR--
+110201002 Consthum, Kémel       01513  01513                % 08600 RGTR--
+110201003 Consthum, Knupp       01514  01514                % 08600 RGTR--
+110201001 Consthum, Ennescht D  01515                       % 08600 RGTR--
+*Z 08601 RGTR--                                             % 08601 RGTR--
+*L 552      140701016 110201001  01848  01915               % 08601 RGTR--
+*A jc 140701016 110201001 000006  01848  01915              % 08601 RGTR--
+*A rd 140701016 110201001 000006  01848  01915              % 08601 RGTR--
+*R 1 110201001 140701016 110201001  01848  01915            % 08601 RGTR--
+*G RGB 140701016 110201001  01848  01915                    % 08601 RGTR--
+*A VE 140701016 110201001 000006  01848  01915              % 08601 RGTR--
+*I FD 140701016 110201001        0001499  01848  01915      % 08601 RGTR--
+140701016 Ettelbruck, Gare             01848                % 08601 RGTR--
+140602002 Erpeldange/Sûre, Bei  01850  01850                % 08601 RGTR--
+140602007 Erpeldange/Sûre, Bei  01851  01851                % 08601 RGTR--
+140602005 Erpeldange/Ettelbruc  01851  01851                % 08601 RGTR--
+140602004 Erpeldange/Ettelbruc  01852  01852                % 08601 RGTR--
+140402001 Fridhaff              01856  01856                % 08601 RGTR--
+140902001 Hoscheid-Dickt, Um P  01905  01905                % 08601 RGTR--
+140902002 Hoscheid-Dickt, Um W  01906  01906                % 08601 RGTR--
+110203001 Ennert Schinker       01907  01907                % 08601 RGTR--
+110203002 Schinker, Um Rank     01908  01908                % 08601 RGTR--
+110202004 Holzthum, Ferme Thev  01909  01909                % 08601 RGTR--
+110202003 Holzthum, Kiirfecht   01910  01910                % 08601 RGTR--
+110202002 Holzthum, Bei der Ki  01910  01910                % 08601 RGTR--
+110202001 Holzthum, Op der Hoe  01911  01911                % 08601 RGTR--
+110201002 Consthum, Kémel       01913  01913                % 08601 RGTR--
+110201003 Consthum, Knupp       01914  01914                % 08601 RGTR--
+110201001 Consthum, Ennescht D  01915                       % 08601 RGTR--
+*Z 08602 RGTR--                                             % 08602 RGTR--
+*L 552      140701016 110201001  01948  02015               % 08602 RGTR--
+*A jc 140701016 110201001 000006  01948  02015              % 08602 RGTR--
+*A rd 140701016 110201001 000006  01948  02015              % 08602 RGTR--
+*R 1 110201001 140701016 110201001  01948  02015            % 08602 RGTR--
+*G RGB 140701016 110201001  01948  02015                    % 08602 RGTR--
+*A VE 140701016 110201001 000006  01948  02015              % 08602 RGTR--
+*I FD 140701016 110201001        0002660  01948  02015      % 08602 RGTR--
+140701016 Ettelbruck, Gare             01948                % 08602 RGTR--
+140602002 Erpeldange/Sûre, Bei  01950  01950                % 08602 RGTR--
+140602007 Erpeldange/Sûre, Bei  01951  01951                % 08602 RGTR--
+140602005 Erpeldange/Ettelbruc  01951  01951                % 08602 RGTR--
+140602004 Erpeldange/Ettelbruc  01952  01952                % 08602 RGTR--
+140402001 Fridhaff              01956  01956                % 08602 RGTR--
+140902001 Hoscheid-Dickt, Um P  02005  02005                % 08602 RGTR--
+140902002 Hoscheid-Dickt, Um W  02006  02006                % 08602 RGTR--
+110203001 Ennert Schinker       02007  02007                % 08602 RGTR--
+110203002 Schinker, Um Rank     02008  02008                % 08602 RGTR--
+110202004 Holzthum, Ferme Thev  02009  02009                % 08602 RGTR--
+110202003 Holzthum, Kiirfecht   02010  02010                % 08602 RGTR--
+110202002 Holzthum, Bei der Ki  02010  02010                % 08602 RGTR--
+110202001 Holzthum, Op der Hoe  02011  02011                % 08602 RGTR--
+110201002 Consthum, Kémel       02013  02013                % 08602 RGTR--
+110201003 Consthum, Knupp       02014  02014                % 08602 RGTR--
+110201001 Consthum, Ennescht D  02015                       % 08602 RGTR--
+*Z 08603 RGTR--                                             % 08603 RGTR--
+*L 552      140701016 110201003  01248  01314               % 08603 RGTR--
+*A jc 140701016 110201003 000006  01248  01314              % 08603 RGTR--
+*A rd 140701016 110201003 000006  01248  01314              % 08603 RGTR--
+*R 1 110201003 140701016 110201003  01248  01314            % 08603 RGTR--
+*G RGB 140701016 110201003  01248  01314                    % 08603 RGTR--
+*A VE 140701016 110201003 000006  01248  01314              % 08603 RGTR--
+*I FD 140701016 110201003        0002653  01248  01314      % 08603 RGTR--
+140701016 Ettelbruck, Gare             01248                % 08603 RGTR--
+140602002 Erpeldange/Sûre, Bei  01250  01250                % 08603 RGTR--
+140602007 Erpeldange/Sûre, Bei  01251  01251                % 08603 RGTR--
+140602005 Erpeldange/Ettelbruc  01251  01251                % 08603 RGTR--
+140602004 Erpeldange/Ettelbruc  01252  01252                % 08603 RGTR--
+140402001 Fridhaff              01256  01256                % 08603 RGTR--
+140902001 Hoscheid-Dickt, Um P  01305  01305                % 08603 RGTR--
+140902002 Hoscheid-Dickt, Um W  01306  01306                % 08603 RGTR--
+110203001 Ennert Schinker       01307  01307                % 08603 RGTR--
+110203002 Schinker, Um Rank     01308  01308                % 08603 RGTR--
+110202004 Holzthum, Ferme Thev  01309  01309                % 08603 RGTR--
+110202003 Holzthum, Kiirfecht   01310  01310                % 08603 RGTR--
+110202002 Holzthum, Bei der Ki  01310  01310                % 08603 RGTR--
+110202001 Holzthum, Op der Hoe  01311  01311                % 08603 RGTR--
+110201002 Consthum, Kémel       01313  01313                % 08603 RGTR--
+110201003 Consthum, Knupp       01314                       % 08603 RGTR--
+*Z 08604 RGTR--                                             % 08604 RGTR--
+*L 552      110201001 140701016  00839  00909               % 08604 RGTR--
+*A jc 110201001 140701016 000006  00839  00909              % 08604 RGTR--
+*A hq 110201001 140701016 000006  00839  00909              % 08604 RGTR--
+*R 2 140701016 110201001 140701016  00839  00909            % 08604 RGTR--
+*G RGB 110201001 140701016  00839  00909                    % 08604 RGTR--
+*A VE 110201001 140701016 000006  00839  00909              % 08604 RGTR--
+*I FD 110201001 140701016        0002349  00839  00909      % 08604 RGTR--
+110201001 Consthum, Ennescht D         00839                % 08604 RGTR--
+110201003 Consthum, Knupp       00839  00839                % 08604 RGTR--
+110201002 Consthum, Kémel       00840  00840                % 08604 RGTR--
+110202001 Holzthum, Op der Hoe  00842  00842                % 08604 RGTR--
+110202002 Holzthum, Bei der Ki  00843  00843                % 08604 RGTR--
+110202003 Holzthum, Kiirfecht   00843  00843                % 08604 RGTR--
+110202004 Holzthum, Ferme Thev  00844  00844                % 08604 RGTR--
+110203002 Schinker, Um Rank     00845  00845                % 08604 RGTR--
+110203001 Ennert Schinker       00845  00845                % 08604 RGTR--
+140902002 Hoscheid-Dickt, Um W  00847  00847                % 08604 RGTR--
+140902001 Hoscheid-Dickt, Um P  00848  00848                % 08604 RGTR--
+140402001 Fridhaff              00858  00858                % 08604 RGTR--
+140602004 Erpeldange/Ettelbruc  00902  00902                % 08604 RGTR--
+140602005 Erpeldange/Ettelbruc  00903  00903                % 08604 RGTR--
+140602007 Erpeldange/Sûre, Bei  00904  00904                % 08604 RGTR--
+140602002 Erpeldange/Sûre, Bei  00905  00905                % 08604 RGTR--
+140701024 Ettelbruck, Pensionn  00908  00908                % 08604 RGTR--
+140701016 Ettelbruck, Gare      00909                       % 08604 RGTR--
+*Z 08605 RGTR--                                             % 08605 RGTR--
+*L 552      110201001 140701016  00939  01009               % 08605 RGTR--
+*A jc 110201001 140701016 000006  00939  01009              % 08605 RGTR--
+*A hq 110201001 140701016 000006  00939  01009              % 08605 RGTR--
+*R 2 140701016 110201001 140701016  00939  01009            % 08605 RGTR--
+*G RGB 110201001 140701016  00939  01009                    % 08605 RGTR--
+*A VE 110201001 140701016 000006  00939  01009              % 08605 RGTR--
+*I FD 110201001 140701016        0001152  00939  01009      % 08605 RGTR--
+110201001 Consthum, Ennescht D         00939                % 08605 RGTR--
+110201003 Consthum, Knupp       00939  00939                % 08605 RGTR--
+110201002 Consthum, Kémel       00940  00940                % 08605 RGTR--
+110202001 Holzthum, Op der Hoe  00942  00942                % 08605 RGTR--
+110202002 Holzthum, Bei der Ki  00943  00943                % 08605 RGTR--
+110202003 Holzthum, Kiirfecht   00943  00943                % 08605 RGTR--
+110202004 Holzthum, Ferme Thev  00944  00944                % 08605 RGTR--
+110203002 Schinker, Um Rank     00945  00945                % 08605 RGTR--
+110203001 Ennert Schinker       00945  00945                % 08605 RGTR--
+140902002 Hoscheid-Dickt, Um W  00947  00947                % 08605 RGTR--
+140902001 Hoscheid-Dickt, Um P  00948  00948                % 08605 RGTR--
+140402001 Fridhaff              00958  00958                % 08605 RGTR--
+140602004 Erpeldange/Ettelbruc  01002  01002                % 08605 RGTR--
+140602005 Erpeldange/Ettelbruc  01003  01003                % 08605 RGTR--
+140602007 Erpeldange/Sûre, Bei  01004  01004                % 08605 RGTR--
+140602002 Erpeldange/Sûre, Bei  01005  01005                % 08605 RGTR--
+140701024 Ettelbruck, Pensionn  01008  01008                % 08605 RGTR--
+140701016 Ettelbruck, Gare      01009                       % 08605 RGTR--
+*Z 08606 RGTR--                                             % 08606 RGTR--
+*L 552      110201001 140701016  01039  01109               % 08606 RGTR--
+*A jc 110201001 140701016 000006  01039  01109              % 08606 RGTR--
+*A hq 110201001 140701016 000006  01039  01109              % 08606 RGTR--
+*R 2 140701016 110201001 140701016  01039  01109            % 08606 RGTR--
+*G RGB 110201001 140701016  01039  01109                    % 08606 RGTR--
+*A VE 110201001 140701016 000006  01039  01109              % 08606 RGTR--
+*I FD 110201001 140701016        0002351  01039  01109      % 08606 RGTR--
+110201001 Consthum, Ennescht D         01039                % 08606 RGTR--
+110201003 Consthum, Knupp       01039  01039                % 08606 RGTR--
+110201002 Consthum, Kémel       01040  01040                % 08606 RGTR--
+110202001 Holzthum, Op der Hoe  01042  01042                % 08606 RGTR--
+110202002 Holzthum, Bei der Ki  01043  01043                % 08606 RGTR--
+110202003 Holzthum, Kiirfecht   01043  01043                % 08606 RGTR--
+110202004 Holzthum, Ferme Thev  01044  01044                % 08606 RGTR--
+110203002 Schinker, Um Rank     01045  01045                % 08606 RGTR--
+110203001 Ennert Schinker       01045  01045                % 08606 RGTR--
+140902002 Hoscheid-Dickt, Um W  01047  01047                % 08606 RGTR--
+140902001 Hoscheid-Dickt, Um P  01048  01048                % 08606 RGTR--
+140402001 Fridhaff              01058  01058                % 08606 RGTR--
+140602004 Erpeldange/Ettelbruc  01102  01102                % 08606 RGTR--
+140602005 Erpeldange/Ettelbruc  01103  01103                % 08606 RGTR--
+140602007 Erpeldange/Sûre, Bei  01104  01104                % 08606 RGTR--
+140602002 Erpeldange/Sûre, Bei  01105  01105                % 08606 RGTR--
+140701024 Ettelbruck, Pensionn  01108  01108                % 08606 RGTR--
+140701016 Ettelbruck, Gare      01109                       % 08606 RGTR--
+*Z 08607 RGTR--                                             % 08607 RGTR--
+*L 552      110201001 140701016  01139  01209               % 08607 RGTR--
+*A jc 110201001 140701016 000006  01139  01209              % 08607 RGTR--
+*A hq 110201001 140701016 000006  01139  01209              % 08607 RGTR--
+*R 2 140701016 110201001 140701016  01139  01209            % 08607 RGTR--
+*G RGB 110201001 140701016  01139  01209                    % 08607 RGTR--
+*A VE 110201001 140701016 000006  01139  01209              % 08607 RGTR--
+*I FD 110201001 140701016        0002211  01139  01209      % 08607 RGTR--
+110201001 Consthum, Ennescht D         01139                % 08607 RGTR--
+110201003 Consthum, Knupp       01139  01139                % 08607 RGTR--
+110201002 Consthum, Kémel       01140  01140                % 08607 RGTR--
+110202001 Holzthum, Op der Hoe  01142  01142                % 08607 RGTR--
+110202002 Holzthum, Bei der Ki  01143  01143                % 08607 RGTR--
+110202003 Holzthum, Kiirfecht   01143  01143                % 08607 RGTR--
+110202004 Holzthum, Ferme Thev  01144  01144                % 08607 RGTR--
+110203002 Schinker, Um Rank     01145  01145                % 08607 RGTR--
+110203001 Ennert Schinker       01145  01145                % 08607 RGTR--
+140902002 Hoscheid-Dickt, Um W  01147  01147                % 08607 RGTR--
+140902001 Hoscheid-Dickt, Um P  01148  01148                % 08607 RGTR--
+140402001 Fridhaff              01158  01158                % 08607 RGTR--
+140602004 Erpeldange/Ettelbruc  01202  01202                % 08607 RGTR--
+140602005 Erpeldange/Ettelbruc  01203  01203                % 08607 RGTR--
+140602007 Erpeldange/Sûre, Bei  01204  01204                % 08607 RGTR--
+140602002 Erpeldange/Sûre, Bei  01205  01205                % 08607 RGTR--
+140701024 Ettelbruck, Pensionn  01208  01208                % 08607 RGTR--
+140701016 Ettelbruck, Gare      01209                       % 08607 RGTR--
+*Z 08608 RGTR--                                             % 08608 RGTR--
+*L 552      110201001 140701016  01239  01309               % 08608 RGTR--
+*A jc 110201001 140701016 000006  01239  01309              % 08608 RGTR--
+*A hq 110201001 140701016 000006  01239  01309              % 08608 RGTR--
+*R 2 140701016 110201001 140701016  01239  01309            % 08608 RGTR--
+*G RGB 110201001 140701016  01239  01309                    % 08608 RGTR--
+*A VE 110201001 140701016 000006  01239  01309              % 08608 RGTR--
+*I FD 110201001 140701016        0001273  01239  01309      % 08608 RGTR--
+110201001 Consthum, Ennescht D         01239                % 08608 RGTR--
+110201003 Consthum, Knupp       01239  01239                % 08608 RGTR--
+110201002 Consthum, Kémel       01240  01240                % 08608 RGTR--
+110202001 Holzthum, Op der Hoe  01242  01242                % 08608 RGTR--
+110202002 Holzthum, Bei der Ki  01243  01243                % 08608 RGTR--
+110202003 Holzthum, Kiirfecht   01243  01243                % 08608 RGTR--
+110202004 Holzthum, Ferme Thev  01244  01244                % 08608 RGTR--
+110203002 Schinker, Um Rank     01245  01245                % 08608 RGTR--
+110203001 Ennert Schinker       01245  01245                % 08608 RGTR--
+140902002 Hoscheid-Dickt, Um W  01247  01247                % 08608 RGTR--
+140902001 Hoscheid-Dickt, Um P  01248  01248                % 08608 RGTR--
+140402001 Fridhaff              01258  01258                % 08608 RGTR--
+140602004 Erpeldange/Ettelbruc  01302  01302                % 08608 RGTR--
+140602005 Erpeldange/Ettelbruc  01303  01303                % 08608 RGTR--
+140602007 Erpeldange/Sûre, Bei  01304  01304                % 08608 RGTR--
+140602002 Erpeldange/Sûre, Bei  01305  01305                % 08608 RGTR--
+140701024 Ettelbruck, Pensionn  01308  01308                % 08608 RGTR--
+140701016 Ettelbruck, Gare      01309                       % 08608 RGTR--
+*Z 08609 RGTR--                                             % 08609 RGTR--
+*L 552      110201001 140701016  01439  01509               % 08609 RGTR--
+*A jc 110201001 140701016 000006  01439  01509              % 08609 RGTR--
+*A hq 110201001 140701016 000006  01439  01509              % 08609 RGTR--
+*R 2 140701016 110201001 140701016  01439  01509            % 08609 RGTR--
+*G RGB 110201001 140701016  01439  01509                    % 08609 RGTR--
+*A VE 110201001 140701016 000006  01439  01509              % 08609 RGTR--
+*I FD 110201001 140701016        0002352  01439  01509      % 08609 RGTR--
+110201001 Consthum, Ennescht D         01439                % 08609 RGTR--
+110201003 Consthum, Knupp       01439  01439                % 08609 RGTR--
+110201002 Consthum, Kémel       01440  01440                % 08609 RGTR--
+110202001 Holzthum, Op der Hoe  01442  01442                % 08609 RGTR--
+110202002 Holzthum, Bei der Ki  01443  01443                % 08609 RGTR--
+110202003 Holzthum, Kiirfecht   01443  01443                % 08609 RGTR--
+110202004 Holzthum, Ferme Thev  01444  01444                % 08609 RGTR--
+110203002 Schinker, Um Rank     01445  01445                % 08609 RGTR--
+110203001 Ennert Schinker       01445  01445                % 08609 RGTR--
+140902002 Hoscheid-Dickt, Um W  01447  01447                % 08609 RGTR--
+140902001 Hoscheid-Dickt, Um P  01448  01448                % 08609 RGTR--
+140402001 Fridhaff              01458  01458                % 08609 RGTR--
+140602004 Erpeldange/Ettelbruc  01502  01502                % 08609 RGTR--
+140602005 Erpeldange/Ettelbruc  01503  01503                % 08609 RGTR--
+140602007 Erpeldange/Sûre, Bei  01504  01504                % 08609 RGTR--
+140602002 Erpeldange/Sûre, Bei  01505  01505                % 08609 RGTR--
+140701024 Ettelbruck, Pensionn  01508  01508                % 08609 RGTR--
+140701016 Ettelbruck, Gare      01509                       % 08609 RGTR--
+*Z 08610 RGTR--                                             % 08610 RGTR--
+*L 552      110201001 140701016  01539  01609               % 08610 RGTR--
+*A jc 110201001 140701016 000006  01539  01609              % 08610 RGTR--
+*A hq 110201001 140701016 000006  01539  01609              % 08610 RGTR--
+*R 2 140701016 110201001 140701016  01539  01609            % 08610 RGTR--
+*G RGB 110201001 140701016  01539  01609                    % 08610 RGTR--
+*A VE 110201001 140701016 000006  01539  01609              % 08610 RGTR--
+*I FD 110201001 140701016        0002213  01539  01609      % 08610 RGTR--
+110201001 Consthum, Ennescht D         01539                % 08610 RGTR--
+110201003 Consthum, Knupp       01539  01539                % 08610 RGTR--
+110201002 Consthum, Kémel       01540  01540                % 08610 RGTR--
+110202001 Holzthum, Op der Hoe  01542  01542                % 08610 RGTR--
+110202002 Holzthum, Bei der Ki  01543  01543                % 08610 RGTR--
+110202003 Holzthum, Kiirfecht   01543  01543                % 08610 RGTR--
+110202004 Holzthum, Ferme Thev  01544  01544                % 08610 RGTR--
+110203002 Schinker, Um Rank     01545  01545                % 08610 RGTR--
+110203001 Ennert Schinker       01545  01545                % 08610 RGTR--
+140902002 Hoscheid-Dickt, Um W  01547  01547                % 08610 RGTR--
+140902001 Hoscheid-Dickt, Um P  01548  01548                % 08610 RGTR--
+140402001 Fridhaff              01558  01558                % 08610 RGTR--
+140602004 Erpeldange/Ettelbruc  01602  01602                % 08610 RGTR--
+140602005 Erpeldange/Ettelbruc  01603  01603                % 08610 RGTR--
+140602007 Erpeldange/Sûre, Bei  01604  01604                % 08610 RGTR--
+140602002 Erpeldange/Sûre, Bei  01605  01605                % 08610 RGTR--
+140701024 Ettelbruck, Pensionn  01608  01608                % 08610 RGTR--
+140701016 Ettelbruck, Gare      01609                       % 08610 RGTR--
+*Z 08611 RGTR--                                             % 08611 RGTR--
+*L 552      110201001 140701016  01639  01709               % 08611 RGTR--
+*A jc 110201001 140701016 000006  01639  01709              % 08611 RGTR--
+*A hq 110201001 140701016 000006  01639  01709              % 08611 RGTR--
+*R 2 140701016 110201001 140701016  01639  01709            % 08611 RGTR--
+*G RGB 110201001 140701016  01639  01709                    % 08611 RGTR--
+*A VE 110201001 140701016 000006  01639  01709              % 08611 RGTR--
+*I FD 110201001 140701016        0002824  01639  01709      % 08611 RGTR--
+110201001 Consthum, Ennescht D         01639                % 08611 RGTR--
+110201003 Consthum, Knupp       01639  01639                % 08611 RGTR--
+110201002 Consthum, Kémel       01640  01640                % 08611 RGTR--
+110202001 Holzthum, Op der Hoe  01642  01642                % 08611 RGTR--
+110202002 Holzthum, Bei der Ki  01643  01643                % 08611 RGTR--
+110202003 Holzthum, Kiirfecht   01643  01643                % 08611 RGTR--
+110202004 Holzthum, Ferme Thev  01644  01644                % 08611 RGTR--
+110203002 Schinker, Um Rank     01645  01645                % 08611 RGTR--
+110203001 Ennert Schinker       01645  01645                % 08611 RGTR--
+140902002 Hoscheid-Dickt, Um W  01647  01647                % 08611 RGTR--
+140902001 Hoscheid-Dickt, Um P  01648  01648                % 08611 RGTR--
+140402001 Fridhaff              01658  01658                % 08611 RGTR--
+140602004 Erpeldange/Ettelbruc  01702  01702                % 08611 RGTR--
+140602005 Erpeldange/Ettelbruc  01703  01703                % 08611 RGTR--
+140602007 Erpeldange/Sûre, Bei  01704  01704                % 08611 RGTR--
+140602002 Erpeldange/Sûre, Bei  01705  01705                % 08611 RGTR--
+140701024 Ettelbruck, Pensionn  01708  01708                % 08611 RGTR--
+140701016 Ettelbruck, Gare      01709                       % 08611 RGTR--
+*Z 08612 RGTR--                                             % 08612 RGTR--
+*L 552      110201001 140701016  01739  01809               % 08612 RGTR--
+*A jc 110201001 140701016 000006  01739  01809              % 08612 RGTR--
+*A hq 110201001 140701016 000006  01739  01809              % 08612 RGTR--
+*R 2 140701016 110201001 140701016  01739  01809            % 08612 RGTR--
+*G RGB 110201001 140701016  01739  01809                    % 08612 RGTR--
+*A VE 110201001 140701016 000006  01739  01809              % 08612 RGTR--
+*I FD 110201001 140701016        0002679  01739  01809      % 08612 RGTR--
+110201001 Consthum, Ennescht D         01739                % 08612 RGTR--
+110201003 Consthum, Knupp       01739  01739                % 08612 RGTR--
+110201002 Consthum, Kémel       01740  01740                % 08612 RGTR--
+110202001 Holzthum, Op der Hoe  01742  01742                % 08612 RGTR--
+110202002 Holzthum, Bei der Ki  01743  01743                % 08612 RGTR--
+110202003 Holzthum, Kiirfecht   01743  01743                % 08612 RGTR--
+110202004 Holzthum, Ferme Thev  01744  01744                % 08612 RGTR--
+110203002 Schinker, Um Rank     01745  01745                % 08612 RGTR--
+110203001 Ennert Schinker       01745  01745                % 08612 RGTR--
+140902002 Hoscheid-Dickt, Um W  01747  01747                % 08612 RGTR--
+140902001 Hoscheid-Dickt, Um P  01748  01748                % 08612 RGTR--
+140402001 Fridhaff              01758  01758                % 08612 RGTR--
+140602004 Erpeldange/Ettelbruc  01802  01802                % 08612 RGTR--
+140602005 Erpeldange/Ettelbruc  01803  01803                % 08612 RGTR--
+140602007 Erpeldange/Sûre, Bei  01804  01804                % 08612 RGTR--
+140602002 Erpeldange/Sûre, Bei  01805  01805                % 08612 RGTR--
+140701024 Ettelbruck, Pensionn  01808  01808                % 08612 RGTR--
+140701016 Ettelbruck, Gare      01809                       % 08612 RGTR--
+*Z 08613 RGTR--                                             % 08613 RGTR--
+*L 552      110201001 140701016  01839  01909               % 08613 RGTR--
+*A jc 110201001 140701016 000006  01839  01909              % 08613 RGTR--
+*A hq 110201001 140701016 000006  01839  01909              % 08613 RGTR--
+*R 2 140701016 110201001 140701016  01839  01909            % 08613 RGTR--
+*G RGB 110201001 140701016  01839  01909                    % 08613 RGTR--
+*A VE 110201001 140701016 000006  01839  01909              % 08613 RGTR--
+*I FD 110201001 140701016        0001488  01839  01909      % 08613 RGTR--
+110201001 Consthum, Ennescht D         01839                % 08613 RGTR--
+110201003 Consthum, Knupp       01839  01839                % 08613 RGTR--
+110201002 Consthum, Kémel       01840  01840                % 08613 RGTR--
+110202001 Holzthum, Op der Hoe  01842  01842                % 08613 RGTR--
+110202002 Holzthum, Bei der Ki  01843  01843                % 08613 RGTR--
+110202003 Holzthum, Kiirfecht   01843  01843                % 08613 RGTR--
+110202004 Holzthum, Ferme Thev  01844  01844                % 08613 RGTR--
+110203002 Schinker, Um Rank     01845  01845                % 08613 RGTR--
+110203001 Ennert Schinker       01845  01845                % 08613 RGTR--
+140902002 Hoscheid-Dickt, Um W  01847  01847                % 08613 RGTR--
+140902001 Hoscheid-Dickt, Um P  01848  01848                % 08613 RGTR--
+140402001 Fridhaff              01858  01858                % 08613 RGTR--
+140602004 Erpeldange/Ettelbruc  01902  01902                % 08613 RGTR--
+140602005 Erpeldange/Ettelbruc  01903  01903                % 08613 RGTR--
+140602007 Erpeldange/Sûre, Bei  01904  01904                % 08613 RGTR--
+140602002 Erpeldange/Sûre, Bei  01905  01905                % 08613 RGTR--
+140701024 Ettelbruck, Pensionn  01908  01908                % 08613 RGTR--
+140701016 Ettelbruck, Gare      01909                       % 08613 RGTR--
+*Z 08614 RGTR--                                             % 08614 RGTR--
+*L 552      110201001 140701016  00609  00639               % 08614 RGTR--
+*A jc 110201001 140701016 000016  00609  00639              % 08614 RGTR--
+*A hq 110201001 140701016 000016  00609  00639              % 08614 RGTR--
+*R 2 140701016 110201001 140701016  00609  00639            % 08614 RGTR--
+*G RGB 110201001 140701016  00609  00639                    % 08614 RGTR--
+*A VE 110201001 140701016 000016  00609  00639              % 08614 RGTR--
+*I FD 110201001 140701016        0002350  00609  00639      % 08614 RGTR--
+110201001 Consthum, Ennescht D         00609                % 08614 RGTR--
+110201003 Consthum, Knupp       00609  00609                % 08614 RGTR--
+110201002 Consthum, Kémel       00610  00610                % 08614 RGTR--
+110202001 Holzthum, Op der Hoe  00612  00612                % 08614 RGTR--
+110202002 Holzthum, Bei der Ki  00613  00613                % 08614 RGTR--
+110202003 Holzthum, Kiirfecht   00613  00613                % 08614 RGTR--
+110202004 Holzthum, Ferme Thev  00614  00614                % 08614 RGTR--
+110203002 Schinker, Um Rank     00615  00615                % 08614 RGTR--
+110203001 Ennert Schinker       00615  00615                % 08614 RGTR--
+140902002 Hoscheid-Dickt, Um W  00617  00617                % 08614 RGTR--
+140902001 Hoscheid-Dickt, Um P  00618  00618                % 08614 RGTR--
+140402001 Fridhaff              00628  00628                % 08614 RGTR--
+140602004 Erpeldange/Ettelbruc  00632  00632                % 08614 RGTR--
+140602005 Erpeldange/Ettelbruc  00633  00633                % 08614 RGTR--
+140602007 Erpeldange/Sûre, Bei  00634  00634                % 08614 RGTR--
+140602002 Erpeldange/Sûre, Bei  00635  00635                % 08614 RGTR--
+140701024 Ettelbruck, Pensionn  00638  00638                % 08614 RGTR--
+140701016 Ettelbruck, Gare      00639                       % 08614 RGTR--
+*Z 08615 RGTR--                                             % 08615 RGTR--
+*L 552      110201001 140401009  00705  00745               % 08615 RGTR--
+*A jc 110201001 140401009 000006  00705  00745              % 08615 RGTR--
+*A KL 110201001 140401009 000006  00705  00745              % 08615 RGTR--
+*A fe 110201001 140401009 000006  00705  00745              % 08615 RGTR--
+*R 2 140401009 110201001 140401009  00705  00745            % 08615 RGTR--
+*G RGB 110201001 140401009  00705  00745                    % 08615 RGTR--
+*A VE 110201001 140401009 000006  00705  00745              % 08615 RGTR--
+*I FD 110201001 140401009        0002223  00705  00745      % 08615 RGTR--
+110201001 Consthum, Ennescht D         00705                % 08615 RGTR--
+110201003 Consthum, Knupp       00705  00705                % 08615 RGTR--
+110201002 Consthum, Kémel       00706  00706                % 08615 RGTR--
+110202001 Holzthum, Op der Hoe  00708  00708                % 08615 RGTR--
+110202002 Holzthum, Bei der Ki  00709  00709                % 08615 RGTR--
+110202003 Holzthum, Kiirfecht   00710  00710                % 08615 RGTR--
+110202004 Holzthum, Ferme Thev  00710  00710                % 08615 RGTR--
+110203002 Schinker, Um Rank     00711  00711                % 08615 RGTR--
+110203001 Ennert Schinker       00711  00711                % 08615 RGTR--
+140902002 Hoscheid-Dickt, Um W  00714  00714                % 08615 RGTR--
+140902001 Hoscheid-Dickt, Um P  00714  00714                % 08615 RGTR--
+140402001 Fridhaff              00727  00727                % 08615 RGTR--
+140602004 Erpeldange/Ettelbruc  00732  00732                % 08615 RGTR--
+140602005 Erpeldange/Ettelbruc  00733  00733                % 08615 RGTR--
+140602007 Erpeldange/Sûre, Bei  00733  00733                % 08615 RGTR--
+140602001 Erpeldange/Sûre, An   00734  00734                % 08615 RGTR--
+140602006 Erpeldange/Sûre, Lad  00735  00735                % 08615 RGTR--
+140603002 Ingeldorf, Café de l  00737  00737                % 08615 RGTR--
+140401008 Diekirch, Lorentzwue  00738  00738                % 08615 RGTR--
+140401004 Diekirch, Gare        00740  00740                % 08615 RGTR--
+140401001 Diekirch, Altersheem  00741  00741                % 08615 RGTR--
+140401009 Diekirch, Neie Kolle  00745                       % 08615 RGTR--
+*Z 08616 RGTR--                                             % 08616 RGTR--
+*L 552      110201003 140401009  01319  01354               % 08616 RGTR--
+*A jc 110201003 140401009 000006  01319  01354              % 08616 RGTR--
+*A fe 110201003 140401009 000006  01319  01354              % 08616 RGTR--
+*R 2 140401009 110201003 140401009  01319  01354            % 08616 RGTR--
+*G RGB 110201003 140401009  01319  01354                    % 08616 RGTR--
+*A VE 110201003 140401009 000006  01319  01354              % 08616 RGTR--
+*I FD 110201003 140401009        0002307  01319  01354      % 08616 RGTR--
+110201003 Consthum, Knupp              01319                % 08616 RGTR--
+110201002 Consthum, Kémel       01320  01320                % 08616 RGTR--
+110202001 Holzthum, Op der Hoe  01322  01322                % 08616 RGTR--
+110202002 Holzthum, Bei der Ki  01322  01322                % 08616 RGTR--
+110202003 Holzthum, Kiirfecht   01323  01323                % 08616 RGTR--
+110202004 Holzthum, Ferme Thev  01324  01324                % 08616 RGTR--
+110203002 Schinker, Um Rank     01324  01324                % 08616 RGTR--
+110203001 Ennert Schinker       01325  01325                % 08616 RGTR--
+140902002 Hoscheid-Dickt, Um W  01327  01327                % 08616 RGTR--
+140902001 Hoscheid-Dickt, Um P  01328  01328                % 08616 RGTR--
+140402001 Fridhaff              01338  01338                % 08616 RGTR--
+140602004 Erpeldange/Ettelbruc  01342  01342                % 08616 RGTR--
+140602005 Erpeldange/Ettelbruc  01343  01343                % 08616 RGTR--
+140602007 Erpeldange/Sûre, Bei  01343  01343                % 08616 RGTR--
+140602001 Erpeldange/Sûre, An   01344  01344                % 08616 RGTR--
+140602006 Erpeldange/Sûre, Lad  01345  01345                % 08616 RGTR--
+140603002 Ingeldorf, Café de l  01347  01347                % 08616 RGTR--
+140401008 Diekirch, Lorentzwue  01348  01348                % 08616 RGTR--
+140401004 Diekirch, Gare        01350  01350                % 08616 RGTR--
+140401001 Diekirch, Altersheem  01351  01351                % 08616 RGTR--
+140401009 Diekirch, Neie Kolle  01354                       % 08616 RGTR--

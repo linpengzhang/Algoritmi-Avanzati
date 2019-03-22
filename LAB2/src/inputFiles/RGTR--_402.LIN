@@ -1,0 +1,789 @@
+*F 03 2
+*Z 07476 RGTR--                                             % 07476 RGTR--
+*L 402      160904001 140701016  01008  01030               % 07476 RGTR--
+*A pp 160904001 140701016 000006  01008  01030              % 07476 RGTR--
+*A hq 160904001 140701016 000006  01008  01030              % 07476 RGTR--
+*R 1 140701016 160904001 140701016  01008  01030            % 07476 RGTR--
+*G RGB 160904001 140701016  01008  01030                    % 07476 RGTR--
+*A VE 160904001 140701016 000006  01008  01030              % 07476 RGTR--
+*I FD 160904001 140701016        0002224  01008  01030      % 07476 RGTR--
+160904001 Mersch, Gare                 01008                % 07476 RGTR--
+160904005 Mersch, Stäereplaz    01009  01009                % 07476 RGTR--
+160904009 Mersch, Beim Klousch  01010  01010                % 07476 RGTR--
+160904008 Mersch, Mierscherbie  01010  01010                % 07476 RGTR--
+160102002 Rouscht               01015  01015                % 07476 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01016  01016                % 07476 RGTR--
+160102002 Rouscht               01018  01018                % 07476 RGTR--
+160102001 Roost, Mold Plant     01019  01019                % 07476 RGTR--
+160301003 Colmar, Faubourg      01021  01021                % 07476 RGTR--
+160301005 Colmar, Goldbierg     01022  01022                % 07476 RGTR--
+160301010 Colmar, rue de Luxem  01022  01022                % 07476 RGTR--
+141301007 Schieren, Porte de S  01024  01024                % 07476 RGTR--
+141301004 Schieren, Neie Wee    01025  01025                % 07476 RGTR--
+141301006 Schieren, Vali's Pla  01026  01026                % 07476 RGTR--
+140701018 Ettelbruck, H.v.Land  01027  01027                % 07476 RGTR--
+140701026 Ettelbruck, Rond Poi  01028  01028                % 07476 RGTR--
+140701015 Ettelbruck, Ecole Pr  01029  01029                % 07476 RGTR--
+140701016 Ettelbruck, Gare      01030                       % 07476 RGTR--
+*Z 07477 RGTR--                                             % 07477 RGTR--
+*L 402      160904001 140701016  01108  01130               % 07477 RGTR--
+*A pp 160904001 140701016 000006  01108  01130              % 07477 RGTR--
+*A hq 160904001 140701016 000006  01108  01130              % 07477 RGTR--
+*R 1 140701016 160904001 140701016  01108  01130            % 07477 RGTR--
+*G RGB 160904001 140701016  01108  01130                    % 07477 RGTR--
+*A VE 160904001 140701016 000006  01108  01130              % 07477 RGTR--
+*I FD 160904001 140701016        0001215  01108  01130      % 07477 RGTR--
+160904001 Mersch, Gare                 01108                % 07477 RGTR--
+160904005 Mersch, Stäereplaz    01109  01109                % 07477 RGTR--
+160904009 Mersch, Beim Klousch  01110  01110                % 07477 RGTR--
+160904008 Mersch, Mierscherbie  01110  01110                % 07477 RGTR--
+160102002 Rouscht               01115  01115                % 07477 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01116  01116                % 07477 RGTR--
+160102002 Rouscht               01118  01118                % 07477 RGTR--
+160102001 Roost, Mold Plant     01119  01119                % 07477 RGTR--
+160301003 Colmar, Faubourg      01121  01121                % 07477 RGTR--
+160301005 Colmar, Goldbierg     01122  01122                % 07477 RGTR--
+160301010 Colmar, rue de Luxem  01122  01122                % 07477 RGTR--
+141301007 Schieren, Porte de S  01124  01124                % 07477 RGTR--
+141301004 Schieren, Neie Wee    01125  01125                % 07477 RGTR--
+141301006 Schieren, Vali's Pla  01126  01126                % 07477 RGTR--
+140701018 Ettelbruck, H.v.Land  01127  01127                % 07477 RGTR--
+140701026 Ettelbruck, Rond Poi  01128  01128                % 07477 RGTR--
+140701015 Ettelbruck, Ecole Pr  01129  01129                % 07477 RGTR--
+140701016 Ettelbruck, Gare      01130                       % 07477 RGTR--
+*Z 07478 RGTR--                                             % 07478 RGTR--
+*L 402      160904001 140701016  01208  01230               % 07478 RGTR--
+*A pp 160904001 140701016 000006  01208  01230              % 07478 RGTR--
+*A hq 160904001 140701016 000006  01208  01230              % 07478 RGTR--
+*R 1 140701016 160904001 140701016  01208  01230            % 07478 RGTR--
+*G RGB 160904001 140701016  01208  01230                    % 07478 RGTR--
+*A VE 160904001 140701016 000006  01208  01230              % 07478 RGTR--
+*I FD 160904001 140701016        0002222  01208  01230      % 07478 RGTR--
+160904001 Mersch, Gare                 01208                % 07478 RGTR--
+160904005 Mersch, Stäereplaz    01209  01209                % 07478 RGTR--
+160904009 Mersch, Beim Klousch  01210  01210                % 07478 RGTR--
+160904008 Mersch, Mierscherbie  01210  01210                % 07478 RGTR--
+160102002 Rouscht               01215  01215                % 07478 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01216  01216                % 07478 RGTR--
+160102002 Rouscht               01218  01218                % 07478 RGTR--
+160102001 Roost, Mold Plant     01219  01219                % 07478 RGTR--
+160301003 Colmar, Faubourg      01221  01221                % 07478 RGTR--
+160301005 Colmar, Goldbierg     01222  01222                % 07478 RGTR--
+160301010 Colmar, rue de Luxem  01222  01222                % 07478 RGTR--
+141301007 Schieren, Porte de S  01224  01224                % 07478 RGTR--
+141301004 Schieren, Neie Wee    01225  01225                % 07478 RGTR--
+141301006 Schieren, Vali's Pla  01226  01226                % 07478 RGTR--
+140701018 Ettelbruck, H.v.Land  01227  01227                % 07478 RGTR--
+140701026 Ettelbruck, Rond Poi  01228  01228                % 07478 RGTR--
+140701015 Ettelbruck, Ecole Pr  01229  01229                % 07478 RGTR--
+140701016 Ettelbruck, Gare      01230                       % 07478 RGTR--
+*Z 07479 RGTR--                                             % 07479 RGTR--
+*L 402      160904001 140701016  01308  01330               % 07479 RGTR--
+*A pp 160904001 140701016 000006  01308  01330              % 07479 RGTR--
+*A hq 160904001 140701016 000006  01308  01330              % 07479 RGTR--
+*R 1 140701016 160904001 140701016  01308  01330            % 07479 RGTR--
+*G RGB 160904001 140701016  01308  01330                    % 07479 RGTR--
+*A VE 160904001 140701016 000006  01308  01330              % 07479 RGTR--
+*I FD 160904001 140701016        0002455  01308  01330      % 07479 RGTR--
+160904001 Mersch, Gare                 01308                % 07479 RGTR--
+160904005 Mersch, Stäereplaz    01309  01309                % 07479 RGTR--
+160904009 Mersch, Beim Klousch  01310  01310                % 07479 RGTR--
+160904008 Mersch, Mierscherbie  01310  01310                % 07479 RGTR--
+160102002 Rouscht               01315  01315                % 07479 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01316  01316                % 07479 RGTR--
+160102002 Rouscht               01318  01318                % 07479 RGTR--
+160102001 Roost, Mold Plant     01319  01319                % 07479 RGTR--
+160301003 Colmar, Faubourg      01321  01321                % 07479 RGTR--
+160301005 Colmar, Goldbierg     01322  01322                % 07479 RGTR--
+160301010 Colmar, rue de Luxem  01322  01322                % 07479 RGTR--
+141301007 Schieren, Porte de S  01324  01324                % 07479 RGTR--
+141301004 Schieren, Neie Wee    01325  01325                % 07479 RGTR--
+141301006 Schieren, Vali's Pla  01326  01326                % 07479 RGTR--
+140701018 Ettelbruck, H.v.Land  01327  01327                % 07479 RGTR--
+140701026 Ettelbruck, Rond Poi  01328  01328                % 07479 RGTR--
+140701015 Ettelbruck, Ecole Pr  01329  01329                % 07479 RGTR--
+140701016 Ettelbruck, Gare      01330                       % 07479 RGTR--
+*Z 07480 RGTR--                                             % 07480 RGTR--
+*L 402      160904001 140701016  01408  01430               % 07480 RGTR--
+*A pp 160904001 140701016 000006  01408  01430              % 07480 RGTR--
+*A hq 160904001 140701016 000006  01408  01430              % 07480 RGTR--
+*R 1 140701016 160904001 140701016  01408  01430            % 07480 RGTR--
+*G RGB 160904001 140701016  01408  01430                    % 07480 RGTR--
+*A VE 160904001 140701016 000006  01408  01430              % 07480 RGTR--
+*I FD 160904001 140701016        0002225  01408  01430      % 07480 RGTR--
+160904001 Mersch, Gare                 01408                % 07480 RGTR--
+160904005 Mersch, Stäereplaz    01409  01409                % 07480 RGTR--
+160904009 Mersch, Beim Klousch  01410  01410                % 07480 RGTR--
+160904008 Mersch, Mierscherbie  01410  01410                % 07480 RGTR--
+160102002 Rouscht               01415  01415                % 07480 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01416  01416                % 07480 RGTR--
+160102002 Rouscht               01418  01418                % 07480 RGTR--
+160102001 Roost, Mold Plant     01419  01419                % 07480 RGTR--
+160301003 Colmar, Faubourg      01421  01421                % 07480 RGTR--
+160301005 Colmar, Goldbierg     01422  01422                % 07480 RGTR--
+160301010 Colmar, rue de Luxem  01422  01422                % 07480 RGTR--
+141301007 Schieren, Porte de S  01424  01424                % 07480 RGTR--
+141301004 Schieren, Neie Wee    01425  01425                % 07480 RGTR--
+141301006 Schieren, Vali's Pla  01426  01426                % 07480 RGTR--
+140701018 Ettelbruck, H.v.Land  01427  01427                % 07480 RGTR--
+140701026 Ettelbruck, Rond Poi  01428  01428                % 07480 RGTR--
+140701015 Ettelbruck, Ecole Pr  01429  01429                % 07480 RGTR--
+140701016 Ettelbruck, Gare      01430                       % 07480 RGTR--
+*Z 07481 RGTR--                                             % 07481 RGTR--
+*L 402      160904001 140701016  01508  01530               % 07481 RGTR--
+*A pp 160904001 140701016 000006  01508  01530              % 07481 RGTR--
+*A hq 160904001 140701016 000006  01508  01530              % 07481 RGTR--
+*R 1 140701016 160904001 140701016  01508  01530            % 07481 RGTR--
+*G RGB 160904001 140701016  01508  01530                    % 07481 RGTR--
+*A VE 160904001 140701016 000006  01508  01530              % 07481 RGTR--
+*I FD 160904001 140701016        0002456  01508  01530      % 07481 RGTR--
+160904001 Mersch, Gare                 01508                % 07481 RGTR--
+160904005 Mersch, Stäereplaz    01509  01509                % 07481 RGTR--
+160904009 Mersch, Beim Klousch  01510  01510                % 07481 RGTR--
+160904008 Mersch, Mierscherbie  01510  01510                % 07481 RGTR--
+160102002 Rouscht               01515  01515                % 07481 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01516  01516                % 07481 RGTR--
+160102002 Rouscht               01518  01518                % 07481 RGTR--
+160102001 Roost, Mold Plant     01519  01519                % 07481 RGTR--
+160301003 Colmar, Faubourg      01521  01521                % 07481 RGTR--
+160301005 Colmar, Goldbierg     01522  01522                % 07481 RGTR--
+160301010 Colmar, rue de Luxem  01522  01522                % 07481 RGTR--
+141301007 Schieren, Porte de S  01524  01524                % 07481 RGTR--
+141301004 Schieren, Neie Wee    01525  01525                % 07481 RGTR--
+141301006 Schieren, Vali's Pla  01526  01526                % 07481 RGTR--
+140701018 Ettelbruck, H.v.Land  01527  01527                % 07481 RGTR--
+140701026 Ettelbruck, Rond Poi  01528  01528                % 07481 RGTR--
+140701015 Ettelbruck, Ecole Pr  01529  01529                % 07481 RGTR--
+140701016 Ettelbruck, Gare      01530                       % 07481 RGTR--
+*Z 07482 RGTR--                                             % 07482 RGTR--
+*L 402      160904001 140701016  01908  01930               % 07482 RGTR--
+*A pp 160904001 140701016 000006  01908  01930              % 07482 RGTR--
+*A hq 160904001 140701016 000006  01908  01930              % 07482 RGTR--
+*R 1 140701016 160904001 140701016  01908  01930            % 07482 RGTR--
+*G RGB 160904001 140701016  01908  01930                    % 07482 RGTR--
+*A VE 160904001 140701016 000006  01908  01930              % 07482 RGTR--
+*I FD 160904001 140701016        0002457  01908  01930      % 07482 RGTR--
+160904001 Mersch, Gare                 01908                % 07482 RGTR--
+160904005 Mersch, Stäereplaz    01909  01909                % 07482 RGTR--
+160904009 Mersch, Beim Klousch  01910  01910                % 07482 RGTR--
+160904008 Mersch, Mierscherbie  01910  01910                % 07482 RGTR--
+160102002 Rouscht               01915  01915                % 07482 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01916  01916                % 07482 RGTR--
+160102002 Rouscht               01918  01918                % 07482 RGTR--
+160102001 Roost, Mold Plant     01919  01919                % 07482 RGTR--
+160301003 Colmar, Faubourg      01921  01921                % 07482 RGTR--
+160301005 Colmar, Goldbierg     01922  01922                % 07482 RGTR--
+160301010 Colmar, rue de Luxem  01922  01922                % 07482 RGTR--
+141301007 Schieren, Porte de S  01924  01924                % 07482 RGTR--
+141301004 Schieren, Neie Wee    01925  01925                % 07482 RGTR--
+141301006 Schieren, Vali's Pla  01926  01926                % 07482 RGTR--
+140701018 Ettelbruck, H.v.Land  01927  01927                % 07482 RGTR--
+140701026 Ettelbruck, Rond Poi  01928  01928                % 07482 RGTR--
+140701015 Ettelbruck, Ecole Pr  01929  01929                % 07482 RGTR--
+140701016 Ettelbruck, Gare      01930                       % 07482 RGTR--
+*Z 07483 RGTR--                                             % 07483 RGTR--
+*L 402      160904001 140701016  02008  02030               % 07483 RGTR--
+*A pp 160904001 140701016 000006  02008  02030              % 07483 RGTR--
+*A hq 160904001 140701016 000006  02008  02030              % 07483 RGTR--
+*R 1 140701016 160904001 140701016  02008  02030            % 07483 RGTR--
+*G RGB 160904001 140701016  02008  02030                    % 07483 RGTR--
+*A VE 160904001 140701016 000006  02008  02030              % 07483 RGTR--
+*I FD 160904001 140701016        0002458  02008  02030      % 07483 RGTR--
+160904001 Mersch, Gare                 02008                % 07483 RGTR--
+160904005 Mersch, Stäereplaz    02009  02009                % 07483 RGTR--
+160904009 Mersch, Beim Klousch  02010  02010                % 07483 RGTR--
+160904008 Mersch, Mierscherbie  02010  02010                % 07483 RGTR--
+160102002 Rouscht               02015  02015                % 07483 RGTR--
+160101009 Bissen, Z.A.C. Kleng  02016  02016                % 07483 RGTR--
+160102002 Rouscht               02018  02018                % 07483 RGTR--
+160102001 Roost, Mold Plant     02019  02019                % 07483 RGTR--
+160301003 Colmar, Faubourg      02021  02021                % 07483 RGTR--
+160301005 Colmar, Goldbierg     02022  02022                % 07483 RGTR--
+160301010 Colmar, rue de Luxem  02022  02022                % 07483 RGTR--
+141301007 Schieren, Porte de S  02024  02024                % 07483 RGTR--
+141301004 Schieren, Neie Wee    02025  02025                % 07483 RGTR--
+141301006 Schieren, Vali's Pla  02026  02026                % 07483 RGTR--
+140701018 Ettelbruck, H.v.Land  02027  02027                % 07483 RGTR--
+140701026 Ettelbruck, Rond Poi  02028  02028                % 07483 RGTR--
+140701015 Ettelbruck, Ecole Pr  02029  02029                % 07483 RGTR--
+140701016 Ettelbruck, Gare      02030                       % 07483 RGTR--
+*Z 07484 RGTR--                                             % 07484 RGTR--
+*L 402      160904001 140701016  00708  00733               % 07484 RGTR--
+*A pp 160904001 140701016 000006  00708  00733              % 07484 RGTR--
+*A hq 160904001 140701016 000006  00708  00733              % 07484 RGTR--
+*R 1 140701016 160904001 140701016  00708  00733            % 07484 RGTR--
+*G RGB 160904001 140701016  00708  00733                    % 07484 RGTR--
+*A VE 160904001 140701016 000006  00708  00733              % 07484 RGTR--
+*I FD 160904001 140701016        0002669  00708  00733      % 07484 RGTR--
+160904001 Mersch, Gare                 00708                % 07484 RGTR--
+160904005 Mersch, Stäereplaz    00709  00709                % 07484 RGTR--
+160904009 Mersch, Beim Klousch  00710  00710                % 07484 RGTR--
+160904008 Mersch, Mierscherbie  00711  00711                % 07484 RGTR--
+160102002 Rouscht               00715  00715                % 07484 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00717  00717                % 07484 RGTR--
+160102002 Rouscht               00718  00718                % 07484 RGTR--
+160102001 Roost, Mold Plant     00720  00720                % 07484 RGTR--
+160301003 Colmar, Faubourg      00722  00722                % 07484 RGTR--
+160301005 Colmar, Goldbierg     00723  00723                % 07484 RGTR--
+160301010 Colmar, rue de Luxem  00723  00723                % 07484 RGTR--
+141301007 Schieren, Porte de S  00725  00725                % 07484 RGTR--
+141301004 Schieren, Neie Wee    00726  00726                % 07484 RGTR--
+141301006 Schieren, Vali's Pla  00727  00727                % 07484 RGTR--
+140701018 Ettelbruck, H.v.Land  00729  00729                % 07484 RGTR--
+140701026 Ettelbruck, Rond Poi  00730  00730                % 07484 RGTR--
+140701015 Ettelbruck, Ecole Pr  00732  00732                % 07484 RGTR--
+140701016 Ettelbruck, Gare      00733                       % 07484 RGTR--
+*Z 07485 RGTR--                                             % 07485 RGTR--
+*L 402      160904001 140701016  00808  00833               % 07485 RGTR--
+*A pp 160904001 140701016 000006  00808  00833              % 07485 RGTR--
+*A hq 160904001 140701016 000006  00808  00833              % 07485 RGTR--
+*R 1 140701016 160904001 140701016  00808  00833            % 07485 RGTR--
+*G RGB 160904001 140701016  00808  00833                    % 07485 RGTR--
+*A VE 160904001 140701016 000006  00808  00833              % 07485 RGTR--
+*I FD 160904001 140701016        0002226  00808  00833      % 07485 RGTR--
+160904001 Mersch, Gare                 00808                % 07485 RGTR--
+160904005 Mersch, Stäereplaz    00809  00809                % 07485 RGTR--
+160904009 Mersch, Beim Klousch  00810  00810                % 07485 RGTR--
+160904008 Mersch, Mierscherbie  00811  00811                % 07485 RGTR--
+160102002 Rouscht               00815  00815                % 07485 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00817  00817                % 07485 RGTR--
+160102002 Rouscht               00818  00818                % 07485 RGTR--
+160102001 Roost, Mold Plant     00820  00820                % 07485 RGTR--
+160301003 Colmar, Faubourg      00822  00822                % 07485 RGTR--
+160301005 Colmar, Goldbierg     00823  00823                % 07485 RGTR--
+160301010 Colmar, rue de Luxem  00823  00823                % 07485 RGTR--
+141301007 Schieren, Porte de S  00825  00825                % 07485 RGTR--
+141301004 Schieren, Neie Wee    00826  00826                % 07485 RGTR--
+141301006 Schieren, Vali's Pla  00827  00827                % 07485 RGTR--
+140701018 Ettelbruck, H.v.Land  00829  00829                % 07485 RGTR--
+140701026 Ettelbruck, Rond Poi  00830  00830                % 07485 RGTR--
+140701015 Ettelbruck, Ecole Pr  00832  00832                % 07485 RGTR--
+140701016 Ettelbruck, Gare      00833                       % 07485 RGTR--
+*Z 07486 RGTR--                                             % 07486 RGTR--
+*L 402      160904001 140701016  00908  00933               % 07486 RGTR--
+*A pp 160904001 140701016 000006  00908  00933              % 07486 RGTR--
+*A hq 160904001 140701016 000006  00908  00933              % 07486 RGTR--
+*R 1 140701016 160904001 140701016  00908  00933            % 07486 RGTR--
+*G RGB 160904001 140701016  00908  00933                    % 07486 RGTR--
+*A VE 160904001 140701016 000006  00908  00933              % 07486 RGTR--
+*I FD 160904001 140701016        0002227  00908  00933      % 07486 RGTR--
+160904001 Mersch, Gare                 00908                % 07486 RGTR--
+160904005 Mersch, Stäereplaz    00909  00909                % 07486 RGTR--
+160904009 Mersch, Beim Klousch  00910  00910                % 07486 RGTR--
+160904008 Mersch, Mierscherbie  00911  00911                % 07486 RGTR--
+160102002 Rouscht               00915  00915                % 07486 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00917  00917                % 07486 RGTR--
+160102002 Rouscht               00918  00918                % 07486 RGTR--
+160102001 Roost, Mold Plant     00920  00920                % 07486 RGTR--
+160301003 Colmar, Faubourg      00922  00922                % 07486 RGTR--
+160301005 Colmar, Goldbierg     00923  00923                % 07486 RGTR--
+160301010 Colmar, rue de Luxem  00923  00923                % 07486 RGTR--
+141301007 Schieren, Porte de S  00925  00925                % 07486 RGTR--
+141301004 Schieren, Neie Wee    00926  00926                % 07486 RGTR--
+141301006 Schieren, Vali's Pla  00927  00927                % 07486 RGTR--
+140701018 Ettelbruck, H.v.Land  00929  00929                % 07486 RGTR--
+140701026 Ettelbruck, Rond Poi  00930  00930                % 07486 RGTR--
+140701015 Ettelbruck, Ecole Pr  00932  00932                % 07486 RGTR--
+140701016 Ettelbruck, Gare      00933                       % 07486 RGTR--
+*Z 07487 RGTR--                                             % 07487 RGTR--
+*L 402      160904001 140701016  01608  01633               % 07487 RGTR--
+*A pp 160904001 140701016 000006  01608  01633              % 07487 RGTR--
+*A hq 160904001 140701016 000006  01608  01633              % 07487 RGTR--
+*R 1 140701016 160904001 140701016  01608  01633            % 07487 RGTR--
+*G RGB 160904001 140701016  01608  01633                    % 07487 RGTR--
+*A VE 160904001 140701016 000006  01608  01633              % 07487 RGTR--
+*I FD 160904001 140701016        0002230  01608  01633      % 07487 RGTR--
+160904001 Mersch, Gare                 01608                % 07487 RGTR--
+160904005 Mersch, Stäereplaz    01609  01609                % 07487 RGTR--
+160904009 Mersch, Beim Klousch  01610  01610                % 07487 RGTR--
+160904008 Mersch, Mierscherbie  01611  01611                % 07487 RGTR--
+160102002 Rouscht               01615  01615                % 07487 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01617  01617                % 07487 RGTR--
+160102002 Rouscht               01618  01618                % 07487 RGTR--
+160102001 Roost, Mold Plant     01620  01620                % 07487 RGTR--
+160301003 Colmar, Faubourg      01622  01622                % 07487 RGTR--
+160301005 Colmar, Goldbierg     01623  01623                % 07487 RGTR--
+160301010 Colmar, rue de Luxem  01623  01623                % 07487 RGTR--
+141301007 Schieren, Porte de S  01625  01625                % 07487 RGTR--
+141301004 Schieren, Neie Wee    01626  01626                % 07487 RGTR--
+141301006 Schieren, Vali's Pla  01627  01627                % 07487 RGTR--
+140701018 Ettelbruck, H.v.Land  01629  01629                % 07487 RGTR--
+140701026 Ettelbruck, Rond Poi  01630  01630                % 07487 RGTR--
+140701015 Ettelbruck, Ecole Pr  01632  01632                % 07487 RGTR--
+140701016 Ettelbruck, Gare      01633                       % 07487 RGTR--
+*Z 07488 RGTR--                                             % 07488 RGTR--
+*L 402      160904001 140701016  01708  01733               % 07488 RGTR--
+*A pp 160904001 140701016 000006  01708  01733              % 07488 RGTR--
+*A hq 160904001 140701016 000006  01708  01733              % 07488 RGTR--
+*R 1 140701016 160904001 140701016  01708  01733            % 07488 RGTR--
+*G RGB 160904001 140701016  01708  01733                    % 07488 RGTR--
+*A VE 160904001 140701016 000006  01708  01733              % 07488 RGTR--
+*I FD 160904001 140701016        0002228  01708  01733      % 07488 RGTR--
+160904001 Mersch, Gare                 01708                % 07488 RGTR--
+160904005 Mersch, Stäereplaz    01709  01709                % 07488 RGTR--
+160904009 Mersch, Beim Klousch  01710  01710                % 07488 RGTR--
+160904008 Mersch, Mierscherbie  01711  01711                % 07488 RGTR--
+160102002 Rouscht               01715  01715                % 07488 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01717  01717                % 07488 RGTR--
+160102002 Rouscht               01718  01718                % 07488 RGTR--
+160102001 Roost, Mold Plant     01720  01720                % 07488 RGTR--
+160301003 Colmar, Faubourg      01722  01722                % 07488 RGTR--
+160301005 Colmar, Goldbierg     01723  01723                % 07488 RGTR--
+160301010 Colmar, rue de Luxem  01723  01723                % 07488 RGTR--
+141301007 Schieren, Porte de S  01725  01725                % 07488 RGTR--
+141301004 Schieren, Neie Wee    01726  01726                % 07488 RGTR--
+141301006 Schieren, Vali's Pla  01727  01727                % 07488 RGTR--
+140701018 Ettelbruck, H.v.Land  01729  01729                % 07488 RGTR--
+140701026 Ettelbruck, Rond Poi  01730  01730                % 07488 RGTR--
+140701015 Ettelbruck, Ecole Pr  01732  01732                % 07488 RGTR--
+140701016 Ettelbruck, Gare      01733                       % 07488 RGTR--
+*Z 07489 RGTR--                                             % 07489 RGTR--
+*L 402      160904001 140701016  01808  01833               % 07489 RGTR--
+*A pp 160904001 140701016 000006  01808  01833              % 07489 RGTR--
+*A hq 160904001 140701016 000006  01808  01833              % 07489 RGTR--
+*R 1 140701016 160904001 140701016  01808  01833            % 07489 RGTR--
+*G RGB 160904001 140701016  01808  01833                    % 07489 RGTR--
+*A VE 160904001 140701016 000006  01808  01833              % 07489 RGTR--
+*I FD 160904001 140701016        0002229  01808  01833      % 07489 RGTR--
+160904001 Mersch, Gare                 01808                % 07489 RGTR--
+160904005 Mersch, Stäereplaz    01809  01809                % 07489 RGTR--
+160904009 Mersch, Beim Klousch  01810  01810                % 07489 RGTR--
+160904008 Mersch, Mierscherbie  01811  01811                % 07489 RGTR--
+160102002 Rouscht               01815  01815                % 07489 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01817  01817                % 07489 RGTR--
+160102002 Rouscht               01818  01818                % 07489 RGTR--
+160102001 Roost, Mold Plant     01820  01820                % 07489 RGTR--
+160301003 Colmar, Faubourg      01822  01822                % 07489 RGTR--
+160301005 Colmar, Goldbierg     01823  01823                % 07489 RGTR--
+160301010 Colmar, rue de Luxem  01823  01823                % 07489 RGTR--
+141301007 Schieren, Porte de S  01825  01825                % 07489 RGTR--
+141301004 Schieren, Neie Wee    01826  01826                % 07489 RGTR--
+141301006 Schieren, Vali's Pla  01827  01827                % 07489 RGTR--
+140701018 Ettelbruck, H.v.Land  01829  01829                % 07489 RGTR--
+140701026 Ettelbruck, Rond Poi  01830  01830                % 07489 RGTR--
+140701015 Ettelbruck, Ecole Pr  01832  01832                % 07489 RGTR--
+140701016 Ettelbruck, Gare      01833                       % 07489 RGTR--
+*Z 07490 RGTR--                                             % 07490 RGTR--
+*L 402      160904001 140401004  00538  00607               % 07490 RGTR--
+*A pp 160904001 140401004 000006  00538  00607              % 07490 RGTR--
+*A ca 160904001 140401004 000006  00538  00607              % 07490 RGTR--
+*R 1 140401004 160904001 140401004  00538  00607            % 07490 RGTR--
+*G RGB 160904001 140401004  00538  00607                    % 07490 RGTR--
+*A VE 160904001 140401004 000006  00538  00607              % 07490 RGTR--
+*I FD 160904001 140401004        0000901  00538  00607      % 07490 RGTR--
+160904001 Mersch, Gare                 00538                % 07490 RGTR--
+160904005 Mersch, Stäereplaz    00539  00539                % 07490 RGTR--
+160904009 Mersch, Beim Klousch  00540  00540                % 07490 RGTR--
+160904008 Mersch, Mierscherbie  00540  00540                % 07490 RGTR--
+160102002 Rouscht               00545  00545                % 07490 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00546  00546                % 07490 RGTR--
+160102002 Rouscht               00548  00548                % 07490 RGTR--
+160102001 Roost, Mold Plant     00549  00549                % 07490 RGTR--
+160301003 Colmar, Faubourg      00551  00551                % 07490 RGTR--
+160301005 Colmar, Goldbierg     00552  00552                % 07490 RGTR--
+160301010 Colmar, rue de Luxem  00552  00552                % 07490 RGTR--
+141301007 Schieren, Porte de S  00554  00554                % 07490 RGTR--
+141301004 Schieren, Neie Wee    00555  00555                % 07490 RGTR--
+141301006 Schieren, Vali's Pla  00556  00556                % 07490 RGTR--
+140701018 Ettelbruck, H.v.Land  00557  00557                % 07490 RGTR--
+140701026 Ettelbruck, Rond Poi  00558  00558                % 07490 RGTR--
+140701015 Ettelbruck, Ecole Pr  00559  00559                % 07490 RGTR--
+140701016 Ettelbruck, Gare      00600  00600                % 07490 RGTR--
+140602008 Erpeldange/Sûre, Um   00602  00602                % 07490 RGTR--
+140603002 Ingeldorf, Café de l  00604  00604                % 07490 RGTR--
+140401008 Diekirch, Lorentzwue  00606  00606                % 07490 RGTR--
+140401004 Diekirch, Gare        00607                       % 07490 RGTR--
+*Z 07491 RGTR--                                             % 07491 RGTR--
+*L 402      140701016 160904001  00740  00803               % 07491 RGTR--
+*A pp 140701016 160904001 000006  00740  00803              % 07491 RGTR--
+*A ii 140701016 160904001 000006  00740  00803              % 07491 RGTR--
+*R 2 160904001 140701016 160904001  00740  00803            % 07491 RGTR--
+*G RGB 140701016 160904001  00740  00803                    % 07491 RGTR--
+*A VE 140701016 160904001 000006  00740  00803              % 07491 RGTR--
+*I FD 140701016 160904001        0001952  00740  00803      % 07491 RGTR--
+140701016 Ettelbruck, Gare             00740                % 07491 RGTR--
+140701024 Ettelbruck, Pensionn  00741  00741                % 07491 RGTR--
+140701026 Ettelbruck, Rond Poi  00744  00744                % 07491 RGTR--
+140701018 Ettelbruck, H.v.Land  00745  00745                % 07491 RGTR--
+141301002 Schieren, Faubourg    00746  00746                % 07491 RGTR--
+141301005 Schieren, Uewerschie  00747  00747                % 07491 RGTR--
+141301007 Schieren, Porte de S  00747  00747                % 07491 RGTR--
+160301011 Colmar, rue d'Ettelb  00749  00749                % 07491 RGTR--
+160301005 Colmar, Goldbierg     00750  00750                % 07491 RGTR--
+160301003 Colmar, Faubourg      00751  00751                % 07491 RGTR--
+160102001 Roost, Mold Plant     00752  00752                % 07491 RGTR--
+160102002 Rouscht               00753  00753                % 07491 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00755  00755                % 07491 RGTR--
+160102002 Rouscht               00756  00756                % 07491 RGTR--
+160904008 Mersch, Mierscherbie  00801  00801                % 07491 RGTR--
+160904009 Mersch, Beim Klousch  00801  00801                % 07491 RGTR--
+160904005 Mersch, Stäereplaz    00802  00802                % 07491 RGTR--
+160904001 Mersch, Gare          00803                       % 07491 RGTR--
+*Z 07492 RGTR--                                             % 07492 RGTR--
+*L 402      140701016 160904001  00840  00903               % 07492 RGTR--
+*A pp 140701016 160904001 000006  00840  00903              % 07492 RGTR--
+*A ii 140701016 160904001 000006  00840  00903              % 07492 RGTR--
+*R 2 160904001 140701016 160904001  00840  00903            % 07492 RGTR--
+*G RGB 140701016 160904001  00840  00903                    % 07492 RGTR--
+*A VE 140701016 160904001 000006  00840  00903              % 07492 RGTR--
+*I FD 140701016 160904001        0001954  00840  00903      % 07492 RGTR--
+140701016 Ettelbruck, Gare             00840                % 07492 RGTR--
+140701024 Ettelbruck, Pensionn  00841  00841                % 07492 RGTR--
+140701026 Ettelbruck, Rond Poi  00844  00844                % 07492 RGTR--
+140701018 Ettelbruck, H.v.Land  00845  00845                % 07492 RGTR--
+141301002 Schieren, Faubourg    00846  00846                % 07492 RGTR--
+141301005 Schieren, Uewerschie  00847  00847                % 07492 RGTR--
+141301007 Schieren, Porte de S  00847  00847                % 07492 RGTR--
+160301011 Colmar, rue d'Ettelb  00849  00849                % 07492 RGTR--
+160301005 Colmar, Goldbierg     00850  00850                % 07492 RGTR--
+160301003 Colmar, Faubourg      00851  00851                % 07492 RGTR--
+160102001 Roost, Mold Plant     00852  00852                % 07492 RGTR--
+160102002 Rouscht               00853  00853                % 07492 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00855  00855                % 07492 RGTR--
+160102002 Rouscht               00856  00856                % 07492 RGTR--
+160904008 Mersch, Mierscherbie  00901  00901                % 07492 RGTR--
+160904009 Mersch, Beim Klousch  00901  00901                % 07492 RGTR--
+160904005 Mersch, Stäereplaz    00902  00902                % 07492 RGTR--
+160904001 Mersch, Gare          00903                       % 07492 RGTR--
+*Z 07493 RGTR--                                             % 07493 RGTR--
+*L 402      140701016 160904001  01640  01703               % 07493 RGTR--
+*A pp 140701016 160904001 000006  01640  01703              % 07493 RGTR--
+*A ii 140701016 160904001 000006  01640  01703              % 07493 RGTR--
+*R 2 160904001 140701016 160904001  01640  01703            % 07493 RGTR--
+*G RGB 140701016 160904001  01640  01703                    % 07493 RGTR--
+*A VE 140701016 160904001 000006  01640  01703              % 07493 RGTR--
+*I FD 140701016 160904001        0001342  01640  01703      % 07493 RGTR--
+140701016 Ettelbruck, Gare             01640                % 07493 RGTR--
+140701024 Ettelbruck, Pensionn  01641  01641                % 07493 RGTR--
+140701026 Ettelbruck, Rond Poi  01644  01644                % 07493 RGTR--
+140701018 Ettelbruck, H.v.Land  01645  01645                % 07493 RGTR--
+141301002 Schieren, Faubourg    01646  01646                % 07493 RGTR--
+141301005 Schieren, Uewerschie  01647  01647                % 07493 RGTR--
+141301007 Schieren, Porte de S  01647  01647                % 07493 RGTR--
+160301011 Colmar, rue d'Ettelb  01649  01649                % 07493 RGTR--
+160301005 Colmar, Goldbierg     01650  01650                % 07493 RGTR--
+160301003 Colmar, Faubourg      01651  01651                % 07493 RGTR--
+160102001 Roost, Mold Plant     01652  01652                % 07493 RGTR--
+160102002 Rouscht               01653  01653                % 07493 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01655  01655                % 07493 RGTR--
+160102002 Rouscht               01656  01656                % 07493 RGTR--
+160904008 Mersch, Mierscherbie  01701  01701                % 07493 RGTR--
+160904009 Mersch, Beim Klousch  01701  01701                % 07493 RGTR--
+160904005 Mersch, Stäereplaz    01702  01702                % 07493 RGTR--
+160904001 Mersch, Gare          01703                       % 07493 RGTR--
+*Z 07494 RGTR--                                             % 07494 RGTR--
+*L 402      140701016 160904001  01740  01803               % 07494 RGTR--
+*A pp 140701016 160904001 000006  01740  01803              % 07494 RGTR--
+*A ii 140701016 160904001 000006  01740  01803              % 07494 RGTR--
+*R 2 160904001 140701016 160904001  01740  01803            % 07494 RGTR--
+*G RGB 140701016 160904001  01740  01803                    % 07494 RGTR--
+*A VE 140701016 160904001 000006  01740  01803              % 07494 RGTR--
+*I FD 140701016 160904001        0001979  01740  01803      % 07494 RGTR--
+140701016 Ettelbruck, Gare             01740                % 07494 RGTR--
+140701024 Ettelbruck, Pensionn  01741  01741                % 07494 RGTR--
+140701026 Ettelbruck, Rond Poi  01744  01744                % 07494 RGTR--
+140701018 Ettelbruck, H.v.Land  01745  01745                % 07494 RGTR--
+141301002 Schieren, Faubourg    01746  01746                % 07494 RGTR--
+141301005 Schieren, Uewerschie  01747  01747                % 07494 RGTR--
+141301007 Schieren, Porte de S  01747  01747                % 07494 RGTR--
+160301011 Colmar, rue d'Ettelb  01749  01749                % 07494 RGTR--
+160301005 Colmar, Goldbierg     01750  01750                % 07494 RGTR--
+160301003 Colmar, Faubourg      01751  01751                % 07494 RGTR--
+160102001 Roost, Mold Plant     01752  01752                % 07494 RGTR--
+160102002 Rouscht               01753  01753                % 07494 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01755  01755                % 07494 RGTR--
+160102002 Rouscht               01756  01756                % 07494 RGTR--
+160904008 Mersch, Mierscherbie  01801  01801                % 07494 RGTR--
+160904009 Mersch, Beim Klousch  01801  01801                % 07494 RGTR--
+160904005 Mersch, Stäereplaz    01802  01802                % 07494 RGTR--
+160904001 Mersch, Gare          01803                       % 07494 RGTR--
+*Z 07495 RGTR--                                             % 07495 RGTR--
+*L 402      140701016 160904001  00940  01002               % 07495 RGTR--
+*A pp 140701016 160904001 000006  00940  01002              % 07495 RGTR--
+*A ii 140701016 160904001 000006  00940  01002              % 07495 RGTR--
+*R 2 160904001 140701016 160904001  00940  01002            % 07495 RGTR--
+*G RGB 140701016 160904001  00940  01002                    % 07495 RGTR--
+*A VE 140701016 160904001 000006  00940  01002              % 07495 RGTR--
+*I FD 140701016 160904001        0001957  00940  01002      % 07495 RGTR--
+140701016 Ettelbruck, Gare             00940                % 07495 RGTR--
+140701024 Ettelbruck, Pensionn  00941  00941                % 07495 RGTR--
+140701026 Ettelbruck, Rond Poi  00943  00943                % 07495 RGTR--
+140701018 Ettelbruck, H.v.Land  00944  00944                % 07495 RGTR--
+141301002 Schieren, Faubourg    00945  00945                % 07495 RGTR--
+141301005 Schieren, Uewerschie  00946  00946                % 07495 RGTR--
+141301007 Schieren, Porte de S  00947  00947                % 07495 RGTR--
+160301011 Colmar, rue d'Ettelb  00948  00948                % 07495 RGTR--
+160301005 Colmar, Goldbierg     00949  00949                % 07495 RGTR--
+160301003 Colmar, Faubourg      00950  00950                % 07495 RGTR--
+160102001 Roost, Mold Plant     00951  00951                % 07495 RGTR--
+160102002 Rouscht               00952  00952                % 07495 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00954  00954                % 07495 RGTR--
+160102002 Rouscht               00955  00955                % 07495 RGTR--
+160904008 Mersch, Mierscherbie  01000  01000                % 07495 RGTR--
+160904009 Mersch, Beim Klousch  01000  01000                % 07495 RGTR--
+160904005 Mersch, Stäereplaz    01001  01001                % 07495 RGTR--
+160904001 Mersch, Gare          01002                       % 07495 RGTR--
+*Z 07496 RGTR--                                             % 07496 RGTR--
+*L 402      140701016 160904001  01040  01102               % 07496 RGTR--
+*A pp 140701016 160904001 000006  01040  01102              % 07496 RGTR--
+*A ii 140701016 160904001 000006  01040  01102              % 07496 RGTR--
+*R 2 160904001 140701016 160904001  01040  01102            % 07496 RGTR--
+*G RGB 140701016 160904001  01040  01102                    % 07496 RGTR--
+*A VE 140701016 160904001 000006  01040  01102              % 07496 RGTR--
+*I FD 140701016 160904001        0001960  01040  01102      % 07496 RGTR--
+140701016 Ettelbruck, Gare             01040                % 07496 RGTR--
+140701024 Ettelbruck, Pensionn  01041  01041                % 07496 RGTR--
+140701026 Ettelbruck, Rond Poi  01043  01043                % 07496 RGTR--
+140701018 Ettelbruck, H.v.Land  01044  01044                % 07496 RGTR--
+141301002 Schieren, Faubourg    01045  01045                % 07496 RGTR--
+141301005 Schieren, Uewerschie  01046  01046                % 07496 RGTR--
+141301007 Schieren, Porte de S  01047  01047                % 07496 RGTR--
+160301011 Colmar, rue d'Ettelb  01048  01048                % 07496 RGTR--
+160301005 Colmar, Goldbierg     01049  01049                % 07496 RGTR--
+160301003 Colmar, Faubourg      01050  01050                % 07496 RGTR--
+160102001 Roost, Mold Plant     01051  01051                % 07496 RGTR--
+160102002 Rouscht               01052  01052                % 07496 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01054  01054                % 07496 RGTR--
+160102002 Rouscht               01055  01055                % 07496 RGTR--
+160904008 Mersch, Mierscherbie  01100  01100                % 07496 RGTR--
+160904009 Mersch, Beim Klousch  01100  01100                % 07496 RGTR--
+160904005 Mersch, Stäereplaz    01101  01101                % 07496 RGTR--
+160904001 Mersch, Gare          01102                       % 07496 RGTR--
+*Z 07497 RGTR--                                             % 07497 RGTR--
+*L 402      140701016 160904001  01140  01202               % 07497 RGTR--
+*A pp 140701016 160904001 000006  01140  01202              % 07497 RGTR--
+*A ii 140701016 160904001 000006  01140  01202              % 07497 RGTR--
+*R 2 160904001 140701016 160904001  01140  01202            % 07497 RGTR--
+*G RGB 140701016 160904001  01140  01202                    % 07497 RGTR--
+*A VE 140701016 160904001 000006  01140  01202              % 07497 RGTR--
+*I FD 140701016 160904001        0001963  01140  01202      % 07497 RGTR--
+140701016 Ettelbruck, Gare             01140                % 07497 RGTR--
+140701024 Ettelbruck, Pensionn  01141  01141                % 07497 RGTR--
+140701026 Ettelbruck, Rond Poi  01143  01143                % 07497 RGTR--
+140701018 Ettelbruck, H.v.Land  01144  01144                % 07497 RGTR--
+141301002 Schieren, Faubourg    01145  01145                % 07497 RGTR--
+141301005 Schieren, Uewerschie  01146  01146                % 07497 RGTR--
+141301007 Schieren, Porte de S  01147  01147                % 07497 RGTR--
+160301011 Colmar, rue d'Ettelb  01148  01148                % 07497 RGTR--
+160301005 Colmar, Goldbierg     01149  01149                % 07497 RGTR--
+160301003 Colmar, Faubourg      01150  01150                % 07497 RGTR--
+160102001 Roost, Mold Plant     01151  01151                % 07497 RGTR--
+160102002 Rouscht               01152  01152                % 07497 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01154  01154                % 07497 RGTR--
+160102002 Rouscht               01155  01155                % 07497 RGTR--
+160904008 Mersch, Mierscherbie  01200  01200                % 07497 RGTR--
+160904009 Mersch, Beim Klousch  01200  01200                % 07497 RGTR--
+160904005 Mersch, Stäereplaz    01201  01201                % 07497 RGTR--
+160904001 Mersch, Gare          01202                       % 07497 RGTR--
+*Z 07498 RGTR--                                             % 07498 RGTR--
+*L 402      140701016 160904001  01240  01302               % 07498 RGTR--
+*A pp 140701016 160904001 000006  01240  01302              % 07498 RGTR--
+*A ii 140701016 160904001 000006  01240  01302              % 07498 RGTR--
+*R 2 160904001 140701016 160904001  01240  01302            % 07498 RGTR--
+*G RGB 140701016 160904001  01240  01302                    % 07498 RGTR--
+*A VE 140701016 160904001 000006  01240  01302              % 07498 RGTR--
+*I FD 140701016 160904001        0001278  01240  01302      % 07498 RGTR--
+140701016 Ettelbruck, Gare             01240                % 07498 RGTR--
+140701024 Ettelbruck, Pensionn  01241  01241                % 07498 RGTR--
+140701026 Ettelbruck, Rond Poi  01243  01243                % 07498 RGTR--
+140701018 Ettelbruck, H.v.Land  01244  01244                % 07498 RGTR--
+141301002 Schieren, Faubourg    01245  01245                % 07498 RGTR--
+141301005 Schieren, Uewerschie  01246  01246                % 07498 RGTR--
+141301007 Schieren, Porte de S  01247  01247                % 07498 RGTR--
+160301011 Colmar, rue d'Ettelb  01248  01248                % 07498 RGTR--
+160301005 Colmar, Goldbierg     01249  01249                % 07498 RGTR--
+160301003 Colmar, Faubourg      01250  01250                % 07498 RGTR--
+160102001 Roost, Mold Plant     01251  01251                % 07498 RGTR--
+160102002 Rouscht               01252  01252                % 07498 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01254  01254                % 07498 RGTR--
+160102002 Rouscht               01255  01255                % 07498 RGTR--
+160904008 Mersch, Mierscherbie  01300  01300                % 07498 RGTR--
+160904009 Mersch, Beim Klousch  01300  01300                % 07498 RGTR--
+160904005 Mersch, Stäereplaz    01301  01301                % 07498 RGTR--
+160904001 Mersch, Gare          01302                       % 07498 RGTR--
+*Z 07499 RGTR--                                             % 07499 RGTR--
+*L 402      140701016 160904001  01340  01402               % 07499 RGTR--
+*A pp 140701016 160904001 000006  01340  01402              % 07499 RGTR--
+*A ii 140701016 160904001 000006  01340  01402              % 07499 RGTR--
+*R 2 160904001 140701016 160904001  01340  01402            % 07499 RGTR--
+*G RGB 140701016 160904001  01340  01402                    % 07499 RGTR--
+*A VE 140701016 160904001 000006  01340  01402              % 07499 RGTR--
+*I FD 140701016 160904001        0001968  01340  01402      % 07499 RGTR--
+140701016 Ettelbruck, Gare             01340                % 07499 RGTR--
+140701024 Ettelbruck, Pensionn  01341  01341                % 07499 RGTR--
+140701026 Ettelbruck, Rond Poi  01343  01343                % 07499 RGTR--
+140701018 Ettelbruck, H.v.Land  01344  01344                % 07499 RGTR--
+141301002 Schieren, Faubourg    01345  01345                % 07499 RGTR--
+141301005 Schieren, Uewerschie  01346  01346                % 07499 RGTR--
+141301007 Schieren, Porte de S  01347  01347                % 07499 RGTR--
+160301011 Colmar, rue d'Ettelb  01348  01348                % 07499 RGTR--
+160301005 Colmar, Goldbierg     01349  01349                % 07499 RGTR--
+160301003 Colmar, Faubourg      01350  01350                % 07499 RGTR--
+160102001 Roost, Mold Plant     01351  01351                % 07499 RGTR--
+160102002 Rouscht               01352  01352                % 07499 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01354  01354                % 07499 RGTR--
+160102002 Rouscht               01355  01355                % 07499 RGTR--
+160904008 Mersch, Mierscherbie  01400  01400                % 07499 RGTR--
+160904009 Mersch, Beim Klousch  01400  01400                % 07499 RGTR--
+160904005 Mersch, Stäereplaz    01401  01401                % 07499 RGTR--
+160904001 Mersch, Gare          01402                       % 07499 RGTR--
+*Z 07500 RGTR--                                             % 07500 RGTR--
+*L 402      140701016 160904001  01440  01502               % 07500 RGTR--
+*A pp 140701016 160904001 000006  01440  01502              % 07500 RGTR--
+*A ii 140701016 160904001 000006  01440  01502              % 07500 RGTR--
+*R 2 160904001 140701016 160904001  01440  01502            % 07500 RGTR--
+*G RGB 140701016 160904001  01440  01502                    % 07500 RGTR--
+*A VE 140701016 160904001 000006  01440  01502              % 07500 RGTR--
+*I FD 140701016 160904001        0001971  01440  01502      % 07500 RGTR--
+140701016 Ettelbruck, Gare             01440                % 07500 RGTR--
+140701024 Ettelbruck, Pensionn  01441  01441                % 07500 RGTR--
+140701026 Ettelbruck, Rond Poi  01443  01443                % 07500 RGTR--
+140701018 Ettelbruck, H.v.Land  01444  01444                % 07500 RGTR--
+141301002 Schieren, Faubourg    01445  01445                % 07500 RGTR--
+141301005 Schieren, Uewerschie  01446  01446                % 07500 RGTR--
+141301007 Schieren, Porte de S  01447  01447                % 07500 RGTR--
+160301011 Colmar, rue d'Ettelb  01448  01448                % 07500 RGTR--
+160301005 Colmar, Goldbierg     01449  01449                % 07500 RGTR--
+160301003 Colmar, Faubourg      01450  01450                % 07500 RGTR--
+160102001 Roost, Mold Plant     01451  01451                % 07500 RGTR--
+160102002 Rouscht               01452  01452                % 07500 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01454  01454                % 07500 RGTR--
+160102002 Rouscht               01455  01455                % 07500 RGTR--
+160904008 Mersch, Mierscherbie  01500  01500                % 07500 RGTR--
+160904009 Mersch, Beim Klousch  01500  01500                % 07500 RGTR--
+160904005 Mersch, Stäereplaz    01501  01501                % 07500 RGTR--
+160904001 Mersch, Gare          01502                       % 07500 RGTR--
+*Z 07501 RGTR--                                             % 07501 RGTR--
+*L 402      140701016 160904001  01540  01602               % 07501 RGTR--
+*A pp 140701016 160904001 000006  01540  01602              % 07501 RGTR--
+*A ii 140701016 160904001 000006  01540  01602              % 07501 RGTR--
+*R 2 160904001 140701016 160904001  01540  01602            % 07501 RGTR--
+*G RGB 140701016 160904001  01540  01602                    % 07501 RGTR--
+*A VE 140701016 160904001 000006  01540  01602              % 07501 RGTR--
+*I FD 140701016 160904001        0001974  01540  01602      % 07501 RGTR--
+140701016 Ettelbruck, Gare             01540                % 07501 RGTR--
+140701024 Ettelbruck, Pensionn  01541  01541                % 07501 RGTR--
+140701026 Ettelbruck, Rond Poi  01543  01543                % 07501 RGTR--
+140701018 Ettelbruck, H.v.Land  01544  01544                % 07501 RGTR--
+141301002 Schieren, Faubourg    01545  01545                % 07501 RGTR--
+141301005 Schieren, Uewerschie  01546  01546                % 07501 RGTR--
+141301007 Schieren, Porte de S  01547  01547                % 07501 RGTR--
+160301011 Colmar, rue d'Ettelb  01548  01548                % 07501 RGTR--
+160301005 Colmar, Goldbierg     01549  01549                % 07501 RGTR--
+160301003 Colmar, Faubourg      01550  01550                % 07501 RGTR--
+160102001 Roost, Mold Plant     01551  01551                % 07501 RGTR--
+160102002 Rouscht               01552  01552                % 07501 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01554  01554                % 07501 RGTR--
+160102002 Rouscht               01555  01555                % 07501 RGTR--
+160904008 Mersch, Mierscherbie  01600  01600                % 07501 RGTR--
+160904009 Mersch, Beim Klousch  01600  01600                % 07501 RGTR--
+160904005 Mersch, Stäereplaz    01601  01601                % 07501 RGTR--
+160904001 Mersch, Gare          01602                       % 07501 RGTR--
+*Z 07502 RGTR--                                             % 07502 RGTR--
+*L 402      140701016 160904001  01840  01902               % 07502 RGTR--
+*A pp 140701016 160904001 000006  01840  01902              % 07502 RGTR--
+*A ii 140701016 160904001 000006  01840  01902              % 07502 RGTR--
+*R 2 160904001 140701016 160904001  01840  01902            % 07502 RGTR--
+*G RGB 140701016 160904001  01840  01902                    % 07502 RGTR--
+*A VE 140701016 160904001 000006  01840  01902              % 07502 RGTR--
+*I FD 140701016 160904001        0001440  01840  01902      % 07502 RGTR--
+140701016 Ettelbruck, Gare             01840                % 07502 RGTR--
+140701024 Ettelbruck, Pensionn  01841  01841                % 07502 RGTR--
+140701026 Ettelbruck, Rond Poi  01843  01843                % 07502 RGTR--
+140701018 Ettelbruck, H.v.Land  01844  01844                % 07502 RGTR--
+141301002 Schieren, Faubourg    01845  01845                % 07502 RGTR--
+141301005 Schieren, Uewerschie  01846  01846                % 07502 RGTR--
+141301007 Schieren, Porte de S  01847  01847                % 07502 RGTR--
+160301011 Colmar, rue d'Ettelb  01848  01848                % 07502 RGTR--
+160301005 Colmar, Goldbierg     01849  01849                % 07502 RGTR--
+160301003 Colmar, Faubourg      01850  01850                % 07502 RGTR--
+160102001 Roost, Mold Plant     01851  01851                % 07502 RGTR--
+160102002 Rouscht               01852  01852                % 07502 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01854  01854                % 07502 RGTR--
+160102002 Rouscht               01855  01855                % 07502 RGTR--
+160904008 Mersch, Mierscherbie  01900  01900                % 07502 RGTR--
+160904009 Mersch, Beim Klousch  01900  01900                % 07502 RGTR--
+160904005 Mersch, Stäereplaz    01901  01901                % 07502 RGTR--
+160904001 Mersch, Gare          01902                       % 07502 RGTR--
+*Z 07503 RGTR--                                             % 07503 RGTR--
+*L 402      140701016 160904001  01940  02002               % 07503 RGTR--
+*A pp 140701016 160904001 000006  01940  02002              % 07503 RGTR--
+*A ii 140701016 160904001 000006  01940  02002              % 07503 RGTR--
+*R 2 160904001 140701016 160904001  01940  02002            % 07503 RGTR--
+*G RGB 140701016 160904001  01940  02002                    % 07503 RGTR--
+*A VE 140701016 160904001 000006  01940  02002              % 07503 RGTR--
+*I FD 140701016 160904001        0002157  01940  02002      % 07503 RGTR--
+140701016 Ettelbruck, Gare             01940                % 07503 RGTR--
+140701024 Ettelbruck, Pensionn  01941  01941                % 07503 RGTR--
+140701026 Ettelbruck, Rond Poi  01943  01943                % 07503 RGTR--
+140701018 Ettelbruck, H.v.Land  01944  01944                % 07503 RGTR--
+141301002 Schieren, Faubourg    01945  01945                % 07503 RGTR--
+141301005 Schieren, Uewerschie  01946  01946                % 07503 RGTR--
+141301007 Schieren, Porte de S  01947  01947                % 07503 RGTR--
+160301011 Colmar, rue d'Ettelb  01948  01948                % 07503 RGTR--
+160301005 Colmar, Goldbierg     01949  01949                % 07503 RGTR--
+160301003 Colmar, Faubourg      01950  01950                % 07503 RGTR--
+160102001 Roost, Mold Plant     01951  01951                % 07503 RGTR--
+160102002 Rouscht               01952  01952                % 07503 RGTR--
+160101009 Bissen, Z.A.C. Kleng  01954  01954                % 07503 RGTR--
+160102002 Rouscht               01955  01955                % 07503 RGTR--
+160904008 Mersch, Mierscherbie  02000  02000                % 07503 RGTR--
+160904009 Mersch, Beim Klousch  02000  02000                % 07503 RGTR--
+160904005 Mersch, Stäereplaz    02001  02001                % 07503 RGTR--
+160904001 Mersch, Gare          02002                       % 07503 RGTR--
+*Z 07504 RGTR--                                             % 07504 RGTR--
+*L 402      140701016 160904001  02040  02102               % 07504 RGTR--
+*A pp 140701016 160904001 000006  02040  02102              % 07504 RGTR--
+*A ii 140701016 160904001 000006  02040  02102              % 07504 RGTR--
+*R 2 160904001 140701016 160904001  02040  02102            % 07504 RGTR--
+*G RGB 140701016 160904001  02040  02102                    % 07504 RGTR--
+*A VE 140701016 160904001 000006  02040  02102              % 07504 RGTR--
+*I FD 140701016 160904001        0002158  02040  02102      % 07504 RGTR--
+140701016 Ettelbruck, Gare             02040                % 07504 RGTR--
+140701024 Ettelbruck, Pensionn  02041  02041                % 07504 RGTR--
+140701026 Ettelbruck, Rond Poi  02043  02043                % 07504 RGTR--
+140701018 Ettelbruck, H.v.Land  02044  02044                % 07504 RGTR--
+141301002 Schieren, Faubourg    02045  02045                % 07504 RGTR--
+141301005 Schieren, Uewerschie  02046  02046                % 07504 RGTR--
+141301007 Schieren, Porte de S  02047  02047                % 07504 RGTR--
+160301011 Colmar, rue d'Ettelb  02048  02048                % 07504 RGTR--
+160301005 Colmar, Goldbierg     02049  02049                % 07504 RGTR--
+160301003 Colmar, Faubourg      02050  02050                % 07504 RGTR--
+160102001 Roost, Mold Plant     02051  02051                % 07504 RGTR--
+160102002 Rouscht               02052  02052                % 07504 RGTR--
+160101009 Bissen, Z.A.C. Kleng  02054  02054                % 07504 RGTR--
+160102002 Rouscht               02055  02055                % 07504 RGTR--
+160904008 Mersch, Mierscherbie  02100  02100                % 07504 RGTR--
+160904009 Mersch, Beim Klousch  02100  02100                % 07504 RGTR--
+160904005 Mersch, Stäereplaz    02101  02101                % 07504 RGTR--
+160904001 Mersch, Gare          02102                       % 07504 RGTR--
+*Z 07505 RGTR--                                             % 07505 RGTR--
+*L 402      140401004 160904001  00619  00649               % 07505 RGTR--
+*A pp 140401004 160904001 000006  00619  00649              % 07505 RGTR--
+*A ii 140401004 160904001 000006  00619  00649              % 07505 RGTR--
+*R 2 160904001 140401004 160904001  00619  00649            % 07505 RGTR--
+*G RGB 140401004 160904001  00619  00649                    % 07505 RGTR--
+*A VE 140401004 160904001 000006  00619  00649              % 07505 RGTR--
+*I FD 140401004 160904001        0001987  00619  00649      % 07505 RGTR--
+140401004 Diekirch, Gare               00619                % 07505 RGTR--
+140401008 Diekirch, Lorentzwue  00620  00620                % 07505 RGTR--
+140603002 Ingeldorf, Café de l  00622  00622                % 07505 RGTR--
+140602008 Erpeldange/Sûre, Um   00624  00624                % 07505 RGTR--
+140701016 Ettelbruck, Gare      00626  00626                % 07505 RGTR--
+140701024 Ettelbruck, Pensionn  00628  00628                % 07505 RGTR--
+140701026 Ettelbruck, Rond Poi  00630  00630                % 07505 RGTR--
+140701018 Ettelbruck, H.v.Land  00631  00631                % 07505 RGTR--
+141301002 Schieren, Faubourg    00632  00632                % 07505 RGTR--
+141301005 Schieren, Uewerschie  00633  00633                % 07505 RGTR--
+141301007 Schieren, Porte de S  00634  00634                % 07505 RGTR--
+160301011 Colmar, rue d'Ettelb  00635  00635                % 07505 RGTR--
+160301005 Colmar, Goldbierg     00636  00636                % 07505 RGTR--
+160301003 Colmar, Faubourg      00637  00637                % 07505 RGTR--
+160102001 Roost, Mold Plant     00638  00638                % 07505 RGTR--
+160102002 Rouscht               00639  00639                % 07505 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00641  00641                % 07505 RGTR--
+160102002 Rouscht               00642  00642                % 07505 RGTR--
+160904008 Mersch, Mierscherbie  00647  00647                % 07505 RGTR--
+160904009 Mersch, Beim Klousch  00647  00647                % 07505 RGTR--
+160904005 Mersch, Stäereplaz    00648  00648                % 07505 RGTR--
+160904001 Mersch, Gare          00649                       % 07505 RGTR--

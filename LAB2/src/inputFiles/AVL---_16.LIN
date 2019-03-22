@@ -1,0 +1,925 @@
+*F 03 2
+*Z 01585 AVL---       001 015                               % 01585 AVL---
+*L 16       200303002 200501001  02014  02049               % 01585 AVL---
+*A BE 200303002 200501001 000015  02014  02049              % 01585 AVL---
+*R 1 200501001 200303002 200501001  02014  02049            % 01585 AVL---
+*G AVG 200303002 200501001  02014  02049                    % 01585 AVL---
+*A VE 200303002 200501001 000015  02014  02049              % 01585 AVL---
+200303002 Hesperange, Cité Um          02014                % 01585 AVL---
+200304007 Howald, Op der Stirz  02016  02016                % 01585 AVL---
+200304011 Howald, Ronneboesch   02017  02017                % 01585 AVL---
+200304006 Howald, Moureschanz   02018  02018                % 01585 AVL---
+200405036 Luxembourg, Gare rou  02022  02022                % 01585 AVL---
+200405026 Luxembourg/Centre, P  02025  02025                % 01585 AVL---
+200405023 Centre, Martyrs       02026  02026                % 01585 AVL---
+200405020 Hamilius              02029  02029                % 01585 AVL---
+200405014 Centre, Fondation Pe  02031  02031                % 01585 AVL---
+200417047 Kirchberg, Rout Bréc  02033  02033                % 01585 AVL---
+200417007 Kirchberg, B.E.I.     02035  02035                % 01585 AVL---
+200417016 Kirchberg, Jean Monn  02036  02036                % 01585 AVL---
+200417005 Kirchberg, Antoine d  02037  02037                % 01585 AVL---
+200417019 Kirchberg, Konrad Ad  02038  02038                % 01585 AVL---
+200417039 Kirchberg, Avalon     02039  02039                % 01585 AVL---
+200417033 Kirchberg, Poutty St  02041  02041                % 01585 AVL---
+200417044 Kirchberg, Luxexpo Q  02042  02042                % 01585 AVL---
+200508001 Senningerberg, Autob  02047  02047                % 01585 AVL---
+200501001 Aéroport Luxembourg/  02049                       % 01585 AVL---
+*Z 01586 AVL---       006 100                               % 01586 AVL---
+*L 16       200303002 200501001  00859  00934               % 01586 AVL---
+*A BE 200303002 200501001 000021  00859  00934              % 01586 AVL---
+*R 1 200501001 200303002 200501001  00859  00934            % 01586 AVL---
+*G AVG 200303002 200501001  00859  00934                    % 01586 AVL---
+*A VE 200303002 200501001 000021  00859  00934              % 01586 AVL---
+200303002 Hesperange, Cité Um          00859                % 01586 AVL---
+200304007 Howald, Op der Stirz  00901  00901                % 01586 AVL---
+200304011 Howald, Ronneboesch   00902  00902                % 01586 AVL---
+200304006 Howald, Moureschanz   00903  00903                % 01586 AVL---
+200405036 Luxembourg, Gare rou  00907  00907                % 01586 AVL---
+200405026 Luxembourg/Centre, P  00910  00910                % 01586 AVL---
+200405023 Centre, Martyrs       00911  00911                % 01586 AVL---
+200405020 Hamilius              00914  00914                % 01586 AVL---
+200405014 Centre, Fondation Pe  00916  00916                % 01586 AVL---
+200417047 Kirchberg, Rout Bréc  00918  00918                % 01586 AVL---
+200417007 Kirchberg, B.E.I.     00920  00920                % 01586 AVL---
+200417016 Kirchberg, Jean Monn  00921  00921                % 01586 AVL---
+200417005 Kirchberg, Antoine d  00922  00922                % 01586 AVL---
+200417019 Kirchberg, Konrad Ad  00923  00923                % 01586 AVL---
+200417039 Kirchberg, Avalon     00924  00924                % 01586 AVL---
+200417033 Kirchberg, Poutty St  00926  00926                % 01586 AVL---
+200417044 Kirchberg, Luxexpo Q  00927  00927                % 01586 AVL---
+200508001 Senningerberg, Autob  00932  00932                % 01586 AVL---
+200501001 Aéroport Luxembourg/  00934                       % 01586 AVL---
+*Z 01587 AVL---       003 015                               % 01587 AVL---
+*L 16       200405036 200501001  02052  02119               % 01587 AVL---
+*A BE 200405036 200501001 000015  02052  02119              % 01587 AVL---
+*R 1 200501001 200405036 200501001  02052  02119            % 01587 AVL---
+*G AVG 200405036 200501001  02052  02119                    % 01587 AVL---
+*A VE 200405036 200501001 000015  02052  02119              % 01587 AVL---
+200405036 Luxembourg, Gare rou         02052                % 01587 AVL---
+200405026 Luxembourg/Centre, P  02055  02055                % 01587 AVL---
+200405023 Centre, Martyrs       02056  02056                % 01587 AVL---
+200405020 Hamilius              02059  02059                % 01587 AVL---
+200405014 Centre, Fondation Pe  02101  02101                % 01587 AVL---
+200417047 Kirchberg, Rout Bréc  02103  02103                % 01587 AVL---
+200417007 Kirchberg, B.E.I.     02105  02105                % 01587 AVL---
+200417016 Kirchberg, Jean Monn  02106  02106                % 01587 AVL---
+200417005 Kirchberg, Antoine d  02107  02107                % 01587 AVL---
+200417019 Kirchberg, Konrad Ad  02108  02108                % 01587 AVL---
+200417039 Kirchberg, Avalon     02109  02109                % 01587 AVL---
+200417033 Kirchberg, Poutty St  02111  02111                % 01587 AVL---
+200417044 Kirchberg, Luxexpo Q  02112  02112                % 01587 AVL---
+200508001 Senningerberg, Autob  02117  02117                % 01587 AVL---
+200501001 Aéroport Luxembourg/  02119                       % 01587 AVL---
+*Z 01588 AVL---                                             % 01588 AVL---
+*L 16       200303002 200501001  01955  02038               % 01588 AVL---
+*A BE 200303002 200501001 000015  01955  02038              % 01588 AVL---
+*R 1 200501001 200303002 200501001  01955  02038            % 01588 AVL---
+*G AVG 200303002 200501001  01955  02038                    % 01588 AVL---
+*A VE 200303002 200501001 000015  01955  02038              % 01588 AVL---
+200303002 Hesperange, Cité Um          01955                % 01588 AVL---
+200304007 Howald, Op der Stirz  01956  01956                % 01588 AVL---
+200304011 Howald, Ronneboesch   01957  01957                % 01588 AVL---
+200304006 Howald, Moureschanz   01959  01959                % 01588 AVL---
+200405036 Luxembourg, Gare rou  02005  02005                % 01588 AVL---
+200405026 Luxembourg/Centre, P  02009  02009                % 01588 AVL---
+200405023 Centre, Martyrs       02010  02010                % 01588 AVL---
+200405020 Hamilius              02013  02013                % 01588 AVL---
+200405014 Centre, Fondation Pe  02016  02016                % 01588 AVL---
+200417047 Kirchberg, Rout Bréc  02018  02018                % 01588 AVL---
+200417007 Kirchberg, B.E.I.     02021  02021                % 01588 AVL---
+200417016 Kirchberg, Jean Monn  02022  02022                % 01588 AVL---
+200417005 Kirchberg, Antoine d  02023  02023                % 01588 AVL---
+200417019 Kirchberg, Konrad Ad  02025  02025                % 01588 AVL---
+200417039 Kirchberg, Avalon     02026  02026                % 01588 AVL---
+200417033 Kirchberg, Poutty St  02028  02028                % 01588 AVL---
+200417044 Kirchberg, Luxexpo Q  02030  02030                % 01588 AVL---
+200508001 Senningerberg, Autob  02035  02035                % 01588 AVL---
+200501001 Aéroport Luxembourg/  02038                       % 01588 AVL---
+*Z 01589 AVL---       004 030                               % 01589 AVL---
+*L 16       200405036 200501001  02150  02215               % 01589 AVL---
+*A BE 200405036 200501001 000015  02150  02215              % 01589 AVL---
+*R 1 200501001 200405036 200501001  02150  02215            % 01589 AVL---
+*G AVG 200405036 200501001  02150  02215                    % 01589 AVL---
+*A VE 200405036 200501001 000015  02150  02215              % 01589 AVL---
+200405036 Luxembourg, Gare rou         02150                % 01589 AVL---
+200405026 Luxembourg/Centre, P  02152  02152                % 01589 AVL---
+200405023 Centre, Martyrs       02153  02153                % 01589 AVL---
+200405020 Hamilius              02156  02156                % 01589 AVL---
+200405014 Centre, Fondation Pe  02158  02158                % 01589 AVL---
+200417047 Kirchberg, Rout Bréc  02200  02200                % 01589 AVL---
+200417007 Kirchberg, B.E.I.     02201  02201                % 01589 AVL---
+200417016 Kirchberg, Jean Monn  02203  02203                % 01589 AVL---
+200417005 Kirchberg, Antoine d  02204  02204                % 01589 AVL---
+200417019 Kirchberg, Konrad Ad  02204  02204                % 01589 AVL---
+200417039 Kirchberg, Avalon     02205  02205                % 01589 AVL---
+200417033 Kirchberg, Poutty St  02207  02207                % 01589 AVL---
+200417044 Kirchberg, Luxexpo Q  02209  02209                % 01589 AVL---
+200508001 Senningerberg, Autob  02213  02213                % 01589 AVL---
+200501001 Aéroport Luxembourg/  02215                       % 01589 AVL---
+*Z 01590 AVL---       007 110                               % 01590 AVL---
+*L 16       200303002 200501001  00649  00733               % 01590 AVL---
+*A BE 200303002 200501001 000015  00649  00733              % 01590 AVL---
+*R 1 200501001 200303002 200501001  00649  00733            % 01590 AVL---
+*G AVG 200303002 200501001  00649  00733                    % 01590 AVL---
+*A VE 200303002 200501001 000015  00649  00733              % 01590 AVL---
+200303002 Hesperange, Cité Um          00649                % 01590 AVL---
+200304007 Howald, Op der Stirz  00651  00651                % 01590 AVL---
+200304011 Howald, Ronneboesch   00652  00652                % 01590 AVL---
+200304006 Howald, Moureschanz   00653  00653                % 01590 AVL---
+200405036 Luxembourg, Gare rou  00700  00700                % 01590 AVL---
+200405026 Luxembourg/Centre, P  00704  00704                % 01590 AVL---
+200405023 Centre, Martyrs       00705  00705                % 01590 AVL---
+200405020 Hamilius              00708  00708                % 01590 AVL---
+200405014 Centre, Fondation Pe  00711  00711                % 01590 AVL---
+200417047 Kirchberg, Rout Bréc  00713  00713                % 01590 AVL---
+200417007 Kirchberg, B.E.I.     00716  00716                % 01590 AVL---
+200417016 Kirchberg, Jean Monn  00717  00717                % 01590 AVL---
+200417005 Kirchberg, Antoine d  00718  00718                % 01590 AVL---
+200417019 Kirchberg, Konrad Ad  00720  00720                % 01590 AVL---
+200417039 Kirchberg, Avalon     00721  00721                % 01590 AVL---
+200417033 Kirchberg, Poutty St  00723  00723                % 01590 AVL---
+200417044 Kirchberg, Luxexpo Q  00725  00725                % 01590 AVL---
+200508001 Senningerberg, Autob  00731  00731                % 01590 AVL---
+200501001 Aéroport Luxembourg/  00733                       % 01590 AVL---
+*Z 01591 AVL---       006 110                               % 01591 AVL---
+*L 16       200501001 200303002  00746  00828               % 01591 AVL---
+*A BE 200501001 200303002 000015  00746  00828              % 01591 AVL---
+*R 2 200303002 200501001 200303002  00746  00828            % 01591 AVL---
+*G AVG 200501001 200303002  00746  00828                    % 01591 AVL---
+*A VE 200501001 200303002 000015  00746  00828              % 01591 AVL---
+200501001 Aéroport Luxembourg/         00746                % 01591 AVL---
+200508001 Senningerberg, Autob  00748  00748                % 01591 AVL---
+200417055 Kirchberg, Luxexpo Q  00754  00754                % 01591 AVL---
+200417033 Kirchberg, Poutty St  00756  00756                % 01591 AVL---
+200417039 Kirchberg, Avalon     00758  00758                % 01591 AVL---
+200417019 Kirchberg, Konrad Ad  00759  00759                % 01591 AVL---
+200417005 Kirchberg, Antoine d  00800  00800                % 01591 AVL---
+200417016 Kirchberg, Jean Monn  00801  00801                % 01591 AVL---
+200417007 Kirchberg, B.E.I.     00803  00803                % 01591 AVL---
+200417047 Kirchberg, Rout Bréc  00805  00805                % 01591 AVL---
+200405014 Centre, Fondation Pe  00807  00807                % 01591 AVL---
+200405020 Hamilius              00812  00812                % 01591 AVL---
+200405023 Centre, Martyrs       00813  00813                % 01591 AVL---
+200405026 Luxembourg/Centre, P  00815  00815                % 01591 AVL---
+200405032 Luxembourg, Gare Cen  00818  00818                % 01591 AVL---
+200304006 Howald, Moureschanz   00823  00823                % 01591 AVL---
+200304011 Howald, Ronneboesch   00824  00824                % 01591 AVL---
+200304007 Howald, Op der Stirz  00825  00825                % 01591 AVL---
+200303002 Hesperange, Cité Um   00828                       % 01591 AVL---
+*Z 01592 AVL---       005 015                               % 01592 AVL---
+*L 16       200501001 200405032  02021  02048               % 01592 AVL---
+*A BE 200501001 200405032 000015  02021  02048              % 01592 AVL---
+*R 2 200405032 200501001 200405032  02021  02048            % 01592 AVL---
+*G AVG 200501001 200405032  02021  02048                    % 01592 AVL---
+*A VE 200501001 200405032 000015  02021  02048              % 01592 AVL---
+200501001 Aéroport Luxembourg/         02021                % 01592 AVL---
+200508001 Senningerberg, Autob  02023  02023                % 01592 AVL---
+200417055 Kirchberg, Luxexpo Q  02028  02028                % 01592 AVL---
+200417033 Kirchberg, Poutty St  02029  02029                % 01592 AVL---
+200417039 Kirchberg, Avalon     02031  02031                % 01592 AVL---
+200417019 Kirchberg, Konrad Ad  02032  02032                % 01592 AVL---
+200417005 Kirchberg, Antoine d  02032  02032                % 01592 AVL---
+200417016 Kirchberg, Jean Monn  02033  02033                % 01592 AVL---
+200417007 Kirchberg, B.E.I.     02035  02035                % 01592 AVL---
+200417047 Kirchberg, Rout Bréc  02036  02036                % 01592 AVL---
+200405014 Centre, Fondation Pe  02039  02039                % 01592 AVL---
+200405020 Hamilius              02043  02043                % 01592 AVL---
+200405023 Centre, Martyrs       02044  02044                % 01592 AVL---
+200405026 Luxembourg/Centre, P  02046  02046                % 01592 AVL---
+200405032 Luxembourg, Gare Cen  02048                       % 01592 AVL---
+*Z 01593 AVL---       006 100                               % 01593 AVL---
+*L 16       200501001 200303002  00808  00844               % 01593 AVL---
+*A BE 200501001 200303002 000021  00808  00844              % 01593 AVL---
+*R 2 200303002 200501001 200303002  00808  00844            % 01593 AVL---
+*G AVG 200501001 200303002  00808  00844                    % 01593 AVL---
+*A VE 200501001 200303002 000021  00808  00844              % 01593 AVL---
+200501001 Aéroport Luxembourg/         00808                % 01593 AVL---
+200508001 Senningerberg, Autob  00810  00810                % 01593 AVL---
+200417055 Kirchberg, Luxexpo Q  00815  00815                % 01593 AVL---
+200417033 Kirchberg, Poutty St  00816  00816                % 01593 AVL---
+200417039 Kirchberg, Avalon     00818  00818                % 01593 AVL---
+200417019 Kirchberg, Konrad Ad  00819  00819                % 01593 AVL---
+200417005 Kirchberg, Antoine d  00819  00819                % 01593 AVL---
+200417016 Kirchberg, Jean Monn  00820  00820                % 01593 AVL---
+200417007 Kirchberg, B.E.I.     00822  00822                % 01593 AVL---
+200417047 Kirchberg, Rout Bréc  00823  00823                % 01593 AVL---
+200405014 Centre, Fondation Pe  00826  00826                % 01593 AVL---
+200405020 Hamilius              00830  00830                % 01593 AVL---
+200405023 Centre, Martyrs       00831  00831                % 01593 AVL---
+200405026 Luxembourg/Centre, P  00833  00833                % 01593 AVL---
+200405032 Luxembourg, Gare Cen  00835  00835                % 01593 AVL---
+200304006 Howald, Moureschanz   00839  00839                % 01593 AVL---
+200304011 Howald, Ronneboesch   00840  00840                % 01593 AVL---
+200304007 Howald, Op der Stirz  00841  00841                % 01593 AVL---
+200303002 Hesperange, Cité Um   00844                       % 01593 AVL---
+*Z 01594 AVL---       001 020                               % 01594 AVL---
+*L 16       200501001 200405032  02158  02222               % 01594 AVL---
+*A BE 200501001 200405032 000015  02158  02222              % 01594 AVL---
+*R 2 200405032 200501001 200405032  02158  02222            % 01594 AVL---
+*G AVG 200501001 200405032  02158  02222                    % 01594 AVL---
+*A VE 200501001 200405032 000015  02158  02222              % 01594 AVL---
+200501001 Aéroport Luxembourg/         02158                % 01594 AVL---
+200508001 Senningerberg, Autob  02200  02200                % 01594 AVL---
+200417055 Kirchberg, Luxexpo Q  02204  02204                % 01594 AVL---
+200417033 Kirchberg, Poutty St  02205  02205                % 01594 AVL---
+200417039 Kirchberg, Avalon     02207  02207                % 01594 AVL---
+200417019 Kirchberg, Konrad Ad  02208  02208                % 01594 AVL---
+200417005 Kirchberg, Antoine d  02209  02209                % 01594 AVL---
+200417016 Kirchberg, Jean Monn  02210  02210                % 01594 AVL---
+200417007 Kirchberg, B.E.I.     02211  02211                % 01594 AVL---
+200417047 Kirchberg, Rout Bréc  02212  02212                % 01594 AVL---
+200405014 Centre, Fondation Pe  02215  02215                % 01594 AVL---
+200405020 Hamilius              02218  02218                % 01594 AVL---
+200405023 Centre, Martyrs       02219  02219                % 01594 AVL---
+200405026 Luxembourg/Centre, P  02220  02220                % 01594 AVL---
+200405032 Luxembourg, Gare Cen  02222                       % 01594 AVL---
+*Z 01595 AVL---       002 030                               % 01595 AVL---
+*L 16       200501001 200405032  02248  02312               % 01595 AVL---
+*A BE 200501001 200405032 000015  02248  02312              % 01595 AVL---
+*R 2 200405032 200501001 200405032  02248  02312            % 01595 AVL---
+*G AVG 200501001 200405032  02248  02312                    % 01595 AVL---
+*A VE 200501001 200405032 000015  02248  02312              % 01595 AVL---
+200501001 Aéroport Luxembourg/         02248                % 01595 AVL---
+200508001 Senningerberg, Autob  02250  02250                % 01595 AVL---
+200417055 Kirchberg, Luxexpo Q  02254  02254                % 01595 AVL---
+200417033 Kirchberg, Poutty St  02255  02255                % 01595 AVL---
+200417039 Kirchberg, Avalon     02257  02257                % 01595 AVL---
+200417019 Kirchberg, Konrad Ad  02258  02258                % 01595 AVL---
+200417005 Kirchberg, Antoine d  02259  02259                % 01595 AVL---
+200417016 Kirchberg, Jean Monn  02300  02300                % 01595 AVL---
+200417007 Kirchberg, B.E.I.     02301  02301                % 01595 AVL---
+200417047 Kirchberg, Rout Bréc  02302  02302                % 01595 AVL---
+200405014 Centre, Fondation Pe  02305  02305                % 01595 AVL---
+200405020 Hamilius              02308  02308                % 01595 AVL---
+200405023 Centre, Martyrs       02309  02309                % 01595 AVL---
+200405026 Luxembourg/Centre, P  02310  02310                % 01595 AVL---
+200405032 Luxembourg, Gare Cen  02312                       % 01595 AVL---
+*Z 01596 AVL---                                             % 01596 AVL---
+*L 16       200501001 200303002  01948  02021               % 01596 AVL---
+*A BE 200501001 200303002 000021  01948  02021              % 01596 AVL---
+*R 2 200303002 200501001 200303002  01948  02021            % 01596 AVL---
+*G AVG 200501001 200303002  01948  02021                    % 01596 AVL---
+*A VE 200501001 200303002 000021  01948  02021              % 01596 AVL---
+200501001 Aéroport Luxembourg/         01948                % 01596 AVL---
+200508001 Senningerberg, Autob  01950  01950                % 01596 AVL---
+200417055 Kirchberg, Luxexpo Q  01954  01954                % 01596 AVL---
+200417033 Kirchberg, Poutty St  01955  01955                % 01596 AVL---
+200417039 Kirchberg, Avalon     01957  01957                % 01596 AVL---
+200417019 Kirchberg, Konrad Ad  01958  01958                % 01596 AVL---
+200417005 Kirchberg, Antoine d  01959  01959                % 01596 AVL---
+200417016 Kirchberg, Jean Monn  02000  02000                % 01596 AVL---
+200417007 Kirchberg, B.E.I.     02001  02001                % 01596 AVL---
+200417047 Kirchberg, Rout Bréc  02002  02002                % 01596 AVL---
+200405014 Centre, Fondation Pe  02005  02005                % 01596 AVL---
+200405020 Hamilius              02008  02008                % 01596 AVL---
+200405023 Centre, Martyrs       02009  02009                % 01596 AVL---
+200405026 Luxembourg/Centre, P  02010  02010                % 01596 AVL---
+200405032 Luxembourg, Gare Cen  02012  02012                % 01596 AVL---
+200304006 Howald, Moureschanz   02016  02016                % 01596 AVL---
+200304011 Howald, Ronneboesch   02017  02017                % 01596 AVL---
+200304007 Howald, Op der Stirz  02018  02018                % 01596 AVL---
+200303002 Hesperange, Cité Um   02021                       % 01596 AVL---
+*Z 01597 AVL---       006 100                               % 01597 AVL---
+*L 16       200303002 200501001  00859  00934               % 01597 AVL---
+*A BE 200303002 200501001 000023  00859  00934              % 01597 AVL---
+*R 1 200501001 200303002 200501001  00859  00934            % 01597 AVL---
+*G AVG 200303002 200501001  00859  00934                    % 01597 AVL---
+*A VE 200303002 200501001 000023  00859  00934              % 01597 AVL---
+200303002 Hesperange, Cité Um          00859                % 01597 AVL---
+200304007 Howald, Op der Stirz  00901  00901                % 01597 AVL---
+200304011 Howald, Ronneboesch   00902  00902                % 01597 AVL---
+200304006 Howald, Moureschanz   00903  00903                % 01597 AVL---
+200405036 Luxembourg, Gare rou  00907  00907                % 01597 AVL---
+200405026 Luxembourg/Centre, P  00910  00910                % 01597 AVL---
+200405023 Centre, Martyrs       00911  00911                % 01597 AVL---
+200405020 Hamilius              00914  00914                % 01597 AVL---
+200405014 Centre, Fondation Pe  00916  00916                % 01597 AVL---
+200417047 Kirchberg, Rout Bréc  00918  00918                % 01597 AVL---
+200417007 Kirchberg, B.E.I.     00920  00920                % 01597 AVL---
+200417016 Kirchberg, Jean Monn  00921  00921                % 01597 AVL---
+200417005 Kirchberg, Antoine d  00922  00922                % 01597 AVL---
+200417019 Kirchberg, Konrad Ad  00923  00923                % 01597 AVL---
+200417039 Kirchberg, Avalon     00924  00924                % 01597 AVL---
+200417033 Kirchberg, Poutty St  00926  00926                % 01597 AVL---
+200417044 Kirchberg, Luxexpo Q  00927  00927                % 01597 AVL---
+200508001 Senningerberg, Autob  00932  00932                % 01597 AVL---
+200501001 Aéroport Luxembourg/  00934                       % 01597 AVL---
+*Z 01598 AVL---       001 015                               % 01598 AVL---
+*L 16       200303002 200501001  02014  02049               % 01598 AVL---
+*A BE 200303002 200501001 000014  02014  02049              % 01598 AVL---
+*R 1 200501001 200303002 200501001  02014  02049            % 01598 AVL---
+*G AVG 200303002 200501001  02014  02049                    % 01598 AVL---
+*A VE 200303002 200501001 000014  02014  02049              % 01598 AVL---
+200303002 Hesperange, Cité Um          02014                % 01598 AVL---
+200304007 Howald, Op der Stirz  02016  02016                % 01598 AVL---
+200304011 Howald, Ronneboesch   02017  02017                % 01598 AVL---
+200304006 Howald, Moureschanz   02018  02018                % 01598 AVL---
+200405036 Luxembourg, Gare rou  02022  02022                % 01598 AVL---
+200405026 Luxembourg/Centre, P  02025  02025                % 01598 AVL---
+200405023 Centre, Martyrs       02026  02026                % 01598 AVL---
+200405020 Hamilius              02029  02029                % 01598 AVL---
+200405014 Centre, Fondation Pe  02031  02031                % 01598 AVL---
+200417047 Kirchberg, Rout Bréc  02033  02033                % 01598 AVL---
+200417007 Kirchberg, B.E.I.     02035  02035                % 01598 AVL---
+200417016 Kirchberg, Jean Monn  02036  02036                % 01598 AVL---
+200417005 Kirchberg, Antoine d  02037  02037                % 01598 AVL---
+200417019 Kirchberg, Konrad Ad  02038  02038                % 01598 AVL---
+200417039 Kirchberg, Avalon     02039  02039                % 01598 AVL---
+200417033 Kirchberg, Poutty St  02041  02041                % 01598 AVL---
+200417044 Kirchberg, Luxexpo Q  02042  02042                % 01598 AVL---
+200508001 Senningerberg, Autob  02047  02047                % 01598 AVL---
+200501001 Aéroport Luxembourg/  02049                       % 01598 AVL---
+*Z 01599 AVL---       003 015                               % 01599 AVL---
+*L 16       200405036 200501001  02052  02119               % 01599 AVL---
+*A BE 200405036 200501001 000014  02052  02119              % 01599 AVL---
+*R 1 200501001 200405036 200501001  02052  02119            % 01599 AVL---
+*G AVG 200405036 200501001  02052  02119                    % 01599 AVL---
+*A VE 200405036 200501001 000014  02052  02119              % 01599 AVL---
+200405036 Luxembourg, Gare rou         02052                % 01599 AVL---
+200405026 Luxembourg/Centre, P  02055  02055                % 01599 AVL---
+200405023 Centre, Martyrs       02056  02056                % 01599 AVL---
+200405020 Hamilius              02059  02059                % 01599 AVL---
+200405014 Centre, Fondation Pe  02101  02101                % 01599 AVL---
+200417047 Kirchberg, Rout Bréc  02103  02103                % 01599 AVL---
+200417007 Kirchberg, B.E.I.     02105  02105                % 01599 AVL---
+200417016 Kirchberg, Jean Monn  02106  02106                % 01599 AVL---
+200417005 Kirchberg, Antoine d  02107  02107                % 01599 AVL---
+200417019 Kirchberg, Konrad Ad  02108  02108                % 01599 AVL---
+200417039 Kirchberg, Avalon     02109  02109                % 01599 AVL---
+200417033 Kirchberg, Poutty St  02111  02111                % 01599 AVL---
+200417044 Kirchberg, Luxexpo Q  02112  02112                % 01599 AVL---
+200508001 Senningerberg, Autob  02117  02117                % 01599 AVL---
+200501001 Aéroport Luxembourg/  02119                       % 01599 AVL---
+*Z 01600 AVL---       004 075                               % 01600 AVL---
+*L 16       200405036 200501001  01245  01312               % 01600 AVL---
+*A BE 200405036 200501001 000018  01245  01312              % 01600 AVL---
+*R 1 200501001 200405036 200501001  01245  01312            % 01600 AVL---
+*G AVG 200405036 200501001  01245  01312                    % 01600 AVL---
+*A VE 200405036 200501001 000018  01245  01312              % 01600 AVL---
+200405036 Luxembourg, Gare rou         01245                % 01600 AVL---
+200405026 Luxembourg/Centre, P  01248  01248                % 01600 AVL---
+200405023 Centre, Martyrs       01249  01249                % 01600 AVL---
+200405020 Hamilius              01252  01252                % 01600 AVL---
+200405014 Centre, Fondation Pe  01254  01254                % 01600 AVL---
+200417047 Kirchberg, Rout Bréc  01256  01256                % 01600 AVL---
+200417007 Kirchberg, B.E.I.     01258  01258                % 01600 AVL---
+200417016 Kirchberg, Jean Monn  01259  01259                % 01600 AVL---
+200417005 Kirchberg, Antoine d  01300  01300                % 01600 AVL---
+200417019 Kirchberg, Konrad Ad  01301  01301                % 01600 AVL---
+200417039 Kirchberg, Avalon     01302  01302                % 01600 AVL---
+200417033 Kirchberg, Poutty St  01304  01304                % 01600 AVL---
+200417044 Kirchberg, Luxexpo Q  01305  01305                % 01600 AVL---
+200508001 Senningerberg, Autob  01310  01310                % 01600 AVL---
+200501001 Aéroport Luxembourg/  01312                       % 01600 AVL---
+*Z 01601 AVL---       007 110                               % 01601 AVL---
+*L 16       200303002 200501001  00649  00733               % 01601 AVL---
+*A BE 200303002 200501001 000014  00649  00733              % 01601 AVL---
+*R 1 200501001 200303002 200501001  00649  00733            % 01601 AVL---
+*G AVG 200303002 200501001  00649  00733                    % 01601 AVL---
+*A VE 200303002 200501001 000014  00649  00733              % 01601 AVL---
+200303002 Hesperange, Cité Um          00649                % 01601 AVL---
+200304007 Howald, Op der Stirz  00651  00651                % 01601 AVL---
+200304011 Howald, Ronneboesch   00652  00652                % 01601 AVL---
+200304006 Howald, Moureschanz   00653  00653                % 01601 AVL---
+200405036 Luxembourg, Gare rou  00700  00700                % 01601 AVL---
+200405026 Luxembourg/Centre, P  00704  00704                % 01601 AVL---
+200405023 Centre, Martyrs       00705  00705                % 01601 AVL---
+200405020 Hamilius              00708  00708                % 01601 AVL---
+200405014 Centre, Fondation Pe  00711  00711                % 01601 AVL---
+200417047 Kirchberg, Rout Bréc  00713  00713                % 01601 AVL---
+200417007 Kirchberg, B.E.I.     00716  00716                % 01601 AVL---
+200417016 Kirchberg, Jean Monn  00717  00717                % 01601 AVL---
+200417005 Kirchberg, Antoine d  00718  00718                % 01601 AVL---
+200417019 Kirchberg, Konrad Ad  00720  00720                % 01601 AVL---
+200417039 Kirchberg, Avalon     00721  00721                % 01601 AVL---
+200417033 Kirchberg, Poutty St  00723  00723                % 01601 AVL---
+200417044 Kirchberg, Luxexpo Q  00725  00725                % 01601 AVL---
+200508001 Senningerberg, Autob  00731  00731                % 01601 AVL---
+200501001 Aéroport Luxembourg/  00733                       % 01601 AVL---
+*Z 01602 AVL---                                             % 01602 AVL---
+*L 16       200303002 200501001  01955  02038               % 01602 AVL---
+*A BE 200303002 200501001 000014  01955  02038              % 01602 AVL---
+*R 1 200501001 200303002 200501001  01955  02038            % 01602 AVL---
+*G AVG 200303002 200501001  01955  02038                    % 01602 AVL---
+*A VE 200303002 200501001 000014  01955  02038              % 01602 AVL---
+200303002 Hesperange, Cité Um          01955                % 01602 AVL---
+200304007 Howald, Op der Stirz  01956  01956                % 01602 AVL---
+200304011 Howald, Ronneboesch   01957  01957                % 01602 AVL---
+200304006 Howald, Moureschanz   01959  01959                % 01602 AVL---
+200405036 Luxembourg, Gare rou  02005  02005                % 01602 AVL---
+200405026 Luxembourg/Centre, P  02009  02009                % 01602 AVL---
+200405023 Centre, Martyrs       02010  02010                % 01602 AVL---
+200405020 Hamilius              02013  02013                % 01602 AVL---
+200405014 Centre, Fondation Pe  02016  02016                % 01602 AVL---
+200417047 Kirchberg, Rout Bréc  02018  02018                % 01602 AVL---
+200417007 Kirchberg, B.E.I.     02021  02021                % 01602 AVL---
+200417016 Kirchberg, Jean Monn  02022  02022                % 01602 AVL---
+200417005 Kirchberg, Antoine d  02023  02023                % 01602 AVL---
+200417019 Kirchberg, Konrad Ad  02025  02025                % 01602 AVL---
+200417039 Kirchberg, Avalon     02026  02026                % 01602 AVL---
+200417033 Kirchberg, Poutty St  02028  02028                % 01602 AVL---
+200417044 Kirchberg, Luxexpo Q  02030  02030                % 01602 AVL---
+200508001 Senningerberg, Autob  02035  02035                % 01602 AVL---
+200501001 Aéroport Luxembourg/  02038                       % 01602 AVL---
+*Z 01603 AVL---       004 030                               % 01603 AVL---
+*L 16       200405036 200501001  02150  02215               % 01603 AVL---
+*A BE 200405036 200501001 000014  02150  02215              % 01603 AVL---
+*R 1 200501001 200405036 200501001  02150  02215            % 01603 AVL---
+*G AVG 200405036 200501001  02150  02215                    % 01603 AVL---
+*A VE 200405036 200501001 000014  02150  02215              % 01603 AVL---
+200405036 Luxembourg, Gare rou         02150                % 01603 AVL---
+200405026 Luxembourg/Centre, P  02152  02152                % 01603 AVL---
+200405023 Centre, Martyrs       02153  02153                % 01603 AVL---
+200405020 Hamilius              02156  02156                % 01603 AVL---
+200405014 Centre, Fondation Pe  02158  02158                % 01603 AVL---
+200417047 Kirchberg, Rout Bréc  02200  02200                % 01603 AVL---
+200417007 Kirchberg, B.E.I.     02201  02201                % 01603 AVL---
+200417016 Kirchberg, Jean Monn  02203  02203                % 01603 AVL---
+200417005 Kirchberg, Antoine d  02204  02204                % 01603 AVL---
+200417019 Kirchberg, Konrad Ad  02204  02204                % 01603 AVL---
+200417039 Kirchberg, Avalon     02205  02205                % 01603 AVL---
+200417033 Kirchberg, Poutty St  02207  02207                % 01603 AVL---
+200417044 Kirchberg, Luxexpo Q  02209  02209                % 01603 AVL---
+200508001 Senningerberg, Autob  02213  02213                % 01603 AVL---
+200501001 Aéroport Luxembourg/  02215                       % 01603 AVL---
+*Z 01604 AVL---       006 110                               % 01604 AVL---
+*L 16       200501001 200303002  00746  00828               % 01604 AVL---
+*A BE 200501001 200303002 000014  00746  00828              % 01604 AVL---
+*R 2 200303002 200501001 200303002  00746  00828            % 01604 AVL---
+*G AVG 200501001 200303002  00746  00828                    % 01604 AVL---
+*A VE 200501001 200303002 000014  00746  00828              % 01604 AVL---
+200501001 Aéroport Luxembourg/         00746                % 01604 AVL---
+200508001 Senningerberg, Autob  00748  00748                % 01604 AVL---
+200417055 Kirchberg, Luxexpo Q  00754  00754                % 01604 AVL---
+200417033 Kirchberg, Poutty St  00756  00756                % 01604 AVL---
+200417039 Kirchberg, Avalon     00758  00758                % 01604 AVL---
+200417019 Kirchberg, Konrad Ad  00759  00759                % 01604 AVL---
+200417005 Kirchberg, Antoine d  00800  00800                % 01604 AVL---
+200417016 Kirchberg, Jean Monn  00801  00801                % 01604 AVL---
+200417007 Kirchberg, B.E.I.     00803  00803                % 01604 AVL---
+200417047 Kirchberg, Rout Bréc  00805  00805                % 01604 AVL---
+200405014 Centre, Fondation Pe  00807  00807                % 01604 AVL---
+200405020 Hamilius              00812  00812                % 01604 AVL---
+200405023 Centre, Martyrs       00813  00813                % 01604 AVL---
+200405026 Luxembourg/Centre, P  00815  00815                % 01604 AVL---
+200405032 Luxembourg, Gare Cen  00818  00818                % 01604 AVL---
+200304006 Howald, Moureschanz   00823  00823                % 01604 AVL---
+200304011 Howald, Ronneboesch   00824  00824                % 01604 AVL---
+200304007 Howald, Op der Stirz  00825  00825                % 01604 AVL---
+200303002 Hesperange, Cité Um   00828                       % 01604 AVL---
+*Z 01605 AVL---       005 015                               % 01605 AVL---
+*L 16       200501001 200405032  02021  02048               % 01605 AVL---
+*A BE 200501001 200405032 000014  02021  02048              % 01605 AVL---
+*R 2 200405032 200501001 200405032  02021  02048            % 01605 AVL---
+*G AVG 200501001 200405032  02021  02048                    % 01605 AVL---
+*A VE 200501001 200405032 000014  02021  02048              % 01605 AVL---
+200501001 Aéroport Luxembourg/         02021                % 01605 AVL---
+200508001 Senningerberg, Autob  02023  02023                % 01605 AVL---
+200417055 Kirchberg, Luxexpo Q  02028  02028                % 01605 AVL---
+200417033 Kirchberg, Poutty St  02029  02029                % 01605 AVL---
+200417039 Kirchberg, Avalon     02031  02031                % 01605 AVL---
+200417019 Kirchberg, Konrad Ad  02032  02032                % 01605 AVL---
+200417005 Kirchberg, Antoine d  02032  02032                % 01605 AVL---
+200417016 Kirchberg, Jean Monn  02033  02033                % 01605 AVL---
+200417007 Kirchberg, B.E.I.     02035  02035                % 01605 AVL---
+200417047 Kirchberg, Rout Bréc  02036  02036                % 01605 AVL---
+200405014 Centre, Fondation Pe  02039  02039                % 01605 AVL---
+200405020 Hamilius              02043  02043                % 01605 AVL---
+200405023 Centre, Martyrs       02044  02044                % 01605 AVL---
+200405026 Luxembourg/Centre, P  02046  02046                % 01605 AVL---
+200405032 Luxembourg, Gare Cen  02048                       % 01605 AVL---
+*Z 01606 AVL---       004 075                               % 01606 AVL---
+*L 16       200501001 200405032  01320  01347               % 01606 AVL---
+*A BE 200501001 200405032 000018  01320  01347              % 01606 AVL---
+*R 2 200405032 200501001 200405032  01320  01347            % 01606 AVL---
+*G AVG 200501001 200405032  01320  01347                    % 01606 AVL---
+*A VE 200501001 200405032 000018  01320  01347              % 01606 AVL---
+200501001 Aéroport Luxembourg/         01320                % 01606 AVL---
+200508001 Senningerberg, Autob  01322  01322                % 01606 AVL---
+200417055 Kirchberg, Luxexpo Q  01327  01327                % 01606 AVL---
+200417033 Kirchberg, Poutty St  01328  01328                % 01606 AVL---
+200417039 Kirchberg, Avalon     01330  01330                % 01606 AVL---
+200417019 Kirchberg, Konrad Ad  01331  01331                % 01606 AVL---
+200417005 Kirchberg, Antoine d  01331  01331                % 01606 AVL---
+200417016 Kirchberg, Jean Monn  01332  01332                % 01606 AVL---
+200417007 Kirchberg, B.E.I.     01334  01334                % 01606 AVL---
+200417047 Kirchberg, Rout Bréc  01335  01335                % 01606 AVL---
+200405014 Centre, Fondation Pe  01338  01338                % 01606 AVL---
+200405020 Hamilius              01342  01342                % 01606 AVL---
+200405023 Centre, Martyrs       01343  01343                % 01606 AVL---
+200405026 Luxembourg/Centre, P  01345  01345                % 01606 AVL---
+200405032 Luxembourg, Gare Cen  01347                       % 01606 AVL---
+*Z 01607 AVL---       006 100                               % 01607 AVL---
+*L 16       200501001 200303002  00808  00844               % 01607 AVL---
+*A BE 200501001 200303002 000023  00808  00844              % 01607 AVL---
+*R 2 200303002 200501001 200303002  00808  00844            % 01607 AVL---
+*G AVG 200501001 200303002  00808  00844                    % 01607 AVL---
+*A VE 200501001 200303002 000023  00808  00844              % 01607 AVL---
+200501001 Aéroport Luxembourg/         00808                % 01607 AVL---
+200508001 Senningerberg, Autob  00810  00810                % 01607 AVL---
+200417055 Kirchberg, Luxexpo Q  00815  00815                % 01607 AVL---
+200417033 Kirchberg, Poutty St  00816  00816                % 01607 AVL---
+200417039 Kirchberg, Avalon     00818  00818                % 01607 AVL---
+200417019 Kirchberg, Konrad Ad  00819  00819                % 01607 AVL---
+200417005 Kirchberg, Antoine d  00819  00819                % 01607 AVL---
+200417016 Kirchberg, Jean Monn  00820  00820                % 01607 AVL---
+200417007 Kirchberg, B.E.I.     00822  00822                % 01607 AVL---
+200417047 Kirchberg, Rout Bréc  00823  00823                % 01607 AVL---
+200405014 Centre, Fondation Pe  00826  00826                % 01607 AVL---
+200405020 Hamilius              00830  00830                % 01607 AVL---
+200405023 Centre, Martyrs       00831  00831                % 01607 AVL---
+200405026 Luxembourg/Centre, P  00833  00833                % 01607 AVL---
+200405032 Luxembourg, Gare Cen  00835  00835                % 01607 AVL---
+200304006 Howald, Moureschanz   00839  00839                % 01607 AVL---
+200304011 Howald, Ronneboesch   00840  00840                % 01607 AVL---
+200304007 Howald, Op der Stirz  00841  00841                % 01607 AVL---
+200303002 Hesperange, Cité Um   00844                       % 01607 AVL---
+*Z 01608 AVL---       001 020                               % 01608 AVL---
+*L 16       200501001 200405032  02158  02222               % 01608 AVL---
+*A BE 200501001 200405032 000014  02158  02222              % 01608 AVL---
+*R 2 200405032 200501001 200405032  02158  02222            % 01608 AVL---
+*G AVG 200501001 200405032  02158  02222                    % 01608 AVL---
+*A VE 200501001 200405032 000014  02158  02222              % 01608 AVL---
+200501001 Aéroport Luxembourg/         02158                % 01608 AVL---
+200508001 Senningerberg, Autob  02200  02200                % 01608 AVL---
+200417055 Kirchberg, Luxexpo Q  02204  02204                % 01608 AVL---
+200417033 Kirchberg, Poutty St  02205  02205                % 01608 AVL---
+200417039 Kirchberg, Avalon     02207  02207                % 01608 AVL---
+200417019 Kirchberg, Konrad Ad  02208  02208                % 01608 AVL---
+200417005 Kirchberg, Antoine d  02209  02209                % 01608 AVL---
+200417016 Kirchberg, Jean Monn  02210  02210                % 01608 AVL---
+200417007 Kirchberg, B.E.I.     02211  02211                % 01608 AVL---
+200417047 Kirchberg, Rout Bréc  02212  02212                % 01608 AVL---
+200405014 Centre, Fondation Pe  02215  02215                % 01608 AVL---
+200405020 Hamilius              02218  02218                % 01608 AVL---
+200405023 Centre, Martyrs       02219  02219                % 01608 AVL---
+200405026 Luxembourg/Centre, P  02220  02220                % 01608 AVL---
+200405032 Luxembourg, Gare Cen  02222                       % 01608 AVL---
+*Z 01609 AVL---       002 030                               % 01609 AVL---
+*L 16       200501001 200405032  02248  02312               % 01609 AVL---
+*A BE 200501001 200405032 000014  02248  02312              % 01609 AVL---
+*R 2 200405032 200501001 200405032  02248  02312            % 01609 AVL---
+*G AVG 200501001 200405032  02248  02312                    % 01609 AVL---
+*A VE 200501001 200405032 000014  02248  02312              % 01609 AVL---
+200501001 Aéroport Luxembourg/         02248                % 01609 AVL---
+200508001 Senningerberg, Autob  02250  02250                % 01609 AVL---
+200417055 Kirchberg, Luxexpo Q  02254  02254                % 01609 AVL---
+200417033 Kirchberg, Poutty St  02255  02255                % 01609 AVL---
+200417039 Kirchberg, Avalon     02257  02257                % 01609 AVL---
+200417019 Kirchberg, Konrad Ad  02258  02258                % 01609 AVL---
+200417005 Kirchberg, Antoine d  02259  02259                % 01609 AVL---
+200417016 Kirchberg, Jean Monn  02300  02300                % 01609 AVL---
+200417007 Kirchberg, B.E.I.     02301  02301                % 01609 AVL---
+200417047 Kirchberg, Rout Bréc  02302  02302                % 01609 AVL---
+200405014 Centre, Fondation Pe  02305  02305                % 01609 AVL---
+200405020 Hamilius              02308  02308                % 01609 AVL---
+200405023 Centre, Martyrs       02309  02309                % 01609 AVL---
+200405026 Luxembourg/Centre, P  02310  02310                % 01609 AVL---
+200405032 Luxembourg, Gare Cen  02312                       % 01609 AVL---
+*Z 01610 AVL---                                             % 01610 AVL---
+*L 16       200501001 200303002  01948  02021               % 01610 AVL---
+*A BE 200501001 200303002 000023  01948  02021              % 01610 AVL---
+*R 2 200303002 200501001 200303002  01948  02021            % 01610 AVL---
+*G AVG 200501001 200303002  01948  02021                    % 01610 AVL---
+*A VE 200501001 200303002 000023  01948  02021              % 01610 AVL---
+200501001 Aéroport Luxembourg/         01948                % 01610 AVL---
+200508001 Senningerberg, Autob  01950  01950                % 01610 AVL---
+200417055 Kirchberg, Luxexpo Q  01954  01954                % 01610 AVL---
+200417033 Kirchberg, Poutty St  01955  01955                % 01610 AVL---
+200417039 Kirchberg, Avalon     01957  01957                % 01610 AVL---
+200417019 Kirchberg, Konrad Ad  01958  01958                % 01610 AVL---
+200417005 Kirchberg, Antoine d  01959  01959                % 01610 AVL---
+200417016 Kirchberg, Jean Monn  02000  02000                % 01610 AVL---
+200417007 Kirchberg, B.E.I.     02001  02001                % 01610 AVL---
+200417047 Kirchberg, Rout Bréc  02002  02002                % 01610 AVL---
+200405014 Centre, Fondation Pe  02005  02005                % 01610 AVL---
+200405020 Hamilius              02008  02008                % 01610 AVL---
+200405023 Centre, Martyrs       02009  02009                % 01610 AVL---
+200405026 Luxembourg/Centre, P  02010  02010                % 01610 AVL---
+200405032 Luxembourg, Gare Cen  02012  02012                % 01610 AVL---
+200304006 Howald, Moureschanz   02016  02016                % 01610 AVL---
+200304011 Howald, Ronneboesch   02017  02017                % 01610 AVL---
+200304007 Howald, Op der Stirz  02018  02018                % 01610 AVL---
+200303002 Hesperange, Cité Um   02021                       % 01610 AVL---
+*Z 01611 AVL---       004 030                               % 01611 AVL---
+*L 16       200405036 200501001  02150  02215               % 01611 AVL---
+*A BE 200405036 200501001 000013  02150  02215              % 01611 AVL---
+*R 1 200501001 200405036 200501001  02150  02215            % 01611 AVL---
+*G AVG 200405036 200501001  02150  02215                    % 01611 AVL---
+*A VE 200405036 200501001 000013  02150  02215              % 01611 AVL---
+200405036 Luxembourg, Gare rou         02150                % 01611 AVL---
+200405026 Luxembourg/Centre, P  02152  02152                % 01611 AVL---
+200405023 Centre, Martyrs       02153  02153                % 01611 AVL---
+200405020 Hamilius              02156  02156                % 01611 AVL---
+200405014 Centre, Fondation Pe  02158  02158                % 01611 AVL---
+200417047 Kirchberg, Rout Bréc  02200  02200                % 01611 AVL---
+200417007 Kirchberg, B.E.I.     02201  02201                % 01611 AVL---
+200417016 Kirchberg, Jean Monn  02203  02203                % 01611 AVL---
+200417005 Kirchberg, Antoine d  02204  02204                % 01611 AVL---
+200417019 Kirchberg, Konrad Ad  02204  02204                % 01611 AVL---
+200417039 Kirchberg, Avalon     02205  02205                % 01611 AVL---
+200417033 Kirchberg, Poutty St  02207  02207                % 01611 AVL---
+200417044 Kirchberg, Luxexpo Q  02209  02209                % 01611 AVL---
+200508001 Senningerberg, Autob  02213  02213                % 01611 AVL---
+200501001 Aéroport Luxembourg/  02215                       % 01611 AVL---
+*Z 01612 AVL---                                             % 01612 AVL---
+*L 16       200303002 200501001  01955  02038               % 01612 AVL---
+*A BE 200303002 200501001 000013  01955  02038              % 01612 AVL---
+*R 1 200501001 200303002 200501001  01955  02038            % 01612 AVL---
+*G AVG 200303002 200501001  01955  02038                    % 01612 AVL---
+*A VE 200303002 200501001 000013  01955  02038              % 01612 AVL---
+200303002 Hesperange, Cité Um          01955                % 01612 AVL---
+200304007 Howald, Op der Stirz  01956  01956                % 01612 AVL---
+200304011 Howald, Ronneboesch   01957  01957                % 01612 AVL---
+200304006 Howald, Moureschanz   01959  01959                % 01612 AVL---
+200405036 Luxembourg, Gare rou  02005  02005                % 01612 AVL---
+200405026 Luxembourg/Centre, P  02009  02009                % 01612 AVL---
+200405023 Centre, Martyrs       02010  02010                % 01612 AVL---
+200405020 Hamilius              02013  02013                % 01612 AVL---
+200405014 Centre, Fondation Pe  02016  02016                % 01612 AVL---
+200417047 Kirchberg, Rout Bréc  02018  02018                % 01612 AVL---
+200417007 Kirchberg, B.E.I.     02021  02021                % 01612 AVL---
+200417016 Kirchberg, Jean Monn  02022  02022                % 01612 AVL---
+200417005 Kirchberg, Antoine d  02023  02023                % 01612 AVL---
+200417019 Kirchberg, Konrad Ad  02025  02025                % 01612 AVL---
+200417039 Kirchberg, Avalon     02026  02026                % 01612 AVL---
+200417033 Kirchberg, Poutty St  02028  02028                % 01612 AVL---
+200417044 Kirchberg, Luxexpo Q  02030  02030                % 01612 AVL---
+200508001 Senningerberg, Autob  02035  02035                % 01612 AVL---
+200501001 Aéroport Luxembourg/  02038                       % 01612 AVL---
+*Z 01613 AVL---       007 110                               % 01613 AVL---
+*L 16       200303002 200501001  00649  00733               % 01613 AVL---
+*A BE 200303002 200501001 000013  00649  00733              % 01613 AVL---
+*R 1 200501001 200303002 200501001  00649  00733            % 01613 AVL---
+*G AVG 200303002 200501001  00649  00733                    % 01613 AVL---
+*A VE 200303002 200501001 000013  00649  00733              % 01613 AVL---
+200303002 Hesperange, Cité Um          00649                % 01613 AVL---
+200304007 Howald, Op der Stirz  00651  00651                % 01613 AVL---
+200304011 Howald, Ronneboesch   00652  00652                % 01613 AVL---
+200304006 Howald, Moureschanz   00653  00653                % 01613 AVL---
+200405036 Luxembourg, Gare rou  00700  00700                % 01613 AVL---
+200405026 Luxembourg/Centre, P  00704  00704                % 01613 AVL---
+200405023 Centre, Martyrs       00705  00705                % 01613 AVL---
+200405020 Hamilius              00708  00708                % 01613 AVL---
+200405014 Centre, Fondation Pe  00711  00711                % 01613 AVL---
+200417047 Kirchberg, Rout Bréc  00713  00713                % 01613 AVL---
+200417007 Kirchberg, B.E.I.     00716  00716                % 01613 AVL---
+200417016 Kirchberg, Jean Monn  00717  00717                % 01613 AVL---
+200417005 Kirchberg, Antoine d  00718  00718                % 01613 AVL---
+200417019 Kirchberg, Konrad Ad  00720  00720                % 01613 AVL---
+200417039 Kirchberg, Avalon     00721  00721                % 01613 AVL---
+200417033 Kirchberg, Poutty St  00723  00723                % 01613 AVL---
+200417044 Kirchberg, Luxexpo Q  00725  00725                % 01613 AVL---
+200508001 Senningerberg, Autob  00731  00731                % 01613 AVL---
+200501001 Aéroport Luxembourg/  00733                       % 01613 AVL---
+*Z 01614 AVL---       006 100                               % 01614 AVL---
+*L 16       200303002 200501001  00859  00934               % 01614 AVL---
+*A BE 200303002 200501001 000022  00859  00934              % 01614 AVL---
+*R 1 200501001 200303002 200501001  00859  00934            % 01614 AVL---
+*G AVG 200303002 200501001  00859  00934                    % 01614 AVL---
+*A VE 200303002 200501001 000022  00859  00934              % 01614 AVL---
+200303002 Hesperange, Cité Um          00859                % 01614 AVL---
+200304007 Howald, Op der Stirz  00901  00901                % 01614 AVL---
+200304011 Howald, Ronneboesch   00902  00902                % 01614 AVL---
+200304006 Howald, Moureschanz   00903  00903                % 01614 AVL---
+200405036 Luxembourg, Gare rou  00907  00907                % 01614 AVL---
+200405026 Luxembourg/Centre, P  00910  00910                % 01614 AVL---
+200405023 Centre, Martyrs       00911  00911                % 01614 AVL---
+200405020 Hamilius              00914  00914                % 01614 AVL---
+200405014 Centre, Fondation Pe  00916  00916                % 01614 AVL---
+200417047 Kirchberg, Rout Bréc  00918  00918                % 01614 AVL---
+200417007 Kirchberg, B.E.I.     00920  00920                % 01614 AVL---
+200417016 Kirchberg, Jean Monn  00921  00921                % 01614 AVL---
+200417005 Kirchberg, Antoine d  00922  00922                % 01614 AVL---
+200417019 Kirchberg, Konrad Ad  00923  00923                % 01614 AVL---
+200417039 Kirchberg, Avalon     00924  00924                % 01614 AVL---
+200417033 Kirchberg, Poutty St  00926  00926                % 01614 AVL---
+200417044 Kirchberg, Luxexpo Q  00927  00927                % 01614 AVL---
+200508001 Senningerberg, Autob  00932  00932                % 01614 AVL---
+200501001 Aéroport Luxembourg/  00934                       % 01614 AVL---
+*Z 01615 AVL---       001 015                               % 01615 AVL---
+*L 16       200303002 200501001  02014  02049               % 01615 AVL---
+*A BE 200303002 200501001 000013  02014  02049              % 01615 AVL---
+*R 1 200501001 200303002 200501001  02014  02049            % 01615 AVL---
+*G AVG 200303002 200501001  02014  02049                    % 01615 AVL---
+*A VE 200303002 200501001 000013  02014  02049              % 01615 AVL---
+200303002 Hesperange, Cité Um          02014                % 01615 AVL---
+200304007 Howald, Op der Stirz  02016  02016                % 01615 AVL---
+200304011 Howald, Ronneboesch   02017  02017                % 01615 AVL---
+200304006 Howald, Moureschanz   02018  02018                % 01615 AVL---
+200405036 Luxembourg, Gare rou  02022  02022                % 01615 AVL---
+200405026 Luxembourg/Centre, P  02025  02025                % 01615 AVL---
+200405023 Centre, Martyrs       02026  02026                % 01615 AVL---
+200405020 Hamilius              02029  02029                % 01615 AVL---
+200405014 Centre, Fondation Pe  02031  02031                % 01615 AVL---
+200417047 Kirchberg, Rout Bréc  02033  02033                % 01615 AVL---
+200417007 Kirchberg, B.E.I.     02035  02035                % 01615 AVL---
+200417016 Kirchberg, Jean Monn  02036  02036                % 01615 AVL---
+200417005 Kirchberg, Antoine d  02037  02037                % 01615 AVL---
+200417019 Kirchberg, Konrad Ad  02038  02038                % 01615 AVL---
+200417039 Kirchberg, Avalon     02039  02039                % 01615 AVL---
+200417033 Kirchberg, Poutty St  02041  02041                % 01615 AVL---
+200417044 Kirchberg, Luxexpo Q  02042  02042                % 01615 AVL---
+200508001 Senningerberg, Autob  02047  02047                % 01615 AVL---
+200501001 Aéroport Luxembourg/  02049                       % 01615 AVL---
+*Z 01616 AVL---       003 015                               % 01616 AVL---
+*L 16       200405036 200501001  02052  02119               % 01616 AVL---
+*A BE 200405036 200501001 000013  02052  02119              % 01616 AVL---
+*R 1 200501001 200405036 200501001  02052  02119            % 01616 AVL---
+*G AVG 200405036 200501001  02052  02119                    % 01616 AVL---
+*A VE 200405036 200501001 000013  02052  02119              % 01616 AVL---
+200405036 Luxembourg, Gare rou         02052                % 01616 AVL---
+200405026 Luxembourg/Centre, P  02055  02055                % 01616 AVL---
+200405023 Centre, Martyrs       02056  02056                % 01616 AVL---
+200405020 Hamilius              02059  02059                % 01616 AVL---
+200405014 Centre, Fondation Pe  02101  02101                % 01616 AVL---
+200417047 Kirchberg, Rout Bréc  02103  02103                % 01616 AVL---
+200417007 Kirchberg, B.E.I.     02105  02105                % 01616 AVL---
+200417016 Kirchberg, Jean Monn  02106  02106                % 01616 AVL---
+200417005 Kirchberg, Antoine d  02107  02107                % 01616 AVL---
+200417019 Kirchberg, Konrad Ad  02108  02108                % 01616 AVL---
+200417039 Kirchberg, Avalon     02109  02109                % 01616 AVL---
+200417033 Kirchberg, Poutty St  02111  02111                % 01616 AVL---
+200417044 Kirchberg, Luxexpo Q  02112  02112                % 01616 AVL---
+200508001 Senningerberg, Autob  02117  02117                % 01616 AVL---
+200501001 Aéroport Luxembourg/  02119                       % 01616 AVL---
+*Z 01617 AVL---       004 075                               % 01617 AVL---
+*L 16       200405036 200501001  01245  01312               % 01617 AVL---
+*A BE 200405036 200501001 000017  01245  01312              % 01617 AVL---
+*R 1 200501001 200405036 200501001  01245  01312            % 01617 AVL---
+*G AVG 200405036 200501001  01245  01312                    % 01617 AVL---
+*A VE 200405036 200501001 000017  01245  01312              % 01617 AVL---
+200405036 Luxembourg, Gare rou         01245                % 01617 AVL---
+200405026 Luxembourg/Centre, P  01248  01248                % 01617 AVL---
+200405023 Centre, Martyrs       01249  01249                % 01617 AVL---
+200405020 Hamilius              01252  01252                % 01617 AVL---
+200405014 Centre, Fondation Pe  01254  01254                % 01617 AVL---
+200417047 Kirchberg, Rout Bréc  01256  01256                % 01617 AVL---
+200417007 Kirchberg, B.E.I.     01258  01258                % 01617 AVL---
+200417016 Kirchberg, Jean Monn  01259  01259                % 01617 AVL---
+200417005 Kirchberg, Antoine d  01300  01300                % 01617 AVL---
+200417019 Kirchberg, Konrad Ad  01301  01301                % 01617 AVL---
+200417039 Kirchberg, Avalon     01302  01302                % 01617 AVL---
+200417033 Kirchberg, Poutty St  01304  01304                % 01617 AVL---
+200417044 Kirchberg, Luxexpo Q  01305  01305                % 01617 AVL---
+200508001 Senningerberg, Autob  01310  01310                % 01617 AVL---
+200501001 Aéroport Luxembourg/  01312                       % 01617 AVL---
+*Z 01618 AVL---       001 020                               % 01618 AVL---
+*L 16       200501001 200405032  02158  02222               % 01618 AVL---
+*A BE 200501001 200405032 000013  02158  02222              % 01618 AVL---
+*R 2 200405032 200501001 200405032  02158  02222            % 01618 AVL---
+*G AVG 200501001 200405032  02158  02222                    % 01618 AVL---
+*A VE 200501001 200405032 000013  02158  02222              % 01618 AVL---
+200501001 Aéroport Luxembourg/         02158                % 01618 AVL---
+200508001 Senningerberg, Autob  02200  02200                % 01618 AVL---
+200417055 Kirchberg, Luxexpo Q  02204  02204                % 01618 AVL---
+200417033 Kirchberg, Poutty St  02205  02205                % 01618 AVL---
+200417039 Kirchberg, Avalon     02207  02207                % 01618 AVL---
+200417019 Kirchberg, Konrad Ad  02208  02208                % 01618 AVL---
+200417005 Kirchberg, Antoine d  02209  02209                % 01618 AVL---
+200417016 Kirchberg, Jean Monn  02210  02210                % 01618 AVL---
+200417007 Kirchberg, B.E.I.     02211  02211                % 01618 AVL---
+200417047 Kirchberg, Rout Bréc  02212  02212                % 01618 AVL---
+200405014 Centre, Fondation Pe  02215  02215                % 01618 AVL---
+200405020 Hamilius              02218  02218                % 01618 AVL---
+200405023 Centre, Martyrs       02219  02219                % 01618 AVL---
+200405026 Luxembourg/Centre, P  02220  02220                % 01618 AVL---
+200405032 Luxembourg, Gare Cen  02222                       % 01618 AVL---
+*Z 01619 AVL---       002 030                               % 01619 AVL---
+*L 16       200501001 200405032  02248  02312               % 01619 AVL---
+*A BE 200501001 200405032 000013  02248  02312              % 01619 AVL---
+*R 2 200405032 200501001 200405032  02248  02312            % 01619 AVL---
+*G AVG 200501001 200405032  02248  02312                    % 01619 AVL---
+*A VE 200501001 200405032 000013  02248  02312              % 01619 AVL---
+200501001 Aéroport Luxembourg/         02248                % 01619 AVL---
+200508001 Senningerberg, Autob  02250  02250                % 01619 AVL---
+200417055 Kirchberg, Luxexpo Q  02254  02254                % 01619 AVL---
+200417033 Kirchberg, Poutty St  02255  02255                % 01619 AVL---
+200417039 Kirchberg, Avalon     02257  02257                % 01619 AVL---
+200417019 Kirchberg, Konrad Ad  02258  02258                % 01619 AVL---
+200417005 Kirchberg, Antoine d  02259  02259                % 01619 AVL---
+200417016 Kirchberg, Jean Monn  02300  02300                % 01619 AVL---
+200417007 Kirchberg, B.E.I.     02301  02301                % 01619 AVL---
+200417047 Kirchberg, Rout Bréc  02302  02302                % 01619 AVL---
+200405014 Centre, Fondation Pe  02305  02305                % 01619 AVL---
+200405020 Hamilius              02308  02308                % 01619 AVL---
+200405023 Centre, Martyrs       02309  02309                % 01619 AVL---
+200405026 Luxembourg/Centre, P  02310  02310                % 01619 AVL---
+200405032 Luxembourg, Gare Cen  02312                       % 01619 AVL---
+*Z 01620 AVL---                                             % 01620 AVL---
+*L 16       200501001 200303002  01948  02021               % 01620 AVL---
+*A BE 200501001 200303002 000022  01948  02021              % 01620 AVL---
+*R 2 200303002 200501001 200303002  01948  02021            % 01620 AVL---
+*G AVG 200501001 200303002  01948  02021                    % 01620 AVL---
+*A VE 200501001 200303002 000022  01948  02021              % 01620 AVL---
+200501001 Aéroport Luxembourg/         01948                % 01620 AVL---
+200508001 Senningerberg, Autob  01950  01950                % 01620 AVL---
+200417055 Kirchberg, Luxexpo Q  01954  01954                % 01620 AVL---
+200417033 Kirchberg, Poutty St  01955  01955                % 01620 AVL---
+200417039 Kirchberg, Avalon     01957  01957                % 01620 AVL---
+200417019 Kirchberg, Konrad Ad  01958  01958                % 01620 AVL---
+200417005 Kirchberg, Antoine d  01959  01959                % 01620 AVL---
+200417016 Kirchberg, Jean Monn  02000  02000                % 01620 AVL---
+200417007 Kirchberg, B.E.I.     02001  02001                % 01620 AVL---
+200417047 Kirchberg, Rout Bréc  02002  02002                % 01620 AVL---
+200405014 Centre, Fondation Pe  02005  02005                % 01620 AVL---
+200405020 Hamilius              02008  02008                % 01620 AVL---
+200405023 Centre, Martyrs       02009  02009                % 01620 AVL---
+200405026 Luxembourg/Centre, P  02010  02010                % 01620 AVL---
+200405032 Luxembourg, Gare Cen  02012  02012                % 01620 AVL---
+200304006 Howald, Moureschanz   02016  02016                % 01620 AVL---
+200304011 Howald, Ronneboesch   02017  02017                % 01620 AVL---
+200304007 Howald, Op der Stirz  02018  02018                % 01620 AVL---
+200303002 Hesperange, Cité Um   02021                       % 01620 AVL---
+*Z 01621 AVL---       006 110                               % 01621 AVL---
+*L 16       200501001 200303002  00746  00828               % 01621 AVL---
+*A BE 200501001 200303002 000013  00746  00828              % 01621 AVL---
+*R 2 200303002 200501001 200303002  00746  00828            % 01621 AVL---
+*G AVG 200501001 200303002  00746  00828                    % 01621 AVL---
+*A VE 200501001 200303002 000013  00746  00828              % 01621 AVL---
+200501001 Aéroport Luxembourg/         00746                % 01621 AVL---
+200508001 Senningerberg, Autob  00748  00748                % 01621 AVL---
+200417055 Kirchberg, Luxexpo Q  00754  00754                % 01621 AVL---
+200417033 Kirchberg, Poutty St  00756  00756                % 01621 AVL---
+200417039 Kirchberg, Avalon     00758  00758                % 01621 AVL---
+200417019 Kirchberg, Konrad Ad  00759  00759                % 01621 AVL---
+200417005 Kirchberg, Antoine d  00800  00800                % 01621 AVL---
+200417016 Kirchberg, Jean Monn  00801  00801                % 01621 AVL---
+200417007 Kirchberg, B.E.I.     00803  00803                % 01621 AVL---
+200417047 Kirchberg, Rout Bréc  00805  00805                % 01621 AVL---
+200405014 Centre, Fondation Pe  00807  00807                % 01621 AVL---
+200405020 Hamilius              00812  00812                % 01621 AVL---
+200405023 Centre, Martyrs       00813  00813                % 01621 AVL---
+200405026 Luxembourg/Centre, P  00815  00815                % 01621 AVL---
+200405032 Luxembourg, Gare Cen  00818  00818                % 01621 AVL---
+200304006 Howald, Moureschanz   00823  00823                % 01621 AVL---
+200304011 Howald, Ronneboesch   00824  00824                % 01621 AVL---
+200304007 Howald, Op der Stirz  00825  00825                % 01621 AVL---
+200303002 Hesperange, Cité Um   00828                       % 01621 AVL---
+*Z 01622 AVL---       005 015                               % 01622 AVL---
+*L 16       200501001 200405032  02021  02048               % 01622 AVL---
+*A BE 200501001 200405032 000013  02021  02048              % 01622 AVL---
+*R 2 200405032 200501001 200405032  02021  02048            % 01622 AVL---
+*G AVG 200501001 200405032  02021  02048                    % 01622 AVL---
+*A VE 200501001 200405032 000013  02021  02048              % 01622 AVL---
+200501001 Aéroport Luxembourg/         02021                % 01622 AVL---
+200508001 Senningerberg, Autob  02023  02023                % 01622 AVL---
+200417055 Kirchberg, Luxexpo Q  02028  02028                % 01622 AVL---
+200417033 Kirchberg, Poutty St  02029  02029                % 01622 AVL---
+200417039 Kirchberg, Avalon     02031  02031                % 01622 AVL---
+200417019 Kirchberg, Konrad Ad  02032  02032                % 01622 AVL---
+200417005 Kirchberg, Antoine d  02032  02032                % 01622 AVL---
+200417016 Kirchberg, Jean Monn  02033  02033                % 01622 AVL---
+200417007 Kirchberg, B.E.I.     02035  02035                % 01622 AVL---
+200417047 Kirchberg, Rout Bréc  02036  02036                % 01622 AVL---
+200405014 Centre, Fondation Pe  02039  02039                % 01622 AVL---
+200405020 Hamilius              02043  02043                % 01622 AVL---
+200405023 Centre, Martyrs       02044  02044                % 01622 AVL---
+200405026 Luxembourg/Centre, P  02046  02046                % 01622 AVL---
+200405032 Luxembourg, Gare Cen  02048                       % 01622 AVL---
+*Z 01623 AVL---       004 075                               % 01623 AVL---
+*L 16       200501001 200405032  01320  01347               % 01623 AVL---
+*A BE 200501001 200405032 000017  01320  01347              % 01623 AVL---
+*R 2 200405032 200501001 200405032  01320  01347            % 01623 AVL---
+*G AVG 200501001 200405032  01320  01347                    % 01623 AVL---
+*A VE 200501001 200405032 000017  01320  01347              % 01623 AVL---
+200501001 Aéroport Luxembourg/         01320                % 01623 AVL---
+200508001 Senningerberg, Autob  01322  01322                % 01623 AVL---
+200417055 Kirchberg, Luxexpo Q  01327  01327                % 01623 AVL---
+200417033 Kirchberg, Poutty St  01328  01328                % 01623 AVL---
+200417039 Kirchberg, Avalon     01330  01330                % 01623 AVL---
+200417019 Kirchberg, Konrad Ad  01331  01331                % 01623 AVL---
+200417005 Kirchberg, Antoine d  01331  01331                % 01623 AVL---
+200417016 Kirchberg, Jean Monn  01332  01332                % 01623 AVL---
+200417007 Kirchberg, B.E.I.     01334  01334                % 01623 AVL---
+200417047 Kirchberg, Rout Bréc  01335  01335                % 01623 AVL---
+200405014 Centre, Fondation Pe  01338  01338                % 01623 AVL---
+200405020 Hamilius              01342  01342                % 01623 AVL---
+200405023 Centre, Martyrs       01343  01343                % 01623 AVL---
+200405026 Luxembourg/Centre, P  01345  01345                % 01623 AVL---
+200405032 Luxembourg, Gare Cen  01347                       % 01623 AVL---
+*Z 01624 AVL---       006 100                               % 01624 AVL---
+*L 16       200501001 200303002  00808  00844               % 01624 AVL---
+*A BE 200501001 200303002 000022  00808  00844              % 01624 AVL---
+*R 2 200303002 200501001 200303002  00808  00844            % 01624 AVL---
+*G AVG 200501001 200303002  00808  00844                    % 01624 AVL---
+*A VE 200501001 200303002 000022  00808  00844              % 01624 AVL---
+200501001 Aéroport Luxembourg/         00808                % 01624 AVL---
+200508001 Senningerberg, Autob  00810  00810                % 01624 AVL---
+200417055 Kirchberg, Luxexpo Q  00815  00815                % 01624 AVL---
+200417033 Kirchberg, Poutty St  00816  00816                % 01624 AVL---
+200417039 Kirchberg, Avalon     00818  00818                % 01624 AVL---
+200417019 Kirchberg, Konrad Ad  00819  00819                % 01624 AVL---
+200417005 Kirchberg, Antoine d  00819  00819                % 01624 AVL---
+200417016 Kirchberg, Jean Monn  00820  00820                % 01624 AVL---
+200417007 Kirchberg, B.E.I.     00822  00822                % 01624 AVL---
+200417047 Kirchberg, Rout Bréc  00823  00823                % 01624 AVL---
+200405014 Centre, Fondation Pe  00826  00826                % 01624 AVL---
+200405020 Hamilius              00830  00830                % 01624 AVL---
+200405023 Centre, Martyrs       00831  00831                % 01624 AVL---
+200405026 Luxembourg/Centre, P  00833  00833                % 01624 AVL---
+200405032 Luxembourg, Gare Cen  00835  00835                % 01624 AVL---
+200304006 Howald, Moureschanz   00839  00839                % 01624 AVL---
+200304011 Howald, Ronneboesch   00840  00840                % 01624 AVL---
+200304007 Howald, Op der Stirz  00841  00841                % 01624 AVL---
+200303002 Hesperange, Cité Um   00844                       % 01624 AVL---

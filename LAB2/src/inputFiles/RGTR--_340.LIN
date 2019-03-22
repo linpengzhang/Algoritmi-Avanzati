@@ -1,0 +1,474 @@
+*F 03 2
+*Z 02727 RGTR--                                             % 02727 RGTR--
+*L 340      190602001 160904008  00820  00843               % 02727 RGTR--
+*A hr 190602001 160904008 000016  00820  00843              % 02727 RGTR--
+*A iq 190602001 160904008 000016  00820  00843              % 02727 RGTR--
+*R 1 160904008 190602001 160904008  00820  00843            % 02727 RGTR--
+*G RGB 190602001 160904008  00820  00843                    % 02727 RGTR--
+*A VE 190602001 160904008 000016  00820  00843              % 02727 RGTR--
+*I FD 190602001 160904008        0002803  00820  00843      % 02727 RGTR--
+190602001 Kehlen, Bei Fiewer           00820                % 02727 RGTR--
+190602004 Kehlen, Schaarfeneck  00821  00821                % 02727 RGTR--
+190604002 Meispelt, Kräizwee    00824  00824                % 02727 RGTR--
+190604001 Meispelt, Bei Mëlles  00825  00825                % 02727 RGTR--
+190604003 Meispelt, Kuesselt    00826  00826                % 02727 RGTR--
+190603002 Keispelt, Spellen Ec  00826  00826                % 02727 RGTR--
+190603001 Keispelt, Bei Péicke  00827  00827                % 02727 RGTR--
+160904006 Mersch, Uewermiersch  00836  00836                % 02727 RGTR--
+160904010 Mersch, Nic. Welter   00837  00837                % 02727 RGTR--
+160904003 Mersch, Maartplaz     00837  00837                % 02727 RGTR--
+160904005 Mersch, Stäereplaz    00839  00839                % 02727 RGTR--
+160904001 Mersch, Gare          00840  00840                % 02727 RGTR--
+160904009 Mersch, Beim Klousch  00842  00842                % 02727 RGTR--
+160904008 Mersch, Mierscherbie  00843                       % 02727 RGTR--
+*Z 02728 RGTR--                                             % 02728 RGTR--
+*L 340      190602001 160904008  00920  00943               % 02728 RGTR--
+*A hr 190602001 160904008 000016  00920  00943              % 02728 RGTR--
+*A iq 190602001 160904008 000016  00920  00943              % 02728 RGTR--
+*R 1 160904008 190602001 160904008  00920  00943            % 02728 RGTR--
+*G RGB 190602001 160904008  00920  00943                    % 02728 RGTR--
+*A VE 190602001 160904008 000016  00920  00943              % 02728 RGTR--
+*I FD 190602001 160904008        0002888  00920  00943      % 02728 RGTR--
+190602001 Kehlen, Bei Fiewer           00920                % 02728 RGTR--
+190602004 Kehlen, Schaarfeneck  00921  00921                % 02728 RGTR--
+190604002 Meispelt, Kräizwee    00924  00924                % 02728 RGTR--
+190604001 Meispelt, Bei Mëlles  00925  00925                % 02728 RGTR--
+190604003 Meispelt, Kuesselt    00926  00926                % 02728 RGTR--
+190603002 Keispelt, Spellen Ec  00926  00926                % 02728 RGTR--
+190603001 Keispelt, Bei Péicke  00927  00927                % 02728 RGTR--
+160904006 Mersch, Uewermiersch  00936  00936                % 02728 RGTR--
+160904010 Mersch, Nic. Welter   00937  00937                % 02728 RGTR--
+160904003 Mersch, Maartplaz     00937  00937                % 02728 RGTR--
+160904005 Mersch, Stäereplaz    00939  00939                % 02728 RGTR--
+160904001 Mersch, Gare          00940  00940                % 02728 RGTR--
+160904009 Mersch, Beim Klousch  00942  00942                % 02728 RGTR--
+160904008 Mersch, Mierscherbie  00943                       % 02728 RGTR--
+*Z 02729 RGTR--                                             % 02729 RGTR--
+*L 340      190602001 160904008  01120  01142               % 02729 RGTR--
+*A hr 190602001 160904008 000016  01120  01142              % 02729 RGTR--
+*A iq 190602001 160904008 000016  01120  01142              % 02729 RGTR--
+*R 1 160904008 190602001 160904008  01120  01142            % 02729 RGTR--
+*G RGB 190602001 160904008  01120  01142                    % 02729 RGTR--
+*A VE 190602001 160904008 000016  01120  01142              % 02729 RGTR--
+*I FD 190602001 160904008        0002952  01120  01142      % 02729 RGTR--
+190602001 Kehlen, Bei Fiewer           01120                % 02729 RGTR--
+190602004 Kehlen, Schaarfeneck  01121  01121                % 02729 RGTR--
+190604002 Meispelt, Kräizwee    01124  01124                % 02729 RGTR--
+190604001 Meispelt, Bei Mëlles  01125  01125                % 02729 RGTR--
+190604003 Meispelt, Kuesselt    01125  01125                % 02729 RGTR--
+190603002 Keispelt, Spellen Ec  01126  01126                % 02729 RGTR--
+190603001 Keispelt, Bei Péicke  01127  01127                % 02729 RGTR--
+160904006 Mersch, Uewermiersch  01136  01136                % 02729 RGTR--
+160904010 Mersch, Nic. Welter   01137  01137                % 02729 RGTR--
+160904003 Mersch, Maartplaz     01137  01137                % 02729 RGTR--
+160904005 Mersch, Stäereplaz    01139  01139                % 02729 RGTR--
+160904001 Mersch, Gare          01140  01140                % 02729 RGTR--
+160904009 Mersch, Beim Klousch  01142  01142                % 02729 RGTR--
+160904008 Mersch, Mierscherbie  01142                       % 02729 RGTR--
+*Z 02730 RGTR--                                             % 02730 RGTR--
+*L 340      190602001 160904008  01320  01342               % 02730 RGTR--
+*A hr 190602001 160904008 000016  01320  01342              % 02730 RGTR--
+*A iq 190602001 160904008 000016  01320  01342              % 02730 RGTR--
+*R 1 160904008 190602001 160904008  01320  01342            % 02730 RGTR--
+*G RGB 190602001 160904008  01320  01342                    % 02730 RGTR--
+*A VE 190602001 160904008 000016  01320  01342              % 02730 RGTR--
+*I FD 190602001 160904008        0002953  01320  01342      % 02730 RGTR--
+190602001 Kehlen, Bei Fiewer           01320                % 02730 RGTR--
+190602004 Kehlen, Schaarfeneck  01321  01321                % 02730 RGTR--
+190604002 Meispelt, Kräizwee    01324  01324                % 02730 RGTR--
+190604001 Meispelt, Bei Mëlles  01325  01325                % 02730 RGTR--
+190604003 Meispelt, Kuesselt    01325  01325                % 02730 RGTR--
+190603002 Keispelt, Spellen Ec  01326  01326                % 02730 RGTR--
+190603001 Keispelt, Bei Péicke  01327  01327                % 02730 RGTR--
+160904006 Mersch, Uewermiersch  01336  01336                % 02730 RGTR--
+160904010 Mersch, Nic. Welter   01337  01337                % 02730 RGTR--
+160904003 Mersch, Maartplaz     01337  01337                % 02730 RGTR--
+160904005 Mersch, Stäereplaz    01339  01339                % 02730 RGTR--
+160904001 Mersch, Gare          01340  01340                % 02730 RGTR--
+160904009 Mersch, Beim Klousch  01342  01342                % 02730 RGTR--
+160904008 Mersch, Mierscherbie  01342                       % 02730 RGTR--
+*Z 02731 RGTR--                                             % 02731 RGTR--
+*L 340      190903015 190603001  01430  01456               % 02731 RGTR--
+*A hr 190903015 190603001 000030  01430  01456              % 02731 RGTR--
+*A if 190903015 190603001 000030  01430  01456              % 02731 RGTR--
+*R 1 190603001 190903015 190603001  01430  01456            % 02731 RGTR--
+*G RGB 190903015 190603001  01430  01456                    % 02731 RGTR--
+*A VE 190903015 190603001 000030  01430  01456              % 02731 RGTR--
+*I FD 190903015 190603001        0002954  01430  01456      % 02731 RGTR--
+190903015 Mamer, Lycee (gare r         01430                % 02731 RGTR--
+190903007 Mamer, Gaaschtbierg   01432  01432                % 02731 RGTR--
+190903001 Mamer, Arelerstrooss  01432  01432                % 02731 RGTR--
+190903002 Mamer, Baerendall     01433  01433                % 02731 RGTR--
+190903012 Mamer, Mambra         01433  01433                % 02731 RGTR--
+190903005 Mamer, Eglantiers     01434  01434                % 02731 RGTR--
+190606001 Olm, Dréischelsfeld   01438  01438                % 02731 RGTR--
+190606002 Olm, Kräizwee         01439  01439                % 02731 RGTR--
+190606003 Olm, Kréimerech       01440  01440                % 02731 RGTR--
+190605001 Nospelt, Beim Gliese  01443  01443                % 02731 RGTR--
+190605003 Nospelt, Pompjeesbau  01444  01444                % 02731 RGTR--
+190605002 Nospelt, Kräizhiel    01444  01444                % 02731 RGTR--
+190602006 Kehlen, Zone Industr  01445  01445                % 02731 RGTR--
+190602002 Kehlen, Enneschte Bu  01447  01447                % 02731 RGTR--
+190602001 Kehlen, Bei Fiewer    01448  01448                % 02731 RGTR--
+190602004 Kehlen, Schaarfeneck  01450  01450                % 02731 RGTR--
+190604002 Meispelt, Kräizwee    01453  01453                % 02731 RGTR--
+190604001 Meispelt, Bei Mëlles  01453  01453                % 02731 RGTR--
+190604003 Meispelt, Kuesselt    01454  01454                % 02731 RGTR--
+190603002 Keispelt, Spellen Ec  01455  01455                % 02731 RGTR--
+190603001 Keispelt, Bei Péicke  01456                       % 02731 RGTR--
+*Z 02732 RGTR--                                             % 02732 RGTR--
+*L 340      190903015 160904001  01430  01459               % 02732 RGTR--
+*A hr 190903015 160904001 000030  01430  01459              % 02732 RGTR--
+*A dr 190903015 160904001 000030  01430  01459              % 02732 RGTR--
+*R 1 160904001 190903015 160904001  01430  01459            % 02732 RGTR--
+*G RGB 190903015 160904001  01430  01459                    % 02732 RGTR--
+*A VE 190903015 160904001 000030  01430  01459              % 02732 RGTR--
+*I FD 190903015 160904001        0001890  01430  01459      % 02732 RGTR--
+190903015 Mamer, Lycee (gare r         01430                % 02732 RGTR--
+190903007 Mamer, Gaaschtbierg   01432  01432                % 02732 RGTR--
+190903001 Mamer, Arelerstrooss  01432  01432                % 02732 RGTR--
+190903002 Mamer, Baerendall     01433  01433                % 02732 RGTR--
+190903012 Mamer, Mambra         01433  01433                % 02732 RGTR--
+190903005 Mamer, Eglantiers     01434  01434                % 02732 RGTR--
+190602003 Kehlen, Op der Héich  01439  01439                % 02732 RGTR--
+190602001 Kehlen, Bei Fiewer    01440  01440                % 02732 RGTR--
+190602004 Kehlen, Schaarfeneck  01441  01441                % 02732 RGTR--
+190603001 Keispelt, Bei Péicke  01446  01446                % 02732 RGTR--
+160904006 Mersch, Uewermiersch  01455  01455                % 02732 RGTR--
+160904010 Mersch, Nic. Welter   01456  01456                % 02732 RGTR--
+160904003 Mersch, Maartplaz     01456  01456                % 02732 RGTR--
+160904005 Mersch, Stäereplaz    01458  01458                % 02732 RGTR--
+160904001 Mersch, Gare          01459                       % 02732 RGTR--
+*Z 02733 RGTR--                                             % 02733 RGTR--
+*L 340      190606001 160904001  00650  00721               % 02733 RGTR--
+*A hr 190606001 160904001 000030  00650  00721              % 02733 RGTR--
+*A dr 190606001 160904001 000030  00650  00721              % 02733 RGTR--
+*R 1 160904001 190606001 160904001  00650  00721            % 02733 RGTR--
+*G RGB 190606001 160904001  00650  00721                    % 02733 RGTR--
+*A VE 190606001 160904001 000030  00650  00721              % 02733 RGTR--
+*I FD 190606001 160904001        0001906  00650  00721      % 02733 RGTR--
+190606001 Olm, Dréischelsfeld          00650                % 02733 RGTR--
+190606002 Olm, Kräizwee         00651  00651                % 02733 RGTR--
+190606003 Olm, Kréimerech       00651  00651                % 02733 RGTR--
+190605001 Nospelt, Beim Gliese  00654  00654                % 02733 RGTR--
+190605003 Nospelt, Pompjeesbau  00655  00655                % 02733 RGTR--
+190605002 Nospelt, Kräizhiel    00656  00656                % 02733 RGTR--
+190602006 Kehlen, Zone Industr  00657  00657                % 02733 RGTR--
+190602002 Kehlen, Enneschte Bu  00659  00659                % 02733 RGTR--
+190602001 Kehlen, Bei Fiewer    00700  00700                % 02733 RGTR--
+190602004 Kehlen, Schaarfeneck  00702  00702                % 02733 RGTR--
+190604002 Meispelt, Kräizwee    00705  00705                % 02733 RGTR--
+190604001 Meispelt, Bei Mëlles  00706  00706                % 02733 RGTR--
+190604003 Meispelt, Kuesselt    00706  00706                % 02733 RGTR--
+190603002 Keispelt, Spellen Ec  00707  00707                % 02733 RGTR--
+190603001 Keispelt, Bei Péicke  00708  00708                % 02733 RGTR--
+160904006 Mersch, Uewermiersch  00717  00717                % 02733 RGTR--
+160904010 Mersch, Nic. Welter   00718  00718                % 02733 RGTR--
+160904003 Mersch, Maartplaz     00718  00718                % 02733 RGTR--
+160904005 Mersch, Stäereplaz    00720  00720                % 02733 RGTR--
+160904001 Mersch, Gare          00721                       % 02733 RGTR--
+*Z 02734 RGTR--                                             % 02734 RGTR--
+*L 340      190602001 160904001  01620  01640               % 02734 RGTR--
+*A hr 190602001 160904001 000016  01620  01640              % 02734 RGTR--
+*A dr 190602001 160904001 000016  01620  01640              % 02734 RGTR--
+*R 1 160904001 190602001 160904001  01620  01640            % 02734 RGTR--
+*G RGB 190602001 160904001  01620  01640                    % 02734 RGTR--
+*A VE 190602001 160904001 000016  01620  01640              % 02734 RGTR--
+*I FD 190602001 160904001        0002886  01620  01640      % 02734 RGTR--
+190602001 Kehlen, Bei Fiewer           01620                % 02734 RGTR--
+190602004 Kehlen, Schaarfeneck  01621  01621                % 02734 RGTR--
+190604002 Meispelt, Kräizwee    01624  01624                % 02734 RGTR--
+190604001 Meispelt, Bei Mëlles  01625  01625                % 02734 RGTR--
+190604003 Meispelt, Kuesselt    01626  01626                % 02734 RGTR--
+190603002 Keispelt, Spellen Ec  01626  01626                % 02734 RGTR--
+190603001 Keispelt, Bei Péicke  01627  01627                % 02734 RGTR--
+160904006 Mersch, Uewermiersch  01636  01636                % 02734 RGTR--
+160904010 Mersch, Nic. Welter   01637  01637                % 02734 RGTR--
+160904003 Mersch, Maartplaz     01637  01637                % 02734 RGTR--
+160904005 Mersch, Stäereplaz    01639  01639                % 02734 RGTR--
+160904001 Mersch, Gare          01640                       % 02734 RGTR--
+*Z 02735 RGTR--                                             % 02735 RGTR--
+*L 340      190602001 160904001  00704  00724               % 02735 RGTR--
+*A hr 190602001 160904001 000041  00704  00724              % 02735 RGTR--
+*A dr 190602001 160904001 000041  00704  00724              % 02735 RGTR--
+*R 1 160904001 190602001 160904001  00704  00724            % 02735 RGTR--
+*G RGB 190602001 160904001  00704  00724                    % 02735 RGTR--
+*A VE 190602001 160904001 000041  00704  00724              % 02735 RGTR--
+*I FD 190602001 160904001        0002181  00704  00724      % 02735 RGTR--
+190602001 Kehlen, Bei Fiewer           00704                % 02735 RGTR--
+190602004 Kehlen, Schaarfeneck  00705  00705                % 02735 RGTR--
+190604002 Meispelt, Kräizwee    00708  00708                % 02735 RGTR--
+190604001 Meispelt, Bei Mëlles  00709  00709                % 02735 RGTR--
+190604003 Meispelt, Kuesselt    00710  00710                % 02735 RGTR--
+190603002 Keispelt, Spellen Ec  00710  00710                % 02735 RGTR--
+190603001 Keispelt, Bei Péicke  00711  00711                % 02735 RGTR--
+160904006 Mersch, Uewermiersch  00720  00720                % 02735 RGTR--
+160904010 Mersch, Nic. Welter   00721  00721                % 02735 RGTR--
+160904003 Mersch, Maartplaz     00721  00721                % 02735 RGTR--
+160904005 Mersch, Stäereplaz    00723  00723                % 02735 RGTR--
+160904001 Mersch, Gare          00724                       % 02735 RGTR--
+*Z 02736 RGTR--                                             % 02736 RGTR--
+*L 340      160904008 190602001  01050  01108               % 02736 RGTR--
+*A hr 160904008 190602001 000016  01050  01108              % 02736 RGTR--
+*A ir 160904008 190602001 000016  01050  01108              % 02736 RGTR--
+*R 2 190602001 160904008 190602001  01050  01108            % 02736 RGTR--
+*G RGB 160904008 190602001  01050  01108                    % 02736 RGTR--
+*A VE 160904008 190602001 000016  01050  01108              % 02736 RGTR--
+*I FD 160904008 190602001        0002427  01050  01108      % 02736 RGTR--
+160904008 Mersch, Mierscherbie         01050                % 02736 RGTR--
+160904009 Mersch, Beim Klousch  01050  01050                % 02736 RGTR--
+160904001 Mersch, Gare          01051  01051                % 02736 RGTR--
+160904003 Mersch, Maartplaz     01052  01052                % 02736 RGTR--
+160904010 Mersch, Nic. Welter   01053  01053                % 02736 RGTR--
+160904006 Mersch, Uewermiersch  01053  01053                % 02736 RGTR--
+190603001 Keispelt, Bei Péicke  01100  01100                % 02736 RGTR--
+190603002 Keispelt, Spellen Ec  01101  01101                % 02736 RGTR--
+190604003 Meispelt, Kuesselt    01102  01102                % 02736 RGTR--
+190604001 Meispelt, Bei Mëlles  01103  01103                % 02736 RGTR--
+190604002 Meispelt, Kräizwee    01103  01103                % 02736 RGTR--
+190602004 Kehlen, Schaarfeneck  01107  01107                % 02736 RGTR--
+190602001 Kehlen, Bei Fiewer    01108                       % 02736 RGTR--
+*Z 02737 RGTR--                                             % 02737 RGTR--
+*L 340      160904008 190602001  01550  01608               % 02737 RGTR--
+*A hr 160904008 190602001 000016  01550  01608              % 02737 RGTR--
+*A ir 160904008 190602001 000016  01550  01608              % 02737 RGTR--
+*R 2 190602001 160904008 190602001  01550  01608            % 02737 RGTR--
+*G RGB 160904008 190602001  01550  01608                    % 02737 RGTR--
+*A VE 160904008 190602001 000016  01550  01608              % 02737 RGTR--
+*I FD 160904008 190602001        0001322  01550  01608      % 02737 RGTR--
+160904008 Mersch, Mierscherbie         01550                % 02737 RGTR--
+160904009 Mersch, Beim Klousch  01550  01550                % 02737 RGTR--
+160904001 Mersch, Gare          01551  01551                % 02737 RGTR--
+160904003 Mersch, Maartplaz     01552  01552                % 02737 RGTR--
+160904010 Mersch, Nic. Welter   01553  01553                % 02737 RGTR--
+160904006 Mersch, Uewermiersch  01553  01553                % 02737 RGTR--
+190603001 Keispelt, Bei Péicke  01600  01600                % 02737 RGTR--
+190603002 Keispelt, Spellen Ec  01601  01601                % 02737 RGTR--
+190604003 Meispelt, Kuesselt    01602  01602                % 02737 RGTR--
+190604001 Meispelt, Bei Mëlles  01603  01603                % 02737 RGTR--
+190604002 Meispelt, Kräizwee    01603  01603                % 02737 RGTR--
+190602004 Kehlen, Schaarfeneck  01607  01607                % 02737 RGTR--
+190602001 Kehlen, Bei Fiewer    01608                       % 02737 RGTR--
+*Z 02738 RGTR--                                             % 02738 RGTR--
+*L 340      160904008 190602001  00850  00908               % 02738 RGTR--
+*A hr 160904008 190602001 000016  00850  00908              % 02738 RGTR--
+*A ir 160904008 190602001 000016  00850  00908              % 02738 RGTR--
+*R 2 190602001 160904008 190602001  00850  00908            % 02738 RGTR--
+*G RGB 160904008 190602001  00850  00908                    % 02738 RGTR--
+*A VE 160904008 190602001 000016  00850  00908              % 02738 RGTR--
+*I FD 160904008 190602001        0002431  00850  00908      % 02738 RGTR--
+160904008 Mersch, Mierscherbie         00850                % 02738 RGTR--
+160904009 Mersch, Beim Klousch  00850  00850                % 02738 RGTR--
+160904001 Mersch, Gare          00851  00851                % 02738 RGTR--
+160904003 Mersch, Maartplaz     00852  00852                % 02738 RGTR--
+160904010 Mersch, Nic. Welter   00853  00853                % 02738 RGTR--
+160904006 Mersch, Uewermiersch  00853  00853                % 02738 RGTR--
+190603001 Keispelt, Bei Péicke  00900  00900                % 02738 RGTR--
+190603002 Keispelt, Spellen Ec  00901  00901                % 02738 RGTR--
+190604003 Meispelt, Kuesselt    00902  00902                % 02738 RGTR--
+190604001 Meispelt, Bei Mëlles  00903  00903                % 02738 RGTR--
+190604002 Meispelt, Kräizwee    00903  00903                % 02738 RGTR--
+190602004 Kehlen, Schaarfeneck  00907  00907                % 02738 RGTR--
+190602001 Kehlen, Bei Fiewer    00908                       % 02738 RGTR--
+*Z 02739 RGTR--                                             % 02739 RGTR--
+*L 340      160904008 190602001  01732  01750               % 02739 RGTR--
+*A hr 160904008 190602001 000016  01732  01750              % 02739 RGTR--
+*A ir 160904008 190602001 000016  01732  01750              % 02739 RGTR--
+*R 2 190602001 160904008 190602001  01732  01750            % 02739 RGTR--
+*G RGB 160904008 190602001  01732  01750                    % 02739 RGTR--
+*A VE 160904008 190602001 000016  01732  01750              % 02739 RGTR--
+*I FD 160904008 190602001        0002955  01732  01750      % 02739 RGTR--
+160904008 Mersch, Mierscherbie         01732                % 02739 RGTR--
+160904009 Mersch, Beim Klousch  01732  01732                % 02739 RGTR--
+160904001 Mersch, Gare          01733  01733                % 02739 RGTR--
+160904003 Mersch, Maartplaz     01734  01734                % 02739 RGTR--
+160904010 Mersch, Nic. Welter   01735  01735                % 02739 RGTR--
+160904006 Mersch, Uewermiersch  01735  01735                % 02739 RGTR--
+190603001 Keispelt, Bei Péicke  01742  01742                % 02739 RGTR--
+190603002 Keispelt, Spellen Ec  01743  01743                % 02739 RGTR--
+190604003 Meispelt, Kuesselt    01744  01744                % 02739 RGTR--
+190604001 Meispelt, Bei Mëlles  01745  01745                % 02739 RGTR--
+190604002 Meispelt, Kräizwee    01745  01745                % 02739 RGTR--
+190602004 Kehlen, Schaarfeneck  01749  01749                % 02739 RGTR--
+190602001 Kehlen, Bei Fiewer    01750                       % 02739 RGTR--
+*Z 02740 RGTR--                                             % 02740 RGTR--
+*L 340      160904001 190606001  01635  01703               % 02740 RGTR--
+*A hr 160904001 190606001 000045  01635  01703              % 02740 RGTR--
+*A is 160904001 190606001 000045  01635  01703              % 02740 RGTR--
+*R 2 190606001 160904001 190606001  01635  01703            % 02740 RGTR--
+*G RGB 160904001 190606001  01635  01703                    % 02740 RGTR--
+*A VE 160904001 190606001 000045  01635  01703              % 02740 RGTR--
+*I FD 160904001 190606001        0002956  01635  01703      % 02740 RGTR--
+160904001 Mersch, Gare                 01635                % 02740 RGTR--
+160904003 Mersch, Maartplaz     01636  01636                % 02740 RGTR--
+160904010 Mersch, Nic. Welter   01636  01636                % 02740 RGTR--
+160904006 Mersch, Uewermiersch  01637  01637                % 02740 RGTR--
+190603001 Keispelt, Bei Péicke  01644  01644                % 02740 RGTR--
+190603002 Keispelt, Spellen Ec  01645  01645                % 02740 RGTR--
+190604003 Meispelt, Kuesselt    01645  01645                % 02740 RGTR--
+190604001 Meispelt, Bei Mëlles  01646  01646                % 02740 RGTR--
+190604002 Meispelt, Kräizwee    01647  01647                % 02740 RGTR--
+190602004 Kehlen, Schaarfeneck  01651  01651                % 02740 RGTR--
+190602001 Kehlen, Bei Fiewer    01652  01652                % 02740 RGTR--
+190602002 Kehlen, Enneschte Bu  01653  01653                % 02740 RGTR--
+190602006 Kehlen, Zone Industr  01655  01655                % 02740 RGTR--
+190605002 Nospelt, Kräizhiel    01656  01656                % 02740 RGTR--
+190605003 Nospelt, Pompjeesbau  01657  01657                % 02740 RGTR--
+190605001 Nospelt, Beim Gliese  01658  01658                % 02740 RGTR--
+190606003 Olm, Kréimerech       01701  01701                % 02740 RGTR--
+190606002 Olm, Kräizwee         01702  01702                % 02740 RGTR--
+190606001 Olm, Dréischelsfeld   01703                       % 02740 RGTR--
+*Z 02741 RGTR--                                             % 02741 RGTR--
+*L 340      160904001 190606001  01450  01517               % 02741 RGTR--
+*A hr 160904001 190606001 000030  01450  01517              % 02741 RGTR--
+*A is 160904001 190606001 000030  01450  01517              % 02741 RGTR--
+*R 2 190606001 160904001 190606001  01450  01517            % 02741 RGTR--
+*G RGB 160904001 190606001  01450  01517                    % 02741 RGTR--
+*A VE 160904001 190606001 000030  01450  01517              % 02741 RGTR--
+*I FD 160904001 190606001        0002430  01450  01517      % 02741 RGTR--
+160904001 Mersch, Gare                 01450                % 02741 RGTR--
+160904003 Mersch, Maartplaz     01451  01451                % 02741 RGTR--
+160904010 Mersch, Nic. Welter   01451  01451                % 02741 RGTR--
+160904006 Mersch, Uewermiersch  01452  01452                % 02741 RGTR--
+190603001 Keispelt, Bei Péicke  01459  01459                % 02741 RGTR--
+190603002 Keispelt, Spellen Ec  01500  01500                % 02741 RGTR--
+190604003 Meispelt, Kuesselt    01500  01500                % 02741 RGTR--
+190604001 Meispelt, Bei Mëlles  01501  01501                % 02741 RGTR--
+190604002 Meispelt, Kräizwee    01502  01502                % 02741 RGTR--
+190602004 Kehlen, Schaarfeneck  01506  01506                % 02741 RGTR--
+190602001 Kehlen, Bei Fiewer    01507  01507                % 02741 RGTR--
+190602002 Kehlen, Enneschte Bu  01508  01508                % 02741 RGTR--
+190602006 Kehlen, Zone Industr  01510  01510                % 02741 RGTR--
+190605002 Nospelt, Kräizhiel    01511  01511                % 02741 RGTR--
+190605003 Nospelt, Pompjeesbau  01512  01512                % 02741 RGTR--
+190605001 Nospelt, Beim Gliese  01512  01512                % 02741 RGTR--
+190606003 Olm, Kréimerech       01515  01515                % 02741 RGTR--
+190606002 Olm, Kräizwee         01516  01516                % 02741 RGTR--
+190606001 Olm, Dréischelsfeld   01517                       % 02741 RGTR--
+*Z 02742 RGTR--                                             % 02742 RGTR--
+*L 340      160904001 190606001  01225  01252               % 02742 RGTR--
+*A hr 160904001 190606001 000042  01225  01252              % 02742 RGTR--
+*A is 160904001 190606001 000042  01225  01252              % 02742 RGTR--
+*R 2 190606001 160904001 190606001  01225  01252            % 02742 RGTR--
+*G RGB 160904001 190606001  01225  01252                    % 02742 RGTR--
+*A VE 160904001 190606001 000042  01225  01252              % 02742 RGTR--
+*I FD 160904001 190606001        0002892  01225  01252      % 02742 RGTR--
+160904001 Mersch, Gare                 01225                % 02742 RGTR--
+160904003 Mersch, Maartplaz     01226  01226                % 02742 RGTR--
+160904010 Mersch, Nic. Welter   01226  01226                % 02742 RGTR--
+160904006 Mersch, Uewermiersch  01227  01227                % 02742 RGTR--
+190603001 Keispelt, Bei Péicke  01234  01234                % 02742 RGTR--
+190603002 Keispelt, Spellen Ec  01235  01235                % 02742 RGTR--
+190604003 Meispelt, Kuesselt    01235  01235                % 02742 RGTR--
+190604001 Meispelt, Bei Mëlles  01236  01236                % 02742 RGTR--
+190604002 Meispelt, Kräizwee    01237  01237                % 02742 RGTR--
+190602004 Kehlen, Schaarfeneck  01241  01241                % 02742 RGTR--
+190602001 Kehlen, Bei Fiewer    01242  01242                % 02742 RGTR--
+190602002 Kehlen, Enneschte Bu  01243  01243                % 02742 RGTR--
+190602006 Kehlen, Zone Industr  01245  01245                % 02742 RGTR--
+190605002 Nospelt, Kräizhiel    01246  01246                % 02742 RGTR--
+190605003 Nospelt, Pompjeesbau  01247  01247                % 02742 RGTR--
+190605001 Nospelt, Beim Gliese  01247  01247                % 02742 RGTR--
+190606003 Olm, Kréimerech       01250  01250                % 02742 RGTR--
+190606002 Olm, Kräizwee         01251  01251                % 02742 RGTR--
+190606001 Olm, Dréischelsfeld   01252                       % 02742 RGTR--
+*Z 02743 RGTR--                                             % 02743 RGTR--
+*L 340      160904001 190602001  00725  00742               % 02743 RGTR--
+*A hr 160904001 190602001 000041  00725  00742              % 02743 RGTR--
+*A ir 160904001 190602001 000041  00725  00742              % 02743 RGTR--
+*R 2 190602001 160904001 190602001  00725  00742            % 02743 RGTR--
+*G RGB 160904001 190602001  00725  00742                    % 02743 RGTR--
+*A VE 160904001 190602001 000041  00725  00742              % 02743 RGTR--
+*I FD 160904001 190602001        0002064  00725  00742      % 02743 RGTR--
+160904001 Mersch, Gare                 00725                % 02743 RGTR--
+160904003 Mersch, Maartplaz     00726  00726                % 02743 RGTR--
+160904010 Mersch, Nic. Welter   00726  00726                % 02743 RGTR--
+160904006 Mersch, Uewermiersch  00727  00727                % 02743 RGTR--
+190603001 Keispelt, Bei Péicke  00734  00734                % 02743 RGTR--
+190603002 Keispelt, Spellen Ec  00735  00735                % 02743 RGTR--
+190604003 Meispelt, Kuesselt    00735  00735                % 02743 RGTR--
+190604001 Meispelt, Bei Mëlles  00736  00736                % 02743 RGTR--
+190604002 Meispelt, Kräizwee    00737  00737                % 02743 RGTR--
+190602004 Kehlen, Schaarfeneck  00741  00741                % 02743 RGTR--
+190602001 Kehlen, Bei Fiewer    00742                       % 02743 RGTR--
+*Z 02744 RGTR--                                             % 02744 RGTR--
+*L 340      160904001 190602001  01635  01652               % 02744 RGTR--
+*A hr 160904001 190602001 000173  01635  01652              % 02744 RGTR--
+*A ir 160904001 190602001 000173  01635  01652              % 02744 RGTR--
+*R 2 190602001 160904001 190602001  01635  01652            % 02744 RGTR--
+*G RGB 160904001 190602001  01635  01652                    % 02744 RGTR--
+*A VE 160904001 190602001 000173  01635  01652              % 02744 RGTR--
+*I FD 160904001 190602001        0002883  01635  01652      % 02744 RGTR--
+160904001 Mersch, Gare                 01635                % 02744 RGTR--
+160904003 Mersch, Maartplaz     01636  01636                % 02744 RGTR--
+160904010 Mersch, Nic. Welter   01636  01636                % 02744 RGTR--
+160904006 Mersch, Uewermiersch  01637  01637                % 02744 RGTR--
+190603001 Keispelt, Bei Péicke  01644  01644                % 02744 RGTR--
+190603002 Keispelt, Spellen Ec  01645  01645                % 02744 RGTR--
+190604003 Meispelt, Kuesselt    01645  01645                % 02744 RGTR--
+190604001 Meispelt, Bei Mëlles  01646  01646                % 02744 RGTR--
+190604002 Meispelt, Kräizwee    01647  01647                % 02744 RGTR--
+190602004 Kehlen, Schaarfeneck  01651  01651                % 02744 RGTR--
+190602001 Kehlen, Bei Fiewer    01652                       % 02744 RGTR--
+*Z 02745 RGTR--                                             % 02745 RGTR--
+*L 340      190602002 190903015  00727  00747               % 02745 RGTR--
+*A hr 190602002 190903015 000030  00727  00747              % 02745 RGTR--
+*A il 190602002 190903015 000030  00727  00747              % 02745 RGTR--
+*R 2 190903015 190602002 190903015  00727  00747            % 02745 RGTR--
+*G RGB 190602002 190903015  00727  00747                    % 02745 RGTR--
+*A VE 190602002 190903015 000030  00727  00747              % 02745 RGTR--
+*I FD 190602002 190903015        0002825  00727  00747      % 02745 RGTR--
+190602002 Kehlen, Enneschte Bu         00727                % 02745 RGTR--
+190602006 Kehlen, Zone Industr  00729  00729                % 02745 RGTR--
+190605002 Nospelt, Kräizhiel    00730  00730                % 02745 RGTR--
+190605003 Nospelt, Pompjeesbau  00730  00730                % 02745 RGTR--
+190605001 Nospelt, Beim Gliese  00731  00731                % 02745 RGTR--
+190606003 Olm, Kréimerech       00734  00734                % 02745 RGTR--
+190606002 Olm, Kräizwee         00735  00735                % 02745 RGTR--
+190606001 Olm, Dréischelsfeld   00736  00736                % 02745 RGTR--
+190903005 Mamer, Eglantiers     00740  00740                % 02745 RGTR--
+190903012 Mamer, Mambra         00742  00742                % 02745 RGTR--
+190903002 Mamer, Baerendall     00742  00742                % 02745 RGTR--
+190903001 Mamer, Arelerstrooss  00743  00743                % 02745 RGTR--
+190903007 Mamer, Gaaschtbierg   00744  00744                % 02745 RGTR--
+190903015 Mamer, Lycee (gare r  00747                       % 02745 RGTR--
+*Z 02746 RGTR--                                             % 02746 RGTR--
+*L 340      190603001 190903015  00734  00754               % 02746 RGTR--
+*A hr 190603001 190903015 000030  00734  00754              % 02746 RGTR--
+*A il 190603001 190903015 000030  00734  00754              % 02746 RGTR--
+*R 2 190903015 190603001 190903015  00734  00754            % 02746 RGTR--
+*G RGB 190603001 190903015  00734  00754                    % 02746 RGTR--
+*A VE 190603001 190903015 000030  00734  00754              % 02746 RGTR--
+*I FD 190603001 190903015        0002957  00734  00754      % 02746 RGTR--
+190603001 Keispelt, Bei Péicke         00734                % 02746 RGTR--
+190603002 Keispelt, Spellen Ec  00735  00735                % 02746 RGTR--
+190604003 Meispelt, Kuesselt    00735  00735                % 02746 RGTR--
+190604001 Meispelt, Bei Mëlles  00736  00736                % 02746 RGTR--
+190604002 Meispelt, Kräizwee    00737  00737                % 02746 RGTR--
+190602004 Kehlen, Schaarfeneck  00741  00741                % 02746 RGTR--
+190602001 Kehlen, Bei Fiewer    00742  00742                % 02746 RGTR--
+190602003 Kehlen, Op der Héich  00743  00743                % 02746 RGTR--
+190903005 Mamer, Eglantiers     00747  00747                % 02746 RGTR--
+190903012 Mamer, Mambra         00748  00748                % 02746 RGTR--
+190903002 Mamer, Baerendall     00749  00749                % 02746 RGTR--
+190903001 Mamer, Arelerstrooss  00749  00749                % 02746 RGTR--
+190903007 Mamer, Gaaschtbierg   00751  00751                % 02746 RGTR--
+190903015 Mamer, Lycee (gare r  00754                       % 02746 RGTR--
+*Z 02747 RGTR--                                             % 02747 RGTR--
+*L 340      160904001 190903015  00725  00749               % 02747 RGTR--
+*A hr 160904001 190903015 000030  00725  00749              % 02747 RGTR--
+*A il 160904001 190903015 000030  00725  00749              % 02747 RGTR--
+*R 2 190903015 160904001 190903015  00725  00749            % 02747 RGTR--
+*G RGB 160904001 190903015  00725  00749                    % 02747 RGTR--
+*A VE 160904001 190903015 000030  00725  00749              % 02747 RGTR--
+*I FD 160904001 190903015        0002958  00725  00749      % 02747 RGTR--
+160904001 Mersch, Gare                 00725                % 02747 RGTR--
+160904003 Mersch, Maartplaz     00726  00726                % 02747 RGTR--
+160904010 Mersch, Nic. Welter   00726  00726                % 02747 RGTR--
+160904006 Mersch, Uewermiersch  00727  00727                % 02747 RGTR--
+190903005 Mamer, Eglantiers     00743  00743                % 02747 RGTR--
+190903012 Mamer, Mambra         00744  00744                % 02747 RGTR--
+190903002 Mamer, Baerendall     00745  00745                % 02747 RGTR--
+190903001 Mamer, Arelerstrooss  00745  00745                % 02747 RGTR--
+190903007 Mamer, Gaaschtbierg   00746  00746                % 02747 RGTR--
+190903015 Mamer, Lycee (gare r  00749                       % 02747 RGTR--

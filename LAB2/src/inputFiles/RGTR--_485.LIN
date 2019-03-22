@@ -1,0 +1,109 @@
+*F 03 2
+*Z 02802 RGTR--                                             % 02802 RGTR--
+*L 485      180401003 170501016  00801  00836               % 02802 RGTR--
+*A FR 180401003 170501016 000006  00801  00836              % 02802 RGTR--
+*A cn 180401003 170501016 000006  00801  00836              % 02802 RGTR--
+*A GU 180401003 170501016 000006  00801  00836              % 02802 RGTR--
+*R 1 170501016 180401003 170501016  00801  00836            % 02802 RGTR--
+*G RGB 180401003 170501016  00801  00836                    % 02802 RGTR--
+*A VE 180401003 170501016 000006  00801  00836              % 02802 RGTR--
+*I FD 180401003 170501016        0002987  00801  00836      % 02802 RGTR--
+180401003 Grevenmacher, Gare r         00801                % 02802 RGTR--
+180401004 Grevenmacher, Jardin  00801  00801                % 02802 RGTR--
+180701006 Mertert, route Natio  00805  00805                % 02802 RGTR--
+180701002 Mertert, Copal        00806  00806                % 02802 RGTR--
+180703004 Wasserbillig, Marais  00807  00807                % 02802 RGTR--
+180703003 Wasserbillig, Gare    00808  00809                % 02802 RGTR--
+180703001 Wasserbillig, Centre  00811  00811                % 02802 RGTR--
+180703002 Wasserbillig, Cimeti  00811  00811                % 02802 RGTR--
+180702001 Pont de Langsur       00813  00813                % 02802 RGTR--
+170605002 Moersdorf, Olek       00816  00816                % 02802 RGTR--
+170605001 Moersdorf, Duerf      00817  00817                % 02802 RGTR--
+170601002 Born, Op der Gare     00818  00818                % 02802 RGTR--
+170601001 Born, Kapell          00819  00819                % 02802 RGTR--
+170601004 Born, Pëtzwee         00819  00819                % 02802 RGTR--
+170601003 Born, Op Kimmelt      00820  00820                % 02802 RGTR--
+170607001 Burer Millen          00821  00821                % 02802 RGTR--
+170703001 Hinkel, Haaptstrooss  00823  00823                % 02802 RGTR--
+170703003 Hinkel, Schiltzhaus   00823  00823                % 02802 RGTR--
+170704002 Rosport, Centr.Elect  00824  00824                % 02802 RGTR--
+170704003 Rosport, Lokal        00826  00826                % 02802 RGTR--
+170704001 Rosport, Camping      00827  00827                % 02802 RGTR--
+170704005 Rosport, Source       00828  00828                % 02802 RGTR--
+170705002 Steinheim, Maeleck    00829  00829                % 02802 RGTR--
+170705003 Steinheim, Spillscho  00830  00830                % 02802 RGTR--
+170501015 Echternach, Ste Croi  00835  00835                % 02802 RGTR--
+170501011 Echternach, Morgenst  00835  00835                % 02802 RGTR--
+170501016 Echternach, Gare Cen  00836                       % 02802 RGTR--
+*Z 02803 RGTR--                                             % 02803 RGTR--
+*L 485      170501016 180401003  00520  00554               % 02803 RGTR--
+*A FR 170501016 180401003 000006  00520  00554              % 02803 RGTR--
+*A al 170501016 180401003 000006  00520  00554              % 02803 RGTR--
+*A iz 170501016 180401003 000006  00520  00554              % 02803 RGTR--
+*R 2 180401003 170501016 180401003  00520  00554            % 02803 RGTR--
+*G RGB 170501016 180401003  00520  00554                    % 02803 RGTR--
+*A VE 170501016 180401003 000006  00520  00554              % 02803 RGTR--
+*I FD 170501016 180401003        0002891  00520  00554      % 02803 RGTR--
+170501016 Echternach, Gare Cen         00520                % 02803 RGTR--
+170501011 Echternach, Morgenst  00521  00521                % 02803 RGTR--
+170501015 Echternach, Ste Croi  00521  00521                % 02803 RGTR--
+170705001 Steinheim, An der Ue  00526  00526                % 02803 RGTR--
+170705002 Steinheim, Maeleck    00526  00526                % 02803 RGTR--
+170704005 Rosport, Source       00528  00528                % 02803 RGTR--
+170704001 Rosport, Camping      00529  00529                % 02803 RGTR--
+170704003 Rosport, Lokal        00529  00529                % 02803 RGTR--
+170704002 Rosport, Centr.Elect  00531  00531                % 02803 RGTR--
+170703003 Hinkel, Schiltzhaus   00532  00532                % 02803 RGTR--
+170703001 Hinkel, Haaptstrooss  00533  00533                % 02803 RGTR--
+170607001 Burer Millen          00534  00534                % 02803 RGTR--
+170601003 Born, Op Kimmelt      00535  00535                % 02803 RGTR--
+170601004 Born, Pëtzwee         00536  00536                % 02803 RGTR--
+170601001 Born, Kapell          00537  00537                % 02803 RGTR--
+170601002 Born, Op der Gare     00537  00537                % 02803 RGTR--
+170605001 Moersdorf, Duerf      00539  00539                % 02803 RGTR--
+170605002 Moersdorf, Olek       00539  00539                % 02803 RGTR--
+180702001 Pont de Langsur       00542  00542                % 02803 RGTR--
+180703002 Wasserbillig, Cimeti  00544  00544                % 02803 RGTR--
+180703001 Wasserbillig, Centre  00545  00545                % 02803 RGTR--
+180703003 Wasserbillig, Gare    00546  00547                % 02803 RGTR--
+180703004 Wasserbillig, Marais  00548  00548                % 02803 RGTR--
+180701002 Mertert, Copal        00549  00549                % 02803 RGTR--
+180701006 Mertert, route Natio  00550  00550                % 02803 RGTR--
+180401004 Grevenmacher, Jardin  00554  00554                % 02803 RGTR--
+180401003 Grevenmacher, Gare r  00554                       % 02803 RGTR--
+*Z 02804 RGTR--                                             % 02804 RGTR--
+*L 485      170501016 180401003  00657  00734               % 02804 RGTR--
+*A FR 170501016 180401003 000006  00657  00734              % 02804 RGTR--
+*A al 170501016 180401003 000006  00657  00734              % 02804 RGTR--
+*A WA 170501016 180401003 000006  00657  00734              % 02804 RGTR--
+*R 2 180401003 170501016 180401003  00657  00734            % 02804 RGTR--
+*G RGB 170501016 180401003  00657  00734                    % 02804 RGTR--
+*A VE 170501016 180401003 000006  00657  00734              % 02804 RGTR--
+*I FD 170501016 180401003        0002501  00657  00734      % 02804 RGTR--
+170501016 Echternach, Gare Cen         00657                % 02804 RGTR--
+170501011 Echternach, Morgenst  00658  00658                % 02804 RGTR--
+170501015 Echternach, Ste Croi  00658  00658                % 02804 RGTR--
+170705001 Steinheim, An der Ue  00703  00703                % 02804 RGTR--
+170705002 Steinheim, Maeleck    00704  00704                % 02804 RGTR--
+170704005 Rosport, Source       00705  00705                % 02804 RGTR--
+170704001 Rosport, Camping      00706  00706                % 02804 RGTR--
+170704003 Rosport, Lokal        00707  00707                % 02804 RGTR--
+170704002 Rosport, Centr.Elect  00709  00709                % 02804 RGTR--
+170703003 Hinkel, Schiltzhaus   00710  00710                % 02804 RGTR--
+170703001 Hinkel, Haaptstrooss  00710  00710                % 02804 RGTR--
+170607001 Burer Millen          00712  00712                % 02804 RGTR--
+170601003 Born, Op Kimmelt      00713  00713                % 02804 RGTR--
+170601004 Born, Pëtzwee         00714  00714                % 02804 RGTR--
+170601001 Born, Kapell          00715  00715                % 02804 RGTR--
+170601002 Born, Op der Gare     00715  00715                % 02804 RGTR--
+170605001 Moersdorf, Duerf      00717  00717                % 02804 RGTR--
+170605002 Moersdorf, Olek       00718  00718                % 02804 RGTR--
+180702001 Pont de Langsur       00721  00721                % 02804 RGTR--
+180703002 Wasserbillig, Cimeti  00723  00723                % 02804 RGTR--
+180703001 Wasserbillig, Centre  00724  00724                % 02804 RGTR--
+180703003 Wasserbillig, Gare    00725  00726                % 02804 RGTR--
+180703004 Wasserbillig, Marais  00727  00727                % 02804 RGTR--
+180701002 Mertert, Copal        00728  00728                % 02804 RGTR--
+180701006 Mertert, route Natio  00729  00729                % 02804 RGTR--
+180401004 Grevenmacher, Jardin  00733  00733                % 02804 RGTR--
+180401003 Grevenmacher, Gare r  00734                       % 02804 RGTR--

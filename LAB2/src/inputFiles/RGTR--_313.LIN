@@ -1,0 +1,248 @@
+*F 03 2
+*Z 05845 RGTR--                                             % 05845 RGTR--
+*L 313      220402034 221004001  01030  01056               % 05845 RGTR--
+*A as 220402034 221004001 000006  01030  01056              % 05845 RGTR--
+*A nk 220402034 221004001 000006  01030  01056              % 05845 RGTR--
+*R 1 221004001 220402034 221004001  01030  01056            % 05845 RGTR--
+*G RGB 220402034 221004001  01030  01056                    % 05845 RGTR--
+*A VE 220402034 221004001 000006  01030  01056              % 05845 RGTR--
+*I FD 220402034 221004001        0001879  01030  01056      % 05845 RGTR--
+220402034 Esch/Alzette, Gare           01030                % 05845 RGTR--
+220402097 Esch/Alzette, Bd Ber  01031  01031                % 05845 RGTR--
+220402049 Esch/Alzette, Cliniq  01032  01032                % 05845 RGTR--
+220402066 Esch/Alzette, Op der  01033  01033                % 05845 RGTR--
+220402020 Esch/Alzette, Cinqua  01035  01035                % 05845 RGTR--
+220402012 Esch/Alzette, Bd. Hu  01036  01036                % 05845 RGTR--
+220402053 Esch/Alzette, Lallen  01036  01036                % 05845 RGTR--
+220402013 Esch/Alzette, Bd. Pi  01037  01037                % 05845 RGTR--
+220802003 Foetz, Am Brill       01042  01042                % 05845 RGTR--
+220804003 Pontpierre, Pompjees  01046  01046                % 05845 RGTR--
+221006001 Wickrange, Rumbaach   01046  01046                % 05845 RGTR--
+221001001 Ehlange, Am Brill     01047  01047                % 05845 RGTR--
+221003001 Pissange, Wäschbur    01050  01050                % 05845 RGTR--
+221002002 Limpach, Uecht        01052  01052                % 05845 RGTR--
+221002001 Limpach, Kiirch       01053  01053                % 05845 RGTR--
+221004001 Reckange/Mess, Am Du  01056                       % 05845 RGTR--
+*Z 05846 RGTR--                                             % 05846 RGTR--
+*L 313      220402034 221004001  01225  01251               % 05846 RGTR--
+*A BE 220402034 221004001 000006  01225  01251              % 05846 RGTR--
+*A as 220402034 221004001 000006  01225  01251              % 05846 RGTR--
+*A nk 220402034 221004001 000006  01225  01251              % 05846 RGTR--
+*R 1 221004001 220402034 221004001  01225  01251            % 05846 RGTR--
+*G RGB 220402034 221004001  01225  01251                    % 05846 RGTR--
+*A VE 220402034 221004001 000006  01225  01251              % 05846 RGTR--
+*I FD 220402034 221004001        0002029  01225  01251      % 05846 RGTR--
+220402034 Esch/Alzette, Gare           01225                % 05846 RGTR--
+220402097 Esch/Alzette, Bd Ber  01226  01226                % 05846 RGTR--
+220402049 Esch/Alzette, Cliniq  01227  01227                % 05846 RGTR--
+220402066 Esch/Alzette, Op der  01228  01228                % 05846 RGTR--
+220402020 Esch/Alzette, Cinqua  01230  01230                % 05846 RGTR--
+220402012 Esch/Alzette, Bd. Hu  01231  01231                % 05846 RGTR--
+220402053 Esch/Alzette, Lallen  01231  01231                % 05846 RGTR--
+220402013 Esch/Alzette, Bd. Pi  01232  01232                % 05846 RGTR--
+220802003 Foetz, Am Brill       01237  01237                % 05846 RGTR--
+220804003 Pontpierre, Pompjees  01241  01241                % 05846 RGTR--
+221006001 Wickrange, Rumbaach   01241  01241                % 05846 RGTR--
+221001001 Ehlange, Am Brill     01242  01242                % 05846 RGTR--
+221003001 Pissange, Wäschbur    01245  01245                % 05846 RGTR--
+221002002 Limpach, Uecht        01247  01247                % 05846 RGTR--
+221002001 Limpach, Kiirch       01248  01248                % 05846 RGTR--
+221004001 Reckange/Mess, Am Du  01251                       % 05846 RGTR--
+*Z 05847 RGTR--                                             % 05847 RGTR--
+*L 313      220402034 221004001  01415  01441               % 05847 RGTR--
+*A BE 220402034 221004001 000033  01415  01441              % 05847 RGTR--
+*A as 220402034 221004001 000033  01415  01441              % 05847 RGTR--
+*A nk 220402034 221004001 000033  01415  01441              % 05847 RGTR--
+*R 1 221004001 220402034 221004001  01415  01441            % 05847 RGTR--
+*G RGB 220402034 221004001  01415  01441                    % 05847 RGTR--
+*A VE 220402034 221004001 000033  01415  01441              % 05847 RGTR--
+*I FD 220402034 221004001        0001804  01415  01441      % 05847 RGTR--
+220402034 Esch/Alzette, Gare           01415                % 05847 RGTR--
+220402097 Esch/Alzette, Bd Ber  01416  01416                % 05847 RGTR--
+220402049 Esch/Alzette, Cliniq  01417  01417                % 05847 RGTR--
+220402066 Esch/Alzette, Op der  01418  01418                % 05847 RGTR--
+220402020 Esch/Alzette, Cinqua  01420  01420                % 05847 RGTR--
+220402012 Esch/Alzette, Bd. Hu  01421  01421                % 05847 RGTR--
+220402053 Esch/Alzette, Lallen  01421  01421                % 05847 RGTR--
+220402013 Esch/Alzette, Bd. Pi  01422  01422                % 05847 RGTR--
+220802003 Foetz, Am Brill       01427  01427                % 05847 RGTR--
+220804003 Pontpierre, Pompjees  01431  01431                % 05847 RGTR--
+221006001 Wickrange, Rumbaach   01431  01431                % 05847 RGTR--
+221001001 Ehlange, Am Brill     01432  01432                % 05847 RGTR--
+221003001 Pissange, Wäschbur    01435  01435                % 05847 RGTR--
+221002002 Limpach, Uecht        01437  01437                % 05847 RGTR--
+221002001 Limpach, Kiirch       01438  01438                % 05847 RGTR--
+221004001 Reckange/Mess, Am Du  01441                       % 05847 RGTR--
+*Z 05848 RGTR--                                             % 05848 RGTR--
+*L 313      220402034 221004001  01555  01627               % 05848 RGTR--
+*A BE 220402034 221004001 000006  01555  01627              % 05848 RGTR--
+*A as 220402034 221004001 000006  01555  01627              % 05848 RGTR--
+*A nk 220402034 221004001 000006  01555  01627              % 05848 RGTR--
+*R 1 221004001 220402034 221004001  01555  01627            % 05848 RGTR--
+*G RGB 220402034 221004001  01555  01627                    % 05848 RGTR--
+*A VE 220402034 221004001 000006  01555  01627              % 05848 RGTR--
+*I FD 220402034 221004001        0002849  01555  01627      % 05848 RGTR--
+220402034 Esch/Alzette, Gare           01555                % 05848 RGTR--
+220402097 Esch/Alzette, Bd Ber  01556  01556                % 05848 RGTR--
+220402049 Esch/Alzette, Cliniq  01558  01558                % 05848 RGTR--
+220402066 Esch/Alzette, Op der  01559  01559                % 05848 RGTR--
+220402020 Esch/Alzette, Cinqua  01601  01601                % 05848 RGTR--
+220402012 Esch/Alzette, Bd. Hu  01602  01602                % 05848 RGTR--
+220402053 Esch/Alzette, Lallen  01603  01603                % 05848 RGTR--
+220402013 Esch/Alzette, Bd. Pi  01603  01603                % 05848 RGTR--
+220802003 Foetz, Am Brill       01609  01609                % 05848 RGTR--
+220804003 Pontpierre, Pompjees  01615  01615                % 05848 RGTR--
+221006001 Wickrange, Rumbaach   01616  01616                % 05848 RGTR--
+221001001 Ehlange, Am Brill     01617  01617                % 05848 RGTR--
+221003001 Pissange, Wäschbur    01619  01619                % 05848 RGTR--
+221002002 Limpach, Uecht        01622  01622                % 05848 RGTR--
+221002001 Limpach, Kiirch       01623  01623                % 05848 RGTR--
+221004001 Reckange/Mess, Am Du  01627                       % 05848 RGTR--
+*Z 05849 RGTR--                                             % 05849 RGTR--
+*L 313      220402034 221004001  01815  01847               % 05849 RGTR--
+*A BE 220402034 221004001 000006  01815  01847              % 05849 RGTR--
+*A as 220402034 221004001 000006  01815  01847              % 05849 RGTR--
+*A nk 220402034 221004001 000006  01815  01847              % 05849 RGTR--
+*R 1 221004001 220402034 221004001  01815  01847            % 05849 RGTR--
+*G RGB 220402034 221004001  01815  01847                    % 05849 RGTR--
+*A VE 220402034 221004001 000006  01815  01847              % 05849 RGTR--
+*I FD 220402034 221004001        0002194  01815  01847      % 05849 RGTR--
+220402034 Esch/Alzette, Gare           01815                % 05849 RGTR--
+220402097 Esch/Alzette, Bd Ber  01816  01816                % 05849 RGTR--
+220402049 Esch/Alzette, Cliniq  01818  01818                % 05849 RGTR--
+220402066 Esch/Alzette, Op der  01819  01819                % 05849 RGTR--
+220402020 Esch/Alzette, Cinqua  01821  01821                % 05849 RGTR--
+220402012 Esch/Alzette, Bd. Hu  01822  01822                % 05849 RGTR--
+220402053 Esch/Alzette, Lallen  01823  01823                % 05849 RGTR--
+220402013 Esch/Alzette, Bd. Pi  01823  01823                % 05849 RGTR--
+220802003 Foetz, Am Brill       01829  01829                % 05849 RGTR--
+220804003 Pontpierre, Pompjees  01835  01835                % 05849 RGTR--
+221006001 Wickrange, Rumbaach   01836  01836                % 05849 RGTR--
+221001001 Ehlange, Am Brill     01837  01837                % 05849 RGTR--
+221003001 Pissange, Wäschbur    01839  01839                % 05849 RGTR--
+221002002 Limpach, Uecht        01842  01842                % 05849 RGTR--
+221002001 Limpach, Kiirch       01843  01843                % 05849 RGTR--
+221004001 Reckange/Mess, Am Du  01847                       % 05849 RGTR--
+*Z 05850 RGTR--                                             % 05850 RGTR--
+*L 313      220402034 221004001  01655  01727               % 05850 RGTR--
+*A BE 220402034 221004001 000162  01655  01727              % 05850 RGTR--
+*A as 220402034 221004001 000162  01655  01727              % 05850 RGTR--
+*A nk 220402034 221004001 000162  01655  01727              % 05850 RGTR--
+*R 1 221004001 220402034 221004001  01655  01727            % 05850 RGTR--
+*G RGB 220402034 221004001  01655  01727                    % 05850 RGTR--
+*A VE 220402034 221004001 000162  01655  01727              % 05850 RGTR--
+*I FD 220402034 221004001        0002347  01655  01727      % 05850 RGTR--
+220402034 Esch/Alzette, Gare           01655                % 05850 RGTR--
+220402097 Esch/Alzette, Bd Ber  01656  01656                % 05850 RGTR--
+220402049 Esch/Alzette, Cliniq  01658  01658                % 05850 RGTR--
+220402066 Esch/Alzette, Op der  01659  01659                % 05850 RGTR--
+220402020 Esch/Alzette, Cinqua  01701  01701                % 05850 RGTR--
+220402012 Esch/Alzette, Bd. Hu  01702  01702                % 05850 RGTR--
+220402053 Esch/Alzette, Lallen  01703  01703                % 05850 RGTR--
+220402013 Esch/Alzette, Bd. Pi  01703  01703                % 05850 RGTR--
+220802003 Foetz, Am Brill       01709  01709                % 05850 RGTR--
+220804003 Pontpierre, Pompjees  01715  01715                % 05850 RGTR--
+221006001 Wickrange, Rumbaach   01716  01716                % 05850 RGTR--
+221001001 Ehlange, Am Brill     01717  01717                % 05850 RGTR--
+221003001 Pissange, Wäschbur    01719  01719                % 05850 RGTR--
+221002002 Limpach, Uecht        01722  01722                % 05850 RGTR--
+221002001 Limpach, Kiirch       01723  01723                % 05850 RGTR--
+221004001 Reckange/Mess, Am Du  01727                       % 05850 RGTR--
+*Z 05851 RGTR--                                             % 05851 RGTR--
+*L 313      221004001 220402034  01300  01329               % 05851 RGTR--
+*A BE 221004001 220402034 000006  01300  01329              % 05851 RGTR--
+*A as 221004001 220402034 000006  01300  01329              % 05851 RGTR--
+*A nl 221004001 220402034 000006  01300  01329              % 05851 RGTR--
+*R 2 220402034 221004001 220402034  01300  01329            % 05851 RGTR--
+*G RGB 221004001 220402034  01300  01329                    % 05851 RGTR--
+*A VE 221004001 220402034 000006  01300  01329              % 05851 RGTR--
+*I FD 221004001 220402034        0001966  01300  01329      % 05851 RGTR--
+221004001 Reckange/Mess, Am Du         01300                % 05851 RGTR--
+221002001 Limpach, Kiirch       01304  01304                % 05851 RGTR--
+221002002 Limpach, Uecht        01305  01305                % 05851 RGTR--
+221003001 Pissange, Wäschbur    01307  01307                % 05851 RGTR--
+221001001 Ehlange, Am Brill     01309  01309                % 05851 RGTR--
+221006001 Wickrange, Rumbaach   01311  01311                % 05851 RGTR--
+220804003 Pontpierre, Pompjees  01311  01311                % 05851 RGTR--
+220802004 Foetz, Am Butterbril  01315  01315                % 05851 RGTR--
+220402013 Esch/Alzette, Bd. Pi  01320  01320                % 05851 RGTR--
+220402053 Esch/Alzette, Lallen  01321  01321                % 05851 RGTR--
+220402012 Esch/Alzette, Bd. Hu  01322  01322                % 05851 RGTR--
+220402020 Esch/Alzette, Cinqua  01323  01323                % 05851 RGTR--
+220402066 Esch/Alzette, Op der  01324  01324                % 05851 RGTR--
+220402049 Esch/Alzette, Cliniq  01325  01325                % 05851 RGTR--
+220402097 Esch/Alzette, Bd Ber  01327  01327                % 05851 RGTR--
+220402034 Esch/Alzette, Gare    01329                       % 05851 RGTR--
+*Z 05852 RGTR--                                             % 05852 RGTR--
+*L 313      221004001 220402034  01505  01534               % 05852 RGTR--
+*A BE 221004001 220402034 000006  01505  01534              % 05852 RGTR--
+*A as 221004001 220402034 000006  01505  01534              % 05852 RGTR--
+*A nl 221004001 220402034 000006  01505  01534              % 05852 RGTR--
+*R 2 220402034 221004001 220402034  01505  01534            % 05852 RGTR--
+*G RGB 221004001 220402034  01505  01534                    % 05852 RGTR--
+*A VE 221004001 220402034 000006  01505  01534              % 05852 RGTR--
+*I FD 221004001 220402034        0002948  01505  01534      % 05852 RGTR--
+221004001 Reckange/Mess, Am Du         01505                % 05852 RGTR--
+221002001 Limpach, Kiirch       01509  01509                % 05852 RGTR--
+221002002 Limpach, Uecht        01510  01510                % 05852 RGTR--
+221003001 Pissange, Wäschbur    01512  01512                % 05852 RGTR--
+221001001 Ehlange, Am Brill     01514  01514                % 05852 RGTR--
+221006001 Wickrange, Rumbaach   01516  01516                % 05852 RGTR--
+220804003 Pontpierre, Pompjees  01516  01516                % 05852 RGTR--
+220802004 Foetz, Am Butterbril  01520  01520                % 05852 RGTR--
+220402013 Esch/Alzette, Bd. Pi  01525  01525                % 05852 RGTR--
+220402053 Esch/Alzette, Lallen  01526  01526                % 05852 RGTR--
+220402012 Esch/Alzette, Bd. Hu  01527  01527                % 05852 RGTR--
+220402020 Esch/Alzette, Cinqua  01528  01528                % 05852 RGTR--
+220402066 Esch/Alzette, Op der  01529  01529                % 05852 RGTR--
+220402049 Esch/Alzette, Cliniq  01530  01530                % 05852 RGTR--
+220402097 Esch/Alzette, Bd Ber  01532  01532                % 05852 RGTR--
+220402034 Esch/Alzette, Gare    01534                       % 05852 RGTR--
+*Z 05853 RGTR--                                             % 05853 RGTR--
+*L 313      221004001 220402034  00900  00932               % 05853 RGTR--
+*A as 221004001 220402034 000006  00900  00932              % 05853 RGTR--
+*A nl 221004001 220402034 000006  00900  00932              % 05853 RGTR--
+*R 2 220402034 221004001 220402034  00900  00932            % 05853 RGTR--
+*G RGB 221004001 220402034  00900  00932                    % 05853 RGTR--
+*A VE 221004001 220402034 000006  00900  00932              % 05853 RGTR--
+*I FD 221004001 220402034        0001955  00900  00932      % 05853 RGTR--
+221004001 Reckange/Mess, Am Du         00900                % 05853 RGTR--
+221002001 Limpach, Kiirch       00904  00904                % 05853 RGTR--
+221002002 Limpach, Uecht        00905  00905                % 05853 RGTR--
+221003001 Pissange, Wäschbur    00908  00908                % 05853 RGTR--
+221001001 Ehlange, Am Brill     00910  00910                % 05853 RGTR--
+221006001 Wickrange, Rumbaach   00911  00911                % 05853 RGTR--
+220804003 Pontpierre, Pompjees  00912  00912                % 05853 RGTR--
+220802004 Foetz, Am Butterbril  00917  00917                % 05853 RGTR--
+220402013 Esch/Alzette, Bd. Pi  00922  00922                % 05853 RGTR--
+220402053 Esch/Alzette, Lallen  00922  00922                % 05853 RGTR--
+220402012 Esch/Alzette, Bd. Hu  00923  00923                % 05853 RGTR--
+220402020 Esch/Alzette, Cinqua  00924  00924                % 05853 RGTR--
+220402066 Esch/Alzette, Op der  00926  00926                % 05853 RGTR--
+220402049 Esch/Alzette, Cliniq  00927  00927                % 05853 RGTR--
+220402097 Esch/Alzette, Bd Ber  00929  00929                % 05853 RGTR--
+220402034 Esch/Alzette, Gare    00932                       % 05853 RGTR--
+*Z 05854 RGTR--                                             % 05854 RGTR--
+*L 313      221004001 220402034  00718  00750               % 05854 RGTR--
+*A as 221004001 220402034 000033  00718  00750              % 05854 RGTR--
+*A nl 221004001 220402034 000033  00718  00750              % 05854 RGTR--
+*R 2 220402034 221004001 220402034  00718  00750            % 05854 RGTR--
+*G RGB 221004001 220402034  00718  00750                    % 05854 RGTR--
+*A VE 221004001 220402034 000033  00718  00750              % 05854 RGTR--
+*I FD 221004001 220402034        0002899  00718  00750      % 05854 RGTR--
+221004001 Reckange/Mess, Am Du         00718                % 05854 RGTR--
+221002001 Limpach, Kiirch       00722  00722                % 05854 RGTR--
+221002002 Limpach, Uecht        00723  00723                % 05854 RGTR--
+221003001 Pissange, Wäschbur    00726  00726                % 05854 RGTR--
+221001001 Ehlange, Am Brill     00728  00728                % 05854 RGTR--
+221006001 Wickrange, Rumbaach   00729  00729                % 05854 RGTR--
+220804003 Pontpierre, Pompjees  00730  00730                % 05854 RGTR--
+220802004 Foetz, Am Butterbril  00735  00735                % 05854 RGTR--
+220402013 Esch/Alzette, Bd. Pi  00740  00740                % 05854 RGTR--
+220402053 Esch/Alzette, Lallen  00740  00740                % 05854 RGTR--
+220402012 Esch/Alzette, Bd. Hu  00741  00741                % 05854 RGTR--
+220402020 Esch/Alzette, Cinqua  00742  00742                % 05854 RGTR--
+220402066 Esch/Alzette, Op der  00744  00744                % 05854 RGTR--
+220402049 Esch/Alzette, Cliniq  00745  00745                % 05854 RGTR--
+220402097 Esch/Alzette, Bd Ber  00747  00747                % 05854 RGTR--
+220402034 Esch/Alzette, Gare    00750                       % 05854 RGTR--

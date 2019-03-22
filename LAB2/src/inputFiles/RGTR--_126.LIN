@@ -1,0 +1,226 @@
+*F 03 2
+*Z 09081 RGTR--                                             % 09081 RGTR--
+*L 126      200419021 200504011  01403  01434               % 09081 RGTR--
+*A bi 200419021 200504011 000030  01403  01434              % 09081 RGTR--
+*A ag 200419021 200504011 000030  01403  01434              % 09081 RGTR--
+*A sm 200419021 200504011 000030  01403  01434              % 09081 RGTR--
+*A ad 200419021 200504011 000030  01403  01434              % 09081 RGTR--
+*R 1 200504011 200419021 200504011  01403  01434            % 09081 RGTR--
+*G RGB 200419021 200504011  01403  01434                    % 09081 RGTR--
+*A VE 200419021 200504011 000030  01403  01434              % 09081 RGTR--
+*I FD 200419021 200504011        0002413  01403  01434      % 09081 RGTR--
+200419021 Limpertsberg, L.T.C.         01403                % 09081 RGTR--
+200419025 Limpertsberg, Lycée   01407  01407                % 09081 RGTR--
+200508007 Senningerberg, Laang  01419  01419                % 09081 RGTR--
+200508008 Senningerberg, Mënst  01419  01419                % 09081 RGTR--
+200507001 Senningen, Duerfplaz  01422  01422                % 09081 RGTR--
+200507003 Senningen, Um Kiem    01423  01423                % 09081 RGTR--
+200507002 Senningen, Kierch     01423  01423                % 09081 RGTR--
+200504006 Niederanven, Routsch  01424  01424                % 09081 RGTR--
+200504002 Niederanven, Laach    01424  01424                % 09081 RGTR--
+200504005 Niederanven, Op de W  01425  01425                % 09081 RGTR--
+200505003 Oberanven, Routstrac  01426  01426                % 09081 RGTR--
+200505001 Oberanven, Fielsenha  01426  01426                % 09081 RGTR--
+200505005 Oberanven, Rue Schet  01427  01427                % 09081 RGTR--
+200505004 Oberanven, rue d'Ern  01427  01427                % 09081 RGTR--
+200506005 Rameldange, Bounert   01428  01428                % 09081 RGTR--
+200506002 Rameldange, Rëtsch    01428  01428                % 09081 RGTR--
+200503003 Hostert, Am Bruch     01432  01432                % 09081 RGTR--
+200503002 Hostert, Kierfecht    01432  01432                % 09081 RGTR--
+200504012 Hostert, Binnewee     01433  01433                % 09081 RGTR--
+200504011 Hostert, Betzberg     01434                       % 09081 RGTR--
+*Z 09082 RGTR--                                             % 09082 RGTR--
+*L 126      200419021 200504011  01145  01216               % 09082 RGTR--
+*A bi 200419021 200504011 000042  01145  01216              % 09082 RGTR--
+*A ag 200419021 200504011 000042  01145  01216              % 09082 RGTR--
+*A sm 200419021 200504011 000042  01145  01216              % 09082 RGTR--
+*A ad 200419021 200504011 000042  01145  01216              % 09082 RGTR--
+*R 1 200504011 200419021 200504011  01145  01216            % 09082 RGTR--
+*G RGB 200419021 200504011  01145  01216                    % 09082 RGTR--
+*A VE 200419021 200504011 000042  01145  01216              % 09082 RGTR--
+*I FD 200419021 200504011        0002414  01145  01216      % 09082 RGTR--
+200419021 Limpertsberg, L.T.C.         01145                % 09082 RGTR--
+200419025 Limpertsberg, Lycée   01149  01149                % 09082 RGTR--
+200508007 Senningerberg, Laang  01201  01201                % 09082 RGTR--
+200508008 Senningerberg, Mënst  01201  01201                % 09082 RGTR--
+200507001 Senningen, Duerfplaz  01204  01204                % 09082 RGTR--
+200507003 Senningen, Um Kiem    01205  01205                % 09082 RGTR--
+200507002 Senningen, Kierch     01205  01205                % 09082 RGTR--
+200504006 Niederanven, Routsch  01206  01206                % 09082 RGTR--
+200504002 Niederanven, Laach    01206  01206                % 09082 RGTR--
+200504005 Niederanven, Op de W  01207  01207                % 09082 RGTR--
+200505003 Oberanven, Routstrac  01208  01208                % 09082 RGTR--
+200505001 Oberanven, Fielsenha  01208  01208                % 09082 RGTR--
+200505005 Oberanven, Rue Schet  01209  01209                % 09082 RGTR--
+200505004 Oberanven, rue d'Ern  01209  01209                % 09082 RGTR--
+200506005 Rameldange, Bounert   01210  01210                % 09082 RGTR--
+200506002 Rameldange, Rëtsch    01210  01210                % 09082 RGTR--
+200503003 Hostert, Am Bruch     01214  01214                % 09082 RGTR--
+200503002 Hostert, Kierfecht    01214  01214                % 09082 RGTR--
+200504012 Hostert, Binnewee     01215  01215                % 09082 RGTR--
+200504011 Hostert, Betzberg     01216                       % 09082 RGTR--
+*Z 09083 RGTR--                                             % 09083 RGTR--
+*L 126      200420006 200504011  01550  01624               % 09083 RGTR--
+*A ag 200420006 200504011 000045  01550  01624              % 09083 RGTR--
+*A sm 200420006 200504011 000045  01550  01624              % 09083 RGTR--
+*A ad 200420006 200504011 000045  01550  01624              % 09083 RGTR--
+*R 1 200504011 200420006 200504011  01550  01624            % 09083 RGTR--
+*G RGB 200420006 200504011  01550  01624                    % 09083 RGTR--
+*A VE 200420006 200504011 000045  01550  01624              % 09083 RGTR--
+*I FD 200420006 200504011        0001894  01550  01624      % 09083 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 09083 RGTR--
+200508007 Senningerberg, Laang  01607  01607                % 09083 RGTR--
+200508008 Senningerberg, Mënst  01607  01607                % 09083 RGTR--
+200507001 Senningen, Duerfplaz  01610  01610                % 09083 RGTR--
+200507003 Senningen, Um Kiem    01611  01611                % 09083 RGTR--
+200507002 Senningen, Kierch     01612  01612                % 09083 RGTR--
+200504006 Niederanven, Routsch  01613  01613                % 09083 RGTR--
+200504002 Niederanven, Laach    01613  01613                % 09083 RGTR--
+200504005 Niederanven, Op de W  01614  01614                % 09083 RGTR--
+200505003 Oberanven, Routstrac  01615  01615                % 09083 RGTR--
+200505001 Oberanven, Fielsenha  01615  01615                % 09083 RGTR--
+200505005 Oberanven, Rue Schet  01616  01616                % 09083 RGTR--
+200505004 Oberanven, rue d'Ern  01617  01617                % 09083 RGTR--
+200506005 Rameldange, Bounert   01617  01617                % 09083 RGTR--
+200506002 Rameldange, Rëtsch    01618  01618                % 09083 RGTR--
+200503003 Hostert, Am Bruch     01622  01622                % 09083 RGTR--
+200503002 Hostert, Kierfecht    01622  01622                % 09083 RGTR--
+200504012 Hostert, Binnewee     01623  01623                % 09083 RGTR--
+200504011 Hostert, Betzberg     01624                       % 09083 RGTR--
+*Z 09084 RGTR--                                             % 09084 RGTR--
+*L 126      200420006 200504011  01425  01457               % 09084 RGTR--
+*A ag 200420006 200504011 000030  01425  01457              % 09084 RGTR--
+*A sm 200420006 200504011 000030  01425  01457              % 09084 RGTR--
+*A ad 200420006 200504011 000030  01425  01457              % 09084 RGTR--
+*R 1 200504011 200420006 200504011  01425  01457            % 09084 RGTR--
+*G RGB 200420006 200504011  01425  01457                    % 09084 RGTR--
+*A VE 200420006 200504011 000030  01425  01457              % 09084 RGTR--
+*I FD 200420006 200504011        0002030  01425  01457      % 09084 RGTR--
+200420006 Merl, Geesseknäppche         01425                % 09084 RGTR--
+200508007 Senningerberg, Laang  01442  01442                % 09084 RGTR--
+200508008 Senningerberg, Mënst  01442  01442                % 09084 RGTR--
+200507001 Senningen, Duerfplaz  01445  01445                % 09084 RGTR--
+200507003 Senningen, Um Kiem    01446  01446                % 09084 RGTR--
+200507002 Senningen, Kierch     01446  01446                % 09084 RGTR--
+200504006 Niederanven, Routsch  01447  01447                % 09084 RGTR--
+200504002 Niederanven, Laach    01447  01447                % 09084 RGTR--
+200504005 Niederanven, Op de W  01448  01448                % 09084 RGTR--
+200505003 Oberanven, Routstrac  01449  01449                % 09084 RGTR--
+200505001 Oberanven, Fielsenha  01449  01449                % 09084 RGTR--
+200505005 Oberanven, Rue Schet  01450  01450                % 09084 RGTR--
+200505004 Oberanven, rue d'Ern  01450  01450                % 09084 RGTR--
+200506005 Rameldange, Bounert   01451  01451                % 09084 RGTR--
+200506002 Rameldange, Rëtsch    01451  01451                % 09084 RGTR--
+200503003 Hostert, Am Bruch     01455  01455                % 09084 RGTR--
+200503002 Hostert, Kierfecht    01455  01455                % 09084 RGTR--
+200504012 Hostert, Binnewee     01456  01456                % 09084 RGTR--
+200504011 Hostert, Betzberg     01457                       % 09084 RGTR--
+*Z 09085 RGTR--                                             % 09085 RGTR--
+*L 126      200420006 200504011  01250  01322               % 09085 RGTR--
+*A ag 200420006 200504011 000042  01250  01322              % 09085 RGTR--
+*A sm 200420006 200504011 000042  01250  01322              % 09085 RGTR--
+*A ad 200420006 200504011 000042  01250  01322              % 09085 RGTR--
+*R 1 200504011 200420006 200504011  01250  01322            % 09085 RGTR--
+*G RGB 200420006 200504011  01250  01322                    % 09085 RGTR--
+*A VE 200420006 200504011 000042  01250  01322              % 09085 RGTR--
+*I FD 200420006 200504011        0001885  01250  01322      % 09085 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 09085 RGTR--
+200508007 Senningerberg, Laang  01307  01307                % 09085 RGTR--
+200508008 Senningerberg, Mënst  01307  01307                % 09085 RGTR--
+200507001 Senningen, Duerfplaz  01310  01310                % 09085 RGTR--
+200507003 Senningen, Um Kiem    01311  01311                % 09085 RGTR--
+200507002 Senningen, Kierch     01311  01311                % 09085 RGTR--
+200504006 Niederanven, Routsch  01312  01312                % 09085 RGTR--
+200504002 Niederanven, Laach    01312  01312                % 09085 RGTR--
+200504005 Niederanven, Op de W  01313  01313                % 09085 RGTR--
+200505003 Oberanven, Routstrac  01314  01314                % 09085 RGTR--
+200505001 Oberanven, Fielsenha  01314  01314                % 09085 RGTR--
+200505005 Oberanven, Rue Schet  01315  01315                % 09085 RGTR--
+200505004 Oberanven, rue d'Ern  01315  01315                % 09085 RGTR--
+200506005 Rameldange, Bounert   01316  01316                % 09085 RGTR--
+200506002 Rameldange, Rëtsch    01316  01316                % 09085 RGTR--
+200503003 Hostert, Am Bruch     01320  01320                % 09085 RGTR--
+200503002 Hostert, Kierfecht    01320  01320                % 09085 RGTR--
+200504012 Hostert, Binnewee     01321  01321                % 09085 RGTR--
+200504011 Hostert, Betzberg     01322                       % 09085 RGTR--
+*Z 09086 RGTR--                                             % 09086 RGTR--
+*L 126      200504011 200420006  00703  00740               % 09086 RGTR--
+*A bi 200504011 200420006 000030  00703  00740              % 09086 RGTR--
+*A ag 200504011 200420006 000030  00703  00740              % 09086 RGTR--
+*A hs 200504011 200420006 000030  00703  00740              % 09086 RGTR--
+*A ad 200504011 200420006 000030  00703  00740              % 09086 RGTR--
+*R 2 200420006 200504011 200420006  00703  00740            % 09086 RGTR--
+*G RGB 200504011 200420006  00703  00740                    % 09086 RGTR--
+*A VE 200504011 200420006 000030  00703  00740              % 09086 RGTR--
+*I FD 200504011 200420006        0002342  00703  00740      % 09086 RGTR--
+200504011 Hostert, Betzberg            00703                % 09086 RGTR--
+200504012 Hostert, Binnewee     00703  00703                % 09086 RGTR--
+200503002 Hostert, Kierfecht    00704  00704                % 09086 RGTR--
+200503003 Hostert, Am Bruch     00705  00705                % 09086 RGTR--
+200506002 Rameldange, Rëtsch    00708  00708                % 09086 RGTR--
+200506005 Rameldange, Bounert   00709  00709                % 09086 RGTR--
+200505004 Oberanven, rue d'Ern  00710  00710                % 09086 RGTR--
+200505005 Oberanven, Rue Schet  00710  00710                % 09086 RGTR--
+200505001 Oberanven, Fielsenha  00711  00711                % 09086 RGTR--
+200505003 Oberanven, Routstrac  00712  00712                % 09086 RGTR--
+200504005 Niederanven, Op de W  00713  00713                % 09086 RGTR--
+200504002 Niederanven, Laach    00714  00714                % 09086 RGTR--
+200504006 Niederanven, Routsch  00715  00715                % 09086 RGTR--
+200507002 Senningen, Kierch     00715  00715                % 09086 RGTR--
+200507003 Senningen, Um Kiem    00716  00716                % 09086 RGTR--
+200507001 Senningen, Duerfplaz  00717  00717                % 09086 RGTR--
+200508008 Senningerberg, Mënst  00721  00721                % 09086 RGTR--
+200508007 Senningerberg, Laang  00721  00721                % 09086 RGTR--
+200420006 Merl, Geesseknäppche  00740                       % 09086 RGTR--
+*Z 09087 RGTR--                                             % 09087 RGTR--
+*L 126      200705004 200419021  00715  00743               % 09087 RGTR--
+*A FR 200705004 200419021 000030  00715  00743              % 09087 RGTR--
+*A dc 200705004 200419021 000030  00715  00743              % 09087 RGTR--
+*A ad 200705004 200419021 000030  00715  00743              % 09087 RGTR--
+*R 2 200419021 200705004 200419021  00715  00743            % 09087 RGTR--
+*G RGB 200705004 200419021  00715  00743                    % 09087 RGTR--
+*A VE 200705004 200419021 000030  00715  00743              % 09087 RGTR--
+*I FD 200705004 200419021        0002067  00715  00743      % 09087 RGTR--
+200705004 Schuttrange, Kierche         00715                % 09087 RGTR--
+200701002 Munsbach, Kulturzent  00716  00716                % 09087 RGTR--
+200701003 Munsbach, Minsber Ba  00717  00717                % 09087 RGTR--
+200504003 Niederanven, Millen   00720  00720                % 09087 RGTR--
+200504004 Niederanven, Minsbec  00720  00720                % 09087 RGTR--
+200504006 Niederanven, Routsch  00721  00721                % 09087 RGTR--
+200507002 Senningen, Kierch     00722  00722                % 09087 RGTR--
+200507003 Senningen, Um Kiem    00723  00723                % 09087 RGTR--
+200508008 Senningerberg, Mënst  00726  00726                % 09087 RGTR--
+200508007 Senningerberg, Laang  00726  00726                % 09087 RGTR--
+200419026 Limpertsberg, Theate  00737  00737                % 09087 RGTR--
+200419025 Limpertsberg, Lycée   00739  00739                % 09087 RGTR--
+200419021 Limpertsberg, L.T.C.  00743                       % 09087 RGTR--
+*Z 09088 RGTR--                                             % 09088 RGTR--
+*L 126      200504011 200419021  00709  00745               % 09088 RGTR--
+*A ag 200504011 200419021 000030  00709  00745              % 09088 RGTR--
+*A dc 200504011 200419021 000030  00709  00745              % 09088 RGTR--
+*A ad 200504011 200419021 000030  00709  00745              % 09088 RGTR--
+*R 2 200419021 200504011 200419021  00709  00745            % 09088 RGTR--
+*G RGB 200504011 200419021  00709  00745                    % 09088 RGTR--
+*A VE 200504011 200419021 000030  00709  00745              % 09088 RGTR--
+*I FD 200504011 200419021        0002741  00709  00745      % 09088 RGTR--
+200504011 Hostert, Betzberg            00709                % 09088 RGTR--
+200504012 Hostert, Binnewee     00709  00709                % 09088 RGTR--
+200503002 Hostert, Kierfecht    00710  00710                % 09088 RGTR--
+200503003 Hostert, Am Bruch     00711  00711                % 09088 RGTR--
+200506002 Rameldange, Rëtsch    00714  00714                % 09088 RGTR--
+200506005 Rameldange, Bounert   00715  00715                % 09088 RGTR--
+200505004 Oberanven, rue d'Ern  00716  00716                % 09088 RGTR--
+200505005 Oberanven, Rue Schet  00716  00716                % 09088 RGTR--
+200505001 Oberanven, Fielsenha  00717  00717                % 09088 RGTR--
+200505003 Oberanven, Routstrac  00718  00718                % 09088 RGTR--
+200504005 Niederanven, Op de W  00719  00719                % 09088 RGTR--
+200504002 Niederanven, Laach    00720  00720                % 09088 RGTR--
+200504006 Niederanven, Routsch  00721  00721                % 09088 RGTR--
+200507002 Senningen, Kierch     00721  00721                % 09088 RGTR--
+200507003 Senningen, Um Kiem    00722  00722                % 09088 RGTR--
+200507001 Senningen, Duerfplaz  00723  00723                % 09088 RGTR--
+200508008 Senningerberg, Mënst  00727  00727                % 09088 RGTR--
+200508007 Senningerberg, Laang  00727  00727                % 09088 RGTR--
+200419026 Limpertsberg, Theate  00738  00738                % 09088 RGTR--
+200419025 Limpertsberg, Lycée   00741  00741                % 09088 RGTR--
+200419021 Limpertsberg, L.T.C.  00745                       % 09088 RGTR--

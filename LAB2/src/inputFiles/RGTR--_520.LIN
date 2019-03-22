@@ -1,0 +1,2243 @@
+*F 03 2
+*Z 03295 RGTR--                                             % 03295 RGTR--
+*L 520      140701016 150606003  00557  00631               % 03295 RGTR--
+*A fa 140701016 150606003 000006  00557  00631              % 03295 RGTR--
+*A kd 140701016 150606003 000006  00557  00631              % 03295 RGTR--
+*R 1 150606003 140701016 150606003  00557  00631            % 03295 RGTR--
+*G RGB 140701016 150606003  00557  00631                    % 03295 RGTR--
+*A VE 140701016 150606003 000006  00557  00631              % 03295 RGTR--
+*I FD 140701016 150606003        0003076  00557  00631      % 03295 RGTR--
+140701016 Ettelbruck, Gare             00557                % 03295 RGTR--
+140701024 Ettelbruck, Pensionn  00558  00558                % 03295 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00601  00601                % 03295 RGTR--
+140701009 Ettelbruck, Cité Pat  00603  00603                % 03295 RGTR--
+140701008 Ettelbruck, Cité Lop  00604  00604                % 03295 RGTR--
+140801002 Niederfeulen, Faubou  00606  00606                % 03295 RGTR--
+140801004 Niederfeulen, route   00607  00607                % 03295 RGTR--
+140802003 Oberfeulen, Op Hoper  00609  00609                % 03295 RGTR--
+140802001 Oberfeulen, Pl.de la  00609  00609                % 03295 RGTR--
+140802002 Oberfeulen, route d'  00610  00610                % 03295 RGTR--
+141101004 Mertzig, Internat     00612  00612                % 03295 RGTR--
+141101005 Mertzig, Gemeng       00613  00613                % 03295 RGTR--
+141101003 Mertzig, Eglise       00613  00613                % 03295 RGTR--
+141101006 Mertzig, Wéchen       00614  00614                % 03295 RGTR--
+150402005 Grosbous, Police      00616  00616                % 03295 RGTR--
+150402004 Grosbous, Op der Baa  00617  00617                % 03295 RGTR--
+150402002 Grosbous, Kiirchepla  00617  00617                % 03295 RGTR--
+150203002 Proz, Bousserpad      00620  00620                % 03295 RGTR--
+150203005 Proz, Haaptstrooss    00621  00621                % 03295 RGTR--
+150203001 Proz, Altersheem      00621  00621                % 03295 RGTR--
+150206001 Bettborn, Gemenge Pl  00622  00622                % 03295 RGTR--
+150202001 Platen, Kinnebësch    00623  00623                % 03295 RGTR--
+150202002 Platen                00623  00623                % 03295 RGTR--
+150607001 Reichlange, Hostelle  00625  00625                % 03295 RGTR--
+150606002 Redange, Centre Médi  00628  00628                % 03295 RGTR--
+150606009 Redange, Schock       00629  00629                % 03295 RGTR--
+150606007 Redange, Osperstroos  00630  00630                % 03295 RGTR--
+150606003 Redange, Gare         00631                       % 03295 RGTR--
+*Z 03296 RGTR--                                             % 03296 RGTR--
+*L 520      140401009 150107001  01603  01705               % 03296 RGTR--
+*A fa 140401009 150107001 000006  01603  01705              % 03296 RGTR--
+*A ke 140401009 150107001 000006  01603  01705              % 03296 RGTR--
+*R 1 150107001 140401009 150107001  01603  01705            % 03296 RGTR--
+*G RGB 140401009 150107001  01603  01705                    % 03296 RGTR--
+*A VE 140401009 150107001 000006  01603  01705              % 03296 RGTR--
+*I FD 140401009 150107001        0002474  01603  01705      % 03296 RGTR--
+140401009 Diekirch, Neie Kolle         01603                % 03296 RGTR--
+140401011 Diekirch, Alexis Hec  01607  01607                % 03296 RGTR--
+140401006 Diekirch, Kluuster    01608  01608                % 03296 RGTR--
+140401004 Diekirch, Gare        01610  01610                % 03296 RGTR--
+140401008 Diekirch, Lorentzwue  01612  01612                % 03296 RGTR--
+140603002 Ingeldorf, Café de l  01614  01614                % 03296 RGTR--
+140602008 Erpeldange/Sûre, Um   01616  01616                % 03296 RGTR--
+140701016 Ettelbruck, Gare      01618  01618                % 03296 RGTR--
+140701024 Ettelbruck, Pensionn  01619  01619                % 03296 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01623  01623                % 03296 RGTR--
+140701009 Ettelbruck, Cité Pat  01624  01624                % 03296 RGTR--
+140701008 Ettelbruck, Cité Lop  01625  01625                % 03296 RGTR--
+140801002 Niederfeulen, Faubou  01628  01628                % 03296 RGTR--
+140801004 Niederfeulen, route   01629  01629                % 03296 RGTR--
+140802003 Oberfeulen, Op Hoper  01630  01630                % 03296 RGTR--
+140802001 Oberfeulen, Pl.de la  01631  01631                % 03296 RGTR--
+140802002 Oberfeulen, route d'  01632  01632                % 03296 RGTR--
+141101004 Mertzig, Internat     01634  01634                % 03296 RGTR--
+141101005 Mertzig, Gemeng       01635  01635                % 03296 RGTR--
+141101003 Mertzig, Eglise       01635  01635                % 03296 RGTR--
+141101006 Mertzig, Wéchen       01636  01636                % 03296 RGTR--
+150402005 Grosbous, Police      01639  01639                % 03296 RGTR--
+150402004 Grosbous, Op der Baa  01639  01639                % 03296 RGTR--
+150402002 Grosbous, Kiirchepla  01640  01640                % 03296 RGTR--
+150203002 Proz, Bousserpad      01643  01643                % 03296 RGTR--
+150203005 Proz, Haaptstrooss    01643  01643                % 03296 RGTR--
+150203001 Proz, Altersheem      01644  01644                % 03296 RGTR--
+150206001 Bettborn, Gemenge Pl  01645  01645                % 03296 RGTR--
+150202001 Platen, Kinnebësch    01646  01646                % 03296 RGTR--
+150202002 Platen                01646  01646                % 03296 RGTR--
+150607001 Reichlange, Hostelle  01648  01648                % 03296 RGTR--
+150606002 Redange, Centre Médi  01651  01651                % 03296 RGTR--
+150606009 Redange, Schock       01653  01653                % 03296 RGTR--
+150606007 Redange, Osperstroos  01654  01654                % 03296 RGTR--
+150606003 Redange, Gare         01655  01655                % 03296 RGTR--
+150303003 Ell, Beim Schreider   01657  01657                % 03296 RGTR--
+150303002 Ell, Beim Musikssaul  01658  01658                % 03296 RGTR--
+150301001 Colpach-Bas, Schlass  01700  01700                % 03296 RGTR--
+150107001 Oberpallen, Bréck     01705                       % 03296 RGTR--
+*Z 03297 RGTR--                                             % 03297 RGTR--
+*L 520      140401009 150107001  01057  01154               % 03297 RGTR--
+*A fa 140401009 150107001 000006  01057  01154              % 03297 RGTR--
+*A JO 140401009 150107001 000006  01057  01154              % 03297 RGTR--
+*A ke 140401009 150107001 000006  01057  01154              % 03297 RGTR--
+*R 1 150107001 140401009 150107001  01057  01154            % 03297 RGTR--
+*G RGB 140401009 150107001  01057  01154                    % 03297 RGTR--
+*A VE 140401009 150107001 000006  01057  01154              % 03297 RGTR--
+*I FD 140401009 150107001        0003077  01057  01154      % 03297 RGTR--
+140401009 Diekirch, Neie Kolle         01057                % 03297 RGTR--
+140401011 Diekirch, Alexis Hec  01100  01100                % 03297 RGTR--
+140401006 Diekirch, Kluuster    01101  01101                % 03297 RGTR--
+140401004 Diekirch, Gare        01103  01103                % 03297 RGTR--
+140401008 Diekirch, Lorentzwue  01105  01105                % 03297 RGTR--
+140603002 Ingeldorf, Café de l  01106  01106                % 03297 RGTR--
+140602008 Erpeldange/Sûre, Um   01108  01108                % 03297 RGTR--
+140701016 Ettelbruck, Gare      01110  01110                % 03297 RGTR--
+140701024 Ettelbruck, Pensionn  01112  01112                % 03297 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01114  01114                % 03297 RGTR--
+140701009 Ettelbruck, Cité Pat  01116  01116                % 03297 RGTR--
+140701008 Ettelbruck, Cité Lop  01117  01117                % 03297 RGTR--
+140801002 Niederfeulen, Faubou  01119  01119                % 03297 RGTR--
+140801004 Niederfeulen, route   01121  01121                % 03297 RGTR--
+140802003 Oberfeulen, Op Hoper  01122  01122                % 03297 RGTR--
+140802001 Oberfeulen, Pl.de la  01122  01122                % 03297 RGTR--
+140802002 Oberfeulen, route d'  01123  01123                % 03297 RGTR--
+141101004 Mertzig, Internat     01125  01125                % 03297 RGTR--
+141101005 Mertzig, Gemeng       01126  01126                % 03297 RGTR--
+141101003 Mertzig, Eglise       01126  01126                % 03297 RGTR--
+141101006 Mertzig, Wéchen       01127  01127                % 03297 RGTR--
+150402005 Grosbous, Police      01129  01129                % 03297 RGTR--
+150402004 Grosbous, Op der Baa  01130  01130                % 03297 RGTR--
+150402002 Grosbous, Kiirchepla  01131  01131                % 03297 RGTR--
+150203002 Proz, Bousserpad      01133  01133                % 03297 RGTR--
+150203005 Proz, Haaptstrooss    01134  01134                % 03297 RGTR--
+150203001 Proz, Altersheem      01135  01135                % 03297 RGTR--
+150206001 Bettborn, Gemenge Pl  01136  01136                % 03297 RGTR--
+150202001 Platen, Kinnebësch    01136  01136                % 03297 RGTR--
+150202002 Platen                01137  01137                % 03297 RGTR--
+150607001 Reichlange, Hostelle  01138  01138                % 03297 RGTR--
+150606002 Redange, Centre Médi  01141  01141                % 03297 RGTR--
+150606009 Redange, Schock       01142  01142                % 03297 RGTR--
+150606007 Redange, Osperstroos  01143  01143                % 03297 RGTR--
+150606003 Redange, Gare         01144  01144                % 03297 RGTR--
+150303003 Ell, Beim Schreider   01146  01146                % 03297 RGTR--
+150303002 Ell, Beim Musikssaul  01147  01147                % 03297 RGTR--
+150301001 Colpach-Bas, Schlass  01149  01149                % 03297 RGTR--
+150107001 Oberpallen, Bréck     01154                       % 03297 RGTR--
+*Z 03298 RGTR--                                             % 03298 RGTR--
+*L 520      140401009 150107001  01152  01254               % 03298 RGTR--
+*A fa 140401009 150107001 000006  01152  01254              % 03298 RGTR--
+*A JO 140401009 150107001 000006  01152  01254              % 03298 RGTR--
+*A ke 140401009 150107001 000006  01152  01254              % 03298 RGTR--
+*R 1 150107001 140401009 150107001  01152  01254            % 03298 RGTR--
+*G RGB 140401009 150107001  01152  01254                    % 03298 RGTR--
+*A VE 140401009 150107001 000006  01152  01254              % 03298 RGTR--
+*I FD 140401009 150107001        0003078  01152  01254      % 03298 RGTR--
+140401009 Diekirch, Neie Kolle         01152                % 03298 RGTR--
+140401011 Diekirch, Alexis Hec  01155  01155                % 03298 RGTR--
+140401006 Diekirch, Kluuster    01156  01156                % 03298 RGTR--
+140401004 Diekirch, Gare        01158  01158                % 03298 RGTR--
+140401008 Diekirch, Lorentzwue  01200  01200                % 03298 RGTR--
+140603002 Ingeldorf, Café de l  01201  01201                % 03298 RGTR--
+140602008 Erpeldange/Sûre, Um   01203  01203                % 03298 RGTR--
+140701016 Ettelbruck, Gare      01205  01210                % 03298 RGTR--
+140701024 Ettelbruck, Pensionn  01212  01212                % 03298 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01214  01214                % 03298 RGTR--
+140701009 Ettelbruck, Cité Pat  01216  01216                % 03298 RGTR--
+140701008 Ettelbruck, Cité Lop  01217  01217                % 03298 RGTR--
+140801002 Niederfeulen, Faubou  01219  01219                % 03298 RGTR--
+140801004 Niederfeulen, route   01221  01221                % 03298 RGTR--
+140802003 Oberfeulen, Op Hoper  01222  01222                % 03298 RGTR--
+140802001 Oberfeulen, Pl.de la  01222  01222                % 03298 RGTR--
+140802002 Oberfeulen, route d'  01223  01223                % 03298 RGTR--
+141101004 Mertzig, Internat     01225  01225                % 03298 RGTR--
+141101005 Mertzig, Gemeng       01226  01226                % 03298 RGTR--
+141101003 Mertzig, Eglise       01226  01226                % 03298 RGTR--
+141101006 Mertzig, Wéchen       01227  01227                % 03298 RGTR--
+150402005 Grosbous, Police      01229  01229                % 03298 RGTR--
+150402004 Grosbous, Op der Baa  01230  01230                % 03298 RGTR--
+150402002 Grosbous, Kiirchepla  01231  01231                % 03298 RGTR--
+150203002 Proz, Bousserpad      01233  01233                % 03298 RGTR--
+150203005 Proz, Haaptstrooss    01234  01234                % 03298 RGTR--
+150203001 Proz, Altersheem      01235  01235                % 03298 RGTR--
+150206001 Bettborn, Gemenge Pl  01236  01236                % 03298 RGTR--
+150202001 Platen, Kinnebësch    01236  01236                % 03298 RGTR--
+150202002 Platen                01237  01237                % 03298 RGTR--
+150607001 Reichlange, Hostelle  01238  01238                % 03298 RGTR--
+150606002 Redange, Centre Médi  01241  01241                % 03298 RGTR--
+150606009 Redange, Schock       01242  01242                % 03298 RGTR--
+150606007 Redange, Osperstroos  01243  01243                % 03298 RGTR--
+150606003 Redange, Gare         01244  01244                % 03298 RGTR--
+150303003 Ell, Beim Schreider   01246  01246                % 03298 RGTR--
+150303002 Ell, Beim Musikssaul  01247  01247                % 03298 RGTR--
+150301001 Colpach-Bas, Schlass  01249  01249                % 03298 RGTR--
+150107001 Oberpallen, Bréck     01254                       % 03298 RGTR--
+*Z 00208 RGTR--                                             % 00208 RGTR--
+*L 520      140401009 150606003  01558  01649               % 00208 RGTR--
+*A fb 140401009 150606003 000006  01558  01649              % 00208 RGTR--
+*A kd 140401009 150606003 000006  01558  01649              % 00208 RGTR--
+*R 1 150606003 140401009 150606003  01558  01649            % 00208 RGTR--
+*G RGB 140401009 150606003  01558  01649                    % 00208 RGTR--
+*A VE 140401009 150606003 000006  01558  01649              % 00208 RGTR--
+*I FD 140401009 150606003        0003079  01558  01649      % 00208 RGTR--
+140401009 Diekirch, Neie Kolle         01558                % 00208 RGTR--
+140401011 Diekirch, Alexis Hec  01602  01602                % 00208 RGTR--
+140401006 Diekirch, Kluuster    01603  01603                % 00208 RGTR--
+140401004 Diekirch, Gare        01605  01605                % 00208 RGTR--
+140401008 Diekirch, Lorentzwue  01607  01607                % 00208 RGTR--
+140603002 Ingeldorf, Café de l  01609  01609                % 00208 RGTR--
+140602008 Erpeldange/Sûre, Um   01610  01610                % 00208 RGTR--
+140701024 Ettelbruck, Pensionn  01613  01613                % 00208 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01616  01616                % 00208 RGTR--
+140701009 Ettelbruck, Cité Pat  01618  01618                % 00208 RGTR--
+140701008 Ettelbruck, Cité Lop  01619  01619                % 00208 RGTR--
+140801002 Niederfeulen, Faubou  01621  01621                % 00208 RGTR--
+140801004 Niederfeulen, route   01623  01623                % 00208 RGTR--
+140802003 Oberfeulen, Op Hoper  01624  01624                % 00208 RGTR--
+140802001 Oberfeulen, Pl.de la  01625  01625                % 00208 RGTR--
+140802002 Oberfeulen, route d'  01626  01626                % 00208 RGTR--
+141101004 Mertzig, Internat     01628  01628                % 00208 RGTR--
+141101005 Mertzig, Gemeng       01629  01629                % 00208 RGTR--
+141101003 Mertzig, Eglise       01629  01629                % 00208 RGTR--
+141101006 Mertzig, Wéchen       01630  01630                % 00208 RGTR--
+150402005 Grosbous, Police      01632  01632                % 00208 RGTR--
+150402004 Grosbous, Op der Baa  01633  01633                % 00208 RGTR--
+150402002 Grosbous, Kiirchepla  01634  01634                % 00208 RGTR--
+150203002 Proz, Bousserpad      01637  01637                % 00208 RGTR--
+150203005 Proz, Haaptstrooss    01637  01637                % 00208 RGTR--
+150203001 Proz, Altersheem      01638  01638                % 00208 RGTR--
+150206001 Bettborn, Gemenge Pl  01639  01639                % 00208 RGTR--
+150202001 Platen, Kinnebësch    01639  01639                % 00208 RGTR--
+150202002 Platen                01640  01640                % 00208 RGTR--
+150607001 Reichlange, Hostelle  01642  01642                % 00208 RGTR--
+150606002 Redange, Centre Médi  01645  01645                % 00208 RGTR--
+150606009 Redange, Schock       01646  01646                % 00208 RGTR--
+150606007 Redange, Osperstroos  01647  01647                % 00208 RGTR--
+150606003 Redange, Gare         01649                       % 00208 RGTR--
+*Z 00128 RGTR--                                             % 00128 RGTR--
+*L 520      140401009 150606003  01158  01244               % 00128 RGTR--
+*A fb 140401009 150606003 000006  01158  01244              % 00128 RGTR--
+*A kd 140401009 150606003 000006  01158  01244              % 00128 RGTR--
+*R 1 150606003 140401009 150606003  01158  01244            % 00128 RGTR--
+*G RGB 140401009 150606003  01158  01244                    % 00128 RGTR--
+*A VE 140401009 150606003 000006  01158  01244              % 00128 RGTR--
+*I FD 140401009 150606003        0003080  01158  01244      % 00128 RGTR--
+140401009 Diekirch, Neie Kolle         01158                % 00128 RGTR--
+140401011 Diekirch, Alexis Hec  01201  01201                % 00128 RGTR--
+140401006 Diekirch, Kluuster    01202  01202                % 00128 RGTR--
+140401004 Diekirch, Gare        01204  01204                % 00128 RGTR--
+140401008 Diekirch, Lorentzwue  01206  01206                % 00128 RGTR--
+140603002 Ingeldorf, Café de l  01207  01207                % 00128 RGTR--
+140602008 Erpeldange/Sûre, Um   01209  01209                % 00128 RGTR--
+140701024 Ettelbruck, Pensionn  01211  01211                % 00128 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01214  01214                % 00128 RGTR--
+140701009 Ettelbruck, Cité Pat  01216  01216                % 00128 RGTR--
+140701008 Ettelbruck, Cité Lop  01217  01217                % 00128 RGTR--
+140801002 Niederfeulen, Faubou  01219  01219                % 00128 RGTR--
+140801004 Niederfeulen, route   01220  01220                % 00128 RGTR--
+140802003 Oberfeulen, Op Hoper  01222  01222                % 00128 RGTR--
+140802001 Oberfeulen, Pl.de la  01222  01222                % 00128 RGTR--
+140802002 Oberfeulen, route d'  01223  01223                % 00128 RGTR--
+141101004 Mertzig, Internat     01225  01225                % 00128 RGTR--
+141101005 Mertzig, Gemeng       01226  01226                % 00128 RGTR--
+141101003 Mertzig, Eglise       01226  01226                % 00128 RGTR--
+141101006 Mertzig, Wéchen       01227  01227                % 00128 RGTR--
+150402005 Grosbous, Police      01229  01229                % 00128 RGTR--
+150402004 Grosbous, Op der Baa  01230  01230                % 00128 RGTR--
+150402002 Grosbous, Kiirchepla  01230  01230                % 00128 RGTR--
+150203002 Proz, Bousserpad      01233  01233                % 00128 RGTR--
+150203005 Proz, Haaptstrooss    01234  01234                % 00128 RGTR--
+150203001 Proz, Altersheem      01235  01235                % 00128 RGTR--
+150206001 Bettborn, Gemenge Pl  01236  01236                % 00128 RGTR--
+150202001 Platen, Kinnebësch    01236  01236                % 00128 RGTR--
+150202002 Platen                01237  01237                % 00128 RGTR--
+150607001 Reichlange, Hostelle  01238  01238                % 00128 RGTR--
+150606002 Redange, Centre Médi  01241  01241                % 00128 RGTR--
+150606009 Redange, Schock       01242  01242                % 00128 RGTR--
+150606007 Redange, Osperstroos  01243  01243                % 00128 RGTR--
+150606003 Redange, Gare         01244                       % 00128 RGTR--
+*Z 03299 RGTR--                                             % 03299 RGTR--
+*L 520      140701016 150402002  01838  01858               % 03299 RGTR--
+*A ey 140701016 150402002 000016  01838  01858              % 03299 RGTR--
+*A JQ 140701016 150402002 000016  01838  01858              % 03299 RGTR--
+*A kf 140701016 150402002 000016  01838  01858              % 03299 RGTR--
+*R 1 150402002 140701016 150402002  01838  01858            % 03299 RGTR--
+*G RGB 140701016 150402002  01838  01858                    % 03299 RGTR--
+*A VE 140701016 150402002 000016  01838  01858              % 03299 RGTR--
+*I FD 140701016 150402002        0001429  01838  01858      % 03299 RGTR--
+140701016 Ettelbruck, Gare             01838                % 03299 RGTR--
+140701024 Ettelbruck, Pensionn  01839  01839                % 03299 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01842  01842                % 03299 RGTR--
+140701009 Ettelbruck, Cité Pat  01844  01844                % 03299 RGTR--
+140701008 Ettelbruck, Cité Lop  01845  01845                % 03299 RGTR--
+140801002 Niederfeulen, Faubou  01847  01847                % 03299 RGTR--
+140801004 Niederfeulen, route   01848  01848                % 03299 RGTR--
+140802003 Oberfeulen, Op Hoper  01850  01850                % 03299 RGTR--
+140802001 Oberfeulen, Pl.de la  01850  01850                % 03299 RGTR--
+140802002 Oberfeulen, route d'  01851  01851                % 03299 RGTR--
+141101004 Mertzig, Internat     01853  01853                % 03299 RGTR--
+141101005 Mertzig, Gemeng       01854  01854                % 03299 RGTR--
+141101003 Mertzig, Eglise       01854  01854                % 03299 RGTR--
+141101006 Mertzig, Wéchen       01855  01855                % 03299 RGTR--
+150402005 Grosbous, Police      01857  01857                % 03299 RGTR--
+150402004 Grosbous, Op der Baa  01858  01858                % 03299 RGTR--
+150402002 Grosbous, Kiirchepla  01858                       % 03299 RGTR--
+*Z 03300 RGTR--                                             % 03300 RGTR--
+*L 520      140701016 150402002  01738  01800               % 03300 RGTR--
+*A ey 140701016 150402002 000016  01738  01800              % 03300 RGTR--
+*A JQ 140701016 150402002 000016  01738  01800              % 03300 RGTR--
+*A kf 140701016 150402002 000016  01738  01800              % 03300 RGTR--
+*R 1 150402002 140701016 150402002  01738  01800            % 03300 RGTR--
+*G RGB 140701016 150402002  01738  01800                    % 03300 RGTR--
+*A VE 140701016 150402002 000016  01738  01800              % 03300 RGTR--
+*I FD 140701016 150402002        0002531  01738  01800      % 03300 RGTR--
+140701016 Ettelbruck, Gare             01738                % 03300 RGTR--
+140701024 Ettelbruck, Pensionn  01739  01739                % 03300 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01743  01743                % 03300 RGTR--
+140701009 Ettelbruck, Cité Pat  01744  01744                % 03300 RGTR--
+140701008 Ettelbruck, Cité Lop  01745  01745                % 03300 RGTR--
+140801002 Niederfeulen, Faubou  01748  01748                % 03300 RGTR--
+140801004 Niederfeulen, route   01749  01749                % 03300 RGTR--
+140802003 Oberfeulen, Op Hoper  01750  01750                % 03300 RGTR--
+140802001 Oberfeulen, Pl.de la  01751  01751                % 03300 RGTR--
+140802002 Oberfeulen, route d'  01752  01752                % 03300 RGTR--
+141101004 Mertzig, Internat     01754  01754                % 03300 RGTR--
+141101005 Mertzig, Gemeng       01755  01755                % 03300 RGTR--
+141101003 Mertzig, Eglise       01755  01755                % 03300 RGTR--
+141101006 Mertzig, Wéchen       01756  01756                % 03300 RGTR--
+150402005 Grosbous, Police      01759  01759                % 03300 RGTR--
+150402004 Grosbous, Op der Baa  01759  01759                % 03300 RGTR--
+150402002 Grosbous, Kiirchepla  01800                       % 03300 RGTR--
+*Z 00204 RGTR--                                             % 00204 RGTR--
+*L 520      140401009 150402002  01556  01633               % 00204 RGTR--
+*A ey 140401009 150402002 000006  01556  01633              % 00204 RGTR--
+*A kf 140401009 150402002 000006  01556  01633              % 00204 RGTR--
+*R 1 150402002 140401009 150402002  01556  01633            % 00204 RGTR--
+*G RGB 140401009 150402002  01556  01633                    % 00204 RGTR--
+*A VE 140401009 150402002 000006  01556  01633              % 00204 RGTR--
+*I FD 140401009 150402002        0002914  01556  01633      % 00204 RGTR--
+140401009 Diekirch, Neie Kolle         01556                % 00204 RGTR--
+140401011 Diekirch, Alexis Hec  01600  01600                % 00204 RGTR--
+140401006 Diekirch, Kluuster    01601  01601                % 00204 RGTR--
+140401004 Diekirch, Gare        01603  01603                % 00204 RGTR--
+140401008 Diekirch, Lorentzwue  01605  01605                % 00204 RGTR--
+140603002 Ingeldorf, Café de l  01607  01607                % 00204 RGTR--
+140602008 Erpeldange/Sûre, Um   01608  01608                % 00204 RGTR--
+140701016 Ettelbruck, Gare      01610  01610                % 00204 RGTR--
+140701024 Ettelbruck, Pensionn  01612  01612                % 00204 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01615  01615                % 00204 RGTR--
+140701009 Ettelbruck, Cité Pat  01617  01617                % 00204 RGTR--
+140701008 Ettelbruck, Cité Lop  01618  01618                % 00204 RGTR--
+140801002 Niederfeulen, Faubou  01620  01620                % 00204 RGTR--
+140801004 Niederfeulen, route   01622  01622                % 00204 RGTR--
+140802003 Oberfeulen, Op Hoper  01623  01623                % 00204 RGTR--
+140802001 Oberfeulen, Pl.de la  01624  01624                % 00204 RGTR--
+140802002 Oberfeulen, route d'  01625  01625                % 00204 RGTR--
+141101004 Mertzig, Internat     01627  01627                % 00204 RGTR--
+141101005 Mertzig, Gemeng       01628  01628                % 00204 RGTR--
+141101003 Mertzig, Eglise       01628  01628                % 00204 RGTR--
+141101006 Mertzig, Wéchen       01629  01629                % 00204 RGTR--
+150402005 Grosbous, Police      01631  01631                % 00204 RGTR--
+150402004 Grosbous, Op der Baa  01632  01632                % 00204 RGTR--
+150402002 Grosbous, Kiirchepla  01633                       % 00204 RGTR--
+*Z 03301 RGTR--                                             % 03301 RGTR--
+*L 520      140701016 150107001  00717  00804               % 03301 RGTR--
+*A fa 140701016 150107001 000006  00717  00804              % 03301 RGTR--
+*A JL 140701016 150107001 000006  00717  00804              % 03301 RGTR--
+*A ke 140701016 150107001 000006  00717  00804              % 03301 RGTR--
+*R 1 150107001 140701016 150107001  00717  00804            % 03301 RGTR--
+*G RGB 140701016 150107001  00717  00804                    % 03301 RGTR--
+*A VE 140701016 150107001 000006  00717  00804              % 03301 RGTR--
+*I FD 140701016 150107001        0002412  00717  00804      % 03301 RGTR--
+140701016 Ettelbruck, Gare             00717                % 03301 RGTR--
+140701024 Ettelbruck, Pensionn  00718  00718                % 03301 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00722  00722                % 03301 RGTR--
+140701009 Ettelbruck, Cité Pat  00723  00723                % 03301 RGTR--
+140701008 Ettelbruck, Cité Lop  00724  00724                % 03301 RGTR--
+140801002 Niederfeulen, Faubou  00727  00727                % 03301 RGTR--
+140801004 Niederfeulen, route   00728  00728                % 03301 RGTR--
+140802003 Oberfeulen, Op Hoper  00729  00729                % 03301 RGTR--
+140802001 Oberfeulen, Pl.de la  00730  00730                % 03301 RGTR--
+140802002 Oberfeulen, route d'  00731  00731                % 03301 RGTR--
+141101004 Mertzig, Internat     00733  00733                % 03301 RGTR--
+141101005 Mertzig, Gemeng       00734  00734                % 03301 RGTR--
+141101003 Mertzig, Eglise       00734  00734                % 03301 RGTR--
+141101006 Mertzig, Wéchen       00735  00735                % 03301 RGTR--
+150402005 Grosbous, Police      00738  00738                % 03301 RGTR--
+150402004 Grosbous, Op der Baa  00738  00738                % 03301 RGTR--
+150402002 Grosbous, Kiirchepla  00739  00739                % 03301 RGTR--
+150203002 Proz, Bousserpad      00742  00742                % 03301 RGTR--
+150203005 Proz, Haaptstrooss    00742  00742                % 03301 RGTR--
+150203001 Proz, Altersheem      00743  00743                % 03301 RGTR--
+150206001 Bettborn, Gemenge Pl  00744  00744                % 03301 RGTR--
+150202001 Platen, Kinnebësch    00745  00745                % 03301 RGTR--
+150202002 Platen                00745  00745                % 03301 RGTR--
+150607001 Reichlange, Hostelle  00747  00747                % 03301 RGTR--
+150606002 Redange, Centre Médi  00750  00750                % 03301 RGTR--
+150606009 Redange, Schock       00752  00752                % 03301 RGTR--
+150606007 Redange, Osperstroos  00753  00753                % 03301 RGTR--
+150606003 Redange, Gare         00754  00754                % 03301 RGTR--
+150303003 Ell, Beim Schreider   00756  00756                % 03301 RGTR--
+150303002 Ell, Beim Musikssaul  00757  00757                % 03301 RGTR--
+150301001 Colpach-Bas, Schlass  00759  00759                % 03301 RGTR--
+150107001 Oberpallen, Bréck     00804                       % 03301 RGTR--
+*Z 03302 RGTR--                                             % 03302 RGTR--
+*L 520      140701016 150107001  00818  00905               % 03302 RGTR--
+*A ey 140701016 150107001 000006  00818  00905              % 03302 RGTR--
+*A ke 140701016 150107001 000006  00818  00905              % 03302 RGTR--
+*R 1 150107001 140701016 150107001  00818  00905            % 03302 RGTR--
+*G RGB 140701016 150107001  00818  00905                    % 03302 RGTR--
+*A VE 140701016 150107001 000006  00818  00905              % 03302 RGTR--
+*I FD 140701016 150107001        0002690  00818  00905      % 03302 RGTR--
+140701016 Ettelbruck, Gare             00818                % 03302 RGTR--
+140701024 Ettelbruck, Pensionn  00819  00819                % 03302 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00823  00823                % 03302 RGTR--
+140701009 Ettelbruck, Cité Pat  00824  00824                % 03302 RGTR--
+140701008 Ettelbruck, Cité Lop  00825  00825                % 03302 RGTR--
+140801002 Niederfeulen, Faubou  00828  00828                % 03302 RGTR--
+140801004 Niederfeulen, route   00829  00829                % 03302 RGTR--
+140802003 Oberfeulen, Op Hoper  00830  00830                % 03302 RGTR--
+140802001 Oberfeulen, Pl.de la  00831  00831                % 03302 RGTR--
+140802002 Oberfeulen, route d'  00832  00832                % 03302 RGTR--
+141101004 Mertzig, Internat     00834  00834                % 03302 RGTR--
+141101005 Mertzig, Gemeng       00835  00835                % 03302 RGTR--
+141101003 Mertzig, Eglise       00835  00835                % 03302 RGTR--
+141101006 Mertzig, Wéchen       00836  00836                % 03302 RGTR--
+150402005 Grosbous, Police      00839  00839                % 03302 RGTR--
+150402004 Grosbous, Op der Baa  00839  00839                % 03302 RGTR--
+150402002 Grosbous, Kiirchepla  00840  00840                % 03302 RGTR--
+150203002 Proz, Bousserpad      00843  00843                % 03302 RGTR--
+150203005 Proz, Haaptstrooss    00843  00843                % 03302 RGTR--
+150203001 Proz, Altersheem      00844  00844                % 03302 RGTR--
+150206001 Bettborn, Gemenge Pl  00845  00845                % 03302 RGTR--
+150202001 Platen, Kinnebësch    00846  00846                % 03302 RGTR--
+150202002 Platen                00846  00846                % 03302 RGTR--
+150607001 Reichlange, Hostelle  00848  00848                % 03302 RGTR--
+150606002 Redange, Centre Médi  00851  00851                % 03302 RGTR--
+150606009 Redange, Schock       00853  00853                % 03302 RGTR--
+150606007 Redange, Osperstroos  00854  00854                % 03302 RGTR--
+150606003 Redange, Gare         00855  00855                % 03302 RGTR--
+150303003 Ell, Beim Schreider   00857  00857                % 03302 RGTR--
+150303002 Ell, Beim Musikssaul  00858  00858                % 03302 RGTR--
+150301001 Colpach-Bas, Schlass  00900  00900                % 03302 RGTR--
+150107001 Oberpallen, Bréck     00905                       % 03302 RGTR--
+*Z 03303 RGTR--                                             % 03303 RGTR--
+*L 520      140701016 150107001  00910  00957               % 03303 RGTR--
+*A fa 140701016 150107001 000006  00910  00957              % 03303 RGTR--
+*A JR 140701016 150107001 000006  00910  00957              % 03303 RGTR--
+*A JN 140701016 150107001 000006  00910  00957              % 03303 RGTR--
+*A ke 140701016 150107001 000006  00910  00957              % 03303 RGTR--
+*R 1 150107001 140701016 150107001  00910  00957            % 03303 RGTR--
+*G RGB 140701016 150107001  00910  00957                    % 03303 RGTR--
+*A VE 140701016 150107001 000006  00910  00957              % 03303 RGTR--
+*I FD 140701016 150107001        0001876  00910  00957      % 03303 RGTR--
+140701016 Ettelbruck, Gare             00910                % 03303 RGTR--
+140701024 Ettelbruck, Pensionn  00911  00911                % 03303 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00915  00915                % 03303 RGTR--
+140701009 Ettelbruck, Cité Pat  00916  00916                % 03303 RGTR--
+140701008 Ettelbruck, Cité Lop  00917  00917                % 03303 RGTR--
+140801002 Niederfeulen, Faubou  00920  00920                % 03303 RGTR--
+140801004 Niederfeulen, route   00921  00921                % 03303 RGTR--
+140802003 Oberfeulen, Op Hoper  00922  00922                % 03303 RGTR--
+140802001 Oberfeulen, Pl.de la  00923  00923                % 03303 RGTR--
+140802002 Oberfeulen, route d'  00924  00924                % 03303 RGTR--
+141101004 Mertzig, Internat     00926  00926                % 03303 RGTR--
+141101005 Mertzig, Gemeng       00927  00927                % 03303 RGTR--
+141101003 Mertzig, Eglise       00927  00927                % 03303 RGTR--
+141101006 Mertzig, Wéchen       00928  00928                % 03303 RGTR--
+150402005 Grosbous, Police      00931  00931                % 03303 RGTR--
+150402004 Grosbous, Op der Baa  00931  00931                % 03303 RGTR--
+150402002 Grosbous, Kiirchepla  00932  00932                % 03303 RGTR--
+150203002 Proz, Bousserpad      00935  00935                % 03303 RGTR--
+150203005 Proz, Haaptstrooss    00935  00935                % 03303 RGTR--
+150203001 Proz, Altersheem      00936  00936                % 03303 RGTR--
+150206001 Bettborn, Gemenge Pl  00937  00937                % 03303 RGTR--
+150202001 Platen, Kinnebësch    00938  00938                % 03303 RGTR--
+150202002 Platen                00938  00938                % 03303 RGTR--
+150607001 Reichlange, Hostelle  00940  00940                % 03303 RGTR--
+150606002 Redange, Centre Médi  00943  00943                % 03303 RGTR--
+150606009 Redange, Schock       00945  00945                % 03303 RGTR--
+150606007 Redange, Osperstroos  00946  00946                % 03303 RGTR--
+150606003 Redange, Gare         00947  00947                % 03303 RGTR--
+150303003 Ell, Beim Schreider   00949  00949                % 03303 RGTR--
+150303002 Ell, Beim Musikssaul  00950  00950                % 03303 RGTR--
+150301001 Colpach-Bas, Schlass  00952  00952                % 03303 RGTR--
+150107001 Oberpallen, Bréck     00957                       % 03303 RGTR--
+*Z 03304 RGTR--                                             % 03304 RGTR--
+*L 520      140701016 150107001  01709  01757               % 03304 RGTR--
+*A fa 140701016 150107001 000006  01709  01757              % 03304 RGTR--
+*A JO 140701016 150107001 000006  01709  01757              % 03304 RGTR--
+*A ke 140701016 150107001 000006  01709  01757              % 03304 RGTR--
+*R 1 150107001 140701016 150107001  01709  01757            % 03304 RGTR--
+*G RGB 140701016 150107001  01709  01757                    % 03304 RGTR--
+*A VE 140701016 150107001 000006  01709  01757              % 03304 RGTR--
+*I FD 140701016 150107001        0003081  01709  01757      % 03304 RGTR--
+140701016 Ettelbruck, Gare             01709                % 03304 RGTR--
+140701024 Ettelbruck, Pensionn  01711  01711                % 03304 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01714  01714                % 03304 RGTR--
+140701009 Ettelbruck, Cité Pat  01716  01716                % 03304 RGTR--
+140701008 Ettelbruck, Cité Lop  01717  01717                % 03304 RGTR--
+140801002 Niederfeulen, Faubou  01719  01719                % 03304 RGTR--
+140801004 Niederfeulen, route   01721  01721                % 03304 RGTR--
+140802003 Oberfeulen, Op Hoper  01722  01722                % 03304 RGTR--
+140802001 Oberfeulen, Pl.de la  01723  01723                % 03304 RGTR--
+140802002 Oberfeulen, route d'  01724  01724                % 03304 RGTR--
+141101004 Mertzig, Internat     01726  01726                % 03304 RGTR--
+141101005 Mertzig, Gemeng       01727  01727                % 03304 RGTR--
+141101003 Mertzig, Eglise       01727  01727                % 03304 RGTR--
+141101006 Mertzig, Wéchen       01728  01728                % 03304 RGTR--
+150402005 Grosbous, Police      01730  01730                % 03304 RGTR--
+150402004 Grosbous, Op der Baa  01731  01731                % 03304 RGTR--
+150402002 Grosbous, Kiirchepla  01732  01732                % 03304 RGTR--
+150203002 Proz, Bousserpad      01734  01734                % 03304 RGTR--
+150203005 Proz, Haaptstrooss    01735  01735                % 03304 RGTR--
+150203001 Proz, Altersheem      01736  01736                % 03304 RGTR--
+150206001 Bettborn, Gemenge Pl  01737  01737                % 03304 RGTR--
+150202001 Platen, Kinnebësch    01737  01737                % 03304 RGTR--
+150202002 Platen                01738  01738                % 03304 RGTR--
+150607001 Reichlange, Hostelle  01740  01740                % 03304 RGTR--
+150606002 Redange, Centre Médi  01743  01743                % 03304 RGTR--
+150606009 Redange, Schock       01744  01744                % 03304 RGTR--
+150606007 Redange, Osperstroos  01745  01745                % 03304 RGTR--
+150606003 Redange, Gare         01747  01747                % 03304 RGTR--
+150303003 Ell, Beim Schreider   01749  01749                % 03304 RGTR--
+150303002 Ell, Beim Musikssaul  01749  01749                % 03304 RGTR--
+150301001 Colpach-Bas, Schlass  01752  01752                % 03304 RGTR--
+150107001 Oberpallen, Bréck     01757                       % 03304 RGTR--
+*Z 03305 RGTR--                                             % 03305 RGTR--
+*L 520      140701016 150107001  01808  01855               % 03305 RGTR--
+*A fa 140701016 150107001 000006  01808  01855              % 03305 RGTR--
+*A JQ 140701016 150107001 000006  01808  01855              % 03305 RGTR--
+*A ke 140701016 150107001 000006  01808  01855              % 03305 RGTR--
+*R 1 150107001 140701016 150107001  01808  01855            % 03305 RGTR--
+*G RGB 140701016 150107001  01808  01855                    % 03305 RGTR--
+*A VE 140701016 150107001 000006  01808  01855              % 03305 RGTR--
+*I FD 140701016 150107001        0002229  01808  01855      % 03305 RGTR--
+140701016 Ettelbruck, Gare             01808                % 03305 RGTR--
+140701024 Ettelbruck, Pensionn  01809  01809                % 03305 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01813  01813                % 03305 RGTR--
+140701009 Ettelbruck, Cité Pat  01814  01814                % 03305 RGTR--
+140701008 Ettelbruck, Cité Lop  01815  01815                % 03305 RGTR--
+140801002 Niederfeulen, Faubou  01818  01818                % 03305 RGTR--
+140801004 Niederfeulen, route   01819  01819                % 03305 RGTR--
+140802003 Oberfeulen, Op Hoper  01820  01820                % 03305 RGTR--
+140802001 Oberfeulen, Pl.de la  01821  01821                % 03305 RGTR--
+140802002 Oberfeulen, route d'  01822  01822                % 03305 RGTR--
+141101004 Mertzig, Internat     01824  01824                % 03305 RGTR--
+141101005 Mertzig, Gemeng       01825  01825                % 03305 RGTR--
+141101003 Mertzig, Eglise       01825  01825                % 03305 RGTR--
+141101006 Mertzig, Wéchen       01826  01826                % 03305 RGTR--
+150402005 Grosbous, Police      01829  01829                % 03305 RGTR--
+150402004 Grosbous, Op der Baa  01829  01829                % 03305 RGTR--
+150402002 Grosbous, Kiirchepla  01830  01830                % 03305 RGTR--
+150203002 Proz, Bousserpad      01833  01833                % 03305 RGTR--
+150203005 Proz, Haaptstrooss    01833  01833                % 03305 RGTR--
+150203001 Proz, Altersheem      01834  01834                % 03305 RGTR--
+150206001 Bettborn, Gemenge Pl  01835  01835                % 03305 RGTR--
+150202001 Platen, Kinnebësch    01836  01836                % 03305 RGTR--
+150202002 Platen                01836  01836                % 03305 RGTR--
+150607001 Reichlange, Hostelle  01838  01838                % 03305 RGTR--
+150606002 Redange, Centre Médi  01841  01841                % 03305 RGTR--
+150606009 Redange, Schock       01843  01843                % 03305 RGTR--
+150606007 Redange, Osperstroos  01844  01844                % 03305 RGTR--
+150606003 Redange, Gare         01845  01845                % 03305 RGTR--
+150303003 Ell, Beim Schreider   01847  01847                % 03305 RGTR--
+150303002 Ell, Beim Musikssaul  01848  01848                % 03305 RGTR--
+150301001 Colpach-Bas, Schlass  01850  01850                % 03305 RGTR--
+150107001 Oberpallen, Bréck     01855                       % 03305 RGTR--
+*Z 03306 RGTR--                                             % 03306 RGTR--
+*L 520      140701016 150107001  01809  01857               % 03306 RGTR--
+*A ey 140701016 150107001 000006  01809  01857              % 03306 RGTR--
+*A JO 140701016 150107001 000006  01809  01857              % 03306 RGTR--
+*A ke 140701016 150107001 000006  01809  01857              % 03306 RGTR--
+*R 1 150107001 140701016 150107001  01809  01857            % 03306 RGTR--
+*G RGB 140701016 150107001  01809  01857                    % 03306 RGTR--
+*A VE 140701016 150107001 000006  01809  01857              % 03306 RGTR--
+*I FD 140701016 150107001        0003082  01809  01857      % 03306 RGTR--
+140701016 Ettelbruck, Gare             01809                % 03306 RGTR--
+140701024 Ettelbruck, Pensionn  01811  01811                % 03306 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01814  01814                % 03306 RGTR--
+140701009 Ettelbruck, Cité Pat  01816  01816                % 03306 RGTR--
+140701008 Ettelbruck, Cité Lop  01817  01817                % 03306 RGTR--
+140801002 Niederfeulen, Faubou  01819  01819                % 03306 RGTR--
+140801004 Niederfeulen, route   01821  01821                % 03306 RGTR--
+140802003 Oberfeulen, Op Hoper  01822  01822                % 03306 RGTR--
+140802001 Oberfeulen, Pl.de la  01823  01823                % 03306 RGTR--
+140802002 Oberfeulen, route d'  01824  01824                % 03306 RGTR--
+141101004 Mertzig, Internat     01826  01826                % 03306 RGTR--
+141101005 Mertzig, Gemeng       01827  01827                % 03306 RGTR--
+141101003 Mertzig, Eglise       01827  01827                % 03306 RGTR--
+141101006 Mertzig, Wéchen       01828  01828                % 03306 RGTR--
+150402005 Grosbous, Police      01830  01830                % 03306 RGTR--
+150402004 Grosbous, Op der Baa  01831  01831                % 03306 RGTR--
+150402002 Grosbous, Kiirchepla  01832  01832                % 03306 RGTR--
+150203002 Proz, Bousserpad      01834  01834                % 03306 RGTR--
+150203005 Proz, Haaptstrooss    01835  01835                % 03306 RGTR--
+150203001 Proz, Altersheem      01836  01836                % 03306 RGTR--
+150206001 Bettborn, Gemenge Pl  01837  01837                % 03306 RGTR--
+150202001 Platen, Kinnebësch    01837  01837                % 03306 RGTR--
+150202002 Platen                01838  01838                % 03306 RGTR--
+150607001 Reichlange, Hostelle  01840  01840                % 03306 RGTR--
+150606002 Redange, Centre Médi  01843  01843                % 03306 RGTR--
+150606009 Redange, Schock       01844  01844                % 03306 RGTR--
+150606007 Redange, Osperstroos  01845  01845                % 03306 RGTR--
+150606003 Redange, Gare         01847  01847                % 03306 RGTR--
+150303003 Ell, Beim Schreider   01849  01849                % 03306 RGTR--
+150303002 Ell, Beim Musikssaul  01849  01849                % 03306 RGTR--
+150301001 Colpach-Bas, Schlass  01852  01852                % 03306 RGTR--
+150107001 Oberpallen, Bréck     01857                       % 03306 RGTR--
+*Z 03307 RGTR--                                             % 03307 RGTR--
+*L 520      140701016 150107001  01018  01101               % 03307 RGTR--
+*A ey 140701016 150107001 000006  01018  01101              % 03307 RGTR--
+*A ke 140701016 150107001 000006  01018  01101              % 03307 RGTR--
+*R 1 150107001 140701016 150107001  01018  01101            % 03307 RGTR--
+*G RGB 140701016 150107001  01018  01101                    % 03307 RGTR--
+*A VE 140701016 150107001 000006  01018  01101              % 03307 RGTR--
+*I FD 140701016 150107001        0001829  01018  01101      % 03307 RGTR--
+140701016 Ettelbruck, Gare             01018                % 03307 RGTR--
+140701024 Ettelbruck, Pensionn  01019  01019                % 03307 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01022  01022                % 03307 RGTR--
+140701009 Ettelbruck, Cité Pat  01024  01024                % 03307 RGTR--
+140701008 Ettelbruck, Cité Lop  01025  01025                % 03307 RGTR--
+140801002 Niederfeulen, Faubou  01027  01027                % 03307 RGTR--
+140801004 Niederfeulen, route   01028  01028                % 03307 RGTR--
+140802003 Oberfeulen, Op Hoper  01030  01030                % 03307 RGTR--
+140802001 Oberfeulen, Pl.de la  01030  01030                % 03307 RGTR--
+140802002 Oberfeulen, route d'  01031  01031                % 03307 RGTR--
+141101004 Mertzig, Internat     01033  01033                % 03307 RGTR--
+141101005 Mertzig, Gemeng       01034  01034                % 03307 RGTR--
+141101003 Mertzig, Eglise       01034  01034                % 03307 RGTR--
+141101006 Mertzig, Wéchen       01035  01035                % 03307 RGTR--
+150402005 Grosbous, Police      01037  01037                % 03307 RGTR--
+150402004 Grosbous, Op der Baa  01038  01038                % 03307 RGTR--
+150402002 Grosbous, Kiirchepla  01038  01038                % 03307 RGTR--
+150203002 Proz, Bousserpad      01041  01041                % 03307 RGTR--
+150203005 Proz, Haaptstrooss    01042  01042                % 03307 RGTR--
+150203001 Proz, Altersheem      01042  01042                % 03307 RGTR--
+150206001 Bettborn, Gemenge Pl  01043  01043                % 03307 RGTR--
+150202001 Platen, Kinnebësch    01044  01044                % 03307 RGTR--
+150202002 Platen                01044  01044                % 03307 RGTR--
+150607001 Reichlange, Hostelle  01046  01046                % 03307 RGTR--
+150606002 Redange, Centre Médi  01049  01049                % 03307 RGTR--
+150606009 Redange, Schock       01050  01050                % 03307 RGTR--
+150606007 Redange, Osperstroos  01051  01051                % 03307 RGTR--
+150606003 Redange, Gare         01052  01052                % 03307 RGTR--
+150303003 Ell, Beim Schreider   01054  01054                % 03307 RGTR--
+150303002 Ell, Beim Musikssaul  01055  01055                % 03307 RGTR--
+150301001 Colpach-Bas, Schlass  01057  01057                % 03307 RGTR--
+150107001 Oberpallen, Bréck     01101                       % 03307 RGTR--
+*Z 03308 RGTR--                                             % 03308 RGTR--
+*L 520      140701016 150107001  01312  01355               % 03308 RGTR--
+*A fa 140701016 150107001 000006  01312  01355              % 03308 RGTR--
+*A JR 140701016 150107001 000006  01312  01355              % 03308 RGTR--
+*A ke 140701016 150107001 000006  01312  01355              % 03308 RGTR--
+*R 1 150107001 140701016 150107001  01312  01355            % 03308 RGTR--
+*G RGB 140701016 150107001  01312  01355                    % 03308 RGTR--
+*A VE 140701016 150107001 000006  01312  01355              % 03308 RGTR--
+*I FD 140701016 150107001        0002325  01312  01355      % 03308 RGTR--
+140701016 Ettelbruck, Gare             01312                % 03308 RGTR--
+140701024 Ettelbruck, Pensionn  01313  01313                % 03308 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01316  01316                % 03308 RGTR--
+140701009 Ettelbruck, Cité Pat  01318  01318                % 03308 RGTR--
+140701008 Ettelbruck, Cité Lop  01319  01319                % 03308 RGTR--
+140801002 Niederfeulen, Faubou  01321  01321                % 03308 RGTR--
+140801004 Niederfeulen, route   01322  01322                % 03308 RGTR--
+140802003 Oberfeulen, Op Hoper  01324  01324                % 03308 RGTR--
+140802001 Oberfeulen, Pl.de la  01324  01324                % 03308 RGTR--
+140802002 Oberfeulen, route d'  01325  01325                % 03308 RGTR--
+141101004 Mertzig, Internat     01327  01327                % 03308 RGTR--
+141101005 Mertzig, Gemeng       01328  01328                % 03308 RGTR--
+141101003 Mertzig, Eglise       01328  01328                % 03308 RGTR--
+141101006 Mertzig, Wéchen       01329  01329                % 03308 RGTR--
+150402005 Grosbous, Police      01331  01331                % 03308 RGTR--
+150402004 Grosbous, Op der Baa  01332  01332                % 03308 RGTR--
+150402002 Grosbous, Kiirchepla  01332  01332                % 03308 RGTR--
+150203002 Proz, Bousserpad      01335  01335                % 03308 RGTR--
+150203005 Proz, Haaptstrooss    01336  01336                % 03308 RGTR--
+150203001 Proz, Altersheem      01336  01336                % 03308 RGTR--
+150206001 Bettborn, Gemenge Pl  01337  01337                % 03308 RGTR--
+150202001 Platen, Kinnebësch    01338  01338                % 03308 RGTR--
+150202002 Platen                01338  01338                % 03308 RGTR--
+150607001 Reichlange, Hostelle  01340  01340                % 03308 RGTR--
+150606002 Redange, Centre Médi  01343  01343                % 03308 RGTR--
+150606009 Redange, Schock       01344  01344                % 03308 RGTR--
+150606007 Redange, Osperstroos  01345  01345                % 03308 RGTR--
+150606003 Redange, Gare         01346  01346                % 03308 RGTR--
+150303003 Ell, Beim Schreider   01348  01348                % 03308 RGTR--
+150303002 Ell, Beim Musikssaul  01349  01349                % 03308 RGTR--
+150301001 Colpach-Bas, Schlass  01351  01351                % 03308 RGTR--
+150107001 Oberpallen, Bréck     01355                       % 03308 RGTR--
+*Z 03309 RGTR--                                             % 03309 RGTR--
+*L 520      140701016 150107001  01412  01455               % 03309 RGTR--
+*A fa 140701016 150107001 000006  01412  01455              % 03309 RGTR--
+*A JR 140701016 150107001 000006  01412  01455              % 03309 RGTR--
+*A JO 140701016 150107001 000006  01412  01455              % 03309 RGTR--
+*A ke 140701016 150107001 000006  01412  01455              % 03309 RGTR--
+*R 1 150107001 140701016 150107001  01412  01455            % 03309 RGTR--
+*G RGB 140701016 150107001  01412  01455                    % 03309 RGTR--
+*A VE 140701016 150107001 000006  01412  01455              % 03309 RGTR--
+*I FD 140701016 150107001        0002326  01412  01455      % 03309 RGTR--
+140701016 Ettelbruck, Gare             01412                % 03309 RGTR--
+140701024 Ettelbruck, Pensionn  01413  01413                % 03309 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01416  01416                % 03309 RGTR--
+140701009 Ettelbruck, Cité Pat  01418  01418                % 03309 RGTR--
+140701008 Ettelbruck, Cité Lop  01419  01419                % 03309 RGTR--
+140801002 Niederfeulen, Faubou  01421  01421                % 03309 RGTR--
+140801004 Niederfeulen, route   01422  01422                % 03309 RGTR--
+140802003 Oberfeulen, Op Hoper  01424  01424                % 03309 RGTR--
+140802001 Oberfeulen, Pl.de la  01424  01424                % 03309 RGTR--
+140802002 Oberfeulen, route d'  01425  01425                % 03309 RGTR--
+141101004 Mertzig, Internat     01427  01427                % 03309 RGTR--
+141101005 Mertzig, Gemeng       01428  01428                % 03309 RGTR--
+141101003 Mertzig, Eglise       01428  01428                % 03309 RGTR--
+141101006 Mertzig, Wéchen       01429  01429                % 03309 RGTR--
+150402005 Grosbous, Police      01431  01431                % 03309 RGTR--
+150402004 Grosbous, Op der Baa  01432  01432                % 03309 RGTR--
+150402002 Grosbous, Kiirchepla  01432  01432                % 03309 RGTR--
+150203002 Proz, Bousserpad      01435  01435                % 03309 RGTR--
+150203005 Proz, Haaptstrooss    01436  01436                % 03309 RGTR--
+150203001 Proz, Altersheem      01436  01436                % 03309 RGTR--
+150206001 Bettborn, Gemenge Pl  01437  01437                % 03309 RGTR--
+150202001 Platen, Kinnebësch    01438  01438                % 03309 RGTR--
+150202002 Platen                01438  01438                % 03309 RGTR--
+150607001 Reichlange, Hostelle  01440  01440                % 03309 RGTR--
+150606002 Redange, Centre Médi  01443  01443                % 03309 RGTR--
+150606009 Redange, Schock       01444  01444                % 03309 RGTR--
+150606007 Redange, Osperstroos  01445  01445                % 03309 RGTR--
+150606003 Redange, Gare         01446  01446                % 03309 RGTR--
+150303003 Ell, Beim Schreider   01448  01448                % 03309 RGTR--
+150303002 Ell, Beim Musikssaul  01449  01449                % 03309 RGTR--
+150301001 Colpach-Bas, Schlass  01451  01451                % 03309 RGTR--
+150107001 Oberpallen, Bréck     01455                       % 03309 RGTR--
+*Z 03310 RGTR--                                             % 03310 RGTR--
+*L 520      140701016 150107001  01511  01555               % 03310 RGTR--
+*A fa 140701016 150107001 000006  01511  01555              % 03310 RGTR--
+*A JO 140701016 150107001 000006  01511  01555              % 03310 RGTR--
+*A ke 140701016 150107001 000006  01511  01555              % 03310 RGTR--
+*R 1 150107001 140701016 150107001  01511  01555            % 03310 RGTR--
+*G RGB 140701016 150107001  01511  01555                    % 03310 RGTR--
+*A VE 140701016 150107001 000006  01511  01555              % 03310 RGTR--
+*I FD 140701016 150107001        0003083  01511  01555      % 03310 RGTR--
+140701016 Ettelbruck, Gare             01511                % 03310 RGTR--
+140701024 Ettelbruck, Pensionn  01513  01513                % 03310 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01515  01515                % 03310 RGTR--
+140701009 Ettelbruck, Cité Pat  01517  01517                % 03310 RGTR--
+140701008 Ettelbruck, Cité Lop  01518  01518                % 03310 RGTR--
+140801002 Niederfeulen, Faubou  01520  01520                % 03310 RGTR--
+140801004 Niederfeulen, route   01522  01522                % 03310 RGTR--
+140802003 Oberfeulen, Op Hoper  01523  01523                % 03310 RGTR--
+140802001 Oberfeulen, Pl.de la  01523  01523                % 03310 RGTR--
+140802002 Oberfeulen, route d'  01524  01524                % 03310 RGTR--
+141101004 Mertzig, Internat     01526  01526                % 03310 RGTR--
+141101005 Mertzig, Gemeng       01527  01527                % 03310 RGTR--
+141101003 Mertzig, Eglise       01527  01527                % 03310 RGTR--
+141101006 Mertzig, Wéchen       01528  01528                % 03310 RGTR--
+150402005 Grosbous, Police      01530  01530                % 03310 RGTR--
+150402004 Grosbous, Op der Baa  01531  01531                % 03310 RGTR--
+150402002 Grosbous, Kiirchepla  01532  01532                % 03310 RGTR--
+150203002 Proz, Bousserpad      01534  01534                % 03310 RGTR--
+150203005 Proz, Haaptstrooss    01535  01535                % 03310 RGTR--
+150203001 Proz, Altersheem      01536  01536                % 03310 RGTR--
+150206001 Bettborn, Gemenge Pl  01537  01537                % 03310 RGTR--
+150202001 Platen, Kinnebësch    01537  01537                % 03310 RGTR--
+150202002 Platen                01538  01538                % 03310 RGTR--
+150607001 Reichlange, Hostelle  01539  01539                % 03310 RGTR--
+150606002 Redange, Centre Médi  01542  01542                % 03310 RGTR--
+150606009 Redange, Schock       01543  01543                % 03310 RGTR--
+150606007 Redange, Osperstroos  01544  01544                % 03310 RGTR--
+150606003 Redange, Gare         01545  01545                % 03310 RGTR--
+150303003 Ell, Beim Schreider   01547  01547                % 03310 RGTR--
+150303002 Ell, Beim Musikssaul  01548  01548                % 03310 RGTR--
+150301001 Colpach-Bas, Schlass  01550  01550                % 03310 RGTR--
+150107001 Oberpallen, Bréck     01555                       % 03310 RGTR--
+*Z 03311 RGTR--                                             % 03311 RGTR--
+*L 520      140701016 150107001  01908  01951               % 03311 RGTR--
+*A fa 140701016 150107001 000006  01908  01951              % 03311 RGTR--
+*A JO 140701016 150107001 000006  01908  01951              % 03311 RGTR--
+*A JQ 140701016 150107001 000006  01908  01951              % 03311 RGTR--
+*A ke 140701016 150107001 000006  01908  01951              % 03311 RGTR--
+*R 1 150107001 140701016 150107001  01908  01951            % 03311 RGTR--
+*G RGB 140701016 150107001  01908  01951                    % 03311 RGTR--
+*A VE 140701016 150107001 000006  01908  01951              % 03311 RGTR--
+*I FD 140701016 150107001        0002457  01908  01951      % 03311 RGTR--
+140701016 Ettelbruck, Gare             01908                % 03311 RGTR--
+140701024 Ettelbruck, Pensionn  01909  01909                % 03311 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01912  01912                % 03311 RGTR--
+140701009 Ettelbruck, Cité Pat  01914  01914                % 03311 RGTR--
+140701008 Ettelbruck, Cité Lop  01915  01915                % 03311 RGTR--
+140801002 Niederfeulen, Faubou  01917  01917                % 03311 RGTR--
+140801004 Niederfeulen, route   01918  01918                % 03311 RGTR--
+140802003 Oberfeulen, Op Hoper  01920  01920                % 03311 RGTR--
+140802001 Oberfeulen, Pl.de la  01920  01920                % 03311 RGTR--
+140802002 Oberfeulen, route d'  01921  01921                % 03311 RGTR--
+141101004 Mertzig, Internat     01923  01923                % 03311 RGTR--
+141101005 Mertzig, Gemeng       01924  01924                % 03311 RGTR--
+141101003 Mertzig, Eglise       01924  01924                % 03311 RGTR--
+141101006 Mertzig, Wéchen       01925  01925                % 03311 RGTR--
+150402005 Grosbous, Police      01927  01927                % 03311 RGTR--
+150402004 Grosbous, Op der Baa  01928  01928                % 03311 RGTR--
+150402002 Grosbous, Kiirchepla  01928  01928                % 03311 RGTR--
+150203002 Proz, Bousserpad      01931  01931                % 03311 RGTR--
+150203005 Proz, Haaptstrooss    01932  01932                % 03311 RGTR--
+150203001 Proz, Altersheem      01932  01932                % 03311 RGTR--
+150206001 Bettborn, Gemenge Pl  01933  01933                % 03311 RGTR--
+150202001 Platen, Kinnebësch    01934  01934                % 03311 RGTR--
+150202002 Platen                01934  01934                % 03311 RGTR--
+150607001 Reichlange, Hostelle  01936  01936                % 03311 RGTR--
+150606002 Redange, Centre Médi  01939  01939                % 03311 RGTR--
+150606009 Redange, Schock       01940  01940                % 03311 RGTR--
+150606007 Redange, Osperstroos  01941  01941                % 03311 RGTR--
+150606003 Redange, Gare         01942  01942                % 03311 RGTR--
+150303003 Ell, Beim Schreider   01944  01944                % 03311 RGTR--
+150303002 Ell, Beim Musikssaul  01945  01945                % 03311 RGTR--
+150301001 Colpach-Bas, Schlass  01947  01947                % 03311 RGTR--
+150107001 Oberpallen, Bréck     01951                       % 03311 RGTR--
+*Z 03312 RGTR--                                             % 03312 RGTR--
+*L 520      140701016 150107001  01948  02031               % 03312 RGTR--
+*A ey 140701016 150107001 000006  01948  02031              % 03312 RGTR--
+*A JQ 140701016 150107001 000006  01948  02031              % 03312 RGTR--
+*A ke 140701016 150107001 000006  01948  02031              % 03312 RGTR--
+*R 1 150107001 140701016 150107001  01948  02031            % 03312 RGTR--
+*G RGB 140701016 150107001  01948  02031                    % 03312 RGTR--
+*A VE 140701016 150107001 000006  01948  02031              % 03312 RGTR--
+*I FD 140701016 150107001        0002660  01948  02031      % 03312 RGTR--
+140701016 Ettelbruck, Gare             01948                % 03312 RGTR--
+140701024 Ettelbruck, Pensionn  01949  01949                % 03312 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01952  01952                % 03312 RGTR--
+140701009 Ettelbruck, Cité Pat  01954  01954                % 03312 RGTR--
+140701008 Ettelbruck, Cité Lop  01955  01955                % 03312 RGTR--
+140801002 Niederfeulen, Faubou  01957  01957                % 03312 RGTR--
+140801004 Niederfeulen, route   01958  01958                % 03312 RGTR--
+140802003 Oberfeulen, Op Hoper  02000  02000                % 03312 RGTR--
+140802001 Oberfeulen, Pl.de la  02000  02000                % 03312 RGTR--
+140802002 Oberfeulen, route d'  02001  02001                % 03312 RGTR--
+141101004 Mertzig, Internat     02003  02003                % 03312 RGTR--
+141101005 Mertzig, Gemeng       02004  02004                % 03312 RGTR--
+141101003 Mertzig, Eglise       02004  02004                % 03312 RGTR--
+141101006 Mertzig, Wéchen       02005  02005                % 03312 RGTR--
+150402005 Grosbous, Police      02007  02007                % 03312 RGTR--
+150402004 Grosbous, Op der Baa  02008  02008                % 03312 RGTR--
+150402002 Grosbous, Kiirchepla  02008  02008                % 03312 RGTR--
+150203002 Proz, Bousserpad      02011  02011                % 03312 RGTR--
+150203005 Proz, Haaptstrooss    02012  02012                % 03312 RGTR--
+150203001 Proz, Altersheem      02012  02012                % 03312 RGTR--
+150206001 Bettborn, Gemenge Pl  02013  02013                % 03312 RGTR--
+150202001 Platen, Kinnebësch    02014  02014                % 03312 RGTR--
+150202002 Platen                02014  02014                % 03312 RGTR--
+150607001 Reichlange, Hostelle  02016  02016                % 03312 RGTR--
+150606002 Redange, Centre Médi  02019  02019                % 03312 RGTR--
+150606009 Redange, Schock       02020  02020                % 03312 RGTR--
+150606007 Redange, Osperstroos  02021  02021                % 03312 RGTR--
+150606003 Redange, Gare         02022  02022                % 03312 RGTR--
+150303003 Ell, Beim Schreider   02024  02024                % 03312 RGTR--
+150303002 Ell, Beim Musikssaul  02025  02025                % 03312 RGTR--
+150301001 Colpach-Bas, Schlass  02027  02027                % 03312 RGTR--
+150107001 Oberpallen, Bréck     02031                       % 03312 RGTR--
+*Z 03313 RGTR--                                             % 03313 RGTR--
+*L 520      140701016 150107001  02108  02151               % 03313 RGTR--
+*A fa 140701016 150107001 000006  02108  02151              % 03313 RGTR--
+*A JQ 140701016 150107001 000006  02108  02151              % 03313 RGTR--
+*A ke 140701016 150107001 000006  02108  02151              % 03313 RGTR--
+*R 1 150107001 140701016 150107001  02108  02151            % 03313 RGTR--
+*G RGB 140701016 150107001  02108  02151                    % 03313 RGTR--
+*A VE 140701016 150107001 000006  02108  02151              % 03313 RGTR--
+*I FD 140701016 150107001        0002459  02108  02151      % 03313 RGTR--
+140701016 Ettelbruck, Gare             02108                % 03313 RGTR--
+140701024 Ettelbruck, Pensionn  02109  02109                % 03313 RGTR--
+140701025 Ettelbruck, Pl.du Ma  02112  02112                % 03313 RGTR--
+140701009 Ettelbruck, Cité Pat  02114  02114                % 03313 RGTR--
+140701008 Ettelbruck, Cité Lop  02115  02115                % 03313 RGTR--
+140801002 Niederfeulen, Faubou  02117  02117                % 03313 RGTR--
+140801004 Niederfeulen, route   02118  02118                % 03313 RGTR--
+140802003 Oberfeulen, Op Hoper  02120  02120                % 03313 RGTR--
+140802001 Oberfeulen, Pl.de la  02120  02120                % 03313 RGTR--
+140802002 Oberfeulen, route d'  02121  02121                % 03313 RGTR--
+141101004 Mertzig, Internat     02123  02123                % 03313 RGTR--
+141101005 Mertzig, Gemeng       02124  02124                % 03313 RGTR--
+141101003 Mertzig, Eglise       02124  02124                % 03313 RGTR--
+141101006 Mertzig, Wéchen       02125  02125                % 03313 RGTR--
+150402005 Grosbous, Police      02127  02127                % 03313 RGTR--
+150402004 Grosbous, Op der Baa  02128  02128                % 03313 RGTR--
+150402002 Grosbous, Kiirchepla  02128  02128                % 03313 RGTR--
+150203002 Proz, Bousserpad      02131  02131                % 03313 RGTR--
+150203005 Proz, Haaptstrooss    02132  02132                % 03313 RGTR--
+150203001 Proz, Altersheem      02132  02132                % 03313 RGTR--
+150206001 Bettborn, Gemenge Pl  02133  02133                % 03313 RGTR--
+150202001 Platen, Kinnebësch    02134  02134                % 03313 RGTR--
+150202002 Platen                02134  02134                % 03313 RGTR--
+150607001 Reichlange, Hostelle  02136  02136                % 03313 RGTR--
+150606002 Redange, Centre Médi  02139  02139                % 03313 RGTR--
+150606009 Redange, Schock       02140  02140                % 03313 RGTR--
+150606007 Redange, Osperstroos  02141  02141                % 03313 RGTR--
+150606003 Redange, Gare         02142  02142                % 03313 RGTR--
+150303003 Ell, Beim Schreider   02144  02144                % 03313 RGTR--
+150303002 Ell, Beim Musikssaul  02145  02145                % 03313 RGTR--
+150301001 Colpach-Bas, Schlass  02147  02147                % 03313 RGTR--
+150107001 Oberpallen, Bréck     02151                       % 03313 RGTR--
+*Z 03314 RGTR--                                             % 03314 RGTR--
+*L 520      140701016 150107001  00848  00931               % 03314 RGTR--
+*A fa 140701016 150107001 000156  00848  00931              % 03314 RGTR--
+*A ke 140701016 150107001 000156  00848  00931              % 03314 RGTR--
+*R 1 150107001 140701016 150107001  00848  00931            % 03314 RGTR--
+*G RGB 140701016 150107001  00848  00931                    % 03314 RGTR--
+*A VE 140701016 150107001 000156  00848  00931              % 03314 RGTR--
+*I FD 140701016 150107001        0002662  00848  00931      % 03314 RGTR--
+140701016 Ettelbruck, Gare             00848                % 03314 RGTR--
+140701024 Ettelbruck, Pensionn  00849  00849                % 03314 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00852  00852                % 03314 RGTR--
+140701009 Ettelbruck, Cité Pat  00854  00854                % 03314 RGTR--
+140701008 Ettelbruck, Cité Lop  00855  00855                % 03314 RGTR--
+140801002 Niederfeulen, Faubou  00857  00857                % 03314 RGTR--
+140801004 Niederfeulen, route   00858  00858                % 03314 RGTR--
+140802003 Oberfeulen, Op Hoper  00900  00900                % 03314 RGTR--
+140802001 Oberfeulen, Pl.de la  00900  00900                % 03314 RGTR--
+140802002 Oberfeulen, route d'  00901  00901                % 03314 RGTR--
+141101004 Mertzig, Internat     00903  00903                % 03314 RGTR--
+141101005 Mertzig, Gemeng       00904  00904                % 03314 RGTR--
+141101003 Mertzig, Eglise       00904  00904                % 03314 RGTR--
+141101006 Mertzig, Wéchen       00905  00905                % 03314 RGTR--
+150402005 Grosbous, Police      00907  00907                % 03314 RGTR--
+150402004 Grosbous, Op der Baa  00908  00908                % 03314 RGTR--
+150402002 Grosbous, Kiirchepla  00908  00908                % 03314 RGTR--
+150203002 Proz, Bousserpad      00911  00911                % 03314 RGTR--
+150203005 Proz, Haaptstrooss    00912  00912                % 03314 RGTR--
+150203001 Proz, Altersheem      00912  00912                % 03314 RGTR--
+150206001 Bettborn, Gemenge Pl  00913  00913                % 03314 RGTR--
+150202001 Platen, Kinnebësch    00914  00914                % 03314 RGTR--
+150202002 Platen                00914  00914                % 03314 RGTR--
+150607001 Reichlange, Hostelle  00916  00916                % 03314 RGTR--
+150606002 Redange, Centre Médi  00919  00919                % 03314 RGTR--
+150606009 Redange, Schock       00920  00920                % 03314 RGTR--
+150606007 Redange, Osperstroos  00921  00921                % 03314 RGTR--
+150606003 Redange, Gare         00922  00922                % 03314 RGTR--
+150303003 Ell, Beim Schreider   00924  00924                % 03314 RGTR--
+150303002 Ell, Beim Musikssaul  00925  00925                % 03314 RGTR--
+150301001 Colpach-Bas, Schlass  00927  00927                % 03314 RGTR--
+150107001 Oberpallen, Bréck     00931                       % 03314 RGTR--
+*Z 03315 RGTR--                                             % 03315 RGTR--
+*L 520      140701016 150107001  01048  01131               % 03315 RGTR--
+*A fa 140701016 150107001 000156  01048  01131              % 03315 RGTR--
+*A ke 140701016 150107001 000156  01048  01131              % 03315 RGTR--
+*R 1 150107001 140701016 150107001  01048  01131            % 03315 RGTR--
+*G RGB 140701016 150107001  01048  01131                    % 03315 RGTR--
+*A VE 140701016 150107001 000156  01048  01131              % 03315 RGTR--
+*I FD 140701016 150107001        0002652  01048  01131      % 03315 RGTR--
+140701016 Ettelbruck, Gare             01048                % 03315 RGTR--
+140701024 Ettelbruck, Pensionn  01049  01049                % 03315 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01052  01052                % 03315 RGTR--
+140701009 Ettelbruck, Cité Pat  01054  01054                % 03315 RGTR--
+140701008 Ettelbruck, Cité Lop  01055  01055                % 03315 RGTR--
+140801002 Niederfeulen, Faubou  01057  01057                % 03315 RGTR--
+140801004 Niederfeulen, route   01058  01058                % 03315 RGTR--
+140802003 Oberfeulen, Op Hoper  01100  01100                % 03315 RGTR--
+140802001 Oberfeulen, Pl.de la  01100  01100                % 03315 RGTR--
+140802002 Oberfeulen, route d'  01101  01101                % 03315 RGTR--
+141101004 Mertzig, Internat     01103  01103                % 03315 RGTR--
+141101005 Mertzig, Gemeng       01104  01104                % 03315 RGTR--
+141101003 Mertzig, Eglise       01104  01104                % 03315 RGTR--
+141101006 Mertzig, Wéchen       01105  01105                % 03315 RGTR--
+150402005 Grosbous, Police      01107  01107                % 03315 RGTR--
+150402004 Grosbous, Op der Baa  01108  01108                % 03315 RGTR--
+150402002 Grosbous, Kiirchepla  01108  01108                % 03315 RGTR--
+150203002 Proz, Bousserpad      01111  01111                % 03315 RGTR--
+150203005 Proz, Haaptstrooss    01112  01112                % 03315 RGTR--
+150203001 Proz, Altersheem      01112  01112                % 03315 RGTR--
+150206001 Bettborn, Gemenge Pl  01113  01113                % 03315 RGTR--
+150202001 Platen, Kinnebësch    01114  01114                % 03315 RGTR--
+150202002 Platen                01114  01114                % 03315 RGTR--
+150607001 Reichlange, Hostelle  01116  01116                % 03315 RGTR--
+150606002 Redange, Centre Médi  01119  01119                % 03315 RGTR--
+150606009 Redange, Schock       01120  01120                % 03315 RGTR--
+150606007 Redange, Osperstroos  01121  01121                % 03315 RGTR--
+150606003 Redange, Gare         01122  01122                % 03315 RGTR--
+150303003 Ell, Beim Schreider   01124  01124                % 03315 RGTR--
+150303002 Ell, Beim Musikssaul  01125  01125                % 03315 RGTR--
+150301001 Colpach-Bas, Schlass  01127  01127                % 03315 RGTR--
+150107001 Oberpallen, Bréck     01131                       % 03315 RGTR--
+*Z 03316 RGTR--                                             % 03316 RGTR--
+*L 520      140701016 150107001  01248  01331               % 03316 RGTR--
+*A fa 140701016 150107001 000156  01248  01331              % 03316 RGTR--
+*A ke 140701016 150107001 000156  01248  01331              % 03316 RGTR--
+*R 1 150107001 140701016 150107001  01248  01331            % 03316 RGTR--
+*G RGB 140701016 150107001  01248  01331                    % 03316 RGTR--
+*A VE 140701016 150107001 000156  01248  01331              % 03316 RGTR--
+*I FD 140701016 150107001        0002653  01248  01331      % 03316 RGTR--
+140701016 Ettelbruck, Gare             01248                % 03316 RGTR--
+140701024 Ettelbruck, Pensionn  01249  01249                % 03316 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01252  01252                % 03316 RGTR--
+140701009 Ettelbruck, Cité Pat  01254  01254                % 03316 RGTR--
+140701008 Ettelbruck, Cité Lop  01255  01255                % 03316 RGTR--
+140801002 Niederfeulen, Faubou  01257  01257                % 03316 RGTR--
+140801004 Niederfeulen, route   01258  01258                % 03316 RGTR--
+140802003 Oberfeulen, Op Hoper  01300  01300                % 03316 RGTR--
+140802001 Oberfeulen, Pl.de la  01300  01300                % 03316 RGTR--
+140802002 Oberfeulen, route d'  01301  01301                % 03316 RGTR--
+141101004 Mertzig, Internat     01303  01303                % 03316 RGTR--
+141101005 Mertzig, Gemeng       01304  01304                % 03316 RGTR--
+141101003 Mertzig, Eglise       01304  01304                % 03316 RGTR--
+141101006 Mertzig, Wéchen       01305  01305                % 03316 RGTR--
+150402005 Grosbous, Police      01307  01307                % 03316 RGTR--
+150402004 Grosbous, Op der Baa  01308  01308                % 03316 RGTR--
+150402002 Grosbous, Kiirchepla  01308  01308                % 03316 RGTR--
+150203002 Proz, Bousserpad      01311  01311                % 03316 RGTR--
+150203005 Proz, Haaptstrooss    01312  01312                % 03316 RGTR--
+150203001 Proz, Altersheem      01312  01312                % 03316 RGTR--
+150206001 Bettborn, Gemenge Pl  01313  01313                % 03316 RGTR--
+150202001 Platen, Kinnebësch    01314  01314                % 03316 RGTR--
+150202002 Platen                01314  01314                % 03316 RGTR--
+150607001 Reichlange, Hostelle  01316  01316                % 03316 RGTR--
+150606002 Redange, Centre Médi  01319  01319                % 03316 RGTR--
+150606009 Redange, Schock       01320  01320                % 03316 RGTR--
+150606007 Redange, Osperstroos  01321  01321                % 03316 RGTR--
+150606003 Redange, Gare         01322  01322                % 03316 RGTR--
+150303003 Ell, Beim Schreider   01324  01324                % 03316 RGTR--
+150303002 Ell, Beim Musikssaul  01325  01325                % 03316 RGTR--
+150301001 Colpach-Bas, Schlass  01327  01327                % 03316 RGTR--
+150107001 Oberpallen, Bréck     01331                       % 03316 RGTR--
+*Z 03317 RGTR--                                             % 03317 RGTR--
+*L 520      140701016 150107001  01448  01531               % 03317 RGTR--
+*A fa 140701016 150107001 000156  01448  01531              % 03317 RGTR--
+*A ke 140701016 150107001 000156  01448  01531              % 03317 RGTR--
+*R 1 150107001 140701016 150107001  01448  01531            % 03317 RGTR--
+*G RGB 140701016 150107001  01448  01531                    % 03317 RGTR--
+*A VE 140701016 150107001 000156  01448  01531              % 03317 RGTR--
+*I FD 140701016 150107001        0002654  01448  01531      % 03317 RGTR--
+140701016 Ettelbruck, Gare             01448                % 03317 RGTR--
+140701024 Ettelbruck, Pensionn  01449  01449                % 03317 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01452  01452                % 03317 RGTR--
+140701009 Ettelbruck, Cité Pat  01454  01454                % 03317 RGTR--
+140701008 Ettelbruck, Cité Lop  01455  01455                % 03317 RGTR--
+140801002 Niederfeulen, Faubou  01457  01457                % 03317 RGTR--
+140801004 Niederfeulen, route   01458  01458                % 03317 RGTR--
+140802003 Oberfeulen, Op Hoper  01500  01500                % 03317 RGTR--
+140802001 Oberfeulen, Pl.de la  01500  01500                % 03317 RGTR--
+140802002 Oberfeulen, route d'  01501  01501                % 03317 RGTR--
+141101004 Mertzig, Internat     01503  01503                % 03317 RGTR--
+141101005 Mertzig, Gemeng       01504  01504                % 03317 RGTR--
+141101003 Mertzig, Eglise       01504  01504                % 03317 RGTR--
+141101006 Mertzig, Wéchen       01505  01505                % 03317 RGTR--
+150402005 Grosbous, Police      01507  01507                % 03317 RGTR--
+150402004 Grosbous, Op der Baa  01508  01508                % 03317 RGTR--
+150402002 Grosbous, Kiirchepla  01508  01508                % 03317 RGTR--
+150203002 Proz, Bousserpad      01511  01511                % 03317 RGTR--
+150203005 Proz, Haaptstrooss    01512  01512                % 03317 RGTR--
+150203001 Proz, Altersheem      01512  01512                % 03317 RGTR--
+150206001 Bettborn, Gemenge Pl  01513  01513                % 03317 RGTR--
+150202001 Platen, Kinnebësch    01514  01514                % 03317 RGTR--
+150202002 Platen                01514  01514                % 03317 RGTR--
+150607001 Reichlange, Hostelle  01516  01516                % 03317 RGTR--
+150606002 Redange, Centre Médi  01519  01519                % 03317 RGTR--
+150606009 Redange, Schock       01520  01520                % 03317 RGTR--
+150606007 Redange, Osperstroos  01521  01521                % 03317 RGTR--
+150606003 Redange, Gare         01522  01522                % 03317 RGTR--
+150303003 Ell, Beim Schreider   01524  01524                % 03317 RGTR--
+150303002 Ell, Beim Musikssaul  01525  01525                % 03317 RGTR--
+150301001 Colpach-Bas, Schlass  01527  01527                % 03317 RGTR--
+150107001 Oberpallen, Bréck     01531                       % 03317 RGTR--
+*Z 03318 RGTR--                                             % 03318 RGTR--
+*L 520      140701016 150107001  01648  01731               % 03318 RGTR--
+*A fa 140701016 150107001 000156  01648  01731              % 03318 RGTR--
+*A ke 140701016 150107001 000156  01648  01731              % 03318 RGTR--
+*R 1 150107001 140701016 150107001  01648  01731            % 03318 RGTR--
+*G RGB 140701016 150107001  01648  01731                    % 03318 RGTR--
+*A VE 140701016 150107001 000156  01648  01731              % 03318 RGTR--
+*I FD 140701016 150107001        0001381  01648  01731      % 03318 RGTR--
+140701016 Ettelbruck, Gare             01648                % 03318 RGTR--
+140701024 Ettelbruck, Pensionn  01649  01649                % 03318 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01652  01652                % 03318 RGTR--
+140701009 Ettelbruck, Cité Pat  01654  01654                % 03318 RGTR--
+140701008 Ettelbruck, Cité Lop  01655  01655                % 03318 RGTR--
+140801002 Niederfeulen, Faubou  01657  01657                % 03318 RGTR--
+140801004 Niederfeulen, route   01658  01658                % 03318 RGTR--
+140802003 Oberfeulen, Op Hoper  01700  01700                % 03318 RGTR--
+140802001 Oberfeulen, Pl.de la  01700  01700                % 03318 RGTR--
+140802002 Oberfeulen, route d'  01701  01701                % 03318 RGTR--
+141101004 Mertzig, Internat     01703  01703                % 03318 RGTR--
+141101005 Mertzig, Gemeng       01704  01704                % 03318 RGTR--
+141101003 Mertzig, Eglise       01704  01704                % 03318 RGTR--
+141101006 Mertzig, Wéchen       01705  01705                % 03318 RGTR--
+150402005 Grosbous, Police      01707  01707                % 03318 RGTR--
+150402004 Grosbous, Op der Baa  01708  01708                % 03318 RGTR--
+150402002 Grosbous, Kiirchepla  01708  01708                % 03318 RGTR--
+150203002 Proz, Bousserpad      01711  01711                % 03318 RGTR--
+150203005 Proz, Haaptstrooss    01712  01712                % 03318 RGTR--
+150203001 Proz, Altersheem      01712  01712                % 03318 RGTR--
+150206001 Bettborn, Gemenge Pl  01713  01713                % 03318 RGTR--
+150202001 Platen, Kinnebësch    01714  01714                % 03318 RGTR--
+150202002 Platen                01714  01714                % 03318 RGTR--
+150607001 Reichlange, Hostelle  01716  01716                % 03318 RGTR--
+150606002 Redange, Centre Médi  01719  01719                % 03318 RGTR--
+150606009 Redange, Schock       01720  01720                % 03318 RGTR--
+150606007 Redange, Osperstroos  01721  01721                % 03318 RGTR--
+150606003 Redange, Gare         01722  01722                % 03318 RGTR--
+150303003 Ell, Beim Schreider   01724  01724                % 03318 RGTR--
+150303002 Ell, Beim Musikssaul  01725  01725                % 03318 RGTR--
+150301001 Colpach-Bas, Schlass  01727  01727                % 03318 RGTR--
+150107001 Oberpallen, Bréck     01731                       % 03318 RGTR--
+*Z 03319 RGTR--                                             % 03319 RGTR--
+*L 520      140701016 150107001  01848  01931               % 03319 RGTR--
+*A fa 140701016 150107001 000156  01848  01931              % 03319 RGTR--
+*A ke 140701016 150107001 000156  01848  01931              % 03319 RGTR--
+*R 1 150107001 140701016 150107001  01848  01931            % 03319 RGTR--
+*G RGB 140701016 150107001  01848  01931                    % 03319 RGTR--
+*A VE 140701016 150107001 000156  01848  01931              % 03319 RGTR--
+*I FD 140701016 150107001        0001499  01848  01931      % 03319 RGTR--
+140701016 Ettelbruck, Gare             01848                % 03319 RGTR--
+140701024 Ettelbruck, Pensionn  01849  01849                % 03319 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01852  01852                % 03319 RGTR--
+140701009 Ettelbruck, Cité Pat  01854  01854                % 03319 RGTR--
+140701008 Ettelbruck, Cité Lop  01855  01855                % 03319 RGTR--
+140801002 Niederfeulen, Faubou  01857  01857                % 03319 RGTR--
+140801004 Niederfeulen, route   01858  01858                % 03319 RGTR--
+140802003 Oberfeulen, Op Hoper  01900  01900                % 03319 RGTR--
+140802001 Oberfeulen, Pl.de la  01900  01900                % 03319 RGTR--
+140802002 Oberfeulen, route d'  01901  01901                % 03319 RGTR--
+141101004 Mertzig, Internat     01903  01903                % 03319 RGTR--
+141101005 Mertzig, Gemeng       01904  01904                % 03319 RGTR--
+141101003 Mertzig, Eglise       01904  01904                % 03319 RGTR--
+141101006 Mertzig, Wéchen       01905  01905                % 03319 RGTR--
+150402005 Grosbous, Police      01907  01907                % 03319 RGTR--
+150402004 Grosbous, Op der Baa  01908  01908                % 03319 RGTR--
+150402002 Grosbous, Kiirchepla  01908  01908                % 03319 RGTR--
+150203002 Proz, Bousserpad      01911  01911                % 03319 RGTR--
+150203005 Proz, Haaptstrooss    01912  01912                % 03319 RGTR--
+150203001 Proz, Altersheem      01912  01912                % 03319 RGTR--
+150206001 Bettborn, Gemenge Pl  01913  01913                % 03319 RGTR--
+150202001 Platen, Kinnebësch    01914  01914                % 03319 RGTR--
+150202002 Platen                01914  01914                % 03319 RGTR--
+150607001 Reichlange, Hostelle  01916  01916                % 03319 RGTR--
+150606002 Redange, Centre Médi  01919  01919                % 03319 RGTR--
+150606009 Redange, Schock       01920  01920                % 03319 RGTR--
+150606007 Redange, Osperstroos  01921  01921                % 03319 RGTR--
+150606003 Redange, Gare         01922  01922                % 03319 RGTR--
+150303003 Ell, Beim Schreider   01924  01924                % 03319 RGTR--
+150303002 Ell, Beim Musikssaul  01925  01925                % 03319 RGTR--
+150301001 Colpach-Bas, Schlass  01927  01927                % 03319 RGTR--
+150107001 Oberpallen, Bréck     01931                       % 03319 RGTR--
+*Z 03320 RGTR--                                             % 03320 RGTR--
+*L 520      140701016 150107001  01150  01233               % 03320 RGTR--
+*A ey 140701016 150107001 000033  01150  01233              % 03320 RGTR--
+*A ke 140701016 150107001 000033  01150  01233              % 03320 RGTR--
+*R 1 150107001 140701016 150107001  01150  01233            % 03320 RGTR--
+*G RGB 140701016 150107001  01150  01233                    % 03320 RGTR--
+*A VE 140701016 150107001 000033  01150  01233              % 03320 RGTR--
+*I FD 140701016 150107001        0001882  01150  01233      % 03320 RGTR--
+140701016 Ettelbruck, Gare             01150                % 03320 RGTR--
+140701024 Ettelbruck, Pensionn  01151  01151                % 03320 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01154  01154                % 03320 RGTR--
+140701009 Ettelbruck, Cité Pat  01156  01156                % 03320 RGTR--
+140701008 Ettelbruck, Cité Lop  01157  01157                % 03320 RGTR--
+140801002 Niederfeulen, Faubou  01159  01159                % 03320 RGTR--
+140801004 Niederfeulen, route   01200  01200                % 03320 RGTR--
+140802003 Oberfeulen, Op Hoper  01202  01202                % 03320 RGTR--
+140802001 Oberfeulen, Pl.de la  01202  01202                % 03320 RGTR--
+140802002 Oberfeulen, route d'  01203  01203                % 03320 RGTR--
+141101004 Mertzig, Internat     01205  01205                % 03320 RGTR--
+141101005 Mertzig, Gemeng       01206  01206                % 03320 RGTR--
+141101003 Mertzig, Eglise       01206  01206                % 03320 RGTR--
+141101006 Mertzig, Wéchen       01207  01207                % 03320 RGTR--
+150402005 Grosbous, Police      01209  01209                % 03320 RGTR--
+150402004 Grosbous, Op der Baa  01210  01210                % 03320 RGTR--
+150402002 Grosbous, Kiirchepla  01210  01210                % 03320 RGTR--
+150203002 Proz, Bousserpad      01213  01213                % 03320 RGTR--
+150203005 Proz, Haaptstrooss    01214  01214                % 03320 RGTR--
+150203001 Proz, Altersheem      01214  01214                % 03320 RGTR--
+150206001 Bettborn, Gemenge Pl  01215  01215                % 03320 RGTR--
+150202001 Platen, Kinnebësch    01216  01216                % 03320 RGTR--
+150202002 Platen                01216  01216                % 03320 RGTR--
+150607001 Reichlange, Hostelle  01218  01218                % 03320 RGTR--
+150606002 Redange, Centre Médi  01221  01221                % 03320 RGTR--
+150606009 Redange, Schock       01222  01222                % 03320 RGTR--
+150606007 Redange, Osperstroos  01223  01223                % 03320 RGTR--
+150606003 Redange, Gare         01224  01224                % 03320 RGTR--
+150303003 Ell, Beim Schreider   01226  01226                % 03320 RGTR--
+150303002 Ell, Beim Musikssaul  01227  01227                % 03320 RGTR--
+150301001 Colpach-Bas, Schlass  01229  01229                % 03320 RGTR--
+150107001 Oberpallen, Bréck     01233                       % 03320 RGTR--
+*Z 00103 RGTR--                                             % 00103 RGTR--
+*L 520      150606003 140401009  01036  01118               % 00103 RGTR--
+*A fb 150606003 140401009 000006  01036  01118              % 00103 RGTR--
+*A kg 150606003 140401009 000006  01036  01118              % 00103 RGTR--
+*R 2 140401009 150606003 140401009  01036  01118            % 00103 RGTR--
+*G RGB 150606003 140401009  01036  01118                    % 00103 RGTR--
+*A VE 150606003 140401009 000006  01036  01118              % 00103 RGTR--
+*I FD 150606003 140401009        0002518  01036  01118      % 00103 RGTR--
+150606003 Redange, Gare                01036                % 00103 RGTR--
+150606001 Redange/Attert, Bian  01036  01036                % 00103 RGTR--
+150606009 Redange, Schock       01037  01037                % 00103 RGTR--
+150606002 Redange, Centre Médi  01038  01038                % 00103 RGTR--
+150607001 Reichlange, Hostelle  01041  01041                % 00103 RGTR--
+150202002 Platen                01043  01043                % 00103 RGTR--
+150202001 Platen, Kinnebësch    01044  01044                % 00103 RGTR--
+150206001 Bettborn, Gemenge Pl  01044  01044                % 00103 RGTR--
+150203001 Proz, Altersheem      01045  01045                % 00103 RGTR--
+150203005 Proz, Haaptstrooss    01046  01046                % 00103 RGTR--
+150203002 Proz, Bousserpad      01046  01046                % 00103 RGTR--
+150402002 Grosbous, Kiirchepla  01049  01049                % 00103 RGTR--
+150402004 Grosbous, Op der Baa  01050  01050                % 00103 RGTR--
+150402005 Grosbous, Police      01050  01050                % 00103 RGTR--
+141101006 Mertzig, Wéchen       01052  01052                % 00103 RGTR--
+141101003 Mertzig, Eglise       01053  01053                % 00103 RGTR--
+141101005 Mertzig, Gemeng       01053  01053                % 00103 RGTR--
+141101004 Mertzig, Internat     01054  01054                % 00103 RGTR--
+140802002 Oberfeulen, route d'  01056  01056                % 00103 RGTR--
+140802001 Oberfeulen, Pl.de la  01056  01056                % 00103 RGTR--
+140802003 Oberfeulen, Op Hoper  01057  01057                % 00103 RGTR--
+140801004 Niederfeulen, route   01059  01059                % 00103 RGTR--
+140801002 Niederfeulen, Faubou  01100  01100                % 00103 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01104  01104                % 00103 RGTR--
+140701015 Ettelbruck, Ecole Pr  01106  01106                % 00103 RGTR--
+140701016 Ettelbruck, Gare      01107  01107                % 00103 RGTR--
+140602008 Erpeldange/Sûre, Um   01109  01109                % 00103 RGTR--
+140603002 Ingeldorf, Café de l  01111  01111                % 00103 RGTR--
+140401008 Diekirch, Lorentzwue  01112  01112                % 00103 RGTR--
+140401004 Diekirch, Gare        01114  01114                % 00103 RGTR--
+140401001 Diekirch, Altersheem  01115  01115                % 00103 RGTR--
+140401009 Diekirch, Neie Kolle  01118                       % 00103 RGTR--
+*Z 00163 RGTR--                                             % 00163 RGTR--
+*L 520      150606003 140401009  01448  01530               % 00163 RGTR--
+*A fb 150606003 140401009 000006  01448  01530              % 00163 RGTR--
+*A kg 150606003 140401009 000006  01448  01530              % 00163 RGTR--
+*R 2 140401009 150606003 140401009  01448  01530            % 00163 RGTR--
+*G RGB 150606003 140401009  01448  01530                    % 00163 RGTR--
+*A VE 150606003 140401009 000006  01448  01530              % 00163 RGTR--
+*I FD 150606003 140401009        0003084  01448  01530      % 00163 RGTR--
+150606003 Redange, Gare                01448                % 00163 RGTR--
+150606001 Redange/Attert, Bian  01448  01448                % 00163 RGTR--
+150606009 Redange, Schock       01449  01449                % 00163 RGTR--
+150606002 Redange, Centre Médi  01450  01450                % 00163 RGTR--
+150607001 Reichlange, Hostelle  01453  01453                % 00163 RGTR--
+150202002 Platen                01455  01455                % 00163 RGTR--
+150202001 Platen, Kinnebësch    01456  01456                % 00163 RGTR--
+150206001 Bettborn, Gemenge Pl  01456  01456                % 00163 RGTR--
+150203001 Proz, Altersheem      01457  01457                % 00163 RGTR--
+150203005 Proz, Haaptstrooss    01458  01458                % 00163 RGTR--
+150203002 Proz, Bousserpad      01458  01458                % 00163 RGTR--
+150402002 Grosbous, Kiirchepla  01501  01501                % 00163 RGTR--
+150402004 Grosbous, Op der Baa  01502  01502                % 00163 RGTR--
+150402005 Grosbous, Police      01502  01502                % 00163 RGTR--
+141101006 Mertzig, Wéchen       01504  01504                % 00163 RGTR--
+141101003 Mertzig, Eglise       01505  01505                % 00163 RGTR--
+141101005 Mertzig, Gemeng       01505  01505                % 00163 RGTR--
+141101004 Mertzig, Internat     01506  01506                % 00163 RGTR--
+140802002 Oberfeulen, route d'  01508  01508                % 00163 RGTR--
+140802001 Oberfeulen, Pl.de la  01508  01508                % 00163 RGTR--
+140802003 Oberfeulen, Op Hoper  01509  01509                % 00163 RGTR--
+140801004 Niederfeulen, route   01511  01511                % 00163 RGTR--
+140801002 Niederfeulen, Faubou  01512  01512                % 00163 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01516  01516                % 00163 RGTR--
+140701015 Ettelbruck, Ecole Pr  01518  01518                % 00163 RGTR--
+140701016 Ettelbruck, Gare      01519  01519                % 00163 RGTR--
+140602008 Erpeldange/Sûre, Um   01521  01521                % 00163 RGTR--
+140603002 Ingeldorf, Café de l  01523  01523                % 00163 RGTR--
+140401008 Diekirch, Lorentzwue  01524  01524                % 00163 RGTR--
+140401004 Diekirch, Gare        01526  01526                % 00163 RGTR--
+140401001 Diekirch, Altersheem  01527  01527                % 00163 RGTR--
+140401009 Diekirch, Neie Kolle  01530                       % 00163 RGTR--
+*Z 00028 RGTR--                                             % 00028 RGTR--
+*L 520      150606003 140401009  00702  00747               % 00028 RGTR--
+*A fb 150606003 140401009 000006  00702  00747              % 00028 RGTR--
+*A kg 150606003 140401009 000006  00702  00747              % 00028 RGTR--
+*R 2 140401009 150606003 140401009  00702  00747            % 00028 RGTR--
+*G RGB 150606003 140401009  00702  00747                    % 00028 RGTR--
+*A VE 150606003 140401009 000006  00702  00747              % 00028 RGTR--
+*I FD 150606003 140401009        0002742  00702  00747      % 00028 RGTR--
+150606003 Redange, Gare                00702                % 00028 RGTR--
+150606001 Redange/Attert, Bian  00702  00702                % 00028 RGTR--
+150606009 Redange, Schock       00703  00703                % 00028 RGTR--
+150606002 Redange, Centre Médi  00704  00704                % 00028 RGTR--
+150607001 Reichlange, Hostelle  00708  00708                % 00028 RGTR--
+150202002 Platen                00709  00709                % 00028 RGTR--
+150202001 Platen, Kinnebësch    00710  00710                % 00028 RGTR--
+150206001 Bettborn, Gemenge Pl  00710  00710                % 00028 RGTR--
+150203001 Proz, Altersheem      00711  00711                % 00028 RGTR--
+150203005 Proz, Haaptstrooss    00712  00712                % 00028 RGTR--
+150203002 Proz, Bousserpad      00713  00713                % 00028 RGTR--
+150402002 Grosbous, Kiirchepla  00716  00716                % 00028 RGTR--
+150402004 Grosbous, Op der Baa  00716  00716                % 00028 RGTR--
+150402005 Grosbous, Police      00717  00717                % 00028 RGTR--
+141101006 Mertzig, Wéchen       00719  00719                % 00028 RGTR--
+141101003 Mertzig, Eglise       00720  00720                % 00028 RGTR--
+141101005 Mertzig, Gemeng       00720  00720                % 00028 RGTR--
+141101004 Mertzig, Internat     00721  00721                % 00028 RGTR--
+140802002 Oberfeulen, route d'  00723  00723                % 00028 RGTR--
+140802001 Oberfeulen, Pl.de la  00724  00724                % 00028 RGTR--
+140802003 Oberfeulen, Op Hoper  00724  00724                % 00028 RGTR--
+140801004 Niederfeulen, route   00726  00726                % 00028 RGTR--
+140801002 Niederfeulen, Faubou  00727  00727                % 00028 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00731  00731                % 00028 RGTR--
+140701015 Ettelbruck, Ecole Pr  00734  00734                % 00028 RGTR--
+140701016 Ettelbruck, Gare      00735  00735                % 00028 RGTR--
+140602008 Erpeldange/Sûre, Um   00737  00737                % 00028 RGTR--
+140603002 Ingeldorf, Café de l  00739  00739                % 00028 RGTR--
+140401008 Diekirch, Lorentzwue  00741  00741                % 00028 RGTR--
+140401004 Diekirch, Gare        00742  00742                % 00028 RGTR--
+140401001 Diekirch, Altersheem  00744  00744                % 00028 RGTR--
+140401009 Diekirch, Neie Kolle  00747                       % 00028 RGTR--
+*Z 03321 RGTR--                                             % 03321 RGTR--
+*L 520      150107001 140701016  00808  00852               % 03321 RGTR--
+*A fa 150107001 140701016 000006  00808  00852              % 03321 RGTR--
+*A ea 150107001 140701016 000006  00808  00852              % 03321 RGTR--
+*R 2 140701016 150107001 140701016  00808  00852            % 03321 RGTR--
+*G RGB 150107001 140701016  00808  00852                    % 03321 RGTR--
+*A VE 150107001 140701016 000006  00808  00852              % 03321 RGTR--
+*I FD 150107001 140701016        0002925  00808  00852      % 03321 RGTR--
+150107001 Oberpallen, Bréck            00808                % 03321 RGTR--
+150301001 Colpach-Bas, Schlass  00812  00812                % 03321 RGTR--
+150303002 Ell, Beim Musikssaul  00815  00815                % 03321 RGTR--
+150303003 Ell, Beim Schreider   00816  00816                % 03321 RGTR--
+150606003 Redange, Gare         00818  00818                % 03321 RGTR--
+150606001 Redange/Attert, Bian  00819  00819                % 03321 RGTR--
+150606009 Redange, Schock       00820  00820                % 03321 RGTR--
+150606002 Redange, Centre Médi  00821  00821                % 03321 RGTR--
+150607001 Reichlange, Hostelle  00824  00824                % 03321 RGTR--
+150202002 Platen                00826  00826                % 03321 RGTR--
+150202001 Platen, Kinnebësch    00826  00826                % 03321 RGTR--
+150206001 Bettborn, Gemenge Pl  00827  00827                % 03321 RGTR--
+150203001 Proz, Altersheem      00828  00828                % 03321 RGTR--
+150203005 Proz, Haaptstrooss    00828  00828                % 03321 RGTR--
+150203002 Proz, Bousserpad      00829  00829                % 03321 RGTR--
+150402002 Grosbous, Kiirchepla  00832  00832                % 03321 RGTR--
+150402004 Grosbous, Op der Baa  00833  00833                % 03321 RGTR--
+150402005 Grosbous, Police      00833  00833                % 03321 RGTR--
+141101006 Mertzig, Wéchen       00836  00836                % 03321 RGTR--
+141101003 Mertzig, Eglise       00836  00836                % 03321 RGTR--
+141101005 Mertzig, Gemeng       00837  00837                % 03321 RGTR--
+141101004 Mertzig, Internat     00837  00837                % 03321 RGTR--
+140802002 Oberfeulen, route d'  00839  00839                % 03321 RGTR--
+140802001 Oberfeulen, Pl.de la  00840  00840                % 03321 RGTR--
+140802003 Oberfeulen, Op Hoper  00841  00841                % 03321 RGTR--
+140801004 Niederfeulen, route   00842  00842                % 03321 RGTR--
+140801002 Niederfeulen, Faubou  00844  00844                % 03321 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00848  00848                % 03321 RGTR--
+140701015 Ettelbruck, Ecole Pr  00850  00850                % 03321 RGTR--
+140701016 Ettelbruck, Gare      00852                       % 03321 RGTR--
+*Z 03322 RGTR--                                             % 03322 RGTR--
+*L 520      150107001 140701016  00908  00952               % 03322 RGTR--
+*A ey 150107001 140701016 000006  00908  00952              % 03322 RGTR--
+*A JR 150107001 140701016 000006  00908  00952              % 03322 RGTR--
+*A ea 150107001 140701016 000006  00908  00952              % 03322 RGTR--
+*R 2 140701016 150107001 140701016  00908  00952            % 03322 RGTR--
+*G RGB 150107001 140701016  00908  00952                    % 03322 RGTR--
+*A VE 150107001 140701016 000006  00908  00952              % 03322 RGTR--
+*I FD 150107001 140701016        0003085  00908  00952      % 03322 RGTR--
+150107001 Oberpallen, Bréck            00908                % 03322 RGTR--
+150301001 Colpach-Bas, Schlass  00912  00912                % 03322 RGTR--
+150303002 Ell, Beim Musikssaul  00915  00915                % 03322 RGTR--
+150303003 Ell, Beim Schreider   00916  00916                % 03322 RGTR--
+150606003 Redange, Gare         00918  00918                % 03322 RGTR--
+150606001 Redange/Attert, Bian  00919  00919                % 03322 RGTR--
+150606009 Redange, Schock       00920  00920                % 03322 RGTR--
+150606002 Redange, Centre Médi  00921  00921                % 03322 RGTR--
+150607001 Reichlange, Hostelle  00924  00924                % 03322 RGTR--
+150202002 Platen                00926  00926                % 03322 RGTR--
+150202001 Platen, Kinnebësch    00926  00926                % 03322 RGTR--
+150206001 Bettborn, Gemenge Pl  00927  00927                % 03322 RGTR--
+150203001 Proz, Altersheem      00928  00928                % 03322 RGTR--
+150203005 Proz, Haaptstrooss    00928  00928                % 03322 RGTR--
+150203002 Proz, Bousserpad      00929  00929                % 03322 RGTR--
+150402002 Grosbous, Kiirchepla  00932  00932                % 03322 RGTR--
+150402004 Grosbous, Op der Baa  00933  00933                % 03322 RGTR--
+150402005 Grosbous, Police      00933  00933                % 03322 RGTR--
+141101006 Mertzig, Wéchen       00936  00936                % 03322 RGTR--
+141101003 Mertzig, Eglise       00936  00936                % 03322 RGTR--
+141101005 Mertzig, Gemeng       00937  00937                % 03322 RGTR--
+141101004 Mertzig, Internat     00937  00937                % 03322 RGTR--
+140802002 Oberfeulen, route d'  00939  00939                % 03322 RGTR--
+140802001 Oberfeulen, Pl.de la  00940  00940                % 03322 RGTR--
+140802003 Oberfeulen, Op Hoper  00941  00941                % 03322 RGTR--
+140801004 Niederfeulen, route   00942  00942                % 03322 RGTR--
+140801002 Niederfeulen, Faubou  00944  00944                % 03322 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00948  00948                % 03322 RGTR--
+140701015 Ettelbruck, Ecole Pr  00950  00950                % 03322 RGTR--
+140701016 Ettelbruck, Gare      00952                       % 03322 RGTR--
+*Z 03323 RGTR--                                             % 03323 RGTR--
+*L 520      150107001 140701016  01606  01650               % 03323 RGTR--
+*A fa 150107001 140701016 000006  01606  01650              % 03323 RGTR--
+*A JO 150107001 140701016 000006  01606  01650              % 03323 RGTR--
+*A ea 150107001 140701016 000006  01606  01650              % 03323 RGTR--
+*R 2 140701016 150107001 140701016  01606  01650            % 03323 RGTR--
+*G RGB 150107001 140701016  01606  01650                    % 03323 RGTR--
+*A VE 150107001 140701016 000006  01606  01650              % 03323 RGTR--
+*I FD 150107001 140701016        0003016  01606  01650      % 03323 RGTR--
+150107001 Oberpallen, Bréck            01606                % 03323 RGTR--
+150301001 Colpach-Bas, Schlass  01610  01610                % 03323 RGTR--
+150303002 Ell, Beim Musikssaul  01613  01613                % 03323 RGTR--
+150303003 Ell, Beim Schreider   01614  01614                % 03323 RGTR--
+150606003 Redange, Gare         01616  01616                % 03323 RGTR--
+150606001 Redange/Attert, Bian  01617  01617                % 03323 RGTR--
+150606009 Redange, Schock       01618  01618                % 03323 RGTR--
+150606002 Redange, Centre Médi  01619  01619                % 03323 RGTR--
+150607001 Reichlange, Hostelle  01622  01622                % 03323 RGTR--
+150202002 Platen                01624  01624                % 03323 RGTR--
+150202001 Platen, Kinnebësch    01624  01624                % 03323 RGTR--
+150206001 Bettborn, Gemenge Pl  01625  01625                % 03323 RGTR--
+150203001 Proz, Altersheem      01626  01626                % 03323 RGTR--
+150203005 Proz, Haaptstrooss    01626  01626                % 03323 RGTR--
+150203002 Proz, Bousserpad      01627  01627                % 03323 RGTR--
+150402002 Grosbous, Kiirchepla  01630  01630                % 03323 RGTR--
+150402004 Grosbous, Op der Baa  01631  01631                % 03323 RGTR--
+150402005 Grosbous, Police      01631  01631                % 03323 RGTR--
+141101006 Mertzig, Wéchen       01634  01634                % 03323 RGTR--
+141101003 Mertzig, Eglise       01634  01634                % 03323 RGTR--
+141101005 Mertzig, Gemeng       01635  01635                % 03323 RGTR--
+141101004 Mertzig, Internat     01635  01635                % 03323 RGTR--
+140802002 Oberfeulen, route d'  01637  01637                % 03323 RGTR--
+140802001 Oberfeulen, Pl.de la  01638  01638                % 03323 RGTR--
+140802003 Oberfeulen, Op Hoper  01639  01639                % 03323 RGTR--
+140801004 Niederfeulen, route   01640  01640                % 03323 RGTR--
+140801002 Niederfeulen, Faubou  01642  01642                % 03323 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01646  01646                % 03323 RGTR--
+140701015 Ettelbruck, Ecole Pr  01648  01648                % 03323 RGTR--
+140701016 Ettelbruck, Gare      01650                       % 03323 RGTR--
+*Z 03324 RGTR--                                             % 03324 RGTR--
+*L 520      150107001 140701016  01708  01752               % 03324 RGTR--
+*A fa 150107001 140701016 000006  01708  01752              % 03324 RGTR--
+*A JR 150107001 140701016 000006  01708  01752              % 03324 RGTR--
+*A JO 150107001 140701016 000006  01708  01752              % 03324 RGTR--
+*A ea 150107001 140701016 000006  01708  01752              % 03324 RGTR--
+*R 2 140701016 150107001 140701016  01708  01752            % 03324 RGTR--
+*G RGB 150107001 140701016  01708  01752                    % 03324 RGTR--
+*A VE 150107001 140701016 000006  01708  01752              % 03324 RGTR--
+*I FD 150107001 140701016        0003086  01708  01752      % 03324 RGTR--
+150107001 Oberpallen, Bréck            01708                % 03324 RGTR--
+150301001 Colpach-Bas, Schlass  01712  01712                % 03324 RGTR--
+150303002 Ell, Beim Musikssaul  01715  01715                % 03324 RGTR--
+150303003 Ell, Beim Schreider   01716  01716                % 03324 RGTR--
+150606003 Redange, Gare         01718  01718                % 03324 RGTR--
+150606001 Redange/Attert, Bian  01719  01719                % 03324 RGTR--
+150606009 Redange, Schock       01720  01720                % 03324 RGTR--
+150606002 Redange, Centre Médi  01721  01721                % 03324 RGTR--
+150607001 Reichlange, Hostelle  01724  01724                % 03324 RGTR--
+150202002 Platen                01726  01726                % 03324 RGTR--
+150202001 Platen, Kinnebësch    01726  01726                % 03324 RGTR--
+150206001 Bettborn, Gemenge Pl  01727  01727                % 03324 RGTR--
+150203001 Proz, Altersheem      01728  01728                % 03324 RGTR--
+150203005 Proz, Haaptstrooss    01728  01728                % 03324 RGTR--
+150203002 Proz, Bousserpad      01729  01729                % 03324 RGTR--
+150402002 Grosbous, Kiirchepla  01732  01732                % 03324 RGTR--
+150402004 Grosbous, Op der Baa  01733  01733                % 03324 RGTR--
+150402005 Grosbous, Police      01733  01733                % 03324 RGTR--
+141101006 Mertzig, Wéchen       01736  01736                % 03324 RGTR--
+141101003 Mertzig, Eglise       01736  01736                % 03324 RGTR--
+141101005 Mertzig, Gemeng       01737  01737                % 03324 RGTR--
+141101004 Mertzig, Internat     01737  01737                % 03324 RGTR--
+140802002 Oberfeulen, route d'  01739  01739                % 03324 RGTR--
+140802001 Oberfeulen, Pl.de la  01740  01740                % 03324 RGTR--
+140802003 Oberfeulen, Op Hoper  01741  01741                % 03324 RGTR--
+140801004 Niederfeulen, route   01742  01742                % 03324 RGTR--
+140801002 Niederfeulen, Faubou  01744  01744                % 03324 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01748  01748                % 03324 RGTR--
+140701015 Ettelbruck, Ecole Pr  01750  01750                % 03324 RGTR--
+140701016 Ettelbruck, Gare      01752                       % 03324 RGTR--
+*Z 03325 RGTR--                                             % 03325 RGTR--
+*L 520      150107001 140701016  01806  01850               % 03325 RGTR--
+*A fa 150107001 140701016 000006  01806  01850              % 03325 RGTR--
+*A JO 150107001 140701016 000006  01806  01850              % 03325 RGTR--
+*A ea 150107001 140701016 000006  01806  01850              % 03325 RGTR--
+*R 2 140701016 150107001 140701016  01806  01850            % 03325 RGTR--
+*G RGB 150107001 140701016  01806  01850                    % 03325 RGTR--
+*A VE 150107001 140701016 000006  01806  01850              % 03325 RGTR--
+*I FD 150107001 140701016        0003018  01806  01850      % 03325 RGTR--
+150107001 Oberpallen, Bréck            01806                % 03325 RGTR--
+150301001 Colpach-Bas, Schlass  01810  01810                % 03325 RGTR--
+150303002 Ell, Beim Musikssaul  01813  01813                % 03325 RGTR--
+150303003 Ell, Beim Schreider   01814  01814                % 03325 RGTR--
+150606003 Redange, Gare         01816  01816                % 03325 RGTR--
+150606001 Redange/Attert, Bian  01817  01817                % 03325 RGTR--
+150606009 Redange, Schock       01818  01818                % 03325 RGTR--
+150606002 Redange, Centre Médi  01819  01819                % 03325 RGTR--
+150607001 Reichlange, Hostelle  01822  01822                % 03325 RGTR--
+150202002 Platen                01824  01824                % 03325 RGTR--
+150202001 Platen, Kinnebësch    01824  01824                % 03325 RGTR--
+150206001 Bettborn, Gemenge Pl  01825  01825                % 03325 RGTR--
+150203001 Proz, Altersheem      01826  01826                % 03325 RGTR--
+150203005 Proz, Haaptstrooss    01826  01826                % 03325 RGTR--
+150203002 Proz, Bousserpad      01827  01827                % 03325 RGTR--
+150402002 Grosbous, Kiirchepla  01830  01830                % 03325 RGTR--
+150402004 Grosbous, Op der Baa  01831  01831                % 03325 RGTR--
+150402005 Grosbous, Police      01831  01831                % 03325 RGTR--
+141101006 Mertzig, Wéchen       01834  01834                % 03325 RGTR--
+141101003 Mertzig, Eglise       01834  01834                % 03325 RGTR--
+141101005 Mertzig, Gemeng       01835  01835                % 03325 RGTR--
+141101004 Mertzig, Internat     01835  01835                % 03325 RGTR--
+140802002 Oberfeulen, route d'  01837  01837                % 03325 RGTR--
+140802001 Oberfeulen, Pl.de la  01838  01838                % 03325 RGTR--
+140802003 Oberfeulen, Op Hoper  01839  01839                % 03325 RGTR--
+140801004 Niederfeulen, route   01840  01840                % 03325 RGTR--
+140801002 Niederfeulen, Faubou  01842  01842                % 03325 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01846  01846                % 03325 RGTR--
+140701015 Ettelbruck, Ecole Pr  01848  01848                % 03325 RGTR--
+140701016 Ettelbruck, Gare      01850                       % 03325 RGTR--
+*Z 03326 RGTR--                                             % 03326 RGTR--
+*L 520      150107001 140701016  00706  00750               % 03326 RGTR--
+*A ey 150107001 140701016 000041  00706  00750              % 03326 RGTR--
+*A ea 150107001 140701016 000041  00706  00750              % 03326 RGTR--
+*R 2 140701016 150107001 140701016  00706  00750            % 03326 RGTR--
+*G RGB 150107001 140701016  00706  00750                    % 03326 RGTR--
+*A VE 150107001 140701016 000041  00706  00750              % 03326 RGTR--
+*I FD 150107001 140701016        0003087  00706  00750      % 03326 RGTR--
+150107001 Oberpallen, Bréck            00706                % 03326 RGTR--
+150301001 Colpach-Bas, Schlass  00710  00710                % 03326 RGTR--
+150303002 Ell, Beim Musikssaul  00713  00713                % 03326 RGTR--
+150303003 Ell, Beim Schreider   00714  00714                % 03326 RGTR--
+150606003 Redange, Gare         00716  00716                % 03326 RGTR--
+150606001 Redange/Attert, Bian  00717  00717                % 03326 RGTR--
+150606009 Redange, Schock       00718  00718                % 03326 RGTR--
+150606002 Redange, Centre Médi  00719  00719                % 03326 RGTR--
+150607001 Reichlange, Hostelle  00722  00722                % 03326 RGTR--
+150202002 Platen                00724  00724                % 03326 RGTR--
+150202001 Platen, Kinnebësch    00724  00724                % 03326 RGTR--
+150206001 Bettborn, Gemenge Pl  00725  00725                % 03326 RGTR--
+150203001 Proz, Altersheem      00726  00726                % 03326 RGTR--
+150203005 Proz, Haaptstrooss    00726  00726                % 03326 RGTR--
+150203002 Proz, Bousserpad      00727  00727                % 03326 RGTR--
+150402002 Grosbous, Kiirchepla  00730  00730                % 03326 RGTR--
+150402004 Grosbous, Op der Baa  00731  00731                % 03326 RGTR--
+150402005 Grosbous, Police      00731  00731                % 03326 RGTR--
+141101006 Mertzig, Wéchen       00734  00734                % 03326 RGTR--
+141101003 Mertzig, Eglise       00734  00734                % 03326 RGTR--
+141101005 Mertzig, Gemeng       00735  00735                % 03326 RGTR--
+141101004 Mertzig, Internat     00735  00735                % 03326 RGTR--
+140802002 Oberfeulen, route d'  00737  00737                % 03326 RGTR--
+140802001 Oberfeulen, Pl.de la  00738  00738                % 03326 RGTR--
+140802003 Oberfeulen, Op Hoper  00739  00739                % 03326 RGTR--
+140801004 Niederfeulen, route   00740  00740                % 03326 RGTR--
+140801002 Niederfeulen, Faubou  00742  00742                % 03326 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00746  00746                % 03326 RGTR--
+140701015 Ettelbruck, Ecole Pr  00748  00748                % 03326 RGTR--
+140701016 Ettelbruck, Gare      00750                       % 03326 RGTR--
+*Z 03327 RGTR--                                             % 03327 RGTR--
+*L 520      150107001 140701016  00706  00750               % 03327 RGTR--
+*A ey 150107001 140701016 000174  00706  00750              % 03327 RGTR--
+*A ea 150107001 140701016 000174  00706  00750              % 03327 RGTR--
+*R 2 140701016 150107001 140701016  00706  00750            % 03327 RGTR--
+*G RGB 150107001 140701016  00706  00750                    % 03327 RGTR--
+*A VE 150107001 140701016 000174  00706  00750              % 03327 RGTR--
+*I FD 150107001 140701016        0003088  00706  00750      % 03327 RGTR--
+150107001 Oberpallen, Bréck            00706                % 03327 RGTR--
+150301001 Colpach-Bas, Schlass  00710  00710                % 03327 RGTR--
+150303002 Ell, Beim Musikssaul  00713  00713                % 03327 RGTR--
+150303003 Ell, Beim Schreider   00714  00714                % 03327 RGTR--
+150606003 Redange, Gare         00716  00716                % 03327 RGTR--
+150606001 Redange/Attert, Bian  00717  00717                % 03327 RGTR--
+150606009 Redange, Schock       00718  00718                % 03327 RGTR--
+150606002 Redange, Centre Médi  00719  00719                % 03327 RGTR--
+150607001 Reichlange, Hostelle  00722  00722                % 03327 RGTR--
+150202002 Platen                00724  00724                % 03327 RGTR--
+150202001 Platen, Kinnebësch    00724  00724                % 03327 RGTR--
+150206001 Bettborn, Gemenge Pl  00725  00725                % 03327 RGTR--
+150203001 Proz, Altersheem      00726  00726                % 03327 RGTR--
+150203005 Proz, Haaptstrooss    00726  00726                % 03327 RGTR--
+150203002 Proz, Bousserpad      00727  00727                % 03327 RGTR--
+150402002 Grosbous, Kiirchepla  00730  00730                % 03327 RGTR--
+150402004 Grosbous, Op der Baa  00731  00731                % 03327 RGTR--
+150402005 Grosbous, Police      00731  00731                % 03327 RGTR--
+141101006 Mertzig, Wéchen       00734  00734                % 03327 RGTR--
+141101003 Mertzig, Eglise       00734  00734                % 03327 RGTR--
+141101005 Mertzig, Gemeng       00735  00735                % 03327 RGTR--
+141101004 Mertzig, Internat     00735  00735                % 03327 RGTR--
+140802002 Oberfeulen, route d'  00737  00737                % 03327 RGTR--
+140802001 Oberfeulen, Pl.de la  00738  00738                % 03327 RGTR--
+140802003 Oberfeulen, Op Hoper  00739  00739                % 03327 RGTR--
+140801004 Niederfeulen, route   00740  00740                % 03327 RGTR--
+140801002 Niederfeulen, Faubou  00742  00742                % 03327 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00746  00746                % 03327 RGTR--
+140701015 Ettelbruck, Ecole Pr  00748  00748                % 03327 RGTR--
+140701016 Ettelbruck, Gare      00750                       % 03327 RGTR--
+*Z 03328 RGTR--                                             % 03328 RGTR--
+*L 520      150107001 140701016  00706  00750               % 03328 RGTR--
+*A ey 150107001 140701016 000037  00706  00750              % 03328 RGTR--
+*A ea 150107001 140701016 000037  00706  00750              % 03328 RGTR--
+*R 2 140701016 150107001 140701016  00706  00750            % 03328 RGTR--
+*G RGB 150107001 140701016  00706  00750                    % 03328 RGTR--
+*A VE 150107001 140701016 000037  00706  00750              % 03328 RGTR--
+*I FD 150107001 140701016        0003089  00706  00750      % 03328 RGTR--
+150107001 Oberpallen, Bréck            00706                % 03328 RGTR--
+150301001 Colpach-Bas, Schlass  00710  00710                % 03328 RGTR--
+150303002 Ell, Beim Musikssaul  00713  00713                % 03328 RGTR--
+150303003 Ell, Beim Schreider   00714  00714                % 03328 RGTR--
+150606003 Redange, Gare         00716  00716                % 03328 RGTR--
+150606001 Redange/Attert, Bian  00717  00717                % 03328 RGTR--
+150606009 Redange, Schock       00718  00718                % 03328 RGTR--
+150606002 Redange, Centre Médi  00719  00719                % 03328 RGTR--
+150607001 Reichlange, Hostelle  00722  00722                % 03328 RGTR--
+150202002 Platen                00724  00724                % 03328 RGTR--
+150202001 Platen, Kinnebësch    00724  00724                % 03328 RGTR--
+150206001 Bettborn, Gemenge Pl  00725  00725                % 03328 RGTR--
+150203001 Proz, Altersheem      00726  00726                % 03328 RGTR--
+150203005 Proz, Haaptstrooss    00726  00726                % 03328 RGTR--
+150203002 Proz, Bousserpad      00727  00727                % 03328 RGTR--
+150402002 Grosbous, Kiirchepla  00730  00730                % 03328 RGTR--
+150402004 Grosbous, Op der Baa  00731  00731                % 03328 RGTR--
+150402005 Grosbous, Police      00731  00731                % 03328 RGTR--
+141101006 Mertzig, Wéchen       00734  00734                % 03328 RGTR--
+141101003 Mertzig, Eglise       00734  00734                % 03328 RGTR--
+141101005 Mertzig, Gemeng       00735  00735                % 03328 RGTR--
+141101004 Mertzig, Internat     00735  00735                % 03328 RGTR--
+140802002 Oberfeulen, route d'  00737  00737                % 03328 RGTR--
+140802001 Oberfeulen, Pl.de la  00738  00738                % 03328 RGTR--
+140802003 Oberfeulen, Op Hoper  00739  00739                % 03328 RGTR--
+140801004 Niederfeulen, route   00740  00740                % 03328 RGTR--
+140801002 Niederfeulen, Faubou  00742  00742                % 03328 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00746  00746                % 03328 RGTR--
+140701015 Ettelbruck, Ecole Pr  00748  00748                % 03328 RGTR--
+140701016 Ettelbruck, Gare      00750                       % 03328 RGTR--
+*Z 03329 RGTR--                                             % 03329 RGTR--
+*L 520      150107001 140701016  01106  01147               % 03329 RGTR--
+*A ey 150107001 140701016 000006  01106  01147              % 03329 RGTR--
+*A ea 150107001 140701016 000006  01106  01147              % 03329 RGTR--
+*R 2 140701016 150107001 140701016  01106  01147            % 03329 RGTR--
+*G RGB 150107001 140701016  01106  01147                    % 03329 RGTR--
+*A VE 150107001 140701016 000006  01106  01147              % 03329 RGTR--
+*I FD 150107001 140701016        0002257  01106  01147      % 03329 RGTR--
+150107001 Oberpallen, Bréck            01106                % 03329 RGTR--
+150301001 Colpach-Bas, Schlass  01110  01110                % 03329 RGTR--
+150303002 Ell, Beim Musikssaul  01112  01112                % 03329 RGTR--
+150303003 Ell, Beim Schreider   01113  01113                % 03329 RGTR--
+150606003 Redange, Gare         01115  01115                % 03329 RGTR--
+150606001 Redange/Attert, Bian  01116  01116                % 03329 RGTR--
+150606009 Redange, Schock       01117  01117                % 03329 RGTR--
+150606002 Redange, Centre Médi  01118  01118                % 03329 RGTR--
+150607001 Reichlange, Hostelle  01121  01121                % 03329 RGTR--
+150202002 Platen                01123  01123                % 03329 RGTR--
+150202001 Platen, Kinnebësch    01123  01123                % 03329 RGTR--
+150206001 Bettborn, Gemenge Pl  01124  01124                % 03329 RGTR--
+150203001 Proz, Altersheem      01125  01125                % 03329 RGTR--
+150203005 Proz, Haaptstrooss    01125  01125                % 03329 RGTR--
+150203002 Proz, Bousserpad      01126  01126                % 03329 RGTR--
+150402002 Grosbous, Kiirchepla  01129  01129                % 03329 RGTR--
+150402004 Grosbous, Op der Baa  01129  01129                % 03329 RGTR--
+150402005 Grosbous, Police      01130  01130                % 03329 RGTR--
+141101006 Mertzig, Wéchen       01132  01132                % 03329 RGTR--
+141101003 Mertzig, Eglise       01133  01133                % 03329 RGTR--
+141101005 Mertzig, Gemeng       01133  01133                % 03329 RGTR--
+141101004 Mertzig, Internat     01134  01134                % 03329 RGTR--
+140802002 Oberfeulen, route d'  01136  01136                % 03329 RGTR--
+140802001 Oberfeulen, Pl.de la  01136  01136                % 03329 RGTR--
+140802003 Oberfeulen, Op Hoper  01137  01137                % 03329 RGTR--
+140801004 Niederfeulen, route   01138  01138                % 03329 RGTR--
+140801002 Niederfeulen, Faubou  01140  01140                % 03329 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01143  01143                % 03329 RGTR--
+140701015 Ettelbruck, Ecole Pr  01145  01145                % 03329 RGTR--
+140701016 Ettelbruck, Gare      01147                       % 03329 RGTR--
+*Z 03330 RGTR--                                             % 03330 RGTR--
+*L 520      150107001 140701016  01206  01247               % 03330 RGTR--
+*A fa 150107001 140701016 000006  01206  01247              % 03330 RGTR--
+*A ea 150107001 140701016 000006  01206  01247              % 03330 RGTR--
+*R 2 140701016 150107001 140701016  01206  01247            % 03330 RGTR--
+*G RGB 150107001 140701016  01206  01247                    % 03330 RGTR--
+*A VE 150107001 140701016 000006  01206  01247              % 03330 RGTR--
+*I FD 150107001 140701016        0002258  01206  01247      % 03330 RGTR--
+150107001 Oberpallen, Bréck            01206                % 03330 RGTR--
+150301001 Colpach-Bas, Schlass  01210  01210                % 03330 RGTR--
+150303002 Ell, Beim Musikssaul  01212  01212                % 03330 RGTR--
+150303003 Ell, Beim Schreider   01213  01213                % 03330 RGTR--
+150606003 Redange, Gare         01215  01215                % 03330 RGTR--
+150606001 Redange/Attert, Bian  01216  01216                % 03330 RGTR--
+150606009 Redange, Schock       01217  01217                % 03330 RGTR--
+150606002 Redange, Centre Médi  01218  01218                % 03330 RGTR--
+150607001 Reichlange, Hostelle  01221  01221                % 03330 RGTR--
+150202002 Platen                01223  01223                % 03330 RGTR--
+150202001 Platen, Kinnebësch    01223  01223                % 03330 RGTR--
+150206001 Bettborn, Gemenge Pl  01224  01224                % 03330 RGTR--
+150203001 Proz, Altersheem      01225  01225                % 03330 RGTR--
+150203005 Proz, Haaptstrooss    01225  01225                % 03330 RGTR--
+150203002 Proz, Bousserpad      01226  01226                % 03330 RGTR--
+150402002 Grosbous, Kiirchepla  01229  01229                % 03330 RGTR--
+150402004 Grosbous, Op der Baa  01229  01229                % 03330 RGTR--
+150402005 Grosbous, Police      01230  01230                % 03330 RGTR--
+141101006 Mertzig, Wéchen       01232  01232                % 03330 RGTR--
+141101003 Mertzig, Eglise       01233  01233                % 03330 RGTR--
+141101005 Mertzig, Gemeng       01233  01233                % 03330 RGTR--
+141101004 Mertzig, Internat     01234  01234                % 03330 RGTR--
+140802002 Oberfeulen, route d'  01236  01236                % 03330 RGTR--
+140802001 Oberfeulen, Pl.de la  01236  01236                % 03330 RGTR--
+140802003 Oberfeulen, Op Hoper  01237  01237                % 03330 RGTR--
+140801004 Niederfeulen, route   01238  01238                % 03330 RGTR--
+140801002 Niederfeulen, Faubou  01240  01240                % 03330 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01243  01243                % 03330 RGTR--
+140701015 Ettelbruck, Ecole Pr  01245  01245                % 03330 RGTR--
+140701016 Ettelbruck, Gare      01247                       % 03330 RGTR--
+*Z 03331 RGTR--                                             % 03331 RGTR--
+*L 520      150107001 140701016  01306  01347               % 03331 RGTR--
+*A fa 150107001 140701016 000006  01306  01347              % 03331 RGTR--
+*A JR 150107001 140701016 000006  01306  01347              % 03331 RGTR--
+*A ea 150107001 140701016 000006  01306  01347              % 03331 RGTR--
+*R 2 140701016 150107001 140701016  01306  01347            % 03331 RGTR--
+*G RGB 150107001 140701016  01306  01347                    % 03331 RGTR--
+*A VE 150107001 140701016 000006  01306  01347              % 03331 RGTR--
+*I FD 150107001 140701016        0002261  01306  01347      % 03331 RGTR--
+150107001 Oberpallen, Bréck            01306                % 03331 RGTR--
+150301001 Colpach-Bas, Schlass  01310  01310                % 03331 RGTR--
+150303002 Ell, Beim Musikssaul  01312  01312                % 03331 RGTR--
+150303003 Ell, Beim Schreider   01313  01313                % 03331 RGTR--
+150606003 Redange, Gare         01315  01315                % 03331 RGTR--
+150606001 Redange/Attert, Bian  01316  01316                % 03331 RGTR--
+150606009 Redange, Schock       01317  01317                % 03331 RGTR--
+150606002 Redange, Centre Médi  01318  01318                % 03331 RGTR--
+150607001 Reichlange, Hostelle  01321  01321                % 03331 RGTR--
+150202002 Platen                01323  01323                % 03331 RGTR--
+150202001 Platen, Kinnebësch    01323  01323                % 03331 RGTR--
+150206001 Bettborn, Gemenge Pl  01324  01324                % 03331 RGTR--
+150203001 Proz, Altersheem      01325  01325                % 03331 RGTR--
+150203005 Proz, Haaptstrooss    01325  01325                % 03331 RGTR--
+150203002 Proz, Bousserpad      01326  01326                % 03331 RGTR--
+150402002 Grosbous, Kiirchepla  01329  01329                % 03331 RGTR--
+150402004 Grosbous, Op der Baa  01329  01329                % 03331 RGTR--
+150402005 Grosbous, Police      01330  01330                % 03331 RGTR--
+141101006 Mertzig, Wéchen       01332  01332                % 03331 RGTR--
+141101003 Mertzig, Eglise       01333  01333                % 03331 RGTR--
+141101005 Mertzig, Gemeng       01333  01333                % 03331 RGTR--
+141101004 Mertzig, Internat     01334  01334                % 03331 RGTR--
+140802002 Oberfeulen, route d'  01336  01336                % 03331 RGTR--
+140802001 Oberfeulen, Pl.de la  01336  01336                % 03331 RGTR--
+140802003 Oberfeulen, Op Hoper  01337  01337                % 03331 RGTR--
+140801004 Niederfeulen, route   01338  01338                % 03331 RGTR--
+140801002 Niederfeulen, Faubou  01340  01340                % 03331 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01343  01343                % 03331 RGTR--
+140701015 Ettelbruck, Ecole Pr  01345  01345                % 03331 RGTR--
+140701016 Ettelbruck, Gare      01347                       % 03331 RGTR--
+*Z 03332 RGTR--                                             % 03332 RGTR--
+*L 520      150107001 140701016  01406  01447               % 03332 RGTR--
+*A fa 150107001 140701016 000006  01406  01447              % 03332 RGTR--
+*A JR 150107001 140701016 000006  01406  01447              % 03332 RGTR--
+*A ea 150107001 140701016 000006  01406  01447              % 03332 RGTR--
+*R 2 140701016 150107001 140701016  01406  01447            % 03332 RGTR--
+*G RGB 150107001 140701016  01406  01447                    % 03332 RGTR--
+*A VE 150107001 140701016 000006  01406  01447              % 03332 RGTR--
+*I FD 150107001 140701016        0002259  01406  01447      % 03332 RGTR--
+150107001 Oberpallen, Bréck            01406                % 03332 RGTR--
+150301001 Colpach-Bas, Schlass  01410  01410                % 03332 RGTR--
+150303002 Ell, Beim Musikssaul  01412  01412                % 03332 RGTR--
+150303003 Ell, Beim Schreider   01413  01413                % 03332 RGTR--
+150606003 Redange, Gare         01415  01415                % 03332 RGTR--
+150606001 Redange/Attert, Bian  01416  01416                % 03332 RGTR--
+150606009 Redange, Schock       01417  01417                % 03332 RGTR--
+150606002 Redange, Centre Médi  01418  01418                % 03332 RGTR--
+150607001 Reichlange, Hostelle  01421  01421                % 03332 RGTR--
+150202002 Platen                01423  01423                % 03332 RGTR--
+150202001 Platen, Kinnebësch    01423  01423                % 03332 RGTR--
+150206001 Bettborn, Gemenge Pl  01424  01424                % 03332 RGTR--
+150203001 Proz, Altersheem      01425  01425                % 03332 RGTR--
+150203005 Proz, Haaptstrooss    01425  01425                % 03332 RGTR--
+150203002 Proz, Bousserpad      01426  01426                % 03332 RGTR--
+150402002 Grosbous, Kiirchepla  01429  01429                % 03332 RGTR--
+150402004 Grosbous, Op der Baa  01429  01429                % 03332 RGTR--
+150402005 Grosbous, Police      01430  01430                % 03332 RGTR--
+141101006 Mertzig, Wéchen       01432  01432                % 03332 RGTR--
+141101003 Mertzig, Eglise       01433  01433                % 03332 RGTR--
+141101005 Mertzig, Gemeng       01433  01433                % 03332 RGTR--
+141101004 Mertzig, Internat     01434  01434                % 03332 RGTR--
+140802002 Oberfeulen, route d'  01436  01436                % 03332 RGTR--
+140802001 Oberfeulen, Pl.de la  01436  01436                % 03332 RGTR--
+140802003 Oberfeulen, Op Hoper  01437  01437                % 03332 RGTR--
+140801004 Niederfeulen, route   01438  01438                % 03332 RGTR--
+140801002 Niederfeulen, Faubou  01440  01440                % 03332 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01443  01443                % 03332 RGTR--
+140701015 Ettelbruck, Ecole Pr  01445  01445                % 03332 RGTR--
+140701016 Ettelbruck, Gare      01447                       % 03332 RGTR--
+*Z 03333 RGTR--                                             % 03333 RGTR--
+*L 520      150107001 140701016  01506  01547               % 03333 RGTR--
+*A fa 150107001 140701016 000006  01506  01547              % 03333 RGTR--
+*A JR 150107001 140701016 000006  01506  01547              % 03333 RGTR--
+*A ea 150107001 140701016 000006  01506  01547              % 03333 RGTR--
+*R 2 140701016 150107001 140701016  01506  01547            % 03333 RGTR--
+*G RGB 150107001 140701016  01506  01547                    % 03333 RGTR--
+*A VE 150107001 140701016 000006  01506  01547              % 03333 RGTR--
+*I FD 150107001 140701016        0002260  01506  01547      % 03333 RGTR--
+150107001 Oberpallen, Bréck            01506                % 03333 RGTR--
+150301001 Colpach-Bas, Schlass  01510  01510                % 03333 RGTR--
+150303002 Ell, Beim Musikssaul  01512  01512                % 03333 RGTR--
+150303003 Ell, Beim Schreider   01513  01513                % 03333 RGTR--
+150606003 Redange, Gare         01515  01515                % 03333 RGTR--
+150606001 Redange/Attert, Bian  01516  01516                % 03333 RGTR--
+150606009 Redange, Schock       01517  01517                % 03333 RGTR--
+150606002 Redange, Centre Médi  01518  01518                % 03333 RGTR--
+150607001 Reichlange, Hostelle  01521  01521                % 03333 RGTR--
+150202002 Platen                01523  01523                % 03333 RGTR--
+150202001 Platen, Kinnebësch    01523  01523                % 03333 RGTR--
+150206001 Bettborn, Gemenge Pl  01524  01524                % 03333 RGTR--
+150203001 Proz, Altersheem      01525  01525                % 03333 RGTR--
+150203005 Proz, Haaptstrooss    01525  01525                % 03333 RGTR--
+150203002 Proz, Bousserpad      01526  01526                % 03333 RGTR--
+150402002 Grosbous, Kiirchepla  01529  01529                % 03333 RGTR--
+150402004 Grosbous, Op der Baa  01529  01529                % 03333 RGTR--
+150402005 Grosbous, Police      01530  01530                % 03333 RGTR--
+141101006 Mertzig, Wéchen       01532  01532                % 03333 RGTR--
+141101003 Mertzig, Eglise       01533  01533                % 03333 RGTR--
+141101005 Mertzig, Gemeng       01533  01533                % 03333 RGTR--
+141101004 Mertzig, Internat     01534  01534                % 03333 RGTR--
+140802002 Oberfeulen, route d'  01536  01536                % 03333 RGTR--
+140802001 Oberfeulen, Pl.de la  01536  01536                % 03333 RGTR--
+140802003 Oberfeulen, Op Hoper  01537  01537                % 03333 RGTR--
+140801004 Niederfeulen, route   01538  01538                % 03333 RGTR--
+140801002 Niederfeulen, Faubou  01540  01540                % 03333 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01543  01543                % 03333 RGTR--
+140701015 Ettelbruck, Ecole Pr  01545  01545                % 03333 RGTR--
+140701016 Ettelbruck, Gare      01547                       % 03333 RGTR--
+*Z 03334 RGTR--                                             % 03334 RGTR--
+*L 520      150107001 140701016  01906  01947               % 03334 RGTR--
+*A ey 150107001 140701016 000006  01906  01947              % 03334 RGTR--
+*A ea 150107001 140701016 000006  01906  01947              % 03334 RGTR--
+*R 2 140701016 150107001 140701016  01906  01947            % 03334 RGTR--
+*G RGB 150107001 140701016  01906  01947                    % 03334 RGTR--
+*A VE 150107001 140701016 000006  01906  01947              % 03334 RGTR--
+*I FD 150107001 140701016        0003090  01906  01947      % 03334 RGTR--
+150107001 Oberpallen, Bréck            01906                % 03334 RGTR--
+150301001 Colpach-Bas, Schlass  01910  01910                % 03334 RGTR--
+150303002 Ell, Beim Musikssaul  01912  01912                % 03334 RGTR--
+150303003 Ell, Beim Schreider   01913  01913                % 03334 RGTR--
+150606003 Redange, Gare         01915  01915                % 03334 RGTR--
+150606001 Redange/Attert, Bian  01916  01916                % 03334 RGTR--
+150606009 Redange, Schock       01917  01917                % 03334 RGTR--
+150606002 Redange, Centre Médi  01918  01918                % 03334 RGTR--
+150607001 Reichlange, Hostelle  01921  01921                % 03334 RGTR--
+150202002 Platen                01923  01923                % 03334 RGTR--
+150202001 Platen, Kinnebësch    01923  01923                % 03334 RGTR--
+150206001 Bettborn, Gemenge Pl  01924  01924                % 03334 RGTR--
+150203001 Proz, Altersheem      01925  01925                % 03334 RGTR--
+150203005 Proz, Haaptstrooss    01925  01925                % 03334 RGTR--
+150203002 Proz, Bousserpad      01926  01926                % 03334 RGTR--
+150402002 Grosbous, Kiirchepla  01929  01929                % 03334 RGTR--
+150402004 Grosbous, Op der Baa  01929  01929                % 03334 RGTR--
+150402005 Grosbous, Police      01930  01930                % 03334 RGTR--
+141101006 Mertzig, Wéchen       01932  01932                % 03334 RGTR--
+141101003 Mertzig, Eglise       01933  01933                % 03334 RGTR--
+141101005 Mertzig, Gemeng       01933  01933                % 03334 RGTR--
+141101004 Mertzig, Internat     01934  01934                % 03334 RGTR--
+140802002 Oberfeulen, route d'  01936  01936                % 03334 RGTR--
+140802001 Oberfeulen, Pl.de la  01936  01936                % 03334 RGTR--
+140802003 Oberfeulen, Op Hoper  01937  01937                % 03334 RGTR--
+140801004 Niederfeulen, route   01938  01938                % 03334 RGTR--
+140801002 Niederfeulen, Faubou  01940  01940                % 03334 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01943  01943                % 03334 RGTR--
+140701015 Ettelbruck, Ecole Pr  01945  01945                % 03334 RGTR--
+140701016 Ettelbruck, Gare      01947                       % 03334 RGTR--
+*Z 03335 RGTR--                                             % 03335 RGTR--
+*L 520      150107001 140701016  02006  02047               % 03335 RGTR--
+*A fa 150107001 140701016 000006  02006  02047              % 03335 RGTR--
+*A ea 150107001 140701016 000006  02006  02047              % 03335 RGTR--
+*R 2 140701016 150107001 140701016  02006  02047            % 03335 RGTR--
+*G RGB 150107001 140701016  02006  02047                    % 03335 RGTR--
+*A VE 150107001 140701016 000006  02006  02047              % 03335 RGTR--
+*I FD 150107001 140701016        0003091  02006  02047      % 03335 RGTR--
+150107001 Oberpallen, Bréck            02006                % 03335 RGTR--
+150301001 Colpach-Bas, Schlass  02010  02010                % 03335 RGTR--
+150303002 Ell, Beim Musikssaul  02012  02012                % 03335 RGTR--
+150303003 Ell, Beim Schreider   02013  02013                % 03335 RGTR--
+150606003 Redange, Gare         02015  02015                % 03335 RGTR--
+150606001 Redange/Attert, Bian  02016  02016                % 03335 RGTR--
+150606009 Redange, Schock       02017  02017                % 03335 RGTR--
+150606002 Redange, Centre Médi  02018  02018                % 03335 RGTR--
+150607001 Reichlange, Hostelle  02021  02021                % 03335 RGTR--
+150202002 Platen                02023  02023                % 03335 RGTR--
+150202001 Platen, Kinnebësch    02023  02023                % 03335 RGTR--
+150206001 Bettborn, Gemenge Pl  02024  02024                % 03335 RGTR--
+150203001 Proz, Altersheem      02025  02025                % 03335 RGTR--
+150203005 Proz, Haaptstrooss    02025  02025                % 03335 RGTR--
+150203002 Proz, Bousserpad      02026  02026                % 03335 RGTR--
+150402002 Grosbous, Kiirchepla  02029  02029                % 03335 RGTR--
+150402004 Grosbous, Op der Baa  02029  02029                % 03335 RGTR--
+150402005 Grosbous, Police      02030  02030                % 03335 RGTR--
+141101006 Mertzig, Wéchen       02032  02032                % 03335 RGTR--
+141101003 Mertzig, Eglise       02033  02033                % 03335 RGTR--
+141101005 Mertzig, Gemeng       02033  02033                % 03335 RGTR--
+141101004 Mertzig, Internat     02034  02034                % 03335 RGTR--
+140802002 Oberfeulen, route d'  02036  02036                % 03335 RGTR--
+140802001 Oberfeulen, Pl.de la  02036  02036                % 03335 RGTR--
+140802003 Oberfeulen, Op Hoper  02037  02037                % 03335 RGTR--
+140801004 Niederfeulen, route   02038  02038                % 03335 RGTR--
+140801002 Niederfeulen, Faubou  02040  02040                % 03335 RGTR--
+140701025 Ettelbruck, Pl.du Ma  02043  02043                % 03335 RGTR--
+140701015 Ettelbruck, Ecole Pr  02045  02045                % 03335 RGTR--
+140701016 Ettelbruck, Gare      02047                       % 03335 RGTR--
+*Z 03336 RGTR--                                             % 03336 RGTR--
+*L 520      150107001 140701016  00706  00747               % 03336 RGTR--
+*A ey 150107001 140701016 000156  00706  00747              % 03336 RGTR--
+*A ea 150107001 140701016 000156  00706  00747              % 03336 RGTR--
+*R 2 140701016 150107001 140701016  00706  00747            % 03336 RGTR--
+*G RGB 150107001 140701016  00706  00747                    % 03336 RGTR--
+*A VE 150107001 140701016 000156  00706  00747              % 03336 RGTR--
+*I FD 150107001 140701016        0002276  00706  00747      % 03336 RGTR--
+150107001 Oberpallen, Bréck            00706                % 03336 RGTR--
+150301001 Colpach-Bas, Schlass  00710  00710                % 03336 RGTR--
+150303002 Ell, Beim Musikssaul  00712  00712                % 03336 RGTR--
+150303003 Ell, Beim Schreider   00713  00713                % 03336 RGTR--
+150606003 Redange, Gare         00715  00715                % 03336 RGTR--
+150606001 Redange/Attert, Bian  00716  00716                % 03336 RGTR--
+150606009 Redange, Schock       00717  00717                % 03336 RGTR--
+150606002 Redange, Centre Médi  00718  00718                % 03336 RGTR--
+150607001 Reichlange, Hostelle  00721  00721                % 03336 RGTR--
+150202002 Platen                00723  00723                % 03336 RGTR--
+150202001 Platen, Kinnebësch    00723  00723                % 03336 RGTR--
+150206001 Bettborn, Gemenge Pl  00724  00724                % 03336 RGTR--
+150203001 Proz, Altersheem      00725  00725                % 03336 RGTR--
+150203005 Proz, Haaptstrooss    00725  00725                % 03336 RGTR--
+150203002 Proz, Bousserpad      00726  00726                % 03336 RGTR--
+150402002 Grosbous, Kiirchepla  00729  00729                % 03336 RGTR--
+150402004 Grosbous, Op der Baa  00729  00729                % 03336 RGTR--
+150402005 Grosbous, Police      00730  00730                % 03336 RGTR--
+141101006 Mertzig, Wéchen       00732  00732                % 03336 RGTR--
+141101003 Mertzig, Eglise       00733  00733                % 03336 RGTR--
+141101005 Mertzig, Gemeng       00733  00733                % 03336 RGTR--
+141101004 Mertzig, Internat     00734  00734                % 03336 RGTR--
+140802002 Oberfeulen, route d'  00736  00736                % 03336 RGTR--
+140802001 Oberfeulen, Pl.de la  00736  00736                % 03336 RGTR--
+140802003 Oberfeulen, Op Hoper  00737  00737                % 03336 RGTR--
+140801004 Niederfeulen, route   00738  00738                % 03336 RGTR--
+140801002 Niederfeulen, Faubou  00740  00740                % 03336 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00743  00743                % 03336 RGTR--
+140701015 Ettelbruck, Ecole Pr  00745  00745                % 03336 RGTR--
+140701016 Ettelbruck, Gare      00747                       % 03336 RGTR--
+*Z 03337 RGTR--                                             % 03337 RGTR--
+*L 520      150107001 140701016  00955  01036               % 03337 RGTR--
+*A fa 150107001 140701016 000156  00955  01036              % 03337 RGTR--
+*A ea 150107001 140701016 000156  00955  01036              % 03337 RGTR--
+*R 2 140701016 150107001 140701016  00955  01036            % 03337 RGTR--
+*G RGB 150107001 140701016  00955  01036                    % 03337 RGTR--
+*A VE 150107001 140701016 000156  00955  01036              % 03337 RGTR--
+*I FD 150107001 140701016        0003092  00955  01036      % 03337 RGTR--
+150107001 Oberpallen, Bréck            00955                % 03337 RGTR--
+150301001 Colpach-Bas, Schlass  00959  00959                % 03337 RGTR--
+150303002 Ell, Beim Musikssaul  01001  01001                % 03337 RGTR--
+150303003 Ell, Beim Schreider   01002  01002                % 03337 RGTR--
+150606003 Redange, Gare         01004  01004                % 03337 RGTR--
+150606001 Redange/Attert, Bian  01005  01005                % 03337 RGTR--
+150606009 Redange, Schock       01006  01006                % 03337 RGTR--
+150606002 Redange, Centre Médi  01007  01007                % 03337 RGTR--
+150607001 Reichlange, Hostelle  01010  01010                % 03337 RGTR--
+150202002 Platen                01012  01012                % 03337 RGTR--
+150202001 Platen, Kinnebësch    01012  01012                % 03337 RGTR--
+150206001 Bettborn, Gemenge Pl  01013  01013                % 03337 RGTR--
+150203001 Proz, Altersheem      01014  01014                % 03337 RGTR--
+150203005 Proz, Haaptstrooss    01014  01014                % 03337 RGTR--
+150203002 Proz, Bousserpad      01015  01015                % 03337 RGTR--
+150402002 Grosbous, Kiirchepla  01018  01018                % 03337 RGTR--
+150402004 Grosbous, Op der Baa  01018  01018                % 03337 RGTR--
+150402005 Grosbous, Police      01019  01019                % 03337 RGTR--
+141101006 Mertzig, Wéchen       01021  01021                % 03337 RGTR--
+141101003 Mertzig, Eglise       01022  01022                % 03337 RGTR--
+141101005 Mertzig, Gemeng       01022  01022                % 03337 RGTR--
+141101004 Mertzig, Internat     01023  01023                % 03337 RGTR--
+140802002 Oberfeulen, route d'  01025  01025                % 03337 RGTR--
+140802001 Oberfeulen, Pl.de la  01025  01025                % 03337 RGTR--
+140802003 Oberfeulen, Op Hoper  01026  01026                % 03337 RGTR--
+140801004 Niederfeulen, route   01027  01027                % 03337 RGTR--
+140801002 Niederfeulen, Faubou  01029  01029                % 03337 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01032  01032                % 03337 RGTR--
+140701015 Ettelbruck, Ecole Pr  01034  01034                % 03337 RGTR--
+140701016 Ettelbruck, Gare      01036                       % 03337 RGTR--
+*Z 03338 RGTR--                                             % 03338 RGTR--
+*L 520      150107001 140701016  01355  01436               % 03338 RGTR--
+*A fa 150107001 140701016 000156  01355  01436              % 03338 RGTR--
+*A ea 150107001 140701016 000156  01355  01436              % 03338 RGTR--
+*R 2 140701016 150107001 140701016  01355  01436            % 03338 RGTR--
+*G RGB 150107001 140701016  01355  01436                    % 03338 RGTR--
+*A VE 150107001 140701016 000156  01355  01436              % 03338 RGTR--
+*I FD 150107001 140701016        0001319  01355  01436      % 03338 RGTR--
+150107001 Oberpallen, Bréck            01355                % 03338 RGTR--
+150301001 Colpach-Bas, Schlass  01359  01359                % 03338 RGTR--
+150303002 Ell, Beim Musikssaul  01401  01401                % 03338 RGTR--
+150303003 Ell, Beim Schreider   01402  01402                % 03338 RGTR--
+150606003 Redange, Gare         01404  01404                % 03338 RGTR--
+150606001 Redange/Attert, Bian  01405  01405                % 03338 RGTR--
+150606009 Redange, Schock       01406  01406                % 03338 RGTR--
+150606002 Redange, Centre Médi  01407  01407                % 03338 RGTR--
+150607001 Reichlange, Hostelle  01410  01410                % 03338 RGTR--
+150202002 Platen                01412  01412                % 03338 RGTR--
+150202001 Platen, Kinnebësch    01412  01412                % 03338 RGTR--
+150206001 Bettborn, Gemenge Pl  01413  01413                % 03338 RGTR--
+150203001 Proz, Altersheem      01414  01414                % 03338 RGTR--
+150203005 Proz, Haaptstrooss    01414  01414                % 03338 RGTR--
+150203002 Proz, Bousserpad      01415  01415                % 03338 RGTR--
+150402002 Grosbous, Kiirchepla  01418  01418                % 03338 RGTR--
+150402004 Grosbous, Op der Baa  01418  01418                % 03338 RGTR--
+150402005 Grosbous, Police      01419  01419                % 03338 RGTR--
+141101006 Mertzig, Wéchen       01421  01421                % 03338 RGTR--
+141101003 Mertzig, Eglise       01422  01422                % 03338 RGTR--
+141101005 Mertzig, Gemeng       01422  01422                % 03338 RGTR--
+141101004 Mertzig, Internat     01423  01423                % 03338 RGTR--
+140802002 Oberfeulen, route d'  01425  01425                % 03338 RGTR--
+140802001 Oberfeulen, Pl.de la  01425  01425                % 03338 RGTR--
+140802003 Oberfeulen, Op Hoper  01426  01426                % 03338 RGTR--
+140801004 Niederfeulen, route   01427  01427                % 03338 RGTR--
+140801002 Niederfeulen, Faubou  01429  01429                % 03338 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01432  01432                % 03338 RGTR--
+140701015 Ettelbruck, Ecole Pr  01434  01434                % 03338 RGTR--
+140701016 Ettelbruck, Gare      01436                       % 03338 RGTR--
+*Z 03339 RGTR--                                             % 03339 RGTR--
+*L 520      150107001 140701016  01555  01636               % 03339 RGTR--
+*A fa 150107001 140701016 000156  01555  01636              % 03339 RGTR--
+*A ea 150107001 140701016 000156  01555  01636              % 03339 RGTR--
+*R 2 140701016 150107001 140701016  01555  01636            % 03339 RGTR--
+*G RGB 150107001 140701016  01555  01636                    % 03339 RGTR--
+*A VE 150107001 140701016 000156  01555  01636              % 03339 RGTR--
+*I FD 150107001 140701016        0002579  01555  01636      % 03339 RGTR--
+150107001 Oberpallen, Bréck            01555                % 03339 RGTR--
+150301001 Colpach-Bas, Schlass  01559  01559                % 03339 RGTR--
+150303002 Ell, Beim Musikssaul  01601  01601                % 03339 RGTR--
+150303003 Ell, Beim Schreider   01602  01602                % 03339 RGTR--
+150606003 Redange, Gare         01604  01604                % 03339 RGTR--
+150606001 Redange/Attert, Bian  01605  01605                % 03339 RGTR--
+150606009 Redange, Schock       01606  01606                % 03339 RGTR--
+150606002 Redange, Centre Médi  01607  01607                % 03339 RGTR--
+150607001 Reichlange, Hostelle  01610  01610                % 03339 RGTR--
+150202002 Platen                01612  01612                % 03339 RGTR--
+150202001 Platen, Kinnebësch    01612  01612                % 03339 RGTR--
+150206001 Bettborn, Gemenge Pl  01613  01613                % 03339 RGTR--
+150203001 Proz, Altersheem      01614  01614                % 03339 RGTR--
+150203005 Proz, Haaptstrooss    01614  01614                % 03339 RGTR--
+150203002 Proz, Bousserpad      01615  01615                % 03339 RGTR--
+150402002 Grosbous, Kiirchepla  01618  01618                % 03339 RGTR--
+150402004 Grosbous, Op der Baa  01618  01618                % 03339 RGTR--
+150402005 Grosbous, Police      01619  01619                % 03339 RGTR--
+141101006 Mertzig, Wéchen       01621  01621                % 03339 RGTR--
+141101003 Mertzig, Eglise       01622  01622                % 03339 RGTR--
+141101005 Mertzig, Gemeng       01622  01622                % 03339 RGTR--
+141101004 Mertzig, Internat     01623  01623                % 03339 RGTR--
+140802002 Oberfeulen, route d'  01625  01625                % 03339 RGTR--
+140802001 Oberfeulen, Pl.de la  01625  01625                % 03339 RGTR--
+140802003 Oberfeulen, Op Hoper  01626  01626                % 03339 RGTR--
+140801004 Niederfeulen, route   01627  01627                % 03339 RGTR--
+140801002 Niederfeulen, Faubou  01629  01629                % 03339 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01632  01632                % 03339 RGTR--
+140701015 Ettelbruck, Ecole Pr  01634  01634                % 03339 RGTR--
+140701016 Ettelbruck, Gare      01636                       % 03339 RGTR--
+*Z 03340 RGTR--                                             % 03340 RGTR--
+*L 520      150107001 140701016  01755  01836               % 03340 RGTR--
+*A fa 150107001 140701016 000156  01755  01836              % 03340 RGTR--
+*A ea 150107001 140701016 000156  01755  01836              % 03340 RGTR--
+*R 2 140701016 150107001 140701016  01755  01836            % 03340 RGTR--
+*G RGB 150107001 140701016  01755  01836                    % 03340 RGTR--
+*A VE 150107001 140701016 000156  01755  01836              % 03340 RGTR--
+*I FD 150107001 140701016        0003093  01755  01836      % 03340 RGTR--
+150107001 Oberpallen, Bréck            01755                % 03340 RGTR--
+150301001 Colpach-Bas, Schlass  01759  01759                % 03340 RGTR--
+150303002 Ell, Beim Musikssaul  01801  01801                % 03340 RGTR--
+150303003 Ell, Beim Schreider   01802  01802                % 03340 RGTR--
+150606003 Redange, Gare         01804  01804                % 03340 RGTR--
+150606001 Redange/Attert, Bian  01805  01805                % 03340 RGTR--
+150606009 Redange, Schock       01806  01806                % 03340 RGTR--
+150606002 Redange, Centre Médi  01807  01807                % 03340 RGTR--
+150607001 Reichlange, Hostelle  01810  01810                % 03340 RGTR--
+150202002 Platen                01812  01812                % 03340 RGTR--
+150202001 Platen, Kinnebësch    01812  01812                % 03340 RGTR--
+150206001 Bettborn, Gemenge Pl  01813  01813                % 03340 RGTR--
+150203001 Proz, Altersheem      01814  01814                % 03340 RGTR--
+150203005 Proz, Haaptstrooss    01814  01814                % 03340 RGTR--
+150203002 Proz, Bousserpad      01815  01815                % 03340 RGTR--
+150402002 Grosbous, Kiirchepla  01818  01818                % 03340 RGTR--
+150402004 Grosbous, Op der Baa  01818  01818                % 03340 RGTR--
+150402005 Grosbous, Police      01819  01819                % 03340 RGTR--
+141101006 Mertzig, Wéchen       01821  01821                % 03340 RGTR--
+141101003 Mertzig, Eglise       01822  01822                % 03340 RGTR--
+141101005 Mertzig, Gemeng       01822  01822                % 03340 RGTR--
+141101004 Mertzig, Internat     01823  01823                % 03340 RGTR--
+140802002 Oberfeulen, route d'  01825  01825                % 03340 RGTR--
+140802001 Oberfeulen, Pl.de la  01825  01825                % 03340 RGTR--
+140802003 Oberfeulen, Op Hoper  01826  01826                % 03340 RGTR--
+140801004 Niederfeulen, route   01827  01827                % 03340 RGTR--
+140801002 Niederfeulen, Faubou  01829  01829                % 03340 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01832  01832                % 03340 RGTR--
+140701015 Ettelbruck, Ecole Pr  01834  01834                % 03340 RGTR--
+140701016 Ettelbruck, Gare      01836                       % 03340 RGTR--
+*Z 03341 RGTR--                                             % 03341 RGTR--
+*L 520      150606003 140701016  00630  00703               % 03341 RGTR--
+*A fa 150606003 140701016 000006  00630  00703              % 03341 RGTR--
+*A JR 150606003 140701016 000006  00630  00703              % 03341 RGTR--
+*A ea 150606003 140701016 000006  00630  00703              % 03341 RGTR--
+*R 2 140701016 150606003 140701016  00630  00703            % 03341 RGTR--
+*G RGB 150606003 140701016  00630  00703                    % 03341 RGTR--
+*A VE 150606003 140701016 000006  00630  00703              % 03341 RGTR--
+*I FD 150606003 140701016        0000990  00630  00703      % 03341 RGTR--
+150606003 Redange, Gare                00630                % 03341 RGTR--
+150606001 Redange/Attert, Bian  00630  00630                % 03341 RGTR--
+150606009 Redange, Schock       00631  00631                % 03341 RGTR--
+150606002 Redange, Centre Médi  00632  00632                % 03341 RGTR--
+150607001 Reichlange, Hostelle  00636  00636                % 03341 RGTR--
+150202002 Platen                00637  00637                % 03341 RGTR--
+150202001 Platen, Kinnebësch    00638  00638                % 03341 RGTR--
+150206001 Bettborn, Gemenge Pl  00638  00638                % 03341 RGTR--
+150203001 Proz, Altersheem      00639  00639                % 03341 RGTR--
+150203005 Proz, Haaptstrooss    00640  00640                % 03341 RGTR--
+150203002 Proz, Bousserpad      00641  00641                % 03341 RGTR--
+150402002 Grosbous, Kiirchepla  00644  00644                % 03341 RGTR--
+150402004 Grosbous, Op der Baa  00644  00644                % 03341 RGTR--
+150402005 Grosbous, Police      00645  00645                % 03341 RGTR--
+141101006 Mertzig, Wéchen       00647  00647                % 03341 RGTR--
+141101003 Mertzig, Eglise       00648  00648                % 03341 RGTR--
+141101005 Mertzig, Gemeng       00648  00648                % 03341 RGTR--
+141101004 Mertzig, Internat     00649  00649                % 03341 RGTR--
+140802002 Oberfeulen, route d'  00651  00651                % 03341 RGTR--
+140802001 Oberfeulen, Pl.de la  00652  00652                % 03341 RGTR--
+140802003 Oberfeulen, Op Hoper  00652  00652                % 03341 RGTR--
+140801004 Niederfeulen, route   00654  00654                % 03341 RGTR--
+140801002 Niederfeulen, Faubou  00655  00655                % 03341 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00659  00659                % 03341 RGTR--
+140701015 Ettelbruck, Ecole Pr  00702  00702                % 03341 RGTR--
+140701016 Ettelbruck, Gare      00703                       % 03341 RGTR--
+*Z 03342 RGTR--                                             % 03342 RGTR--
+*L 520      150606003 140701016  00517  00548               % 03342 RGTR--
+*A fa 150606003 140701016 000006  00517  00548              % 03342 RGTR--
+*A ea 150606003 140701016 000006  00517  00548              % 03342 RGTR--
+*R 2 140701016 150606003 140701016  00517  00548            % 03342 RGTR--
+*G RGB 150606003 140701016  00517  00548                    % 03342 RGTR--
+*A VE 150606003 140701016 000006  00517  00548              % 03342 RGTR--
+*I FD 150606003 140701016        0002366  00517  00548      % 03342 RGTR--
+150606003 Redange, Gare                00517                % 03342 RGTR--
+150606001 Redange/Attert, Bian  00517  00517                % 03342 RGTR--
+150606009 Redange, Schock       00518  00518                % 03342 RGTR--
+150606002 Redange, Centre Médi  00519  00519                % 03342 RGTR--
+150607001 Reichlange, Hostelle  00522  00522                % 03342 RGTR--
+150202002 Platen                00524  00524                % 03342 RGTR--
+150202001 Platen, Kinnebësch    00525  00525                % 03342 RGTR--
+150206001 Bettborn, Gemenge Pl  00525  00525                % 03342 RGTR--
+150203001 Proz, Altersheem      00526  00526                % 03342 RGTR--
+150203005 Proz, Haaptstrooss    00527  00527                % 03342 RGTR--
+150203002 Proz, Bousserpad      00527  00527                % 03342 RGTR--
+150402002 Grosbous, Kiirchepla  00530  00530                % 03342 RGTR--
+150402004 Grosbous, Op der Baa  00531  00531                % 03342 RGTR--
+150402005 Grosbous, Police      00531  00531                % 03342 RGTR--
+141101006 Mertzig, Wéchen       00533  00533                % 03342 RGTR--
+141101003 Mertzig, Eglise       00534  00534                % 03342 RGTR--
+141101005 Mertzig, Gemeng       00534  00534                % 03342 RGTR--
+141101004 Mertzig, Internat     00535  00535                % 03342 RGTR--
+140802002 Oberfeulen, route d'  00537  00537                % 03342 RGTR--
+140802001 Oberfeulen, Pl.de la  00537  00537                % 03342 RGTR--
+140802003 Oberfeulen, Op Hoper  00538  00538                % 03342 RGTR--
+140801004 Niederfeulen, route   00540  00540                % 03342 RGTR--
+140801002 Niederfeulen, Faubou  00541  00541                % 03342 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00545  00545                % 03342 RGTR--
+140701015 Ettelbruck, Ecole Pr  00547  00547                % 03342 RGTR--
+140701016 Ettelbruck, Gare      00548                       % 03342 RGTR--
+*Z 03343 RGTR--                                             % 03343 RGTR--
+*L 520      150606003 140701016  00804  00835               % 03343 RGTR--
+*A fa 150606003 140701016 000156  00804  00835              % 03343 RGTR--
+*A ea 150606003 140701016 000156  00804  00835              % 03343 RGTR--
+*R 2 140701016 150606003 140701016  00804  00835            % 03343 RGTR--
+*G RGB 150606003 140701016  00804  00835                    % 03343 RGTR--
+*A VE 150606003 140701016 000156  00804  00835              % 03343 RGTR--
+*I FD 150606003 140701016        0003094  00804  00835      % 03343 RGTR--
+150606003 Redange, Gare                00804                % 03343 RGTR--
+150606001 Redange/Attert, Bian  00804  00804                % 03343 RGTR--
+150606009 Redange, Schock       00805  00805                % 03343 RGTR--
+150606002 Redange, Centre Médi  00806  00806                % 03343 RGTR--
+150607001 Reichlange, Hostelle  00809  00809                % 03343 RGTR--
+150202002 Platen                00811  00811                % 03343 RGTR--
+150202001 Platen, Kinnebësch    00812  00812                % 03343 RGTR--
+150206001 Bettborn, Gemenge Pl  00812  00812                % 03343 RGTR--
+150203001 Proz, Altersheem      00813  00813                % 03343 RGTR--
+150203005 Proz, Haaptstrooss    00814  00814                % 03343 RGTR--
+150203002 Proz, Bousserpad      00814  00814                % 03343 RGTR--
+150402002 Grosbous, Kiirchepla  00817  00817                % 03343 RGTR--
+150402004 Grosbous, Op der Baa  00818  00818                % 03343 RGTR--
+150402005 Grosbous, Police      00818  00818                % 03343 RGTR--
+141101006 Mertzig, Wéchen       00820  00820                % 03343 RGTR--
+141101003 Mertzig, Eglise       00821  00821                % 03343 RGTR--
+141101005 Mertzig, Gemeng       00821  00821                % 03343 RGTR--
+141101004 Mertzig, Internat     00822  00822                % 03343 RGTR--
+140802002 Oberfeulen, route d'  00824  00824                % 03343 RGTR--
+140802001 Oberfeulen, Pl.de la  00824  00824                % 03343 RGTR--
+140802003 Oberfeulen, Op Hoper  00825  00825                % 03343 RGTR--
+140801004 Niederfeulen, route   00827  00827                % 03343 RGTR--
+140801002 Niederfeulen, Faubou  00828  00828                % 03343 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00832  00832                % 03343 RGTR--
+140701015 Ettelbruck, Ecole Pr  00834  00834                % 03343 RGTR--
+140701016 Ettelbruck, Gare      00835                       % 03343 RGTR--
+*Z 03344 RGTR--                                             % 03344 RGTR--
+*L 520      150402002 140701016  00602  00619               % 03344 RGTR--
+*A ey 150402002 140701016 000016  00602  00619              % 03344 RGTR--
+*A ea 150402002 140701016 000016  00602  00619              % 03344 RGTR--
+*R 2 140701016 150402002 140701016  00602  00619            % 03344 RGTR--
+*G RGB 150402002 140701016  00602  00619                    % 03344 RGTR--
+*A VE 150402002 140701016 000016  00602  00619              % 03344 RGTR--
+*I FD 150402002 140701016        0002503  00602  00619      % 03344 RGTR--
+150402002 Grosbous, Kiirchepla         00602                % 03344 RGTR--
+150402004 Grosbous, Op der Baa  00602  00602                % 03344 RGTR--
+150402005 Grosbous, Police      00603  00603                % 03344 RGTR--
+141101006 Mertzig, Wéchen       00605  00605                % 03344 RGTR--
+141101003 Mertzig, Eglise       00605  00605                % 03344 RGTR--
+141101005 Mertzig, Gemeng       00606  00606                % 03344 RGTR--
+141101004 Mertzig, Internat     00606  00606                % 03344 RGTR--
+140802002 Oberfeulen, route d'  00608  00608                % 03344 RGTR--
+140802001 Oberfeulen, Pl.de la  00609  00609                % 03344 RGTR--
+140802003 Oberfeulen, Op Hoper  00610  00610                % 03344 RGTR--
+140801004 Niederfeulen, route   00611  00611                % 03344 RGTR--
+140801002 Niederfeulen, Faubou  00612  00612                % 03344 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00616  00616                % 03344 RGTR--
+140701015 Ettelbruck, Ecole Pr  00618  00618                % 03344 RGTR--
+140701016 Ettelbruck, Gare      00619                       % 03344 RGTR--
+*Z 03345 RGTR--                                             % 03345 RGTR--
+*L 520      150402002 140701016  00716  00735               % 03345 RGTR--
+*A ey 150402002 140701016 000033  00716  00735              % 03345 RGTR--
+*A ea 150402002 140701016 000033  00716  00735              % 03345 RGTR--
+*R 2 140701016 150402002 140701016  00716  00735            % 03345 RGTR--
+*G RGB 150402002 140701016  00716  00735                    % 03345 RGTR--
+*A VE 150402002 140701016 000033  00716  00735              % 03345 RGTR--
+*I FD 150402002 140701016        0002303  00716  00735      % 03345 RGTR--
+150402002 Grosbous, Kiirchepla         00716                % 03345 RGTR--
+150402004 Grosbous, Op der Baa  00716  00716                % 03345 RGTR--
+150402005 Grosbous, Police      00717  00717                % 03345 RGTR--
+141101006 Mertzig, Wéchen       00719  00719                % 03345 RGTR--
+141101003 Mertzig, Eglise       00720  00720                % 03345 RGTR--
+141101005 Mertzig, Gemeng       00720  00720                % 03345 RGTR--
+141101004 Mertzig, Internat     00721  00721                % 03345 RGTR--
+140802002 Oberfeulen, route d'  00723  00723                % 03345 RGTR--
+140802001 Oberfeulen, Pl.de la  00723  00723                % 03345 RGTR--
+140802003 Oberfeulen, Op Hoper  00724  00724                % 03345 RGTR--
+140801004 Niederfeulen, route   00726  00726                % 03345 RGTR--
+140801002 Niederfeulen, Faubou  00727  00727                % 03345 RGTR--
+140701025 Ettelbruck, Pl.du Ma  00731  00731                % 03345 RGTR--
+140701015 Ettelbruck, Ecole Pr  00734  00734                % 03345 RGTR--
+140701016 Ettelbruck, Gare      00735                       % 03345 RGTR--
+*Z 03346 RGTR--                                             % 03346 RGTR--
+*L 520      150107001 140401009  01006  01058               % 03346 RGTR--
+*A fa 150107001 140401009 000006  01006  01058              % 03346 RGTR--
+*A kg 150107001 140401009 000006  01006  01058              % 03346 RGTR--
+*R 2 140401009 150107001 140401009  01006  01058            % 03346 RGTR--
+*G RGB 150107001 140401009  01006  01058                    % 03346 RGTR--
+*A VE 150107001 140401009 000006  01006  01058              % 03346 RGTR--
+*I FD 150107001 140401009        0002256  01006  01058      % 03346 RGTR--
+150107001 Oberpallen, Bréck            01006                % 03346 RGTR--
+150301001 Colpach-Bas, Schlass  01010  01010                % 03346 RGTR--
+150303002 Ell, Beim Musikssaul  01012  01012                % 03346 RGTR--
+150303003 Ell, Beim Schreider   01013  01013                % 03346 RGTR--
+150606003 Redange, Gare         01015  01015                % 03346 RGTR--
+150606001 Redange/Attert, Bian  01016  01016                % 03346 RGTR--
+150606009 Redange, Schock       01017  01017                % 03346 RGTR--
+150606002 Redange, Centre Médi  01018  01018                % 03346 RGTR--
+150607001 Reichlange, Hostelle  01021  01021                % 03346 RGTR--
+150202002 Platen                01023  01023                % 03346 RGTR--
+150202001 Platen, Kinnebësch    01023  01023                % 03346 RGTR--
+150206001 Bettborn, Gemenge Pl  01024  01024                % 03346 RGTR--
+150203001 Proz, Altersheem      01025  01025                % 03346 RGTR--
+150203005 Proz, Haaptstrooss    01025  01025                % 03346 RGTR--
+150203002 Proz, Bousserpad      01026  01026                % 03346 RGTR--
+150402002 Grosbous, Kiirchepla  01029  01029                % 03346 RGTR--
+150402004 Grosbous, Op der Baa  01029  01029                % 03346 RGTR--
+150402005 Grosbous, Police      01030  01030                % 03346 RGTR--
+141101006 Mertzig, Wéchen       01032  01032                % 03346 RGTR--
+141101003 Mertzig, Eglise       01033  01033                % 03346 RGTR--
+141101005 Mertzig, Gemeng       01033  01033                % 03346 RGTR--
+141101004 Mertzig, Internat     01034  01034                % 03346 RGTR--
+140802002 Oberfeulen, route d'  01036  01036                % 03346 RGTR--
+140802001 Oberfeulen, Pl.de la  01036  01036                % 03346 RGTR--
+140802003 Oberfeulen, Op Hoper  01037  01037                % 03346 RGTR--
+140801004 Niederfeulen, route   01038  01038                % 03346 RGTR--
+140801002 Niederfeulen, Faubou  01040  01040                % 03346 RGTR--
+140701025 Ettelbruck, Pl.du Ma  01043  01043                % 03346 RGTR--
+140701015 Ettelbruck, Ecole Pr  01045  01045                % 03346 RGTR--
+140701016 Ettelbruck, Gare      01047  01047                % 03346 RGTR--
+140602008 Erpeldange/Sûre, Um   01049  01049                % 03346 RGTR--
+140603002 Ingeldorf, Café de l  01051  01051                % 03346 RGTR--
+140401008 Diekirch, Lorentzwue  01052  01052                % 03346 RGTR--
+140401004 Diekirch, Gare        01053  01053                % 03346 RGTR--
+140401001 Diekirch, Altersheem  01055  01055                % 03346 RGTR--
+140401009 Diekirch, Neie Kolle  01058                       % 03346 RGTR--

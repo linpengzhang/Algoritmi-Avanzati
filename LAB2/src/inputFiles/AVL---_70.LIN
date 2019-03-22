@@ -1,0 +1,331 @@
+*F 03 2
+*Z 04328 AVL---       001 818                               % 04328 AVL---
+*L 70       200404042 200414006  00626  00646               % 04328 AVL---
+*A BE 200404042 200414006 000015  00626  00646              % 04328 AVL---
+*R 1 200414006 200404042 200414006  00626  00646            % 04328 AVL---
+*G AVS 200404042 200414006  00626  00646                    % 04328 AVL---
+*A VE 200404042 200414006 000015  00626  00646              % 04328 AVL---
+200404042 Verlorenkost, Heedek         00626                % 04328 AVL---
+200404025 Verlorenkost, Lavois  00627  00627                % 04328 AVL---
+200404024 Verlorenkost, Labora  00627  00627                % 04328 AVL---
+200405046 Luxembourg, Gare Roc  00630  00630                % 04328 AVL---
+200404034 Bonnevoie, Rotonde    00631  00631                % 04328 AVL---
+200404026 Bonnevoie, Léon XIII  00631  00631                % 04328 AVL---
+200404008 Bonnevoie, Dernier S  00633  00633                % 04328 AVL---
+200405035 Luxembourg, Gare Cen  00635  00635                % 04328 AVL---
+200405026 Luxembourg/Centre, P  00637  00637                % 04328 AVL---
+200404001 Verlorenkost, Al Mol  00639  00639                % 04328 AVL---
+200404030 Verlorenkost, Généra  00640  00640                % 04328 AVL---
+200424001 Pulvermuhl, Hammerdä  00641  00641                % 04328 AVL---
+200414011 Hamm, Peupliers       00643  00643                % 04328 AVL---
+200414007 Hamm, Rue Haute       00644  00644                % 04328 AVL---
+200414003 Hamm, Käschtewee      00645  00645                % 04328 AVL---
+200414006 Hamm, Rue de Bitbour  00646                       % 04328 AVL---
+*Z 04329 AVL---       025 030                               % 04329 AVL---
+*L 70       200404042 200414006  00652  00718               % 04329 AVL---
+*A BE 200404042 200414006 000015  00652  00718              % 04329 AVL---
+*R 1 200414006 200404042 200414006  00652  00718            % 04329 AVL---
+*G AVS 200404042 200414006  00652  00718                    % 04329 AVL---
+*A VE 200404042 200414006 000015  00652  00718              % 04329 AVL---
+200404042 Verlorenkost, Heedek         00652                % 04329 AVL---
+200404025 Verlorenkost, Lavois  00653  00653                % 04329 AVL---
+200404024 Verlorenkost, Labora  00653  00653                % 04329 AVL---
+200405046 Luxembourg, Gare Roc  00656  00656                % 04329 AVL---
+200404034 Bonnevoie, Rotonde    00657  00657                % 04329 AVL---
+200404026 Bonnevoie, Léon XIII  00658  00658                % 04329 AVL---
+200404008 Bonnevoie, Dernier S  00700  00700                % 04329 AVL---
+200405035 Luxembourg, Gare Cen  00703  00703                % 04329 AVL---
+200405026 Luxembourg/Centre, P  00706  00706                % 04329 AVL---
+200404001 Verlorenkost, Al Mol  00708  00708                % 04329 AVL---
+200404030 Verlorenkost, Généra  00710  00710                % 04329 AVL---
+200424001 Pulvermuhl, Hammerdä  00711  00711                % 04329 AVL---
+200414011 Hamm, Peupliers       00714  00714                % 04329 AVL---
+200414007 Hamm, Rue Haute       00715  00715                % 04329 AVL---
+200414003 Hamm, Käschtewee      00716  00716                % 04329 AVL---
+200414006 Hamm, Rue de Bitbour  00718                       % 04329 AVL---
+*Z 04330 AVL---       001 037                               % 04330 AVL---
+*L 70       200414006 200404042  00702  00727               % 04330 AVL---
+*A BE 200414006 200404042 000015  00702  00727              % 04330 AVL---
+*R 2 200404042 200414006 200404042  00702  00727            % 04330 AVL---
+*G AVS 200414006 200404042  00702  00727                    % 04330 AVL---
+*A VE 200414006 200404042 000015  00702  00727              % 04330 AVL---
+200414006 Hamm, Rue de Bitbour         00702                % 04330 AVL---
+200414003 Hamm, Käschtewee      00703  00703                % 04330 AVL---
+200414007 Hamm, Rue Haute       00704  00704                % 04330 AVL---
+200414011 Hamm, Peupliers       00705  00705                % 04330 AVL---
+200424001 Pulvermuhl, Hammerdä  00708  00708                % 04330 AVL---
+200404030 Verlorenkost, Généra  00710  00710                % 04330 AVL---
+200404001 Verlorenkost, Al Mol  00711  00711                % 04330 AVL---
+200405026 Luxembourg/Centre, P  00714  00714                % 04330 AVL---
+200405002 Luxembourg, Gare Cen  00717  00717                % 04330 AVL---
+200404008 Bonnevoie, Dernier S  00720  00720                % 04330 AVL---
+200404026 Bonnevoie, Léon XIII  00721  00721                % 04330 AVL---
+200404034 Bonnevoie, Rotonde    00723  00723                % 04330 AVL---
+200405046 Luxembourg, Gare Roc  00724  00724                % 04330 AVL---
+200404024 Verlorenkost, Labora  00726  00726                % 04330 AVL---
+200404025 Verlorenkost, Lavois  00726  00726                % 04330 AVL---
+200404042 Verlorenkost, Heedek  00727                       % 04330 AVL---
+*Z 04331 AVL---       002 030                               % 04331 AVL---
+*L 70       200414006 200404042  00809  00834               % 04331 AVL---
+*A BE 200414006 200404042 000015  00809  00834              % 04331 AVL---
+*R 2 200404042 200414006 200404042  00809  00834            % 04331 AVL---
+*G AVS 200414006 200404042  00809  00834                    % 04331 AVL---
+*A VE 200414006 200404042 000015  00809  00834              % 04331 AVL---
+200414006 Hamm, Rue de Bitbour         00809                % 04331 AVL---
+200414003 Hamm, Käschtewee      00810  00810                % 04331 AVL---
+200414007 Hamm, Rue Haute       00811  00811                % 04331 AVL---
+200414011 Hamm, Peupliers       00812  00812                % 04331 AVL---
+200424001 Pulvermuhl, Hammerdä  00815  00815                % 04331 AVL---
+200404030 Verlorenkost, Généra  00817  00817                % 04331 AVL---
+200404001 Verlorenkost, Al Mol  00818  00818                % 04331 AVL---
+200405026 Luxembourg/Centre, P  00821  00821                % 04331 AVL---
+200405002 Luxembourg, Gare Cen  00824  00824                % 04331 AVL---
+200404008 Bonnevoie, Dernier S  00827  00827                % 04331 AVL---
+200404026 Bonnevoie, Léon XIII  00828  00828                % 04331 AVL---
+200404034 Bonnevoie, Rotonde    00830  00830                % 04331 AVL---
+200405046 Luxembourg, Gare Roc  00831  00831                % 04331 AVL---
+200404024 Verlorenkost, Labora  00833  00833                % 04331 AVL---
+200404025 Verlorenkost, Lavois  00833  00833                % 04331 AVL---
+200404042 Verlorenkost, Heedek  00834                       % 04331 AVL---
+*Z 04332 AVL---       019 030                               % 04332 AVL---
+*L 70       200414006 200404042  00937  01002               % 04332 AVL---
+*A BE 200414006 200404042 000015  00937  01002              % 04332 AVL---
+*R 2 200404042 200414006 200404042  00937  01002            % 04332 AVL---
+*G AVS 200414006 200404042  00937  01002                    % 04332 AVL---
+*A VE 200414006 200404042 000015  00937  01002              % 04332 AVL---
+200414006 Hamm, Rue de Bitbour         00937                % 04332 AVL---
+200414003 Hamm, Käschtewee      00938  00938                % 04332 AVL---
+200414007 Hamm, Rue Haute       00939  00939                % 04332 AVL---
+200414011 Hamm, Peupliers       00940  00940                % 04332 AVL---
+200424001 Pulvermuhl, Hammerdä  00943  00943                % 04332 AVL---
+200404030 Verlorenkost, Généra  00945  00945                % 04332 AVL---
+200404001 Verlorenkost, Al Mol  00946  00946                % 04332 AVL---
+200405026 Luxembourg/Centre, P  00949  00949                % 04332 AVL---
+200405002 Luxembourg, Gare Cen  00952  00952                % 04332 AVL---
+200404008 Bonnevoie, Dernier S  00955  00955                % 04332 AVL---
+200404026 Bonnevoie, Léon XIII  00956  00956                % 04332 AVL---
+200404034 Bonnevoie, Rotonde    00958  00958                % 04332 AVL---
+200405046 Luxembourg, Gare Roc  00959  00959                % 04332 AVL---
+200404024 Verlorenkost, Labora  01001  01001                % 04332 AVL---
+200404025 Verlorenkost, Lavois  01001  01001                % 04332 AVL---
+200404042 Verlorenkost, Heedek  01002                       % 04332 AVL---
+*Z 04333 AVL---       001 818                               % 04333 AVL---
+*L 70       200404042 200414006  00626  00646               % 04333 AVL---
+*A BE 200404042 200414006 000014  00626  00646              % 04333 AVL---
+*R 1 200414006 200404042 200414006  00626  00646            % 04333 AVL---
+*G AVS 200404042 200414006  00626  00646                    % 04333 AVL---
+*A VE 200404042 200414006 000014  00626  00646              % 04333 AVL---
+200404042 Verlorenkost, Heedek         00626                % 04333 AVL---
+200404025 Verlorenkost, Lavois  00627  00627                % 04333 AVL---
+200404024 Verlorenkost, Labora  00627  00627                % 04333 AVL---
+200405046 Luxembourg, Gare Roc  00630  00630                % 04333 AVL---
+200404034 Bonnevoie, Rotonde    00631  00631                % 04333 AVL---
+200404026 Bonnevoie, Léon XIII  00631  00631                % 04333 AVL---
+200404008 Bonnevoie, Dernier S  00633  00633                % 04333 AVL---
+200405035 Luxembourg, Gare Cen  00635  00635                % 04333 AVL---
+200405026 Luxembourg/Centre, P  00637  00637                % 04333 AVL---
+200404001 Verlorenkost, Al Mol  00639  00639                % 04333 AVL---
+200404030 Verlorenkost, Généra  00640  00640                % 04333 AVL---
+200424001 Pulvermuhl, Hammerdä  00641  00641                % 04333 AVL---
+200414011 Hamm, Peupliers       00643  00643                % 04333 AVL---
+200414007 Hamm, Rue Haute       00644  00644                % 04333 AVL---
+200414003 Hamm, Käschtewee      00645  00645                % 04333 AVL---
+200414006 Hamm, Rue de Bitbour  00646                       % 04333 AVL---
+*Z 04334 AVL---       025 030                               % 04334 AVL---
+*L 70       200404042 200414006  00652  00718               % 04334 AVL---
+*A BE 200404042 200414006 000014  00652  00718              % 04334 AVL---
+*R 1 200414006 200404042 200414006  00652  00718            % 04334 AVL---
+*G AVS 200404042 200414006  00652  00718                    % 04334 AVL---
+*A VE 200404042 200414006 000014  00652  00718              % 04334 AVL---
+200404042 Verlorenkost, Heedek         00652                % 04334 AVL---
+200404025 Verlorenkost, Lavois  00653  00653                % 04334 AVL---
+200404024 Verlorenkost, Labora  00653  00653                % 04334 AVL---
+200405046 Luxembourg, Gare Roc  00656  00656                % 04334 AVL---
+200404034 Bonnevoie, Rotonde    00657  00657                % 04334 AVL---
+200404026 Bonnevoie, Léon XIII  00658  00658                % 04334 AVL---
+200404008 Bonnevoie, Dernier S  00700  00700                % 04334 AVL---
+200405035 Luxembourg, Gare Cen  00703  00703                % 04334 AVL---
+200405026 Luxembourg/Centre, P  00706  00706                % 04334 AVL---
+200404001 Verlorenkost, Al Mol  00708  00708                % 04334 AVL---
+200404030 Verlorenkost, Généra  00710  00710                % 04334 AVL---
+200424001 Pulvermuhl, Hammerdä  00711  00711                % 04334 AVL---
+200414011 Hamm, Peupliers       00714  00714                % 04334 AVL---
+200414007 Hamm, Rue Haute       00715  00715                % 04334 AVL---
+200414003 Hamm, Käschtewee      00716  00716                % 04334 AVL---
+200414006 Hamm, Rue de Bitbour  00718                       % 04334 AVL---
+*Z 04335 AVL---       001 037                               % 04335 AVL---
+*L 70       200414006 200404042  00702  00727               % 04335 AVL---
+*A BE 200414006 200404042 000014  00702  00727              % 04335 AVL---
+*R 2 200404042 200414006 200404042  00702  00727            % 04335 AVL---
+*G AVS 200414006 200404042  00702  00727                    % 04335 AVL---
+*A VE 200414006 200404042 000014  00702  00727              % 04335 AVL---
+200414006 Hamm, Rue de Bitbour         00702                % 04335 AVL---
+200414003 Hamm, Käschtewee      00703  00703                % 04335 AVL---
+200414007 Hamm, Rue Haute       00704  00704                % 04335 AVL---
+200414011 Hamm, Peupliers       00705  00705                % 04335 AVL---
+200424001 Pulvermuhl, Hammerdä  00708  00708                % 04335 AVL---
+200404030 Verlorenkost, Généra  00710  00710                % 04335 AVL---
+200404001 Verlorenkost, Al Mol  00711  00711                % 04335 AVL---
+200405026 Luxembourg/Centre, P  00714  00714                % 04335 AVL---
+200405002 Luxembourg, Gare Cen  00717  00717                % 04335 AVL---
+200404008 Bonnevoie, Dernier S  00720  00720                % 04335 AVL---
+200404026 Bonnevoie, Léon XIII  00721  00721                % 04335 AVL---
+200404034 Bonnevoie, Rotonde    00723  00723                % 04335 AVL---
+200405046 Luxembourg, Gare Roc  00724  00724                % 04335 AVL---
+200404024 Verlorenkost, Labora  00726  00726                % 04335 AVL---
+200404025 Verlorenkost, Lavois  00726  00726                % 04335 AVL---
+200404042 Verlorenkost, Heedek  00727                       % 04335 AVL---
+*Z 04336 AVL---       002 030                               % 04336 AVL---
+*L 70       200414006 200404042  00809  00834               % 04336 AVL---
+*A BE 200414006 200404042 000014  00809  00834              % 04336 AVL---
+*R 2 200404042 200414006 200404042  00809  00834            % 04336 AVL---
+*G AVS 200414006 200404042  00809  00834                    % 04336 AVL---
+*A VE 200414006 200404042 000014  00809  00834              % 04336 AVL---
+200414006 Hamm, Rue de Bitbour         00809                % 04336 AVL---
+200414003 Hamm, Käschtewee      00810  00810                % 04336 AVL---
+200414007 Hamm, Rue Haute       00811  00811                % 04336 AVL---
+200414011 Hamm, Peupliers       00812  00812                % 04336 AVL---
+200424001 Pulvermuhl, Hammerdä  00815  00815                % 04336 AVL---
+200404030 Verlorenkost, Généra  00817  00817                % 04336 AVL---
+200404001 Verlorenkost, Al Mol  00818  00818                % 04336 AVL---
+200405026 Luxembourg/Centre, P  00821  00821                % 04336 AVL---
+200405002 Luxembourg, Gare Cen  00824  00824                % 04336 AVL---
+200404008 Bonnevoie, Dernier S  00827  00827                % 04336 AVL---
+200404026 Bonnevoie, Léon XIII  00828  00828                % 04336 AVL---
+200404034 Bonnevoie, Rotonde    00830  00830                % 04336 AVL---
+200405046 Luxembourg, Gare Roc  00831  00831                % 04336 AVL---
+200404024 Verlorenkost, Labora  00833  00833                % 04336 AVL---
+200404025 Verlorenkost, Lavois  00833  00833                % 04336 AVL---
+200404042 Verlorenkost, Heedek  00834                       % 04336 AVL---
+*Z 04337 AVL---       019 030                               % 04337 AVL---
+*L 70       200414006 200404042  00937  01002               % 04337 AVL---
+*A BE 200414006 200404042 000014  00937  01002              % 04337 AVL---
+*R 2 200404042 200414006 200404042  00937  01002            % 04337 AVL---
+*G AVS 200414006 200404042  00937  01002                    % 04337 AVL---
+*A VE 200414006 200404042 000014  00937  01002              % 04337 AVL---
+200414006 Hamm, Rue de Bitbour         00937                % 04337 AVL---
+200414003 Hamm, Käschtewee      00938  00938                % 04337 AVL---
+200414007 Hamm, Rue Haute       00939  00939                % 04337 AVL---
+200414011 Hamm, Peupliers       00940  00940                % 04337 AVL---
+200424001 Pulvermuhl, Hammerdä  00943  00943                % 04337 AVL---
+200404030 Verlorenkost, Généra  00945  00945                % 04337 AVL---
+200404001 Verlorenkost, Al Mol  00946  00946                % 04337 AVL---
+200405026 Luxembourg/Centre, P  00949  00949                % 04337 AVL---
+200405002 Luxembourg, Gare Cen  00952  00952                % 04337 AVL---
+200404008 Bonnevoie, Dernier S  00955  00955                % 04337 AVL---
+200404026 Bonnevoie, Léon XIII  00956  00956                % 04337 AVL---
+200404034 Bonnevoie, Rotonde    00958  00958                % 04337 AVL---
+200405046 Luxembourg, Gare Roc  00959  00959                % 04337 AVL---
+200404024 Verlorenkost, Labora  01001  01001                % 04337 AVL---
+200404025 Verlorenkost, Lavois  01001  01001                % 04337 AVL---
+200404042 Verlorenkost, Heedek  01002                       % 04337 AVL---
+*Z 04338 AVL---       025 030                               % 04338 AVL---
+*L 70       200404042 200414006  00652  00718               % 04338 AVL---
+*A BE 200404042 200414006 000013  00652  00718              % 04338 AVL---
+*R 1 200414006 200404042 200414006  00652  00718            % 04338 AVL---
+*G AVS 200404042 200414006  00652  00718                    % 04338 AVL---
+*A VE 200404042 200414006 000013  00652  00718              % 04338 AVL---
+200404042 Verlorenkost, Heedek         00652                % 04338 AVL---
+200404025 Verlorenkost, Lavois  00653  00653                % 04338 AVL---
+200404024 Verlorenkost, Labora  00653  00653                % 04338 AVL---
+200405046 Luxembourg, Gare Roc  00656  00656                % 04338 AVL---
+200404034 Bonnevoie, Rotonde    00657  00657                % 04338 AVL---
+200404026 Bonnevoie, Léon XIII  00658  00658                % 04338 AVL---
+200404008 Bonnevoie, Dernier S  00700  00700                % 04338 AVL---
+200405035 Luxembourg, Gare Cen  00703  00703                % 04338 AVL---
+200405026 Luxembourg/Centre, P  00706  00706                % 04338 AVL---
+200404001 Verlorenkost, Al Mol  00708  00708                % 04338 AVL---
+200404030 Verlorenkost, Généra  00710  00710                % 04338 AVL---
+200424001 Pulvermuhl, Hammerdä  00711  00711                % 04338 AVL---
+200414011 Hamm, Peupliers       00714  00714                % 04338 AVL---
+200414007 Hamm, Rue Haute       00715  00715                % 04338 AVL---
+200414003 Hamm, Käschtewee      00716  00716                % 04338 AVL---
+200414006 Hamm, Rue de Bitbour  00718                       % 04338 AVL---
+*Z 04339 AVL---       001 818                               % 04339 AVL---
+*L 70       200404042 200414006  00626  00646               % 04339 AVL---
+*A BE 200404042 200414006 000013  00626  00646              % 04339 AVL---
+*R 1 200414006 200404042 200414006  00626  00646            % 04339 AVL---
+*G AVS 200404042 200414006  00626  00646                    % 04339 AVL---
+*A VE 200404042 200414006 000013  00626  00646              % 04339 AVL---
+200404042 Verlorenkost, Heedek         00626                % 04339 AVL---
+200404025 Verlorenkost, Lavois  00627  00627                % 04339 AVL---
+200404024 Verlorenkost, Labora  00627  00627                % 04339 AVL---
+200405046 Luxembourg, Gare Roc  00630  00630                % 04339 AVL---
+200404034 Bonnevoie, Rotonde    00631  00631                % 04339 AVL---
+200404026 Bonnevoie, Léon XIII  00631  00631                % 04339 AVL---
+200404008 Bonnevoie, Dernier S  00633  00633                % 04339 AVL---
+200405035 Luxembourg, Gare Cen  00635  00635                % 04339 AVL---
+200405026 Luxembourg/Centre, P  00637  00637                % 04339 AVL---
+200404001 Verlorenkost, Al Mol  00639  00639                % 04339 AVL---
+200404030 Verlorenkost, Généra  00640  00640                % 04339 AVL---
+200424001 Pulvermuhl, Hammerdä  00641  00641                % 04339 AVL---
+200414011 Hamm, Peupliers       00643  00643                % 04339 AVL---
+200414007 Hamm, Rue Haute       00644  00644                % 04339 AVL---
+200414003 Hamm, Käschtewee      00645  00645                % 04339 AVL---
+200414006 Hamm, Rue de Bitbour  00646                       % 04339 AVL---
+*Z 04340 AVL---       001 037                               % 04340 AVL---
+*L 70       200414006 200404042  00702  00727               % 04340 AVL---
+*A BE 200414006 200404042 000013  00702  00727              % 04340 AVL---
+*R 2 200404042 200414006 200404042  00702  00727            % 04340 AVL---
+*G AVS 200414006 200404042  00702  00727                    % 04340 AVL---
+*A VE 200414006 200404042 000013  00702  00727              % 04340 AVL---
+200414006 Hamm, Rue de Bitbour         00702                % 04340 AVL---
+200414003 Hamm, Käschtewee      00703  00703                % 04340 AVL---
+200414007 Hamm, Rue Haute       00704  00704                % 04340 AVL---
+200414011 Hamm, Peupliers       00705  00705                % 04340 AVL---
+200424001 Pulvermuhl, Hammerdä  00708  00708                % 04340 AVL---
+200404030 Verlorenkost, Généra  00710  00710                % 04340 AVL---
+200404001 Verlorenkost, Al Mol  00711  00711                % 04340 AVL---
+200405026 Luxembourg/Centre, P  00714  00714                % 04340 AVL---
+200405002 Luxembourg, Gare Cen  00717  00717                % 04340 AVL---
+200404008 Bonnevoie, Dernier S  00720  00720                % 04340 AVL---
+200404026 Bonnevoie, Léon XIII  00721  00721                % 04340 AVL---
+200404034 Bonnevoie, Rotonde    00723  00723                % 04340 AVL---
+200405046 Luxembourg, Gare Roc  00724  00724                % 04340 AVL---
+200404024 Verlorenkost, Labora  00726  00726                % 04340 AVL---
+200404025 Verlorenkost, Lavois  00726  00726                % 04340 AVL---
+200404042 Verlorenkost, Heedek  00727                       % 04340 AVL---
+*Z 04341 AVL---       002 030                               % 04341 AVL---
+*L 70       200414006 200404042  00809  00834               % 04341 AVL---
+*A BE 200414006 200404042 000013  00809  00834              % 04341 AVL---
+*R 2 200404042 200414006 200404042  00809  00834            % 04341 AVL---
+*G AVS 200414006 200404042  00809  00834                    % 04341 AVL---
+*A VE 200414006 200404042 000013  00809  00834              % 04341 AVL---
+200414006 Hamm, Rue de Bitbour         00809                % 04341 AVL---
+200414003 Hamm, Käschtewee      00810  00810                % 04341 AVL---
+200414007 Hamm, Rue Haute       00811  00811                % 04341 AVL---
+200414011 Hamm, Peupliers       00812  00812                % 04341 AVL---
+200424001 Pulvermuhl, Hammerdä  00815  00815                % 04341 AVL---
+200404030 Verlorenkost, Généra  00817  00817                % 04341 AVL---
+200404001 Verlorenkost, Al Mol  00818  00818                % 04341 AVL---
+200405026 Luxembourg/Centre, P  00821  00821                % 04341 AVL---
+200405002 Luxembourg, Gare Cen  00824  00824                % 04341 AVL---
+200404008 Bonnevoie, Dernier S  00827  00827                % 04341 AVL---
+200404026 Bonnevoie, Léon XIII  00828  00828                % 04341 AVL---
+200404034 Bonnevoie, Rotonde    00830  00830                % 04341 AVL---
+200405046 Luxembourg, Gare Roc  00831  00831                % 04341 AVL---
+200404024 Verlorenkost, Labora  00833  00833                % 04341 AVL---
+200404025 Verlorenkost, Lavois  00833  00833                % 04341 AVL---
+200404042 Verlorenkost, Heedek  00834                       % 04341 AVL---
+*Z 04342 AVL---       019 030                               % 04342 AVL---
+*L 70       200414006 200404042  00937  01002               % 04342 AVL---
+*A BE 200414006 200404042 000013  00937  01002              % 04342 AVL---
+*R 2 200404042 200414006 200404042  00937  01002            % 04342 AVL---
+*G AVS 200414006 200404042  00937  01002                    % 04342 AVL---
+*A VE 200414006 200404042 000013  00937  01002              % 04342 AVL---
+200414006 Hamm, Rue de Bitbour         00937                % 04342 AVL---
+200414003 Hamm, Käschtewee      00938  00938                % 04342 AVL---
+200414007 Hamm, Rue Haute       00939  00939                % 04342 AVL---
+200414011 Hamm, Peupliers       00940  00940                % 04342 AVL---
+200424001 Pulvermuhl, Hammerdä  00943  00943                % 04342 AVL---
+200404030 Verlorenkost, Généra  00945  00945                % 04342 AVL---
+200404001 Verlorenkost, Al Mol  00946  00946                % 04342 AVL---
+200405026 Luxembourg/Centre, P  00949  00949                % 04342 AVL---
+200405002 Luxembourg, Gare Cen  00952  00952                % 04342 AVL---
+200404008 Bonnevoie, Dernier S  00955  00955                % 04342 AVL---
+200404026 Bonnevoie, Léon XIII  00956  00956                % 04342 AVL---
+200404034 Bonnevoie, Rotonde    00958  00958                % 04342 AVL---
+200405046 Luxembourg, Gare Roc  00959  00959                % 04342 AVL---
+200404024 Verlorenkost, Labora  01001  01001                % 04342 AVL---
+200404025 Verlorenkost, Lavois  01001  01001                % 04342 AVL---
+200404042 Verlorenkost, Heedek  01002                       % 04342 AVL---
