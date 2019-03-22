@@ -20,7 +20,7 @@ class Dijkstra:
     def dijkstrasssp(self, s, inizio, g: Graph):
         d, p = self.initsssp(s, inizio, g)
         Q = []
-        for i in g.nodes():
+        for i in g.dict_of_nodes():
             heapq.heappush(Q, (d[i], i))
         while len(Q) > 0:
             u = heapq.heappop(Q)[1]  # estraggo nodo con tempo di arrivo minimo

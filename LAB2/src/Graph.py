@@ -11,5 +11,5 @@ class Graph:
         """
         return len(self.graph)
 
-    def nodes(self):
+    def dict_of_nodes(self):
         return self.graph.keys()
