@@ -7,4 +7,5 @@ print("Script start")
 print("Reading graph from file(s)...")
 real_graph = GraphFromFile("./inputFiles/*.LIN")
 
-Dijkstra().dijkstrasssp("500000079", 1300, real_graph)
+d, p = Dijkstra().dijkstrasssp("500000079", 1300, real_graph)
+print(d["300000044"])

@@ -13,3 +13,6 @@ class Graph:
 
     def dict_of_nodes(self):
         return self.graph.keys()
+
+    def add_edge(self, from_node, to_node, edge):
+        self.graph[from_node][to_node].add(edge)
