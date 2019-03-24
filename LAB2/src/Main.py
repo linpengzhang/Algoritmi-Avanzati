@@ -9,3 +9,4 @@ real_graph = GraphFromFile("./inputFiles/*.LIN")
 
 d, p = Dijkstra().dijkstrasssp("500000079", 1300, real_graph)
 print(d["300000044"])
+print(d["004240102"]) # nodo non raggiungibile dalla partenza indicata (forse il giorno dopo?)

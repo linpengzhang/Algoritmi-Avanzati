@@ -36,4 +36,4 @@ class GraphFromFile(Graph):
                         self.add_edge(stazione_partenza, stazione_arrivo, Route(int(ora_partenza), int(ora_arrivo), corsa_uid))
                         if ora_prossima_partenza.isspace() and not (stazione_arrivo in self.graph.keys()):
                             # caso in cui una stazione finale di arrivo non sia presente come stazione di partenza per qualche tratta
-                            self.graph[stazione_arrivo] = defaultdict(set)
+                            self.add_node(stazione_arrivo)

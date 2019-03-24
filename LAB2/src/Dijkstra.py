@@ -37,14 +37,13 @@ class Dijkstra:
                 # cerco l'arco che mi permette di arrivare prima possibile al successivo nodo v
                 min_element = float("inf")
                 for edge in g.graph[u][v]:
-                    # considero solo gli archi ammissibili: l'orario di partenza non deve essere
+                    # MA considero solo gli archi ammissibili: l'orario di partenza non deve essere
                     # antecedente all'orario di arrivo alla stazione di partenza u
                     if d[u] <= edge.time_departure:
                         if edge.time_arrival < min_element:
                             min_element = edge.time_arrival
                             best_edge = edge
-                # if min_element == float("inf"):
-                #     print("...perchè non c'è un arco tra due nodi che dovrebbero essere adiacenti?")
+                # se (min_element == float("inf")) => non c'è un arco ammissibile tra i due nodi
                 if min_element < float("inf") and best_edge.time_arrival < d[v]:
                     # trovato un arco teso
                     self.relax(u, v, best_edge, d, p)
