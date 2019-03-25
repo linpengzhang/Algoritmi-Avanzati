@@ -1,5 +1,5 @@
 from Graph import Graph
-import MyHeap
+from MyHeap import MyHeap
 
 
 class Dijkstra:
@@ -27,11 +27,10 @@ class Dijkstra:
         d, p = self.initsssp(s, inizio, g) # inizializzazione di: d, p
         # coda di priorità Q (heap binaria)
         # i valori sono coppie (peso, nodo) il cui ordine si basa sul primo valore
-        Q = [(d[i],i) for i in g.dict_of_nodes()] # inizializzazione di Q
-        MyHeap.heapify(Q) # rende Q una heap binaria
+        Q = MyHeap(d,g.dict_of_nodes())
         # iterazione per ciascun elemento di Q
         while len(Q) > 0:
-            u = MyHeap.heappop(Q)[1]  # estraggo nodo con tempo di arrivo minimo
+            u = Q.extract_min() # estraggo nodo con tempo di arrivo minimo
             # considero ciascun nodo adiacente al nodo di partenza u
             for v in g.graph[u].keys():
                 # cerco l'arco che mi permette di arrivare prima possibile al successivo nodo v
@@ -47,10 +46,5 @@ class Dijkstra:
                 if min_element < float("inf") and best_edge.time_arrival < d[v]:
                     # trovato un arco teso
                     self.relax(u, v, best_edge, d, p)
-
-                    for i in range(len(Q)):  # equivalente a decreasekey(Q,v,d[v]) da implementare meglio
-                        if Q[i][1] == v:
-                            Q[i] = (d[v], v)
-                    MyHeap.heapify(Q)
-
+                    Q.decrease_key(v,d[v])
         return d, p
