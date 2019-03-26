@@ -48,3 +48,18 @@ class Dijkstra:
                     self.relax(u, v, best_edge, d, p)
                     Q.decrease_key(v,d[v])
         return d, p
+    def printResult(self, p, d, partenza, arrivo):
+        print("Viaggio da ", partenza, " a ", arrivo)
+        if p[arrivo] != (None, None):
+            print("Orario di partenza: ", d[partenza])
+            print("Orario di arrivo: ", d[arrivo])
+            self.printPercorso(p, d, partenza, arrivo, None)
+        else:
+            print("Non c'è nessun viaggio che soddisfa i vincoli richiesti")
+    def printPercorso(self, p, d, partenza, arrivo, actual_route):
+        #input: p[arrivo] != (None, None)
+        if partenza == arrivo:
+            return
+        self.printPercorso(p, d, partenza, p[arrivo][0], p[arrivo][1].route_uid)
+        if actual_route != p[arrivo][1].route_uid:
+            print(p[arrivo][1].time_departure," : corsa ", p[arrivo][1], " ", p[arrivo][1].route_uid, " da ", p[arrivo][0], " a ", arrivo)

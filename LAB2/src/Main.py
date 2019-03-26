@@ -9,7 +9,9 @@ real_graph = GraphFromFile("./inputFiles/*.LIN")
 print("Graph created.")
 
 print("Starting Dijksta algorithm...")
-d, p = Dijkstra().dijkstrasssp("500000079", 1300, real_graph)
-
-print(d["300000044"])
-print(d["004240102"]) # nodo non raggiungibile dalla partenza indicata (forse il giorno dopo?)
+partenza="500000079"
+arrivo="300000044"
+d, p = Dijkstra().dijkstrasssp(partenza, 1300, real_graph)
+Dijkstra().printResult(p, d, partenza, arrivo)
+arrivo="004240102"
+Dijkstra().printResult(p, d, partenza, arrivo)
