@@ -1,6 +1,6 @@
 from Graph import Graph
 from MyHeap import MyHeap
-
+import matplotlib.pyplot as plt
 
 class Dijkstra:
     """
@@ -48,6 +48,8 @@ class Dijkstra:
                     self.relax(u, v, best_edge, d, p)
                     Q.decrease_key(v,d[v])
         return d, p
+    def getPercorso(self, p, partenza, arrivo):
+        """
     def printResult(self, p, d, partenza, arrivo):
         print("Viaggio da ", partenza, " a ", arrivo)
         if p[arrivo] != (None, None):
@@ -59,7 +61,14 @@ class Dijkstra:
     def printPercorso(self, p, d, partenza, arrivo, actual_route):
         #input: p[arrivo] != (None, None)
         if partenza == arrivo:
-            return
+            return 
         self.printPercorso(p, d, partenza, p[arrivo][0], p[arrivo][1].route_uid)
         if actual_route != p[arrivo][1].route_uid:
-            print(p[arrivo][1].time_departure," : corsa ", p[arrivo][1], " ", p[arrivo][1].route_uid, " da ", p[arrivo][0], " a ", arrivo)
+            print(p[arrivo][1].time_departure, " : corsa ", p[arrivo][1].route_uid, " da ", partenza, " a ", arrivo)
+"""
+        #input: p[arrivo] != (None, None)
+        if partenza == arrivo:
+            return [partenza]
+        percorso = self.getPercorso(p, partenza, p[arrivo][0])
+        percorso.append(arrivo)
+        return percorso
