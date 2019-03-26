@@ -42,7 +42,7 @@ if p[arrivo] != (None, None):
         back = next
         next = next + 1
     for i in range(len(percorso)-1):
-        plt.plot([nodeCoords[percorso[i]][0], nodeCoords[percorso[i+1]][0]], [nodeCoords[percorso[i]][1], nodeCoords[percorso[i+1]][1]], marker='-', color='blue')     
+        plt.plot([nodeCoords[percorso[i]][0], nodeCoords[percorso[i+1]][0]], [nodeCoords[percorso[i]][1], nodeCoords[percorso[i+1]][1]], linestyle='-', color='blue')     
 else:
     print("Non c'è nessun viaggio che soddisfa i vincoli richiesti")
 plt.show()
