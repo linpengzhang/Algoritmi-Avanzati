@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 
+
 def draw_map(path, partenza, arrivo):
     # Read coordinates of the stations
     node_coords = read_station_coordinates()
@@ -10,17 +11,19 @@ def draw_map(path, partenza, arrivo):
     plt.ylabel("Latitudine")
     for (lon, lat) in node_coords.values():
         plt.plot(lon, lat, marker='.', color='gray')
-    
+
     # stampa percorso nella mappa
-    for i in range(len(path)-1):
+    for i in range(len(path) - 1):
         from_station = path[i][0]
-        to_station = path[i+1][0]
+        to_station = path[i + 1][0]
         # plot a line between the two stations
-        plt.plot([node_coords[from_station][0], node_coords[to_station][0]], [node_coords[from_station][1], node_coords[to_station][1]], linestyle='-', color='blue')
-    
+        plt.plot([node_coords[from_station][0], node_coords[to_station][0]],
+                 [node_coords[from_station][1], node_coords[to_station][1]], linestyle='-', color='blue')
+
     # plt.legend()
     print("Map created. Showing it...")
     plt.show()
+
 
 def read_station_coordinates():
     """

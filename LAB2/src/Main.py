@@ -2,50 +2,31 @@ from Graph_FromFile import GraphFromFile
 import Dijkstra
 import PlotMap
 
+
 def print_solution():
     print(" *** SOLUZIONE TROVATA: *** ")
     print("Viaggio da ", partenza, " a ", arrivo)
-    
+
     # path: lista di tuple (stazione, possible corsa) che compone il percorso
     if len(path) > 0:
         print("Orario di partenza: ", d[partenza])
         print("Orario di arrivo: ", d[arrivo])
-        idx_from = 0 # indice del percorso della partenza di una corsa
-        idx_to = 1 # indice del percorso dell'arrivo di una corsa
+        idx_from = 0  # indice del percorso della partenza di una corsa
+        idx_to = 1  # indice del percorso dell'arrivo di una corsa
         while idx_to < len(path):
-            current_route = path[idx_from][1].route_uid # uid corsa dell'arco attualmente considerato
+            current_route = path[idx_from][1].route_uid  # uid corsa dell'arco attualmente considerato
             # finché nel percorso continuo con la stessa corsa, ignoro le stazioni intermedie
-            while idx_to < len(path)-1 and current_route == path[idx_to][1].route_uid:
+            while idx_to < len(path) - 1 and current_route == path[idx_to][1].route_uid:
                 idx_to += 1
             # stampo le informazioni di una corsa che compone il percorso
-            print(path[idx_from][1].time_departure, " : corsa ", current_route, " da ", path[idx_from][0], " a ", path[idx_to][0])
+            print(path[idx_from][1].time_departure, " : corsa ", current_route, " da ", path[idx_from][0], " a ",
+                  path[idx_to][0])
             # aggiorno gli indici relativi alle stazioni considerate nel percorso
             idx_from = idx_to
             idx_to = idx_from + 1
     else:
         print("Non c'è nessun viaggio che soddisfa i vincoli richiesti")
 
-"""
-def print_solution_old():
-    if p[arrivo] != (None, None):
-        print("Orario di partenza: ", d[partenza])
-        print("Orario di arrivo: ", d[arrivo])
-        percorso = Dijkstra.getPercorso(p, partenza, arrivo)
-        # print(percorso)
-
-        route_attuale = None
-        back = 0
-        next = 1
-        while next < len(percorso):
-            route_attuale = p[percorso[next]][1].route_uid
-            while next < len(percorso)-1 and route_attuale == p[percorso[next+1]][1].route_uid:
-                next = next+1
-            print(p[percorso[back+1]][1].time_departure, " : corsa ", route_attuale, " da ", percorso[back], " a ", percorso[next])
-            back = next
-            next = next + 1    
-    else:
-        print("Non c'è nessun viaggio che soddisfa i vincoli richiesti")
-"""
 
 print("Script start")
 
@@ -71,7 +52,3 @@ print_solution()
 PlotMap.draw_map(path, partenza, arrivo)
 
 print("Script end")
-"""
-arrivo="004240102"
-Dijkstra().printResult(p, d, partenza, arrivo)
-"""
