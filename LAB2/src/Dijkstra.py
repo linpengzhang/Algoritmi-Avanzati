@@ -9,27 +9,30 @@ il grafo è rappresentato come dizionario (nodi di partenza) di un dizionario (n
 - il peso dei cammini è dato dall'orario di arrivo presso il nodo (stazione)
 """
 
+
 def initsssp(s, inizio, g: Graph):
-    d = {} # peso dei cammini (il peso corrisponde all'ora di arrivo)
-    p = {} # predecessore nel cammino (coppia nodo predecessore e arco utilizzato)
+    d = {}  # peso dei cammini (il peso corrisponde all'ora di arrivo)
+    p = {}  # predecessore nel cammino (coppia nodo predecessore e arco utilizzato)
     for v in g.graph.keys():
         d[v] = float("inf")
         p[v] = (None, None)
-    d[s] = inizio # il valore iniziale è l'ora dalla quale poter partire
+    d[s] = inizio  # il valore iniziale è l'ora dalla quale poter partire
     return d, p
+
 
 def relax(u, v, edge, d, p, time_arrival):
     d[v] = time_arrival
     p[v] = (u, edge)
 
+
 def dijkstrasssp(s, inizio, g: Graph):
-    d, p = initsssp(s, inizio, g) # inizializzazione di: d, p
+    d, p = initsssp(s, inizio, g)  # inizializzazione di: d, p
     # coda di priorità Q (heap binaria)
     # i valori sono coppie (peso, nodo) il cui ordine si basa sul primo valore
-    Q = MyHeap(d,g.dict_of_nodes())
+    Q = MyHeap(d, g.dict_of_nodes())
     # iterazione per ciascun elemento di Q
     while len(Q) > 0:
-        u = Q.extract_min() # estraggo nodo con tempo di arrivo minimo
+        u = Q.extract_min()  # estraggo nodo con tempo di arrivo minimo
         # considero ciascun nodo adiacente al nodo di partenza u
         for v in g.graph[u].keys():
             # cerco l'arco che mi permette di arrivare prima possibile al successivo nodo v
@@ -50,18 +53,9 @@ def dijkstrasssp(s, inizio, g: Graph):
             if min_element < float("inf") and min_element < d[v]:
                 # trovato un arco teso: min_element rappresenta il nuovo orario di arrivo alla stazione v
                 relax(u, v, best_edge, d, p, min_element)
-                Q.decrease_key(v,d[v]) # d[v] è stato aggiornato
+                Q.decrease_key(v, d[v]) # d[v] è stato aggiornato
     return d, p
 
-"""
-def getPercorso(p, partenza, arrivo):
-    # p[arrivo] != (None, None)
-    if partenza == arrivo:
-        return [partenza]
-    percorso = getPercorso(p, partenza, p[arrivo][0])
-    percorso.append(arrivo)
-    return percorso
-"""
 
 def get_path(p, origin, destination):
     """
@@ -72,7 +66,7 @@ def get_path(p, origin, destination):
     # verifico che la destinazione sia raggiungibile
     if p[destination] != (None, None):
         # aggiungo l'ultimo nodo (stazione) del cammino che non ha archi successivi
-        path.append((destination,None))
+        path.append((destination, None))
         current_station = destination
         # procedo a ritroso fino ad arrivare alla stazione di origine
         while current_station != origin:
@@ -83,4 +77,3 @@ def get_path(p, origin, destination):
             # aggiorno la stazione corrente
             current_station = previous_station
     return path
-        
