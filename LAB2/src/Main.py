@@ -1,51 +1,76 @@
 from Graph_FromFile import GraphFromFile
-from Dijkstra import Dijkstra
-import matplotlib.pyplot as plt
+import Dijkstra
+import PlotMap
+
+def print_solution():
+    print(" *** SOLUZIONE TROVATA: *** ")
+    print("Viaggio da ", partenza, " a ", arrivo)
+    
+    # path: lista di tuple (stazione, possible corsa) che compone il percorso
+    if len(path) > 0:
+        print("Orario di partenza: ", d[partenza])
+        print("Orario di arrivo: ", d[arrivo])
+        idx_from = 0 # indice del percorso della partenza di una corsa
+        idx_to = 1 # indice del percorso dell'arrivo di una corsa
+        while idx_to < len(path):
+            current_route = path[idx_from][1].route_uid # uid corsa dell'arco attualmente considerato
+            # finché nel percorso continuo con la stessa corsa, ignoro le stazioni intermedie
+            while idx_to < len(path)-1 and current_route == path[idx_to][1].route_uid:
+                idx_to += 1
+            # stampo le informazioni di una corsa che compone il percorso
+            print(path[idx_from][1].time_departure, " : corsa ", current_route, " da ", path[idx_from][0], " a ", path[idx_to][0])
+            # aggiorno gli indici relativi alle stazioni considerate nel percorso
+            idx_from = idx_to
+            idx_to = idx_from + 1
+    else:
+        print("Non c'è nessun viaggio che soddisfa i vincoli richiesti")
+
+"""
+def print_solution_old():
+    if p[arrivo] != (None, None):
+        print("Orario di partenza: ", d[partenza])
+        print("Orario di arrivo: ", d[arrivo])
+        percorso = Dijkstra.getPercorso(p, partenza, arrivo)
+        # print(percorso)
+
+        route_attuale = None
+        back = 0
+        next = 1
+        while next < len(percorso):
+            route_attuale = p[percorso[next]][1].route_uid
+            while next < len(percorso)-1 and route_attuale == p[percorso[next+1]][1].route_uid:
+                next = next+1
+            print(p[percorso[back+1]][1].time_departure, " : corsa ", route_attuale, " da ", percorso[back], " a ", percorso[next])
+            back = next
+            next = next + 1    
+    else:
+        print("Non c'è nessun viaggio che soddisfa i vincoli richiesti")
+"""
+
 print("Script start")
+
 # Read file and create main graph
 print("Reading graph from file(s)...")
 real_graph = GraphFromFile("./inputFiles/*.LIN")
 print("Graph created.")
-#lettura coord
-print("Reading coords from file...")
-file = open("./inputFiles/bfkoord", 'r', encoding="latin-1")
+
+# Imposta stazioni di partenza e arrivo
 partenza = "500000079"
 arrivo = "300000044"
-nodeCoords = {}
-for row in file:
-    if row[0:9].isalnum():
-        latitudine = float(row[12:20])
-        longitudine = float(row[22:30])
-        nodeCoords[row[0:9]] = (latitudine, longitudine)
-        plt.plot(latitudine, longitudine, marker='.', color='gray')
-plt.xlabel("Latitudine")
-plt.ylabel("Longitudine")
-plt.title("Soluzione grafica del viaggio da " + partenza + " ad " + arrivo)
-plt.legend()
-print("Map created.")
+
+# Run Dijkstra
 print("Starting Dijksta algorithm...")
-d, p = Dijkstra().dijkstrasssp(partenza, 1300, real_graph)
-print("Viaggio da ", partenza, " a ", arrivo)
-if p[arrivo] != (None, None):
-    print("Orario di partenza: ", d[partenza])
-    print("Orario di arrivo: ", d[arrivo])
-    percorso = Dijkstra().getPercorso(p, partenza, arrivo)
-    print(percorso)
-    route_attuale = None
-    back = 0
-    next = 1
-    while next < len(percorso):
-        route_attuale = p[percorso[next]][1].route_uid
-        while next < len(percorso)-1 and route_attuale == p[percorso[next+1]][1].route_uid:
-            next = next+1
-        print(p[percorso[back+1]][1].time_departure, " : corsa ", route_attuale, " da ", percorso[back], " a ", percorso[next])
-        back = next
-        next = next + 1
-    for i in range(len(percorso)-1):
-        plt.plot([nodeCoords[percorso[i]][0], nodeCoords[percorso[i+1]][0]], [nodeCoords[percorso[i]][1], nodeCoords[percorso[i+1]][1]], linestyle='-', color='blue')     
-else:
-    print("Non c'è nessun viaggio che soddisfa i vincoli richiesti")
-plt.show()
+d, p = Dijkstra.dijkstrasssp(partenza, 1300, real_graph)
+print("Dijksta finished.")
+
+# Stampa la soluzione trovata
+path = Dijkstra.get_path(p, partenza, arrivo)
+print_solution()
+
+# Mostra il percorso trovato in una mappa
+PlotMap.draw_map(path, partenza, arrivo)
+
+print("Script end")
 """
 arrivo="004240102"
 Dijkstra().printResult(p, d, partenza, arrivo)
