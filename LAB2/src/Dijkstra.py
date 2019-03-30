@@ -18,8 +18,8 @@ def initsssp(s, inizio, g: Graph):
     d[s] = inizio # il valore iniziale è l'ora dalla quale poter partire
     return d, p
 
-def relax(u, v, edge, d, p):
-    d[v] = edge.time_arrival
+def relax(u, v, edge, d, p, time_arrival):
+    d[v] = time_arrival
     p[v] = (u, edge)
 
 def dijkstrasssp(s, inizio, g: Graph):
@@ -42,15 +42,15 @@ def dijkstrasssp(s, inizio, g: Graph):
                         min_element = edge.time_arrival
                         best_edge = edge
                 # caso in cui si prenda una corsa che PARTE il giorno successivo - da controllare
-                # elif d[u] <= edge.time_departure + 2400:
-                #     if edge.time_arrival + 2400 < min_element:
-                #         min_element = edge.time_arrival + 2400
-                #         best_edge = edge
+                elif d[u] <= edge.time_departure + 2400:
+                    if edge.time_arrival + 2400 < min_element:
+                        min_element = edge.time_arrival + 2400
+                        best_edge = edge
             # se (min_element == float("inf")) => non c'è un arco ammissibile tra i due nodi
-            if min_element < float("inf") and best_edge.time_arrival < d[v]:
-                # trovato un arco teso
-                relax(u, v, best_edge, d, p)
-                Q.decrease_key(v,d[v])
+            if min_element < float("inf") and min_element < d[v]:
+                # trovato un arco teso: min_element rappresenta il nuovo orario di arrivo alla stazione v
+                relax(u, v, best_edge, d, p, min_element)
+                Q.decrease_key(v,d[v]) # d[v] è stato aggiornato
     return d, p
 
 """
