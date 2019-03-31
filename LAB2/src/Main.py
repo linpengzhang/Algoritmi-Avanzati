@@ -2,15 +2,19 @@ from Graph_FromFile import GraphFromFile
 import Dijkstra
 import PlotMap
 
-
+def int_to_time(value: int):
+    if value>2359:
+        return str(value%2400).rjust(4, "0")[0:2] + ":" + str(value%2400).rjust(4, "0")[2:] + " di " + str(int(value/2400)) + " giorni dopo"
+    else:
+        return str(value).rjust(4,"0")[0:2]+":"+str(value).rjust(4,"0")[2:]
 def print_solution():
     print(" *** SOLUZIONE TROVATA: *** ")
     print("Viaggio da ", partenza, " a ", arrivo)
 
     # path: lista di tuple (stazione, possible corsa) che compone il percorso
     if len(path) > 0:
-        print("Orario di partenza: ", d[partenza])
-        print("Orario di arrivo: ", d[arrivo])
+        print("Orario di partenza: ", int_to_time(d[partenza]))
+        print("Orario di arrivo: ", int_to_time(d[arrivo]))
         idx_from = 0  # indice del percorso della partenza di una corsa
         idx_to = 1  # indice del percorso dell'arrivo di una corsa
         while idx_to < len(path):
@@ -19,7 +23,7 @@ def print_solution():
             while idx_to < len(path) - 1 and current_route == path[idx_to][1].route_uid:
                 idx_to += 1
             # stampo le informazioni di una corsa che compone il percorso
-            print(path[idx_from][1].time_departure, " : corsa ", current_route, " da ", path[idx_from][0], " a ",
+            print(int_to_time(path[idx_from][1].time_departure), " : corsa ", current_route, " da ", path[idx_from][0], " a ",
                   path[idx_to][0])
             # aggiorno gli indici relativi alle stazioni considerate nel percorso
             idx_from = idx_to
@@ -36,12 +40,17 @@ real_graph = GraphFromFile("./inputFiles/*.LIN")
 print("Graph created.")
 
 # Imposta stazioni di partenza e arrivo
-partenza = "500000079"
-arrivo = "300000044"
+partenzaList = ["500000079", "200415016", "300000032", "210602003", "200417051", "200417051"]
+arrivoList = ["300000044", "200405005", "400000122", "300000030", "140701016", "140701016"]
+orarioPartenzaList = [1300, 930, 530, 630, 1200, 2355]
+i=5
+partenza = partenzaList[i]
+arrivo = arrivoList[i]
+orarioPartenza = orarioPartenzaList[i]
 
 # Run Dijkstra
 print("Starting Dijksta algorithm...")
-d, p = Dijkstra.dijkstrasssp(partenza, 1300, real_graph)
+d, p = Dijkstra.dijkstrasssp(partenza, orarioPartenza, real_graph)
 print("Dijksta finished.")
 
 # Stampa la soluzione trovata
