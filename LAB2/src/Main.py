@@ -43,7 +43,7 @@ print("Graph created.")
 partenzaList = ["500000079", "200415016", "300000032", "210602003", "200417051", "200417051"]
 arrivoList = ["300000044", "200405005", "400000122", "300000030", "140701016", "140701016"]
 orarioPartenzaList = [1300, 930, 530, 630, 1200, 2355]
-i=5
+i=0
 partenza = partenzaList[i]
 arrivo = arrivoList[i]
 orarioPartenza = orarioPartenzaList[i]
@@ -58,6 +58,6 @@ path = Dijkstra.get_path(p, partenza, arrivo)
 print_solution()
 
 # Mostra il percorso trovato in una mappa
-PlotMap.draw_map(path, partenza, arrivo)
+PlotMap.draw_map(path, partenza, arrivo, int_to_time(orarioPartenza))
 
 print("Script end")
