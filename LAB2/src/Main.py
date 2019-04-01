@@ -25,8 +25,8 @@ d, p = Dijkstra.dijkstrasssp(partenza, orarioPartenza, real_graph)
 print("Dijksta finished.")
 
 # Stampa la soluzione trovata
-path = Dijkstra.get_path(p, partenza, arrivo)
-Printer.print_solution(partenza, arrivo, orarioPartenza, path)
+path = Dijkstra.get_path(d, p, partenza, arrivo)
+Printer.print_solution(partenza, arrivo, path)
 
 # Mostra il percorso trovato in una mappa
 PlotMap.draw_map(path, partenza, arrivo, Printer.print_time(orarioPartenza))

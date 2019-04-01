@@ -59,23 +59,24 @@ def dijkstrasssp(s, inizio, g: Graph):
                 Q.decrease_key(v, d[v]) # d[v] è stato aggiornato
     return d, p
 
-def get_path(p, origin, destination):
+
+def get_path(d, p, origin, destination):
     """
-    :return: List of tuples (node, possible edge) composing the path from origin to destination
+    :return: List of tuples (node, possible edge, time arrival) composing the path from origin to destination
     """
     # input: dict p: predecessore di ciascun nodo nel cammino (coppia nodo predecessore e arco utilizzato)
     path = deque()
     # verifico che la destinazione sia raggiungibile
     if p[destination] != (None, None):
         # aggiungo l'ultimo nodo (stazione) del cammino che non ha archi successivi
-        path.append((destination, None))
+        path.append((destination, None, d[destination]))
         current_station = destination
         # procedo a ritroso fino ad arrivare alla stazione di origine
         while current_station != origin:
             previous_station = p[current_station][0]
             previous_route = p[current_station][1]
             # aggiungo il nodo (stazione) precedente e l'arco (tratta) precedenti nel percorso
-            path.appendleft((previous_station, previous_route))
+            path.appendleft((previous_station, previous_route, d[previous_station]))
             # aggiorno la stazione corrente
             current_station = previous_station
     return path
