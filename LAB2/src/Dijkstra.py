@@ -33,29 +33,31 @@ def dijkstrasssp(s, inizio, g: Graph):
     # iterazione per ciascun elemento di Q
     while len(Q) > 0:
         u = Q.extract_min()  # estraggo nodo con tempo di arrivo minimo
+        if d[u] == float("inf"):
+            break
         # considero ciascun nodo adiacente al nodo di partenza u
         for v in g.graph[u].keys():
             # cerco l'arco che mi permette di arrivare prima possibile al successivo nodo v
             min_element = float("inf")
             for edge in g.graph[u][v]:
-                # MA considero solo gli archi ammissibili: l'orario di partenza non deve essere
-                # antecedente all'orario di arrivo alla stazione di partenza u
-                if d[u] <= edge.time_departure:
-                    if edge.time_arrival < min_element:
-                        min_element = edge.time_arrival
-                        best_edge = edge
-                # caso in cui si prenda una corsa che PARTE il giorno successivo - da controllare
-                elif d[u] <= edge.time_departure + 2400:
-                    if edge.time_arrival + 2400 < min_element:
-                        min_element = edge.time_arrival + 2400
-                        best_edge = edge
+                # MA l'orario di partenza di una corsa presa non deve essere antecedente all'orario 
+                # di arrivo alla stazione di partenza u
+                # Se alla stazione u arrivo un giorno successivo, ne tengo conto in time_arrival
+                time_arrival = edge.time_arrival + (d[u] // 2400) * 2400 
+                # Se una corsa parte ad un'orario precedente, la si può prendere il giorno dopo
+                if d[u] % 2400 > edge.time_departure:
+                    time_arrival = time_arrival + 2400
+                # time_arrival è l'orario in cui arrivo a v considerando anche il giorno
+                if time_arrival < min_element:
+                    min_element = time_arrival
+                    best_edge = edge
             # se (min_element == float("inf")) => non c'è un arco ammissibile tra i due nodi
+            # (non *dovrebbe* più succedere considerando anche i giorni successivi)
             if min_element < float("inf") and min_element < d[v]:
                 # trovato un arco teso: min_element rappresenta il nuovo orario di arrivo alla stazione v
                 relax(u, v, best_edge, d, p, min_element)
                 Q.decrease_key(v, d[v]) # d[v] è stato aggiornato
     return d, p
-
 
 def get_path(p, origin, destination):
     """

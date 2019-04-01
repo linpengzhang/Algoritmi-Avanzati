@@ -1,12 +1,12 @@
 import matplotlib.pyplot as plt
 
 
-def draw_map(path, partenza, arrivo):
+def draw_map(path, partenza, arrivo, ora):
     # Read coordinates of the stations
     node_coords = read_station_coordinates()
 
     print("Drawing map...")
-    plt.title("Tragitto del viaggio da " + partenza + " ad " + arrivo)
+    plt.title("Tragitto da " + partenza + " ad " + arrivo + " non prima delle " + ora)
     plt.xlabel("Longitudine")
     plt.ylabel("Latitudine")
     for (lon, lat) in node_coords.values():

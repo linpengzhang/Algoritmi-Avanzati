@@ -11,24 +11,24 @@ real_graph = GraphFromFile("./inputFiles/*.LIN")
 print("Graph created.")
 
 # Imposta stazioni di partenza e arrivo
-partenza = "500000079"
-arrivo = "300000044"
-# "004240102"
-orario = 1300
-# partenza = "200417051"
-# arrivo = "140701016"
-# orario = 2355
+partenzaList = ["500000079", "200415016", "300000032", "210602003", "200417051", "200417051"]
+arrivoList = ["300000044", "200405005", "400000122", "300000030", "140701016", "140701016"]
+orarioPartenzaList = [1300, 930, 530, 630, 1200, 2355]
+i=0
+partenza = partenzaList[i]
+arrivo = arrivoList[i]
+orarioPartenza = orarioPartenzaList[i]
 
 # Run Dijkstra
 print("Starting Dijksta algorithm...")
-d, p = Dijkstra.dijkstrasssp(partenza, orario, real_graph)
+d, p = Dijkstra.dijkstrasssp(partenza, orarioPartenza, real_graph)
 print("Dijksta finished.")
 
 # Stampa la soluzione trovata
 path = Dijkstra.get_path(p, partenza, arrivo)
-Printer.print_solution(partenza, arrivo, orario, path)
+Printer.print_solution(partenza, arrivo, orarioPartenza, path)
 
 # Mostra il percorso trovato in una mappa
-PlotMap.draw_map(path, partenza, arrivo)
+PlotMap.draw_map(path, partenza, arrivo, Printer.print_time(orarioPartenza))
 
 print("Script end")
