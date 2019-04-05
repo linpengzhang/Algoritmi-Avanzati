@@ -1,7 +1,5 @@
 from Graph_FromFile import GraphFromFile
-import Dijkstra
-import PlotMap
-import Printer
+
 
 print("Script start")
 

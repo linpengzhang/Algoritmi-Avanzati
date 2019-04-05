@@ -1,8 +1,9 @@
 from collections import defaultdict
 import glob
 from Graph import Graph
-from Route import Route
 import math
+
+
 class GraphFromFile(Graph):
     """
     Class that read the Graph informations from all the files specified
