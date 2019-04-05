@@ -1,3 +1,101 @@
 Linpeng Zhang 1162114
 Michele Roverato 1143030
 Martino Echerle 1206691
+
+Domanda 1
+È stato costruito un multigrafo pesato che ha:
+- un nodo per ogni stazione;
+- un arco per ogni corsa da una stazione all’altra;
+- le informazioni sull'arco come peso.
+Ci possono essere, quindi, archi paralleli.
+Come struttura dati si è usata una lista delle adiacenze modificata: un dizionario che associa ad ogni stazione di partenza un ulteriore dizionario che associa ad ogni stazione di arrivo un insieme di archi relativi alle corse tra le due stazioni.
+In particolare adj[u][v] è un insieme costituito dagli archi tra u e v, ovvero dalle corse tra le due stazioni u e v.
+
+Domanda 2
+È stato utilizzato l’algoritmo di Dijkstra. Per quanto riguarda l’implementazione della coda di priorità è stata utilizzata un heap binaria con un dizionario in esso contenuto che associa l’etichetta del nodo alla sua posizione nello heap; questo consente di effettuare l’operazione DecreaseKey in tempo logaritmico. Per quanto riguarda l’algoritmo, dopo l’estrazione del nodo u con distanza minima si guardano tutti i nodi v adiacenti ad u, e per ognuno di essi si trova il miglior arco; se è teso si rilassa. Naturalmente si tiene conto del numero di giorni e dell’orario di partenza, in modo che se si arriva dopo della partenza di una corsa si aumenterà l’orario di arrivo per quella corsa di 1 giorno.
+
+Domanda 3
+I risultati sono rappresentati graficamente nella cartella soluzioni_grafiche.
+Quelli testuali sono di seguito:
+
+Viaggio da 500000079 a 300000044
+Orario di partenza: 13:00
+Orario di arrivo: 17:18
+13:46 -> 14:41 : corsa 06171 CFLBUS da 500000079 a 200405036
+14:47 -> 15:27 : corsa 06311 CFLBUS da 200405036 a 300000003
+15:31 -> 17:18 : corsa 02138 C82--- da 300000003 a 300000044
+
+Viaggio da 200415016 a 200405005
+Orario di partenza: 09:30
+Orario di arrivo: 09:52
+09:30 -> 09:40 : corsa 00360 RGTR-- da 200415016 a 200405026
+09:40 -> 09:41 : corsa 01797 AVL--- da 200405026 a 200405023
+09:42 -> 09:44 : corsa 00847 CFLBUS da 200405023 a 200405020
+09:50 -> 09:52 : corsa 06602 RGTR-- da 200405020 a 200405005
+
+Viaggio da 300000032 a 400000122
+Orario di partenza: 05:30
+Orario di arrivo: 13:50
+06:26 -> 06:34 : corsa 07608 C88--- da 300000032 a 110606001
+06:35 -> 06:49 : corsa 03781 C82--- da 110606001 a 110501002
+06:50 -> 07:04 : corsa 07608 C88--- da 110501002 a 140304001
+07:05 -> 07:43 : corsa 03781 C82--- da 140304001 a 200405035
+07:46 -> 08:44 : corsa 00055 C82--- da 200405035 a 400000047
+12:07 -> 13:50 : corsa 09879 C82--- da 400000047 a 400000122
+
+Viaggio da 210602003 a 300000030
+Orario di partenza: 06:30
+Orario di arrivo: 10:53
+06:41 -> 06:46 : corsa 00030 CFLBUS da 210602003 a 210201002
+06:46 -> 06:47 : corsa 00032 CFLBUS da 210201002 a 210201003
+06:47 -> 06:54 : corsa 00034 CFLBUS da 210201003 a 210502001
+06:55 -> 07:07 : corsa 00033 CFLBUS da 210502001 a 201103004
+07:07 -> 07:08 : corsa 01306 CFLBUS da 201103004 a 201103001
+07:09 -> 07:11 : corsa 01288 CFLBUS da 201103001 a 200301002
+07:11 -> 07:11 : corsa 01306 CFLBUS da 200301002 a 200301003
+07:12 -> 07:19 : corsa 00033 CFLBUS da 200301003 a 200404028
+07:19 -> 07:19 : corsa 01306 CFLBUS da 200404028 a 200404016
+07:20 -> 07:23 : corsa 00024 RGTR-- da 200404016 a 200405036
+07:24 -> 07:26 : corsa 01173 RGTR-- da 200405036 a 200405026
+07:27 -> 07:29 : corsa 04301 AVL--- da 200405026 a 200405035
+07:40 -> 10:53 : corsa 07630 C82--- da 200405035 a 300000030
+
+Viaggio da 200417051 a 140701016
+Orario di partenza: 12:00
+Orario di arrivo: 12:43
+12:20 -> 12:43 : corsa 03762 C82--- da 200417051 a 140701016
+
+Viaggio da 200417051 a 140701016
+Orario di partenza: 23:55
+Orario di arrivo: 00:44 (1 giorno/i dopo)
+00:09 -> 00:44 : corsa 03623 C82--- da 200417051 a 140701016
+
+Viaggio da 400000035 a 200415005
+Orario di partenza: 11:02
+Orario di arrivo: 17:35
+16:51 -> 17:22 : corsa 86567 C87--- da 400000035 a 200415004
+17:26 -> 17:29 : corsa 02234 AVL--- da 200415004 a 200412009
+17:32 -> 17:35 : corsa 07961 RGTR-- da 200412009 a 200415005
+
+Viaggio da 221106005 a 220902016
+Orario di partenza: 13:01
+Orario di arrivo: 14:16
+13:05 -> 13:10 : corsa 09127 RGTR-- da 221106005 a 221105003
+13:18 -> 13:23 : corsa 00642 RGTR-- da 221105003 a 220102005
+13:33 -> 13:50 : corsa 06913 C82--- da 220102005 a 220401001
+13:51 -> 14:03 : corsa 00462 C82--- da 220401001 a 220902006
+14:04 -> 14:06 : corsa 06913 C82--- da 220902006 a 220901002
+14:06 -> 14:08 : corsa 00561 TIC--- da 220901002 a 220902013
+14:13 -> 14:16 : corsa 00804 TIC--- da 220902013 a 220902016
+
+Viaggio da 170601004 a 170501010
+Orario di partenza: 04:08
+Orario di arrivo: 06:31
+04:46 -> 04:46 : corsa 02394 CFLBUS da 170601004 a 170601001
+04:47 -> 04:49 : corsa 02344 CFLBUS da 170601001 a 170605001
+05:11 -> 05:32 : corsa 09447 RGTR-- da 170605001 a 170701001
+06:27 -> 06:31 : corsa 00026 CFLBUS da 170701001 a 170501010
+
+Domanda 4
+Le soluzioni sono ragionevoli per quanto riguarda la minimizzazione del tempo di arrivo, ma non necessariamente la durata del viaggio, in quanto ad ogni stazione intermedia si arriva il prima possibile. 
+Inoltre non si tiene conto dell'intervallo di tempo necessario per gli scali. Per risolvere questo problema basta utilizzare come tempo di arrivo in un nodo u il tempo d[u]+k dove k è 0 se non si cambia corsa e un numero positivo se si cambia corsa.
