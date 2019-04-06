@@ -1,18 +1,21 @@
-Linpeng Zhang 1162114
+﻿Linpeng Zhang 1162114
 Michele Roverato 1143030
 Martino Echerle 1206691
 
 Domanda 1
-È stato costruito un multigrafo pesato che ha:
-- un nodo per ogni stazione;
-- un arco per ogni corsa da una stazione all’altra;
-- le informazioni sull'arco come peso.
+È stato costruito un multigrafo, orientato e pesato, in cui:
+- un nodo corrisponde ad una stazione;
+- un arco corrisponde ad una singola tratta da una stazione all’altra di una certa corsa ad un certo orario;
+- su ciascun arco sono memorizzate le informazioni della tratta, rappresentate dalla classe Route (corsa di appartenenza, orario di partenza e orario di arrivo); come peso per il calcolo del cammino minimo è stato utilizzato l'orario di arrivo (comprensivo dell'eventuale giorno) presso il nodo (stazione).
 Ci possono essere, quindi, archi paralleli.
 Come struttura dati si è usata una lista delle adiacenze modificata: un dizionario che associa ad ogni stazione di partenza un ulteriore dizionario che associa ad ogni stazione di arrivo un insieme di archi relativi alle corse tra le due stazioni.
 In particolare adj[u][v] è un insieme costituito dagli archi tra u e v, ovvero dalle corse tra le due stazioni u e v.
 
 Domanda 2
-È stato utilizzato l’algoritmo di Dijkstra. Per quanto riguarda l’implementazione della coda di priorità è stata utilizzata un heap binaria con un dizionario in esso contenuto che associa l’etichetta del nodo alla sua posizione nello heap; questo consente di effettuare l’operazione DecreaseKey in tempo logaritmico. Per quanto riguarda l’algoritmo, dopo l’estrazione del nodo u con distanza minima si guardano tutti i nodi v adiacenti ad u, e per ognuno di essi si trova il miglior arco; se è teso si rilassa. Naturalmente si tiene conto del numero di giorni e dell’orario di partenza, in modo che se si arriva dopo della partenza di una corsa si aumenterà l’orario di arrivo per quella corsa di 1 giorno.
+È stato utilizzato, con degli adattamenti, l’algoritmo di Dijkstra.
+Per quanto riguarda l’implementazione della coda di priorità è stata utilizzata una heap binaria (implementata nella classe MyHeap) con un dizionario in essa contenuto che associa l’etichetta del nodo alla sua posizione nello heap; questo consente di effettuare l’operazione DecreaseKey in tempo logaritmico.
+Per adattare l’algoritmo di Dijkstra alla presenza di più archi tra due nodi, dopo l’estrazione del nodo u con distanza minima, quando si guardano tutti i nodi v adiacenti ad u, per ognuno di essi si trova il miglior arco tra tutti quelli che collegano u a v (ovvero quello che permette, dopo essere arrivati in u ad un certo orario, di arrivare a v il prima possibile); se questo arco trovato è teso, allora lo si rilassa.
+Naturalmente si tiene conto anche del numero di giorni e dell’orario di partenza, in modo che se si considera una corsa che parte ad un orario precedente a quello di arrivo ad una certa stazione, la si può comunque considerare ma prendendola il giorno successivo, ovvero si aumenterà l’orario di arrivo per quella corsa di 1 giorno.
 
 Domanda 3
 I risultati sono rappresentati graficamente nella cartella soluzioni_grafiche.
