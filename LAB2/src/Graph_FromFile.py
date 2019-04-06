@@ -16,7 +16,6 @@ class GraphFromFile(Graph):
     def read_graph_from_file(self, directory_files: str):
         for filename in glob.glob(directory_files):
             with open(filename, 'r', encoding='latin-1') as file:
-                # nota.. legge tutte le linee per creare l'intera lista
                 lines = file.readlines()
                 for i in range(0, len(lines) - 1):
                     if lines[i].startswith('*Z'):
