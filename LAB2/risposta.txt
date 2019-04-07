@@ -9,7 +9,7 @@ Domanda 1
 - su ciascun arco sono memorizzate le informazioni della tratta, rappresentate dalla classe Route (corsa di appartenenza, orario di partenza e orario di arrivo); come peso per il calcolo del cammino minimo è stato utilizzato l'orario di arrivo (comprensivo dell'eventuale giorno) presso il nodo (stazione).
 Ci possono essere, quindi, archi paralleli.
 Come struttura dati si è usata una lista delle adiacenze modificata: un dizionario che associa ad ogni stazione di partenza un ulteriore dizionario che associa ad ogni stazione di arrivo un insieme di archi relativi alle corse tra le due stazioni.
-In particolare adj[u][v] è un insieme costituito dagli archi tra u e v, ovvero dalle corse tra le due stazioni u e v.
+In particolare adj[u][v] è un insieme costituito dagli archi tra u e v, ovvero dalle corse che partono in u e arrivano in v.
 
 Domanda 2
 È stato utilizzato, con degli adattamenti, l’algoritmo di Dijkstra.
