@@ -27,7 +27,7 @@ class MyHeap:
     def _bubble_up(self, i):
         p = self._parent(i)
         while i > 0 and self.heap[i][0] < self.heap[p][0]:
-            self._swap(i, p)  # swap
+            self._swap(i, p)
             i = p
             p = self._parent(i)
 
@@ -41,7 +41,7 @@ class MyHeap:
         if r < n and self.heap[r][0] < self.heap[smallest][0]:
             smallest = r
         if smallest != i:
-            self._swap(i, smallest)  # swap
+            self._swap(i, smallest)
             self._trickle_down(smallest)
 
     def _swap(self, i, j):
