@@ -9,13 +9,16 @@ Domanda 1
 - su ciascun arco sono memorizzate le informazioni della tratta, rappresentate dalla classe Route (corsa di appartenenza, orario di partenza e orario di arrivo); come peso per il calcolo del cammino minimo è stato utilizzato l'orario di arrivo (comprensivo dell'eventuale giorno) presso il nodo (stazione).
 Ci possono essere, quindi, archi paralleli.
 Come struttura dati si è usata una lista delle adiacenze modificata: un dizionario che associa ad ogni stazione di partenza un ulteriore dizionario che associa ad ogni stazione di arrivo un insieme di archi relativi alle corse tra le due stazioni.
-In particolare adj[u][v] è un insieme costituito dagli archi tra u e v, ovvero dalle corse che partono in u e arrivano in v.
+In particolare adj[u][v] è un insieme costituito dagli archi tra u e v, ovvero dalle singole tratte che partono in u e arrivano in v.
 
 Domanda 2
 È stato utilizzato, con degli adattamenti, l’algoritmo di Dijkstra.
-Per quanto riguarda l’implementazione della coda di priorità è stata utilizzata una heap binaria (implementata nella classe MyHeap) con un dizionario in essa contenuto che associa l’etichetta del nodo alla sua posizione nello heap; questo consente di effettuare l’operazione DecreaseKey in tempo logaritmico.
+Per quanto riguarda l’implementazione della coda di priorità è stata utilizzata una heap binaria (implementata nella classe MyHeap) con un dizionario in essa contenuto che associa l’etichetta del nodo alla sua posizione nello heap; questo consente di effettuare l’operazione DecreaseKey in tempo logaritmico. L'heap binaria consiste in una lista di tuple (weight, node), il cui ordine è determinato da weight e in cui weight rappresenta il tempo d'arrivo presso una stazione e node è l'identificativo della stazione.
 Per adattare l’algoritmo di Dijkstra alla presenza di più archi tra due nodi, dopo l’estrazione del nodo u con distanza minima, quando si guardano tutti i nodi v adiacenti ad u, per ognuno di essi si trova il miglior arco tra tutti quelli che collegano u a v (ovvero quello che permette, dopo essere arrivati in u ad un certo orario, di arrivare a v il prima possibile); se questo arco trovato è teso, allora lo si rilassa.
 Naturalmente si tiene conto anche del numero di giorni e dell’orario di partenza, in modo che se si considera una corsa che parte ad un orario precedente a quello di arrivo ad una certa stazione, la si può comunque considerare ma prendendola il giorno successivo, ovvero si aumenterà l’orario di arrivo per quella corsa di 1 giorno.
+L'output dell'algoritmo di Dijkstra consiste nei dizionari: 
+- d, dei pesi dei cammini minimi trovati (che corrispondono all'orario minimo di arrivo alla stazione)
+- p, dei predecessori di ciascun nodo nel cammino, dove come predecessore si considera la tupla (nodo predecessore, arco utilizzato), essendoci tra due nodi potenzialmente più archi.
 
 Domanda 3
 I risultati sono rappresentati graficamente nella cartella soluzioni_grafiche.
@@ -100,5 +103,5 @@ Orario di arrivo: 06:31
 06:27 -> 06:31 : corsa 00026 CFLBUS da 170701001 a 170501010
 
 Domanda 4
-Le soluzioni sono ragionevoli per quanto riguarda la minimizzazione del tempo di arrivo, ma non necessariamente la durata del viaggio, in quanto ad ogni stazione intermedia si arriva il prima possibile. 
-Inoltre non si tiene conto dell'intervallo di tempo necessario per gli scali. Per risolvere questo problema basta utilizzare come tempo di arrivo in un nodo u il tempo d[u]+k dove k è 0 se non si cambia corsa e un numero positivo se si cambia corsa.
+Le soluzioni sono ragionevoli per quanto riguarda la minimizzazione del tempo di arrivo, ma non necessariamente anche per la durata del viaggio in alcuni casi particolari. Ad esempio, nel terzo risultato sopra riportato, si potrebbe partire un po' più tardi pur arrivando allo stesso orario (diminuendo il tempo d'attesa per il cambio). Questo è dovuto al fatto che l'algoritmo di Dijkstra utilizzato minimizza il tempo d'arrivo presso ogni stazione, quindi anche presso ogni stazione intermedia del viaggio.
+Inoltre non si tiene conto dell'intervallo di tempo necessario per gli scali. Il quarto risultato sopra riportato, ad esempio, sfrutta parecchio l'assunzione che i tempi dei cambi siano trascurabili. Per risolvere questo problema basterebbe utilizzare come tempo di arrivo in un nodo u il tempo d[u]+k dove k è 0 se non si cambia corsa e un numero positivo se si cambia corsa.
