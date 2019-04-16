@@ -14,7 +14,7 @@ print("Graph created.")
 partenzaList = ["500000079", "200415016", "300000032", "210602003", "200417051", "200417051", "400000035", "221106005", "170601004"]
 arrivoList = ["300000044", "200405005", "400000122", "300000030", "140701016", "140701016", "200415005", "220902016", "170501010"]
 orarioPartenzaList = [1300, 930, 530, 630, 1200, 2355, 1102, 1301, 408]
-i = 8
+i = 0
 partenza = partenzaList[i]
 arrivo = arrivoList[i]
 orarioPartenza = orarioPartenzaList[i]
