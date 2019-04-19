@@ -10,3 +10,5 @@ class Graph:
         return len(self.graph)
     def set_of_nodes(self):
         return frozenset(range(self.number_of_nodes))
+    def list_of_nodes(self):
+        return list(range(self.number_of_nodes))
