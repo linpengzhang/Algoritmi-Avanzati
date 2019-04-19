@@ -7,7 +7,7 @@ def hk_visit(G, v, S, d, p):
     """
     if S == frozenset([v]):
         return G.graph[v][0]
-    elif (v, S) in d.keys():
+    elif d[(v, S)] is not None:
         return d[(v,S)]
     else:
         mindist = float("inf")
@@ -22,6 +22,6 @@ def hk_visit(G, v, S, d, p):
         return mindist
 
 def hk_tsp(G: GraphFromFile):
-    d = defaultdict()
+    d = defaultdict(lambda:None)
     p = defaultdict()
     return hk_visit(G, 0, G.set_of_nodes(), d, p)
