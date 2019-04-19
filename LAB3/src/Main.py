@@ -1,6 +1,7 @@
 from Graph_FromFile import GraphFromFile
 from cheapest_insertion import cheapest_insertion
 from held_karp import hk_tsp
+from random_insertion import random_insertion
 
 files_names = ['burma14.tsp', 'ulysses22.tsp', 'eil51.tsp', 'kroD100.tsp', 'gr229.tsp', 'd493.tsp', 'dsj1000.tsp']
 files_descriptions = ['Birmania (Myanmar)', 'Mediterraneo', 'Sintetico', 'Random', 'Asia/Australia', 'Foratura di circuiti stampati', 'Random.tsp']
@@ -25,8 +26,11 @@ print("The optimal solution is: ", optimal_solutions[index])
 #print(hk_tsp(real_graph))
 
 # Run constructive heuristic algorithm
-print("Running: Cheapest Insertion")
-print("Solution:", cheapest_insertion(real_graph))
+#print("Running: Cheapest Insertion")
+#print("Solution:", cheapest_insertion(real_graph))
+
+print("Running: Random Insertion")
+print("Solution:", random_insertion(real_graph))
 
 
 
