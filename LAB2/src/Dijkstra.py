@@ -52,7 +52,6 @@ def dijkstrasssp(s, inizio, g: Graph):
                     min_element = time_arrival
                     best_edge = edge
             # se (min_element == float("inf")) => non c'è un arco ammissibile tra i due nodi
-            # (non *dovrebbe* più succedere considerando anche i giorni successivi)
             if min_element < float("inf") and min_element < d[v]:
                 # trovato un arco teso: min_element rappresenta il nuovo orario di arrivo alla stazione v
                 relax(u, v, best_edge, d, p, min_element)
