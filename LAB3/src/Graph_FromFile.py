@@ -44,15 +44,16 @@ class GraphFromFile(Graph):
             if lines[i].startswith("EDGE_WEIGHT_TYPE"):
                 self.edge_weight_type = lines[i][17:].strip()
         print(self.edge_weight_type)
-        nodeCoords = []
+        self.node_coords = []
         for i in range(init+1, finish):
             dati = lines[i].split()
-            nodeCoords.append((float(dati[1]), float(dati[2])))
+            self.node_coords.append((float(dati[1]), float(dati[2])))
         if self.edge_weight_type == "GEO":
-            self.graph = [ [ self.geo_weight(nodeCoords[i],nodeCoords[j]) for j in range(len(nodeCoords))] for i in range(len(nodeCoords))]
+            self.graph = [ [ self.geo_weight(self.node_coords[i],self.node_coords[j]) for j in range(len(self.node_coords))] for i in range(len(self.node_coords))]
         else:
-            self.graph = [ [ self.euclide_weight(nodeCoords[i],nodeCoords[j]) for j in range(len(nodeCoords))] for i in range(len(nodeCoords))]
+            self.graph = [ [ self.euclide_weight(self.node_coords[i],self.node_coords[j]) for j in range(len(self.node_coords))] for i in range(len(self.node_coords))]
         
         #for i in range(len(self.graph)):
         #    self.graph[i][i] = float("inf")
+        
         #print(self.graph)
