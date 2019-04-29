@@ -1,5 +1,6 @@
 from collections import defaultdict
 
+
 class Graph:
 
     def __init__(self):
@@ -15,10 +16,10 @@ class Graph:
         """
         :return: Return a set with the nodes in the graph
         """
-        return frozenset(range(self.number_of_nodes))
+        return frozenset(range(self.number_of_nodes()))
 
     def list_of_nodes(self):
         """
         :return: Return a list with the nodes in the graph
         """
-        return list(range(self.number_of_nodes))
+        return list(range(self.number_of_nodes()))
