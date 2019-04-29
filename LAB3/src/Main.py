@@ -1,6 +1,7 @@
 from Graph_FromFile import GraphFromFile
 from held_karp import hk_tsp
-import tsp_constructive_heuristics
+from random_insertion import random_insertion
+from tsp import *
 
 files_names = ['burma14.tsp', 'ulysses22.tsp', 'eil51.tsp', 'kroD100.tsp', 'gr229.tsp', 'd493.tsp', 'dsj1000.tsp']
 files_descriptions = ['Birmania (Myanmar)', 'Mediterraneo', 'Sintetico', 'Random', 'Asia/Australia', 'Foratura di circuiti stampati', 'Random.tsp']
@@ -31,8 +32,8 @@ print("Solution:", tsp_constructive_heuristics.nearest_neighbor(real_graph))
 print("Running: Cheapest Insertion")
 print("Solution:", tsp_constructive_heuristics.cheapest_insertion(real_graph))
 
+"""
 print("Running: Random Insertion")
-print("Solution:", tsp_constructive_heuristics.random_insertion(real_graph))
-
+print("Solution:", random_insertion(real_graph))
 
 

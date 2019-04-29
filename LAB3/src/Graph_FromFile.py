@@ -29,18 +29,11 @@ class GraphFromFile(Graph):
     def read_graph_from_file(self, path: str):
         file = open(path, 'r')
         lines = file.readlines()
-        """
-        self.name = lines[0][6:]
-        self.number_of_nodes = lines.index("DIMENSION : ")
-        self.edge_weight_type = lines[4][:]
-        """
         init = lines.index("NODE_COORD_SECTION\n")
         finish = lines.index("EOF\n")
         for i in range(0, init):
             if lines[i].startswith("NAME"):
                 self.name = lines[i][5:].strip()
-            #if lines[i].startswith("DIMENSION"):
-                #self.number_of_nodes = int(lines[i][11:].strip())
             if lines[i].startswith("EDGE_WEIGHT_TYPE"):
                 self.edge_weight_type = lines[i][17:].strip()
         print(self.edge_weight_type)
