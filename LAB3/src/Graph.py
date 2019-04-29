@@ -1,23 +1,24 @@
 from collections import defaultdict
 
 class Graph:
+
     def __init__(self):
         self.graph = [[]]
 
     def number_of_nodes(self):
         """
-        :return: Return the number of nodes (stations) in the graph
+        :return: Return the number of nodes in the graph
         """
         return len(self.graph)
 
-    def add_edge(self, from_node, to_node, edge):
+    def set_of_nodes(self):
         """
-        :return: Add an edge (route) between two nodes (stations)
+        :return: Return a set with the nodes in the graph
         """
-        self.graph[from_node][to_node].add(edge)
+        return frozenset(range(self.number_of_nodes))
 
-    def add_node(self, node):
+    def list_of_nodes(self):
         """
-        :return: Add a node (station) to the graph
+        :return: Return a list with the nodes in the graph
         """
-        self.graph[node] = defaultdict(set)
+        return list(range(self.number_of_nodes))
