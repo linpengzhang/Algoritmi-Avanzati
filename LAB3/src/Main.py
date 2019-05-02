@@ -1,8 +1,7 @@
 from Graph_FromFile import GraphFromFile
 from held_karp import hk_tsp
-from cheapest_insertion import cheapest_insertion
-from random_insertion import random_insertion
-from tsp import *
+from tsp_constructive_heuristics import random_insertion
+from tsp_mst import mst_approx
 
 import dashtable
 
@@ -47,11 +46,15 @@ print("---")
 
 # Run exact algorithm (Held-Karp)
 print("Running: Held-Karp...")
-print(hk_tsp(real_graph))
+print("Solution:", hk_tsp(real_graph))
 
 # Run constructive heuristic algorithm
-print("Running: Cheapest Insertion")
-print("Solution:", cheapest_insertion(real_graph))
-
-print("Running: Random Insertion")
+print("Running: Random Insertion...")
 print("Solution:", random_insertion(real_graph))
+
+# print("Running: Cheapest Insertion")
+# print("Solution:", cheapest_insertion(real_graph))
+
+# Run 2-approx algorithm
+print("Running: MST Approx...")
+print("Solution:", mst_approx(real_graph))
