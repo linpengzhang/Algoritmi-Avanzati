@@ -4,6 +4,11 @@ from cheapest_insertion import cheapest_insertion
 from random_insertion import random_insertion
 from tsp import *
 
+import sys
+
+# Increase the default recursion limit to not crash the script with the attack
+sys.setrecursionlimit(10000)
+
 import dashtable
 
 files_names = ['burma14.tsp', 'ulysses22.tsp', 'eil51.tsp', 'kroD100.tsp', 'gr229.tsp', 'd493.tsp', 'dsj1000.tsp']
@@ -31,7 +36,7 @@ table = [
 # print(dashtable.data2rst(table, spans, use_headers=True, center_cells=True, center_headers=True))
 
 # index from 0 to 6
-index = 0
+index = 6
 
 print("Script start")
 
