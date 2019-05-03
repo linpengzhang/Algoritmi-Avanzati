@@ -13,7 +13,7 @@ def timeout():
     print("Held karp exceeded time, stopping and returning...")
 
 
-def hk_visit(g: GraphFromFile, v, S, d, p):
+def hk_visit(g: GraphFromFile, v, S, d):
     """
     restituisce il peso del cammino minimo da 0 a v che visita tutti i vertici in S
     """
@@ -23,18 +23,15 @@ def hk_visit(g: GraphFromFile, v, S, d, p):
     elif d[(v, S)] is not None:
         return d[(v, S)]
     else:
-        mindist = float("inf")
-        minprec = None
+        min_dist = float("inf")
         for u in S.difference({v}):
-            dist = hk_visit(g, u, S.difference({v}), d, p)
-            if dist + g.graph[u][v] < mindist:
-                mindist = dist + g.graph[u][v]
-                minprec = u
+            dist = hk_visit(g, u, S.difference({v}), d)
+            if dist + g.graph[u][v] < min_dist:
+                min_dist = dist + g.graph[u][v]
             if stop_searching:
                 break
-        d[(v, S)] = mindist
-        p[(v, S)] = minprec
-        return mindist
+        d[(v, S)] = min_dist
+        return min_dist
 
 
 def hk_tsp(g: GraphFromFile):
@@ -44,8 +41,7 @@ def hk_tsp(g: GraphFromFile):
     t = Timer(60.0, timeout)
     t.start()
     d = defaultdict(lambda: None)
-    p = defaultdict()
-    result = hk_visit(g, 0, g.set_of_nodes(), d, p)
+    result = hk_visit(g, 0, g.set_of_nodes(), d)
     t.cancel()
     end = time.time()
     return [result, end - start]
