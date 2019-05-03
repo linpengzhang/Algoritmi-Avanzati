@@ -9,6 +9,7 @@ stop_searching = False
 def timeout():
     global stop_searching
     stop_searching = True
+    print("Held karp exceeded time, stopping and returning...")
 
 
 def hk_visit(g: GraphFromFile, v, S, d, p):
@@ -28,13 +29,20 @@ def hk_visit(g: GraphFromFile, v, S, d, p):
             if dist + g.graph[u][v] < mindist:
                 mindist = dist + g.graph[u][v]
                 minprec = u
+            if stop_searching:
+                break;
         d[(v, S)] = mindist
         p[(v, S)] = minprec
         return mindist
 
 
 def hk_tsp(g: GraphFromFile):
-    Timer(30.0, timeout).start()
+    global stop_searching
+    stop_searching = False
+    t = Timer(60.0, timeout)
+    t.start()
     d = defaultdict(lambda: None)
     p = defaultdict()
-    return hk_visit(g, 0, g.set_of_nodes(), d, p)
+    result = hk_visit(g, 0, g.set_of_nodes(), d, p)
+    t.cancel()
+    return result

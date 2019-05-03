@@ -8,7 +8,7 @@ import sys
 # Increase the default recursion limit to not crash the script with the attack
 sys.setrecursionlimit(10000)
 
-import dashtable
+# import dashtable
 
 files_names = ['burma14.tsp', 'ulysses22.tsp', 'eil51.tsp', 'kroD100.tsp', 'gr229.tsp', 'd493.tsp', 'dsj1000.tsp']
 files_descriptions = ['Birmania (Myanmar)', 'Mediterraneo', 'Sintetico', 'Random', 'Asia/Australia',
@@ -34,32 +34,39 @@ table = [
 ]
 # print(dashtable.data2rst(table, spans, use_headers=True, center_cells=True, center_headers=True))
 
-# index from 0 to 6
-index = 6
-
 print("Script start")
 
-# Read file and create main graph
-print("Reading graph from file(s)...")
-real_graph = GraphFromFile("./inputFiles/" + files_names[index])
-print("Graph read")
+# index from 0 to 6
+for index in range(len(files_names)):
+	print("--------------------------------")
+	print("Running for index:" + str(index))
 
-# Print some info
-print(files_descriptions[index])
-print("The optimal solution is: ", optimal_solutions[index])
-print("---")
+	# Read file and create main graph
+	print("Reading graph from file(s)...")
+	real_graph = GraphFromFile("./inputFiles/" + files_names[index])
+	print("Nodes:" + str(real_graph.number_of_nodes()))
+	print("Graph ready")
 
-# Run exact algorithm (Held-Karp)
-print("Running: Held-Karp...")
-print("Solution:", hk_tsp(real_graph))
+	# Print some info
+	print(files_descriptions[index])
+	print("The optimal solution is: ", optimal_solutions[index])
 
-# Run constructive heuristic algorithm
-print("Running: Random Insertion...")
-print("Solution:", random_insertion(real_graph))
+	# Run exact algorithm (Held-Karp)
+	print("Running: Held-Karp...")
+	held_karp_sol = hk_tsp(real_graph)
+	table[index+2][1] = held_karp_sol
+	print("Solution:", held_karp_sol)
 
-# print("Running: Cheapest Insertion")
-# print("Solution:", cheapest_insertion(real_graph))
+	# Run constructive heuristic algorithm
+	print("Running: Random Insertion...")
+	random_insertion_sol = random_insertion(real_graph)
+	table[index+2][4] = random_insertion_sol
+	print("Solution:", random_insertion_sol)
 
-# Run 2-approx algorithm
-print("Running: MST Approx...")
-print("Solution:", mst_approx(real_graph))
+	# Run 2-approx algorithm
+	print("Running: MST Approx...")
+	mst_approx_sol = mst_approx(real_graph)
+	table[index+2][7] = mst_approx_sol
+	print("Solution:", mst_approx_sol)
+
+	
