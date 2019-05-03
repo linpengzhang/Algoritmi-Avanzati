@@ -31,7 +31,7 @@ def hk_visit(g: GraphFromFile, v, S, d, p):
                 mindist = dist + g.graph[u][v]
                 minprec = u
             if stop_searching:
-                break;
+                break
         d[(v, S)] = mindist
         p[(v, S)] = minprec
         return mindist
