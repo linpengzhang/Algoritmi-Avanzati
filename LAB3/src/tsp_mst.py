@@ -1,6 +1,8 @@
 from Graph_FromFile import GraphFromFile
 from collections import defaultdict
 
+import time
+
 def prim_mst_completo(g):
     """
     g: grafo completo non orientato pesato
@@ -53,6 +55,7 @@ def mst_approx(g: GraphFromFile):
     :return: soluzione approssimata di tsp (usando mst)
     """
     # mst: l'albero di copertura minimo
+    start = time.time()
     mst = prim_mst_completo(g) 
     visited = [False for i in range(g.number_of_nodes())]
     # path: sequenza dei nodi ottenuta da una visita in profondità a mst
@@ -62,4 +65,5 @@ def mst_approx(g: GraphFromFile):
     tsp_sum = 0
     for i in range(len(path) - 1):
         tsp_sum = tsp_sum + g.graph[path[i]][path[i + 1]]
-    return tsp_sum
+    end = time.time()
+    return [tsp_sum, end - start]

@@ -3,8 +3,11 @@ import numpy as np
 import random
 import matplotlib.pyplot as plt
 
+import time
+
 
 def random_insertion(G):
+    start = time.time()
     # C memorizza il circuito
     # parto dal circuito parziale composto dal solo nodo 0
     C = [0]
@@ -37,8 +40,8 @@ def random_insertion(G):
     result = 0
     for v in range(len(C) - 1):
         result += G.graph[C[v]][C[v + 1]]
-    # plot_circuit(G, C)
-    return result
+    end = time.time()
+    return [result, end - start]
 
 
 def cheapest_insertion(G):

@@ -1,4 +1,5 @@
 from threading import Timer
+import time
 
 from Graph_FromFile import GraphFromFile
 from collections import defaultdict
@@ -37,6 +38,7 @@ def hk_visit(g: GraphFromFile, v, S, d, p):
 
 
 def hk_tsp(g: GraphFromFile):
+    start = time.time()
     global stop_searching
     stop_searching = False
     t = Timer(60.0, timeout)
@@ -45,4 +47,5 @@ def hk_tsp(g: GraphFromFile):
     p = defaultdict()
     result = hk_visit(g, 0, g.set_of_nodes(), d, p)
     t.cancel()
-    return result
+    end = time.time()
+    return [result, end - start]

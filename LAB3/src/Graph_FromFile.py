@@ -40,7 +40,6 @@ class GraphFromFile(Graph):
                 self.name = lines[i][5:].strip()
             if lines[i].startswith("EDGE_WEIGHT_TYPE"):
                 self.edge_weight_type = lines[i][17:].strip()
-        print(self.edge_weight_type)
         self.node_coords = []
         for i in range(init + 1, finish):
             line_data = lines[i].split()
@@ -53,8 +52,3 @@ class GraphFromFile(Graph):
             self.graph = [
                 [self.euclide_weight(self.node_coords[i], self.node_coords[j]) for j in range(len(self.node_coords))]
                 for i in range(len(self.node_coords))]
-
-        # for i in range(len(self.graph)):
-        #    self.graph[i][i] = float("inf")
-
-        # print(self.graph)
