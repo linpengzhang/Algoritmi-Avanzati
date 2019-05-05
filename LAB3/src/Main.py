@@ -6,7 +6,7 @@ from multiprocessing.pool import ThreadPool
 
 import sys
 
-# Increase the default recursion limit to not crash the script with the attack
+# Increase the default recursion limit to not crash the script
 sys.setrecursionlimit(10000)
 
 import dashtable
