@@ -1,7 +1,6 @@
 from Graph_FromFile import GraphFromFile
 import numpy as np
 import random
-import matplotlib.pyplot as plt
 
 import time
 
@@ -45,6 +44,7 @@ def random_insertion(G):
 
 
 def cheapest_insertion(G):
+    start = time.time()
     # C memorizza il circuito
     # parto dal circuito parziale composto dal solo nodo 0
     C = [0]
@@ -78,39 +78,6 @@ def cheapest_insertion(G):
     result = 0
     for v in range(len(C) - 1):
         result += G.graph[C[v]][C[v + 1]]
-    # plot_circuit(G, C)
-    return result
+    end = time.time()
+    return [result, end - start]
 
-
-def nearest_neighbor(G: GraphFromFile):
-    # C memorizza il circuito
-    # parto dal circuito parziale composto dal solo nodo 0
-    C = [0]
-    result = 0
-    # V contiene i vertici non ancora presenti nel circuito parziale
-    V = {i for i in range(1, G.number_of_nodes())}
-    # itero per tutti gli altri nodi rimanenti
-    for _ in range(1, G.number_of_nodes()):
-        # trovo un vertice k non ancora inserito nel circuito a distanza minima dall'ultimo inserito
-        min_d = float('inf')
-        last = C[len(C) - 1]
-        for i in V:
-            if G.graph[last][i] < min_d:
-                min_d = G.graph[last][i]
-                k = i
-        # inserisco il vertice trovato
-        V.remove(k)
-        C.append(k)
-        result += G.graph[last][k]
-    # creo il collegamento tra l'ultimo vertice inserito e il primo
-    C.append(0)
-    result += G.graph[last][0]
-    # plot_circuit(G, C)
-    return result
-
-
-def plot_circuit(G: GraphFromFile, C):
-    x_coord = list(map(lambda v: G.node_coords[v][0], C))
-    y_coord = list(map(lambda v: G.node_coords[v][1], C))
-    plt.plot(x_coord, y_coord, marker="o")
-    plt.show()
