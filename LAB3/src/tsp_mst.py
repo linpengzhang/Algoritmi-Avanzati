@@ -3,6 +3,7 @@ from collections import defaultdict
 
 import time
 
+
 def prim_mst_completo(g):
     """
     g: grafo completo non orientato pesato
@@ -20,7 +21,7 @@ def prim_mst_completo(g):
         # essendo il grafo completo, considero tutti i nodi ancora presenti in key
         for v in key.keys():
             if g.graph[u][v] < key[v]:
-                key[v] = g.graph[u][v] # decrease key
+                key[v] = g.graph[u][v]  # decrease key
                 p[v] = u
     # creo l'albero di copertura minimo, rappresentato come lista delle adiacenze
     mst = defaultdict(set)
@@ -56,7 +57,7 @@ def mst_approx(g: GraphFromFile):
     """
     # mst: l'albero di copertura minimo
     start = time.time()
-    mst = prim_mst_completo(g) 
+    mst = prim_mst_completo(g)
     visited = [False for i in range(g.number_of_nodes())]
     # path: sequenza dei nodi ottenuta da una visita in profondità a mst
     path = dfs_visited_tree(mst, visited, 0, [])

@@ -80,4 +80,3 @@ def cheapest_insertion(G):
         result += G.graph[C[v]][C[v + 1]]
     end = time.time()
     return [result, end - start]
-
