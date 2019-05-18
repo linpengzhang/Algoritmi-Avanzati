@@ -37,6 +37,6 @@ def center(C: Dataset):
     """
     Returns the centroid of the cluster C
     """
-    (sum_x, sum_y) = reduce((lambda a, b : (a[0] + b[0], a[1] + b[1])), C.get_list_of_coords(), (0,0))
+    sum_x, sum_y = map(sum, C.get_coords())
     m = len(C.dataset)
     return (sum_x/m, sum_y/m)

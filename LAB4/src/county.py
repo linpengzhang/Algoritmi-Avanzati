@@ -14,8 +14,8 @@ class Dataset:
     def append(self, c):
         self.dataset.append(c)
 
-    def get_list_of_coords(self):
-        return list(map(lambda c : c.get_coords() , self.dataset))
+    def get_coords(self):
+        return list(zip(*[c.get_coords() for c in self.dataset]))
 
 
 class County:
@@ -31,4 +31,4 @@ class County:
         self.cancer_risk = float(parameters[4])
 
     def get_coords(self):
-        return (self.x, self.y)
+        return self.x, self.y
