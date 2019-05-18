@@ -3,6 +3,8 @@ import matplotlib.image as mpimg
 import matplotlib.cm as cm
 import numpy as np
 
+from clustering import center
+
 from county import *
 
 def draw_clustering(clustering):
@@ -19,5 +21,9 @@ def draw_clustering(clustering):
     for c, col in zip(clustering, colors):
         x, y = c.get_coords()
         plt.scatter(x, y, marker='.', c=col)
+
+        xc, yc = center(c)
+        for xp, yp in zip(x,y):
+            plt.plot([xc,xp], [yc,yp], c='black', linewidth=0.25)
 
     plt.show() 
