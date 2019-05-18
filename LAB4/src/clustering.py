@@ -1,7 +1,7 @@
 import math
 import random
 import heapq
-from country import *
+from county import *
 from functools import reduce
 
 def kmeans_clustering(P: Dataset, k, q):

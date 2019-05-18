@@ -8,7 +8,7 @@ class Dataset:
         if filename is not None:
             file = open(filename, 'r')
             for row in file:
-                self.dataset.append(Country(row.split(',')))
+                self.dataset.append(County(row.split(',')))
             file.close()
 
     def append(self, c):
@@ -18,9 +18,9 @@ class Dataset:
         return list(map(lambda c : c.get_coords() , self.dataset))
 
 
-class Country:
+class County:
     """
-    Represents a single country
+    Represents a single county
     """
 
     def __init__(self, parameters):

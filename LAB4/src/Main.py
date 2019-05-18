@@ -1,4 +1,4 @@
-from country import *
+from county import *
 from clustering import kmeans_clustering
 
 
