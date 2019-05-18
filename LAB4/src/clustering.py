@@ -1,35 +1,42 @@
 import math
 import random
+import heapq
+from country import *
+from functools import reduce
 
-def kmeans_clustering(P: list, k, q):
-    n = len(P)
-    # crea k centroidi con valori arbitrari
-    centroids = [(random.random(),random.random()) for _ in range(k)]
+def kmeans_clustering(P: Dataset, k, q):
+    n = len(P.dataset)
+    # inizializza i primi k centroidi come le k contee più popolose
+    centroids = list(map(lambda c : c.get_coords(), heapq.nlargest(k, P.dataset, lambda c : c.population)))
     for _ in range(q):
         # crea k cluster vuoti
-        C = [[] for _ in range(k)]
+        C = [Dataset() for _ in range(k)]
+        # assegna ciascuna contea al cluster relativo al centroide più vicino
         for j in range(n):
+            # trova l'indice l del centroide più vicino
             min_val = float('inf')
             for f in range(k):
-                if distance(P[j],centroids[f]) < min_val:
-                    min_val = distance(P[j],centroids[f])
+                cur_val = distance(P.dataset[j].get_coords(),centroids[f])
+                if cur_val < min_val:
+                    min_val = cur_val
                     l = f
-            C[l].append(P[j])
+            C[l].append(P.dataset[j])
+        # aggiorna i nuovi centroidi in base ai cluster ottenuti
         for f in range(k):
             centroids[f] = center(C[f])
     return C
 
 
-def distance(p, q):
-    return math.sqrt((p[0] - q[0]) ** 2 + (p[1] - q[1]) ** 2)
+def distance(a, b):
+    """
+    Return the euclidean distance between two bidimensional points a and b
+    """
+    return math.sqrt((a[0] - b[0]) ** 2 + (a[1]- b[1]) ** 2)
 
-def center(C: list):
-    x = 0
-    y = 0
-    for p in C:
-        x += p[0]
-        y += p[1]
-    if (len(C) > 0):
-        x /= len(C)
-        y /= len(C)
-    return (x,y)
+def center(C: Dataset):
+    """
+    Returns the centroid of the cluster C
+    """
+    (sum_x, sum_y) = reduce((lambda a, b : (a[0] + b[0], a[1] + b[1])), C.get_list_of_coords(), (0,0))
+    m = len(C.dataset)
+    return (sum_x/m, sum_y/m)
