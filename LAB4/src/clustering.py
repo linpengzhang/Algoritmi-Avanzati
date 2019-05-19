@@ -1,7 +1,9 @@
 import math
 import random
 from numpy import argsort
-
+import heapq
+from county import Dataset
+from functools import reduce
 
 def hierarchical_clustering(P: list, k):
     C = [[p_i] for p_i in P]
@@ -77,14 +79,6 @@ def closest_pair_strip(S: list, mid, d):
     return (d, i, j)
 
 
-def kmeans_clustering(P: list, k, q):
-    n = len(P)
-    # crea k centroidi con valori arbitrari
-    centroids = [(random.random(), random.random()) for _ in range(k)]
-import heapq
-from county import *
-from functools import reduce
-
 def kmeans_clustering(P: Dataset, k, q):
     n = len(P.dataset)
     # inizializza i primi k centroidi come le k contee più popolose
@@ -125,15 +119,3 @@ def center(C: list):
         x /= len(C)
         y /= len(C)
     return (x, y)
-"""
-def center(C: set):
-    x = 0
-    y = 0
-    for p in C:
-        x += p[0]
-        y += p[1]
-    if (len(C) > 0):
-        x /= len(C)
-        y /= len(C)
-    return (x,y)
-"""
