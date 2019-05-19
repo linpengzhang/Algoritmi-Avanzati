@@ -4,17 +4,17 @@ from numpy import argsort
 import heapq
 from county import Dataset
 from functools import reduce
+import time
 
-def hierarchical_clustering(P: list, k):
-    C = [[p_i] for p_i in P]
+def hierarchical_clustering(P: Dataset, k):
+    C = [Dataset([p_i]) for p_i in P.dataset]
     while len(C) > k:
         cl = [(i, center(C[i])) for i in range(len(C))]
-        #cl[i][0] è l'indice del cluster, cl[i][1] le coordinate del centro del cluster i-esimo. Meglio di una mappa nel caso pessimo!
-        (d, i, j) = fast_closest_pair(sorted(cl, key=lambda coppia:coppia[1][0]), sorted(cl, key=lambda coppia:coppia[1][1]))
-        print(d, i, j)
-        C.append(C[i]+C[j])
-        C.remove(C[i])
-        C.remove(C[j])
+        #cl[i][0] è l'indice del cluster, cl[i][1] le coordinate del centro del cluster i-esimo
+        (d, i, j) = fast_closest_pair(sorted(cl, key=lambda a:a[1][0]), sorted(cl, key=lambda a:a[1][1]))
+        C.append(Dataset(C[i].dataset+C[j].dataset))
+        del C[max(i,j)]
+        del C[min(i,j)]
     return C
 
 
@@ -109,13 +109,10 @@ def distance(a, b):
     return math.sqrt((a[0] - b[0]) ** 2 + (a[1]- b[1]) ** 2)
 
 
-def center(C: list):
-    x = 0
-    y = 0
-    for p in C:
-        x += p[0]
-        y += p[1]
-    if (len(C) > 0):
-        x /= len(C)
-        y /= len(C)
-    return (x, y)
+def center(C: Dataset):
+    """
+    Returns the centroid of the cluster C
+    """
+    sum_x, sum_y = map(sum, C.get_coords())
+    m = len(C.dataset)
+    return (sum_x/m, sum_y/m)

@@ -3,13 +3,17 @@ class Dataset:
     Represents a list of countries
     """
 
-    def __init__(self, filename=None):
-        self.dataset = []
-        if filename is not None:
-            file = open(filename, 'r')
-            for row in file:
-                self.dataset.append(County(row.split(',')))
-            file.close()
+    def __init__(self, lista=[]):
+        self.dataset = lista
+
+    @classmethod
+    def read_from_file(cls, filename):
+        file = open(filename, 'r')
+        lista = []
+        for row in file:
+            lista.append(County(row.split(',')))
+        file.close()
+        return cls(lista)
 
     def append(self, c):
         self.dataset.append(c)
@@ -17,7 +21,11 @@ class Dataset:
     def get_coords(self):
         return list(zip(*[c.get_coords() for c in self.dataset]))
 
-
+    def __str__(self):
+        return str(len(self.dataset))
+        
+    def __repr__(self):
+        return str(len(self.dataset))
 class County:
     """
     Represents a single county
