@@ -2,7 +2,7 @@ import math
 import random
 from numpy import argsort
 import heapq
-from county import Dataset
+from county import *
 from functools import reduce
 import time
 
@@ -85,7 +85,7 @@ def kmeans_clustering(P: Dataset, k, q):
     centroids = list(map(lambda c : c.get_coords(), heapq.nlargest(k, P.dataset, lambda c : c.population)))
     for _ in range(q):
         # crea k cluster vuoti
-        C = [Dataset() for _ in range(k)]
+        C = [Dataset([]) for _ in range(k)]
         # assegna ciascuna contea al cluster relativo al centroide più vicino
         for j in range(n):
             # trova l'indice l del centroide più vicino

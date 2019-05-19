@@ -3,7 +3,7 @@ class Dataset:
     Represents a list of countries
     """
 
-    def __init__(self, lista=[]):
+    def __init__(self, lista):
         self.dataset = lista
 
     @classmethod
