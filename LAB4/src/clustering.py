@@ -5,9 +5,11 @@ import heapq
 from county import *
 from functools import reduce
 import time
-
+timing = 0
 def hierarchical_clustering(P: Dataset, k):
     C = [Dataset([p_i]) for p_i in P.dataset]
+    global timing
+    start = time.clock()
     while len(C) > k:
         cl = [(i, center(C[i])) for i in range(len(C))]
         #cl[i][0] è l'indice del cluster, cl[i][1] le coordinate del centro del cluster i-esimo
@@ -15,6 +17,9 @@ def hierarchical_clustering(P: Dataset, k):
         C.append(Dataset(C[i].dataset+C[j].dataset))
         del C[max(i,j)]
         del C[min(i,j)]
+    end = time.clock()
+    timing = timing + end - start 
+    print(timing)
     return C
 
 
@@ -39,13 +44,13 @@ def fast_closest_pair(P: list, S: list):
         m = math.floor(n/2)
         P_L = P[:m]
         P_R = P[m:]
-        S_L, S_R = split(S, P_L, P_R)
+        S_L, S_R = split(S, set(P_L), set(P_R))
         (d,i,j) = min(fast_closest_pair(P_L, S_L), fast_closest_pair(P_R, S_R), key=lambda a: a[0])
         mid = 0.5*(P[m-1][1][0]+P[m][1][0])
         return min((d,i,j), closest_pair_strip(S, mid, d), key=lambda a:a[0])
 
 
-def split(S: list, P_L: list, P_R: list):
+def split(S: list, P_L: set, P_R: set):
     """
     S vettore ordinato
     P_L, P_R partizione di S
