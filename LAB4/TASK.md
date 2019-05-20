@@ -29,7 +29,7 @@ Utilizzate un colore diverso per identificare ogni cluster. È possibile allegar
 ### Domanda 3
 Quale metodo di clustering è più veloce quando il numero di cluster di output è un numero piccolo o una piccola frazione del numero di punti del dataset? Fornite una breve spiegazione in termini dei tempi di esecuzione asintotici di entrambi i metodi. Assumete che HierarchicalClustering usi FastClosestPair e che k-means usi sempre un piccolo numero di iterazioni.
 
-Automazione
+### Automazione
 Nelle prossime domande, confronteremo il livello di supervisione umana richiesto da ciascun metodo.
 
 ### Domanda 4
@@ -69,7 +69,7 @@ Nelle prossime due domande, analizzerete la qualità dei clustering prodotti da 
 ### Domanda 9
 Calcolare la distorsione dei clustering prodotti da Clustering Gerarchico e k-means clustering (utilizzando 5 iterazioni) sui set di dati con 212, 562 e 1041 contee, rispettivamente, variando il numero di cluster di output da 6 a 20 (estremi inclusi) 
 
-Nota importante: per calcolare la distorsione dei clustering prodotti da HierarchicalClustering, è bene ricordare che è possibile utilizzare il cluster gerarchico di dimensione 20 per calcolare il clustering gerarchico di dimensione 19 e così via. Altrimenti, introdurrete un fattore 15 non necessario nel tempo di calcolo dei 15 raggruppamenti gerarchici.
+**Nota importante:** per calcolare la distorsione dei clustering prodotti da HierarchicalClustering, è bene ricordare che è possibile utilizzare il cluster gerarchico di dimensione 20 per calcolare il clustering gerarchico di dimensione 19 e così via. Altrimenti, introdurrete un fattore 15 non necessario nel tempo di calcolo dei 15 raggruppamenti gerarchici.
 
 Dopo aver calcolato queste distorsioni per entrambi i metodi di clustering, create tre grafici separati (uno per ciascun set di dati) che confrontino la distorsione dei clustering prodotti da entrambi i metodi. Ogni figura dovrebbe includere due curve disegnate come grafici a linee. L'asse orizzontale per ciascun grafico indica il numero di cluster di output mentre l'asse verticale indica la distorsione associata a ciascun clustering. Per ogni figura, includere un titolo che indica il set di dati utilizzato nella creazione dei grafici e una legenda che distingue le due curve.
 
