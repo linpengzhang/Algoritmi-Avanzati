@@ -5,83 +5,100 @@ import heapq
 from county import *
 from functools import reduce
 import time
+
 timing = 0
+
+
 def hierarchical_clustering(P: Dataset, k):
+    # crea inizialmente un cluster per ciascun elemento
     C = [Dataset([p_i]) for p_i in P.dataset]
     global timing
     start = time.clock()
     while len(C) > k:
+        # trova gli indici dei due cluster più vicini
         cl = [(i, center(C[i])) for i in range(len(C))]
-        #cl[i][0] è l'indice del cluster, cl[i][1] le coordinate del centro del cluster i-esimo
-        (d, i, j) = fast_closest_pair(sorted(cl, key=lambda a:a[1][0]), sorted(cl, key=lambda a:a[1][1]))
-        C.append(Dataset(C[i].dataset+C[j].dataset))
-        del C[max(i,j)]
-        del C[min(i,j)]
+        # cl[i][0] è l'indice del cluster
+        # cl[i][1] sono le coordinate del centro del cluster i-esimo
+        P = sorted(cl, key=lambda x: x[1][0]) # ordina per coordinata x
+        S = argsort(list(map(lambda x: x[1][1], P))).tolist() # indici dei punti ordinati per coordinata y
+        d, i, j = fast_closest_pair(P, S, 0, len(P))
+        C[i].dataset.extend(C[j].dataset)
+        del C[j]
     end = time.clock()
     timing = timing + end - start 
     print(timing)
     return C
 
 
-def slow_closest_pair(P: list):
-    (d, i, j) = (float("inf"), -1, -1)
-    for new_i in range(len(P)):
-        for new_j in range(new_i+1, len(P)):
-            (d, i, j) = min((d,i,j), (distance(P[new_i][1], P[new_j][1]), P[new_i][0], P[new_j][0]), key=lambda a:a[0])
-    return (d, i, j)
+def slow_closest_pair(P: list, start, stop):
+    """
+    :param P: lista di punti (tuple: (indice, coordinate))
+    :param start: indice iniziale della porzione di P da considerare
+    :param stop: indice finale (escluso) della porzione di P da considerare
+    :return: (d,i,j), d è la minima distanza tra due punti in P, i e j sono gli indici (associati) di questi due punti
+    """
+    # start, stop: indici della porzione di lista da considerare
+    d, i, j = float("inf"), -1, -1
+    for u in range(start, stop):
+        for v in range(u + 1, stop):
+            d, i, j = min((d,i,j), (distance(P[u][1], P[v][1]), P[u][0], P[v][0]), key=lambda a:a[0])
+    return d, i, j
 
 
-def fast_closest_pair(P: list, S: list):
+def fast_closest_pair(P: list, S: list, p_start, p_stop):
     """
-    P vettore di punti ordinato per x crescente
-    S vettore di punti ordinato per y crescente
-    :return: (d,i,j), d è la minima distanza tra due punti in P, i e j sono gli indici di questi due punti
+    :param P: lista di punti (tuple: (indice, coordinate)) ordinati per coordinata x
+    :param S: lista di indici su P di un sottoinsieme di punti P' di P ordinati per coordinata y
+    :param p_start: indice iniziale della porzione P' di P da considerare
+    :param p_stop: indice finale (escluso) della porzione P' di P da considerare
+    :return: (d,i,j), d è la minima distanza tra due punti in P', i e j sono gli indici (associati) di questi due punti
     """
-    n = len(P)
+    n = p_stop - p_start
     if n <= 3:
-        return slow_closest_pair(P)
+        return slow_closest_pair(P, p_start, p_stop)
     else:
-        m = math.floor(n/2)
-        P_L = P[:m]
-        P_R = P[m:]
-        S_L, S_R = split(S, set(P_L), set(P_R))
-        (d,i,j) = min(fast_closest_pair(P_L, S_L), fast_closest_pair(P_R, S_R), key=lambda a: a[0])
-        mid = 0.5*(P[m-1][1][0]+P[m][1][0])
-        return min((d,i,j), closest_pair_strip(S, mid, d), key=lambda a:a[0])
+        m = p_start + math.floor(n/2)
+        P_L = {P[i] for i in range(p_start, m)}
+        S_L, S_R = split(P, S, P_L)
+        d, i, j = min(fast_closest_pair(P, S_L, p_start, m), fast_closest_pair(P, S_R, m, p_stop), key=lambda a: a[0])
+        mid = 0.5 * (P[m-1][1][0] + P[m][1][0])
+        return min((d,i,j), closest_pair_strip(P, S, mid, d), key=lambda a:a[0])
 
 
-def split(S: list, P_L: set, P_R: set):
+def split(P:list, S: list, P_L: set):
     """
-    S vettore ordinato
-    P_L, P_R partizione di S
-    :return: S_L, S_R vettori ordinati che contengono rispettivamente gli elementi in P_L, P_R
+    :param P: lista di punti
+    :param S: lista ordinata di indici di un sottoinsieme P' di P
+    :param P_L: partizione di P' (P_R = P'\P_L)
+    :return: S_L, S_R liste ordinate che contengono gli indici di S degli elementi risp. in P_L, P_R
     """
-    n = len(S)
     S_L = list()
     S_R = list()
-    list(map(lambda i: S_L.append(i) if i in P_L else S_R.append(i), S))
+    for i in S:
+        S_L.append(i) if P[i] in P_L else S_R.append(i)
     return S_L, S_R
 
 
-def closest_pair_strip(S: list, mid, d):
+def closest_pair_strip(P: list, S: list, mid, d):
     """
-    S vettore ordinato per y crescente
-    mid valore reale
-    d valore reale positivo
-    :return: (d,i,j) con d minima distanza tra i punti in S, i e j gli indici dei punti
+    :param P: lista di punti (tuple: (indice, coordinate))
+    :param S: lista ordinata di indici su P di un sottoinsieme P' di P
+    :param mid: valore reale
+    :param d: valore reale positivo
+    :return: (d,i,j), d è la minima distanza tra due punti in P', i e j sono gli indici (associati) di questi due punti
     """
     n = len(S)
     SS = list()
     for i in range(n):
-        if abs(S[i][1][0]-mid) < d:
+        if abs(P[S[i]][1][0] - mid) < d:
             SS.append(S[i])
-    (d, i, j) = (float("inf"), -1, -1)
+    d, i, j = float("inf"), -1, -1
     k = len(SS)
     for u in range(k-1):
         for v in range(u+1, min(u+5, k)):
-            #confronto ogni punto in SS con i 5 successivi
-            (d, i, j) = min((d, i, j), (distance(SS[u][1], SS[v][1]), SS[u][0], SS[v][0]), key=lambda a:a[0])
-    return (d, i, j)
+            # confronto ogni punto in SS con i 5 successivi
+            d, i, j = min((d, i, j), (distance(P[SS[u]][1], P[SS[v]][1]), P[SS[u]][0], P[SS[v]][0]), key=lambda a:a[0])
+    return d, i, j
 
 
 def kmeans_clustering(P: Dataset, k, q):
