@@ -1,11 +1,10 @@
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
-import matplotlib.cm as cm
-import numpy as np
 from itertools import cycle
+# import numpy as np
+# import matplotlib.cm as cm
 # from PIL import Image, ImageDraw, ImageColor
 
-from clustering import center
 
 def draw_clustering(clustering):
     img = mpimg.imread('inputFiles/USA_Counties.png')
@@ -27,7 +26,7 @@ def draw_clustering(clustering):
         x, y = c.get_coords()
         plt.scatter(x, y, marker='.', linewidth=1.5, c=next(colors))
         # draw lines to the center
-        xc, yc = center(c)
+        xc, yc = c.get_center()
         for xp, yp in zip(x,y):
             plt.plot([xc,xp], [yc,yp], c='black', linewidth=0.25)
 
