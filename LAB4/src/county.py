@@ -2,6 +2,7 @@ class Dataset:
     """
     Represents a list of countries
     """
+
     def __init__(self, lista):
         self.data = lista
 
@@ -19,7 +20,7 @@ class Dataset:
 
     def __str__(self):
         return str(len(self.data))
-        
+
     def __repr__(self):
         return str(len(self.data))
 
@@ -28,6 +29,7 @@ class County:
     """
     Represents a single county
     """
+
     def __init__(self, parameters):
         self.country_id = parameters[0]
         self.x = float(parameters[1])

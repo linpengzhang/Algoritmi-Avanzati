@@ -11,7 +11,6 @@ dataset_212 = Dataset.read_from_file("inputFiles/unifiedCancerData_212.csv")
 dataset_562 = Dataset.read_from_file("inputFiles/unifiedCancerData_562.csv")
 dataset_1041 = Dataset.read_from_file("inputFiles/unifiedCancerData_1041.csv")
 
-
 print("Computing...")
 C1, t1, d1 = kmeans_clustering(dataset_562, 16, 5)
 print("Time spent for kmeans clustering:", t1)
@@ -25,6 +24,5 @@ print("Time spent for hierchical clustering:", t2)
 print("Distortion for hierchical clustering:", d2)
 print("Drawing...")
 draw_clustering(C2)
-
 
 print("Script end")
