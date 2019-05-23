@@ -28,6 +28,10 @@ class Cluster(Dataset):
         n = len(self.data)
         return (self._sum_x/n, self._sum_y/n)
 
+    def get_error(self):
+        cent = self.get_center()
+        return sum(map(lambda c: c.population * (distance(c.get_coords(), cent) ** 2), self.data))
+
 
 def hierarchical_clustering(D: Dataset, k):
     start = time.clock()
@@ -44,7 +48,7 @@ def hierarchical_clustering(D: Dataset, k):
         C[i].extend(C[j])
         del C[j]
     end = time.clock()
-    return [C, end - start]
+    return [C, end - start, distortion(C)]
 
 
 def slow_closest_pair(P: list, start, stop):
@@ -139,7 +143,7 @@ def kmeans_clustering(P: Dataset, k, q):
         for f in range(k):
             centroids[f] = C[f].get_center()
     end = time.clock()
-    return [C, end - start]
+    return [C, end - start, distortion(C)]
 
 
 def distance(a, b):
@@ -147,3 +151,9 @@ def distance(a, b):
     Return the euclidean distance between two bidimensional points a and b
     """
     return math.sqrt((a[0] - b[0]) ** 2 + (a[1]- b[1]) ** 2)
+
+def distortion(L: list):
+    """
+    Restituisce la distorsione del clustering dato dalla lista di cluster L
+    """
+    return sum(map(lambda c: c.get_error(), L))
