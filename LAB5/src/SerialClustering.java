@@ -1,38 +1,52 @@
-public class SerialClustering{
-    
-    private int get_min_centroid(List<City> centroid, City min){
-        int min_distance = centroid[0].get_distance(min);
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class SerialClustering {
+
+    private int getMinCentroid(List<City> centroid, City min) {
+        int minDistance = centroid.get(0).getDistance(min);
         int pos = 0;
-        for(int i=1; i < centroid.size(); i++){
-            if(centroid[i].get_distance(min) < min_distance){
-                min_distance = centroid[i].get_distance(min);
+        for (int i = 1; i < centroid.size(); i++) {
+            if (centroid.get(i).getDistance(min) < minDistance) {
+                minDistance = centroid.get(i).getDistance(min);
                 pos = i;
             }
         }
         return pos;
     }
 
-    private center(List<City> cities){
-        
+    private float getCenter(List<City> cities) {
+        return 0.0f;
     }
 
-    public k_means_clustering(List<City> cities, int clust_number, int iterations){
-        int number_of_cities = cities.size();
+    public List<List<City>> kMeansClustering(List<City> cities, int clustNumber, int iterations) {
+        int numberOfCities = cities.size();
 
-        List<City> centroid = cities.stream().sorted(Comparator.comparing(City::get_city_population)).limit(clust_number).toList();
+        //inizializza i primi k centroidi come le k contee più popolose
+        List<City> centroid = cities.stream().sorted(Comparator.comparing(City::getCityPopulation)).limit(clustNumber).collect(Collectors.toList());
 
-        for(int i=0; i < iterations; i++){
-            List<List<City>>> clusters = new ArrayList<List<City>>(clust_number);
-
-            for(int j = 0; j < number_of_cities; j++){
-                int min_pos = get_min_centroid(centroid, cities[j]);
-
-                clusters[min_pos].append(cities[j]);
+        List<List<City>> clusters = new ArrayList<>(clustNumber);
+        for (int i = 0; i < iterations; i++) {
+            // crea k cluster vuoti
+            clusters = new ArrayList<>(clustNumber);
+            for (int j = 0; j < clusters.size(); j++) {
+                clusters.set(j, new ArrayList<>());
             }
 
-            for(int j = 0 ; j < clust_number; j++){
-                centroid[j] = 
+            //Assegna ciascuna contea al cluster relativo al centroide più vicino
+            for (City city : cities) {
+                int minCentroid = getMinCentroid(centroid, city);
+
+                clusters.get(minCentroid).add(city);
             }
-        } 
+            //Aggiorna i nuovi centroidi in base ai cluster ottenuti
+            for (int j = 0; j < clusters.size(); j++) {
+                //TOFIX
+                //centroid.set(j, getCenter(clusters.get(j)));
+            }
+        }
+        return clusters;
     }
 }

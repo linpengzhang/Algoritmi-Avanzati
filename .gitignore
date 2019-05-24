@@ -10,3 +10,9 @@ src/__pycache__/
 LAB2/src/__pycache__/
 LAB3/src/__pycache__/
 LAB4/src/__pycache__/
+
+LAB5/out/
+
+LAB5/LAB5\.iml
+
+*.class
