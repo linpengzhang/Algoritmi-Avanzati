@@ -45,10 +45,11 @@ Si formeranno quindi questi 3 cluster che certamente contengono la contea che ha
 Nel clustering gerarchico la vicinanza tra le contee evita la formazione di molteplici cluster.
 
 Domanda 8
-Certamente il clustering gerarchico, che non è influenzato dalla scelta dei centroidi iniziali, e che sceglie sempre la coppia più vicina.
+#TODO, dopo aver visto le immagini della distortion ho i miei dubbi
+Sceglierei il clustering gerarchico perché non è influenzato dalla scelta dei centroidi iniziali, e soprattutto perché si può calcolare la distorsione man mano che la distorsione va avanti, ed eventualmente fermarsi prima.
 
 Domanda 9
-#TODO
+Le immagini sono nella cartella distortion.
 
 Domanda 10
-#TODO
+Non c'è un algoritmo migliore in tutti i casi.
