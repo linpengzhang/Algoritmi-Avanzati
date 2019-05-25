@@ -3,3 +3,52 @@ Michele Roverato 1143030
 Martino Echerle 1206691
 
 
+Domanda 1
+Immagine H_FULL.png
+
+Domanda 2
+Immagine K_FULL.png
+
+Domanda 3
+Il tempo di K-means dipende dal ciclo esterno principale, che viene compiuto q volte. Al suo interno si ha:
+- la creazione dei k cluster che richiede tempo O(k)
+- il calcolo del centroide più vicino ad ogni punto, che richiede tempo O(nk)
+- il ricalcolo dei centroidi che richiede tempo O(n)
+Quindi K-means richiede tempo O(q(k+nk+n))=O(qnk)
+-------------------------------------
+Il tempo di HierarchicalClustering, supponendo che si utilizzi l'algoritmo FastClosestPair, è governato dal ciclo while effettuato al più O(n-k) volte. Al suo interno si ha:
+- la chiamata a FastClosestPair che richiede tempo O(nlogn)
+- Unione e differenza dei cluster che richiedono tempo certamente al più O(n), e che quindi è irrilevante a fini asintotici (FastClosestPair richiede più tempo)
+Quindi HierarchicalClustering richiede tempo O((n-k)(nlogn+n)=O((n-k)(nlogn))
+--------------------------------------
+Nell'ipotesi che:
+- il numero di cluster di output sia piccolo, ovvero k=O(1);
+- il numero di iterazioni di K-Means sia piccolo, ovvero q=O(1);
+si ha che:
+K-means richiede tempo O(qnk)=O(n)
+HierarchicalClustering richiede tempo O((n-k)(nlogn))=O(n^2logn)
+da cui è evidente che K-means è più prestante.
+
+Domanda 4
+Immagine H_212.png
+
+Domanda 5
+Immagine K_212.png
+
+Domanda 6
+Distortion for hierchical clustering: 196752213374.9596
+Distortion for kmeans clustering: 95382765365.33682
+
+Domanda 7
+In H_212.png abbiamo un unico cluster nella costa occidentale. In K_212.png ce ne sono tre. Questa differenza è dovuta al fatto che k-means sceglie inizialmente i k centroidi scegliendo le contee più popolose. In corrispondenza di quella fascia vi sono almeno 3 contee tra le k più popolose, tra cui menzioniamo anche la presenza di grandi città come San Francisco, Las Vegas, San Diego, Los Angeles,...
+Si formeranno quindi questi 3 cluster che certamente contengono la contea che ha "inizializzato" il centroide, in quanto si trova inizialmente a distanza nulla da questo.
+Nel clustering gerarchico la vicinanza tra le contee evita la formazione di molteplici cluster.
+
+Domanda 8
+Certamente il clustering gerarchico, che non è influenzato dalla scelta dei centroidi iniziali, e che sceglie sempre la coppia più vicina.
+
+Domanda 9
+#TODO
+
+Domanda 10
+#TODO
