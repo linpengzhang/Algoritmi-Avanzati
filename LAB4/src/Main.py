@@ -31,9 +31,10 @@ draw_clustering(C2)
 datasets = {"dataset_212": dataset_212,
             "dataset_562": dataset_562,
             "dataset_1041": dataset_1041}
-interval = range(6, 21)
+min_c, max_c = 6, 21
+interval = range(min_c, max_c)
 for dataset in datasets.keys():
-    h_distortion_list = [hierarchical_clustering_distortion_list(datasets[dataset], interval[0])[i] for i in interval]
+    h_distortion_list = hierarchical_clustering_distortion_list(datasets[dataset], min_c)[min_c:max_c]
     k_distortion_list = [kmeans_clustering(datasets[dataset], i, 5)[2] for i in interval]
     """
     print(k_distortion_list)
