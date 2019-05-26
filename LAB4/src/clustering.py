@@ -54,8 +54,7 @@ def hierarchical_clustering(D: Dataset, k):
 def hierarchical_clustering_distortion_list(D: Dataset, k):
     # crea inizialmente un cluster per ciascun elemento
     C = [Cluster([c]) for c in D.data]
-    distortion=dict()
-    distortion[len(C)]=0
+    distortion = [0 for _ in range(len(C) + 1)]
     while len(C) > k:
         # trova gli indici dei due cluster più vicini
         P = [(i, C[i].get_center()) for i in range(len(C))]
