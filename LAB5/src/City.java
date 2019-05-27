@@ -1,6 +1,6 @@
 
 
-public class City extends Point{
+public class City extends Point {
     private int id;
     private String name;
     private int population;

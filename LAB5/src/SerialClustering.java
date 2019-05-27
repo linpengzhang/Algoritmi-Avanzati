@@ -18,13 +18,13 @@ public class SerialClustering {
     }
 
     private static Point getCenter(List<City> cities) {
-        float sumLatitude=0;
-        float sumLongitude=0;
-        for (City city: cities){
+        float sumLatitude = 0;
+        float sumLongitude = 0;
+        for (City city : cities) {
             sumLatitude += city.getLatitude();
             sumLongitude += city.getLongitude();
         }
-        return new Point(sumLatitude/cities.size(),sumLongitude/cities.size());
+        return new Point(sumLatitude / cities.size(), sumLongitude / cities.size());
     }
 
     public static List<List<City>> kMeansClustering(List<City> cities, int clustNumber, int iterations) {
@@ -33,9 +33,9 @@ public class SerialClustering {
         List<List<City>> clusters = new ArrayList<>(clustNumber);
         for (int i = 0; i < iterations; i++) {
             // crea k cluster vuoti
-        	clusters = new ArrayList<>(clustNumber);
+            clusters = new ArrayList<>(clustNumber);
             for (int j = 0; j < clustNumber; j++) {
-            	clusters.add(j, new ArrayList<City>());
+                clusters.add(j, new ArrayList<City>());
             }
             //Assegna ciascuna contea al cluster relativo al centroide più vicino
             for (City city : cities) {
@@ -45,7 +45,7 @@ public class SerialClustering {
             //Aggiorna i nuovi centroidi in base ai cluster ottenuti
             for (int j = 0; j < clusters.size(); j++) {
                 centroid.set(j, getCenter(clusters.get(j)));
-                }
+            }
         }
         return clusters;
     }

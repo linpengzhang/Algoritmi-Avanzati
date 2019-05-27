@@ -1,26 +1,32 @@
-
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
-public class Point{
+
+public class Point {
     private float latitude;
-    private float longitude; 
-    public Point(float lat, float lon){
+    private float longitude;
+
+    public Point(float lat, float lon) {
         latitude = lat;
         longitude = lon;
     }
-    public float getLatitude(){
+
+    public float getLatitude() {
         return latitude;
     }
-    public float getLongitude(){
+
+    public float getLongitude() {
         return longitude;
     }
-    public void setLat(float lat){
+
+    public void setLat(float lat) {
         latitude = lat;
     }
-    public void setLon(float lon){
+
+    public void setLon(float lon) {
         longitude = lon;
     }
-        private int truncateToInt(float val) {
+
+    private int truncateToInt(float val) {
         DecimalFormat df = new DecimalFormat("##");
         df.setRoundingMode(RoundingMode.DOWN);
         return Integer.parseInt(df.format(val));
