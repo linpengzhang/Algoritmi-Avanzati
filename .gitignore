@@ -16,3 +16,11 @@ LAB5/out/
 LAB5/LAB5\.iml
 
 *.class
+
+LAB5/\.classpath
+
+LAB5/\.project
+
+LAB5/src/\.classpath
+
+LAB5/src/\.project
