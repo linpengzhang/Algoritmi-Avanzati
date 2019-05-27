@@ -5,7 +5,7 @@ public class Main{
     public static void main(String[] args){
         System.out.println("Script start");
         System.out.println("Parsing file...");
-        List<City> cities = CityParser.parseFile("inputFiles/cities-and-towns-of-usa.csv");
+        List<City> cities = CityParser.parseFile("src/inputFiles/cities-and-towns-of-usa.csv");
 
         System.out.println("Creating population arrays...");
 
@@ -41,5 +41,8 @@ public class Main{
         System.out.println("Computing...");
         List<List<City>> A = SerialClustering.kMeansClustering(cities_250, 20, 5);
         System.out.println(A.size());
+        System.out.println("Computing...");
+        List<Integer> B = new ParallelClustering().parallelKMeansClustering(cities_250, 20, 5);
+        System.out.println(B);
     }
 }
