@@ -27,7 +27,7 @@ class Cluster(Dataset):
 
     def get_center(self):
         n = len(self.data)
-        return (self._sum_x / n, self._sum_y / n)
+        return self._sum_x / n, self._sum_y / n
 
     def get_error(self):
         cent = self.get_center()
@@ -51,6 +51,7 @@ def hierarchical_clustering(D: Dataset, k):
     end = time.clock()
     return [C, end - start, distortion(C)]
 
+
 def hierarchical_clustering_distortion_list(D: Dataset, k):
     # crea inizialmente un cluster per ciascun elemento
     C = [Cluster([c]) for c in D.data]
@@ -63,11 +64,12 @@ def hierarchical_clustering_distortion_list(D: Dataset, k):
         P.sort(key=lambda x: x[1][0])  # ordina per coordinata x
         S = argsort(list(map(lambda x: x[1][1], P))).tolist()  # indici su P dei punti ordinati per coordinata y
         d, i, j = fast_closest_pair(P, S, 0, len(P))
-        distortion[len(C)-1] = distortion[len(C)]-C[j].get_error()-C[i].get_error()
+        distortion[len(C) - 1] = distortion[len(C)] - C[j].get_error() - C[i].get_error()
         C[i].extend(C[j])
-        distortion[len(C)-1] = distortion[len(C)-1] + C[i].get_error()
+        distortion[len(C) - 1] = distortion[len(C) - 1] + C[i].get_error()
         del C[j]
     return distortion
+
 
 def slow_closest_pair(P: list, start, stop):
     """
@@ -173,6 +175,6 @@ def distance(a, b):
 
 def distortion(L: list):
     """
-    Restituisce la distortione del clustering dato dalla lista di cluster L
+    Restituisce la distorsione del clustering dato dalla lista di cluster L
     """
     return sum(map(lambda c: c.get_error(), L))

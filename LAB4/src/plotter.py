@@ -22,12 +22,13 @@ def draw_clustering(clustering):
 
     plt.imshow(img)
     plt.show()
-    
+
+
 def draw_distortion(xlist: list, distortion_h: list, distortion_k: list, title: str):
     plt.plot(xlist, distortion_h, label="Hierarchical")
     plt.plot(xlist, distortion_k, label="K-means")
     plt.xlabel("Numero di clusters")
     plt.ylabel("Distorsione")
-    plt.title("Confronto distorsione "+title)
+    plt.title("Confronto distorsione " + title)
     plt.legend()
     plt.show()
