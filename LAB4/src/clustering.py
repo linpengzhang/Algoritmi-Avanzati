@@ -12,21 +12,24 @@ class Cluster(Dataset):
 
     def __init__(self, lista):
         Dataset.__init__(self, lista)
-        self._sum_x = sum(map(lambda a: a.x, lista))
-        self._sum_y = sum(map(lambda a: a.y, lista))
+        self._sum_x = sum(map(lambda a: a.x * a.population, lista))
+        self._sum_y = sum(map(lambda a: a.y * a.population, lista))
+        self._sum_pop = sum(map(lambda a: a.population, lista))
 
     def append(self, c: County):
         self.data.append(c)
-        self._sum_x += c.x
-        self._sum_y += c.y
+        self._sum_x += c.x * c.population
+        self._sum_y += c.y * c.population
+        self._sum_pop += c.population
 
     def extend(self, cl):
         self.data.extend(cl.data)
         self._sum_x += cl._sum_x
         self._sum_y += cl._sum_y
+        self._sum_pop += cl._sum_pop
 
     def get_center(self):
-        n = len(self.data)
+        n = self._sum_pop #len(self.data)
         return self._sum_x / n, self._sum_y / n
 
     def get_error(self):
