@@ -35,7 +35,7 @@ def domanda_6():
     print("Distortion for hierchical clustering:", d1)
     print("Computing: kmeans clustering on dataset_212...")
     C2, t2, d2 = kmeans_clustering(dataset_212, 9, 5)
-    print("Distortion for kmeans clustering:", d1)
+    print("Distortion for kmeans clustering:", d2)
 
 
 def domanda_9():
@@ -57,7 +57,8 @@ dataset_full = Dataset.read_from_file("inputFiles/unifiedCancerData_3108.csv")
 dataset_212 = Dataset.read_from_file("inputFiles/unifiedCancerData_212.csv")
 dataset_562 = Dataset.read_from_file("inputFiles/unifiedCancerData_562.csv")
 dataset_1041 = Dataset.read_from_file("inputFiles/unifiedCancerData_1041.csv")
-
+domanda_6()
+"""
 # EFFICIENZA
 domanda_1()
 domanda_2()
@@ -67,5 +68,5 @@ domanda_5()
 domanda_6()
 # QUALITA'
 domanda_9()
-
+"""
 print("Script end")

@@ -2,13 +2,6 @@ Linpeng Zhang 1162114
 Michele Roverato 1143030
 Martino Echerle 1206691
 
-Nota:
-Sono stati sviluppati due versioni del calcolo del centro di un cluster:
-- quello visto a lezione, che consiste nella media aritmetica delle coordinate di ciascuna città nel cluster;
-- una variante che consiste nella media delle coordinate pesata con la popolazione di ciascuna città nel cluster.
-La motivazione è che per il calcolo della distorsione si pesano le distanze, mo
-Le immagini, quindi, sono state suddivise in due cartelle:
-classic_algorithm_img e population_weight_algorithm_img
 
 Domanda 1
 Immagine H_FULL.png
@@ -43,15 +36,8 @@ Domanda 5
 Immagine K_212.png
 
 Domanda 6
-Con l'algoritmo visto a lezione
-Distortion for hierchical clustering: 196752213374.9596
-Distortion for kmeans clustering: 95382765365.33682
-
-Con calcolo del centro pesato in base alla popolazione
 Distortion for hierchical clustering: 60643304848.47967
 Distortion for kmeans clustering: 66101245907.45788
-
-Notiamo che la "variante" riduce sensibilmente la distorsione.
 
 Domanda 7
 In H_212.png abbiamo un unico cluster nella costa occidentale. In K_212.png ce ne sono tre. Questa differenza è dovuta al fatto che k-means sceglie inizialmente i k centroidi scegliendo le contee più popolose. In corrispondenza di quella fascia vi sono almeno 3 contee tra le k più popolose, tra cui menzioniamo anche la presenza di grandi città come San Francisco, Las Vegas, San Diego, Los Angeles,...
