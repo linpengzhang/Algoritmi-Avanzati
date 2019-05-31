@@ -12,22 +12,25 @@ class Cluster(Dataset):
 
     def __init__(self, lista):
         Dataset.__init__(self, lista)
-        self._sum_x = sum(map(lambda a: a.x, lista))
-        self._sum_y = sum(map(lambda a: a.y, lista))
+        self._sum_x = sum(map(lambda a: a.x * a.population, lista))
+        self._sum_y = sum(map(lambda a: a.y * a.population, lista))
+        self._sum_pop = sum(map(lambda a: a.population, lista))
 
     def append(self, c: County):
         self.data.append(c)
-        self._sum_x += c.x
-        self._sum_y += c.y
+        self._sum_x += c.x * c.population
+        self._sum_y += c.y * c.population
+        self._sum_pop += c.population
 
     def extend(self, cl):
         self.data.extend(cl.data)
         self._sum_x += cl._sum_x
         self._sum_y += cl._sum_y
+        self._sum_pop += cl._sum_pop
 
     def get_center(self):
-        n = len(self.data)
-        return (self._sum_x / n, self._sum_y / n)
+        n = self._sum_pop #len(self.data)
+        return self._sum_x / n, self._sum_y / n
 
     def get_error(self):
         cent = self.get_center()
@@ -50,6 +53,25 @@ def hierarchical_clustering(D: Dataset, k):
         del C[j]
     end = time.clock()
     return [C, end - start, distortion(C)]
+
+
+def hierarchical_clustering_distortion_list(D: Dataset, k):
+    # crea inizialmente un cluster per ciascun elemento
+    C = [Cluster([c]) for c in D.data]
+    distortion = [0 for _ in range(len(C) + 1)]
+    while len(C) > k:
+        # trova gli indici dei due cluster più vicini
+        P = [(i, C[i].get_center()) for i in range(len(C))]
+        # P[i][0] è l'indice del cluster
+        # P[i][1] sono le coordinate del centro del cluster i-esimo
+        P.sort(key=lambda x: x[1][0])  # ordina per coordinata x
+        S = argsort(list(map(lambda x: x[1][1], P))).tolist()  # indici su P dei punti ordinati per coordinata y
+        d, i, j = fast_closest_pair(P, S, 0, len(P))
+        distortion[len(C) - 1] = distortion[len(C)] - C[j].get_error() - C[i].get_error()
+        C[i].extend(C[j])
+        distortion[len(C) - 1] = distortion[len(C) - 1] + C[i].get_error()
+        del C[j]
+    return distortion
 
 
 def slow_closest_pair(P: list, start, stop):
