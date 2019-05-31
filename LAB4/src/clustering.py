@@ -29,7 +29,7 @@ class Cluster(Dataset):
         self._sum_pop += cl._sum_pop
 
     def get_center(self):
-        n = self._sum_pop #len(self.data)
+        n = self._sum_pop  # len(self.data)
         return self._sum_x / n, self._sum_y / n
 
     def get_error(self):
