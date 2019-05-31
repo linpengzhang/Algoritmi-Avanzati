@@ -1,10 +1,10 @@
-Linpeng Zhang 1162114
+﻿Linpeng Zhang 1162114
 Michele Roverato 1143030
 Martino Echerle 1206691
 
 Nota:
-Sono stati sviluppati due versioni del calcolo del centro di un cluster:
-- quello visto a lezione, che consiste nella media aritmetica delle coordinate di ciascuna città nel cluster;
+Sono state sviluppate due versioni per il calcolo del centro di un cluster:
+- quella vista a lezione, che consiste nella media aritmetica delle coordinate di ciascuna città nel cluster;
 - una variante che consiste nella media delle coordinate pesata con la popolazione di ciascuna città nel cluster.
 La motivazione è che per il calcolo della distorsione si pesano le distanze a seconda della popolazione. È chiaro che, tenerne conto nell'algoritmo di clustering, può ridurre significativamente la distorsione. 
 Le immagini, quindi, sono state suddivise in due cartelle:
@@ -20,13 +20,13 @@ Domanda 3
 Il tempo di K-means dipende dal ciclo esterno principale, che viene compiuto q volte. Al suo interno si ha:
 - la creazione dei k cluster che richiede tempo O(k)
 - il calcolo del centroide più vicino ad ogni punto, che richiede tempo O(nk)
-- il ricalcolo dei centroidi che richiede tempo O(n)
-Quindi K-means richiede tempo O(q(k+nk+n))=O(qnk)
+- il ricalcolo dei centroidi che richiede tempo O(k)
+Quindi K-means richiede tempo O(q(k+nk+k))=O(qnk)
 -------------------------------------
 Il tempo di HierarchicalClustering, supponendo che si utilizzi l'algoritmo FastClosestPair, è governato dal ciclo while effettuato al più O(n-k) volte. Al suo interno si ha:
 - la chiamata a FastClosestPair che richiede tempo O(nlogn)
 - Unione e differenza dei cluster che richiedono tempo certamente al più O(n), e che quindi è irrilevante a fini asintotici (FastClosestPair richiede più tempo)
-Quindi HierarchicalClustering richiede tempo O((n-k)(nlogn+n)=O((n-k)(nlogn))
+Quindi HierarchicalClustering richiede tempo O((n-k)(nlogn+n))=O((n-k)(nlogn))
 --------------------------------------
 Nell'ipotesi che:
 - il numero di cluster di output sia piccolo, ovvero k=O(1);
@@ -43,28 +43,28 @@ Domanda 5
 Immagine K_212.png
 
 Domanda 6
-Con l'algoritmo visto a lezione
-Distortion for hierchical clustering: 1.967522133749596e11
-Distortion for kmeans clustering: 9,538276536533682e10
+Con la versione vista a lezione degli algoritmi:
+Distortion for hierchical clustering: 1.967522133749596 x 10^11
+Distortion for kmeans clustering: 9.538276536533682 x 10^10
 
-Con calcolo del centro pesato in base alla popolazione
-Distortion for hierchical clustering: 6.064330484847967e10
-Distortion for kmeans clustering: 6.610124590745788e10
+Con il calcolo dei centroidi pesati in base alla popolazione:
+Distortion for hierchical clustering: 6.064330484847967 x 10^10
+Distortion for kmeans clustering: 6.610124590745788 x 10^10
 
-Notiamo che la "variante" riduce sensibilmente la distorsione.
+Notiamo che la versione che fa uso di centroidi pesati riduce sensibilmente la distorsione.
 
 Domanda 7
-In H_212.png abbiamo un unico cluster nella costa occidentale. In K_212.png ce ne sono tre. Questa differenza è dovuta al fatto che k-means sceglie inizialmente i k centroidi scegliendo le contee più popolose. In corrispondenza di quella fascia vi sono almeno 3 contee tra le k più popolose, tra cui menzioniamo anche la presenza di grandi città come San Francisco, Las Vegas, San Diego, Los Angeles,...
-Si formeranno quindi questi 3 cluster che certamente contengono la contea che ha "inizializzato" il centroide, in quanto si trova inizialmente a distanza nulla da questo.
-Utilizzando l'algoritmo visto a lezione, la distorsione di questi cluster con 1 città, con k-means, è nulla; mentre con HierarchicalClustering si riuniscono città molto popolose, motivo per cui la distorsione aumenta in maniera significativa, risultando peggiore di k-means.
-Utilizzando la variante, si forma comunque un unico cluster nella parte occidentale. Il calcolo del centro, tuttavia, è ora influenzato dalla popolazione, ridicendo significativamente la distorsione.
+In H_212.png (clustering gerarchico) abbiamo un unico cluster nella costa occidentale. In K_212.png (clustering kmeans) ce ne sono tre. Questa differenza è dovuta al fatto che k-means sceglie inizialmente i k centroidi scegliendo le contee più popolose. In corrispondenza di quella fascia vi sono almeno 3 contee tra le k più popolose, tra cui menzioniamo anche la presenza di grandi città come San Francisco, Las Vegas, San Diego, Los Angeles,...
+Si formeranno quindi questi 3 cluster che certamente contengono ciascuno la contea che ha "inizializzato" il centroide, che essendo tra le più popolose è infatti scelta come parte dei centroidi iniziali.
+Utilizzando la versione vista a lezione, non pesata, degli algoritmi: la distorsione ottenuta dal clustering k-means è inferiore, mantenendo infatti le contee più popolose in cluster differenti; diversamente il clustering gerarchico riunisce le contee molto popolose della costa occidentale in un unico cluster, motivo per cui la distorsione (che tiene conto anche della popolazione) aumenta in maniera significativa, risultando peggiore di k-means.
+Utilizzando la variante che considera centroidi pesati: nel caso del clustering gerarchico si osserva comunque la formazione un unico cluster nella costa occidentale. Il calcolo dei centroidi, tuttavia, tiene ora conto anche della popolazione, ridicendo significativamente la distorsione, che in questo caso risulta inferiore rispetto a quella ottenuta dal clustering k-means.
 
 Domanda 8
-Utilizzando l'algoritmo visto a lezione, risulta preferibile K-Means perché il clustering gerarchico ignora la popolazione, che invece risulta determinante nel calcolo della distorsione.
-Utilizzando la variante sceglierei il clustering gerarchico perché non è influenzato dalla scelta dei centroidi iniziali, e soprattutto perché si può calcolare la distorsione man mano che l'algoritmo prosegue, ed eventualmente fermarsi prima.
+Utilizzando la versione vista a lezione degli algoritmi, risulta preferibile K-Means perché utilizza come centroidi di partenza le contee più popolose e quindi tende a mantenerle in cluster differenti, diversamente dal clustering gerarchico che considera solo la distanza e ignora la popolazione, che invece va a contribuire nel calcolo della distorsione.
+Utilizzando la variante che considera centroidi pesati, risulta buono il clustering gerarchico la cui distorsione ora risente meno dei problemi citati nella risposta precedente.
 
 Domanda 9
 Immagini distortion_212.png, distortion_562.png, distortion_1041.png
 
 Domanda 10
-Non c'è un algoritmo migliore in tutti i casi. Infatti, con entrambi gli algoritmi, le distorsioni sembrano alternarsi a seconda del numero di cluster. Comunque l'algoritmo che utilizza il centro pesato in base alla popolazione ha distorsioni più basse, e la differenza è particolarmente evidente in HierarchicalClustering.
+Non c'è un algoritmo che sia migliore in tutti i casi. Infatti, con entrambi i metodi di clustering e in entrambe le due varianti considerate, la distorsione inferiore sembra alternarsi a seconda del numero di cluster. Comunque, i due metodi di clustering nella variante che considera i centroidi pesati in base alla popolazione hanno distorsioni più basse rispetto alla versione non pesata, e la differenza è particolarmente evidente con il clustering gerarchico.
