@@ -3,7 +3,7 @@ import matplotlib.image as mpimg
 from itertools import cycle
 
 
-def draw_clustering(clustering, weighted: bool):
+def draw_clustering(clustering):
     img = mpimg.imread('inputFiles/USA_Counties.png')
 
     colors = cycle(['#800000', '#9A6324', '#469990', '#0000ad', '#c0be42',
@@ -16,7 +16,7 @@ def draw_clustering(clustering, weighted: bool):
         x, y = c.get_coords()
         plt.scatter(x, y, marker='.', linewidth=1.5, c=next(colors))
         # draw lines to the center
-        xc, yc = c.get_center(weighted)
+        xc, yc = c.get_center()
         for xp, yp in zip(x, y):
             plt.plot([xc, xp], [yc, yp], c='black', linewidth=0.25)
 
