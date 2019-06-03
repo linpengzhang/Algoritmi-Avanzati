@@ -3,7 +3,7 @@ import matplotlib.image as mpimg
 from itertools import cycle
 
 
-def draw_clustering(clustering):
+def draw_clustering(clustering, title: str):
     img = mpimg.imread('inputFiles/USA_Counties.png')
 
     colors = cycle(['#800000', '#9A6324', '#469990', '#0000ad', '#c0be42',
@@ -20,6 +20,7 @@ def draw_clustering(clustering):
         for xp, yp in zip(x, y):
             plt.plot([xc, xp], [yc, yp], c='black', linewidth=0.25)
 
+    plt.title(title)
     plt.imshow(img)
     plt.show()
 
@@ -29,6 +30,6 @@ def draw_distortion(xlist: list, distortion_h: list, distortion_k: list, title: 
     plt.plot(xlist, distortion_k, label="K-means")
     plt.xlabel("Numero di clusters")
     plt.ylabel("Distorsione")
-    plt.title("Confronto distorsione " + title)
+    plt.title("Distorsione " + title)
     plt.legend()
     plt.show()
