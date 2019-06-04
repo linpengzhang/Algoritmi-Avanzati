@@ -10,37 +10,52 @@ class Cluster(Dataset):
     Classe che rappresenta un cluster di contee
     """
 
-    def __init__(self, lista):
+    def __init__(self, lista, weighted: bool):
         Dataset.__init__(self, lista)
-        self._sum_x = sum(map(lambda a: a.x * a.population, lista))
-        self._sum_y = sum(map(lambda a: a.y * a.population, lista))
-        self._sum_pop = sum(map(lambda a: a.population, lista))
+        self._weighted = weighted
+        if weighted:
+            self._sum_x = sum(map(lambda a: a.x * a.population, lista))
+            self._sum_y = sum(map(lambda a: a.y * a.population, lista))
+            self._count = sum(map(lambda a: a.population, lista))
+        else:
+            self._sum_x = sum(map(lambda a: a.x, lista))
+            self._sum_y = sum(map(lambda a: a.y, lista))
+            self._count = len(lista)
 
     def append(self, c: County):
         self.data.append(c)
-        self._sum_x += c.x * c.population
-        self._sum_y += c.y * c.population
-        self._sum_pop += c.population
+        if self._weighted:
+            self._sum_x += c.x * c.population
+            self._sum_y += c.y * c.population
+            self._count += c.population
+        else:
+            self._sum_x += c.x
+            self._sum_y += c.y
+            self._count += 1
 
     def extend(self, cl):
         self.data.extend(cl.data)
         self._sum_x += cl._sum_x
         self._sum_y += cl._sum_y
-        self._sum_pop += cl._sum_pop
+        self._count += cl._count
 
     def get_center(self):
-        n = self._sum_pop  # len(self.data)
-        return self._sum_x / n, self._sum_y / n
+        return self._sum_x / self._count, self._sum_y / self._count
 
     def get_error(self):
-        cent = self.get_center()
-        return sum(map(lambda c: c.population * (distance(c.get_coords(), cent) ** 2), self.data))
+        return sum(map(lambda c: c.population * (distance(c.get_coords(), self.get_center()) ** 2), self.data))
 
 
-def hierarchical_clustering(D: Dataset, k):
+def hierarchical_clustering(D: Dataset, k, weighted: bool):
+    """
+    :param D: lista di contee
+    :param k: numero di cluster da ottenere
+    :param weighted: indica se il calcolo dei centroidi è pesato o meno
+    :return: clustering ottenuto, tempo impiegato e distorsione del clustering 
+    """
     start = time.clock()
     # crea inizialmente un cluster per ciascun elemento
-    C = [Cluster([c]) for c in D.data]
+    C = [Cluster([c], weighted) for c in D.data]
     while len(C) > k:
         # trova gli indici dei due cluster più vicini
         P = [(i, C[i].get_center()) for i in range(len(C))]
@@ -55,10 +70,16 @@ def hierarchical_clustering(D: Dataset, k):
     return [C, end - start, distortion(C)]
 
 
-def hierarchical_clustering_distortion_list(D: Dataset, k):
+def hierarchical_clustering_distortion_list(D: Dataset, k, weighted: bool):
+    """
+    :param D: lista di contee
+    :param k: numero di cluster da ottenere
+    :param weighted: indica se il calcolo dei centroidi è pesato o meno
+    :return: lista con i valori delle distorsioni del cluster di dimensione i, per k<=i<=len(C) oppure 0 per 0<=i<k 
+    """
     # crea inizialmente un cluster per ciascun elemento
-    C = [Cluster([c]) for c in D.data]
-    distortion = [0 for _ in range(len(C) + 1)]
+    C = [Cluster([c], weighted) for c in D.data]
+    distortion_list = [0 for _ in range(len(C) + 1)]
     while len(C) > k:
         # trova gli indici dei due cluster più vicini
         P = [(i, C[i].get_center()) for i in range(len(C))]
@@ -67,11 +88,11 @@ def hierarchical_clustering_distortion_list(D: Dataset, k):
         P.sort(key=lambda x: x[1][0])  # ordina per coordinata x
         S = argsort(list(map(lambda x: x[1][1], P))).tolist()  # indici su P dei punti ordinati per coordinata y
         d, i, j = fast_closest_pair(P, S, 0, len(P))
-        distortion[len(C) - 1] = distortion[len(C)] - C[j].get_error() - C[i].get_error()
+        distortion_list[len(C) - 1] = distortion_list[len(C)] - C[j].get_error() - C[i].get_error()
         C[i].extend(C[j])
-        distortion[len(C) - 1] = distortion[len(C) - 1] + C[i].get_error()
+        distortion_list[len(C) - 1] = distortion_list[len(C) - 1] + C[i].get_error()
         del C[j]
-    return distortion
+    return distortion_list
 
 
 def slow_closest_pair(P: list, start, stop):
@@ -129,8 +150,9 @@ def closest_pair_strip(P: list, S: list, mid, d):
     :param S: lista ordinata di indici su P di un sottoinsieme P' di P
     :param mid: valore reale
     :param d: valore reale positivo
-    :return: (d,i,j), d è la minima distanza tra due punti in P', i e j sono gli indici (associati) di questi due punti
+    :return: (d,i,j), d è la minima distanza tra due punti nella fascia centrale, i e j sono gli indici (associati) di questi due punti
     """
+    # considero solo i punti all'interno della fascia di interesse
     SS = list()
     for idx in S:
         if abs(P[idx][1][0] - mid) < d:
@@ -144,14 +166,21 @@ def closest_pair_strip(P: list, S: list, mid, d):
     return d, i, j
 
 
-def kmeans_clustering(P: Dataset, k, q):
+def kmeans_clustering(P: Dataset, k, q, weighted: bool):
+    """
+    :param P: lista di contee
+    :param k: numero di cluster da ottenere
+    :param q: numero di iterazioni
+    :param weighted: indica se il calcolo dei centroidi è pesato o meno
+    :return: clustering ottenuto, tempo impiegato e distorsione del clustering 
+    """
     start = time.clock()
     n = len(P.data)
     # inizializza i primi k centroidi come le k contee più popolose
     centroids = list(map(lambda c: c.get_coords(), heapq.nlargest(k, P.data, lambda c: c.population)))
     for _ in range(q):
         # crea k cluster vuoti
-        C = [Cluster([]) for _ in range(k)]
+        C = [Cluster([], weighted) for _ in range(k)]
         # assegna ciascuna contea al cluster relativo al centroide più vicino
         for j in range(n):
             # trova l'indice l del centroide più vicino
