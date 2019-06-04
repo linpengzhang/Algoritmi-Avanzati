@@ -1,4 +1,4 @@
-﻿Linpeng Zhang 1162114
+Linpeng Zhang 1162114
 Michele Roverato 1143030
 Martino Echerle 1206691
 
@@ -64,7 +64,7 @@ Utilizzando la versione vista a lezione degli algoritmi, risulta preferibile K-M
 Utilizzando la variante che considera centroidi pesati, risulta buono il clustering gerarchico la cui distorsione ora risente meno dei problemi citati nella risposta precedente.
 
 Domanda 9
-Immagini distortion_212.png, distortion_562.png, distortion_1041.png
+Immagini Distortion_212.png, Distortion_562.png, Distortion_1041.png
 
 Domanda 10
 Non c'è un algoritmo che sia migliore in tutti i casi. Infatti, con entrambi i metodi di clustering e in entrambe le due varianti considerate, la distorsione inferiore sembra alternarsi a seconda del numero di cluster. Comunque, i due metodi di clustering nella variante che considera i centroidi pesati in base alla popolazione hanno distorsioni più basse rispetto alla versione non pesata, e la differenza è particolarmente evidente con il clustering gerarchico.
