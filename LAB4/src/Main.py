@@ -53,7 +53,8 @@ def domanda_9():
     for name, dataset in datasets.items():
         h_distortion_list = hierarchical_clustering_distortion_list(dataset, min_c, weighted)[min_c:max_c]
         k_distortion_list = [kmeans_clustering(dataset, i, 5, weighted)[2] for i in interval]
-        draw_distortion(list(interval), h_distortion_list, k_distortion_list, name + (" (v. pesata)" if weighted else ""))
+        draw_distortion(list(interval), h_distortion_list, k_distortion_list,
+                        name + (" (v. pesata)" if weighted else ""))
 
 
 print("Script start...")
