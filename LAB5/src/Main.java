@@ -5,7 +5,7 @@ public class Main{
     public static void main(String[] args){
         System.out.println("Script start");
         System.out.println("Parsing file...");
-        List<City> cities = CityParser.parseFile("src/inputFiles/cities-and-towns-of-usa.csv");
+        List<City> cities = CityParser.parseFile("./inputFiles/cities-and-towns-of-usa.csv");
 
         System.out.println("Creating population arrays...");
 

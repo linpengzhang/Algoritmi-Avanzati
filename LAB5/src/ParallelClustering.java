@@ -46,6 +46,48 @@ public class ParallelClustering {
         }
     }
 
+    private class FirstParallelFor extends RecursiveTask<Void> {
+        private List<City> cities;
+        private List<Point> centroid;
+        private List<Integer> cluster;
+        private final int start; // indice iniziale
+        private final int end; // indice finale
+
+        public FirstParallelFor(List<City> cities, List<Point> centroid, List<Integer> cluster, int start, int end) {
+            this.cities = cities;
+            this.centroid = centroid;
+            this.cluster = cluster;
+            this.start = start;
+            this.end = end;
+        }
+            private int getMinCentroid(List<Point> centroid, Point min) {
+            int minDistance = centroid.get(0).getDistance(min);
+            int pos = 0;
+            for (int i = 1; i < centroid.size(); i++) {
+                if (centroid.get(i).getDistance(min) < minDistance) {
+                    minDistance = centroid.get(i).getDistance(min);
+                    pos = i;
+                }
+            }
+            return pos;
+        }
+        protected Void compute() {
+            if (start == end) {
+                int l = getMinCentroid(centroid, cities.get(start));
+                cluster.set(start, l);
+            }
+            else {
+                int middle = (start + end) / 2;
+                FirstParallelFor p1 = new FirstParallelFor(cities, centroid, cluster, start, middle);
+                p1.fork();
+                FirstParallelFor p2 = new FirstParallelFor(cities, centroid, cluster, middle+1, end);
+                p2.compute();
+                p1.join();
+            }
+            return null;
+        }
+    }
+/*
     public class firstParallelFor extends RecursiveTask<Void> {
         private City city;
         private List<Point> centroid;
@@ -77,7 +119,7 @@ public class ParallelClustering {
             return null;
         }
     }
-
+*/
     private class secondParallelFor extends RecursiveTask<Void>{
         private List<Integer> cluster;
         private final int h;
@@ -114,9 +156,11 @@ public class ParallelClustering {
         List<Integer> cluster = new ArrayList<>(Collections.nCopies(cities.size(), 0));
 
         for (int i = 0; i < iterations; i++) {
-
+            FirstParallelFor firstTask = new FirstParallelFor(cities, centroid, cluster, 0,cities.size()-1);
+            firstTask.compute();
             //-------------------------------------
             //First parallel for
+            /*
             List<firstParallelFor> firstParallelForTasks = new ArrayList<>();
             for (int j = 0; j < cities.size(); j++) {
                 firstParallelFor task = new firstParallelFor(cities.get(j), centroid, cluster, j);
@@ -126,7 +170,7 @@ public class ParallelClustering {
             }
             for (firstParallelFor task : firstParallelForTasks) {
                 task.join();
-            }
+            }*/
             //-------------------------------------
             //Second parallel for
             List<secondParallelFor> secondParallelForTasks = new ArrayList<>();
