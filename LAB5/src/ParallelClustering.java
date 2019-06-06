@@ -107,8 +107,8 @@ public class ParallelClustering {
 
     public List<Integer> parallelKMeansClustering(List<City> cities, int clustNumber, int iterations) {
         ForkJoinPool commonPool = new ForkJoinPool(Runtime.getRuntime().availableProcessors());
-
-        List<Point> centroid = cities.stream().sorted(Comparator.comparing(City::getPopulation))
+        List<Point> centroid = cities.stream().sorted(Comparator.comparing(City::getPopulation)
+                .reversed())
                 .limit(clustNumber)
                 .collect(Collectors.toList());
         List<Integer> cluster = new ArrayList<>(Collections.nCopies(cities.size(), 0));
@@ -127,7 +127,6 @@ public class ParallelClustering {
             for (firstParallelFor task : firstParallelForTasks) {
                 task.join();
             }
-
             //-------------------------------------
             //Second parallel for
             List<secondParallelFor> secondParallelForTasks = new ArrayList<>();
