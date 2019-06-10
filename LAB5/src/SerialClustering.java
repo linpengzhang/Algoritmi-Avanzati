@@ -28,8 +28,9 @@ public class SerialClustering {
     }
 
     public static List<List<City>> kMeansClustering(List<City> cities, int clustNumber, int iterations) {
-        //inizializza i primi k centroidi come le k contee più popolose
-        List<Point> centroid = cities.stream().sorted(Comparator.comparing(City::getPopulation)).limit(clustNumber).collect(Collectors.toList());
+        // inizializza i primi k centroidi come le k contee più popolose
+        List<Point> centroid = cities.stream().sorted(Comparator.comparing(City::getPopulation).reversed())
+                .limit(clustNumber).collect(Collectors.toList());
         List<List<City>> clusters = new ArrayList<>(clustNumber);
         for (int i = 0; i < iterations; i++) {
             // crea k cluster vuoti
@@ -37,12 +38,12 @@ public class SerialClustering {
             for (int j = 0; j < clustNumber; j++) {
                 clusters.add(j, new ArrayList<City>());
             }
-            //Assegna ciascuna contea al cluster relativo al centroide più vicino
+            // Assegna ciascuna contea al cluster relativo al centroide più vicino
             for (City city : cities) {
                 int minCentroid = getMinCentroid(centroid, city);
                 clusters.get(minCentroid).add(city);
             }
-            //Aggiorna i nuovi centroidi in base ai cluster ottenuti
+            // Aggiorna i nuovi centroidi in base ai cluster ottenuti
             for (int j = 0; j < clusters.size(); j++) {
                 centroid.set(j, getCenter(clusters.get(j)));
             }
