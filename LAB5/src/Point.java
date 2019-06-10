@@ -27,9 +27,10 @@ public class Point {
     }
 
     private int truncateToInt(float val) {
-        DecimalFormat df = new DecimalFormat("##");
-        df.setRoundingMode(RoundingMode.DOWN);
-        return Integer.parseInt(df.format(val));
+        //DecimalFormat df = new DecimalFormat("##");
+        //df.setRoundingMode(RoundingMode.DOWN);
+        //return Integer.parseInt(df.format(val));
+        return (int) val;
     }
 
     private int truncateToInt(double val) {

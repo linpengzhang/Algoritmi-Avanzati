@@ -9,8 +9,9 @@ public class SerialClustering {
         int minDistance = centroid.get(0).getDistance(min);
         int pos = 0;
         for (int i = 1; i < centroid.size(); i++) {
-            if (centroid.get(i).getDistance(min) < minDistance) {
-                minDistance = centroid.get(i).getDistance(min);
+            int curDistance = centroid.get(i).getDistance(min);
+            if (curDistance < minDistance) {
+                minDistance = curDistance;
                 pos = i;
             }
         }
@@ -29,7 +30,8 @@ public class SerialClustering {
 
     public static List<List<City>> kMeansClustering(List<City> cities, int clustNumber, int iterations) {
         // inizializza i primi k centroidi come le k contee più popolose
-        List<Point> centroid = cities.stream().sorted(Comparator.comparing(City::getPopulation).reversed())
+        List<Point> centroid = cities.stream()
+                .sorted(Comparator.comparing(City::getPopulation).reversed())
                 .limit(clustNumber).collect(Collectors.toList());
         List<List<City>> clusters = new ArrayList<>(clustNumber);
         for (int i = 0; i < iterations; i++) {
