@@ -19,13 +19,17 @@ public class SerialClustering {
     }
 
     private static Point getCenter(List<City> cities) {
-        float sumLatitude = 0;
-        float sumLongitude = 0;
-        for (City city : cities) {
-            sumLatitude += city.getLatitude();
-            sumLongitude += city.getLongitude();
+        if (cities.size() == 0)
+            return new Point(0,0);
+        else {
+            double sumLatitude = 0;
+            double sumLongitude = 0;
+            for (City city : cities) {
+                sumLatitude += city.getLatitude();
+                sumLongitude += city.getLongitude();
+            }
+            return new Point(sumLatitude / cities.size(), sumLongitude / cities.size());
         }
-        return new Point(sumLatitude / cities.size(), sumLongitude / cities.size());
     }
 
     public static List<List<City>> kMeansClustering(List<City> cities, int clustNumber, int iterations) {

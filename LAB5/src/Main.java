@@ -18,14 +18,14 @@ public class Main {
 
         System.out.println("Computing Serial...");
         long inizio = System.currentTimeMillis();
-        List<List<City>> A = SerialClustering.kMeansClustering(cities_15000, 50, 3);
+        List<List<City>> A = SerialClustering.kMeansClustering(cities_15000, 50, 100);
         long fine = System.currentTimeMillis();
         System.out.println(fine-inizio);        
 
 
         System.out.println("Computing Parallel...");
         inizio = System.currentTimeMillis();
-        List<Integer> B = new ParallelClustering().parallelKMeansClustering(cities_15000, 50, 3);
+        List<Integer> B = new ParallelClustering().parallelKMeansClustering(cities_15000, 50, 100);
         fine = System.currentTimeMillis();
         System.out.println(fine-inizio);
 

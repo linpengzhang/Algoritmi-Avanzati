@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 
 public class ParallelClustering {
 
-    private class ParallelReduceCluster extends RecursiveTask<Pair<Pair<Integer, Integer>, Integer>> {
+    private class ParallelReduceCluster extends RecursiveTask<Pair<Pair<Double, Double>, Integer>> {
         private List<Integer> cluster; // contiene per ciascun punto l'indice del cluster a cui appartiene
         private final int start; // indice iniziale
         private final int end; // indice finale
@@ -24,22 +24,22 @@ public class ParallelClustering {
             this.cities = cities;
         }
 
-        protected Pair<Pair<Integer, Integer>, Integer> compute() {
+        protected Pair<Pair<Double, Double>, Integer> compute() {
             if (start == end) {
                 if (cluster.get(start) == h)
-                    return new Pair<>(new Pair<>((int)cities.get(start).getLatitude(), (int)cities.get(start).getLongitude()), 1);
+                    return new Pair<>(new Pair<>(cities.get(start).getLatitude(), cities.get(start).getLongitude()), 1);
                 else
-                    return new Pair<>(new Pair<>(0, 0), 0);
+                    return new Pair<>(new Pair<>(0d, 0d), 0);
             }
             else {
                 int mid = (start + end) / 2;
                 ParallelReduceCluster p1 = new ParallelReduceCluster(cluster, start, mid, h, cities);
                 p1.fork();
                 ParallelReduceCluster p2 = new ParallelReduceCluster(cluster, mid + 1, end, h, cities);
-                Pair<Pair<Integer, Integer>, Integer> res2 = p2.compute();
-                Pair<Pair<Integer, Integer>, Integer> res1 = p1.join();
-                int sum_lat = res1.getKey().getKey() + res2.getKey().getKey();
-                int sum_lon = res1.getKey().getValue() + res2.getKey().getValue();
+                Pair<Pair<Double, Double>, Integer> res2 = p2.compute();
+                Pair<Pair<Double, Double>, Integer> res1 = p1.join();
+                double sum_lat = res1.getKey().getKey() + res2.getKey().getKey();
+                double sum_lon = res1.getKey().getValue() + res2.getKey().getValue();
                 int size = res1.getValue() + res2.getValue();
                 return new Pair<>(new Pair<>(sum_lat, sum_lon), size);
             }
@@ -64,8 +64,9 @@ public class ParallelClustering {
             int minDistance = centroid.get(0).getDistance(min);
             int pos = 0;
             for (int i = 1; i < centroid.size(); i++) {
-                if (centroid.get(i).getDistance(min) < minDistance) {
-                    minDistance = centroid.get(i).getDistance(min);
+                int curDistance = centroid.get(i).getDistance(min);
+                if (curDistance < minDistance) {
+                    minDistance = curDistance;
                     pos = i;
                 }
             }
@@ -106,9 +107,9 @@ public class ParallelClustering {
         public Void compute(){
             if (start == end) {
                 ParallelReduceCluster task = new ParallelReduceCluster(cluster, 0, cluster.size() - 1, start, cities);
-                Pair<Pair<Integer, Integer>, Integer> res = task.compute();
-                int sum_lat = res.getKey().getKey();
-                int sum_lon = res.getKey().getValue();
+                Pair<Pair<Double, Double>, Integer> res = task.compute();
+                double sum_lat = res.getKey().getKey();
+                double sum_lon = res.getKey().getValue();
                 int size = res.getValue();
                 if (size == 0)
                     centroid.set(start, new Point(0, 0));
