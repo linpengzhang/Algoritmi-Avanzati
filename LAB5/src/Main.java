@@ -39,7 +39,7 @@ public class Main {
             long fine = System.currentTimeMillis();
             long seriale = fine - inizio;
             inizio = System.currentTimeMillis();
-            List<Integer> B = new ParallelClustering().parallelKMeansClustering(couple.getValue(), 50, number_of_iter);
+            List<Integer> B = new ParallelClustering().parallelKMeansClustering(couple.getValue(), 50, number_of_iter, 1);
             fine = System.currentTimeMillis();
             long parallelo = fine - inizio;
             Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
@@ -71,14 +71,16 @@ public class Main {
         } catch (Exception e) {
             System.out.println(e);
         }
+
         //ES 2
+        values = new ArrayList<>();
         for(int i=10;i<100;i++){
             long inizio = System.currentTimeMillis();
             List<List<City>> A = SerialClustering.kMeansClustering(cities, i, number_of_iter);
             long fine = System.currentTimeMillis();
             long seriale = fine - inizio;
             inizio = System.currentTimeMillis();
-            List<Integer> B = new ParallelClustering().parallelKMeansClustering(cities, i, number_of_iter);
+            List<Integer> B = new ParallelClustering().parallelKMeansClustering(cities, i, number_of_iter, 1);
             fine = System.currentTimeMillis();
             long parallelo = fine - inizio;
             Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
@@ -87,18 +89,28 @@ public class Main {
         }
 
         //ES 3
+        values = new ArrayList<>();
         for(int i=10;i<1000;i++){
             long inizio = System.currentTimeMillis();
             List<List<City>> A = SerialClustering.kMeansClustering(cities, 50 , i);
             long fine = System.currentTimeMillis();
             long seriale = fine - inizio;
             inizio = System.currentTimeMillis();
-            List<Integer> B = new ParallelClustering().parallelKMeansClustering(cities, 50, i);
+            List<Integer> B = new ParallelClustering().parallelKMeansClustering(cities, 50, i, 1);
             fine = System.currentTimeMillis();
             long parallelo = fine - inizio;
             Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
             Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
             values.add(punto);
+        }
+        //ES 4
+        List<Pair<Integer, Long>> values_es_four = new ArrayList<>();
+        for(int i=1;i<100;i++){
+            long inizio = System.currentTimeMillis();
+            List<Integer> B = new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, i);
+            long fine = System.currentTimeMillis();
+            Pair<Integer, Long> punto = new Pair<>(i, fine - inizio);
+            values_es_four.add(punto);
         }
         /*
         //grafico

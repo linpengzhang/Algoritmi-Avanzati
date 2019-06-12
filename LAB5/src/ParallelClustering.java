@@ -64,13 +64,19 @@ public class ParallelClustering {
         private List<Integer> cluster;
         private final int start; // indice iniziale
         private final int end; // indice finale
+        private final int cutoff;
 
         public FirstParallelFor(List<City> cities, List<Point> centroid, List<Integer> cluster, int start, int end) {
+            this(cities, centroid, cluster, start, end, 1);
+        }
+
+        public FirstParallelFor(List<City> cities, List<Point> centroid, List<Integer> cluster, int start, int end, int cutoff) {
             this.cities = cities;
             this.centroid = centroid;
             this.cluster = cluster;
             this.start = start;
             this.end = end;
+            this.cutoff = cutoff;
         }
             private int getMinCentroid(List<Point> centroid, Point min) {
             int minDistance = centroid.get(0).getDistance(min);
@@ -85,9 +91,11 @@ public class ParallelClustering {
             return pos;
         }
         protected Void compute() {
-            if (start == end) {
-                int l = getMinCentroid(centroid, cities.get(start));
-                cluster.set(start, l);
+            if (end-start<cutoff) {
+                for(int i=start;i<end;i++){
+                    int l = getMinCentroid(centroid, cities.get(i));
+                    cluster.set(i, l);
+                }
             }
             else {
                 int middle = (start + end) / 2;
@@ -107,26 +115,32 @@ public class ParallelClustering {
         private final int end; // indice finale
         private List<City> cities;
         private List<Point> centroid;
-
+        private final int cutoff;
         SecondParallelFor(List<Integer> cluster, int start, int end, List<City> cities, List<Point> centroid) {
+            this(cluster, start, end, cities, centroid, 1);
+        }
+        SecondParallelFor(List<Integer> cluster, int start, int end, List<City> cities, List<Point> centroid, int cutoff) {
             this.cluster = cluster;
             this.start = start;
             this.end = end;
             this.cities = cities;
             this.centroid = centroid;
+            this.cutoff = cutoff;
         }
 
         public Void compute(){
-            if (start == end) {
-                ParallelReduceCluster task = new ParallelReduceCluster(cluster, 0, cluster.size() - 1, start, cities);
+            if (end-start<cutoff) {
+                for(int i=start;i<end;i++){
+                ParallelReduceCluster task = new ParallelReduceCluster(cluster, 0, cluster.size() - 1, i, cities, cutoff);
                 Pair<Pair<Double, Double>, Integer> res = task.compute();
                 double sum_lat = res.getKey().getKey();
                 double sum_lon = res.getKey().getValue();
                 int size = res.getValue();
                 if (size == 0)
-                    centroid.set(start, new Point(0, 0));
+                    centroid.set(i, new Point(0, 0));
                 else
-                    centroid.set(start, new Point(sum_lat / size, sum_lon / size));
+                    centroid.set(i, new Point(sum_lat / size, sum_lon / size));
+                }
             }
             else {
                 int middle = (start + end) / 2;
@@ -140,7 +154,7 @@ public class ParallelClustering {
         }
     }
 
-    public List<Integer> parallelKMeansClustering(List<City> cities, int clustNumber, int iterations) {
+    public List<Integer> parallelKMeansClustering(List<City> cities, int clustNumber, int iterations, int cutoff) {
         ForkJoinPool commonPool = new ForkJoinPool(Runtime.getRuntime().availableProcessors());
 
         // centroids[h] associa al cluster C_h il suo centroide
@@ -154,12 +168,12 @@ public class ParallelClustering {
         for (int i = 0; i < iterations; i++) {
 
             //First parallel for
-            FirstParallelFor firstTask = new FirstParallelFor(cities, centroid, cluster, 0,cities.size()-1);
+            FirstParallelFor firstTask = new FirstParallelFor(cities, centroid, cluster, 0,cities.size()-1, cutoff);
             //firstTask.compute();
             commonPool.invoke(firstTask); //execute and join first parallel for
 
             //Second parallel for
-            SecondParallelFor secondTask = new SecondParallelFor(cluster, 0, centroid.size()-1, cities, centroid);
+            SecondParallelFor secondTask = new SecondParallelFor(cluster, 0, centroid.size()-1, cities, centroid, cutoff);
             commonPool.invoke(secondTask); //execute and join second parallel for
 
         }
