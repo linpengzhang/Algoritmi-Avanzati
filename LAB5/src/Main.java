@@ -1,8 +1,8 @@
-import java.awt.Color;
 import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
+import java.util.Set;
 import java.util.stream.Collectors;
 
 import javafx.util.Pair;
@@ -10,6 +10,8 @@ import javafx.util.Pair;
 public class Main {
     public static void main(String[] args) {
         final int number_of_iter = 5;
+        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("1"/*, "2", "3", "4"*/));
+
         System.out.println("Script start");
         System.out.println("Parsing file...");
         List<City> cities = CityParser.parseFile("./inputFiles/cities-and-towns-of-usa.csv");
@@ -21,8 +23,6 @@ public class Main {
         List<City> cities_50000 = cities.stream().filter(c -> c.getPopulation() > 50000).collect(Collectors.toList());
         List<City> cities_100000 = cities.stream().filter(c -> c.getPopulation() > 100000).collect(Collectors.toList());
 
-
-        //test(A, B, cities_15000);
         List<Pair<Integer, List<City>>> cities_list = new ArrayList<>();
         cities_list.add(new Pair<>(250, cities_250));
         cities_list.add(new Pair<>(2000, cities_2000));
@@ -32,118 +32,103 @@ public class Main {
         cities_list.add(new Pair<>(100000, cities_100000));
         cities_list.add(new Pair<>(38183, cities));
 
+        System.out.println("Exercises to run:" + exercises_to_run.toString());
+
         List<Pair<Integer, Pair<Long, Long>>> values = new ArrayList<>();
-        for (Pair<Integer, List<City>> couple: cities_list){
-            long inizio = System.currentTimeMillis();
-            List<List<City>> A = SerialClustering.kMeansClustering(couple.getValue(), 50, number_of_iter);
-            long fine = System.currentTimeMillis();
-            long seriale = fine - inizio;
-            inizio = System.currentTimeMillis();
-            List<Integer> B = new ParallelClustering().parallelKMeansClustering(couple.getValue(), 50, number_of_iter, 1);
-            fine = System.currentTimeMillis();
-            long parallelo = fine - inizio;
-            Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
-            Pair<Integer, Pair<Long, Long>> punto = new Pair<>(couple.getKey(), tempi);
-            values.add(punto);
-        }
-        Plot plot = Plot.plot(null)
-                            .series("Seriale", Plot.data()
-                            .xy(values.get(0).getKey(), values.get(0).getValue().getKey())
-                            .xy(values.get(1).getKey(), values.get(1).getValue().getKey())
-                            .xy(values.get(2).getKey(), values.get(2).getValue().getKey())
-                            .xy(values.get(3).getKey(), values.get(3).getValue().getKey())
-                            .xy(values.get(4).getKey(), values.get(4).getValue().getKey())
-                            .xy(values.get(5).getKey(), values.get(5).getValue().getKey())
-                            .xy(values.get(6).getKey(), values.get(6).getValue().getKey())
-                            , Plot.seriesOpts().marker(Plot.Marker.DIAMOND).markerColor(Color.BLACK).color(Color.BLUE));
-        plot = plot
-                            .series("Parallelo", Plot.data()
-                            .xy(values.get(0).getKey(), values.get(0).getValue().getValue())
-                            .xy(values.get(1).getKey(), values.get(1).getValue().getValue())
-                            .xy(values.get(2).getKey(), values.get(2).getValue().getValue())
-                            .xy(values.get(3).getKey(), values.get(3).getValue().getValue())
-                            .xy(values.get(4).getKey(), values.get(4).getValue().getValue())
-                            .xy(values.get(5).getKey(), values.get(5).getValue().getValue())
-                            .xy(values.get(6).getKey(), values.get(6).getValue().getValue())
-                            , Plot.seriesOpts().marker(Plot.Marker.DIAMOND).markerColor(Color.GREEN).color(Color.RED));
-        try {
-            plot.save("es1", "png");
-        } catch (Exception e) {
-            System.out.println(e);
+        if (exercises_to_run.contains("1")) {
+            System.out.println("Running exercise: 1");
+            for (Pair<Integer, List<City>> couple : cities_list) {
+                long inizio = System.currentTimeMillis();
+                SerialClustering.kMeansClustering(couple.getValue(), 50, number_of_iter);
+                long fine = System.currentTimeMillis();
+                long seriale = fine - inizio;
+                inizio = System.currentTimeMillis();
+                new ParallelClustering().parallelKMeansClustering(couple.getValue(), 50, number_of_iter, 1);
+                fine = System.currentTimeMillis();
+                long parallelo = fine - inizio;
+                Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
+                Pair<Integer, Pair<Long, Long>> punto = new Pair<>(couple.getKey(), tempi);
+                values.add(punto);
+            }
+            //Plot
+            PlotManager p1 = new PlotManager("Domanda 1 - Numero di punti variabile", "es1");
+            p1.drawSeries("Seriale", values, true);
+            p1.drawSeries("Parallelo", values, false);
+            p1.saveToFile();
+        } else {
+            System.out.println("Skipping exercise 1...");
         }
 
         //ES 2
-        values = new ArrayList<>();
-        for(int i=10;i<100;i++){
-            long inizio = System.currentTimeMillis();
-            List<List<City>> A = SerialClustering.kMeansClustering(cities, i, number_of_iter);
-            long fine = System.currentTimeMillis();
-            long seriale = fine - inizio;
-            inizio = System.currentTimeMillis();
-            List<Integer> B = new ParallelClustering().parallelKMeansClustering(cities, i, number_of_iter, 1);
-            fine = System.currentTimeMillis();
-            long parallelo = fine - inizio;
-            Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
-            Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
-            values.add(punto);
+        if (exercises_to_run.contains("2")) {
+            System.out.println("Running exercise: 2");
+            values = new ArrayList<>();
+            for (int i = 10; i < 100; i++) {
+                long inizio = System.currentTimeMillis();
+                SerialClustering.kMeansClustering(cities, i, number_of_iter);
+                long fine = System.currentTimeMillis();
+                long seriale = fine - inizio;
+                inizio = System.currentTimeMillis();
+                new ParallelClustering().parallelKMeansClustering(cities, i, number_of_iter, 1);
+                fine = System.currentTimeMillis();
+                long parallelo = fine - inizio;
+                Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
+                Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
+                values.add(punto);
+            }
+            //Plot
+            PlotManager p2 = new PlotManager("Domanda 2 - Numero di cluster variabile", "es2");
+            p2.drawSeries("Seriale", values, true);
+            p2.drawSeries("Parallelo", values, false);
+            p2.saveToFile();
+        } else {
+            System.out.println("Skipping exercise 2...");
         }
 
         //ES 3
-        values = new ArrayList<>();
-        for(int i=10;i<1000;i++){
-            long inizio = System.currentTimeMillis();
-            List<List<City>> A = SerialClustering.kMeansClustering(cities, 50 , i);
-            long fine = System.currentTimeMillis();
-            long seriale = fine - inizio;
-            inizio = System.currentTimeMillis();
-            List<Integer> B = new ParallelClustering().parallelKMeansClustering(cities, 50, i, 1);
-            fine = System.currentTimeMillis();
-            long parallelo = fine - inizio;
-            Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
-            Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
-            values.add(punto);
+        if (exercises_to_run.contains("3")) {
+            System.out.println("Running exercise: 3");
+            values = new ArrayList<>();
+            for (int i = 10; i < 1000; i++) {
+                long inizio = System.currentTimeMillis();
+                SerialClustering.kMeansClustering(cities, 50, i);
+                long fine = System.currentTimeMillis();
+                long seriale = fine - inizio;
+                inizio = System.currentTimeMillis();
+                new ParallelClustering().parallelKMeansClustering(cities, 50, i, 1);
+                fine = System.currentTimeMillis();
+                long parallelo = fine - inizio;
+                Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
+                Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
+                values.add(punto);
+            }
+            //Plot
+            PlotManager p3 = new PlotManager("Domanda 3 - Numero di iterazioni variabile", "es3");
+            p3.drawSeries("Seriale", values, true);
+            p3.drawSeries("Parallelo", values, false);
+            p3.saveToFile();
+        } else {
+            System.out.println("Skipping exercise 3...");
         }
+
         //ES 4
-        List<Pair<Integer, Long>> values_es_four = new ArrayList<>();
-        for(int i=1;i<100;i++){
-            long inizio = System.currentTimeMillis();
-            List<Integer> B = new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, i);
-            long fine = System.currentTimeMillis();
-            Pair<Integer, Long> punto = new Pair<>(i, fine - inizio);
-            values_es_four.add(punto);
+        if (exercises_to_run.contains("4")) {
+            System.out.println("Running exercise: 4");
+            List<Pair<Integer, Long>> values_es_four = new ArrayList<>();
+            for (int i = 1; i < 100; i++) {
+                long inizio = System.currentTimeMillis();
+                new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, i);
+                long fine = System.currentTimeMillis();
+                Pair<Integer, Long> punto = new Pair<>(i, fine - inizio);
+                values_es_four.add(punto);
+            }
+            //Plot
+            PlotManager p4 = new PlotManager("Domanda 4 - Valore di Cutoff variabile", "es4");
+            p4.drawSeries("Parallelo", values_es_four);
+            p4.saveToFile();
+        } else {
+            System.out.println("Skipping exercise 4...");
         }
-        /*
-        //grafico
-        Plot plotp = Plot.plot(null);
-        Plot actual = plotp.series("lol", Plot.data().xy(3, 4).xy(5,9), Plot.seriesOpts().color(Color.red));
-        plotp.series("lol2", Plot.data().xy(5, 4).xy(6,9), Plot.seriesOpts().color(Color.blue));
-
-                
-        try {
-            plotp.save("sample_minimal", "png");
-        } catch (Exception e) {
-            System.out.println(e);
-        }    
-        */
-    }
-
-    private static void test(List<List<City>> clustering_1, List<Integer> clustering_2, List<City> cities){
-        int clustNumber = clustering_1.size();
-        List<List<City>> n_clustering_2 = new ArrayList<>();
-        for (int j = 0; j < clustNumber; j++) {
-            n_clustering_2.add(j, new ArrayList<City>());
-        }
-        for (int i = 0; i < clustering_2.size(); i++) {
-            n_clustering_2.get(clustering_2.get(i)).add(cities.get(i));
-        }
-
-        for (int j = 0; j < clustNumber; j++) {
-            int s1 = clustering_1.get(j).size();
-            int s2 = n_clustering_2.get(j).size();
-            if(s1 != s2)
-                System.out.println("W: Cluster " + j + ": " + s1 + " - " + s2);
-            else
-                System.out.println("Cluster " + j + ": " + s1);
-        }
+        System.out.println("Script end");
     }
 }
