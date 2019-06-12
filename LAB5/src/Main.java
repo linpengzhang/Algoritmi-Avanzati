@@ -24,13 +24,13 @@ public class Main {
         List<City> cities_100000 = cities.stream().filter(c -> c.getPopulation() > 100000).collect(Collectors.toList());
 
         List<Pair<Integer, List<City>>> cities_list = new ArrayList<>();
-        cities_list.add(new Pair<>(250, cities_250));
-        cities_list.add(new Pair<>(2000, cities_2000));
-        cities_list.add(new Pair<>(5000, cities_5000));
-        cities_list.add(new Pair<>(15000, cities_15000));
-        cities_list.add(new Pair<>(50000, cities_50000));
-        cities_list.add(new Pair<>(100000, cities_100000));
-        cities_list.add(new Pair<>(38183, cities));
+        cities_list.add(new Pair<>(cities_250.size(), cities_250));
+        cities_list.add(new Pair<>(cities_2000.size(), cities_2000));
+        cities_list.add(new Pair<>(cities_5000.size(), cities_5000));
+        cities_list.add(new Pair<>(cities_15000.size(), cities_15000));
+        cities_list.add(new Pair<>(cities_50000.size(), cities_50000));
+        cities_list.add(new Pair<>(cities_100000.size(), cities_100000));
+        cities_list.add(new Pair<>(cities.size(), cities));
 
         System.out.println("Exercises to run:" + exercises_to_run.toString());
 
@@ -115,7 +115,7 @@ public class Main {
         if (exercises_to_run.contains("4")) {
             System.out.println("Running exercise: 4");
             List<Pair<Integer, Long>> values_es_four = new ArrayList<>();
-            for (int i = 1; i < 100; i++) {
+            for (int i = 1; i < cities.size(); i++) {
                 long inizio = System.currentTimeMillis();
                 new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, i);
                 long fine = System.currentTimeMillis();

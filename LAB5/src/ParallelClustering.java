@@ -94,7 +94,7 @@ public class ParallelClustering {
 
         protected Void compute() {
             if (end - start < cutoff) {
-                for (int i = start; i < end; i++) {
+                for (int i = start; i <= end; i++) {
                     int l = getMinCentroid(centroid, cities.get(i));
                     cluster.set(i, l);
                 }
@@ -133,7 +133,7 @@ public class ParallelClustering {
 
         public Void compute() {
             if (end - start < cutoff) {
-                for (int i = start; i < end; i++) {
+                for (int i = start; i <= end; i++) {
                     ParallelReduceCluster task = new ParallelReduceCluster(cluster, 0, cluster.size() - 1, i, cities, cutoff);
                     Pair<Pair<Double, Double>, Integer> res = task.compute();
                     double sum_lat = res.getKey().getKey();
