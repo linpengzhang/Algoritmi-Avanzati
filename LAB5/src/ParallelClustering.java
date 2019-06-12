@@ -15,21 +15,33 @@ public class ParallelClustering {
         private final int end; // indice finale
         private final int h;
         private List<City> cities;
+        private final int cutoff;
 
         ParallelReduceCluster(List<Integer> cluster, int start, int end, int h, List<City> cities) {
+            this(cluster, start, end, h, cities, 1);
+        }
+        ParallelReduceCluster(List<Integer> cluster, int start, int end, int h, List<City> cities, int cutoff) {
             this.cluster = cluster;
             this.start = start;
             this.end = end;
             this.h = h;
             this.cities = cities;
+            this.cutoff = cutoff;
         }
 
         protected Pair<Pair<Double, Double>, Integer> compute() {
-            if (start == end) {
-                if (cluster.get(start) == h)
-                    return new Pair<>(new Pair<>(cities.get(start).getLatitude(), cities.get(start).getLongitude()), 1);
-                else
-                    return new Pair<>(new Pair<>(0d, 0d), 0);
+            if (end - start < cutoff){
+                double sommaLat = 0d;
+                double sommaLon = 0d;
+                int size = 0;
+                for (int i=start;i<end;i++){
+                    if (cluster.get(start) == h){
+                        sommaLat += cities.get(i).getLatitude();
+                        sommaLon += cities.get(i).getLongitude();
+                        size++;
+                    }
+                }
+                return new Pair<>(new Pair<>(sommaLat, sommaLon), size);
             }
             else {
                 int mid = (start + end) / 2;

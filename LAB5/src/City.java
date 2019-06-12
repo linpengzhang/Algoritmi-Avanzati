@@ -1,11 +1,10 @@
 
-
 public class City extends Point {
     private int id;
     private String name;
     private int population;
 
-    public City(int id, String name, int pop, float lat, float lon) {
+    public City(int id, String name, int pop, double lat, double lon) {
         super(lat, lon);
         this.id = id;
         this.name = name;
