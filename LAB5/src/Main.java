@@ -24,12 +24,12 @@ public class Main {
         List<City> cities_100000 = cities.stream().filter(c -> c.getPopulation() > 100000).collect(Collectors.toList());
 
         List<Pair<Integer, List<City>>> cities_list = new ArrayList<>();
-        cities_list.add(new Pair<>(cities_250.size(), cities_250));
-        cities_list.add(new Pair<>(cities_2000.size(), cities_2000));
-        cities_list.add(new Pair<>(cities_5000.size(), cities_5000));
-        cities_list.add(new Pair<>(cities_15000.size(), cities_15000));
-        cities_list.add(new Pair<>(cities_50000.size(), cities_50000));
         cities_list.add(new Pair<>(cities_100000.size(), cities_100000));
+        cities_list.add(new Pair<>(cities_50000.size(), cities_50000));
+        cities_list.add(new Pair<>(cities_15000.size(), cities_15000));
+        cities_list.add(new Pair<>(cities_5000.size(), cities_5000));
+        cities_list.add(new Pair<>(cities_2000.size(), cities_2000));
+        cities_list.add(new Pair<>(cities_250.size(), cities_250));
         cities_list.add(new Pair<>(cities.size(), cities));
 
         System.out.println("Exercises to run:" + exercises_to_run.toString());
@@ -116,6 +116,7 @@ public class Main {
             System.out.println("Running exercise: 4");
             List<Pair<Integer, Long>> values_es_four = new ArrayList<>();
             for (int i = 1; i < cities.size(); i++) {
+                //da valutare se cities.size() richiede troppo tempo, come immagino che sia
                 long inizio = System.currentTimeMillis();
                 new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, i);
                 long fine = System.currentTimeMillis();
