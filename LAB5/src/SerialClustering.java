@@ -19,8 +19,8 @@ public class SerialClustering {
     }
 
     private static Point getCenter(List<City> cities) {
-        if (cities.size() == 0)
-            return new Point(0,0);
+        if (cities.isEmpty())
+            return new Point(0, 0);
         else {
             double sumLatitude = 0;
             double sumLongitude = 0;
