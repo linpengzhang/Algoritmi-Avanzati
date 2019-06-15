@@ -10,7 +10,7 @@ import javafx.util.Pair;
 public class Main {
     public static void main(String[] args) {
         final int number_of_iter = 100;
-        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("4"));
+        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("1"));
 
         System.out.println("Script start");
         System.out.println("Parsing file...");
@@ -37,11 +37,11 @@ public class Main {
 
         List<Pair<Integer, Pair<Long, Long>>> values = new ArrayList<>();
         if (exercises_to_run.contains("1")) {
-            int i = 0;
+            int i = 1;
             final int citiesSize = cities_list.size();
             System.out.println("Running exercise: 1");
             for (Pair<Integer, List<City>> couple : cities_list) {
-                System.out.println("Es 1 - Iteration:" + i + "/" + citiesSize + "(cities:" + couple.getKey() + ")");
+                System.out.println("Es 1 - Iteration:" + i + "/" + citiesSize + " (cities:" + couple.getKey() + ")");
                 i++;
 
                 long inizio = System.currentTimeMillis();
@@ -57,7 +57,8 @@ public class Main {
                 values.add(punto);
             }
             //Plot
-            PlotManager p1 = new PlotManager("Domanda 1 - Numero di punti variabile", "es1");
+            PlotManager p1 = new PlotManager("Domanda 1 - Numero di punti variabile", "es1",
+                    "Numero di punti", "Tempo di calcolo");
             p1.drawSeries("Seriale", values, true);
             p1.drawSeries("Parallelo", values, false);
             p1.saveToFile();
@@ -85,7 +86,8 @@ public class Main {
                 values.add(punto);
             }
             //Plot
-            PlotManager p2 = new PlotManager("Domanda 2 - Numero di cluster variabile", "es2");
+            PlotManager p2 = new PlotManager("Domanda 2 - Numero di cluster variabile", "es2",
+                    "Numero di cluster", "Tempo di calcolo");
             p2.drawSeries("Seriale", values, true);
             p2.drawSeries("Parallelo", values, false);
             p2.saveToFile();
@@ -107,7 +109,8 @@ public class Main {
                 values.add(punto);
             }
             //Plot
-            PlotManager p3 = new PlotManager("Domanda 3 - Numero di iterazioni variabile", "es3");
+            PlotManager p3 = new PlotManager("Domanda 3 - Numero di iterazioni variabile", "es3",
+                    "Numero di iterazioni", "Tempo di calcolo");
             p3.drawSeries("Seriale", values, true);
             p3.drawSeries("Parallelo", values, false);
             p3.saveToFile();
@@ -120,7 +123,7 @@ public class Main {
             System.out.println("Running exercise: 4");
             List<Pair<Integer, Long>> values_es_four = new ArrayList<>();
             final int citiesSize = cities.size();
-            for (int i = 1; i < citiesSize; i = i + 500) {
+            for (int i = 1; i < citiesSize; i = i + 50) {
                 System.out.println("Es 4 - Iteration:" + i + "/" + citiesSize);
                 long inizio = System.currentTimeMillis();
                 new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, i);
@@ -129,7 +132,8 @@ public class Main {
                 values_es_four.add(punto);
             }
             //Plot
-            PlotManager p4 = new PlotManager("Domanda 4 - Valore di Cutoff variabile", "es4");
+            PlotManager p4 = new PlotManager("Domanda 4 - Valore di Cutoff variabile", "es4",
+                    "Valore di cutoff", "Tempo di calcolo");
             p4.drawSeries("Parallelo", values_es_four);
             p4.saveToFile();
         } else {
