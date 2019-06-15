@@ -3,6 +3,8 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import javafx.util.Pair;
+
 public class SerialClustering {
 
     private static int getMinCentroid(List<Point> centroid, Point min) {
@@ -55,5 +57,32 @@ public class SerialClustering {
             }
         }
         return clusters;
+    }
+    public static Pair<List<List<City>>, List<Long>> kMeansClusteringWithTime(List<City> cities, int clustNumber, int iterations) {
+        List<Long> time = new ArrayList<>();
+        // inizializza i primi k centroidi come le k contee più popolose
+        time.add(System.currentTimeMillis());
+        List<Point> centroid = cities.stream()
+                .sorted(Comparator.comparing(City::getPopulation).reversed())
+                .limit(clustNumber).collect(Collectors.toList());
+        List<List<City>> clusters = new ArrayList<>(clustNumber);
+        for (int i = 0; i < iterations; i++) {
+            // crea k cluster vuoti
+            clusters = new ArrayList<>(clustNumber);
+            for (int j = 0; j < clustNumber; j++) {
+                clusters.add(j, new ArrayList<City>());
+            }
+            // Assegna ciascuna contea al cluster relativo al centroide più vicino
+            for (City city : cities) {
+                int minCentroid = getMinCentroid(centroid, city);
+                clusters.get(minCentroid).add(city);
+            }
+            // Aggiorna i nuovi centroidi in base ai cluster ottenuti
+            for (int j = 0; j < clusters.size(); j++) {
+                centroid.set(j, getCenter(clusters.get(j)));
+            }
+            time.add(System.currentTimeMillis());
+        }
+        return new Pair<>(clusters, time);
     }
 }

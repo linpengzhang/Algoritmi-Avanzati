@@ -15,19 +15,22 @@ public class PlotManager {
     public PlotManager(String draw_title, String filename) {
         this(draw_title, filename, "X", "Y");
     }
-
     public PlotManager(String draw_title, String filename, String xAxisTitle, String yAxisTitle) {
+        this(draw_title, filename, xAxisTitle, yAxisTitle, 1000, 800);
+    }
+
+    public PlotManager(String draw_title, String filename, String xAxisTitle, String yAxisTitle, int width, int height) {
         this.filename = filename;
 
         // Create Plot
-        plot = new XYChartBuilder().width(600).height(500)
+        plot = new XYChartBuilder().width(width).height(height)
                 .title(draw_title)
                 .xAxisTitle(xAxisTitle)
                 .yAxisTitle(yAxisTitle)
                 .build();
 
         //Set legend position
-        plot.getStyler().setLegendPosition(Styler.LegendPosition.InsideNE);
+        plot.getStyler().setLegendPosition(Styler.LegendPosition.OutsideS);
     }
 
     public void drawSeries(String name, List<Pair<Integer, Pair<Long, Long>>> values, boolean yIsKey) {

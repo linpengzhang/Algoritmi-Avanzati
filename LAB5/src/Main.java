@@ -9,8 +9,8 @@ import javafx.util.Pair;
 
 public class Main {
     public static void main(String[] args) {
-        final int number_of_iter = 5;
-        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("1"/*, "2", "3", "4"*/));
+        final int number_of_iter = 100;
+        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("3", "4"));
 
         System.out.println("Script start");
         System.out.println("Parsing file...");
@@ -89,16 +89,10 @@ public class Main {
         if (exercises_to_run.contains("3")) {
             System.out.println("Running exercise: 3");
             values = new ArrayList<>();
-            for (int i = 10; i < 1000; i++) {
-                long inizio = System.currentTimeMillis();
-                SerialClustering.kMeansClustering(cities, 50, i);
-                long fine = System.currentTimeMillis();
-                long seriale = fine - inizio;
-                inizio = System.currentTimeMillis();
-                new ParallelClustering().parallelKMeansClustering(cities, 50, i, 1);
-                fine = System.currentTimeMillis();
-                long parallelo = fine - inizio;
-                Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
+            List<Long> serialTime = SerialClustering.kMeansClusteringWithTime(cities, 50, 1000).getValue();
+            List<Long> parallelTime = new ParallelClustering().parallelKMeansClusteringWithTime(cities, 50, 1000, 1).getValue();
+            for(int i=10;i<=1000;i++){
+                Pair<Long, Long> tempi = new Pair<>(serialTime.get(i)-serialTime.get(0), parallelTime.get(i)-parallelTime.get(0));
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
                 values.add(punto);
             }
@@ -115,8 +109,7 @@ public class Main {
         if (exercises_to_run.contains("4")) {
             System.out.println("Running exercise: 4");
             List<Pair<Integer, Long>> values_es_four = new ArrayList<>();
-            for (int i = 1; i < cities.size(); i++) {
-                //da valutare se cities.size() richiede troppo tempo, come immagino che sia
+            for (int i = 1; i < cities.size(); i=i+500) {
                 long inizio = System.currentTimeMillis();
                 new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, i);
                 long fine = System.currentTimeMillis();

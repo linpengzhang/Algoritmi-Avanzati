@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-import java.util.concurrent.*;
-import java.util.stream.Collectors;
+import java.util.concurrent.*;import java.util.stream.Collectors;
 
 public class ParallelClustering {
 
@@ -45,9 +44,9 @@ public class ParallelClustering {
                 return new Pair<>(new Pair<>(sommaLat, sommaLon), size);
             } else {
                 int mid = (start + end) / 2;
-                ParallelReduceCluster p1 = new ParallelReduceCluster(cluster, start, mid, h, cities);
+                ParallelReduceCluster p1 = new ParallelReduceCluster(cluster, start, mid, h, cities, cutoff);
                 p1.fork();
-                ParallelReduceCluster p2 = new ParallelReduceCluster(cluster, mid + 1, end, h, cities);
+                ParallelReduceCluster p2 = new ParallelReduceCluster(cluster, mid + 1, end, h, cities, cutoff);
                 Pair<Pair<Double, Double>, Integer> res2 = p2.compute();
                 Pair<Pair<Double, Double>, Integer> res1 = p1.join();
                 double sum_lat = res1.getKey().getKey() + res2.getKey().getKey();
@@ -100,9 +99,9 @@ public class ParallelClustering {
                 }
             } else {
                 int middle = (start + end) / 2;
-                FirstParallelFor p1 = new FirstParallelFor(cities, centroid, cluster, start, middle);
+                FirstParallelFor p1 = new FirstParallelFor(cities, centroid, cluster, start, middle, cutoff);
                 p1.fork();
-                FirstParallelFor p2 = new FirstParallelFor(cities, centroid, cluster, middle + 1, end);
+                FirstParallelFor p2 = new FirstParallelFor(cities, centroid, cluster, middle + 1, end, cutoff);
                 p2.compute();
                 p1.join();
             }
@@ -146,9 +145,9 @@ public class ParallelClustering {
                 }
             } else {
                 int middle = (start + end) / 2;
-                SecondParallelFor p1 = new SecondParallelFor(cluster, start, middle, cities, centroid);
+                SecondParallelFor p1 = new SecondParallelFor(cluster, start, middle, cities, centroid, cutoff);
                 p1.fork();
-                SecondParallelFor p2 = new SecondParallelFor(cluster, middle + 1, end, cities, centroid);
+                SecondParallelFor p2 = new SecondParallelFor(cluster, middle + 1, end, cities, centroid, cutoff);
                 p2.compute();
                 p1.join();
             }
@@ -179,5 +178,31 @@ public class ParallelClustering {
 
         }
         return cluster;
+    }
+    public Pair<List<Integer>,List<Long>> parallelKMeansClusteringWithTime(List<City> cities, int clustNumber, int iterations, int cutoff) {
+        List<Long> time = new ArrayList<>();
+        time.add(System.currentTimeMillis());
+        ForkJoinPool commonPool = new ForkJoinPool(Runtime.getRuntime().availableProcessors());
+
+        // centroids[h] associa al cluster C_h il suo centroide
+        // (i centroidi iniziali sono le 'clustNumber' contee più popolose)
+        List<Point> centroid = cities.stream()
+                .sorted(Comparator.comparing(City::getPopulation).reversed())
+                .limit(clustNumber).collect(Collectors.toList());
+        // cluster[j] associa city[j] all'indice l del cluster C_l a cui appartiene
+        List<Integer> cluster = new ArrayList<>(Collections.nCopies(cities.size(), 0));
+
+        for (int i = 0; i < iterations; i++) {
+
+            //First parallel for
+            FirstParallelFor firstTask = new FirstParallelFor(cities, centroid, cluster, 0, cities.size() - 1, cutoff);
+            commonPool.invoke(firstTask); //execute and join first parallel for
+
+            //Second parallel for
+            SecondParallelFor secondTask = new SecondParallelFor(cluster, 0, centroid.size() - 1, cities, centroid, cutoff);
+            commonPool.invoke(secondTask); //execute and join second parallel for
+            time.add(System.currentTimeMillis());
+        }
+        return new Pair<>(cluster, time);
     }
 }
