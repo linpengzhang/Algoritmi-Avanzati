@@ -71,7 +71,7 @@ public class Main {
             System.out.println("Running exercise: 2");
             values = new ArrayList<>();
             final int iterations = 100;
-            for (int i = 10; i < iterations; i++) {
+            for (int i = 10; i <= iterations; i++) {
                 System.out.println("Es 2 - Iteration:" + i + "/" + iterations);
                 long inizio = System.currentTimeMillis();
                 SerialClustering.kMeansClustering(cities, i, number_of_iter);
@@ -123,7 +123,7 @@ public class Main {
             System.out.println("Running exercise: 4");
             List<Pair<Integer, Long>> values_es_four = new ArrayList<>();
             final int citiesSize = cities.size();
-            for (int i = 1; i < citiesSize; i = i + 50) {
+            for (int i = 1; i <= citiesSize; i = i + 50) {
                 System.out.println("Es 4 - Iteration:" + i + "/" + citiesSize);
                 long inizio = System.currentTimeMillis();
                 new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, i);
