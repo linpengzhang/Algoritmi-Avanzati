@@ -10,7 +10,7 @@ import javafx.util.Pair;
 public class Main {
     public static void main(String[] args) {
         final int number_of_iter = 100;
-        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("3", "4"));
+        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("4"));
 
         System.out.println("Script start");
         System.out.println("Parsing file...");
@@ -33,11 +33,17 @@ public class Main {
         cities_list.add(new Pair<>(cities.size(), cities));
 
         System.out.println("Exercises to run:" + exercises_to_run.toString());
+        System.out.println("----------------");
 
         List<Pair<Integer, Pair<Long, Long>>> values = new ArrayList<>();
         if (exercises_to_run.contains("1")) {
+            int i = 0;
+            final int citiesSize = cities_list.size();
             System.out.println("Running exercise: 1");
             for (Pair<Integer, List<City>> couple : cities_list) {
+                System.out.println("Es 1 - Iteration:" + i + "/" + citiesSize + "(cities:" + couple.getKey() + ")");
+                i++;
+
                 long inizio = System.currentTimeMillis();
                 SerialClustering.kMeansClustering(couple.getValue(), 50, number_of_iter);
                 long fine = System.currentTimeMillis();
@@ -63,7 +69,9 @@ public class Main {
         if (exercises_to_run.contains("2")) {
             System.out.println("Running exercise: 2");
             values = new ArrayList<>();
-            for (int i = 10; i < 100; i++) {
+            final int iterations = 100;
+            for (int i = 10; i < iterations; i++) {
+                System.out.println("Es 2 - Iteration:" + i + "/" + iterations);
                 long inizio = System.currentTimeMillis();
                 SerialClustering.kMeansClustering(cities, i, number_of_iter);
                 long fine = System.currentTimeMillis();
@@ -88,11 +96,13 @@ public class Main {
         //ES 3
         if (exercises_to_run.contains("3")) {
             System.out.println("Running exercise: 3");
+            System.out.println("Es 3 - Computing times...");
             values = new ArrayList<>();
             List<Long> serialTime = SerialClustering.kMeansClusteringWithTime(cities, 50, 1000).getValue();
             List<Long> parallelTime = new ParallelClustering().parallelKMeansClusteringWithTime(cities, 50, 1000, 1).getValue();
-            for(int i=10;i<=1000;i++){
-                Pair<Long, Long> tempi = new Pair<>(serialTime.get(i)-serialTime.get(0), parallelTime.get(i)-parallelTime.get(0));
+            System.out.println("Es 3 - Preparing the graph...");
+            for (int i = 10; i <= 1000; i++) {
+                Pair<Long, Long> tempi = new Pair<>(serialTime.get(i) - serialTime.get(0), parallelTime.get(i) - parallelTime.get(0));
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
                 values.add(punto);
             }
@@ -109,7 +119,9 @@ public class Main {
         if (exercises_to_run.contains("4")) {
             System.out.println("Running exercise: 4");
             List<Pair<Integer, Long>> values_es_four = new ArrayList<>();
-            for (int i = 1; i < cities.size(); i=i+500) {
+            final int citiesSize = cities.size();
+            for (int i = 1; i < citiesSize; i = i + 500) {
+                System.out.println("Es 4 - Iteration:" + i + "/" + citiesSize);
                 long inizio = System.currentTimeMillis();
                 new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, i);
                 long fine = System.currentTimeMillis();

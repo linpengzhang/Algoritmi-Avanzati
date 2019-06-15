@@ -1,4 +1,3 @@
-
 public class City extends Point {
     private int id;
     private String name;

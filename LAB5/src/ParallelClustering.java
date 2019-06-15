@@ -1,10 +1,11 @@
 import javafx.util.Pair;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-import java.util.concurrent.*;import java.util.stream.Collectors;
+import java.util.concurrent.ForkJoinPool;
+import java.util.concurrent.RecursiveTask;
+import java.util.stream.Collectors;
 
 public class ParallelClustering {
 
@@ -179,7 +180,8 @@ public class ParallelClustering {
         }
         return cluster;
     }
-    public Pair<List<Integer>,List<Long>> parallelKMeansClusteringWithTime(List<City> cities, int clustNumber, int iterations, int cutoff) {
+
+    public Pair<List<Integer>, List<Long>> parallelKMeansClusteringWithTime(List<City> cities, int clustNumber, int iterations, int cutoff) {
         List<Long> time = new ArrayList<>();
         time.add(System.currentTimeMillis());
         ForkJoinPool commonPool = new ForkJoinPool(Runtime.getRuntime().availableProcessors());

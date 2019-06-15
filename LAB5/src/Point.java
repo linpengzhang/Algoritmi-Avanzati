@@ -38,6 +38,6 @@ public class Point {
         double q2 = Math.cos(thisLat - otherLat);
         double q3 = Math.cos(thisLat + otherLat);
 
-        return (int)(6378.388 * Math.acos(0.5 * ((1.0 + q1) * q2 - (1.0 - q1) * q3)) + 1.0);
+        return (int) (6378.388 * Math.acos(0.5 * ((1.0 + q1) * q2 - (1.0 - q1) * q3)) + 1.0);
     }
 }

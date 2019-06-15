@@ -19,6 +19,10 @@ public class PlotManager {
         this(draw_title, filename, xAxisTitle, yAxisTitle, 1000, 800);
     }
 
+    public PlotManager(String draw_title, String filename, int width, int height) {
+        this(draw_title, filename, "X", "Y", width, height);
+    }
+
     public PlotManager(String draw_title, String filename, String xAxisTitle, String yAxisTitle, int width, int height) {
         this.filename = filename;
 
