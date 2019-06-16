@@ -99,7 +99,7 @@ public class Main {
             p2.drawSeries("Seriale", values, true);
             p2.drawSeries("Parallelo", values, false);
             p2.saveToFile();
-            new PlotManager("Domanda 1 - Speedup", "es1_speed",
+            new PlotManager("Domanda 2 - Speedup", "es2_speed",
             "Numero di cluster", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
 
         } else {
@@ -132,7 +132,7 @@ public class Main {
             p3.drawSeries("Seriale", values, true);
             p3.drawSeries("Parallelo", values, false);
             p3.saveToFile();
-            new PlotManager("Domanda 1 - Speedup", "es1_speed",
+            new PlotManager("Domanda 3 - Speedup", "es3_speed",
             "Numero di iterazioni", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
 
         } else {
