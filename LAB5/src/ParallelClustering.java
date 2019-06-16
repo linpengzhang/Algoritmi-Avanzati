@@ -183,7 +183,7 @@ public class ParallelClustering {
 
     public Pair<List<Integer>, List<Long>> parallelKMeansClusteringWithTime(List<City> cities, int clustNumber, int iterations, int cutoff) {
         List<Long> time = new ArrayList<>();
-        time.add(System.currentTimeMillis());
+        time.add(System.nanoTime());
         ForkJoinPool commonPool = new ForkJoinPool(Runtime.getRuntime().availableProcessors());
 
         // centroids[h] associa al cluster C_h il suo centroide
@@ -203,7 +203,7 @@ public class ParallelClustering {
             //Second parallel for
             SecondParallelFor secondTask = new SecondParallelFor(cluster, 0, centroid.size() - 1, cities, centroid, cutoff);
             commonPool.invoke(secondTask); //execute and join second parallel for
-            time.add(System.currentTimeMillis());
+            time.add(System.nanoTime());
         }
         return new Pair<>(cluster, time);
     }
