@@ -1,3 +1,8 @@
 Linpeng Zhang 1162114
 Michele Roverato 1143030
 Martino Echerle 1206691
+
+Macchina utilizzata:
+Considerati i lunghi tempi di esecuzione, abbiamo fatto girare il programma su un server Azure ottenuto con il programma studenti.
+Il server ha 4 CPU "Intel(R) Xeon(R) E5-2673 v4 @ 2.30GHz", e la JVM poteva quindi utilizzare 4 thread in contemporanea.
+Il server inoltre ha 16Gb di ram.

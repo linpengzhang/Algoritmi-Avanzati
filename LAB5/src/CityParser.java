@@ -18,8 +18,8 @@ public class CityParser {
                         Integer.parseInt(parts[0]),
                         parts[1],
                         Integer.parseInt(parts[2]),
-                        Float.parseFloat(parts[3]),
-                        Float.parseFloat(parts[4])
+                        Double.parseDouble(parts[3]),
+                        Double.parseDouble(parts[4])
                 ));
             }
         } catch (IOException e) {
