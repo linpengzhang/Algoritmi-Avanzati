@@ -56,7 +56,7 @@ public class Main {
                 Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(couple.getKey(), tempi);
                 values.add(punto);
-                speedup.add(new Pair<>(i, (double) tempi.getKey()/ (double) tempi.getValue()));
+                speedup.add(new Pair<>(couple.getKey(), (double) tempi.getKey()/ (double) tempi.getValue()));
             }
 
             //Plot
@@ -100,7 +100,7 @@ public class Main {
             p2.drawSeries("Parallelo", values, false);
             p2.saveToFile();
             new PlotManager("Domanda 1 - Speedup", "es1_speed",
-            "Numero di punti", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
+            "Numero di cluster", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
 
         } else {
             System.out.println("Skipping exercise 2...");
@@ -133,7 +133,7 @@ public class Main {
             p3.drawSeries("Parallelo", values, false);
             p3.saveToFile();
             new PlotManager("Domanda 1 - Speedup", "es1_speed",
-            "Numero di punti", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
+            "Numero di iterazioni", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
 
         } else {
             System.out.println("Skipping exercise 3...");
