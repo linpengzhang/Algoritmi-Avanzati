@@ -116,7 +116,7 @@ public class Main {
             }
             //Plot
             PlotManager p3 = new PlotManager("Domanda 3 - Numero di iterazioni variabile", "es3",
-                    "Numero di iterazioni", "Tempo di calcolo");
+                    "Numero di iterazioni", "Tempo di calcolo (ms)");
             p3.drawSeries("Seriale", values, true);
             p3.drawSeries("Parallelo", values, false);
             p3.saveToFile();
