@@ -10,7 +10,7 @@ import javafx.util.Pair;
 public class Main {
     public static void main(String[] args) {
         final int number_of_iter = 100;
-        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("1"));
+        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("4"));
 
         System.out.println("Script start");
         System.out.println("Parsing file...");
@@ -32,6 +32,7 @@ public class Main {
         cities_list.add(new Pair<>(cities_250.size(), cities_250));
         cities_list.add(new Pair<>(cities.size(), cities));
 
+        System.out.println("JVM available threads: " + Runtime.getRuntime().availableProcessors());
         System.out.println("Exercises to run:" + exercises_to_run.toString());
         System.out.println("----------------");
 
@@ -100,7 +101,9 @@ public class Main {
             System.out.println("Running exercise: 3");
             System.out.println("Es 3 - Computing times...");
             values = new ArrayList<>();
+            System.out.println("Es 3 - Running serial clustering...");
             List<Long> serialTime = SerialClustering.kMeansClusteringWithTime(cities, 50, 1000).getValue();
+            System.out.println("Es 3 - Running parallel clustering...");
             List<Long> parallelTime = new ParallelClustering().parallelKMeansClusteringWithTime(cities, 50, 1000, 1).getValue();
             System.out.println("Es 3 - Preparing the graph...");
             for (int i = 10; i <= 1000; i++) {
