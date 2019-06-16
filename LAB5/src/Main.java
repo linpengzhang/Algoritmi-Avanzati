@@ -119,7 +119,7 @@ public class Main {
             for (int i = 10; i <= 1000; i++) {
                 Pair<Long, Long> tempi = new Pair<>(
                         (serialTime.get(i) - serialTime.get(0)) / 1000000,
-                        (parallelTime.get(i) - parallelTime.get(0) / 1000000)
+                        (parallelTime.get(i) - parallelTime.get(0)) / 1000000
                 );
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
                 values.add(punto);
