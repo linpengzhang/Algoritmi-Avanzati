@@ -37,7 +37,7 @@ public class PlotManager {
         plot.getStyler().setLegendPosition(Styler.LegendPosition.OutsideS);
     }
 
-    public void drawSeries(String name, List<Pair<Integer, Pair<Long, Long>>> values, boolean yIsKey) {
+    public PlotManager drawSeries(String name, List<Pair<Integer, Pair<Long, Long>>> values, boolean yIsKey) {
         List<Integer> xPoints = new ArrayList<>(values.size());
         List<Long> yPoints = new ArrayList<>(values.size());
         for (Pair<Integer, Pair<Long, Long>> element : values) {
@@ -50,9 +50,20 @@ public class PlotManager {
         }
 
         plot.addSeries(name, xPoints, yPoints);
+        return this;
+    }
+    public PlotManager drawSeriesD(String name, List<Pair<Integer, Double>> values) {
+        List<Integer> xPoints = new ArrayList<>(values.size());
+        List<Double> yPoints = new ArrayList<>(values.size());
+        for (Pair<Integer, Double> element : values) {
+            xPoints.add(element.getKey());
+            yPoints.add(element.getValue());
+        }
+        plot.addSeries(name, xPoints, yPoints);
+        return this;
     }
 
-    public void drawSeries(String name, List<Pair<Integer, Long>> values) {
+    public PlotManager drawSeries(String name, List<Pair<Integer, Long>> values) {
         List<Integer> xPoints = new ArrayList<>(values.size());
         List<Long> yPoints = new ArrayList<>(values.size());
         for (Pair<Integer, Long> element : values) {
@@ -60,6 +71,7 @@ public class PlotManager {
             yPoints.add(element.getValue());
         }
         plot.addSeries(name, xPoints, yPoints);
+        return this;
     }
 
     public void saveToFile() {

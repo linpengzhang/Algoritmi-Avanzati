@@ -10,7 +10,7 @@ import javafx.util.Pair;
 public class Main {
     public static void main(String[] args) {
         final int number_of_iter = 100;
-        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("4"));
+        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("1"));
 
         System.out.println("Script start");
         System.out.println("Parsing file...");
@@ -37,6 +37,7 @@ public class Main {
         System.out.println("----------------");
 
         List<Pair<Integer, Pair<Long, Long>>> values = new ArrayList<>();
+        List<Pair<Integer, Double>> speedup = new ArrayList<>();
         if (exercises_to_run.contains("1")) {
             int i = 1;
             final int citiesSize = cities_list.size();
@@ -44,7 +45,6 @@ public class Main {
             for (Pair<Integer, List<City>> couple : cities_list) {
                 System.out.println("Es 1 - Iteration:" + i + "/" + citiesSize + " (cities:" + couple.getKey() + ")");
                 i++;
-
                 long inizio = System.nanoTime();
                 SerialClustering.kMeansClustering(couple.getValue(), 50, number_of_iter);
                 long fine = System.nanoTime();
@@ -56,13 +56,17 @@ public class Main {
                 Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(couple.getKey(), tempi);
                 values.add(punto);
+                speedup.add(new Pair<>(i, (double) tempi.getKey()/ (double) tempi.getValue()));
             }
+
             //Plot
             PlotManager p1 = new PlotManager("Domanda 1 - Numero di punti variabile", "es1",
                     "Numero di punti", "Tempo di calcolo (ms)");
             p1.drawSeries("Seriale", values, true);
             p1.drawSeries("Parallelo", values, false);
             p1.saveToFile();
+            new PlotManager("Domanda 1 - Speedup", "es1_speed",
+                    "Numero di punti", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
         } else {
             System.out.println("Skipping exercise 1...");
         }
@@ -71,6 +75,7 @@ public class Main {
         if (exercises_to_run.contains("2")) {
             System.out.println("Running exercise: 2");
             values = new ArrayList<>();
+            speedup = new ArrayList<>();
             final int iterations = 100;
             for (int i = 10; i <= iterations; i++) {
                 System.out.println("Es 2 - Iteration:" + i + "/" + iterations);
@@ -84,7 +89,9 @@ public class Main {
                 long parallelo = (fine - inizio) / 1000000;
                 Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
+                Pair<Integer, Pair<Long, Long>> speed = new Pair<>(i, tempi);
                 values.add(punto);
+                speedup.add(new Pair<>(i, (double) tempi.getKey()/ (double) tempi.getValue()));
             }
             //Plot
             PlotManager p2 = new PlotManager("Domanda 2 - Numero di cluster variabile", "es2",
@@ -92,6 +99,9 @@ public class Main {
             p2.drawSeries("Seriale", values, true);
             p2.drawSeries("Parallelo", values, false);
             p2.saveToFile();
+            new PlotManager("Domanda 1 - Speedup", "es1_speed",
+            "Numero di punti", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
+
         } else {
             System.out.println("Skipping exercise 2...");
         }
@@ -101,6 +111,7 @@ public class Main {
             System.out.println("Running exercise: 3");
             System.out.println("Es 3 - Computing times...");
             values = new ArrayList<>();
+            speedup = new ArrayList<>();
             System.out.println("Es 3 - Running serial clustering...");
             List<Long> serialTime = SerialClustering.kMeansClusteringWithTime(cities, 50, 1000).getValue();
             System.out.println("Es 3 - Running parallel clustering...");
@@ -113,6 +124,7 @@ public class Main {
                 );
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
                 values.add(punto);
+                speedup.add(new Pair<>(i, (double) tempi.getKey()/ (double) tempi.getValue()));
             }
             //Plot
             PlotManager p3 = new PlotManager("Domanda 3 - Numero di iterazioni variabile", "es3",
@@ -120,6 +132,9 @@ public class Main {
             p3.drawSeries("Seriale", values, true);
             p3.drawSeries("Parallelo", values, false);
             p3.saveToFile();
+            new PlotManager("Domanda 1 - Speedup", "es1_speed",
+            "Numero di punti", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
+
         } else {
             System.out.println("Skipping exercise 3...");
         }
