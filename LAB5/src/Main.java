@@ -10,7 +10,7 @@ import javafx.util.Pair;
 public class Main {
     public static void main(String[] args) {
         final int number_of_iter = 100;
-        Set<String> exercises_to_run = new HashSet<>(Arrays.asList("1"));
+        final Set<String> exercises_to_run = new HashSet<>(Arrays.asList("1", "2", "3", "4"));
 
         System.out.println("Script start");
         System.out.println("Parsing file...");
@@ -56,7 +56,7 @@ public class Main {
                 Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(couple.getKey(), tempi);
                 values.add(punto);
-                speedup.add(new Pair<>(couple.getKey(), (double) tempi.getKey()/ (double) tempi.getValue()));
+                speedup.add(new Pair<>(couple.getKey(), (double) tempi.getKey() / (double) tempi.getValue()));
             }
 
             //Plot
@@ -89,9 +89,8 @@ public class Main {
                 long parallelo = (fine - inizio) / 1000000;
                 Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
-                Pair<Integer, Pair<Long, Long>> speed = new Pair<>(i, tempi);
                 values.add(punto);
-                speedup.add(new Pair<>(i, (double) tempi.getKey()/ (double) tempi.getValue()));
+                speedup.add(new Pair<>(i, (double) tempi.getKey() / (double) tempi.getValue()));
             }
             //Plot
             PlotManager p2 = new PlotManager("Domanda 2 - Numero di cluster variabile", "es2",
@@ -100,7 +99,7 @@ public class Main {
             p2.drawSeries("Parallelo", values, false);
             p2.saveToFile();
             new PlotManager("Domanda 2 - Speedup", "es2_speed",
-            "Numero di cluster", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
+                    "Numero di cluster", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
 
         } else {
             System.out.println("Skipping exercise 2...");
@@ -124,7 +123,7 @@ public class Main {
                 );
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
                 values.add(punto);
-                speedup.add(new Pair<>(i, (double) tempi.getKey()/ (double) tempi.getValue()));
+                speedup.add(new Pair<>(i, (double) tempi.getKey() / (double) tempi.getValue()));
             }
             //Plot
             PlotManager p3 = new PlotManager("Domanda 3 - Numero di iterazioni variabile", "es3",
@@ -133,7 +132,7 @@ public class Main {
             p3.drawSeries("Parallelo", values, false);
             p3.saveToFile();
             new PlotManager("Domanda 3 - Speedup", "es3_speed",
-            "Numero di iterazioni", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
+                    "Numero di iterazioni", "Speedup").drawSeriesD("Speedup", speedup).saveToFile();
 
         } else {
             System.out.println("Skipping exercise 3...");
@@ -144,7 +143,7 @@ public class Main {
             System.out.println("Running exercise: 4");
             List<Pair<Integer, Long>> values_es_four = new ArrayList<>();
             final int citiesSize = cities.size();
-            for (int i = 1; i <= citiesSize; i = i + 100) {
+            for (int i = 1; i <= citiesSize; i += 100) {
                 System.out.println("Es 4 - Iteration:" + i + "/" + citiesSize);
                 long inizio = System.nanoTime();
                 new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, i);
