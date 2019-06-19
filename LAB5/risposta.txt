@@ -1,20 +1,20 @@
-Linpeng Zhang 1162114
+﻿Linpeng Zhang 1162114
 Michele Roverato 1143030
 Martino Echerle 1206691
 
 
-
 Domanda 1.
-Lo speedup è inferiore a 1 (quindi la versione seriale è più veloce di quella parallela) nel dataset con meno punti. In tutti i casi lo speedup è intorno a 2. La motivazione è che nel primo dataset si hanno pochi punti e un parallelismo non sufficientemente alto rispetto al numero di processori (ovvero la slackness non è abbastanza alta). Negli altri dataset si ha una slackness abbastanza elevata da consentire speedup è lineare quasi perfetto.
+Nel dataset con meno punti lo speedup è inferiore a 1 (quindi la versione seriale è più veloce di quella parallela). Negli altri casi lo speedup è intorno a 2. La motivazione è che nel primo dataset si hanno pochi punti e quindi un parallelismo non sufficientemente alto rispetto al numero di processori (ovvero la slackness non è abbastanza alta). Negli altri dataset si ha un maggiore parallelismo e quindi una slackness abbastanza elevata da consentire uno speedup lineare.
 
 Domanda 2
-Lo speedup è di circa 2 per ogni dataset. La motivazione è che il numero di cluster resta sempre trascurabile rispetto al numero di punti. Il parallelismo ha quindi andamento O(n/logn), e poiché il numero di punti è elevato, anche la slackness è abbastanza elevata da consentire speedup lineare quasi perfetto.
+Lo speedup è di circa 2 per ogni dataset. La motivazione è che il numero di cluster resta sempre trascurabile rispetto al numero di punti. Il parallelismo ha quindi andamento O(n/logn), e poiché il numero di punti è elevato, anche la slackness è abbastanza elevata da consentire uno speedup lineare.
 
 Domanda 3
-Lo speedup è di circa 2 per ogni dataset. Infatti il parallelismo non dipende dal numero di iterazioni, e poiché il numero di punti è elevato, anche la slackness è abbastanza elevata da consentire speedup lineare quasi perfetto.
+Lo speedup è di circa 2 per ogni dataset. Infatti il parallelismo non dipende dal numero di iterazioni, e poiché il numero di punti è elevato, anche la slackness è abbastanza elevata da consentire speedup lineare.
 
 Domanda 4
-Il cutoff ideale si ha per valori tra 100 e la metà della dimensione del dataset. Questo perché, per questi valori, vengono creati almeno 4 thread quando si utilizza un algoritmo parallelo con approccio divide et impera, sfruttando tutti i core della CPU. Inoltre per valori troppo bassi l'overhead della creazione dei thread risulta non trascurabile.
+Il cutoff ideale si ha per valori tra 100 e la metà della dimensione del dataset. Questo perché, per questi valori, vengono creati almeno 4 thread quando si utilizza un algoritmo parallelo con approccio divide et impera, sfruttando tutti i core della CPU. Per valori più alti, invece, viene creato un numero di thread inferiore ai processori disponibili. Inoltre per valori troppo bassi l'overhead della creazione dei thread risulta non trascurabile, questo in particolare è molto evidente nel caso di cutoff pari a 1.
+Più in generale, se P è il numero di processori disponibili (P>1) e N la dimensione del dataset, conviene utilizzare valori di cutoff strettamente inferiori a (N/2^(log(P)-1)) per generare un numero di thread maggiore o uguale al numero di processori disponibili, ma non troppo bassi per evitare un overhead elevato.
 
 Domanda 5
 Macchina utilizzata:
