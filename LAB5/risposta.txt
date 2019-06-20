@@ -13,8 +13,9 @@ Domanda 3
 Lo speedup è di circa 2 per ogni dataset. Infatti il parallelismo non dipende dal numero di iterazioni, e poiché il numero di punti è elevato, anche la slackness è abbastanza elevata da consentire speedup lineare.
 
 Domanda 4
-Il cutoff ideale si ha per valori tra 100 e la metà della dimensione del dataset. Questo perché, per questi valori, vengono creati almeno 4 thread quando si utilizza un algoritmo parallelo con approccio divide et impera, sfruttando tutti i core della CPU. Per valori più alti, invece, viene creato un numero di thread inferiore ai processori disponibili. Inoltre per valori troppo bassi l'overhead della creazione dei thread risulta non trascurabile, questo in particolare è molto evidente nel caso di cutoff pari a 1.
+Il cutoff ideale si ha per valori strettamente maggiori di 1 e minori della metà della dimensione del dataset. Questo perché, per questi valori, vengono creati almeno 4 thread utilizzando un algoritmo parallelo con approccio divide et impera, sfruttando quindi tutti i core della CPU. Per valori più alti, invece, viene creato un numero di thread inferiore ai processori disponibili. Più precisamente vengono creati due thread che lavorano ciascuno su metà dell'input per valori di cutoff fino alla dimensione totale meno uno, e un solo thread se il cutoff è pari alla dimensione totale (ovvero non si sfrutta in questo caso il parallelismo). Inoltre per valori troppo bassi l'overhead della creazione dei thread risulta non trascurabile, questo in particolare è molto evidente nel caso di cutoff pari a 1.
 Più in generale, se P è il numero di processori disponibili (P>1) e N la dimensione del dataset, conviene utilizzare valori di cutoff strettamente inferiori a (N/2^(log(P)-1)) per generare un numero di thread maggiore o uguale al numero di processori disponibili, ma non troppo bassi per evitare un overhead elevato.
+Si può notare inoltre che confrontando i tempi d'esecuzione con valore di cutoff ideale e cutoff pari alla dimensione totale (la sua versione seriale) si ottiene uno speedup di circa 3.7 che si può considerare uno speedup lineare quasi perfetto.
 
 Domanda 5
 Macchina utilizzata:
