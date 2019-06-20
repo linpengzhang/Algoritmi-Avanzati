@@ -2,7 +2,6 @@
 Michele Roverato 1143030
 Martino Echerle 1206691
 
-
 Domanda 1.
 Nel dataset con meno punti lo speedup è inferiore a 1 (quindi la versione seriale è più veloce di quella parallela). Negli altri casi lo speedup è intorno a 2. La motivazione è che nel primo dataset si hanno pochi punti e quindi un parallelismo non sufficientemente alto rispetto al numero di processori (ovvero la slackness non è abbastanza alta). Negli altri dataset si ha un maggiore parallelismo e quindi una slackness abbastanza elevata da consentire uno speedup lineare.
 
@@ -22,3 +21,7 @@ Macchina utilizzata:
 Considerati i lunghi tempi di esecuzione, abbiamo fatto girare il programma su un server Azure ottenuto con il programma studenti.
 Il server ha 4 CPU "Intel(R) Xeon(R) E5-2673 v4 @ 2.30GHz", e la JVM poteva quindi utilizzare 4 thread in contemporanea.
 Il server inoltre ha 16Gb di ram.
+
+Note:
+- per implementare i for paralleli è stato utilizzato l'approccio divide et impera visto a lezione;
+- lo speedup nei primi esercizi e con dataset grandi è di circa 2, nonostante i 4 core disponibili: questo è causato dall'overhead della creazione dei thread e dal cutoff basso. Si noti che utilizzando cutoff più elevati si può arrivare ad uno speedup lineare quasi perfetto (si veda ad esempio l'esercizio 4).
