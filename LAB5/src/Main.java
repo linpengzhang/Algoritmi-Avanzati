@@ -10,11 +10,12 @@ import javafx.util.Pair;
 public class Main {
     public static void main(String[] args) {
         final int number_of_iter = 100;
-        final Set<String> exercises_to_run = new HashSet<>(Arrays.asList("1", "2", "3", "4"));
+        final Set<String> exercises_to_run = new HashSet<>(Arrays.asList("4"));
 
         System.out.println("Script start");
         System.out.println("Parsing file...");
         List<City> cities = CityParser.parseFile("./inputFiles/cities-and-towns-of-usa.csv");
+        System.out.println("Cities:" + cities.size());
         System.out.println("Creating population arrays...");
         List<City> cities_250 = cities.stream().filter(c -> c.getPopulation() > 250).collect(Collectors.toList());
         List<City> cities_2000 = cities.stream().filter(c -> c.getPopulation() > 2000).collect(Collectors.toList());
@@ -48,11 +49,11 @@ public class Main {
                 long inizio = System.nanoTime();
                 SerialClustering.kMeansClustering(couple.getValue(), 50, number_of_iter);
                 long fine = System.nanoTime();
-                long seriale = (fine - inizio) / 1000000;
+                final long seriale = (fine - inizio) / 1000000;
                 inizio = System.nanoTime();
                 new ParallelClustering().parallelKMeansClustering(couple.getValue(), 50, number_of_iter, 1);
                 fine = System.nanoTime();
-                long parallelo = (fine - inizio) / 1000000;
+                final long parallelo = (fine - inizio) / 1000000;
                 Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(couple.getKey(), tempi);
                 values.add(punto);
@@ -82,11 +83,11 @@ public class Main {
                 long inizio = System.nanoTime();
                 SerialClustering.kMeansClustering(cities, i, number_of_iter);
                 long fine = System.nanoTime();
-                long seriale = (fine - inizio) / 1000000;
+                final long seriale = (fine - inizio) / 1000000;
                 inizio = System.nanoTime();
                 new ParallelClustering().parallelKMeansClustering(cities, i, number_of_iter, 1);
                 fine = System.nanoTime();
-                long parallelo = (fine - inizio) / 1000000;
+                final long parallelo = (fine - inizio) / 1000000;
                 Pair<Long, Long> tempi = new Pair<>(seriale, parallelo);
                 Pair<Integer, Pair<Long, Long>> punto = new Pair<>(i, tempi);
                 values.add(punto);
@@ -143,17 +144,30 @@ public class Main {
             System.out.println("Running exercise: 4");
             List<Pair<Integer, Long>> values_es_four = new ArrayList<>();
             final int citiesSize = cities.size();
-            for (int i = 1; i <= citiesSize; i += 100) {
-                System.out.println("Es 4 - Iteration:" + i + "/" + citiesSize);
-                long inizio = System.nanoTime();
+            int step = 10; //Step used in the for
+            final int small_step_limit = 101; //When change the step
+            final int big_step = 100; //Step used when changing until end
+            for (int i = 1; i <= citiesSize; i += step) {
+                System.out.println("Es 4 - Iteration:" + i + "/" + citiesSize + " - Step:" + step);
+                final long inizio = System.nanoTime();
                 new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, i);
-                long fine = System.nanoTime();
+                final long fine = System.nanoTime();
                 Pair<Integer, Long> punto = new Pair<>(i, (fine - inizio) / 1000000);
                 values_es_four.add(punto);
+                // When reach the limit change the step
+                if (step != big_step && i >= small_step_limit) {
+                    step = big_step;
+                }
             }
+            System.out.println("Es 4 - Running step using cities.size()...");
+            final long inizio = System.nanoTime();
+            new ParallelClustering().parallelKMeansClustering(cities, 50, number_of_iter, citiesSize);
+            final long fine = System.nanoTime();
+            Pair<Integer, Long> punto = new Pair<>(citiesSize, (fine - inizio) / 1000000);
+            values_es_four.add(punto);
             //Plot
             PlotManager p4 = new PlotManager("Domanda 4 - Valore di Cutoff variabile", "es4",
-                    "Valore di cutoff", "Tempo di calcolo (ms)", 1500, 800);
+                    "Valore di cutoff", "Tempo di calcolo (ms)", 2500, 800);
             p4.drawSeries("Parallelo", values_es_four);
             p4.saveToFile();
         } else {
