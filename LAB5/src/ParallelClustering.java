@@ -11,10 +11,10 @@ public class ParallelClustering {
 
     private class ParallelReduceCluster extends RecursiveTask<Pair<Pair<Double, Double>, Integer>> {
         private List<Integer> cluster; // contiene per ciascun punto l'indice del cluster a cui appartiene
-        private final int start; // indice iniziale
-        private final int end; // indice finale
-        private final int h;
-        private List<City> cities;
+        private final int start; // indice iniziale della porzione di 'cluster' da considerare
+        private final int end; // indice finale inclusivo della porzione di 'cluster' da considerare
+        private final int h; // indice del cluster di interesse
+        private List<City> cities; // lista delle contee
         private final int cutoff;
 
         ParallelReduceCluster(List<Integer> cluster, int start, int end, int h, List<City> cities) {
@@ -59,11 +59,11 @@ public class ParallelClustering {
     }
 
     private class FirstParallelFor extends RecursiveTask<Void> {
-        private List<City> cities;
-        private List<Point> centroid;
-        private List<Integer> cluster;
-        private final int start; // indice iniziale
-        private final int end; // indice finale
+        private List<City> cities; // lista delle contee
+        private List<Point> centroid; // lista dei centroidi di ciascun cluster
+        private List<Integer> cluster; // contiene per ciascun punto l'indice del cluster a cui appartiene
+        private final int start; // indice iniziale della porzione di 'cities' da considerare
+        private final int end; // indice finale inclusivo della porzione di 'cities' da considerare
         private final int cutoff;
 
         public FirstParallelFor(List<City> cities, List<Point> centroid, List<Integer> cluster, int start, int end) {
@@ -111,11 +111,11 @@ public class ParallelClustering {
     }
 
     private class SecondParallelFor extends RecursiveTask<Void> {
-        private List<Integer> cluster;
-        private final int start; // indice iniziale
-        private final int end; // indice finale
-        private List<City> cities;
-        private List<Point> centroid;
+        private List<Integer> cluster; // contiene per ciascun punto l'indice del cluster a cui appartiene
+        private final int start; // indice iniziale della porzione di indici dei cluster da considerare
+        private final int end; // indice finale inclusivo della porzione di indici dei cluster da considerare
+        private List<City> cities; // lista delle contee
+        private List<Point> centroid; // lista dei centroidi di ciascun cluster
         private final int cutoff;
 
         SecondParallelFor(List<Integer> cluster, int start, int end, List<City> cities, List<Point> centroid) {
