@@ -15,6 +15,7 @@ public class PlotManager {
     public PlotManager(String draw_title, String filename) {
         this(draw_title, filename, "X", "Y");
     }
+
     public PlotManager(String draw_title, String filename, String xAxisTitle, String yAxisTitle) {
         this(draw_title, filename, xAxisTitle, yAxisTitle, 1000, 800);
     }
@@ -52,6 +53,7 @@ public class PlotManager {
         plot.addSeries(name, xPoints, yPoints);
         return this;
     }
+
     public PlotManager drawSeriesD(String name, List<Pair<Integer, Double>> values) {
         List<Integer> xPoints = new ArrayList<>(values.size());
         List<Double> yPoints = new ArrayList<>(values.size());

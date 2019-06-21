@@ -10,7 +10,7 @@ import javafx.util.Pair;
 public class Main {
     public static void main(String[] args) {
         final int number_of_iter = 100;
-        final Set<String> exercises_to_run = new HashSet<>(Arrays.asList("4"));
+        final Set<String> exercises_to_run = new HashSet<>(Arrays.asList("1", "2", "3", "4"));
 
         System.out.println("Script start");
         System.out.println("Parsing file...");

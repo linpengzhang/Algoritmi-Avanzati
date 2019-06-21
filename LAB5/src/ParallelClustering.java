@@ -203,6 +203,7 @@ public class ParallelClustering {
             //Second parallel for
             SecondParallelFor secondTask = new SecondParallelFor(cluster, 0, centroid.size() - 1, cities, centroid, cutoff);
             commonPool.invoke(secondTask); //execute and join second parallel for
+
             time.add(System.nanoTime());
         }
         return new Pair<>(cluster, time);

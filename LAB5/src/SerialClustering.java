@@ -57,10 +57,11 @@ public class SerialClustering {
         }
         return clusters;
     }
+
     public static Pair<List<List<City>>, List<Long>> kMeansClusteringWithTime(List<City> cities, int clustNumber, int iterations) {
         List<Long> time = new ArrayList<>();
-        // inizializza i primi k centroidi come le k contee più popolose
         time.add(System.nanoTime());
+        // inizializza i primi k centroidi come le k contee più popolose
         List<Point> centroid = cities.stream()
                 .sorted(Comparator.comparing(City::getPopulation).reversed())
                 .limit(clustNumber).collect(Collectors.toList());
